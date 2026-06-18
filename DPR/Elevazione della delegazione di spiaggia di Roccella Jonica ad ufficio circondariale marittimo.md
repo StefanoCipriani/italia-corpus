@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 16 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto l'[articolo 16 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
-Visti gli articoli 1 e 2 del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica del 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
+Visti gli articoli 1 e 2 del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica del 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
 
 Vista la tabella delle circoscrizioni territoriali marittime del Ministero dei trasporti e della navigazione, approvata con [decreto del Presidente della Repubblica 9 agosto 1956, n. 1250](Approvazione%20della%20nuova%20tabella%20delle%20circoscrizioni%20territoriali%20della%20marina%20mercantile.md), modificato da ultimo con i [decreti del Presidente della Repubblica 27 marzo 1992, n. 328](Regolamento%20recante%20modificazioni%20alle%20circoscrizioni%20territoriali%20della%20Marina%20mercantile%20nonche%20elevazione%20di%20alcuni%20uffici%20marittimi%20minori%20ad%20uffici%20circondariali%20marittimi.md), e [5 ottobre 1994, n. 699](Regolamento%20recante%20modificazioni%20di%20talune%20circoscrizioni%20territoriali%20marittime.md);
 
@@ -49,12 +49,12 @@ Emana il seguente regolamento:
  Presiede il Consiglio superiore della magistratura.
  Puo' concedere grazia e commutare le pene.
  Conferisce le onorificenze della Repubblica".
- - Si riporta il testo dell'[art. 16 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) approvato con [R.D. 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
+ - Si riporta il testo dell'[art. 16 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) approvato con [R.D. 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
  "Art. 16 (Circoscrizioni del litorale della Repubblica). - Il litorale della Repubblica e' diviso in zone marittime; le zone sono suddivise in compartimenti e questi in circondari.
  Alla zona e' preposto un direttore marittimo, al compartimento un capo del compartimento, al circondario un capo del circondario. Nell'ambito del compartimento in cui ha sede l'ufficio della direzione marittima, il direttore marittimo e' anche capo del compartimento. Nell'ambito del circondario in cui ha sede l'ufficio del compartimento, il capo del compartimento e' anche capo del circondario.
  Negli approdi di maggiore importanza in cui non hanno sede ne' l'ufficio del compartimento ne' l'ufficio del circondario sono istituiti uffici locali di porto o delegazioni di spiaggia dipendenti dall'ufficio circondariale.
  Il capo del compartimento, il capo del circondario e i capi degli altri uffici marittimi dipendenti sono comandanti del porto o dell'approdo in cui hanno sede".
- - Si riporta il testo degli articoli 1 e 2 del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) approvato con [D.P.R.
+ - Si riporta il testo degli articoli 1 e 2 del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) approvato con [D.P.R.
  n. 328/1952](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952;328):
  "Art. 1 (Circoscrizioni). - La determinazione delle circoscrizioni marittime di cui all'art. 16 del codice e della loro estensione territoriale lungo il litorale dello Stato e' fatta con decreto del Presidente della Repubblica.
  Con decreto del Presidente della Repubblica e' altresi' stabilita, agli effetti previsti dal codice e da altre leggi o regolamenti, la ripartizione del territorio interno dello Stato rispetto alle circoscrizioni marittime.

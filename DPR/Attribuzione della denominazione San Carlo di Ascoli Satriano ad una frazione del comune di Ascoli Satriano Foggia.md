@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la deliberazione del commissario prefettizio del comune di Ascoli Satriano (Foggia) in data 9 ottobre 1961, n. 248, con la quale e' stato chiesto che ad una frazione del Comune stesso, sorta per l'opera di miglioramento fondiario attuata dall'Ente riforma, sia attribuita la denominazione "San Carlo di Ascoli Satriano";
  Vista la deliberazione della Commissione straordinaria dell'Amministrazione provinciale di Foggia in data 9 novembre 1961, n. 1559, con la quale e' stato espresso parere favorevole in merito alla denominazione in parola;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto, il [regio decreto-legge 23 aprile 1925, n. 520](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e successive modificazioni;
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
+Visto il [regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
-Visto il [regio decreto 15 agosto 1926, n. 1733](../Regi%20decreti/Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md);
+Visto il [regio decreto 15 agosto 1926, n. 1733](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md);
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto col
 
 ## Art. 1.
 
-Nelle promozioni al grado 6° di gruppo A del personale di 1ª categoria dell'Amministrazione postale e telegrafica che si effettueranno nel periodo di tre anni dalla data di entrata in vigore del presente decreto si prescinde, per i funzionari che alla data del 31 dicembre 1947 abbiano posseduto l'anzianita' voluta per essere scrutinati a tale grado, dal requisito richiesto dall'ultimo comma dell'[art. 9 del regio decreto 15 agosto 1926, n. 1733](../Regi%20decreti/Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md).
+Nelle promozioni al grado 6° di gruppo A del personale di 1ª categoria dell'Amministrazione postale e telegrafica che si effettueranno nel periodo di tre anni dalla data di entrata in vigore del presente decreto si prescinde, per i funzionari che alla data del 31 dicembre 1947 abbiano posseduto l'anzianita' voluta per essere scrutinati a tale grado, dal requisito richiesto dall'ultimo comma dell'[art. 9 del regio decreto 15 agosto 1926, n. 1733](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md).
  I funzionari di grado 7° del gruppo A suddetto che, alla data medesima, non abbiano posseduto l'anzianita', prescritta per essere scrutinati al grado superiore, dopo maturata tale anzianita', saranno considerati, nello scrutinio al grado 6°, come forniti del requisito di cui all'ultimo comma dell'art. 9 citato anche se non abbiano prestato il periodo di servizio ivi indicato, purche' prestino lodevole servizio nell'Amministrazione provinciale, con funzioni del proprio grado o di grado superiore, da data non posteriore a quella del primo scrutinio che sara' effettuato per il grado 6° di gruppo A successivamente alla entrata in vigore del presente decreto.
 
 ## Art. 2.

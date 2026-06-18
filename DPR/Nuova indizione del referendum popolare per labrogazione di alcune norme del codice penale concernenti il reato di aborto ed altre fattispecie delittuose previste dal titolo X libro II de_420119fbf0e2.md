@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Visti gli [articoli 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_75) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
  Vista la [legge 25 maggio 1970, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-25;352), recante norme sui referendum previsti dalla Costituzione e sulla iniziativa legislativa del popolo;
- Visto il proprio decreto 15 aprile 1976, n. 108, con il quale e' stato indetto il referendum popolare per l'abrogazione degli articoli 546, 547, 548, 549, comma secondo, 550, 551, 552, 554 e 555 del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ Visto il proprio decreto 15 aprile 1976, n. 108, con il quale e' stato indetto il referendum popolare per l'abrogazione degli articoli 546, 547, 548, 549, comma secondo, 550, 551, 552, 554 e 555 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
  Visti i propri decreti 1 maggio 1976, n. 163 e 3 maggio 1976, n. 164, relativi allo scioglimento delle Camere ed alla convocazione dei comizi per la elezione del Senato della Repubblica e della Camera dei deputati;
  Considerato che di conseguenza il referendum indetto con il sopracitato decreto 15 aprile 1976, n. 108, e' stato automaticamente sospeso, ai sensi dell'art. 34, secondo comma, della citata [legge 25 maggio 1970, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-25;352);
  Sentito il Consiglio dei Ministri;
@@ -22,7 +22,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Decreta:
 
- E' nuovamente indetto il referendum popolare per l'abrogazione degli articoli 546, 547, 548, 549, comma secondo, 550, 551, 552, 554 e 555 del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ E' nuovamente indetto il referendum popolare per l'abrogazione degli articoli 546, 547, 548, 549, comma secondo, 550, 551, 552, 554 e 555 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  I relativi comizi sono convocati per il giorno di domenica 11 giugno 1978.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

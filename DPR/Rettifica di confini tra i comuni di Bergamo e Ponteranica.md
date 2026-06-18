@@ -16,7 +16,7 @@ Considerato che, nel tratto anzidetto, il confine e' segnato dal tracciato della
 
 Vista la [deliberazione n. 30 del 7 febbraio 1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1963-02-07;30), con la quale il consiglio provinciale di Bergamo ha espresso al riguardo il suo parere favorevole;
 
-Visti gli articoli 32 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 32 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla prima sezione del Consiglio di Stato nell'adunanza del 26 settembre 1969;
 

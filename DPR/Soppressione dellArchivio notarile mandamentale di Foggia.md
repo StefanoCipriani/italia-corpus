@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 29 giugno 1884, n. 2490](../Regi%20decreti/Col%20quale%20e%20istituito%20un%20Archivio%20notarile%20mandamentale%20nel%20comune%20di%20Foggia.%20084U2490.md), con il quale venne istituito l'Archivio notarile mandamentale di Foggia;
+ Visto il [regio decreto 29 giugno 1884, n. 2490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20e%20istituito%20un%20Archivio%20notarile%20mandamentale%20nel%20comune%20di%20Foggia.%20084U2490.md), con il quale venne istituito l'Archivio notarile mandamentale di Foggia;
  Vista la deliberazione del comune di Foggia intesa ad ottenere la soppressione del predetto Archivio notarile mandamentale;
  Considerato che il medesimo, dopo il trasferimento a Foggia della sede dell'Archivio notarile distrettuale, ha cessato di svolgere ogni attivita' e non risponde piu' ad alcuna concreta esigenza della popolazione di quel mandamento;
  Visti i pareri del procuratore della Repubblica presso il Tribunale e del conservatore dell'Archivio notarile distrettuale di Foggia;

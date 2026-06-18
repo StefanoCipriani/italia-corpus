@@ -98,7 +98,7 @@ Sulle piattaforme fisse e sulle piattaforme mobili non semoventi il capo piattaf
 
 ### Art. 9. — Responsabilita' del comandante
 
-Le piattaforme semoventi, durante la navigazione, sono assimilate alle navi e come tali sono sottoposte alle disposizioni del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e del relativo regolamento nonche' alle altre leggi e regolamenti vigenti in materia di navigazione marittima.
+Le piattaforme semoventi, durante la navigazione, sono assimilate alle navi e come tali sono sottoposte alle disposizioni del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e del relativo regolamento nonche' alle altre leggi e regolamenti vigenti in materia di navigazione marittima.
  Il comandante e' responsabile delle operazioni tecnico nautiche della piattaforma e di ogni altra operazione relativa alla navigazione. Egli e' altresi' responsabile per i danni da rischi marittimi ai quali sono esposte la piattaforma e le persone anche durante le operazioni al pozzo con piattaforma ormeggiata.
  Il capo piattaforma e' responsabile, per la parte che gli compete, dell'esecuzione dei lavori di perforazione nonche' dell'osservanza e dell'esatta applicazione a bordo delle norme di sicurezza oggetto della presente legge, in quanto applicabili alle piattaforme
  semoventi, durante le operazioni al pozzo con piattaforma ormeggiata.
@@ -210,7 +210,7 @@ Il titolare di un permesso di ricerca o di una concessione di coltivazione che i
 
 L'ingegnere capo della sezione idrocarburi trasmette, con il proprio avviso, il programma di perforazione all'U.N.M.I, che richiede alle altre amministrazioni civili e militari dello Stato interessate il parere di competenza, le condizioni e le limitazioni che esse ritengono indispensabili per garantire la liberta' e la sicurezza della navigazione, l'esercizio della pesca, la conservazione delle risorse biologiche del mare, l'integrita' degli impianti sottomarini nonche' la tutela della sicurezza militare ed il soddisfacimento di speciali esigenze di natura militare.
  L'U.N.M.I., tenuto conto dei pareri espressi dalle amministrazioni suddette, comunica alla sezione idrocarburi le eventuali condizioni e limitazioni sulla base delle quali, e di quelle eventuali di propria competenza, l'ingegnere capo rilascia l'autorizzazione, dandone comunicazione alle amministrazioni interessate.
- Per l'installazione dell'unita' di perforazione devono essere osservate le disposizioni del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+ Per l'installazione dell'unita' di perforazione devono essere osservate le disposizioni del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 ### Art. 22. — Modificazioni del programma
 
@@ -619,7 +619,7 @@ Le teste di pozzo e gli altri impianti di produzione collocati sul fondo marino,
  I progetti degli impianti predetti nonche' degli stabilimenti a terra ad essi direttamente collegati mediante tubazioni devono essere depositati presso la sezione idrocarburi e presso l'autorita' marittima competenti, almeno tre mesi prima dell'installazione.
  I progetti devono fornire ragguagli particolareggiati, oltre che sulle caratteristiche degli impianti, sulle condizioni dell'ambiente, sulle modalita' di messa in opera, sui programmi di ispezione e di manutenzione previsti nel corso dell'esercizio.
  I progetti sono corredati da dichiarazioni esplicite dei progettisti circa il rispetto dei criteri di cui al primo comma del presente articolo.
- Per l'installazione degli impianti devono essere osservate le disposizioni del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+ Per l'installazione degli impianti devono essere osservate le disposizioni del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
  L'autorizzazione all'esercizio degli impianti e' accordata secondo le prescrizioni di cui al penultimo ed ultimo comma dell'art. 75.
 
 ### Art. 79. — Condotte sottomarine
@@ -628,7 +628,7 @@ Le condotte sottomarine per il trasporto a distanza degli idrocarburi liquidi e 
  I progetti relativi devono essere depositati presso la sezione idrocarburi e presso l'autorita' marittima competente almeno tre mesi prima dell'installazione e devono contenere ragguagli sulle caratteristiche delle tubazioni e dei materiali impiegati, sulle condizioni del fondo marino lungo il tracciato, sulle modalita' di messa in opera, sulle ispezioni e controlli iniziali e su quelli previsti nel corso dell'esercizio.
  Le autorita' competenti, sentito il progettista, possono imporre varianti al tracciato o chiedere l'adozione di particolari accorgimenti, ivi compreso lo spostamento a spese del permissionario o del concessionario degli impianti di telecomunicazioni preesistenti, per prevenire il rischio di danni ad altre opere sottomarine o per evitare indebite interferenze con altre attivita' di preminente interesse pubblico che si svolgono in mare.
  Nelle aree in cui sussistano concreti rischi di danneggiamento da parte di ancore, attrezzi di pesca, ecc., le autorita' competenti possono richiedere l'interramento, parziale o totale, delle tubazioni.
- Per l'installazione delle condotte devono essere osservate le disposizioni del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+ Per l'installazione delle condotte devono essere osservate le disposizioni del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
  L'autorizzazione all'esercizio degli impianti e' accordata secondo le prescrizioni di cui al penultimo ed ultimo comma dell'art. 75.
 
 ### Art. 80. — Protezione delle condotte sottomarine
@@ -680,7 +680,7 @@ TITOLO VI
 ### Art. 84. — Verbali
 
 Gli ingegneri e i periti addetti alle sezioni dell'Ufficio nazionale minerario idrocarburi, quando accertano infrazioni alle norme del presente decreto, provvedono a redigerne il verbale.
- Resta ferma la competenza attribuita in materia di polizia giudiziaria ai comandanti, ufficiali, sottufficiali, sottocapi e comuni dall'[art. 1235 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+ Resta ferma la competenza attribuita in materia di polizia giudiziaria ai comandanti, ufficiali, sottufficiali, sottocapi e comuni dall'[art. 1235 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
  Il verbale deve descrivere i fatti e le relative circostanze, indicare le norme alle quali si e' contravvenuto e riportare le dichiarazioni dell'interessato e le informazioni raccolte. Deve inoltre elencare gli oggetti eventualmente sequestrati.
  Il verbale e' compilato in doppio esemplare e sottoscritto dal funzionario che lo ha redatto e dalle persone intervenute all'atto.
 In caso di rifiuto a sottoscrivere, se ne fa menzione.

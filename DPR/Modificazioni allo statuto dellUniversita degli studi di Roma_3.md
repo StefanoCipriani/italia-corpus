@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](../Regi%20decreti/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Roma.%20039U1350.md), modificato con [regio decreto 26 ottobre 1939, n. 1734](../Regi%20decreti/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Roma.%20039U1734.md) e successivi;
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Roma.%20039U1350.md), modificato con [regio decreto 26 ottobre 1939, n. 1734](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Roma.%20039U1734.md) e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 

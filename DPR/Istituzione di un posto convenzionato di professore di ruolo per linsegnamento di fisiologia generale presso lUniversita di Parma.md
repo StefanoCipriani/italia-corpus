@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
-Visto il [regio decreto 29 luglio 1937, n. 1495](../Regi%20decreti/Attuazione%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto-legge%2020%20giugno%201935%20n.%201071%20nei%20riguardi%20della%20Regia%20universita%20di%20Parma.%20037U1495.md);
+Visto il [regio decreto 29 luglio 1937, n. 1495](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto-legge%2020%20giugno%201935%20n.%201071%20nei%20riguardi%20della%20Regia%20universita%20di%20Parma.%20037U1495.md);
 
 Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro; Decreta:
 

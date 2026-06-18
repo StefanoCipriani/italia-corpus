@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), e successive modificazioni;
+Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Atti%20normativi%20abrogati%20%28in%20originale%29/Bonifica%20dei%20campi%20minati.md), e successive modificazioni;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Art. 1.
 
-Il personale dell'Aeronautica, impiegato in operazioni di bonifica del territorio e delle acque territoriali da mine, proiettili, bombe ed ordigni esplosivi residuati di guerra e nel rastrellamento e sconfezionamento di detto materiale, per acquistare, ai sensi dell'[art. 10 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), e successive modificazioni il diritto ai benefici previsti dalle vigenti disposizioni a favore dei combattenti e reduci di guerra, deve risultare in possesso dei seguenti requisiti:
+Il personale dell'Aeronautica, impiegato in operazioni di bonifica del territorio e delle acque territoriali da mine, proiettili, bombe ed ordigni esplosivi residuati di guerra e nel rastrellamento e sconfezionamento di detto materiale, per acquistare, ai sensi dell'[art. 10 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Atti%20normativi%20abrogati%20%28in%20originale%29/Bonifica%20dei%20campi%20minati.md), e successive modificazioni il diritto ai benefici previsti dalle vigenti disposizioni a favore dei combattenti e reduci di guerra, deve risultare in possesso dei seguenti requisiti:
  a) aver prestato servizi particolarmente rischiosi, intendendosi come tali quelli svolti tenendo il comando delle operazioni di bonifica sui terreni minati e quelli inerenti alle operazioni compiute sui terreni stessi quale ricercatore o aiutante ricercatore, disattivatore di mine, incaricato della raccolta di mine, nonche' i servizi svolti tenendo il comando di reparti addetti alla rimozione e distruzione di mine ovvero al dragaggio delle stesse o quale addetto alla posa ed al brillamento della carica distruttiva, al recupero ed al brillamento od inertizzazione delle bombe inesplose ovvero di altri ordigni esplosivi;
  b) aver prestato tali servizi per un periodo non inferiore a giorni 90, anche se non consecutivi.
  Tale periodo minimo non e' richiesto per coloro che siano rimasti feriti, mutilati o invalidi per cause inerenti all'espletamento dei servizi predetti.

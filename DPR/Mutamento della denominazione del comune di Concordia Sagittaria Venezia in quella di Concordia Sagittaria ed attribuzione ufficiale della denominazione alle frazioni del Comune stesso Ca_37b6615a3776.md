@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Viste le deliberazioni del Consiglio comunale di Concordia Sagitaria (Venezia) in data 8 aprile 1960, numero 242, 25 settembre 1961, n. 98/5, e 27 dicembre 1963, n. 379/3, con le quali e' stato chiesto che la denominazione del Comune stesso sia mutata in quella di "Concordia Sagittaria" e che, inoltre, alle frazioni di quel Comune ora comunemente indicate, rispettivamente, con i nomi di Cavanella, Sindacale, Loncon e Levada siano attribuite ufficialmente tali denominazioni;
  Viste le deliberazioni del Consiglio provinciale di Venezia in data 25 luglio 1960, n. 12186, 21 giugno 1963, n. 10156, e 15 giugno 1964, n. 12130, con le quali e' stato espresso parere in ordine alle richieste in parola;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

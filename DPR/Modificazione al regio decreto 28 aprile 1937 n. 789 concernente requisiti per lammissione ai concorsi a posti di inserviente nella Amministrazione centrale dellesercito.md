@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 28 aprile 1937, n. 789](../Regi%20decreti/Requisiti%20per%20lammissione%20ai%20concorsi%20a%20posti%20di%20inserviente%20nellAmministrazione%20centrale%20della%20guerra.%20037U0789.md), concernente i requisiti per l'ammissione ai concorsi ai posti di inserviente nell'Amministrazione centrale dell'esercito;
+Visto il [regio decreto 28 aprile 1937, n. 789](../Atti%20normativi%20abrogati%20%28in%20originale%29/Requisiti%20per%20lammissione%20ai%20concorsi%20a%20posti%20di%20inserviente%20nellAmministrazione%20centrale%20della%20guerra.%20037U0789.md), concernente i requisiti per l'ammissione ai concorsi ai posti di inserviente nell'Amministrazione centrale dell'esercito;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la difesa, di concerto col Ministro per il tesor
 
 ## Articolo unico.
 
-L'articolo unico del [regio decreto 28 aprile 1937, n. 789](../Regi%20decreti/Requisiti%20per%20lammissione%20ai%20concorsi%20a%20posti%20di%20inserviente%20nellAmministrazione%20centrale%20della%20guerra.%20037U0789.md), concernente i requisiti per l'ammissione ai concorsi a posti di inserviente nell'Amministrazione centrale dell'esercito, e' sostituito dal seguente:
+L'articolo unico del [regio decreto 28 aprile 1937, n. 789](../Atti%20normativi%20abrogati%20%28in%20originale%29/Requisiti%20per%20lammissione%20ai%20concorsi%20a%20posti%20di%20inserviente%20nellAmministrazione%20centrale%20della%20guerra.%20037U0789.md), concernente i requisiti per l'ammissione ai concorsi a posti di inserviente nell'Amministrazione centrale dell'esercito, e' sostituito dal seguente:
  "Per l'ammissione ai concorsi per la nomina ad inserviente in prova nel ruolo del personale subalterno dell'Amministrazione centrale dell'esercito, oltre il possesso degli altri requisiti prescritti dalle vigenti disposizioni, e' richiesto un titolo di studio non inferiore al compimento degli studi elementari superiori (quinta classe) o titolo equipollente".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

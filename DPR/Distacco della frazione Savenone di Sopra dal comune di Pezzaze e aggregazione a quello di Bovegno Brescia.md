@@ -14,7 +14,7 @@ Vista la istanza in data 14 novembre 1954, con la quale la maggioranza qualifica
 
 Viste le deliberazioni: del Consiglio comunale di Pezzaze in data 4 settembre 1955, n. 1, del Consiglio comunale di Bovegno in data 8 ottobre 1961, n. 59/61; del Consiglio provinciale di Brescia in data 25 novembre 1961, n. 75, con le quali e' stato espresso parere in ordine alla variazione territoriale in parola;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla prima Sezione del Consiglio di Stato nell'adunanza del 10 agosto 1962, numero 1676;
 

@@ -16,7 +16,7 @@ Visto il [decreto del Presidente della Repubblica 30 giugno 1962, n. 1230](Modif
 
 Vista la [deliberazione in data 5 marzo 1970, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1970-03-05;190), della giunta della Camera di commercio, industria, artigianato ed agricoltura di Roma con la quale sono state proposte ulteriori modificazioni dei diritti ad essa dovuti per la quotazione dei titoli presso la borsa valori di detta citta';
 
-Visto l'articolo 53 del testo unico approvato con il [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale sono stati stabiliti la forma e l'organo competente per l'emanazione dei provvedimenti inerenti i diritti di Borsa;
+Visto l'articolo 53 del testo unico approvato con il [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale sono stati stabiliti la forma e l'organo competente per l'emanazione dei provvedimenti inerenti i diritti di Borsa;
 
 Sulla proposta del Ministro Segretario di Stato per il tesoro; Decreta:
 

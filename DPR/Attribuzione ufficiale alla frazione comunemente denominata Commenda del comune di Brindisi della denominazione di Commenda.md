@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Viste le deliberazioni della Giunta municipale in data 10 dicembre 1951, n. 175-B e del Consiglio comunale di Brindisi in data 18 febbraio 1952, n. 4, con le quali e' stato chiesto, tra l'altro, che alla frazione di quel Comune comunemente denominata Commenda sia attribuita ufficialmente la denominazione medesima;
  Visto il parere del Consiglio provinciale di Brindisi espresso con [deliberazione 26 marzo 1952, n. 9/10](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1952-03-26;9);
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

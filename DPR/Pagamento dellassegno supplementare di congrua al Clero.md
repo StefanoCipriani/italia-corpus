@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il regolamento sulla liquidazione e concessione dei supplementi di congrua, degli onorari e degli assegni per le spese di culto al Clero, approvato con [regio decreto 29 gennaio 1931, n. 228](../Regi%20decreti/Approvazione%20del%20regolamento%20sulla%20liquidazione%20e%20concessione%20dei%20supplementi%20di%20congrua%20degli%20onorari%20e%20degli%20assegni%20per%20spese%20di%20culto%20al%20clero.%20031U0228.md);
+ Visto il regolamento sulla liquidazione e concessione dei supplementi di congrua, degli onorari e degli assegni per le spese di culto al Clero, approvato con [regio decreto 29 gennaio 1931, n. 228](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20sulla%20liquidazione%20e%20concessione%20dei%20supplementi%20di%20congrua%20degli%20onorari%20e%20degli%20assegni%20per%20spese%20di%20culto%20al%20clero.%20031U0228.md);
  Visto il [decreto del Presidente della Repubblica 3 ottobre 1952, n. 2590](Modificazione%20dellart.%2044%20secondo%20comma%20del%20regolamento%20sulla%20liquidazione%20e%20concessione%20dei%20supplementi%20di%20congrua%20al%20clero.md);
  Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
  Udito il parere del Consiglio di Stato;

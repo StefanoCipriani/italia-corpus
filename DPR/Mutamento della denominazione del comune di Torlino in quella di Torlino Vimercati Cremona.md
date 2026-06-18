@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Viste le deliberazioni del Consiglio comunale di Torlino (Cremona) in data 12 giugno 1957, n. 26, ed in data 25 novembre 1960, n. 30, con le quali e' stato chiesto che l'attuale denominazione del Comune stesso sia mutata in quella di "Torlino Vimercati";
  Vista la deliberazione del Consiglio provinciale di Cremona in data 18 luglio 1960, n. 21, con la quale e' stato espresso parere favorevole in merito al mutamento di denominazione in parola;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

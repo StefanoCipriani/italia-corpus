@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione tecnica;
 
-Visto il [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
+Visto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
 
 Visto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
@@ -30,7 +30,7 @@ A decorrere dal 1 ottobre 1952, sono istituiti:
 ## Art. 2.
 
 A decorrere dalla stessa data e' soppressa la scuola tecnica industriale annessa all'Istituto tecnico industriale statale "Omar" di Novara.
- Sono di conseguenza soppressi tutti i posti di ruoli e non di ruolo previsti per della scuola, dalla tabella organica del suddetto Istituto approvata con [regio decreto 1 maggio 1941, n. 610](../Regi%20decreti/Modificazioni%20alla%20pianta%20organica%20del%20Regio%20Istituto%20tecnico%20industriale%20%20Omar%20%20di%20Novara.%20041U0610.md).
+ Sono di conseguenza soppressi tutti i posti di ruoli e non di ruolo previsti per della scuola, dalla tabella organica del suddetto Istituto approvata con [regio decreto 1 maggio 1941, n. 610](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alla%20pianta%20organica%20del%20Regio%20Istituto%20tecnico%20industriale%20%20Omar%20%20di%20Novara.%20041U0610.md).
 
 ## Art. 3.
 

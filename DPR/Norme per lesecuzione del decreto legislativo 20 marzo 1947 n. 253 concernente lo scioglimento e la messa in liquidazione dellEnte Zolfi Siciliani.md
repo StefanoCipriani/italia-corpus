@@ -12,17 +12,17 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 2 aprile 1940, n. 287](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20dellEnte%20Zolfi%20Italiani%20E.Z.I..%20040U0287.md), con la quale fu istituito l'Ente Zolfi italiani;
 
-Visto il [decreto legislativo luogotenenziale 1 ottobre 1944, n. 322](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20concernenti%20lEnte%20Zolfi%20Siciliani.%20044U0322.md), con cui fu istituito l'Ente Zolfi Siciliani;
+Visto il [decreto legislativo luogotenenziale 1 ottobre 1944, n. 322](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20concernenti%20lEnte%20Zolfi%20Siciliani.%20044U0322.md), con cui fu istituito l'Ente Zolfi Siciliani;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 20 marzo 1947, n. 253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-20;253), con il quale fu messo in liquidazione l'Ente Zolfi Siciliani;
 
-Visto il [regio decreto legislativo 1 giugno 1946, n. 606](../Regi%20decreti%20legislativi/Assegnazione%20allEnte%20Zolfi%20Siciliani%20di%20un%20fondo%20straordinario.md), con cui fu assegnato all'Ente Zolfi Siciliani un fondo straordinario;
+Visto il [regio decreto legislativo 1 giugno 1946, n. 606](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assegnazione%20allEnte%20Zolfi%20Siciliani%20di%20un%20fondo%20straordinario.md), con cui fu assegnato all'Ente Zolfi Siciliani un fondo straordinario;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 19 luglio 1946, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-07-19;200), con cui fu aumentato il fondo straordinario assegnato all'Ente Zolfi Siciliani Visto il [decreto legislativo del Capo provvisorio dello Stato 5 ottobre 1946, n. 527](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-05;527), con cui il fondo straordinario assegnato all'Ente Zolfi Siciliani fu ulteriormente aumentato;
 
-Visto il [decreto legislativo luogotenenziale 28 maggio 1945, n. 370](../Decreti%20legislativi%20luogotenenziali/Norme%20circa%20le%20importazioni%20e%20le%20esportazioni.%20045U0370.md), con cui vengono fissate norme circa le importazioni e le esportazioni;
+Visto il [decreto legislativo luogotenenziale 28 maggio 1945, n. 370](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20circa%20le%20importazioni%20e%20le%20esportazioni.%20045U0370.md), con cui vengono fissate norme circa le importazioni e le esportazioni;
 
-Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 586](../Decreti%20legislativi%20luogotenenziali/Regolazione%20dei%20pagamenti%20in%20dipendenza%20delle%20importazioni%20e%20delle%20esportazioni%20da%20e%20verso%20i%20Paesi%20Alleati.md), con cui si regolano i pagamenti in dipendenza delle importazioni da e verso i Paesi alleati;
+Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 586](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolazione%20dei%20pagamenti%20in%20dipendenza%20delle%20importazioni%20e%20delle%20esportazioni%20da%20e%20verso%20i%20Paesi%20Alleati.md), con cui si regolano i pagamenti in dipendenza delle importazioni da e verso i Paesi alleati;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -51,7 +51,7 @@ La definizione dei rapporti relativi alla gestione dei materiali di provenienza 
 
 ## Art. 5.
 
-Alla data del 1 gennaio 1952 la gestione del fondo straordinario assegnato all'Ente Zolfi Siciliani con il [regio decreto legislativo 1 giugno 1946, n. 606](../Regi%20decreti%20legislativi/Assegnazione%20allEnte%20Zolfi%20Siciliani%20di%20un%20fondo%20straordinario.md), e con i [decreti legislativi 19 luglio 1946, n. 200 e 5 ottobre 1946, n. 527](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-10-05;527), passa alla Sezione assistenza sociale dell'Ente Zolfi italiani.
+Alla data del 1 gennaio 1952 la gestione del fondo straordinario assegnato all'Ente Zolfi Siciliani con il [regio decreto legislativo 1 giugno 1946, n. 606](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assegnazione%20allEnte%20Zolfi%20Siciliani%20di%20un%20fondo%20straordinario.md), e con i [decreti legislativi 19 luglio 1946, n. 200 e 5 ottobre 1946, n. 527](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-10-05;527), passa alla Sezione assistenza sociale dell'Ente Zolfi italiani.
  Soddisfatti gli aventi diritto, lo eventuale residuo attivo del fondo e' devoluto alla Sezione predetta per l'adempimento dei suoi compiti istituzionali.
  Il rendiconto del fondo stesso deve essere sottoposto all'approvazione dei Ministeri dell'industria e del commercio e del tesoro.
 

@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](../Regi%20decreti/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Milano.%20039U1166.md), e modificato con [legge 1 giugno 1939, n. 872](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20posto%20di%20professore%20di%20ruolo%20presso%20la%20Regia%20universita%20di%20Milano%20per%20linsegnamento%20della%20Tecnica%20delle%20operazioni%20chirurgiche.%20039U0872.md), con i decreti 26 ottobre 1940, n. 2056 e 15 aprile 1942, n. 423, e con [decreto del Capo provvisorio dello Stato 27 luglio 1947, n. 1138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-27;1138) e con [decreto del Presidente della Repubblica 30 settembre 1949, n. 942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-09-30;942);
+Visto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Milano.%20039U1166.md), e modificato con [legge 1 giugno 1939, n. 872](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20posto%20di%20professore%20di%20ruolo%20presso%20la%20Regia%20universita%20di%20Milano%20per%20linsegnamento%20della%20Tecnica%20delle%20operazioni%20chirurgiche.%20039U0872.md), con i decreti 26 ottobre 1940, n. 2056 e 15 aprile 1942, n. 423, e con [decreto del Capo provvisorio dello Stato 27 luglio 1947, n. 1138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-27;1138) e con [decreto del Presidente della Repubblica 30 settembre 1949, n. 942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-09-30;942);
 
 Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
-Visto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+Visto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Viste le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' predetta;
 

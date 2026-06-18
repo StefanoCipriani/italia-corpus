@@ -16,7 +16,7 @@ Visto il [testo unico delle leggi sul debito pubblico](../Testi%20Unici/Testo%20
 
 Visto il [decreto del Presidente della Repubblica 15 marzo 1984, n. 74](Aggiornamento%20di%20talune%20norme%20del%20testo%20unico%20delle%20leggi%20sul%20debito%20pubblico%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2014%20febbraio%201963%20n.%201343.md), recante l'aggiornamento di talune norme del suddetto [testo unico n. 1343/1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1963;1343);
 
-Visto il regolamento generale sul debito pubblico approvato con [regio decreto 19 febbraio 1911, n. 298](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md);
+Visto il regolamento generale sul debito pubblico approvato con [regio decreto 19 febbraio 1911, n. 298](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md);
 
 Visto il [decreto del Presidente della Repubblica 31 luglio 1961, n. 945](Modificazioni%20al%20regolamento%20generale%20sul%20Debito%20pubblico.md), recante modificazioni al suddetto regolamento generale n. 298/1911;
 
@@ -78,7 +78,7 @@ NOTE
  "Art. 171. - All'agente contabile dei titoli presso la Direzione generale e' affidato il maneggio e la custodia dei titoli di rendita e degli stampati occorrenti per i medesimi, nonche' delle obbligazioni dello Stato e degli altri valori che pervengono alla stessa Direzione generale o che da essa siano emessi".
  "Art. 172. - L'agente contabile, nell'esercizio delle sue funzioni, e' coadiuvato da un sostituto e da funzionari della Direzione generale, posti alla sua dipendenza.
  La responsabilita' dell'agente contabile e' estesa anche all'operato del proprio sostituto e degli altri impiegati addetti al proprio ufficio e da lui dipendenti".
- "Art. 173. - L'agente contabile dipende dal direttore generale del debito pubblico, al quale, per quanto concerne lo stesso agente, sono demandati tutti quei provvedimenti di servizio e di disciplina, che, in virtu' del regolamento approvato con [regio decreto 13 dicembre 1906, n. 664](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20organico%20e%20disciplinare%20per%20gli%20uffici%20esecutivi%20del%20tesoro.%20006U0664.md), sono di competenza del direttore generale del tesoro".
+ "Art. 173. - L'agente contabile dipende dal direttore generale del debito pubblico, al quale, per quanto concerne lo stesso agente, sono demandati tutti quei provvedimenti di servizio e di disciplina, che, in virtu' del regolamento approvato con [regio decreto 13 dicembre 1906, n. 664](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20organico%20e%20disciplinare%20per%20gli%20uffici%20esecutivi%20del%20tesoro.%20006U0664.md), sono di competenza del direttore generale del tesoro".
  "Art. 174. - All'ufficio dell'agente contabile e' addetto un controllore capo, coadiuvato da controllori, incaricati l'uno e gli altri di esercitare le loro funzioni con ordine del direttore generale del tesoro, emanato d'accordo col direttore generale del debito pubblico.
  Tutti gli atti ed i documenti firmati dall'agente contabile debbono portare il visto del controllore capo".
  "Art. 176. - L'agente contabile riceve e custodisce, in apposite casseforti, o in camere casseforti, aventi ciascuna due serrature a congegni differenti, le cui chiavi sono tenute una dall'agente contabile, l'altra dal controllore capo:

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [regio decreto 12 febbraio 1871, n. 65](../Regi%20decreti/Col%20quale%20e%20riservata%20alla%20approvazione%20Reale%20la%20circoscrizione%20degli%20Uffizi%20finanziari.%20071U0065.md);
+Visto il [regio decreto 12 febbraio 1871, n. 65](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20e%20riservata%20alla%20approvazione%20Reale%20la%20circoscrizione%20degli%20Uffizi%20finanziari.%20071U0065.md);
 
 Udito il parere del Consiglio di Stato;
 

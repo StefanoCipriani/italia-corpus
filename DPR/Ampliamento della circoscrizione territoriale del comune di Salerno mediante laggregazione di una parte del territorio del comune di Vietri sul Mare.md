@@ -14,7 +14,7 @@ Viste le [deliberazioni in data 22 luglio 1948, n. 347](https://www.normattiva.i
 
 Viste le deliberazioni: del Consiglio comunale di Vietri sul Mare in data 15 gennaio 1959, n. 2; del Consiglio provinciale di Salerno in data 26 maggio 1959, n. 127, con le quali e' stato espresso parere in ordine alla variazione territoriale in parola;
 
-Visti gli articoli 31 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 31 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla prima Sezione del Consiglio Stato nell'adunanza del 26 aprile 1960, n. 602;
 

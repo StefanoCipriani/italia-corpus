@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
- Visto il [regio decreto 31 agosto 1933, n. 2077](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20industriale%20di%20Trento%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2077.md), riguardante fra l'altro la tabella organica della Scuola tecnica industriale di Trento;
+ Visto il [regio decreto 31 agosto 1933, n. 2077](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20della%20Regia%20scuola%20industriale%20di%20Trento%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2077.md), riguardante fra l'altro la tabella organica della Scuola tecnica industriale di Trento;
  Visto il decreto interministeriale 17 ottobre 1946, registrato alla Corte dei conti il 16 novembre 1946, registro n. 29, foglio n. 164, con il quale viene approvata la tabella organica dell'Istituto tecnico industriale di Trento;
  Considerata l'opportunita' di affidare la direzione della predetta Scuola al preside dell'Istituto tecnico industriale e di unificare l'amministrazione dell'Istituto e della Scuola;
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quello per il tesoro;

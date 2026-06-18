@@ -16,7 +16,7 @@ Viste le modificazioni apportate dal congresso nazionale dell'Associazione, tenu
 
 Visto il parere del Consiglio di Stato in data 17 marzo 1953 allegato in copia, le cui considerazioni s'intendono integralmente qui trascritte specie per quanto ha tratto alla opportunita' di contenere nel prossimo congresso il numero dei componenti gli organi collegiali centrali;
 
-Visto il [regio decreto 19 aprile 1923, n. 850](../Regi%20decreti/Concernente%20la%20sistemazione%20dei%20servizi%20di%20vigilanza%20protezione%20ed%20assistenza%20dei%20reduci%20validi%20ed%20invalidi%20della%20guerra%20nazionale%20e%20delle%20famiglie%20dei%20caduti.%20023U0850.md);
+Visto il [regio decreto 19 aprile 1923, n. 850](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20la%20sistemazione%20dei%20servizi%20di%20vigilanza%20protezione%20ed%20assistenza%20dei%20reduci%20validi%20ed%20invalidi%20della%20guerra%20nazionale%20e%20delle%20famiglie%20dei%20caduti.%20023U0850.md);
 
 Visto l'[art. 2 del decreto legislativo del Capo provvisorio dello Stato 14 febbraio 1947, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-02-14;27#art_2);
 

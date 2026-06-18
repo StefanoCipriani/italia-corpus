@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [deliberazione n. 6 del 4 luglio 1969](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1969-07-04;6), con la quale il consiglio comunale di Lastra a Signa (Firenze) ha chiesto che, in accoglimento del desiderio degli abitanti della frazione "Ginestra", l'attuale denominazione della frazione stessa sia mutata in quella di "Ginestra Fiorentina", allo scopo di evitare i continui disguidi postali dovuti all'omonimia esistente con localita' di altra provincia;
  Vista la [deliberazione n. 19/c del 19 gennaio 1970](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1970-01-19;19), con la quale il consiglio provinciale di Firenze ha espresso parere favorevole in merito al proposto cambio di denominazione;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

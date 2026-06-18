@@ -16,7 +16,7 @@ Vista la [legge 9 aprile 1962, n. 163](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Visto il decreto ministeriale 27 settembre 1923, con il quale e' stata approvata la pianta organica dell'Istituto d'arte di Napoli;
 
-Visto il [regio decreto 22 aprile 1943, n. 490](../Regi%20decreti/Variazioni%20agli%20organici%20del%20Regi%20Istituti%20e%20delle%20Regie%20scuole%20darte.%20043U0490.md), con il quale la pianta organica dell'Istituto d'arte di Napoli e' stata integrata con n. 4 cattedre di decorazione pittorica, n. 1 cattedra di plastica decorativa e n. 1 cattedra per la lavorazione artistica dei metalli;
+Visto il [regio decreto 22 aprile 1943, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Variazioni%20agli%20organici%20del%20Regi%20Istituti%20e%20delle%20Regie%20scuole%20darte.%20043U0490.md), con il quale la pianta organica dell'Istituto d'arte di Napoli e' stata integrata con n. 4 cattedre di decorazione pittorica, n. 1 cattedra di plastica decorativa e n. 1 cattedra per la lavorazione artistica dei metalli;
 
 Ritenuta l'opportunita' di adeguare la pianta organica dell'istituto stesso alle attuali esigenze dell'insegnamento, con decorrenza dal 1 ottobre 1964, in quanto funziona di fatto da tale data;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello p
 
 ## Art. 1.
 
-A decorrere dal 1 ottobre 1964 la pianta organica dell'Istituto d'arte di Napoli, allegata al decreto ministeriale 27 settembre 1923 e successivamente integrata col [regio decreto 22 aprile 1943, n. 490](../Regi%20decreti/Variazioni%20agli%20organici%20del%20Regi%20Istituti%20e%20delle%20Regie%20scuole%20darte.%20043U0490.md), e' sostituita da quella annessa al presente decreto e firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.
+A decorrere dal 1 ottobre 1964 la pianta organica dell'Istituto d'arte di Napoli, allegata al decreto ministeriale 27 settembre 1923 e successivamente integrata col [regio decreto 22 aprile 1943, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Variazioni%20agli%20organici%20del%20Regi%20Istituti%20e%20delle%20Regie%20scuole%20darte.%20043U0490.md), e' sostituita da quella annessa al presente decreto e firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.
 
 ## Art. 2.
 

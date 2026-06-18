@@ -14,7 +14,7 @@ N.
 
 486.
 
-Decreto del Presidente della Repubblica 18 febbraio 1978, col quale, sulla proposta del Ministro della pubblica istruzione, la scuola di violino e viola, istituita presso l'istituto musicale di Bergamo, via Arena, 9, gestito dal comune di Bergamo, e' pareggiata, ai sensi del [regio decreto 15 maggio 1930, n. 1170](../Regi%20decreti/Norme%20per%20il%20pareggiamento%20degli%20Istituti%20musicali.%20030U1170.md), ai conservatori musicali statali, con effetto giuridico dall'anno scolastico 1978-79.
+Decreto del Presidente della Repubblica 18 febbraio 1978, col quale, sulla proposta del Ministro della pubblica istruzione, la scuola di violino e viola, istituita presso l'istituto musicale di Bergamo, via Arena, 9, gestito dal comune di Bergamo, e' pareggiata, ai sensi del [regio decreto 15 maggio 1930, n. 1170](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20pareggiamento%20degli%20Istituti%20musicali.%20030U1170.md), ai conservatori musicali statali, con effetto giuridico dall'anno scolastico 1978-79.
 
 Visto, il Guardasigilli: BONIFACIO
  Registrato alla Corte dei conti, addi' 21 agosto 1978

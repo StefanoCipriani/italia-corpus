@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista l'istanza in data 4 dicembre 1953, con la quale il commissario straordinario per la provvisoria amministrazione del comune di Genzano di Roma (provincia di Roma), in esecuzione della [deliberazione 4 settembre 1952, n. 35, del Consiglio comunale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1952-09-04;35), ha chiesto che alla frazione di quel Comune comprendente le contrade di Landi, Muti, Pedica, Presciano e San Gennaro sia ufficialmente attribuita la denominazione "Landi";
  Visto il parere favorevole del Consiglio provinciale di Roma, espresso con [deliberazione 26 settembre 1953, n. 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1953-09-26;371);
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934; n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934; n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro per l'interno;
 
  Decreta:

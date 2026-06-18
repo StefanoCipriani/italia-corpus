@@ -14,7 +14,7 @@ n.
 
 723.
 
-Decreto del Presidente della Repubblica 28 giugno 1986, col quale, sulla proposta del Ministro della marina mercantile, viene approvato il nuovo statuto del Consorzio peschereccio di Caorle (Venezia), eretto in ente morale con [regio decreto 30 giugno 1932, n. 906](../Regi%20decreti/Erezione%20in%20ente%20morale%20del%20Consorzio%20peschereccio%20di%20Caorle.%20032U0906.md).
+Decreto del Presidente della Repubblica 28 giugno 1986, col quale, sulla proposta del Ministro della marina mercantile, viene approvato il nuovo statuto del Consorzio peschereccio di Caorle (Venezia), eretto in ente morale con [regio decreto 30 giugno 1932, n. 906](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20del%20Consorzio%20peschereccio%20di%20Caorle.%20032U0906.md).
 
 Visto, il Guardasigilli: ROGNONI
  Registrato alla Corte dei conti, addi' 15 ottobre 1986

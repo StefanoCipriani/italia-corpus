@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 72 del regio decreto 14 giugno 1941, n. 577](../Regi%20decreti/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md);
+Visto l'[art. 72 del regio decreto 14 giugno 1941, n. 577](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md);
 
 Visto l'[art. 2 del decreto del Presidente della Repubblica 15 luglio 1956, n. 884](Misura%20degli%20aggi%20spettanti%20ai%20rivenditori%20dei%20generi%20di%20monopolio.md), che stabilisce nella misura dell'uno per cento del prezzo di tariffa il supplemento d'aggio spettante ai rivenditori di generi di monopolio per la vendita di alcuni tipi di tabacchi nazionali;
 

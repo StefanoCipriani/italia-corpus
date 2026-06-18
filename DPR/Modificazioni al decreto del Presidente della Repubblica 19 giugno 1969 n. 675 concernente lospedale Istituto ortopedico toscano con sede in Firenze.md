@@ -24,7 +24,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Il consiglio di amministrazione dell'ente ospedaliero suddetto, e' composto come segue:
  sei membri eletti dal consiglio provinciale di Firenze;
  un membro eletto dal consiglio comunale di Firenze;
- due membri in rappresentanza degli originari interessi dell'ente, designati e nominati ai sensi dello statuto dell'ente, approvato con [regio decreto 4 dicembre 1927, n. 2827](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellIstituto%20ortopedico%20toscano%20Villa%20S.%20Margherita%20in%20Firenze.%20027U2827.md), modificato con decreto del Presidente della Repubblica 1 dicembre 1952, registrato alla Corte dei conti il 16 gennaio 1953, registro n. 2 Interno, foglio n. 61.
+ due membri in rappresentanza degli originari interessi dell'ente, designati e nominati ai sensi dello statuto dell'ente, approvato con [regio decreto 4 dicembre 1927, n. 2827](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20dellIstituto%20ortopedico%20toscano%20Villa%20S.%20Margherita%20in%20Firenze.%20027U2827.md), modificato con decreto del Presidente della Repubblica 1 dicembre 1952, registrato alla Corte dei conti il 16 gennaio 1953, registro n. 2 Interno, foglio n. 61.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 21 gennaio 1943, n. 67](../Regi%20decreti/Costituzione%20in%20Roma%20della%20Fondazione%20medaglia%20doro%20Francesco%20Meattini.%20043U0067.md), che erige in ente morale la Fondazione "Medaglia d'oro Francesco Meattini";
+Visto il [regio decreto 21 gennaio 1943, n. 67](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20in%20Roma%20della%20Fondazione%20medaglia%20doro%20Francesco%20Meattini.%20043U0067.md), che erige in ente morale la Fondazione "Medaglia d'oro Francesco Meattini";
 
 Visto il proprio decreto 22 marzo 1954, n. 407, che reca modifiche allo statuto organico della Fondazione medesima, la quale ha lo scopo di destinare annualmente a favore degli orfani dei militari del Corpo della guardia di finanza, con preferenza agli orfani dei militari caduti in guerra, la rendita del proprio capitale mediante concessione di borse di studio e sussidi scolastici a coloro che abbiano dimostrato particolare inclinazione agli studi o che debbano perfezionarsi nel lavoro;
 

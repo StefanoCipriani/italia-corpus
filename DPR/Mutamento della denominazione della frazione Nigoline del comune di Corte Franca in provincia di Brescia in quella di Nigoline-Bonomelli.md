@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [deliberazione n. 15 del 26 febbraio 1970](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1970-02-26;15), con la quale il consiglio comunale di Corte Franca (Brescia) ha chiesto che l'attuale denominazione della frazione Nigoline sia mutata in quella di "Nigoline-Bonomelli", in considerazione che cola' nacque e mori' l'illustre presule mons. Geremia Bonomelli;
  Vista la [deliberazione n. 526 del 29 settembre 1970](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1970-09-29;526), con la quale il consiglio provinciale di Brescia ha espresso, al riguardo, parere favorevole;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

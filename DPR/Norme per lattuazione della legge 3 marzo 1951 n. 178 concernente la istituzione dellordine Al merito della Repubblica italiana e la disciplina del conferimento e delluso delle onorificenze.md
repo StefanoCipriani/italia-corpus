@@ -76,7 +76,7 @@ Fuori dei casi previsti dagli articoli precedenti, le onorificenze possono esser
 
 ## Art. 11.
 
-Nei casi previsti dagli [articoli 28](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [29 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il cancelliere dell'Ordine dispone l'annotazione sul decreto originale di concessione, degli estremi della sentenza comportante la privazione dell'onorificenza.
+Nei casi previsti dagli [articoli 28](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [29 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il cancelliere dell'Ordine dispone l'annotazione sul decreto originale di concessione, degli estremi della sentenza comportante la privazione dell'onorificenza.
 
 ## Art. 12.
 

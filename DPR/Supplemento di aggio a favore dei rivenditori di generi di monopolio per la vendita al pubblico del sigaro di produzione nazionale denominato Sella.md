@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 72 del regio decreto 14 giugno 1941, numero 577](../Regi%20decreti/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md);
+Visto l'[art. 72 del regio decreto 14 giugno 1941, numero 577](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md);
 
 Visto l'[art. 2 del decreto del Presidente della Repubblica 1 gennaio 1949, n. 757](Misura%20dellaggio%20a%20favore%20dei%20rivenditori%20di%20generi%20di%20monopolio.md);
 

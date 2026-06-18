@@ -16,7 +16,7 @@ Visto il voto favorevole dell'Amministrazione comunale di Tione degli Abruzzi, e
 
 Viste le deliberazioni del Consiglio comunale di Fontecchio in data 30 aprile 1947, n. 5, in data 22 agosto 1951, n. 36, e in data 10 novembre 1953, n. 112; della Deputazione provinciale in data 16 maggio 1946, n. 213, e in data 24 gennaio 1948, n. 59, e del Consiglio provinciale dell'Aquila in data 10 ottobre 1951, n. 23, e in data 10 gennaio 1954, n. 43, con le quali venne espresso parere in ordine alla variazione territoriale di cui trattasi;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

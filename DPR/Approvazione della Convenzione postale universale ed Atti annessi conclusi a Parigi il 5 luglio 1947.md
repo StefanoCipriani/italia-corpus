@@ -16,7 +16,7 @@ Sulla, proposta del Ministro Segretario di Stato per gli affari esteri, di conce
 
 ## Art. 1.
 
-Piena ed intera esecuzione e' data ai seguenti Accordi postali conclusi a Parigi il 5 luglio 1947, in revisione ai corrispondenti Atti stipulati a Buenos Aires il 23 maggio 1939 e resi esecutivi con [regio decreto 8 aprile 1940, n. 1283](../Regi%20decreti/Accordi%20postali%20stipulati%20a%20Buenos%20Aires%20il%2023%20maggio%201939.%20040U1283.md):
+Piena ed intera esecuzione e' data ai seguenti Accordi postali conclusi a Parigi il 5 luglio 1947, in revisione ai corrispondenti Atti stipulati a Buenos Aires il 23 maggio 1939 e resi esecutivi con [regio decreto 8 aprile 1940, n. 1283](../Atti%20normativi%20abrogati%20%28in%20originale%29/Accordi%20postali%20stipulati%20a%20Buenos%20Aires%20il%2023%20maggio%201939.%20040U1283.md):
  a) Convenzione postale universale, con Protocollo finale e relativo regolamento di esecuzione;
  b) Accordo concernente le lettere e le scatole con valore dichiarato, con Protocollo finale e relativo regolamento di esecuzione;
  c) Accordo concernente i pacchi postali, con Protocollo finale e relativo regolamento di esecuzione;

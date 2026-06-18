@@ -14,7 +14,7 @@ Vista la istanza 26 febbraio 1950, con la quale la maggioranza qualificata dei c
 
 Viste le deliberazioni del Consiglio comunale di Castellamonte 30 aprile 1950, n. 15 e 20 gennaio 1952, n. 1 bis; del Consiglio comunale di Colleretto Castelnuovo 6 giugno 1950, n. 11 e del Consiglio provinciale di Torino 7 aprile 1952, n. 17/2975 e 29 marzo 1955, n. 5/996, con le quali e' stato espresso parere in ordine alla variazione territoriale di che trattasi;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato emesso nella adunanza della prima Sezione del 12 giugno 1956;
 

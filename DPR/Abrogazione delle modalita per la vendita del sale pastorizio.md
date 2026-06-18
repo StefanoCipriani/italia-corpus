@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visti gli articoli 47 e 48 del regolamento per l'esecuzione della legge sulla privativa dei sali e dei tabacchi, approvato con [regio decreto 1 agosto 1901, n. 399](../Regi%20decreti/Che%20approva%20il%20nuovo%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20privativa%20dei%20sali%20e%20tabacchi.%20001U0399.md), relativi alle modalita' per la vendita del sale pastorizio;
+Visti gli articoli 47 e 48 del regolamento per l'esecuzione della legge sulla privativa dei sali e dei tabacchi, approvato con [regio decreto 1 agosto 1901, n. 399](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20nuovo%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20privativa%20dei%20sali%20e%20tabacchi.%20001U0399.md), relativi alle modalita' per la vendita del sale pastorizio;
 
 Ritenuto che le nuove formule di sofisticazione del sale pastorizio, adottate dall'Amministrazione dei monopoli, garantiscono contro ogni possibile frode da parte degli acquirenti;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 ## Articolo unico.
 
-Le disposizioni riguardanti le modalita' per la vendita del sale pastorizio, contenute negli articoli 47 e 48 del regolamento per l'esecuzione della legge sulla privativa dei sali e dei tabacchi, approvato con [regio decreto 1 agosto 1901, n. 399](../Regi%20decreti/Che%20approva%20il%20nuovo%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20privativa%20dei%20sali%20e%20tabacchi.%20001U0399.md), sono abrogate.
+Le disposizioni riguardanti le modalita' per la vendita del sale pastorizio, contenute negli articoli 47 e 48 del regolamento per l'esecuzione della legge sulla privativa dei sali e dei tabacchi, approvato con [regio decreto 1 agosto 1901, n. 399](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20nuovo%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20privativa%20dei%20sali%20e%20tabacchi.%20001U0399.md), sono abrogate.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -14,7 +14,7 @@ N.
 
 1290.
 
-Decreto del Presidente della Repubblica 23 dicembre 1958, col quale, sulla proposta del Ministro per la pubblica istruzione, lo statuto della, Fondazione "Gesualdo Clementi", istituita presso l'Universita' degli studi di Catania, approvato nel nuovo testo con [regio decreto 17 novembre 1927, n. 2289](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Fondazione%20Gesualdo%20Clementi%20presso%20la%20Regia%20universita%20di%20Catania.%20027U2289.md), viene abrogato e sostituito.
+Decreto del Presidente della Repubblica 23 dicembre 1958, col quale, sulla proposta del Ministro per la pubblica istruzione, lo statuto della, Fondazione "Gesualdo Clementi", istituita presso l'Universita' degli studi di Catania, approvato nel nuovo testo con [regio decreto 17 novembre 1927, n. 2289](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Fondazione%20Gesualdo%20Clementi%20presso%20la%20Regia%20universita%20di%20Catania.%20027U2289.md), viene abrogato e sostituito.
 
 Visto, il Guardasigilli: GONELLA
  Registrato alla Corte dei conti, addi' 24 marzo 1959

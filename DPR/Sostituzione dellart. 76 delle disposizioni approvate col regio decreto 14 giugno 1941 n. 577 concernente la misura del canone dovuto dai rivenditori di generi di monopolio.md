@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 14 giugno 1941, n. 577](../Regi%20decreti/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md), sull'ordinamento dei servizi di distribuzione e vendita dei generi di monopolio;
+Visto il [regio decreto 14 giugno 1941, n. 577](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md), sull'ordinamento dei servizi di distribuzione e vendita dei generi di monopolio;
 
 Visto il [decreto Presidenziale 14 settembre 1948, n. 1602](Misura%20del%20canone%20dovuto%20dai%20rivenditori%20di%20generi%20di%20monopolio.md), con il quale, venne stabilita la misura dei cassoni dovuti dai rivenditori generi di monopolio;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro Segretario di Stato per le finanze, di concerto col 
 
 ## Art. 1.
 
-L'art. 76 delle disposizioni approvate col [regio decreto 14 giugno 1941, n. 577](../Regi%20decreti/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md), modificato col [decreto Presidenziale 14 settembre 1948, n. 1602](Misura%20del%20canone%20dovuto%20dai%20rivenditori%20di%20generi%20di%20monopolio.md), e' sostituito dal seguente:
+L'art. 76 delle disposizioni approvate col [regio decreto 14 giugno 1941, n. 577](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md), modificato col [decreto Presidenziale 14 settembre 1948, n. 1602](Misura%20del%20canone%20dovuto%20dai%20rivenditori%20di%20generi%20di%20monopolio.md), e' sostituito dal seguente:
  "Il canone dovuto dai rivenditori generi di monopolio e' commisurato al reddito dell'esercizio precedente, quando tale reddito abbia superato le L. 300.000.
  Sulla parte di reddito eccedente tale somma il canone e' liquidato sulla base della seguente scala graduale:
  da oltre L. 300.000 fino a L. 500.000 il 15 %

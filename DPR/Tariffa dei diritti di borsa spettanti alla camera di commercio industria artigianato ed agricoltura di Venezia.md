@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 29 aprile 1926, n. 828](../Regi%20decreti/Determinazione%20delle%20tariffe%20dei%20diritti%20e%20degli%20atti%20di%20segreteria%20in%20materia%20di%20borsa%20valori%20per%20la%20Borsa%20valori%20di%20Venezia.%20026U0828.md), con il quale venne approvata e resa esecutiva la tariffa dei diritti di quotazione dovuti alla camera di commercio e industria di Venezia con esclusione dei titoli ammessi di diritto alla quotazione ufficiale;
+Visto il [regio decreto 29 aprile 1926, n. 828](../Atti%20normativi%20abrogati%20%28in%20originale%29/Determinazione%20delle%20tariffe%20dei%20diritti%20e%20degli%20atti%20di%20segreteria%20in%20materia%20di%20borsa%20valori%20per%20la%20Borsa%20valori%20di%20Venezia.%20026U0828.md), con il quale venne approvata e resa esecutiva la tariffa dei diritti di quotazione dovuti alla camera di commercio e industria di Venezia con esclusione dei titoli ammessi di diritto alla quotazione ufficiale;
 
 Visto il [decreto del Presidente della Repubblica 15 giugno 1962, n. 1043](Modificazioni%20alla%20tariffa%20dei%20diritti%20di%20Borsa%20spettanti%20alla%20Camera%20di%20commercio%20industria%20ed%20agricoltura%20di%20Venezia.md), con il quale, nel modificare tale tariffa e' stata confermata la predetta esenzione;
 
@@ -18,7 +18,7 @@ Visto il [decreto del Presidente della Repubblica 2 marzo 1971, n. 227](Modifica
 
 Vista la [deliberazione n. 102 del 9 febbraio 1977, con cui la camera di commercio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:camera.commercio:delibera:1977-02-09;102), industria, artigianato ed agricoltura di Venezia ha richiesto la fissazione dei diritti di quotazione per le azioni di risparmio e per taluni titoli ammessi di diritto alla quotazione ufficiale presso la locale borsa valori;
 
-Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale sono stabiliti la forma e l'organo competente per l'emanazione dei provvedimenti inerenti ai diritti di borsa;
+Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale sono stabiliti la forma e l'organo competente per l'emanazione dei provvedimenti inerenti ai diritti di borsa;
 
 Sulla proposta del Ministro del tesoro; Decreta:
 

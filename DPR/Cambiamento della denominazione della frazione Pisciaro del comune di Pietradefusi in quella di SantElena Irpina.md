@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la domanda in data 4 gennaio 1951, con la quale il sindaco del comune di Pietradefusi (provincia di Avellino), in esecuzione della deliberazione della Amministrazione comunale n. 54, in data 4 novembre 1942, confermata dalla [deliberazione del Consiglio comunale n. 51, del 4 novembre 1951](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1951-11-04;51), ha chiesto che l'attuale denominazione della frazione Pisciaro sia mutata in quella di "Sant'Elena Irpina";
  Visto il parere favorevole della Deputazione provinciale di Avellino espresso con [deliberazione n. 983, in data 7 luglio 1951](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1951-07-07;983);
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro per l'interno;
 
  Decreta:

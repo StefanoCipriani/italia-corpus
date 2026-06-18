@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli [articoli 15](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [138 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visti gli [articoli 15](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [138 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Visto il [regio decreto 5 aprile 1928, n. 929](../Regi%20decreti/Disposizioni%20relative%20alle%20operazioni%20ed%20alle%20tariffe%20di%20stazzatura%20delle%20navi%20e%20dei%20galleggianti.%20028U0929.md), concernente disposizioni per le operazioni di stazzatura delle navi;
 
-Visto l'[art. 2, lettera c), del regio decreto 20 dicembre 1923, n. 3235](../Regi%20decreti/Nuove%20circoscrizioni%20della%20marina%20mercantile.%20023U3235.md);
+Visto l'[art. 2, lettera c), del regio decreto 20 dicembre 1923, n. 3235](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20circoscrizioni%20della%20marina%20mercantile.%20023U3235.md);
 
 Vista la [legge 22 ottobre 1973, n. 958](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20per%20la%20stazzatura%20delle%20navi%20con%20annessi%20adottata%20a%20Londra%20il%2023%20giugno%201969.md), con la quale e' stata ratificata e resa esecutiva la convenzione internazionale per la stazzatura delle navi, adottata a Londra il 23 giugno 1969;
 
@@ -35,7 +35,7 @@ EMANA il seguente regolamento:
 ## Art. 1.
 
 Le disposizioni del presente regolamento riguardano la stazzatura, secondo le regole tecniche contenute negli allegati alla convenzione internazionale adottata a Londra il 23 giugno 1969 e ratificata con [legge 22 ottobre 1973, n. 958](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20per%20la%20stazzatura%20delle%20navi%20con%20annessi%20adottata%20a%20Londra%20il%2023%20giugno%201969.md), delle navi di lunghezza uguale o superiore a 24 metri che effettuano viaggi internazionali.
- Le predette disposizioni si riferiscono sia alle navi da stazzare in Italia, sia a quelle da stazzare all'estero, ai sensi del [primo comma dell'art. 139 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+ Le predette disposizioni si riferiscono sia alle navi da stazzare in Italia, sia a quelle da stazzare all'estero, ai sensi del [primo comma dell'art. 139 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 ## Art. 2.
 
@@ -44,13 +44,13 @@ Le operazioni strumentali di stazzatura della nave, ivi compresa la compilazione
 
 ## Art. 3.
 
-Il Ministro della marina mercantile, con proprio decreto, determina i criteri in base ai quali la stazzatura deve essere eseguita da ingegneri navali o da altri periti stazzatori abilitati a norma dell'art. 306 del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), di cui al [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md).
+Il Ministro della marina mercantile, con proprio decreto, determina i criteri in base ai quali la stazzatura deve essere eseguita da ingegneri navali o da altri periti stazzatori abilitati a norma dell'art. 306 del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), di cui al [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md).
 
 ## Art. 4.
 
 Il certificato di stazza e' rilasciato dal capo del compartimento marittimo in cui e' o viene iscritta la nave.
  Al capo del compartimento marittimo competente il Registro italiano navale o altro istituto eventualmente autorizzato ai sensi dell'[art. 3 del decreto legislativo del Capo provvisorio dello Stato 22 gennaio 1947, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-22;340#art_3), deve trasmettere il quadro dei calcoli di cui al precedente art. 2.
- Il certificato di stazza, ove la nave non ne sia gia' munita in quanto proveniente dalle matricole o dai registri tenuti dall'autorita' marittima, e' rilasciato dall'autorita' consolare presso le cui matricole o registri e' o viene iscritta la nave stessa ai sensi dell'[art. 148 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+ Il certificato di stazza, ove la nave non ne sia gia' munita in quanto proveniente dalle matricole o dai registri tenuti dall'autorita' marittima, e' rilasciato dall'autorita' consolare presso le cui matricole o registri e' o viene iscritta la nave stessa ai sensi dell'[art. 148 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
  A tale autorita' e' trasmesso il quadro dei calcoli.
 
 ## Art. 5.
@@ -72,7 +72,7 @@ Fatta salva l'ipotesi di cui al secondo comma dell'art. 4, l'autorita' consolare
 
 Le operazioni di stazzatura sono disposte dal capo del compartimento marittimo o dall'autorita' consolare nella cui competenza territoriale esse devono essere effettuate su richiesta del proprietario ai predetti uffici.
  Ove tali operazioni vengano effettuate in Italia, la richiesta, che deve contenere, nel caso che siano autorizzati piu' istituti ai sensi dell'[art. 3 del decreto legislativo del Capo provvisorio dello Stato 22 gennaio 1947, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-22;340#art_3), l'indicazione dell'Istituto al quale sono affidate le operazioni di stazzatura, e' inviata all'ispettorato del Registro italiano navale competente per territorio, ovvero al competente ufficio degli altri istituti eventualmente autorizzati ai sensi del citato [art. 3 del decreto legislativo del Capo provvisorio dello Stato 22 gennaio 1947, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-22;340#art_3).
- Nel caso in cui le operazioni di stazzatura vengano effettuate all'estero, ai sensi del [primo comma dello art. 139 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) - ottenuta la relativa autorizzazione del Ministro della marina mercantile - le predette richieste sono inviate alla Direzione generale del Registro italiano navale, ovvero di altro istituto eventualmente autorizzato ai sensi dello [art. 3 del decreto legislativo del Capo provvisorio dello Stato 22 gennaio 1947, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-22;340#art_3), che dispone, a tal fine, l'invio di propri periti nel luogo dove la nave deve essere stazzata.
+ Nel caso in cui le operazioni di stazzatura vengano effettuate all'estero, ai sensi del [primo comma dello art. 139 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) - ottenuta la relativa autorizzazione del Ministro della marina mercantile - le predette richieste sono inviate alla Direzione generale del Registro italiano navale, ovvero di altro istituto eventualmente autorizzato ai sensi dello [art. 3 del decreto legislativo del Capo provvisorio dello Stato 22 gennaio 1947, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-22;340#art_3), che dispone, a tal fine, l'invio di propri periti nel luogo dove la nave deve essere stazzata.
 
 ## Art. 9.
 

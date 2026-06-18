@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione tecnica;
 
-Vista la tabella organica della Scuola tecnica agraria di Pozzuolo del Friuli, annessa al [regio decreto 31 agosto 1933, n. 1975](../Regi%20decreti/Trasformazione%20della%20Scuola%20pratica%20dagricoltura%20di%20Pozzuolo%20del%20Friuli%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20agrario.%20033U1975.md), pubblicato nel supplemento straordinario alla Gazzetta Ufficiale n. 34 del 10 febbraio 1934;
+Vista la tabella organica della Scuola tecnica agraria di Pozzuolo del Friuli, annessa al [regio decreto 31 agosto 1933, n. 1975](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20della%20Scuola%20pratica%20dagricoltura%20di%20Pozzuolo%20del%20Friuli%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20agrario.%20033U1975.md), pubblicato nel supplemento straordinario alla Gazzetta Ufficiale n. 34 del 10 febbraio 1934;
 
 Considerata l'opportunita' di istituire, per esigenze di servizio, un posto di applicato incaricato e di sopprimere uno dei due posti di operaio previsti dalla tabella organica anzidetta;
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione di co
 
 ## Art. 1.
 
-A decorrere dal 1 ottobre 1950 uno dei due posti di operaio previsti dalla tabella organica della Scuola tecnica agraria, di Pozzuolo del Friuli, annessa al [regio decreto 31 agosto 1933, n. 1975](../Regi%20decreti/Trasformazione%20della%20Scuola%20pratica%20dagricoltura%20di%20Pozzuolo%20del%20Friuli%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20agrario.%20033U1975.md), e' soppresso e viene istituito, in sua sostituzione, un posto di applicato incaricato.
+A decorrere dal 1 ottobre 1950 uno dei due posti di operaio previsti dalla tabella organica della Scuola tecnica agraria, di Pozzuolo del Friuli, annessa al [regio decreto 31 agosto 1933, n. 1975](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20della%20Scuola%20pratica%20dagricoltura%20di%20Pozzuolo%20del%20Friuli%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20agrario.%20033U1975.md), e' soppresso e viene istituito, in sua sostituzione, un posto di applicato incaricato.
 
 ## Art. 2.
 

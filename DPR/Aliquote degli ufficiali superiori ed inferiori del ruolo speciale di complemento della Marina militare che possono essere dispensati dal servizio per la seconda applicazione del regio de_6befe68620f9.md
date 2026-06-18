@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 7 del regio decreto legislativo 31 maggio 1946, n. 490](../Regi%20decreti%20legislativi/Collocamento%20in%20ausiliaria%20o%20dispensa%20dal%20servizio%20a%20domanda%20o%20di%20autorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20e%20degli%20ufficiali%20del%20ruolo%20speciale%20di%20complemento%20d_a5ab4a4bd961.md);
+Visto l'[art. 7 del regio decreto legislativo 31 maggio 1946, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Collocamento%20in%20ausiliaria%20o%20dispensa%20dal%20servizio%20a%20domanda%20o%20di%20autorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20e%20degli%20ufficiali%20del%20ruolo%20speciale%20di%20complemento%20d_a5ab4a4bd961.md);
 
 Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il tesoro; Decreta:
 
 ## Art. 1.
 
-Le aliquote degli ufficiali superiori ed inferiori del ruolo speciale di complemento della Marina militare, che possono essere dispensati dal servizio, per la seconda applicazione del [regio decreto legislativo 31 maggio 1946, n. 490](../Regi%20decreti%20legislativi/Collocamento%20in%20ausiliaria%20o%20dispensa%20dal%20servizio%20a%20domanda%20o%20di%20autorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20e%20degli%20ufficiali%20del%20ruolo%20speciale%20di%20complemento%20d_a5ab4a4bd961.md), sono fissate per ciascun Corpo e grado come segue:
+Le aliquote degli ufficiali superiori ed inferiori del ruolo speciale di complemento della Marina militare, che possono essere dispensati dal servizio, per la seconda applicazione del [regio decreto legislativo 31 maggio 1946, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Collocamento%20in%20ausiliaria%20o%20dispensa%20dal%20servizio%20a%20domanda%20o%20di%20autorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20e%20degli%20ufficiali%20del%20ruolo%20speciale%20di%20complemento%20d_a5ab4a4bd961.md), sono fissate per ciascun Corpo e grado come segue:
 
  Corpo di Stato Maggiore
 

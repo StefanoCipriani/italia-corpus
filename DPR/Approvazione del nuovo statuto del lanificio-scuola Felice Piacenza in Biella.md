@@ -14,7 +14,7 @@ N.
 
 755.
 
-Decreto del Presidente della Repubblica 10 giugno 1977, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto del lanificio-scuola "Felice Piacenza", in Biella (Vercelli), eretto in ente morale con [regio decreto 26 novembre 1912, n. 1299](../Regi%20decreti/Erezione%20in%20ente%20morale.%20012U1299.md).
+Decreto del Presidente della Repubblica 10 giugno 1977, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto del lanificio-scuola "Felice Piacenza", in Biella (Vercelli), eretto in ente morale con [regio decreto 26 novembre 1912, n. 1299](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale.%20012U1299.md).
 
 Visto, il Guardasigilli: BONIFACIO
  Registrato alla Corte dei conti, addi' 7 ottobre 1977

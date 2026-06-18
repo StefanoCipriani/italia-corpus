@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
- Visto il [regio decreto 27 maggio 1940, n. 875](../Regi%20decreti/Approvazione%20di%20nuove%20norme%20per%20la%20compilazione%20dei%20progetti%20di%20edifici%20scolastici%20per%20le%20scuole%20elementari%20e%20preelementari.%20040U0875.md), recante norme per la compilazione dei progetti di edifici scolastici per le scuole elementari e preelementari;
+ Visto il [regio decreto 27 maggio 1940, n. 875](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20di%20nuove%20norme%20per%20la%20compilazione%20dei%20progetti%20di%20edifici%20scolastici%20per%20le%20scuole%20elementari%20e%20preelementari.%20040U0875.md), recante norme per la compilazione dei progetti di edifici scolastici per le scuole elementari e preelementari;
  Vista la [legge 9 agosto 1954, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-08-09;645), concernente fra l'altro, provvidenze straordinarie a favore dell'edilizia scolastica;
  Sentito il parere del Consiglio superiore dei lavori pubblici;
  Sentito il parere del Consiglio superiore di sanita';

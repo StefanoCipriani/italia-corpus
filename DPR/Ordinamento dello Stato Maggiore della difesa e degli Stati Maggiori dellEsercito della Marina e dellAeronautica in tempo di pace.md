@@ -20,7 +20,7 @@ CAPO I
 
 AGGIORNAMENTO (3)
 
-IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
+IL [D.P.R. 25 ottobre 1999, n. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
 
 ### Art. 2.
 
@@ -30,7 +30,7 @@ IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20d
 
 AGGIORNAMENTO (3)
 
-IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
+IL [D.P.R. 25 ottobre 1999, n. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
 
 ### Art. 3.
 
@@ -40,7 +40,7 @@ IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20d
 
 AGGIORNAMENTO (3)
 
-IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
+IL [D.P.R. 25 ottobre 1999, n. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
 
 ### Art. 4.
 
@@ -50,7 +50,7 @@ IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20d
 
 AGGIORNAMENTO (3)
 
-IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
+IL [D.P.R. 25 ottobre 1999, n. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
 
 ### Art. 5.
 
@@ -60,7 +60,7 @@ IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20d
 
 AGGIORNAMENTO (3)
 
-IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
+IL [D.P.R. 25 ottobre 1999, n. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
 
 ### Art. 6.
 
@@ -70,7 +70,7 @@ IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20d
 
 AGGIORNAMENTO (3)
 
-IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
+IL [D.P.R. 25 ottobre 1999, n. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
 
 ### Art. 7.
 
@@ -80,7 +80,7 @@ IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20d
 
 AGGIORNAMENTO (3)
 
-IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
+IL [D.P.R. 25 ottobre 1999, n. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
 
 ## STATI MAGGIORI DELL'ESERCITO, DELLA MARINA E DELL'AERONAUTICA
 
@@ -94,7 +94,7 @@ CAPO II
 
 AGGIORNAMENTO (3)
 
-IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
+IL [D.P.R. 25 ottobre 1999, n. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
 
 ### Art. 9.
 
@@ -104,7 +104,7 @@ IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20d
 
 AGGIORNAMENTO (3)
 
-IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
+IL [D.P.R. 25 ottobre 1999, n. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
 
 ### Art. 10.
 
@@ -114,7 +114,7 @@ IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20d
 
 AGGIORNAMENTO (3)
 
-IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
+IL [D.P.R. 25 ottobre 1999, n. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
 
 ### Art. 11.
 
@@ -124,7 +124,7 @@ IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20d
 
 AGGIORNAMENTO (3)
 
-IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
+IL [D.P.R. 25 ottobre 1999, n. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
 
 ### Art. 12.
 
@@ -134,7 +134,7 @@ IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20d
 
 AGGIORNAMENTO (3)
 
-IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
+IL [D.P.R. 25 ottobre 1999, n. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
 
 ### Art. 13.
 
@@ -144,7 +144,7 @@ IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20d
 
 AGGIORNAMENTO (3)
 
-IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
+IL [D.P.R. 25 ottobre 1999, n. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
 
 ### Art. 14.
 
@@ -154,7 +154,7 @@ IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20d
 
 AGGIORNAMENTO (3)
 
-IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
+IL [D.P.R. 25 ottobre 1999, n. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
 
 ### Art. 15.
 
@@ -164,7 +164,7 @@ IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20d
 
 AGGIORNAMENTO (3)
 
-IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
+IL [D.P.R. 25 ottobre 1999, n. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
 
 ### Art. 16.
 
@@ -174,4 +174,4 @@ IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20d
 
 AGGIORNAMENTO (3)
 
-IL [D.P.R. 25 ottobre 1999, n. 556](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.
+IL [D.P.R. 25 ottobre 1999, n. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md) ha disposto (con l'art. 22, comma 1) che, l' abrogazione del presente D.P.R. ha effetto dalla data di entrata in vigore dello stesso D.P.R. n. 556.

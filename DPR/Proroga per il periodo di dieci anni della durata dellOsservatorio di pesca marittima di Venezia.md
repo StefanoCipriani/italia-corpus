@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Visto il testo unico delle leggi sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md);
  Visto l'[art. 5 della legge 21 maggio 1940, n. 626](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assegnazione%20di%20mezzi%20finanziari%20al%20Commissariato%20generale%20per%20la%20pesca.%20040U0626.md);
- Visto il [regio decreto 8 aprile 1939, n. 844](../Regi%20decreti/Istituzione%20di%20un%20Osservatorio%20di%20pesca%20marittima%20in%20Venezia.%20039U0844.md), che istituisce, per la durata di anni dieci a partire dal 1 luglio 1939, l'Osservatorio di pesca marittima di Venezia e che fissa in L. 40.000 il contributo annuo dello Stato;
+ Visto il [regio decreto 8 aprile 1939, n. 844](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20Osservatorio%20di%20pesca%20marittima%20in%20Venezia.%20039U0844.md), che istituisce, per la durata di anni dieci a partire dal 1 luglio 1939, l'Osservatorio di pesca marittima di Venezia e che fissa in L. 40.000 il contributo annuo dello Stato;
  Visto il [decreto del Capo provvisorio dello Stato 23 settembre 1947, n. 1315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-09-23;1315), che eleva il contributo annuo dello Stato a L. 320.000;
  Visto il [decreto del Presidente della Repubblica in data 3 giugno 1949, n. 633](Proroga%20di%20un%20anno%20della%20durata%20dellOsservatorio%20di%20pesca%20marittima%20di%20Venezia.md), che proroga di un anno la durata, dell'Osservatorio predetto a decorrere dal 1 luglio 1949;
  Udito il parere del Consiglio di Stato emesso nell'adunanza del 26 giugno 1950;

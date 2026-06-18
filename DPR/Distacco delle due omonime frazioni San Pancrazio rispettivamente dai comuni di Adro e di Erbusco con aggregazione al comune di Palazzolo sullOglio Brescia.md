@@ -14,7 +14,7 @@ Viste le istanze in data 9, 10, 13 e 24 aprile 1949, con le quali le maggioranze
 
 Viste le deliberazioni del Consiglio comunale di Adro in data 8 novembre 1959, n. 176; del Consiglio comunale di Erbusco in data 14 aprile 1949, n. 22, ed in data 21 dicembre 1959, n. 45; del Consiglio comunale di Palazzolo sull'Oglio in data 19 dicembre 1959, n. 52; del Consiglio provinciale di Brescia in data 27 maggio 1960, n. 2-16, ed in data 14 settembre 1961, n. 5-8, con le quali e' stato espresso parere in ordine alle variazioni territoriali in parola;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla prima sezione del Consiglio di Stato nell'adunanza del 20 febbraio 1962, n. 2314;
 

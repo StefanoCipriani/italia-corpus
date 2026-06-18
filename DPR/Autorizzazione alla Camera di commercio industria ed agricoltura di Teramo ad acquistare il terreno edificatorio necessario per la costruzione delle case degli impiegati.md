@@ -14,7 +14,7 @@ Visto il [regio decreto 20 settembre 1935, n. 2011](https://www.normattiva.it/ur
 
 Visto il [decreto legislativo luogotenenziale 21 settembre 1944, n. 315](../Decreti%20legislativi%20luogotenenziali/Soppressione%20dei%20Consigli%20e%20degli%20Uffici%20provinciali%20delleconomia%20e%20istituzione%20delle%20Camere%20di%20commercio%20industria%20e%20agricoltura%20nonche%20degli%20Uffici%20provinciali%20del%20commercio%20e%20dellindus_d702b8b2a697.md), sulla soppressione dei Consigli e degli Uffici provinciali dell'economia e la ricostituzione delle Camere di commercio, industria ed agricoltura, nonche' degli Uffici provinciali del commercio e dell'industria;
 
-Vista la legge 5 giugno 1850, n. 1037 ed il [regio decreto 26 giugno 1864, n. 1817](../Regi%20decreti/Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md);
+Vista la legge 5 giugno 1850, n. 1037 ed il [regio decreto 26 giugno 1864, n. 1817](../Atti%20normativi%20abrogati%20%28in%20originale%29/Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md);
 
 Vista la [deliberazione n. 12 del 7 ottobre 1947 della Camera di commercio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:camera.commercio:delibera:1947-10-07;12), industria ed agricoltura di Teramo, con la quale e' stato stabilito di procedere all'acquisto del terreno necessario per la costruzione delle case degli impiegati;
 

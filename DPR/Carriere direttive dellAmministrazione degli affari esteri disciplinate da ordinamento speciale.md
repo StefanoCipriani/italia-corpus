@@ -179,7 +179,7 @@ Il Consiglio di amministrazione del Ministero degli affari esteri e' composto:
 
 ### Art. 19.
 
-La composizione della Commissione di disciplina per il personale delle carriere dipendenti dal Ministero degli affari esteri e' quella stabilita dal [regio decreto 27 ottobre 1932, n. 1473](../Regi%20decreti/Modifica%20della%20composizione%20della%20Commissione%20di%20disciplina%20per%20i%20funzionari%20dipendenti%20dal%20Ministero%20degli%20affari%20esteri.%20032U1473.md).
+La composizione della Commissione di disciplina per il personale delle carriere dipendenti dal Ministero degli affari esteri e' quella stabilita dal [regio decreto 27 ottobre 1932, n. 1473](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20composizione%20della%20Commissione%20di%20disciplina%20per%20i%20funzionari%20dipendenti%20dal%20Ministero%20degli%20affari%20esteri.%20032U1473.md).
 
 ### Art. 20.
 

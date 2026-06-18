@@ -42,9 +42,9 @@ Vista la tariffa dei dazi doganali d'importazione, approvata con [decreto del Pr
 
 Vista la tariffa doganale comune delle Comunita' europee, approvata con regolamento del consiglio delle Comunita' europee n. 950/68/CEE del 28 giugno 1968, e successive modificazioni;
 
-Vista la [legge 14 dicembre 1976, n. 847](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriore%20proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20tariffa%20dei%20dazi%20doganali%20di%20importazione%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013%20e%20delega%20al%20G_a0eac3bdb9e2.md), con la quale e' stata ulteriormente prorogata la delega al Governo ad apportare modificazioni alla detta tariffa dei dazi doganali d'importazione, conferita con l'[art. 3 della legge 10 febbraio 1965, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-02-10;13#art_3);
+Vista la [legge 14 dicembre 1976, n. 847](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ulteriore%20proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20tariffa%20dei%20dazi%20doganali%20di%20importazione%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013%20e%20delega%20al%20G_a0eac3bdb9e2.md), con la quale e' stata ulteriormente prorogata la delega al Governo ad apportare modificazioni alla detta tariffa dei dazi doganali d'importazione, conferita con l'[art. 3 della legge 10 febbraio 1965, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-02-10;13#art_3);
 
-Udito il parere della Commissione parlamentare di cui all'art. 4 della predetta [legge 1 febbraio 1965, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20una%20nuova%20tariffa%20dei%20dazi%20doganali.md), e successive modificazioni;
+Udito il parere della Commissione parlamentare di cui all'art. 4 della predetta [legge 1 febbraio 1965, n. 13](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20una%20nuova%20tariffa%20dei%20dazi%20doganali.md), e successive modificazioni;
 
 Sentito il Consiglio dei Ministri;
 

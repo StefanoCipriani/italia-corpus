@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
-Visto il [regio decreto 17 settembre 1936, n. 1893](../Regi%20decreti/Attuazione%20nei%20confronti%20della%20Regia%20universita%20di%20Milano%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071.%20036U1893.md);
+Visto il [regio decreto 17 settembre 1936, n. 1893](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20nei%20confronti%20della%20Regia%20universita%20di%20Milano%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071.%20036U1893.md);
 
 Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro; Decreta:
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
 
-Veduto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 816](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allordinamento%20della%20scuola%20media%20Istituzione%20di%20classi%20di%20collegamento%20col%20liceo%20scientifico%20con%20listituito%20magistrale%20e%20con%20gli%20istituti%20tecnici%20e%20disposizioni%20per%20il%20pers_9814349c1e47.md);
+Veduto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 816](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allordinamento%20della%20scuola%20media%20Istituzione%20di%20classi%20di%20collegamento%20col%20liceo%20scientifico%20con%20listituito%20magistrale%20e%20con%20gli%20istituti%20tecnici%20e%20disposizioni%20per%20il%20pers_9814349c1e47.md);
 
 Veduto il [decreto del Presidente della Repubblica 30 settembre 1961, n. 1222](Sostituzione%20degli%20orari%20e%20dei%20programmi%20di%20insegnamento%20negli%20Istituti%20tecnici.md);
 

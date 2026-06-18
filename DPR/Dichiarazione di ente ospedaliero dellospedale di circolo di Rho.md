@@ -23,7 +23,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Il consiglio di amministrazione dell'ente ospedaliero suddetto e' composto come segue: 
  cinque membri eletti dal consiglio provinciale di Milano; 
  due membri eletti dal consiglio comunale di Rho; 
- due membri in rappresentanza degli originari interessi dell'ente, designati e nominati ai sensi dello statuto dell'ente, approvato con [regio decreto 13 giugno 1929, n. 1280](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellOpera%20pia%20Ospedale%20di%20circolo%20Monumento%20ai%20caduti%20per%20la%20Patria%20in%20Rho.%20029U1280.md).
+ due membri in rappresentanza degli originari interessi dell'ente, designati e nominati ai sensi dello statuto dell'ente, approvato con [regio decreto 13 giugno 1929, n. 1280](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20dellOpera%20pia%20Ospedale%20di%20circolo%20Monumento%20ai%20caduti%20per%20la%20Patria%20in%20Rho.%20029U1280.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

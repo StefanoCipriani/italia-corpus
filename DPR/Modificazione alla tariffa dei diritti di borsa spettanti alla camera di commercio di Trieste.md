@@ -15,7 +15,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Visto il [regio decreto-legge 23 dicembre 1926, n. 2348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-23;2348), con il quale la camera di commercio, industria, artigianato ed agricoltura di Trieste e' stata autorizzata a percepire i diritti per la quotazione ufficiale dei titoli presso la locale borsa valori;
  Visto il [decreto presidenziale 8 novembre 1973, n. 1059](Modificazione%20alla%20tariffa%20dei%20diritti%20di%20borsa%20spettanti%20alla%20camera%20di%20commercio%20industria%20artigianato%20e%20agricoltura%20di%20Trieste.md), con il quale sono state apportate modificazioni alle precedenti tariffe dei suddetti diritti di quotazione;
  Vista la delibera della camera di commercio, industria, artigianato ed agricoltura di Trieste n. 174 del 22 marzo 1982 con la quale e' stata proposta la parziale modifica della predetta tariffa;
- Visti gli articoli 32 e 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), recante norme in materia di diritti di borsa;
+ Visti gli articoli 32 e 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), recante norme in materia di diritti di borsa;
  Sulla proposta del Ministro del tesoro;
 
  Decreta:

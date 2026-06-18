@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 10 dicembre 1925, n. 2347](../Regi%20decreti/Approvazione%20della%20convenzione%20per%20la%20concessione%20della%20costruzione%20e%20dellesercizio%20della%20ferrovia%20del%20Tavo%20Penne-Montesilvano%20-%20Castellammare%20Adriatico.%20025U2347.md), col quale e stata approvata e resa esecutoria la convenzione 3 dicembre 1925, per la concessione alla Societa' Ferrovie elettriche abruzzesi della costruzione e dell'esercizio della ferrovia del Tavo (Penne-Castellammare Adriatico con raccordo al porto di Pescara);
+Visto il [regio decreto 10 dicembre 1925, n. 2347](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20convenzione%20per%20la%20concessione%20della%20costruzione%20e%20dellesercizio%20della%20ferrovia%20del%20Tavo%20Penne-Montesilvano%20-%20Castellammare%20Adriatico.%20025U2347.md), col quale e stata approvata e resa esecutoria la convenzione 3 dicembre 1925, per la concessione alla Societa' Ferrovie elettriche abruzzesi della costruzione e dell'esercizio della ferrovia del Tavo (Penne-Castellammare Adriatico con raccordo al porto di Pescara);
 
 Visto l'art. 26 della suddetta convenzione con il quale, agli effetti della convenzione medesima, la Societa' concessionaria ha eletto il proprio domicilio legale in Roma, via del Tritone n. 132, obbligandosi a tenere ivi la sede degli uffici di direzione e amministrazione della ferrovia concessa;
 

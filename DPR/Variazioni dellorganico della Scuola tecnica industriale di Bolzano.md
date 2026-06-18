@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
- Visto il [regio decreto 31 agosto 1933, n. 2016](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20industriale%20di%20Bolzano%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2016.md), riguardante la, trasformazione della Scuola industriale di Bolzano in Scuola tecnica ad indirizzo industriale ed artigiano;
+ Visto il [regio decreto 31 agosto 1933, n. 2016](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20della%20Regia%20scuola%20industriale%20di%20Bolzano%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2016.md), riguardante la, trasformazione della Scuola industriale di Bolzano in Scuola tecnica ad indirizzo industriale ed artigiano;
  Vista la, tabella organica annessa al suddetto decreto;
  Visto il [regio decreto 16 ottobre 1940, n. 1973](../Regi%20decreti/Istituzione%20trasformazione%20e%20soppressione%20di%20Scuole%20e%20Istituti%20di%20istruzione%20tecnica%20a%20decorrere%20dal%2016%20ottobre%201939-XVII.%20040U1973.md), con il quale, fra l'altro, si provvede all'istituzione in Bolzano di un Istituto tecnico industriale;
  Vista la tabella B annessa al predetto regio decreto (prospetto n. 1);

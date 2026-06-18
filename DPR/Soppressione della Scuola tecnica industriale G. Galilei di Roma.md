@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
 
-Veduto il [regio decreto 24 agosto 1933, n. 2192](../Regi%20decreti/Trasformazione%20del%20Regio%20istituto%20nazionale%20di%20istruzione%20professionale%20di%20Roma%20in%20Regio%20istituto%20tecnico%20industriale.%20033U2192.md), riguardante l'istituzione della Scuola tecnica industriale "G.
+Veduto il [regio decreto 24 agosto 1933, n. 2192](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20nazionale%20di%20istruzione%20professionale%20di%20Roma%20in%20Regio%20istituto%20tecnico%20industriale.%20033U2192.md), riguardante l'istituzione della Scuola tecnica industriale "G.
 
 Galilei" di Roma;
 

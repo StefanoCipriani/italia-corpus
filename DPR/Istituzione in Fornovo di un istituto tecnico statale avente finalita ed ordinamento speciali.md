@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
 
-Visto il [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
+Visto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
 
 Visto l'[art. 9 del regio decreto 21 settembre 1938, n. 2038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-21;2038#art_9), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
 Veduti i decreti del Presidente della Repubblica numeri 416, 417, 418, 419, [420 del 31 maggio 1974](Norme%20sullo%20stato%20giuridico%20del%20personale%20non%20insegnante%20statale%20delle%20scuole%20materne%20elementari%20secondarie%20ed%20artistiche.md);
 
-Vista la [delibera n. 13/90 in data 26 aprile 1976](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1976-04-26;13), con la quale l'amministrazione provinciale di Parma ha ratificato la [delibera n. 24 del 2 marzo 1976 della giunta provinciale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:giunta.provincia.:delibera:1976-03-02;24), relativa all'assunzione degli obblighi previsti dall'[art. 144, lettera E), del regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), per il funzionamento nella sede di Fornovo di un istituto tecnico statale ad ordinamento speciale;
+Vista la [delibera n. 13/90 in data 26 aprile 1976](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1976-04-26;13), con la quale l'amministrazione provinciale di Parma ha ratificato la [delibera n. 24 del 2 marzo 1976 della giunta provinciale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:giunta.provincia.:delibera:1976-03-02;24), relativa all'assunzione degli obblighi previsti dall'[art. 144, lettera E), del regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), per il funzionamento nella sede di Fornovo di un istituto tecnico statale ad ordinamento speciale;
 
 Sulla proposta del Ministro della pubblica istruzione, di concerto con quelli dell'interno e del tesoro; Decreta:
 

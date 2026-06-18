@@ -125,7 +125,7 @@ Ai fini del presente testo unico si intende per:
 
 1.
 
-Le norme del presente testo unico disciplinano la formazione, il rilascio, la tenuta e la conservazione, la gestione, la trasmissione di atti e documenti da parte di organi della pubblica amministrazione; disciplinano altresi' la produzione di atti e documenti agli organi della pubblica amministrazione nonche' ai gestori di pubblici servizi nei rapporti tra loro e in quelli con l'utenza, e ai privati ((...)). PERIODO ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
+Le norme del presente testo unico disciplinano la formazione, il rilascio, la tenuta e la conservazione, la gestione, la trasmissione di atti e documenti da parte di organi della pubblica amministrazione; disciplinano altresi' la produzione di atti e documenti agli organi della pubblica amministrazione nonche' ai gestori di pubblici servizi nei rapporti tra loro e in quelli con l'utenza, e ai privati ((...)). PERIODO ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
 
 ### Art. 3. — (R) 
  Soggetti
@@ -479,27 +479,27 @@ Nei documenti d'identita' e di riconoscimento non e' necessaria l'indicazione o 
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
+COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
+COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
+COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
+COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
 
 5.
 
-COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
+COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
 
 6.
 
-COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
+COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
 
 ((
 
@@ -537,7 +537,7 @@ Tutte le istanze e le dichiarazioni da presentare alla pubblica amministrazione 
 
 2.
 
-Le istanze e le dichiarazioni inviate per via telematica((, ivi comprese le domande per la partecipazione a selezioni e concorsi per l'assunzione, a qualsiasi titolo, in tutte le pubbliche amministrazioni, o per l'iscrizione in albi, registri o elenchi tenuti presso le pubbliche amministrazioni,)) sono valide se effettuate secondo quanto previsto dall'[articolo 65 del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
+Le istanze e le dichiarazioni inviate per via telematica((, ivi comprese le domande per la partecipazione a selezioni e concorsi per l'assunzione, a qualsiasi titolo, in tutte le pubbliche amministrazioni, o per l'iscrizione in albi, registri o elenchi tenuti presso le pubbliche amministrazioni,)) sono valide se effettuate secondo quanto previsto dall'[articolo 65 del decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
 
 3.
 
@@ -615,7 +615,7 @@ Le amministrazioni pubbliche e i gestori di pubblici servizi sono tenuti ad acqu
 
 2.
 
-Fermo restando il divieto di accesso a dati diversi da quelli di cui e' necessario acquisire la certezza o verificare l'esattezza, si considera operata per finalita' di rilevante interesse pubblico, ai fini di quanto previsto dal [decreto legislativo 11 maggio 1999, n. 135](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20della%20legge%2031%20dicembre%201996%20n.%20675%20sul%20trattamento%20di%20dati%20sensibili%20da%20parte%20dei%20soggetti%20pubblici.md), la consultazione diretta, da parte di una pubblica amministrazione o di un gestore di pubblico servizio, degli archivi dell'amministrazione certificante, finalizzata all'accertamento d'ufficio di stati, qualita' e fatti ovvero al controllo sulle dichiarazioni sostitutive presentate dai cittadini. ((PERIODO SOPPRESSO DAL D.L. 31 MAGGIO 2021, N. 77)). (L) ((36))
+Fermo restando il divieto di accesso a dati diversi da quelli di cui e' necessario acquisire la certezza o verificare l'esattezza, si considera operata per finalita' di rilevante interesse pubblico, ai fini di quanto previsto dal [decreto legislativo 11 maggio 1999, n. 135](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20integrative%20della%20legge%2031%20dicembre%201996%20n.%20675%20sul%20trattamento%20di%20dati%20sensibili%20da%20parte%20dei%20soggetti%20pubblici.md), la consultazione diretta, da parte di una pubblica amministrazione o di un gestore di pubblico servizio, degli archivi dell'amministrazione certificante, finalizzata all'accertamento d'ufficio di stati, qualita' e fatti ovvero al controllo sulle dichiarazioni sostitutive presentate dai cittadini. ((PERIODO SOPPRESSO DAL D.L. 31 MAGGIO 2021, N. 77)). (L) ((36))
 
 3.
 
@@ -643,7 +643,7 @@ Il [D.L. 29 dicembre 2011, n. 216](../DL%20proroghe/Proroga%20di%20termini%20pre
 
 AGGIORNAMENTO (36)
 
-Il [D.L. 31 maggio 2021, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77) ha disposto (con l'art. 39, comma 6) che "La disposizione di cui al comma 5, lettera a), ha efficacia dalla data fissata ai sensi dell'[articolo 50-ter, comma 2-bis, del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), inserito dal presente decreto. Fino alla predetta data, resta assicurata l'interoperabilita' dei dati di cui all'[articolo 50 del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), tramite accordi quadro, accordi di fruizione o apposita autorizzazione".
+Il [D.L. 31 maggio 2021, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77) ha disposto (con l'art. 39, comma 6) che "La disposizione di cui al comma 5, lettera a), ha efficacia dalla data fissata ai sensi dell'[articolo 50-ter, comma 2-bis, del decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), inserito dal presente decreto. Fino alla predetta data, resta assicurata l'interoperabilita' dei dati di cui all'[articolo 50 del decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), tramite accordi quadro, accordi di fruizione o apposita autorizzazione".
 
 ### Art. 43-bis. — (( (Certificazione e documentazione d'impresa). ))
 
@@ -831,7 +831,7 @@ Nota all'art. 48:
  f) il nome, la denominazione o la ragione sociale e il domicilio, la residenza o la sede del titolare e, se designato, del responsabile.
  2. L'informativa di cui al comma 1 puo' non comprendere gli elementi gia' noti alla persona che fornisce i dati o la cui conoscenza puo' ostacolare l'espletamento di funzioni pubbliche ispettive o di controllo, svolte per il perseguimento delle finalita' di cui agli articoli 4, comma 1, lettera e), e 14, comma 1, lettera d).
  3. Quando i dati personali non sono raccolti presso l'interessato l'informativa di cui al comma 1 e' data al medesimo interessato all'atto della registrazione dei dati o, qualora sia prevista la loro comunicazione, non oltre la prima comunicazione.
- 4. La disposizione di cui al comma 3 non si applica quando l'informativa all'interessato comporta un impiego di mezzi che il Garante dichiari manifestamente sproporzionati rispetto al diritto tutelato, ovvero si rivela, a giudizio del Garante, impossibile, ovvero nel caso in cui i dati sono trattati in base ad un obbligo previsto dalla legge, da un regolamento o dalla normativa comunitaria. La medesima disposizione non si applica, altresi', quando i dati sono trattati ai fini dello svolgimento delle investigazioni di cui all'art. 38 delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvate con [decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), e successive modificazioni, o, comunque, per far valere o difendere un diritto in sede giudiziaria, sempre che i dati siano trattati esclusivamente per tali finalita' e per il periodo strettamente necessario al loro perseguimento".
+ 4. La disposizione di cui al comma 3 non si applica quando l'informativa all'interessato comporta un impiego di mezzi che il Garante dichiari manifestamente sproporzionati rispetto al diritto tutelato, ovvero si rivela, a giudizio del Garante, impossibile, ovvero nel caso in cui i dati sono trattati in base ad un obbligo previsto dalla legge, da un regolamento o dalla normativa comunitaria. La medesima disposizione non si applica, altresi', quando i dati sono trattati ai fini dello svolgimento delle investigazioni di cui all'art. 38 delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvate con [decreto legislativo 28 luglio 1989, n. 271](../Codici/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), e successive modificazioni, o, comunque, per far valere o difendere un diritto in sede giudiziaria, sempre che i dati siano trattati esclusivamente per tali finalita' e per il periodo strettamente necessario al loro perseguimento".
 
 ### Art. 49.
 
@@ -1312,7 +1312,7 @@ La dichiarazione mendace comporta, altresi', la revoca degli eventuali benefici 
 
 1.
 
-Chiunque rilascia dichiarazioni mendaci, forma atti falsi o ne fa uso nei casi previsti dal presente testo unico e' punito ai sensi del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle leggi speciali in materia. ((La sanzione ordinariamente prevista dal codice penale e' aumentata da un terzo alla meta'.))
+Chiunque rilascia dichiarazioni mendaci, forma atti falsi o ne fa uso nei casi previsti dal presente testo unico e' punito ai sensi del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle leggi speciali in materia. ((La sanzione ordinariamente prevista dal codice penale e' aumentata da un terzo alla meta'.))
 
 2.
 
@@ -1489,7 +1489,7 @@ Dalla data di entrata in vigore del presente testo unico restano comunque in vig
                                 fino alla loro sostituzione, i regolamenti ministeriali, le direttive e i decreti ministeriali a contenuto generale, nonche' le regole tecniche gia' emanate alla data di entrata in vigore del presente testo unico;
                             g)
                                 tutte le disposizioni legislative in materia di conservazione di beni archivistici di cui al capo il del [d.Lgs. 29 ottobre 1999, n. 
-490](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md).
+490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md).
 
 2.
 
@@ -2024,7 +2024,7 @@ Note all'[art. 78:
  "Art. 4 (Particolari trattamenti in ambito pubblico.) -1. La presente legge non si applica al trattamento di dati personali effettuato: 
  a) dal centro elaborazione dati di cui all'art. 8 della legge 1( aprile 1981, n. 121, come modificato dall'art. 43, comma 1, della presente legge, ovvero sui dati destinati a confluirvi in base alla legge, nonche' in virtu' dell'accordo di adesione alla convenzione di applicazione dell'accordo di Schengen, reso esecutivo con [legge 30 settembre 1993, n. 388](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20a%20del%20protocollo%20di%20adesione%20del%20Governo%20della%20Repubblica%20italiana%20allaccordo%20di%20Schengen%20del%2014%20giugno%201985%20tra%20i%20governi%20degli%20Stati%20dellUnione%20economica%20del%20Bene_89c9272671c4.md); 
  b) dagli organismi di cui agli [articoli 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md), [4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md) e [6 della legge 24 ottobre 1977, n. 801](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md), ovvero sui dati coperti da segreto di Stato ai sensi dell'art. 12 della medesima legge; 
- c) nell'ambito del servizio del casellario giudiziale di cui al titolo IV del libro decimo del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e al [regio decreto 18 giugno 1931, n. 778](../Regi%20decreti/Disposizioni%20regolamentari%20per%20il%20servizio%20del%20casellario%20giudiziale.%20031U0778.md), e successive modificazioni, o, in base alla legge, nell'ambito del servizio dei carichi pendenti nella materia penale; 
+ c) nell'ambito del servizio del casellario giudiziale di cui al titolo IV del libro decimo del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e al [regio decreto 18 giugno 1931, n. 778](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20regolamentari%20per%20il%20servizio%20del%20casellario%20giudiziale.%20031U0778.md), e successive modificazioni, o, in base alla legge, nell'ambito del servizio dei carichi pendenti nella materia penale; 
  d) in attuazione dell'[art. 371-bis, comma 3, del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_371bis-com3) o, per ragioni di giustizia, nell'ambito di uffici giudiziari, del Consiglio superiore della magistratura e del Ministero di grazia e giustizia; 
  
  e) da altri soggetti pubblici per finalita' di difesa o di sicurezza dello Stato o di prevenzione, accertamento o repressione dei reati, in base ad espresse disposizione di legge che prevedano specificamente il trattamento. 2. Ai trattamenti di cui al comma 1 si applicano in ogni caso le disposizioni di cui agli articoli 9, 15, 17, 18, 31, 32, commi 6 e 7, e 36 nonche', fatta eccezione per i trattamenti di cui alla lettera b) del comma 1, le disposizioni di cui agli articoli 7 e 34".

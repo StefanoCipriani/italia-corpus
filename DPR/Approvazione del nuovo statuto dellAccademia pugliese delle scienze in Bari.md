@@ -14,7 +14,7 @@ N.
 
 197.
 
-Decreto del Presidente della Repubblica 6 marzo 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene approvato il nuovo statuto dell'Accademia pugliese delle scienze, in Bari, riconosciuta giuridicamente con [regio decreto 16 marzo 1942, n. 313](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellAccademia%20pugliese%20delle%20scienze%20con%20sede%20in%20Bari.%20042U0313.md). 
+Decreto del Presidente della Repubblica 6 marzo 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene approvato il nuovo statuto dell'Accademia pugliese delle scienze, in Bari, riconosciuta giuridicamente con [regio decreto 16 marzo 1942, n. 313](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20dellAccademia%20pugliese%20delle%20scienze%20con%20sede%20in%20Bari.%20042U0313.md). 
  
 Visto, il Guardasigilli: MARTINAZZOLI 
  Registrato alla Corte dei conti, addi' 6 maggio 1986 

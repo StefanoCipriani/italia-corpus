@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA.
 
-Veduto lo statuto del Consorzio universitario di Cagliari, approvato con [regio decreto 11 gennaio 1937, n. 165](../Regi%20decreti/Approvazione%20della%20convenzione%20con%20annesso%20statuto%20stipulata%20tra%20la%20Regia%20universita%20di%20Cagliari%20ed%20alcuni%20Enti%20locali%20per%20la%20costituzione%20del%20Consorzio%20universitario%20della%20citta%20stessa.%20037U0165.md);
+Veduto lo statuto del Consorzio universitario di Cagliari, approvato con [regio decreto 11 gennaio 1937, n. 165](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20convenzione%20con%20annesso%20statuto%20stipulata%20tra%20la%20Regia%20universita%20di%20Cagliari%20ed%20alcuni%20Enti%20locali%20per%20la%20costituzione%20del%20Consorzio%20universitario%20della%20citta%20stessa.%20037U0165.md);
 
 Veduti gli articoli 60 e 61 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 

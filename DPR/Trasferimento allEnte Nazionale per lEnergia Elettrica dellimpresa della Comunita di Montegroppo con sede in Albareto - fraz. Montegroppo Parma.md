@@ -14,7 +14,7 @@ Vista la [legge 6 dicembre 1962, n. 1643](https://www.normattiva.it/uri-res/N2Ls
 
 Visto il [decreto del Presidente della Repubblica 4 febbraio 1936, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1936-02-04;36), contenente norme relative ai trasferimenti all'ENEL delle imprese esercenti le industrie elettriche;
 
-Vista la [legge 27 giugno 1964, n. 452](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Rinnovo%20di%20delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20relative%20allorganizzazione%20e%20al%20trattamento%20tributario%20dellEnte%20nazionale%20per%20lenergia%20elettrica%20e%20norme%20integrative%20della%20legge%206%20_d24ae857abef.md), sul rinnovo di delega al Governo per la emanazione di norme relative all'organizzazione e al trattamento tributario dell'ENEL, e norme integrative della [legge 6 dicembre 1962, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1643);
+Vista la [legge 27 giugno 1964, n. 452](../Atti%20normativi%20abrogati%20%28in%20originale%29/Rinnovo%20di%20delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20relative%20allorganizzazione%20e%20al%20trattamento%20tributario%20dellEnte%20nazionale%20per%20lenergia%20elettrica%20e%20norme%20integrative%20della%20legge%206%20_d24ae857abef.md), sul rinnovo di delega al Governo per la emanazione di norme relative all'organizzazione e al trattamento tributario dell'ENEL, e norme integrative della [legge 6 dicembre 1962, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1643);
 
 Visto l'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76);
 

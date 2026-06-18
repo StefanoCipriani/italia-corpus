@@ -14,7 +14,7 @@ Visto il [regio decreto-legge 9 gennaio 1940, n. 2](../Atti%20normativi%20abroga
 
 Visto il [decreto del Presidente della Repubblica 20 marzo 1953, n. 112](Testo%20unico%20delle%20leggi%20vigenti%20in%20materia%20di%20tasse%20sulle%20concessioni%20governative.md), che approva il testo unico delle leggi vigenti in materia di tasse sulle concessioni governative Visto l'[art. 4 nn. 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20dellEnte%20nazionale%20fascista%20per%20la%20protezione%20degli%20animali.%20038U0612.md) e [3 della legge 11 aprile 1938, n. 612](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20dellEnte%20nazionale%20fascista%20per%20la%20protezione%20degli%20animali.%20038U0612.md), che istituisco speciali diritti a favore dell'Ente nazionale per la protezione degli animali ed il decreto interministeriale 7 marzo 1940, col quale sono approvate le modalita' di riscossione dei diritti per la protezione degli animali;
 
-Visto il [regio decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), che approva il testo di legge delle tasse sui contratti di borsa;
+Visto il [regio decreto 30 dicembre 1923, n. 3278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), che approva il testo di legge delle tasse sui contratti di borsa;
 
 Vista la tabella allegata al [regio decreto legislativo 14 maggio 1916, n. 420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1916-05-14;420), recante provvedimenti in materia di imposte in surrogazione del bollo e dei registro;
 

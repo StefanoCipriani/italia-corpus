@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 27 agosto 1905, n. 430](../Regi%20decreti/Che%20approva%20e%20rende%20esecutiva%20lannessa%20tariffa%20dei%20diritti%20della%20Camera%20di%20commercio%20ed%20arti%20di%20Milano.%200500430R.md), con il quale venne approvata e resa esecutiva la tariffa dei diritti di quotazione dovuti alla camera di commercio di Milano, con esclusione dei titoli ammessi di diritto alla quotazione ufficiale;
+Visto il [regio decreto 27 agosto 1905, n. 430](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20e%20rende%20esecutiva%20lannessa%20tariffa%20dei%20diritti%20della%20Camera%20di%20commercio%20ed%20arti%20di%20Milano.%200500430R.md), con il quale venne approvata e resa esecutiva la tariffa dei diritti di quotazione dovuti alla camera di commercio di Milano, con esclusione dei titoli ammessi di diritto alla quotazione ufficiale;
 
-Visto il [regio decreto 11 maggio 1922, n. 711](../Regi%20decreti/Che%20modifica%20la%20tariffa%20dei%20diritti%20di%20segreteria%20della%20Camera%20di%20commercio%20e%20industria%20di%20Milano.%20022U0711.md), con il quale nel modificare tale tariffa e' stata confermata la predetta esenzione;
+Visto il [regio decreto 11 maggio 1922, n. 711](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20modifica%20la%20tariffa%20dei%20diritti%20di%20segreteria%20della%20Camera%20di%20commercio%20e%20industria%20di%20Milano.%20022U0711.md), con il quale nel modificare tale tariffa e' stata confermata la predetta esenzione;
 
 Vista la [deliberazione n. 24 del 10 gennaio 1977, con cui la camera di commercio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:camera.commercio:delibera:1977-01-10;24), industria, artigianato ed agricoltura di Milano ha richiesto la fissazione dei diritti di quotazione per taluni titoli ammessi di diritto alla quotazione ufficiale presso la locale borsa valori;
 
-Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale sono stabiliti la forma e l'organo competente per l'emanazione dei provvedimenti inerenti ai diritti di borsa;
+Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale sono stabiliti la forma e l'organo competente per l'emanazione dei provvedimenti inerenti ai diritti di borsa;
 
 Sulla proposta del Ministro del tesoro; Decreta:
 

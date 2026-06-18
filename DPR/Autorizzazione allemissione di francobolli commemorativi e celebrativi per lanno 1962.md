@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'art. 21 del Codice postale e delle telecomunicazioni, approvato con il [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
-Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima) approvato con il [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
+Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima) approvato con il [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
 
 Riconosciuta l'opportunita' di emettere tre francobolli dei quali, i primi due commemorativi rispettivamente di Giovanni Pascoli e Antonio Pacinotti nel cinquantenario della loro morte e il terzo celebrativo della Giornata del francobollo, nonche' di tre serie di francobolli di cui, la prima commemorativa di Santa Caterina da Siena in occasione delle celebrazioni per il quinto centenario della sua Canonizzazione e le rimanenti due celebrative rispettivamente dei Campionati mondiali di ciclismo del 1962 e dell'Idea Europea;
 

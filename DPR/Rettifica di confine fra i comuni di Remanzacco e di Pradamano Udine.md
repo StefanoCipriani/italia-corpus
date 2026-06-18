@@ -18,7 +18,7 @@ Vista la deliberazione del Consiglio provinciale di Udine in data 18 ottobre 195
 
 Udito il parere espresso dalla prima Sezione del Consiglio di Stato, nell'adunanza del 24 novembre 1959, n. 1863;
 
-Visti gli articoli 32 capoverso, e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 32 capoverso, e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
 

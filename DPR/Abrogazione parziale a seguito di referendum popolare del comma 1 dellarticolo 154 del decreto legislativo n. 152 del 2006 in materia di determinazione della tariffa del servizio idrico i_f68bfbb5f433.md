@@ -14,7 +14,7 @@ Visto l'[articolo 75 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto l'[articolo 37 della legge 25 maggio 1970, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-25;352#art_37);
 
-Visti gli atti trasmessi in data 14 luglio 2011 da parte dell'Ufficio centrale per il referendum presso la Corte di cassazione, relativi alla proclamazione del risultato del referendum indetto con decreto del Presidente della Repubblica 23 marzo 2011, pubblicato nella Gazzetta Ufficiale n. 77 del 4 aprile 2011, per l'abrogazione parziale del [comma 1 dell'articolo 154 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), in materia di determinazione della tariffa del servizio idrico integrato in base all'adeguata remunerazione del capitale investito;
+Visti gli atti trasmessi in data 14 luglio 2011 da parte dell'Ufficio centrale per il referendum presso la Corte di cassazione, relativi alla proclamazione del risultato del referendum indetto con decreto del Presidente della Repubblica 23 marzo 2011, pubblicato nella Gazzetta Ufficiale n. 77 del 4 aprile 2011, per l'abrogazione parziale del [comma 1 dell'articolo 154 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), in materia di determinazione della tariffa del servizio idrico integrato in base all'adeguata remunerazione del capitale investito;
 
 Sulla proposta del Presidente del Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Emana il seguente decreto:
 
 1.
 
-In esito al referendum di cui in premessa, il comma 1 dell'articolo 154 (Tariffa del servizio idrico integrato) del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), recante «Norme in materia ambientale», limitatamente alla seguente parte: «dell'adeguatezza della remunerazione del capitale investito», e' abrogato.
+In esito al referendum di cui in premessa, il comma 1 dell'articolo 154 (Tariffa del servizio idrico integrato) del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), recante «Norme in materia ambientale», limitatamente alla seguente parte: «dell'adeguatezza della remunerazione del capitale investito», e' abrogato.
 
 2.
 

@@ -182,7 +182,7 @@ Per lo svolgimento delle funzioni previste dall'[articolo 4 del decreto del Pres
 
 ## Art. 27.
 
-Il ruolo istituito con l'[art. 5 del regio decreto 27 agosto 1932, n. 1127](../Regi%20decreti/Disposizioni%20per%20le%20scuole%20elementari%20della%20Venezia%20Tridentina.%20032U1127.md), integrato dall'[art. 11 del decreto legislativo del Capo provvisorio dello Stato 16 maggio 1947, n. 555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-16;555#art_11), e' trasformato in ruolo ad esaurimento. I relativi posti sono soppressi con la cessazione, per qualsiasi causa, dal servizio dei docenti ad essi assegnati alla data di entrata in vigore del presente decreto.
+Il ruolo istituito con l'[art. 5 del regio decreto 27 agosto 1932, n. 1127](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20le%20scuole%20elementari%20della%20Venezia%20Tridentina.%20032U1127.md), integrato dall'[art. 11 del decreto legislativo del Capo provvisorio dello Stato 16 maggio 1947, n. 555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-16;555#art_11), e' trasformato in ruolo ad esaurimento. I relativi posti sono soppressi con la cessazione, per qualsiasi causa, dal servizio dei docenti ad essi assegnati alla data di entrata in vigore del presente decreto.
 
 ## Art. 28.
 

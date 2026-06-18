@@ -16,7 +16,7 @@ Visto il [regio decreto-legge 24 novembre 1938, n. 1912](../Atti%20normativi%20a
 
 Visto il [decreto del Capo provvisorio dello Stato 20 agosto 1947, n. 1876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-08-20;1876), con il quale e' stato approvato lo statuto del Registro aeronautico italiano;
 
-Visti gli articoli 766 a 770, 849 a 851, 858 a 1065 del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), concernenti materie di competenza del Registro aeronautico italiano;
+Visti gli articoli 766 a 770, 849 a 851, 858 a 1065 del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), concernenti materie di competenza del Registro aeronautico italiano;
 
 Udito il parere del Consiglio di Stato;
 

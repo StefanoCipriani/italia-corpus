@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 6 luglio 1912, n. 832](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20provvedimenti%20a%20tutela%20e%20ad%20incremento%20della%20produzione%20zootecnica%20nazionale.%20012U0832.md), concernente provvedimenti a tutela ed incremento della produzione zootecnica nazionale;
 
-Visto il [regio decreto 18 aprile 1926, n. 806](../Regi%20decreti/Costituzione%20dellIstituto%20zootecnico%20provinciale%20di%20Pavia.%20026U0806.md), che fonda l'Istituto zootecnico provinciale di Pavia;
+Visto il [regio decreto 18 aprile 1926, n. 806](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20dellIstituto%20zootecnico%20provinciale%20di%20Pavia.%20026U0806.md), che fonda l'Istituto zootecnico provinciale di Pavia;
 
-Visto il [regio decreto 9 settembre 1937, n. 1813](../Regi%20decreti/Trasformazione%20dellIstituto%20provinciale%20zootecnico%20di%20Pavia%20in%20Azienda%20zootecnica.%20037U1813.md), che trasforma l'istituto predetto in Azienda zootecnica
+Visto il [regio decreto 9 settembre 1937, n. 1813](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20dellIstituto%20provinciale%20zootecnico%20di%20Pavia%20in%20Azienda%20zootecnica.%20037U1813.md), che trasforma l'istituto predetto in Azienda zootecnica
 
 Vista la [legge 31 gennaio 1926, n. 100](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

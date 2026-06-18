@@ -15,7 +15,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Viste le deliberazioni del Consiglio comunale di Neviano degli Arduini (Parma) in data 12 marzo 1953, numero 27, ed in data 29 ottobre 1954, n. 1666, con le quali e' stato chiesto che alla frazione di quel Comune, comprendente le localita' "Scolchero", "Le Rette", "Case Penuzzi", "Pozzuolo", "Molino", "Case Calori", "Piane" e "Case sparse in localita' Farneto, Monte Lupo, Monte Rosso, Croce e La Ca'", sia ufficialmente attribuita la denominazione di "Villa SS.
 Giovanni e Paolo";
  Viste le deliberazioni del Consiglio provinciale di Parma in data 12 ottobre 1953, n. 7/70, ed in data 18 dicembre 1954, n. 22/106, con le quali venne espresso parere in ordine all'attribuzione di denominazione di cui trattasi;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

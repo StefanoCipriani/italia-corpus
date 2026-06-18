@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 4 della legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_4);
- Visto il [regio decreto 9 dicembre 1937, n. 2141](../Regi%20decreti/Revisione%20generale%20della%20tabella%20che%20determina%20il%20numero%20e%20la%20residenza%20dei%20notari%20nel%20Regno.%20037U2141.md), sulla revisione della tabella che determina il numero e la residenza dei notai;
+ Visto il [regio decreto 9 dicembre 1937, n. 2141](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20generale%20della%20tabella%20che%20determina%20il%20numero%20e%20la%20residenza%20dei%20notari%20nel%20Regno.%20037U2141.md), sulla revisione della tabella che determina il numero e la residenza dei notai;
  Visto il [decreto legislativo 6 marzo 1948, n. 518](../Decreti%20Legislativi/Revisione%20generale%20della%20tabella%20che%20determina%20il%20numero%20e%20la%20residenza%20dei%20notai.md);
  Visto l'[art. 8 del regio decreto-legge 14 luglio 1937, n. 1666](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-14;1666#art_8);
  Ritenuta l'opportunita' di sopprimere la sede notarile di Pavone Canavese, dei distretti notarili riuniti di Ivrea ed Aosta, e di aggregare, ai fini dell'assistenza notarile, la sede medesima a quella di Ivrea, degli stessi distretti notarili riuniti;

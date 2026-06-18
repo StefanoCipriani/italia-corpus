@@ -26,7 +26,7 @@ Sulla proposta del presidente dei Ministri e del Ministro Segretario di Stato pe
 
 ## Art. 1.
 
-Sulle navi che trasportano emigranti con destinazione a Paesi transoceanici prende imbarco un delegato del Ministero degli affari esteri (Direzione generale dell'emigrazione) con le funzioni di commissario governativo, il quale cura, l'osservanza a bordo delle navi stesse delle norme che disciplinano e tutelano l'emigrazione, nonche' di quelle stabilite dal regolamento per la sicurezza delle navi mercantili e della vita umana, approvato con [regio decreto 23 maggio 1932, n. 719](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20delle%20navi%20mercantili%20e%20della%20vita%20umana%20in%20mare.%20032U0719.md).
+Sulle navi che trasportano emigranti con destinazione a Paesi transoceanici prende imbarco un delegato del Ministero degli affari esteri (Direzione generale dell'emigrazione) con le funzioni di commissario governativo, il quale cura, l'osservanza a bordo delle navi stesse delle norme che disciplinano e tutelano l'emigrazione, nonche' di quelle stabilite dal regolamento per la sicurezza delle navi mercantili e della vita umana, approvato con [regio decreto 23 maggio 1932, n. 719](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20delle%20navi%20mercantili%20e%20della%20vita%20umana%20in%20mare.%20032U0719.md).
 
 ## Art. 2.
 

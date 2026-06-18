@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [deliberazione n. 40 del 14 novembre 1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1968-11-14;40), con la quale il consiglio comunale di Oppeano (Verona) ha chiesto che l'attuale denominazione della frazione "Mazzagatta" sia mutata in quella storicamente piu' appropriata di "Mazzantica";
  Vista la [deliberazione n. 15 del 20 dicembre 1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1968-12-20;15), con la quale il consiglio provinciale di Verona ha espresso parere favorevole in merito al proposto cambio di denominazione;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

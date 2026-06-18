@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista a deliberazione del consiglio comunale di Darfo (Brescia) in data 8 maggio 1968, n. 66, con la quale e' stato chiesto che l'attuale denominazione del comune stesso sia mutata in quella di "Darfo Boario Terme";
  Vista la deliberazione del consiglio provinciale di Brescia in data 20 luglio 1968, n. 3-7, con la quale detto consesso ha espresso il richiesto parere;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

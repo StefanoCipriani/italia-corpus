@@ -12,11 +12,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 6 maggio 1928, n. 1109](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Alzano%20Scrivia%20e%20Molino%20dei%20Torti%20in%20un%20unico%20Comune%20denominato%20Molino%20Alzano%20con%20capoluogo%20Molino.%20028U1109.md), con il quale i comuni di Molino dei Torti e di Alzano Scrivia, in provincia di Alessandria, vennero riuniti in unico comune con denominazione "Molino Alzano";
+ Visto il [regio decreto 6 maggio 1928, n. 1109](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Alzano%20Scrivia%20e%20Molino%20dei%20Torti%20in%20un%20unico%20Comune%20denominato%20Molino%20Alzano%20con%20capoluogo%20Molino.%20028U1109.md), con il quale i comuni di Molino dei Torti e di Alzano Scrivia, in provincia di Alessandria, vennero riuniti in unico comune con denominazione "Molino Alzano";
  Visto il [regio decreto-legge 17 maggio 1946, n. 550](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1946-05-17;550), con il quale fu ricostituito il comune di Alzano Scrivia;
  Viste le deliberazioni del Consiglio comunale di Molino Alzano in data 9 marzo 1947, n. 61 e 14 agosto 1953, n. 98, con le quali e' stato chiesto che l'attuale denominazione del Comune sia ripristinata in quella di "Molino dei Torti";
  Viste le deliberazioni della Deputazione provinciale in data 21 giugno 1947, n. 106 e del Consiglio provinciale di Alessandria in data 12 ottobre 1953, n. 82, con le quali e' stato espresso parere favorevole in ordine alla citata richiesta;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro per l'interno;
 
  Decreta:

@@ -24,7 +24,7 @@ Sulla proposta del Ministro per i trasporti e per l'aviazione civile di concerto
 
 ## Art. 1.
 
-L'organizzazione periferica dell'Ispettorato generale dell'aviazione civile e' costituita dai Compartimenti di traffico aereo, previsti nella tabella annessa al presente decreto, vistata dal Ministro per i trasporti e per l'aviazione civile, e dalle Circoscrizioni di aeroporto, di cui all'[art. 688 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e al decreto ministeriale 28 luglio 1963, emanato ai sensi dell'[art. 2 della legge 30 gennaio 1963, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-30;141#art_2).
+L'organizzazione periferica dell'Ispettorato generale dell'aviazione civile e' costituita dai Compartimenti di traffico aereo, previsti nella tabella annessa al presente decreto, vistata dal Ministro per i trasporti e per l'aviazione civile, e dalle Circoscrizioni di aeroporto, di cui all'[art. 688 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e al decreto ministeriale 28 luglio 1963, emanato ai sensi dell'[art. 2 della legge 30 gennaio 1963, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-30;141#art_2).
  Ai Compartimenti di traffico aereo e' preposto un ispettore di traffico aereo; alle Circoscrizioni di aeroporto e' preposto un direttore di aeroporto.
 
 ## Art. 2.
@@ -39,7 +39,7 @@ I Compartimenti di traffico aereo comprendono:
 
 ## Art. 3.
 
-I Compartimenti di traffico aereo, ciascuno nell'ambito della propria circoscrizione territoriale, esercitano le attribuzioni stabilite dal [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+I Compartimenti di traffico aereo, ciascuno nell'ambito della propria circoscrizione territoriale, esercitano le attribuzioni stabilite dal [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
  Essi inoltre:
  a) dispongono, con l'osservanza delle norme vigenti in materia, i trasferimenti nell'ambito della propria circoscrizione, del personale della carriera esecutiva sino al grado di archivista incluso, del personale della carriera ausiliaria, del personale non di ruolo e del personale operaio;
@@ -54,10 +54,10 @@ I Compartimenti di traffico aereo, ciascuno nell'ambito della propria circoscriz
  l) provvedono al noleggio di macchine, apparati dispositivi tecnico-meccanici necessari all'espletamento dei servizi del Compartimento e delle Circoscrizioni di aeroporto;
  m) approvano, nei casi in cui non sia richiesto il parere del Consiglio di Stato, i contratti relativi alle materie previste nelle lettere a), d), e), f), g), h), i), l) la cui stipulazione e' demandata al funzionario preposto alla sezione amministrativa di ciascun Compartimento di traffico aereo;
  n) coordinano i servizi degli aeroporti, eliporti, campi di volo, campi di fortuna civili demaniali compresi nella circoscrizione del Compartimento e l'attivita' dei direttori di aeroporto per quanto attiene allo svolgimento dei servizi aerei;
- o) dispongono, con provvedimento motivato, la chiusura provvisoria degli aeroporti privati non aperti al traffico ai sensi dell'[art. 709 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), in caso di gravi necessita' o infrazioni, con tempestiva segnalazione all'Organo centrale per i provvedimenti definitivi
+ o) dispongono, con provvedimento motivato, la chiusura provvisoria degli aeroporti privati non aperti al traffico ai sensi dell'[art. 709 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), in caso di gravi necessita' o infrazioni, con tempestiva segnalazione all'Organo centrale per i provvedimenti definitivi
  p) dispongono l'applicazione delle sanzioni amministrative previste dalla legge e dagli atti di concessione nei riguardi dei concessionari dei servizi aerei, con esclusione dei provvedimenti concernenti la sospensione dei servizi, la revoca dell'uso gratuito degli aeroporti, la decadenza e la revoca della concessione;
  q) applicano, nei riguardi dei concessionari stranieri dei servizi aerei, le sanzioni previste dalla legge e dagli atti di concessione a carico di concessionari nazionali, con le stesse esclusioni di cui alla lettera precedente;
- r) provvedono all'istruttoria tecnico-amministrativa per la concessione dei servizi aerei di linea e per i servizi aerei minori ed esprimono all'Organo centrale pareri sul possesso da parte del richiedente, dei requisiti di cui all'[art. 777 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+ r) provvedono all'istruttoria tecnico-amministrativa per la concessione dei servizi aerei di linea e per i servizi aerei minori ed esprimono all'Organo centrale pareri sul possesso da parte del richiedente, dei requisiti di cui all'[art. 777 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
  s) autorizzano, previe intese con il Comando di regione aerea, le manifestazioni aeree, gli avioraduni, le mostre aeree, le manifestazioni di volo a vela e di aeromodellismo, nonche' il lancio di paracadutisti, con l'osservanza delle istruzioni emanate dall'Organo centrale escluse le autorizzazioni relative a manifestazioni aventi carattere nazionale od il cui svolgimento rientra nell'ambito territoriale di piu' Compartimenti di traffico aereo;
  t) autorizzano i voli di trasferimento di aeromobili senza passeggeri, ne' carico pagante entro il territorio nazionale, in conformita' alle direttive dell'Organo centrale;
  u) approvano le tariffe ed i prezzi degli esercizi pubblici in concessione, esistenti negli aeroporti, eliporti, campi di volo e campi di fortuna civili demaniali del Compartimento, con esclusione delle tariffe relative Ai servizi di assistenza a terra;
@@ -67,7 +67,7 @@ I Compartimenti di traffico aereo, ciascuno nell'ambito della propria circoscriz
 
 ## Art. 4.
 
-Fermo restando quanto disposto dall'[art. 3 della legge 30 gennaio 1963, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-30;141#art_3), le Circoscrizioni di aeroporto, ciascuna nel proprio ambito territoriale, esercitano le attribuzioni stabilite dal [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e da altre disposizioni legislative e regolamentari.
+Fermo restando quanto disposto dall'[art. 3 della legge 30 gennaio 1963, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-30;141#art_3), le Circoscrizioni di aeroporto, ciascuna nel proprio ambito territoriale, esercitano le attribuzioni stabilite dal [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e da altre disposizioni legislative e regolamentari.
 
  Esse, inoltre:
  a) autorizzano le missioni del proprio personale nell'ambito della Circoscrizione e per durata non superiore a giorni tre, limitatamente ai sopraluoghi da effettuarsi in occasione di incidenti aeronautici. Per le missioni del direttore della Circoscrizione di aeroporto o del suo facente funzione occorre la convalida del Compartimento di traffico aereo;

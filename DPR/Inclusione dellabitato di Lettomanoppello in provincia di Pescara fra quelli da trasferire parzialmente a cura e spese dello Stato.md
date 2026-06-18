@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [legge 9 luglio 1908, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445);
  Visto il [decreto-legge luogotenenziale 13 aprile 1919, n. 568](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recante%20provvedimenti%20per%20opere%20pubbliche%20a%20favore%20di%20alcune%20Provincie%20meridionali.%20019U0568.md);
- Visto il [regio decreto 24 aprile 1921, n. 908](../Regi%20decreti/Che%20approva%20le%20tabelle%20degli%20abitati%20da%20consolidare%20a%20cura%20ed%20a%20spese%20dello%20Stato.%20021U0908.md), col quale l'abitato di Lettomanoppello, in provincia di Pescara, fu incluso nell'elenco degli abitati da consolidare a cura e spese dello Stato;
+ Visto il [regio decreto 24 aprile 1921, n. 908](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20tabelle%20degli%20abitati%20da%20consolidare%20a%20cura%20ed%20a%20spese%20dello%20Stato.%20021U0908.md), col quale l'abitato di Lettomanoppello, in provincia di Pescara, fu incluso nell'elenco degli abitati da consolidare a cura e spese dello Stato;
  Considerato che, non avendo le opere di consolidamento eseguite arrestato il movimento franoso, e' stata riconosciuta la necessita' di procedere, per una parte dell'abitato, allo spostamento in nuova sede;
  Visto il parere del Consiglio superiore dei lavori pubblici, n. 1450, emesso nell'adunanza del 22 Luglio 1954;
  Sulla proposta del Ministro per i lavori pubblici;

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 14 luglio 1937, n. 1484](../Regi%20decreti/Riconoscimento%20giuridico%20delle%20Casse%20nazionali%20di%20assistenza%20della%20Confederazione%20fascista%20dei%20professionisti%20e%20degli%20artisti%20e%20dei%20Sindacati%20nazionali%20fascisti%20degli%20ingegneri%20delle%20leva_5ea8389050b9.md), concernente il riconoscimento giuridico della Cassa nazionale assistenza medici e l'approvazione del relativo statuto;
+Visto il [regio decreto 14 luglio 1937, n. 1484](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riconoscimento%20giuridico%20delle%20Casse%20nazionali%20di%20assistenza%20della%20Confederazione%20fascista%20dei%20professionisti%20e%20degli%20artisti%20e%20dei%20Sindacati%20nazionali%20fascisti%20degli%20ingegneri%20delle%20leva_5ea8389050b9.md), concernente il riconoscimento giuridico della Cassa nazionale assistenza medici e l'approvazione del relativo statuto;
 
 Visto il decreto del Presidente della Repubblica 27 ottobre 1950, con il quale la Cassa nazionale assistenza, medici ha assunto la denominazione di "Ente nazionale di previdenza e assistenza medici" e ne e' stato approvato lo statuto;
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
 ## Articolo unico.
 
-E' approvato il nuovo statuto dell'Ente nazionale di previdenza e assistenza medici, riconosciuto giuridicamente con [regio decreto 14 luglio 1937, n. 1484](../Regi%20decreti/Riconoscimento%20giuridico%20delle%20Casse%20nazionali%20di%20assistenza%20della%20Confederazione%20fascista%20dei%20professionisti%20e%20degli%20artisti%20e%20dei%20Sindacati%20nazionali%20fascisti%20degli%20ingegneri%20delle%20leva_5ea8389050b9.md), e cosi' denominato con decreto del Presidente della Repubblica 27 ottobre 1950, composto di 28 articoli, nel testo annesso al presente decreto e vistato dal Ministro proponente.
+E' approvato il nuovo statuto dell'Ente nazionale di previdenza e assistenza medici, riconosciuto giuridicamente con [regio decreto 14 luglio 1937, n. 1484](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riconoscimento%20giuridico%20delle%20Casse%20nazionali%20di%20assistenza%20della%20Confederazione%20fascista%20dei%20professionisti%20e%20degli%20artisti%20e%20dei%20Sindacati%20nazionali%20fascisti%20degli%20ingegneri%20delle%20leva_5ea8389050b9.md), e cosi' denominato con decreto del Presidente della Repubblica 27 ottobre 1950, composto di 28 articoli, nel testo annesso al presente decreto e vistato dal Ministro proponente.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

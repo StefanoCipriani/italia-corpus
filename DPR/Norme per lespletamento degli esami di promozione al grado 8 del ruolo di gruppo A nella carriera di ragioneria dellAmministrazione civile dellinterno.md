@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+Visto il [regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
@@ -18,7 +18,7 @@ Visto il [regio decreto 4 aprile 1938, n. 417](../Regi%20decreti/Regolamento%20p
 
 Visto l'[art. 4 della legge 16 giugno 1940, n. 721](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20ruoli%20organici%20del%20personale%20dellAmministrazione%20civile%20dellinterno.%20040U0721.md);
 
-Visto il [regio decreto 17 maggio 1946, n. 398](../Regi%20decreti/Modificazione%20allart.%207%20della%20legge%2016%20giugno%201940%20n.%20721%20concernente%20il%20riordinamento%20dei%20ruoli%20organici%20del%20personale%20dellAmministrazione%20civile%20dellInterno.md);
+Visto il [regio decreto 17 maggio 1946, n. 398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20allart.%207%20della%20legge%2016%20giugno%201940%20n.%20721%20concernente%20il%20riordinamento%20dei%20ruoli%20organici%20del%20personale%20dellAmministrazione%20civile%20dellInterno.md);
 
 Visto il [decreto legislativo 3 maggio 1948, n. 455](../Decreti%20Legislativi/Modificazioni%20alla%20legge%2016%20giugno%201940%20n.%20721%20sul%20riordinamento%20dei%20ruoli%20organici%20del%20personale%20dellAmministrazione%20civile%20dellinterno.md);
 

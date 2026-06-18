@@ -17,7 +17,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Vista la relazione in data 3 dicembre 1965, con la quale il predetto amministratore provvisorio comunicava di non aver potuto provvedere alla regolarizzazione dell'Ente, che e' risultato inattivo dal 1963;
  Considerato che il suddetto Consorzio non ha provveduto al deposito dei bilanci annuali dal 1962;
  Sentito in via d'urgenza il parere del Comitato centrale per le cooperative di cui all'[art. 19 del decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-14;1577#art_19);
- Visto l'art. 85 del regolamento per le cooperative ed i loro consorzi ammessi ai pubblici appalti, approvato con [regio decreto 12 febbraio 1911, n. 278](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md);
+ Visto l'art. 85 del regolamento per le cooperative ed i loro consorzi ammessi ai pubblici appalti, approvato con [regio decreto 12 febbraio 1911, n. 278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md);
  Sulla proposta del Ministro per il lavoro e la previdenza sociale;
 
  Decreta:

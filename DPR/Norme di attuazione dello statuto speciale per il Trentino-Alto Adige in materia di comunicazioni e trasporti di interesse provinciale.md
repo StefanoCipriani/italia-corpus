@@ -326,7 +326,7 @@ Sono esercitate dalle province le funzioni amministrative, ivi comprese quelle d
 
 1-ter.
 
-E' delegata altresi' alle medesime province la definizione dei ricorsi previsti dal [Codice della Strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md):
+E' delegata altresi' alle medesime province la definizione dei ricorsi previsti dal [Codice della Strada](../Codici/Nuovo%20codice%20della%20strada.md):
                         a)
                             avverso il giudizio delle commissioni mediche locali istituite dalle province, concernente l'accertamento del possesso dei requisiti fisici e psichici previsti per il conseguimento della patente di guida o in relazione alla sua revisione, revoca o sospensione;
                         b)
@@ -338,7 +338,7 @@ E' delegata altresi' alle medesime province la definizione dei ricorsi previsti 
 
 1-quater.
 
-Ove il ricorso riguardi l'accertamento del possesso dei requisiti fisici o psichici previsti dal [Codice della Strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) per il conseguimento o il mantenimento della patente di guida ovvero provvedimenti aventi quale presupposto l'accertamento medesimo, il competente organo provinciale decide sentita una specifica commissione medica costituita presso la provincia.
+Ove il ricorso riguardi l'accertamento del possesso dei requisiti fisici o psichici previsti dal [Codice della Strada](../Codici/Nuovo%20codice%20della%20strada.md) per il conseguimento o il mantenimento della patente di guida ovvero provvedimenti aventi quale presupposto l'accertamento medesimo, il competente organo provinciale decide sentita una specifica commissione medica costituita presso la provincia.
 
 ))
 

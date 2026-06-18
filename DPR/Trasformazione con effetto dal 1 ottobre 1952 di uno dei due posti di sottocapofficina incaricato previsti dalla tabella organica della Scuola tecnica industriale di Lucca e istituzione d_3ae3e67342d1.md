@@ -20,7 +20,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Decreta:
 
- A decorrere dal 1 ottobre 1952, uno dei due posti di sottocapofficina incaricato previsti dalla tabella organica della Scuola tecnica industriale di Lucca, annessa al [regio decreto 24 luglio 1938, n. 1742](../Regi%20decreti/Modificazioni%20agli%20statuti%20e%20tabelle%20organiche%20di%20n.%2022%20Regie%20scuole%20tecniche%20a%20indirizzo%20commerciale.%20038U1742.md), e' soppresso e viene istituito, in sua sostituzione, dalla stessa data, un posto di applicato incaricato.
+ A decorrere dal 1 ottobre 1952, uno dei due posti di sottocapofficina incaricato previsti dalla tabella organica della Scuola tecnica industriale di Lucca, annessa al [regio decreto 24 luglio 1938, n. 1742](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20agli%20statuti%20e%20tabelle%20organiche%20di%20n.%2022%20Regie%20scuole%20tecniche%20a%20indirizzo%20commerciale.%20038U1742.md), e' soppresso e viene istituito, in sua sostituzione, dalla stessa data, un posto di applicato incaricato.
  Alla spesa derivante dall'istituzione del posto di applicato di cui sopra sara' fatto fronte con le economie conseguenti dalla soppressione del suddetto posto di sottocapofficina.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

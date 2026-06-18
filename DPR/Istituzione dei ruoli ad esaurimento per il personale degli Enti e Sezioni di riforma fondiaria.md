@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visti gli [articoli 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lorganizzazione%20degli%20Enti%20di%20sviluppo%20e%20norme%20relative%20alle%20loro%20attivita.md) e [11 della legge 14 luglio 1965, n. 901](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lorganizzazione%20degli%20Enti%20di%20sviluppo%20e%20norme%20relative%20alle%20loro%20attivita.md), che delega il Governo ad emanare norme, aventi valore di legge, per la sistemazione in appositi ruoli ad esaurimento del Ministero dell'agricoltura e delle foreste di personale in servizio alla data del 31 dicembre 1964 presso gli Enti e Sezioni di riforma fondiaria di cui all'art. 1 della legge medesima;
+Visti gli [articoli 10](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20per%20lorganizzazione%20degli%20Enti%20di%20sviluppo%20e%20norme%20relative%20alle%20loro%20attivita.md) e [11 della legge 14 luglio 1965, n. 901](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20per%20lorganizzazione%20degli%20Enti%20di%20sviluppo%20e%20norme%20relative%20alle%20loro%20attivita.md), che delega il Governo ad emanare norme, aventi valore di legge, per la sistemazione in appositi ruoli ad esaurimento del Ministero dell'agricoltura e delle foreste di personale in servizio alla data del 31 dicembre 1964 presso gli Enti e Sezioni di riforma fondiaria di cui all'art. 1 della legge medesima;
 
 Sentito il Consiglio dei Ministri;
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per l'agricoltura e le foreste, di concerto con il M
 
 ## Art. 1.
 
-Per la sistemazione di personale in servizio, alla data del 31 dicembre 1964, presso gli Enti e Sezioni di riforma fondiaria indicati nell'[art. 1 della legge 14 luglio 1965, n. 901](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lorganizzazione%20degli%20Enti%20di%20sviluppo%20e%20norme%20relative%20alle%20loro%20attivita.md), sono istituiti i ruoli, ad esaurimento, centrali e periferici del Ministero dell'agricoltura e delle foreste di cui alle tabelle I, II, III, IV, V, VI, VII, VIII e IX annesse al presente decreto.
+Per la sistemazione di personale in servizio, alla data del 31 dicembre 1964, presso gli Enti e Sezioni di riforma fondiaria indicati nell'[art. 1 della legge 14 luglio 1965, n. 901](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20per%20lorganizzazione%20degli%20Enti%20di%20sviluppo%20e%20norme%20relative%20alle%20loro%20attivita.md), sono istituiti i ruoli, ad esaurimento, centrali e periferici del Ministero dell'agricoltura e delle foreste di cui alle tabelle I, II, III, IV, V, VI, VII, VIII e IX annesse al presente decreto.
 
 ## Art. 2.
 

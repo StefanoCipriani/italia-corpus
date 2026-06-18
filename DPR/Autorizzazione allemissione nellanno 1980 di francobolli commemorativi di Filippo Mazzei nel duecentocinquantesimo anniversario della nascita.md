@@ -14,7 +14,7 @@ Visto l'art. 32 del codice postale e delle telecomunicazioni, approvato con [dec
 
 Visto l'[art. 2 del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
-Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare, parte prima), approvato con [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
+Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare, parte prima), approvato con [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
 
 Riconosciuta l'opportunita' di integrare il programma di emissione di carte valori postali celebrative e commemorative per il 1980 - autorizzato con [decreto del Presidente della Repubblica 27 settembre 1979, n. 593](Autorizzazione%20alla%20emissione%20nel%201980%20di%20carte%20valori%20postali%20commemorative%20e%20celebrative.md) - con l'emissione di francobolli commemorativi di Filippo Mazzei nel duecentocinquantesimo anniversario della nascita;
 

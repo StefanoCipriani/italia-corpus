@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vedute le [leggi 7 gennaio 1929, n. 8 e 22 aprile 1932, n. 490](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md), sull'ordinamento delle scuole e dei corsi secondari di avviamento professionale;
 
-Veduto il [regio decreto 14 settembre 1941, n. 1059](../Regi%20decreti/Inizio%20dellanno%20scolastico%20e%20fissazione%20dei%20giorni%20di%20vacanza.%20041U1059.md), col quale si modificano i termini in relazione alla data di inizio dell'anno scolastico;
+Veduto il [regio decreto 14 settembre 1941, n. 1059](../Atti%20normativi%20abrogati%20%28in%20originale%29/Inizio%20dellanno%20scolastico%20e%20fissazione%20dei%20giorni%20di%20vacanza.%20041U1059.md), col quale si modificano i termini in relazione alla data di inizio dell'anno scolastico;
 
 Veduto il decreto interministeriale 10 aprile 1948, col quale viene stabilito il numero dei corsi completi delle scuole e dei corsi secondari di avviamento professionale a decorrere dal 15 ottobre 1942 e filo al 30 settembre 1946;
 
@@ -32,7 +32,7 @@ A decorrere dal 1 ottobre 1947, sono istituiti le scuole e i corsi secondari di 
 
 ## Art. 2.
 
-Gli oneri relativi alla somministrazione, manutenzione ed arredamento dei locali, illuminazione, riscaldamento e spese varie di ufficio, per le istituzioni di cui al precedente art. 1, nonche' gli stipendi al personale amministrativo e di servizio, faranno carico ai rispettivi Comuni, a norma dell'[art. 91, lettera f) del regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale.
+Gli oneri relativi alla somministrazione, manutenzione ed arredamento dei locali, illuminazione, riscaldamento e spese varie di ufficio, per le istituzioni di cui al precedente art. 1, nonche' gli stipendi al personale amministrativo e di servizio, faranno carico ai rispettivi Comuni, a norma dell'[art. 91, lettera f) del regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale.
 
 ## Art. 3.
 

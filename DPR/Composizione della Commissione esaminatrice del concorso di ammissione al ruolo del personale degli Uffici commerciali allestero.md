@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto legislativo luogotenenziale 5 ottobre 1944 n. 310](../Decreti%20legislativi%20luogotenenziali/Ripartizione%20dei%20servizi%20e%20del%20personale%20del%20soppresso%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20044U0310.md);
+Visto il [decreto legislativo luogotenenziale 5 ottobre 1944 n. 310](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ripartizione%20dei%20servizi%20e%20del%20personale%20del%20soppresso%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20044U0310.md);
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -22,14 +22,14 @@ Sulla proposta del Presidente del Consiglio dei Ministri e Ministro per gli affa
 
 ## Art. 1.
 
-La Commissione esaminatrice del concorso di ammissione al ruolo del personale degli Uffici commerciali all'estero (grado 11°, gruppo A) prevista dall'art. 18 del regolamento approvato col [regio decreto 31 marzo 1941, n. 598](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20il%20personale%20del%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20041U0598.md), e' modificata come segue:
+La Commissione esaminatrice del concorso di ammissione al ruolo del personale degli Uffici commerciali all'estero (grado 11°, gruppo A) prevista dall'art. 18 del regolamento approvato col [regio decreto 31 marzo 1941, n. 598](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20organico%20per%20il%20personale%20del%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20041U0598.md), e' modificata come segue:
  un presidente di sezione del Consiglio di Stato od un consigliere di Stato, presidente;
  un consigliere o primo referendario della Corte dei conti, un professore di Universita' insegnante in una delle discipline che sono argomento delle prove scritte, un funzionario del Ministero degli affari esteri ed un funzionario del Ministero del commercio con l'estero, entrambi di gruppo A e di grado non inferiore al 5°, membri.
  Potranno inoltre essere aggregati alla Commissione insegnanti di lingue estere in Istituti governativi o funzionari del Ministero degli affari esteri, per le lingue estere.
 
 ## Art. 2.
 
-L'allegato IV del regolamento approvato con [regio decreto 31 marzo 1941, n. 598](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20il%20personale%20del%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20041U0598.md), sopraindicato e' modificato come segue Programma dell'esame di concorso per assistente addetto commerciale di 3ª classe in prova (gruppo A).
+L'allegato IV del regolamento approvato con [regio decreto 31 marzo 1941, n. 598](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20organico%20per%20il%20personale%20del%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20041U0598.md), sopraindicato e' modificato come segue Programma dell'esame di concorso per assistente addetto commerciale di 3ª classe in prova (gruppo A).
  Prove scritte:
  1) Diritto civile e diritto commerciale;
  2) Economia politica, politica economica e finanziaria, tecnica e tecnica commerciale (commercio interno, commercio internazionale);

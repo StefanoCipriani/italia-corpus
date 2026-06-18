@@ -18,7 +18,7 @@ Visto il decreto ministeriale 16 novembre 1959, con il quale sono stati approvat
 
 Ritenuta l'opportunita' di operare la formale trasformazione in Istituti tecnici femminili delle scuole di magistero professionale per la donna e delle annesse scuole professionali femminili gia' da vari anni funzionanti - in via sperimentale - come istituti tecnici femminili;
 
-Visto il [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
+Visto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
 
 Visto il [regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md), convertito nella [legge 2 giugno 1939, n. 729](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;729);
 

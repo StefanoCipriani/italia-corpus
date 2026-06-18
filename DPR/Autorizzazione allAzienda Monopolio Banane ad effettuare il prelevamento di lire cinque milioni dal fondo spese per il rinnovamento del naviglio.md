@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto-legge 2 dicembre 1935, n. 2085](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Monopolio%20statale%20delle%20banane.%20035U2085.md), convertito nella [legge 6 aprile 1936, n. 899](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%202%20dicembre%201935-XIV%20n.%202085%20riguardante%20listituzione%20del%20Monopolio%20statale%20delle%20banane.%20036U0899.md), riguardante l'istituzione del Monopolio statale delle banane;
 
-Visti gli articoli 2, 10, 11 dell'ordinamento amministrativo contabile dell'Azienda Monopolio Banane, approvato con [regio decreto 18 giugno 1936, n. 1508](../Regi%20decreti/Regolamento%20amministrativo-contabile%20della%20Regia%20Azienda%20Monopolio%20Banane.%20036U1508.md);
+Visti gli articoli 2, 10, 11 dell'ordinamento amministrativo contabile dell'Azienda Monopolio Banane, approvato con [regio decreto 18 giugno 1936, n. 1508](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20amministrativo-contabile%20della%20Regia%20Azienda%20Monopolio%20Banane.%20036U1508.md);
 
-Visto il [decreto legislativo luogotenenziale 5 aprile 1946, n. 289](../Decreti%20legislativi%20luogotenenziali/Approvazione%20del%20bilancio%20della%20Regia%20azienda%20monopolio%20banane%20per%20lesercizio%20finanziario%201944-1945.md), che approva il bilancio della predetta Azienda per l'esercizio 1944-1945;
+Visto il [decreto legislativo luogotenenziale 5 aprile 1946, n. 289](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20bilancio%20della%20Regia%20azienda%20monopolio%20banane%20per%20lesercizio%20finanziario%201944-1945.md), che approva il bilancio della predetta Azienda per l'esercizio 1944-1945;
 
 Sentito il commissario straordinario della Azienda Monopolio Banane;
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro ad interim pe
 
 ## Art. 1.
 
-L'Azienda Monopolio Banane e' autorizzata a prelevare dal fondo per il rinnovamento del naviglio la somma di L. 5.000.000 che viene passata a credito dell'Azienda medesima sul conto corrente ordinario di cui alla [lettera a) dell'art. 9 del regio decreto 18 giugno 1936, n. 1508](../Regi%20decreti/Regolamento%20amministrativo-contabile%20della%20Regia%20Azienda%20Monopolio%20Banane.%20036U1508.md).
+L'Azienda Monopolio Banane e' autorizzata a prelevare dal fondo per il rinnovamento del naviglio la somma di L. 5.000.000 che viene passata a credito dell'Azienda medesima sul conto corrente ordinario di cui alla [lettera a) dell'art. 9 del regio decreto 18 giugno 1936, n. 1508](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20amministrativo-contabile%20della%20Regia%20Azienda%20Monopolio%20Banane.%20036U1508.md).
 
 ## Art. 2.
 

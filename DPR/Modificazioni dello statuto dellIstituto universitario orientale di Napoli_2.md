@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA 
  
- Veduto lo statuto dell'Istituto universitario orientale di Napoli, approvato con [regio decreto 24 ottobre 1941, n. 1616](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20del%20Regio%20istituto%20universitario%20orientale%20di%20Napoli.%20041U1616.md) e modificato con [decreto del Capo provvisorio dello Stato 16 febbraio 1947, n. 459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-16;459), e successive modificazioni; 
+ Veduto lo statuto dell'Istituto universitario orientale di Napoli, approvato con [regio decreto 24 ottobre 1941, n. 1616](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20del%20Regio%20istituto%20universitario%20orientale%20di%20Napoli.%20041U1616.md) e modificato con [decreto del Capo provvisorio dello Stato 16 febbraio 1947, n. 459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-16;459), e successive modificazioni; 
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md); 
  Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto; 
  Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; 

@@ -14,7 +14,7 @@ Vista la istanza in data 13 luglio 1947, con la quale la maggioranza qualificata
 
 Viste le deliberazioni: del Consiglio comunale di Ciano d'Enza in data 6 marzo 1948, n. 13 bis; del Consiglio comunale di Castelnovo ne' Monti in data 30 agosto 1947, n. 35; della Deputazione provinciale in data 28 luglio 1948, n. 1635, e del Consiglio provinciale di Reggio nell'Emilia in data 13 ottobre 1902, n. 12, con le quali e' stato espresso parere in ordine alla variazione territoriale in parola;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla prima sezione del Consiglio di Stato nell'adunanza del 25 giugno 1957, n. 1104;
 

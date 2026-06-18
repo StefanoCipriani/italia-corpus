@@ -16,7 +16,7 @@ Visto il voto favorevole del Consiglio comunale di Merana, espresso con delibera
 
 Viste le [deliberazioni 18 settembre 1949, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1949-09-18;14), e [1 marzo 1953, n. 1, del Consiglio comunale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1953-03-01;1) di Spigno Monferrato; 30 dicembre 1949, n. 209, della Deputazione provinciale; 1 settembre 1951, n. 27, della [Giunta provinciale; 20 ottobre 1951, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:giunta.provincia.::1951-10-20;6), e [14 marzo 1953, n. 20, del Consiglio provinciale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.provincia.::1953-03-14;20) di Alessandria, esprimenti il rispettivo parere in ordine alla citata istanza;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

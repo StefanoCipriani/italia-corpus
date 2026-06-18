@@ -14,7 +14,7 @@ n.
 
 616.
 
-Decreto del Presidente della Repubblica 4 agosto 1986, col quale, sulla proposta del Ministro della pubblica istruzione, la scuola di chitarra, istituita presso l'istituto musicale comunale pareggiato "Achille Peri" di Reggio Emilia, viale Allegri n. 9, gestito dal comune di Reggio Emilia, viene pareggiata, ai sensi del [regio decreto 15 maggio 1930, n. 1170](../Regi%20decreti/Norme%20per%20il%20pareggiamento%20degli%20Istituti%20musicali.%20030U1170.md), ai conservatori di musica statali, con decorrenza giuridica dall'anno scolastico 1986-87.
+Decreto del Presidente della Repubblica 4 agosto 1986, col quale, sulla proposta del Ministro della pubblica istruzione, la scuola di chitarra, istituita presso l'istituto musicale comunale pareggiato "Achille Peri" di Reggio Emilia, viale Allegri n. 9, gestito dal comune di Reggio Emilia, viene pareggiata, ai sensi del [regio decreto 15 maggio 1930, n. 1170](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20pareggiamento%20degli%20Istituti%20musicali.%20030U1170.md), ai conservatori di musica statali, con decorrenza giuridica dall'anno scolastico 1986-87.
 
 Visto, il Guardasigilli: ROGNONI
  Registrato alla Corte dei conti, addi' 25 settembre 1986

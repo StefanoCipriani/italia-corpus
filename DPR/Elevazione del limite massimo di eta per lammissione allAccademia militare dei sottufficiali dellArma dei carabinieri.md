@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 9 luglio 1936, n. 1546](../Regi%20decreti/Ordinamento%20degli%20Istituti%20militari.%20036U1546.md), sull'ordinamento degli istituti militari;
+Visto il [regio decreto 9 luglio 1936, n. 1546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20degli%20Istituti%20militari.%20036U1546.md), sull'ordinamento degli istituti militari;
 
 Visto l'[art. 7 della legge 9 maggio 1940, n. 368](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20del%20Regio%20esercito.%20040U0368.md), sull'ordinamento dell'Esercito;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Articolo unico.
 
-Il limite massimo di eta', previsto dall'[art. 5, lettera b), del regio decreto 9 luglio 1936, n. 1546](../Regi%20decreti/Ordinamento%20degli%20Istituti%20militari.%20036U1546.md), per l'ammissione all'Accademia militare dei sottufficiali dell'Arma dei carabinieri, e' elevato a 27 anni.
+Il limite massimo di eta', previsto dall'[art. 5, lettera b), del regio decreto 9 luglio 1936, n. 1546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20degli%20Istituti%20militari.%20036U1546.md), per l'ammissione all'Accademia militare dei sottufficiali dell'Arma dei carabinieri, e' elevato a 27 anni.
 
  Il presente decreto, munito del sigillo di Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione tecnica;
 
-Veduto il [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e approva il testo unico della legge comunale e provinciale;
+Veduto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e approva il testo unico della legge comunale e provinciale;
 
 Veduto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
@@ -39,18 +39,18 @@ Sono istituiti:
 
 ## Art. 3.
 
-La sezione "disegnatori di tessuti" di cui all'art. 2 dello statuto dell'Istituto tecnico industriale statale "P. Carcano" di Como, approvato con [regio decreto 24 agosto 1933, n. 2176](../Regi%20decreti/Trasformazione%20del%20Regio%20istituto%20di%20setificio%20di%20Como%20in%20Regio%20istituto%20tecnico%20industriale.%20033U2176.md), e' riordinata in specializzazione "disegnatori di tessuti" con ordinamento conforme a quello stabilito dalla [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889).
+La sezione "disegnatori di tessuti" di cui all'art. 2 dello statuto dell'Istituto tecnico industriale statale "P. Carcano" di Como, approvato con [regio decreto 24 agosto 1933, n. 2176](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20di%20setificio%20di%20Como%20in%20Regio%20istituto%20tecnico%20industriale.%20033U2176.md), e' riordinata in specializzazione "disegnatori di tessuti" con ordinamento conforme a quello stabilito dalla [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889).
  Nella tabella C annessa al presente decreto, firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro, sono indicati i posti di ruolo relativi alla suddetta specializzazione.
  Con successivo decreto saranno approvati gli orari e i programmi per le materie di insegnamento e le esercitazioni pratiche particolari dell'indirizzo specializzato "disegnatori di tessuti".
 
 ## Art. 4.
 
 La Scuola tecnica industriale statale di Verona e' aggregata all'Istituto tecnico industriale statale istituito nella stessa citta' con [decreto Presidenziale 7 febbraio 1951, n. 656](Istituzione%20statizzazione%20e%20soppressione%20di%20istituti%20e%20scuole%20di%20istruzione%20tecnica%20a%20decorrere%20dal%201%20ottobre%201947.md).
- Sono di conseguenza soppressi il posto di direttore e quello di segretario economo previsti, per detta scuola, dalla tabella organica approvata con [regio decreto 31 agosto 1933, n. 2081](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20industriale%20di%20Verona%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2081.md), ed e' istituito un posto di applicato incaricato presso l'Istituto tecnico industriale di Verona.
+ Sono di conseguenza soppressi il posto di direttore e quello di segretario economo previsti, per detta scuola, dalla tabella organica approvata con [regio decreto 31 agosto 1933, n. 2081](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20della%20Regia%20scuola%20industriale%20di%20Verona%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2081.md), ed e' istituito un posto di applicato incaricato presso l'Istituto tecnico industriale di Verona.
 
 ## Art. 5.
 
-E' soppressa la Scuola tecnica agraria statale di Eboli, riordinata col [regio decreto 31 agosto 1933, n. 1971](../Regi%20decreti/Trasformazione%20della%20Scuola%20pratica%20dagricoltura%20di%20Eboli%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20agrario.%20033U1971.md).
+E' soppressa la Scuola tecnica agraria statale di Eboli, riordinata col [regio decreto 31 agosto 1933, n. 1971](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20della%20Scuola%20pratica%20dagricoltura%20di%20Eboli%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20agrario.%20033U1971.md).
 
 ## Art. 6.
 

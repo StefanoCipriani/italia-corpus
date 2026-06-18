@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 28 agosto 1924, n. 1593](../Regi%20decreti/Approvazione%20della%20tariffa%20dei%20diritti%20di%20borsa%20di%20Torino.%20024U1593.md), col quale venne approvata la tariffa dei diritti spettanti alla Camera di commercio di Torino;
+Visto il [regio decreto 28 agosto 1924, n. 1593](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20tariffa%20dei%20diritti%20di%20borsa%20di%20Torino.%20024U1593.md), col quale venne approvata la tariffa dei diritti spettanti alla Camera di commercio di Torino;
 
 Visti il [regio decreto 26 luglio 1935, n. 1496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1935-07-26;1496), il [decreto del Capo provvisorio dello Stato 18 marzo 1947, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-03-18;206) ed il [decreto Presidenziale 26 febbraio 1948, n. 276](Modificazione%20della%20tariffa%20dei%20diritti%20di%20borsa%20spettanti%20alla%20Camera%20di%20commercio%20industria%20e%20agricoltura%20di%20Torino.md), coi quali vennero apportate variazioni alla predetta tariffa;
 
 Vista la deliberazione della Camera di commercio di Torino in data 21 maggio 1956, con la quale sono state proposte, in occasione della gestione della nuova Borsa valori di Torino, ulteriori modifiche alla tariffa anzidetta;
 
-Visto l'[art. 53 del regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), col quale si stabiliva la forma e l'organo competente per la emanazione dei provvedimenti riguardanti i diritti di borsa;
+Visto l'[art. 53 del regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), col quale si stabiliva la forma e l'organo competente per la emanazione dei provvedimenti riguardanti i diritti di borsa;
 
 Sulla proposta del Ministro Segretario di Stato per il tesoro; Decreta:
 

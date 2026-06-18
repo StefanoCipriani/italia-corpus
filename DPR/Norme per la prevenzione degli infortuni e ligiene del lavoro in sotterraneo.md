@@ -472,7 +472,7 @@ CAPO X
 
 ### Art. 71.
 
-((ARTICOLO ABROGATO DAL [D. LGS. 12 GIUGNO 2003, N. 233](../Decreti%20Legislativi/Attuazione%20della%20direttiva%201999-92-CE%20relativa%20alle%20prescrizioni%20minime%20per%20il%20miglioramento%20della%20tutela%20della%20sicurezza%20e%20della%20salute%20dei%20lavoratori%20esposti%20al%20rischio%20di%20atmosfere%20esplosive.md)))
+((ARTICOLO ABROGATO DAL [D. LGS. 12 GIUGNO 2003, N. 233](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%201999-92-CE%20relativa%20alle%20prescrizioni%20minime%20per%20il%20miglioramento%20della%20tutela%20della%20sicurezza%20e%20della%20salute%20dei%20lavoratori%20esposti%20al%20rischio%20di%20atmosfere%20esplosive.md)))
 
 ### Art. 72.
 

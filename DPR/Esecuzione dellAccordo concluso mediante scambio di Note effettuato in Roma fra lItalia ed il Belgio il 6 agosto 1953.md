@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 11 novembre 1938, n. 1917](../Regi%20decreti/Esecuzione%20dellAccordo%20stipulato%20in%20Brusselle%20fra%20lItalia%20ed%20il%20Belgio%20il%2029%20settembre%201938%20per%20facilitare%20lammissione%20degli%20apprendisti%20nei%20due%20Stati%20e%20del%20Protocollo%20relativo.%20038U1917.md);
+Visto il [regio decreto 11 novembre 1938, n. 1917](../Atti%20normativi%20abrogati%20%28in%20originale%29/Esecuzione%20dellAccordo%20stipulato%20in%20Brusselle%20fra%20lItalia%20ed%20il%20Belgio%20il%2029%20settembre%201938%20per%20facilitare%20lammissione%20degli%20apprendisti%20nei%20due%20Stati%20e%20del%20Protocollo%20relativo.%20038U1917.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per gli affari esteri, di concerto con i Ministri pe
 
 ## Art. 1.
 
-Piena ed intera esecuzione e' data all'Accordo concluso mediante scambio di Note effettuato in Roma fra l'Italia ed il Belgio il 6 agosto 1953 che modifica l'art. 4 dell'Accordo italo-belga per facilitare l'ammissione in ciascuno dei due Paesi, degli apprendisti dell'altro Paese, concluso a Bruxelles il 29 settembre 1938 e reso esecutivo con [regio decreto 11 novembre 1938, n. 1917](../Regi%20decreti/Esecuzione%20dellAccordo%20stipulato%20in%20Brusselle%20fra%20lItalia%20ed%20il%20Belgio%20il%2029%20settembre%201938%20per%20facilitare%20lammissione%20degli%20apprendisti%20nei%20due%20Stati%20e%20del%20Protocollo%20relativo.%20038U1917.md).
+Piena ed intera esecuzione e' data all'Accordo concluso mediante scambio di Note effettuato in Roma fra l'Italia ed il Belgio il 6 agosto 1953 che modifica l'art. 4 dell'Accordo italo-belga per facilitare l'ammissione in ciascuno dei due Paesi, degli apprendisti dell'altro Paese, concluso a Bruxelles il 29 settembre 1938 e reso esecutivo con [regio decreto 11 novembre 1938, n. 1917](../Atti%20normativi%20abrogati%20%28in%20originale%29/Esecuzione%20dellAccordo%20stipulato%20in%20Brusselle%20fra%20lItalia%20ed%20il%20Belgio%20il%2029%20settembre%201938%20per%20facilitare%20lammissione%20degli%20apprendisti%20nei%20due%20Stati%20e%20del%20Protocollo%20relativo.%20038U1917.md).
 
 ## Art. 2.
 

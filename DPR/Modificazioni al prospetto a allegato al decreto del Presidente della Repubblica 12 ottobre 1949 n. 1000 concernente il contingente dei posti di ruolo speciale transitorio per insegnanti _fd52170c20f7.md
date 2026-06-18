@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [decreto legislativo 7 aprile 1948, n. 262](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md);
 
-Visto il [decreto legislativo 7 maggio 1948, n. 1127](../Decreti%20Legislativi/Costituzione%20di%20ruoli%20speciali%20transitori%20per%20gli%20insegnanti%20degli%20istituti%20e%20scuole%20di%20Istruzione%20media%20classica%20scientifica%20magistrale%20tecnica%20artistica%20di%20avviamento%20professionale%20ed%20elementare.md);
+Visto il [decreto legislativo 7 maggio 1948, n. 1127](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20di%20ruoli%20speciali%20transitori%20per%20gli%20insegnanti%20degli%20istituti%20e%20scuole%20di%20Istruzione%20media%20classica%20scientifica%20magistrale%20tecnica%20artistica%20di%20avviamento%20professionale%20ed%20elementare.md);
 
 Visto il [decreto del Presidente della Repubblica 12 ottobre 1949, n. 1000](Contingente%20dei%20posti%20di%20ruolo%20speciale%20transitorio%20per%20insegnanti%20tecnico-pratici%20e%20capi%20darte.md);
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Viste le [leggi 24 dicembre 1949, n. 993; 7 dicembre 1952, n. 1846; 3 novembre 1954, n. 1077; 6 marzo 1957, n. 68; 24 luglio 1959, n. 693; 20 dicembre 1960, n. 1527, e 26 gennaio 1962, n. 6](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20della%20delega%20al%20Governo%20di%20sospendere%20o%20ridurre%20i%20dazi%20doganali%20e%20di%20emanare%20provvedimenti%20per%20accelerare%20il%20ritmo%20delle%20modificazioni%20delle%20tariffe%20doganali%20stabilite%20dal%20Trattat_2f87548f03a1.md);
+Viste le [leggi 24 dicembre 1949, n. 993; 7 dicembre 1952, n. 1846; 3 novembre 1954, n. 1077; 6 marzo 1957, n. 68; 24 luglio 1959, n. 693; 20 dicembre 1960, n. 1527, e 26 gennaio 1962, n. 6](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20della%20delega%20al%20Governo%20di%20sospendere%20o%20ridurre%20i%20dazi%20doganali%20e%20di%20emanare%20provvedimenti%20per%20accelerare%20il%20ritmo%20delle%20modificazioni%20delle%20tariffe%20doganali%20stabilite%20dal%20Trattat_2f87548f03a1.md);
 
 Visto il [decreto presidenziale 29 settembre 1961, n. 1086](Sospensione%20dellapplicazione%20del%20dazio%20sul%20frumento%20importato%20a%20reintegro%20di%20quello%20impiegato%20nella%20lavorazione%20dei%20semolini%20delle%20paste%20alimentari%20delle%20farine%20e%20dei%20prodotti%20da%20forno%20esportati.md), che stabilisce la sospensione del dazio sul frumento importato a reintegro di quello impiegato nella lavorazione dei semolini, delle poste alimentari, delle farine e dei prodotti da forno esportati;
 
@@ -36,7 +36,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Ritenuta la necessita' di prorogare l'attuale regime daziario per il frumento importato a reintegro;
 
-Sentita la Commissione parlamentare, costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), e successive aggiunte e modificazioni;
+Sentita la Commissione parlamentare, costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), e successive aggiunte e modificazioni;
 
 Sentito il Consiglio dei Ministri;
 

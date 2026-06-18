@@ -20,7 +20,7 @@ Vista la [legge 7 aprile 1948, n. 262](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Visto il [decreto legislativo 7 maggio 1948, n. 1221](../Decreti%20Legislativi/Norme%20concernenti%20gli%20aiutanti%20tecnici%20e%20il%20personale%20di%20servizio%20degli%20istituti%20di%20istruzione%20media%20classica%20scientifica%20e%20magistrale.md);
 
-Visto il [decreto legislativo 7 maggio 1948, n. 1243](../Decreti%20Legislativi/Norme%20sulla%20stato%20giuridico%20e%20la%20carriera%20del%20personale%20di%20segreteria%20degli%20Istituti%20di%20istruzione%20media%20classica%20scientifica%20e%20magistrale.md);
+Visto il [decreto legislativo 7 maggio 1948, n. 1243](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20stato%20giuridico%20e%20la%20carriera%20del%20personale%20di%20segreteria%20degli%20Istituti%20di%20istruzione%20media%20classica%20scientifica%20e%20magistrale.md);
 
 Vista la [legge 16 settembre 1960, n. 1014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-09-16;1014);
 

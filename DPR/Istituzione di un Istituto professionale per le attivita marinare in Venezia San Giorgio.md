@@ -161,7 +161,7 @@ Alle spese di mantenimento dell'Istituto si provvede:
 
 ## Art. 23.
 
-Per quanto riguarda gli oneri a carico degli enti locali, all'istituto professionale si applicano le disposizioni dell'art. 91, lettera f) del testo unico della legge comunale e provinciale approvata con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), limitatamente alla manutenzione, illuminazione, riscaldamento, e provvista d'acqua dei locali che sono forniti dall'Istituto "Scilla" di Venezia-San Giorgio.
+Per quanto riguarda gli oneri a carico degli enti locali, all'istituto professionale si applicano le disposizioni dell'art. 91, lettera f) del testo unico della legge comunale e provinciale approvata con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), limitatamente alla manutenzione, illuminazione, riscaldamento, e provvista d'acqua dei locali che sono forniti dall'Istituto "Scilla" di Venezia-San Giorgio.
  Per quanto non e' previsto dal presente decreto, si applicano le disposizioni vigenti per gli Istituti d'istruzione tecnica.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

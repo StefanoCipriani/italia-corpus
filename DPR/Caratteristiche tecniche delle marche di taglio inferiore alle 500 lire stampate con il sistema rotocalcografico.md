@@ -20,7 +20,7 @@ Vista la [legge 17 luglio 1954, n. 600](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto il [decreto del Presidente della Repubblica 15 ottobre 1969, n. 857](Determinazione%20della%20forma%20tagli%20e%20delle%20altre%20caratteristiche%20delle%20marche%20pesi%20misure%20e%20marchio.md); pubblicato nella. Gazzetta Ufficiale n. 308 del 6 dicembre 1969, concernente la determinazione della forma, tagli e delle altre caratteristiche delle marche pesi, misure e marchio;
 
-Visto il [regio decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), che approva il testo di legge delle tasse sui contratti di borsa e successive modificazioni ed integrazioni;
+Visto il [regio decreto 30 dicembre 1923, n. 3278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), che approva il testo di legge delle tasse sui contratti di borsa e successive modificazioni ed integrazioni;
 
 Visto il [decreto del Presidente della Repubblica 1 marzo 1961, n. 121](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20tasse%20sulle%20concessioni%20governative.md), che approva il testo unico delle leggi vigenti in materia di tasse sulle concessioni governative e successive modificazioni;
 

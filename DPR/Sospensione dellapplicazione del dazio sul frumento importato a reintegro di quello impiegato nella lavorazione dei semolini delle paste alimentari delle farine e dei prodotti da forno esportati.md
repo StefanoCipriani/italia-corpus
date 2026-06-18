@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md);
+Vista la [legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md);
 
 Vista la [legge 7 dicembre 1952, n. 1846](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20dellautorizzazione%20al%20Governo%20di%20sospendere%20o%20ridurre%20i%20dazi%20della%20vigente%20tariffa%20doganale%20prevista%20dallart.%202%20della%20legge%2024%20dicembre%201949%20n.%20993.md);
 
@@ -20,7 +20,7 @@ Vista la [legge 6 marzo 1957, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Vista la [legge 24 luglio 1959, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-24;693);
 
-Vista la [legge 20 dicembre 1960, n. 1527](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20per%20accelerare%20il%20ritmo%20delle%20modificazioni%20delle%20tariffe%20doganali%20stabilite%20dal%20Trattato%20istitutivo%20della%20Comunita%20Economica%20Europea%20e%20per%20anti_4e5036d854fc.md);
+Vista la [legge 20 dicembre 1960, n. 1527](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20per%20accelerare%20il%20ritmo%20delle%20modificazioni%20delle%20tariffe%20doganali%20stabilite%20dal%20Trattato%20istitutivo%20della%20Comunita%20Economica%20Europea%20e%20per%20anti_4e5036d854fc.md);
 
 Vista la tariffa dei dazi doganali di importazione, approvata con [decreto presidenziale 26 dicembre 1958, n. 1105](Nuova%20tariffa%20dei%20dazi%20doganali%20di%20importazione%20secondo%20la%20Nomenclatura%20di%20cui%20alla%20Convenzione%20firmata%20dallItalia%20a%20Bruxelles%20l11%20gennaio%201951%20ratificata%20e%20resa%20esecutiva%20con%20legge%2031%20ot_7ca06f8a0694.md);
 
@@ -62,7 +62,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Ritenuta la necessita' di sospendere temporaneamente il dazio doganale sul frumento;
 
-Sentita la Commissione parlamentare, costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), e confermata con le [leggi 7 dicembre 1952, n. 1846; 3 novembre 1954, n. 1077; 6 marzo 1957, n. 68 e 24 luglio 1959, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-24;693);
+Sentita la Commissione parlamentare, costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), e confermata con le [leggi 7 dicembre 1952, n. 1846; 3 novembre 1954, n. 1077; 6 marzo 1957, n. 68 e 24 luglio 1959, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-24;693);
 
 Sentito il Consiglio dei Ministri;
 

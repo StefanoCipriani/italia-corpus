@@ -14,7 +14,7 @@ N.
 
 909.
 
-Decreto del Presidente della Repubblica 27 ottobre 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene approvato il nuovo statuto dell'Accademia nazionale dei XL, in Roma, eretta in ente morale con [regio decreto 8 giugno 1936, n. 1275](../Regi%20decreti/Erezione%20in%20ente%20morale%20della%20Societa%20italiana%20delle%20scienze%20detta%20dei%20XL%20con%20sede%20in%20Roma.%20036U1275.md), e la modificazione della denominazione in: "Accademia nazionale delle scienze, detta dei XL".
+Decreto del Presidente della Repubblica 27 ottobre 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene approvato il nuovo statuto dell'Accademia nazionale dei XL, in Roma, eretta in ente morale con [regio decreto 8 giugno 1936, n. 1275](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20della%20Societa%20italiana%20delle%20scienze%20detta%20dei%20XL%20con%20sede%20in%20Roma.%20036U1275.md), e la modificazione della denominazione in: "Accademia nazionale delle scienze, detta dei XL".
 
 Visto, il Guardasigilli: BONIFACIO
  Registrato alla Corte dei conti, addi' 13 gennaio 1979

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 79 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_79);
 
-Vista la legge di delega n. 242 del 23 maggio 1980 per la ristrutturazione dei servizi di assistenza al volo, nella quale, all'art. 6 e' prevista delegazione dei poteri al Presidente della Repubblica per la concessione di amnistia per i reati previsti nei capi I, II, III e VII del titolo III del libro II del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace commessi da militari entro il 13 marzo 1980, a causa ed in occasione di iniziative intese a sollecitare la riforma dei servizi di assistenza al volo;
+Vista la legge di delega n. 242 del 23 maggio 1980 per la ristrutturazione dei servizi di assistenza al volo, nella quale, all'art. 6 e' prevista delegazione dei poteri al Presidente della Repubblica per la concessione di amnistia per i reati previsti nei capi I, II, III e VII del titolo III del libro II del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace commessi da militari entro il 13 marzo 1980, a causa ed in occasione di iniziative intese a sollecitare la riforma dei servizi di assistenza al volo;
 
 Sentito il Consiglio dei Ministri;
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro della difesa, di concerto con il Ministro di grazia 
 
 ## Art. 1.
 
-E' concessa amnistia, per i reati previsti nei capi I, II, III e VII del titolo III del libro II del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace commessi da militari entro il 13 marzo 1980, a causa e in occasione di iniziative intese a sollecitare la riforma dei servizi di assistenza al volo.
+E' concessa amnistia, per i reati previsti nei capi I, II, III e VII del titolo III del libro II del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace commessi da militari entro il 13 marzo 1980, a causa e in occasione di iniziative intese a sollecitare la riforma dei servizi di assistenza al volo.
 
 ## Art. 2.
 

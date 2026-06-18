@@ -18,7 +18,7 @@ Vista la [legge 20 dicembre 1960, n. 152](https://www.normattiva.it/uri-res/N2Ls
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Sentita la Commissione parlamentare, costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), e confermata con le [leggi 7 dicembre 1952, n 1846, 3 novembre 1954, n. 1077; 6 marzo 1957, n. 68 e 24 luglio 1959, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-24;693);
+Sentita la Commissione parlamentare, costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), e confermata con le [leggi 7 dicembre 1952, n 1846, 3 novembre 1954, n. 1077; 6 marzo 1957, n. 68 e 24 luglio 1959, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-24;693);
 
 Sentito il Consiglio dei Ministri;
 

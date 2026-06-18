@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 6 giugno 1940, n. 1161](../Regi%20decreti/Riconoscimento%20giuridico%20dellEnte%20nazionale%20fascista%20di%20assistenza%20per%20i%20venditori%20ambulanti%20e%20i%20giornalai.%20040U1161.md), concernante il riconoscimento giuridico dell'Ente nazionale fascista di assistenza per i venditori ambulanti ed i giornalai e l'approvazione del relativo statuto;
+Visto il [regio decreto 6 giugno 1940, n. 1161](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riconoscimento%20giuridico%20dellEnte%20nazionale%20fascista%20di%20assistenza%20per%20i%20venditori%20ambulanti%20e%20i%20giornalai.%20040U1161.md), concernante il riconoscimento giuridico dell'Ente nazionale fascista di assistenza per i venditori ambulanti ed i giornalai e l'approvazione del relativo statuto;
 
 Visti il decreto del Ministro per il lavoro e la previdenza sociale 3 dicembre 1946, concernente la nomina del commissario per la straordinaria gestione dell'Ente predetto, ed i successivi decreti di proroga dei poteri conferiti al commissario medesimo;
 

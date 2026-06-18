@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 13 agosto 1926, n. 1488](../Regi%20decreti/Diritti%20e%20tasse%20della%20Camera%20di%20commercio%20e%20industria%20di%20Genova.%20026U1488.md), con il quale venne approvata e resa esecutiva la tariffa dei diritti dovuti alla camera di commercio e industria di Genova;
+Visto il [regio decreto 13 agosto 1926, n. 1488](../Atti%20normativi%20abrogati%20%28in%20originale%29/Diritti%20e%20tasse%20della%20Camera%20di%20commercio%20e%20industria%20di%20Genova.%20026U1488.md), con il quale venne approvata e resa esecutiva la tariffa dei diritti dovuti alla camera di commercio e industria di Genova;
 
 Visti il [decreto del Presidente della Repubblica 13 febbraio 1957, n. 99](Modificazione%20alla%20tariffa%20dei%20diritti%20di%20borsa%20spettanti%20alla%20Camera%20di%20commercio%20industria%20e%20agricoltura%20di%20Genova.md) e il [decreto del Presidente della Repubblica 8 novembre 1957, n. 1115](Modifica%20della%20tariffa%20dei%20diritti%20di%20Borsa%20spettanti%20alla%20Camera%20di%20commercio%20industria%20e%20agricoltura%20di%20Genova.md), con i quali sono state apportate variazioni alla predetta tariffa;
 
@@ -18,7 +18,7 @@ Visto il [decreto del Presidente della Repubblica 2 dicembre 1969, n. 1233](Modi
 
 Vista la [deliberazione n. 799 del 14 dicembre 1976, con cui la camera di commercio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:camera.commercio:delibera:1976-12-14;799), industria, artigianato ed agricoltura di Genova ha richiesto la fissazione dei diritti di quotazione per le azioni di risparmio e per taluni titoli ammessi di diritto alla quotazione ufficiale presso la locale borsa valori;
 
-Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale sono stabiliti la forma e l'organo competente per l'emanazione dei provvedimenti inerenti ai diritti di borsa;
+Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale sono stabiliti la forma e l'organo competente per l'emanazione dei provvedimenti inerenti ai diritti di borsa;
 
 Sulla proposta del Ministro del tesoro; Decreta:
 

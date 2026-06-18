@@ -261,7 +261,7 @@ L'applicazione dell'articolo 10 della legge, e' disciplinata dagli statuti e dai
 
 2.
 
-Nel caso siano previsti segnali indicatori di localita' anche nella lingua ammessa a tutela, si applicano le normative del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), con pari dignita' grafica delle due lingue.
+Nel caso siano previsti segnali indicatori di localita' anche nella lingua ammessa a tutela, si applicano le normative del [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), con pari dignita' grafica delle due lingue.
 
 Nota all'art. 9:
  - Il testo dell'[art. 10, della legge 15 dicembre 1999, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-15;482#art_10), e' il seguente:

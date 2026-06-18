@@ -16,7 +16,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Veduta la [legge 22 maggio 1929, n. 810](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-22;810);
  Veduto l'[art. 3 della legge 5 giugno 1930, n. 824](../Atti%20normativi%20abrogati%20%28in%20originale%29/Insegnamento%20religioso%20negli%20istituti%20medi%20distruzione%20classica%20scientifica%20magistrale%20tecnica%20ed%20artistica.%20030U0824.md), concernente l'insegnamento della religione negli Istituti medi di istruzione classica, scientifica, magistrale, tecnica ed artistica;
  Veduta la [legge 30 dicembre 1947, n. 1477](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20Corpi%20consultivi%20del%20Ministero%20della%20pubblica%20istruzione.md), e successive modificazioni ed integrazioni;
- Veduto il [regio decreto 10 luglio 1930, n. 1015](../Regi%20decreti/Approvazione%20dei%20programmi%20per%20linsegnamento%20della%20religione%20nelle%20scuole%20medie.%20030U1015.md), con il quale sono stati approvati i programmi per l'insegnamento della religione nelle scuole medie;
+ Veduto il [regio decreto 10 luglio 1930, n. 1015](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dei%20programmi%20per%20linsegnamento%20della%20religione%20nelle%20scuole%20medie.%20030U1015.md), con il quale sono stati approvati i programmi per l'insegnamento della religione nelle scuole medie;
  Udito il parere del Consiglio superiore della pubblica istruzione;
  Vedute le intese intercorse tra la Santa Sede e l'Italia, sui nuovi programmi di insegnamento di religione;
  Udito il Consiglio dei Ministri;

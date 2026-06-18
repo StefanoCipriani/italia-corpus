@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Viste le [leggi 21 dicembre 1949, n. 993; 7 dicembre 1932, n. 1845; 3 novembre 1954, n. 1077; 6 marzo 1957, n. 68; 21 luglio 1959, n. 693; 20 dicembre 1960, n. 1527 e 26 gennaio 1962, n. 6](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20della%20delega%20al%20Governo%20di%20sospendere%20o%20ridurre%20i%20dazi%20doganali%20e%20di%20emanare%20provvedimenti%20per%20accelerare%20il%20ritmo%20delle%20modificazioni%20delle%20tariffe%20doganali%20stabilite%20dal%20Trattat_2f87548f03a1.md);
+Viste le [leggi 21 dicembre 1949, n. 993; 7 dicembre 1932, n. 1845; 3 novembre 1954, n. 1077; 6 marzo 1957, n. 68; 21 luglio 1959, n. 693; 20 dicembre 1960, n. 1527 e 26 gennaio 1962, n. 6](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20della%20delega%20al%20Governo%20di%20sospendere%20o%20ridurre%20i%20dazi%20doganali%20e%20di%20emanare%20provvedimenti%20per%20accelerare%20il%20ritmo%20delle%20modificazioni%20delle%20tariffe%20doganali%20stabilite%20dal%20Trattat_2f87548f03a1.md);
 
 Vista la tariffa dei dazi doganali di importazione, approvata con [decreto presidenziale 21 dicembre 1961, n. 1339](Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20di%20importazione%20con%20linquadramento%20delle%20sottovoci%20della%20tariffa%20nazionale%20in%20quelle%20corrispondenti%20della%20tariffa%20doganale%20esterna%20della_6d5109dff4f2.md), e successive aggiunte e modificazioni;
 
@@ -22,7 +22,7 @@ Visti il [decreto presidenziale 24 dicembre 1960, numero 1584](Applicazione%20de
 
 Vista la [legge 28 luglio 1962, n. 1002](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20in%20Atene%20il%209%20luglio%201961%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Grecia.md), che ratifica e da' esecuzione agli Accordi internazionali firmati ad Atene il 9 luglio 1951 e agli Atti connessi, relativi all'Associazione tra la Comunita' economica europea e la Grecia Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta l'opportunita' di apportare modificazioni al regime daziario per determinati prodotti di uso industriale in relazione all'espansione degli scambi internazionali e al conseguente aumento del gettito dei dazi doganali e degli altri diritti accessori Sentita, la Commissione parlamentare, costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), e successive aggiunte e modificazioni;
+Ritenuta l'opportunita' di apportare modificazioni al regime daziario per determinati prodotti di uso industriale in relazione all'espansione degli scambi internazionali e al conseguente aumento del gettito dei dazi doganali e degli altri diritti accessori Sentita, la Commissione parlamentare, costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), e successive aggiunte e modificazioni;
 
 Sentito il Consiglio dei Ministri;
 

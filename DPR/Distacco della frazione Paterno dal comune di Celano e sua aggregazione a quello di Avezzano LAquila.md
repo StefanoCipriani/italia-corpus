@@ -16,7 +16,7 @@ Visto il voto favorevole del Consiglio comunale di Avezzano, espresso con [delib
 
 Viste le deliberazioni del Consiglio comunale di Celano in data 22 luglio 1951, n. 31-bis, e del Consiglio provinciale dell'Aquila in data 21 dicembre 1952, n. 115, e in data 12 agosto 1953, n. 45, con le quali venne espresso parere in ordine alla variazione territoriale di cui trattasi;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

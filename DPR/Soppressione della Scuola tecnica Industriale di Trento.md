@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
 
-Veduto il [regio decreto 31 agosto 1933, n. 2077](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20industriale%20di%20Trento%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2077.md), riguardante l'istituzione della Scuola tecnica industriale di Trento;
+Veduto il [regio decreto 31 agosto 1933, n. 2077](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20della%20Regia%20scuola%20industriale%20di%20Trento%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2077.md), riguardante l'istituzione della Scuola tecnica industriale di Trento;
 
 Considerato che la Scuola predetta ha cessato di funzionare di fatto dal 10 ottobre 1965;
 

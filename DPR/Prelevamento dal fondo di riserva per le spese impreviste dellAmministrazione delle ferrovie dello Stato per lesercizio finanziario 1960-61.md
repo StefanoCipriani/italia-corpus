@@ -25,7 +25,7 @@ Dal "Fondo di riserva per le spese impreviste" dell'Amministrazione delle ferrov
 ritardata resa di spedizioni e passivita per
 tasse di trasporto, rimaste totalmente o parzial-
 mente scoperte .................................. L. 121.339.918 Cap. n. 33. - Spese per prestazioni sanitarie
-([regio decreto 31 dicembre 1923, n. 2918](../Regi%20decreti/Esonero%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato%20dallobbligo%20di%20prestazioni%20sanitarie%20per%20alcune%20categorie%20di%20personale.%20023U2918.md), e [regio
+([regio decreto 31 dicembre 1923, n. 2918](../Atti%20normativi%20abrogati%20%28in%20originale%29/Esonero%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato%20dallobbligo%20di%20prestazioni%20sanitarie%20per%20alcune%20categorie%20di%20personale.%20023U2918.md), e [regio
 decreto-legge 8 gennaio 1925, n. 34](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allart.%2082%20della%20legge%207%20luglio%201907%20n.%20429%20circa%20il%20servizio%20sanitario%20nelle%20Ferrovie%20dello%20Stato.%20025U0034.md), convertito
 nella [legge 21 marzo 1926, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;507))............... " 13.205.939 Cap. n. 42. - Gettoni di presenza e compensi ai
 componenti di Commissioni ([decreto del Presidente

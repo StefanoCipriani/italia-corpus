@@ -14,7 +14,7 @@ Viste le istanze in data 16, 23, 28 dicembre 1945, 22 luglio e 7 agosto 1946, co
 
 Viste le deliberazioni: del Consiglio comunale di Cinigiano n. 26, in data 17 ottobre 1946; della Giunta e del Consiglio comunale di Castel del Piano numeri 30 e 33, in data 23 marzo e 12 maggio 1946; della Deputazione e del Consiglio provinciale di Grosseto numeri 457 e 124, in data 21 giugno 1947 e 24 settembre 1955, con le quali e' stato espresso parere in ordine alla variazione territoriale di cui trattasi;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

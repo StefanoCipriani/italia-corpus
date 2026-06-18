@@ -26,7 +26,7 @@ E' concesso indulto nella misura non superiore a due anni per le pene detentive 
 
 2.
 
-Non si applicano le esclusioni di cui all'ultimo comma dell'[art. 151 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Non si applicano le esclusioni di cui all'ultimo comma dell'[art. 151 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 AVVERTENZA:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
@@ -37,7 +37,7 @@ AVVERTENZA:
  Non possono applicarsi ai reati commessi successivamente alla proposta di delegazione".
  - La [legge n. 393/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;393) delega il Presidente della Repubblica a concedere l'indulto.
  Nota all'art. 1:
- - L'ultimo comma dell'[art. 151 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) prevede che: "L'amnistia non si applica ai recidivi, nei casi preveduti dai capoversi dell'art. 99, ne' ai delinquenti abituali, o professionali, o per tendenza salvo che il decreto disponga diversamente".
+ - L'ultimo comma dell'[art. 151 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) prevede che: "L'amnistia non si applica ai recidivi, nei casi preveduti dai capoversi dell'art. 99, ne' ai delinquenti abituali, o professionali, o per tendenza salvo che il decreto disponga diversamente".
 
 ## Art. 2.
 
@@ -51,7 +51,7 @@ E' concesso indulto, per intero, per le pene accessorie temporanee, conseguenti 
 
 L'indulto non si applica alle pene:
                         a)
-                            per i delitti previsti dai seguenti articoli del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
+                            per i delitti previsti dai seguenti articoli del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
  1) 285 (devastazione, saccheggio e strage);
  2) 416- bis (associazione di tipo mafioso);
  3) 422 (strage);
@@ -67,12 +67,12 @@ Nota all'[art. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:197
  "Art. 74 (Aggravanti specifiche). - Le pene previste per i delitti di cui all'art. 71 della presente legge sono aumentate da un terzo alla meta':
  1) nei casi in cui le sostanze stupefacenti o psicotrope sono consegnate a persona di eta' minore o comunque destinate a persona di eta' minore per uso non terapeutico;
  2) se il fatto e' commesso da tre o piu' persone, in concorso tra loro o se il colpevole fa parte di una associazione per delinquere;
- 3) nei casi previsti dai [numeri 2](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [3](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [4 dell'art. 112 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ 3) nei casi previsti dai [numeri 2](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [3](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [4 dell'art. 112 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
  4) per chi ha indotto a commettere il reato, o a cooperare nella commissione del reato, persona dedita all'uso di sostanze stupefacenti o psicotrope;
  5) se il fatto e' stato commesso da persona armata o travisata.
  Se il fatto riguarda quantita' ingenti di sostanze stupefacenti o psicotrope le pene sono aumentate dalla meta' a due terzi.
  Lo stesso aumento di pena si applica se il colpevole per commettere il delitto o per conseguirne per se' o per altri il profitto, il prezzo o l'impunita', ha fatto uso di armi.
- Si applica la disposizione dell'ultimo comma dell'[art. 112 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Si applica la disposizione dell'ultimo comma dell'[art. 112 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Le aggravanti previste nel presente articolo, eccettuata quella indicata nel secondo comma, si applicano anche al delitto previsto dall'art. 72".
 
 ## Art. 4.

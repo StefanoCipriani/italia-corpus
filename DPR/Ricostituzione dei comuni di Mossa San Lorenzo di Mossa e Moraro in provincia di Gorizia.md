@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 27 novembre 1927, n. 2284](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Capriva%20di%20Cormons%20Mossa%20San%20Lorenzo%20di%20Mossa%20e%20Moraro%20in%20un%20unico%20Comune%20denominato%20Capriva%20di%20Cormons.%20027U2284.md), con il quale i comuni di Capriva di Cormons, Mossa, San Lorenzo di Mossa e Moraro, in provincia di Gorizia, furono riuniti in unico Comune denominato "Capriva di Cormons;
+Visto il [regio decreto 27 novembre 1927, n. 2284](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Capriva%20di%20Cormons%20Mossa%20San%20Lorenzo%20di%20Mossa%20e%20Moraro%20in%20un%20unico%20Comune%20denominato%20Capriva%20di%20Cormons.%20027U2284.md), con il quale i comuni di Capriva di Cormons, Mossa, San Lorenzo di Mossa e Moraro, in provincia di Gorizia, furono riuniti in unico Comune denominato "Capriva di Cormons;
 
 Visto il proprio decreto 29 maggio 1954, n. 663, con il quale la denominazione del comune di Capriva di Cormons e' stata cambiata in quella di "Capriva del Friuli";
 
@@ -18,7 +18,7 @@ Viste le istanze rispettivamente in data 21 dicembre 1947 e 18 gennaio 1948, con
 
 Viste le deliberazioni del Consiglio comunale di Capriva di Cormons in data 11 settembre 1953, nn. 28, 29 e 30, e del Consiglio provinciale di Gorizia in data 29 maggio 1954, n. 4051/54/40, con le quali e' stato espresso parere in ordine alle ricostituzioni di cui trattasi;
 
-Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Vista la [legge 15 febbraio 1953, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-15;71);
 

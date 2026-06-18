@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [testo unico delle leggi sul Debito pubblico](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), approvato con [regio decreto 17 luglio 1910, n. 536](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20tutte%20le%20leggi%20sul%20Debito%20pubblico.%20010U0536.md), e successive modificazioni;
+Visto il [testo unico delle leggi sul Debito pubblico](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), approvato con [regio decreto 17 luglio 1910, n. 536](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20testo%20unico%20di%20tutte%20le%20leggi%20sul%20Debito%20pubblico.%20010U0536.md), e successive modificazioni;
 
 Visto che i titoli nominativi di piena proprieta' del Consolidato quattro e mezzo per cento, creato con la [legge 22 luglio 1894, n. 339](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md), allegato L, rimarranno privi di tagliandi di ricevuta con la riscossione della rata trimestrale di interessi di scadenza 1 aprile 1959;
 
-Visto il [regio decreto 21 novembre 1894, n. 516](../Regi%20decreti/Concernente%20la%20iscrizione%20nel%20Gran%20Libro%20del%20Debito%20pubblico%20delle%20rendite%20dei%20consolidati%204%20e%204.50%20per%20cento%20esenti%20da%20ritenuta.%20094U0516.md), per l'esecuzione della predetta legge;
+Visto il [regio decreto 21 novembre 1894, n. 516](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20la%20iscrizione%20nel%20Gran%20Libro%20del%20Debito%20pubblico%20delle%20rendite%20dei%20consolidati%204%20e%204.50%20per%20cento%20esenti%20da%20ritenuta.%20094U0516.md), per l'esecuzione della predetta legge;
 
-Visto l'art. 120 del regolamento generale sul Debito pubblico, approvato con [regio decreto 19 febbraio 1911, n. 298](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md);
+Visto l'art. 120 del regolamento generale sul Debito pubblico, approvato con [regio decreto 19 febbraio 1911, n. 298](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md);
 
 Visto l'[art. 1 della legge 18 marzo 1958, n. 241](../Atti%20normativi%20abrogati%20%28in%20originale%29/Minimo%20iscrivibile%20nel%20Gran%20Libro%20del%20debito%20pubblico%20e%20arrotondamento%20dei%20pagamenti%20degli%20interessi%20su%20titoli%20e%20facilitazioni%20nelle%20operazioni%20di%20rinnovazione%20dei%20titoli%20nominativi.md), con il quale si dispone, tra l'altro, che il pagamento degli interessi sui titoli di Debito pubblico, sia al portatore che nominativi, viene effettuato in rate semestrali;
 

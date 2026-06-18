@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 24 agosto 1933, n. 1277](../Regi%20decreti/Approvazione%20ed%20esecutorieta%20della%20convenzione%2025%20luglio%201933%20per%20la%20concessione%20alla%20Societa%20anonima%20Funivia%20Rapallo-Montallegro%20dellimpianto%20e%20dellesercizio%20della%20funicolare%20aerea%20in%20se_7e86f2c8f6fb.md), con il quale veniva approvato l'atto di concessione 25 luglio 1933 in favore della Societa' anonima funivia Rapallo-Montallegro per l'impianto e l'esercizio della funicolare aerea in servizio pubblico per trasporto di persone da Rapallo a Montallegro;
+Visto il [regio decreto 24 agosto 1933, n. 1277](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20ed%20esecutorieta%20della%20convenzione%2025%20luglio%201933%20per%20la%20concessione%20alla%20Societa%20anonima%20Funivia%20Rapallo-Montallegro%20dellimpianto%20e%20dellesercizio%20della%20funicolare%20aerea%20in%20se_7e86f2c8f6fb.md), con il quale veniva approvato l'atto di concessione 25 luglio 1933 in favore della Societa' anonima funivia Rapallo-Montallegro per l'impianto e l'esercizio della funicolare aerea in servizio pubblico per trasporto di persone da Rapallo a Montallegro;
 
 Vista l'istanza presentata dalla societa' concessionaria di detta funicolare, tendente ad ottenere la declassificazione in urbana della funicolare stessa;
 

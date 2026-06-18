@@ -64,7 +64,7 @@ Il trasferimento alla regione siciliana degli uffici comporta la successione all
 
 1.
 
-Al fine di assicurare il piu' efficace coordinamento tra le attivita' dell'Amministrazione statale e di quella regionale in ordine alle funzioni trasferite dal comma 2 dell'articolo 1 ed in particolare allo scopo di conseguire l'uniforme attuazione sul territorio dell'attivita' relativa a quanto stabilito dal [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) in materia di attrezzature, di operazioni tecniche e di effettuazione di esami di guida, e' costituito presso la regione siciliana un comitato di coordinamento composto da due funzionari designati dal Ministero dei trasporti e della navigazione, da due funzionari designati dal presidente della regione e da un esperto della materia, che funge da presidente, designato di comune accordo dal Ministro e dal presidente della regione. Le determinazioni del comitato sono comunicate agli organi competenti dello Stato e della regione siciliana.
+Al fine di assicurare il piu' efficace coordinamento tra le attivita' dell'Amministrazione statale e di quella regionale in ordine alle funzioni trasferite dal comma 2 dell'articolo 1 ed in particolare allo scopo di conseguire l'uniforme attuazione sul territorio dell'attivita' relativa a quanto stabilito dal [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) in materia di attrezzature, di operazioni tecniche e di effettuazione di esami di guida, e' costituito presso la regione siciliana un comitato di coordinamento composto da due funzionari designati dal Ministero dei trasporti e della navigazione, da due funzionari designati dal presidente della regione e da un esperto della materia, che funge da presidente, designato di comune accordo dal Ministro e dal presidente della regione. Le determinazioni del comitato sono comunicate agli organi competenti dello Stato e della regione siciliana.
 
 ))
 
@@ -78,7 +78,7 @@ Al fine di garantire la necessaria uniformita' operativa per quanto concerne le 
 
 2.
 
-Le attrezzature tecniche per l'esecuzione delle operazioni di revisione effettuate presso i predetti uffici, sono soggette agli obblighi di cui all'[articolo 241 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modifiche ed integrazioni.
+Le attrezzature tecniche per l'esecuzione delle operazioni di revisione effettuate presso i predetti uffici, sono soggette agli obblighi di cui all'[articolo 241 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modifiche ed integrazioni.
 
 ))
 
@@ -122,7 +122,7 @@ In particolare sono da considerare regionali:
                         b)
                             i servizi di trasporto aereo ed elicotteristico che si svolgano esclusivamente nell'ambito della regione;
                         c)
-                            le attribuzioni concernenti gli autoservizi pubblici di trasporto di persone e di merci, le autorizzazioni al trasporto di cose per conto terzi, nonche' il servizio di noleggio da rimessa, previste dal vigente [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e da esercitarsi in conformita' alla normativa statale di settore e ai criteri adottati in materia dal Ministero dei trasporti e della navigazione.
+                            le attribuzioni concernenti gli autoservizi pubblici di trasporto di persone e di merci, le autorizzazioni al trasporto di cose per conto terzi, nonche' il servizio di noleggio da rimessa, previste dal vigente [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) e da esercitarsi in conformita' alla normativa statale di settore e ai criteri adottati in materia dal Ministero dei trasporti e della navigazione.
 
 ))
 

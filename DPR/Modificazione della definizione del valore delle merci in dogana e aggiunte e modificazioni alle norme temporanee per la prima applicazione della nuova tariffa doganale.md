@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md);
+Vista la [legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md);
 
 Vista la [legge 7 dicembre 1952, n. 1846](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20dellautorizzazione%20al%20Governo%20di%20sospendere%20o%20ridurre%20i%20dazi%20della%20vigente%20tariffa%20doganale%20prevista%20dallart.%202%20della%20legge%2024%20dicembre%201949%20n.%20993.md), Vista la [legge 3 novembre 1954, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-03;1077);
 
@@ -34,7 +34,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Ritenuta la necessita' di modificare il regime doganale di alcune merci nonche' la definizione del valore in dogana delle merci per coordinarla con le disposizioni della Convenzione internazionale sul valore;
 
-Sentita la Commissione parlamentare costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), e confermata con le [leggi 7 dicembre 1952, n. 1846 e 3 novembre 1954, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-03;1077);
+Sentita la Commissione parlamentare costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), e confermata con le [leggi 7 dicembre 1952, n. 1846 e 3 novembre 1954, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-03;1077);
 
 Sentito il Consiglio dei Ministri;
 
@@ -112,7 +112,7 @@ L'art. 17, modificato dall'[art. 2 del decreto del Presidente della Repubblica 1
  Art. 27. - "Nel caso di contestazione sul valore dichiarato, il capo della dogana, su richiesta dell'importatore, puo' sentire due periti, uno dei quali da lui designato, e l'altro scelto dall'importatore fra quelli compresi nelle liste approvate dalle Camere di commercio, industria e agricoltura.
  Il capo della dogana puo' accettare il parere dei due periti, se questi sono concordi; ovvero servirsi dei risultati delle perizie per rettificare, a suo giudizio, il valore proposto dall'ufficio.
  Ciascuna delle parti e' tenuta a sostenere la spesa per il proprio perito. Al perito designato dall'Amministrazione la spesa e' liquidata in base ad una tariffa delle spese di perizia, approvata dal Ministro per le finanze".
- Art. 28. - "Qualora la contestazione non sia composta, per la risoluzione della conseguente controversia si applica il procedimento stabilito dal testo unico delle leggi approvate con [regio decreto 9 aprile 1911, n. 330](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20risoluzione%20delle%20controversie%20doganali.%20011U0330.md), e successive modificazioni.
+ Art. 28. - "Qualora la contestazione non sia composta, per la risoluzione della conseguente controversia si applica il procedimento stabilito dal testo unico delle leggi approvate con [regio decreto 9 aprile 1911, n. 330](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20risoluzione%20delle%20controversie%20doganali.%20011U0330.md), e successive modificazioni.
  La relazione dei periti di cui all'art. 27 e le deduzioni del capo della dogana faranno parte integrante del verbale di controversia, da redigersi a norma delle disposizioni richiamate nel precedente comma".
 
 ## Art. 8.

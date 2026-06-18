@@ -87,7 +87,7 @@ Il Ministero dell'industria, del commercio e dell'artigianato cura la tenuta e l
 ## Art. 11.
 
 Le cause relative alla responsabilita' del proprietario della nave per danni derivanti da inquinamento da idrocarburi, ai sensi della Convenzione sulla responsabilita' civile del 1992 ((e della Convenzione sulla responsabilita' civile del 2001)), sono di competenza del tribunale nella cui circoscrizione si e' verificato l'inquinamento. Nell'ipotesi di inquinamento di acque territoriali o di luoghi appartenenti alla circoscrizione di piu' tribunali, e' competente il tribunale preventivamente adito.
- Per la procedura di limitazione della responsabilita' del proprietario, ai sensi dell'art. V della Convenzione sulla responsabilita' civile del 1992, si osservano, in quanto applicabili, le norme di cui al libro IV, titolo IV del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+ Per la procedura di limitazione della responsabilita' del proprietario, ai sensi dell'art. V della Convenzione sulla responsabilita' civile del 1992, si osservano, in quanto applicabili, le norme di cui al libro IV, titolo IV del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 Il procedimento di limitazione e' promosso avanti al tribunale competente ai sensi del primo comma del presente articolo.
  La costituzione del Fondo, secondo le modalita' previste dall'art.
 V della Convenzione sulla responsabilita' civile del 1992, e' fatta presso la cancelleria del tribunale competente a conoscere delle cause di responsabilita'.
@@ -103,7 +103,7 @@ In caso di violazione dell'obbligo di cui al primo comma dell'articolo 6, il pro
 
 2.
 
-In caso di violazione dell'obbligo di cui al secondo comma dell'articolo 6, si applica la sanzione prevista dall'[articolo 1193 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+In caso di violazione dell'obbligo di cui al secondo comma dell'articolo 6, si applica la sanzione prevista dall'[articolo 1193 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 3.
 

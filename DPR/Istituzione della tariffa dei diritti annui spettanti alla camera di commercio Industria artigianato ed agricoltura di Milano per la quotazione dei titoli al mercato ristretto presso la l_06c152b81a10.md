@@ -16,7 +16,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Visti gli articoli 4 e 17 del relativo regolamento approvato dalla Commissione nazionale per le societa' e la borsa con deliberazione n. 233 del 24 giugno 1977, pubblicata nella Gazzetta Ufficiale n. 177 del 30 giugno 1977;
  Vista la [deliberazione della Commissione nazionale per le societa' e la borsa n. 315 del 12 gennaio 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:commissione.nazionale.societa.borsa:delibera:1978-01-12;315) con la quale e' stato istituito il mercato ristretto presso la borsa valori di Milano;
  Vista la [deliberazione n. 623 del 16 novembre 1978 con cui la camera di commercio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:camera.commercio:delibera:1978-11-16;623), industria, artigianato ed agricoltura di Milano ha chiesto la fissazione dei diritti di quotazione per i titoli quotati al mercato ristretto;
- Visti gli articoli 32 e 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), recante norme in materia di diritti di borsa;
+ Visti gli articoli 32 e 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), recante norme in materia di diritti di borsa;
  Sulla proposta del Ministro del tesoro;
 
  Decreta:

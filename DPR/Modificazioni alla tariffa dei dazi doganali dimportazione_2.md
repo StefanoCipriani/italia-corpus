@@ -16,7 +16,7 @@ Vista la [legge 14 ottobre 1957, n. 1203](../DL%20e%20leggi%20di%20conversione/R
 
 Vista la tariffa dei dazi doganali d'importazione, approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20dimportazione.md), e successive modificazioni;
 
-Vista la [legge 21 marzo 1967, n. 151](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20vigente%20tariffa%20doganale%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013.md), che proroga la delega al Governo, prevista dall'[articolo 3 della legge 1 febbraio 1965, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20una%20nuova%20tariffa%20dei%20dazi%20doganali.md), ad apportare modificazioni alla detta tariffa dei dazi doganali d'importazione;
+Vista la [legge 21 marzo 1967, n. 151](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20vigente%20tariffa%20doganale%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013.md), che proroga la delega al Governo, prevista dall'[articolo 3 della legge 1 febbraio 1965, n. 13](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20una%20nuova%20tariffa%20dei%20dazi%20doganali.md), ad apportare modificazioni alla detta tariffa dei dazi doganali d'importazione;
 
 Vista la decisione del Consiglio della Comunita' economica europea del 26 luglio 1966, relativa alla soppressione dei dazi doganali e al divieto delle restrizioni quantitative tra gli Stati membri nonche' all'applicazione dei dazi della tariffa doganale comune per i prodotti non compresi nell'allegato II del Trattato, e gli atti ulteriormente emanati dagli Organi delle Comunita' europee e, in particolare, i Regolamenti (C.E.E.):
 
@@ -34,7 +34,7 @@ n. 1543/69 del Consiglio, del 23 luglio 1969, relativo alle importazioni degli a
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Sentita la Commissione Parlamentare di cui all'[articolo 2 della legge 21 marzo 1967, n. 151](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20vigente%20tariffa%20doganale%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013.md);
+Sentita la Commissione Parlamentare di cui all'[articolo 2 della legge 21 marzo 1967, n. 151](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20vigente%20tariffa%20doganale%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013.md);
 
 Sentito il Consiglio dei Ministri;
 

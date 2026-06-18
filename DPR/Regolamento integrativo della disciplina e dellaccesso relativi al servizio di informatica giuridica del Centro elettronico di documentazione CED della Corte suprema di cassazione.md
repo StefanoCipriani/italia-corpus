@@ -18,7 +18,7 @@ Vista la [legge 7 giugno 2000, n. 150](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Vista la [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633);
 
-Visto il [decreto legislativo 6 maggio 1999, n. 169](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2096-9-CE%20relativa%20alla%20tutela%20giuridica%20delle%20banche%20di%20dati.md);
+Visto il [decreto legislativo 6 maggio 1999, n. 169](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-9-CE%20relativa%20alla%20tutela%20giuridica%20delle%20banche%20di%20dati.md);
 
 Visto il [decreto del Presidente della Repubblica 21 maggio 1981, n. 322](Regolamento%20per%20la%20concessione%20della%20utenza%20del%20servizio%20di%20informatica%20giuridica%20del%20centro%20elettronico%20di%20documentazione%20della%20Corte%20suprema%20di%20cassazione.md), come modificato dal [decreto del Presidente della Repubblica 28 novembre 1985, n. 759](Modificazioni%20ed%20integrazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2021%20maggio%201981%20n.%20322%20concernente%20regolamento%20per%20la%20concessione%20della%20utenza%20del%20servizio%20di%20informatica%20giuridic_0d47ff7df020.md);
 
@@ -44,7 +44,7 @@ Il Centro elettronico di documentazione della Corte suprema di cassazione, (CED)
 
 2.
 
-I dati inseriti nel CED costituiscono una banca di dati, ai sensi del [decreto legislativo 6 maggio 1999, n. 169](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2096-9-CE%20relativa%20alla%20tutela%20giuridica%20delle%20banche%20di%20dati.md), e sono soggetti alla disciplina della [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), e successive modificazioni.
+I dati inseriti nel CED costituiscono una banca di dati, ai sensi del [decreto legislativo 6 maggio 1999, n. 169](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-9-CE%20relativa%20alla%20tutela%20giuridica%20delle%20banche%20di%20dati.md), e sono soggetti alla disciplina della [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), e successive modificazioni.
 
 Note alle premesse:
  - Si riporta il testo dell'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87):
@@ -70,13 +70,13 @@ Note alle premesse:
  Da 2 a 4-bis (omissis).».
  - La [legge 7 giugno 2000, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-06-07;150), reca: «Disciplina delle attivita' di informazione e di comunicazione delle pubbliche amministrazioni.».
  - La [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), reca: «Protezione del diritto d'autore e di altri diritti connessi al suo esercizio.».
- - Il [decreto legislativo 6 maggio 1999, n. 169](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2096-9-CE%20relativa%20alla%20tutela%20giuridica%20delle%20banche%20di%20dati.md), reca: «Attuazione della [direttiva 96/9/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;9) relativa alla tutela giuridica delle banche di dati.».
+ - Il [decreto legislativo 6 maggio 1999, n. 169](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-9-CE%20relativa%20alla%20tutela%20giuridica%20delle%20banche%20di%20dati.md), reca: «Attuazione della [direttiva 96/9/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;9) relativa alla tutela giuridica delle banche di dati.».
  - Il [decreto del Presidente della Repubblica 21 maggio 1981, n. 322](Regolamento%20per%20la%20concessione%20della%20utenza%20del%20servizio%20di%20informatica%20giuridica%20del%20centro%20elettronico%20di%20documentazione%20della%20Corte%20suprema%20di%20cassazione.md), come modificato dal [decreto del Presidente della Repubblica 28 novembre 1985, n. 769](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-11-28;769), reca: «Regolamento per la concessione della utenza del servizio di informatica giuridica del Centro elettronico di documentazione della Corte suprema di cassazione.».
  - Il [decreto del Ministro di grazia e giustizia 21 maggio 1987, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.grazia.giustizia:decreto:1987-05-21;224), reca: «Norme di esecuzione dell'[art. 1 del decreto del Presidente della Repubblica 28 novembre 1985, n. 759](Modificazioni%20ed%20integrazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2021%20maggio%201981%20n.%20322%20concernente%20regolamento%20per%20la%20concessione%20della%20utenza%20del%20servizio%20di%20informatica%20giuridic_0d47ff7df020.md), concernente le modalita' di accesso al servizio di informatica giuridica del Centro elettronico di documentazione della Corte di cassazione ed i parametri relativi.».
  - Il decreto del Ministro di grazia e giustizia 2 novembre 1990, reca: «Norme relative alla fruizione da parte degli esercenti le professioni legali e degli appartenenti alle categorie equiparate del servizio di informatica giuridica attraverso i terminali degli uffici giudiziari collegati con il Centro elettronico di documentazione della Corte suprema di cassazione.».
  - Il [decreto del Ministro di grazia e giustizia 28 novembre 1995, n. 594](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.grazia.giustizia:decreto:1995-11-28;594), reca: «Regolamento recante norme relative alla fruizione da parte degli esercenti le professioni legali del servizio di informatica giuridica attraverso i terminali degli uffici giudiziari collegati con il Centro elettronico di documentazione della Corte suprema di cassazione.».
  Note all'[art. 1:
- - Per il decreto legislativo 6 maggio 1999, n. 169](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2096-9-CE%20relativa%20alla%20tutela%20giuridica%20delle%20banche%20di%20dati.md), vedi note alle premesse.
+ - Per il decreto legislativo 6 maggio 1999, n. 169](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-9-CE%20relativa%20alla%20tutela%20giuridica%20delle%20banche%20di%20dati.md), vedi note alle premesse.
  - Per la [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), vedi note alle premesse.
 
 ## Art. 2. — Accesso gratuito al servizio

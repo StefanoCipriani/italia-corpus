@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA 
  
- Visto il [regio decreto 14 novembre 1935, n. 2504](../Regi%20decreti/Costituzione%20presso%20la%20Banca%20nazionale%20del%20lavoro%20di%20una%20Sezione%20autonoma%20per%20il%20credito%20cinematografico.%20035U2504.md); 
+ Visto il [regio decreto 14 novembre 1935, n. 2504](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20presso%20la%20Banca%20nazionale%20del%20lavoro%20di%20una%20Sezione%20autonoma%20per%20il%20credito%20cinematografico.%20035U2504.md); 
  Vista la [legge 31 luglio 1959, n. 617](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Ministero%20del%20turismo%20e%20dello%20spettacolo.md); 
  Vista la [legge 4 novembre 1965, n. 1213](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md); 
  Vista la [legge 9 marzo 1971, n. 126, che all'art. 5](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20a%20favore%20dello%20spettacolo.md) dispone, tra l'altro, l'aumento da L. 3.500 milioni a lire 5.000 milioni del fondo di dotazione della sezione autonoma per il credito cinematografico presso la Banca nazionale del lavoro, con sede in Roma; 

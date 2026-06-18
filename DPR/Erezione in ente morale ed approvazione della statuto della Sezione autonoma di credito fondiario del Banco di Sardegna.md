@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visti il [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), che approva, il testo unico delle leggi sul credito fondiario, il [regio decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md), che approva il regolamento per l'esecuzione del predetto testo unico, nonche' le successive modificazioni ed integrazioni;
+Visti il [regio decreto 16 luglio 1905, n. 646](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), che approva, il testo unico delle leggi sul credito fondiario, il [regio decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md), che approva il regolamento per l'esecuzione del predetto testo unico, nonche' le successive modificazioni ed integrazioni;
 
 Viste la [legge 29 luglio 1949, n. 474](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20il%20credito%20fondiario%20edilizio%20ed%20agrario%20di%20miglioramento.md), e le successive modificazioni ed integrazioni;
 

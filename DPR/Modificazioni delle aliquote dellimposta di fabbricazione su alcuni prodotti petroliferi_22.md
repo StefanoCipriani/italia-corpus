@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 25 marzo 1986, n. 73](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20concernenti%20laumento%20o%20la%20riduzione%20dellimposta%20di%20fabbricazione%20sui%20prodotti%20petroliferi%20con%20riferimento%20alla%20riduzione%20o%20allaumento%20dei%20prez_dfeb1cfba41a.md), recante delega al Governo per la emanazione di norme concernenti l'aumento o la riduzione dell'imposta di fabbricazione sui prodotti petroliferi con riferimento alla riduzione o all'aumento dei prezzi medi europei di tali prodotti;
+Vista la [legge 25 marzo 1986, n. 73](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20concernenti%20laumento%20o%20la%20riduzione%20dellimposta%20di%20fabbricazione%20sui%20prodotti%20petroliferi%20con%20riferimento%20alla%20riduzione%20o%20allaumento%20dei%20prez_dfeb1cfba41a.md), recante delega al Governo per la emanazione di norme concernenti l'aumento o la riduzione dell'imposta di fabbricazione sui prodotti petroliferi con riferimento alla riduzione o all'aumento dei prezzi medi europei di tali prodotti;
 
 Vista la comunicazione della segreteria del Comitato interministeriale prezzi in data 8 ottobre 1986, concernente la variazione dei prezzi medi europei sui prodotti petroliferi;
 

@@ -20,7 +20,7 @@ Visto l'[articolo 1, comma 52, della legge 30 dicembre 2004, n. 311](../Leggi%20
 
 Visto l'articolo 2, comma 1, del testo unico delle leggi sull'ordinamento degli enti locali approvato con [decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md);
 
-Visto il [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), recante [codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md);
+Visto il [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), recante [codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md);
 
 Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 5 giugno 2006;
 
@@ -60,7 +60,7 @@ Avvertenza:
  «52. Ai fini del [comma 2, dell'art. 4 del decreto legislativo 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), e' istituito per l'anno 2005, presso lo stato di previsione del Ministero dell'interno, il fondo per il rimborso agli enti locali delle minori entrate derivanti dall'abolizione del credito d'imposta con una dotazione di 10 milioni di euro. Con regolamento emanato ai sensi dell'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), su proposta del Ministro dell'economia e delle finanze, di concerto con il Ministro dell'interno, sono dettate le norme per l'attuazione della disposizione di cui al presente comma e per la ripartizione del fondo.».
  - Il testo dell'[art. 2, comma 1, del decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md) «Testo unico delle leggi sull'ordinamento degli enti locali», pubblicato nella Gazzetta Ufficiale 28 settembre 2000, n. 227, supplemento ordinario), e' il seguente:
  «Art. 2 (Ambito di applicazione). - 1. Ai fini del presente testo unico si intendono per enti locali i comuni, le province, le citta' metropolitane, le comunita' montane, le comunita' isolane e le unioni di comuni.».
- - Il [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md) ([Codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md)), e' pubblicato nella Gazzetta Ufficiale 16 maggio 2005, n. 112, supplemento ordinario.
+ - Il [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md) ([Codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md)), e' pubblicato nella Gazzetta Ufficiale 16 maggio 2005, n. 112, supplemento ordinario.
  Nota all'art. 1:
  - Per l'art. 1, comma 52, della citata [legge n. 311 del 2004 e per l'art. 2, comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004;311#art_2-com1) del citato [decreto legislativo n. 267 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;267) si vedano le note alle premesse.
 

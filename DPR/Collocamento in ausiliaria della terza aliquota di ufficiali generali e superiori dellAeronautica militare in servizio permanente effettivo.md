@@ -10,15 +10,15 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto legislativo 14 maggio 1946, n. 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
+Visto il [regio decreto legislativo 14 maggio 1946, n. 384](../Atti%20normativi%20abrogati%20%28in%20originale%29/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
 
-Visto il decreto del Capo provvisorio dello Stato in data 19 ottobre 1947, relativo alla determinazione della terza aliquota di ufficiali generali e superiori dell'Aeronautica militare da collocare in ausiliaria ai sensi del [regio decreto legislativo 14 maggio 1946, n. 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
+Visto il decreto del Capo provvisorio dello Stato in data 19 ottobre 1947, relativo alla determinazione della terza aliquota di ufficiali generali e superiori dell'Aeronautica militare da collocare in ausiliaria ai sensi del [regio decreto legislativo 14 maggio 1946, n. 384](../Atti%20normativi%20abrogati%20%28in%20originale%29/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
 
 Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il tesoro; Decreta:
 
 ## Art. 1.
 
-L'aliquota per ciascun grado e ruolo degli ufficiali generali e superiori dell'Aeronautica militare, in servizio permanente effettivo, che possono essere collocati in ausiliaria per la terza applicazione del [regio decreto legislativo 14 maggio 1946, n. 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), stabilita con decreto 19 ottobre 1947, n. 1432, e' variata come segue:
+L'aliquota per ciascun grado e ruolo degli ufficiali generali e superiori dell'Aeronautica militare, in servizio permanente effettivo, che possono essere collocati in ausiliaria per la terza applicazione del [regio decreto legislativo 14 maggio 1946, n. 384](../Atti%20normativi%20abrogati%20%28in%20originale%29/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), stabilita con decreto 19 ottobre 1947, n. 1432, e' variata come segue:
 
  Arma aeronautica - Ruolo naviganti:
  generale di squadra aerea. . . . . . . . . . . . . . . . . . n. 3 generale di divisione aerea . . . . . . . . . . . . . . . . n. 10 generale di brigata aerea . . . . . . . . . . . . . . . . . n. 12 colonnello. . . . . . . . . . . . . . . . . . . . . . . . . n. 37 tenente colonnello. . . . . . . . . . . . . . . . . . . . . n. 66 maggiore. . . . . . . . . . . . . . . . . . . . . . . . . . n. 39 

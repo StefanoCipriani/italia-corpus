@@ -409,7 +409,7 @@ Per l'esercizio dell'azione disciplinare, per l'organizzazione del funzionamento
  in ordine a particolari provvedimenti
 
 I provvedimenti previsti negli articoli 7, 12, secondo comma, 37 e 112 dell'ordinamento giudiziario approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sono adottati, su richiesta del Ministro, con l'osservanza delle forme previste nell'art. 17 della legge.
- Restano ferme le facolta' attribuite al Ministro negli articoli 10 e 162, secondo comma, dell'ordinamento giudiziario, e quelle attribuite ai capi di corte in materia di applicazioni e di supplenze a norma dello stesso ordinamento e dell'[art. 2 del decreto legislativo luogotenenziale 3 maggio 1945, n. 232](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20temporanee%20circa%20le%20applicazioni%20e%20supplenze%20di%20magistrati%20con%20funzioni%20del%20grado%20superiore%20e%20circa%20il%20concorso%20per%20uditore.%20045U0232.md).
+ Restano ferme le facolta' attribuite al Ministro negli articoli 10 e 162, secondo comma, dell'ordinamento giudiziario, e quelle attribuite ai capi di corte in materia di applicazioni e di supplenze a norma dello stesso ordinamento e dell'[art. 2 del decreto legislativo luogotenenziale 3 maggio 1945, n. 232](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20temporanee%20circa%20le%20applicazioni%20e%20supplenze%20di%20magistrati%20con%20funzioni%20del%20grado%20superiore%20e%20circa%20il%20concorso%20per%20uditore.%20045U0232.md).
 
 ### Art. 64. — Autorizzazione alle funzioni di arbitro
 

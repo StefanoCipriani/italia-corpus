@@ -12,10 +12,10 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 86 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+ Visto l'[art. 86 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
  Visto il [decreto presidenziale 28 marzo 1953, n. 369](Istituzione%20di%20nuove%20corporazioni%20di%20piloti.md), istitutivo di varie corporazioni di piloti;
  Considerato che la "Corporazione dei piloti del porto di Molfetta", istituita con [decreto del Presidente della Repubblica 28 marzo 1953, n. 369](Istituzione%20di%20nuove%20corporazioni%20di%20piloti.md), non e' mai entrata in funzione per mancanza di piloti, disposti a farne parte, causa la scarsita' del traffico di quel porto;
- Tenuto conto che il pilotaggio nel porto di Molfetta non e' stato reso obbligatorio ai sensi dell'[art. 87 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+ Tenuto conto che il pilotaggio nel porto di Molfetta non e' stato reso obbligatorio ai sensi dell'[art. 87 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
  Ritenuta l'opportunita' di procedere alla soppressione di detta corporazione;
  Udito il parere del Consiglio di Stato;
  Sulla proposta del Ministro per la marina mercantile;

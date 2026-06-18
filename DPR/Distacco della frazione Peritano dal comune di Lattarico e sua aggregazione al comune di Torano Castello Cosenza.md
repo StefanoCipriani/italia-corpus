@@ -14,7 +14,7 @@ Viste le istanze in data 21 e 30 novembre 1946, 22 e 25 gennaio, 20 febbraio, 6 
 
 Viste le deliberazioni: del Consiglio comunale di Lattarico in data 26 marzo 1948, n. 8/A; del Consiglio comunale di Torano Castello in data 21 dicembre 1946, n. 111; del Consiglio provinciale di Cosenza in data 11 ottobre 1954, n. 97, e 14 settembre 1955, n. 38, con le quali e' stato espresso parere in ordine alla variazione territoriale di cui trattasi;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvata con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvata con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla prima Sezione del Consiglio di Stato nell'adunanza del 16 ottobre 1956;
 

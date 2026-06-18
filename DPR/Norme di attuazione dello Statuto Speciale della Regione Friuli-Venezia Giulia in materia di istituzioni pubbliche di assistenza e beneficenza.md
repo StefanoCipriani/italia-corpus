@@ -44,7 +44,7 @@ Nulla e' innovato circa le competenze statali per quanto concerne le istituzioni
 ## Art. 5.
 
 Nel territorio della Regione Friuli-Venezia Giulia i prefetti provvedono all'approvazione del programma annuale dell'opera assistenziale degli Enti comunali di assistenza, ai sensi dell'[art. 9 della legge 3 giugno 1937, n. 847](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20in%20ogni%20Comune%20del%20Regno%20dellEnte%20comunale%20di%20assistenza.%20037U0847.md), nonche' alla distribuzione tra i detti Enti dei fondi assegnati dal Ministero dell'interno ai sensi dell'[art. 17 del decreto del Presidente della Repubblica 19 agosto 1954, n. 968](Decentramento%20dei%20servizi%20del%20Ministero%20dellinterno.md).
- Gli interventi finanziari in caso di urgenza previsti dall'[art. 2 del decreto legislativo luogotenenziale 22 marzo 1945, n. 173](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20Comitati%20provinciali%20di%20assistenza%20e%20beneficenza%20pubblica.%20045U0173.md), sono attuati, nel territorio della Regione, dai prefetti.
+ Gli interventi finanziari in caso di urgenza previsti dall'[art. 2 del decreto legislativo luogotenenziale 22 marzo 1945, n. 173](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20Comitati%20provinciali%20di%20assistenza%20e%20beneficenza%20pubblica.%20045U0173.md), sono attuati, nel territorio della Regione, dai prefetti.
 
 ## Art. 6.
 
@@ -63,7 +63,7 @@ Il [D.P.R. 15 gennaio 1987, n.469](Norme%20integrative%20di%20attuazione%20dello
 
 ## Art. 8.
 
-Nulla e' innovato circa le competenze degli organi statali previsti dalla [legge 21 giugno 1896, n. 218](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riflettente%20laccettazione%20da%20parte%20delle%20Provincie%20Comuni%20e%20Istituzioni%20pubbliche%20di%20lasciti%20o%20donazioni%20di%20qualsiasi%20natura%20o%20valore.%20096U0218.md), e dal regolamento approvato con [regio decreto 26 luglio 1896, n. 361](../Regi%20decreti/Che%20conferisce%20ai%20Prefetti%20la%20competenza%20ad%20autorizzare%20le%20Provincie%20i%20Comuni%20e%20le%20istituzioni%20pubbliche%20di%20beneficenza%20ad%20accettare%20lasciti%20e%20donazioni%20e%20ad%20acquistare%20stabili.%20096U0361.md), per l'accettazione di lasciti o donazioni.((1))
+Nulla e' innovato circa le competenze degli organi statali previsti dalla [legge 21 giugno 1896, n. 218](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riflettente%20laccettazione%20da%20parte%20delle%20Provincie%20Comuni%20e%20Istituzioni%20pubbliche%20di%20lasciti%20o%20donazioni%20di%20qualsiasi%20natura%20o%20valore.%20096U0218.md), e dal regolamento approvato con [regio decreto 26 luglio 1896, n. 361](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20conferisce%20ai%20Prefetti%20la%20competenza%20ad%20autorizzare%20le%20Provincie%20i%20Comuni%20e%20le%20istituzioni%20pubbliche%20di%20beneficenza%20ad%20accettare%20lasciti%20e%20donazioni%20e%20ad%20acquistare%20stabili.%20096U0361.md), per l'accettazione di lasciti o donazioni.((1))
 
 --------------
 
@@ -83,7 +83,7 @@ Il [D.P.R. 15 gennaio 1987, n.469](Norme%20integrative%20di%20attuazione%20dello
 
 ## Art. 10.
 
-In tutti i casi nei quali le disposizioni di cui al [decreto legislativo luogotenenziale 22 marzo 1945, n. 173](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20Comitati%20provinciali%20di%20assistenza%20e%20beneficenza%20pubblica.%20045U0173.md), e ad ogni altra legge o regolamento in materia prescrivono, per le materie attribuite alla competenza statale, il parere del Comitato provinciale di assistenza e beneficenza pubblica, tale parere e' reso dall'organo regionale che esercita il controllo sugli atti delle istituzioni pubbliche di assistenza e beneficenza.
+In tutti i casi nei quali le disposizioni di cui al [decreto legislativo luogotenenziale 22 marzo 1945, n. 173](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20Comitati%20provinciali%20di%20assistenza%20e%20beneficenza%20pubblica.%20045U0173.md), e ad ogni altra legge o regolamento in materia prescrivono, per le materie attribuite alla competenza statale, il parere del Comitato provinciale di assistenza e beneficenza pubblica, tale parere e' reso dall'organo regionale che esercita il controllo sugli atti delle istituzioni pubbliche di assistenza e beneficenza.
  Fino a quando la Regione non abbia provveduto a dare attuazione all'articolo 60 dello Statuto speciale nei riguardi delle istituzioni pubbliche di assistenza e beneficenza, i Comitati provinciali di assistenza e beneficenza pubblica e il Comitato circondariale di assistenza e beneficenza di Pordenone continuano a funzionare secondo le leggi dello Stato che ne regolano la composizione e le attivita'.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

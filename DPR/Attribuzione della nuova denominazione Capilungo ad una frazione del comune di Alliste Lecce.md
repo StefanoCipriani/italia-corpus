@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la deliberazione del Consiglio comunale di Alliste (Lecce) in data 11 luglio 1960, n. 62, con la quale e' stato chiesto che alla frazione di quel Comune ora comunemente indicato con il nome di "Capilungo" sia attribuita ufficialmente tale denominazione;
  Vista la deliberazione del Consiglio provinciale di Lecce in data 1 marzo 1961, n. 17, con la quale e' stato espresso parere favorevole in merito alla denominazione predetta;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

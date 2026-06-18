@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la deliberazione del Consiglio comunale di Sotto il Monte (Bergamo) in data 3 agosto 1963, n. 14, con la quale e' stato chiesto che la denominazione del Comune stesso sia mutata in quella di "Sotto il Monte Giovanni XXIII";
  Viste le [deliberazioni della Giunta provinciale in data 27 agosto 1963, n. 1429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:giunta.provincia.:delibera:1963-08-27;1429), e del Consiglio provinciale di Bergamo in data 3 ottobre 1963, n. 133, con le quali e' stato espresso parere in merito al mutamento di denominazione in parola;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

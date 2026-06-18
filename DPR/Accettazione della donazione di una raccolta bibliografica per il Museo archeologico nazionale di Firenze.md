@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'atto di donazione in data 19 giugno 1957, n. 15693 di repertorio, stipulato dal notaio dott. Antonino Piazza residente in Firenze, con il quale l'avvocato Luigi Valori, la signora Bice Valori e la signora Jenny Pescini vedova Valori hanno donato allo Stato, per la biblioteca del Museo archeologico nazionale di Firenze, una raccolta bibliografica comprendente trecentoventuno opere gia' appartenenti al compianto avvocato Berto Valori;
  Vista la legge 5 giugno 1850, n. 1037;
- Visto il [regio decreto 26 giugno 1864, n. 1817](../Regi%20decreti/Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md);
+ Visto il [regio decreto 26 giugno 1864, n. 1817](../Atti%20normativi%20abrogati%20%28in%20originale%29/Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md);
  Udito il parere del Consiglio di Stato;
  Sulla proposta del Ministero della pubblica istruzione;
 

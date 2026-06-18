@@ -14,7 +14,7 @@ Viste le istanze in data 29 e 30 ottobre, 6 e 13 novembre, 11 e 28 dicembre 1949
 
 Viste le deliberazioni del Consiglio comunale di Ospedaletti in data 29 dicembre 1949, n. 64; del Consiglio comunale di San Remo in data 3 ottobre 1949, n. 114; della Deputazione provinciale in data 23 marzo 1950, n. 1409/2, e del Consiglio provinciale di Imperia in data 4 aprile 1955, n. 24, con le quali e' stato espresso parere in ordine alla variazione territoriale di cui trattasi;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

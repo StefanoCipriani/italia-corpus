@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 86 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+ Visto l'[art. 86 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
  Visto il proprio decreto 28 marzo 1953, n. 369, con il quale sono state istituite le Corporazioni dei piloti dei porti di Imperia-Oneglia ed Imperia-Porto Maurizio;
  Ritenuta la necessita' di riunificare, per un migliore assetto del servizio, le suddette Corporazioni;
  Udito il parere del Consiglio di Stato;

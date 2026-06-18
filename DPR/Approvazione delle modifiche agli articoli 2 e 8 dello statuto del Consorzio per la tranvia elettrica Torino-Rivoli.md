@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA 
  
  Visto il regio decreto 30 dicembre 1909, n. DXXX, col quale fu approvato lo statuto del Consorzio per la tramvia elettrica Torino-Rivoli; 
- Visto il [regio decreto 29 luglio 1927, n. 1769](../Regi%20decreti/Modificazioni%20allo%20statuto%20del%20Consorzio%20per%20la%20tramvia%20elettrica%20Torino-Rivoli.%20027U1769.md), con il quale vennero modificati gli articoli 3, 9, 10 e 11 del suddetto statuto; 
+ Visto il [regio decreto 29 luglio 1927, n. 1769](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20del%20Consorzio%20per%20la%20tramvia%20elettrica%20Torino-Rivoli.%20027U1769.md), con il quale vennero modificati gli articoli 3, 9, 10 e 11 del suddetto statuto; 
  Visto il [decreto del Presidente della Repubblica 17 agosto 1953, n. 863](Modificazione%20dello%20statuto%20del%20Consorzio%20per%20la%20tramvia%20elettrica%20Torino-Rivoli.md), con il quale fu modificato l'art. 3 dello statuto medesimo; 
  Vista la deliberazione 24 gennaio 1956, con la quale l'assemblea generale del Consorzio ha approvato la modifica da apportare alla denominazione del Consorzio stesso; 
  Vista la deliberazione di pari data con la quale la predetta assemblea ha approvato la modifica da apportare all'art. 8 del ripetuto statuto; 

@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), recante disposizioni sulla posizione dei funzionari fuori ruolo;
+Visto il [regio decreto 30 dicembre 1923, n. 2958](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), recante disposizioni sulla posizione dei funzionari fuori ruolo;
 
 Visto il [regio decreto-legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md), contenente norme complementari a quelle dell'ordinamento gerarchico del personale dipendente dall'Amministrazione dello Stato;
 
-Visto il [regio decreto 8 giugno 1942, n. 719](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20di%20fuori%20ruolo%20dei%20funzionari%20dellAmministrazione%20dei%20lavori%20pubblici.%20042U0719.md), concernente disposizioni sulla posizione "fuori ruolo" dei funzionari dell'Amministrazione dei lavori pubblici;
+Visto il [regio decreto 8 giugno 1942, n. 719](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20riguardanti%20la%20posizione%20di%20fuori%20ruolo%20dei%20funzionari%20dellAmministrazione%20dei%20lavori%20pubblici.%20042U0719.md), concernente disposizioni sulla posizione "fuori ruolo" dei funzionari dell'Amministrazione dei lavori pubblici;
 
 sulla proposta del Ministro per i lavori pubblici, di concerto con quello per il tesoro; Decreta:
 

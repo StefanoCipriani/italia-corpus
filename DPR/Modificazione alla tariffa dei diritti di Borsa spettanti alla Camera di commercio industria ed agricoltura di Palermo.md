@@ -16,7 +16,7 @@ Visto il [decreto del Presidente della Repubblica 12 febbraio 1962, n. 137](Modi
 
 Viste le [deliberazioni n. 179 in data 31 ottobre 1962](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1962-10-31;179), e [n. 28 del 23 febbraio 1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1963-02-23;28), modificativa della citata deliberazione n. 179, con le quali sono state proposte ulteriori modificazioni alla tariffa suddetta;
 
-Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale si stabilisce la forma e l'organo competenti per la emanazione dei provvedimenti riguardanti i diritti di Borsa;
+Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale si stabilisce la forma e l'organo competenti per la emanazione dei provvedimenti riguardanti i diritti di Borsa;
 
 Sulla proposta del Ministro Segretario di Stato per il tesoro; Decreta:
 

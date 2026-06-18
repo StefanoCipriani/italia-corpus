@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  Vista la domanda in data 28 maggio 1952, con la quale il sindaco del comune di Sanremo (Imperia), in esecuzione della [deliberazione 19 maggio 1952, n. 48, del Consiglio comunale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1952-05-19;48), ha chiesto che l'attuale denominazione della frazione "Poggio" sia mutata in quella di "Poggio di Sanremo"; 
  Visto il parere favorevole del Consiglio provinciale di Imperia, espresso con [deliberazione n. 9 in data 5 agosto 1952](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1952-08-05;9); 
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md); 
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md); 
  Sulla proposta del Ministro per l'interno; 
  
  Decreta: 

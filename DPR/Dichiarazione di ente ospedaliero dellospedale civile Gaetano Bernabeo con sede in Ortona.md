@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [legge 12 febbraio 1968, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-12;132), recante norme sugli enti ospedalieri e sull'assistenza ospedaliera;
  Visto il decreto del medico provinciale di Chieti in data 11 luglio 1968, con il quale, sentito il consiglio provinciale di sanita', l'ospedale civile "Gaetano Bernabeo", di Ortona, e' stato classificato ospedale generale di zona a norma degli articoli 19, 20, 21 e 54 della citata legge n. 132;
- Considerato che l'ente anzidetto alla data di entrata in vigore della [legge 12 febbraio 1968, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-12;132), provvedeva esclusivamente al ricovero ed alla cura degli infermi, in conformita' dell'art. 2 dello statuto approvato con [regio decreto 1 aprile 1920, n. 509](../Regi%20decreti/Erezione%20in%20Ente%20morale.%20020U0509.md);
+ Considerato che l'ente anzidetto alla data di entrata in vigore della [legge 12 febbraio 1968, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-12;132), provvedeva esclusivamente al ricovero ed alla cura degli infermi, in conformita' dell'art. 2 dello statuto approvato con [regio decreto 1 aprile 1920, n. 509](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20Ente%20morale.%20020U0509.md);
  Visti gli articoli 3, 4, 9 e 54 della legge stessa;
  Sulla proposta del Ministro per la sanita', di concerto con il Ministro per l'interno;
 
@@ -24,7 +24,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Il consiglio di amministrazione dell'ente ospedaliero suddetto, e' composto come segue:
  un membro eletto dal consiglio provinciale di Chieti;
  tre membri eletti dal consiglio comunale di Ortona;
- due membri in rappresentanza degli originari interessi dell'ente, designati e nominati ai sensi dello statuto dell'ente approvato con [regio decreto 1 aprile 1920, n. 509](../Regi%20decreti/Erezione%20in%20Ente%20morale.%20020U0509.md).
+ due membri in rappresentanza degli originari interessi dell'ente, designati e nominati ai sensi dello statuto dell'ente approvato con [regio decreto 1 aprile 1920, n. 509](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20Ente%20morale.%20020U0509.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

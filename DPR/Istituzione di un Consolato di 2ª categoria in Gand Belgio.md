@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto 28 gennaio 1866, n. 2604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-01-28;2604);
 
-Visto i] [regio decreto 7 giugno 1866, n. 2996](../Regi%20decreti/Approvativo%20del%20Regolamento%20per%20lesecuzione%20della%20Legge%20sullordinamento%20del%20servizio%20consolare.%20066U2996.md);
+Visto i] [regio decreto 7 giugno 1866, n. 2996](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvativo%20del%20Regolamento%20per%20lesecuzione%20della%20Legge%20sullordinamento%20del%20servizio%20consolare.%20066U2996.md);
 
 Visto il [decreto del Capo provvisorio dello Stato 5 agosto 1947, n. 878](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-08-05;878), e successive modificazioni;
 

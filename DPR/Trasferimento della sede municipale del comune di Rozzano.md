@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [deliberazione n. 29 del 24 aprile 1969](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1969-04-24;29), con la quale il consiglio comunale di Rozzano, in provincia di Milano, ha chiesto che la sede municipale sia trasferita dall'attuale capoluogo alla frazione costituita dal quartiere dell'Istituto autonomo per le case popolari;
  Vista la [deliberazione n. 3036/69 del 21 luglio 1969](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1969-07-21;3036), con la quale il consiglio provinciale di Milano ha espresso al riguardo il suo parere favorevole;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

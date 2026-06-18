@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il decreto reale 12 gennaio 1933, registrato dalla Corte dei conti il 16 febbraio 1933 al registro n. 4, foglio n. 129, con il quale il Consorzio di irrigazione Brenta, con sede in Cittadella, e' stato riconosciuto ai sensi del [regio decreto 13 agosto 1926, n. 1907](../Regi%20decreti/Disposizioni%20per%20i%20consorzi%20e%20le%20opere%20di%20irrigazione%20nellItalia%20settentrionale%20e%20centrale.%20026U1907.md);
+Visto il decreto reale 12 gennaio 1933, registrato dalla Corte dei conti il 16 febbraio 1933 al registro n. 4, foglio n. 129, con il quale il Consorzio di irrigazione Brenta, con sede in Cittadella, e' stato riconosciuto ai sensi del [regio decreto 13 agosto 1926, n. 1907](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20i%20consorzi%20e%20le%20opere%20di%20irrigazione%20nellItalia%20settentrionale%20e%20centrale.%20026U1907.md);
 
 Vista la domanda 14 novembre 1959, con la quale il presidente del predetto Consorzio ha chiesto la classifica del territorio dell'Ente, della superficie complessiva di ha. 53.755.49.02, fra quelli di bonifica di 2a categoria ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
 

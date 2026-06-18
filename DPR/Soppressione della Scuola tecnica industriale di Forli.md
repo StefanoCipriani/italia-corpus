@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
 
-Veduto il [regio decreto 24 agosto 1933, n. 2179](../Regi%20decreti/Regificazione%20e%20trasformazione%20del%20Corso%20libero%20di%20istituto%20industriale%20di%20Farli%20in%20Regio%20istituto%20tecnico%20industriale.%20033U2179.md), riguardante l'istituzione della Scuola tecnica industriale di Forli';
+Veduto il [regio decreto 24 agosto 1933, n. 2179](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regificazione%20e%20trasformazione%20del%20Corso%20libero%20di%20istituto%20industriale%20di%20Farli%20in%20Regio%20istituto%20tecnico%20industriale.%20033U2179.md), riguardante l'istituzione della Scuola tecnica industriale di Forli';
 
 Considerato che la Scuola predetta ha cessato di funzionare di fatto dal 1 ottobre 1965;
 
