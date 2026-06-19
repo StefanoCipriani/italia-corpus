@@ -581,7 +581,7 @@ Dalla data di entrata in vigore del presente decreto legislativo sono abrogati:
                         e)
                             il [decreto del Ministro del commercio con l'estero 12 giugno 1998, n. 289](Regolamento%20recante%20norme%20per%20la%20concessione%20dellautorizzazione%20generale%20prevista%20dallarticolo%206%20del%20regolamento%20CE%20n.%203381-94%20del%20Consiglio%20dellUnione%20europea%20del%2019%20dicembre%201994.md);
                         f)
-                            il [decreto del Ministro del commercio con l'estero 25 luglio 2000, n. 280](../Atti%20di%20attuazione%20Regolamenti%20UE/Regolamento%20recante%20modifiche%20al%20decreto%20ministeriale%2012%20giugno%201998%20n.%20289%20concernente%20lautorizzazione%20generale%20prevista%20dallarticolo%206%20del%20regolamento%20CE%20n.%203381-94%20del%20Consiglio%20dellUn_d86f3b807562.md);
+                            il [decreto del Ministro del commercio con l'estero 25 luglio 2000, n. 280](Regolamento%20recante%20modifiche%20al%20decreto%20ministeriale%2012%20giugno%201998%20n.%20289%20concernente%20lautorizzazione%20generale%20prevista%20dallarticolo%206%20del%20regolamento%20CE%20n.%203381-94%20del%20Consiglio%20dellUn_d86f3b807562.md);
                         g)
                             il decreto del Ministro del commercio con l'estero in data 13 novembre 2000, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 278 del 28 novembre 2000.
 
