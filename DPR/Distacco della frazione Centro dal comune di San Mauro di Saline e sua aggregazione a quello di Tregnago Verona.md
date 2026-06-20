@@ -16,7 +16,7 @@ Visto il voto favorevole del Consiglio comunale di Tregnago, espresso con [delib
 
 Viste le deliberazioni del Consiglio comunale di San Mauro di Saline in data 20 novembre 1947, n. 14, in data 24 marzo 1949, n. 9, in data 16 marzo 1950, n. 7, in data 11 giugno 1950, n. 16, e in data 12 gennaio 1952, n. 3; della Deputazione provinciale in data, 4 gennaio 1949, n. 21/21, e in data 22 agosto 1950, n. 1/1168, e del Consiglio provinciale di Verona in data 3 maggio 1952, n. 4, con le quali venne espresso parere in ordine alla variazione territoriale di cui trattasi;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

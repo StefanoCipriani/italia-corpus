@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Bari.%20026U2134.md) e modificato con [regio decreto 13 ottobre 1927, n. 2169](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Bari.%20027U2169.md), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Bari.%20026U2134.md) e modificato con [regio decreto 13 ottobre 1927, n. 2169](../Regi%20decreti/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Bari.%20027U2169.md), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 

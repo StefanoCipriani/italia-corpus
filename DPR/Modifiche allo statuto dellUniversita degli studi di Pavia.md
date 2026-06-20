@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, numero 2130](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Pavia.%20026U2130.md), modificato con regio decreto 13 ottobre - 1927, n. 2929; e successivi;
+ Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, numero 2130](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Pavia.%20026U2130.md), modificato con regio decreto 13 ottobre - 1927, n. 2929; e successivi;
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1502);
  Veduto il regio, decreto 30 settembre 1933, n. 1652, e successive modificazioni;
  Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960;

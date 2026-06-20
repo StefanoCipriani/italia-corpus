@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la domanda in data 6 marzo 1953, con la quale il sindaco del comune di Colleretto Parella (Torino), in esecuzione della [deliberazione n. 154 del 31 gennaio 1953, del Consiglio comunale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1953-01-31;154), ha chiesto che l'attuale denominazione del Comune sia mutata in quella di "Colleretto Giacosa";
  Visto il parere favorevole del Consiglio provinciale di Torino, espresso con deliberazione del 14 marzo 1953;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro per l'interno;
 
  Decreta:

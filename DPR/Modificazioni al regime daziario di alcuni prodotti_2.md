@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 28 luglio 1962, n. 1002](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20in%20Atene%20il%209%20luglio%201961%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Grecia.md), che ratifica e da' esecuzione agli accordi internazionali firmati in Atene il 9 luglio 1961 ed agli atti connessi, relativi all'associazione tra la Comunita' economica europea e la Grecia;
+Vista la [legge 28 luglio 1962, n. 1002](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20in%20Atene%20il%209%20luglio%201961%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Grecia.md), che ratifica e da' esecuzione agli accordi internazionali firmati in Atene il 9 luglio 1961 ed agli atti connessi, relativi all'associazione tra la Comunita' economica europea e la Grecia;
 
-Vista la [legge 15 ottobre 1964, n. 959](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20in%20Ankara%20il%2012%20settembre%201963%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Turchia.md), che ratifica e da' esecuzione agli accordi internazionali firmati in Ankara il 12 settembre 1963 ed agli atti connessi, relativi alla associazione tra la Comunita' economica europea e la Turchia;
+Vista la [legge 15 ottobre 1964, n. 959](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20in%20Ankara%20il%2012%20settembre%201963%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Turchia.md), che ratifica e da' esecuzione agli accordi internazionali firmati in Ankara il 12 settembre 1963 ed agli atti connessi, relativi alla associazione tra la Comunita' economica europea e la Turchia;
 
 Vista la tariffa dei dazi doganali di importazione, approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20dimportazione.md), e successive modificazioni;
 

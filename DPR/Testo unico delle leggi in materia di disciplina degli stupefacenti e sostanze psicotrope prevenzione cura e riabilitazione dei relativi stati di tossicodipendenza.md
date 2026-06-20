@@ -202,7 +202,7 @@ Le campagne informative nazionali sono realizzate attraverso i mezzi di comunica
 
 14.
 
-COMMA ABROGATO DAL [D.LGS. 12 APRILE 1996, N. 258](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%2092-109-CEE%20relativa%20alla%20fabbricazione%20e%20allimmissione%20in%20commercio%20di%20talune%20sostanze%20impiegate%20nella%20fabbricazione%20illecita%20di%20stupefacenti%20o%20di%20sostanze%20psi_2b6435427b81.md).
+COMMA ABROGATO DAL [D.LGS. 12 APRILE 1996, N. 258](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2092-109-CEE%20relativa%20alla%20fabbricazione%20e%20allimmissione%20in%20commercio%20di%20talune%20sostanze%20impiegate%20nella%20fabbricazione%20illecita%20di%20stupefacenti%20o%20di%20sostanze%20psi_2b6435427b81.md).
 
 15.
 
@@ -2154,7 +2154,7 @@ L'allegato III puo' essere modificato con decreto del Ministero della salute, di
 
 21.
 
-Alle attivita' di rilascio della licenza, di registrazione e di autorizzazione di cui ai commi 3, 5 e 9, il Ministero della salute provvede mediante tariffe a carico degli operatori, da determinarsi ai sensi dell'[articolo 4 della legge 4 giugno 2010, n. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md). Con decreto del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, da adottarsi entro sessanta giorni dall'entrata in vigore del presente decreto legislativo, sono individuate le tariffe di cui al presente comma e le relative modalita' di versamento. Le tariffe sono aggiornate almeno ogni due anni.
+Alle attivita' di rilascio della licenza, di registrazione e di autorizzazione di cui ai commi 3, 5 e 9, il Ministero della salute provvede mediante tariffe a carico degli operatori, da determinarsi ai sensi dell'[articolo 4 della legge 4 giugno 2010, n. 96](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md). Con decreto del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, da adottarsi entro sessanta giorni dall'entrata in vigore del presente decreto legislativo, sono individuate le tariffe di cui al presente comma e le relative modalita' di versamento. Le tariffe sono aggiornate almeno ogni due anni.
 
 --------------
 
@@ -2403,7 +2403,7 @@ Il [D.Lgs. 1 settembre 2011, n. 150](../Decreti%20Legislativi/Disposizioni%20com
 
 1.
 
-Qualora in relazione alle modalita' od alle circostanze dell'uso, dalla condotta di cui al comma 1 dell'articolo 75 possa derivare pericolo per la sicurezza pubblica, l'interessato che risulti gia' condannato, anche non definitivamente, per reati contro la persona, contro il patrimonio o per quelli previsti dalle disposizioni del presente [testo unico o dalle norme sulla circolazione](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale, oppure sanzionato per violazione delle norme del presente testo unico o destinatario di misura di prevenzione o di sicurezza, puo' essere inoltre sottoposto ((...)) ad una o piu' delle seguenti misure:
+Qualora in relazione alle modalita' od alle circostanze dell'uso, dalla condotta di cui al comma 1 dell'articolo 75 possa derivare pericolo per la sicurezza pubblica, l'interessato che risulti gia' condannato, anche non definitivamente, per reati contro la persona, contro il patrimonio o per quelli previsti dalle disposizioni del presente [testo unico o dalle norme sulla circolazione](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale, oppure sanzionato per violazione delle norme del presente testo unico o destinatario di misura di prevenzione o di sicurezza, puo' essere inoltre sottoposto ((...)) ad una o piu' delle seguenti misure:
                             a)
                                 obbligo di presentarsi almeno due volte a settimana presso il locale ufficio della Polizia di Stato o presso il comando dell'Arma dei carabinieri territorialmente competente;
                             b)
@@ -3565,7 +3565,7 @@ Il 25 per cento delle disponibilita' del Fondo nazionale di cui al comma 1 e' de
 
 6.
 
-Per la valutazione e la verifica delle spese connesse ai progetti di cui al comma 5 possono essere disposte le visite ispettive previste dall'[articolo 65, commi 5](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e [6, del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
+Per la valutazione e la verifica delle spese connesse ai progetti di cui al comma 5 possono essere disposte le visite ispettive previste dall'[articolo 65, commi 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e [6, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
 
 7.
 

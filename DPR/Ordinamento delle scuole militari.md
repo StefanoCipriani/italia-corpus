@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 15 luglio 1926, n. 1385](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20collegi%20militari.%20026U1385.md), sull'ordinamento e gli studi nei collegi militari, quale risulta modificato dai [regi decreti 3 ottobre 1929, n. 1860](../Atti%20normativi%20abrogati%20%28in%20originale%29/Abolizione%20dei%20limiti%20minimi%20di%20eta%20per%20lammissione%20ai%20collegi%20militari.%20029U1860.md), [30 aprile 1934, n. 815](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allordinamento%20dei%20Collegi%20e%20delle%20Accademie%20militari.%20034U0815.md), [23 luglio 1937, n. 1519](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggiornamento%20delle%20norme%20relative%20allordinamento%20delle%20Accademie%20e%20delle%20Scuole%20militari.%20037U1519.md), e [21 novembre 1940, n. 19461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-11-21;19461);
+Visto il [regio decreto 15 luglio 1926, n. 1385](../Regi%20decreti/Riordinamento%20dei%20collegi%20militari.%20026U1385.md), sull'ordinamento e gli studi nei collegi militari, quale risulta modificato dai [regi decreti 3 ottobre 1929, n. 1860](../Regi%20decreti/Abolizione%20dei%20limiti%20minimi%20di%20eta%20per%20lammissione%20ai%20collegi%20militari.%20029U1860.md), [30 aprile 1934, n. 815](../Regi%20decreti/Modificazioni%20allordinamento%20dei%20Collegi%20e%20delle%20Accademie%20militari.%20034U0815.md), [23 luglio 1937, n. 1519](../Regi%20decreti/Aggiornamento%20delle%20norme%20relative%20allordinamento%20delle%20Accademie%20e%20delle%20Scuole%20militari.%20037U1519.md), e [21 novembre 1940, n. 19461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-11-21;19461);
 
 Visto il testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 21 febbraio 1938, n. 329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-02-21;329);
 
@@ -97,7 +97,7 @@ Gli allievi delle scuole militari che abbiano conseguito la maturita' classica o
 
 ## Art. 14.
 
-Sono abrogati il [regio decreto 15 luglio 1926, n. 1385](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20collegi%20militari.%20026U1385.md), sull'ordinamento e gli studi nei collegi militari, e le successive modificazioni.
+Sono abrogati il [regio decreto 15 luglio 1926, n. 1385](../Regi%20decreti/Riordinamento%20dei%20collegi%20militari.%20026U1385.md), sull'ordinamento e gli studi nei collegi militari, e le successive modificazioni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

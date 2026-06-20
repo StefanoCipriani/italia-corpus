@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
-Visto il [regio decreto 23 marzo 1933, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md);
+Visto il [regio decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md);
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -27,7 +27,7 @@ Sulla proposta del Ministro per il tesoro; Decreta:
 ## Art. 1.
 
 Gli esami di concorso per la nomina a vice direttore del Tesoro (grado 8°) nel ruolo di gruppo A degli Uffici provinciali del tesoro hanno luogo in Roma e consistono in quattro prove scritte ed una orale, secondo il programma allegato al presente decreto, firmato dal Ministro per il tesoro;
- Per il suddetto esame si osservano le disposizioni di cui al capo VI del [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili del l'Amministrazione dello Stato, e successive modificazioni ed integrazioni, nonche' quelle contenute nel capo I e II, parte prima, del regolamento per il personale degli uffici dipendenti dal Ministero del tesoro, approvato con [regio decreto 23 marzo 1933, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), in quanto siano applicabili.
+ Per il suddetto esame si osservano le disposizioni di cui al capo VI del [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili del l'Amministrazione dello Stato, e successive modificazioni ed integrazioni, nonche' quelle contenute nel capo I e II, parte prima, del regolamento per il personale degli uffici dipendenti dal Ministero del tesoro, approvato con [regio decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), in quanto siano applicabili.
 
 ## Art. 2.
 

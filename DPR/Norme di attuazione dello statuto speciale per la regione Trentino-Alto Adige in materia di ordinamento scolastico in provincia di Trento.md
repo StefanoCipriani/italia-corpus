@@ -203,7 +203,7 @@ In caso di modificazione con legge provinciale della disciplina contenuta nel de
 
 1.
 
-Al fine di assicurare la reciproca informazione sulle attivita' di competenza rispettivamente della provincia autonoma di Trento e dell'Amministrazione statale, a supporto delle forme di coordinamento previste dal presente decreto tra gli organi competenti della Provincia stessa e quelli dello Stato, il dirigente preposto alla struttura provinciale competente in materia di istruzione ha titolo a partecipare alla Conferenza permanente dei dirigenti generali di cui all'[articolo 7 del decreto del Presidente della Repubblica 6 novembre 2000, n. 347](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
+Al fine di assicurare la reciproca informazione sulle attivita' di competenza rispettivamente della provincia autonoma di Trento e dell'Amministrazione statale, a supporto delle forme di coordinamento previste dal presente decreto tra gli organi competenti della Provincia stessa e quelli dello Stato, il dirigente preposto alla struttura provinciale competente in materia di istruzione ha titolo a partecipare alla Conferenza permanente dei dirigenti generali di cui all'[articolo 7 del decreto del Presidente della Repubblica 6 novembre 2000, n. 347](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
 
 ))
 
@@ -339,7 +339,7 @@ AGGIORNAMENTO (2)
 
 1.
 
-L'applicazione nella provincia di Trento dell'art. 9, comma 2, dell'accordo di modificazioni del Concordato lateranense, ratificato con [legge 25 marzo 1985, n. 121](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20con%20protocollo%20addizionale%20firmato%20a%20Roma%20il%2018%20febbraio%201984%20che%20apporta%20modificazioni%20al%20Concordato%20lateranense%20dell11%20febbraio%201929%20tra%20la%20Repubblica_9de9b54bd290.md), e dell'intesa stipulata tra il Ministro della pubblica istruzione ed il Presidente della Conferenza episcopale italiana, approvata con [decreto del Presidente della Repubblica 16 dicembre 1985, n. 751](Esecuzione%20dellintesa%20tra%20lautorita%20scolastica%20italiana%20e%20la%20Conferenza%20episcopale%20italiana%20per%20linsegnamento%20della%20religione%20cattolica%20nelle%20scuole%20pubbliche.md), non pregiudica, ai sensi del punto 5, lettera c), del protocollo addizionale in data 18 febbraio 1984 al predetto accordo, il regime vigente in detta provincia per l'insegnamento della religione cattolica cosi' come previsto nei successivi commi.
+L'applicazione nella provincia di Trento dell'art. 9, comma 2, dell'accordo di modificazioni del Concordato lateranense, ratificato con [legge 25 marzo 1985, n. 121](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20con%20protocollo%20addizionale%20firmato%20a%20Roma%20il%2018%20febbraio%201984%20che%20apporta%20modificazioni%20al%20Concordato%20lateranense%20dell11%20febbraio%201929%20tra%20la%20Repubblica_9de9b54bd290.md), e dell'intesa stipulata tra il Ministro della pubblica istruzione ed il Presidente della Conferenza episcopale italiana, approvata con [decreto del Presidente della Repubblica 16 dicembre 1985, n. 751](Esecuzione%20dellintesa%20tra%20lautorita%20scolastica%20italiana%20e%20la%20Conferenza%20episcopale%20italiana%20per%20linsegnamento%20della%20religione%20cattolica%20nelle%20scuole%20pubbliche.md), non pregiudica, ai sensi del punto 5, lettera c), del protocollo addizionale in data 18 febbraio 1984 al predetto accordo, il regime vigente in detta provincia per l'insegnamento della religione cattolica cosi' come previsto nei successivi commi.
 
 2.
 
@@ -355,7 +355,7 @@ L'insegnamento di cui al comma 2 e' impartito, secondo le norme stabilite dal vi
 
 5.
 
-Il ruolo istituito con l'[art. 5 del regio decreto 27 agosto 1932, n. 1127](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20le%20scuole%20elementari%20della%20Venezia%20Tridentina.%20032U1127.md), integrato dall'[art. 11 del decreto legislativo del Capo provvisorio dello Stato 16 maggio 1947, n. 555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-16;555#art_11), e' trasformato in ruolo ad esaurimento. I relativi posti sono soppressi con la cessazione, per qualsiasi causa, dal servizio dei docenti ad essi assegnati alla data di entrata in vigore del presente decreto.
+Il ruolo istituito con l'[art. 5 del regio decreto 27 agosto 1932, n. 1127](../Regi%20decreti/Disposizioni%20per%20le%20scuole%20elementari%20della%20Venezia%20Tridentina.%20032U1127.md), integrato dall'[art. 11 del decreto legislativo del Capo provvisorio dello Stato 16 maggio 1947, n. 555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-16;555#art_11), e' trasformato in ruolo ad esaurimento. I relativi posti sono soppressi con la cessazione, per qualsiasi causa, dal servizio dei docenti ad essi assegnati alla data di entrata in vigore del presente decreto.
 
 ## Art. 22.
 

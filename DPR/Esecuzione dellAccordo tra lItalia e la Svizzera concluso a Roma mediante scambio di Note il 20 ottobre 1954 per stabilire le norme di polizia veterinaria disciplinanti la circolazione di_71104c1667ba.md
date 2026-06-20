@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 28 giugno 1955, n. 635](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20tra%20lItalia%20e%20la%20Svizzera%20per%20il%20traffico%20di%20frontiera%20ed%20il%20pascolo%20conclusa%20a%20Roma%20il%202%20luglio%201953.md), per la ratifica e l'esecuzione della Convenzione tra l'Italia e la Svizzera per il traffico di frontiera ed il pascolo, conclusa in Roma il 2 luglio 1953;
+Vista la [legge 28 giugno 1955, n. 635](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20tra%20lItalia%20e%20la%20Svizzera%20per%20il%20traffico%20di%20frontiera%20ed%20il%20pascolo%20conclusa%20a%20Roma%20il%202%20luglio%201953.md), per la ratifica e l'esecuzione della Convenzione tra l'Italia e la Svizzera per il traffico di frontiera ed il pascolo, conclusa in Roma il 2 luglio 1953;
 
 Sentito il Consiglio dei Ministri;
 

@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la domanda in data 13 febbraio 1951, con la quale il sindaco di San Nazzaro Calvi (provincia di Benevento) in esecuzione alla [deliberazione del Consiglio comunale n. 50 in data 16 novembre 1950](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1950-11-16;50) ha chiesto che l'attuale denominazione del Comune sia cambiata in quella di "Calvi San Nazzaro";
  Visto il parere favorevole della Deputazione provinciale di Benevento espresso con [deliberazione n. 1912 in data 11 dicembre 1950](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1950-12-11;1912);
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro per l'interno;
 
  Decreta:

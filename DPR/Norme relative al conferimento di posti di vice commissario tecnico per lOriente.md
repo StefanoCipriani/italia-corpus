@@ -16,7 +16,7 @@ Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizion
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [regio decreto 5 settembre 1940, n. 1497](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20ruolo%20dei%20commissari%20tecnici%20per%20lOriente.%20040U1497.md);
+Visto il [regio decreto 5 settembre 1940, n. 1497](../Regi%20decreti/Istituzione%20del%20ruolo%20dei%20commissari%20tecnici%20per%20lOriente.%20040U1497.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -27,7 +27,7 @@ Sulla proposta del Ministro per gli affari esteri di concerto con il Ministro pe
 ## Art. 1.
 
 Per il conferimento dei posti vacanti di vice commissario di 3ª classe (gruppo A, grado 11°) del ruolo dei commissari tecnici per l'Oriente, il Ministero degli affari esteri puo' bandire concorsi per esami.
- Possono partecipare al concorso i cittadini italiani che siano in possesso di uno dei titoli di studio previsti dall'[art. 2 del regio decreto 5 settembre 1940, n. 1497](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20ruolo%20dei%20commissari%20tecnici%20per%20lOriente.%20040U1497.md), e adempiano alle altre condizioni previste ai paragrafi n), b), d), e), dell'articolo sopracitato, salvo quanto 6 stabilito dalle vigenti disposizioni per l'elevazione dei limiti di eta' per l'ammissione ai pubblici concorsi.
+ Possono partecipare al concorso i cittadini italiani che siano in possesso di uno dei titoli di studio previsti dall'[art. 2 del regio decreto 5 settembre 1940, n. 1497](../Regi%20decreti/Istituzione%20del%20ruolo%20dei%20commissari%20tecnici%20per%20lOriente.%20040U1497.md), e adempiano alle altre condizioni previste ai paragrafi n), b), d), e), dell'articolo sopracitato, salvo quanto 6 stabilito dalle vigenti disposizioni per l'elevazione dei limiti di eta' per l'ammissione ai pubblici concorsi.
 
 ## Art. 2.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'art. 87 della. Costituzione;
 
-Visto il [regio decreto 25 gennaio 1932, n. 254](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dellAccordo%20stipulato%20a%20Washington%20il%2013-14%20ottobre%201931%20fra%20lItalia%20e%20gli%20Stati%20Uniti%20dAmerica%20per%20lammissione%20di%20aeromobili%20civili%20nei%20rispettivi%20Paesi%20il%20rilascio%20di%20breve_5337d2f441e6.md), relativo all'approvazione dell'Accordo stipulato a Washington il 13-14 ottobre 1931 fra l'Italia e gli Stati Uniti d'America, per l'ammissione di aeromobili civili nei rispettivi Paesi, il rilascio dei brevetti di piloti, e l'accettazione di certificati per aeromobili ed accessori importati come merci;
+Visto il [regio decreto 25 gennaio 1932, n. 254](../Regi%20decreti/Approvazione%20dellAccordo%20stipulato%20a%20Washington%20il%2013-14%20ottobre%201931%20fra%20lItalia%20e%20gli%20Stati%20Uniti%20dAmerica%20per%20lammissione%20di%20aeromobili%20civili%20nei%20rispettivi%20Paesi%20il%20rilascio%20di%20breve_5337d2f441e6.md), relativo all'approvazione dell'Accordo stipulato a Washington il 13-14 ottobre 1931 fra l'Italia e gli Stati Uniti d'America, per l'ammissione di aeromobili civili nei rispettivi Paesi, il rilascio dei brevetti di piloti, e l'accettazione di certificati per aeromobili ed accessori importati come merci;
 
 Sentito il Consiglio dei Ministri;
 

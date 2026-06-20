@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 28 settembre 1934, n. 1820](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20distintivi%20di%20onore%20per%20feriti%20mutilati%20e%20deceduti%20per%20causa%20di%20servizio.%20034U1820.md), concernente l'istituzione dei distintivi d'onore per feriti, mutilati e deceduti per causa di servizio;
+Visto il [regio decreto 28 settembre 1934, n. 1820](../Regi%20decreti/Istituzione%20di%20distintivi%20di%20onore%20per%20feriti%20mutilati%20e%20deceduti%20per%20causa%20di%20servizio.%20034U1820.md), concernente l'istituzione dei distintivi d'onore per feriti, mutilati e deceduti per causa di servizio;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la difesa, di concerto con i Ministri per l'inte
 
 ## Articolo unico.
 
-I modelli dei distintivi d'onore per i mutilati e i deceduti per causa di servizio, istituiti con [regio decreto 28 settembre 1934, n. 1820](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20distintivi%20di%20onore%20per%20feriti%20mutilati%20e%20deceduti%20per%20causa%20di%20servizio.%20034U1820.md), sono modificati secondo i disegni annessi al presente decreto, firmati dal Ministro per la difesa.
+I modelli dei distintivi d'onore per i mutilati e i deceduti per causa di servizio, istituiti con [regio decreto 28 settembre 1934, n. 1820](../Regi%20decreti/Istituzione%20di%20distintivi%20di%20onore%20per%20feriti%20mutilati%20e%20deceduti%20per%20causa%20di%20servizio.%20034U1820.md), sono modificati secondo i disegni annessi al presente decreto, firmati dal Ministro per la difesa.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

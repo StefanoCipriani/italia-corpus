@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Viste le deliberazioni del Consiglio comunale di Villa Bartolomea (Verona) in data 5 giugno 1954, n. 41, e 18 agosto 1962, n. 35, con le quali e' stato chiesto che l'attuale denominazione della frazione Vallestrema del Comune stesso sia mutata in quella di "San Zeno in Valle";
  Vista la deliberazione del Consiglio provinciale di Verona in data 29 marzo 1962, n. 6, con la quale e' stato espresso parere favorevole in merito al mutamento di denominazione in parola;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari per l'interno;
 
  Decreta:

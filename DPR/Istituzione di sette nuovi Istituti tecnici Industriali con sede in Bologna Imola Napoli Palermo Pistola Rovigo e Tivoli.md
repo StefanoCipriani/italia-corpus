@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
 
-Visto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
+Visto il [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
 
 Visto il [regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), contenente, tra l'altro, norme sull'ordinamento degli istituti di istruzione tecnica;
 
@@ -54,7 +54,7 @@ I posti di ruolo e quelli da conferire per incarico sono indicati, per ciascuno 
 
 I contributi annui a carico dello Stato per il mantenimento degli istituti di cui agli articoli 1 e 2, sono stabiliti nella misura di cui alla tabella H annessa al presente decreto, firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e dal Ministro per il tesoro.
  La spesa derivante dall'applicazione del presente decreto gravera' sul capitolo 130 del bilancio del Ministero della pubblica istruzione relativo al periodo 1 luglio-31 dicembre 1964 e sul capitolo corrispondente degli esercizi finanziari successivi.
- Ai sensi dell'art. 144 lettera E n. 3 del [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), la somministrazione, la manutenzione, il riscaldamento, l'illuminazione e la provvista di acqua dei locali occorrenti agli istituti di cui all'art. 1 sono a carico delle Amministrazioni provinciali competenti. Qualora altri Enti assumano volontariamente gli oneri di cui al presente comma, le Amministrazioni provinciali sono tenute a garantire con apposita delibera l'adempimento da parte di tali Enti.
+ Ai sensi dell'art. 144 lettera E n. 3 del [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), la somministrazione, la manutenzione, il riscaldamento, l'illuminazione e la provvista di acqua dei locali occorrenti agli istituti di cui all'art. 1 sono a carico delle Amministrazioni provinciali competenti. Qualora altri Enti assumano volontariamente gli oneri di cui al presente comma, le Amministrazioni provinciali sono tenute a garantire con apposita delibera l'adempimento da parte di tali Enti.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

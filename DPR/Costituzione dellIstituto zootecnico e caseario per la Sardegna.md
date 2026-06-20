@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 6 luglio 1912, n. 832](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20provvedimenti%20a%20tutela%20e%20ad%20incremento%20della%20produzione%20zootecnica%20nazionale.%20012U0832.md), concernente provvedimenti a tutela ed incremento della produzione zootecnica nazionale;
 
-Visto il [regio decreto 6 settembre 1923, n. 2125](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md);
+Visto il [regio decreto 6 settembre 1923, n. 2125](../Regi%20decreti/Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md);
 
-Visto il [regio decreto 19 luglio 1924, n. 1309](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20zootecnico%20sardo%20in%20Bosa%20in%20Ente%20morale%20consorziale%20autonomo.%20024U1309.md), che trasforma il regio Istituto zootecnico sardo di Bosa in ente morale consorziale autonomo e detta norme per il funzionamento dell'ente medesimo;
+Visto il [regio decreto 19 luglio 1924, n. 1309](../Regi%20decreti/Trasformazione%20del%20Regio%20istituto%20zootecnico%20sardo%20in%20Bosa%20in%20Ente%20morale%20consorziale%20autonomo.%20024U1309.md), che trasforma il regio Istituto zootecnico sardo di Bosa in ente morale consorziale autonomo e detta norme per il funzionamento dell'ente medesimo;
 
-Visto il [regio decreto 5 giugno 1939, n. 1254](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20dellOvile%20sardo%20con%20sede%20in%20Cagliari.%20039U1254.md), che erige in ente morale l'Ovile sardo di Cagliari;
+Visto il [regio decreto 5 giugno 1939, n. 1254](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellOvile%20sardo%20con%20sede%20in%20Cagliari.%20039U1254.md), che erige in ente morale l'Ovile sardo di Cagliari;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

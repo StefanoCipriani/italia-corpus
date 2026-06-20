@@ -14,7 +14,7 @@ N.
 
 625.
 
-Decreto del Presidente della Repubblica 29 giugno 1982, col quale, sulla proposta del Ministro della difesa, viene approvato il nuovo statuto della fondazione "Duca d'Aosta presso la scuola militare Nunziatella di Napoli", riconosciuta giuridicamente con [regio decreto 25 marzo 1943, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riconoscimento%20della%20Fondazione%20Altezza%20Reale%20Amedeo%20di%20Savoia%20duca%20dAosta%20con%20sede%20in%20Napoli.%20043U0312.md).
+Decreto del Presidente della Repubblica 29 giugno 1982, col quale, sulla proposta del Ministro della difesa, viene approvato il nuovo statuto della fondazione "Duca d'Aosta presso la scuola militare Nunziatella di Napoli", riconosciuta giuridicamente con [regio decreto 25 marzo 1943, n. 312](../Regi%20decreti/Riconoscimento%20della%20Fondazione%20Altezza%20Reale%20Amedeo%20di%20Savoia%20duca%20dAosta%20con%20sede%20in%20Napoli.%20043U0312.md).
 
 Visto, il Guardasigilli: DARIDA
  Registrato alla Corte dei conti, addi' 25 agosto 1982

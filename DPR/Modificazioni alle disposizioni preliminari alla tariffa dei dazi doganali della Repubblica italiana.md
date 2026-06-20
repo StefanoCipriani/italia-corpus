@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il trattato che istituisce la Comunita' economica europea, approvato e reso esecutivo con [legge 14 ottobre 1957, n. 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
+Visto il trattato che istituisce la Comunita' economica europea, approvato e reso esecutivo con [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
 
 Visto il trattato che istituisce un consiglio unico ed una commissione unica delle Comunita' europee, approvato e reso esecutivo con [legge 3 maggio 1966, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-05-03;347);
 
@@ -22,9 +22,9 @@ Visto il regolamento (CEE) n. 1343/75 adottato dalla commissione delle Comunita'
 
 Ritenuta la necessita' di armonizzare le disposizioni preliminari alla tariffa dei dazi doganali alle legislazioni degli altri Paesi membri CEE per quanto concerne la non punibilita' degli errori ed omissioni commessi senza colpa nella segnalazione degli elementi per la determinazione del valore in dogana;
 
-Vista la [legge 15 febbraio 1973, n. 25](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ulteriore%20proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20tariffa%20dei%20dazi%20doganali%20di%20importazione%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013.md), con la quale e' stata ulteriormente prorogata la delega al Governo ad apportare modificazioni alla tariffa dei dazi doganali di importazione, conferita con l'[art. 3 della legge 1 febbraio 1965, n. 13](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20una%20nuova%20tariffa%20dei%20dazi%20doganali.md);
+Vista la [legge 15 febbraio 1973, n. 25](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriore%20proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20tariffa%20dei%20dazi%20doganali%20di%20importazione%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013.md), con la quale e' stata ulteriormente prorogata la delega al Governo ad apportare modificazioni alla tariffa dei dazi doganali di importazione, conferita con l'[art. 3 della legge 1 febbraio 1965, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20una%20nuova%20tariffa%20dei%20dazi%20doganali.md);
 
-Sentita la commissione parlamentare di cui all'art. 4 della predetta legge 1ª febbraio 1965, n. 13, confermata a norma dell'art. 2 della citata [legge 15 febbraio 1973, n. 25](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ulteriore%20proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20tariffa%20dei%20dazi%20doganali%20di%20importazione%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013.md);
+Sentita la commissione parlamentare di cui all'art. 4 della predetta legge 1ª febbraio 1965, n. 13, confermata a norma dell'art. 2 della citata [legge 15 febbraio 1973, n. 25](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriore%20proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20tariffa%20dei%20dazi%20doganali%20di%20importazione%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013.md);
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 

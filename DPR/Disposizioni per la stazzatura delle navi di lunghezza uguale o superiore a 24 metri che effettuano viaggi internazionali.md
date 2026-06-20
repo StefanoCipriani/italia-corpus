@@ -16,9 +16,9 @@ Visti gli [articoli 15](../Codici/Approvazione%20del%20testo%20definitivo%20del%
 
 Visto il [regio decreto 5 aprile 1928, n. 929](../Regi%20decreti/Disposizioni%20relative%20alle%20operazioni%20ed%20alle%20tariffe%20di%20stazzatura%20delle%20navi%20e%20dei%20galleggianti.%20028U0929.md), concernente disposizioni per le operazioni di stazzatura delle navi;
 
-Visto l'[art. 2, lettera c), del regio decreto 20 dicembre 1923, n. 3235](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20circoscrizioni%20della%20marina%20mercantile.%20023U3235.md);
+Visto l'[art. 2, lettera c), del regio decreto 20 dicembre 1923, n. 3235](../Regi%20decreti/Nuove%20circoscrizioni%20della%20marina%20mercantile.%20023U3235.md);
 
-Vista la [legge 22 ottobre 1973, n. 958](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20per%20la%20stazzatura%20delle%20navi%20con%20annessi%20adottata%20a%20Londra%20il%2023%20giugno%201969.md), con la quale e' stata ratificata e resa esecutiva la convenzione internazionale per la stazzatura delle navi, adottata a Londra il 23 giugno 1969;
+Vista la [legge 22 ottobre 1973, n. 958](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20per%20la%20stazzatura%20delle%20navi%20con%20annessi%20adottata%20a%20Londra%20il%2023%20giugno%201969.md), con la quale e' stata ratificata e resa esecutiva la convenzione internazionale per la stazzatura delle navi, adottata a Londra il 23 giugno 1969;
 
 Ritenuta la necessita' di aggiornare, limitatamente alle navi disciplinate dalla predetta convenzione internazionale, le procedure attinenti alle operazioni di stazzatura nonche' al rilascio dei certificati di stazza;
 
@@ -34,7 +34,7 @@ EMANA il seguente regolamento:
 
 ## Art. 1.
 
-Le disposizioni del presente regolamento riguardano la stazzatura, secondo le regole tecniche contenute negli allegati alla convenzione internazionale adottata a Londra il 23 giugno 1969 e ratificata con [legge 22 ottobre 1973, n. 958](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20per%20la%20stazzatura%20delle%20navi%20con%20annessi%20adottata%20a%20Londra%20il%2023%20giugno%201969.md), delle navi di lunghezza uguale o superiore a 24 metri che effettuano viaggi internazionali.
+Le disposizioni del presente regolamento riguardano la stazzatura, secondo le regole tecniche contenute negli allegati alla convenzione internazionale adottata a Londra il 23 giugno 1969 e ratificata con [legge 22 ottobre 1973, n. 958](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20per%20la%20stazzatura%20delle%20navi%20con%20annessi%20adottata%20a%20Londra%20il%2023%20giugno%201969.md), delle navi di lunghezza uguale o superiore a 24 metri che effettuano viaggi internazionali.
  Le predette disposizioni si riferiscono sia alle navi da stazzare in Italia, sia a quelle da stazzare all'estero, ai sensi del [primo comma dell'art. 139 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 ## Art. 2.
@@ -64,7 +64,7 @@ I certificati di stazza, a cura del compartimento marittimo o dell'ufficio conso
 
 ## Art. 7.
 
-Fatta salva l'ipotesi di cui al secondo comma dell'art. 4, l'autorita' consolare competente, all'atto della nazionalizzazione delle navi provenienti da bandiera estera munite di certificato internazionale di stazza ai sensi della convenzione internazionale adottata a Londra il 23 giugno 1969, ratificata e resa esecutiva in Italia con [legge 22 ottobre 1973, n. 958](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20per%20la%20stazzatura%20delle%20navi%20con%20annessi%20adottata%20a%20Londra%20il%2023%20giugno%201969.md), acquisisce il certificato stesso ed il relativo quadro dei calcoli.
+Fatta salva l'ipotesi di cui al secondo comma dell'art. 4, l'autorita' consolare competente, all'atto della nazionalizzazione delle navi provenienti da bandiera estera munite di certificato internazionale di stazza ai sensi della convenzione internazionale adottata a Londra il 23 giugno 1969, ratificata e resa esecutiva in Italia con [legge 22 ottobre 1973, n. 958](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20per%20la%20stazzatura%20delle%20navi%20con%20annessi%20adottata%20a%20Londra%20il%2023%20giugno%201969.md), acquisisce il certificato stesso ed il relativo quadro dei calcoli.
  Il certificato di stazza, in originale o in copia autentica, viene consegnato al proprietario della nave ed altra copia unitamente al quadro dei calcoli sono trasmessi al Ministero della marina mercantile.
  Ove la nave non sia munita di certificato internazionale di stazza rilasciato dal Paese di provenienza, ai fini della emissione del documento che ne abiliti temporaneamente la navigazione deve essere previamente rilasciato il certificato stesso nei modi e nelle forme stabiliti nel presente decreto.
 
@@ -93,7 +93,7 @@ E' in facolta' del Ministro della marina mercantile disporre la ristazzatura del
 
 ## Art. 12.
 
-Il Ministro della marina mercantile, con proprio decreto, determina i criteri metodologici per l'applicazione della normativa contenuta nelle regole di calcolo enunciate negli allegati alla convenzione internazionale per la stazzatura delle navi adottata a Londra il 23 giugno 1969, ratificata e resa esecutiva in Italia con [legge 22 ottobre 1973, n. 958](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20per%20la%20stazzatura%20delle%20navi%20con%20annessi%20adottata%20a%20Londra%20il%2023%20giugno%201969.md).
+Il Ministro della marina mercantile, con proprio decreto, determina i criteri metodologici per l'applicazione della normativa contenuta nelle regole di calcolo enunciate negli allegati alla convenzione internazionale per la stazzatura delle navi adottata a Londra il 23 giugno 1969, ratificata e resa esecutiva in Italia con [legge 22 ottobre 1973, n. 958](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20per%20la%20stazzatura%20delle%20navi%20con%20annessi%20adottata%20a%20Londra%20il%2023%20giugno%201969.md).
  Il Registro italiano navale, ovvero altro istituto eventualmente autorizzato ai sensi dell'[art. 3 del decreto legislativo del Capo provvisorio dello Stato 22 gennaio 1947, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-22;340#art_3), presenta al Ministero della marina mercantile gli eventuali quesiti sull'applicazione della predetta normativa, relativamente ai quali viene, se del caso, opportunamente interessato l'I.M.O.
 
 ## Art. 13.

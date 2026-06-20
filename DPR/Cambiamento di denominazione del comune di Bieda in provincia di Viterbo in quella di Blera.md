@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la domanda in data 5 marzo 1952, con la quale il sindaco del comune di Bieda (Viterbo), in esecuzione della [deliberazione 27 ottobre 1951, n. 46, del Consiglio comunale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1951-10-27;46), ha chiesto che l'attuale denominazione del Comune sia mutata in quella di "Blera";
  Visto il parere favorevole del Consiglio provinciale di Viterbo, espresso con [deliberazione 20 dicembre 1951, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1951-12-20;103);
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro ad interim per l'interno;
 
  Decreta:

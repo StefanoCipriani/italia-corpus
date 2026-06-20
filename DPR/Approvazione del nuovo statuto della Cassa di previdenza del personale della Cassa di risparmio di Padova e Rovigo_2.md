@@ -25,7 +25,7 @@ Antonio Nalin, numero 533717 di repertorio, in data 21 maggio 1962 - dal quale r
 
  Decreta:
 
- E' approvato il nuovo statuto della Cassa di previdenza del personale della Cassa di risparmio di Padova e Rovigo, eretta in ente morale col [regio decreto 23 dicembre 1937, n. 2329](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riconoscimento%20come%20corpo%20morale%20della%20Cassa%20di%20previdenza%20per%20il%20personale%20della%20Cassa%20di%20risparmio%20di%20Padova%20e%20Rovigo%20con%20sede%20in%20Padova.%20037U2329.md), nel testo annesso al presente decreto, composto di 35 articoli e di 3 allegati e vistato dal Ministro proponente.
+ E' approvato il nuovo statuto della Cassa di previdenza del personale della Cassa di risparmio di Padova e Rovigo, eretta in ente morale col [regio decreto 23 dicembre 1937, n. 2329](../Regi%20decreti/Riconoscimento%20come%20corpo%20morale%20della%20Cassa%20di%20previdenza%20per%20il%20personale%20della%20Cassa%20di%20risparmio%20di%20Padova%20e%20Rovigo%20con%20sede%20in%20Padova.%20037U2329.md), nel testo annesso al presente decreto, composto di 35 articoli e di 3 allegati e vistato dal Ministro proponente.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

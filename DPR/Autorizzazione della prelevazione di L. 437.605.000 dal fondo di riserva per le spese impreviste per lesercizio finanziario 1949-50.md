@@ -34,7 +34,7 @@ ecc.............................................. L. 51.500.000
  Cap n. 553-bis (di nuova istituzione).
 -Assegni alimentari concessi alle persone
 condannate, ai termini del [decreto legislativo
-luogotenenziale 26 marzo 1946, n. 134](../Atti%20normativi%20abrogati%20%28in%20originale%29/Inquadramento%20nel%20sistema%20tributario%20dellavocazione%20dei%20profitti%20di%20regime.md), alla
+luogotenenziale 26 marzo 1946, n. 134](../Decreti%20legislativi%20luogotenenziali/Inquadramento%20nel%20sistema%20tributario%20dellavocazione%20dei%20profitti%20di%20regime.md), alla
 confisca del patrimonio per delitti fascisti od
 agli aventi diritto dalle medesime agli alimenti,
 a norma degli [articoli 433 e seguenti del Codice

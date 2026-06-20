@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 4 febbraio 1958, n. 572](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20nuove%20norme%20in%20materia%20di%20circolazione%20stradale.md), con la quale il Governo e' stato autorizzato ad emanare nuove norme in materia di circolazione stradale;
+Vista la [legge 4 febbraio 1958, n. 572](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20nuove%20norme%20in%20materia%20di%20circolazione%20stradale.md), con la quale il Governo e' stato autorizzato ad emanare nuove norme in materia di circolazione stradale;
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87, comma quinto della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 

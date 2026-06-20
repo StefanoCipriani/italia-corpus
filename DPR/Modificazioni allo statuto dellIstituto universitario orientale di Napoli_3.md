@@ -16,7 +16,7 @@ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regi
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
@@ -292,7 +292,7 @@ Art. 49 (gia' 46). - E' modificato nel senso che alla fine del primo comma sono 
 
 Dopo l'art. 53 (gia' 50) viene aggiunto il seguente nuovo articolo:
 
-Art. 54. - "Salvo i diritti quesiti per il personale in servizio presso l'istituto alla data di entrata in vigore della legge 3 dicembre 1957 sono abrogate le norme statutarie di cui agli articoli 45 e 99 del testo annesso al [regio decreto 30 marzo 1939, n. 1001](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20di%20modificazioni%20allo%20statuto%20del%20Regio%20istituto%20superiore%20orientale%20di%20Napoli.%20039U1001.md), concernenti il personale insegnante ed assistente, il personale di segreteria e subalterno, l'amministrazione, per cui saranno osservate le disposizioni legislative o regolamentari vigenti per le Universita'".
+Art. 54. - "Salvo i diritti quesiti per il personale in servizio presso l'istituto alla data di entrata in vigore della legge 3 dicembre 1957 sono abrogate le norme statutarie di cui agli articoli 45 e 99 del testo annesso al [regio decreto 30 marzo 1939, n. 1001](../Regi%20decreti/Approvazione%20di%20modificazioni%20allo%20statuto%20del%20Regio%20istituto%20superiore%20orientale%20di%20Napoli.%20039U1001.md), concernenti il personale insegnante ed assistente, il personale di segreteria e subalterno, l'amministrazione, per cui saranno osservate le disposizioni legislative o regolamentari vigenti per le Universita'".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
@@ -313,7 +313,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Veduto lo statuto dell'Istituto universitario orientale di Napoli, approvato con [decreto del Presidente della Repubblica 14 marzo 1958, n. 753](Modifiche%20allo%20statuto%20dellIstituto%20universitario%20orientale%20di%20Napoli.md) e modificato con [decreto del Presidente della Repubblica 31 dicembre 1963, n. 2369](Modificazioni%20allo%20statuto%20dellistituto%20universitario%20orientale%20di%20Napoli_2.md) e successive modificazioni;
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
- Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
  Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
  Vedute le proposte di modifiche dello Statuto formulate dalle autorita' accademiche dell'Istituto anzidetto;
  Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
@@ -457,7 +457,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Art. 38 (gia' 34). - E' soppresso con il conseguente spostamento della numerazione degli articoli successivi.
  Art. 49 (gia' 46). - E' modificato nel senso che alla fine del primo comma sono aggiunte le parole "di specializzazione".
  Dopo l'art. 53 (gia' 50) viene aggiunto il seguente nuovo articolo:
- Art. 54. - "Salvo i diritti quesiti per il personale in servizio presso l'istituto alla data di entrata in vigore della legge 3 dicembre 1957 sono abrogate le norme statutarie di cui agli articoli 45 e 99 del testo annesso al [regio decreto 30 marzo 1939, n. 1001](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20di%20modificazioni%20allo%20statuto%20del%20Regio%20istituto%20superiore%20orientale%20di%20Napoli.%20039U1001.md), concernenti il personale insegnante ed assistente, il personale di segreteria e subalterno, l'amministrazione, per cui saranno osservate le disposizioni legislative o regolamentari vigenti per le Universita'".
+ Art. 54. - "Salvo i diritti quesiti per il personale in servizio presso l'istituto alla data di entrata in vigore della legge 3 dicembre 1957 sono abrogate le norme statutarie di cui agli articoli 45 e 99 del testo annesso al [regio decreto 30 marzo 1939, n. 1001](../Regi%20decreti/Approvazione%20di%20modificazioni%20allo%20statuto%20del%20Regio%20istituto%20superiore%20orientale%20di%20Napoli.%20039U1001.md), concernenti il personale insegnante ed assistente, il personale di segreteria e subalterno, l'amministrazione, per cui saranno osservate le disposizioni legislative o regolamentari vigenti per le Universita'".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

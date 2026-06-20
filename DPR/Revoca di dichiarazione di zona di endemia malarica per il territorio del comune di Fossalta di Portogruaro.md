@@ -14,7 +14,7 @@ N.
 
 751.
 
-Decreto del Presidente della Repubblica 23 aprile 1952, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene revocata la dichiarazione di zona di endemia malarica contenuta nel [regio decreto 1 agosto 1904, n. 477](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20sono%20dichiarate%20zone%20malariche%20talune%20porzioni%20di%20territori%20nella%20provincia%20di%20Venezia.%20004U0477.md).
+Decreto del Presidente della Repubblica 23 aprile 1952, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene revocata la dichiarazione di zona di endemia malarica contenuta nel [regio decreto 1 agosto 1904, n. 477](../Regi%20decreti/Col%20quale%20sono%20dichiarate%20zone%20malariche%20talune%20porzioni%20di%20territori%20nella%20provincia%20di%20Venezia.%20004U0477.md).
 
 Visto, il Guardasigilli: ZOLI
  Registrato alla Corte dei conti, addi' 30 giugno 1952

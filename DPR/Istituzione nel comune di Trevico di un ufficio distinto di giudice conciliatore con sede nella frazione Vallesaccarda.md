@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la deliberazione in data 4 dicembre 1949 del Consiglio comunale e di Trevico, con la quale si chiede che sia istituito un ufficio distinto di giudice conciliatore con sede nella frazione Vallesaccarda e con competenza sul territorio della frazione stessa e su quello delle borgate Coccaro, Torello, Bassomanno, San Lorenzo, Vallone Erro, Casetta, Filaro, Cesta, Vasoria, Senro D'Annunzio, Farullo, Cotugno, Mattino, San Giuseppe, Civita, Vallone del Mulino e Lungarella;
  Visti i pareri favorevoli del Primo presidente della Corte d'appello di Napoli e del Procuratore generale presso la stessa Corte;
- Visti gli articoli 20 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e 1 del regolamento approvato con [regio decreto 26 dicembre 1892, n. 728](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
+ Visti gli articoli 20 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e 1 del regolamento approvato con [regio decreto 26 dicembre 1892, n. 728](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
  Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;
 
  Decreta:

@@ -103,7 +103,7 @@ Nota all'art. 4:
 
 1.
 
-In relazione ai sistemi informativi automatizzati dell'Amministrazione della giustizia, la verifica dei risultati conseguiti con l'impiego delle tecnologie informatiche e' effettuata secondo le modalita' previste dall'[art. 20, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+In relazione ai sistemi informativi automatizzati dell'Amministrazione della giustizia, la verifica dei risultati conseguiti con l'impiego delle tecnologie informatiche e' effettuata secondo le modalita' previste dall'[art. 20, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 2.
 

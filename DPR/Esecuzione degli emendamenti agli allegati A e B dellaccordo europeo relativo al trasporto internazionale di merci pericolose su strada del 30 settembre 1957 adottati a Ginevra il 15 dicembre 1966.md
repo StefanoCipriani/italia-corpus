@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87):
 
-Vista la [legge 12 agosto 1962, n. 1839](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellAccordo%20europeo%20relativo%20al%20trasporto%20internazionale%20di%20merci%20pericolose%20su%20strada%20con%20annessi%20Protocollo%20ed%20Allegati%20adottato%20a%20Ginevra%20il%2030%20settembre%201957.md), che da' piena ed intera esecuzione all'accordo europeo relativo al trasporto internazionale di merci pericolose su strada, con annessi protocollo ed allegati, adottato a Ginevra il 30 settembre 1957;
+Vista la [legge 12 agosto 1962, n. 1839](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellAccordo%20europeo%20relativo%20al%20trasporto%20internazionale%20di%20merci%20pericolose%20su%20strada%20con%20annessi%20Protocollo%20ed%20Allegati%20adottato%20a%20Ginevra%20il%2030%20settembre%201957.md), che da' piena ed intera esecuzione all'accordo europeo relativo al trasporto internazionale di merci pericolose su strada, con annessi protocollo ed allegati, adottato a Ginevra il 30 settembre 1957;
 
 Sentito il Consiglio dei Ministri;
 

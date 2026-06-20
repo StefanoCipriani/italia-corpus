@@ -20,7 +20,7 @@ Vista la istanza, in data 24 aprile 1949, con la quale la maggioranza qualificat
 
 Viste le deliberazioni: del Consiglio comunale di Darfo, in data 14 novembre 1949, numeri 42, 43 e 45; del commissario prefettizio del comune di Artogne, in data 28 giugno 1957, n. 65; del Consiglio comunale di Angolo, in data 20 novembre 1949, numeri 102 e 103; del Consiglio provinciale di Brescia, in data 15 maggio 1952, n. 2/9, con le quali e' stato espresso parere in ordine alla variazione territoriale in parola;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla prima sezione del Consiglio di Stato nell'adunanza del 19 gennaio 1959, n. 16;
 

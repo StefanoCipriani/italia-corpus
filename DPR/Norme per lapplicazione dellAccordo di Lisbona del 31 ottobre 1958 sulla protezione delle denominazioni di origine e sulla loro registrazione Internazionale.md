@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 3 della legge 4 luglio 1967, n. 676](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20atti%20Internazionali%20firmati%20a%20Lisbona%20il%2031%20ottobre%201958%20a%20Convenzione%20di%20Parigi%20per%20la%20protezione%20della%20proprieta%20industriale%20del%2020%20marzo%201883%20rivedu_031d6122e338.md), con il quale il Governo della Repubblica e' delegato ad emanare, nel termine di sei mesi dalla data di entrata in vigore della legge stessa, norme aventi valore di legge ordinaria per l'applicazione dell'Accordo firmato a Lisbona il 31 ottobre 1958, stabilendo, inoltre, i compiti delle singole amministrazioni per l'esecuzione delle disposizioni di detto Accordo e le norme di carattere procedurale relative;
+Visto l'[art. 3 della legge 4 luglio 1967, n. 676](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20atti%20Internazionali%20firmati%20a%20Lisbona%20il%2031%20ottobre%201958%20a%20Convenzione%20di%20Parigi%20per%20la%20protezione%20della%20proprieta%20industriale%20del%2020%20marzo%201883%20rivedu_031d6122e338.md), con il quale il Governo della Repubblica e' delegato ad emanare, nel termine di sei mesi dalla data di entrata in vigore della legge stessa, norme aventi valore di legge ordinaria per l'applicazione dell'Accordo firmato a Lisbona il 31 ottobre 1958, stabilendo, inoltre, i compiti delle singole amministrazioni per l'esecuzione delle disposizioni di detto Accordo e le norme di carattere procedurale relative;
 
 Considerato che, al fine suddetto, e' necessario provvedere ad attuare le disposizioni dell'art. 5 dell'Accordo;
 

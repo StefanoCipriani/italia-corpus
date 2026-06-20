@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione media tecnica;
 
-Veduto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;.
+Veduto il [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;.
 
 Veduto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
@@ -20,7 +20,7 @@ Veduta la [legge 22 novembre 1961, n. 1282](../Atti%20normativi%20abrogati%20%28
 
 Veduto il decreto del Presidente della Repubblica 29 settembre 1954, n. 1573, pubblicato nella Gazzetta Ufficiale n. 223, del 27 settembre 1955, con il quale a decorrere dal 1 ottobre 1951 e' stato istituito l'Istituto professionale di Stato femminile di Forli';
 
-Considerato che in Cesena funziona una scuola professionale femminile, istituita con [regio decreto 28 settembre 1933, n. 2111](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20laboratorio%20scuola%20per%20lavori%20donneschi%20di%20Cesena%20in%20Regia%20scuola%20professionale%20femminile.%20033U2111.md);
+Considerato che in Cesena funziona una scuola professionale femminile, istituita con [regio decreto 28 settembre 1933, n. 2111](../Regi%20decreti/Trasformazione%20del%20Regio%20laboratorio%20scuola%20per%20lavori%20donneschi%20di%20Cesena%20in%20Regia%20scuola%20professionale%20femminile.%20033U2111.md);
 
 Considerata la necessita' che tale scuola, per il migliore perseguimento dei propri compiti istituzionali, in rapporto alle esigenze economiche della zona ed alle richieste della popolazione scolastica locale, venga trasformata in scuola coordinata dell'istituto professionale femminile di Forli';
 

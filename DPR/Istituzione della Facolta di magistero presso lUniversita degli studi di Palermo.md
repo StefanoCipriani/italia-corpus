@@ -34,7 +34,7 @@ Con provvedimento da emanare ai sensi degli [articoli 17](https://www.normattiva
 
 ## Art. 4.
 
-Sono istituiti ai sensi degli [articoli 63, secondo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_63-com2), e [100, secondo comma, del testo unico 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_100-com2), sette posti di professore di ruolo; nonche', ai sensi dell'[art. 13-bis della legge 24 giugno 1950, n. 465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), sette posti di assistenti ordinari.
+Sono istituiti ai sensi degli [articoli 63, secondo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_63-com2), e [100, secondo comma, del testo unico 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_100-com2), sette posti di professore di ruolo; nonche', ai sensi dell'[art. 13-bis della legge 24 giugno 1950, n. 465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), sette posti di assistenti ordinari.
 
 ## Art. 5.
 

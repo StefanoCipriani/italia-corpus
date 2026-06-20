@@ -44,7 +44,7 @@ Il concorso e' indetto con decreto del Ministro da pubblicarsi nella Gazzetta Uf
 
 AGGIORNAMENTO (2a)
 
-Il [D.P.R. 16 settembre 1972, n. 593](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20dellart.%2011%20numeri%204%20e%204-bis%20della%20legge%209%20ottobre%201971%20n.%20825%20relativamente%20ai%20ruoli%20del%20personale%20dei%20servizi%20meccanografici%20del%20Ministero%20delle%20finanze.md) ha disposto (con l'art. 4, comma 2) che "In deroga all'[art. 2 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), il termine per la presentazione delle domande di ammissione al concorso e' di venti giorni dalla data di pubblicazione del bando, nella Gazzetta Ufficiale" .
+Il [D.P.R. 16 settembre 1972, n. 593](Attuazione%20dellart.%2011%20numeri%204%20e%204-bis%20della%20legge%209%20ottobre%201971%20n.%20825%20relativamente%20ai%20ruoli%20del%20personale%20dei%20servizi%20meccanografici%20del%20Ministero%20delle%20finanze.md) ha disposto (con l'art. 4, comma 2) che "In deroga all'[art. 2 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), il termine per la presentazione delle domande di ammissione al concorso e' di venti giorni dalla data di pubblicazione del bando, nella Gazzetta Ufficiale" .
 
 ### Art. 3. — (Esami di ammissione)
 
@@ -65,7 +65,7 @@ Gli esami dei concorsi di ammissione in carriera consistono:
 
 AGGIORNAMENTO (2a)
 
-Il [D.P.R. 16 settembre 1972, n. 593](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20dellart.%2011%20numeri%204%20e%204-bis%20della%20legge%209%20ottobre%201971%20n.%20825%20relativamente%20ai%20ruoli%20del%20personale%20dei%20servizi%20meccanografici%20del%20Ministero%20delle%20finanze.md) ha disposto (con l'art. 6, comma 3) che "In deroga all'[art. 3, primo comma, lettera c), del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), per i concorsi di cui al presente decreto e' prevista un'unica prova attitudinale consistente in una serie di esami obiettivi a risposta sintetica".
+Il [D.P.R. 16 settembre 1972, n. 593](Attuazione%20dellart.%2011%20numeri%204%20e%204-bis%20della%20legge%209%20ottobre%201971%20n.%20825%20relativamente%20ai%20ruoli%20del%20personale%20dei%20servizi%20meccanografici%20del%20Ministero%20delle%20finanze.md) ha disposto (con l'art. 6, comma 3) che "In deroga all'[art. 3, primo comma, lettera c), del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), per i concorsi di cui al presente decreto e' prevista un'unica prova attitudinale consistente in una serie di esami obiettivi a risposta sintetica".
 
 ### Art. 4. — (Commissioni esaminatrici)
 
@@ -657,7 +657,7 @@ Fino alla revisione dei ruoli organici prevista dall'[art. 25 della legge 18 mar
 
 ### Art. 60. — (Carriera ausiliaria dell'Amministrazione della giustizia)
 
-Al personale della carriera ausiliaria dell'Amministrazione della giustizia si applicano le norme del presente decreto, fermo restando il disposto di cui all'art. 203 del testo organico approvato con [regio decreto 28 dicembre 1924, n. 2271](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md).
+Al personale della carriera ausiliaria dell'Amministrazione della giustizia si applicano le norme del presente decreto, fermo restando il disposto di cui all'art. 203 del testo organico approvato con [regio decreto 28 dicembre 1924, n. 2271](../Regi%20decreti/Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md).
 
 ## MINISTERO DELLE FINANZE
 
@@ -890,7 +890,7 @@ Sezione IX
 
 ### Art. 86. — (Personale degli istituti di ricerca e sperimentazione agraria)
 
-Le carriere del personale dei ruoli dei direttori, dei direttori di sezione e degli sperimentatori degli istituiti di ricerca e di sperimentazione agraria, anche non liberi docenti, si sviluppano per classi di stipendio secondo le norme relative, rispettivamente, alle carriere dei professori, dei professori aggregati e degli assistenti delle universita' ed alle valutazioni dei periodi di servizio di ruolo e non di ruolo, ivi compreso il tirocinio, in qualita' di borsista, di cui all'[art. 52, lettera b), del regio decreto 29 maggio 1941, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md) e successive modificazioni.
+Le carriere del personale dei ruoli dei direttori, dei direttori di sezione e degli sperimentatori degli istituiti di ricerca e di sperimentazione agraria, anche non liberi docenti, si sviluppano per classi di stipendio secondo le norme relative, rispettivamente, alle carriere dei professori, dei professori aggregati e degli assistenti delle universita' ed alle valutazioni dei periodi di servizio di ruolo e non di ruolo, ivi compreso il tirocinio, in qualita' di borsista, di cui all'[art. 52, lettera b), del regio decreto 29 maggio 1941, n. 489](../Regi%20decreti/Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md) e successive modificazioni.
 
 ### Art. 87. — (Personale del ruolo ad esaurimento della carriera di concetto dell'alimentazione con funzioni direttive)
 

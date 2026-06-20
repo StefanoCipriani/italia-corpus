@@ -16,7 +16,7 @@ Visti i pareri espressi in merito dalla Deputazione provinciale di Catanzaro, co
 
 Udito il parere del Consiglio di Stato;
 
-Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Sulla proposta del Ministro per l'interno; Decreta:
 
@@ -27,7 +27,7 @@ La frazione Ciro' Marina e' distaccata dal comune di Ciro' ed eretta in Comune a
 ## Art. 2.
 
 Il Prefetto di Catanzaro, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari tra i Comuni interessati, nonche' alla ripartizione tra gli stessi, previo parere delle rispettive Amministrazioni, del personale attualmente in servizio presso il comune di Ciro'.
- E' fatto salvo l'esercizio successivo da parte dei Comuni predetti della facolta' di revisione degli organici secondo le norme di cui al [decreto legislativo luogotenenziale 18 gennaio 1945, n. 48](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20la%20modificazione%20delle%20piante%20organiche%20del%20personale%20degli%20Enti%20locali.%20045U0048.md), e con l'osservanza, per quanto concerne il trattamento economico, delle disposizioni contenute nell'[art. 228 del testo unico 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-03-03;383#art_228), della legge comunale e provinciale.
+ E' fatto salvo l'esercizio successivo da parte dei Comuni predetti della facolta' di revisione degli organici secondo le norme di cui al [decreto legislativo luogotenenziale 18 gennaio 1945, n. 48](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20per%20la%20modificazione%20delle%20piante%20organiche%20del%20personale%20degli%20Enti%20locali.%20045U0048.md), e con l'osservanza, per quanto concerne il trattamento economico, delle disposizioni contenute nell'[art. 228 del testo unico 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-03-03;383#art_228), della legge comunale e provinciale.
  Al personale in servizio presso il comune di Ciro', che sara' inquadrato nei nuovi organici, sara' mantenuto ad personam il trattamento economico fruito all'atto dell'inquadramento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

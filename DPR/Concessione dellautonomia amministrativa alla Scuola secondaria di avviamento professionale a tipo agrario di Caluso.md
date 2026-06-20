@@ -16,7 +16,7 @@ Vista la [legge 22 aprile 1932, n. 490](../DL%20e%20leggi%20di%20conversione/Con
 
 Visto il [regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
-Visto il [regio decreto 31 agosto 1933, n. 1968](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20della%20Scuola%20pratica%20dagricoltura%20di%20Caluso%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20agrario.%20033U1968.md), concernente la trasformazione della Scuola pratica di agricoltura di Caluso in Scuola tecnica a indirizzo agrario;
+Visto il [regio decreto 31 agosto 1933, n. 1968](../Regi%20decreti/Trasformazione%20della%20Scuola%20pratica%20dagricoltura%20di%20Caluso%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20agrario.%20033U1968.md), concernente la trasformazione della Scuola pratica di agricoltura di Caluso in Scuola tecnica a indirizzo agrario;
 
 Considerato che la Scuola predetta ha cessato il suo funzionamento dall'anno scolastico 1947-1948;
 

@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 30 dicembre 1923, n. 2958](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), contraente disposizioni riguardanti la posizione Dei funzionari fuori ruolo;
+Visto il [regio decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), contraente disposizioni riguardanti la posizione Dei funzionari fuori ruolo;
 
 Visto l'[art. 17 del regio decreto-legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46#art_17), convertito nella [legge 24 gennaio 1926, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-24;898);
 
-Visto il [regio decreto 24 agosto 1939, n. 1384](../Atti%20normativi%20abrogati%20%28in%20originale%29/Collocamento%20fuori%20ruolo%20di%20personale%20di%20concetto%20della%20Ragioneria%20generale%20dello%20Stato.%20039U1384.md), riguardante il collocamento ruolo di personale di contatto della Ragioneria generale dello Stato e successive modificazioni;
+Visto il [regio decreto 24 agosto 1939, n. 1384](../Regi%20decreti/Collocamento%20fuori%20ruolo%20di%20personale%20di%20concetto%20della%20Ragioneria%20generale%20dello%20Stato.%20039U1384.md), riguardante il collocamento ruolo di personale di contatto della Ragioneria generale dello Stato e successive modificazioni;
 
 Visto il [decreto del Capo provvisorio dello Stato 27 novembre 1947, n. 1436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-11-27;1436), contenente nuove disposizioni circa il collocamento fuori ruolo di funzionari della Ragioneria generale dello Stato;
 

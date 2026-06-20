@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 25 giugno 1926, n. 1223](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tariffe%20dei%20diritti%20e%20degli%20atti%20di%20segreteria%20per%20la%20Borsa%20dei%20valori%20di%20Bologna.%20026U1223.md), con il quale vennero approvato e rose esecutive le tariffe per la quotazione dei titoli presso la borsa valori di Bologna, spettanti alla locale camera di commercio, industria ed agricoltura;
+Visto il [regio decreto 25 giugno 1926, n. 1223](../Regi%20decreti/Tariffe%20dei%20diritti%20e%20degli%20atti%20di%20segreteria%20per%20la%20Borsa%20dei%20valori%20di%20Bologna.%20026U1223.md), con il quale vennero approvato e rose esecutive le tariffe per la quotazione dei titoli presso la borsa valori di Bologna, spettanti alla locale camera di commercio, industria ed agricoltura;
 
 Visto il [decreto del Presidente della Repubblica 27 marzo 1952, n. 428](Modificazione%20delle%20tariffe%20dei%20diritti%20di%20Borsa%20spettanti%20alla%20Camera%20di%20commercio%20industria%20e%20agricoltura%20di%20Bologna.md), con il quale vennero approvate variazioni alle tariffe suddette;
 
 Vista la [deliberazione in data 1 dicembre 1969, numero 625](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1969-12-01;625) della giunta della camera di commercio, industria, artigianato ed agricoltura di Bologna, con la quale sono state proposte ulteriori modificazioni dei diritti ad essa dovuti per la quotazione dei titoli presso la borsa valori di detta citta';
 
-Visto l'art. 53 del testo unico approvato con il [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale sono stati stabiliti la forma e l'organo competente per l'emanazione dei provvedimenti inerenti i diritti di borsa;
+Visto l'art. 53 del testo unico approvato con il [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale sono stati stabiliti la forma e l'organo competente per l'emanazione dei provvedimenti inerenti i diritti di borsa;
 
 Sulla proposta del Ministro per il tesoro; Decreta:
 

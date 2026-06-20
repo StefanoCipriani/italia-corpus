@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il regolamento organico per l'Amministrazione delle poste e dei telegrafi, approvato con [regio decreto 14 ottobre 1906, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md);
+Visto il regolamento organico per l'Amministrazione delle poste e dei telegrafi, approvato con [regio decreto 14 ottobre 1906, n. 546](../Regi%20decreti/Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md);
 
-Visto il [regio decreto 9 febbraio 1913, n. 183](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20vengono%20apportate%20modificazioni%20al%20regolamento%20per%20le%20poste%20e%20i%20telegrafi%20approvato%20con%20R.%20decreto%2014%20ottobre%201906%20n.%20546%20riguardante%20il%20trattamento%20del%20personale%20addetto%20agli%20u_e780c3bc9d1d.md), che apporta modificazioni al regolamento predetto;
+Visto il [regio decreto 9 febbraio 1913, n. 183](../Regi%20decreti/Col%20quale%20vengono%20apportate%20modificazioni%20al%20regolamento%20per%20le%20poste%20e%20i%20telegrafi%20approvato%20con%20R.%20decreto%2014%20ottobre%201906%20n.%20546%20riguardante%20il%20trattamento%20del%20personale%20addetto%20agli%20u_e780c3bc9d1d.md), che apporta modificazioni al regolamento predetto;
 
 Visto il [decreto del Capo provvisorio dello Stato 11 settembre 1947, n. 1160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-09-11;1160), che apporta ulteriore modificazione alle norme sopra citate;
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Art. 1.
 
-Il limite massimo di 65 anni di eta' per la permanenza nelle funzioni di messaggere, stabilito nel penultimo comma dell'art. 74 del regolamento organico approvato con [regio decreto 14 ottobre 1906, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md), sostituito con l'[art. 2 del regio decreto 9 febbraio 1913, n. 183](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20vengono%20apportate%20modificazioni%20al%20regolamento%20per%20le%20poste%20e%20i%20telegrafi%20approvato%20con%20R.%20decreto%2014%20ottobre%201906%20n.%20546%20riguardante%20il%20trattamento%20del%20personale%20addetto%20agli%20u_e780c3bc9d1d.md), viene diminuito a 60 anni.
+Il limite massimo di 65 anni di eta' per la permanenza nelle funzioni di messaggere, stabilito nel penultimo comma dell'art. 74 del regolamento organico approvato con [regio decreto 14 ottobre 1906, n. 546](../Regi%20decreti/Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md), sostituito con l'[art. 2 del regio decreto 9 febbraio 1913, n. 183](../Regi%20decreti/Col%20quale%20vengono%20apportate%20modificazioni%20al%20regolamento%20per%20le%20poste%20e%20i%20telegrafi%20approvato%20con%20R.%20decreto%2014%20ottobre%201906%20n.%20546%20riguardante%20il%20trattamento%20del%20personale%20addetto%20agli%20u_e780c3bc9d1d.md), viene diminuito a 60 anni.
  Il limite predetto si applica anche al personale subalterno addetto agli uffici ambulanti e natanti.
 
 ## Art. 2.

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 25 giugno 1909, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;422), ed il regolamento approvato con [regio decreto 12 febbraio 1911, n. 278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md), emanato in esecuzione di essa;
+Vista la [legge 25 giugno 1909, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;422), ed il regolamento approvato con [regio decreto 12 febbraio 1911, n. 278](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md), emanato in esecuzione di essa;
 
 Visto il [decreto luogotenenziale 17 giugno 1915, n. 1049](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-17;1049), con il quale il Consorzio fra le cooperative di produzione e lavoro della provincia di Modena fu riconosciuto come persona giuridica e ne fu approvato lo statuto organico;
 
@@ -62,7 +62,7 @@ Registrato alla Corte dei conti, addi' 3 febbraio 1956 Atti del Governo, registr
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Vista la [legge 25 giugno 1909, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;422), ed il regolamento approvato con [regio decreto 12 febbraio 1911, n. 278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md), emanato in esecuzione di essa;
+ Vista la [legge 25 giugno 1909, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;422), ed il regolamento approvato con [regio decreto 12 febbraio 1911, n. 278](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md), emanato in esecuzione di essa;
  Visto il [decreto luogotenenziale 17 giugno 1915, n. 1049](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-17;1049), con il quale il Consorzio fra le cooperative di produzione e lavoro della provincia di Modena fu riconosciuto come persona giuridica e ne fu approvato lo statuto organico;
  Visto il [decreto del Presidente della Repubblica 18 gennaio 1951, n. 260](Modificazioni%20allo%20statuto%20del%20Consorzio%20fra%20le%20cooperative%20di%20produzione%20e%20lavoro%20della%20provincia%20di%20Modena.md), contenente modificazioni allo statuto del Consorzio suddetto;
  Vista la deliberazione 30 dicembre 1954 dell'assemblea dei delegati dell'ente stesso, con la quale si modificano alcuni articoli dello statuto consortile;

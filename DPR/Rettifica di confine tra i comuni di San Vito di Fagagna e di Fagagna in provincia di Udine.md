@@ -16,7 +16,7 @@ Considerato che la variazione territoriale e' giustificata da comprovate esigenz
 
 Vista la [deliberazione n. 57 del 21 aprile 1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1968-04-21;57), con la quale il consiglio provinciale di Udine ha espresso al riguardo il suo parere favorevole;
 
-Visto l'[art. 7 del decreto presidenziale 9 agosto 1966, n. 834](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20in%20materia%20di%20ordinamento%20e%20circoscrizione%20dei%20Comuni%20e%20di%20toponomastica.md), nonche' gli articoli 32 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visto l'[art. 7 del decreto presidenziale 9 agosto 1966, n. 834](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20in%20materia%20di%20ordinamento%20e%20circoscrizione%20dei%20Comuni%20e%20di%20toponomastica.md), nonche' gli articoli 32 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla prima sezione del Consiglio di Stato nell'adunanza del 26 giugno 1970;
 

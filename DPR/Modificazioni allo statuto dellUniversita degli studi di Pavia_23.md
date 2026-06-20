@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, numero 2130](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Pavia.%20026U2130.md) e modificato con [regio decreto 13 ottobre 1927, n. 2229](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Pavia.%20027U2229.md), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, numero 2130](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Pavia.%20026U2130.md) e modificato con [regio decreto 13 ottobre 1927, n. 2229](../Regi%20decreti/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Pavia.%20027U2229.md), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1938, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
@@ -60,10 +60,10 @@ Registrato alla Corte dei conti, addi' 6 maggio 1965 Atti del Governo, registro 
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, numero 2130](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Pavia.%20026U2130.md) e modificato con [regio decreto 13 ottobre 1927, n. 2229](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Pavia.%20027U2229.md), e successive modificazioni;
+ Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, numero 2130](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Pavia.%20026U2130.md) e modificato con [regio decreto 13 ottobre 1927, n. 2229](../Regi%20decreti/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Pavia.%20027U2229.md), e successive modificazioni;
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1938, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-01-02;73);
- Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
  Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
  Vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'Universita' anzidetta;
  Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;

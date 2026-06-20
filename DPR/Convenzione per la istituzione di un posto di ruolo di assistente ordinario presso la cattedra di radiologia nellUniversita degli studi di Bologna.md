@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto il testo unico delle leggi sull'istruzione universitaria, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
-Visto, il [decreto legislativo 7 maggio 1948, n. 1172](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md), ratificato, con modificazioni, con [legge 24 giugno 1950, n. 465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md);
+Visto, il [decreto legislativo 7 maggio 1948, n. 1172](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md), ratificato, con modificazioni, con [legge 24 giugno 1950, n. 465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md);
 
 Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro; Decreta:
 
@@ -22,7 +22,7 @@ E' approvata e resa esecutiva, con effetto dalla data del presente decreto, l'an
 
 ## Art. 2.
 
-E' istituito, ai sensi dell'art. 1 (sub [articolo 13-bis) della legge 24 giugno 1950, n. 465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), un posto di assistente ordinario in aggiunta a quelli stabiliti nel decreto Ministeriale 2 luglio 1949, registrato alla Corte dei conti il 18 ottobre 1949, registro n. 26, foglio n. 27, e successive modificazioni, per la Facolta' di medicina e chirurgia dell'Universita' di Bologna.
+E' istituito, ai sensi dell'art. 1 (sub [articolo 13-bis) della legge 24 giugno 1950, n. 465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), un posto di assistente ordinario in aggiunta a quelli stabiliti nel decreto Ministeriale 2 luglio 1949, registrato alla Corte dei conti il 18 ottobre 1949, registro n. 26, foglio n. 27, e successive modificazioni, per la Facolta' di medicina e chirurgia dell'Universita' di Bologna.
 
 ## Art. 3.
 

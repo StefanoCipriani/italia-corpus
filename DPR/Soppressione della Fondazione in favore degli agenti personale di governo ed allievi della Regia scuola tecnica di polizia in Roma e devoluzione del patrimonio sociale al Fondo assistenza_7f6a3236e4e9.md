@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 21 maggio 1934, n. 959](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20della%20Fondazione%20in%20favore%20degli%20agenti%20-%20personale%20di%20governo%20-%20ed%20allievi%20della%20Regia%20scuola%20tecnica%20di%20polizia%20di%20Roma.%20034U0959.md), relativo alla erezione in ente morale della "Fondazione in favore degli agenti, personale di governo ed allievi della Regia scuola tecnica di polizia di Roma" ed alla approvazione dello statuto relativo;
+Visto il [regio decreto 21 maggio 1934, n. 959](../Regi%20decreti/Erezione%20in%20ente%20morale%20della%20Fondazione%20in%20favore%20degli%20agenti%20-%20personale%20di%20governo%20-%20ed%20allievi%20della%20Regia%20scuola%20tecnica%20di%20polizia%20di%20Roma.%20034U0959.md), relativo alla erezione in ente morale della "Fondazione in favore degli agenti, personale di governo ed allievi della Regia scuola tecnica di polizia di Roma" ed alla approvazione dello statuto relativo;
 
 Vista la deliberazione in data 10 marzo 1955, approvata con decreto Ministeriale 20 maggio 1955, della Commissione amministratrice della suddetta Fondazione intesa ad ottenere la soppressione dell'Ente e la devoluzione del patrimonio sociale al "Fondo assistenza, previdenza e premi per il personale della Pubblica sicurezza";
 

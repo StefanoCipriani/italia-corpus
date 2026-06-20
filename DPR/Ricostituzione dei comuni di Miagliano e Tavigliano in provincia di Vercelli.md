@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 28 marzo 1929, n. 609](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Andorno%20Cacciorna%20Miagliano%20Sagliano%20Micca%20San%20Giuseppe%20di%20Casto%20e%20Tavigliano%20in%20un%20unico%20Comune%20con%20denominazione%20Andorno%20Micca%20e%20capoluogo%20Andorno.%20029U0609.md), con il quale i comuni di Andorno Cacciorna, Miagliano, Sagliano Micca, San Giuseppe di Casto e Tavigliano furono riuniti in unico Comune con denominazione "Andorno Micca" e capoluogo Andorno;
+Visto il [regio decreto 28 marzo 1929, n. 609](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Andorno%20Cacciorna%20Miagliano%20Sagliano%20Micca%20San%20Giuseppe%20di%20Casto%20e%20Tavigliano%20in%20un%20unico%20Comune%20con%20denominazione%20Andorno%20Micca%20e%20capoluogo%20Andorno.%20029U0609.md), con il quale i comuni di Andorno Cacciorna, Miagliano, Sagliano Micca, San Giuseppe di Casto e Tavigliano furono riuniti in unico Comune con denominazione "Andorno Micca" e capoluogo Andorno;
 
 Viste le istanze rispettivamente in data 8 e 12 settembre 1946 ed in data 29 settembre 8, 14, 15 e 20 ottobre 1346, con le quali la maggioranza dei contribuenti dei cessati comuni di Miagliano e Tavigliano ne ha chiesto la ricostituzione in Comuni autonomi;
 
@@ -31,7 +31,7 @@ Sono ricostituiti i comuni di Miagliano e Tavigliano, in provincia di Vercelli, 
 ## Art. 2.
 
 Il Prefetto di Vercelli, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari tra il comune di Andorno Micca e i ricostituiti comuni di Miagliano e Tavigliano, nonche' alla ripartizione fra gli stessi, previo parere delle rispettive Amministrazioni, del personale attualmente in servizio presso il comune di Andorno Micca.
- E' fatto salvo l'esercizio successivo, da parte dei Comuni predetti, della facolta' di revisione degli organici secondo le norme di cui al [decreto legislativo luogotenenziale 18 gennaio 1945, n. 48](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20la%20modificazione%20delle%20piante%20organiche%20del%20personale%20degli%20Enti%20locali.%20045U0048.md), con l'osservanza, per quanto concerne il trattamento economico, delle disposizioni contenute nell'[art. 228 del testo unico 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-03-03;383#art_228), della legge comunale e provinciale.
+ E' fatto salvo l'esercizio successivo, da parte dei Comuni predetti, della facolta' di revisione degli organici secondo le norme di cui al [decreto legislativo luogotenenziale 18 gennaio 1945, n. 48](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20per%20la%20modificazione%20delle%20piante%20organiche%20del%20personale%20degli%20Enti%20locali.%20045U0048.md), con l'osservanza, per quanto concerne il trattamento economico, delle disposizioni contenute nell'[art. 228 del testo unico 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-03-03;383#art_228), della legge comunale e provinciale.
  Al personale in servizio presso il comune di Andorno Micca, che sara' inquadrato negli organici dei comuni di Miagliano e Tavigliano, sara' mantenuto ad personam il trattamento economico fruito all'atto dell'inquadramento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

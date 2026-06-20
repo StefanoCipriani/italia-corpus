@@ -14,7 +14,7 @@ N.
 
 557.
 
-Decreto del Presidente della Repubblica 28 giugno 1985, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, viene dichiarata estinta la fondazione "Vanna Arrigoni degli Oddi", istituita presso l'istituto veneto di scienze, lettere ed arti, in Venezia, con [regio decreto 10 luglio 1924, n. 1222](../Atti%20normativi%20abrogati%20%28in%20originale%29/Autorizzazione%20ad%20accettare%20la%20donazione%20per%20listituzione%20del%20premio%20Fondazione%20Vanna%20Arrigoni%20degli%20Oddi%20nel%20Regio%20istituto%20veneto%20di%20scienze%20lettere%20ed%20arti%20in%20Venezia.%20024U1222.md), ed il relativo patrimonio viene devoluto allo istituto medesimo. 
+Decreto del Presidente della Repubblica 28 giugno 1985, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, viene dichiarata estinta la fondazione "Vanna Arrigoni degli Oddi", istituita presso l'istituto veneto di scienze, lettere ed arti, in Venezia, con [regio decreto 10 luglio 1924, n. 1222](../Regi%20decreti/Autorizzazione%20ad%20accettare%20la%20donazione%20per%20listituzione%20del%20premio%20Fondazione%20Vanna%20Arrigoni%20degli%20Oddi%20nel%20Regio%20istituto%20veneto%20di%20scienze%20lettere%20ed%20arti%20in%20Venezia.%20024U1222.md), ed il relativo patrimonio viene devoluto allo istituto medesimo. 
  
 Visto, il Guardasigilli: MARTINAZZOLI 
  Registrato alla Corte dici conti, addi' 7 ottobre 1985 

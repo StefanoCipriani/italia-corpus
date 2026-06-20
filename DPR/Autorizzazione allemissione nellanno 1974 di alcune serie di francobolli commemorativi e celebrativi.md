@@ -14,7 +14,7 @@ Visto l'art. 32 del testo unico delle disposizioni legislativo in materia postal
 
 Visto l'[art. 2 del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), prima citato, per il quale sino all'emanazione delle norme di esecuzione del predetto testo unico si applicano, in quanto compatibili, le vigenti disposizioni regolamentari;
 
-Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare - parte prima), approvato con [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
+Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare - parte prima), approvato con [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
 
 Riconosciuta l'opportunita' di emettere nell'anno 1974 le seguenti serie di francobolli: commemorativi del 7° centenario della morte di S. Tommaso d'Aquino; commemorativi del centenario della morte di Nicolo' Tommaseo; commemorativi del cinquantenario della morte di Giacomo Puccini; commemorativi del bimillenario della morte di Marco Terenzio Varrone; celebrativi del cinquantenario della fondazione dell'Associazione nazionale bersaglieri;
 

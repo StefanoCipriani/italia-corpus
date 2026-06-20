@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 12 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_12);
 
-Vista la [legge n. 1078 del 3 novembre 1954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-03;1078), con la quale l'Ente Nazionale per l'applicazione dell'Industria - UNI - riconosciuto con [regio decreto del 18 luglio 1930, n. 1107](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riconoscimento%20giuridico%20dellEnte%20nazionale%20per%20lunificazione%20della%20industria%20UNI%20e%20approvazione%20del%20relativo%20statuto.%20030U1107.md), e' stato soppresso;
+Vista la [legge n. 1078 del 3 novembre 1954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-03;1078), con la quale l'Ente Nazionale per l'applicazione dell'Industria - UNI - riconosciuto con [regio decreto del 18 luglio 1930, n. 1107](../Regi%20decreti/Riconoscimento%20giuridico%20dellEnte%20nazionale%20per%20lunificazione%20della%20industria%20UNI%20e%20approvazione%20del%20relativo%20statuto.%20030U1107.md), e' stato soppresso;
 
 Vista la domanda in data 31 ottobre 1954, con la quale il presidente dell'Associazione denominata Ente Nazionale di Unificazione - UNI - con sede in Milano, in vista dei poteri conferitigli dall'atto costitutivo - rogito in Milano il 26 gennaio 1953, notar Pietro Maissen, rep. n. 163514, raccolta n. 6989 - richiede che venga conferita la personalita' giuridica all'Associazione medesima;
 

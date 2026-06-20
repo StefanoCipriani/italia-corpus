@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 13 agosto 1926, n. 1488](../Atti%20normativi%20abrogati%20%28in%20originale%29/Diritti%20e%20tasse%20della%20Camera%20di%20commercio%20e%20industria%20di%20Genova.%20026U1488.md), con il quale venne approvata e resa esecutiva la tariffa del diritti di Borsa spettanti alla Camera di commercio, industria ed agricoltura di Genova;
+ Visto il [regio decreto 13 agosto 1926, n. 1488](../Regi%20decreti/Diritti%20e%20tasse%20della%20Camera%20di%20commercio%20e%20industria%20di%20Genova.%20026U1488.md), con il quale venne approvata e resa esecutiva la tariffa del diritti di Borsa spettanti alla Camera di commercio, industria ed agricoltura di Genova;
  Visto il [decreto del Capo provvisorio dello Stato 8 dicembre 1947, n. 1616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-12-08;1616), pubblicato nella Gazzetta Ufficiale del 31 gennaio 1945, n. 25, con il quale vennero approvate variazioni alla predetta tariffa;
  Vista la [deliberazione in data 22 dicembre 1964, n. 1399](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1964-12-22;1399), della Giunta della Camera di commercio, industria ed agricoltura di Genova, con la quale sono state proposte ulteriori indicazioni ai diritti dovuti per le tessere d'ingresso ai recinti della Borsa valori;
  Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1931, n. 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-20;2011), con il quale si stabilisce la forma e l'organo competente per l'emanazione dei provvedimenti riguardanti i diritti di Borsa;

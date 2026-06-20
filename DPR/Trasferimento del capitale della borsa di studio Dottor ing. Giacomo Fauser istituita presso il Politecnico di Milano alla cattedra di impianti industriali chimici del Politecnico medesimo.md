@@ -14,7 +14,7 @@ N.
 
 695.
 
-Decreto del Presidente della Repubblica 19 maggio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, il capitale della borsa di studio "Dott. ing. Giacomo Fauser" istituita presso il Politecnico di Milano con [regio decreto 31 marzo 1941, n. 345](../Atti%20normativi%20abrogati%20%28in%20originale%29/Autorizzazione%20al%20Regio%20politecnico%20di%20Milano%20ad%20accettare%20una%20donazione.%20041U0345.md), e consistente in L. 100.000 nominali in titoli di rendita italiana 5%, viene messo a disposizione, con il consenso del donante, della cattedra di impianti industriali chimici del Politecnico medesimo.
+Decreto del Presidente della Repubblica 19 maggio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, il capitale della borsa di studio "Dott. ing. Giacomo Fauser" istituita presso il Politecnico di Milano con [regio decreto 31 marzo 1941, n. 345](../Regi%20decreti/Autorizzazione%20al%20Regio%20politecnico%20di%20Milano%20ad%20accettare%20una%20donazione.%20041U0345.md), e consistente in L. 100.000 nominali in titoli di rendita italiana 5%, viene messo a disposizione, con il consenso del donante, della cattedra di impianti industriali chimici del Politecnico medesimo.
 
 Visto, il Guardasigilli: DE PIETRO
  Registrato alla Corte dei conti, addi' 13 agosto 1954

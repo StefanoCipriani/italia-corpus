@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889) sul riordinamento della istruzione media tecnica;
 
-Veduto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
+Veduto il [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
 
 Veduto l'art. 9 del regio decreto-legge 21 settembre 1938, n. 2038, convertito nelle legge 2 giugno 1939, Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione di concerto con quelli per l'interno e per il tesoro; Decreta:
 
@@ -153,7 +153,7 @@ Alle spese di mantenimento dell'Istituto si provvede:
 
 ## Art. 23.
 
-Gli oneri posti a carico degli enti locali dalle disposizioni degli articoli 91, lettera f) e 144 lettera c) del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), vengono assunti, finche' non subentrino gli enti locali, dalla Cassa, per opere straordinarie di pubblico interesse nell'Italia meridionale (Cassa per il Mezzogiorno) per quanto riguarda la somministrazione di edifici scolastici e residenziali con servizi annessi e di aziende agrarie e campi didattici con relative opere di trasformazione fondiaria ed agraria, scorte vive e morte, attrezzature tecniche, arredamenti e capitale circolante.
+Gli oneri posti a carico degli enti locali dalle disposizioni degli articoli 91, lettera f) e 144 lettera c) del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), vengono assunti, finche' non subentrino gli enti locali, dalla Cassa, per opere straordinarie di pubblico interesse nell'Italia meridionale (Cassa per il Mezzogiorno) per quanto riguarda la somministrazione di edifici scolastici e residenziali con servizi annessi e di aziende agrarie e campi didattici con relative opere di trasformazione fondiaria ed agraria, scorte vive e morte, attrezzature tecniche, arredamenti e capitale circolante.
  I servizi accessori di manutenzione, somministrazione d'acqua e di energia elettrica e di riscaldamento, inerenti a tutti i complessi scolastici, restano a carico degli enti locali in applicazione dei sopracitati articoli del testo unico predetto.
  Per quanto non e' previsto dal presente decreto, si applicano le disposizioni vigenti per gli Istituti d'istruzione tecnica.
 

@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e successive modificazioni;
- Visti il regio decreto 25 aprile 10929, n. 067, ed il [regio decreto 5 febbraio 1931, n. 225](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20leggi%20sullordinamento%20delle%20Casse%20di%20risparmio%20e%20dei%20Monti%20di%20pieta%20di%20prima%20categoria.%20031U0225.md);
+ Visti il regio decreto 25 aprile 10929, n. 067, ed il [regio decreto 5 febbraio 1931, n. 225](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20leggi%20sullordinamento%20delle%20Casse%20di%20risparmio%20e%20dei%20Monti%20di%20pieta%20di%20prima%20categoria.%20031U0225.md);
  Visto il [decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-17;691);
  Viste le delibere assunte in data 21 settembre 1965 dal Consiglio di amministrazione del Monte di Bologna, Monte di credito si pegno di 1ª categoria, con sede in Bologna, e dal commissario straordinario del Monte di credito su pegno di Ravenna e Bagnacavallo, di la categoria, con sede in Ravenna, attualmente in gestione straordinaria;
  Sentito il Comitato interministeriale per il credito ed il risparmio;

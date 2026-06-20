@@ -15,7 +15,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Visto il proprio decreto 11 febbraio 1952, n. 346, con il quale la Fondazione "Pro Juventute", con sede in Roma, e' stata eretta in ente morale ed e' stato altresi' approvato il relativo statuto; 
  Visto il proprio decreto 29 marzo 1956, n. 473, con il quale e' stato modificato l'art. 7 dello statuto anzidetto; 
  Vista la domanda con la quale la Fondazione "Pro Juventute" ha chiesto l'autorizzazione ad acquistare dal comune di Milano, per il prezzo complessivo di L. 64.589.154, un'area edificabile in Milano della superficie di mq. 18.900 circa, situata in fregio alla via Capecelatro, da destinare alla costruzione di un convitto-scuola per bambini poliomielitici e minorati fisici; 
- Visti la legge 5 giugno 1850, n. 1037 ed il [regio decreto 26 giugno 1864, n. 1817](../Atti%20normativi%20abrogati%20%28in%20originale%29/Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md); 
+ Visti la legge 5 giugno 1850, n. 1037 ed il [regio decreto 26 giugno 1864, n. 1817](../Regi%20decreti/Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md); 
  Visti l'[art. 17 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_17) e l'art. 5 delle disposizioni per l'attuazione dello stesso Codice; 
  Visti gli atti di istruttoria e quelli prodotti a corredo della domanda; 
  Udito il parere del Consiglio di Stato; 

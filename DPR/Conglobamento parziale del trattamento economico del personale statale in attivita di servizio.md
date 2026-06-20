@@ -59,7 +59,7 @@ Al personale contemplato nel primo comma del precedente art. 2, che al 30 giugno
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 gennaio 1956, n. 7](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che tali modifiche hanno effetto dal 1° luglio 1955.
+Il [D.P.R. 11 gennaio 1956, n. 7](Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che tali modifiche hanno effetto dal 1° luglio 1955.
 
 ## Art. 6.
 
@@ -73,7 +73,7 @@ Per il periodo 1 luglio 1955 30 giugno 1956, agli effetti della liquidazione dei
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 gennaio 1956, n. 7](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che tali modifiche hanno effetto dal 1° luglio 1955.
+Il [D.P.R. 11 gennaio 1956, n. 7](Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che tali modifiche hanno effetto dal 1° luglio 1955.
 
 ## Art. 7.
 
@@ -85,7 +85,7 @@ Salvo quanto disposto nei successivi articoli, ((le nuove misure delle competenz
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 gennaio 1956, n. 7](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che tali modifiche hanno effetto dal 1° luglio 1955.
+Il [D.P.R. 11 gennaio 1956, n. 7](Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che tali modifiche hanno effetto dal 1° luglio 1955.
 
 ## Art. 8.
 
@@ -95,7 +95,7 @@ Il [D.P.R. 11 gennaio 1956, n. 7](../Atti%20normativi%20abrogati%20%28in%20origi
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 gennaio 1956, n. 7](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che la presente modifica ha effetto dal 1° luglio 1955.
+Il [D.P.R. 11 gennaio 1956, n. 7](Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che la presente modifica ha effetto dal 1° luglio 1955.
 
 ## Art. 9.
 
@@ -116,7 +116,7 @@ Ai personale delle Ferrovie dello stato che sia stato promosso dal grado 7° del
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 gennaio 1956, n. 7](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che tali modifiche hanno effetto dal 1° luglio 1955.
+Il [D.P.R. 11 gennaio 1956, n. 7](Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che tali modifiche hanno effetto dal 1° luglio 1955.
 
 ## Art. 11.
 
@@ -136,7 +136,7 @@ La spesa massima mensile per la erogazione dei compensi per lavoro straordinario
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 gennaio 1956, n. 7](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che tali modifiche hanno effetto dal 1° luglio 1955.
+Il [D.P.R. 11 gennaio 1956, n. 7](Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che tali modifiche hanno effetto dal 1° luglio 1955.
 
 ## Art. 13.
 
@@ -146,7 +146,7 @@ Il [D.P.R. 11 gennaio 1956, n. 7](../Atti%20normativi%20abrogati%20%28in%20origi
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 gennaio 1956, n. 7](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che tali modifiche hanno effetto dal 1° luglio 1955.
+Il [D.P.R. 11 gennaio 1956, n. 7](Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che tali modifiche hanno effetto dal 1° luglio 1955.
 
 ## Art. 14.
 
@@ -156,11 +156,11 @@ Il [D.P.R. 11 gennaio 1956, n. 7](../Atti%20normativi%20abrogati%20%28in%20origi
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 gennaio 1956, n. 7](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che la presente modifica ha effetto dal 1° luglio 1955.
+Il [D.P.R. 11 gennaio 1956, n. 7](Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che la presente modifica ha effetto dal 1° luglio 1955.
 
 ## Art. 15.
 
-L'[art. 1 del regio decreto legislativo 27 maggio 1946, n. 534](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trattamento%20economico%20dei%20professori%20incaricati%20delle%20universita%20e%20degli%20istituti%20distruzione%20superiore.md), riguardante il trattamento economico dei professori incaricati delle Universita' e degli Istituti di istruzione superiore, e' sostituito dal seguente:
+L'[art. 1 del regio decreto legislativo 27 maggio 1946, n. 534](../Regi%20decreti%20legislativi/Trattamento%20economico%20dei%20professori%20incaricati%20delle%20universita%20e%20degli%20istituti%20distruzione%20superiore.md), riguardante il trattamento economico dei professori incaricati delle Universita' e degli Istituti di istruzione superiore, e' sostituito dal seguente:
  "A decorrere dal 1 luglio 1955, a coloro ai quali e' conferito un incarico di insegnamento presso le Universita' o gli Istituti di istruzione superiore, quando non ricoprano un ufficio con retribuzione a carico del bilancio dello Stato o di altro pubblico ente, e' attribuito un assegno annuo corrispondente allo stipendio iniziale previsto per i dipendenti statali di gruppo A, grado 8°, se l'incaricato sia compreso nella terna o dichiarato maturo in concorso statale universitario; di gruppo A, grado 9°, se l'incaricato sia libero docente; di gruppo A, grado 10°, se l'incaricato sia cultore della materia.
  Agli incaricati di cui al presente articolo sono attribuite, se ed in quanto dovute, le quote di aggiunta di famiglia e le eventuali indennita' inerenti ai gradi su indicati.
  Il trattamento previsto dal presente articolo spetta soltanto per un incarico di insegnamento. Per altri eventuali incarichi conferiti ai professori di cui al primo comma del presente articolo, la retribuzione dovuta per il secondo incarico e' calcolata in ragione del 50 per cento dello stipendio previsto dal medesimo comma e quella inerente al terzo incarico e' calcolata in ragione del 25 per cento dello stesso stipendio.
@@ -173,20 +173,20 @@ A decorrere dal 1 luglio 1955, ai fini della determinazione della retribuzione o
  Con la stessa decorrenza del 1 luglio 1955 ed in ragione della meta' della misura oraria della retribuzione risultante dall'applicazione della norma contenuta nel primo comma del presente articolo sono determinati i compensi previsti:
  dall'[art. 3 del regio decreto legislativo 1 giugno 1946, n. 539](../Regi%20decreti%20legislativi/Trattamento%20economico%20del%20personale%20non%20di%20ruolo%20insegnante%20e%20non%20insegnante%20nelle%20scuole%20e%20negli%20istituti%20distruzione%20media.md), sostituito dall'[art. 1 del decreto legislativo del Capo provvisorio dello Stato 31 dicembre 1947, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-31;1687#art_1), per l'insegnamento impartito oltre l'obbligo di orario dai professori di ruolo o dai professori non di ruolo aventi diritto al trattamento indicato nell'[art. 1 della legge 11 giugno 1950, n. 521](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trattamento%20economico%20del%20personale%20insegnante%20non%20di%20ruolo%20delle%20scuole%20secondarie%20ed%20artistiche.md), compresi i casi in cui l'orario d'obbligo superi le 18 ore settimanali o in cui l'incarico sia conferito ad un dipendente di ruolo o non di ruolo dello Stato o di ente pubblico;
  dall'[art. 5 del decreto legislativo del Capo provvisorio dello Stato 29 maggio 1947, n. 595](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-29;595#art_5), e dall'[art. 2 del decreto legislativo 7 maggio 1948, n. 826](../Decreti%20Legislativi/Retribuzione%20degli%20insegnanti%20incaricati%20dellAccademia%20darte%20drammatica%20e%20numero%20delle%20ore%20settimanali%20relative%20agli%20insegnamenti%20impartiti%20per%20incarico.md);
- dall'[art. 3 del decreto legislativo 7 maggio 1948, n. 1277](../Decreti%20Legislativi/Revisione%20dello%20stato%20giuridico%20ed%20economico%20del%20personale%20tecnico%20degli%20istituti%20e%20delle%20scuole%20di%20istruzione%20tecnica.md), e dall'[art. 3 del decreto legislativo 7 maggio 1948, n. 1278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20dello%20stato%20giuridico%20ed%20economico%20del%20personale%20tecnico%20delle%20scuole%20di%20avviamento%20professionale.md), ratificati entrambi, con modificazioni, dalla [legge 11 dicembre 1952, n. 2528](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-11;2528).
+ dall'[art. 3 del decreto legislativo 7 maggio 1948, n. 1277](../Decreti%20Legislativi/Revisione%20dello%20stato%20giuridico%20ed%20economico%20del%20personale%20tecnico%20degli%20istituti%20e%20delle%20scuole%20di%20istruzione%20tecnica.md), e dall'[art. 3 del decreto legislativo 7 maggio 1948, n. 1278](../Decreti%20Legislativi/Revisione%20dello%20stato%20giuridico%20ed%20economico%20del%20personale%20tecnico%20delle%20scuole%20di%20avviamento%20professionale.md), ratificati entrambi, con modificazioni, dalla [legge 11 dicembre 1952, n. 2528](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-11;2528).
  Dalla stessa data del 1 luglio 1955, ai fini della determinazione della retribuzione del personale non insegnante non di ruolo delle scuole ed istituti di istruzione secondaria ed artistica, che fruisca dello stipendio minimo del grado iniziale della corrispondente categoria di personale di ruolo, si considerano gli stipendi previsti dall'allegato I - tabella 1 - nonche' dall'allegato II - tabella 4 - al presente decreto.
  Gli aumenti periodici di stipendio del personale insegnante tecnico pratico non di ruolo e del personale previsto al comma precedente, rimangono fissati nell'importo risultante al 30 giugno 1955.
 
 ## Art. 17.
 
-Ai fini della determinazione dei premi, delle indennita', dei compensi e degli assegni di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-03;1002#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-03;1002#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-03;1002#art_3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-03;1002#art_4), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-03;1002#art_5), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-03;1002#art_6) e [10 del decreto legislativo del Capo provvisorio dello Stato 3 settembre 1947, n. 1002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-03;1002#art_10), e dell'[art. 4 del decreto legislativo del Capo provvisorio dello Stato 17 dicembre 1947, n. 1599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-17;1599#art_4), ratificato con [legge 16 aprile 1953, n. 326](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2017%20dicembre%201947%20n.%201599%20concernente%20listituzione%20della%20scuola%20popolare%20contro%20lanalfabetismo.md), fermi restando i criteri previsti dagli stessi articoli e salvo il disposto dei secondo comma del presente articolo, si considerano gli stipendi previsti dalla tabella allegato I al presente decreto e le quote di aggiunta di famiglia di cui all'art. 4 del presente decreto.
+Ai fini della determinazione dei premi, delle indennita', dei compensi e degli assegni di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-03;1002#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-03;1002#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-03;1002#art_3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-03;1002#art_4), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-03;1002#art_5), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-03;1002#art_6) e [10 del decreto legislativo del Capo provvisorio dello Stato 3 settembre 1947, n. 1002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-03;1002#art_10), e dell'[art. 4 del decreto legislativo del Capo provvisorio dello Stato 17 dicembre 1947, n. 1599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-17;1599#art_4), ratificato con [legge 16 aprile 1953, n. 326](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2017%20dicembre%201947%20n.%201599%20concernente%20listituzione%20della%20scuola%20popolare%20contro%20lanalfabetismo.md), fermi restando i criteri previsti dagli stessi articoli e salvo il disposto dei secondo comma del presente articolo, si considerano gli stipendi previsti dalla tabella allegato I al presente decreto e le quote di aggiunta di famiglia di cui all'art. 4 del presente decreto.
  ((Le locuzioni "ai due terzi" e "di due terzi" indicate rispettivamente negli articoli 2, terzo comma, 4, quinto comma, e 6, secondo comma, e nell'art. 3, primo comma, del decreto legislativo del Capo provvisorio dello Stato 3 settembre 1947, n. 1002, sono sostituite dalle altre "alla meta'" e "della meta'". Sono del pari sostituite, nell'art. 10 dello stesso decreto legislativo del Capo provvisorio dello Stato 3 settembre 1947, numero 1002, la locuzione, di cui alla lettera a), "ad un decimo" con la locuzione "ad un dodicesimo"; alle lettere b) e d) la locuzione "ad un quinto" con la locuzione "al quarantacinque per cento"; alle lettere c) ed e) la locuzione "ad un quarto" con la locuzione "al cinquantacinque per cento")). ((1))
 
 ---------------
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 gennaio 1956, n. 7](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che tali modifiche hanno effetto dal 1° luglio 1955.
+Il [D.P.R. 11 gennaio 1956, n. 7](Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che tali modifiche hanno effetto dal 1° luglio 1955.
 
 ## Art. 18.
 
@@ -205,12 +205,12 @@ Salvo il disposto dell'ultimo comma del precedente art. 3, gli assegni personali
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 gennaio 1956, n. 7](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che la presente modifica ha effetto dal 1° luglio 1955.
+Il [D.P.R. 11 gennaio 1956, n. 7](Modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2017%20agosto%201955%20n.%20767%20per%20lintegrazione%20del%20conglobamento%20parziale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 23, comma 1) che la presente modifica ha effetto dal 1° luglio 1955.
 
 ## Art. 21.
 
 Il [primo comma dell'art. 16 del decreto legislativo del Capo provvisorio dello Stato 5 agosto 1947, n. 778](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-08-05;778#art_16-com1), e' sostituito dal seguente:
- "Il limite massimo del compenso spettante agli estranei all'Amministrazione dello Stato, incaricati di speciali studi a norma dell'[art. 57 del regio decreto 8 maggio 1924, n. 843](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), o di altra analoga disposizione, e' stabilito nell'importo mensile lordo di lire novantamila".
+ "Il limite massimo del compenso spettante agli estranei all'Amministrazione dello Stato, incaricati di speciali studi a norma dell'[art. 57 del regio decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), o di altra analoga disposizione, e' stabilito nell'importo mensile lordo di lire novantamila".
 
 ## Art. 22.
 

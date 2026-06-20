@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 della legge 14 ottobre 1957, n. 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), che conferisce al Governo la delega ad emanare, fino all'entrata in vigore della seconda tappa del periodi transitorio definito dall'art. 8 dei Trattato istitutivo della Comunita' Economica Europea, con decreti aventi valore di legge ordinaria, le norme necessarie a dare esecuzione agli obblighi previsti dall'art. 11 del Trattato stesso;
+Visto l'[art. 4 della legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), che conferisce al Governo la delega ad emanare, fino all'entrata in vigore della seconda tappa del periodi transitorio definito dall'art. 8 dei Trattato istitutivo della Comunita' Economica Europea, con decreti aventi valore di legge ordinaria, le norme necessarie a dare esecuzione agli obblighi previsti dall'art. 11 del Trattato stesso;
 
 Visti gli articoli 11 e 23 del Trattato sopra indicato;
 

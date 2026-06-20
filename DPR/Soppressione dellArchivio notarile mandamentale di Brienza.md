@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 28 giugno 1885, n. 3240](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20istituisce%20un%20Archivio%20notarile%20mandamentale%20in%20Brienza.%20085U3240.md), con il quale venne istituito l'Archivio notarile mandamentale di Brienza (distretto notarile di Potenza);
+ Visto il [regio decreto 28 giugno 1885, n. 3240](../Regi%20decreti/Che%20istituisce%20un%20Archivio%20notarile%20mandamentale%20in%20Brienza.%20085U3240.md), con il quale venne istituito l'Archivio notarile mandamentale di Brienza (distretto notarile di Potenza);
  Visto l'art. 248 del regolamento per l'esecuzione della [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), riguardante l'ordinamento del notariato e degli archivi notarili, approvato con [regio decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md);
  Considerata la grave e persistente trascuranza nella custodia e manutenzione degli atti e delle carte dell'archivio, nonostante i ripetuti inviti rivolti ai Comuni del mandamento per provvedere al riordinamento dell'archivio stesso;
  Sentito il parere del Conservatore dell'archivio notarile distrettuale di Potenza;

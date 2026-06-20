@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 7 luglio 1907, n. 429](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), riguardante l'ordinamento dell'esercizio di Stato delle Ferrovie non concesse ad imprese private e le successive modificazioni ed integrazioni;
 
-Visto il [regio decreto 7 giugno 1923 n. 1258](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20istituisce%20un%20nuovo%20Compartimento%20delle%20Ferrovie%20dello%20Stato%20con%20sede%20a%20Trieste%20e%20modifica%20la%20giurisdizione%20compartimentale%20di%20Venezia%20e%20le%20circoscrizioni%20per%20la%20rappresentanza%20legale.%20023U1258.md), concernente l'istituzione di un nuovo Compartimento delle ferrovie dello Stato con sede a Trieste;
+Visto il [regio decreto 7 giugno 1923 n. 1258](../Regi%20decreti/Che%20istituisce%20un%20nuovo%20Compartimento%20delle%20Ferrovie%20dello%20Stato%20con%20sede%20a%20Trieste%20e%20modifica%20la%20giurisdizione%20compartimentale%20di%20Venezia%20e%20le%20circoscrizioni%20per%20la%20rappresentanza%20legale.%20023U1258.md), concernente l'istituzione di un nuovo Compartimento delle ferrovie dello Stato con sede a Trieste;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 28 novembre 1947, n. 1430](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-11-28;1430), concernente esecuzione del Trattato di pace fra l'Italia e le Potenze alleate e associate, firmato a Parigi il 10 febbraio 1947;
 

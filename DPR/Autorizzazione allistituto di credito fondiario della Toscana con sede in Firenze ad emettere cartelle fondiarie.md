@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA 
  
  Visti il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e le successive modificazioni, nonche' il [decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-17;691); 
- Visti il testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e le successive modificazioni; 
+ Visti il testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e le successive modificazioni; 
  Visti il regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md), e le successive modificazioni; 
  Viste le [leggi 29 luglio 1949, n. 474, 4 agosto 1955, n. 683 e 31 ottobre 1965, n. 1244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-10-31;1244); 
  Visto il proprio decreto 8 giugno 1968, n. 822, che ha eretto in ente morale l'Istituto di credito fondiario della Toscana, con sede a Firenze, ne ha approvato lo statuto e l'ha autorizzato ad esercitate il credito fondiario ed edilizio, in conformita' delle disposizioni vigenti in materia, nel territorio della Regione toscana; 

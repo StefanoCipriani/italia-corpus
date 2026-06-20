@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 14 marzo 1977, n. 73](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20trattato%20tra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20socialista%20federativa%20di%20Jugoslavia%20con%20allegati%20nonche%20dellaccordo%20tra%20le%20stesse%20Parti%20con%20allegati%20dellatt_8956da0d08cf.md), di ratifica ed esecuzione del trattato tra la Repubblica italiana e la Repubblica socialista federativa di Jugoslavia, con allegati; nonche' dell'accordo tra le stesse Parti, con allegati, dell'atto finale e dello scambio di note, firmati ad Osimo (Ancona) il 10 novembre 1975;
+Vista la [legge 14 marzo 1977, n. 73](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20trattato%20tra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20socialista%20federativa%20di%20Jugoslavia%20con%20allegati%20nonche%20dellaccordo%20tra%20le%20stesse%20Parti%20con%20allegati%20dellatt_8956da0d08cf.md), di ratifica ed esecuzione del trattato tra la Repubblica italiana e la Repubblica socialista federativa di Jugoslavia, con allegati; nonche' dell'accordo tra le stesse Parti, con allegati, dell'atto finale e dello scambio di note, firmati ad Osimo (Ancona) il 10 novembre 1975;
 
 Considerato che, con l'art. 3, ultimo comma, lettera b), della citata legge, il Governo e' stato delegato ad adottare misure assistenziali atte a facilitare lo stabilimento nel territorio nazionale dei cittadini italiani che si avvalgono della facolta' prevista dall'art. 3 del predetto trattato;
 
 Consultata la giunta regionale della regione Friuli-Venezia Giulia;
 
-Sentita la commissione parlamentare prevista dall'[art. 3 della legge 14 marzo 1977, n. 73](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20trattato%20tra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20socialista%20federativa%20di%20Jugoslavia%20con%20allegati%20nonche%20dellaccordo%20tra%20le%20stesse%20Parti%20con%20allegati%20dellatt_8956da0d08cf.md);
+Sentita la commissione parlamentare prevista dall'[art. 3 della legge 14 marzo 1977, n. 73](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20trattato%20tra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20socialista%20federativa%20di%20Jugoslavia%20con%20allegati%20nonche%20dellaccordo%20tra%20le%20stesse%20Parti%20con%20allegati%20dellatt_8956da0d08cf.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro degli affari esteri, di concerto con i Ministri dell
 
 ## Art. 1.
 
-Ai cittadini italiani che si avvalgono della facolta' prevista dall'art. 3 del trattato tra la Repubblica italiana e la Repubblica socialista federativa di Jugoslavia, ratificato con [legge 14 marzo 1977, n. 73](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20trattato%20tra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20socialista%20federativa%20di%20Jugoslavia%20con%20allegati%20nonche%20dellaccordo%20tra%20le%20stesse%20Parti%20con%20allegati%20dellatt_8956da0d08cf.md), e' erogato, a seguito del trasferimento nel territorio italiano, un contributo straordinario di lire cinquecentomila per agevolarne lo stabilimento nel territorio nazionale.
+Ai cittadini italiani che si avvalgono della facolta' prevista dall'art. 3 del trattato tra la Repubblica italiana e la Repubblica socialista federativa di Jugoslavia, ratificato con [legge 14 marzo 1977, n. 73](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20trattato%20tra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20socialista%20federativa%20di%20Jugoslavia%20con%20allegati%20nonche%20dellaccordo%20tra%20le%20stesse%20Parti%20con%20allegati%20dellatt_8956da0d08cf.md), e' erogato, a seguito del trasferimento nel territorio italiano, un contributo straordinario di lire cinquecentomila per agevolarne lo stabilimento nel territorio nazionale.
  Il contributo e' corrisposto, su istanza degli interessati, dal prefetto della provincia in cui stabiliscono la loro residenza.
 
 ## Art. 2.

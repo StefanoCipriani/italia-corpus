@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'Accordo di associazione fra la Comunita' Economica Europea e la Grecia ratificato e reso esecutivo con la [legge 28 luglio 1962, n. 1002](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20in%20Atene%20il%209%20luglio%201961%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Grecia.md);
+Visto l'Accordo di associazione fra la Comunita' Economica Europea e la Grecia ratificato e reso esecutivo con la [legge 28 luglio 1962, n. 1002](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20in%20Atene%20il%209%20luglio%201961%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Grecia.md);
 
 Visto il [decreto del Presidente della Repubblica 31 ottobre 1962, n. 1854](Esecuzione%20della%20Convenzione%20relativa%20ai%20metodi%20di%20cooperazione%20amministrativa%20per%20lapplicazione%20degli%20articoli%207%20e%208%20dellAccordo%20di%20Associazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Gr_7f424923694a.md), concernente l'esecuzione della Convenzione relativa ai metodi di cooperazione amministrativa fra la Grecia e la CEE;
 
@@ -26,7 +26,7 @@ Vista la legge doganale 25 settembre 1940, n. 1424, e successive aggiunte e vari
 
 Vista la [legge 5 luglio 1964, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-07-05;639);
 
-Visto l'art. 3 della citata [legge 28 luglio 1962, n. 1002](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20in%20Atene%20il%209%20luglio%201961%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Grecia.md), che conferisce al Governo la delega ad emanare, fino alla scadenza del periodo transitorio stabilito dall'articolo 6 dell'Accordo di associazione, con decreti aventi valore di legge ordinaria, le norme necessarie a dare esecuzione agli obblighi derivanti dall'Accordo di associazione;
+Visto l'art. 3 della citata [legge 28 luglio 1962, n. 1002](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20in%20Atene%20il%209%20luglio%201961%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Grecia.md), che conferisce al Governo la delega ad emanare, fino alla scadenza del periodo transitorio stabilito dall'articolo 6 dell'Accordo di associazione, con decreti aventi valore di legge ordinaria, le norme necessarie a dare esecuzione agli obblighi derivanti dall'Accordo di associazione;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -40,7 +40,7 @@ Per le merci esportate verso la Grecia, che siano state ottenute con impiego par
 
 ## Art. 2.
 
-Il diritto per traffico di perfezionamento di cui al precedente articolo non si applica ai prodotti impiegati nella fabbricazione delle merci soggette al regime dello art. 15 dell'Accordo di associazione fra la Comunita' Economica Europea e la Grecia, ratificato con [legge 28 luglio 1962, n. 1002](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20in%20Atene%20il%209%20luglio%201961%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Grecia.md).
+Il diritto per traffico di perfezionamento di cui al precedente articolo non si applica ai prodotti impiegati nella fabbricazione delle merci soggette al regime dello art. 15 dell'Accordo di associazione fra la Comunita' Economica Europea e la Grecia, ratificato con [legge 28 luglio 1962, n. 1002](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20in%20Atene%20il%209%20luglio%201961%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Grecia.md).
 
 ## Art. 3.
 
@@ -58,7 +58,7 @@ Il [D.P.R. 13 dicembre 1971, n. 1436](Applicazione%20del%20diritto%20per%20il%20
 ## Art. 4.
 
 Sono ridotte del 30% le aliquote di restituzione stabilite dalla [legge 5 luglio 1964, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-07-05;639), per le merci esportate verso la Grecia con rilascio del certificato di circolazione di cui all'art. 2 della Convenzione di cooperazione amministrativa 26 settembre 1962.
- La riduzione prevista dal precedente comma non si applica alle merci soggette al regime dell'art. 15 delle Accordo di associazione fra la Comunita' Economica Europea e la Grecia, ratificato con [legge 28 luglio 1962, n. 1002](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20in%20Atene%20il%209%20luglio%201961%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Grecia.md).
+ La riduzione prevista dal precedente comma non si applica alle merci soggette al regime dell'art. 15 delle Accordo di associazione fra la Comunita' Economica Europea e la Grecia, ratificato con [legge 28 luglio 1962, n. 1002](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20in%20Atene%20il%209%20luglio%201961%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Grecia.md).
 
 ## Art. 5.
 

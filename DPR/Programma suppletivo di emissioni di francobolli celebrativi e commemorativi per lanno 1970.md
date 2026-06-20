@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'art. 21 del codice postale e delle telecomunicazioni, approvato con il [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
-Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare - parte prima), approvato con il [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
+Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare - parte prima), approvato con il [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
 
 Riconosciuta l'opportunita' di emettere le seguenti serie di francobolli: celebrativi dell'Universiade d'estate 1970; celebrativi del Rotary Club; celebrativi del 500 anniversario del volo Roma-Tokio effettuato da Arturo Ferrarin; commemorativi di Saverio Mercadante nel centenario della morte;
 

@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 14 marzo 1929, n. 426](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20del%20Regio%20istituto%20darte%20Bernardino%20di%20Betto%20annesso%20allAccademia%20di%20belle%20arti%20di%20Perugia.%20029U0426.md), che approva lo statuto dell'Istituto statale d'arte "Bernardino Betto" di Perugia;
+ Visto il [regio decreto 14 marzo 1929, n. 426](../Regi%20decreti/Approvazione%20dello%20statuto%20del%20Regio%20istituto%20darte%20Bernardino%20di%20Betto%20annesso%20allAccademia%20di%20belle%20arti%20di%20Perugia.%20029U0426.md), che approva lo statuto dell'Istituto statale d'arte "Bernardino Betto" di Perugia;
  Visto il decreto del Presidente della Repubblica in data 14 marzo 11952, n. 666;
  Considerata la necessita' di trasformare il posto di professore stabile di disegno e pittura applicata alla decorazione murale, direttore dell'officina di decorazione murale, di ceramica e del laboratorio di incisione in posto di professore stabile di arti grafiche con la direzione dei relativi laboratori;
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione;

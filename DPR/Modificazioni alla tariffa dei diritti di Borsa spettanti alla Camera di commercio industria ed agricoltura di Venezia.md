@@ -14,7 +14,7 @@ Visto il [decreto del Capo provvisorio dello Stato 6 agosto 1947, n. 851](https:
 
 Vista la deliberazione in data 27 marzo 1962, della Camera di commercio, industria ed agricoltura di Venezia, con la quale sono state proposte modificazioni alla tariffa indicata al punto b) del decreto suddetto;
 
-Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale si stabiliscono la forma e l'organo competente per la emanazione dei provvedimenti riguardanti i diritti di Borsa;
+Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale si stabiliscono la forma e l'organo competente per la emanazione dei provvedimenti riguardanti i diritti di Borsa;
 
 Sulla proposta del Ministro Segretario di Stato per il tesoro; Decreta:
 

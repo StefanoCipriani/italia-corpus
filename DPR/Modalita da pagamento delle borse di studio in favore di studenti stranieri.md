@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visti i [regi decreti 7 gennaio 1906, n. 52](../Atti%20normativi%20abrogati%20%28in%20originale%29/Facolta%20di%20emettere%20mandati%20di%20anticipazione%20a%20favore%20del%20cassiere%20del%20Ministero%20degli%20affari%20esteri.%20006U0052.md) e [20 ottobre 1924, n. 1796](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20le%20gestioni%20affidate%20ai%20consegnatari-cassieri%20delle%20Amministrazioni%20centrali.%20024U1796.md);
+Visti i [regi decreti 7 gennaio 1906, n. 52](../Regi%20decreti/Facolta%20di%20emettere%20mandati%20di%20anticipazione%20a%20favore%20del%20cassiere%20del%20Ministero%20degli%20affari%20esteri.%20006U0052.md) e [20 ottobre 1924, n. 1796](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20gestioni%20affidate%20ai%20consegnatari-cassieri%20delle%20Amministrazioni%20centrali.%20024U1796.md);
 
 Uditi i pareri del Consiglio di Stato e della Corte dei conti;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per gli affar
 
 ## Articolo unico.
 
-All'[art. 1 del regio decreto 7 gennaio 1906, n. 52](../Atti%20normativi%20abrogati%20%28in%20originale%29/Facolta%20di%20emettere%20mandati%20di%20anticipazione%20a%20favore%20del%20cassiere%20del%20Ministero%20degli%20affari%20esteri.%20006U0052.md), si aggiunge:
+All'[art. 1 del regio decreto 7 gennaio 1906, n. 52](../Regi%20decreti/Facolta%20di%20emettere%20mandati%20di%20anticipazione%20a%20favore%20del%20cassiere%20del%20Ministero%20degli%20affari%20esteri.%20006U0052.md), si aggiunge:
  "n. 10 per provvedere al pagamento delle borse di studio a favore di stranieri".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

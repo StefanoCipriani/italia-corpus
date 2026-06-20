@@ -170,7 +170,7 @@ Una commissione paritetica costituita con decreto del commissario del Governo, c
 
 2.
 
-Il relativo testo viene trasmesso al commissario del Governo e alla giunta provinciale di Bolzano per eventuali modifiche ed integrazioni. Trascorso il termine di sei mesi senza osservazioni, il testo si intende approvato.
+Il relativo testo viene trasmesso al commissario del Governo e alla giunta provinciale di Bolzano per eventuali modifiche ed integrazioni. Trascorso il termine di ((sessanta giorni)) senza osservazioni, il testo si intende approvato.
 
 3.
 
@@ -480,6 +480,22 @@ L'osservanza delle disposizioni dettate nei precedenti commi e' prescritta a pen
 
 ### Art. 20.
 
+((1. Nel processo civile ciascuna parte ha facolta' di scegliere la lingua per la redazione dei propri atti processuali. La scelta avviene per effetto della redazione nell'una o nell'altra lingua dell'atto introduttivo del giudizio o della comparsa di risposta o degli atti aventi funzione equipollente. 
+ 2.Quando l'atto introduttivo di un giudizio e la comparsa di risposta ovvero gli atti equipollenti sono redatti nella stessa lingua, il processo e' monolingue. In caso contrario il processo e' bilingue. 
+ 3. Nel processo bilingue ciascuna parte usa la lingua dalla stessa scelta. I provvedimenti del giudice sono pronunciati e redatti in entrambe le lingue, salvo che vi rinunci, entro l'udienza in cui e' richiesta l'emissione del provvedimento, la parte che vi abbia interesse. Gli atti e documenti di parte sono redatti nella lingua italiana o tedesca, senza obbligo di traduzione a cura e spese d'ufficio. Nel processo bilingue le parti non residenti o non aventi sede nella provincia di Bolzano possono, entro il termine perentorio di trenta giorni dalla comunicazione o dal deposito di atti e documenti, chiedere al giudice che siano tradotti nell'altra lingua in tutto o in parte a cura e spese dell'ufficio. Il giudice puo' escludere in tutto o in parte la traduzione di documenti depositati dalle parti, ove ritenuti manifestamente irrilevanti. 
+ 4. Se il terzo chiamato in causa, il terzo interveniente o il successore di una delle parti si costituiscono in giudizio con una comparsa redatta in lingua diversa da quella in cui fino a tale momento si e' svolto il processo, si applicano le disposizioni sul processo bilingue. 
+ 5. Il processo prosegue monolingue se tutte le parti costituite dichiarano di scegliere la stessa lingua. La dichiarazione e' fatta dalla parte o dal suo procuratore speciale in ogni stato e grado del giudizio, verbalmente in udienza o mediante atto sottoscritto e notificato alle altre parti, ed e' irrevocabile. 
+ 6. In caso di riunione di piu' processi anteriormente svoltisi come processi monolingue ma in lingue diverse, le parti costituite in uno dei processi possono aderire alla scelta della lingua dell'altro processo. La dichiarazione di adesione e' fatta dalla parte o dal suo procuratore speciale in ogni stato e grado del giudizio, verbalmente in udienza o mediante atto sottoscritto e notificato alle altre parti. La dichiarazione di adesione e' irrevocabile. 
+ 7. Nel processo bilingue le deduzioni delle parti sono verbalizzate nella lingua da esse scelta. Il verbale deve essere redatto in due lingue qualora la parte che vi abbia interesse o il suo procuratore speciale lo richieda espressamente nell'udienza stessa. 
+ 8. Gli atti ed i documenti notificati ad istanza di parte debbono essere tradotti nella lingua italiana o tedesca ove il destinatario, entro il termine perentorio di giorni quindici dalla data della notificazione, richieda la traduzione con atto da notificare alla parte istante a mezzo ufficiale giudiziario; la traduzione degli atti e dei documenti a cura di parte e' notificata entro i successivi quindici giorni, nei modi e nelle forme prescritti per l'originale.
+La richiesta di traduzione interrompe i termini che ricominciano a decorrere dalla notifica della traduzione. Tale disciplina si applica anche ai provvedimenti concessi senza preventivo contraddittorio e ai relativi ricorsi. Nei casi di eccezionale urgenza il giudice puo' autorizzare l'esecuzione provvisoria anche in pendenza del termine, su istanza di parte. 
+ 9. Gli atti e documenti in lingua tedesca notificati fuori del territorio della provincia di Bolzano devono essere accompagnati dalla traduzione in lingua italiana. 
+ 10. Nel processo monolingue e in quello bilingue i testimoni vengono interrogati e rispondono nella lingua da loro prescelta e la verbalizzazione avviene in tale lingua. Le deposizioni verbalizzate nella lingua prescelta dai testimoni sono tradotte a cura e spese dell'ufficio qualora la parte che vi abbia interesse o il suo procuratore speciale lo richieda nell'udienza stessa. 
+ 11. Nel processo monolingue e in quello bilingue il consulente tecnico usa la lingua da lui scelta. La sua relazione e' tradotta a cura e spese dell'ufficio, qualora la parte che vi abbia interesse o il suo procuratore speciale lo richieda espressamente entro il termine perentorio di trenta giorni dalla comunicazione del deposito. 
+ 12. Nel processo monolingue le sentenze e gli altri provvedimenti del giudice sono redatti nella lingua del processo. Nel processo bilingue le sentenze sono redatte nella lingua italiana e nella lingua tedesca, salvo che vi rinunci la parte che vi abbia interesse.
+Tale rinuncia deve essere formulata dalle parti o dai loro procuratori speciali entro l'udienza di precisazione delle conclusioni. Per la redazione delle sentenze e degli altri provvedimenti in forma bilingue il giudice puo' avvalersi dell'ausilio degli interpreti-traduttori addetti all'ufficio giudiziario. I termini stabiliti dalle vigenti disposizioni processuali per il deposito delle sentenze e degli altri provvedimenti da parte del giudice si intendono osservati con il deposito in cancelleria della minuta redatta in una delle due lingue.))
+                                ((6))
+
 ### Art. 20-bis.
 
 1.
@@ -719,7 +735,7 @@ Nota all'art. 35:
 Le etichette e gli stampati illustrativi delle specialita' medicinali e dei preparati galenici erogabili dal Servizio sanitario nazionale, posti o mantenuti in commercio in provincia di Bolzano, devono essere redatti congiuntamente nelle due lingue italiana e tedesca. A tal fine, per ottenere l'autorizzazione all'immissione in commercio di detti farmaci le etichette e gli stampati illustrativi devono essere redatti nelle due lingue.
 
 2. Qualora i farmaci di cui al comma 1 siano posti o mantenuti in commercio in provincia di Bolzano con etichettatura o foglio illustrativo difformi da quelli approvati dal Ministero della sanita' ai sensi del medesimo comma, il Ministro della sanita', con provvedimento motivato, intima al titolare dell'autorizzazione all'immissione in commercio l'adeguamento dell'etichettatura o del foglio illustrativo, stabilendo un termine per l'adempimento non superiore a sei mesi. In caso di mancata ottemperanza entro il termine indicato, il Ministro della sanita' sospende l'autorizzazione all'immissione in commercio del medicinale fino all'adempimento.
-Restano ferme le sanzioni previste dall'[articolo 8 del decreto legislativo 30 dicembre 1992, n. 540](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-27-CEE%20concernente%20letichettatura%20ed%20il%20foglietto%20illustrativo%20dei%20medicinali%20per%20uso%20umano.md). ))
+Restano ferme le sanzioni previste dall'[articolo 8 del decreto legislativo 30 dicembre 1992, n. 540](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-27-CEE%20concernente%20letichettatura%20ed%20il%20foglietto%20illustrativo%20dei%20medicinali%20per%20uso%20umano.md). ))
 
 ((5))
 

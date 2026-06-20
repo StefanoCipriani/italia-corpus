@@ -16,7 +16,7 @@ Viste le istanze 14 maggio 1953 e 25 ottobre 1954, con le quali, rispettivamente
 
 Viste le deliberazioni del Consiglio comunale di Azzate in data 29 ottobre 1953, n. 57, e 17 marzo 1955, n. 1, e del Consiglio provinciale di Varese in data 16 marzo 1954, n. 370 e 25 giugno 1955, n. 544, con le quali venne espresso parere in ordine alle ricostituzioni di cui trattasi;
 
-Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Vista la [legge 15 febbraio 1953, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-15;71);
 

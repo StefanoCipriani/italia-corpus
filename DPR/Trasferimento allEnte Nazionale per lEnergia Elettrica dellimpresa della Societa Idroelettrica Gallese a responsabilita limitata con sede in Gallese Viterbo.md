@@ -16,7 +16,7 @@ Visto il [decreto del Presidente della Repubblica 6 febbraio 1963, n. 36](https:
 
 Visto il [decreto del Presidente della Repubblica 25 febbraio 1963, n. 138](Norme%20relative%20agli%20indennizzi%20da%20corrispondere%20alle%20imprese%20assoggettate%20a%20trasferimento%20allEnel.md), contenente norme relative agli indennizzi da corrispondere alle imprese assoggettate a trasferimento all'ENEL;
 
-Vista la [legge 27 giugno 1964, n. 452](../Atti%20normativi%20abrogati%20%28in%20originale%29/Rinnovo%20di%20delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20relative%20allorganizzazione%20e%20al%20trattamento%20tributario%20dellEnte%20nazionale%20per%20lenergia%20elettrica%20e%20norme%20integrative%20della%20legge%206%20_d24ae857abef.md), sul rinnovo di delega al Governo per la emanazione di norme relative all'organizzazione e al trattamento tributario dell'ENEL, e norme integrative della [legge 6 dicembre 1962, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1643);
+Vista la [legge 27 giugno 1964, n. 452](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Rinnovo%20di%20delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20relative%20allorganizzazione%20e%20al%20trattamento%20tributario%20dellEnte%20nazionale%20per%20lenergia%20elettrica%20e%20norme%20integrative%20della%20legge%206%20_d24ae857abef.md), sul rinnovo di delega al Governo per la emanazione di norme relative all'organizzazione e al trattamento tributario dell'ENEL, e norme integrative della [legge 6 dicembre 1962, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1643);
 
 Visto di idoneita' tecnica espresso dalla Commissione di esperti nominata con decreto ministeriale in data 16 luglio 1964;
 
@@ -24,7 +24,7 @@ Visto l'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Ritenuto che l'impresa appartenente alla "Societa' Idroelettrica Gallese a responsabilita' limitata", con sede in Gallese (Viterbo), piazza Dante n. 11, rientra tra le Imprese previste dall'[art. 1 del decreto del Presidente della Repubblica 4 febbraio 1963, n. 36](Norme%20relative%20ai%20trasferimenti%20allEnel%20delle%20imprese%20esercenti%20le%20industrie%20elettriche.md), e dall'[art. 3 della legge 27 giugno 1964, n. 452](../Atti%20normativi%20abrogati%20%28in%20originale%29/Rinnovo%20di%20delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20relative%20allorganizzazione%20e%20al%20trattamento%20tributario%20dellEnte%20nazionale%20per%20lenergia%20elettrica%20e%20norme%20integrative%20della%20legge%206%20_d24ae857abef.md);
+Ritenuto che l'impresa appartenente alla "Societa' Idroelettrica Gallese a responsabilita' limitata", con sede in Gallese (Viterbo), piazza Dante n. 11, rientra tra le Imprese previste dall'[art. 1 del decreto del Presidente della Repubblica 4 febbraio 1963, n. 36](Norme%20relative%20ai%20trasferimenti%20allEnel%20delle%20imprese%20esercenti%20le%20industrie%20elettriche.md), e dall'[art. 3 della legge 27 giugno 1964, n. 452](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Rinnovo%20di%20delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20relative%20allorganizzazione%20e%20al%20trattamento%20tributario%20dellEnte%20nazionale%20per%20lenergia%20elettrica%20e%20norme%20integrative%20della%20legge%206%20_d24ae857abef.md);
 
 Sentito il Consiglio dei Ministri;
 

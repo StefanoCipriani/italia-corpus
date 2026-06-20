@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
-Veduto il [regio decreto 29 luglio 1937, n. 1495](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto-legge%2020%20giugno%201935%20n.%201071%20nei%20riguardi%20della%20Regia%20universita%20di%20Parma.%20037U1495.md);
+Veduto il [regio decreto 29 luglio 1937, n. 1495](../Regi%20decreti/Attuazione%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto-legge%2020%20giugno%201935%20n.%201071%20nei%20riguardi%20della%20Regia%20universita%20di%20Parma.%20037U1495.md);
 
 Veduta la [legge 30 gennaio 1941, n. 143](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20Facolta%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20nuovi%20posti%20di%20professore%20di%20ruolo%20presso%20la%20Regia%20universita%20di%20Parma.%20041U0143.md);
 
@@ -27,7 +27,7 @@ E' approvata e resa esecutiva l'annessa convenzione stipulata in Parma, addi' 21
 
 ## Art. 2.
 
-In aggiunta alle Facolta' dell'Universita' degli studi di Parma, indicate all'[art. 2 del regio decreto 29 luglio 1937, n. 1495](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto-legge%2020%20giugno%201935%20n.%201071%20nei%20riguardi%20della%20Regia%20universita%20di%20Parma.%20037U1495.md) e modificato dalla [legge 30 gennaio 1941, n. 143](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20Facolta%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20nuovi%20posti%20di%20professore%20di%20ruolo%20presso%20la%20Regia%20universita%20di%20Parma.%20041U0143.md), e' istituita la Facolta' di economia e commercio, la quale viene mantenuta, presso l'Universita' medesima con i mezzi forniti, secondo la convenzione di cui al precedente articolo, dagli enti sovventori, ed escluso, comunque, qualsiasi onere a carico del bilancio dello Stato.
+In aggiunta alle Facolta' dell'Universita' degli studi di Parma, indicate all'[art. 2 del regio decreto 29 luglio 1937, n. 1495](../Regi%20decreti/Attuazione%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto-legge%2020%20giugno%201935%20n.%201071%20nei%20riguardi%20della%20Regia%20universita%20di%20Parma.%20037U1495.md) e modificato dalla [legge 30 gennaio 1941, n. 143](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20Facolta%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20nuovi%20posti%20di%20professore%20di%20ruolo%20presso%20la%20Regia%20universita%20di%20Parma.%20041U0143.md), e' istituita la Facolta' di economia e commercio, la quale viene mantenuta, presso l'Universita' medesima con i mezzi forniti, secondo la convenzione di cui al precedente articolo, dagli enti sovventori, ed escluso, comunque, qualsiasi onere a carico del bilancio dello Stato.
 
 ## Art. 3.
 

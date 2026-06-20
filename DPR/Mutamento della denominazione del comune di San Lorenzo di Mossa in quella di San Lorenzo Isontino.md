@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Viste le deliberazioni del consiglio comunale di San Lorenzo di Mossa (Gorizia) in data 19 agosto 1960, numero 17/60 e 21 febbraio 1962, n. 1/62, con le quali e' stato chiesto che l'attuale denominazione del comune stesso sia mutata in quella di "San Lorenzo Isontino";
  Viste le deliberazioni del consiglio provinciale di Gorizia in data 1 ottobre 1960, n. 14 e 19 maggio 1962, n. 7, con le quali detto consesso ha espresso il richiesto parere;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383, nonche' l'art. 7](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md) del [decreto presidenziale 9 agosto 1966, n. 834](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20in%20materia%20di%20ordinamento%20e%20circoscrizione%20dei%20Comuni%20e%20di%20toponomastica.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383, nonche' l'art. 7](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md) del [decreto presidenziale 9 agosto 1966, n. 834](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20in%20materia%20di%20ordinamento%20e%20circoscrizione%20dei%20Comuni%20e%20di%20toponomastica.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 31 dicembre 1923, n. 3123](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20dellistruzione%20artistica.%20023U3123.md);
+Visto il [regio decreto 31 dicembre 1923, n. 3123](../Regi%20decreti/Ordinamento%20dellistruzione%20artistica.%20023U3123.md);
 
 Visto il [regio decreto 11 dicembre 1930, n. 1945](../Regi%20decreti/Norme%20per%20lordinamento%20dellistruzione%20musicale%20ed%20approvazione%20dei%20nuovi%20programmi%20di%20esame.%20030U1945.md);
 

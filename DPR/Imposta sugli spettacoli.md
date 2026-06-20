@@ -565,7 +565,7 @@ Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimen
 
 ### Art. 36. — Chiusura del locale
 
-COMMA ABROGATO DAL [D.LGS. 18 DICEMBRE 1997 N. 473](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20delle%20sanzioni%20amministrative%20in%20materia%20di%20tributi%20sugli%20affari%20sulla%20produzione%20e%20sui%20consumi%20nonche%20di%20altri%20tributi%20indiretti%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20del_35329a97d2bf.md). 
+COMMA ABROGATO DAL [D.LGS. 18 DICEMBRE 1997 N. 473](../Decreti%20Legislativi/Revisione%20delle%20sanzioni%20amministrative%20in%20materia%20di%20tributi%20sugli%20affari%20sulla%20produzione%20e%20sui%20consumi%20nonche%20di%20altri%20tributi%20indiretti%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20del_35329a97d2bf.md). 
  In caso di inosservanza dell'ordine di chiusura, il trasgressore ((e' punito con la sanzione amministrativa pecuniaria da lire ottocentomila a quattro milioni ottocentomila.))
 
 ### Art. 37. — Accertamento delle violazioni

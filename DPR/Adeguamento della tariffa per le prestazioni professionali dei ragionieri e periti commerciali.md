@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visti l'articolo unico della [legge 28 dicembre 1952, n. 3060, e l'art. 47](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20della%20facolta%20di%20provvedere%20alla%20riforma%20degli%20ordinamenti%20delle%20professioni%20di%20esercente%20in%20economia%20e%20commercio%20e%20di%20ragioniere.md) dell'ordinamento della professione di ragioniere e perito commerciale approvato con [decreto del Presidente della Repubblica 27 ottobre 1953, n. 1068](Ordinamento%20della%20professione%20di%20ragioniere%20e%20perito%20commerciale.md);
+Visti l'articolo unico della [legge 28 dicembre 1952, n. 3060, e l'art. 47](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20della%20facolta%20di%20provvedere%20alla%20riforma%20degli%20ordinamenti%20delle%20professioni%20di%20esercente%20in%20economia%20e%20commercio%20e%20di%20ragioniere.md) dell'ordinamento della professione di ragioniere e perito commerciale approvato con [decreto del Presidente della Repubblica 27 ottobre 1953, n. 1068](Ordinamento%20della%20professione%20di%20ragioniere%20e%20perito%20commerciale.md);
 
 Ritenuta la necessita' di apportare adeguamenti alla tariffa per le prestazioni professionali dei ragionieri e periti commerciali approvata con [decreto del Presidente della Repubblica 10 settembre 1974, n. 567](Tariffa%20delle%20prestazioni%20professionali%20dei%20ragionieri%20e%20periti%20commerciali.md);
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), sul riordinamento dell'istruzione industriale ed il relativo regolamento approvato con [regio decreto 3 giugno 1924, n. 969](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md);
+Visto il [regio decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), sul riordinamento dell'istruzione industriale ed il relativo regolamento approvato con [regio decreto 3 giugno 1924, n. 969](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per l'industria ed il commercio, di concerto con que
 
 ## Art. 1.
 
-Al [regio decreto 3 giugno 1924, n. 969](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), e' aggiunto il seguente art. 38-bis:
+Al [regio decreto 3 giugno 1924, n. 969](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), e' aggiunto il seguente art. 38-bis:
  "Il riscontro sulla gestione finanziaria di ciascuna Stazione sperimentale per l'industria e' effettuato da un Collegio di revisori composto di tre membri effettivi dei quali, uno designato dai Ministro per l'industria ed il commercio, uno dal Ministro per il tesoro ed uno dagli industriali del ramo, e di due supplenti designati rispettivamente dagli stessi Ministri.
  Ogni Collegio esamina, e riferisce sui progetti di bilancio preventivo e sul conto consuntivo e compie tutte le verifiche necessarie per assicurarsi del regolare andamento della gestione della Stazione al cui riscontro e' preposto.
  I componenti dei Collegi sono nominati per la durata di un triennio con decreto del Ministero per l'industria ed il commercio e possono essere confermati. Qualunque sia l'epoca in cui venga nominato il Collegio dei revisori, il triennio decorre dal 1 gennaio dell'anno durante il quale e' avvenuta la nomina. I componenti nominati in sostituzione di altri venuti a mancare per qualsiasi motivo durante il triennio, restano in carica fino alla scadenza del periodo per il quale erano stati nominati quelli che hanno sostituito.
@@ -28,7 +28,7 @@ Al [regio decreto 3 giugno 1924, n. 969](../Atti%20normativi%20abrogati%20%28in%
 
 ## Art. 2.
 
-L'[art. 39 del regio decreto 3 giugno 1924, n. 969](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), e' sostituito dal seguente:
+L'[art. 39 del regio decreto 3 giugno 1924, n. 969](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), e' sostituito dal seguente:
  "Il bilancio preventivo predisposto dal Consiglio di amministrazione viene trasmesso al Ministero dall'industria e del commercio per l'approvazione, insieme con il verbale di deliberazione del Consiglio, la giustificazione delle differenze di stanziamento in rapporto all'esercizio precedente e la relazione del Collegio dei revisori, due mesi prima dell'inizio dell'esercizio finanziario al quale si riferisce.
  Entro il 15 febbraio il conto consuntivo dell'esercizio precedente e' sottoposto al Collegio dei revisori che entro il 15 marzo presenta la relazione. Il conto consuntivo e la relazione del Collegio dei revisori sono sottoposti entro il mese di marzo al Consiglio di amministrazione che li invia con le sue deliberazioni al Ministero dell'industria e del commercio entro il mese di aprile. Con il conto consuntivo deve essere inviato un prospetto della consistenza patrimoniale e delle variazioni avvenute durante l'esercizio.
  Al conto consuntivo deve essere unita, copia del conto corrente esistente presso l'istituto cui e' affidato il servizio di cassa.
@@ -39,7 +39,7 @@ Tale copia deve essere munita del visto del direttore dell'Istituto predetto.
 
 ## Art. 3.
 
-L'[art. 40 del regio decreto 3 giugno 1924, n. 969](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), e' abrogato.
+L'[art. 40 del regio decreto 3 giugno 1924, n. 969](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), e' abrogato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

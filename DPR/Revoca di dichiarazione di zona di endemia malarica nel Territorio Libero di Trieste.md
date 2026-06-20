@@ -14,7 +14,7 @@ N.
 
 1017.
 
-Decreto del Presidente della Repubblica 30 settembre 1959, col quale, sulla proposta del Ministro per la sanita', viene revocata la dichiarazione di zona di endemia malarica contenuta nel [regio decreto 25 gennaio 1925, n. 174](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delimitazione%20delle%20zone%20malariche%20nella%20provincia%20di%20Trieste.%20025U0174.md), per il comune di Duino (ora Duino Aurisina). Per effetto di tale revoca il Territorio Libero di Trieste, allo stato attuale, non ha piu' Comuni con zone dichiarate di endemia malarica.
+Decreto del Presidente della Repubblica 30 settembre 1959, col quale, sulla proposta del Ministro per la sanita', viene revocata la dichiarazione di zona di endemia malarica contenuta nel [regio decreto 25 gennaio 1925, n. 174](../Regi%20decreti/Delimitazione%20delle%20zone%20malariche%20nella%20provincia%20di%20Trieste.%20025U0174.md), per il comune di Duino (ora Duino Aurisina). Per effetto di tale revoca il Territorio Libero di Trieste, allo stato attuale, non ha piu' Comuni con zone dichiarate di endemia malarica.
 
 Visto, il Guardasigilli: GONELLA
  Registrato alla Corte dei conti, addi' 26 novembre 1959

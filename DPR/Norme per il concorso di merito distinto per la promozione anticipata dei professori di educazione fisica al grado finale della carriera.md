@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md);
 
-Visto il [regio decreto 27 novembre 1924, n. 2367](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md);
+Visto il [regio decreto 27 novembre 1924, n. 2367](../Regi%20decreti/Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 21 aprile 1947, n. 629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-04-21;629);
 
-Visto il [decreto legislativo 7 maggio 1948, n. 1642](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20concernenti%20la%20carriera%20del%20personale%20direttivo%20ed%20insegnante%20degli%20Istituti%20di%20istruzione%20secondaria%20ed%20artistica.md);
+Visto il [decreto legislativo 7 maggio 1948, n. 1642](../Decreti%20Legislativi/Disposizioni%20concernenti%20la%20carriera%20del%20personale%20direttivo%20ed%20insegnante%20degli%20Istituti%20di%20istruzione%20secondaria%20ed%20artistica.md);
 
 Visto il [decreto Presidenziale 30 agosto 1954, n. 1234](Norme%20per%20il%20concorso%20di%20merito%20distinto%20per%20la%20promozione%20anticipata%20dei%20professori%20di%20ruolo%20in%20servizio%20presso%20gli%20istituiti%20e%20le%20scuole%20di%20istruzione%20media%20classica%20scientifica%20magistr_110b7fbba7c5.md);
 

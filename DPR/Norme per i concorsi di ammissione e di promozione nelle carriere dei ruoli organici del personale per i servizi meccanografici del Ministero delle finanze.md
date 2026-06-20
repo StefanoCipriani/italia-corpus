@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 23 marzo 1933, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), che approva il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli Uffici direttivi finanziari e successive modificazioni ed integrazioni;
+Visto il [regio decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), che approva il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli Uffici direttivi finanziari e successive modificazioni ed integrazioni;
 
 Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
 

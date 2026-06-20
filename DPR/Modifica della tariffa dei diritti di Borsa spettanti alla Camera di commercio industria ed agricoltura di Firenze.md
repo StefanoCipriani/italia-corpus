@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 27 luglio 1924, n. 1268](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20tariffe%20dei%20diritti%20di%20borsa%20per%20la%20borsa%20di%20commercio%20di%20Firenze.%20024U1268.md), con il quale venne approvata e resa esecutiva la tariffa dei diritti spettanti alla Camera di commercio, industria e agricoltura di Firenze per la quotazione ufficiale dei titoli alla Borsa valori di Firenze;
+Visto il [regio decreto 27 luglio 1924, n. 1268](../Regi%20decreti/Approvazione%20delle%20tariffe%20dei%20diritti%20di%20borsa%20per%20la%20borsa%20di%20commercio%20di%20Firenze.%20024U1268.md), con il quale venne approvata e resa esecutiva la tariffa dei diritti spettanti alla Camera di commercio, industria e agricoltura di Firenze per la quotazione ufficiale dei titoli alla Borsa valori di Firenze;
 
 Visto il [decreto del Presidente della Repubblica 17 dicembre 1953, n. 1058](Modificazione%20alla%20tariffa%20dei%20diritti%20di%20quotazione%20dei%20titoli%20in%20Borsa%20spettanti%20alla%20Camera%20di%20commercio%20industria%20ed%20agricoltura%20di%20Firenze.md), col quale vennero approvate variazioni alla tariffa suddetta;
 

@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 31 dicembre 1923, n. 3123](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20dellistruzione%20artistica.%20023U3123.md), sull'ordinamento dell'istruzione artistica;
+Visto il [regio decreto 31 dicembre 1923, n. 3123](../Regi%20decreti/Ordinamento%20dellistruzione%20artistica.%20023U3123.md), sull'ordinamento dell'istruzione artistica;
 
-Visto il [regio decreto 29 giugno 1924, n. 1239](../Atti%20normativi%20abrogati%20%28in%20originale%29/Orari%20e%20programmi%20di%20esame%20per%20i%20Regi%20licei%20artistici%20e%20le%20accademie%20di%20belle%20arti.%20024U1239.md), sugli orari e programmi di esame per i licei artistici e le accademie di belle arti;
+Visto il [regio decreto 29 giugno 1924, n. 1239](../Regi%20decreti/Orari%20e%20programmi%20di%20esame%20per%20i%20Regi%20licei%20artistici%20e%20le%20accademie%20di%20belle%20arti.%20024U1239.md), sugli orari e programmi di esame per i licei artistici e le accademie di belle arti;
 
 Visto il [regio decreto-legge 7 gennaio 1926, n. 214](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20concernenti%20lordinamento%20dellistruzione%20artistica.%20026U0214.md), che detta nuove disposizioni sull'ordinamento dell'istruzione artistica;
 

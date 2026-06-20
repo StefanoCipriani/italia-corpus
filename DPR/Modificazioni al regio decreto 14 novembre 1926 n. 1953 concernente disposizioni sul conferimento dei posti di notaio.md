@@ -22,7 +22,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 ## Art. 1.
 
-L'[art. 14 del regio decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), modificato dall'[art. 2 del regio decreto 2 maggio 1932, n. 496](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20Commissione%20esaminatrice%20dei%20concorsi%20per%20posti%20di%20notaro%20modificazioni%20al%20R.%20decreto%2014%20novembre%201926%20n.%201953.%20032U0496.md), e' sostituito dal seguente:
+L'[art. 14 del regio decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), modificato dall'[art. 2 del regio decreto 2 maggio 1932, n. 496](../Regi%20decreti/Disposizioni%20sulla%20Commissione%20esaminatrice%20dei%20concorsi%20per%20posti%20di%20notaro%20modificazioni%20al%20R.%20decreto%2014%20novembre%201926%20n.%201953.%20032U0496.md), e' sostituito dal seguente:
  "Il Ministro nomina pure un magistrato avente grado non inferiore a consigliere di Cassazione o equiparato, anche se trattenuto al Ministero di grazia e giustizia, per supplire il presidente in caso di assenza o di impedimento, e un commissario supplente per ciascun commissario effettivo tra gli appartenenti alle corrispondenti categorie.
  Il Ministro designa inoltre per le funzioni di segreteria nel numero necessario magistrati trattenuti al Ministero. L'ufficio di segreteria sara' coadiuvato da quel numero di impiegati che le necessita' del concorso richiederanno".
 

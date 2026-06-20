@@ -13,8 +13,8 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto il regio decreto 29 giugno 1579, n. 449, con il quale venne istituito l'Archivio notarile mandamentale di Loreto (distretto notarile di Ancona);
- Vista la tabella A annessa al [regio decreto 24 marzo 1923, n. 601](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riguardante%20la%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0601.md), riguardante la circoscrizione giudiziaria del Regno;
- Visto l'[art. 1 del regio decreto 24 marzo 1923, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Contenente%20norme%20processuali%20per%20lattuazione%20della%20nuova%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0602.md);
+ Vista la tabella A annessa al [regio decreto 24 marzo 1923, n. 601](../Regi%20decreti/Riguardante%20la%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0601.md), riguardante la circoscrizione giudiziaria del Regno;
+ Visto l'[art. 1 del regio decreto 24 marzo 1923, n. 602](../Regi%20decreti/Contenente%20norme%20processuali%20per%20lattuazione%20della%20nuova%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0602.md);
  Visto l'[art. 248 del regio decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md);
  Visto l'[art. 3 della legge 17 maggio 1952, n. 629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-05-17;629#art_3);
  Considerato che il comune di Loreto non e' piu' sede di mandamento;

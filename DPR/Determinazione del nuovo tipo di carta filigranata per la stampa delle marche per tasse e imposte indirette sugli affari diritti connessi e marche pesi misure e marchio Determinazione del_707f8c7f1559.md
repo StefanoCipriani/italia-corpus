@@ -18,7 +18,7 @@ Visto l'[art. 4, n. 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ist
 
 Vista la [legge 19 maggio 1954, n. 303](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allordinamento%20dellEnte%20nazionale%20per%20la%20protezione%20degli%20animali.md), concernente l'aumento dei diritti spettanti all'Ente nazionale per la protezione degli animali sulle licenze di caccia, di uccellagione e di pesca;
 
-Visto il [regio decreto 30 dicembre 1923, n. 3278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), che approva il testo di legge delle tasse sui contratti di borsa;
+Visto il [regio decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), che approva il testo di legge delle tasse sui contratti di borsa;
 
 Vista la tabella allegata al [regio decreto legislativo 14 maggio 1946, n. 420](../Regi%20decreti%20legislativi/Imposte%20in%20surrogazione%20del%20bollo%20e%20del%20registro.md), recante provvedimenti in materia di imposte in surrogazione del bollo e del registro;
 

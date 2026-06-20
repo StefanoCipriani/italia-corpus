@@ -14,7 +14,7 @@ N.
 
 305.
 
-Decreto del Presidente della Repubblica 5 aprile 1950, col quale, sulla proposta del Ministro per la difesa, viene sostituito l'art. 4 dello statuto organico della "Fondazione generale Guglielmo Calderara", approvato con [regio decreto 6 maggio 1935, n. 1007](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20della%20Fondazione%20Generale%20Guglielmo%20Calderara.%20035U1007.md) e viene aggiunto l'art. 6 al predetto statuto.
+Decreto del Presidente della Repubblica 5 aprile 1950, col quale, sulla proposta del Ministro per la difesa, viene sostituito l'art. 4 dello statuto organico della "Fondazione generale Guglielmo Calderara", approvato con [regio decreto 6 maggio 1935, n. 1007](../Regi%20decreti/Erezione%20in%20ente%20morale%20della%20Fondazione%20Generale%20Guglielmo%20Calderara.%20035U1007.md) e viene aggiunto l'art. 6 al predetto statuto.
 
 Visto, il Guardasigilli: PICCIONI
  Registrato alla Corte dei conti, addi' 1 giugno 1950

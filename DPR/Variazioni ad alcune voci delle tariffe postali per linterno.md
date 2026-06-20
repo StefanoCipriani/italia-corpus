@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli articoli 8, 18 e 19 del Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
-Visto l'[art. 3 del regio decreto 8 febbraio 1923, n. 578](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20autorizza%20il%20Ministero%20delle%20poste%20e%20telegrafi%20a%20concedere%20ad%20Agenzie%20private%20di%20corrieri%20commissionari%20e%20spedizionieri%20la%20facolta%20di%20eseguire%20per%20conto%20di%20terzi%20il%20trasporto%20e%20la%20dis_bd9dce7ff7d3.md), e successive modificazioni;
+Visto l'[art. 3 del regio decreto 8 febbraio 1923, n. 578](../Regi%20decreti/Che%20autorizza%20il%20Ministero%20delle%20poste%20e%20telegrafi%20a%20concedere%20ad%20Agenzie%20private%20di%20corrieri%20commissionari%20e%20spedizionieri%20la%20facolta%20di%20eseguire%20per%20conto%20di%20terzi%20il%20trasporto%20e%20la%20dis_bd9dce7ff7d3.md), e successive modificazioni;
 
 Visto il [decreto del Presidente della Repubblica 2 agosto 1948, n. 1052](Tariffe%20postali%20per%20linterno%20della%20Repubblica.md);
 

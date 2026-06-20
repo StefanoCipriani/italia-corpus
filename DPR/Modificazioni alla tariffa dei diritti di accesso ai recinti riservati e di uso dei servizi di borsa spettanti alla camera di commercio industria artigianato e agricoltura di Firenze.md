@@ -12,10 +12,10 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA 
  
- Visto il [regio decreto 27 luglio 1924, n. 1268](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20tariffe%20dei%20diritti%20di%20borsa%20per%20la%20borsa%20di%20commercio%20di%20Firenze.%20024U1268.md), con il quale venne approvata e resa esecutiva la tariffa dei diritti di borsa spettanti alla camera di commercio e industria di Firenze; 
+ Visto il [regio decreto 27 luglio 1924, n. 1268](../Regi%20decreti/Approvazione%20delle%20tariffe%20dei%20diritti%20di%20borsa%20per%20la%20borsa%20di%20commercio%20di%20Firenze.%20024U1268.md), con il quale venne approvata e resa esecutiva la tariffa dei diritti di borsa spettanti alla camera di commercio e industria di Firenze; 
  Vitto il [decreto del Capo provvisorio dello Stato 11 aprile 1947, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-11;346), con il quale sono state apportate variazioni alla precedente tariffa; 
  Vista la [deliberazione n. 186 del 3 aprile 1979 con cui la camera di commercio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:camera.commercio:delibera:1979-04-03;186), industria, artigianato e agricoltura di Firenze ha richiesto la modifica della tariffa dei diritti di accesso ai recinti di borsa e di uso dei servizi di borsa; 
- Visti gli articoli 32 e 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), recanti norme in materia di diritti di borsa; 
+ Visti gli articoli 32 e 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), recanti norme in materia di diritti di borsa; 
  Sulla proposta del Ministro del tesoro; 
  
  Decreta: 

@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Visto il [decreto del Presidente della Repubblica 21 febbraio 1948, n. 152](Modificazione%20alla%20tariffa%20dei%20diritti%20di%20Borsa%20spettanti%20alla%20Camera%20di%20commercio%20industria%20e%20agricoltura%20di%20Roma.md), con il quale venne approvata e resa esecutiva la tariffa dei diritti di accesso ai recinti riservati di borsa spettanti alla camera di commercio, industria e agricoltura di Roma;
  Vista la [delibera n. 433 in data 12 novembre 1976 della camera di commercio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:camera.commercio:delibera:1976-11-12;433), industria, artigianato e agricoltura di Roma, con la quale sono state proposte modificazioni alla tariffa suddetta, limitatamente agli istituti di credito;
- Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale si stabilisce la forma e l'organo competente per l'emanazione dei provvedimenti riguardanti i diritti di borsa;
+ Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale si stabilisce la forma e l'organo competente per l'emanazione dei provvedimenti riguardanti i diritti di borsa;
  Sulla proposta del Ministro del tesoro;
 
  Decreta:

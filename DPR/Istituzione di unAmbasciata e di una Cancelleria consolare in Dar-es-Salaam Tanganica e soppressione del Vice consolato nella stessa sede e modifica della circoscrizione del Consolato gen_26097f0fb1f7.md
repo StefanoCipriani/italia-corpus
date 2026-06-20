@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il regio decreto 28 gennaio 1806, n. 2804;
 
-Visto il [regio decreto 7 giugno 1866, n. 2996](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvativo%20del%20Regolamento%20per%20lesecuzione%20della%20Legge%20sullordinamento%20del%20servizio%20consolare.%20066U2996.md);
+Visto il [regio decreto 7 giugno 1866, n. 2996](../Regi%20decreti/Approvativo%20del%20Regolamento%20per%20lesecuzione%20della%20Legge%20sullordinamento%20del%20servizio%20consolare.%20066U2996.md);
 
-Visto il [regio decreto 29 novembre 1870, n. 6090](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20le%20Legazioni%20allestero%20ed%20il%20personale%20alle%20medesime%20addetto.%20070U6090.md);
+Visto il [regio decreto 29 novembre 1870, n. 6090](../Regi%20decreti/Concernente%20le%20Legazioni%20allestero%20ed%20il%20personale%20alle%20medesime%20addetto.%20070U6090.md);
 
 Visto il [decreto del Capo provvisorio dello Stato 18 aprile 1947, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-18;266), e successive modificazioni;
 

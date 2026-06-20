@@ -14,7 +14,7 @@ Viste le istanze in data 1 novembre 1957, con le quali la rispettiva maggioranza
 
 Viste le deliberazioni: del Consiglio comunale di Airasca in data 28 ottobre 1958, numeri 135 e 139, ed in data 1 marzo 1959, n. 25; del Consiglio comunale di Piscina in data 4 dicembre 1957, numeri 97 e 98; del Consiglio provinciale di Torino in data 12 ottobre 1959, n. 22-6204, con le quali e' stato espresso parere in ordine alla variazione territoriale in parola;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla Prima sezione del Consiglio di Stato nell'adunanza del 26 aprile 1960, n. 729;
 

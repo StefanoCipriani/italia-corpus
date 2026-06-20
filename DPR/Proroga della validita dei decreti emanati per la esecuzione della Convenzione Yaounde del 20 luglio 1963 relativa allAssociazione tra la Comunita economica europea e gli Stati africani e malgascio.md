@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 20 maggio 1964, n. 406](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20a%20Yaounde%20il%2020%20luglio%201963%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20economica%20europea%20e%20gli%20Stati%20Africa_1c32570b546c.md), sulla ratifica e l'esecuzione degli Accordi internazionali firmati a Yaounde' il 20 luglio 1963 e degli Atti connessi relativi alla Associazione fra la Comunita' economica europea e gli Stati africani e malgascio associati a tale Comunita';
+Vista la [legge 20 maggio 1964, n. 406](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20a%20Yaounde%20il%2020%20luglio%201963%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20economica%20europea%20e%20gli%20Stati%20Africa_1c32570b546c.md), sulla ratifica e l'esecuzione degli Accordi internazionali firmati a Yaounde' il 20 luglio 1963 e degli Atti connessi relativi alla Associazione fra la Comunita' economica europea e gli Stati africani e malgascio associati a tale Comunita';
 
 Visto il [decreto del Presidente della Repubblica 5 agosto 1966, n. 943](Nozione%20di%20prodotti%20originari%20e%20metodi%20di%20cooperazione%20amministrativa%20al%20fini%20dellapplicazione%20del%20Titolo%20I%20della%20Convenzione%20di%20Associazione%20fra%20la%20Comunita%20Economica%20Europea%20e%20gli%20Stati_d8b9d21b8ea5.md), sulla nozione di "prodotti originari", e metodi di cooperazione amministrativa ai fini della applicazione del titolo I della convenzione di associazione fra la Comunita' economica europea e gli Stati africani e malgascio;
 
@@ -24,7 +24,7 @@ Vista la tariffa dei dazi doganali di importazione della Repubblica italiana app
 
 Vista la legge doganale 25 settembre 1940, n. 1424, e successive aggiunte e varianti;
 
-Visto l'art. 3 della citata [legge 20 maggio 1964, n. 406](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20a%20Yaounde%20il%2020%20luglio%201963%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20economica%20europea%20e%20gli%20Stati%20Africa_1c32570b546c.md), che conferisce al Governo la delega ad emanare, fino alla scadenza prevista dall'art. 59 della convenzione di associazione, con decreti aventi valore di legge ordinaria, le norme necessarie a dare esecuzione agli obblighi derivanti dalla Convenzione stessa e dagli Atti connessi;
+Visto l'art. 3 della citata [legge 20 maggio 1964, n. 406](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20a%20Yaounde%20il%2020%20luglio%201963%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20economica%20europea%20e%20gli%20Stati%20Africa_1c32570b546c.md), che conferisce al Governo la delega ad emanare, fino alla scadenza prevista dall'art. 59 della convenzione di associazione, con decreti aventi valore di legge ordinaria, le norme necessarie a dare esecuzione agli obblighi derivanti dalla Convenzione stessa e dagli Atti connessi;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 

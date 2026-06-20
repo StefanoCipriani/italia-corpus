@@ -14,7 +14,7 @@ N.
 
 759.
 
-Decreto del Presidente della Repubblica 23 aprile 1952, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene revocata la dichiarazione di zona di endemia malarica contenuta nel [regio decreto 8 marzo 1903, n. 201](../Atti%20normativi%20abrogati%20%28in%20originale%29/Dichiarazione%20e%20delimitazione%20di%20zone%20malariche%20nella%20provincia%20di%20Ferrara.%20003U0201.md).
+Decreto del Presidente della Repubblica 23 aprile 1952, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene revocata la dichiarazione di zona di endemia malarica contenuta nel [regio decreto 8 marzo 1903, n. 201](../Regi%20decreti/Dichiarazione%20e%20delimitazione%20di%20zone%20malariche%20nella%20provincia%20di%20Ferrara.%20003U0201.md).
 
 Visto, il Guardasigilli: ZOLI
  Registrato atta Corte dei conti, addi' 30 giugno 1952

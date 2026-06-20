@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione tecnica;
- Vista la tabella organica dell'Istituto tecnico agrario di Catania annessa al [regio decreto 31 agosto 1933, n. 2153](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20della%20Regia%20scuola%20agraria%20media%20di%20Catania%20in%20Regio%20istituto%20tecnico%20agrario%20specializzato%20per%20la%20viticoltura%20lenologia.%20033U2153.md);
+ Vista la tabella organica dell'Istituto tecnico agrario di Catania annessa al [regio decreto 31 agosto 1933, n. 2153](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20agraria%20media%20di%20Catania%20in%20Regio%20istituto%20tecnico%20agrario%20specializzato%20per%20la%20viticoltura%20lenologia.%20033U2153.md);
  Visto il [decreto legislativo Presidenziale 27 giugno 1946, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;107);
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;
 

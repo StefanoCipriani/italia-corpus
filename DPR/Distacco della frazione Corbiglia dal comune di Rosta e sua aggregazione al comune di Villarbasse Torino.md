@@ -14,7 +14,7 @@ Viste le istanze in data 21, 23, 27 dicembre 1954 e 8 gennaio 1955, con le quali
 
 Viste le deliberazioni del Consiglio comunale di Rosta in data 4 agosto 1950, n. 15/34, ed in data 28 febbraio 1953, n. 10; del Consiglio comunale di Villarbasse in data 16 dicembre 1951, n. 26, ed in data 19 aprile 1953, n. 6; del Consiglio provinciale di Torino in data 22 maggio 1954, n. 5-4637, con le quali e' stato espresso parere in ordine alla variazione territoriale di cui trattasi;
 
-Visti gli articoli 34 e 35 dei testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 dei testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 15 giugno 1931 n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
 
-Visto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
+Visto il [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
 
-Visto il [regio decreto 24 agosto 1933, n. 2186](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20industriale%20A.%20Volta%20di%20Napoli%20in%20Regio%20istituto%20tecnico%20industriale.%20033U2186.md), con il quale viene approvato lo statuto e la tabella organica dell'Istituto tecnico industriale "A. Volta" di Napoli;
+Visto il [regio decreto 24 agosto 1933, n. 2186](../Regi%20decreti/Trasformazione%20del%20Regio%20istituto%20industriale%20A.%20Volta%20di%20Napoli%20in%20Regio%20istituto%20tecnico%20industriale.%20033U2186.md), con il quale viene approvato lo statuto e la tabella organica dell'Istituto tecnico industriale "A. Volta" di Napoli;
 
-Visto il [regio decreto 21 giugno 1942, n. 970](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20regificazione%20e%20soppressione%20di%20Regi%20istituti%20e%20Regie%20scuole%20di%20istruzione%20tecnica.%20042U0970.md), con il quale viene istituita la sezione per costruttori aeronautici presso l'istituto medesimo;
+Visto il [regio decreto 21 giugno 1942, n. 970](../Regi%20decreti/Istituzione%20regificazione%20e%20soppressione%20di%20Regi%20istituti%20e%20Regie%20scuole%20di%20istruzione%20tecnica.%20042U0970.md), con il quale viene istituita la sezione per costruttori aeronautici presso l'istituto medesimo;
 
 Ritenuta l'opportunita', di enucleare dall'Istituto tecnico "A.
 

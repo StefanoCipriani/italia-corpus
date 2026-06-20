@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
- Visto il [regio decreto 31 agosto 1933, n. 2051](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20della%20Regia%20scuola%20industriale%20Fermo%20Corni%20di%20Modena%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2051.md), riguardante tra l'altro la tabella organica della Scuola tecnica industriale di Modena;
+ Visto il [regio decreto 31 agosto 1933, n. 2051](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20industriale%20Fermo%20Corni%20di%20Modena%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2051.md), riguardante tra l'altro la tabella organica della Scuola tecnica industriale di Modena;
  Visto il [decreto luogotenenziale 12 aprile 1946, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-12;627), con il quale, fra l'altro, si provvede all'istituzione in Modena di un Istituto tecnico industriale;
  Vista la tabella D annessa al predetto decreto luogotenenziale (prospetto n. 1);
  Visto il decreto interministeriale 20 dicembre 1947, con il quale e' stata approvata la tabella organica del suddetto Istituto;

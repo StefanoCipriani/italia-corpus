@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto il testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modifiche;
 
-Veduto il [decreto-legge 7 maggio 1948, n. 1172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-05-07;1172), ratificato, con modifiche, con [legge 24 giugno 1950, n. 465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md);
+Veduto il [decreto-legge 7 maggio 1948, n. 1172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-05-07;1172), ratificato, con modifiche, con [legge 24 giugno 1950, n. 465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md);
 
 Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro; Decreta:
 
@@ -22,7 +22,7 @@ E' approvata e resa esecutiva l'annessa convenzione stipulata a Sassari il 5 ott
 
 ## Art. 2.
 
-E' istituito, ai sensi dell'art. 1 (sub [art. 13-bis) della legge 24 giugno 1950, n. 465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), un posto di assistente ordinario in aggiunta a quelli gia' assegnati alla facolta' di agraria dell'Universita' di Sassari.
+E' istituito, ai sensi dell'art. 1 (sub [art. 13-bis) della legge 24 giugno 1950, n. 465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), un posto di assistente ordinario in aggiunta a quelli gia' assegnati alla facolta' di agraria dell'Universita' di Sassari.
 
 ## Art. 3.
 

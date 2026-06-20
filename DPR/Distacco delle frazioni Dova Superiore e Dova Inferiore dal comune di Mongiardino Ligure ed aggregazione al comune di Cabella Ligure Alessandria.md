@@ -16,7 +16,7 @@ Visto il voto favorevole del Consiglio comunale di Cabella Ligure, espresso con 
 
 Viste le deliberazioni: del Consiglio comunale di Mongiardino Ligure in data 29 settembre 1946 e in data 9 marzo 1952, n. 1; della Deputazione provinciale in data 9 novembre 1946, n. 539, in data 12 febbraio 1949, n. 25 e in data 13 maggio 1950, n. 80, e del Consiglio provinciale di Alessandria in data 5 aprile 1952, n. 6, con le quali venne espresso parere in ordine alla citata istanza;
 
-Visti gli articoli 31 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 31 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

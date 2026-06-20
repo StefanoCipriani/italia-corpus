@@ -26,7 +26,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri di concerto con il Mini
 
 ## Art. 1.
 
-La paga lorda giornaliera del personale di commutazione telefonica addetto al Ministero del lavoro e della previdenza sociale, disciplinato dal [regio decreto 26 giugno 1928, n. 1838](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20relative%20allassunzione%20allo%20stato%20ed%20al%20trattamento%20del%20personale%20di%20commutazione%20telefonica%20occorrente%20al%20Ministero%20delle%20corporazioni.%20028U1838.md), e' stabilito come appresso:
+La paga lorda giornaliera del personale di commutazione telefonica addetto al Ministero del lavoro e della previdenza sociale, disciplinato dal [regio decreto 26 giugno 1928, n. 1838](../Regi%20decreti/Norme%20relative%20allassunzione%20allo%20stato%20ed%20al%20trattamento%20del%20personale%20di%20commutazione%20telefonica%20occorrente%20al%20Ministero%20delle%20corporazioni.%20028U1838.md), e' stabilito come appresso:
  iniziale.................... L. 1.200
  al 1° aumento............... L. 1.320
  al 2° aumento............... L. 1.440

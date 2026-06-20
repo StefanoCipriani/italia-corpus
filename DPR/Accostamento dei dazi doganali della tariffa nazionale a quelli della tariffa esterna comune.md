@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md);
+Vista la [legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md);
 
 Vista la [legge 7 dicembre 1952, n. 1846](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20dellautorizzazione%20al%20Governo%20di%20sospendere%20o%20ridurre%20i%20dazi%20della%20vigente%20tariffa%20doganale%20prevista%20dallart.%202%20della%20legge%2024%20dicembre%201949%20n.%20993.md);
 
@@ -20,7 +20,7 @@ Vista la [legge 6 marzo 1957, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Vista la [legge 24 luglio 1950, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-07-24;693);
 
-Vista la [legge 20 dicembre 1960, n. 1527](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20per%20accelerare%20il%20ritmo%20delle%20modificazioni%20delle%20tariffe%20doganali%20stabilite%20dal%20Trattato%20istitutivo%20della%20Comunita%20Economica%20Europea%20e%20per%20anti_4e5036d854fc.md);
+Vista la [legge 20 dicembre 1960, n. 1527](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20per%20accelerare%20il%20ritmo%20delle%20modificazioni%20delle%20tariffe%20doganali%20stabilite%20dal%20Trattato%20istitutivo%20della%20Comunita%20Economica%20Europea%20e%20per%20anti_4e5036d854fc.md);
 
 Vista la tariffa dei dazi doganali di importazione approvata con [decreto presidenziale 26 dicembre 1958, n. 1105](Nuova%20tariffa%20dei%20dazi%20doganali%20di%20importazione%20secondo%20la%20Nomenclatura%20di%20cui%20alla%20Convenzione%20firmata%20dallItalia%20a%20Bruxelles%20l11%20gennaio%201951%20ratificata%20e%20resa%20esecutiva%20con%20legge%2031%20ot_7ca06f8a0694.md);
 
@@ -32,7 +32,7 @@ Vista la [legge 5 aprile 1950, n. 295](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Vista la [legge 27 ottobre 1951, n. 1172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-10-27;1172), che da' piena ed intera esecuzione all'Accordo tariffario, concluso tra l'Italia e le Parti contraenti ed i Paesi aderenti, annesso al Protocollo di Torquay del 21 aprile 1951;
 
-Vista la [legge 14 aprile 1952, n. 560](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20italo-svizzeri%20conclusi%20a%20Berna%20il%2014%20luglio%201950%20a%20Avenant%20al%20Trattato%20di%20commercio%20fra%20la%20Svizzera%20e%20lItalia%20del%2027%20gennaio%201923%20b%20Protocollo%20di%20fir_aee455d34e26.md), che ratifica e da esecuzione agli Accordi italo-svizzeri, conclusi a Berna il 14 luglio 1950;
+Vista la [legge 14 aprile 1952, n. 560](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20Accordi%20italo-svizzeri%20conclusi%20a%20Berna%20il%2014%20luglio%201950%20a%20Avenant%20al%20Trattato%20di%20commercio%20fra%20la%20Svizzera%20e%20lItalia%20del%2027%20gennaio%201923%20b%20Protocollo%20di%20fir_aee455d34e26.md), che ratifica e da esecuzione agli Accordi italo-svizzeri, conclusi a Berna il 14 luglio 1950;
 
 Vista la [legge 31 ottobre 1952, n. 2360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-10-31;2360), che approva e da' esecuzione all'Accordo tariffario tra l'Italia e la Francia, concluso a Roma il 7 marzo 1950;
 
@@ -42,11 +42,11 @@ Vista la [legge 9 novembre 1957, n. 1164](https://www.normattiva.it/uri-res/N2Ls
 
 Vista la [legge 2 gennaio 1958, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-01-02;25), che da piena ed intera esecuzione al sesto Protocollo delle concessioni addizionali, allegato all'Accordo generale sulle tariffe doganali e sul commercio del 30 ottobre 1947 e relativi Annessi, firmato a Ginevra il 23 maggio 1956;
 
-Vista la [legge 31 ottobre 1952, n. 1976](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20seguenti%20Convenzioni%20internazionali%20firmate%20dallItalia%20a%20Bruxelles%20l11%20gennaio%201951%20Convenzione%20sulla%20nomenclatura%20per%20la%20classificazione%20delle%20merci%20nelle%20ta_7f39e6d213de.md), che ratifica e da' esecuzione alle seguenti Convenzioni internazionali firmate dall'Italia a Bruxelles l'11 gennaio 1951: Convenzione sulla Nomenclatura per la classificazione delle merci nelle tariffe doganali e relativo annesso: Convenzione sul valore in dogana delle merci e relativi Annessi; Convenzione per la creazione di un Consiglio di cooperazione doganale e relativo Annesso; Protocollo relativo al Gruppo di studi per l'Unione doganale europea;
+Vista la [legge 31 ottobre 1952, n. 1976](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20seguenti%20Convenzioni%20internazionali%20firmate%20dallItalia%20a%20Bruxelles%20l11%20gennaio%201951%20Convenzione%20sulla%20nomenclatura%20per%20la%20classificazione%20delle%20merci%20nelle%20ta_7f39e6d213de.md), che ratifica e da' esecuzione alle seguenti Convenzioni internazionali firmate dall'Italia a Bruxelles l'11 gennaio 1951: Convenzione sulla Nomenclatura per la classificazione delle merci nelle tariffe doganali e relativo annesso: Convenzione sul valore in dogana delle merci e relativi Annessi; Convenzione per la creazione di un Consiglio di cooperazione doganale e relativo Annesso; Protocollo relativo al Gruppo di studi per l'Unione doganale europea;
 
-Vista la [legge 25 aprile 1957, n. 358](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20Protocollo%20di%20rettifica%20alla%20Convenzione%20firmata%20a%20Bruxelles%20il%2015%20dicembre%201950%20sulla%20Nomenclatura%20per%20la%20classificazione%20delle%20merci%20nelle%20tariffe%20doganali%20fi_6e67ac772472.md), che ratifica e da' esecuzione al Protocollo di rettifica alla Convenzione di Bruxelles del 15 dicembre 1950 silla Nomenclatura per la classificazione delle merci nelle tariffe doganali, firmato a Bruxelles il 10 luglio 1955;
+Vista la [legge 25 aprile 1957, n. 358](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20Protocollo%20di%20rettifica%20alla%20Convenzione%20firmata%20a%20Bruxelles%20il%2015%20dicembre%201950%20sulla%20Nomenclatura%20per%20la%20classificazione%20delle%20merci%20nelle%20tariffe%20doganali%20fi_6e67ac772472.md), che ratifica e da' esecuzione al Protocollo di rettifica alla Convenzione di Bruxelles del 15 dicembre 1950 silla Nomenclatura per la classificazione delle merci nelle tariffe doganali, firmato a Bruxelles il 10 luglio 1955;
 
-Vista la [legge 25 giugno 1952, n. 766](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Parigi%20il%2018%20aprile%201951%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20del%20carbone%20e%20dellacciaio%20e%20relativi%20annessi%20b%20_535fd4357eb2.md), che ratifica e da esecuzione ai seguenti Accordi internazionali firmati a Parigi il 18 aprile 1951: Trattato che istituisce la Comunita' europea del carbone e dell'acciaio e relativi annessi; Protocollo sui privilegi e le immunita' della Comunita'; Protocollo sullo Statuto della Corte di giustizia; Protocollo sulle relazioni con il Consiglio d'Europa;
+Vista la [legge 25 giugno 1952, n. 766](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Parigi%20il%2018%20aprile%201951%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20del%20carbone%20e%20dellacciaio%20e%20relativi%20annessi%20b%20_535fd4357eb2.md), che ratifica e da esecuzione ai seguenti Accordi internazionali firmati a Parigi il 18 aprile 1951: Trattato che istituisce la Comunita' europea del carbone e dell'acciaio e relativi annessi; Protocollo sui privilegi e le immunita' della Comunita'; Protocollo sullo Statuto della Corte di giustizia; Protocollo sulle relazioni con il Consiglio d'Europa;
 
 Convenzione relativa alle disposizioni transitorie;
 
@@ -54,7 +54,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Ritenuta la necessita' di apportare alcune aggiunte e modificazioni al regime daziario temporaneo;
 
-Sentita la Commissione parlamentare, per il parere sulla nuova tariffa, dei dazi doganali, costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md) e confermata con le [leggi 7 dicembre 1952, n. 1846; 3 novembre 1954, n. 1077, 6 marzo 1957, n. 68 e 21 luglio 1959, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-21;693);
+Sentita la Commissione parlamentare, per il parere sulla nuova tariffa, dei dazi doganali, costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md) e confermata con le [leggi 7 dicembre 1952, n. 1846; 3 novembre 1954, n. 1077, 6 marzo 1957, n. 68 e 21 luglio 1959, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-21;693);
 
 Sentito il Consiglio dei Ministri;
 

@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la domanda, con la quale il sindaco di Mercatello (provincia di Pesaro-Urbino) in esecuzione della [deliberazione del Consiglio comunale n. 7 in data 21 maggio 1950](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1950-05-21;7), ha chiesto che l'attuale denominazione del Comune sia cambiata in quella di Mercatello sul Metauro;
  Visto il parere favorevole della Deputazione provinciale di Pesaro-Urbino, espresso con [deliberazione numero 4426 in data 18 luglio 1950](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1950-07-18;4426);
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro per l'interno;
 
  Decreta:

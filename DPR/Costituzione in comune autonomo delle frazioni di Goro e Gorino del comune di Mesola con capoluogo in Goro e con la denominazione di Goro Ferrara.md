@@ -14,7 +14,7 @@ Viste le istanze in data 18 aprile e 1 maggio 1960, con le quali le rispettive m
 
 Viste le deliberazioni del Consiglio comunale di Mesola in data 2 giugno 1960, n. 69, e del Consiglio provinciale di Ferrara in data 6 giugno 1961, n. 172, con le quali e' stato espresso parere in ordine alla variazione territoriale in parola;
 
-Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla Prima sezione del Consiglio di Stato nell'adunanza del 3 luglio 1962, n. 1345;
 

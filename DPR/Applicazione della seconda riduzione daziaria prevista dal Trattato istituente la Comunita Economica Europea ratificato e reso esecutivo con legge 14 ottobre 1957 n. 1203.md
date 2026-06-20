@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 14 ottobre 1957, n. 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), concernente la ratifica ed esecuzione del Trattato che istituisce la Comunita' Economica Europea ed Atti allegati, firmato a Roma il 25 marzo 1957;
+Vista la [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), concernente la ratifica ed esecuzione del Trattato che istituisce la Comunita' Economica Europea ed Atti allegati, firmato a Roma il 25 marzo 1957;
 
 Visto il [decreto del Presidente della Repubblica 29 dicembre 1958, n. 1103](Applicazione%20della%20prima%20riduzione%20daziaria%20prevista%20dal%20Trattato%20istituente%20la%20Comunita%20economica%20europea%20ratificato%20e%20reso%20esecutivo%20con%20legge%2014%20ottobre%201957%20n.%201203.md), col quale e' stata applicata la prima riduzione daziaria del 10% prevista dal Trattato che istituisce la predetta Comunita';
 

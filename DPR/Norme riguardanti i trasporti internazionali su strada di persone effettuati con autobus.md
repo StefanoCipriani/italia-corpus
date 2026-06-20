@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 13 ottobre 1969, n. 740](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md), concernente delega al Governo ad emanare provvedimenti nelle materie previste dai trattati della Comunita' economica europea (C.E.E.) e della Comunita' europea dell'energia atomica (C.E.E.A.) per la durata della terza tappa;
+Vista la [legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md), concernente delega al Governo ad emanare provvedimenti nelle materie previste dai trattati della Comunita' economica europea (C.E.E.) e della Comunita' europea dell'energia atomica (C.E.E.A.) per la durata della terza tappa;
 
 Visto il regolamento del consiglio delle Comunita' europee n. 117/66 emanato il 28 luglio 1966, concernente l'emanazione di norme comuni per i trasporti internazionali su strada di persone, effettuati con autobus;
 
 Visto il [regolamento n. 1016/68](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1968;1016) emanato dalla commissione delle Comunita' europee il 9 luglio 1968 che stabilisce i modelli dei documenti di controllo di cui agli articoli 6 e 9 del citato [regolamento n. 117/66 in data 28 luglio 1966](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1966-07-28;117);
 
-Sentita la Commissione parlamentare di cui all'[articolo 3 della legge 13 ottobre 1969, n. 740](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md);
+Sentita la Commissione parlamentare di cui all'[articolo 3 della legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -27,7 +27,7 @@ Sulla proposta del Ministro per i trasporti e l'aviazione civile, di concerto co
 ## Art. 1.
 
 Le attestazioni previste dal paragrafo 1 dell'art. 6 del regolamento n. 117/66/CEE del consiglio della Comunita' economica europea del 28 luglio 1966 per le imprese italiane che effettuino, ai sensi del citato art. 6, trasporti internazionali su strada con autobus per i propri lavoratori, vengono rilasciate dal Ministero dei trasporti e dell'aviazione civile - Direzione generale della motorizzazione civile e dei trasporti in concessione, tramite le direzioni compartimentali della motorizzazione civile e dei trasporti in concessione nel cui territorio hanno sede le imprese.
- Le attestazioni vengono rilasciate in base alle dichiarazioni fatte dalle imprese e per i veicoli immatricolati ai sensi dell'[art. 58, sesto comma, del testo unico delle norme sulla circolazione](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md).
+ Le attestazioni vengono rilasciate in base alle dichiarazioni fatte dalle imprese e per i veicoli immatricolati ai sensi dell'[art. 58, sesto comma, del testo unico delle norme sulla circolazione](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md).
  Esse sono valide sull'intero percorso, compresi i tratti in transito, ed hanno la durata massima di un anno.
  In caso di necessita' vengono rinnovate ogni volta per lo stesso periodo, su richiesta degli interessati.
 

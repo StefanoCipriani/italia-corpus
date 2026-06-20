@@ -26,7 +26,7 @@ Sulla proposta del Ministro per le finanze, di con certo con il Ministro per il 
 
 ## Art. 1.
 
-La misura, delle indennita' fissate dalla tabella annessa al regolamento per l'amministrazione e la erogazione del Fondo di previdenza a favore del personale delle imposte di fabbricazione e dei laboratori chimici delle dogane, approvato con [regio decreto 28 novembre 1940, n. 1768](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20erogazione%20del%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20servizi%20delle%20imposte%20di%20fabbricazione.%20040U1768.md), e' aumentata di tre volte dal 1 gennaio 1947 al 30 giugno 1948 e di otto volte dal 1 luglio 1948.
+La misura, delle indennita' fissate dalla tabella annessa al regolamento per l'amministrazione e la erogazione del Fondo di previdenza a favore del personale delle imposte di fabbricazione e dei laboratori chimici delle dogane, approvato con [regio decreto 28 novembre 1940, n. 1768](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20erogazione%20del%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20servizi%20delle%20imposte%20di%20fabbricazione.%20040U1768.md), e' aumentata di tre volte dal 1 gennaio 1947 al 30 giugno 1948 e di otto volte dal 1 luglio 1948.
 
 ## Art. 2.
 

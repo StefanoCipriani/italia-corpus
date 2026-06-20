@@ -14,7 +14,7 @@ N.
 
 1027.
 
-Decreto del Presidente della Repubblica 23 aprile 1952, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene revocata la dichiarazione di zona di endemia malarica contenuta nel [regio decreto 1 agosto 1904, n. 477](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20sono%20dichiarate%20zone%20malariche%20talune%20porzioni%20di%20territori%20nella%20provincia%20di%20Venezia.%20004U0477.md) e nel [decreto luogotenenziale 31 maggio 1917, n. 1061](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-31;1061).
+Decreto del Presidente della Repubblica 23 aprile 1952, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene revocata la dichiarazione di zona di endemia malarica contenuta nel [regio decreto 1 agosto 1904, n. 477](../Regi%20decreti/Col%20quale%20sono%20dichiarate%20zone%20malariche%20talune%20porzioni%20di%20territori%20nella%20provincia%20di%20Venezia.%20004U0477.md) e nel [decreto luogotenenziale 31 maggio 1917, n. 1061](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-31;1061).
 
 Visto, il Guardasigilli: ZOLI
  Registrato alla Corte dei conti, addi' 9 luglio 1952

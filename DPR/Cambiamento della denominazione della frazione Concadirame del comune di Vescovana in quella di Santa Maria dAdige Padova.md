@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Viste le deliberazioni del Consiglio comunale di Vescovana 27 febbraio 1954, n. 3 e 30 luglio 1955, n. 50, con le quali e' stato chiesto che la denominazione della frazione "Concadirame" venga cambiata in quella di "Santa Maria d'Adige";
  Viste le deliberazioni del Consiglio provinciale di Padova 26 ottobre 1954, n. 3202 e 10 ottobre 1955, n. 9381, con le quali e' stato espresso parere in ordine alla citata richiesta;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvata con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvata con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

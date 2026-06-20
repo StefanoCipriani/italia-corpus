@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 21 gennaio 1904, n. 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20da%20piena%20ed%20intera%20esecuzione%20alla%20convenzione%20conclusa%20tra%20lItalia%20e%20la%20Svizzera%20per%20il%20trasferimento%20alla%20Confederazione%20elvetica%20della%20costruzione%20e%20dellesercizio%20della%20linea%20ferro_f324600aa6c0.md);
 
-Visto il [regio decreto 1 dicembre 1904, n. 684](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nomina%20dei%20componenti%20la%20rappresentanza%20italiana%20nella%20Delegazione%20internazionale%20speciale%20per%20la%20ferrovia%20del%20Sempione.%20004U0684.md);
+Visto il [regio decreto 1 dicembre 1904, n. 684](../Regi%20decreti/Nomina%20dei%20componenti%20la%20rappresentanza%20italiana%20nella%20Delegazione%20internazionale%20speciale%20per%20la%20ferrovia%20del%20Sempione.%20004U0684.md);
 
 Visto il [decreto luogotenenziale 16 novembre 1945, n. 758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-16;758), col quale veniva ricostituita la rappresentanza italiana nella delegazione internazionale speciale per gli affari relativi alla ferrovia del Sempione;
 

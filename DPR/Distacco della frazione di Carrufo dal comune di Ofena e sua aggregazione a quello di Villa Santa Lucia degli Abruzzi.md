@@ -16,7 +16,7 @@ Visti i voti favorevoli della Giunta e del Consiglio comunale di Villa Santa Luc
 
 Viste le [deliberazioni in data 19 gennaio 1947, n. 1, del Consiglio comunale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1947-01-19;1) di Ofena e in data 1 febbraio 1947, n. 21, della Deputazione provinciale di L'Aquila concernenti il rispettivo parere in ordine alla citata istanza;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

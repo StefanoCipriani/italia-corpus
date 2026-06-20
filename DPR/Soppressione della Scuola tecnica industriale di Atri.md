@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
 
-Veduto il [regio decreto 28 settembre 1933, n. 2009](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20laboratorio-scuola%20di%20Atri%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20ed%20artigiano.%20033U2009.md), riguardante l'istituzione della Scuola tecnica industriale di Atri;
+Veduto il [regio decreto 28 settembre 1933, n. 2009](../Regi%20decreti/Trasformazione%20del%20Regio%20laboratorio-scuola%20di%20Atri%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20ed%20artigiano.%20033U2009.md), riguardante l'istituzione della Scuola tecnica industriale di Atri;
 
 Considerato che la Scuola predetta ha cessato di funzionare di fatto dal 1 ottobre 1965;
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
-Visto il [regio decreto 19 luglio 1941, n. 1198](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md), e successive modifiche;
+Visto il [regio decreto 19 luglio 1941, n. 1198](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md), e successive modifiche;
 
 Vista la convenzione stipulata il 21 ottobre 1964 fra il Ministero delle poste e delle telecomunicazioni e la SIP - Societa' italiana per l'esercizio telefonico p.a., approvata con [decreto del Presidente della Repubblica 26 ottobre 1964, n. 1594](Approvazione%20della%20convenzione%20tra%20il%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni%20e%20la%20S.P%20-%20Societa%20per%20italiana%20per%20lesercizio%20telefonico%20p.%20a.%20per%20la%20concessione%20di%20servizi%20telefon_dd4cf54c1ff0.md), e successive modifiche e integrazioni;
 

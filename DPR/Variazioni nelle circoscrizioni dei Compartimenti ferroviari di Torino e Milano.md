@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA.
 
 Vista la [legge 7 luglio 1907, n. 429](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), concernente l'ordinamento dell'esercizio di Stato delle ferrovie non concesse ad imprese private;
 
-Visto il [regio decreto 28 giugno 1912, n. 728](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), concernente modificazioni alle leggi riguardanti le ferrovie dello Stato, e successive modificazioni ed integrazioni;
+Visto il [regio decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), concernente modificazioni alle leggi riguardanti le ferrovie dello Stato, e successive modificazioni ed integrazioni;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 

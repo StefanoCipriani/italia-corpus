@@ -14,7 +14,7 @@ N.
 
 530.
 
-Decreto del Presidente della Repubblica 16 giugno 1983, col quale, sulla proposta del Ministro della pubblica istruzione, le scuole di pianoforte, violino, violoncello, clarinetto, tromba e trombone istituite presso l'istituto musicale comunale "Giuseppe e Luigi Malerbi" di Lugo, via Emaldi, 51, gestito dal comune di Lugo (Ravenna), vengono pareggiate, ai sensi del [regio decreto 15 maggio 1930, n. 1170](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20pareggiamento%20degli%20Istituti%20musicali.%20030U1170.md), ai conservatori di musica statali, con decorrenza giuridica dall'anno scolastico 1983-84.
+Decreto del Presidente della Repubblica 16 giugno 1983, col quale, sulla proposta del Ministro della pubblica istruzione, le scuole di pianoforte, violino, violoncello, clarinetto, tromba e trombone istituite presso l'istituto musicale comunale "Giuseppe e Luigi Malerbi" di Lugo, via Emaldi, 51, gestito dal comune di Lugo (Ravenna), vengono pareggiate, ai sensi del [regio decreto 15 maggio 1930, n. 1170](../Regi%20decreti/Norme%20per%20il%20pareggiamento%20degli%20Istituti%20musicali.%20030U1170.md), ai conservatori di musica statali, con decorrenza giuridica dall'anno scolastico 1983-84.
 
 Visto, il Guardasigilli: DARIDA
  Registrato alla Corte dei conti, addi' 28 settembre 1983

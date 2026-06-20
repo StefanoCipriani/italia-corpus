@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), e successive modificazioni;
 
-Visto il [regio decreto 19 luglio 1941, n. 1198](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md);
+Visto il [regio decreto 19 luglio 1941, n. 1198](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md);
 
 Vista la convenzione stipulata il 21 ottobre 1964 con la SIP - Societa' italiana per l'esercizio telefonico p. a., per la concessione di servizi telefonici ad uso pubblico, approvata con [decreto del Presidente della Repubblica 26 ottobre 1964, n. 1594](Approvazione%20della%20convenzione%20tra%20il%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni%20e%20la%20S.P%20-%20Societa%20per%20italiana%20per%20lesercizio%20telefonico%20p.%20a.%20per%20la%20concessione%20di%20servizi%20telefon_dd4cf54c1ff0.md);
 
@@ -117,7 +117,7 @@ Quando una conversazione tramite operatrice non ha luogo perche', al momento in 
 ## Art. 11.
 
 Per l'invio di un preavviso telefonico, destinato a prefissare una conversazione con un abbonato, il richiedente dovra' pagare un importo pari a L. 125.
- Per l'invio di un avviso telefonico, destinato a prefissare una conversazione con una persona non abbonata al telefono, e' dovuta, oltre a quanto indicato nel precedente comma, la tassa di recapito dell'avviso per espresso al domicilio indicato, prevista dall'[art. 1 del decreto luogotenenziale 2 aprile 1946, n. 392](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alle%20tasse%20di%20recapito%20degli%20avvisi%20telefonici.md).
+ Per l'invio di un avviso telefonico, destinato a prefissare una conversazione con una persona non abbonata al telefono, e' dovuta, oltre a quanto indicato nel precedente comma, la tassa di recapito dell'avviso per espresso al domicilio indicato, prevista dall'[art. 1 del decreto luogotenenziale 2 aprile 1946, n. 392](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20tasse%20di%20recapito%20degli%20avvisi%20telefonici.md).
 
 ## Art. 12.
 

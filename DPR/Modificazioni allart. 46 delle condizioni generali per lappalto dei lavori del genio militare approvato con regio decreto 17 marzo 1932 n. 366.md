@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 17 marzo 1932, n. 366](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20condizioni%20generali%20per%20lappalto%20dei%20lavori%20del%20genio%20militare.%20032U0366.md), concernente approvazione delle condizioni generali per l'appalto dei lavori del genio militare;
+Visto il [regio decreto 17 marzo 1932, n. 366](../Regi%20decreti/Approvazione%20delle%20condizioni%20generali%20per%20lappalto%20dei%20lavori%20del%20genio%20militare.%20032U0366.md), concernente approvazione delle condizioni generali per l'appalto dei lavori del genio militare;
 
 Sentito il Consiglio superiore delle Forze armate;
 
@@ -28,7 +28,7 @@ EMANA il seguente decreto:
 
 1.
 
-Il primo comma dell'art. 46 delle condizioni generali per l'appalto dei lavori del genio militare, approvato con [regio decreto 17 marzo 1932, n. 366](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20condizioni%20generali%20per%20lappalto%20dei%20lavori%20del%20genio%20militare.%20032U0366.md), e' sostituito dal seguente:
+Il primo comma dell'art. 46 delle condizioni generali per l'appalto dei lavori del genio militare, approvato con [regio decreto 17 marzo 1932, n. 366](../Regi%20decreti/Approvazione%20delle%20condizioni%20generali%20per%20lappalto%20dei%20lavori%20del%20genio%20militare.%20032U0366.md), e' sostituito dal seguente:
  "Tutti gli interessi da ritardo sono interessi di mora comprensivi del risarcimento del danno ai sensi dell'[art. 1224, secondo comma, del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1224-com2)".
 
 2.

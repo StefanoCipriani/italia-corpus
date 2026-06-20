@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto-legge 8 febbraio 1923, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-02-08;501), concernente disposizioni per l'industria delle conserve alimentari preparate con sostanze vegetali;
 
-Visto il [regio decreto 31 agosto 1928, n. 2126](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20funzionamento%20dellIstituto%20nazionale%20per%20le%20conserve%20alimentari%20e%20della%20Regia%20stazione%20sperimentale%20per%20lindustria%20delle%20conserve%20alimentari.%20028U2126.md), contenente norme per il funzionamento dell'Istituto nazionale per le conserve alimentari e della regia Stazione sperimentale per l'industria delle conserve alimentari Udito il parere del Consiglio di Stato;
+Visto il [regio decreto 31 agosto 1928, n. 2126](../Regi%20decreti/Norme%20per%20il%20funzionamento%20dellIstituto%20nazionale%20per%20le%20conserve%20alimentari%20e%20della%20Regia%20stazione%20sperimentale%20per%20lindustria%20delle%20conserve%20alimentari.%20028U2126.md), contenente norme per il funzionamento dell'Istituto nazionale per le conserve alimentari e della regia Stazione sperimentale per l'industria delle conserve alimentari Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
@@ -114,7 +114,7 @@ Il collegio dei revisori e' nominato con decreto del Ministro dell'industria, de
 
 ## Art. 9.
 
-Sono abrogati gli articoli 4, 5, comma primo, 6, 7, comma primo, 8, 11, [comma primo, e art. 17 del regio decreto 31 agosto 1928, n. 2126](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20funzionamento%20dellIstituto%20nazionale%20per%20le%20conserve%20alimentari%20e%20della%20Regia%20stazione%20sperimentale%20per%20lindustria%20delle%20conserve%20alimentari.%20028U2126.md).
+Sono abrogati gli articoli 4, 5, comma primo, 6, 7, comma primo, 8, 11, [comma primo, e art. 17 del regio decreto 31 agosto 1928, n. 2126](../Regi%20decreti/Norme%20per%20il%20funzionamento%20dellIstituto%20nazionale%20per%20le%20conserve%20alimentari%20e%20della%20Regia%20stazione%20sperimentale%20per%20lindustria%20delle%20conserve%20alimentari.%20028U2126.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 25 marzo 1986, n. 73](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20concernenti%20laumento%20o%20la%20riduzione%20dellimposta%20di%20fabbricazione%20sui%20prodotti%20petroliferi%20con%20riferimento%20alla%20riduzione%20o%20allaumento%20dei%20prez_dfeb1cfba41a.md), recante delega al Governo per la emanazione di norme concernenti l'aumento o la riduzione dell'imposta di fabbricazione sui prodotti petroliferi con riferimento alla riduzione o all'aumento dei prezzi medi europei di tali prodotti;
+Vista la [legge 25 marzo 1986, n. 73](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20concernenti%20laumento%20o%20la%20riduzione%20dellimposta%20di%20fabbricazione%20sui%20prodotti%20petroliferi%20con%20riferimento%20alla%20riduzione%20o%20allaumento%20dei%20prez_dfeb1cfba41a.md), recante delega al Governo per la emanazione di norme concernenti l'aumento o la riduzione dell'imposta di fabbricazione sui prodotti petroliferi con riferimento alla riduzione o all'aumento dei prezzi medi europei di tali prodotti;
 
 Vista la comunicazione della segreteria del Comitato interministeriale prezzi in data 27 maggio 1986, concernente la variazione dei prezzi medi europei sui prodotti petroliferi;
 
@@ -46,7 +46,7 @@ A partire dal 31 maggio 1986, l'imposta di fabbricazione e la corrispondente sov
 
 1.
 
-Alle minori entrate derivanti dall'attuazione del presente decreto, valutate in lire 42 miliardi per l'anno 1986, si provvede a valere sulle maggiori entrate derivanti per l'anno medesimo dall'attuazione dei decreti del Presidente della Repubblica emanati alla data del presente decreto in forza della [legge 25 marzo 1986, n. 73](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20concernenti%20laumento%20o%20la%20riduzione%20dellimposta%20di%20fabbricazione%20sui%20prodotti%20petroliferi%20con%20riferimento%20alla%20riduzione%20o%20allaumento%20dei%20prez_dfeb1cfba41a.md).
+Alle minori entrate derivanti dall'attuazione del presente decreto, valutate in lire 42 miliardi per l'anno 1986, si provvede a valere sulle maggiori entrate derivanti per l'anno medesimo dall'attuazione dei decreti del Presidente della Repubblica emanati alla data del presente decreto in forza della [legge 25 marzo 1986, n. 73](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20concernenti%20laumento%20o%20la%20riduzione%20dellimposta%20di%20fabbricazione%20sui%20prodotti%20petroliferi%20con%20riferimento%20alla%20riduzione%20o%20allaumento%20dei%20prez_dfeb1cfba41a.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

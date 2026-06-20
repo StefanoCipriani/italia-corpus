@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la domanda in data 4 gennaio 1950, con la quale il sindaco di Petescia (provincia di Rieti) in esecuzione della [deliberazione del Consiglio comunale n. 23 in data 24 settembre 1949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1949-09-24;23), ha chiesto che l'attuale denominazione del Comune sia cambiata in quella di "Turania";
  Visto il parere favorevole della Deputazione provinciale di Rieti, espresso con [deliberazione n. 606 in data 16 novembre 1949](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1949-11-16;606);
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro per l'interno;
 
  Decreta:

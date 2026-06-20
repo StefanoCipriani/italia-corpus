@@ -16,7 +16,7 @@ Visti i pareri espressi dal Consiglio comunale di Sant'Elpidio a Mare e dalla De
 
 Udito il parere del Consiglio di Stato - Sezione I - in data 10 ottobre 1950, le cui considerazioni si intendono nel presente decreto riportate;
 
-Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Sulla proposta del Ministro per l'interno; Decreta:
 

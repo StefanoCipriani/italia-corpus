@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto legislativo 7 maggio 1948, n. 810](../Atti%20normativi%20abrogati%20%28in%20originale%29/Collocamento%20in%20ausiliaria%20e%20dispensa%20dal%20servizio%20a%20domanda%20o%20dautorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20dellAeronautica.md);
+Visto il [decreto legislativo 7 maggio 1948, n. 810](../Decreti%20Legislativi/Collocamento%20in%20ausiliaria%20e%20dispensa%20dal%20servizio%20a%20domanda%20o%20dautorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20dellAeronautica.md);
 
 Visto il [decreto del Presidente della Repubblica 27 dicembre 1948, n. 1693](Aliquota%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20dellAeronautica%20da%20collocare%20in%20ausiliaria%20o%20da%20dispensare%20dal%20servizio%20in%20applicazione%20del%20decreto%20legislativo%207%20maggio%201948%20n.%20810.md);
 

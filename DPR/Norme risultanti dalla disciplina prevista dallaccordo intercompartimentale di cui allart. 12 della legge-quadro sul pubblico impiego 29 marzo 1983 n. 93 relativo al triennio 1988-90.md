@@ -312,7 +312,7 @@ Diverse intese intervenute tra le organizzazioni sindacali sulla ripartizione de
 
  
 AGGIORNAMENTO (1) 
- Il [D.P.R. 27 ottobre 1994, n. 770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-10-27;770) ha disposto (con l'art. 6, comma 8) che per effetto dell'[art. 54, comma 5, del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, dalla data di entrata in vigore del presente regolamento cessa di aver efficacia il presente articolo.
+ Il [D.P.R. 27 ottobre 1994, n. 770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-10-27;770) ha disposto (con l'art. 6, comma 8) che per effetto dell'[art. 54, comma 5, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, dalla data di entrata in vigore del presente regolamento cessa di aver efficacia il presente articolo.
 
 ## Art. 10. — Norme di garanzia del funzionamento
  dei servizi pubblici essenziali

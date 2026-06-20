@@ -15,7 +15,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Vista la [deliberazione n. 22 dell'11 marzo 1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1968-03-11;22), con la quale il consiglio comunale di Chies d'Alpago (Belluno) ha chiesto che alle due frazioni di Montanes e Pedol sia attribuita la nuova ed unica denominazione di "S. Martino d'Alpago", nella considerazione che le frazioni stesse costituiscono ora un solo agglomerato;
  Vista la [deliberazione n. 20/536 del 27 luglio 1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1968-07-27;536), con la quale il consiglio provinciale di Belluno ha espresso parere favorevole in merito al proposto cambio di denominazione;
  Considerate le ragioni addotte a sostegno della richiesta ed illustrate nella deliberazione del comune;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Viste le [leggi 11 marzo 1953, n. 150 e 18 giugno 1954, n. 343](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20del%20termine%20previsto%20dagli%20articoli%201%20e%208%20della%20legge%2011%20marzo%201953%20n.%20150%20per%20la%20delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20di%20interesse%20esclusivamente%20l_8fb8bdc361e6.md), concernenti delega legislativa al Governo per l'attribuzione di funzioni statali di interesse esclusivamente locale alle Province, ai Comuni e ad altri Enti locali e per l'attuazione del decentramento amministrativo;
+Viste le [leggi 11 marzo 1953, n. 150 e 18 giugno 1954, n. 343](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20del%20termine%20previsto%20dagli%20articoli%201%20e%208%20della%20legge%2011%20marzo%201953%20n.%20150%20per%20la%20delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20di%20interesse%20esclusivamente%20l_8fb8bdc361e6.md), concernenti delega legislativa al Governo per l'attribuzione di funzioni statali di interesse esclusivamente locale alle Province, ai Comuni e ad altri Enti locali e per l'attuazione del decentramento amministrativo;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Udito il parere della Commissione consultiva istituita con l'[art. 2 della legge 11 marzo 1953, n. 150](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20dinteresse%20esclusivamente%20locale%20alle%20Province%20ai%20Comuni%20e%20ad%20altri%20Enti%20locali%20e%20per%20lattuazione%20del%20decentramento%20amministrativo.md);
+Udito il parere della Commissione consultiva istituita con l'[art. 2 della legge 11 marzo 1953, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20dinteresse%20esclusivamente%20locale%20alle%20Province%20ai%20Comuni%20e%20ad%20altri%20Enti%20locali%20e%20per%20lattuazione%20del%20decentramento%20amministrativo.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -318,34 +318,34 @@ TITOLO IV
 
 ### Art. 30.
 
-Il primo comma dell'art. 1 del regolamento per la esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
+Il primo comma dell'art. 1 del regolamento per la esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Regi%20decreti/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
  "Quando per lo studio preliminare di un progetto di impianto di via funicolare aerea privata occorra introdursi nei fondi altrui e non sia intervenuto il consenso dei proprietari, chi intende stabilire la funicolare puo' ottenere dal prefetto della Provincia in cui sono situati i fondi da attraversare l'autorizzazione per l'accesso ai fondi stessi. Ove l'impianto che si intenda costruire debba svolgersi integralmente nel territorio di un solo Comune, la autorizzazione viene rilasciata dal sindaco del Comune stesso, quale ufficiale del Governo".
 
 ### Art. 31.
 
-Il primo comma dell'art. 2 del regolamento per la esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
+Il primo comma dell'art. 2 del regolamento per la esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Regi%20decreti/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
  "Il prefetto o il sindaco del Comune, quale ufficiale del Governo, nei casi di rispettiva competenza, riconosciuta la legittimita' della domanda, autorizza con apposito provvedimento il richiedente ad introdursi nei fondi da attraversare per lo studio del progetto".
 
 ### Art. 32.
 
-L'ultimo comma dell'art. 3 del regolamento per la esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
+L'ultimo comma dell'art. 3 del regolamento per la esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Regi%20decreti/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
  "Per assicurare il pagamento delle indennita', il prefetto o il sindaco del Comune, nei casi di rispettiva competenza, puo' prescrivere al richiedente il deposito di una congrua somma".
 
 ### Art. 33.
 
-L'art. 4 del regolamento per la esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
+L'art. 4 del regolamento per la esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Regi%20decreti/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
  "L'autorizzazione all'impianto di una funicolare e' accordata:
  a) dal presidente della Giunta provinciale o dal sindaco del comune, a seconda che l'impianto si svolga integralmente nel territorio della Provincia o del Comune;
  b) dal presidente della Giunta provinciale della Provincia nel cui territorio in modo prevalente si svolga l'impianto, in ogni altro caso".
 
 ### Art. 34.
 
-Il secondo comma dell'art. 6 del regolamento per l'esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
+Il secondo comma dell'art. 6 del regolamento per l'esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Regi%20decreti/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
  "La domanda ed i documenti, a seconda della competenza, restano depositati e pubblicati per quindici giorni, a partire dalla data dell'avviso di cui sopra, presso la Provincia o il Comune, affinche' gli interessati possano prenderne conoscenza e presentare, entro quindici giorni dalla pubblicazione della domanda, i relativi rilievi".
 
 ### Art. 35.
 
-L'art. 7 del regolamento per l'esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dai seguente:
+L'art. 7 del regolamento per l'esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Regi%20decreti/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dai seguente:
  "Ove nel termine stabilito dall'articolo precedente non sia stato prodotto alcun reclamo, e quando sia stata corrisposta l'indennita' per l'imposizione della servitu', il presidente della Giunta provinciale o il sindaco del Comune, nei casi di rispettiva competenza, riconosciuto che nessuna ragione di interesse pubblico si oppone alla esecuzione dell'opera, rilascia la licenza dell'impianto sotto l'osservanza delle condizioni necessarie alla tutela della pubblica incolumita' e prefiggendo un termine per il compimento dei lavori.
  In caso di contestazione sull'ammontare dell'indennita', se nulla osta all'attuazione dell'impianto nei riguardi della pubblica incolumita', il presidente della giunta provinciale o il sindaco rimette le parti innanzi al pretore per gli ulteriori provvedimenti determinati dall'art. 9 della legge.
  Se, invece, la contestazione cade sulla modalita' dell'impianto e dell'occupazione, il presidente della Giunta provinciale o il sindaco, sentiti l'ufficio delle miniere ove occorra, e le Amministrazioni che hanno la tutela delle opere ed acque pubbliche attraversate, esamina i reclami, e, ove li riconosca non fondati, autorizza la esecuzione dei lavori, salva ogni azione che gli interessati credano di esperimentare a difesa dei propri diritti.
@@ -353,17 +353,17 @@ L'art. 7 del regolamento per l'esecuzione della [legge 13 giugno 1907, n. 403](h
 
 ### Art. 36.
 
-L'ultima parte del primo comma dell'art. 10 del regolamento per l'esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
+L'ultima parte del primo comma dell'art. 10 del regolamento per l'esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Regi%20decreti/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
  "Il presidente della Giunta provinciale o il sindaco del Comune, nei casi di rispettiva competenza, comunica tali disegni particolareggiati alle Amministrazioni che hanno la tutela e l'esercizio di dette opere ed acque per gli eventuali rilievi e per la determinazione delle condizioni da prescrivere".
 
 ### Art. 37.
 
-Il secondo comma dell'art. 11 del regolamento per l'esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
+Il secondo comma dell'art. 11 del regolamento per l'esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Regi%20decreti/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
  "Quando i provvedimenti di sicurezza, adottati dall'utente della funicolare non appariscano sufficienti allo scopo il presidente della Giunta provinciale o il sindaco del Comune, a seconda della competenza, di sua iniziativa o in seguito a reclami degli interessati, puo' ordinare la esecuzione di quelle opere o prescrivere quelle altre modalita' di esercizio che creda all'uopo necessarie".
 
 ### Art. 38.
 
-L'art. 14 del regolamento per l'esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente: 
+L'art. 14 del regolamento per l'esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Regi%20decreti/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente: 
  "Eseguito l'impianto, il richiedente deve dare notizia dell'avvenuto compimento dei lavori all'autorita' che rilascio' l'autorizzazione, alle Amministrazioni che hanno la tutela delle opere pubbliche eventualmente interessate ed, in ogni caso, ai sindaci dei Comuni nel cui territorio si svolge la funicolare, i quali ultimi ne daranno notizia agli interessati mediante pubblicazione sull'albo pretorio. Entro quindici giorni dalla pubblicazione gli interessati sono ammessi a presentare i loro rilievi sul modo come l'opera e' stata eseguita. 
  Se entro tale termine non siano stati prodotti reclami e se entro trenta giorni dalla denuncia il presidente della Giunta provinciale o il sindaco del Comune, a seconda della competenza, non emette alcun provvedimento, il richiedente puo' senz'altro intraprendere l'esercizio. 
  Tuttavia e' sempre richiesta un'espressa licenza di esercizio da rilasciarsi dal presidente della Giunta provinciale o dal Sindaco quando la funicolare interessi corsi d'acqua, strade, ferrovie, tramvie ed altre opere pubbliche. 
@@ -371,22 +371,22 @@ L'art. 14 del regolamento per l'esecuzione della [legge 13 giugno 1907, n. 403](
 
 ### Art. 39.
 
-Il primo comma dell'art. 15 del regolamento per l'esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
+Il primo comma dell'art. 15 del regolamento per l'esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Regi%20decreti/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
  "Chi ha il diritto di usare una funicolare non puo' servirsene che per il trasporto dei prodotti dei propri fondi o delle proprie industrie. Tuttavia egli puo' associare all'esercizio altri utenti per il trasporto di prodotti similari, previa denuncia al presidente della Giunta provinciale o al sindaco del Comune, a seconda della competenza, eseguendo le maggiori opere di protezione che fossero necessarie a tutela della pubblica incolumita', e corrispondendo le altre indennita' che potessero spettare ai proprietari dei fondi servienti in caso che ne risultasse maggiore aggravio".
 
 ### Art. 40.
 
-L'art. 16 del regolamento per l'esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
+L'art. 16 del regolamento per l'esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Regi%20decreti/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
  "Salva l'osservanza delle vigenti disposizioni in materia di rapporti fra l'utente ed i proprietari dei fondi servienti, il presidente della Giunta provinciale o il sindaco del Comune, nei casi di rispettiva competenza, sui richiesta delle Amministrazioni pubbliche interessate, puo' sempre ordinare modificazioni e spostamenti degli impianti funicolari per ragioni di pubblico servizio".
 
 ### Art. 41.
 
-L'art. 17 del regolamento per la esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
+L'art. 17 del regolamento per la esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Regi%20decreti/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
  "Se l'utente intenda esercitare la funicolare anche in ore notturne, deve farne denuncia al presidente della Giunta provinciale o al sindaco del Comune, a seconda della competenza, per la determinazione delle maggiori cautele che potranno occorrere a tutela della pubblica incolumita'".
 
 ### Art. 42.
 
-L'art. 18 del regolamento per l'esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con [regio decreto 25 agosto 1908, n. 829](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
+L'art. 18 del regolamento per l'esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con [regio decreto 25 agosto 1908, n. 829](../Regi%20decreti/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
  "Quando l'esercizio di una funicolare venga fatto senza osservare le condizioni stabilite, o in modo da riuscire per qualsiasi causa pericoloso alla pubblica incolumita', il presidente della Giunta provinciale o il sindaco del Comune, nei casi di rispettiva competenza, puo' ordinarne la sospensione.
  Nei casi di pericolo prossimo il presidente della Giunta provinciale o il sindaco, nei casi di rispettiva competenza, ordina la sospensione immediata dell'esercizio.
  Negli altri casi puo' consentire il proseguimento, stabilendo le opere che occorrono per l'eliminazione di ogni pericolo, con assegnazione dei termini di tempo entro i quali l'esercente deve averle eseguite.
@@ -397,7 +397,7 @@ L'art. 18 del regolamento per l'esecuzione della [legge 13 giugno 1907, n. 403](
 
 ### Art. 43.
 
-Il secondo comma dell'art. 19 del regolamento per la esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
+Il secondo comma dell'art. 19 del regolamento per la esecuzione della [legge 13 giugno 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;403), approvato con il [regio decreto 25 agosto 1908, n. 829](../Regi%20decreti/Che%20approva%20le%20annesse%20norme%20regolamentari%20per%20disciplinare%20limpianto%20di%20vie%20funicolari%20aeree.%20008U0829.md), e' sostituito dal seguente:
  "Sui provvedimenti da emanarsi a norma del presente regolamento nei riguardi della sicurezza di impianti e di esercizio delle funicolari, il presidente della Giunta provinciale o il sindaco del Comune, nei casi di rispettiva competenza, deve promuovere il parere dello Ispettorato compartimentale o ufficio distaccato della motorizzazione civile e dei trasporti in concessione".
 
 ### Art. 44.
@@ -546,7 +546,7 @@ TITOLO VII
 
 ### Art. 64.
 
-A modifica del secondo comma, nn. 2 e 3, dell'art. 111 del testo unico approvato con [regio decreto 8 dicembre 1933, n. 1740](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), e' attribuita, agli Ispettorati compartimentali o uffici distaccati della motorizzazione civile e dei trasporti in concessione la facolta' di autorizzare, caso per caso:
+A modifica del secondo comma, nn. 2 e 3, dell'art. 111 del testo unico approvato con [regio decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), e' attribuita, agli Ispettorati compartimentali o uffici distaccati della motorizzazione civile e dei trasporti in concessione la facolta' di autorizzare, caso per caso:
  1) l'ammissione agli esami di idoneita' per il conseguimento della patente di abilitazione a condurre autoveicoli in servizio pubblico (terzo grado) dei conducenti muniti di patente di secondo grado da meno di sei mesi;
  2) l'ammissione agli esami di idoneita' per il conseguimento della patente di abilitazione di primo grado dei monocoli che possiedono il visus dell'occhio non inferiore ad otto decimi raggiunto senza correzioni di lenti.
 

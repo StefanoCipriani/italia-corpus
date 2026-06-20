@@ -16,7 +16,7 @@ Visti gli articoli 71 e 76, ultimi comma, del [decreto del Presidente della Repu
 
 Vista la [legge n. 1860, del 31 dicembre 1962](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1860), sull'impiego pacifico dell'energia nucleare;
 
-Vista la [legge n. 1203, del 14 ottobre 1957](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), concernente la ratifica del trattato istitutivo della Comunita' europea dell'energia atomica;
+Vista la [legge n. 1203, del 14 ottobre 1957](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), concernente la ratifica del trattato istitutivo della Comunita' europea dell'energia atomica;
 
 Sentita la commissione delle Comunita' europee ai sensi dell'art. 33, secondo comma, del predetto trattato istitutivo;
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto l'[art. 2 del decreto legislativo 7 maggio 1948, n. 1065](../Atti%20normativi%20abrogati%20%28in%20originale%29/Miglioramento%20di%20carriera%20al%20personale%20direttivo%20educativo%20e%20di%20economato%20dei%20Convitti%20nazionali.md);
+Veduto l'[art. 2 del decreto legislativo 7 maggio 1948, n. 1065](../Decreti%20Legislativi/Miglioramento%20di%20carriera%20al%20personale%20direttivo%20educativo%20e%20di%20economato%20dei%20Convitti%20nazionali.md);
 
 Veduto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 

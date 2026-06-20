@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la deliberazione del consiglio comunale di Bagno di Romagna del 30 dicembre 1968, n. 80, con la quale si chiede l'unificazione degli uffici di conciliazione di Bagno di Romagna e di San Piero in Bagno;
  Visti i pareri favorevoli del presidente della corte di appello di Bologna e del procuratore generale presso la stessa corte;
- Visti gli [articoli 20 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_20), [1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;1) della [legge 16 giugno 1892, n. 261](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento approvato con [regio decreto 26 dicembre 1892, n. 728](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
+ Visti gli [articoli 20 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_20), [1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;1) della [legge 16 giugno 1892, n. 261](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento approvato con [regio decreto 26 dicembre 1892, n. 728](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
  Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;
 
  Decreta:

@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [deliberazione in data 30 ottobre 1954, numero 132/46 del Consiglio comunale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1954-10-30;132) di Macherio, con la quale e' stato chiesto che alla frazione di quel Comune comunemente indicata con la denominazione "Bareggia" sia ufficialmente attribuita la denominazione stessa;
  Vista la [deliberazione in data 7 giugno 1955, numero 1050/55 del Consiglio provinciale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.provincia.:delibera:1955-06-07;1050) di Milano, con la quale e' stato espresso parere favorevole in merito alla richiesta suddetta;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

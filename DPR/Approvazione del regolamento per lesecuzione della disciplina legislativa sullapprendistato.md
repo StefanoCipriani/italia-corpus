@@ -137,7 +137,7 @@ La durata dell'orario di lavoro degli apprendisti non puo' eccedere le 8 ore gio
 
 ### Art. 15.
 
-Le aziende industriali o commerciali, nell'esporre ai sensi dell'[art. 12 del regio decreto 10 settembre 1923, n. 1955](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20relativo%20alla%20limitazione%20dellorario%20di%20lavoro%20per%20gli%20operai%20ed%20impiegati%20delle%20aziende%20industriali%20o%20commerciali%20di%20qualunque%20natura.%20023U1955.md), l'orario di lavoro degli apprendisti, debbono indicare le ore destinate all'addestramento pratico nonche' il numero di quelle dedicate all'insegnamento complementare anche se effettuato fuori azienda.
+Le aziende industriali o commerciali, nell'esporre ai sensi dell'[art. 12 del regio decreto 10 settembre 1923, n. 1955](../Regi%20decreti/Approvazione%20del%20regolamento%20relativo%20alla%20limitazione%20dellorario%20di%20lavoro%20per%20gli%20operai%20ed%20impiegati%20delle%20aziende%20industriali%20o%20commerciali%20di%20qualunque%20natura.%20023U1955.md), l'orario di lavoro degli apprendisti, debbono indicare le ore destinate all'addestramento pratico nonche' il numero di quelle dedicate all'insegnamento complementare anche se effettuato fuori azienda.
 
 ### Art. 16.
 

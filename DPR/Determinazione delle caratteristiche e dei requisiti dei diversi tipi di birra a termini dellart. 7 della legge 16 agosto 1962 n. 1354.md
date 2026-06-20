@@ -38,7 +38,7 @@ Le caratteristiche analitiche e i requisiti dei diversi tipi di birra sono cosi'
 
 AGGIORNAMENTO (1)
 
-La [L. 16 agosto 1962, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-16;1354), come modificata dalla [L. 11 marzo 2026, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-03-11;34), ha disposto (con l'art. 7, comma 2) che "Dalla data di entrata in vigore del decreto di cui al [comma 1, il decreto del Presidente della Repubblica 30 dicembre 1970, n. 1498](../Atti%20normativi%20abrogati%20%28in%20originale%29/Determinazione%20delle%20caratteristiche%20e%20dei%20requisiti%20dei%20diversi%20tipi%20di%20birra%20a%20termini%20dellart.%207%20della%20legge%2016%20agosto%201962%20n.%201354.md), e' abrogato".
+La [L. 16 agosto 1962, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-16;1354), come modificata dalla [L. 11 marzo 2026, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-03-11;34), ha disposto (con l'art. 7, comma 2) che "Dalla data di entrata in vigore del decreto di cui al [comma 1, il decreto del Presidente della Repubblica 30 dicembre 1970, n. 1498](Determinazione%20delle%20caratteristiche%20e%20dei%20requisiti%20dei%20diversi%20tipi%20di%20birra%20a%20termini%20dellart.%207%20della%20legge%2016%20agosto%201962%20n.%201354.md), e' abrogato".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -16,7 +16,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Veduta la domanda con la quale il rettore della Universita' degli studi di Catania, in esecuzione della deliberazione del Consiglio di amministrazione in data 16 maggio 1959 ha chiesto di essere autorizzato ad acquistare da Enrico Luigi Rosso due appezzamenti di terreno siti in Catania, contrada S. Sofia Petraro, di complessivi mq. 79.200 al prezzo risultante dalla relazione di stima dell'Ufficio tecnico erariale di Catania in data 23 maggio 1959 e alle condizioni e modalita' stabilite con i contratti condizionati di compra-vendita stipulati in Catania in data 16 giugno 1959 a rogito del dott.
 Rosario Aloisio, nn. 54 e 55 di repertorio;
  Veduta la legge 5 giugno 1850, n. 1037, sugli acquisti dei corpi morali;
- Veduto il [regio decreto 26 giugno 1864, n. 1817](../Atti%20normativi%20abrogati%20%28in%20originale%29/Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md);
+ Veduto il [regio decreto 26 giugno 1864, n. 1817](../Regi%20decreti/Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md);
  Veduto l'[art. 17 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_17);
  Udito il parere del Consiglio di Stato;
  Sulla proposta del Ministro per la pubblica istruzione;

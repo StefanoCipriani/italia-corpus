@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 13 luglio 1965, n. 871](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md), con la quale il Governo e' stato delegato ad emanare provvedimenti nelle materie previste dai Trattati della Comunita' economica europea (C.E.E.) e della Comunita' europea della energia atomica (C.E.E.A.);
+Vista la [legge 13 luglio 1965, n. 871](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md), con la quale il Governo e' stato delegato ad emanare provvedimenti nelle materie previste dai Trattati della Comunita' economica europea (C.E.E.) e della Comunita' europea della energia atomica (C.E.E.A.);
 
-Visto il Trattato istitutivo della Comunita' economica, europea ratificato con [legge 14 ottobre 1957, n. 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
+Visto il Trattato istitutivo della Comunita' economica, europea ratificato con [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
 
 Visto il Regolamento del Consiglio della C.E.E. n. 24 del 1962, relativo alla graduale attuazione di una organizzazione comune del mercato vitivinicolo, ed in particolare l'art. 1;
 
@@ -24,7 +24,7 @@ Visto il Regolamento del Consiglio della C.E.E. numero 92/63, che modifica l'art
 
 Visto il Regolamento della Commissione della C.E.E. n. 26/64 del 28 febbraio 1964, relativo a disposizioni complementari per l'istituzione del catasto viticolo, per la sua utilizzazione ed il suo aggiornamento;
 
-Sentita la Commissione parlamentare di cui all'[art. 3 della legge 13 luglio 1965, n. 871](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md);
+Sentita la Commissione parlamentare di cui all'[art. 3 della legge 13 luglio 1965, n. 871](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -41,7 +41,7 @@ Lo svolgimento delle operazioni relative alla istituzione del catasto viticolo s
 
 ## Art. 3.
 
-Per l'applicazione del presente decreto e' autorizzata la spesa di lire 3 miliardi e 800 milioni, cui sara' fatto fronte a carico delle disponibilita' di cui all'[art. 4, quarto comma, della legge 13 luglio 1965, n. 871](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md).
+Per l'applicazione del presente decreto e' autorizzata la spesa di lire 3 miliardi e 800 milioni, cui sara' fatto fronte a carico delle disponibilita' di cui all'[art. 4, quarto comma, della legge 13 luglio 1965, n. 871](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md).
  Il Ministro per il tesoro e' autorizzato a disporre con propri decreti le occorrenti variazioni di bilancio.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

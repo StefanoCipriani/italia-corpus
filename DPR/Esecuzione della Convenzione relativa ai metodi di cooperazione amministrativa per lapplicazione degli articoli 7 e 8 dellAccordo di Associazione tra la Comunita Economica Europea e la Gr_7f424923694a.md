@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 28 luglio 1962, n. 1002](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20in%20Atene%20il%209%20luglio%201961%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Grecia.md), concernente la ratifica e l'esecuzione degli Accordi internazionali firmati in Atene il 9 luglio 1961 e degli Atti connessi relativi all'Associazione tra la Comunita' Economica Europea e la Grecia;
+Vista la [legge 28 luglio 1962, n. 1002](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20in%20Atene%20il%209%20luglio%201961%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Grecia.md), concernente la ratifica e l'esecuzione degli Accordi internazionali firmati in Atene il 9 luglio 1961 e degli Atti connessi relativi all'Associazione tra la Comunita' Economica Europea e la Grecia;
 
 Sentito il Consiglio dei Ministri;
 

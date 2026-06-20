@@ -14,11 +14,11 @@ Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?
 
 Veduto il [regio decreto-legge 21 settembre 1938, numero 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
-Veduto il [regio decreto 5 luglio 1934, n. 1185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20i%20concorsi%20a%20cattedre%20nelle%20Regie%20scuole%20e%20nei%20Regi%20istituti%20distruzione%20media%20tecnica.%20034U1185.md);
+Veduto il [regio decreto 5 luglio 1934, n. 1185](../Regi%20decreti/Regolamento%20per%20i%20concorsi%20a%20cattedre%20nelle%20Regie%20scuole%20e%20nei%20Regi%20istituti%20distruzione%20media%20tecnica.%20034U1185.md);
 
-Veduto il [regio decreto 11 febbraio 1941, n. 229](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20nuove%20tabelle%20delle%20classi%20di%20concorsi%20-%20esami%20di%20Stato%20per%20linsegnamento%20negli%20Istituti%20dellOrdine%20medio%20e%20dellOrdine%20superiore%20classico%20e%20tecnico%20dei%20titoli%20dammissio_2846c2e85547.md);
+Veduto il [regio decreto 11 febbraio 1941, n. 229](../Regi%20decreti/Approvazione%20delle%20nuove%20tabelle%20delle%20classi%20di%20concorsi%20-%20esami%20di%20Stato%20per%20linsegnamento%20negli%20Istituti%20dellOrdine%20medio%20e%20dellOrdine%20superiore%20classico%20e%20tecnico%20dei%20titoli%20dammissio_2846c2e85547.md);
 
-Veduto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 816](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allordinamento%20della%20scuola%20media%20Istituzione%20di%20classi%20di%20collegamento%20col%20liceo%20scientifico%20con%20listituito%20magistrale%20e%20con%20gli%20istituti%20tecnici%20e%20disposizioni%20per%20il%20pers_9814349c1e47.md);
+Veduto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 816](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allordinamento%20della%20scuola%20media%20Istituzione%20di%20classi%20di%20collegamento%20col%20liceo%20scientifico%20con%20listituito%20magistrale%20e%20con%20gli%20istituti%20tecnici%20e%20disposizioni%20per%20il%20pers_9814349c1e47.md);
 
 Veduta la [legge 31 luglio 1954, n. 609](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;609);
 

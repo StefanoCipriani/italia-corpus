@@ -14,7 +14,7 @@ Vista la [legge 19 dicembre 1958, n. 1085](https://www.normattiva.it/uri-res/N2L
 
 Vista la [legge 11 aprile 1959, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-04-11;137);
 
-Vista la [legge 14 ottobre 1957, n. 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
+Vista la [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
 
 Visto il [decreto del Presidente della Repubblica 18 aprile 1959, n. 167](Variazioni%20alla%20tariffa%20di%20vendita%20al%20pubblico%20dei%20tabacchi.md);
 

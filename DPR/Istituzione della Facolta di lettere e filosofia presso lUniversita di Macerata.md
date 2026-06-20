@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto lo statuto dell'Universita' di Macerata, approvato con [regio decreto 20 aprile 1939, n. 1074](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Macerata.%20039U1074.md), modificato con [regio decreto 17 ottobre 1941, n. 1206](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20allo%20statuto%20della%20Regia%20universita%20di%20Macerata.%20041U1206.md) successivi;
+Veduto lo statuto dell'Universita' di Macerata, approvato con [regio decreto 20 aprile 1939, n. 1074](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Macerata.%20039U1074.md), modificato con [regio decreto 17 ottobre 1941, n. 1206](../Regi%20decreti/Modificazione%20allo%20statuto%20della%20Regia%20universita%20di%20Macerata.%20041U1206.md) successivi;
 
 Veduto il testo unico delle leggi sull'istruzione e superiore approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
@@ -43,7 +43,7 @@ In aggiunta alla Facolta' di giurisprudenza dell'Universita' di Macerata e' isti
 
 ## Art. 3.
 
-Sono istituiti ai sensi degli [articoli 63, secondo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_63-com2) e [100, secondo comma del testo unico 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_100-com2), numero otto posti di professore di ruolo, nonche' ai sensi dell'[art. 13-bis della legge 24 giugno 1950, n. 465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), numero otto posti di assistente ordinario.
+Sono istituiti ai sensi degli [articoli 63, secondo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_63-com2) e [100, secondo comma del testo unico 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_100-com2), numero otto posti di professore di ruolo, nonche' ai sensi dell'[art. 13-bis della legge 24 giugno 1950, n. 465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), numero otto posti di assistente ordinario.
 
 ## Art. 4.
 

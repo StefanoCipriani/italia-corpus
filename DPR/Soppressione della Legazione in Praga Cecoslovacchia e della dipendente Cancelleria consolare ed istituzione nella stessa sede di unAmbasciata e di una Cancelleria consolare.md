@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 28 gennaio 1866, n. 2804](../Atti%20normativi%20abrogati%20%28in%20originale%29/Con%20cui%20e%20promulgata%20e%20resa%20esecutoria%20in%20tutte%20le%20Provincie%20del%20Regno%20con%20alcune%20modificazioni%20la%20Legge%20consolare%20del%2015%20agosto%201858.%20066U2804.md);
+Visto il [regio decreto 28 gennaio 1866, n. 2804](../Regi%20decreti/Con%20cui%20e%20promulgata%20e%20resa%20esecutoria%20in%20tutte%20le%20Provincie%20del%20Regno%20con%20alcune%20modificazioni%20la%20Legge%20consolare%20del%2015%20agosto%201858.%20066U2804.md);
 
 Visto il [regio decreto 7 giugno 1866, n. 2096](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-06-07;2096);
 
-Visto il [regio decreto 29 novembre 1870, n. 6090](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20le%20Legazioni%20allestero%20ed%20il%20personale%20alle%20medesime%20addetto.%20070U6090.md);
+Visto il [regio decreto 29 novembre 1870, n. 6090](../Regi%20decreti/Concernente%20le%20Legazioni%20allestero%20ed%20il%20personale%20alle%20medesime%20addetto.%20070U6090.md);
 
 Visto il [decreto del Capo provvisorio dello Stato 18 aprile 1947, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-18;266), e successive modificazioni;
 

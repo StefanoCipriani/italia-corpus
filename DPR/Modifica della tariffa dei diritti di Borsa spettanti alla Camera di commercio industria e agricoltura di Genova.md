@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 13 agosto 1926, n. 1488](../Atti%20normativi%20abrogati%20%28in%20originale%29/Diritti%20e%20tasse%20della%20Camera%20di%20commercio%20e%20industria%20di%20Genova.%20026U1488.md), col quale venne approvata e resa esecutiva la tariffa dei diritti di Borsa spettanti alla Camera di commercio, industria e agricoltura di Genova;
+Visto il [regio decreto 13 agosto 1926, n. 1488](../Regi%20decreti/Diritti%20e%20tasse%20della%20Camera%20di%20commercio%20e%20industria%20di%20Genova.%20026U1488.md), col quale venne approvata e resa esecutiva la tariffa dei diritti di Borsa spettanti alla Camera di commercio, industria e agricoltura di Genova;
 
 Visto il [decreto del Presidente della Repubblica in data 13 febbraio 1957, n. 99](Modificazione%20alla%20tariffa%20dei%20diritti%20di%20borsa%20spettanti%20alla%20Camera%20di%20commercio%20industria%20e%20agricoltura%20di%20Genova.md), pubblicato nella Gazzetta Ufficiale del giorno 25 marzo 1957, col quale sono state apportate variazioni alla tariffa predetta;
 

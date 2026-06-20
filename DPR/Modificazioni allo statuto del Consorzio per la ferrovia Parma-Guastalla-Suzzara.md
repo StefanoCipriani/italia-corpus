@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 13 marzo 1881, n. 107](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20costituisce%20fra%20la%20provincia%20di%20Parma%20ed%20i%20comuni%20di%20Parma%20San%20Lazzaro%20Parmense%20Sorbolo%20Guastalla%20Boretto%20Brescello%20Gualtieri%20e%20Luzzara%20il%20consorzio%20per%20la%20costruzione%20e%20lesercizio%20de_e6b631b85354.md), con il quale venne costituito tra la provincia di Parma ed i comuni di Parma, San Lazzaro Parmense, Sorbolo, Guastalla, Boretto, Brescello, Gualtieri e Luzzara il Consorzio per la costruzione e l'esercizio della ferrovia Parma-Guastalla-Suzzara;
+Visto il [regio decreto 13 marzo 1881, n. 107](../Regi%20decreti/Che%20costituisce%20fra%20la%20provincia%20di%20Parma%20ed%20i%20comuni%20di%20Parma%20San%20Lazzaro%20Parmense%20Sorbolo%20Guastalla%20Boretto%20Brescello%20Gualtieri%20e%20Luzzara%20il%20consorzio%20per%20la%20costruzione%20e%20lesercizio%20de_e6b631b85354.md), con il quale venne costituito tra la provincia di Parma ed i comuni di Parma, San Lazzaro Parmense, Sorbolo, Guastalla, Boretto, Brescello, Gualtieri e Luzzara il Consorzio per la costruzione e l'esercizio della ferrovia Parma-Guastalla-Suzzara;
 
 Vista la [deliberazione 12 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1946-06-12;1), con la quale e' stato ammesso a far parte del Consorzio anche il comune di Suzzara;
 
@@ -26,7 +26,7 @@ Sulla proposta dei Ministri per i trasporti e per l'interno; Decreta:
 
 ## Articolo unico.
 
-Sono approvate le modifiche che con deliberazione in data 1 dicembre 1948 l'assemblea generale del Consorzio costituito con [regio decreto 13 marzo 1881, n. 107](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20costituisce%20fra%20la%20provincia%20di%20Parma%20ed%20i%20comuni%20di%20Parma%20San%20Lazzaro%20Parmense%20Sorbolo%20Guastalla%20Boretto%20Brescello%20Gualtieri%20e%20Luzzara%20il%20consorzio%20per%20la%20costruzione%20e%20lesercizio%20de_e6b631b85354.md), tra la provincia di Parma ed i Comuni interessati per la costruzione e l'esercizio della ferrovia Parma-Guastalla-Suzzara, ha apportato allo statuto consorziale in conformita' del testo allegato A alla delibera suddetta.
+Sono approvate le modifiche che con deliberazione in data 1 dicembre 1948 l'assemblea generale del Consorzio costituito con [regio decreto 13 marzo 1881, n. 107](../Regi%20decreti/Che%20costituisce%20fra%20la%20provincia%20di%20Parma%20ed%20i%20comuni%20di%20Parma%20San%20Lazzaro%20Parmense%20Sorbolo%20Guastalla%20Boretto%20Brescello%20Gualtieri%20e%20Luzzara%20il%20consorzio%20per%20la%20costruzione%20e%20lesercizio%20de_e6b631b85354.md), tra la provincia di Parma ed i Comuni interessati per la costruzione e l'esercizio della ferrovia Parma-Guastalla-Suzzara, ha apportato allo statuto consorziale in conformita' del testo allegato A alla delibera suddetta.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

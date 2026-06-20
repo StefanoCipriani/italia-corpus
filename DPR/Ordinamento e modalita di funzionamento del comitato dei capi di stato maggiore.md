@@ -22,7 +22,7 @@ vigente: true
 
 ## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 25 OTTOBRE 1999, N. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md)))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 25 OTTOBRE 1999, N. 556](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md)))
 
 ## Art. 5.
 
@@ -30,4 +30,4 @@ vigente: true
 
 ## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 25 OTTOBRE 1999, N. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md)))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 25 OTTOBRE 1999, N. 556](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md)))

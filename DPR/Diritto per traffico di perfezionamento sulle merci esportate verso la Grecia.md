@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'accordo di associazione fra la Comunita' economica europea e la Grecia, ratificato e reso esecutivo con la [legge 28 luglio 1962, n. 1002](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20in%20Atene%20il%209%20luglio%201961%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Grecia.md);
+Visto l'accordo di associazione fra la Comunita' economica europea e la Grecia, ratificato e reso esecutivo con la [legge 28 luglio 1962, n. 1002](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20in%20Atene%20il%209%20luglio%201961%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Grecia.md);
 
 Visto il [decreto del Presidente della Repubblica 31 ottobre 1962, n. 1854](Esecuzione%20della%20Convenzione%20relativa%20ai%20metodi%20di%20cooperazione%20amministrativa%20per%20lapplicazione%20degli%20articoli%207%20e%208%20dellAccordo%20di%20Associazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Gr_7f424923694a.md), concernente l'esecuzione della convenzione relativa ai metodi di cooperazione amministrativa fra la Grecia e la C.E.E.;
 

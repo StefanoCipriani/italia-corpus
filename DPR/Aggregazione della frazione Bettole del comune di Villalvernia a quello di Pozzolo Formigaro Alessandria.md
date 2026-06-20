@@ -16,7 +16,7 @@ Visto il voto favorevole del Consiglio comunale di Pozzolo Formigaro, espresso c
 
 Viste le deliberazioni 6 febbraio 1947 e [7 febbraio 1952, n. 50, del Consiglio comunale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1952-02-07;50) di Villalvernia; 20 dicembre 1947, n. 2664 e 13 novembre 1948, n. 7446, della Deputazione provinciale; 1 settembre 1951, n. 5515, della [Giunta provinciale e 20 ottobre 1951, n. 7649](https://www.normattiva.it/uri-res/N2Ls?urn:nir:giunta.provincia.::1951-10-20;7649), del Consiglio provinciale di Alessandria, esprimenti il rispettivo parere in ordine alla citata istanza;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

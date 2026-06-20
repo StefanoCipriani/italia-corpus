@@ -16,7 +16,7 @@ Visto il voto favorevole del Consiglio comunale di Corte Brugnatella, espresso c
 
 Viste le [deliberazioni 30 aprile 1946, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1946-04-30;14)/ B e 14 dicembre 1951, n. 61, del Consiglio comunale di Coli; 16 ottobre 1946, n. 28, della Deputazione provinciale di Piacenza e 15 dicembre 1951, n. 9, del Consiglio provinciale di Piacenza, esperimenti il rispettivo parere in ordine alla citata istanza;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

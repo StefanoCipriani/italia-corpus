@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [deliberazione n. 10 del 2 marzo 1970](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1970-03-02;10), con la quale il consiglio comunale di Cittadella (Padova), premesso che i nuclei abitati compresi nella frazione "Facca-S. Maria" si sono, negli ultimi anni, sviluppati autonomamente creandosi due distinti centri - quello di "Facca" e quello di "S. Maria" - con caratteristiche funzionali e di interessi differenziati che valgono ad individuarli come frazioni a se stanti, ha chiesto che alle frazioni stesse, nelle quali quella originaria si e' venuta a sdoppiare, sia formalmente attribuita la rispettiva denominazione omonima;
  Vista la [deliberazione n. 35 del 22 marzo 1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1971-03-22;35), con la quale il consiglio provinciale di Padova esprime parere favorevole al riguardo;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

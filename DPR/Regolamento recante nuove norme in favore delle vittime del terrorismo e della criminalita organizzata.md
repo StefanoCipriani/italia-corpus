@@ -570,7 +570,7 @@ Per i decessi verificatisi prima dell'entrata in vigore della [legge 13 agosto 1
 
 Nota all'art. 21:
  - Per il testo dell'[art. 8 della legge 13 agosto 1980, n. 466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-08-13;466#art_8) (per l'argomento v. nelle note alle premesse):
- "Art. 8. - Il contributo nelle spese funerarie per il personale del Corpo delle guardie di pubblica sicurezza deceduto in attivita' di servizio, previsto dall'art. 286 del vigente regolamento del Corpo, modificato con [decreto legislativo 16 febbraio 1948, n. 134, e con l'art. 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20del%20contributo%20statale%20per%20le%20spese%20funerarie%20dei%20sottufficiali%20graduati%20e%20guardie%20del%20Corpo%20delle%20guardie%20di%20pubblica%20sicurezza.md) della [legge 22 febbraio 1968, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-22;101), e' corrisposto fino a lire un milione".
+ "Art. 8. - Il contributo nelle spese funerarie per il personale del Corpo delle guardie di pubblica sicurezza deceduto in attivita' di servizio, previsto dall'art. 286 del vigente regolamento del Corpo, modificato con [decreto legislativo 16 febbraio 1948, n. 134, e con l'art. 2](../Decreti%20Legislativi/Aumento%20del%20contributo%20statale%20per%20le%20spese%20funerarie%20dei%20sottufficiali%20graduati%20e%20guardie%20del%20Corpo%20delle%20guardie%20di%20pubblica%20sicurezza.md) della [legge 22 febbraio 1968, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-22;101), e' corrisposto fino a lire un milione".
 
 ## Art. 22. — Verifiche periodiche. Termini
 

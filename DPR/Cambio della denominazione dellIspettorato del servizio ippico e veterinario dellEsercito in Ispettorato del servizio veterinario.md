@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 1 del decreto luogotenenziale 31 luglio 1945, n. 560](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ripartizione%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20045U0560.md), concernente la ripartizione dei servizi della Amministrazione centrale della guerra, e successive modificazioni;
+Visto l'[art. 1 del decreto luogotenenziale 31 luglio 1945, n. 560](../Decreti%20legislativi%20luogotenenziali/Ripartizione%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20045U0560.md), concernente la ripartizione dei servizi della Amministrazione centrale della guerra, e successive modificazioni;
 
 Visto il [decreto del Capo provvisorio dello Stato 4 febbraio 1947, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;17), concernente l'unificazione dei Ministeri della guerra, della marina e dell'aeronautica nel Ministero della difesa;
 

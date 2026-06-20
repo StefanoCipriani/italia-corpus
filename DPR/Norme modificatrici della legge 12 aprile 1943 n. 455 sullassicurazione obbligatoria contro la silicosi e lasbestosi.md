@@ -137,7 +137,7 @@ La [L. 10 febbraio 1961, n.51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 ## Art. 17.
 
-Agli effetti dell'[art. 12 della legge 12 aprile 1943, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-04-12;455#art_12), in attesa della emanazione delle disposizioni particolari di prevenzione e di sicurezza di cui all'art. 11 della legge medesima, valgono le disposizioni protettive contenute nel regolamento generale per l'igiene del lavoro approvate con [regio decreto 14 aprile 1927, n. 530](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20generale%20per%20ligiene%20del%20lavoro.%20027U0530.md), e nelle altre vigenti leggi sulla materia.
+Agli effetti dell'[art. 12 della legge 12 aprile 1943, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-04-12;455#art_12), in attesa della emanazione delle disposizioni particolari di prevenzione e di sicurezza di cui all'art. 11 della legge medesima, valgono le disposizioni protettive contenute nel regolamento generale per l'igiene del lavoro approvate con [regio decreto 14 aprile 1927, n. 530](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20per%20ligiene%20del%20lavoro.%20027U0530.md), e nelle altre vigenti leggi sulla materia.
 
 ## Art. 18.
 

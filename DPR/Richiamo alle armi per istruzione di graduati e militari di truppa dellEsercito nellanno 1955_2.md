@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'art. 170 del testo unico delle leggi sul recintamento dell'Esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e successive modificazioni;
+Visto l'art. 170 del testo unico delle leggi sul recintamento dell'Esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e successive modificazioni;
 
 Vista la [legge 3 maggio 1955, n. 370](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conservazione%20del%20posto%20ai%20lavoratori%20richiamati%20alle%20armi.md), sulla conservazione del posto ai lavoratori richiamati alle armi;
 

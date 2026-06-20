@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+Visto il [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
@@ -18,7 +18,7 @@ Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto il [decreto legislativo Presidenziale 27 giugno 1946, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;107);
 
-Vista la [legge 2 aprile 1953, n. 260](../DL%20e%20leggi%20di%20conversione/Ratifica%20del%20decreto%20legislativo%2027%20giugno%201946%20n.%20107%20concernente%20revisione%20dello%20stato%20giuridico%20ed%20economico%20dei%20segretari-economi%20e%20dei%20vice-segretari%20degli%20istituti%20e%20delle%20scuole%20di_cf5ebbeca914.md);
+Vista la [legge 2 aprile 1953, n. 260](../Leggi%20di%20ratifica/Ratifica%20del%20decreto%20legislativo%2027%20giugno%201946%20n.%20107%20concernente%20revisione%20dello%20stato%20giuridico%20ed%20economico%20dei%20segretari-economi%20e%20dei%20vice-segretari%20degli%20istituti%20e%20delle%20scuole%20di_cf5ebbeca914.md);
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 

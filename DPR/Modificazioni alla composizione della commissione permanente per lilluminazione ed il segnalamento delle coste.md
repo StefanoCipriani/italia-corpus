@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 27 novembre 1910, n. 871](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20istituisce%20la%20Commissione%20permanente%20per%20la%20illuminazione%20e%20il%20segnalamento%20delle%20coste.%20010U0871.md), che istituisce la commissione permanente per l'illuminazione ed il segnalamento delle coste;
+Visto il [regio decreto 27 novembre 1910, n. 871](../Regi%20decreti/Che%20istituisce%20la%20Commissione%20permanente%20per%20la%20illuminazione%20e%20il%20segnalamento%20delle%20coste.%20010U0871.md), che istituisce la commissione permanente per l'illuminazione ed il segnalamento delle coste;
 
 Visto il [decreto del Capo provvisorio dello Stato 12 dicembre 1947, n. 1771](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-12-12;1771), relativo alla composizione della predetta commissione;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la difesa, di concerto con i Ministri per il tes
 
 ## Art. 1.
 
-La composizione della commissione permanente per l'illuminazione ed il segnalamento delle coste, istituita con [regio decreto 27 novembre 1910, n. 871](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20istituisce%20la%20Commissione%20permanente%20per%20la%20illuminazione%20e%20il%20segnalamento%20delle%20coste.%20010U0871.md), e successive modificazioni, e' stabilita come segue: 
+La composizione della commissione permanente per l'illuminazione ed il segnalamento delle coste, istituita con [regio decreto 27 novembre 1910, n. 871](../Regi%20decreti/Che%20istituisce%20la%20Commissione%20permanente%20per%20la%20illuminazione%20e%20il%20segnalamento%20delle%20coste.%20010U0871.md), e successive modificazioni, e' stabilita come segue: 
  un ufficiale ammiraglio del servizio permanente o delle categorie in congedo, presidente; 
  il direttore dell'ispettorato dei fari e segnalamenti marittimi presso lo Stato maggiore della Marina, membro; 
  il direttore generale delle opere marittime presso il Ministero dei lavori pubblici, membro; 

@@ -34,7 +34,7 @@ La regione e' delegata a disciplinare, nel rispetto del principio di economicita
 
 2.
 
-La regione puo' promuovere la costituzione ed il funzionamento di appositi fondi pensione a carattere regionale per persone per le quali non sussistano o non operino previsioni normative che consentano l'adesione a forme di previdenza complementare di cui all'[articolo 3, comma 1, del decreto legislativo 21 aprile 1993, n. 124](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20forme%20pensionistiche%20complementari%20a%20norma%20dellart.%203%20comma%201%20lettera%20v%20della%20legge%2023%20ottobre%201992%20n.%20421.md), o per adeguare le provvidenze previste dalla normativa regionale. Gli stessi fini possono essere perseguiti tramite apposite convenzioni.
+La regione puo' promuovere la costituzione ed il funzionamento di appositi fondi pensione a carattere regionale per persone per le quali non sussistano o non operino previsioni normative che consentano l'adesione a forme di previdenza complementare di cui all'[articolo 3, comma 1, del decreto legislativo 21 aprile 1993, n. 124](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20delle%20forme%20pensionistiche%20complementari%20a%20norma%20dellart.%203%20comma%201%20lettera%20v%20della%20legge%2023%20ottobre%201992%20n.%20421.md), o per adeguare le provvidenze previste dalla normativa regionale. Gli stessi fini possono essere perseguiti tramite apposite convenzioni.
 
 3.
 

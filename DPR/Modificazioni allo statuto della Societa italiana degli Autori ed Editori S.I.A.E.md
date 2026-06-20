@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il titolo V della [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), per la protezione del diritto di autore e degli altri diritti connessi al suo esercizio;
 
-Visto il [regio decreto 24 agosto 1942, n. 1799](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20dellEnte%20Italiano%20per%20il%20Diritto%20di%20Autore%20E.I.D.A..%20042U1799.md), col quale fu approvato lo statuto dell'Ente italiano per il Diritto di Autore (E.I.D.A.);
+Visto il [regio decreto 24 agosto 1942, n. 1799](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20dellEnte%20Italiano%20per%20il%20Diritto%20di%20Autore%20E.I.D.A..%20042U1799.md), col quale fu approvato lo statuto dell'Ente italiano per il Diritto di Autore (E.I.D.A.);
 
 Visto il [decreto legislativo luogotenenziale 20 luglio 1945, n. 433](../Decreti%20legislativi%20luogotenenziali/Modificazione%20della%20denominazione%20dellEnte%20Italiano%20per%20il%20Diritto%20di%20Autore%20E.I.D.A.%20in%20quella%20di%20Societa%20Italiana%20degli%20Autori%20ed%20Editori%20S.I.A.E..%20045U0433.md), che modifica la denominazione dell'Ente italiano per il Diritto di Autore (E.I.D.A.) in "Societa' italiana degli Autori ed Editori" (S.I.A.E.);
 
@@ -20,7 +20,7 @@ Visto il regio decreto 25 maggio 1946, concernente la nomina del presidente dell
 
 Visto il [decreto luogotenenziale 5 luglio 1945, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-05;416);
 
-Visto l'[art. 8 del regio decreto legislativo 21 maggio 1946, n. 465](../Atti%20normativi%20abrogati%20%28in%20originale%29/Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20nonche%20ai%20bilanci%20di%20talune%20Aziende%20autonome%20per%20lesercizio%20finanziario%201945-46%20ed%20altri%20provvedi_ac45f30e8910_2.md);
+Visto l'[art. 8 del regio decreto legislativo 21 maggio 1946, n. 465](../Regi%20decreti%20legislativi/Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20nonche%20ai%20bilanci%20di%20talune%20Aziende%20autonome%20per%20lesercizio%20finanziario%201945-46%20ed%20altri%20provvedi_ac45f30e8910.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -28,7 +28,7 @@ Sulla proposta del Presidente del Consiglio del Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Allo statuto della Societa' italiana degli Autori ed Editori (S.I.A.E.), approvato con [regio decreto 24 agosto 1942, n. 1799](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20dellEnte%20Italiano%20per%20il%20Diritto%20di%20Autore%20E.I.D.A..%20042U1799.md), sono apportate le modificazioni indicate negli articoli seguenti.
+Allo statuto della Societa' italiana degli Autori ed Editori (S.I.A.E.), approvato con [regio decreto 24 agosto 1942, n. 1799](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20dellEnte%20Italiano%20per%20il%20Diritto%20di%20Autore%20E.I.D.A..%20042U1799.md), sono apportate le modificazioni indicate negli articoli seguenti.
 
 ## Art. 2.
 

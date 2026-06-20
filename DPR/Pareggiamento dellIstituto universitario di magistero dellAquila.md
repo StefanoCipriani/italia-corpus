@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il [regio decreto 28 agosto 1924, n. 1588](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20gli%20istituti%20superiori%20di%20magistero.%20024U1588.md);
+Veduto il [regio decreto 28 agosto 1924, n. 1588](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20gli%20istituti%20superiori%20di%20magistero.%20024U1588.md);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 

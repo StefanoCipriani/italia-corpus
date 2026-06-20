@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [Legge 25 giugno 1909, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;422), ed il regolamento approvato con [regio decreto 12 febbraio 1911, n. 278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md), emanato in esecuzione di essa.
+Vista la [Legge 25 giugno 1909, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;422), ed il regolamento approvato con [regio decreto 12 febbraio 1911, n. 278](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md), emanato in esecuzione di essa.
 
 Vista l'istanza del presidente del Consorzio fra le cooperative di produzione e lavoro della provincia di Forli', con sede in Forli', in data 6 ottobre 1948, con la quale si chiede la costituzione del Consorzio stesso e l'approvazione del suo statuto organico;
 

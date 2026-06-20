@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto l'art. 221 del Trattato istitutivo della Comunita' Economica Europea;
 
-Vista la [legge 13 luglio 1965, n. 871](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md), concernente delega al Governo ad emanare provvedimenti nelle materie previste dai Trattati della Comunita' Economica Europea (C.E.E.) e della Comunita' Europea dell'Energia Atomica (C.E.E.A.);
+Vista la [legge 13 luglio 1965, n. 871](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md), concernente delega al Governo ad emanare provvedimenti nelle materie previste dai Trattati della Comunita' Economica Europea (C.E.E.) e della Comunita' Europea dell'Energia Atomica (C.E.E.A.);
 
 Udito il parere della Commissione parlamentare di cui all'art. 3 della legge predetta;
 

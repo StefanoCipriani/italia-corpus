@@ -14,7 +14,7 @@ Vista la [legge 9 aprile 1962, n. 163](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Visti il regio decreto 18 febbraio 1936 e il decreto ministeriale 29 agosto 1938, con i quali e' stata approvata la pianta organica dell'istituto d'arte di Firenze;
 
-Visti il [regio decreto 22 aprile 1943, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Variazioni%20agli%20organici%20del%20Regi%20Istituti%20e%20delle%20Regie%20scuole%20darte.%20043U0490.md); il decreto ministeriale 1 luglio 1951 e il decreto ministeriale 7 agosto 1958, con i quali la pianta organica dell'istituto d'arte di Firenze e' stata successivamente integrata;
+Visti il [regio decreto 22 aprile 1943, n. 490](../Regi%20decreti/Variazioni%20agli%20organici%20del%20Regi%20Istituti%20e%20delle%20Regie%20scuole%20darte.%20043U0490.md); il decreto ministeriale 1 luglio 1951 e il decreto ministeriale 7 agosto 1958, con i quali la pianta organica dell'istituto d'arte di Firenze e' stata successivamente integrata;
 
 Ritenuta l'opportunita' di adeguare la pianta organica dell'istituto stesso alle attuali esigenze dello insegnamento;
 

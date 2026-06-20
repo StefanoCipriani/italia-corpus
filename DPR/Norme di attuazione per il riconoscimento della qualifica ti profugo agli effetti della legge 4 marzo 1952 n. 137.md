@@ -23,7 +23,7 @@ Sulla proposta dei Ministro per l'interno, di concerto con quello per il tesoro;
 ## Art. 1.
 
 Per ottenere il riconoscimento della qualifica di profugo, ai fini dell'estensione dei benefici accordati per i concorsi ai reduci e per ogni altro fine dalle leggi previsto, i cittadini italiani che appartengono ad una delle categorie di profughi indicate dall'[art. 1 della legge 4 marzo 1952, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-03-04;137#art_1), devono presentare domanda al prefetto della Provincia in cui risiedono, entro i termine di un anno dalla data di entrata in vigore del presente decreto.
- Sono dispensati dal presentare domanda coloro ai quali la qualifica di profugo sia stata riconosciuta ai fini dell'applicazione del [decreto legislativo 3 settembre 1947, n. 885](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-09-03;885) e del [decreto legislativo 26 febbraio 1948, n. 104](../Atti%20normativi%20abrogati%20%28in%20originale%29/Estensione%20ai%20profughi%20dellAfrica%20italiana%20dei%20benefici%20previsti%20per%20i%20reduci.md) e conservano efficacia le attestazioni a quei fini gia' rilasciate.
+ Sono dispensati dal presentare domanda coloro ai quali la qualifica di profugo sia stata riconosciuta ai fini dell'applicazione del [decreto legislativo 3 settembre 1947, n. 885](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-09-03;885) e del [decreto legislativo 26 febbraio 1948, n. 104](../Decreti%20Legislativi/Estensione%20ai%20profughi%20dellAfrica%20italiana%20dei%20benefici%20previsti%20per%20i%20reduci.md) e conservano efficacia le attestazioni a quei fini gia' rilasciate.
 
 ## Art. 2.
 
