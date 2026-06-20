@@ -63,4 +63,4 @@ L'Amministrazione dell'Istituto provvedera' al pagamento degli stipendi e delle 
 
 AGGIORNAMENTO (2)
 
-Il [Regio Decreto 10 agosto 1893, n. 559](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20pone%20a%20carico%20dello%20Stato%20gli%20stipendi%20e%20le%20rimunerazioni%20per%20il%20personale%20del%20Ginnasio%20della%20Scuola%20tecnica%20e%20del%20Convitto%20nazionale%20di%20Tivoli.%20093U0559.md) ha disposto (con l'articolo unico, comma 1) che "Gli stipendi e le rimunerazioni per il personale del Ginnasio, della Scuola tecnica e del Convitto nazionale di Tivoli, sono posti a carico dello Stato dal 1° luglio 1892".
+Il [Regio Decreto 10 agosto 1893, n. 559](Che%20pone%20a%20carico%20dello%20Stato%20gli%20stipendi%20e%20le%20rimunerazioni%20per%20il%20personale%20del%20Ginnasio%20della%20Scuola%20tecnica%20e%20del%20Convitto%20nazionale%20di%20Tivoli.%20093U0559.md) ha disposto (con l'articolo unico, comma 1) che "Gli stipendi e le rimunerazioni per il personale del Ginnasio, della Scuola tecnica e del Convitto nazionale di Tivoli, sono posti a carico dello Stato dal 1° luglio 1892".

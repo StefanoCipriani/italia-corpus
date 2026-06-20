@@ -21,7 +21,7 @@ PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](https://www.normattiva.it
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
+La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
 
 ### Art. 2.
 
@@ -32,7 +32,7 @@ PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](https://www.normattiva.it
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
+La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
 
 ### Art. 3.
 
@@ -43,7 +43,7 @@ PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](https://www.normattiva.it
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
+La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
 
 ### Art. 4.
 
@@ -102,7 +102,7 @@ PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](https://www.normattiva.it
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
+La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
 
 ### Art. 16.
 
@@ -113,7 +113,7 @@ PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](https://www.normattiva.it
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
+La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
 
 ### Art. 17.
 
@@ -124,7 +124,7 @@ PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](https://www.normattiva.it
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
+La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
 
 ### Art. 18.
 
@@ -135,7 +135,7 @@ PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](https://www.normattiva.it
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
+La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
 
 ### Art. 19.
 
@@ -146,7 +146,7 @@ PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](https://www.normattiva.it
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
+La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
 
 ## e della contabilità.
 
@@ -177,7 +177,7 @@ PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](https://www.normattiva.it
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
+La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
 
 ### Art. 25.
 
@@ -188,7 +188,7 @@ PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](https://www.normattiva.it
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
+La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
 
 ### Art. 26.
 
@@ -199,7 +199,7 @@ PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](https://www.normattiva.it
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
+La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
 
 ### Art. 27.
 
@@ -210,7 +210,7 @@ PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](https://www.normattiva.it
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
+La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
 
 ### Art. 28.
 
@@ -221,7 +221,7 @@ PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](https://www.normattiva.it
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
+La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
 
 ### Art. 29.
 
@@ -232,7 +232,7 @@ PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](https://www.normattiva.it
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
+La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
 
 ### Art. 30.
 
@@ -243,7 +243,7 @@ PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](https://www.normattiva.it
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
+La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
 
 ## Delle istituzioni amministrate e vigilate dalle Comunità.
 
@@ -378,7 +378,7 @@ PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](https://www.normattiva.it
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
+La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
 
 ### Art. 57.
 
@@ -389,7 +389,7 @@ PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](https://www.normattiva.it
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
+La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
 
 ### Art. 58.
 
@@ -400,7 +400,7 @@ PROVVEDIMENTO ABROGATO DALLA [L. 8 MARZO 1989, N. 101](https://www.normattiva.it
 
 AGGIORNAMENTO (5)
 
-La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
+La Corte Costituzionale con sentenza del 23 - 25 maggio 1990, n. 259, (in G.U. 1ª s.s. 30-5-1990, n. 22) ha dichiarato "l'illegittimita' costituzionale dell' artt. 1, 2, 3, 15, 16 (recte: 17 ), 18, 19, 24, 25, 26, 27, 28, 29, 30, 56, 57, 58 del [regio decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md) (Norme sulle Comunita' israelitiche e sulla Unione delle comunita' medesime), questione sollevata dalla Corte di cassazione, Sezione Unite civili, con ordinanza emessa l'8 giugno 1989".
 
 ## Disposizioni comuni alle Comunità ed all'Unione.
 

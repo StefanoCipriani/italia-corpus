@@ -28,7 +28,7 @@ Il Comune di San Martino Sinzano e' soppresso, e l'attuale suo territorio resta 
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 8 febbraio 1866, n. 2801](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20proroga%20la%20soppressione%20del%20Comune%20di%20S.%20Martino%20Sinzano%20in%20Provincia%20di%20Parma.%20066U2801.md), ha disposto (con l'articolo unico, comma 1) che "E' prorogata al 1° maggio prossimo l'esecuzione del R. Decreto 6 gennaio scorso, n.° 2774, relativo alla soppressione del Comune di S. Martino Sinzano in Provincia di Parma".
+Il [Regio Decreto 8 febbraio 1866, n. 2801](Che%20proroga%20la%20soppressione%20del%20Comune%20di%20S.%20Martino%20Sinzano%20in%20Provincia%20di%20Parma.%20066U2801.md), ha disposto (con l'articolo unico, comma 1) che "E' prorogata al 1° maggio prossimo l'esecuzione del R. Decreto 6 gennaio scorso, n.° 2774, relativo alla soppressione del Comune di S. Martino Sinzano in Provincia di Parma".
 
 ## Art. 2.
 

@@ -17,4 +17,4 @@ vigente: true
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 29 aprile 1926, n. 781](../Atti%20normativi%20abrogati%20%28in%20originale%29/Fissazione%20della%20sede%20municipale%20del%20comune%20di%20Valbrevenna%20nella%20frazione%20Carsi.%20026U0781.md) ha disposto (con l'art. 1, comma 1) che "Il [R. decreto 15 gennaio 1925, n. 195](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasferimento%20della%20sede%20municipale%20di%20Valbrevenna%20dallattuale%20capoluogo%20Carsi%20alla%20localita%20Chioso.%20025U0195.md), e' revocato, mantenendosi la sede municipale del comune di Valbrevenna nella frazione Carsi".
+Il [Regio Decreto 29 aprile 1926, n. 781](Fissazione%20della%20sede%20municipale%20del%20comune%20di%20Valbrevenna%20nella%20frazione%20Carsi.%20026U0781.md) ha disposto (con l'art. 1, comma 1) che "Il [R. decreto 15 gennaio 1925, n. 195](Trasferimento%20della%20sede%20municipale%20di%20Valbrevenna%20dallattuale%20capoluogo%20Carsi%20alla%20localita%20Chioso.%20025U0195.md), e' revocato, mantenendosi la sede municipale del comune di Valbrevenna nella frazione Carsi".

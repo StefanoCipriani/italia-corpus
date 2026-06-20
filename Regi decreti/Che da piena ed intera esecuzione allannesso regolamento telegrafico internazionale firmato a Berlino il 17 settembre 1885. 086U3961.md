@@ -17,4 +17,4 @@ vigente: true
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 21 luglio 1891, n. 467](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20estende%20alla%20corrispondenza%20telegrafica%20nellinterno%20del%20Regno%20le%20norme%20pel%20servizio%20internazionale.%20091U0467.md), ha disposto (con l'art. 2, comma 1) che la presente modifica ha effetto contemporanemanete al regolamento internazionale di Parigi.
+Il [Regio Decreto 21 luglio 1891, n. 467](Che%20estende%20alla%20corrispondenza%20telegrafica%20nellinterno%20del%20Regno%20le%20norme%20pel%20servizio%20internazionale.%20091U0467.md), ha disposto (con l'art. 2, comma 1) che la presente modifica ha effetto contemporanemanete al regolamento internazionale di Parigi.

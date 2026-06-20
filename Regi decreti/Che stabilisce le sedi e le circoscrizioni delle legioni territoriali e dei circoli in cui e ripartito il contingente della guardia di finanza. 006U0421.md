@@ -38,4 +38,4 @@ Le sedi e le circoscrizioni delle legioni territoriali e dei circoli in cui e' r
 
 AGGIORNAMENTO (2)
 
-Il [Regio Decreto 10 novembre 1912, n. 1245](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20la%20sede%20della%20legione%20allievi%20guardie%20di%20finanza%20viene%20trasferita%20a%20Roma.%20012U1245.md) ha disposto (con l'art. 1, comma 1) che "A datare dal 1° novembre 1912 la sede della legione allievi della R. guardia di finanza e' trasferita a Roma".
+Il [Regio Decreto 10 novembre 1912, n. 1245](Col%20quale%20la%20sede%20della%20legione%20allievi%20guardie%20di%20finanza%20viene%20trasferita%20a%20Roma.%20012U1245.md) ha disposto (con l'art. 1, comma 1) che "A datare dal 1° novembre 1912 la sede della legione allievi della R. guardia di finanza e' trasferita a Roma".

@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Udito il Consiglio di Stato - sezione prima - il cui parere in data 25 giugno 1935-XIII si intende nel presente decreto riportato; 
  
- Veduti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md); 
+ Veduti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md); 
  
  Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno; 
  

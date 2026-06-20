@@ -206,4 +206,4 @@ UMBERTO I.
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 6 marzo 1892, n. 91](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20la%20denominazione%20della%20Scuola%20normale%20superiore%20femminile%20di%20Como.%20092U0091.md) ha disposto (con l'art. 1, comma 1) che "E' rettificato il Nostro decreto 4 gennaio 1891 n. 163, nella sola parte che si riferisce alla denominazione della Scuola normale superiore femminile di Como, la quale invece che al nome di Cesare Ciceri, e' intitolata al nome di Teresa Ciceri".
+Il [Regio Decreto 6 marzo 1892, n. 91](Concernente%20la%20denominazione%20della%20Scuola%20normale%20superiore%20femminile%20di%20Como.%20092U0091.md) ha disposto (con l'art. 1, comma 1) che "E' rettificato il Nostro decreto 4 gennaio 1891 n. 163, nella sola parte che si riferisce alla denominazione della Scuola normale superiore femminile di Como, la quale invece che al nome di Cesare Ciceri, e' intitolata al nome di Teresa Ciceri".

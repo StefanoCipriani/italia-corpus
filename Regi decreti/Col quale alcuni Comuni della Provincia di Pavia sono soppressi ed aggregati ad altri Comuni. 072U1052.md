@@ -51,7 +51,7 @@ A partire dal 1° gennaio 1873:
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 1 settembre 1890, n. 7134](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20revoca%20la%20disposizione%20stabilita%20dal%20R.%20decreto%2015%20ottobre%201872%20sulle%20rendite%20patrimoniali%20e%20passivita%20delle%20frazioni%20di%20Passarello%20Zelata%20e%20Bereguardo%20componenti%20il%20comune%20di%20Beregua_add0c2fcc1ec.md) ha disposto (con l'art. 1, comma 1) che "A partire dal 1° gennaio 1891 resta revocata la disposizione stabilita dal Regio decreto 15 ottobre 1872, di tenere separate le rendite patrimoniali e le passivita' delle frazioni di Passarello, Zelata e Bereguardo, componenti il comune di Bereguardo, e sara' per cio' formato un bilancio unico delle entrate e delle spese del comune stesso".
+Il [Regio Decreto 1 settembre 1890, n. 7134](Che%20revoca%20la%20disposizione%20stabilita%20dal%20R.%20decreto%2015%20ottobre%201872%20sulle%20rendite%20patrimoniali%20e%20passivita%20delle%20frazioni%20di%20Passarello%20Zelata%20e%20Bereguardo%20componenti%20il%20comune%20di%20Beregua_add0c2fcc1ec.md) ha disposto (con l'art. 1, comma 1) che "A partire dal 1° gennaio 1891 resta revocata la disposizione stabilita dal Regio decreto 15 ottobre 1872, di tenere separate le rendite patrimoniali e le passivita' delle frazioni di Passarello, Zelata e Bereguardo, componenti il comune di Bereguardo, e sara' per cio' formato un bilancio unico delle entrate e delle spese del comune stesso".
 
 ## Art. 2.
 

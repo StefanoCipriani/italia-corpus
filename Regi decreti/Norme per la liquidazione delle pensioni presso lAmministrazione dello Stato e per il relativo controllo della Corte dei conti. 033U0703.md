@@ -52,7 +52,7 @@ V. S. N., sono disposti con decreto del Capo del Governo.
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 29 luglio 1933, n. 1026](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20liquidazione%20delle%20pensioni%20al%20personale%20del%20Senato%20del%20Regno%20e%20della%20Camera%20dei%20deputati.%20033U1026.md) ha disposto (con l'articolo unico, comma 2) che la presente modifica avra' effetto dal 16 luglio 1933.
+Il [Regio Decreto 29 luglio 1933, n. 1026](Norme%20per%20la%20liquidazione%20delle%20pensioni%20al%20personale%20del%20Senato%20del%20Regno%20e%20della%20Camera%20dei%20deputati.%20033U1026.md) ha disposto (con l'articolo unico, comma 2) che la presente modifica avra' effetto dal 16 luglio 1933.
 
 ## Art. 4.
 
@@ -76,7 +76,7 @@ Il [Regio Decreto 29 luglio 1933, n. 1026](../Atti%20normativi%20abrogati%20%28i
 
 AGGIORNAMENTO (4)
 
-Il [D.P.R. 30 giugno 1952, n. 865](../DPR/Modificazione%20dellart.%201%20del%20regio%20decreto%201%20aprile%201935%20n.%20459%20concernente%20lordinamento%20del%20Comitato%20per%20le%20pensioni%20privilegiate%20ordinarie.md) ha disposto (con l'articolo unico, comma 1) che "L'[art. 4 del regio decreto 27 giugno 1933, n. 703](Norme%20per%20la%20liquidazione%20delle%20pensioni%20presso%20lAmministrazione%20dello%20Stato%20e%20per%20il%20relativo%20controllo%20della%20Corte%20dei%20conti.%20033U0703.md), sostituito dall'[art. 1 del regio decreto 1 aprile 1935, n. 459](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allordinamento%20del%20Comitato%20per%20le%20pensioni%20privilegiate%20ordinarie.%20035U0459.md), nella parte in cui dispone che i componenti del Comitato per le pensioni privilegiate ordinarie continuino durante l'incarico ad esercitare le loro normali funzioni, non si applica al presidente del Comitato".
+Il [D.P.R. 30 giugno 1952, n. 865](../DPR/Modificazione%20dellart.%201%20del%20regio%20decreto%201%20aprile%201935%20n.%20459%20concernente%20lordinamento%20del%20Comitato%20per%20le%20pensioni%20privilegiate%20ordinarie.md) ha disposto (con l'articolo unico, comma 1) che "L'[art. 4 del regio decreto 27 giugno 1933, n. 703](Norme%20per%20la%20liquidazione%20delle%20pensioni%20presso%20lAmministrazione%20dello%20Stato%20e%20per%20il%20relativo%20controllo%20della%20Corte%20dei%20conti.%20033U0703.md), sostituito dall'[art. 1 del regio decreto 1 aprile 1935, n. 459](Modifiche%20allordinamento%20del%20Comitato%20per%20le%20pensioni%20privilegiate%20ordinarie.%20035U0459.md), nella parte in cui dispone che i componenti del Comitato per le pensioni privilegiate ordinarie continuino durante l'incarico ad esercitare le loro normali funzioni, non si applica al presidente del Comitato".
 
 ## Art. 5.
 

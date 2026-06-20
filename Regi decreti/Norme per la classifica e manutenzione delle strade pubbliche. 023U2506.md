@@ -68,7 +68,7 @@ La spesa relativa e' ripartita tra lo Stato e ciascuna provincia interessata nel
 
 AGGIORNAMENTO (5)
 
-Il [Regio Decreto 14 settembre 1931, n. 1175](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md) ha disposto (ocn l'art. 1, comma 2) che a decorrere dal 1° gennaio 1932 "cessa il contributo, a carico dello Stato, per la manutenzione delle strade di cui all'[art. 3 del R. decreto 15 novembre 1923, n. 2506](Norme%20per%20la%20classifica%20e%20manutenzione%20delle%20strade%20pubbliche.%20023U2506.md)."
+Il [Regio Decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md) ha disposto (ocn l'art. 1, comma 2) che a decorrere dal 1° gennaio 1932 "cessa il contributo, a carico dello Stato, per la manutenzione delle strade di cui all'[art. 3 del R. decreto 15 novembre 1923, n. 2506](Norme%20per%20la%20classifica%20e%20manutenzione%20delle%20strade%20pubbliche.%20023U2506.md)."
 
 ## Art. 4.
 

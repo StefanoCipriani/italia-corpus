@@ -76,4 +76,4 @@ p. agosto.
 
 AGGIORNAMENTO(1)
 
-Il [Regio Decreto 18 gennaio 1864, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20autorizza%20una%20nuova%20denominazione%20del%20Comune%20di%20Montalto%20Porto%20Maurizio.%20064U1652.md) ha disposto (con l'articolo unico, comma 1) che "Il Comune di Montaldo (Porto Maurizio) e' autorizzato ad assumere la denominazione di Montalto Ligure a vece di quella di Montaldo Ligure, approvata col precitato Nostro Decreto de' 26 ottobre 1862, n.° 942".
+Il [Regio Decreto 18 gennaio 1864, n. 1652](Che%20autorizza%20una%20nuova%20denominazione%20del%20Comune%20di%20Montalto%20Porto%20Maurizio.%20064U1652.md) ha disposto (con l'articolo unico, comma 1) che "Il Comune di Montaldo (Porto Maurizio) e' autorizzato ad assumere la denominazione di Montalto Ligure a vece di quella di Montaldo Ligure, approvata col precitato Nostro Decreto de' 26 ottobre 1862, n.° 942".

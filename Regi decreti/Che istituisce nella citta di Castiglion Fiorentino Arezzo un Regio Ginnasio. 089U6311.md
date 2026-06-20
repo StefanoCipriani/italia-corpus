@@ -40,4 +40,4 @@ Nella citta' di Castiglion Fiorentino, a cominciare dal 1° ottobre 1889 e colle
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 14 luglio 1891, n. 473](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20toglie%20al%20Ginnasio%20di%20Castiglion%20Fiorentino%20le%20prerogative%20proprie%20dei%20Ginnasi%20Regi.%20091U0473.md) ha disposto (con l'art. 1, comma 1) che "Col 30 settembre 1891 cessa di avere effetto la convenzione 21 dicembre 1888 pel Ginnasio di Castiglion Fiorentino, e in conseguenza sono tolte al Ginnasio stesso le prerogative proprie dei ginnasi Regi".
+Il [Regio Decreto 14 luglio 1891, n. 473](Che%20toglie%20al%20Ginnasio%20di%20Castiglion%20Fiorentino%20le%20prerogative%20proprie%20dei%20Ginnasi%20Regi.%20091U0473.md) ha disposto (con l'art. 1, comma 1) che "Col 30 settembre 1891 cessa di avere effetto la convenzione 21 dicembre 1888 pel Ginnasio di Castiglion Fiorentino, e in conseguenza sono tolte al Ginnasio stesso le prerogative proprie dei ginnasi Regi".

@@ -57,7 +57,7 @@ I residui del Comune di Legnaia sono aggregati a quello di Casellina e Torri, ri
 
 AGGIORNAMENTO (2)
 
-Il [Regio Decreto 3 luglio 1879, n. 4972](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20vengono%20rettificati%20i%20confini%20dei%20due%20comuni%20di%20Casellina%20e%20Torri%20e%20S.%20Casciano%20in%20Val%20di%20Pesa%20Firenze.%20079U4972.md) ha disposto (con l'art. 1, comma 1) che "Le parole «borro contermine» dell'articolo 5 del Regio decreto 26 luglio 1865 stanno ad indicare il borro della Romola che ha la sua continuazione nel Fosso Grande, nel Borro dell'Ermelino, e per la Sugana si scarica nel torrente Pesa".
+Il [Regio Decreto 3 luglio 1879, n. 4972](Col%20quale%20vengono%20rettificati%20i%20confini%20dei%20due%20comuni%20di%20Casellina%20e%20Torri%20e%20S.%20Casciano%20in%20Val%20di%20Pesa%20Firenze.%20079U4972.md) ha disposto (con l'art. 1, comma 1) che "Le parole «borro contermine» dell'articolo 5 del Regio decreto 26 luglio 1865 stanno ad indicare il borro della Romola che ha la sua continuazione nel Fosso Grande, nel Borro dell'Ermelino, e per la Sugana si scarica nel torrente Pesa".
 
 --------------
 

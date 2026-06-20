@@ -72,7 +72,7 @@ I membri dell'Istituto sono d'ordinario convocati una volta l'anno, o straordina
 
 AGGIORNAMENTO (3)
 
-Il [Regio Decreto 19 giugno 1913, n. 975](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20viene%20modificato%20il%20R.%20decreto%2025%20novembre%201883%20n.%201775%20riguardante%20la%20fondazione%20in%20Roma%20di%20un%20Istituto%20storico%20italiano.%20013U0975.md) ha disposto (con l'art. 2, comma 1) che "L'art. 4 del decreto 25 novembre 1883, n. 1775 (serie 3ª), e' modificato, fissando a cinque il numero dei membri componenti la Giunta esecutiva dell'Istituto. Essi non hanno l'obbligo di risiedere in Roma".
+Il [Regio Decreto 19 giugno 1913, n. 975](Col%20quale%20viene%20modificato%20il%20R.%20decreto%2025%20novembre%201883%20n.%201775%20riguardante%20la%20fondazione%20in%20Roma%20di%20un%20Istituto%20storico%20italiano.%20013U0975.md) ha disposto (con l'art. 2, comma 1) che "L'art. 4 del decreto 25 novembre 1883, n. 1775 (serie 3ª), e' modificato, fissando a cinque il numero dei membri componenti la Giunta esecutiva dell'Istituto. Essi non hanno l'obbligo di risiedere in Roma".
 
 ## Art. 5.
 

@@ -48,7 +48,7 @@ Sono istituiti i seguenti Alti Comandi, retti da vice ammiragli:
 
 AGGIORNAMENTO (4)
 
-Il [Regio Decreto 4 settembre 1925, n. 1697](../Atti%20normativi%20abrogati%20%28in%20originale%29/Soppressione%20del%20Comando%20in%20capo%20dellAlto%20Adriatico%20e%20istituzione%20del%20nuovo%20Comando%20in%20capo%20del%20dipartimento%20marittimo%20dellIonio%20e%20dellAdriatico.%20025U1697.md) ha disposto: 
+Il [Regio Decreto 4 settembre 1925, n. 1697](Soppressione%20del%20Comando%20in%20capo%20dellAlto%20Adriatico%20e%20istituzione%20del%20nuovo%20Comando%20in%20capo%20del%20dipartimento%20marittimo%20dellIonio%20e%20dellAdriatico.%20025U1697.md) ha disposto: 
  - (con l'art. 1, comma 1) la soppressione del Comando in capo del dipartimento marittimo dell'Alto Adriatico con sede a Venezia. 
  -(con l'art. 2, comma 1) che "Il Comando in capo del dipartimento marittimo dell'Ionio e Basso Adriatico, con sede a Taranto, prende la nuova denominazione di Comando in capo del dipartimento marittimo dell'Ionio e dell'Adriatico [...]". 
  -(con l'art. 4, comma 2) che la presente modifica ha effetto dal 21 ottobre 1925.
@@ -65,13 +65,13 @@ Nelle Piazze forti marittime di Spezia, Taranto e Pola e' istituito un Comando m
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 17 giugno 1923, n. 1426](../Atti%20normativi%20abrogati%20%28in%20originale%29/Larsenale%20militare%20marittimo%20di%20Pola%20viene%20denominato%20Base%20navale%20di%20Pola.%20023U1426.md) ha disposto (con l'art. 1, comma 2) che "A parziale modifica dell'[art. 4 del R. decreto 4 gennaio 1923, n. 189](Che%20modifica%20lordinamento%20dei%20servizi%20dipartimentali%20della%20Regia%20marina.%20023U0189.md), il contr'ammiraglio comandante militare marittimo di Pola avra' anche la carica di comandante della Piazza marittima e della Base navale di Pola".
+Il [Regio Decreto 17 giugno 1923, n. 1426](Larsenale%20militare%20marittimo%20di%20Pola%20viene%20denominato%20Base%20navale%20di%20Pola.%20023U1426.md) ha disposto (con l'art. 1, comma 2) che "A parziale modifica dell'[art. 4 del R. decreto 4 gennaio 1923, n. 189](Che%20modifica%20lordinamento%20dei%20servizi%20dipartimentali%20della%20Regia%20marina.%20023U0189.md), il contr'ammiraglio comandante militare marittimo di Pola avra' anche la carica di comandante della Piazza marittima e della Base navale di Pola".
 
 ---------------
 
 AGGIORNAMENTO (3)
 
-Il [Regio Decreto 15 agosto 1924, n. 1303](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20R.%20decreto%204%20gennaio%201923%20n.%20189%20sullordinamento%20dei%20servizi%20dipartimentali.%20024U1303.md) ha disposto (con l'art. 1, comma 1) che "Nelle sedi di Spezia e di Taranto la carica di «comandante militare marittimo e della piazza marittima» e quella di «comandante dell'arsenale» sono distinte fra loro e sono coperte ciascuna da un contr'ammiraglio o contr'ammiraglio di divisione. Il comandante dell'arsenale dipende dall'ufficiale ammiraglio che riveste la carica di comandante militare marittimo e della piazza marittima".
+Il [Regio Decreto 15 agosto 1924, n. 1303](Modificazioni%20al%20R.%20decreto%204%20gennaio%201923%20n.%20189%20sullordinamento%20dei%20servizi%20dipartimentali.%20024U1303.md) ha disposto (con l'art. 1, comma 1) che "Nelle sedi di Spezia e di Taranto la carica di «comandante militare marittimo e della piazza marittima» e quella di «comandante dell'arsenale» sono distinte fra loro e sono coperte ciascuna da un contr'ammiraglio o contr'ammiraglio di divisione. Il comandante dell'arsenale dipende dall'ufficiale ammiraglio che riveste la carica di comandante militare marittimo e della piazza marittima".
 
 ## Art. 5.
 
@@ -124,7 +124,7 @@ Gli ufficiali dei Corpi militari della R. Marina saranno ascritti anziche' ai Co
 
 AGGIORNAMENTO (2)
 
-Il [Regio Decreto 31 ottobre 1923, n. 2466](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20al%20R.%20decreto%204%20gennaio%201923%20n.%20189%20riguardante%20lordinamento%20dei%20servizi%20dipartimentali%20della%20Regia%20marina.%20023U2466.md) ha disposto (con l'art. 4, comma 1) che la presente modifica ha decorrenza dal 1 dicembre 1923.
+Il [Regio Decreto 31 ottobre 1923, n. 2466](Modifiche%20al%20R.%20decreto%204%20gennaio%201923%20n.%20189%20riguardante%20lordinamento%20dei%20servizi%20dipartimentali%20della%20Regia%20marina.%20023U2466.md) ha disposto (con l'art. 4, comma 1) che la presente modifica ha decorrenza dal 1 dicembre 1923.
 
 ## Art. 14.
 
