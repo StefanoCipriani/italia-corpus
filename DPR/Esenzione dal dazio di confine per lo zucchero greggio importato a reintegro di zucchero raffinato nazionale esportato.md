@@ -26,7 +26,7 @@ Vista la [legge 5 aprile 1950, n. 295](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Vista la [legge 27 ottobre 1951, n. 1172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-10-27;1172), che da' piena ed intera esecuzione all'Accordo tariffario concluso tra l'Italia e le Parti contraenti ed i Paesi aderenti, annesso al Protocollo di Torquay del 21 aprile 1951;
 
-Vista la [legge 14 aprile 1952, n. 560](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20Accordi%20italo-svizzeri%20conclusi%20a%20Berna%20il%2014%20luglio%201950%20a%20Avenant%20al%20Trattato%20di%20commercio%20fra%20la%20Svizzera%20e%20lItalia%20del%2027%20gennaio%201923%20b%20Protocollo%20di%20fir_aee455d34e26.md), che ratifica e da' esecuzione agli Accordi italo-svizzeri, conclusi a Berna il 14 luglio 1950;
+Vista la [legge 14 aprile 1952, n. 560](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20italo-svizzeri%20conclusi%20a%20Berna%20il%2014%20luglio%201950%20a%20Avenant%20al%20Trattato%20di%20commercio%20fra%20la%20Svizzera%20e%20lItalia%20del%2027%20gennaio%201923%20b%20Protocollo%20di%20fir_aee455d34e26.md), che ratifica e da' esecuzione agli Accordi italo-svizzeri, conclusi a Berna il 14 luglio 1950;
 
 Vista la [legge 31 ottobre 1952, n. 2360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-10-31;2360), che approva e da' esecuzione all'Accordo tariffario tra l'Italia e la Francia, concluso a Roma il 7 marzo 1950;
 

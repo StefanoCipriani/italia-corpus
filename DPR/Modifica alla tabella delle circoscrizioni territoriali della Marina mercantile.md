@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [decreto del Presidente della Repubblica, 9 agosto 1956, n. 1250](Approvazione%20della%20nuova%20tabella%20delle%20circoscrizioni%20territoriali%20della%20marina%20mercantile.md), che approva la tabella delle circoscrizioni territoriali della Marina mercantile;
 
-Visto il [regio decreto 25 novembre 1937, n. 2360](../Regi%20decreti/Conferimento%20dei%20posti%20di%20incaricato%20marittimo%20e%20di%20delegato%20di%20spiaggia.%20037U2360.md);
+Visto il [regio decreto 25 novembre 1937, n. 2360](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conferimento%20dei%20posti%20di%20incaricato%20marittimo%20e%20di%20delegato%20di%20spiaggia.%20037U2360.md);
 
 Visto l'[art. 16 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 

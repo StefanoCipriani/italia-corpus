@@ -14,7 +14,7 @@ N.
 
 765.
 
-Decreto del Presidente della Repubblica 10 aprile 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, lo statuto della Fondazione "Borsa di studio dott. Ugo Fano", istituita presso l'Universita' di Torino con [regio decreto 3 agosto 1928, n. 2095](../Regi%20decreti/Erezione%20in%20ente%20morale%20della%20Fondazione%20Borsa%20di%20studio%20dott.%20Ugo%20Fano%20istituita%20presso%20la%20Regia%20universita%20di%20Torino.%20028U2095.md), viene abrogato ed in sostituzione di esso viene approvato il nuovo statuto della Fondazione predetta che assume la denominazione "Premio di studio dott. Ugo Fano".
+Decreto del Presidente della Repubblica 10 aprile 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, lo statuto della Fondazione "Borsa di studio dott. Ugo Fano", istituita presso l'Universita' di Torino con [regio decreto 3 agosto 1928, n. 2095](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20della%20Fondazione%20Borsa%20di%20studio%20dott.%20Ugo%20Fano%20istituita%20presso%20la%20Regia%20universita%20di%20Torino.%20028U2095.md), viene abrogato ed in sostituzione di esso viene approvato il nuovo statuto della Fondazione predetta che assume la denominazione "Premio di studio dott. Ugo Fano".
 
 Visto, il Guardasigilli: DE PIETRO
  Registrato alla Corte dei conti, addi' 21 agosto 1954

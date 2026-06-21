@@ -183,7 +183,7 @@ Le soppressioni e le riduzioni da apportare, ai sensi dell'[art. 18 della legge 
  scuole per i contadini", per le istituzioni di
  scuole-asilo ed opere integrative della scuo-
  la nel Lazio e nei territori confinanti . . . . . . . . . 20 1407 - Spese per l'assistenza educativa agli anorma-
- li ([regio decreto 31 dicembre 1923, n. 3126](../Regi%20decreti/Disposizione%20sullobbligo%20dellistruzione.%20023U3126.md)) . . . . . . 30 1438 - Contributo per spese postali al Gruppo di
+ li ([regio decreto 31 dicembre 1923, n. 3126](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizione%20sullobbligo%20dellistruzione.%20023U3126.md)) . . . . . . 30 1438 - Contributo per spese postali al Gruppo di
  azione per le scuole del popolo in Milano . . . . . . . . 1 2693 - Contributi ad enti, istituzioni, associazioni
  e comitati, da erogarsi per i compiti di as-
  sistenza nel campo dell'istruzione a favore
@@ -211,7 +211,7 @@ Le soppressioni e le riduzioni da apportare, ai sensi dell'[art. 18 della legge 
  sistenza agli alunni bisognosi delle scuole
  materne statali . . . . . . . . . . . . . . . . . . . 1.216 1433 - Sussidi per l'assistenza educativa agli a-
  normali ([regio decreto 31 dicembre 1923,
- n. 3126](../Regi%20decreti/Disposizione%20sullobbligo%20dellistruzione.%20023U3126.md)). . . . . . . . . . . . . . . . . . . . . . . 1.430 1642 - Assistenza agli alunni bisognosi. . . . . . . . . . 250 2052 - Sussidi, incoraggiamenti e borse di tirocinio
+ n. 3126](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizione%20sullobbligo%20dellistruzione.%20023U3126.md)). . . . . . . . . . . . . . . . . . . . . . . 1.430 1642 - Assistenza agli alunni bisognosi. . . . . . . . . . 250 2052 - Sussidi, incoraggiamenti e borse di tirocinio
  a favore di alunni degli istituti e scuole
  d'istruzione tecnica e professionale - Aiuti
  a favore di iniziative nel campo dell'istru-

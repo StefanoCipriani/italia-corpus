@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto l'[art. 47 della legge 31 luglio 1954, n. 399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;399#art_47), sullo stato dei sottufficiali dell'Esercito, della Marina e dell'Aeronautica;
 
-Visto l'art. 170 del testo unico delle leggi sul reclutamento dell'Esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e successive modificazioni;
+Visto l'art. 170 del testo unico delle leggi sul reclutamento dell'Esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e successive modificazioni;
 
 Vista la [legge 3 maggio 1955, n. 370](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conservazione%20del%20posto%20ai%20lavoratori%20richiamati%20alle%20armi.md), sulla conservazione del posto ai lavoratori richiamati alle armi;
 
@@ -25,7 +25,7 @@ Sulla proposta del Ministro per la difesa; Decreta:
 ## Art. 1.
 
 Il numero dei sottufficiali in congedo illimitato delle armi e dei servizi dell'Esercito, aventi obblighi di servizio in tempo di pace, che nell'anno 1964 possono essere richiamati alle armi ai sensi dell'[art. 47, comma primo](../Atti%20normativi%20abrogati%20%28in%20originale%29/Stato%20dei%20sottufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) e [secondo, della legge 31 luglio 1954, n. 599](../Atti%20normativi%20abrogati%20%28in%20originale%29/Stato%20dei%20sottufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), sullo stato dei sottufficiali dell'Esercito, della Marina e dell'Aeronautica, e' fissato in diecimila unita'.
- Il numero dei graduati e militari di truppa in congedo illimitato delle armi e dei servizi dell'Esercito, aventi obblighi di servizio in tempo di pace, che nell'anno 1964 possono essere richiamati alle armi ai sensi dell'art. 170 del testo unico delle leggi sul reclutamento dell'Esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e' fissato in cinquantamila unita'.
+ Il numero dei graduati e militari di truppa in congedo illimitato delle armi e dei servizi dell'Esercito, aventi obblighi di servizio in tempo di pace, che nell'anno 1964 possono essere richiamati alle armi ai sensi dell'art. 170 del testo unico delle leggi sul reclutamento dell'Esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e' fissato in cinquantamila unita'.
 
 ## Art. 2.
 

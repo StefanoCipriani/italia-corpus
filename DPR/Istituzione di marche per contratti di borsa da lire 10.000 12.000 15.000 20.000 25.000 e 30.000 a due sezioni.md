@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), disciplinante il trattamento tributario dei contratti di borsa;
+Visto il [regio decreto 30 dicembre 1923, n. 3278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), disciplinante il trattamento tributario dei contratti di borsa;
 
 Vista la [legge 10 novembre 1954, n. 1079](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-10;1079), recante modificazioni in materia di tasse sui contratti di borsa;
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli articoli 8 e 9 del Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
-Visto l'art. 4 del regolamento addizionale delle radiocomunicazioni approvato con [regio decreto 9 settembre 1938, n. 1868](../Regi%20decreti/Esecuzione%20nel%20Regno%20nellAfrica%20Orientale%20Italiana%20nella%20Libia%20e%20nelle%20Isole%20Italiane%20dellEgeo%20degli%20Atti%20stipulati%20dalla%20Conferenza%20internazionale%20delle%20telecomunicazioni%20del%20Cairo%204-8%20a_37609d8a432d.md);
+Visto l'art. 4 del regolamento addizionale delle radiocomunicazioni approvato con [regio decreto 9 settembre 1938, n. 1868](../Atti%20normativi%20abrogati%20%28in%20originale%29/Esecuzione%20nel%20Regno%20nellAfrica%20Orientale%20Italiana%20nella%20Libia%20e%20nelle%20Isole%20Italiane%20dellEgeo%20degli%20Atti%20stipulati%20dalla%20Conferenza%20internazionale%20delle%20telecomunicazioni%20del%20Cairo%204-8%20a_37609d8a432d.md);
 
 Ritenuta la necessita' di stabilire le tasse telegrafiche e radiotelegrafiche per alcune categorie di marconigrammi scambiati con le aeronavi;
 

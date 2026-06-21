@@ -24,7 +24,7 @@ E' approvata e resa esecutiva l'annessa convenzione, stipulata in Milano il 18 g
 
 ## Art. 2.
 
-E' istituito, ai sensi dell'art. 1 (sub. [art. 13-bis) della legge 24 giugno 1950, n. 465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), un posto di assistente ordinario in aggiunta a quelli gia' assegnati alla Facolta' di medicina e chirurgia dell'Universita' di Milano.
+E' istituito, ai sensi dell'art. 1 (sub. [art. 13-bis) della legge 24 giugno 1950, n. 465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), un posto di assistente ordinario in aggiunta a quelli gia' assegnati alla Facolta' di medicina e chirurgia dell'Universita' di Milano.
 
 ## Art. 3.
 

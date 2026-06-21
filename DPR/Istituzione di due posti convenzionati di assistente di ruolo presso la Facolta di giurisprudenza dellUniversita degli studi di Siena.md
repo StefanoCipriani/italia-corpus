@@ -22,7 +22,7 @@ E' approvata e resa esecutiva l'annessa convenzione stipulata in Siena in data 1
 
 ## Art. 2.
 
-Sono istituiti, ai sensi dell'art. 1 (sub-[articolo 13-bis) della legge 24 giugno 1950, n. 465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), due posti di assistente ordinario in aggiunta a quelli di ruolo-organico assegnati alla Facolta' di giurisprudenza dell'Universita' di Siena in base al [decreto legislativo 7 maggio 1948, n. 1172](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md), e successive modificazioni.
+Sono istituiti, ai sensi dell'art. 1 (sub-[articolo 13-bis) della legge 24 giugno 1950, n. 465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), due posti di assistente ordinario in aggiunta a quelli di ruolo-organico assegnati alla Facolta' di giurisprudenza dell'Universita' di Siena in base al [decreto legislativo 7 maggio 1948, n. 1172](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md), e successive modificazioni.
 
 ## Art. 3.
 

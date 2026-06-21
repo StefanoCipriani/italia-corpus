@@ -16,7 +16,7 @@ Visto il voto favorevole del Consiglio comunale di Traversetolo, espresso con [d
 
 Viste le [deliberazioni 20 maggio 1948, n. 25, del Consiglio comunale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1948-05-20;25) di Neviano degli Arduini e 7 luglio 1948 della Deputazione provinciale di Parma, esprimenti il rispettivo parere in ordine alla citata istanza;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
- Visto il [regio decreto 24 luglio 1938, n. 1742](../Regi%20decreti/Modificazioni%20agli%20statuti%20e%20tabelle%20organiche%20di%20n.%2022%20Regie%20scuole%20tecniche%20a%20indirizzo%20commerciale.%20038U1742.md), riguardante la tabella organica della Scuola tecnica industriale di Reggio Emilia;
+ Visto il [regio decreto 24 luglio 1938, n. 1742](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20agli%20statuti%20e%20tabelle%20organiche%20di%20n.%2022%20Regie%20scuole%20tecniche%20a%20indirizzo%20commerciale.%20038U1742.md), riguardante la tabella organica della Scuola tecnica industriale di Reggio Emilia;
  Visto il decreto interministeriale 15 giugno 1946, registrato alla Corte dei conti il 5 luglio 1946, registro n. 17, foglio n. 328, con il quale viene approvata la tabella organica dell'Istituto tecnico industriale di Reggio Emilia;
  Considerata l'opportunita' di affidare la direzione della predetta, Scuola al preside dell'Istituto tecnico industriale e di unificare l'amministrazione dell'Istituto e della Scuola;
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quello per il tesoro;

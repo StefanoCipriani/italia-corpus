@@ -12,10 +12,10 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 15 maggio 1930, n. 1170](../Regi%20decreti/Norme%20per%20il%20pareggiamento%20degli%20Istituti%20musicali.%20030U1170.md);
+ Visto il [regio decreto 15 maggio 1930, n. 1170](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20pareggiamento%20degli%20Istituti%20musicali.%20030U1170.md);
  Visto il [regio decreto 11 dicembre 1930, n. 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-11;1915);
  Visto il [decreto del Presidente della Repubblica 7 agosto 1964, n. 940](Pareggiamento%20della%20Scuola%20di%20canto%20presso%20lIstituto%20musicale%20pareggiato%20G.%20Frescobaldi%20di%20Ferrara.md), con il quale la Scuola di canto presso l'Istituto musicale pareggiato "G. Frescobaldi" di Ferrara e' stata pareggiata a tutti gli effetti di legge alla Scuola analoga dei Conservatori di musica dello Stato, a decorrere dall'anno scolastico 1964-65;
- Considerato che la relazione della Commissione tecnico-amministrativa, incaricata dal Ministero della pubblica istruzione degli accertamenti di cui al citato [regio decreto 15 maggio 1930, n. 1170](../Regi%20decreti/Norme%20per%20il%20pareggiamento%20degli%20Istituti%20musicali.%20030U1170.md), presso l'Istituto predetto, e' stata redatta in data 19 giugno 1963, e che il parere favorevole del Consiglio superiore delle antichita' e belle arti e' stato espresso in data 12 marzo 1964 e cioe' anteriormente all'inizio degli esami della prima sessione dell'anno scolastico 1963-64;
+ Considerato che la relazione della Commissione tecnico-amministrativa, incaricata dal Ministero della pubblica istruzione degli accertamenti di cui al citato [regio decreto 15 maggio 1930, n. 1170](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20pareggiamento%20degli%20Istituti%20musicali.%20030U1170.md), presso l'Istituto predetto, e' stata redatta in data 19 giugno 1963, e che il parere favorevole del Consiglio superiore delle antichita' e belle arti e' stato espresso in data 12 marzo 1964 e cioe' anteriormente all'inizio degli esami della prima sessione dell'anno scolastico 1963-64;
  Sulla proposta del Ministro per la pubblica istruzione;
 
  Decreta:

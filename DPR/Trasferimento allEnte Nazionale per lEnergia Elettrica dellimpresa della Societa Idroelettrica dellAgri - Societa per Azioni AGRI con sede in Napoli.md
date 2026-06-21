@@ -24,7 +24,7 @@ Visto l'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Ritenuto che l'impresa appartenente alla "Societa' Idroelettrica dell'Agri - Societa' per Azioni (AGRI)", con sede in Napoli, via Roberto Bracco n. 20, rientra tra le imprese previste dall'art. 1 del decreto del Presidente della, Repubblica 4 febbraio 19°63, [n. 36, e dall'articolo 3 della legge 27 giugno 1964, n. 452](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Rinnovo%20di%20delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20relative%20allorganizzazione%20e%20al%20trattamento%20tributario%20dellEnte%20nazionale%20per%20lenergia%20elettrica%20e%20norme%20integrative%20della%20legge%206%20_d24ae857abef.md);
+Ritenuto che l'impresa appartenente alla "Societa' Idroelettrica dell'Agri - Societa' per Azioni (AGRI)", con sede in Napoli, via Roberto Bracco n. 20, rientra tra le imprese previste dall'art. 1 del decreto del Presidente della, Repubblica 4 febbraio 19°63, [n. 36, e dall'articolo 3 della legge 27 giugno 1964, n. 452](../Atti%20normativi%20abrogati%20%28in%20originale%29/Rinnovo%20di%20delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20relative%20allorganizzazione%20e%20al%20trattamento%20tributario%20dellEnte%20nazionale%20per%20lenergia%20elettrica%20e%20norme%20integrative%20della%20legge%206%20_d24ae857abef.md);
 
 Sentito il Consiglio dei Ministri;
 

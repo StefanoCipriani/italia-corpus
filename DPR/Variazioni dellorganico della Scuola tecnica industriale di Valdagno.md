@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
- Visto il [regio decreto 24 luglio 1938, n. 1742](../Regi%20decreti/Modificazioni%20agli%20statuti%20e%20tabelle%20organiche%20di%20n.%2022%20Regie%20scuole%20tecniche%20a%20indirizzo%20commerciale.%20038U1742.md), riguardante tra l'altro, la tabella organica della Scuola tecnica industriale di Valdagno;
+ Visto il [regio decreto 24 luglio 1938, n. 1742](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20agli%20statuti%20e%20tabelle%20organiche%20di%20n.%2022%20Regie%20scuole%20tecniche%20a%20indirizzo%20commerciale.%20038U1742.md), riguardante tra l'altro, la tabella organica della Scuola tecnica industriale di Valdagno;
  Visto il [decreto luogotenenziale 12 aprile 1946, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-12;627), con il quale, tra l'altro, si provvede all'istituzione in Valdagno di un Istituto tecnico industriale;
  Vista la tabella D annessa al predetto decreto luogotenenziale (prospetto n. 1);
  Visto il decreto interministeriale 9 luglio 1947, registrato alla Corte dei conti il 24 marzo 1948, registro n. 11, foglio n. 152, con il quale e' stata approvata la tabella organica del suddetto Istituto;

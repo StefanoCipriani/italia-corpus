@@ -36,7 +36,7 @@ Visto il [decreto legislativo 1° agosto 2003, n. 259](../Codici/Codice%20delle%
 
 Vista la [legge 3 maggio 2004, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20principio%20in%20materia%20di%20assetto%20del%20sistema%20radiotelevisivo%20e%20della%20RAI-Radiotelevisione%20italiana%20S.p.a.%20nonche%20delega%20al%20Governo%20per%20lemanazione%20del%20testo%20unico%20della%20radiotelevisione.md);
 
-Visto il testo unico della radiotelevisione, di cui al [decreto legislativo 31 luglio 2005, n. 177](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Testo%20unico%20dei%20servizi%20di%20media%20audiovisivi%20e%20radiofonici.md);
+Visto il testo unico della radiotelevisione, di cui al [decreto legislativo 31 luglio 2005, n. 177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20della%20radiotelevisione.md);
 
 Sentite le organizzazioni sindacali in data 8 giugno 2004;
 

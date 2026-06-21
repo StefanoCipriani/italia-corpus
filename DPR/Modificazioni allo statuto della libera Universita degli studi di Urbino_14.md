@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto lo statuto della libera Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](../Regi%20decreti/Riconoscimento%20dellUniversita%20di%20Urbino%20come%20Universita%20libera%20cd%20approvazione%20del%20relativo%20statuto.%20025U0230.md) e modificato con [regio decreto 31 ottobre 1929, n. 2475](../Regi%20decreti/Modifiche%20allo%20statuto%20della%20libera%20Universita%20di%20Urbino.%20029U2475.md), e successive modificazioni;
+Veduto lo statuto della libera Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](../Regi%20decreti/Riconoscimento%20dellUniversita%20di%20Urbino%20come%20Universita%20libera%20cd%20approvazione%20del%20relativo%20statuto.%20025U0230.md) e modificato con [regio decreto 31 ottobre 1929, n. 2475](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allo%20statuto%20della%20libera%20Universita%20di%20Urbino.%20029U2475.md), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 

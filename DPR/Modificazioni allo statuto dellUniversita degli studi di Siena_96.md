@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Siena.%20027U2831.md) e modificato con [regio decreto 31 ottobre 1929, n. 2395](../Regi%20decreti/Modifiche%20allo%20statuto%20della%20Regia%20universita%20di%20Siena.%20029U2395.md), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Siena.%20027U2831.md) e modificato con [regio decreto 31 ottobre 1929, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allo%20statuto%20della%20Regia%20universita%20di%20Siena.%20029U2395.md), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 

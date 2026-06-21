@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista, la deliberazione in data 14 settembre 1947, con la, quale il Consiglio comunale di Verzegnis ha chiesto che la sede del Comune sia trasferita dalla borgata di Santo Stefano alla frazione di Chiaulis;
  Visto il parere favorevole espresso in merito dall'Deputazione provinciale di Udine con atto 13 gennaio 1949;
- Visto L'art. 266 del testo unico della, legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto L'art. 266 del testo unico della, legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro per l'interno;
 
  Decreta:

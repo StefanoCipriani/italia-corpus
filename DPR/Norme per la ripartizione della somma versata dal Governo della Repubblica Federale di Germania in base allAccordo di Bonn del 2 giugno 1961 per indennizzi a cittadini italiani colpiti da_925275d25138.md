@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87), Visto l'[art. 3 della legge 6 febbraio 1963, n. 404](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellAccordo%20tra%20la%20Repubblica%20Italiana%20e%20la%20Repubblica%20Federale%20di%20Germania%20per%20gli%20indennizzi%20a%20cittadini%20italiani%20colpiti%20da%20misure%20di%20persecuzione%20nazionalsocial_f9266bf148ec.md), relativa all'Accordo italo-germanico per gli indennizzi a cittadini italiani colpiti da misure di persecuzione nazionalsocialiste, concluso a Bonn il 2 giugno 1961;
+Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87), Visto l'[art. 3 della legge 6 febbraio 1963, n. 404](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellAccordo%20tra%20la%20Repubblica%20Italiana%20e%20la%20Repubblica%20Federale%20di%20Germania%20per%20gli%20indennizzi%20a%20cittadini%20italiani%20colpiti%20da%20misure%20di%20persecuzione%20nazionalsocial_f9266bf148ec.md), relativa all'Accordo italo-germanico per gli indennizzi a cittadini italiani colpiti da misure di persecuzione nazionalsocialiste, concluso a Bonn il 2 giugno 1961;
 
 Udito il parere della Commissione parlamentare prevista dall'art. 3 della legge sopraindicata;
 
@@ -66,7 +66,7 @@ La domanda per ottenere la liquidazione dell'indennizzo deve essere presentata a
  data effettiva o presunta della morte per i deceduti in stato di deportazione o a causa di essa.
  La domanda, se presentata dal deportato, deve essere corredata dei seguenti documenti:
  a) certificato attestante cime il richiedente alla data della deportazione era cittadino italiano;
- b) ogni documento atto a comprovare il fatto della cattura, della deportazione ed il motivo che lo ha determinato, quali l'attestazione di reduce dalla deportazione rilasciata dal prefetto ai sensi dell'[art. 8 del decreto luogotenenziale 14 febbraio 1946, n. 27](../Decreti%20legislativi%20luogotenenziali/Norme%20integrative%20sulla%20riassunzione%20e%20assunzione%20Obbligatoria%20dei%20reduci%20nelle%20aziende%20private.md), o le dichiarazioni rilasciate dagli Enti indicati nell'art. 13;
+ b) ogni documento atto a comprovare il fatto della cattura, della deportazione ed il motivo che lo ha determinato, quali l'attestazione di reduce dalla deportazione rilasciata dal prefetto ai sensi dell'[art. 8 del decreto luogotenenziale 14 febbraio 1946, n. 27](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20sulla%20riassunzione%20e%20assunzione%20Obbligatoria%20dei%20reduci%20nelle%20aziende%20private.md), o le dichiarazioni rilasciate dagli Enti indicati nell'art. 13;
  c) dichiarazione di non aver percepito, ne' direttamente ne' indirettamente, alcuna somma a titolo di indennizzo da parte della Repubblica Federale di Germania. Tale dichiarazione deve essere redatta a termini dell'[art. 7 del decreto del Presidente della Repubblica 2 agosto 1957, n. 678](Nuove%20norme%20sulle%20documentazioni%20amministrative%20e%20sulla%20legalizzazione%20di%20firme.md).
  Se presentata dall'avente causa la domanda deve essere corredata, altre che dei documenti di cui alle lettere da a) a c), anche dei seguenti documenti:
  d) stato di famiglia;
@@ -126,7 +126,7 @@ Una frazione della somma versata dalla Repubblica Federale di Germania, nella mi
 
 ## Art. 14.
 
-La somma pagata dalla Repubblica Federale di Germania in virtu' dell'Accordo del 2 giugno 1961, viene depositata nel suo complesso in un conto speciale fruttifero presso la Tesoreria centrale dello Stato denominato "Fondo versato dalla Repubblica Federale di Germania da erogarsi ai sensi della [legge 6 febbraio 1963, n. 404](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellAccordo%20tra%20la%20Repubblica%20Italiana%20e%20la%20Repubblica%20Federale%20di%20Germania%20per%20gli%20indennizzi%20a%20cittadini%20italiani%20colpiti%20da%20misure%20di%20persecuzione%20nazionalsocial_f9266bf148ec.md)".
+La somma pagata dalla Repubblica Federale di Germania in virtu' dell'Accordo del 2 giugno 1961, viene depositata nel suo complesso in un conto speciale fruttifero presso la Tesoreria centrale dello Stato denominato "Fondo versato dalla Repubblica Federale di Germania da erogarsi ai sensi della [legge 6 febbraio 1963, n. 404](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellAccordo%20tra%20la%20Repubblica%20Italiana%20e%20la%20Repubblica%20Federale%20di%20Germania%20per%20gli%20indennizzi%20a%20cittadini%20italiani%20colpiti%20da%20misure%20di%20persecuzione%20nazionalsocial_f9266bf148ec.md)".
  Per la corresponsione degli indennizzi spettanti agli aventi diritto, le operazioni di prelevamento sul fondo di cui ad comma precedente saranno effettuate con le modalita' da stabilirsi con provvedimento del Ministro per il tesoro.
  La risultanza attiva del suddetto conto speciale, dopo il prelevamento delle percentuali di cui all'art. 13 e la corresponsione degli indennizzi, sara' distribuita, in parti uguali, alle tre Associazioni di cui allo stesso art. 13.
 

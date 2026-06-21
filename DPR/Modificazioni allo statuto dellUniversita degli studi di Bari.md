@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 13 luglio 1939, n. 1168](../Regi%20decreti/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Bari.%20039U1168.md), e modificato con [regio decreto 26 ottobre 1940, n. 2029](../Regi%20decreti/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Bari.%20040U2029.md), e successivi;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 13 luglio 1939, n. 1168](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Bari.%20039U1168.md), e modificato con [regio decreto 26 ottobre 1940, n. 2029](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Bari.%20040U2029.md), e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Veduto il [decreto legislativo 28 gennaio 1948, n. 170](../Decreti%20Legislativi/Istituzione%20presso%20lUniversita%20di%20Bari%20delle%20Facolta%20di%20lettere%20e%20filosofia%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20ingegneria%20e%20legalizzazione%20dei%20corsi%20di%20insegnamento%20provvisori_59aedc6c9611.md), con il quale sono state istituite le Facolta' di lettere e filosofia, scienze matematiche, fisiche e naturali e d'ingegneria;
 
@@ -450,7 +450,7 @@ Insegnamenti complementari per l'indirizzo organico biologico:
 
 10) fisiologia generale (corso speciale per chimici).
 
-(*)Per gli insegnamenti contrassegnati con asterisco valgono le norme di cui alla tabella 19 penultimo ed ultimo comma del [regio decreto 24 ottobre 1941, n. 1375](../Regi%20decreti/Modificazione%20dellordinamento%20dei%20corsi%20di%20laurea%20in%20chimica%20in%20chimica%20Industriale.%20041U1375.md).
+(*)Per gli insegnamenti contrassegnati con asterisco valgono le norme di cui alla tabella 19 penultimo ed ultimo comma del [regio decreto 24 ottobre 1941, n. 1375](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20dellordinamento%20dei%20corsi%20di%20laurea%20in%20chimica%20in%20chimica%20Industriale.%20041U1375.md).
 
 I tre insegnamenti complementari di analisi matematica, di geometria analitica, con elementi di proiettiva e di meccanica razionale con elementi di statica grafica possono sostituire l'unico insegnamento fondamentale di istituzioni di matematiche (biennale).
 
@@ -462,7 +462,7 @@ Per ottenere l'iscrizione al triennio di applicazione lo studente deve aver segu
 
 Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali prescritti per il triennio di applicazione ed almeno i sette da lui scelti tra i complementari del gruppo seguito.
 
-Per gli insegnamenti contrassegnati con asterisco valgono le norme di cui alla tabella 19 penultimo ed ultimo comma del [regio decreto 24 ottobre 1941, n. 1375](../Regi%20decreti/Modificazione%20dellordinamento%20dei%20corsi%20di%20laurea%20in%20chimica%20in%20chimica%20Industriale.%20041U1375.md).
+Per gli insegnamenti contrassegnati con asterisco valgono le norme di cui alla tabella 19 penultimo ed ultimo comma del [regio decreto 24 ottobre 1941, n. 1375](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20dellordinamento%20dei%20corsi%20di%20laurea%20in%20chimica%20in%20chimica%20Industriale.%20041U1375.md).
 
 Art. 62. - Lo studente non potra' essere ammesso a sostenere l'esame di chimica analitica senza aver prima superato l'esame di chimica generale ed inorganica; non potra' essere ammesso a sostenere l'esame li esercitazioni di analisi chimica qualitativa senza aver prima superato l'esame di esercitazioni di preparazioni chimiche (primo anno del biennio propedeutico) in via transitoria (mancando lo sbarramento del biennio), non potra' essere ammesso a sostenere gli esami di chimica fisica, e di esercitazioni di chimica fisica senza aver prima superato gli esami di istituzioni di matematiche (1° e 2° corso), di esercitazioni di matematiche (1° e 2° corso), di chimica generale ed inorganica, di chimica organica, di fisica sperimentale e di esercitazioni di fisica sperimentale; ne' potra' essere ammesso a sostenere l'esame di esercitazioni di analisi chimica quantitativa senza aver prima superato l'esame di esercitazioni di analisi chimica qualitativa non potra' essere ammesso a sostenere l'esame di analisi matematica infinitesimale ne' quello di meccanica razionale senza aver prima superato l'esame di analisi matematica algebrica; non potra' essere ammesso a sostenere l'esame di farmacologia senza aver prima superato l'esame di fisiologia generale.
 
@@ -772,9 +772,9 @@ Registrato alla Corte dei conti, addi' 22 luglio 1949 Atti del Governo, registro
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 13 luglio 1939, n. 1168](../Regi%20decreti/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Bari.%20039U1168.md), e modificato con [regio decreto 26 ottobre 1940, n. 2029](../Regi%20decreti/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Bari.%20040U2029.md), e successivi;
+ Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 13 luglio 1939, n. 1168](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Bari.%20039U1168.md), e modificato con [regio decreto 26 ottobre 1940, n. 2029](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Bari.%20040U2029.md), e successivi;
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
- Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
  Veduto il [decreto legislativo 28 gennaio 1948, n. 170](../Decreti%20Legislativi/Istituzione%20presso%20lUniversita%20di%20Bari%20delle%20Facolta%20di%20lettere%20e%20filosofia%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20ingegneria%20e%20legalizzazione%20dei%20corsi%20di%20insegnamento%20provvisori_59aedc6c9611.md), con il quale sono state istituite le Facolta' di lettere e filosofia, scienze matematiche, fisiche e naturali e d'ingegneria;
  Veduto il [decreto legislativo 7 maggio 1948, n. 808](../Decreti%20Legislativi/Norme%20concernenti%20le%20proposte%20relative%20allordinamento%20didattico%20delle%20Facolta%20di%20lettere%20e%20filosofia%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20ingegneria%20dellUniversita%20di%20Bari.md), con il quale sono stati istituiti appositi Comitati tecnici per le predette tre Facolta' universitarie;
  Vedute le proposte relative a modifiche da apportarsi allo statuto dell'Universita' anzidetta;
@@ -1000,13 +1000,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  8) chimica applicata (al materiale da costruzione);
  (*) 9) chimica agraria;
  10) fisiologia generale (corso speciale per chimici).
- (*)Per gli insegnamenti contrassegnati con asterisco valgono le norme di cui alla tabella 19 penultimo ed ultimo comma del [regio decreto 24 ottobre 1941, n. 1375](../Regi%20decreti/Modificazione%20dellordinamento%20dei%20corsi%20di%20laurea%20in%20chimica%20in%20chimica%20Industriale.%20041U1375.md).
+ (*)Per gli insegnamenti contrassegnati con asterisco valgono le norme di cui alla tabella 19 penultimo ed ultimo comma del [regio decreto 24 ottobre 1941, n. 1375](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20dellordinamento%20dei%20corsi%20di%20laurea%20in%20chimica%20in%20chimica%20Industriale.%20041U1375.md).
  I tre insegnamenti complementari di analisi matematica, di geometria analitica, con elementi di proiettiva e di meccanica razionale con elementi di statica grafica possono sostituire l'unico insegnamento fondamentale di istituzioni di matematiche (biennale).
  L'insegnamento complementare (biennale) di analisi matematica importa due esami distinti.
  Gli insegnamenti biennali importano un esame alla fine di ciascun anno di corso.
  Per ottenere l'iscrizione al triennio di applicazione lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per il biennio di studi propedeutici.
  Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali prescritti per il triennio di applicazione ed almeno i sette da lui scelti tra i complementari del gruppo seguito.
- Per gli insegnamenti contrassegnati con asterisco valgono le norme di cui alla tabella 19 penultimo ed ultimo comma del [regio decreto 24 ottobre 1941, n. 1375](../Regi%20decreti/Modificazione%20dellordinamento%20dei%20corsi%20di%20laurea%20in%20chimica%20in%20chimica%20Industriale.%20041U1375.md).
+ Per gli insegnamenti contrassegnati con asterisco valgono le norme di cui alla tabella 19 penultimo ed ultimo comma del [regio decreto 24 ottobre 1941, n. 1375](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20dellordinamento%20dei%20corsi%20di%20laurea%20in%20chimica%20in%20chimica%20Industriale.%20041U1375.md).
  Art. 62. - Lo studente non potra' essere ammesso a sostenere l'esame di chimica analitica senza aver prima superato l'esame di chimica generale ed inorganica; non potra' essere ammesso a sostenere l'esame li esercitazioni di analisi chimica qualitativa senza aver prima superato l'esame di esercitazioni di preparazioni chimiche (primo anno del biennio propedeutico) in via transitoria (mancando lo sbarramento del biennio), non potra' essere ammesso a sostenere gli esami di chimica fisica, e di esercitazioni di chimica fisica senza aver prima superato gli esami di istituzioni di matematiche (1° e 2° corso), di esercitazioni di matematiche (1° e 2° corso), di chimica generale ed inorganica, di chimica organica, di fisica sperimentale e di esercitazioni di fisica sperimentale; ne' potra' essere ammesso a sostenere l'esame di esercitazioni di analisi chimica quantitativa senza aver prima superato l'esame di esercitazioni di analisi chimica qualitativa non potra' essere ammesso a sostenere l'esame di analisi matematica infinitesimale ne' quello di meccanica razionale senza aver prima superato l'esame di analisi matematica algebrica; non potra' essere ammesso a sostenere l'esame di farmacologia senza aver prima superato l'esame di fisiologia generale.
  Art. 63. - Laurea in scienze naturali. La durata del corso degli studi per la laurea in scienze naturali e di quattro anni.
  E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.

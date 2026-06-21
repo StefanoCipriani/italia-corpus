@@ -112,7 +112,7 @@ Rimangono in vigore le norme attualmente vigenti relative all'Opificio delle pie
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 29 dicembre 2000, n. 441](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali.md) ha disposto (con l'art. 17, comma 4) l'abrogazione degli [artt. da 12](Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md) [a 29](Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md) e [33 decreto del Presidente della Repubblica 3 dicembre 1975, n. 805](Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md) a decorrere dalla data di entrata in vigore del corrispettivo regolamento di organizzazione di ciascuno degli istituti ivi contemplati.
+Il [D.P.R. 29 dicembre 2000, n. 441](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali.md) ha disposto (con l'art. 17, comma 4) l'abrogazione degli [artt. da 12](Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md) [a 29](Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md) e [33 decreto del Presidente della Repubblica 3 dicembre 1975, n. 805](Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md) a decorrere dalla data di entrata in vigore del corrispettivo regolamento di organizzazione di ciascuno degli istituti ivi contemplati.
 
 --------------
 
@@ -128,7 +128,7 @@ Le Soprintendenze speciali al museo delle antichita' egizie, con sede in Torino,
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 29 dicembre 2000, n. 441](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali.md) ha disposto (con l'art. 17, comma 4) l'abrogazione degli [artt. da 12](Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md) [a 29](Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md) e [33 decreto del Presidente della Repubblica 3 dicembre 1975, n. 805](Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md) a decorrere dalla data di entrata in vigore del corrispettivo regolamento di organizzazione di ciascuno degli istituti ivi contemplati.
+Il [D.P.R. 29 dicembre 2000, n. 441](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali.md) ha disposto (con l'art. 17, comma 4) l'abrogazione degli [artt. da 12](Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md) [a 29](Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md) e [33 decreto del Presidente della Repubblica 3 dicembre 1975, n. 805](Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md) a decorrere dalla data di entrata in vigore del corrispettivo regolamento di organizzazione di ciascuno degli istituti ivi contemplati.
 
 ### Art. 25.
 
@@ -156,7 +156,7 @@ E' istituito in Roma l'Istituto nazionale per la grafica, con compiti di salvagu
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 29 dicembre 2000, n. 441](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali.md) ha disposto (con l'art. 17, comma 4) l'abrogazione degli [artt. da 12](Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md) [a 29](Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md) e [33 decreto del Presidente della Repubblica 3 dicembre 1975, n. 805](Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md) a decorrere dalla data di entrata in vigore del corrispettivo regolamento di organizzazione di ciascuno degli istituti ivi contemplati.
+Il [D.P.R. 29 dicembre 2000, n. 441](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali.md) ha disposto (con l'art. 17, comma 4) l'abrogazione degli [artt. da 12](Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md) [a 29](Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md) e [33 decreto del Presidente della Repubblica 3 dicembre 1975, n. 805](Organizzazione%20del%20Ministero%20per%20i%20beni%20culturali%20e%20ambientali.md) a decorrere dalla data di entrata in vigore del corrispettivo regolamento di organizzazione di ciascuno degli istituti ivi contemplati.
 
 ### Art. 30.
 
@@ -241,7 +241,7 @@ Titolo secondo
 
 ### Art. 49.
 
-((IL [D.P.R. 29 DICEMBRE 2000, N. 441](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.P.R. 29 DICEMBRE 2000, N. 441](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ### Art. 50.
 

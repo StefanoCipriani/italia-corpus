@@ -16,7 +16,7 @@ Visto il voto favorevole del Consiglio comunale di Refrancore, espresso con [del
 
 Viste le [deliberazioni 23 aprile 1950, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1950-04-23;20) e [24 novembre 1951, n. 41, del Consiglio comunale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1951-11-24;41) di Montemagno; 12 gennaio 1951, n. 12, della Deputazione provinciale di Asti e 5 dicembre 1951, n. 90, del Consiglio provinciale di Asti, esprimenti il rispettivo parere in ordine alla citata istanza;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

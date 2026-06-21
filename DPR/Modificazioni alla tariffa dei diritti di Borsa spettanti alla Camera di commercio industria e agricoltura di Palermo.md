@@ -14,7 +14,7 @@ Visto il [decreto del Presidente della Repubblica 21 settembre 1950, n. 900](Tar
 
 Vista la deliberazione in data 13 dicembre 1961, della Camera di commercio, industria ed agricoltura di Palermo, con la quale sono state proposte modificazioni alla tariffa suddetta;
 
-Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale si stabilisce la forma e l'organo competente per la emanazione dei provvedimenti riguardanti i diritti di Borsa;
+Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale si stabilisce la forma e l'organo competente per la emanazione dei provvedimenti riguardanti i diritti di Borsa;
 
 Sulla proposta del Ministro Segretario di Stato per il tesoro; Decreta
 

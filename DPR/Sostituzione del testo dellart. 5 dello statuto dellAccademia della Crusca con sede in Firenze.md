@@ -14,7 +14,7 @@ N.
 
 537.
 
-Decreto del Presidente della Repubblica 26 gennaio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, viene sostituito il testo del l'art. 5 dello statuto dell'Accademia della Crusca, con sede in Firenze, approvato con [regio decreto 11 aprile 1935, n. 665](../Regi%20decreti/Modificazioni%20allordinamento%20della%20Reale%20Accademia%20della%20Crusca.%20035U0665.md).
+Decreto del Presidente della Repubblica 26 gennaio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, viene sostituito il testo del l'art. 5 dello statuto dell'Accademia della Crusca, con sede in Firenze, approvato con [regio decreto 11 aprile 1935, n. 665](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allordinamento%20della%20Reale%20Accademia%20della%20Crusca.%20035U0665.md).
 
 Visto, il Guardasigilli: DE PIETRO
  Registrato alla Corte dei conti, addi' 14 luglio 1954

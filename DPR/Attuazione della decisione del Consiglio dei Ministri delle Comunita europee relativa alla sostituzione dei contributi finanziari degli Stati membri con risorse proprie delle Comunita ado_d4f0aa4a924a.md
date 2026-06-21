@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 3 della legge 23 dicembre 1970, n. 1185](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20trattato%20che%20modifica%20talune%20disposizioni%20in%20materia%20di%20bilancio%20dei%20trattati%20che%20istituiscono%20le%20Comunita%20europee%20e%20del%20trattato%20che%20istituisce%20un%20consiglio%20un_799c69d69997.md), in base al quale il Governo e', fra l'altro, delegato, ad emanare le norme di attuazione della decisione del Consiglio dei Ministri delle Comunita' europee relativa alla sostituzione dei contributi finanziari degli Stati membri con risorse proprie delle Comunita', adottata a Lussemburgo il 21 aprile 1970, e dei regolamenti comunitari relativi al finanziamento della politica agricola comune;
+Visto l'[art. 3 della legge 23 dicembre 1970, n. 1185](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20trattato%20che%20modifica%20talune%20disposizioni%20in%20materia%20di%20bilancio%20dei%20trattati%20che%20istituiscono%20le%20Comunita%20europee%20e%20del%20trattato%20che%20istituisce%20un%20consiglio%20un_799c69d69997.md), in base al quale il Governo e', fra l'altro, delegato, ad emanare le norme di attuazione della decisione del Consiglio dei Ministri delle Comunita' europee relativa alla sostituzione dei contributi finanziari degli Stati membri con risorse proprie delle Comunita', adottata a Lussemburgo il 21 aprile 1970, e dei regolamenti comunitari relativi al finanziamento della politica agricola comune;
 
 Vista la decisione del 21 aprile 1970 relativa alla sostituzione dei contributi finanziari degli Stati membri con risorse proprie delle Comunita';
 
@@ -22,7 +22,7 @@ Visto il regolamento n. 729/70 del Consiglio delle Comunita' europee relativo al
 
 Visto il regolamento n. 2697/70 della Commissione delle Comunita' europee relativo alla messa a disposizione degli Stati membri dei mezzi finanziari delle Comunita' a titolo della sezione garanzia del FEOGA;
 
-Sentita la Commissione parlamentare di cui all'[art. 4 della legge 23 dicembre 1970, n. 1185](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20trattato%20che%20modifica%20talune%20disposizioni%20in%20materia%20di%20bilancio%20dei%20trattati%20che%20istituiscono%20le%20Comunita%20europee%20e%20del%20trattato%20che%20istituisce%20un%20consiglio%20un_799c69d69997.md);
+Sentita la Commissione parlamentare di cui all'[art. 4 della legge 23 dicembre 1970, n. 1185](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20trattato%20che%20modifica%20talune%20disposizioni%20in%20materia%20di%20bilancio%20dei%20trattati%20che%20istituiscono%20le%20Comunita%20europee%20e%20del%20trattato%20che%20istituisce%20un%20consiglio%20un_799c69d69997.md);
 
 Sentito il Consiglio dei Ministri;
 

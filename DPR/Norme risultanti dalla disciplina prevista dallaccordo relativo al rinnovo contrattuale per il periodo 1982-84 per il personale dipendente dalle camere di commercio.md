@@ -20,7 +20,7 @@ Visto il regolamento tipo per il personale delle camere di commercio, approvato 
 
 Visto l'[art. 26 della legge 29 marzo 1983, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-29;93#art_26);
 
-Vista la [legge 26 aprile 1983, n. 130](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md), recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1983);
+Vista la [legge 26 aprile 1983, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md), recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1983);
 
 Vista la [legge 27 dicembre 1983, n. 730](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201984.md), recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1984);
 

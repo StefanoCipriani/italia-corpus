@@ -14,7 +14,7 @@ Visto il [regio decreto-legge 1 maggio 1925, n. 582](../Atti%20normativi%20abrog
 
 Vista la [legge 24 maggio 1937, n. 817](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alle%20norme%20sullordinamento%20dellOpera%20Nazionale%20Dopolavoro.%20037U0817.md);
 
-Visti il [regio decreto-legge 2 agosto 1943, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-08-02;704), ed il [decreto legislativo luogotenenziale 22 settembre 1945, n. 624](../Decreti%20legislativi%20luogotenenziali/Cambiamento%20di%20denominazione%20dellOpera%20Nazionale%20Dopolavoro%20in%20Ente%20Nazionale%20Assistenza%20Lavoratori%20045U0624.md);
+Visti il [regio decreto-legge 2 agosto 1943, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-08-02;704), ed il [decreto legislativo luogotenenziale 22 settembre 1945, n. 624](../Atti%20normativi%20abrogati%20%28in%20originale%29/Cambiamento%20di%20denominazione%20dellOpera%20Nazionale%20Dopolavoro%20in%20Ente%20Nazionale%20Assistenza%20Lavoratori%20045U0624.md);
 
 Visto il proprio decreto 8 maggio 1955, n. 478, con il quale e' stato approvato lo statuto dell'Ente Nazionale Assistenza Lavoratori (E.N.A.L.);
 

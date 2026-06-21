@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'art. 78 del testo unico delle disposizioni legislative riguardanti la leva marittima, approvato con [regio decreto 28 luglio 1932, n. 1365](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20leva%20marittima.%20032U1365.md), e successive modificazioni;
+ Visto l'art. 78 del testo unico delle disposizioni legislative riguardanti la leva marittima, approvato con [regio decreto 28 luglio 1932, n. 1365](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20leva%20marittima.%20032U1365.md), e successive modificazioni;
  Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
  Sulla proposta del Ministro per la difesa;
 

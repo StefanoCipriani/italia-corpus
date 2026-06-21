@@ -11,7 +11,7 @@ vigente: true
 ## Art. 1.
 
 IL PRESIDENTE DELLA REPUBBLICA
- Visto il [regio decreto 30 luglio 1888, n. 5636](../Regi%20decreti/Che%20istituisce%20un%20archivio%20notarile%20mandamentale%20in%20Corleone%20Palermo.%20088U5636.md), con il quale venne istituito l'archivio notarile mandamentale di Corleone;
+ Visto il [regio decreto 30 luglio 1888, n. 5636](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20istituisce%20un%20archivio%20notarile%20mandamentale%20in%20Corleone%20Palermo.%20088U5636.md), con il quale venne istituito l'archivio notarile mandamentale di Corleone;
  Visto l'[art. 248, terzo comma, del regio decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md);
  Visto l'[art. 3, primo comma, della legge 17 maggio 1952, n. 629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-05-17;629#art_3-com1);
  Visti gli [articoli 23](Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md) e [73 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md);

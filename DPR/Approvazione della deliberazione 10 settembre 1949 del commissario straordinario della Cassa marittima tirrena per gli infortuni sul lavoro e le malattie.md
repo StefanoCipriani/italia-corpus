@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto legislativo luogotenenziale 2 novembre 1944, n. 340](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20circa%20la%20nomina%20di%20commissari%20straordinari%20a%20Enti%20parasindacali%20e%20sostituzione%20in%20Commissioni%20od%20organi%20dei%20membri%20di%20nomina%20o%20designazione%20sindacale.%20044U0340.md), e successive modificazioni;
+Visto il [decreto legislativo luogotenenziale 2 novembre 1944, n. 340](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20circa%20la%20nomina%20di%20commissari%20straordinari%20a%20Enti%20parasindacali%20e%20sostituzione%20in%20Commissioni%20od%20organi%20dei%20membri%20di%20nomina%20o%20designazione%20sindacale.%20044U0340.md), e successive modificazioni;
 
-Visto lo statuto della Cassa marittima tirrena per gli infortuni sul lavoro e le malattie, approvato con [regio decreto 13 maggio 1940, n. 819](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Cassa%20marittima%20tirrena%20per%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20con%20sede%20in%20Genova.%20040U0819.md);
+Visto lo statuto della Cassa marittima tirrena per gli infortuni sul lavoro e le malattie, approvato con [regio decreto 13 maggio 1940, n. 819](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Cassa%20marittima%20tirrena%20per%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20con%20sede%20in%20Genova.%20040U0819.md);
 
 Visto il decreto Ministeriale 1 maggio 1948, con il quale il dott.
 

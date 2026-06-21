@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
 
-Visto il [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
+Visto il [regio decreto 14 settembre 1931, n. 1175](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
 
-Visto il [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Visto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md);
 
-Visto il [regio decreto 14 settembre 1941, n. 1059](../Regi%20decreti/Inizio%20dellanno%20scolastico%20e%20fissazione%20dei%20giorni%20di%20vacanza.%20041U1059.md);
+Visto il [regio decreto 14 settembre 1941, n. 1059](../Atti%20normativi%20abrogati%20%28in%20originale%29/Inizio%20dellanno%20scolastico%20e%20fissazione%20dei%20giorni%20di%20vacanza.%20041U1059.md);
 
 Ritenuto che occorre regolarizzare formalmente il funzionamento degli istituti e delle scuole d'istruzione tecnica gia' in atto, con i relativi organici, dal 1 ottobre 1949, per esigenze di servizio;
 
@@ -45,8 +45,8 @@ Sono modificati in conformita' della tabella B, annessa al presente decreto, fir
 ## Art. 4.
 
 Sono soppressi:
- a) la Scuola tecnica commerciale statale "Minnucci" di Napoli, riordinata con [regio decreto 24 agosto 1933, n. 2102](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20commerciale%20di%20Napoli%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20commerciale.%20033U2102.md);
- b) la Scuola tecnica industriale statale di Lecco, istituita con [regio decreto 21 giugno 1942, n. 970](../Regi%20decreti/Istituzione%20regificazione%20e%20soppressione%20di%20Regi%20istituti%20e%20Regie%20scuole%20di%20istruzione%20tecnica.%20042U0970.md);
+ a) la Scuola tecnica commerciale statale "Minnucci" di Napoli, riordinata con [regio decreto 24 agosto 1933, n. 2102](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20della%20Regia%20scuola%20commerciale%20di%20Napoli%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20commerciale.%20033U2102.md);
+ b) la Scuola tecnica industriale statale di Lecco, istituita con [regio decreto 21 giugno 1942, n. 970](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20regificazione%20e%20soppressione%20di%20Regi%20istituti%20e%20Regie%20scuole%20di%20istruzione%20tecnica.%20042U0970.md);
  c) la scuola professionale femminile statale di Luino, istituita con [decreto Presidenziale 6 novembre 1948, n. 1684](Istituzione%20statizzazione%20e%20soppressione%20di%20Scuole%20e%20Istituti%20di%20istruzione%20tecnica%20a%20decorrere%20dal%201%20ottobre%201946.md);
  d) l'indirizzo specializzato per "costruttori aeronautici" presso l'Istituto tecnico industriale statale di Savona; sono di conseguenza soppressi i posti istituiti, per detto indirizzo specializzato, con il [regio decreto 12 aprile 1946, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1946-04-12;627);
  e) la Scuola serale di commercio di Savona, istituita con [decreto luogotenenziale 23 marzo 1919, n. 788](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-03-23;788).

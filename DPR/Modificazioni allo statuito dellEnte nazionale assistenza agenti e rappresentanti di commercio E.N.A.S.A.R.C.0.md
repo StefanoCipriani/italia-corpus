@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto legislativo luogotenenziale 2 novembre 1944, n. 340](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20circa%20la%20nomina%20di%20commissari%20straordinari%20a%20Enti%20parasindacali%20e%20sostituzione%20in%20Commissioni%20od%20organi%20dei%20membri%20di%20nomina%20o%20designazione%20sindacale.%20044U0340.md), e successive modificazioni;
+Visto il [decreto legislativo luogotenenziale 2 novembre 1944, n. 340](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20circa%20la%20nomina%20di%20commissari%20straordinari%20a%20Enti%20parasindacali%20e%20sostituzione%20in%20Commissioni%20od%20organi%20dei%20membri%20di%20nomina%20o%20designazione%20sindacale.%20044U0340.md), e successive modificazioni;
 
 Visto lo statuto dell'Ente nazionale assistenza agenti e rappresentanti di commercio (E.N.A.S.A.R.C.O.), approvato con regio (decreto 6 giugno 1939, n. 1305;
 

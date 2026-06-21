@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
- Visto il [regio decreto 31 agosto 1933, n. 2071](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20industriale%20Paolo%20Boselli%20di%20Savona%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2071.md), riguardante tra l'altro la tabella organica della Scuola tecnica industriale di Savona;
+ Visto il [regio decreto 31 agosto 1933, n. 2071](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20della%20Regia%20scuola%20industriale%20Paolo%20Boselli%20di%20Savona%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2071.md), riguardante tra l'altro la tabella organica della Scuola tecnica industriale di Savona;
  Visto il decreto interministeriale 15 giugno 1916, registrato alla Corte dei conti il 5 luglio 1946, registro n. 17, foglio n. 330, con il quale viene approvata la tabella organica dell'Istituto tecnico industriale di Savona;
  Considerata l'opportunita' di affidare la direzione della predetta Scuola al preside del locale Istituto tecnico industriale e di unificare l'amministrazione dell'Istituto e della Scuola;
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quello per il tesoro;

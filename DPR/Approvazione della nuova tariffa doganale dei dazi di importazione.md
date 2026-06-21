@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md);
+Vista la [legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md);
 
 Vista la legge doganale 25 settembre 1940, n. 1424;
 
@@ -20,7 +20,7 @@ Vista la [legge 5 aprile 1950, n. 295](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Sentita la Commissione parlamentare costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md);
+Sentita la Commissione parlamentare costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md);
 
 Sentite le Regioni Siciliana e Sarda;
 
@@ -35,7 +35,7 @@ Sono approvate l'annessa tariffa doganale dei dazi di importazione, firmata dal 
 
 ## Art. 2.
 
-Con successivo decreto del Presidente della Repubblica, sentito il parere della Commissione parlamentare di cui all'[art. 3 della legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), sara' provveduto alla approvazione del repertorio per l'applicazione della nuova tariffa doganale.
+Con successivo decreto del Presidente della Repubblica, sentito il parere della Commissione parlamentare di cui all'[art. 3 della legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), sara' provveduto alla approvazione del repertorio per l'applicazione della nuova tariffa doganale.
  Fino a che tale repertorio non sara' pubblicato, le disposizioni del repertorio approvato con [decreto-legge 27 novembre 1924, n. 2146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-11-27;2146), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e successive modificazioni, continueranno ad essere osservate, in quanto non contrastino con le disposizioni della nuova tariffa.
 
 ## Art. 3.

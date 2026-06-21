@@ -12,11 +12,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 30 novembre 1922, n. 1762](../Regi%20decreti/Istituzione%20di%20ufficio%20di%20conciliazione.%20022U1762.md), col quale venne istituito in Calvi, frazione del comune di San Nazzaro Calvi, un distinto ufficio di conciliazioni con giurisdizione sul territorio della frazione stessa;
+ Visto il [regio decreto 30 novembre 1922, n. 1762](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20ufficio%20di%20conciliazione.%20022U1762.md), col quale venne istituito in Calvi, frazione del comune di San Nazzaro Calvi, un distinto ufficio di conciliazioni con giurisdizione sul territorio della frazione stessa;
  Visto il [decreto del Presidente della Repubblica del 14 maggio 1949, n. 424](Trasferimento%20della%20sede%20comunale%20di%20San%20Nazzaro%20Calvi%20dallattuale%20capoluogo%20alla%20frazione%20di%20Calvi.md), con il quale la sede comunale di San Nazzaro Calvi venne trasferita nella frazione Cavi;
  Vista la deliberazione in data 16 dicembre 1949 del Consiglio comunale di San Nazzaro Calvi, con la quale si chiede che sia istituito un ufficio distinto di giudice conciliatore con sede nella frazione San Nazzaro e con giurisdizione sul territorio della frazione stessa e su quello delle frazioni Montefalcone, Casalfesto, Audisola e case sparse intorno a San Nazzaro fino al torrente Gianguarriello Mele e al confine con Montefusco e Sant'Angelo a Cancelli;
  Visti i pareri favorevoli del presidente e del procuratore generale presso la Corte d'appello di Napoli;
- Visti gli articoli 20 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e 1 del regolamento approvato con [regio decreto 26 dicembre 1892, n. 728](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
+ Visti gli articoli 20 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e 1 del regolamento approvato con [regio decreto 26 dicembre 1892, n. 728](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
  Sulla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e giustizia;
 
  Decreta:

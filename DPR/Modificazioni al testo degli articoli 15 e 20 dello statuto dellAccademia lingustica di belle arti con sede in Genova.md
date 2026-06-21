@@ -14,7 +14,7 @@ N.
 
 1250.
 
-Decreto del Presidente della Repubblica 23 febbraio 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, vengono apportate modificazioni al testo degli articoli 15 e 20 dello statuto dell'Accademia lingustica di belle arti, con sede in Genova, approvato con [regio decreto 9 maggio 1939, n. 936](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellAccademia%20Linguistica%20di%20belle%20arti%20con%20sede%20in%20Genova.%20039U0936.md).
+Decreto del Presidente della Repubblica 23 febbraio 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, vengono apportate modificazioni al testo degli articoli 15 e 20 dello statuto dell'Accademia lingustica di belle arti, con sede in Genova, approvato con [regio decreto 9 maggio 1939, n. 936](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20dellAccademia%20Linguistica%20di%20belle%20arti%20con%20sede%20in%20Genova.%20039U0936.md).
 
 Visto, il Guardasigilli: ZOLI
  Registrato alla Corte dei conti, addi' 29 settembre 1952

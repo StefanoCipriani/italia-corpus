@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
 
-Veduto il [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
+Veduto il [regio decreto 14 settembre 1931, n. 1175](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
 
-Veduto il [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Veduto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Veduto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md);
 
-Veduto il [regio decreto 14 settembre 1941, n. 1059](../Regi%20decreti/Inizio%20dellanno%20scolastico%20e%20fissazione%20dei%20giorni%20di%20vacanza.%20041U1059.md);
+Veduto il [regio decreto 14 settembre 1941, n. 1059](../Atti%20normativi%20abrogati%20%28in%20originale%29/Inizio%20dellanno%20scolastico%20e%20fissazione%20dei%20giorni%20di%20vacanza.%20041U1059.md);
 
 Veduto il regio decreto 21 agosto 1933, riguardante il pareggiamento dell'Istituto tecnico commerciale mercantile di Marsala;
 
@@ -66,7 +66,7 @@ Sono statizzati:
  b) l'Istituto tecnico commerciale a indirizzo mercantile di Vigevano, pareggiato col regio decreto 21 marzo 1935;
  c) la Scuola tecnica commerciale di Savona, pareggiata col regio decreto 24 gennaio 1935.
  I posti di ruolo degli Istituti tecnici commerciali a indirizzo mercantile governativi di Marsala e di Vigevano e quelli della Scuola tecnica commerciale governativa di Savona, sono indicati, rispettivamente, nei prospetti 1 e 2 della tabella B annessa al presente decreto, firmata, d'ordine dei Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.
- Il personale degli Istituti e della Scuola predetti sara' assunto nei ruoli dello Stato, secondo le norme previste dai [regio decreto 6 giugno 1925, n. 1084](../Regi%20decreti/Regolamento%20per%20gli%20istituti%20privati%20e%20pareggiati%20di%20istruzione%20media%20e%20per%20la%20creazione%20regificazione%20e%20trasformazione%20di%20scuole.%20025U1084.md), e dal [regio decreto 15 maggio 1930, n. 740](../Regi%20decreti/Norme%20per%20il%20passaggio%20al%20servizio%20dello%20Stato%20di%20presidi%20e%20professori%20di%20istituti%20pareggiati%20che%20si%20convertono%20in%20Regi.%20030U0740.md).
+ Il personale degli Istituti e della Scuola predetti sara' assunto nei ruoli dello Stato, secondo le norme previste dai [regio decreto 6 giugno 1925, n. 1084](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20gli%20istituti%20privati%20e%20pareggiati%20di%20istruzione%20media%20e%20per%20la%20creazione%20regificazione%20e%20trasformazione%20di%20scuole.%20025U1084.md), e dal [regio decreto 15 maggio 1930, n. 740](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20passaggio%20al%20servizio%20dello%20Stato%20di%20presidi%20e%20professori%20di%20istituti%20pareggiati%20che%20si%20convertono%20in%20Regi.%20030U0740.md).
 
 ## Art. 4.
 
@@ -75,14 +75,14 @@ Sono modificati in conformita' della tabella D (prospetti 1 e 2) annessa al pres
 ## Art. 5.
 
 Sono soppressi:
- a) l'Istituto industriale governativo specializzato per la ceramica di Milano, istituito con [regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md) e [regio decreto 16 marzo 1942, n. 475](../Regi%20decreti/Ordinamento%20del%20Regio%20istituto%20industriale%20specializzato%20per%20la%20ceramica%20in%20Milano.%20042U0475.md);
+ a) l'Istituto industriale governativo specializzato per la ceramica di Milano, istituito con [regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md) e [regio decreto 16 marzo 1942, n. 475](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20del%20Regio%20istituto%20industriale%20specializzato%20per%20la%20ceramica%20in%20Milano.%20042U0475.md);
  b) la Scuola tecnica industriale annessa all'Istituto tecnico industriale governativo "Feltrinelli" di Milano, istituita con [regio decreto 9 giugno 1939, numero 1353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-09;1353);
- c) la Scuola tecnica industriale governativa per chimici di Narni, istituita con [regio decreto 21 giugno 1942, n. 970](../Regi%20decreti/Istituzione%20regificazione%20e%20soppressione%20di%20Regi%20istituti%20e%20Regie%20scuole%20di%20istruzione%20tecnica.%20042U0970.md);
+ c) la Scuola tecnica industriale governativa per chimici di Narni, istituita con [regio decreto 21 giugno 1942, n. 970](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20regificazione%20e%20soppressione%20di%20Regi%20istituti%20e%20Regie%20scuole%20di%20istruzione%20tecnica.%20042U0970.md);
  d) la Scuola tecnica industriale governativa, per meccanici di Pomigliano d'Arco, istituita col [decreto luogotenenziale 27 ottobre 1945, n. 926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-27;926);
- e) la Scuola tecnica industriale governativa per il vetro di Venezia-Murano, istituita con [regio decreto 11 agosto 1939, n. 1770](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20di%20Venezia%20Murano.%20039U1770.md);
+ e) la Scuola tecnica industriale governativa per il vetro di Venezia-Murano, istituita con [regio decreto 11 agosto 1939, n. 1770](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20di%20Venezia%20Murano.%20039U1770.md);
  f) la Scuola professionale femminile governativa di Santa Margherita Ligure, istituita con [decreto luogotenenziale 12 aprile 1946, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-12;627);
  g) la Scuola professionale femminile governativa "L. S.
-Mantegazza" di Roma-Garbatella, istituita con [decreto luogotenenziale 27 ottobre 1945, n. 926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-27;926) h) la Scuola tecnica agraria governativa di Messina S. Placido Calonero', riordinata con [regio decreto 31 agosto 1933, n. 1976](../Regi%20decreti/Trasformazione%20della%20Scuola%20pratica%20dagricoltura%20di%20San%20Piacido%20Calonero%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20agrario.%20033U1976.md);
+Mantegazza" di Roma-Garbatella, istituita con [decreto luogotenenziale 27 ottobre 1945, n. 926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-27;926) h) la Scuola tecnica agraria governativa di Messina S. Placido Calonero', riordinata con [regio decreto 31 agosto 1933, n. 1976](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20della%20Scuola%20pratica%20dagricoltura%20di%20San%20Piacido%20Calonero%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20agrario.%20033U1976.md);
  i) l'indirizzo specializzato per "metallurgici" presso l'Istituto tecnico industriale governativo "Avogadro" di Torino; sono di conseguenza soppressi i posti istituiti, per detto indirizzo specializzato, col [decreto luogotenenziale 12 aprile 1946, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-12;627);
  l) l'indirizzo specializzato per "minerari" presso l'istituto tecnico industriale governativo di Trento; sono di conseguenza soppressi i posti istituiti, per detto indirizzo specializzato, col [decreto luogotenenziale 12 aprile 1946, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-12;627).
 

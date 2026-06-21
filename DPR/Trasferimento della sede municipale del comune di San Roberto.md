@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Viste le deliberazioni della giunta municipale di San Roberto (Reggio Calabria) in data 10 maggio 1964, n. 10, e di quel [consiglio comunale in data 22 agosto 1964, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.::1964-08-22;10), con le quali e' stato chiesto che la sede municipale del comune stesso sia trasferita dalla frazione Colelli alla frazione San Roberto;
  Vista la deliberazione del consiglio provinciale di Reggio Calabria in data 3 febbraio 1968, n. 4, con la quale detto consesso ha espresso il richiesto parere al riguardo;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

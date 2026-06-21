@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Viste le [deliberazioni 30 marzo 1954, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1954-03-30;2) e [20 luglio 1955, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1955-07-20;23), con le quali il Consiglio comunale di Sant'Angelo in Grotte (Campobasso) ha chiesto che la sede municipale sia trasferita nella frazione SS. Maria e Giacomo, con impegno di promuovere la istituzione, nell'attuale capoluogo, di una delegazione comunale;
  Visto il parere espresso in merito dal Consiglio provinciale di Campobasso con proprio atto in data 5 novembre 1954, n. 140;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni;
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni;
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

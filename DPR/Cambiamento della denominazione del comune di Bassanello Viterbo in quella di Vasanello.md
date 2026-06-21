@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la domanda con la quale il sindaco di Bassanello (provincia di Viterbo), in esecuzione della [deliberazione del Consiglio comunale n. 39 del 6 luglio 1946](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1946-07-06;39), chiede che l'attuale denominazione del Comune sia modificata in quella di Vasanello;
  Visto il parere favorevole manifestato dalla Deputazione provinciale di Viterbo con [deliberazione 10 settembre 1946, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1946-09-10;386);
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro per l'interno;
 
  Decreta:

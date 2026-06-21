@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
-Visto il [regio decreto 19 dicembre 1935, n. 2298](../Regi%20decreti/Aggregazione%20alla%20Regia%20universita%20di%20Pisa%20come%20Facolta%20dei%20Regi%20istituti%20superiori%20dingegneria%20e%20di%20agraria%20della%20stessa%20sede.%20035U2298.md);
+Visto il [regio decreto 19 dicembre 1935, n. 2298](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20alla%20Regia%20universita%20di%20Pisa%20come%20Facolta%20dei%20Regi%20istituti%20superiori%20dingegneria%20e%20di%20agraria%20della%20stessa%20sede.%20035U2298.md);
 
 Su proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro; Decreta:
 

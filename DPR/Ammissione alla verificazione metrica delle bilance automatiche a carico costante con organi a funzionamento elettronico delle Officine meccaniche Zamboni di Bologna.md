@@ -16,7 +16,7 @@ Visto il regolamento per la fabbricazione dei pesi e delle misure, approvato con
 
 Vista la [legge 17 luglio 1954, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-17;600), con la quale sono state approvate variazioni ai diritti metrici;
 
-Visto il [regio decreto 18 dicembre 1913, n. 1408](../Regi%20decreti/Col%20quale%20vengono%20ammesse%20alla%20verificazione%20ed%20alla%20legalizzazione%20bilancie%20automatiche%20per%20pesare%20i%20cereali.%20013U1408.md), col quale sono state ammesse alla verificazione metrica le bilance a funzionamento automatico e continuato con carico costante, per pesare cereali;
+Visto il [regio decreto 18 dicembre 1913, n. 1408](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20vengono%20ammesse%20alla%20verificazione%20ed%20alla%20legalizzazione%20bilancie%20automatiche%20per%20pesare%20i%20cereali.%20013U1408.md), col quale sono state ammesse alla verificazione metrica le bilance a funzionamento automatico e continuato con carico costante, per pesare cereali;
 
 Ritenuta la necessita' di consentire la fabbricazione di strumenti per pesare nei quali gli effetti provocati dall'azione del carico siano rilevati ed amplificati a mezzo di complessi elettronici;
 

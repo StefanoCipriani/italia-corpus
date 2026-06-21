@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 15 ottobre 1964, n. 959](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20in%20Ankara%20il%2012%20settembre%201963%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Turchia.md), che ratifica e da' esecuzione agli Accordi internazionali firmati in Ankara il 12 settembre 1963 ed agli Atti connessi relativi all'Associazione tra la Comunita' Economica Europea e la Turchia;
+Vista la [legge 15 ottobre 1964, n. 959](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20in%20Ankara%20il%2012%20settembre%201963%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20Economica%20Europea%20e%20la%20Turchia.md), che ratifica e da' esecuzione agli Accordi internazionali firmati in Ankara il 12 settembre 1963 ed agli Atti connessi relativi all'Associazione tra la Comunita' Economica Europea e la Turchia;
 
 Vista la Decisione del Consiglio di associazione tra la Comunita' Economica Europea e la Turchia, relativa all'aumento del volume dei contingenti tariffari che gli Stati membri della Comunita' devono aprire per le loro importazioni dalla Turchia, a mente degli articoli 2 e 4 Protocollo provvisorio annesso all'Accordo di Ankara;
 

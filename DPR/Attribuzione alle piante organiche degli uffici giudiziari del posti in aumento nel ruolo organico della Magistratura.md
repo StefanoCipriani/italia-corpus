@@ -24,7 +24,7 @@ Le tabelle A e B, annesse al [decreto del Presidente della Repubblica 23 febbrai
 
 ## Art. 2.
 
-Alla Sezione di Corte di appello di Reggio Calabria sono assegnati; in aggiunta all'organico stabilito per detto ufficio con [decreto legislativo luogotenenziale 28 settembre 1944, n. 297](../Decreti%20legislativi%20luogotenenziali/Temporanea%20istituzione%20in%20Reggio%20Calabria%20di%20una%20Sezione%20distaccata%20di%20Corte%20di%20Appello.%20044U0297.md), e con la [legge 17 novembre 1948, n. 1589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-11-17;1589), altri due posti di consigliere di Corte di appello ed un posto di sostituto procuratore generale di Corte di appello da trarsi dall'organico della Corte di appello e della Procura generale di Catanzaro. ((3))
+Alla Sezione di Corte di appello di Reggio Calabria sono assegnati; in aggiunta all'organico stabilito per detto ufficio con [decreto legislativo luogotenenziale 28 settembre 1944, n. 297](../Atti%20normativi%20abrogati%20%28in%20originale%29/Temporanea%20istituzione%20in%20Reggio%20Calabria%20di%20una%20Sezione%20distaccata%20di%20Corte%20di%20Appello.%20044U0297.md), e con la [legge 17 novembre 1948, n. 1589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-11-17;1589), altri due posti di consigliere di Corte di appello ed un posto di sostituto procuratore generale di Corte di appello da trarsi dall'organico della Corte di appello e della Procura generale di Catanzaro. ((3))
 
 ----------------
 

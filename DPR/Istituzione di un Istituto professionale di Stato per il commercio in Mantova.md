@@ -153,7 +153,7 @@ Alle spese di mantenimento dell'Istituto si provvede:
 
 ## Art. 23.
 
-Per quanto riguarda gli oneri a carico degli Enti locali, all'Istituto professionale si applicano le disposizioni dell'art. 94, lettera f) del testo unico della legge comunale e provinciale approvate con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
+Per quanto riguarda gli oneri a carico degli Enti locali, all'Istituto professionale si applicano le disposizioni dell'art. 94, lettera f) del testo unico della legge comunale e provinciale approvate con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
  Per quanto non e' previsto dal presente decreto, si applicano le disposizioni vigenti per gli Istituti d'istruzione tecnica.
  L'onere della spesa a carico del Ministero della pubblica istruzione, derivante dall'attuazione del presente decreto, gravera' sul capitolo 118 bis dello stato di previsione della spesa del Ministero stesso per l'esercizio 1962-63 e sui capitoli corrispondenti per gli esercizi successivi.
 

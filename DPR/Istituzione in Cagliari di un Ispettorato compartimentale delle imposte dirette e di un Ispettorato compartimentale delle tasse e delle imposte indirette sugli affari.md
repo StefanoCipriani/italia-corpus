@@ -14,7 +14,7 @@ Visto il [regio decreto-legge 7 agosto 1936, n. 1639](../Atti%20normativi%20abro
 
 Visto il [regio decreto 11 dicembre 1936, n. 2108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-12-11;2108), concernente la determinazione delle circoscrizioni degli Ispettorati compartimentali delle imposte dirette e di quelli delle tasse e delle imposte indirette sugli affari;
 
-Visto il [regio decreto 1 novembre 1940, n. 1596](../Regi%20decreti/Modificazioni%20alle%20circoscrizioni%20degli%20Ispettorati%20compartimentali%20delle%20imposte%20dirette%20e%20di%20quelli%20delle%20tasse%20e%20delle%20imposte%20indirette%20sugli%20affari.%20040U1596.md), concernente modificazione delle circoscrizioni degli Ispettorati compartimentali delle imposte dirette e di quelli delle tasse e delle imposte indirette sugli affari;
+Visto il [regio decreto 1 novembre 1940, n. 1596](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alle%20circoscrizioni%20degli%20Ispettorati%20compartimentali%20delle%20imposte%20dirette%20e%20di%20quelli%20delle%20tasse%20e%20delle%20imposte%20indirette%20sugli%20affari.%20040U1596.md), concernente modificazione delle circoscrizioni degli Ispettorati compartimentali delle imposte dirette e di quelli delle tasse e delle imposte indirette sugli affari;
 
 Ritenuta la necessita' di assicurare il funzionamento, del servizio ispettivo nel territorio della Sardegna mediante l'istituzione in Cagliari dell'Ispettorato compartimentale delle imposte dirette e di quello delle tasse e delle imposte indirette sugli affari;
 

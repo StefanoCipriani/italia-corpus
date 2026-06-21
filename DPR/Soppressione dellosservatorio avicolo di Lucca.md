@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA 
  
- Visto il [regio decreto 5 febbraio 1940, n. 506](../Regi%20decreti/Istituzione%20di%20Osservatori%20avicoli.%20040U0506.md), con il quale e' stato istituito l'osservatorio avicolo di Lucca presso il locale ispettorato provinciale dell'agricoltura; 
+ Visto il [regio decreto 5 febbraio 1940, n. 506](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20Osservatori%20avicoli.%20040U0506.md), con il quale e' stato istituito l'osservatorio avicolo di Lucca presso il locale ispettorato provinciale dell'agricoltura; 
  Vista la lettera in data 5 marzo 1969, con la quale il capo dell'ispettorato anzidetto, direttore tecnico dell'osservatorio avicolo, chiede la soppressione di detto osservatorio le cui finalita' nella provincia non risultano piu' adeguate alle attuali esigenze tecnico-economiche della pollicoltura; 
  Considerata l'opportunita' per i motivi anzidetti di porre termine alla gestione dell'osservatorio stesso; 
  Udito il parere del Consiglio di Stato; 

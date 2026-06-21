@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 25 giugno 1926, n. 1223](../Regi%20decreti/Tariffe%20dei%20diritti%20e%20degli%20atti%20di%20segreteria%20per%20la%20Borsa%20dei%20valori%20di%20Bologna.%20026U1223.md), col quale venne approvata e resa esecutiva la tariffa dei diritti di borsa spettanti alla Camera di commercio, industria e agricoltura di Bologna;
+Visto il [regio decreto 25 giugno 1926, n. 1223](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tariffe%20dei%20diritti%20e%20degli%20atti%20di%20segreteria%20per%20la%20Borsa%20dei%20valori%20di%20Bologna.%20026U1223.md), col quale venne approvata e resa esecutiva la tariffa dei diritti di borsa spettanti alla Camera di commercio, industria e agricoltura di Bologna;
 
 Vista la deliberazione in data 6 dicembre 1951, della Giunta della Camera di commercio suddetta, con la quale sono state proposte modifiche alla tariffa suddetta;
 

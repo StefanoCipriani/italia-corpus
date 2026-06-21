@@ -735,7 +735,7 @@ Nota all'art. 35:
 Le etichette e gli stampati illustrativi delle specialita' medicinali e dei preparati galenici erogabili dal Servizio sanitario nazionale, posti o mantenuti in commercio in provincia di Bolzano, devono essere redatti congiuntamente nelle due lingue italiana e tedesca. A tal fine, per ottenere l'autorizzazione all'immissione in commercio di detti farmaci le etichette e gli stampati illustrativi devono essere redatti nelle due lingue.
 
 2. Qualora i farmaci di cui al comma 1 siano posti o mantenuti in commercio in provincia di Bolzano con etichettatura o foglio illustrativo difformi da quelli approvati dal Ministero della sanita' ai sensi del medesimo comma, il Ministro della sanita', con provvedimento motivato, intima al titolare dell'autorizzazione all'immissione in commercio l'adeguamento dell'etichettatura o del foglio illustrativo, stabilendo un termine per l'adempimento non superiore a sei mesi. In caso di mancata ottemperanza entro il termine indicato, il Ministro della sanita' sospende l'autorizzazione all'immissione in commercio del medicinale fino all'adempimento.
-Restano ferme le sanzioni previste dall'[articolo 8 del decreto legislativo 30 dicembre 1992, n. 540](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-27-CEE%20concernente%20letichettatura%20ed%20il%20foglietto%20illustrativo%20dei%20medicinali%20per%20uso%20umano.md). ))
+Restano ferme le sanzioni previste dall'[articolo 8 del decreto legislativo 30 dicembre 1992, n. 540](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-27-CEE%20concernente%20letichettatura%20ed%20il%20foglietto%20illustrativo%20dei%20medicinali%20per%20uso%20umano.md). ))
 
 ((5))
 

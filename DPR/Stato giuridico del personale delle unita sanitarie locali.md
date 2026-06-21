@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'[art. 47 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_47), concernente delega al Governo per la disciplina dello stato giuridico del personale delle unita' sanitarie locali;
 
-Visto l'[art. 1 della legge 22 ottobre 1979, n. 510](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Rinnovo%20della%20delega%20di%20cui%20allarticolo%2047%20terzo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833%20per%20lemanazione%20dello%20stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md);
+Visto l'[art. 1 della legge 22 ottobre 1979, n. 510](../Atti%20normativi%20abrogati%20%28in%20originale%29/Rinnovo%20della%20delega%20di%20cui%20allarticolo%2047%20terzo%20comma%20della%20legge%2023%20dicembre%201978%20n.%20833%20per%20lemanazione%20dello%20stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md);
 
 Sentite le associazioni sindacali delle categorie interessate;
 

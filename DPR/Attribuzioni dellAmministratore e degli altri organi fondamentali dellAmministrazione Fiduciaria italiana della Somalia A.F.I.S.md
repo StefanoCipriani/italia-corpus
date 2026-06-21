@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77, comma primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com1), ed [87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 4 novembre 1951, n. 1301](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellAccordo%20di%20tutela%20per%20il%20territorio%20della%20Somalia%20sotto%20amministrazione%20italiana%20concluso%20a%20Ginevra%20con%20il%20Consiglio%20per%20lAmministrazione%20fiduciaria%20delle%20Nazio_a1094772a920.md);
+Vista la [legge 4 novembre 1951, n. 1301](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellAccordo%20di%20tutela%20per%20il%20territorio%20della%20Somalia%20sotto%20amministrazione%20italiana%20concluso%20a%20Ginevra%20con%20il%20Consiglio%20per%20lAmministrazione%20fiduciaria%20delle%20Nazio_a1094772a920.md);
 
 In virtu' della delegazione concessa con l'art. 3 della legge predetta;
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per gli affar
 
 ## Art. 1.
 
-Il Governo della Repubblica italiana quale Autorita' incaricata dell'Amministrazione del Territorio della Somalia secondo l'Accordo di tutela concluso a Ginevra il 27 gennaio 1950 e reso esecutivo con [legge 4 novembre 1951, n. 1301](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellAccordo%20di%20tutela%20per%20il%20territorio%20della%20Somalia%20sotto%20amministrazione%20italiana%20concluso%20a%20Ginevra%20con%20il%20Consiglio%20per%20lAmministrazione%20fiduciaria%20delle%20Nazio_a1094772a920.md), e' rappresentata nel territorio stesso dall'Amministrazione, nominato in conformita' all'art. 4 della legge predetta.
+Il Governo della Repubblica italiana quale Autorita' incaricata dell'Amministrazione del Territorio della Somalia secondo l'Accordo di tutela concluso a Ginevra il 27 gennaio 1950 e reso esecutivo con [legge 4 novembre 1951, n. 1301](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellAccordo%20di%20tutela%20per%20il%20territorio%20della%20Somalia%20sotto%20amministrazione%20italiana%20concluso%20a%20Ginevra%20con%20il%20Consiglio%20per%20lAmministrazione%20fiduciaria%20delle%20Nazio_a1094772a920.md), e' rappresentata nel territorio stesso dall'Amministrazione, nominato in conformita' all'art. 4 della legge predetta.
 
 ## Art. 2.
 

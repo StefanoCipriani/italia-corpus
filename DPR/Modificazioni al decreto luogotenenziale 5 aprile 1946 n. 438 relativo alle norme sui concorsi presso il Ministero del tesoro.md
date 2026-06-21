@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
-Visto il [regio decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md);
+Visto il [regio decreto 23 marzo 1933, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md);
 
 Visto il [decreto luogotenenziale 5 aprile 1946, n. 438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-05;438);
 

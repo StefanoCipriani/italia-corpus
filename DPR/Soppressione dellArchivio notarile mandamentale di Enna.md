@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 21 dicembre 1884, n. 2845](../Regi%20decreti/Che%20istituisce%20un%20Archivio%20notarile%20mandamentale%20nel%20comune%20di%20Castrogiovanni%20084U2845.md), col quale venne istituito l'Archivio notarile mandamentale di Enna;
+ Visto il [regio decreto 21 dicembre 1884, n. 2845](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20istituisce%20un%20Archivio%20notarile%20mandamentale%20nel%20comune%20di%20Castrogiovanni%20084U2845.md), col quale venne istituito l'Archivio notarile mandamentale di Enna;
  Visto l'[art. 3, primo comma della legge 17 maggio 1952, n. 629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-05-17;629#art_3-com1);
  Visti gli [articoli 23](Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md) e [73 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md);
  Visto l'[art. 1 della legge 14 aprile 1957, n. 251](../Atti%20normativi%20abrogati%20%28in%20originale%29/Redazione%20a%20macchina%20di%20atti%20pubblici.md);

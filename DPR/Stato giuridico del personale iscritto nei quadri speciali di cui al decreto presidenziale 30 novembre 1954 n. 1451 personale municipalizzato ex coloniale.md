@@ -177,7 +177,7 @@ Due periodi di aspettativa per motivi di famiglia si sommano, agli effetti della
 ### Art. 26. — Dispensa dal servizio per informita'
 
 Scaduto il periodo massimo previsto per l'aspettativa per infermita' dall'art. 23 e dall'art. 25, il dipendente che risulti non idoneo per infermita', a riprendere servizio, e' dispensato, ove non sia possibile utilizzarlo, su domanda, in altri compiti attinenti alla sua posizione d'impiego.
- Per il procedimento di dispensa si osservano le modalita', di cui all'art. 233 del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
+ Per il procedimento di dispensa si osservano le modalita', di cui all'art. 233 del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
 
 ### Art. 27. — Organo competente alla adozione dei provvedimenti
  di cui agli articoli 23, 24, 25 e 26

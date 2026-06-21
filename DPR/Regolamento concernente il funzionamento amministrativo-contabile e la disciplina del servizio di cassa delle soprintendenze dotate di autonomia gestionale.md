@@ -34,7 +34,7 @@ Visto il [decreto legislativo 20 ottobre 1998, n. 368](../Leggi%20delega%20e%20r
 
 Visto il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante «Riforma dell'organizzazione del Governo»;
 
-Visto il [decreto legislativo 29 ottobre 1999, n. 490](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md), recante «testo unico delle disposizioni legislative in materia di beni culturali e ambientali»;
+Visto il [decreto legislativo 29 ottobre 1999, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md), recante «testo unico delle disposizioni legislative in materia di beni culturali e ambientali»;
 
 Visto il [decreto del Presidente della Repubblica 29 dicembre 2000, n. 441](Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali.md), concernente il «Regolamento recante norme di organizzazione del Ministero per i beni e le attivita' culturali»;
 
@@ -330,7 +330,7 @@ Per la validita' delle sedute del ((consiglio di amministrazione o amministrator
 
 1.
 
-Il servizio di tesoreria e' affidato, mediante procedura ad evidenza pubblica, ad un'unica banca di cui all'[articolo 13 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_13), e svolto secondo le modalita' indicate in un'apposita convenzione approvata dal ((consiglio di amministrazione o amministratore unico di cui all'articolo 14, comma 2, del decreto-legge 31 maggio 2014, n. 83, convertito, con modificazioni, dalla legge 29 luglio 2014, n. 106)).
+Il servizio di tesoreria e' affidato, mediante procedura ad evidenza pubblica, ad un'unica banca di cui all'[articolo 13 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e svolto secondo le modalita' indicate in un'apposita convenzione approvata dal ((consiglio di amministrazione o amministratore unico di cui all'articolo 14, comma 2, del decreto-legge 31 maggio 2014, n. 83, convertito, con modificazioni, dalla legge 29 luglio 2014, n. 106)).
 
 2.
 

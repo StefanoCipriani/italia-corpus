@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
-Veduto il [regio decreto 27 ottobre 1935, n. 2123](../Regi%20decreti/Aggregazione%20del%20Regio%20istituto%20superiore%20dingegneria%20di%20Padova%20alla%20Regia%20universita%20della%20stessa%20sede%20come%20Facolta%20dingegneria.%20035U2123.md);
+Veduto il [regio decreto 27 ottobre 1935, n. 2123](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20del%20Regio%20istituto%20superiore%20dingegneria%20di%20Padova%20alla%20Regia%20universita%20della%20stessa%20sede%20come%20Facolta%20dingegneria.%20035U2123.md);
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 

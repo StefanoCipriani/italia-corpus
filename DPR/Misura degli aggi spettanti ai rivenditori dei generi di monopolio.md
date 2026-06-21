@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 72 del regio decreto 14 giugno 1941, n. 577](../Regi%20decreti/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md);
+Visto l'[art. 72 del regio decreto 14 giugno 1941, n. 577](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md);
 
 Visti i [decreti del Presidente della Repubblica 1 gennaio 1949, n. 757](Misura%20dellaggio%20a%20favore%20dei%20rivenditori%20di%20generi%20di%20monopolio.md), [22 novembre 1953, n. 974](Supplemento%20di%20aggio%20a%20favore%20dei%20rivenditori%20di%20generi%20di%20monopolio%20per%20la%20vendita%20di%20alcuni%20tipi%20di%20tabacchi%20lavorati%20nazionali%20di%20qualita%20superiore.md), [18 giugno 1954, n. 526](Supplemento%20di%20aggio%20a%20favore%20dei%20rivenditori%20di%20generi%20di%20monopolio%20sul%20prezzo%20di%20vendita%20delle%20sigarette%20Edelweiss%20con%20filtro%20e%20bocchino%20di%20sughero.md), [24 agosto 1954, n. 1088](Supplemento%20di%20aggio%20a%20favore%20dei%20rivenditori%20di%20generi%20di%20monopolio%20per%20la%20vendita%20della%20nuova%20sigaretta%20di%20produzione%20nazionale%20denominata%20Stop-King%20Size.md) e [26 ottobre 1955, n. 1195](Supplemento%20di%20aggio%20a%20favore%20dei%20rivenditori%20di%20generi%20di%20monopolio%20per%20la%20vendita%20al%20pubblico%20del%20sigaro%20di%20produzione%20nazionale%20denominato%20Sella.md), che determinano la misura degli aggi a favore dei rivenditori di generi di monopolio;
 

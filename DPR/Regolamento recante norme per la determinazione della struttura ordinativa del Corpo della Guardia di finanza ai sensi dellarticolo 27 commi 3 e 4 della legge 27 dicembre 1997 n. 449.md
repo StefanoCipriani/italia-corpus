@@ -16,7 +16,7 @@ Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.n
 
 Visto l'[articolo 27, commi 3](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md) e [4, della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md);
 
-Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni;
+Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni;
 
 Vista la [legge 23 aprile 1959, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-04-23;189);
 
@@ -245,7 +245,7 @@ I comandi ed i reparti con funzioni di supporto tecnico, logistico e amministrat
 
 1.
 
-In applicazione dell'[articolo 16, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), il comandante generale della Guardia di finanza comunica, tempestivamente, al Ministro delle finanze l'adozione di ciascuna determinazione di cui al comma 4 del precedente articolo 2.
+In applicazione dell'[articolo 16, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), il comandante generale della Guardia di finanza comunica, tempestivamente, al Ministro delle finanze l'adozione di ciascuna determinazione di cui al comma 4 del precedente articolo 2.
 
 2.
 
@@ -253,10 +253,10 @@ I poteri organizzativi di cui al presente regolamento sono esercitati nell'ambit
 
 3.
 
-Resta salvo il potere di annullamento ministeriale per motivi di legittimita' di cui all'[articolo 14, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
+Resta salvo il potere di annullamento ministeriale per motivi di legittimita' di cui all'[articolo 14, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
 
 Nota all'art. 9:
- - Gli articoli 3, 14 e 16, comma 2, del citato [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), recano:
+ - Gli articoli 3, 14 e 16, comma 2, del citato [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), recano:
  "Art. 3 (Indirizzo politicoamministrativo.
  Funzioni e responsabilita'). - 1. Gli organi di Governo esercitano le funzioni di indirizzo politicoamministrativo, definendo gli obiettivi ed i programmi da attuare ed adottando gli altri atti rientranti nello svolgimento di tali funzioni, e verificano la rispondenza dei risultati dell'attivita' amministrativa e della gestione agli indirizzi impartiti. Ad essi spettano, in particolare:
  a) le decisioni in materia di atti normativi e l'adozione dei relativi atti di indirizzo interpretativo ed applicativo;

@@ -16,7 +16,7 @@ Visto il voto favorevole espresso dal Consiglio comunale di Nebbiuno, con [delib
 
 Visti i pareri favorevoli espressi dal Consiglio comunale di Pisano in data 22 agosto 1948, n. 20, e dalla Deputazione provinciale di Novara, in data 23 febbraio 1949, n. 7;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

@@ -14,7 +14,7 @@ Viste le istanze in data 15 agosto 1950, 19 agosto 1954, 1 ottobre e 22 novembre
 
 Viste le deliberazioni: del Consiglio comunale di Zeri in data 20 settembre 1951, n. 8-bis, in data 22 marzo 1955, n. 6, ed in data 17 febbraio 1956, n. 3; del Consiglio comunale di Pontremoli in data 28 dicembre 1952, n. 63, ed in data 18 marzo 1956, n. 3; della Deputazione provinciale in data 9 dicembre 1950, n. 489, e del Consiglio provinciale di Massa-Carrara in data 8 febbraio e 10 aprile 1956, numeri 5 e 10, con le quali e' stato espresso parere in ordine alla variazione territoriale di cui trattasi;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso al riguardo dalla prima
 

@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'art. 63 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
- Riconosciuta l'opportunita' di modificare, per esigenze didattiche, il riparto dei posti di professore di ruolo assegnati, ai sensi del [regio decreto 9 settembre 1937, n. 1767](../Regi%20decreti/Attuazione%20nei%20riguardi%20della%20Regia%20universita%20di%20Sassari%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto%2020%20giugno%201935-XIII%20n.%201071.%20037U1767.md), e successive modificazioni, alla Facolta' di medicina e chirurgia e alla Facolta' di farmacia dell'Universita' di Sassari;
+ Riconosciuta l'opportunita' di modificare, per esigenze didattiche, il riparto dei posti di professore di ruolo assegnati, ai sensi del [regio decreto 9 settembre 1937, n. 1767](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20nei%20riguardi%20della%20Regia%20universita%20di%20Sassari%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto%2020%20giugno%201935-XIII%20n.%201071.%20037U1767.md), e successive modificazioni, alla Facolta' di medicina e chirurgia e alla Facolta' di farmacia dell'Universita' di Sassari;
  Visto il parere espresso dal Consiglio superiore della pubblica istruzione nell'adunanza del 28 ottobre 1954;
  Sulla proposta del Ministro per la pubblica istruzione;
 

@@ -14,7 +14,7 @@ n.
 
 649.
 
-Decreto del Presidente della Repubblica 16 luglio 1986, col quale, sulla proposta del Ministro dell'industria, del commercio e dell'artigianato, viene sostituito l'art. 20 dello statuto dell'Istituto nazionale delle assicurazioni, in Roma, approvato con [regio decreto 20 maggio 1926, n. 933](../Regi%20decreti/Approvazione%20dello%20statuto%20organico%20dellIstituto%20nazionale%20delle%20assicurazioni.%20026U0933.md). 
+Decreto del Presidente della Repubblica 16 luglio 1986, col quale, sulla proposta del Ministro dell'industria, del commercio e dell'artigianato, viene sostituito l'art. 20 dello statuto dell'Istituto nazionale delle assicurazioni, in Roma, approvato con [regio decreto 20 maggio 1926, n. 933](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20organico%20dellIstituto%20nazionale%20delle%20assicurazioni.%20026U0933.md). 
  
 Visto, il Guardasigilli: ROGNONI 
  Registrato alla Corte dei conti, addi' 11 settembre 1986 

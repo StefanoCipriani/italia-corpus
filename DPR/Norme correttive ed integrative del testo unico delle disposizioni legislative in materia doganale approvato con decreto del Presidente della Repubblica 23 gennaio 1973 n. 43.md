@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 2 della legge 14 dicembre 1976, n. 847](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriore%20proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20tariffa%20dei%20dazi%20doganali%20di%20importazione%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013%20e%20delega%20al%20G_a0eac3bdb9e2.md);
+Visto l'[art. 2 della legge 14 dicembre 1976, n. 847](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ulteriore%20proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20tariffa%20dei%20dazi%20doganali%20di%20importazione%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013%20e%20delega%20al%20G_a0eac3bdb9e2.md);
 
 Visto il testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md);
 
 Visto l'[art. 2 della legge 23 gennaio 1968, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Concessione%20di%20delega%20legislativa%20per%20la%20modifica%20e%20laggiornamento%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md);
 
-Visto l'art. 1 del trattato tra la Repubblica italiana e la Repubblica socialista federativa di Jugoslavia, firmato ad Osimo il 10 novembre 1975 e ratificato con la [legge 14 marzo 1977, n. 73](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20trattato%20tra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20socialista%20federativa%20di%20Jugoslavia%20con%20allegati%20nonche%20dellaccordo%20tra%20le%20stesse%20Parti%20con%20allegati%20dellatt_8956da0d08cf.md);
+Visto l'art. 1 del trattato tra la Repubblica italiana e la Repubblica socialista federativa di Jugoslavia, firmato ad Osimo il 10 novembre 1975 e ratificato con la [legge 14 marzo 1977, n. 73](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20trattato%20tra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20socialista%20federativa%20di%20Jugoslavia%20con%20allegati%20nonche%20dellaccordo%20tra%20le%20stesse%20Parti%20con%20allegati%20dellatt_8956da0d08cf.md);
 
 Vista la [legge 14 agosto 1974, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-14;359);
 
@@ -26,7 +26,7 @@ Visto il [decreto del Presidente della Repubblica 26 aprile 1977, n. 816](Norme%
 
 Ritenuta la necessita' di emanare norme correttive ed integrative di quelle contenute nel testo unico anzidetto;
 
-Udito il parere della Commissione parlamentare istituita a norma dell'[art. 4 della legge 1 febbraio 1965, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20una%20nuova%20tariffa%20dei%20dazi%20doganali.md), e successive modificazioni;
+Udito il parere della Commissione parlamentare istituita a norma dell'[art. 4 della legge 1 febbraio 1965, n. 13](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20una%20nuova%20tariffa%20dei%20dazi%20doganali.md), e successive modificazioni;
 
 Sentito il Consiglio dei Ministri;
 

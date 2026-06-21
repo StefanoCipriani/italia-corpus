@@ -20,7 +20,7 @@ Visto il regolamento per il servizio degli arsenali, delle basi navali e degli a
 
 Visto il regolamento per la gestione del materiale speciale aeronautico, approvato con [regio decreto 6 aprile 1923, n. 729](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-06;729), e successive modificazioni;
 
-Visto il regolamento per l'amministrazione e la contabilita' degli enti aeronautici, approvato con [regio decreto 22 marzo 1934, n. 882](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20aeronautici.%20034U0882.md), e successive modificazioni;
+Visto il regolamento per l'amministrazione e la contabilita' degli enti aeronautici, approvato con [regio decreto 22 marzo 1934, n. 882](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20aeronautici.%20034U0882.md), e successive modificazioni;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 

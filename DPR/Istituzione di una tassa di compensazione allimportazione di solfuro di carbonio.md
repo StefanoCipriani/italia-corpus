@@ -10,17 +10,17 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), che ratifica e da' esecuzione ai seguenti Accordi internazionali firmati a Roma il 25 marzo 1957: Trattato che istituisce la Comunita' Europea dell'Energia Atomica ed Atti allegati; Trattato che istituisce la Comunita' Economica Europea ed Atti allegati; Convenzione relativa ad alcune istituzioni comuni alle Comunita' europee;
+Vista la [legge 14 ottobre 1957, n. 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), che ratifica e da' esecuzione ai seguenti Accordi internazionali firmati a Roma il 25 marzo 1957: Trattato che istituisce la Comunita' Europea dell'Energia Atomica ed Atti allegati; Trattato che istituisce la Comunita' Economica Europea ed Atti allegati; Convenzione relativa ad alcune istituzioni comuni alle Comunita' europee;
 
 Vista la tariffa dei dazi doganali d'importazione approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20dimportazione.md), e successive modificazioni;
 
-Vista la [legge 21 marzo 1967, n. 151](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20vigente%20tariffa%20doganale%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013.md);
+Vista la [legge 21 marzo 1967, n. 151](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20vigente%20tariffa%20doganale%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013.md);
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
 Ritenuta la necessita' di istituire una tassa di compensazione all'importazione di solfuro di carbonio;
 
-Sentita la Commissione parlamentare di cui all'[art. 2 della legge 21 marzo 1967, n. 151](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20vigente%20tariffa%20doganale%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013.md);
+Sentita la Commissione parlamentare di cui all'[art. 2 della legge 21 marzo 1967, n. 151](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20vigente%20tariffa%20doganale%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013.md);
 
 Sentito il Consiglio dei Ministri;
 

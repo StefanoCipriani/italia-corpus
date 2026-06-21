@@ -16,7 +16,7 @@ Visti il regio decreto 22 luglio 1939 e l'avviso n. 71 del dipartimento di finan
 
 Vista la deliberazione della camera di commercio, industria, artigianato ed agricoltura di Trieste in data 4 aprile 1973, n. 257, con la quale sono state proposte ulteriori modificazioni alla tariffa suddetta;
 
-Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale sono stati stabiliti la forma e l'organo competente per l'emanazione dei provvedimenti inerenti ai diritti di borsa;
+Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale sono stati stabiliti la forma e l'organo competente per l'emanazione dei provvedimenti inerenti ai diritti di borsa;
 
 Sulla proposta del Ministro per il tesoro; Decreta:
 

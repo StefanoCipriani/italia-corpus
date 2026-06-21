@@ -14,7 +14,7 @@ Vista l'istanza in data 6 aprile 1952, con la quale la maggioranza qualificata d
 
 Viste le deliberazioni: del Consiglio comunale di Dusino San Michele in data 21 settembre 1952, n. 35, ed in data 28 luglio 1956, n. 24; del Consiglio comunale di Villafranca d'Asti in data 16 agosto 1952, n. 123, in data 16 luglio 1956, n. 100, ed in data 31 luglio 1957, n. 127, e del Consiglio provinciale di Asti in data 1° agosto 1956, n. 25, con le quali e' stato espresso parere in ordine alla variazione territoriale in parola;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla prima Sezione del Consiglio di Stato nell'adunanza del 15 luglio 1958, n. 1094;
 

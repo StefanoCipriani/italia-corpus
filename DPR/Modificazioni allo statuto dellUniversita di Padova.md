@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](../Regi%20decreti/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Padova.%20039U1058.md), modificato con [regio decreto 3 ottobre 1939, n. 1847](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-03;1847) e successivi;
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Padova.%20039U1058.md), modificato con [regio decreto 3 ottobre 1939, n. 1847](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-03;1847) e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
@@ -38,7 +38,7 @@ In aggiunta alle Facolta' dell'Universita' di Padova, indicate nella tabella A a
 
 ## Art. 3.
 
-Sono istituiti al sensi degli [articoli 63, secondo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_63-com2), e [100 secondo comma del testo unico 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_100-com2), [n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;10) posti di professore di ruolo, nonche' ai sensi dell'art. ai sensi della [legge 24 giugno 1950, n. 465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), dodici posti di assistente, ordinario.
+Sono istituiti al sensi degli [articoli 63, secondo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_63-com2), e [100 secondo comma del testo unico 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_100-com2), [n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;10) posti di professore di ruolo, nonche' ai sensi dell'art. ai sensi della [legge 24 giugno 1950, n. 465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), dodici posti di assistente, ordinario.
 
 ## Art. 4.
 

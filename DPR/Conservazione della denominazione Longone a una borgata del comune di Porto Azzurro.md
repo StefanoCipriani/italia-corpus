@@ -15,7 +15,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Visto il decreto del Capo provvisorio dello Stato in data 6 maggio 1947, con il quale la denominazione del comune di Porto Longone venne cambiata in quella di Porto Azzurro;
  Vista la [deliberazione in data 13 agosto 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1946-08-13;37), con la quale il comune di Porto Azzurro chiede che la borgata costituita dal complesso di edifici sorti sulla zona circoscritta dalle mura dell'antico forte conservi la denominazione "Longone";
  Visto il parere favorevole espresso dalla Deputazione provinciale di Livorno, con [deliberazione n. 1873 del 30 dicembre 1946](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1946-12-30;1873);
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro per l'interno;
 
  Decreta:

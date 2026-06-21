@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la deliberazione 26 maggio 1948 del Consiglio comunale di Viterbo con la quale si chiede che sia istituito un ufficio di conciliazione con sede nella frazione Roccalvecce e con competenza sul territorio della frazione stessa e su quello della frazione Sant'Angelo;
  Visti i pareri favorevoli del Primo presidente e del Procuratore generale presso la Corte d'appello di Roma;
- Visti gli [articoli 20 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_20) e [1 del regolamento](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1941-01-30;1) approvato con [regio decreto 26 dicembre 1892, n. 728](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
+ Visti gli [articoli 20 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_20) e [1 del regolamento](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1941-01-30;1) approvato con [regio decreto 26 dicembre 1892, n. 728](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
  Sulla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e giustizia;
 
  Decreta:

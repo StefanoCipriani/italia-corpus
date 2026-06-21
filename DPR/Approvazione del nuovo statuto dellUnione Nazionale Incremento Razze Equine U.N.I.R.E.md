@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 24 maggio 1932, n. 624](../Regi%20decreti/Istituzione%20dellUnione%20nazionale%20per%20lincremento%20delle%20razze%20equine.%20032U0624.md), con il quale venne istituita in Roma, ed eretta in ente morale, l'Unione nazionale incremento razze equine (U.N.I.R.E.) posta sotto la vigilanza del Ministero dell'agricoltura e delle foreste;
+ Visto il [regio decreto 24 maggio 1932, n. 624](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20dellUnione%20nazionale%20per%20lincremento%20delle%20razze%20equine.%20032U0624.md), con il quale venne istituita in Roma, ed eretta in ente morale, l'Unione nazionale incremento razze equine (U.N.I.R.E.) posta sotto la vigilanza del Ministero dell'agricoltura e delle foreste;
  Visto lo statuto dell'ente approvato con [decreto del Presidente della Repubblica in data 18 luglio 1956, numero 805](Approvazione%20del%20nuovo%20statuto%20dellUnione%20nazionale%20per%20lincremento%20delle%20razze%20equine%20con%20sede%20in%20Roma.md);
  Vista la [legge 24 marzo 1942, n. 315](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20la%20ippicoltura.%20042U0315.md), concernente provvedimenti per l'ippicoltura;
  Visto il decreto ministeriale 12 luglio 1969, e successive modificazioni, con il quale venne sciolto il consiglio direttivo dell'U.N.I.R.E. e nominato un commissario governativo con l'incarico, tra l'altro, di predisporre un nuovo schema di statuto dell'ente;

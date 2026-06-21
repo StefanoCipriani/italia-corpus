@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
 
-Veduto il [regio decreto 31 agosto 1933, n. 1972](../Regi%20decreti/Trasformazione%20della%20Scuola%20pratica%20dagricoltura%20di%20Fabriano%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20agrario.%20033U1972.md), riguardante l'istituzione di una Scuola tecnica agraria in Fabriano;
+Veduto il [regio decreto 31 agosto 1933, n. 1972](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20della%20Scuola%20pratica%20dagricoltura%20di%20Fabriano%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20agrario.%20033U1972.md), riguardante l'istituzione di una Scuola tecnica agraria in Fabriano;
 
 Considerato che la Scuola predetta ha cessato di funzionare di fatto dal 1 ottobre 1963;
 

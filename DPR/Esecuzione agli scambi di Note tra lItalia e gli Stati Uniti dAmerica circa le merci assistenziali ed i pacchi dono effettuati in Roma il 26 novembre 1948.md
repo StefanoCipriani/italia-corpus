@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 4 agosto 1948, n. 1108](../Leggi%20di%20ratifica/Ratifica%20ed%20esecutorieta%20dellAccordo%20di%20cooperazione%20economica%20tra%20lItalia%20e%20gli%20Stati%20Uniti%20dAmerica%20concluso%20a%20Roma%20il%2028%20giugno%201948.md);
+Vista la [legge 4 agosto 1948, n. 1108](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecutorieta%20dellAccordo%20di%20cooperazione%20economica%20tra%20lItalia%20e%20gli%20Stati%20Uniti%20dAmerica%20concluso%20a%20Roma%20il%2028%20giugno%201948.md);
 
 Sentito il Consiglio dei Ministri;
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti l'[art. 2 della legge 22 novembre 1949, n. 861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-11-22;861#art_2) e l'[art. 1 del decreto legislativo luogotenenziale 9 novembre 1944, n. 307](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20assegni%20familiari%20supplementari%20di%20carovita%20e%20normalizzazione%20di%20quelli%20ordinari.%20044U0307.md);
+Visti l'[art. 2 della legge 22 novembre 1949, n. 861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-11-22;861#art_2) e l'[art. 1 del decreto legislativo luogotenenziale 9 novembre 1944, n. 307](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20assegni%20familiari%20supplementari%20di%20carovita%20e%20normalizzazione%20di%20quelli%20ordinari.%20044U0307.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 6 maggio 1947, n. 563](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-06;563), e successive modifiche;
 

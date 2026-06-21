@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il [regio decreto 13 novembre 1924, n. 1903](../Regi%20decreti/Istituzione%20in%20Fano%20di%20un%20Regio%20istituto%20commerciale.%20024U1903.md), istitutivo del regio istituto tecnico commerciale di Fano;
+Veduto il [regio decreto 13 novembre 1924, n. 1903](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20in%20Fano%20di%20un%20Regio%20istituto%20commerciale.%20024U1903.md), istitutivo del regio istituto tecnico commerciale di Fano;
 
 Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
 
-Veduto il [regio decreto 24 agosto 1933, n. 2241](../Regi%20decreti/Trasformazione%20del%20Regio%20istituto%20commerciale%20di%20Fano%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20mercantile.%20033U2241.md), relativo alla trasformazione del regio istituto tecnico commerciale di Fano in regio istituto tecnico commerciale ad indirizzo mercantile e alla approvazione dello statuto;
+Veduto il [regio decreto 24 agosto 1933, n. 2241](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20commerciale%20di%20Fano%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20mercantile.%20033U2241.md), relativo alla trasformazione del regio istituto tecnico commerciale di Fano in regio istituto tecnico commerciale ad indirizzo mercantile e alla approvazione dello statuto;
 
 Veduto il [regio decreto 21 settembre 1938, n. 2038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-21;2038), convertito con la [legge 2 giugno 1939, n. 379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;379), contenente, tra l'altro, norme sull'ordinamento degli istituti di istruzione tecnica;
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro della pubblica istruzione di concerto col Ministro d
 
 ## Articolo unico
 
-A decorrere dal 1 settembre 1986 il funzionamento dell'istituto tecnico commerciale di Fano e' disciplinato da un nuovo statuto, che, allegato al presente decreto, modifica e sostituisce quello approvato con il [regio decreto 24 agosto 1933, n. 2241](../Regi%20decreti/Trasformazione%20del%20Regio%20istituto%20commerciale%20di%20Fano%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20mercantile.%20033U2241.md).
+A decorrere dal 1 settembre 1986 il funzionamento dell'istituto tecnico commerciale di Fano e' disciplinato da un nuovo statuto, che, allegato al presente decreto, modifica e sostituisce quello approvato con il [regio decreto 24 agosto 1933, n. 2241](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20commerciale%20di%20Fano%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20mercantile.%20033U2241.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

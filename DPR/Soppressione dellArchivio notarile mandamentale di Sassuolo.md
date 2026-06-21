@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA 
  
- Visto il [regio decreto 18 gennaio 1880, n. 5237](../Regi%20decreti/Col%20quale%20si%20provvede%20per%20la%20conservazione%20dellarchivio%20notarile%20subalterno%20di%20Sassuolo%20e%20per%20la%20trasformazione%20del%20medesimo%20in%20archivio%20notarile%20mandamentale.%20080U5237.md), con il quale venne istituito l'Archivio notarile mandamentale di Sassuolo; 
+ Visto il [regio decreto 18 gennaio 1880, n. 5237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20si%20provvede%20per%20la%20conservazione%20dellarchivio%20notarile%20subalterno%20di%20Sassuolo%20e%20per%20la%20trasformazione%20del%20medesimo%20in%20archivio%20notarile%20mandamentale.%20080U5237.md), con il quale venne istituito l'Archivio notarile mandamentale di Sassuolo; 
  Visto l'art. 248 del regolamento per l'esecuzione della [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), riguardante l'ordinamento del notariato e degli archivi notarili approvato con [regio decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md); 
  Viste le deliberazioni dei comuni di Sassuolo, Fiorano Modenese, Frassinoro, Prignano, Maranello, Montefiorino, rispettivamente in data 27 marzo 1949, 14 maggio 1949, 30 dicembre 1949, 10 febbraio 1949, 27 dicembre 1949, 2 febbraio 1950; 
  Visto il parere del conservatore dell'Archivio notarile distrettuale di Modena in data 13 gennaio 1949; 

@@ -22,7 +22,7 @@ Visto il [decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20rel
 
 Visto l'[articolo 2, comma 2, lettera g), del decreto legislativo 20 ottobre 1998, n. 368](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
 
-Visto il [decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
+Visto il [decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 gennaio 2000;
 
@@ -46,7 +46,7 @@ L'Istituto per il credito sportivo, istituito con [legge 24 dicembre 1957, n. 12
 
 2.
 
-L'Istituto e' soggetto alle disposizioni del [decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni.
+L'Istituto e' soggetto alle disposizioni del [decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni.
 
 Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
@@ -69,7 +69,7 @@ Avvertenza:
  - L'[art. 17, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2) e [4-bis, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4bis), cosi' dispone:
  "2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il Consiglio di Stato, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari.
  (Omissis).
- 4-bis. L'organizzazione e la disciplina degli uffici dei Ministeri sono determinate, con regolamenti emanati ai sensi del comma 2, su proposta del Ministro competente d'intesa con il Presidente del Consiglio dei Ministri e con il Ministro del tesoro, nel rispetto dei principi posti dal [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, con i contenuti e con l'osservanza dei criteri che seguono:
+ 4-bis. L'organizzazione e la disciplina degli uffici dei Ministeri sono determinate, con regolamenti emanati ai sensi del comma 2, su proposta del Ministro competente d'intesa con il Presidente del Consiglio dei Ministri e con il Ministro del tesoro, nel rispetto dei principi posti dal [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, con i contenuti e con l'osservanza dei criteri che seguono:
  a) riordino degli uffici di diretta collaborazione con i Ministri ed i Sottosegretari di Stato, stabilendo che tali uffici hanno esclusive competenze di supporto dell'organo di direzione politica e di raccordo tra questo e l'amministrazione;
  b) individuazione degli uffici di livello dirigenziale generale, centrali e periferici, mediante diversificazione tra strutture con funzioni finali e con funzioni strumentali e loro organizzazione per funzioni omogenee e secondo criteri di flessibilita' eliminando le duplicazioni funzionali;
  c) previsione di strumenti di verifica periodica dell'organizzazione e dei risultati;
@@ -88,7 +88,7 @@ Avvertenza:
  "2. Il Ministero esercita, in particolare, le funzioni amministrative statali nelle seguenti materie:
  a) - f) (Omissis);
  g) vigilanza sul CONI e sull'Istituto per il credito sportivo".
- - Il [decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), recante "Testo unico delle leggi in materia bancaria e creditizia", e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale della Repubblica italiana 30 settembre 1993, n. 230.
+ - Il [decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), recante "Testo unico delle leggi in materia bancaria e creditizia", e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale della Repubblica italiana 30 settembre 1993, n. 230.
  - Il [decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), recante "Definizione ed ampliamento delle attribuzioni della conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano ed unificazione, per le materie ed i compiti di interesse comune delle regioni, delle province e dei comuni, con la Conferenza Stato-citta' ed autonomie locali", e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 202 del 30 agosto 1997.
  - L'[art. 5 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), cosi' recita:
  "Art. 5. - 1. E' istituita una commissione parlamentare, composta da venti senatori e venti deputati, nominati rispettivamente dai presidenti del Senato della Repubblica e della Camera dei deputati, su designazione dei gruppi parlamentari.
@@ -99,7 +99,7 @@ Avvertenza:
  b) verifica periodicamente lo stato di attuazione delle riforme previste dalla presente legge e ne riferisce ogni sei mesi alle Camere.".
  Note all'[art. 1:
  - Per la legge 24 dicembre 1957, n. 1295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-12-24;1295#art_1), si veda la nota alle premesse.
- - Per il [decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), si veda la nota alle premesse.
+ - Per il [decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), si veda la nota alle premesse.
 
 ## Art. 2. — Finalita' dell'Istituto per il credito sportivo
 
@@ -131,14 +131,14 @@ Sono organi dell'Istituto il presidente, il consiglio di amministrazione, il col
 
 2.
 
-Per la nomina dei componenti degli organi dell'Istituto sono richiesti i requisiti di onorabilita' e professionalita' previsti per gli intermediari finanziari dal titolo V del [decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), recante il testo unico delle leggi in materia bancaria e creditizia.
+Per la nomina dei componenti degli organi dell'Istituto sono richiesti i requisiti di onorabilita' e professionalita' previsti per gli intermediari finanziari dal titolo V del [decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), recante il testo unico delle leggi in materia bancaria e creditizia.
 
 3.
 
 I compensi e le indennita' del presidente, dei componenti del consiglio di amministrazione e del collegio sindacale sono determinati con i relativi provvedimenti di nomina.
 
 Nota all'[art. 4:
- - Per il decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_4), si veda, nota alle premesse.
+ - Per il decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), si veda, nota alle premesse.
 
 ## Art. 5. — Presidente
 
@@ -245,24 +245,24 @@ Il collegio sindacale, nominato con decreto del Ministro per i beni e le attivit
 
 2.
 
-Il collegio sindacale resta in carica quattro anni. I componenti possono essere confermati e a loro si applicano le disposizioni riguardanti i sindaci delle societa' finanziarie di cui al titolo V del [decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), recante il testo unico delle leggi in materia bancaria e creditizia.
+Il collegio sindacale resta in carica quattro anni. I componenti possono essere confermati e a loro si applicano le disposizioni riguardanti i sindaci delle societa' finanziarie di cui al titolo V del [decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), recante il testo unico delle leggi in materia bancaria e creditizia.
 
 3.
 
 Per la costituzione del primo collegio sindacale, ove avvenga antecedentemente alla data di cui all'[articolo 55, comma 1, del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), che istituisce il Ministero dell'economia e delle finanze, uno dei due membri supplenti di cui al punto f) del comma 1 e' designato dal Ministro delle finanze.
 
 Note all'[art. 7:
- - Per il decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_7), si veda la nota alle premesse.
+ - Per il decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), si veda la nota alle premesse.
  - Per l'[art. 55, comma 1, del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), si veda la nota all'art. 6.
 
 ## Art. 8. — Direttore generale
 
 1.
 
-Il direttore generale sovrintende al personale e agli uffici dell'Istituto. Per la nomina a direttore generale sono richiesti i requisiti di onorabilita' e professionalita' previsti dal titolo V del [decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), recante il testo unico delle leggi in materia bancaria e creditizia.
+Il direttore generale sovrintende al personale e agli uffici dell'Istituto. Per la nomina a direttore generale sono richiesti i requisiti di onorabilita' e professionalita' previsti dal titolo V del [decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), recante il testo unico delle leggi in materia bancaria e creditizia.
 
 Nota all'[art. 8:
- - Per il decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_8), si veda la nota alle premesse.
+ - Per il decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), si veda la nota alle premesse.
 
 ## Art. 9. — Bilancio e utili
 
@@ -276,14 +276,14 @@ Il bilancio e' redatto dal direttore generale ed e' deliberato, entro quattro me
 
 3.
 
-Il bilancio dell'Istituto e' redatto in conformita' alle disposizioni di cui al [decreto legislativo 27 gennaio 1992, n. 87](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md).
+Il bilancio dell'Istituto e' redatto in conformita' alle disposizioni di cui al [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md).
 
 4.
 
 Gli utili netti risultanti dal bilancio sono destinati, per una quota non inferiore all'ottanta per cento, alla riserva non distribuibile ai partecipanti al fondo di dotazione; la restante quota e' destinata dal consiglio di amministrazione alle finalita' istituzionali.
 
 Nota all'[art. 9:
- - Il decreto legislativo 27 gennaio 1992, n. 87](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), recante "Attuazione della [direttiva n. 86/635/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1986;635), relativa ai conti annuali ed ai conti consolidati delle banche e degli altri istituti finanziari, e della [direttiva n. 89/117/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;117), relativa agli obblighi in materia di pubblicita' dei documenti contabili delle succursali, stabilite in uno Stato membro, di enti creditizi ed istituti finanziari con sede sociali fuori di tale Stato membro" e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale della Repubblica italiana n. 37 del 14 febbraio 1992.
+ - Il decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), recante "Attuazione della [direttiva n. 86/635/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1986;635), relativa ai conti annuali ed ai conti consolidati delle banche e degli altri istituti finanziari, e della [direttiva n. 89/117/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;117), relativa agli obblighi in materia di pubblicita' dei documenti contabili delle succursali, stabilite in uno Stato membro, di enti creditizi ed istituti finanziari con sede sociali fuori di tale Stato membro" e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale della Repubblica italiana n. 37 del 14 febbraio 1992.
 
 ## Art. 10. — Fondo per la concessione di contributi in conto interessi
 

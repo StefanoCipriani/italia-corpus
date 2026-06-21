@@ -16,7 +16,7 @@ Vista la [legge 8 luglio 1956, n. 782](../Atti%20normativi%20abrogati%20%28in%20
 
 Vista la [legge 15 dicembre 1955, n. 1440](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20lo%20svolgimento%20degli%20esami%20di%20Stato%20per%20labilitazione%20allesercizio%20professionale%20dellinsegnamento%20medio.md);
 
-Visto il [regio decreto 11 febbraio 1941, n. 229](../Regi%20decreti/Approvazione%20delle%20nuove%20tabelle%20delle%20classi%20di%20concorsi%20-%20esami%20di%20Stato%20per%20linsegnamento%20negli%20Istituti%20dellOrdine%20medio%20e%20dellOrdine%20superiore%20classico%20e%20tecnico%20dei%20titoli%20dammissio_2846c2e85547.md);
+Visto il [regio decreto 11 febbraio 1941, n. 229](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20nuove%20tabelle%20delle%20classi%20di%20concorsi%20-%20esami%20di%20Stato%20per%20linsegnamento%20negli%20Istituti%20dellOrdine%20medio%20e%20dellOrdine%20superiore%20classico%20e%20tecnico%20dei%20titoli%20dammissio_2846c2e85547.md);
 
 Visto il regolamento approvato con [decreto del Presidente della Repubblica 29 aprile 1957, n. 972](Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20degli%20esami%20di%20Stato%20per%20labilitazione%20allesercizio%20professionale%20dellinsegnamento%20medio.md);
 

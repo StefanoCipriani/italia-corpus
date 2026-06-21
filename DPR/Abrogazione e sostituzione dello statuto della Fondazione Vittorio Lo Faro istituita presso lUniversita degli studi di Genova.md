@@ -14,7 +14,7 @@ N.
 
 1656.
 
-Decreto del Presidente della Repubblica 23 gennaio 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, viene abrogato e sostituito lo statuto della Fondazione "Vittorio Lo Faro", istituita presso l'Universita' degli studi di Genova con [regio decreto 14 giugno 1941, n. 664](../Regi%20decreti/Erezione%20in%20ente%20morale%20della%20Fondazione%20Vittorio%20Lo%20Faro.%20041U0664.md).
+Decreto del Presidente della Repubblica 23 gennaio 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, viene abrogato e sostituito lo statuto della Fondazione "Vittorio Lo Faro", istituita presso l'Universita' degli studi di Genova con [regio decreto 14 giugno 1941, n. 664](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20della%20Fondazione%20Vittorio%20Lo%20Faro.%20041U0664.md).
 
 Visto, il Guardasigilli: MORO
  Registrato alla Corte dei conti, addi' 28 febbraio 1957

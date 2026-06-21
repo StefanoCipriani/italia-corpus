@@ -18,7 +18,7 @@ Vista la [legge 6 dicembre 1971, n. 1036](../Leggi%20delega%20e%20relativi%20pro
 
 Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito con modificazioni, nella [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
-Visto l'art. 161 del regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, approvato con [regio decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md);
+Visto l'art. 161 del regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, approvato con [regio decreto 23 marzo 1933, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md);
 
 Udito il parere della Commissione parlamentare istituita a norma dell'[art. 17, comma primo, della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md);
 
@@ -39,7 +39,7 @@ Gli uffici di cui all'articolo precedente assumono la denominazione di "Ufficio 
 
 ## Art. 3.
 
-Gli uffici imposta sul valore aggiunto sono classificati tra gli uffici di prima categoria per il periodo corrente fino al 31 dicembre 1974; per i periodi successivi, la classificazione avra' luogo con le modalita' di cui all'art. 161 del regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari approvato con [regio decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md).
+Gli uffici imposta sul valore aggiunto sono classificati tra gli uffici di prima categoria per il periodo corrente fino al 31 dicembre 1974; per i periodi successivi, la classificazione avra' luogo con le modalita' di cui all'art. 161 del regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari approvato con [regio decreto 23 marzo 1933, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md).
 
 ## Art. 4.
 

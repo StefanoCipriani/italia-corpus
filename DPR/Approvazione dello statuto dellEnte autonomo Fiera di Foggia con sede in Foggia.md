@@ -14,7 +14,7 @@ N.
 
 225.
 
-Decreto del Presidente della Repubblica 22 febbraio 1949, col quale, sulla proposta del Ministro per l'industria e il commercio, viene approvato lo statuto dell'Ente autonomo "Fiera di Foggia", con sede in Foggia, che sostituisce, a tutti gli effetti, quello approvato con [regio decreto 6 febbraio 1942, n. 157](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20dellEnte%20autonomo%20Fiera%20di%20Foggia%20con%20sede%20in%20Foggia.%20042U0157.md).
+Decreto del Presidente della Repubblica 22 febbraio 1949, col quale, sulla proposta del Ministro per l'industria e il commercio, viene approvato lo statuto dell'Ente autonomo "Fiera di Foggia", con sede in Foggia, che sostituisce, a tutti gli effetti, quello approvato con [regio decreto 6 febbraio 1942, n. 157](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20dellEnte%20autonomo%20Fiera%20di%20Foggia%20con%20sede%20in%20Foggia.%20042U0157.md).
 
 Visto, il Guardasigilli: GRASSI
  Registrato alla Corte dei conti, addi' 7 maggio 1949

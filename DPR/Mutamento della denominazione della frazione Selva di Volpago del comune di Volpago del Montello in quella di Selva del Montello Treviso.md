@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la deliberazione del Consiglio comunale di Volpago del Montello in data 10 ottobre 1956, n. 31, con la quale e' stato chiesto che l'attuale denominazione della frazione Selva di Volpago del Comune sia mutata in quella di "Selva del Montello";
  Vista la deliberazione del Consiglio provinciale di Treviso in data 3 luglio 1957, n. 14652/56, con la quale e' stato espresso parere favorevole in ordine alla cennata richiesta;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

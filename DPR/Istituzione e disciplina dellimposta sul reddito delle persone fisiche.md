@@ -1342,7 +1342,7 @@ d) le imposte comunali di famiglia, di patente, sul valore locativo e il contrib
  
 e) il contributo speciale di cura, le contribuzioni speciali sui pubblici spettacoli e la tassa di musica applicati nelle stazioni di cura, soggiorno o turismo; 
  
-f) le imposte camerali previste dall'[art. 52, lettere c)](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md) e [d) del regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md); 
+f) le imposte camerali previste dall'[art. 52, lettere c)](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md) e [d) del regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md); 
  
 g) le addizionali erariali e locali agli indicati tributi. 
  

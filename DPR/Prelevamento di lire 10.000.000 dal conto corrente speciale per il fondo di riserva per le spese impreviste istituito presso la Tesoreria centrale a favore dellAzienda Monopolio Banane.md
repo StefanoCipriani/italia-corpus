@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'art. 2 dell'ordinamento amministrativo-contabile dell'Azienda, Monopolio Banane, approvato con [regio decreto 18 giugno 1936, n. 1508](../Regi%20decreti/Regolamento%20amministrativo-contabile%20della%20Regia%20Azienda%20Monopolio%20Banane.%20036U1508.md);
+Visto l'art. 2 dell'ordinamento amministrativo-contabile dell'Azienda, Monopolio Banane, approvato con [regio decreto 18 giugno 1936, n. 1508](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20amministrativo-contabile%20della%20Regia%20Azienda%20Monopolio%20Banane.%20036U1508.md);
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 

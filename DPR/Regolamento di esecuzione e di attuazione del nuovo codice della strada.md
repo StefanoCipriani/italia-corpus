@@ -4058,7 +4058,7 @@ Il [D.P.R. 8 novembre 2018, n. 144](../Regolamenti%20governativi/Regolamento%20r
 
 AGGIORNAMENTO (63)
 
-Il [D.Lgs. 3 settembre 2020, n. 119](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20direttiva%20UE%202018-849%20che%20modifica%20la%20direttiva%202000-53-CE%20relativa%20ai%20veicoli%20fuori%20uso.%2020G00137.md) ha disposto (con l'art. 2, comma 2) che "Il decreto del Presidente della Repubblica di cui all'articolo 1, comma 1, lettera m), e' adottato entro centottanta giorni dalla data di entrata in vigore del presente decreto. Fino alla data di entrata in vigore del predetto decreto del Presidente della Repubblica continuano ad applicarsi le disposizioni previste all'[articolo 264 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md)."
+Il [D.Lgs. 3 settembre 2020, n. 119](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20dellarticolo%201%20della%20direttiva%20UE%202018-849%20che%20modifica%20la%20direttiva%202000-53-CE%20relativa%20ai%20veicoli%20fuori%20uso.%2020G00137.md) ha disposto (con l'art. 2, comma 2) che "Il decreto del Presidente della Repubblica di cui all'articolo 1, comma 1, lettera m), e' adottato entro centottanta giorni dalla data di entrata in vigore del presente decreto. Fino alla data di entrata in vigore del predetto decreto del Presidente della Repubblica continuano ad applicarsi le disposizioni previste all'[articolo 264 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md)."
 
 ## CIRCOLAZIONE SU STRADA DELLE MACCHINE AGRICOLE E DELLE MACCHINE OPERATRICI § 1. DISPOSIZIONI SULLA CIRCOLAZIONE DI MACCHINE AGRICOLE ECCEZIONALI (Artt. 104-105 Codice della Strada)
 
@@ -4670,7 +4670,7 @@ La [L. 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misu
 ### Art. 315.
 
 (Certificato di formazione professionale relativo alle merci pericolose ) 
- 1. Ai conducenti che effettuano trasporti nazionali ed internazionali su strada di merci pericolose, il certificato di formazione professionale, conforme al modello approvato dal Ministro dei trasporti e della navigazione, e' rilasciato in base a quanto disposto in materia con la [legge 19 febbraio 1992, n. 142](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md). ((10))
+ 1. Ai conducenti che effettuano trasporti nazionali ed internazionali su strada di merci pericolose, il certificato di formazione professionale, conforme al modello approvato dal Ministro dei trasporti e della navigazione, e' rilasciato in base a quanto disposto in materia con la [legge 19 febbraio 1992, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md). ((10))
 
 ----------------
 
@@ -5304,7 +5304,7 @@ Il Decreto 4 dicembre 2019 (in G.U. 24/01/2020, n. 19) ha disposto:
 ### Art. 371.
 
 (Persone e carichi trasportabili) 
- 1. Il numero massimo di persone trasportabili sulle autovetture, anche se adibite al trasporto di persone e di cose, gia' immatricolate alla data del 23 giugno 1966, e' quello indicato sulle relative carte di circolazione tra le caratteristiche tecniche alla voce "posti totali n. .." oppure sulle licenze di circolazione rilasciate ai sensi del [regio decreto 8 dicembre 1933, n.1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), alla analoga voce "posti n. .. compreso il conducente". 
+ 1. Il numero massimo di persone trasportabili sulle autovetture, anche se adibite al trasporto di persone e di cose, gia' immatricolate alla data del 23 giugno 1966, e' quello indicato sulle relative carte di circolazione tra le caratteristiche tecniche alla voce "posti totali n. .." oppure sulle licenze di circolazione rilasciate ai sensi del [regio decreto 8 dicembre 1933, n.1740](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), alla analoga voce "posti n. .. compreso il conducente". 
  2. Le annotazioni del tipo: posti 2+2, o simili, si devono considerare equivalenti a: posti totali pari alla somma dei due numeri indicati. 
  3. Le annotazioni del tipo: posti 4/5, o simili, si devono considerare equivalenti a: posti totali pari al maggiore dei due numeri indicati. 
  4. Le eventuali variazioni a detto numero di persone trasportabili che dovessero essere autorizzate a seguito di ulteriori verifiche e prove effettuate sui prototipi degli autoveicoli, qualora non comportino modifiche al veicolo originale, verranno annotate sulle carte di circolazione degli autoveicoli dello stesso tipo a cura degli uffici provinciali della Direzione generale della M.C.T.C. senza che sia effettuata visita sui singoli veicoli. 
@@ -5312,7 +5312,7 @@ Il Decreto 4 dicembre 2019 (in G.U. 24/01/2020, n. 19) ha disposto:
  6. Ai fini della determinazione della massa complessiva trasportabile sui veicoli di cui all'articolo 167, comma 1, del codice, si tiene conto del corrispondente limite contenuto nel documento di circolazione dei veicoli medesimi.
 
 Nota all'[art. 371:
- - Il R.D. 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), reca: "Testo unico di norme per la tutela delle strade e per la circolazione".
+ - Il R.D. 8 dicembre 1933, n. 1740](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), reca: "Testo unico di norme per la tutela delle strade e per la circolazione".
 
 ## (Artt. 175-176 Codice della Strada)
 

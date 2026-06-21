@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto che i titoli nominativi di piena proprieta', del Consolidato 3,50% - 1902, creato con la [legge 12 giugno 1902, n. 166](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riflettente%20la%20creazione%20di%20un%20nuovo%20titolo%20consolidato%203%20e%20mezzo%20per%20cento%20e%20provvedimenti%20per%20i%20debiti%20redimibili.%20002U0166.md), rimarranno privi di tagliandi di ricevuta con la riscossione della rata, trimestrale di interessi di scadenza 1 aprile 1959;
 
-Visto il [regio decreto 2 agosto 1902, n. 317](../Regi%20decreti/Riguardante%20provvedimenti%20per%20il%20nuovo%20tipo%20di%20rendita%20consolidata%20350%20%20netto%20e%20per%20la%20conversione%20di%20alcuni%20debiti%20redimibili.%20002U0317.md), per l'esecuzione della legge anzidetta;
+Visto il [regio decreto 2 agosto 1902, n. 317](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riguardante%20provvedimenti%20per%20il%20nuovo%20tipo%20di%20rendita%20consolidata%20350%20%20netto%20e%20per%20la%20conversione%20di%20alcuni%20debiti%20redimibili.%20002U0317.md), per l'esecuzione della legge anzidetta;
 
-Visto l'art. 120 del regolamento generale sul Debito pubblico, approvato con il [regio decreto 19 febbraio 1911, n. 298](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md);
+Visto l'art. 120 del regolamento generale sul Debito pubblico, approvato con il [regio decreto 19 febbraio 1911, n. 298](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md);
 
 Visto l'[art. 1 della legge 18 marzo 1958, n. 241](../Atti%20normativi%20abrogati%20%28in%20originale%29/Minimo%20iscrivibile%20nel%20Gran%20Libro%20del%20debito%20pubblico%20e%20arrotondamento%20dei%20pagamenti%20degli%20interessi%20su%20titoli%20e%20facilitazioni%20nelle%20operazioni%20di%20rinnovazione%20dei%20titoli%20nominativi.md), con il quale si dispone, tra l'altro, il pagamento in rate semestrali degli interessi sui titoli di Debito pubblico, sia al portatore che nominativi;
 

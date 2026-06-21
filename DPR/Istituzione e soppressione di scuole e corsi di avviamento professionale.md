@@ -28,7 +28,7 @@ L'ordinamento e i programmi d'insegnamento per la scuola secondaria di avviament
 
 ## Art. 3.
 
-Gli oneri relativi alla somministrazione, manutenzione e arredamento dei locali, illuminazione, riscaldamento e spese varie di ufficio, nonche' gli stipendi al personale amministrativo e di servizio, faranno carico ai rispettivi Comuni, a norma dell'[art. 91, lett. F) del regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale.
+Gli oneri relativi alla somministrazione, manutenzione e arredamento dei locali, illuminazione, riscaldamento e spese varie di ufficio, nonche' gli stipendi al personale amministrativo e di servizio, faranno carico ai rispettivi Comuni, a norma dell'[art. 91, lett. F) del regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale.
 
 ## Art. 4.
 

@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il testo unico delle leggi sulla pesca, approvato con [regio decreto-legge 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-10-08;1604);
 
-Visto il [regio decreto 22 dicembre 1932, n. 1802](../Regi%20decreti/Erezione%20in%20ente%20morale%20del%20Comitato%20nazionale%20per%20gli%20studi%20e%20la%20propaganda%20peschereccia%20ed%20approvazione%20del%20relativo%20statuto.%20032U1802.md);
+Visto il [regio decreto 22 dicembre 1932, n. 1802](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20del%20Comitato%20nazionale%20per%20gli%20studi%20e%20la%20propaganda%20peschereccia%20ed%20approvazione%20del%20relativo%20statuto.%20032U1802.md);
 
-Visti il [regio decreto 10 settembre 1936, n. 1980](../Regi%20decreti/Trasformazione%20del%20Comitato%20nazionale%20per%20gli%20studi%20e%20la%20propaganda%20peschereccia%20in%20Fondazione%20Littoria%20per%20la%20piccola%20pesca.%20036U1980.md) e il [regio decreto 9 febbraio 1942, n. 287](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20della%20Fondazione%20Littoria%20per%20la%20piccola%20pesca.%20042U0287.md), concernenti la erezione in ente morale e l'ordinamento della "Fondazione littoria per la piccola pesca";
+Visti il [regio decreto 10 settembre 1936, n. 1980](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Comitato%20nazionale%20per%20gli%20studi%20e%20la%20propaganda%20peschereccia%20in%20Fondazione%20Littoria%20per%20la%20piccola%20pesca.%20036U1980.md) e il [regio decreto 9 febbraio 1942, n. 287](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Fondazione%20Littoria%20per%20la%20piccola%20pesca.%20042U0287.md), concernenti la erezione in ente morale e l'ordinamento della "Fondazione littoria per la piccola pesca";
 
-Visto il [decreto luogotenenziale 19 ottobre 1944, numero 343](../Decreti%20legislativi%20luogotenenziali/Fondazione%20assistenza%20e%20rifornimenti%20per%20la%20pesca.%20044U0343.md), con il quale, la predetta Fondazione viene denominata "Fondazione assistenza e rifornimenti per la pesca";
+Visto il [decreto luogotenenziale 19 ottobre 1944, numero 343](../Atti%20normativi%20abrogati%20%28in%20originale%29/Fondazione%20assistenza%20e%20rifornimenti%20per%20la%20pesca.%20044U0343.md), con il quale, la predetta Fondazione viene denominata "Fondazione assistenza e rifornimenti per la pesca";
 
 Visto il [decreto legislativo del Capo provvisorio dello stato 31 marzo 1947, n. 396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-31;396);
 

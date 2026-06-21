@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 3 della legge 14 marzo 1977, n. 73](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20trattato%20tra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20socialista%20federativa%20di%20Jugoslavia%20con%20allegati%20nonche%20dellaccordo%20tra%20le%20stesse%20Parti%20con%20allegati%20dellatt_8956da0d08cf.md), concernente la ratifica ed esecuzione del trattato tra la Repubblica italiana e la Repubblica socialista federativa di Jugoslavia, con allegati, nonche' dell'accordo tra le stesse Parti, con allegati, dell'atto finale e dello scambio di note, firmati ad Osimo (Ancona) il 10 novembre 1975;
+Visto l'[art. 3 della legge 14 marzo 1977, n. 73](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20trattato%20tra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20socialista%20federativa%20di%20Jugoslavia%20con%20allegati%20nonche%20dellaccordo%20tra%20le%20stesse%20Parti%20con%20allegati%20dellatt_8956da0d08cf.md), concernente la ratifica ed esecuzione del trattato tra la Repubblica italiana e la Repubblica socialista federativa di Jugoslavia, con allegati, nonche' dell'accordo tra le stesse Parti, con allegati, dell'atto finale e dello scambio di note, firmati ad Osimo (Ancona) il 10 novembre 1975;
 
 Visti gli articoli 1 e 2 del trattato di Osimo del 10 novembre 1975 che descrivono la frontiera tra la Repubblica italiana e la Repubblica socialista federativa di Jugoslavia per la parte che non e' indicata come tale nel trattato di pace;
 

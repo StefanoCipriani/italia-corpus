@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Viste le deliberazioni 15 settembre e 28 dicembre 1948, con le quali il Consiglio comunale di Deiva (provincia di La Spezia) e' venuto nella determinazione di mutare il nome di Deiva in quello di "Deiva Marina";
  Visto il parere favorevole espresso in merito dalla Deputazione provinciale di La Spezia con atto 26 ottobre 1948;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro per l'interno;
 
  Decreta:

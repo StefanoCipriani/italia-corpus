@@ -154,7 +154,7 @@ Gli insegnamenti sono affidati per un triennio, salvo conferma, a professori uni
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art. 29 comma 7 lettera B) che e' abrogato l'[art. 11, primo comma, del decreto del Presidente della Repubblica 21 aprile 1972, n. 472](Riordinamento%20e%20potenziamento%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione.md), limitatamente alla durata dell'incarico.
+Il [D. Lgs 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art. 29 comma 7 lettera B) che e' abrogato l'[art. 11, primo comma, del decreto del Presidente della Repubblica 21 aprile 1972, n. 472](Riordinamento%20e%20potenziamento%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione.md), limitatamente alla durata dell'incarico.
 
 ## Art. 12. — (Nomina dei docenti)
 

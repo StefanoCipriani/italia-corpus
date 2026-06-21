@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Viste le [deliberazioni in data 21 marzo 1966, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1966-03-21;37), in [data 6 maggio 1966, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1966-05-06;37) A e in [data 24 gennaio 1969, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1969-01-24;14), con le quali il consiglio comunale di Andora (Savona) ha chiesto che la sede municipale del comune sia trasferita dalla localita' S. Pietro alla localita' Marina;
  Viste le [deliberazioni in data 6 novembre 1967, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1967-11-06;284) e in [data 23 febbraio 1970, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1970-02-23;22), con le quali il consiglio provinciale di Savona ha espresso il richiesto parere al riguardo;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

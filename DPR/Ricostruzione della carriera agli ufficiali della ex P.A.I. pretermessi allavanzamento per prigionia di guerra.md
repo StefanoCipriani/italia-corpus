@@ -14,7 +14,7 @@ Visto il testo unico delle leggi sugli ufficiali ed agenti di pubblica sicurezza
 
 Visto il [regio decreto 9 gennaio 1927, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-09;33), sul riordinamento del personale della pubblica sicurezza e dei servizi di polizia;
 
-Visto il [regio decreto 17 novembre 1932, n. 1595](../Regi%20decreti/Modificazioni%20allordinamento%20del%20personale%20di%20pubblica%20sicurezza.%20032U1595.md), concernente modificazioni all'ordinamento del personale di pubblica sicurezza;
+Visto il [regio decreto 17 novembre 1932, n. 1595](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allordinamento%20del%20personale%20di%20pubblica%20sicurezza.%20032U1595.md), concernente modificazioni all'ordinamento del personale di pubblica sicurezza;
 
 Visto il regolamento generale del soppresso Corpo di polizia Africa italiana, approvato con [regio decreto 6 giugno 1940, n. 751](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-06;751);
 

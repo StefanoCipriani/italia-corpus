@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il Trattato che istituisce la Comunita' Economica Europea, ratificato con [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
+Visto il Trattato che istituisce la Comunita' Economica Europea, ratificato con [legge 14 ottobre 1957, n. 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
 
 Visti gli articoli 27, 155 e 189 del Trattato medesimo;
 
-Vista la [legge 13 luglio 1965, n. 871](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md), che conferisce a Governo la delega ad emanare per tutta la durata della seconda tappa del periodo transitorio definito dall'articolo 8 del Trattato istitutivo della Comunita' Economica Europea, con decreti aventi forza di legge ordinaria, le norme necessarie per attuare le misure previste dall'art. 27 del Trattato stesso;
+Vista la [legge 13 luglio 1965, n. 871](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md), che conferisce a Governo la delega ad emanare per tutta la durata della seconda tappa del periodo transitorio definito dall'articolo 8 del Trattato istitutivo della Comunita' Economica Europea, con decreti aventi forza di legge ordinaria, le norme necessarie per attuare le misure previste dall'art. 27 del Trattato stesso;
 
 Vista la Tariffa dei dazi doganali di importazione della Repubblica italiana, approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20dimportazione.md);
 
@@ -28,7 +28,7 @@ Ritenuta la necessita' di dare attuazione alla Raccomandazione della Commissione
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Sentita la Commissione parlamentare, costituita a norma dell'[art. 3 della legge 13 luglio 1965, n. 871](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md);
+Sentita la Commissione parlamentare, costituita a norma dell'[art. 3 della legge 13 luglio 1965, n. 871](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md);
 
 Sentito il Consiglio dei Ministri;
 

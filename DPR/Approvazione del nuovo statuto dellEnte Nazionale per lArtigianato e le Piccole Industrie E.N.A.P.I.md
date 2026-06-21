@@ -14,7 +14,7 @@ N.
 
 2179.
 
-Decreto del Presidente della Repubblica 22 ottobre 1963, col quale, sulla proposta del Ministro per l'industria e il commercio, viene approvato il nuovo statuto dell'Ente Nazionale per l'Artigianato e le Piccole Industrie che sostituisce il precedente, approvato con [regio decreto 24 agosto 1928, n. 2431](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20dellEnte%20nazionale%20per%20le%20piccole%20industrie.%20028U2431.md).
+Decreto del Presidente della Repubblica 22 ottobre 1963, col quale, sulla proposta del Ministro per l'industria e il commercio, viene approvato il nuovo statuto dell'Ente Nazionale per l'Artigianato e le Piccole Industrie che sostituisce il precedente, approvato con [regio decreto 24 agosto 1928, n. 2431](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20dellEnte%20nazionale%20per%20le%20piccole%20industrie.%20028U2431.md).
 
 Visto il Guardasigilli: BOSCO
  Registrato alla Corte dei conti, addi' 8 febbraio 1964

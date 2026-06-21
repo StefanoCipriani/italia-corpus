@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 25 giugno 1900, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-06-25;422), ed il regolamento approvato con [regio decreto 12 febbraio 1911, n. 275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;275), emanato in esecuzione di essa;
 
-Visto il [regio decreto 29 settembre 1921, n. 1466](../Regi%20decreti/Erezioni%20in%20Enti%20morali.%20021U1466.md), con il quale fu costituito il "Consorzio delle Cooperative di produzione e lavoro del Friuli" con sede in Udine, e ne fu approvato il relativo statuto;
+Visto il [regio decreto 29 settembre 1921, n. 1466](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezioni%20in%20Enti%20morali.%20021U1466.md), con il quale fu costituito il "Consorzio delle Cooperative di produzione e lavoro del Friuli" con sede in Udine, e ne fu approvato il relativo statuto;
 
 Visto il [decreto del Presidente della Repubblica 28 luglio 1950, n. 830](Approvazione%20del%20nuovo%20statuto%20del%20Consorzio%20delle%20cooperative%20di%20produzione%20e%20lavoro%20del%20Friuli%20con%20sede%20in%20Udine.md), con il quale e' stato approvato il nuovo testo di statuto consortile;
 
@@ -47,7 +47,7 @@ Registrato alla Corte dei conti, addi' 1 luglio 1961 Atti del Governo, registro 
 IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [legge 25 giugno 1900, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-06-25;422), ed il regolamento approvato con [regio decreto 12 febbraio 1911, n. 275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;275), emanato in esecuzione di essa;
- Visto il [regio decreto 29 settembre 1921, n. 1466](../Regi%20decreti/Erezioni%20in%20Enti%20morali.%20021U1466.md), con il quale fu costituito il "Consorzio delle Cooperative di produzione e lavoro del Friuli" con sede in Udine, e ne fu approvato il relativo statuto;
+ Visto il [regio decreto 29 settembre 1921, n. 1466](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezioni%20in%20Enti%20morali.%20021U1466.md), con il quale fu costituito il "Consorzio delle Cooperative di produzione e lavoro del Friuli" con sede in Udine, e ne fu approvato il relativo statuto;
  Visto il [decreto del Presidente della Repubblica 28 luglio 1950, n. 830](Approvazione%20del%20nuovo%20statuto%20del%20Consorzio%20delle%20cooperative%20di%20produzione%20e%20lavoro%20del%20Friuli%20con%20sede%20in%20Udine.md), con il quale e' stato approvato il nuovo testo di statuto consortile;
  Visto il verbale di assemblea straordinaria dei delegati dell'Ente, tenutasi il 21 aprile 1960, con il quale e' stata deliberata la modifica degli articoli 2 e 16 dello statuto succitato;
  Udito, in via d'urgenza, il Comitato costituito in seno alla commissione centrale per le cooperative, ai sensi dell'[art. 19, lettera b), del decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-14;1577#art_19-letb);

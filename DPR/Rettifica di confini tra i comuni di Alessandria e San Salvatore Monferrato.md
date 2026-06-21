@@ -18,7 +18,7 @@ Considerato che la variazione e' proposta nell'intento di soddisfare talune esig
 
 Viste le deliberazioni n. 261 e 655, rispettivamente, dell'11 maggio e del 13 dicembre 1965 e n. 273 del 12 ottobre 1970, con le quali il consiglio provinciale di Alessandria ha espresso al riguardo il suo parere favorevole;
 
-Visti gli articoli 32 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 32 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla prima sezione del Consiglio di Stato nell'adunanza del 12 febbraio 1971;
 

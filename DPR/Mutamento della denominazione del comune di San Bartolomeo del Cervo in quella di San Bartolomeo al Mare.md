@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Viste le deliberazioni del consiglio comunale di San Bartolomeo del Cervo (Imperia) in data 14 aprile 1966, n. 37 e 17 dicembre 1967, n. 61, con le quali e' stato chiesto che l'attuale denominazione del comune stesso sia mutata in quella di "San Bartolomeo al Mare";
  Vista la deliberazione del consiglio provinciale di Imperia in data 13 febbraio 1967, n. 46, con la quale detto consesso ha espresso il richiesto parere;
- Visto l'art. 266 del testo unico della legge comunale e provinciale; approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale; approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

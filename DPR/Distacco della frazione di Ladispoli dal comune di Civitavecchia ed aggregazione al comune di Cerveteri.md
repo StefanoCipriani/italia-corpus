@@ -14,7 +14,7 @@ Vista l'istanza con la quale la maggioranza dei contribuenti della frazione di L
 
 Visto il voto favorevole del Consiglio comunale di Cerveteri espresso con [deliberazione n. 55 in data 28 dicembre 1946](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1946-12-28;55);
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 4 del decreto legislativo luogotenenziale 1 marzo 1945, n. 82](../Decreti%20legislativi%20luogotenenziali/Riordinamento%20del%20Consiglio%20nazionale%20delle%20ricerche.%20045U0082.md);
 
-Visti i [regi decreti 11 luglio 1941, n. 1104](../Regi%20decreti/Norme%20per%20la%20costruzione%20laccettazione%20ed%20il%20collaudo%20dei%20contatori%20elettrici.%20041U1104.md) e [n. 1105](../Regi%20decreti/Norme%20per%20la%20costruzione%20laccettazione%20ed%20il%20collaudo%20dei%20trasformatori%20elettrici%20di%20misura.%20041U1105.md), con i quali sono state approvate e rese obbligatorie le norme per la costruzione, l'accettazione ed il collaudo dei contatori elettrici e dei trasformatori elettrici di misura;
+Visti i [regi decreti 11 luglio 1941, n. 1104](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20costruzione%20laccettazione%20ed%20il%20collaudo%20dei%20contatori%20elettrici.%20041U1104.md) e [n. 1105](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20costruzione%20laccettazione%20ed%20il%20collaudo%20dei%20trasformatori%20elettrici%20di%20misura.%20041U1105.md), con i quali sono state approvate e rese obbligatorie le norme per la costruzione, l'accettazione ed il collaudo dei contatori elettrici e dei trasformatori elettrici di misura;
 
 Visto il voto espresso dal Consiglio nazionale delle ricerche;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, d'intesa con i Ministr
 
 ## Articolo unico.
 
-L'applicazione delle norme per la costruzione, l'accettazione ed il collaudo dei contatori elettrici, approvate e rese obbligatorie con [regio decreto 11 luglio 1941, n. 1104](../Regi%20decreti/Norme%20per%20la%20costruzione%20laccettazione%20ed%20il%20collaudo%20dei%20contatori%20elettrici.%20041U1104.md), e delle norme per la costruzione, l'accettazione ed il collaudo dei trasformatori elettrici di misura, approvate e rese obbligatorie con [regio decreto 11 luglio 1941, n. 1105](../Regi%20decreti/Norme%20per%20la%20costruzione%20laccettazione%20ed%20il%20collaudo%20dei%20trasformatori%20elettrici%20di%20misura.%20041U1105.md), e' sospesa per tre anni a fare inizio dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale della Repubblica.
+L'applicazione delle norme per la costruzione, l'accettazione ed il collaudo dei contatori elettrici, approvate e rese obbligatorie con [regio decreto 11 luglio 1941, n. 1104](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20costruzione%20laccettazione%20ed%20il%20collaudo%20dei%20contatori%20elettrici.%20041U1104.md), e delle norme per la costruzione, l'accettazione ed il collaudo dei trasformatori elettrici di misura, approvate e rese obbligatorie con [regio decreto 11 luglio 1941, n. 1105](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20costruzione%20laccettazione%20ed%20il%20collaudo%20dei%20trasformatori%20elettrici%20di%20misura.%20041U1105.md), e' sospesa per tre anni a fare inizio dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale della Repubblica.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

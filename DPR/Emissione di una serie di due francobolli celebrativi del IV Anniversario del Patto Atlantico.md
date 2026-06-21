@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'art. 21 del Codice postale e delle telecomunicazioni, approvato col [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
-Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima) approvato col [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
+Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima) approvato col [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
 
 Visto il [decreto del Presidente della Repubblica 1 dicembre 1952, n. 4455](Emissione%20di%20un%20francobollo%20celebrativo%20del%20V%20anniversario%20della%20firma%20del%20Patto%20Atlantico.md), che autorizzo' l'emissione di un francobollo celebrativo del Patto Atlantico;
 

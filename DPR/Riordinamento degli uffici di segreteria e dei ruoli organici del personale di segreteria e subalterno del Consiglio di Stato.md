@@ -14,7 +14,7 @@ Visto il testo unico delle leggi sul Consiglio di Stato, approvato con [regio de
 
 Visto il regolamento per la esecuzione della legge sul Consiglio di Stato, approvato con [regio decreto 21 aprile 1942, n. 444](../Regi%20decreti/Regolamento%20per%20lesecuzione%20della%20legge%20sul%20Consiglio%20di%20Stato.%20042U0444.md);
 
-Visto l'[art. 5 del decreto legislativo 5 maggio 1948, n. 642](../Decreti%20Legislativi/Provvedimenti%20per%20accelerare%20i%20giudizi%20presso%20le%20Sezioni%20giurisdizionali%20del%20Consiglio%20di%20Stato.md);
+Visto l'[art. 5 del decreto legislativo 5 maggio 1948, n. 642](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20accelerare%20i%20giudizi%20presso%20le%20Sezioni%20giurisdizionali%20del%20Consiglio%20di%20Stato.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -34,7 +34,7 @@ Il personale di segreteria e' costituito dai direttori e vice direttori di segre
 
 ## Art. 3.
 
-Per il personale di segreteria e per il personale subalterno e' istituito un Consiglio di amministrazione con le attribuzioni previste dal [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e dal [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni.
+Per il personale di segreteria e per il personale subalterno e' istituito un Consiglio di amministrazione con le attribuzioni previste dal [regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e dal [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni.
  Il Consiglio predetto e' composto di un presidente di sezione del Consiglio di Stato, che lo presiede, di due consiglieri di Stato, del Segretario generale del Consiglio di Stato e di un funzionario in servizio presso la Presidenza dei Consiglio dei Ministri, di grado non inferiore al s°.
  Le funzioni di segreteria del Consiglio di amministrazione sono disimpegnate da un funzionario di gruppo A del personale di segreteria, di grado non inferiore al 7°.
  Il Consiglio di amministrazione e' nominato con decreto del Presidente del Consiglio dei Ministri, su proposta del Presidente del Consiglio di Stato.
@@ -47,13 +47,13 @@ I posti di vice-direttore di Segreteria di 2° classe (gruppo A, grado 8°) sono
 
 ## Art. 5.
 
-Le nomine nel grado iniziale del ruolo di gruppo B avvengono in seguito a concorso per esame, secondo le disposizioni del [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e del [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni.
+Le nomine nel grado iniziale del ruolo di gruppo B avvengono in seguito a concorso per esame, secondo le disposizioni del [regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e del [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni.
  Le modalita' dei concorso e le relative prove d'esame saranno stabilite con norme regolamentari.
 
 ## Art. 6.
 
 Le promozioni nel ruolo di gruppo A e le promozioni per i gradi superiori al 9°, nel ruolo di gruppo B, avvengono per merito comparativo tra gli impiegati del grado immediatamente inferiore del medesimo ruolo, che abbiano compiuto nel grado medesimo almeno tre anni di effettivo servizio.
- Le promozioni per il grado 9° nel ruolo di gruppo B avvengono mediante concorso per esami secondo le disposizioni del [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e dei [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni. Le modalita' del concorso e le relative prove d'esame saranno stabilite con norme regolamentari.
+ Le promozioni per il grado 9° nel ruolo di gruppo B avvengono mediante concorso per esami secondo le disposizioni del [regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e dei [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni. Le modalita' del concorso e le relative prove d'esame saranno stabilite con norme regolamentari.
 
 ## Art. 7.
 

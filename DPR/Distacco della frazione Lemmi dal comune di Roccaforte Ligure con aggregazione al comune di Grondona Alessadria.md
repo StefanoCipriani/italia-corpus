@@ -14,7 +14,7 @@ Vieta la istanza in data 21 gennaio 1962, con la quale la maggioranza qualificat
 
 Viste le deliberazioni: del Consiglio comunale di Roccaforte Ligure in data 17 gennaio 1953, n. 3; del Consiglio comunale di Grondona in data 28 settembre 1952, n. 69; del Consiglio provinciale di Alessandria in data 24 aprile 1954, n. 54, ed in data 9 ottobre 19^1, n. 215, con le quali e' stato espresso parere in ordine alla variazione territoriale in parola;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla prima sezione del Consiglio di Stato nell'adunanza del 13 febbraio 1962, n. 198;
 

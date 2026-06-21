@@ -14,7 +14,7 @@ Vista la istanza in data 15 luglio 1952, con la quale la maggioranza qualificata
 
 Viste le deliberazioni: del Consiglio comunale di Lardirago in data 25 ottobre 1952, n. 71, e 24 giugno 1957, n. 14; del Consiglio comunale di Ceranova in data 30 luglio 1952, n. 193: del Consiglio provinciale di Pavia in data 1 luglio 1957, n. 3335, e 24 maggio 1960, n. 3332, con le quali e' stato espresso parere in ordine alla variazione territoriale in parola;
 
-Visti gli articoli 31 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 31 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Edito il parere espresso dalla Prima sezione del Consiglio di Stato nell'adunanza del 26 febbraio 1963, numero 370;
 

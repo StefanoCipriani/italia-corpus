@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto lo statuto dell'Istituto universitario di magistero "Maria SS. Assunta" di Roma, approvato con [regio decreto 26 ottobre 1939, n. 1760](../Regi%20decreti/Pareggiamento%20dellIstituto%20superiore%20di%20magistero%20Maria%20SS.%20Assunta%20in%20Roma%20e%20approvazione%20del%20relativo%20statuto.%20039U1760.md) e modificato con [decreto del Presidente della Repubblica 20 maggio 1958, n. 648](Modificazioni%20allo%20statuto%20dellIstituto%20superiore%20di%20magistero%20Maria%20SS.ma%20Assunta%20di%20Roma.md);
+Veduto lo statuto dell'Istituto universitario di magistero "Maria SS. Assunta" di Roma, approvato con [regio decreto 26 ottobre 1939, n. 1760](../Atti%20normativi%20abrogati%20%28in%20originale%29/Pareggiamento%20dellIstituto%20superiore%20di%20magistero%20Maria%20SS.%20Assunta%20in%20Roma%20e%20approvazione%20del%20relativo%20statuto.%20039U1760.md) e modificato con [decreto del Presidente della Repubblica 20 maggio 1958, n. 648](Modificazioni%20allo%20statuto%20dellIstituto%20superiore%20di%20magistero%20Maria%20SS.ma%20Assunta%20di%20Roma.md);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
@@ -70,7 +70,7 @@ Registrato alla Corte dei conti, addi' 5 ottobre 1961 Atti del Governo, registro
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Veduto lo statuto dell'Istituto universitario di magistero "Maria SS. Assunta" di Roma, approvato con [regio decreto 26 ottobre 1939, n. 1760](../Regi%20decreti/Pareggiamento%20dellIstituto%20superiore%20di%20magistero%20Maria%20SS.%20Assunta%20in%20Roma%20e%20approvazione%20del%20relativo%20statuto.%20039U1760.md) e modificato con [decreto del Presidente della Repubblica 20 maggio 1958, n. 648](Modificazioni%20allo%20statuto%20dellIstituto%20superiore%20di%20magistero%20Maria%20SS.ma%20Assunta%20di%20Roma.md);
+ Veduto lo statuto dell'Istituto universitario di magistero "Maria SS. Assunta" di Roma, approvato con [regio decreto 26 ottobre 1939, n. 1760](../Atti%20normativi%20abrogati%20%28in%20originale%29/Pareggiamento%20dellIstituto%20superiore%20di%20magistero%20Maria%20SS.%20Assunta%20in%20Roma%20e%20approvazione%20del%20relativo%20statuto.%20039U1760.md) e modificato con [decreto del Presidente della Repubblica 20 maggio 1958, n. 648](Modificazioni%20allo%20statuto%20dellIstituto%20superiore%20di%20magistero%20Maria%20SS.ma%20Assunta%20di%20Roma.md);
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
  Veduto il regio decreto 30, settembre 1938, n. 1652, e successive modificazioni;

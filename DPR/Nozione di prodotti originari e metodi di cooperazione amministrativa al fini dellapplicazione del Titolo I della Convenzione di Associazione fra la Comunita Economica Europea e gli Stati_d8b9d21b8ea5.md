@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 20 maggio 1964, n. 406](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20a%20Yaounde%20il%2020%20luglio%201963%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20economica%20europea%20e%20gli%20Stati%20Africa_1c32570b546c.md), che ratifica e da esecuzione agli Accordi internazionali firmati a Yaounde' il 20 luglio 1963 e agli Atti connessi relativi alla Associazione fra la Comunita' Economica Europea e gli Stati africani e malgascio associati a tale Comunita';
+Vista la [legge 20 maggio 1964, n. 406](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20a%20Yaounde%20il%2020%20luglio%201963%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20economica%20europea%20e%20gli%20Stati%20Africa_1c32570b546c.md), che ratifica e da esecuzione agli Accordi internazionali firmati a Yaounde' il 20 luglio 1963 e agli Atti connessi relativi alla Associazione fra la Comunita' Economica Europea e gli Stati africani e malgascio associati a tale Comunita';
 
 Vista la delega di competenza conferita al Comitato di Associazione, in base all'art. 47 della Convenzione di Associazione, nella seconda Sessione del Consiglio di Associazione svoltasi il 7 aprile 1965 per l'attuazione delle disposizioni del Protocollo n. 3 relativo alla nozione di "prodotti originari" per l'applicazione della Convenzione medesima;
 
@@ -22,7 +22,7 @@ Vista la Tariffa dei dazi doganali di importazione della Repubblica italiana app
 
 Vista la legge doganale 25 settembre 1940, n. 1424, e successive aggiunte e varianti;
 
-Visto l'art. 3 della citata [legge 20 maggio 1964, n. 406](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20a%20Yaounde%20il%2020%20luglio%201963%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20economica%20europea%20e%20gli%20Stati%20Africa_1c32570b546c.md), che conferisce al Governo la delega ad emanare, fine alla scadenza prevista dall'art. 59 della Convenzione di Associazione, con decreti aventi valore di legge ordinaria le norme necessarie a dare esecuzione agli obblighi derivanti dalla Convenzione stessa e dagli Atti connessi;
+Visto l'art. 3 della citata [legge 20 maggio 1964, n. 406](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20a%20Yaounde%20il%2020%20luglio%201963%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20economica%20europea%20e%20gli%20Stati%20Africa_1c32570b546c.md), che conferisce al Governo la delega ad emanare, fine alla scadenza prevista dall'art. 59 della Convenzione di Associazione, con decreti aventi valore di legge ordinaria le norme necessarie a dare esecuzione agli obblighi derivanti dalla Convenzione stessa e dagli Atti connessi;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per le finanze, di concerto con i Ministri per gli a
 
 ## Art. 1.
 
-Per l'attuazione del regime degli scambi commerciali previsto dalla Convenzione di Associazione firmata a Yaounde' il 20 luglio 1963 e ratificata con [legge 20 maggio 1964, n. 406](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20a%20Yaounde%20il%2020%20luglio%201963%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20economica%20europea%20e%20gli%20Stati%20Africa_1c32570b546c.md), si applicano le disposizioni di cui alle seguenti Decisioni che, fanno parte integrante del presente decreto:
+Per l'attuazione del regime degli scambi commerciali previsto dalla Convenzione di Associazione firmata a Yaounde' il 20 luglio 1963 e ratificata con [legge 20 maggio 1964, n. 406](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20a%20Yaounde%20il%2020%20luglio%201963%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20economica%20europea%20e%20gli%20Stati%20Africa_1c32570b546c.md), si applicano le disposizioni di cui alle seguenti Decisioni che, fanno parte integrante del presente decreto:
  a) Decisione n. 5/66 del Consiglio di Associazione, relativa alla definizione del concetto di prodotti originari ai fini della applicazione del Titolo I della Convenzione di Associazione e dei metodi di cooperazione amministrativa;
  b) Decisione 6/66 del Consiglio di Associazione, relativa alla definizione dei metodi di cooperazione amministrativa nel settore doganale per l'applicazione della Convenzione di Yaounde'.
 

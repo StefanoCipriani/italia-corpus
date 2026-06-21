@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 25 giugno 1952, n. 766](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Parigi%20il%2018%20aprile%201951%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20del%20carbone%20e%20dellacciaio%20e%20relativi%20annessi%20b%20_535fd4357eb2.md), concernente l'esecuzione del Trattato istitutivo della Comunita' europea del carbone e dell'acciaio, firmato a Parigi il 18 aprile 1951;
+Vista la [legge 25 giugno 1952, n. 766](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Parigi%20il%2018%20aprile%201951%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20del%20carbone%20e%20dellacciaio%20e%20relativi%20annessi%20b%20_535fd4357eb2.md), concernente l'esecuzione del Trattato istitutivo della Comunita' europea del carbone e dell'acciaio, firmato a Parigi il 18 aprile 1951;
 
 Visti gli articoli 44 e 92 del suddetto Trattato;
 

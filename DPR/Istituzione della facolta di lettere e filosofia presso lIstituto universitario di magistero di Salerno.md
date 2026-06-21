@@ -16,7 +16,7 @@ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regi
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
@@ -46,7 +46,7 @@ Presso l'Istituto universitario di magistero di Salerno, e' istituita in aggiunt
 
 Per la suddetta facolta' di lettere e filosofia sono istituiti:
  a) ai sensi degli [articoli 63, secondo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_63-com2), e [100, secondo comma, del testo unico 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_100-com2), sei posti di professore di ruolo;
- b) ai sensi dell'[art. 13-bis della legge 24 giugno 1950, n. 465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), otto posti di assistente ordinario.
+ b) ai sensi dell'[art. 13-bis della legge 24 giugno 1950, n. 465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), otto posti di assistente ordinario.
 
 ## Art. 4.
 

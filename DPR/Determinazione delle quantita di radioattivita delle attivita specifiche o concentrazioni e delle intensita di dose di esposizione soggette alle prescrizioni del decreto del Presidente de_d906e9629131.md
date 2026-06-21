@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), concernente la ratifica e l'esecuzione del trattato istitutivo della Comunita' europea dell'energia atomica;
+Vista la [legge 14 ottobre 1957, n. 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), concernente la ratifica e l'esecuzione del trattato istitutivo della Comunita' europea dell'energia atomica;
 
 Vista la [legge 31 dicembre 1962, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1860), sull'impiego pacifico dell'energia nucleare, modificata con [decreto del Presidente della Repubblica 30 dicembre 1965, n. 1704](Modifiche%20ed%20integrazioni%20alla%20legge%2031%20dicembre%201962%20n.%201860%20sullimpiego%20pacifico%20dellenergia%20nucleare.md);
 

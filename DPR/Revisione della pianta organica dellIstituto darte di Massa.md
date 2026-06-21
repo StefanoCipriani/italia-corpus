@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 9 aprile 1962, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-09;163), concernente l'ordinamento amministrativo e didattico degli Istituti e Scuole d'arte;
 
-Visto il [regio decreto 9 dicembre 1928, n. 3061](../Regi%20decreti/Riconoscimento%20del%20Regio%20istituto%20darte%20di%20Massa%20ed%20approvazione%20del%20relativo%20statuto.%20028U3061.md), con il quale e' stata approvata la pianta organica dell'Istituto d'arte di Massa;
+Visto il [regio decreto 9 dicembre 1928, n. 3061](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riconoscimento%20del%20Regio%20istituto%20darte%20di%20Massa%20ed%20approvazione%20del%20relativo%20statuto.%20028U3061.md), con il quale e' stata approvata la pianta organica dell'Istituto d'arte di Massa;
 
-Visto il [regio decreto 17 dicembre 1936, n. 2308](../Regi%20decreti/Modificazioni%20allo%20statuto%20del%20Regio%20istituto%20darte%20di%20Massa%20approvato%20con%20R.%20decreto%209%20dicembre%201928-VII%20n.%203061.%20036U2308.md), che apporta modificazioni alla pianta organica dell'istituto stesso;
+Visto il [regio decreto 17 dicembre 1936, n. 2308](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20del%20Regio%20istituto%20darte%20di%20Massa%20approvato%20con%20R.%20decreto%209%20dicembre%201928-VII%20n.%203061.%20036U2308.md), che apporta modificazioni alla pianta organica dell'istituto stesso;
 
 Ritenuta l'opportunita' di adeguare la pianta organica dell'Istituto medesimo alle attuali esigenze dell'insegnamento;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello p
 
 ## Art. 1.
 
-A decorrere dal 1 ottobre 1963 la pianta organica dell'Istituto d'arte di Massa allegata al [regio decreto 9 dicembre 1928, n. 3061](../Regi%20decreti/Riconoscimento%20del%20Regio%20istituto%20darte%20di%20Massa%20ed%20approvazione%20del%20relativo%20statuto.%20028U3061.md) e modificata con [regio decreto 17 dicembre 1936, n. 2308](../Regi%20decreti/Modificazioni%20allo%20statuto%20del%20Regio%20istituto%20darte%20di%20Massa%20approvato%20con%20R.%20decreto%209%20dicembre%201928-VII%20n.%203061.%20036U2308.md), e' sostituita da quella annessa al presente decreto e firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.
+A decorrere dal 1 ottobre 1963 la pianta organica dell'Istituto d'arte di Massa allegata al [regio decreto 9 dicembre 1928, n. 3061](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riconoscimento%20del%20Regio%20istituto%20darte%20di%20Massa%20ed%20approvazione%20del%20relativo%20statuto.%20028U3061.md) e modificata con [regio decreto 17 dicembre 1936, n. 2308](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20del%20Regio%20istituto%20darte%20di%20Massa%20approvato%20con%20R.%20decreto%209%20dicembre%201928-VII%20n.%203061.%20036U2308.md), e' sostituita da quella annessa al presente decreto e firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.
 
 ## Art. 2.
 

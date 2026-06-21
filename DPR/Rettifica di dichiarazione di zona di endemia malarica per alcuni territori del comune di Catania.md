@@ -14,7 +14,7 @@ N.
 
 693.
 
-Decreto del Presidente della Repubblica 30 maggio 1956, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene rettificata la dichiarazione di zona di endemia malarica del territorio del comune di Catania di cui al [regio decreto 31 gennaio 1904, n. 39](../Regi%20decreti/Che%20dichiara%20zone%20malariche%20alcuni%20territori%20della%20provincia%20di%20Catania.%20004U0039.md).
+Decreto del Presidente della Repubblica 30 maggio 1956, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene rettificata la dichiarazione di zona di endemia malarica del territorio del comune di Catania di cui al [regio decreto 31 gennaio 1904, n. 39](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20dichiara%20zone%20malariche%20alcuni%20territori%20della%20provincia%20di%20Catania.%20004U0039.md).
 
 Visto, il Guardasigilli: MORO
  Registrato alla Corte dei conti, addi' 10 luglio 1956

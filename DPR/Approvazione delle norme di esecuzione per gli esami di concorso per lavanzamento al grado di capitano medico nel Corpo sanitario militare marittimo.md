@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il testo unico delle disposizioni legislative sull'avanzamento degli ufficiali della Marina militare, approvato con [regio decreto 1 agosto 1936, n. 1493](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative sull'avanzamento degli ufficiali della Marina militare, approvato con [regio decreto 1 agosto 1936, n. 1493](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni;
 
-Visto il [regio decreto 8 aprile 1937, n. 573](../Regi%20decreti/Approvazione%20delle%20norme%20per%20gli%20esami%20di%20concorso%20per%20lavanzamento%20al%20grado%20di%20capitano%20medico%20nel%20Corpo%20sanitario%20militare%20marittimo.%20037U0573.md), che approva le norme per gli esami di concorso per l'avanzamento al grado di capitano medico del Corpo sanitario militare marittimo;
+Visto il [regio decreto 8 aprile 1937, n. 573](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20norme%20per%20gli%20esami%20di%20concorso%20per%20lavanzamento%20al%20grado%20di%20capitano%20medico%20nel%20Corpo%20sanitario%20militare%20marittimo.%20037U0573.md), che approva le norme per gli esami di concorso per l'avanzamento al grado di capitano medico del Corpo sanitario militare marittimo;
 
 Udito il parere del Consiglio superiore di marina;
 
@@ -34,7 +34,7 @@ Le istruzioni per gli esami di avanzamento a capitano medico nel Corpo sanitario
 
 ## Art. 3.
 
-Il [regio decreto 8 aprile 1937, n. 573](../Regi%20decreti/Approvazione%20delle%20norme%20per%20gli%20esami%20di%20concorso%20per%20lavanzamento%20al%20grado%20di%20capitano%20medico%20nel%20Corpo%20sanitario%20militare%20marittimo.%20037U0573.md), e' abrogato.
+Il [regio decreto 8 aprile 1937, n. 573](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20norme%20per%20gli%20esami%20di%20concorso%20per%20lavanzamento%20al%20grado%20di%20capitano%20medico%20nel%20Corpo%20sanitario%20militare%20marittimo.%20037U0573.md), e' abrogato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

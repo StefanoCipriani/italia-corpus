@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'art. 4 dell'Accordo fra l'Italia e la Francia relativo alla protezione dei nominativi di origine ed alla salvaguardia delle denominazioni di certi prodotti, concluso a Roma il 29 maggio 1948 e reso esecutivo con [legge 18 luglio 1949, n. 766](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellAccordo%20concernente%20la%20protezione%20dei%20nominativi%20di%20origine%20e%20la%20salvaguardia%20delle%20denominazioni%20di%20certi%20prodotti%20concluso%20a%20Roma%20tra%20lItalia%20e%20la%20Francia%20il%20_906e243f92a1.md);
+Visto l'art. 4 dell'Accordo fra l'Italia e la Francia relativo alla protezione dei nominativi di origine ed alla salvaguardia delle denominazioni di certi prodotti, concluso a Roma il 29 maggio 1948 e reso esecutivo con [legge 18 luglio 1949, n. 766](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellAccordo%20concernente%20la%20protezione%20dei%20nominativi%20di%20origine%20e%20la%20salvaguardia%20delle%20denominazioni%20di%20certi%20prodotti%20concluso%20a%20Roma%20tra%20lItalia%20e%20la%20Francia%20il%20_906e243f92a1.md);
 
 Visto l'[art. 3 della legge 9 aprile 1952, n. 530](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-09;530#art_3);
 
@@ -18,7 +18,7 @@ Sulla proposta del Ministro per gli affari esteri, di concerto con i Ministri pe
 
 ## Art. 1.
 
-Sono rese esecutive le variazioni delle liste contenute nell'allegato A dell'Accordo fra l'Italia e la Francia relativo alla protezione dei nominativi di origine ed alla salvaguardia delle denominazioni di certi prodotti concluso a Roma il 29 maggio 1948 e reso esecutivo con [legge 18 luglio 1949, n. 766](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellAccordo%20concernente%20la%20protezione%20dei%20nominativi%20di%20origine%20e%20la%20salvaguardia%20delle%20denominazioni%20di%20certi%20prodotti%20concluso%20a%20Roma%20tra%20lItalia%20e%20la%20Francia%20il%20_906e243f92a1.md), notificate a termini dell'art. 4 dell'Accordo stesso.
+Sono rese esecutive le variazioni delle liste contenute nell'allegato A dell'Accordo fra l'Italia e la Francia relativo alla protezione dei nominativi di origine ed alla salvaguardia delle denominazioni di certi prodotti concluso a Roma il 29 maggio 1948 e reso esecutivo con [legge 18 luglio 1949, n. 766](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellAccordo%20concernente%20la%20protezione%20dei%20nominativi%20di%20origine%20e%20la%20salvaguardia%20delle%20denominazioni%20di%20certi%20prodotti%20concluso%20a%20Roma%20tra%20lItalia%20e%20la%20Francia%20il%20_906e243f92a1.md), notificate a termini dell'art. 4 dell'Accordo stesso.
  Le variazioni predette sono contenute:
  a) nello scambio di Note effettuato a Parigi il 13 e 14 marzo 1950, pubblicato nella Gazzetta Ufficiale del 7 novembre 1950, n. 255;
  b) nello scambio di Note effettuato a Roma il 24 giugno 1950, pubblicato nella Gazzetta Ufficiale dell'11 agosto 1950, n. 183;

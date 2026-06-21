@@ -23,7 +23,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto col Minist
 ## Art. 1.
 
 Il contributo annuo da corrispondersi da tutte le farmacie, escluse quelle rurali, indicate nell'[art. 2 della legge 20 febbraio 1950, n. 54](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20dellindennita%20di%20residenza%20per%20le%20farmacie%20rurali.md), sara' versato all'Erario e affluira' all'apposito capitolo dello stato di previsione dell'entrata.
- La riscossione del contributo di cui sopra ha luogo, giusta l'[art. 4 del regio decreto 14 febbraio 1935, n. 344](../Regi%20decreti/Applicazione%20della%20tassa%20sulle%20farmacie.%20035U0344.md), con le forme ed i mezzi stabiliti nelle vigenti norme per la riscossione delle imposte dirette in base agli elenchi, compilati annualmente, entro il mese di novembre, dagli Uffici distrettuali delle imposte dirette e resi esecutori dall'intendente di finanza.
+ La riscossione del contributo di cui sopra ha luogo, giusta l'[art. 4 del regio decreto 14 febbraio 1935, n. 344](../Atti%20normativi%20abrogati%20%28in%20originale%29/Applicazione%20della%20tassa%20sulle%20farmacie.%20035U0344.md), con le forme ed i mezzi stabiliti nelle vigenti norme per la riscossione delle imposte dirette in base agli elenchi, compilati annualmente, entro il mese di novembre, dagli Uffici distrettuali delle imposte dirette e resi esecutori dall'intendente di finanza.
 
 ## Art. 2.
 

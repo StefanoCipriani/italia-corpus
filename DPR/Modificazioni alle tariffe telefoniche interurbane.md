@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il Codice postale e delle telecomunicazioni, approvato con [regio decreti 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
-Visto il [regio decreto 19 luglio 1941, n. 1198](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md);
+Visto il [regio decreto 19 luglio 1941, n. 1198](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md);
 
 Visto l'art. 49 delle convenzioni stipulate con le Societa' concessionarie del servizio telefonico ad uso pubblico, approvate con [decreti del Presidente della Repubblica 14 dicembre 1957, numeri 1405](Rinnovo%20della%20concessione%20del%20servizio%20telefonico%20ad%20uso%20pubblico%20nella%201ª%20Zona%20telefonica%20alla%20Societa%20Telefonica%20Interregionale%20Piemontese%20e%20Lombarda%20S.T.I.P.E.L.md), [1406](Rinnovo%20della%20concessione%20del%20servizio%20telefonico%20ad%20uso%20pubblico%20nella%202ª%20Zona%20telefonica%20alla%20Societa%20Telefonica%20delle%20Venezie%20T.E.L.V.E.md), [1407](Rinnovo%20della%20concessione%20del%20servizio%20telefonico%20ad%20uso%20pubblico%20nella%203ª%20Zona%20telefonica%20alla%20Societa%20Telefoni%20Italia%20Medio%20Orientale%20T.I.M.O.md), [1409 e 28 dicembre 1957](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-12-28;1409), [n. 1408](Rinnovo%20della%20concessione%20del%20servizio%20telefonico%20ad%20uso%20pubblico%20nella%204ª%20Zona%20telefonica%20alla%20Societa%20Telefonica%20Tirrena%20T.E.T.I.md);
 
 Visto il [decreto del Presidente della Repubblica 23 marzo 1956, n. 432](Tariffe%20telefoniche%20interurbane_2.md);
 
-Visto l'[art. 1 del decreto luogotenenziale 2 aprile 1946, n. 392](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20tasse%20di%20recapito%20degli%20avvisi%20telefonici.md);
+Visto l'[art. 1 del decreto luogotenenziale 2 aprile 1946, n. 392](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alle%20tasse%20di%20recapito%20degli%20avvisi%20telefonici.md);
 
 Visto l'[art. 2 del decreto legislativo 5 maggio 1948, n. 938](../Decreti%20Legislativi/Variazioni%20tariffarie%20sulle%20prenotazioni%20telefoniche%20interurbane%20ad%20ora%20fissa%20e%20sulle%20riduzioni%20accordate%20nelle%20ore%20di%20notte.md);
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la legge 15 giugno 1931 n; 889, sul riordinamento dalla istruzione media tecnica;
 
-Visto il [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
+Visto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
 
 Visto l'[art. 9 del decreto-legge 21 settembre 1938 n. 2038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1938-09-21;2038#art_9) convertito nella, legge 2 giugno 1939, Considerato che dal 1 ottobre 1958 hanno funzionato di fatto nuovi, Istituti tecnici industriali in Crotone, Genova, Siracusa e Torino;
 

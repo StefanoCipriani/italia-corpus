@@ -14,11 +14,11 @@ Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?
 
 Veduto il [regio decreto 14 settembre 1921, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-09-14;1175);
 
-Veduto il [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Veduto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Veduto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md);
 
-Veduto il [regio decreto 14 settembre 1941, n. 1059](../Regi%20decreti/Inizio%20dellanno%20scolastico%20e%20fissazione%20dei%20giorni%20di%20vacanza.%20041U1059.md);
+Veduto il [regio decreto 14 settembre 1941, n. 1059](../Atti%20normativi%20abrogati%20%28in%20originale%29/Inizio%20dellanno%20scolastico%20e%20fissazione%20dei%20giorni%20di%20vacanza.%20041U1059.md);
 
 Ritenuto che occorre regolarizzare formalmente il funzionamento degli istituti e delle scuole di istruzione tecnica gia' in atto, con i relativi organici dal 1 ottobre 1948;
 
@@ -33,15 +33,15 @@ Sono istituiti:
 
 ## Art. 2.
 
-Uno dei tre corsi completi previsti dalla tabella organica dell'Istituto tecnico commerciale a indirizzo mercantile "Calvi" di Padova, approvata con [regio decreto 24 agosto 1942, n. 1267](../Regi%20decreti/Istituzione%20e%20soppressione%20di%20classi%20collaterali%20e%20corsi%20completi%20nei%20Regi%20istituti%20tecnici%20commerciali%20commerciali%20e%20per%20geometri%20nautici%20ed%20inferiori%20isolati%20e%20determinazione%20dei%20posti%20_2c74fe4e3df1.md), e' trasformato in corso commerciale ad indirizzo amministrativo. Di conseguenza l'istituto predetto assume la denominazione di Istituito tecnico commerciale statale a indirizzo mercantile ed amministrativo.
-Nessuna variazione e' apportata alla tabella organica approvata con [regio decreto 24 agosto 1942, n. 1267](../Regi%20decreti/Istituzione%20e%20soppressione%20di%20classi%20collaterali%20e%20corsi%20completi%20nei%20Regi%20istituti%20tecnici%20commerciali%20commerciali%20e%20per%20geometri%20nautici%20ed%20inferiori%20isolati%20e%20determinazione%20dei%20posti%20_2c74fe4e3df1.md) sopra citata.
+Uno dei tre corsi completi previsti dalla tabella organica dell'Istituto tecnico commerciale a indirizzo mercantile "Calvi" di Padova, approvata con [regio decreto 24 agosto 1942, n. 1267](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20e%20soppressione%20di%20classi%20collaterali%20e%20corsi%20completi%20nei%20Regi%20istituti%20tecnici%20commerciali%20commerciali%20e%20per%20geometri%20nautici%20ed%20inferiori%20isolati%20e%20determinazione%20dei%20posti%20_2c74fe4e3df1.md), e' trasformato in corso commerciale ad indirizzo amministrativo. Di conseguenza l'istituto predetto assume la denominazione di Istituito tecnico commerciale statale a indirizzo mercantile ed amministrativo.
+Nessuna variazione e' apportata alla tabella organica approvata con [regio decreto 24 agosto 1942, n. 1267](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20e%20soppressione%20di%20classi%20collaterali%20e%20corsi%20completi%20nei%20Regi%20istituti%20tecnici%20commerciali%20commerciali%20e%20per%20geometri%20nautici%20ed%20inferiori%20isolati%20e%20determinazione%20dei%20posti%20_2c74fe4e3df1.md) sopra citata.
 
 ## Art. 3.
 
 Sono soppresse:
- a) la scuola tecnica agraria statale di Caltagirone, riordinata col [regio decreto 31 agosto 1933, n. 1967](../Regi%20decreti/Trasformazione%20della%20Scuola%20pratica%20dagricoltura%20di%20Caltagirone%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20agrario.%20033U1967.md)
- b) la scuola tecnica industriale per tessili annessa all'Istituto tecnico industriale statale "L. da Vinci" di Napoli, riordinato col [regio decreto 24 agosto 1933, n. 2185](../Regi%20decreti/Trasformazione%20del%20Regio%20istituto%20nazionale%20per%20le%20industrie%20tessili%20Benito%20Mussolini%20di%20Napoli%20in%20Regio%20istituto%20tecnico%20industriale.%20033U2185.md);
- c) la sezione per "edili" presso la scuola tecnica industriale statale di Catanzaro; sono di conseguenza soppressi i posti previsti, per detta sezione, col [regio decreto 31 agosto 1933, n. 2021](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20industriale%20di%20Catanzaro%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2021.md).
+ a) la scuola tecnica agraria statale di Caltagirone, riordinata col [regio decreto 31 agosto 1933, n. 1967](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20della%20Scuola%20pratica%20dagricoltura%20di%20Caltagirone%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20agrario.%20033U1967.md)
+ b) la scuola tecnica industriale per tessili annessa all'Istituto tecnico industriale statale "L. da Vinci" di Napoli, riordinato col [regio decreto 24 agosto 1933, n. 2185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20nazionale%20per%20le%20industrie%20tessili%20Benito%20Mussolini%20di%20Napoli%20in%20Regio%20istituto%20tecnico%20industriale.%20033U2185.md);
+ c) la sezione per "edili" presso la scuola tecnica industriale statale di Catanzaro; sono di conseguenza soppressi i posti previsti, per detta sezione, col [regio decreto 31 agosto 1933, n. 2021](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20della%20Regia%20scuola%20industriale%20di%20Catanzaro%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2021.md).
 
 ## Art. 4.
 

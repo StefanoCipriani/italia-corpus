@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Parma.%20027U2797.md), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Parma.%20027U2797.md), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 

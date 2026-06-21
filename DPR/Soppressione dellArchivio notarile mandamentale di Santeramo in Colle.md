@@ -12,9 +12,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 13 luglio 1890, n. 6984](../Regi%20decreti/Che%20istituisce%20un%20Archivio%20notarile%20mandamentale%20nel%20comune%20di%20Santeramo%20in%20Colle%20distretto%20di%20Bari.%20090U6984.md), con il quale venne istituito l'Archivio notarile mandamentale di Santeramo in Colle (distretto notarile di Bari);
- Vista la tabella A annessa al [regio decreto 24 marzo 1923, n. 601](../Regi%20decreti/Riguardante%20la%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0601.md), riguardante la circoscrizione giudiziaria del Regno;
- Visto l'[art. 1 del regio decreto 24 marzo 1923, n. 602](../Regi%20decreti/Contenente%20norme%20processuali%20per%20lattuazione%20della%20nuova%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0602.md);
+ Visto il [regio decreto 13 luglio 1890, n. 6984](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20istituisce%20un%20Archivio%20notarile%20mandamentale%20nel%20comune%20di%20Santeramo%20in%20Colle%20distretto%20di%20Bari.%20090U6984.md), con il quale venne istituito l'Archivio notarile mandamentale di Santeramo in Colle (distretto notarile di Bari);
+ Vista la tabella A annessa al [regio decreto 24 marzo 1923, n. 601](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riguardante%20la%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0601.md), riguardante la circoscrizione giudiziaria del Regno;
+ Visto l'[art. 1 del regio decreto 24 marzo 1923, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Contenente%20norme%20processuali%20per%20lattuazione%20della%20nuova%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0602.md);
  Visto l'art. 248 del regio decreto 10 settembre 1914, Visto l'[art. 3 della legge 17 maggio 1952, n. 629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-05-17;629#art_3);
  Considerato che il comune di Santeramo in Colle non e' piu' sede di mandamento;
  Sulla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e giustizia;

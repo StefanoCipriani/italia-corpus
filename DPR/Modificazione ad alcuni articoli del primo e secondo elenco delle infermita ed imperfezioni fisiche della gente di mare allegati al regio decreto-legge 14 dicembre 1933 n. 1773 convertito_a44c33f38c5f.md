@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto-legge 14 dicembre 1933, n. 1773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-14;1773), convertito nella [legge 22 gennaio 1934, n. 244](../DL%20e%20leggi%20di%20conversione/Conversione%20il%20legge%20del%20R.%20decreto-degge%2014%20dicembre%201933%20n.%201773%20relativo%20allaccertamento%20dellidoneita%20fisica%20della%20gente%20di%20mare%20di%20prima%20categoria.%20034U0244.md);
 
-Vista la Convenzione internazionale del lavoro n. 73, stipulata a Seattle il 29 giugno 1946 e resa esecutiva in Italia con la [legge 2 agosto 1952, n. 1305](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20di%20ventisette%20convenzioni%20internazionali%20del%20lavoro.md);
+Vista la Convenzione internazionale del lavoro n. 73, stipulata a Seattle il 29 giugno 1946 e resa esecutiva in Italia con la [legge 2 agosto 1952, n. 1305](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20di%20ventisette%20convenzioni%20internazionali%20del%20lavoro.md);
 
 Visto l'[articolo 323 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 

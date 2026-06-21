@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Considerato che la Giunta municipale di Monte Santa Maria Tiberina (Perugia) ha chiesto il trasferimento della sede municipale dalla frazione di Luppiano al centro di Monte Santa Maria Tiberina con [deliberazione 7 settembre 1946, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1946-09-07;87), confermata dal [Consiglio comunale con deliberazione 30 novembre 1947, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1947-11-30;12);
  Ritenuto che la Deputazione provinciale di Perugia ha espresso parere favorevole con [deliberazione n. 2 del 10 gennaio 1947](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1947-01-10;2);
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro per l'interno;
 
  Decreta:

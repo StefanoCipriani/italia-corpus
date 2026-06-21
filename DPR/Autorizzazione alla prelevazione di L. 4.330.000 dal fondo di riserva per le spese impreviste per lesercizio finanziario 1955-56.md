@@ -25,7 +25,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Cap. n. 157. - Indennita di trasferimento, ecc........ L. 300.000  Cap. n. 405-bis (di nuova istituzione). - Assegni ali- 
 mentari concessi alle persone condannate, ai termini 
 del [decreto legislativo luogotenenziale 26 marzo 1946, 
-n. 134](../Decreti%20legislativi%20luogotenenziali/Inquadramento%20nel%20sistema%20tributario%20dellavocazione%20dei%20profitti%20di%20regime.md), alla confisca del patrimonio per delitti 
+n. 134](../Atti%20normativi%20abrogati%20%28in%20originale%29/Inquadramento%20nel%20sistema%20tributario%20dellavocazione%20dei%20profitti%20di%20regime.md), alla confisca del patrimonio per delitti 
 fascisti od agli aventi diritto dalle medesime agli 
 alimenti, a norma degli [articoli 433 e seguenti del 
  Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_433).......................................... " 30.000 

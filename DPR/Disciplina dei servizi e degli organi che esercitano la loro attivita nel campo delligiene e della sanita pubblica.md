@@ -185,7 +185,7 @@ Il medico provinciale nell'ambito della Provincia sovraintende e coordina tutti 
 
 ### Art. 17.
 
-L'[art. 3 del regio decreto 24 maggio 1925, n. 958](../Regi%20decreti/Istituzione%20di%20una%20Commissione%20consultiva%20per%20ligiene%20e%20lassistenza%20scolastica%20e%20per%20ligiene%20pedagogica.%20025U0958.md), e successive modificazioni e' sostituito dal seguente:
+L'[art. 3 del regio decreto 24 maggio 1925, n. 958](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20Commissione%20consultiva%20per%20ligiene%20e%20lassistenza%20scolastica%20e%20per%20ligiene%20pedagogica.%20025U0958.md), e successive modificazioni e' sostituito dal seguente:
  "La Commissione e' composta:
  1) dal direttore generale dei servizi dell'igiene pubblica ed ospedali del Ministero della sanita';
  2) dal direttore generale dei servizi di medicina sociale del Ministero della sanita';

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la domanda, con la quale la maggioranza dei contribuenti della frazione di Fiesse del comune di Gambara (Brescia) ha chiesto che detta frazione sia ricostituita in Comune autonomo con gli stessi confini esistenti prima della soppressione;
 
-Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

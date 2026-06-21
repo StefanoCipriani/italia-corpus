@@ -14,7 +14,7 @@ CAPO I
 
 ### Art. 1.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20redazione%20dei%20documenti%20caratteristici%20del%20personale%20appartenente%20allEsercito%20alla%20Marina%20allAeronautica%20e%20allArma%20dei%20carabinieri.md)))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20disciplina%20per%20la%20redazione%20dei%20documenti%20caratteristici%20del%20personale%20appartenente%20allEsercito%20alla%20Marina%20allAeronautica%20e%20allArma%20dei%20carabinieri.md)))
 
 ### Art. 2.
 

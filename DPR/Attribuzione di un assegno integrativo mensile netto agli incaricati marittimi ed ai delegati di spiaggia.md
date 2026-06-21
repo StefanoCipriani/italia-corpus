@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 ## Art. 1.
 
-Agli incaricati marittimi ed ai delegati di spiaggia, disciplinati dal [regio decreto 25 novembre 1937, n. 2360](../Regi%20decreti/Conferimento%20dei%20posti%20di%20incaricato%20marittimo%20e%20di%20delegato%20di%20spiaggia.%20037U2360.md), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-11-25;6) concesso, a decorrere dal 1 gennaio 1954 e fino al 30 giugno 1955, in aggiunta retribuzione in vigore, un assegno integrativo mensile, non cedibile e non pignorabile o sequestrabile, nelle seguenti misure nette:
+Agli incaricati marittimi ed ai delegati di spiaggia, disciplinati dal [regio decreto 25 novembre 1937, n. 2360](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conferimento%20dei%20posti%20di%20incaricato%20marittimo%20e%20di%20delegato%20di%20spiaggia.%20037U2360.md), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-11-25;6) concesso, a decorrere dal 1 gennaio 1954 e fino al 30 giugno 1955, in aggiunta retribuzione in vigore, un assegno integrativo mensile, non cedibile e non pignorabile o sequestrabile, nelle seguenti misure nette:
 
 incaricati marittimi di 1ª classe. . . . . . . . . . . . . . L. 2.500 incaricati marittimi di 2ª classe. . . . . . . . . . . . . . L. 2.250 delegati di spiaggia di 1ª classe. . . . . . . . . . . . . . L. 2.000 delegati di spiaggia di 2ª classe. . . . . . . . . . . . . . L. 1.750 delegati di spiaggia di 3ª classe. . . . . . . . . . . . . . L. 1.500
 

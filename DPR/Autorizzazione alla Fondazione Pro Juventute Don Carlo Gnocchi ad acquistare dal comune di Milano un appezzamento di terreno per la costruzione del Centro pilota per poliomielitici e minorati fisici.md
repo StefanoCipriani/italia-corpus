@@ -18,7 +18,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Vista la domanda in data 21 marzo 1958, con la quale il presidente della Fondazione ha chiesto l'autorizzazione ad acquistare dallo stesso comune di Milano, per il prezzo di L. 3400 al mq., un altro appezzamento di terreno della superficie di mq. 3.960 contiguo all'area edificabile di cui innanzi, ritenuto necessario per la costruzione del Centro pilota per poliomielitici e minorati fisici;
  Ritenuto che la cessione del terreno anzidetto e' stata approvata dal Consiglio comunale di Milano con deliberazione del 18 dicembre 1957, resa esecutiva con visto della Giunta provinciale amministrativa di Milano n. 516 del 17 gennaio 1958;
  Visto il proprio decreto in data 19 giugno 1958, con il quale la Fondazione "Pro Juventute" ha assunto la denominazione di "Fondazione Pro Juventute Don Carlo Gnocchi";
- Visti la legge 5 giugno 1850, n. 1037, ed il [regio decreto 26 giugno 1864, n. 1817](../Regi%20decreti/Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md);
+ Visti la legge 5 giugno 1850, n. 1037, ed il [regio decreto 26 giugno 1864, n. 1817](../Atti%20normativi%20abrogati%20%28in%20originale%29/Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md);
  Visti l'[art. 17 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_17) e l'art. 5 delle disposizioni per l'attuazione dello stesso Codice;
  Visti gli atti di istruttoria e quelli prodotti a corredo della domanda;
  Udito il parere del Consiglio di Stato;

@@ -13,9 +13,9 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
- Visto il [regio decreto 31 agosto 1933, n. 2036](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20industriale%20di%20Foligno%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2036.md), riguardante la trasformazione della Scuola industriale di Foligno in scuola tecnica a indirizzo industriale e artigiano;
+ Visto il [regio decreto 31 agosto 1933, n. 2036](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20della%20Regia%20scuola%20industriale%20di%20Foligno%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2036.md), riguardante la trasformazione della Scuola industriale di Foligno in scuola tecnica a indirizzo industriale e artigiano;
  Vista la tabella organica annessa al predetto decreto;
- Visto il [regio decreto 4 luglio 1941, n. 1073](../Regi%20decreti/Istituzione%20di%20nuove%20scuole%20medie%20e%20corsi%20di%20scuole%20medie.%20041U1073.md), con il quale, fra l'altro, si provvide all'istituzione in Foligno di un Istituto tecnico industriale;
+ Visto il [regio decreto 4 luglio 1941, n. 1073](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20nuove%20scuole%20medie%20e%20corsi%20di%20scuole%20medie.%20041U1073.md), con il quale, fra l'altro, si provvide all'istituzione in Foligno di un Istituto tecnico industriale;
  Vista la tabella B annessa al predetto regio decreto (prospetto n. 1);
  Visto il decreto interministeriale 6 settembre 1944, registrato alla Corte dei conti il 26 febbraio 1945, registro n. 4, foglio n. 139, con il quale e' stata approvata la tabella organica del suddetto Istituto;
  Considerata l'opportunita' di affidare la direzione della predetta Scuola al preside del locale Istituto tecnico industriale e di unificare l'amministrazione dell'istituto e della scuola;

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 7 del regio decreto legislativo 31 maggio 1946, n. 490](../Regi%20decreti%20legislativi/Collocamento%20in%20ausiliaria%20o%20dispensa%20dal%20servizio%20a%20domanda%20o%20di%20autorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20e%20degli%20ufficiali%20del%20ruolo%20speciale%20di%20complemento%20d_a5ab4a4bd961.md);
+Visto l'[art. 7 del regio decreto legislativo 31 maggio 1946, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Collocamento%20in%20ausiliaria%20o%20dispensa%20dal%20servizio%20a%20domanda%20o%20di%20autorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20e%20degli%20ufficiali%20del%20ruolo%20speciale%20di%20complemento%20d_a5ab4a4bd961.md);
 
 Visto il [decreto del Presidente della Repubblica 18 febbraio 1948, n. 157](Aliquote%20degli%20ufficiali%20superiori%20ed%20inferiori%20del%20ruolo%20speciale%20di%20complemento%20della%20Marina%20militare%20che%20possono%20essere%20dispensati%20dal%20servizio%20per%20la%20seconda%20applicazione%20del%20regio%20de_6befe68620f9.md);
 

@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la deliberazione del Consiglio comunale di Montereale Cellina (Udine) in data 8 dicembre 1953, n. 86, con la quale e' stato chiesto o che l'attuale denominazione del Comune sia mutata in "Montereale Valcellina" e che quella della frazione San Leonardo del Comune medesimo sia mutata in "San Leonardo Valcellina";
  Vista la deliberazione del Consiglio provinciale di Udine in data 20 marzo 1954, n. 2441, con la quale e' stato espresso parere in ordine alle citate richieste;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

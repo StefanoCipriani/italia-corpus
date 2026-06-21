@@ -24,7 +24,7 @@ Visto il [decreto del Presidente della Repubblica 14 gennaio 1972, n. 4](Trasfer
 
 Visto il [decreto del Presidente della Repubblica 15 gennaio 1972, n. 10](Trasferimento%20alle%20Regioni%20a%20statuto%20ordinario%20delle%20funzioni%20amministrative%20statali%20in%20materia%20di%20istruzione%20artigiana%20e%20professionale%20e%20del%20relativo%20personale.md);
 
-Vista la [legge 15 novembre 1973, n. 795](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20europeo%20sullistruzione%20e%20formazione%20delle%20infermiere%20adottato%20a%20Strasburgo%20il%2025%20ottobre%201957.md);
+Vista la [legge 15 novembre 1973, n. 795](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20europeo%20sullistruzione%20e%20formazione%20delle%20infermiere%20adottato%20a%20Strasburgo%20il%2025%20ottobre%201957.md);
 
 Sentito il Consiglio superiore di sanita';
 

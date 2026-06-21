@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA 
  
- Visto il [regio decreto 14 novembre 1935, n. 2504](../Regi%20decreti/Costituzione%20presso%20la%20Banca%20nazionale%20del%20lavoro%20di%20una%20Sezione%20autonoma%20per%20il%20credito%20cinematografico.%20035U2504.md); 
+ Visto il [regio decreto 14 novembre 1935, n. 2504](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20presso%20la%20Banca%20nazionale%20del%20lavoro%20di%20una%20Sezione%20autonoma%20per%20il%20credito%20cinematografico.%20035U2504.md); 
  Vista la [legge 4 novembre 1965, n. 1213](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md), e successive modificazioni; 
  Visto il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e successive modificazioni, nonche' il [decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-17;691); 
  Visto lo statuto della sezione autonoma per il credito cinematografico presso la Banca nazionale del lavoro, con sede in Roma, approvato con proprio decreto 5 settembre 1966, n. 978, e modificato con altro decreto 1° febbraio 1973, n. 231; 

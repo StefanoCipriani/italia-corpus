@@ -16,7 +16,7 @@ Visto il voto favorevole del Consiglio comunale di Terdobbiate, espresso con [de
 
 Viste le [deliberazioni 16 ottobre 1949, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1949-10-16;33), [20 gennaio 1950, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1950-01-20;10), [20 gennaio 1951, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1951-01-20;1) e [15 dicembre 1951, n. 48, del Consiglio comunale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1951-12-15;48) di Garbagna Novarese; 10 marzo 1950, n. 41 e 14 marzo 1951, n. 1, della Deputazione provinciale di Novara; 15 maggio 1952, n. 4, del Consiglio provinciale di Novara, esprimenti il rispettivo parere in ordine alla citata istanza;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

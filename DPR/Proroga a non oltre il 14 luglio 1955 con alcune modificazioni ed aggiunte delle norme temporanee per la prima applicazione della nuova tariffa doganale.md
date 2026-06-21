@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md);
+Vista la [legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md);
 
 Vista la [legge 7 dicembre 1952, n. 1846](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20dellautorizzazione%20al%20Governo%20di%20sospendere%20o%20ridurre%20i%20dazi%20della%20vigente%20tariffa%20doganale%20prevista%20dallart.%202%20della%20legge%2024%20dicembre%201949%20n.%20993.md);
 
@@ -26,7 +26,7 @@ Vista la [legge 5 aprile 1950, n. 295](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Vista la legge 27 ottobre, n. 1172, che da' piena ed intera esecuzione all'Accordo tariffario concluso tra l'Italia e le Parti contraenti ed i Paesi aderenti, annesso al Protocollo di Torquay del 21 aprile 1951;
 
-Vista la [legge 14 aprile 1952, n. 560](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20Accordi%20italo-svizzeri%20conclusi%20a%20Berna%20il%2014%20luglio%201950%20a%20Avenant%20al%20Trattato%20di%20commercio%20fra%20la%20Svizzera%20e%20lItalia%20del%2027%20gennaio%201923%20b%20Protocollo%20di%20fir_aee455d34e26.md), che ratifica e da' esecuzione agli Accordi italo-svizzeri, conclusi a Berna il 14 luglio 1950;
+Vista la [legge 14 aprile 1952, n. 560](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20italo-svizzeri%20conclusi%20a%20Berna%20il%2014%20luglio%201950%20a%20Avenant%20al%20Trattato%20di%20commercio%20fra%20la%20Svizzera%20e%20lItalia%20del%2027%20gennaio%201923%20b%20Protocollo%20di%20fir_aee455d34e26.md), che ratifica e da' esecuzione agli Accordi italo-svizzeri, conclusi a Berna il 14 luglio 1950;
 
 Vista la [legge 31 ottobre 1952, n. 2360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-10-31;2360), che approva e da' esecuzione all'Accordo tariffario tra l'Italia e la Francia, concluso a Roma il 7 marzo 1950;
 
@@ -34,7 +34,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Ritenuta la necessita' di mantenere i dazi della vigente tariffa doganale al livello stabilito con le anzidette norme temporanee;
 
-Sentita la Commissione parlamentare costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), e confermata con [legge 7 dicembre 1952, n. 1846](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20dellautorizzazione%20al%20Governo%20di%20sospendere%20o%20ridurre%20i%20dazi%20della%20vigente%20tariffa%20doganale%20prevista%20dallart.%202%20della%20legge%2024%20dicembre%201949%20n.%20993.md);
+Sentita la Commissione parlamentare costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), e confermata con [legge 7 dicembre 1952, n. 1846](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20dellautorizzazione%20al%20Governo%20di%20sospendere%20o%20ridurre%20i%20dazi%20della%20vigente%20tariffa%20doganale%20prevista%20dallart.%202%20della%20legge%2024%20dicembre%201949%20n.%20993.md);
 
 Sentito il Consiglio dei Ministri;
 

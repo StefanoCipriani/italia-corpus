@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il decreto del Presidente del Consiglio dei Ministri in data 20 marzo 1951, con il quale sono stati approvati gli elenchi definitivi del personale subalterno di ruolo gia' addetto al soppresso Commissariato per i servizi del Ministero della Real Casa e per l'amministrazione dei beni gia' costituenti la dotazione della Corona, proposto per il trasferimento nei ruoli transitori da istituirsi presso il Ministro dell'agricoltura e delle foreste - Corpo forestale dello Stato - e del personale operaio permanente, gia' alle dipendenze di detto Commissariato, proposto anch'esso per il passaggio al Ministero suindicato;
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+Visto il [regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 

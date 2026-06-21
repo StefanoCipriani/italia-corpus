@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 23 dicembre 1937, n. 2329](../Regi%20decreti/Riconoscimento%20come%20corpo%20morale%20della%20Cassa%20di%20previdenza%20per%20il%20personale%20della%20Cassa%20di%20risparmio%20di%20Padova%20e%20Rovigo%20con%20sede%20in%20Padova.%20037U2329.md), con il quale e' stata eretta in ente morale la Cassa di previdenza del personale della Cassa di risparmio di Padova e Rovigo e ne e' stato approvato il relativo statuto;
+ Visto il [regio decreto 23 dicembre 1937, n. 2329](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riconoscimento%20come%20corpo%20morale%20della%20Cassa%20di%20previdenza%20per%20il%20personale%20della%20Cassa%20di%20risparmio%20di%20Padova%20e%20Rovigo%20con%20sede%20in%20Padova.%20037U2329.md), con il quale e' stata eretta in ente morale la Cassa di previdenza del personale della Cassa di risparmio di Padova e Rovigo e ne e' stato approvato il relativo statuto;
  Visto il proprio decreto in data 2 febbraio 1952, n. 119, con il quale e' stato approvato il nuovo statuto della Cassa di previdenza del personale della Cassa di risparmio di Padova e Rovigo;
  Visto l'art. 5 dello statuto predetto;
  Viste le delibere del Comitato amministrativo della Cassa di previdenza del personale della Cassa di risparmio di Padova e Rovigo in data 3 giugno e 20 ottobre 1953 concernenti modifiche agli articoli 4, 9, 14, 16 e 20 del vigente statuto approvato con il predetto decreto 2 febbraio 1952, n. 119;

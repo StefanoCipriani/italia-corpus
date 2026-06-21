@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
-Visto il [regio decreto 19 luglio 1941, n. 1198](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md), e successive modifiche;
+Visto il [regio decreto 19 luglio 1941, n. 1198](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md), e successive modifiche;
 
 Vista la convenzione stipulata il 1 agosto 1984 fra il Ministero delle poste e delle telecomunicazioni e la SIP - Societa' italiana per l'esercizio telefonico p.a., approvata con [decreto del Presidente della Repubblica 13 agosto 1984, n. 523](Approvazione%20ed%20esecuzione%20delle%20convenzioni%20per%20la%20concessione%20dei%20servizi%20di%20telecomunicazioni%20ad%20uso%20pubblico%20alle%20societa%20SIP%20Italcable%20e%20Telespazio.md);
 
@@ -215,7 +215,7 @@ A ciascuna comunicazione extraurbana effettuata da telefoni a disposizione del p
 
 ## Art. 19.
 
-Per l'invio di un avviso telefonico, destinato a prefissare una comunicazione con una persona non abbonata al telefono, e' dovuta, oltre alla quota fissa indicata nella tabella H, la tassa di recapito dell'avviso per espresso al domicilio indicato, prevista dall'[art. 1 del decreto luogotenenziale 2 aprile 1946, n. 392](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20tasse%20di%20recapito%20degli%20avvisi%20telefonici.md), e successivi aggiornamenti.
+Per l'invio di un avviso telefonico, destinato a prefissare una comunicazione con una persona non abbonata al telefono, e' dovuta, oltre alla quota fissa indicata nella tabella H, la tassa di recapito dell'avviso per espresso al domicilio indicato, prevista dall'[art. 1 del decreto luogotenenziale 2 aprile 1946, n. 392](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alle%20tasse%20di%20recapito%20degli%20avvisi%20telefonici.md), e successivi aggiornamenti.
 
 ## Art. 20.
 

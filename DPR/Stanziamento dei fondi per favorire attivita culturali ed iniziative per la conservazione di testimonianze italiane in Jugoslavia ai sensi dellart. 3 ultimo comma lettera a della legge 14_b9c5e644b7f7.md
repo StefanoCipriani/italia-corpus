@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'art. 3, ultimo comma, [lettera a), della legge 14 marzo 1977, n. 73](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20trattato%20tra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20socialista%20federativa%20di%20Jugoslavia%20con%20allegati%20nonche%20dellaccordo%20tra%20le%20stesse%20Parti%20con%20allegati%20dellatt_8956da0d08cf.md), di ratifica ed esecuzione del trattato tra la Repubblica italiana e la Repubblica socialista federativa di Jugoslavia, con allegati, nonche' dell'accordo tra le stesse Parti, con allegati, dell'atto finale e dello scambio di note, firmato ad Osimo (Ancona) il 10 novembre 1975, che delega il Governo ad emanare le norme necessarie a favorire attivita' culturali e iniziative per la conservazione di testimonianze connesse con la storia e le tradizioni del gruppo etnico italiano in Jugoslavia;
+Visto l'art. 3, ultimo comma, [lettera a), della legge 14 marzo 1977, n. 73](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20trattato%20tra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20socialista%20federativa%20di%20Jugoslavia%20con%20allegati%20nonche%20dellaccordo%20tra%20le%20stesse%20Parti%20con%20allegati%20dellatt_8956da0d08cf.md), di ratifica ed esecuzione del trattato tra la Repubblica italiana e la Repubblica socialista federativa di Jugoslavia, con allegati, nonche' dell'accordo tra le stesse Parti, con allegati, dell'atto finale e dello scambio di note, firmato ad Osimo (Ancona) il 10 novembre 1975, che delega il Governo ad emanare le norme necessarie a favorire attivita' culturali e iniziative per la conservazione di testimonianze connesse con la storia e le tradizioni del gruppo etnico italiano in Jugoslavia;
 
 Consultata la giunta regionale della regione autonoma Friuli-Venezia Giulia;
 
@@ -30,7 +30,7 @@ E' autorizzata la spesa di lire 6.000 milioni, da iscriversi nello stato di prev
 
 ## Art. 2.
 
-All'onere derivante dall'attuazione del presente decreto si provvede a carico delle autorizzazioni di spesa di cui all'[art. 8 della legge 14 marzo 1977, n. 73](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20trattato%20tra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20socialista%20federativa%20di%20Jugoslavia%20con%20allegati%20nonche%20dellaccordo%20tra%20le%20stesse%20Parti%20con%20allegati%20dellatt_8956da0d08cf.md).
+All'onere derivante dall'attuazione del presente decreto si provvede a carico delle autorizzazioni di spesa di cui all'[art. 8 della legge 14 marzo 1977, n. 73](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20trattato%20tra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20socialista%20federativa%20di%20Jugoslavia%20con%20allegati%20nonche%20dellaccordo%20tra%20le%20stesse%20Parti%20con%20allegati%20dellatt_8956da0d08cf.md).
  Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
  Il presente decreto, munito del sigillo dello stato, sara' inserto nella Raccolta Ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

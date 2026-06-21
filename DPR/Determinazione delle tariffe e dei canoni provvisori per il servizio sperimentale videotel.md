@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'art. 7 del codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
-Vista la convenzione internazionale delle telecomunicazioni adottata dall'U.I.T. (Unione internazionale delle telecomunicazioni) a Malaga-Torremolinos il 25 ottobre 1973, resa esecutiva con [legge 7 ottobre 1977, n. 790](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20delle%20telecomunicazioni%20con%20tre%20allegati%20un%20protocollo%20finale%20e%20sei%20protocolli%20addizionali%20adottata%20a%20Malaga-Torremolinos%20il%2025%20ottobre%201973.md);
+Vista la convenzione internazionale delle telecomunicazioni adottata dall'U.I.T. (Unione internazionale delle telecomunicazioni) a Malaga-Torremolinos il 25 ottobre 1973, resa esecutiva con [legge 7 ottobre 1977, n. 790](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20delle%20telecomunicazioni%20con%20tre%20allegati%20un%20protocollo%20finale%20e%20sei%20protocolli%20addizionali%20adottata%20a%20Malaga-Torremolinos%20il%2025%20ottobre%201973.md);
 
 Vista la raccomandazione F. 300 del C.C.I.T.T. (Comitato consultivo internazionale telegrafico e telefonico), riguardante le disposizioni relative all'esercizio pubblico del servizio videotex avente ad oggetto l'immissione e/o l'acquisizione da parte dell'utenza di informazioni all'uopo memorizzate in uno e piu' centri videotex o in banche dati esterne agli stessi collegate;
 

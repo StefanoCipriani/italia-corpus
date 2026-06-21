@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 29 novembre 1870, n. 6090](../Regi%20decreti/Concernente%20le%20Legazioni%20allestero%20ed%20il%20personale%20alle%20medesime%20addetto.%20070U6090.md);
+ Visto il [regio decreto 29 novembre 1870, n. 6090](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20le%20Legazioni%20allestero%20ed%20il%20personale%20alle%20medesime%20addetto.%20070U6090.md);
  Visto il [decreto del Capo provvisorio dello Stato 18 aprile 1947, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-18;266), e successive modificazioni;
  Visto il [decreto del Presidente della Repubblica 1 aprile 1950, n. 863](Istituzione%20di%20una%20Rappresentanza%20italiana%20presso%20il%20Consiglio%20delle%20Nazioni%20Unite%20per%20la%20Libia%20con%20sede%20a%20Ginevra.md), concernente l'istituzione di una Rappresentanza presso il Consiglio delle Nazioni Unite per la Libia, con sede in Ginevra;
  Visto l'[art. 2 della legge 4 gennaio 1951, n. 13](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trattamento%20economico%20del%20personale%20diplomatico-consolare%20in%20servizio%20allestero.md);

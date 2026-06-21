@@ -193,7 +193,7 @@ Fino a quando non sara' diversamente disposto con legge regionale, la Regione ne
 ### Art. 27.
 
 Gli Istituti autonomi per le case popolari nella Regione continuano ad essere sottoposti alla vigilanza del Ministero dei lavori pubblici per quanto riguarda le loro attribuzioni relative alle case costruite a totale carico dello Stato.
- Il bilancio preventivo e il conto consuntivo degli Istituti predetti sono comunicati, a cura degli Istituti stessi, al Ministero dei lavori pubblici, ai sensi e per gli effetti dell'[art. 16 del regio decreto 30 aprile 1936, n. 1031](../Regi%20decreti/Norme%20di%20attuazione%20della%20legge%206%20giugno%201935%20n.%201129%20per%20la%20riforma%20degli%20Istituti%20autonomi%20per%20le%20case%20popolari%20e%20per%20la%20costituzione%20di%20un%20Consorzio%20nazionale%20fra%20gli%20Istituti%20predetti.%20030U1031.md), unitamente all'atto di controllo regionale.
+ Il bilancio preventivo e il conto consuntivo degli Istituti predetti sono comunicati, a cura degli Istituti stessi, al Ministero dei lavori pubblici, ai sensi e per gli effetti dell'[art. 16 del regio decreto 30 aprile 1936, n. 1031](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20della%20legge%206%20giugno%201935%20n.%201129%20per%20la%20riforma%20degli%20Istituti%20autonomi%20per%20le%20case%20popolari%20e%20per%20la%20costituzione%20di%20un%20Consorzio%20nazionale%20fra%20gli%20Istituti%20predetti.%20030U1031.md), unitamente all'atto di controllo regionale.
  ((COMMA ABROGATO DAL D.P.R 25 NOVEMBRE 1975, N. 902)).
 
 ### Art. 28.

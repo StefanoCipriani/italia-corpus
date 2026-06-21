@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 ## Art. 1.
 
-Al personale a contratto di commutazione telefonica addetto al Ministero del lavoro e della previdenza sociale e disciplinato dal [regio decreto 26 giugno 1928, n. 1838](../Regi%20decreti/Norme%20relative%20allassunzione%20allo%20stato%20ed%20al%20trattamento%20del%20personale%20di%20commutazione%20telefonica%20occorrente%20al%20Ministero%20delle%20corporazioni.%20028U1838.md), e' concesso, in aggiunta alle competenze in vigore, a decorrere dal 1 gennaio 1954 e fino ali 30 giugno 1955, un assegno integrativo mensile, non cedibile e non pignorabile o sequestrabile, nella misura netta di lire cinquemila.
+Al personale a contratto di commutazione telefonica addetto al Ministero del lavoro e della previdenza sociale e disciplinato dal [regio decreto 26 giugno 1928, n. 1838](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20relative%20allassunzione%20allo%20stato%20ed%20al%20trattamento%20del%20personale%20di%20commutazione%20telefonica%20occorrente%20al%20Ministero%20delle%20corporazioni.%20028U1838.md), e' concesso, in aggiunta alle competenze in vigore, a decorrere dal 1 gennaio 1954 e fino ali 30 giugno 1955, un assegno integrativo mensile, non cedibile e non pignorabile o sequestrabile, nella misura netta di lire cinquemila.
 
 ## Art. 2.
 

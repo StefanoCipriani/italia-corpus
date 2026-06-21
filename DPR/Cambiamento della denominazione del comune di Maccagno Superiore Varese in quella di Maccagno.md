@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la domanda in data 2 ottobre 1952, con la quale il sindaco del comune di Maccagno Superiore (provincia di Varese) in esecuzione della [deliberazione del Consiglio comunale 23 agosto 1952, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1952-08-23;32), ha chiesto che l'attuale denominazione del Comune sia mutata in quella di "Maccagno";
  Visto il parere favorevole espresso dal Consiglio provinciale di Varese con [deliberazione 29 novembre 1952, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1952-11-29;210);
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro per l'interno;
 
  Decreta:

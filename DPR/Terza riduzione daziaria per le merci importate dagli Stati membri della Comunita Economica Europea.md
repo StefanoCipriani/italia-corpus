@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), concernente la ratifica ed esecuzione del Trattato che istituisce la Comunita' Economica Europea ed Atti allegati, firmato a Roma il 25 marzo 1957;
+Vista la [legge 14 ottobre 1957, n. 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), concernente la ratifica ed esecuzione del Trattato che istituisce la Comunita' Economica Europea ed Atti allegati, firmato a Roma il 25 marzo 1957;
 
 Visti i [decreti del Presidente della Repubblica 29 dicembre 1958, n. 1103](Applicazione%20della%20prima%20riduzione%20daziaria%20prevista%20dal%20Trattato%20istituente%20la%20Comunita%20economica%20europea%20ratificato%20e%20reso%20esecutivo%20con%20legge%2014%20ottobre%201957%20n.%201203.md) e [28 giugno 1960, n. 588](Applicazione%20della%20seconda%20riduzione%20daziaria%20prevista%20dal%20Trattato%20istituente%20la%20Comunita%20Economica%20Europea%20ratificato%20e%20reso%20esecutivo%20con%20legge%2014%20ottobre%201957%20n.%201203.md), con i quali sono stato applicate le prime due riduzioni daziarie del 10% ciascuna, previste dal Trattato che istituisce la predetta Comunita';
 
@@ -18,7 +18,7 @@ Vista la [legge 20 dicembre 1960, n. 152](https://www.normattiva.it/uri-res/N2Ls
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Sentita la Commissione parlamentare, costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), e confermata con le [leggi 7 dicembre 1952, n 1846, 3 novembre 1954, n. 1077; 6 marzo 1957, n. 68 e 24 luglio 1959, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-24;693);
+Sentita la Commissione parlamentare, costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), e confermata con le [leggi 7 dicembre 1952, n 1846, 3 novembre 1954, n. 1077; 6 marzo 1957, n. 68 e 24 luglio 1959, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-24;693);
 
 Sentito il Consiglio dei Ministri;
 

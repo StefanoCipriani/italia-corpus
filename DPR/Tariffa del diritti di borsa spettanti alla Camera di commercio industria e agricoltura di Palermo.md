@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [deliberazione in data 12 agosto 1950, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1950-08-12;67), della Giunta della Camera di commercio, industria e agricoltura di Palermo, con la quale e' stata proposta la tariffa dei diritti di quotazione ufficiale dei titoli e dei diritti di accesso ai recinti della Borsa valori di detta citta';
 
-Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale si stabilisce la forma e l'organo competente per la emanazione di provvedimenti riguardanti i diritti di borsa;
+Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale si stabilisce la forma e l'organo competente per la emanazione di provvedimenti riguardanti i diritti di borsa;
 
 Sulla proposta del Ministro per il tesoro; Decreta:
 

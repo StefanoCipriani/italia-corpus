@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la legge 5 giugno 1850, n. 1037;
 
-Visto il [regio decreto 26 giugno 1864, n. 1817](../Regi%20decreti/Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md), contenente disposizioni per l'esecuzione della suddetta legge;
+Visto il [regio decreto 26 giugno 1864, n. 1817](../Atti%20normativi%20abrogati%20%28in%20originale%29/Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md), contenente disposizioni per l'esecuzione della suddetta legge;
 
 Visto il regio decreto 28 agosto 1924, con il quale l'Ente autonomo Magazzini generali di Verona venne riconosciuto giuridicamente;
 

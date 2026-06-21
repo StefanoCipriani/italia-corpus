@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la domanda in data 25 maggio 1952, con la quale il sindaco di Roburento (provincia di Cuneo), in esecuzione della [deliberazione del Consiglio comunale n. 32, del 30 settembre 1951](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1951-09-30;32), ha chiesto che l'attuale denominazione del Comune sia mutata in quella di "Roburent";
  Visto il parere favorevole del Consiglio provinciale di Cuneo espresso con [deliberazione n. 1, in data 7 aprile 1952](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1952-04-07;1);
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministero per l'interno;
 
  Decreta:

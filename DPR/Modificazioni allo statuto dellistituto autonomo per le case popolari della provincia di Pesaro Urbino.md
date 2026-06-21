@@ -14,7 +14,7 @@ N.
 
 600.
 
-Decreto del Presidente della Repubblica 24 giugno 1974, col quale, sulla proposta del Ministro per i lavori pubblici, vengono approvate le modificazioni agli articoli 4, 6, 16 e 29 dello statuto dell'Istituto autonomo per le case popolari della provincia di Pesaro Urbino, approvato con [regio decreto 1 aprile 1943, n. 369](../Regi%20decreti/Modificazione%20dello%20statuto%20dellIstituto%20fascista%20autonomo%20per%20le%20case%20popolari%20della%20provincia%20di%20Pesaro.%20043U0369.md).
+Decreto del Presidente della Repubblica 24 giugno 1974, col quale, sulla proposta del Ministro per i lavori pubblici, vengono approvate le modificazioni agli articoli 4, 6, 16 e 29 dello statuto dell'Istituto autonomo per le case popolari della provincia di Pesaro Urbino, approvato con [regio decreto 1 aprile 1943, n. 369](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20dello%20statuto%20dellIstituto%20fascista%20autonomo%20per%20le%20case%20popolari%20della%20provincia%20di%20Pesaro.%20043U0369.md).
 
 Visto, il Guardasigilli: ZAGARI
  Registrato alla Corte dei conti, addi' 21 novembre 1974

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) e l'[art. 1 della legge 31 gennaio 1926, n. 100](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il libro 1, titolo I e II, del Codice postale e delle telecomunicazioni, ed il relativo regolamento di esecuzione approvato con [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
+Visto il libro 1, titolo I e II, del Codice postale e delle telecomunicazioni, ed il relativo regolamento di esecuzione approvato con [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
 
 Ritenuta l'opportunita' di istituire speciali marche per il pagamento dei diritti dovuti all'Amministrazione delle poste e delle telecomunicazioni dai concessionari del trasporto dei pacchi;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Articolo unico.
 
-Gli articoli 219 e 221 del regolamento di esecuzione dei titoli I e II del libro I del Codice postale e della telecomunicazioni, approvato con [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md), sono modificati come dal seguente nuovo testo:
+Gli articoli 219 e 221 del regolamento di esecuzione dei titoli I e II del libro I del Codice postale e della telecomunicazioni, approvato con [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md), sono modificati come dal seguente nuovo testo:
  Art. 219. - Il pagamento del diritto a favore del l'Amministrazione postale si effettua mediante l'applicazione di marche doppie speciali, sui bollettari di cui all'art. 216, in modo che la prima parte delle marche stesse rimanga sulla matrice e la seconda sulla figlia Le marche devono essere annullate con bollo a data subito dopo la loro applicazione.
  Art. 221. - Agli effetti delle penalita' stabilite dal l'art. 58 del Codice postale, si considera come non avvenuto il pagamento del diritto spettante all'Amministrazione se durante il trasporto si riscontri che i pacchi o colli non siano accompagnati dalle relative bollette o che queste non siano munite delle prescritte marche.
  Egualmente il pagamento si considera come non avvenuto qualora si accerti che sulle matrici dei bollettari sottoposti a verifica, non siano applicate le relative marche o che sulle matrici o sulle bollette le marche siano applicate in senso inverso di quello prescritte nel precedente art. 219.

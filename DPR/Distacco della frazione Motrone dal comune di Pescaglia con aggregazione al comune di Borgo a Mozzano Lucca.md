@@ -14,7 +14,7 @@ Vista la istanza in data 25 ottobre 1959, con la quale la maggioranza qualificat
 
 Viste le deliberazioni: del Consiglio comunale di Pescaglia in data 22 dicembre 1959, n. 55; del Consiglio comunale di Borgo a Mozzano in data 13 aprile 1959, n. 22; del Consiglio provinciale di Lucca in data 12 maggio 1960, n. 34 e 19 giugno 1961, n. 161, con le quali e' stato espresso parere in ordine alla variazione territoriale in parola;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla prima sezione del Consiglio di Stato nell'adunanza del 5 dicembre 1961, n. 2130;
 

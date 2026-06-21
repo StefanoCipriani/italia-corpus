@@ -14,7 +14,7 @@ Vista la istanza in data 22 aprile 1957, con la quale la maggioranza qualificata
 
 Viste le deliberazioni: del Consiglio comunale di Cuvio in data 17 novembre 1957, n. 69, ed in data 20 febbraio 1960, n. 11; del Consiglio comunale di Coveglio in data 7 luglio 1957, n. 1113; del Consiglio provinciale di Varese in data 13 febbraio e 29 dicembre 1960, numeri 11 e 20, con le quali e' stato espresso parere in ordine alla variazione territoriale in parola;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla prima sezione del Consiglio di Stato nell'adunanza del 7 marzo 1961, n. 312;
 

@@ -14,15 +14,15 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Vista la [legge 31 luglio 1959, n. 617](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Ministero%20del%20turismo%20e%20dello%20spettacolo.md), istitutiva del Ministero del turismo e dello spettacolo;
 
-Visto l'art. 63 del Trattato che istituisce la Comunita' Economica Europea, approvato con [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
+Visto l'art. 63 del Trattato che istituisce la Comunita' Economica Europea, approvato con [legge 14 ottobre 1957, n. 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
 
 Vista la direttiva del Consiglio della Comunita' Economica Europea del 15 ottobre 1963, riguardante l'applicazione delle disposizioni del programma generale per la soppressione delle restrizioni alla libera prestazione dei servizi in materia di cinematografia, pubblicata sulla "Gazzetta Ufficiale" delle Comunita' Europee numero 159 del 2 novembre 1963;
 
 Vista la raccomandazione della Commissione della Comunita' Economica Europea n. 124 dell'8 aprile 1964;
 
-Vista la [legge 13 luglio 1965, n. 871](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md), con la quale il Governo e' delegato ad emanare provvedimenti nelle materie previste dai Trattati della Comunita' Economica Europea (C.E.E.) e della Comunita' Europea dell'Energia Atomica (C.E.E.A.);
+Vista la [legge 13 luglio 1965, n. 871](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md), con la quale il Governo e' delegato ad emanare provvedimenti nelle materie previste dai Trattati della Comunita' Economica Europea (C.E.E.) e della Comunita' Europea dell'Energia Atomica (C.E.E.A.);
 
-Sentita la Commissione parlamentare di cui all'articolo 3 della menzionata [legge 13 luglio 1965, n. 871](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md);
+Sentita la Commissione parlamentare di cui all'articolo 3 della menzionata [legge 13 luglio 1965, n. 871](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md);
 
 Sentito il Consiglio dei Ministri;
 

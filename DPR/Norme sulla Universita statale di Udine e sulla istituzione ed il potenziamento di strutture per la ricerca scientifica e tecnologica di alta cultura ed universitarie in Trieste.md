@@ -54,7 +54,7 @@ A decorrere dall'anno accademico 1977-78 e' istituita, in conformita' di quanto 
 ### Art. 2.
 
 Il corso di laurea in conservazione dei beni culturali di cui al primo comma, n. 5), lettera a), del precedente art. 1 ha la durata di quattro anni.
- All'elenco delle lauree e dei diplomi di cui alla tabella n. 1 annessa al [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e' aggiunta la laurea in conservazione dei beni culturali. La tabella II e' integrata nel senso che la facolta' di lettere e filosofia rilascia anche la laurea in conservazione dei beni culturali.
+ All'elenco delle lauree e dei diplomi di cui alla tabella n. 1 annessa al [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e' aggiunta la laurea in conservazione dei beni culturali. La tabella II e' integrata nel senso che la facolta' di lettere e filosofia rilascia anche la laurea in conservazione dei beni culturali.
  Con decreto del Presidente della Repubblica da emanarsi su proposta del Ministro della pubblica istruzione, sentita la prima sezione del Consiglio superiore della pubblica istruzione, sara' stabilito l'ordinamento didattico del corso di laurea relativo alla laurea di cui al precedente comma.
  Gli ordinamenti delle singole amministrazioni, la cui attivita' istituzionale e' rilevante in relazione ai contenuti del corso di laurea di cui ai precedenti commi, saranno adeguati per quanto riguarda la previsione dei titoli di studio specifici per l'ammissione, alla carriera direttiva.
 
@@ -167,7 +167,7 @@ comprensorio per cio' che attiene all'uso dei beni dell'ente e dei servizi posti
 
 Le entrate del consorzio sono costituite da:
  1) contributi dello Stato nell'ambito dei finanziamenti previsti dalle leggi vigenti per il potenziamento della ricerca scientifica;
- 2) contributi della regione, dell'amministrazione provinciale e del comune di Trieste, nonche' contributi degli enti e privati di cui al precedente art. 13, secondo comma. La misura dei contributi dell'amministrazione provinciale e del comune sara' fissata dai rispettivi consigli anche in deroga alle norme del testo unico di cui al [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni;
+ 2) contributi della regione, dell'amministrazione provinciale e del comune di Trieste, nonche' contributi degli enti e privati di cui al precedente art. 13, secondo comma. La misura dei contributi dell'amministrazione provinciale e del comune sara' fissata dai rispettivi consigli anche in deroga alle norme del testo unico di cui al [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni;
  3) contributi del Consiglio nazionale delle ricerche;
  4) eventuali contributi volontari;
  5) proventi dell'uso dei beni pertinenti al comprensorio;
@@ -334,7 +334,7 @@ La scuola superiore rilascia i seguenti titoli: a) diploma di traduttore ed inte
  Al termine del primo biennio gli allievi che abbiano superato tutti gli esami di profitto sostengono un esame per il conseguimento del diploma di traduttore ed interprete e corrispondente in lingue estere.
  Il diploma di traduttore ed interprete e corrispondente in lingue estere ammette all'esercizio della professione per traduttore ed interprete e corrispondente in lingue estere.
  Al terzo anno potranno iscriversi gli allievi che abbiano conseguito il diploma di traduttore ed interprete e corrispondente in lingue estere nonche' coloro che abbiano titolo all'iscrizione al terzo anno di una corrispondente facolta', previo superamento, in quest'ultimo caso, di un esame di concorso, e nel numero dei posti a tal fine stabilito dal consiglio della scuola.
- All'elenco delle lauree e dei diplomi di cui alla tabella n. I annessa al [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e' aggiunta la laurea per interprete o traduttore.
+ All'elenco delle lauree e dei diplomi di cui alla tabella n. I annessa al [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e' aggiunta la laurea per interprete o traduttore.
  Con decreto del Presidente della Repubblica da emanarsi su proposta del Ministro della pubblica istruzione di concerto con i Ministri interessati, saranno dettate le norme relative all'accesso ai pubblici impieghi, di coloro che siano in possesso della laurea per interprete o traduttore, e del diploma di traduttore ed interprete e corrispondente in lingue estere.
 
 ### Art. 40.

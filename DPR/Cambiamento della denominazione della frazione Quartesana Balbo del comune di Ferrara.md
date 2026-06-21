@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la domanda con la quale il sindaco di Ferrara, in esecuzione della [deliberazione del Consiglio comunale n. 24328, del 24 luglio 1947](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1947-07-24;24328), chiede l'autorizzazione a modificare la denominazione della frazione di Quartesana Balbo in quella di "Quartesana";
  Visto il parere favorevole manifestato dalla Deputazione provinciale di Ferrara in adunanza 15 aprile 1947, con la deliberazione n. 275;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro per l'interno;
 
  Decreta:

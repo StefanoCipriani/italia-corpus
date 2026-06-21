@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'art. 21 del Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
-Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima) approvato col [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
+Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima) approvato col [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
 
 Visto il [decreto del Presidente della Repubblica 23 febbraio 1952, n. 192](Autorizzazione%20alla%20emissione%20di%20due%20francobolli%20commemorativi%20di%20Leonardo%20da%20Vinci%20in%20occasione%20del%205%20centenario%20della%20sua%20nascita.md), col quale venne riconosciuta l'opportunita' della emissione di una serie di francobolli commemorativi di Leonardo da Vinci, in occasione del V centenario della sua nascita e col quale e' stata autorizzata l'emissione di due francobolli commemorativi di Leonardo da Vinci Ritenuto opportuno data la particolare importanza della celebrazione di elevare a tre il numero dei suddetti francobolli commemorativi nonche' di emettere, nella circostanza, anche una cartolina postale commemorativa;
 

@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 11 settembre 1902, n. 425](../Regi%20decreti/Che%20approva%20i%20segni%20e%20distintivi%20caratteristici%20delle%20cartelle%20al%20portatore%20del%20nuovo%20consolidato%203.50%20per%20%20netto.%20002U0425.md), col quale fu approvata la forma e furono determinati i segni distintivi per la prima emissione delle cartelle dei Consolidato creato con la [legge 12 giugno 1902, n. 166](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riflettente%20la%20creazione%20di%20un%20nuovo%20titolo%20consolidato%203%20e%20mezzo%20per%20cento%20e%20provvedimenti%20per%20i%20debiti%20redimibili.%20002U0166.md);
+Visto il [regio decreto 11 settembre 1902, n. 425](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20i%20segni%20e%20distintivi%20caratteristici%20delle%20cartelle%20al%20portatore%20del%20nuovo%20consolidato%203.50%20per%20%20netto.%20002U0425.md), col quale fu approvata la forma e furono determinati i segni distintivi per la prima emissione delle cartelle dei Consolidato creato con la [legge 12 giugno 1902, n. 166](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riflettente%20la%20creazione%20di%20un%20nuovo%20titolo%20consolidato%203%20e%20mezzo%20per%20cento%20e%20provvedimenti%20per%20i%20debiti%20redimibili.%20002U0166.md);
 
-Visto il [regio decreto 2 agosto 1902, n. 317](../Regi%20decreti/Riguardante%20provvedimenti%20per%20il%20nuovo%20tipo%20di%20rendita%20consolidata%20350%20%20netto%20e%20per%20la%20conversione%20di%20alcuni%20debiti%20redimibili.%20002U0317.md), per l'esecuzione della legge anzidetta;
+Visto il [regio decreto 2 agosto 1902, n. 317](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riguardante%20provvedimenti%20per%20il%20nuovo%20tipo%20di%20rendita%20consolidata%20350%20%20netto%20e%20per%20la%20conversione%20di%20alcuni%20debiti%20redimibili.%20002U0317.md), per l'esecuzione della legge anzidetta;
 
-Visto l'art. 119 del regolamento generale sul Debito pubblico, approvato con il [regio decreto 19 febbraio 1911, n. 298](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md), col quale si dispone la rinnovazione delle cartelle al portatore, sulle quali sia esaurita la serie delle cedole;
+Visto l'art. 119 del regolamento generale sul Debito pubblico, approvato con il [regio decreto 19 febbraio 1911, n. 298](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md), col quale si dispone la rinnovazione delle cartelle al portatore, sulle quali sia esaurita la serie delle cedole;
 
 Sulla proposta del Ministro per il tesoro; Decreta:
 

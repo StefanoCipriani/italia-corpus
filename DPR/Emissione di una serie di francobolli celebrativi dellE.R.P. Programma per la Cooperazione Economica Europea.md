@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'art. 21 del Codice postale e delle telecomunicazioni, approvato col [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
-Visto l'art. 239 del regolamento dei servizi postali (titolo preliminare e parte prima) approvato col [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
+Visto l'art. 239 del regolamento dei servizi postali (titolo preliminare e parte prima) approvato col [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
 
 Riconosciuta l'opportunita' che siano emessi alcuni francobolli celebrativi degli scopi dell'E.R.P. (Programma per la Cooperazione Economica Europea) e dei benefici derivantine all'Italia ed all'Europa;
 

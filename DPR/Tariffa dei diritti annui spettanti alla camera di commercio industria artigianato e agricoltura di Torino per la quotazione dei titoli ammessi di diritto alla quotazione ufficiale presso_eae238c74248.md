@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 28 agosto 1924, n. 1593](../Regi%20decreti/Approvazione%20della%20tariffa%20dei%20diritti%20di%20borsa%20di%20Torino.%20024U1593.md), con il quale venne approvata e resa esecutiva la tariffa dei diritti di quotazione dovuti alla camera di commercio e industria di Torino, con esclusione dei titoli ammessi di diritto alla quotazione ufficiale;
+Visto il [regio decreto 28 agosto 1924, n. 1593](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20tariffa%20dei%20diritti%20di%20borsa%20di%20Torino.%20024U1593.md), con il quale venne approvata e resa esecutiva la tariffa dei diritti di quotazione dovuti alla camera di commercio e industria di Torino, con esclusione dei titoli ammessi di diritto alla quotazione ufficiale;
 
 Visto il [decreto del Presidente della Repubblica 26 febbraio 1948, n. 276](Modificazione%20della%20tariffa%20dei%20diritti%20di%20borsa%20spettanti%20alla%20Camera%20di%20commercio%20industria%20e%20agricoltura%20di%20Torino.md), con il quale, nel modificare la precedente tariffa, e' stata confermata la predetta esenzione;
 
 Vista la [deliberazione n. 40 del 1 febbraio 1979, con cui la camera di commercio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:camera.commercio:delibera:1979-02-01;40), industria, artigianato e agricoltura di Torino ha richiesto la fissazione dei diritti di quotazione per le azioni di risparmio e per taluni titoli ammessi di diritto alla quotazione ufficiale presso la locale borsa valori;
 
-Visti gli articoli 32 e 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), recanti norme in materia di diritti di borsa;
+Visti gli articoli 32 e 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), recanti norme in materia di diritti di borsa;
 
 Sulla proposta del Ministro del tesoro; Decreta:
 

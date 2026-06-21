@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 3 febbraio 1963, n. 116](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20la%20tutela%20della%20denominazione%20di%20origine%20dei%20mosti%20e%20dei%20vini.md);
+Vista la [legge 3 febbraio 1963, n. 116](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20la%20tutela%20della%20denominazione%20di%20origine%20dei%20mosti%20e%20dei%20vini.md);
 
 Visto il [decreto del Presidente della Repubblica 12 luglio 1963, n. 930](Norme%20per%20la%20tutela%20delle%20denominazioni%20di%20origine%20dei%20mosti%20e%20dei%20vini.md), contenente norme per la tutela delle denominazioni di origine dei vini;
 

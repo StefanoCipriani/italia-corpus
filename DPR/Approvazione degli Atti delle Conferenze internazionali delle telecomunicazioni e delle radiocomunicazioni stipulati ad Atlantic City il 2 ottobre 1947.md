@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 25 marzo 1933, n. 204](../Regi%20decreti/Esecutorieta%20degli%20Accordi%20internazionali%20in%20materia%20telegrafica%20telefonica%20e%20radio%20-%20telegrafica%20stipulati%20a%20Madrid%20tra%20lItalia%20ed%20altri%20Stati%20il%209%20-%2010%20dicembre%201932.%20033U0204.md), col quale viene data esecuzione agli Accordi internazionali in materia telegrafica, telefonica e radiotelegrafica stipulati a Madrid tra l'Italia ed altri Stati il 9-10 dicembre 1932;
+Visto il [regio decreto 25 marzo 1933, n. 204](../Atti%20normativi%20abrogati%20%28in%20originale%29/Esecutorieta%20degli%20Accordi%20internazionali%20in%20materia%20telegrafica%20telefonica%20e%20radio%20-%20telegrafica%20stipulati%20a%20Madrid%20tra%20lItalia%20ed%20altri%20Stati%20il%209%20-%2010%20dicembre%201932.%20033U0204.md), col quale viene data esecuzione agli Accordi internazionali in materia telegrafica, telefonica e radiotelegrafica stipulati a Madrid tra l'Italia ed altri Stati il 9-10 dicembre 1932;
 
-Visto il [regio decreto 9 settembre 1938, n. 1868](../Regi%20decreti/Esecuzione%20nel%20Regno%20nellAfrica%20Orientale%20Italiana%20nella%20Libia%20e%20nelle%20Isole%20Italiane%20dellEgeo%20degli%20Atti%20stipulati%20dalla%20Conferenza%20internazionale%20delle%20telecomunicazioni%20del%20Cairo%204-8%20a_37609d8a432d.md), che da' esecuzione agli Atti stipulati dalla Conferenza internazionale delle telecomunicazioni del Cairo 4-8 aprile 1938;
+Visto il [regio decreto 9 settembre 1938, n. 1868](../Atti%20normativi%20abrogati%20%28in%20originale%29/Esecuzione%20nel%20Regno%20nellAfrica%20Orientale%20Italiana%20nella%20Libia%20e%20nelle%20Isole%20Italiane%20dellEgeo%20degli%20Atti%20stipulati%20dalla%20Conferenza%20internazionale%20delle%20telecomunicazioni%20del%20Cairo%204-8%20a_37609d8a432d.md), che da' esecuzione agli Atti stipulati dalla Conferenza internazionale delle telecomunicazioni del Cairo 4-8 aprile 1938;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
