@@ -52,17 +52,17 @@ L'amministratore delegato e il direttore generale devono essere in possesso di u
 
 4.
 
-Il consiglio di amministrazione, nel verificare, ai sensi dell'[articolo 26, comma 2, del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_26-com2), la sussistenza dei requisiti previsti dai commi 2 e 3, valuta l'esperienza anche in relazione alle esigenze gestionali della banca, indicando nel verbale della riunione le valutazioni effettuate.
+Il consiglio di amministrazione, nel verificare, ai sensi dell'[articolo 26, comma 2, del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), la sussistenza dei requisiti previsti dai commi 2 e 3, valuta l'esperienza anche in relazione alle esigenze gestionali della banca, indicando nel verbale della riunione le valutazioni effettuate.
 
 Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
- - Il [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), reca: "Testo unico delle leggi in materia bancaria e creditizia".
- - Il testo dell'[art. 26, comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_26-com1) e [comma 3, del D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_26-com3), e' il seguente:
+ - Il [D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), reca: "Testo unico delle leggi in materia bancaria e creditizia".
+ - Il testo dell'[art. 26, comma 1](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) e [comma 3, del D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' il seguente:
  "1. I soggetti che svolgono funzioni di amministrazione, direzione e controllo presso banche devono possedere i requisiti di professionalita' e di onorabilita' stabiliti con regolamento del Ministro del tesoro adottato, sentita la Banca d'Italia, ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1998, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-08-23;400#art_17-com3)".
  "3. Il regolamento previsto dal comma 1 stabilisce le cause che comportano la sospensione temporanea dalla carica e la sua durata. La sospensione e' dichiarata con le modalita' indicate nel comma 2".
  Nota all'art. 1:
- - Il testo dell'[art. 26, comma 2, del D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_26-com2), e' il seguente:
+ - Il testo dell'[art. 26, comma 2, del D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' il seguente:
  "2. Il difetto dei requisiti determina la decadenza dall'ufficio. Essa e' dichiarata dal consiglio di amministrazione entro trenta giorni dalla nomina o dalla conoscenza del difetto sopravvenuto. In caso di inerzia la decadenza e' pronunciata dalla Banca d'Italia".
 
 ## Art. 2. — Requisiti di professionalita' dei soggetti che svolgono funzioni di  amministrazione e direzione di banche di credito cooperativo.
@@ -83,7 +83,7 @@ Per la carica di direttore generale o per quella che comporti l'esercizio di fun
 
 3.
 
-Il consiglio di amministrazione, nel verificare, ai sensi dell'[articolo 26, comma 2, del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_26-com2), la sussistenza dei requisiti previsti dai commi 1 e 2, valuta l'esperienza anche in relazione alle esigenze gestionali della banca, indicando nel verbale della riunione le valutazioni effettuate.
+Il consiglio di amministrazione, nel verificare, ai sensi dell'[articolo 26, comma 2, del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), la sussistenza dei requisiti previsti dai commi 1 e 2, valuta l'esperienza anche in relazione alle esigenze gestionali della banca, indicando nel verbale della riunione le valutazioni effettuate.
 
 Nota all'art. 2:
  - Per il testo del [comma 2 dell'art. 26 del D.Lgs. n. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385#art_26-com2) vedi nota all'art. 1.
@@ -174,7 +174,7 @@ Per gli esponenti in carica alla data di entrata in vigore del presente regolame
 
 3.
 
-Il presente regolamento, salvi gli articoli 2 e 3, si applica anche alle banche indicate nell'[articolo 151 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_151).
+Il presente regolamento, salvi gli articoli 2 e 3, si applica anche alle banche indicate nell'[articolo 151 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 Nota all'art. 7:
  - Il testo dell'art. 151 del citato [D.Lgs. n. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385) e' il seguente:

@@ -129,10 +129,10 @@ I restauratori e gli operatori qualificati previsti dai commi 1 e 2 devono avere
 
 1.
 
-L'adeguata capacita' economica e finanziaria e' dimostrata da referenze bancarie, rilasciate da soggetti autorizzati all'esercizio di attivita' bancaria ai sensi del [decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), idonee a garantire la solvibilita' dell'impresa in relazione all'importo della classifica per la quale l'impresa chiede la qualificazione.
+L'adeguata capacita' economica e finanziaria e' dimostrata da referenze bancarie, rilasciate da soggetti autorizzati all'esercizio di attivita' bancaria ai sensi del [decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), idonee a garantire la solvibilita' dell'impresa in relazione all'importo della classifica per la quale l'impresa chiede la qualificazione.
 
 Nota all'[art. 6:
- - Il decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_6), recante: "Testo unico delle leggi in materia bancaria e creditizia" e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 30 settembre 1993, n. 230.
+ - Il decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), recante: "Testo unico delle leggi in materia bancaria e creditizia" e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 30 settembre 1993, n. 230.
 
 ## Art. 7. — Restauratore di beni culturali
 

@@ -28,7 +28,7 @@ Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Visto il [decreto-legge 3 maggio 1991, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-03;143), convertito, con modificazioni, dalla [legge 5 luglio 1991, n. 197](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20maggio%201991%20n.%20143%20recante%20provvedimenti%20urgenti%20per%20limitare%20luso%20del%20contante%20e%20dei%20titoli%20al%20portatore%20nelle%20transazioni%20e%20pr_a4323969ef56.md);
 
-Visto il testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
+Visto il testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
 
 Visto il [decreto legislativo 17 marzo 1995, n. 174](Attuazione%20della%20direttiva%2092-96-CEE%20in%20materia%20di%20assicurazione%20diretta%20sulla%20vita.md);
 
@@ -341,7 +341,7 @@ Fermo restando quanto previsto dalla disciplina sul valore probatorio della firm
 
 4.
 
-Relativamente alle operazioni di pagamento da effettuarsi nell'ambito di contratti a distanza, il fornitore adotta condizioni di sicurezza conformi a quanto disposto ai sensi dell'[articolo 146 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_146), avendo riguardo, in particolare, alle esigenze di integrita', di autenticita' e di tracciabilita' delle operazioni medesime.
+Relativamente alle operazioni di pagamento da effettuarsi nell'ambito di contratti a distanza, il fornitore adotta condizioni di sicurezza conformi a quanto disposto ai sensi dell'[articolo 146 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), avendo riguardo, in particolare, alle esigenze di integrita', di autenticita' e di tracciabilita' delle operazioni medesime.
 
 ## Art. 14. — Servizi non richiesti
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
-Visto il testo unico delle leggi in materia bancaria e creditizia di cui al [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal [decreto legislativo 4 agosto 1999, n. 342](../Decreti%20Legislativi/Modifiche%20al%20decreto%20legislativo%201%20settembre%201993%20n.%20385%20recante%20il%20testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
+Visto il testo unico delle leggi in materia bancaria e creditizia di cui al [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal [decreto legislativo 4 agosto 1999, n. 342](../Decreti%20Legislativi/Modifiche%20al%20decreto%20legislativo%201%20settembre%201993%20n.%20385%20recante%20il%20testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
 
 Visto, in particolare, l'[articolo 155, comma 5, del decreto legislativo n. 385 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385#art_155-com5), il quale prevede che i soggetti che esercitano professionalmente l'attivita' di cambiavalute, consistente nella negoziazione a pronti di mezzi di pagamento in valuta, sono iscritti in un'apposita sezione dell'elenco previsto dall'articolo 106, comma 1, del citato decreto legislativo e che il Ministro del tesoro, del bilancio e della programmazione economica emana le relative disposizioni applicative, individuando le attivita' che possono essere esercitate congiuntamente con quella di cambiavalute;
 
@@ -34,7 +34,7 @@ Adotta il seguente regolamento:
 
 1.
 
-I soggetti in qualsiasi forma giuridica costituiti che esercitano, anche su base stagionale, l'attivita' di cambiavalute in via professionale sono iscritti in un'apposita sezione dell'elenco previsto dall'[articolo 106, comma 1, del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_106-com1). L'Ufficio italiano dei cambi indica le modalita' di iscrizione.
+I soggetti in qualsiasi forma giuridica costituiti che esercitano, anche su base stagionale, l'attivita' di cambiavalute in via professionale sono iscritti in un'apposita sezione dell'elenco previsto dall'[articolo 106, comma 1, del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md). L'Ufficio italiano dei cambi indica le modalita' di iscrizione.
 
 2.
 
@@ -43,7 +43,7 @@ Non costituisce esercizio in via professionale dell'attivita' di cambiavalute l'
 Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Nota al titolo:
- - Il [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), reca: "Testo unico delle leggi in materia bancaria e creditizia".
+ - Il [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), reca: "Testo unico delle leggi in materia bancaria e creditizia".
  Note alle premesse:
  - Il testo dell'art. 106, comma 1, del citato [decreto legislativo n. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385), e' il seguente:
  "1. L'esercizio nei confronti del pubblico delle attivita' di assunzione di partecipazioni, di concessione ai finanziamenti sotto qualsiasi forma, di prestazione di servizi di pagamento e di intermediazione in cambi e' riservato a intermediari finanziari iscritti in un apposito elenco tenuto dall'UIC".
@@ -80,22 +80,22 @@ I cambiavalute possono esercitare congiuntamente all'attivita' di negoziazione a
 
 1.
 
-I partecipanti al capitale dei cambiavalute devono possedere i requisiti di onorabilita' determinati con il [decreto del Ministro del tesoro, del bilancio e della programmazione economica 30 dicembre 1998, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.tesoro.bilancio.programmazione.economica:decreto:1998-12-30;517), emanato ai sensi dell'[articolo 108 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_108).
+I partecipanti al capitale dei cambiavalute devono possedere i requisiti di onorabilita' determinati con il [decreto del Ministro del tesoro, del bilancio e della programmazione economica 30 dicembre 1998, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.tesoro.bilancio.programmazione.economica:decreto:1998-12-30;517), emanato ai sensi dell'[articolo 108 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 2.
 
-I titolari di ditte individuali nonche' coloro che svolgono funzioni comunque denominate di amministrazione, direzione e controllo presso soggetti che svolgono attivita' di cambiavalute costituiti in qualunque forma giuridica, devono possedere i requisiti di onorabilita' determinati con il [decreto del Ministro del tesoro, del bilancio e della programmazione economica 30 dicembre 1998, n. 516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.tesoro.bilancio.programmazione.economica:decreto:1998-12-30;516), emanato ai sensi dell'[articolo 109 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_109).
+I titolari di ditte individuali nonche' coloro che svolgono funzioni comunque denominate di amministrazione, direzione e controllo presso soggetti che svolgono attivita' di cambiavalute costituiti in qualunque forma giuridica, devono possedere i requisiti di onorabilita' determinati con il [decreto del Ministro del tesoro, del bilancio e della programmazione economica 30 dicembre 1998, n. 516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.tesoro.bilancio.programmazione.economica:decreto:1998-12-30;516), emanato ai sensi dell'[articolo 109 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 Note all'[art. 3:
- - Il decreto del Ministro del tesoro, del bilancio e della programmazione economica 30 dicembre 1998, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.tesoro.bilancio.programmazione.economica:decreto:1998-12-30;517#art_3), pubblicato nella Gazzetta Ufficiale del 9 aprile 1999, n. 82, concerne il regolamento recante norme per la determinazione dei requisiti di onorabilita' dei partecipanti al capitale degli intermediari finanziari, ai sensi dell'[art. 108 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_108).
- - Il [decreto del Ministro del tesoro, del bilancio e della programmazione economica 30 dicembre 1998, n. 516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.tesoro.bilancio.programmazione.economica:decreto:1998-12-30;516), pubblicato nella Gazzetta Ufficiale dell'8 aprile 1999, n. 81, concerne il regolamento recante norme per la determinazione dei requisiti di professionalita' e di onorabilita' dei soggetti che svolgono funzioni di amministrazione, direzione e controllo presso gli intermediari finanziari, ai sensi dell'[art. 109 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_109).
+ - Il decreto del Ministro del tesoro, del bilancio e della programmazione economica 30 dicembre 1998, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.tesoro.bilancio.programmazione.economica:decreto:1998-12-30;517#art_3), pubblicato nella Gazzetta Ufficiale del 9 aprile 1999, n. 82, concerne il regolamento recante norme per la determinazione dei requisiti di onorabilita' dei partecipanti al capitale degli intermediari finanziari, ai sensi dell'[art. 108 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
+ - Il [decreto del Ministro del tesoro, del bilancio e della programmazione economica 30 dicembre 1998, n. 516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.tesoro.bilancio.programmazione.economica:decreto:1998-12-30;516), pubblicato nella Gazzetta Ufficiale dell'8 aprile 1999, n. 81, concerne il regolamento recante norme per la determinazione dei requisiti di professionalita' e di onorabilita' dei soggetti che svolgono funzioni di amministrazione, direzione e controllo presso gli intermediari finanziari, ai sensi dell'[art. 109 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 ## Art. 4. — Iscrizione d'ufficio dei cambiavalute
 gia' autorizzati dalla Banca d'Italia
 
 1.
 
-Alla data di entrata in vigore del presente regolamento, i soggetti che risultano autorizzati dalla Banca d'Italia a operare come cambiavalute sono iscritti d'ufficio nell'apposita sezione dell'elenco generale prevista dall'[articolo 155, comma 5, del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_155-com5). La Banca d'Italia trasmette all'Ufficio italiano dei cambi l'elenco nominativo dei cambiavalute autorizzati a quella data.
+Alla data di entrata in vigore del presente regolamento, i soggetti che risultano autorizzati dalla Banca d'Italia a operare come cambiavalute sono iscritti d'ufficio nell'apposita sezione dell'elenco generale prevista dall'[articolo 155, comma 5, del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md). La Banca d'Italia trasmette all'Ufficio italiano dei cambi l'elenco nominativo dei cambiavalute autorizzati a quella data.
 
 2.
 

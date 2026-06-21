@@ -211,7 +211,7 @@ Si considerano appartenenti al gruppo del soggetto che ha richiesto l'iscrizione
                             controllano il predetto soggetto, ovvero ne siano controllati;
                         b)
                             sono controllati dallo stesso soggetto che controlla il soggetto che ha richiesto l'iscrizione.
- Ai fini dell'individuazione del rapporto di controllo si applica l'[articolo 23 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_23).
+ Ai fini dell'individuazione del rapporto di controllo si applica l'[articolo 23 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 4.
 
@@ -226,7 +226,7 @@ Il Ministero del tesoro, del bilancio e della programmazione economica sottopone
 Gli operatori di cui ai precedenti commi 1 e 4, trasmettono, su richiesta, al Ministero del tesoro, del bilancio e della programmazione economica e alla Banca d'Italia dati e notizie sull'attivita' svolta. La societa' di gestione fornisce periodicamente e anche su richiesta al Ministero del tesoro, del bilancio e della programmazione economica dati e notizie relative ai contratti conclusi e all'attivita' svolta dai partecipanti al mercato. Il Ministero del tesoro, del bilancio e della programmazione economica puo' richiedere alla Banca d'Italia ulteriori dati sull'attivita' realizzata dagli operatori di cui ai precedenti commi 1 e 4.
 
 Note all'art. 3:
- - Il testo dell'[art. 23 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_23), e' il seguente:
+ - Il testo dell'[art. 23 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' il seguente:
  "Art. 23 (Nozione di controllo). - 1. Ai fini del presente capo il controllo sussiste, anche con riferimento a soggetti diversi dalle societa', nei casi previsti dall'[art. 2359, commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359-com1) e [secondo, del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359-com2).
  2. Il controllo si considera esistente nella forma dell'influenza dominante, salvo prova contraria, allorche' ricorra una delle seguenti situazioni:
  1) esistenza di un soggetto che, in base ad accordi con altri soci, ha il diritto di nominare o revocare la maggioranza degli amministratori ovvero dispone da solo della maggioranza dei voti esercitabili nell'assemblea ordinaria;
@@ -328,7 +328,7 @@ Ciascun soggetto ammesso alle negoziazioni deve aderire, direttamente o attraver
 
 1.
 
-In caso di gravi irregolarita' nella gestione dei mercati ovvero nell'amministrazione delle societa' di gestione e comunque in ogni caso in cui lo richieda il perseguimento delle finalita' indicate nell'articolo 1, comma 2, del presente regolamento, il Ministero del tesoro, del bilancio e della programmazione economica, su proposta della Banca d'Italia, dispone lo scioglimento degli organi amministrativi e di controllo delle societa' di gestione. I poteri dei disciolti organi amministrativi sono attribuiti a un commissario nominato con il medesimo provvedimento, che li esercita, sulla base delle direttive e sotto il controllo della Banca d'Italia, sino alla ricostituzione degli organi. Per quanto non previsto dal presente comma si applicano gli articoli 70, commi 2, 3, 4, 5 e 6, 72 ad eccezione dei commi 2 e 8 e 75 del [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385).
+In caso di gravi irregolarita' nella gestione dei mercati ovvero nell'amministrazione delle societa' di gestione e comunque in ogni caso in cui lo richieda il perseguimento delle finalita' indicate nell'articolo 1, comma 2, del presente regolamento, il Ministero del tesoro, del bilancio e della programmazione economica, su proposta della Banca d'Italia, dispone lo scioglimento degli organi amministrativi e di controllo delle societa' di gestione. I poteri dei disciolti organi amministrativi sono attribuiti a un commissario nominato con il medesimo provvedimento, che li esercita, sulla base delle direttive e sotto il controllo della Banca d'Italia, sino alla ricostituzione degli organi. Per quanto non previsto dal presente comma si applicano gli articoli 70, commi 2, 3, 4, 5 e 6, 72 ad eccezione dei commi 2 e 8 e 75 del [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 2.
 
@@ -351,7 +351,7 @@ I provvedimenti previsti dai commi 1 e 2 sono adottati dal Ministero del tesoro,
 Le iniziative per la dichiarazione di fallimento o per l'ammissione alle procedure di concordato preventivo o amministrazione controllata e i relativi provvedimenti del tribunale sono comunicati entro tre giorni alla Banca d'Italia dal cancelliere.
 
 Note all'art. 9:
- - Il testo degli [articoli 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_70), [72](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_72) e [75 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_75), e' il seguente:
+ - Il testo degli [articoli 70](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), [72](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) e [75 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' il seguente:
  "Art. 70 (Provvedimento). - 1. Il Ministro del tesoro, su proposta della Banca d'Italia, puo' disporre con decreto lo scioglimento degli organi con funzioni di amministrazione e di controllo delle banche quando:
  a) risultino gravi irregolarita' nell'amministrazione, ovvero gravi violazioni delle disposizioni legislative, amministrative o statutarie che regolano l'attivita' della banca;
  b) siano previste gravi perdite del patrimonio;

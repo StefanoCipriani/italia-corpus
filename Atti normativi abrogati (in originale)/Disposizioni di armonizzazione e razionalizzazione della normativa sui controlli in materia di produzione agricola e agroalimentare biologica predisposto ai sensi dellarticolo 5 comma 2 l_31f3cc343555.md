@@ -641,7 +641,7 @@ Gli organismi di controllo gia' autorizzati alla data di entrata in vigore del p
 
 1.
 
-Il [decreto legislativo 17 marzo 1995, n. 220](../Decreti%20Legislativi/Attuazione%20degli%20articoli%208%20e%209%20del%20regolamento%20CEE%20n.%202092-91%20in%20materia%20di%20produzione%20agricola%20ed%20agroalimentare%20con%20metodo%20biologico.md), e' abrogato.
+Il [decreto legislativo 17 marzo 1995, n. 220](../Atti%20di%20attuazione%20Regolamenti%20UE/Attuazione%20degli%20articoli%208%20e%209%20del%20regolamento%20CEE%20n.%202092-91%20in%20materia%20di%20produzione%20agricola%20ed%20agroalimentare%20con%20metodo%20biologico.md), e' abrogato.
 
 2.
 

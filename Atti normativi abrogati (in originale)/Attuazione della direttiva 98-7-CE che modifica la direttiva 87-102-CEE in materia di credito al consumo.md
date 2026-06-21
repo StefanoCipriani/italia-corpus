@@ -16,7 +16,7 @@ Vista la [direttiva 98/7/CE del Parlamento europeo e del Consiglio del 16 febbra
 
 Vista la [legge 5 febbraio 1999, n. 25](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201998.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 1998) e, in particolare, gli articoli 1 e 2 e l'allegato A;
 
-Visto il [decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), recante testo unico delle leggi in materia bancaria e creditizia e successive integrazioni e modificazioni, e, in particolare, gli articoli 122 e 123;
+Visto il [decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), recante testo unico delle leggi in materia bancaria e creditizia e successive integrazioni e modificazioni, e, in particolare, gli articoli 122 e 123;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 febbraio 2000;
 
@@ -51,7 +51,7 @@ Avvertenza:
  Saranno inoltre osservate le competenze normative e amministrative conferite alle regioni con la [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), ed i relativi decreti legislativi attuativi, nonche' gli ambiti di autonomia delle regioni a statuto speciale e delle province autonome, nel rispetto del principio di sussidiarieta'.
  2. Le disposizioni in materia di prescrizione di cui agli [articoli 20 e seguenti del decreto legislativo 19 dicembre 1994, n. 758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md), e successive modificazioni, si applicano, ove gia non previsto, a tutte le violazioni delle norme di recepimento di disposizioni comunitarie in materia di igiene sul lavoro, sicurezza e salute dei lavoratori sul luogo di lavoro, per le quali e' prevista la pena alternativa dell'arresto o dell'ammenda".
  - L'allegato A della succitata legge reca l'elenco delle direttive da recepire con decreto legislativo.
- - Il [decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), reca: "Testo unico delle leggi in materia bancaria e creditizia". Si riporta il testo degli articoli 122 e 123:
+ - Il [decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), reca: "Testo unico delle leggi in materia bancaria e creditizia". Si riporta il testo degli articoli 122 e 123:
  "Art. 122 (Tasso annuo effettivo globale). - 1. Il tasso annuo effettivo globale (TAEG) e' il costo totale del credito a carico del consumatore espresso in percentuale annua del credito concesso. Il TAEG comprende gli interessi e tutti gli oneri da sostenere per utilizzare il credito.
  2. Il CICR stabilisce le modalita' di calcolo del TAEG, individuando in particolare gli elementi da computare e la formula di calcolo.
  3. Nei casi in cui il finanziamento puo' essere ottenuto solo attraverso l'interposizione di un terzo, il costo di tale interposizione deve essere incluso nel TAEG".
@@ -64,10 +64,10 @@ Avvertenza:
 
 1.
 
-Ai fini di cui all'articolo 1, il CICR, entro trenta giorni dalla data di entrata in vigore del presente decreto, apporta, ai sensi degli [articoli 122, comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_122-com2), e [123, comma 2, del decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_123-com2), le necessarie modifiche alla disciplina recata dal decreto ministeriale 8 luglio 1992, pubblicato nella Gazzetta Ufficiale della Repubblica italiana 20 luglio 1992, n. 169.
+Ai fini di cui all'articolo 1, il CICR, entro trenta giorni dalla data di entrata in vigore del presente decreto, apporta, ai sensi degli [articoli 122, comma 2](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e [123, comma 2, del decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), le necessarie modifiche alla disciplina recata dal decreto ministeriale 8 luglio 1992, pubblicato nella Gazzetta Ufficiale della Repubblica italiana 20 luglio 1992, n. 169.
 
 Note all'art. 2:
- - Per il testo degli [articoli 122, comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_122-com2), e [123, comma 2, del decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_123-com2), si veda nelle note alle premesse.
+ - Per il testo degli [articoli 122, comma 2](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e [123, comma 2, del decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), si veda nelle note alle premesse.
  - Il decreto ministeriale 8 luglio 1992 reca: "Disciplina e criteri di definizione del tasso annuo effettivo globale per la concessione di credito al consumo".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

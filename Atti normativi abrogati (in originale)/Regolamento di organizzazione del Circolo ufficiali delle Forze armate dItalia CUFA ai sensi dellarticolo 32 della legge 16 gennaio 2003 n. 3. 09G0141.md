@@ -34,7 +34,7 @@ Visto il [decreto del Presidente della Repubblica 17 luglio 1986, n. 545](https:
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), e successive modificazioni, concernente nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi;
 
-Visto il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), concernente testo unico delle leggi in materia bancaria e creditizia;
+Visto il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), concernente testo unico delle leggi in materia bancaria e creditizia;
 
 Vista la [legge 14 gennaio 1994, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20), e successive modificazioni, concernente disposizioni in materia di giurisdizione della Corte dei conti;
 
@@ -148,7 +148,7 @@ Avvertenza:
  - La [legge 5 agosto 1978, n. 468](Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md) (Riforma di alcune norme di contabilita' generale dello Stato in materia di bilancio), e' pubblicata nella Gazzetta Ufficiale 22 agosto 1978, n. 233. In particolare, l'art. 5, comma 4, stabilisce che: «E' vietata altresi' l'assegnazione di qualsiasi provento per spese o erogazioni speciali, salvo i proventi e le quote di proventi riscossi per conto di enti, le oblazioni e simili, fatte a scopo determinato».
  - Il [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) (Approvazione del testo unico delle imposte sui redditi), e' pubblicato nella Gazzetta Ufficiale 31 dicembre 1986, n. 302 (supplemento ordinario).
  - La [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241) (Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi), e' pubblicata nella Gazzetta Ufficiale 18 agosto 1990, n. 192.
- - Il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) (Testo unico delle leggi in materia bancaria e creditizia), e' pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230 (supplemento ordinario).
+ - Il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia), e' pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230 (supplemento ordinario).
  - La [legge 14 gennaio 1994, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20) (Disposizioni in materia di giurisdizione e controllo della Corte dei conti), e' pubblicata nella Gazzetta Ufficiale 14 gennaio 1994, n. 10.
  - Il [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md) (Regolamento recante semplificazione e accelerazione delle procedure di spesa e contabili), e' pubblicato nella Gazzetta Ufficiale 13 giugno 1994, n. 136 (supplemento ordinario).
  - Il [decreto ministeriale 9 dicembre 1996, n. 701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1996-12-09;701) (Regolamento recante norme per la graduale introduzione della carta di credito, quale sistema di pagamento, nell'ambito delle amministrazioni pubbliche, in attuazione dell'[art. 1, commi 47](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), [48](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), [49](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), [50](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), [51](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), [52](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md) e [53, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md)), e' pubblicato nella Gazzetta Ufficiale 15 febbraio 1997, n. 38.
@@ -1472,7 +1472,7 @@ CAPO VI
 
 1.
 
-Il servizio di cassa e' affidato, in base ad apposita convenzione, a imprese autorizzate all'esercizio dell'attivita' bancaria, ai sensi del [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni, ovvero alla Societa' poste italiane S.p.a.
+Il servizio di cassa e' affidato, in base ad apposita convenzione, a imprese autorizzate all'esercizio dell'attivita' bancaria, ai sensi del [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni, ovvero alla Societa' poste italiane S.p.a.
 
 2.
 
@@ -1495,7 +1495,7 @@ Il Circolo puo' avvalersi di conti correnti postali per l'espletamento di partic
 Nel caso in cui l'organizzazione del Circolo e delle imprese di cui al comma 1, lo consentano, il servizio di cassa viene gestito con metodologie ad evidenze informatiche, attraverso un collegamento diretto tra l'ufficio amministrazione del Circolo e l'istituto, al fine di consentire l'interscambio dei dati e della documentazione relativi alla gestione del servizio.
 
 Nota all'[art. 51:
- - Il decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_51) (Testo unico delle leggi in materia bancaria e creditizia), e' pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230 (supplemento ordinario).
+ - Il decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia), e' pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230 (supplemento ordinario).
 
 ### Art. 52. — Servizio di cassa interno
 

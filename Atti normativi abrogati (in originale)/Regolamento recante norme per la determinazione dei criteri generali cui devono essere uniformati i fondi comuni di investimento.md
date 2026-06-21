@@ -42,7 +42,7 @@ Nel presente regolamento s'intendono per:
                             a)
                                 "testo unico": il [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md);
                             b)
-                                "testo unico bancario": il [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
+                                "testo unico bancario": il [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
                             c)
                                 "fondo": il fondo comune di investimento come definito dall'articolo 1, comma 1, lettera j), del testo unico;
                             d)
@@ -106,11 +106,11 @@ Avvertenze:
  Note all'art. 1: 
  - Per il titolo del [decreto legislativo 24 febbraio 
  1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), vedi nelle note alle premesse. 
- - Il [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), reca: "Testo unico delle leggi in materia bancaria e creditizia". 
+ - Il [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), reca: "Testo unico delle leggi in materia bancaria e creditizia". 
  - Il [decreto legislativo 21 aprile 1993, n. 124](Disciplina%20delle%20forme%20pensionistiche%20complementari%20a%20norma%20dellart.%203%20comma%201%20lettera%20v%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, reca: "Disciplina delle 
  forme pensionistiche complementari". 
  - Il [decreto legislativo 20 novembre 1990, n. 356](../Decreti%20Legislativi/Disposizioni%20per%20la%20ristrutturazione%20e%20per%20la%20disciplina%20del%20gruppo%20creditizio.md), reca: "Disposizioni per la ristrutturazione e per la disciplina del gruppo creditizio". 
- - Gli articoli 106, 107 e 113 del citato [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), sono i seguenti: 
+ - Gli articoli 106, 107 e 113 del citato [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono i seguenti: 
  "Art. 106 (Elenco generale). - 1. L'esercizio nei confronti del pubblico delle attivita' di assunzione di partecipazioni, di concessione di finanziamenti sotto qualsiasi forma, di prestazione di servizi di pagamento e di intermediazione in cambi e' riservato a intermediari finanziari iscritti in un apposito elenco tenuto dal Ministro del tesoro, che si avvale dell'UIC. 
  2. Gli intermediari finanziari indicati nel comma 1 possono svolgere esclusivamente attivita' finanziarie, fatte salve le riserve di attivita' previste dalla legge. 
  3. L'iscrizione nell'elenco e' subordinata al 

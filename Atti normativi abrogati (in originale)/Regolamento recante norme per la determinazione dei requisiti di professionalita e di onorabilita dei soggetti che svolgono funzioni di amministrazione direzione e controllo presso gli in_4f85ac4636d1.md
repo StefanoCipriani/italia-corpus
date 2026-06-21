@@ -12,7 +12,7 @@ IL MINISTRO DEL TESORO, DEL BILANCIO
 
 E DELLA PROGRAMMAZIONE ECONOMICA
 
-Visto il testo unico delle leggi in materia bancaria e creditizia (di seguito "testo unico"), emanato con [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
+Visto il testo unico delle leggi in materia bancaria e creditizia (di seguito "testo unico"), emanato con [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
 
 Visto l'articolo 109, comma 1, del testo unico, in base al quale coloro che svolgono funzioni di amministrazione, direzione e controllo presso i soggetti iscritti nell'elenco previsto dall'articolo 106 del testo unico (di seguito "intermediari finanziari") devono possedere i requisiti di professionalita' e di onorabilita' stabiliti con regolamento del Ministro del tesoro, adottato sentiti la Banca d'Italia e l'U.I.C.;
 
@@ -61,8 +61,8 @@ Avvertenza:
  Nota al titolo:
  - Per il testo dell'[art. 109 del D.Lgs. n. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385#art_109) v. nelle note alle premesse e in nota all'art. 1.
  Note alle premesse:
- - Il [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), reca: "Testo unico delle leggi in materia bancaria e creditizia".
- - Il testo dell'art. 106 del citato [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e' il seguente:
+ - Il [D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), reca: "Testo unico delle leggi in materia bancaria e creditizia".
+ - Il testo dell'art. 106 del citato [D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' il seguente:
  "Art. 106. - 1. L'esercizio nei confronti del pubblico delle attivita' di assunzione di partecipazioni, di concessione di finanziamenti sotto qualsiasi forma, di prestazione di servizi di pagamento e di intermediazione in cambi e' riservato a intermediari finanziari iscritti in un apposito elenco tenuto dal Ministro del tesoro, che si avvale dell'U.I.C.
  2. Gli intermediari finanziari indicati nel comma 1 possono svolgere esclusivamente attivita' finanziarie, fatte salve le riserve di attivita' previste dalla legge.
  3. L'iscrizione nell'elenco e' subordinata al ricorrere delle seguenti condizioni:
@@ -77,13 +77,13 @@ Avvertenza:
  l'U.I.C. da' comunicazione delle iscrizioni alla Banca d'Italia e alla Consob.
  6. L'U.I.C. puo' chiedere agli intermediari finanziari la comunicazione di dati e notizie per verificare il permanere delle condizioni per l'iscrizione nell'elenco.
  7. I soggetti che svolgono funzioni di amministrazione, direzione e controllo presso gli intermediari finanziari comunicano all'U.I.C., con le modalita' dallo stesso stabilite, le cariche analoghe ricoperte presso altre societa' ed enti di qualsiasi natura".
- - Il testo dell'art. 109, commi 1 e 3, del citato [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e' il seguente:
+ - Il testo dell'art. 109, commi 1 e 3, del citato [D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' il seguente:
  "1. Con regolamento del Ministro del tesoro adottato, sentiti la Banca d'Italia e l'U.I.C., ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), vengono determinati i requisiti di professionalita' e di onorabilita' dei soggetti che svolgono funzioni di amministrazione, direzione e controllo presso gli intermediari finanziari".
  "3. Il regolamento previsto dal comma 1 stabilisce le cause che comportano la sospensione temporanea dalla carica e la sua durata. La sospensione e' dichiarata con le modalita' indicate dal comma 2".
  - Il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), recante "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri", e' il seguente:
  "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione".
  Nota all'art. 1:
- - Il testo dell'art. 109, comma 2, del citato [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e' il seguente:
+ - Il testo dell'art. 109, comma 2, del citato [D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' il seguente:
  "2. Il difetto dei requisiti determina la decadenza dall'ufficio. Essa e' dichiarata dal consiglio di amministrazione entro trenta giorni dalla nomina o dalla conoscenza del difetto sopravvenuto".
 
 ## Art. 2. — Requisiti di professionalita' dei soggetti 

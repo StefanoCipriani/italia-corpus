@@ -3138,7 +3138,7 @@ Note all'art. 106:
 
 1.
 
-Le garanzie bancarie sono prestate da istituti di credito o da banche autorizzati all'esercizio dell'attivita' bancaria ai sensi del [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385).
+Le garanzie bancarie sono prestate da istituti di credito o da banche autorizzati all'esercizio dell'attivita' bancaria ai sensi del [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 2.
 
@@ -3155,7 +3155,7 @@ Le fideiussioni devono essere conformi allo schema tipo approvato con decreto de
 
 Note all'[art. 107:
 
- Il decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_107) (Testo unico delle leggi in materia bancaria e creditizia) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 30 settembre 1993, n. 230.
+ Il decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 30 settembre 1993, n. 230.
 
 ### Art. 108. — Garanzie di concorrenti riuniti
 

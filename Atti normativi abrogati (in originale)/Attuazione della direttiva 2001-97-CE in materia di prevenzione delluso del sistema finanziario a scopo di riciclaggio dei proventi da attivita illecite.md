@@ -50,7 +50,7 @@ Nel presente decreto legislativo l'espressione:
                         c)
                             "UIC" indica l'Ufficio italiano dei cambi;
                         d)
-                            "testo unico bancario" indica il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni;
+                            "testo unico bancario" indica il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni;
                         e)
                             "testo unico dell'intermediazione finanziaria" indica il [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md);
                         f)
@@ -84,7 +84,7 @@ Avvertenza:
  Decorso tale termine, i decreti sono emanati anche in mancanza del parere. Qualora il termine previsto per il parere dei competenti organi parlamentari scada nei trenta giorni che precedono la scadenza dei termini previsti ai commi 1 e 4 o successivamente, questi ultimi sono prorogati di novanta giorni.
  Omissis.".
  Note all'[art. 1:
- - Il decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_1), reca: "Testo unico delle leggi in materia bancaria e creditizia".
+ - Il decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), reca: "Testo unico delle leggi in materia bancaria e creditizia".
  - Il [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), reca: "Testo unico delle disposizioni in materia di intermediazione finanziaria, ai sensi degli [articoli 8](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) e [21 della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md)".
  - Per il [decreto-legge 3 maggio 1991, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-03;143), vedi note alle premesse.
 
@@ -170,7 +170,7 @@ Note all'[art. 2:
  i) gestione di case da gioco, alle autorizzazioni concesse dalle leggi in vigore, nonche' al requisito di cui all'[art. 5, comma 3, del decreto-legge 30 dicembre 1997, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-12-30;457#art_5-com3), convertito, con modificazioni, dalla [legge 27 febbraio 1998, n. 30](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201997%20n.%20457%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20del%20settore%20dei%20trasporti%20e%20lincremento%20delloccupazione.md);
  l) la fabbricazione di oggetti preziosi da parte di imprese artigiane, all'iscrizione nel registro degli assegnatari dei marchi di identificazione tenuto dalle camere di commercio, industria, artigianato e agricoltura;
  m) mediazione creditizia, all'iscrizione all'albo dei mediatori creditizi di cui all'[art. 16 della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_16);
- n) agenzia in attivita' finanziaria prevista dall'[art. 106 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_106), recante il testo unico delle leggi in materia bancaria e creditizia, di seguito indicato come: "testo unico bancario", all'iscrizione all'elenco previsto dall'art. 3.
+ n) agenzia in attivita' finanziaria prevista dall'[art. 106 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), recante il testo unico delle leggi in materia bancaria e creditizia, di seguito indicato come: "testo unico bancario", all'iscrizione all'elenco previsto dall'art. 3.
  2. Le autorita' competenti al rilascio delle autorizzazioni o licenze, alla ricezione delle dichiarazioni di inizio attivita', ovvero alla tenuta di albi o registri di cui al comma 1, comunicano, senza ritardo, anche con mezzi informatici o telematici, all'Ufficio italiano dei cambi (UIC) i dati relativi agli operatori e all'attivita' esercitata, ogni successiva variazione, nonche' i provvedimenti di sospensione o revoca del titolo autorizzatorio o di cancellazione eventualmente adottati, indicandone i motivi. L'UIC utilizza i dati raccolti a fini di antiriciclaggio.".
 
 ## Art. 3. — Obblighi di identificazione e di conservazione

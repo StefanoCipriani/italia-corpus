@@ -120,10 +120,10 @@ Confrontabilita' delle commissioni
 
 1.
 
-Gli acquirer redigono l'informativa precontrattuale prevista ai sensi del Titolo VI, Capo II-bis, del [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), in maniera tale da consentire all'esercente di comprendere i costi e le caratteristiche del servizio e di confrontare i prodotti offerti. Le commissioni applicate alle diverse tipologie di operazioni di pagamento, in conformita' con quanto previsto all'articolo 3, sono riportate in una tabella contenuta nel foglio informativo e nel documento di sintesi. La tabella riporta, altresi', le informazioni di cui all'articolo 4.
+Gli acquirer redigono l'informativa precontrattuale prevista ai sensi del Titolo VI, Capo II-bis, del [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), in maniera tale da consentire all'esercente di comprendere i costi e le caratteristiche del servizio e di confrontare i prodotti offerti. Le commissioni applicate alle diverse tipologie di operazioni di pagamento, in conformita' con quanto previsto all'articolo 3, sono riportate in una tabella contenuta nel foglio informativo e nel documento di sintesi. La tabella riporta, altresi', le informazioni di cui all'articolo 4.
 
 Note all'art. 5: 
- Il Titolo VI, Capo II-bis del [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) (Testo unico delle leggi in materia bancaria e creditizia) comprende gli articoli da 126-bis a 126-novies.
+ Il Titolo VI, Capo II-bis del [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia) comprende gli articoli da 126-bis a 126-novies.
 
 ## Art. 6. — Revisione delle commissioni
 

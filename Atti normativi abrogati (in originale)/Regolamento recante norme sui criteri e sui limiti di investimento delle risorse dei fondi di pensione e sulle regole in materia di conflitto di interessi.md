@@ -287,7 +287,7 @@ Si considerano appartenenti al gruppo dei sottoscrittori delle fonti istitutive,
 
 3.
 
-Nel presente regolamento, per l'individuazione del rapporto di controllo si applica l'[articolo 23 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_23).
+Nel presente regolamento, per l'individuazione del rapporto di controllo si applica l'[articolo 23 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 4.
 

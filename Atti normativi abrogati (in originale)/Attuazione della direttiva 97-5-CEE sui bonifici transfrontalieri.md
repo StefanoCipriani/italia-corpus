@@ -16,7 +16,7 @@ Vista la [direttiva n. 97/5/CE del Parlamento europeo e del Consiglio del 27 gen
 
 Vista la [legge 21 dicembre 1999, n. 526](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1999, e, in particolare, l'articolo 1, comma 5, della citata legge;
 
-Visto il [decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modifiche ed integrazioni, recante il testo unico delle leggi in materia bancaria e creditizia;
+Visto il [decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modifiche ed integrazioni, recante il testo unico delle leggi in materia bancaria e creditizia;
 
 Visto l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
 
@@ -34,7 +34,7 @@ Nel presente decreto legislativo si intende per:
                         a)
                             "direttiva", la [direttiva n. 97/5/CE del 27 gennaio 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;5) sui bonifici transfrontalieri;
                         b)
-                            "banca", l'impresa autorizzata all'esercizio dell'attivita' bancaria prevista dall'[articolo 10 del decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_10);
+                            "banca", l'impresa autorizzata all'esercizio dell'attivita' bancaria prevista dall'[articolo 10 del decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
                         c)
                             "altro ente", ogni persona fisica o giuridica, diversa da una banca, che, nell'ambito della propria attivita' effettua bonifici transfrontalieri;
                         d)
@@ -72,7 +72,7 @@ Avvertenza:
  - La [legge 21 dicembre 1999, n. 526](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), reca: "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 1999".
  - L'[art. 1, comma 5 della legge 21 dicembre 1999, n. 526](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), cosi' recita:
  "5. Il termine per l'esercizio della delega per l'attuazione della [direttiva 97/5/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;5) e' di sei mesi".
- - Il [decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), reca: "Testo unico delle leggi in materia bancaria e creditizia".
+ - Il [decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), reca: "Testo unico delle leggi in materia bancaria e creditizia".
  - La [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), reca: "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri".
  - L'art. 14 della succitata legge cosi' recita:
  "Art. 14 (Decreti legislativi). - 1. I decreti legislativi adottati dal Governo ai sensi dell'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) sono emanati dal Presidente della Repubblica con la denominazione di "decreto legislativo e con l'indicazione, nel preambolo, della legge di delegazione, della deliberazione del Consiglio dei Ministri e degli altri adempimenti del procedimento prescritti dalla legge di delegazione.
@@ -81,7 +81,7 @@ Avvertenza:
  4. In ogni caso, qualora il termine previsto per l'esercizio della delega ecceda i due anni, il Governo e' tenuto a richiedere il parere delle Camere sugli schemi dei decreti delegati. Il parere e' espresso dalle Commissioni permanenti delle due Camere competenti per materia entro sessanta giorni, indicando specificamente le eventuali disposizioni non ritenute corrispondenti alle direttive della legge di delegazione. Il Governo, nei trenta giorni successivi, esaminato il parere, ritrasmette, con le sue osservazioni e con eventuali modificazioni, i testi alle Commissioni per il parere definitivo che deve essere espresso entro trenta giorni".
  Note all'[art. 1:
  - Per la direttiva 97/5/CE del 27 gennaio 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;5), vedi note alle premesse.
- - Per il [decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), vedi note alle premesse.
+ - Per il [decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), vedi note alle premesse.
  - L'art. 10 del succitato decreto cosi' recita:
  "Art. 10 (Attivita' bancaria). - 1. La raccolta di risparmio tra il pubblico e l'esercizio del credito costituiscono l'attivita' bancaria. Essa ha carattere d'impresa.
  2. L'esercizio dell'attivita' bancaria e' riservato alle banche.
@@ -133,7 +133,7 @@ Gli enti forniscono a ciascun cliente una chiara e completa informativa scritta,
 
 3.
 
-Ferma restando l'applicazione delle disposizioni del titolo VI del [decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), le disposizioni di cui ai commi 1 e 2 si applicano a decorrere da un mese dalla data di entrata in vigore del presente decreto legislativo.
+Ferma restando l'applicazione delle disposizioni del titolo VI del [decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), le disposizioni di cui ai commi 1 e 2 si applicano a decorrere da un mese dalla data di entrata in vigore del presente decreto legislativo.
 
 4.
 
@@ -148,7 +148,7 @@ Fatto salvo quanto disposto nel presente articolo, se l'ordinante ha specificato
 In caso di conversione di valute, l'ente che effettua la conversione informa il cliente del tasso di cambio utilizzato.
 
 Note all'[art. 3:
- - Per il decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_3), vedi note alle premesse.
+ - Per il decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), vedi note alle premesse.
  - Il titolo VI del succitato decreto legislativo cosi' recita: "Trasparenza delle condizioni contrattuali".
 
 ## Art. 4. — Tempi di esecuzione e indennizzo

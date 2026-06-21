@@ -87,7 +87,7 @@ Note all'art. 3:
  Il valore nominale di ciascuna quota o azione non puo' essere inferiore a venticinque euro. Il valore nominale di ciascuna azione non puo' essere superiore a cinquecento euro.'' ;
  d) il comma 2 dell'art. 29 del decreto legislativo l settembre 1993, n. 385, e' sostituito dal seguente: ''2.
  Il valore nominale delle azioni non puo' essere inferiore a due euro:'';
- e) il [comma 4 dell'art. 33 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_33-com4), e' sostituito dal seguente: ''4.
+ e) il [comma 4 dell'art. 33 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' sostituito dal seguente: ''4.
  Il valore nominale di ciascuna azione non puo' essere inferiore a venticinque euro ne' superiore a cinquecento euro.'';
  f) il comma 4 dell'art. 34 del decreto legislativo l settembre 1993, n. 385, e' sostituito dal seguente:
  ''4. Nessun socio puo' possedere azioni il cui valore nominale complessivo superi cinquantamila euro.'';

@@ -26,7 +26,7 @@ Visto il [decreto legislativo 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20r
 
 Vista la [legge 31 dicembre 1996, n. 675](Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), recante tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali;
 
-Visto l'[articolo 146 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_146), recante testo unico delle leggi in materia bancaria e creditizia;
+Visto l'[articolo 146 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), recante testo unico delle leggi in materia bancaria e creditizia;
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
 
@@ -126,7 +126,7 @@ Avvertenza:
  2. Gli Stati membri comunicano alla Commissione il testo delle principali disposizioni di diritto interno che adottano nella materia disciplinata dalla presente direttiva.".
  - Si riporta l'[art. 7, comma 6, della legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50#art_7-com6) (Delegificazione e testi unici di norme concernenti procedimenti amministrativi - Legge di semplificazione 1998):
  "6. Le disposizioni contenute in un testo unico non possono essere abrogate, derogate, sospese o comunque modificate se non in modo esplicito, mediante l'indicazione precisa delle fonti da abrogare, derogare, sospendere o modificare. La Presidenza del Consiglio dei Ministri adotta gli opportuni atti di indirizzo e di coordinamento per assicurare che i successivi interventi normativi incidenti sulle materie oggetto di riordino siano attuati esclusivamente mediante la modifica o l'integrazione delle disposizioni contenute nei testi unici.".
- - Si riporta l'[art. 146 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_146) (testo unico delle leggi in materia bancaria e creditizia):
+ - Si riporta l'[art. 146 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (testo unico delle leggi in materia bancaria e creditizia):
  "Art. 146 (Vigilanza sui sistemi di pagamento). - 1. La Banca d'Italia promuove il regolare funzionamento dei sistemi di pagamento. A tal fine essa puo' emanare disposizioni volte ad assicurare sistemi di compensazione e di pagamento efficienti e affidabili.".
  - Si riporta l'articolo unico del decreto del Presidente del Consiglio dei Ministri 27 settembre 2001 (Istituzione del Dipartimento per l'innovazione e le tecnologie):
  "Art. 1. - 1. Presso la Presidenza del Consiglio dei Ministri e' istituito il Dipartimento per l'innovazione e le tecnologie.

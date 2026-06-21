@@ -359,7 +359,7 @@ L'adeguata capacita' economica e finanziaria dell'esecutore dei lavori e' dimost
 
 2.
 
-In caso di imprese qualificate esclusivamente nelle categorie OS 2-A, OS 2-B e OS 25 l'adeguata capacita' economica e finanziaria e' dimostrata da idonee referenze bancarie rilasciate da un soggetto autorizzato all'esercizio dell'attivita' bancaria ai sensi del [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385).
+In caso di imprese qualificate esclusivamente nelle categorie OS 2-A, OS 2-B e OS 25 l'adeguata capacita' economica e finanziaria e' dimostrata da idonee referenze bancarie rilasciate da un soggetto autorizzato all'esercizio dell'attivita' bancaria ai sensi del [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 Note all'art. 9: 
  - Si riporta il testo vigente degli articoli 83, comma 2, 84 e 86 del citato [decreto legislativo 18 aprile 2016, n. 50](Attuazione%20delle%20direttive%202014-23-UE%202014-24-UE%20e%202014-25-UE%20sullaggiudicazione%20dei%20contratti%20di%20concessione%20sugli%20appalti%20pubblici%20e%20sulle%20procedure%20dappalto%20degli%20enti%20erogatori%20nei%20se_4ea48442d066.md): 
@@ -397,7 +397,7 @@ Note all'art. 9:
  5. Le capacita' tecniche degli operatori economici possono essere dimostrate con uno o piu' mezzi di prova di cui all'allegato XVII, parte II, in funzione della natura, della quantita' o dell'importanza e dell'uso dei lavori, delle forniture o dei servizi. 
  5-bis. L'esecuzione dei lavori e' documentata dal certificato di esecuzione dei lavori redatto secondo lo schema predisposto dall'ANAC con le linee guida di cui all'art. 83, comma 2. L'attribuzione, nel certificato di esecuzione dei lavori, delle categorie di qualificazione, relative ai lavori eseguiti, viene effettuata con riferimento alle categorie richieste nel bando di gara o nell'avviso o nella lettera di invito. Qualora il responsabile unico del procedimento riporti nel certificato di esecuzione dei lavori categorie di qualificazione diverse da quelle previste nel bando di gara o nell'avviso o nella lettera di invito, si applicano le sanzioni previste dall'art. 213, comma 13, nel caso di comunicazioni non veritiere. 
  6. Per il tramite della cabina di regia sono messe a disposizione degli altri Stati membri, su richiesta, le informazioni riguardanti i motivi di esclusione elencati all'art. 80, l'idoneita' all'esercizio dell'attivita' professionale, la capacita' finanziaria e tecnica degli offerenti di cui all'art. 83, nonche' eventuali informazioni relative ai mezzi di prova di cui al presente articolo.». 
- - Il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) (Testo unico delle leggi in materia bancaria e creditizia) e' pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, S.O.
+ - Il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia) e' pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, S.O.
 
 ### Art. 10.
 
