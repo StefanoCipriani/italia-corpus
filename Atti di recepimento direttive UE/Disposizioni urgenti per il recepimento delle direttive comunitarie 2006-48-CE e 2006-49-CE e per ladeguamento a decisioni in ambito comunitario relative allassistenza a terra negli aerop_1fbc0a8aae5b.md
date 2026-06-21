@@ -33,7 +33,7 @@ Emana il seguente decreto-legge:
 
 1.
 
-Al testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), sono apportate le seguenti modifiche:
+Al testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono apportate le seguenti modifiche:
                         a)
                             all'articolo 7, il comma 10 e' sostituito dal seguente:
 "10. Nel rispetto delle condizioni previste dalle direttive comunitarie applicabili alle banche, la Banca d'Italia scambia informazioni con ((tutte le)) altre autorita' e soggetti esteri indicati dalle direttive medesime.";

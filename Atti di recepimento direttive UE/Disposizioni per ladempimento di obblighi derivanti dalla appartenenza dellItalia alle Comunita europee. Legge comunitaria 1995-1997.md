@@ -45,7 +45,7 @@ Entro due anni dalla data di entrata in vigore della presente legge, nel rispett
 
 5.
 
-Il Governo e' delegato ad emanare, entro il termine di cui al comma 1, e con le modalita' di cui ai commi 2 e 3, disposizioni integrative e correttive del [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni, nel rispetto dei principi e criteri direttivi e con l'osservanza della procedura indicati nell'[articolo 25 della legge 19 febbraio 1992, n. 142](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md).
+Il Governo e' delegato ad emanare, entro il termine di cui al comma 1, e con le modalita' di cui ai commi 2 e 3, disposizioni integrative e correttive del [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni, nel rispetto dei principi e criteri direttivi e con l'osservanza della procedura indicati nell'[articolo 25 della legge 19 febbraio 1992, n. 142](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md).
 
 6.
 

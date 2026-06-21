@@ -1411,7 +1411,7 @@ Note all'[art. 54:
 
 1.
 
-Ai fini dell'attuazione delle [direttive 2000/46/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;46) e [2000/28/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;28), entrambe del 18 settembre 2000, in materia di istituti di moneta elettronica, al testo unico delle leggi in materia bancaria e creditizia di cui al [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni, sono apportate le seguenti modificazioni:
+Ai fini dell'attuazione delle [direttive 2000/46/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;46) e [2000/28/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;28), entrambe del 18 settembre 2000, in materia di istituti di moneta elettronica, al testo unico delle leggi in materia bancaria e creditizia di cui al [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni, sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 1, comma 2, sono aggiunte le seguenti lettere:
 "h-bis) "istituti di moneta elettronica": le imprese, diverse dalle banche, che emettono moneta elettronica;
@@ -1459,7 +1459,7 @@ Chiunque emette moneta elettronica senza essere iscritto nell'albo previsto dall
 Note all'[art. 55:
  - La direttiva n. 2000/46/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;46) riguardante l'avvio, l'esercizio e la vigilanza prudenziale dell'attivita' degli istituti di moneta elettronica e' pubblicata nella G.U.C.E. 27 ottobre 2000, n. L 275.
  - La [direttiva n. 2000/28/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;28) che modifica la [direttiva n. 2000/12/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;12) relativa all'accesso all'attivita' degli enti creditizi ed al suo esercizio e' pubblicata nella G.U.C.E. 27 ottobre 2000, n. L 275.
- - Il [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), reca: "Testo unico delle leggi in materia bancaria e creditizia".
+ - Il [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), reca: "Testo unico delle leggi in materia bancaria e creditizia".
  - Si riporta il testo degli articoli 1, 11, 96-bis, 133 e 144, come modificati dalla presente legge:
  "Art. 1 (Definizioni). - Nel presente decreto legislativo l'espressione:
  a) "autorita' creditizie" indica il Comitato interministeriale per il credito e il risparmio, il Ministro del tesoro e la Banca d'Italia;

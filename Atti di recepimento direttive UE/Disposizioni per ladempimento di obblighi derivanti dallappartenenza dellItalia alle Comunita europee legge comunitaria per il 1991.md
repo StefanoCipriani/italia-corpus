@@ -270,7 +270,7 @@ TITOLO II
 --------------- 
  
 AGGIORNAMENTO (3) 
- Il [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
+ Il [D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
 
 ### Art. 19.
 
@@ -280,7 +280,7 @@ AGGIORNAMENTO (3)
 --------------- 
  
 AGGIORNAMENTO (3) 
- Il [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
+ Il [D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
 
 ### Art. 20.
 
@@ -290,7 +290,7 @@ AGGIORNAMENTO (3)
 --------------- 
  
 AGGIORNAMENTO (3) 
- Il [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
+ Il [D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
 
 ### Art. 21.
 
@@ -301,7 +301,7 @@ AGGIORNAMENTO (3)
 
  
 AGGIORNAMENTO (3) 
- Il [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
+ Il [D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
 
 ### Art. 22.
 
@@ -311,7 +311,7 @@ AGGIORNAMENTO (3)
 --------------- 
  
 AGGIORNAMENTO (3) 
- Il [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
+ Il [D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
 
 ### Art. 23.
 
@@ -321,7 +321,7 @@ AGGIORNAMENTO (3)
 --------------- 
  
 AGGIORNAMENTO (3) 
- Il [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
+ Il [D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
 
 ### Art. 24.
 
@@ -331,7 +331,7 @@ AGGIORNAMENTO (3)
 --------------- 
  
 AGGIORNAMENTO (3) 
- Il [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
+ Il [D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
 
 ## DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA CAPO II CREDITO E RISPARMIO Sezione II RISPARMIO
 

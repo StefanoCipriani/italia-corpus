@@ -134,7 +134,7 @@ Nota all'art. 2:
  - Il testo vigente dell'art 1, del citato [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), cosi' come modificato dal presente decreto, e' il seguente:
  «Art. 1 (Definizioni). - 1. Nel presente decreto legislativo si intendono per:
  a) «[legge fallimentare](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267)»: il [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), e successive modificazioni;
- b) «testo unico bancario» (T.U. bancario): il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni;
+ b) «testo unico bancario» (T.U. bancario): il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni;
  c) «CONSOB»: la Commissione nazionale per le societa' e la borsa;
  d) «ISVAP»: l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo;
  e) «societa' di intermediazione mobiliare» (SIM): l'impresa, diversa dalle banche e dagli intermediari finanziari iscritti nell'elenco previsto dall'art. 107 del T.U. bancario, autorizzata a svolgere servizi di investimento, avente sede legale e direzione generale in Italia;
@@ -354,7 +354,7 @@ Offerta al pubblico di strumenti finanziari comunitari e di prodotti finanziari 
  1) non siano subordinati, convertibili o scambiabili;
  2) non conferiscano il diritto di sottoscrivere o acquisire altri tipi di strumenti finanziari e non siano collegati ad uno strumento derivato;
  3) diano veste materiale al ricevimento di depositi rimborsabili;
- 4) siano coperti da un sistema di garanzia dei depositi a norma degli [articoli da 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_96) [a 96-quater del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_96quater);
+ 4) siano coperti da un sistema di garanzia dei depositi a norma degli [articoli da 96](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) [a 96-quater del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
  g) aventi ad oggetto strumenti del mercato monetario emessi da banche con una scadenza inferiore a 12 mesi.
  2. La Consob puo' individuare con regolamento le offerte al pubblico di prodotti finanziari alle quali le disposizioni del presente Capo non si applicano in tutto o in parte.
  3. L'emittente o l'offerente ha diritto di redigere un prospetto ai sensi e per gli effetti delle disposizioni comunitarie in occasione dell'offerta degli strumenti di cui alle lettere c), d) ed e) del comma 1.

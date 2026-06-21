@@ -61,7 +61,7 @@ L'esercizio in via professionale del commercio di oro, per conto proprio o per c
                         b)
                             oggetto sociale che comporti il commercio di oro;
                         c)
-                            possesso, da parte dei partecipanti al capitale, degli amministratori e dei dipendenti investiti di funzioni di direzione tecnica e commerciale, dei requisiti di onorabilita' previsti dagli articoli 108, 109 e 161, comma 2, del testo unico delle leggi in materia bancaria e creditizia, emanato con [decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385).
+                            possesso, da parte dei partecipanti al capitale, degli amministratori e dei dipendenti investiti di funzioni di direzione tecnica e commerciale, dei requisiti di onorabilita' previsti dagli articoli 108, 109 e 161, comma 2, del testo unico delle leggi in materia bancaria e creditizia, emanato con [decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 3-bis.
 
@@ -243,7 +243,7 @@ Avvertenza:
  Nota al titolo:
  - La [direttiva 98/80/CE del Consiglio del 12 ottobre 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;80) completa il sistema di imposta sul valore aggiunto e modifica la [direttiva 77/388/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;388) - Regime particolare applicabile all'oro.
  Note all'art. 1:
- - Si riporta il testo degli [articoli 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_108), [109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_109) e [161, comma 2, del decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_161-com2) (Testo unico delle leggi in materia bancaria e creditizia):
+ - Si riporta il testo degli [articoli 108](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), [109](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) e [161, comma 2, del decreto legislativo 1o settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia):
  "Art. 108 (Requisiti di onorabilita' dei partecipanti).
  - 1. Il Ministro del tesoro, sentiti la Banca d'Italia e l'UIC, determina, con regolamento emanato al sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), i requisiti di onorabilita' dei partecipanti al capitale degli intermediari finanziari.
  2. Con il regolamento previsto dal comma 1 il Ministro del tesoro stabilisce la quota del capitale che deve essere posseduta per l'applicazione del medesimo comma 1. A questo fine si considerano anche le azioni o quote possedute per il tramite di societa' controllate, societa' fiduciarie o per interposta persona.

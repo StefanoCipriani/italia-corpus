@@ -18,7 +18,7 @@ Vista la [direttiva n. 98/33/CE del Consiglio del 22 giugno 1998](https://www.no
 
 Vista la [direttiva n. 77/780/CEE del Consiglio del 12 dicembre 1977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;780), relativa all'accesso all'attivita' degli enti creditizi e al suo esercizio, e successive modificazioni;
 
-Visto il [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), recante il testo unico delle leggi in materia bancaria e creditizia;
+Visto il [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), recante il testo unico delle leggi in materia bancaria e creditizia;
 
 Visto il [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), recante il testo unico delle disposizioni in materia di intermediazione finanziaria;
 
@@ -38,7 +38,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Dopo la lettera d) del comma 1 dell'articolo 1 del testo unico delle leggi in materia bancaria e creditizia, approvato con [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), di seguito denominato: "testo unico", e' inserita la seguente: 
+Dopo la lettera d) del comma 1 dell'articolo 1 del testo unico delle leggi in materia bancaria e creditizia, approvato con [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), di seguito denominato: "testo unico", e' inserita la seguente: 
  "dbis) ''COVIP'' indica la commissione di vigilanza sui fondi pensione;".
 
 2.
@@ -80,7 +80,7 @@ Avvertenza:
  - La [direttiva 98/33/CE del 22 giugno 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;33) reca: ''Direttiva del Parlamento europeo e del Consiglio che modifica l'[art. 12 della direttiva 77/780/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;780) relativa all'accesso all'attivita' degli enti creditizi e al suo esercizio, gli articoli 2, 5, 6, 7, 8 e gli allegati II e III della [direttiva 89/647/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;647) relativa al coefficiente di solvibilita' degli enti creditizi e l'art. 2 e l'allegato II della [direttiva 93/6/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;6) relativa all'adeguatezza patrimoniale delle imprese di investimento e degli enti creditizi''. Se ne riporta il testo del relativo art. 1:
  "Art. 1. - L'[art. 12, paragrafo 3, della direttiva 77/780/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;780) e' sostituito dal testo seguente: ''Gli Stati membri possono concludere con le autorita' competenti di Paesi terzi e con le autorita' o organi di tali Paesi definite al paragrafo 5 e al paragrafo 5-bis accordi di cooperazione che prevedano scambi d'informazioni solo a condizione che le informazioni comunicate beneficino di garanzie in ordine al segreto d'ufficio almeno equivalenti a quelle previste dal presente articolo. Questo scambio di informazioni deve avere lo scopo di contribuire all'esecuzione del compito di vigilanza da parte delle autorita' o organi suddetti.
  Se le informazioni provengono da un altro Stato membro, esse non possono essere diffuse senza l'esplicito accordo delle autorita' competenti che le hanno fornite e, nel caso, soltanto per gli scopi per i quali dette autorita' hanno dato il loro accordo.''".
- - Il [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), reca: "Testo unico delle leggi in materia bancaria e creditizia".
+ - Il [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), reca: "Testo unico delle leggi in materia bancaria e creditizia".
  - Il [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), reca: "Testo unico delle disposizioni in materia di intermediazione finanziaria, ai sensi degli [articoli 8](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) e [21 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md)".
  - Per il titolo della citata [direttiva 95/26/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;26) si veda in nota al titolo.
 

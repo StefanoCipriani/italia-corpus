@@ -20,7 +20,7 @@ Visto il [decreto legislativo 9 aprile 1991, n. 127](Attuazione%20delle%20dirett
 
 Visto il [decreto legislativo 27 gennaio 1992, n. 87](Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), recante attuazione della [direttiva 86/635/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1986;635), relativa ai conti annuali ed ai conti consolidati delle banche e degli altri istituti finanziari, e della [direttiva 89/117/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;117), relativa agli obblighi in materia di pubblicita' dei documenti contabili delle succursali, stabilite in uno Stato membro, di enti creditizi ed istituti finanziari con sede sociale fuori di tale Stato membro;
 
-Visto il testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
+Visto il testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 novembre 2010;
 
@@ -134,7 +134,7 @@ Avvertenza:
  Il [decreto legislativo 27 gennaio 1992, n. 87](Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e' pubblicato nella Gazzetta Ufficiale 14 febbraio 1992, n. 37, S.O. 
  La [direttiva 86/635/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1986;635) e' pubblicata nella G.U.C.E. 31 dicembre 1986, n. L 372. 
  La [direttiva 89/117/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;117) e' pubblicata nella G.U.C.E. 16 febbraio 1989, n. L 44. 
- Il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e' pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, S.O. 
+ Il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, S.O. 
  Note all'art. 1: 
  Il testo dell'articolo 27 del citato [decreto legislativo 9 aprile 1991, n.127](Attuazione%20delle%20direttive%20n.%2078-660-CEE%20e%20n.%2083-349-CEE%20in%20materia%20societaria%20relative%20ai%20conti%20annuali%20e%20consolidati%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%2026%20marzo%201990%20n.%2069.md), cosi' come modificato dal presente decreto,cosi' recita: 
  "Art. 27. Casi di esonero dell'obbligo di redazione del bilancio consolidato. 
