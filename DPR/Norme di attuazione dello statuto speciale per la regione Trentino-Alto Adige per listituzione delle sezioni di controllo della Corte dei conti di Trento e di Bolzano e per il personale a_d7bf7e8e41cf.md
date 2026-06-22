@@ -333,7 +333,7 @@ Entro lo stesso termine di cui all'art. 20 devono essere espletati i concorsi pe
 
 1.
 
-In sede di prima applicazione del presente decreto e' chiamato a far parte della sezione di cui all'art. 3 un consigliere appartenente al gruppo di lingua tedesca, nominato ai sensi dell'[art. 7, terzo comma, del regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), e successive modificazioni.
+In sede di prima applicazione del presente decreto e' chiamato a far parte della sezione di cui all'art. 3 un consigliere appartenente al gruppo di lingua tedesca, nominato ai sensi dell'[art. 7, terzo comma, del regio decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), e successive modificazioni.
 
 ### Art. 23.
 

@@ -313,7 +313,7 @@ Il [comma 2 dell'art. 17 del decreto del Presidente della Repubblica 24 maggio 1
 
 3.
 
-Limitatamente alle procedure di concessione e di autorizzazione disciplinate dal presente regolamento, non si applicano le norme che prevedono l'acquisizione del parere della Commissione consultiva per le sostanze esplosive ed infiammabili del Ministero dell'interno, di cui all'[art. 49 del regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
+Limitatamente alle procedure di concessione e di autorizzazione disciplinate dal presente regolamento, non si applicano le norme che prevedono l'acquisizione del parere della Commissione consultiva per le sostanze esplosive ed infiammabili del Ministero dell'interno, di cui all'[art. 49 del regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
 
 Note all'art. 14:
  - Per il testo dell'[art. 2, comma 8, della legge n. 537/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537#art_2-com8), si vedano le precedenti note alle premesse.

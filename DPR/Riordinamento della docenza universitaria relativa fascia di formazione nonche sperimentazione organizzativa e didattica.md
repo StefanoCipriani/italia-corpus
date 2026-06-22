@@ -469,7 +469,7 @@ TITOLO II
 
 ### Art. 41.
 
-((IL [D.P.R. 23 MARZO 2000, N.117](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
+((IL [D.P.R. 23 MARZO 2000, N.117](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
 ## RECLUTAMENTO DI PROFESSORI ASSOCIATI
 
@@ -481,7 +481,7 @@ Capo II
 
 ### Art. 43.
 
-((IL [D.P.R. 23 MARZO 2000, N.117](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
+((IL [D.P.R. 23 MARZO 2000, N.117](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
 ### Art. 44.
 
@@ -489,11 +489,11 @@ Capo II
 
 ### Art. 45.
 
-((IL [D.P.R. 23 MARZO 2000, N.117](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
+((IL [D.P.R. 23 MARZO 2000, N.117](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
 ### Art. 46.
 
-((IL [D.P.R. 23 MARZO 2000, N.117](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
+((IL [D.P.R. 23 MARZO 2000, N.117](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
 ### Art. 47.
 
@@ -502,11 +502,11 @@ Capo II
 
 ### Art. 48.
 
-((IL [D.P.R. 23 MARZO 2000, N.117](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
+((IL [D.P.R. 23 MARZO 2000, N.117](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
 ### Art. 49.
 
-((IL [D.P.R. 23 MARZO 2000, N.117](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
+((IL [D.P.R. 23 MARZO 2000, N.117](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
 ### Art. 50. — Inquadramento nella fascia dei professori associati
 
@@ -638,15 +638,15 @@ PRESENTE ARTICOLO)).
 
 ### Art. 55.
 
-((IL [D.P.R. 23 MARZO 2000, N.117](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
+((IL [D.P.R. 23 MARZO 2000, N.117](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
 ### Art. 56.
 
-((IL [D.P.R. 23 MARZO 2000, N.117](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
+((IL [D.P.R. 23 MARZO 2000, N.117](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
 ### Art. 57.
 
-((IL [D.P.R. 23 MARZO 2000, N.117](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
+((IL [D.P.R. 23 MARZO 2000, N.117](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
 ### Art. 58. — Inquadramento nel ruolo dei ricercatori universitari
 
@@ -756,7 +756,7 @@ All'Anagrafe nazionale delle ricerche affluiranno tutte le notizie relative alle
 
 AGGIORNAMENTO (25)
 
-Il [D. Lgs. 5 giugno 1998, n. 204](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20il%20coordinamento%20la%20programmazione%20e%20la%20valutazione%20della%20politica%20nazionale%20relativa%20alla%20ricerca%20scientifica%20e%20tecnologica%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20d%20del_1ce953a530de.md) ha disposto (con l'art. 7 comma 7) che e' abrogato l'[articolo 64 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), a partire dalla data di entrata in vigore del decreto di cui alla [lettera g) del comma 1 dell'articolo 2 della legge 9 maggio 1989, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168#art_2-com1-letg), come modificata dalla [lettera e) del comma 4 del D.Lgs. 204/1980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1980;204#art_com4-lete).
+Il [D. Lgs. 5 giugno 1998, n. 204](../Decreti%20Legislativi/Disposizioni%20per%20il%20coordinamento%20la%20programmazione%20e%20la%20valutazione%20della%20politica%20nazionale%20relativa%20alla%20ricerca%20scientifica%20e%20tecnologica%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20d%20del_1ce953a530de.md) ha disposto (con l'art. 7 comma 7) che e' abrogato l'[articolo 64 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), a partire dalla data di entrata in vigore del decreto di cui alla [lettera g) del comma 1 dell'articolo 2 della legge 9 maggio 1989, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168#art_2-com1-letg), come modificata dalla [lettera e) del comma 4 del D.Lgs. 204/1980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1980;204#art_com4-lete).
 
 ### Art. 65.
 
@@ -1086,7 +1086,7 @@ Il personale docente universitario, e i ricercatori che esplicano attivita' assi
 
 AGGIORNAMENTO (33)
 
-La [D. Lgs. 21 dicembre 1999, n.517](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20dei%20rapporti%20fra%20Servizio%20sanitario%20nazionale%20ed%20universita%20a%20norma%20dellarticolo%206%20della%20legge%2030%20novembre%201998%20n.%20419.md) ha disposto (con l'art. 6 comma 4) che sono abrogate le parti dell'[articolo 102 del decreto del Presidente della Repubblica n. 382/1980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980;382#art_102) che disciplinano l'attribuzione del trattamento economico integrativo.
+La [D. Lgs. 21 dicembre 1999, n.517](../Decreti%20Legislativi/Disciplina%20dei%20rapporti%20fra%20Servizio%20sanitario%20nazionale%20ed%20universita%20a%20norma%20dellarticolo%206%20della%20legge%2030%20novembre%201998%20n.%20419.md) ha disposto (con l'art. 6 comma 4) che sono abrogate le parti dell'[articolo 102 del decreto del Presidente della Repubblica n. 382/1980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980;382#art_102) che disciplinano l'attribuzione del trattamento economico integrativo.
 
 ### Art. 103. — Riconoscimenti ed equiparazioni di servizi
 

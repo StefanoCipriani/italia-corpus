@@ -14,4 +14,4 @@ vigente: true
 
 ## Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md) )).
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md) )).

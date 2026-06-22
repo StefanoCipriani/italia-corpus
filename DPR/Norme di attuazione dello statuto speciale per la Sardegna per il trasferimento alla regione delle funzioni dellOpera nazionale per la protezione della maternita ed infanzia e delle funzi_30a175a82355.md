@@ -22,8 +22,8 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 1.
 
-Sono trasferite alla regione autonoma della Sardegna le funzioni amministrative esercitate dall'O.N.M.I., che in tutto o in parte riguardano le materie di competenza regionale, previste dall'art. 4, punto 4), del [regio decreto 24 dicembre 1934, n. 2316](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20protezione%20ed%20assistenza%20della%20maternita%20ed%20infanzia%20034U2316.md), e successive modificazioni, nonche' le funzioni di programmazione e di indirizzo.
- Sono ugualmente trasferiti alla regione i poteri dell'O.N.M.I. di vigilanza e di controllo su tutte le istituzioni pubbliche e private per l'assistenza e protezione della maternita' e dell'infanzia, previsti dall'[art. 5 del regio decreto 24 dicembre 1934, n. 2316](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20protezione%20ed%20assistenza%20della%20maternita%20ed%20infanzia%20034U2316.md).
+Sono trasferite alla regione autonoma della Sardegna le funzioni amministrative esercitate dall'O.N.M.I., che in tutto o in parte riguardano le materie di competenza regionale, previste dall'art. 4, punto 4), del [regio decreto 24 dicembre 1934, n. 2316](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20protezione%20ed%20assistenza%20della%20maternita%20ed%20infanzia%20034U2316.md), e successive modificazioni, nonche' le funzioni di programmazione e di indirizzo.
+ Sono ugualmente trasferiti alla regione i poteri dell'O.N.M.I. di vigilanza e di controllo su tutte le istituzioni pubbliche e private per l'assistenza e protezione della maternita' e dell'infanzia, previsti dall'[art. 5 del regio decreto 24 dicembre 1934, n. 2316](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20protezione%20ed%20assistenza%20della%20maternita%20ed%20infanzia%20034U2316.md).
  Restano attribuite allo Stato e vengono esercitate dal Ministero della sanita' le funzioni di carattere internazionale gia' esercitate dall'O.N.M.I.
 
 ## Art. 2.

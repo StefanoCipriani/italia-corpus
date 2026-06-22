@@ -180,7 +180,7 @@ Il Comitato, presieduto dal Ministro per le politiche europee o da un suo delega
                         d)
                             dai dirigenti generali designati dalle amministrazioni interessate al contrasto delle frodi fiscali, agricole ed alla corretta utilizzazione dei fondi comunitari, che sono nominati dal Ministro per le politiche europee;
                         e)
-                            dai componenti designati dalla Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md).
+                            dai componenti designati dalla Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md).
 
 3.
 
@@ -199,7 +199,7 @@ La partecipazione al Comitato non comporta alcun onere economico a carico dell'a
 
 AGGIORNAMENTO (1)
 
-La [L. 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md) ha disposto (con l'art. 54, comma 1) che "Presso la Presidenza del Consiglio dei Ministri - Dipartimento per le politiche europee opera il Comitato previsto dall'articolo 3 del regolamento di cui al [decreto del Presidente della Repubblica 14 maggio 2007, n. 91](../Regolamenti%20governativi/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20nel%20Dipartimento%20per%20il%20coordinamento%20delle%20politiche%20comunitarie%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20conve_9b2efe6d69f2.md), che e' ridenominato «Comitato per la lotta contro le frodi nei confronti dell'Unione europea»".
+La [L. 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md) ha disposto (con l'art. 54, comma 1) che "Presso la Presidenza del Consiglio dei Ministri - Dipartimento per le politiche europee opera il Comitato previsto dall'articolo 3 del regolamento di cui al [decreto del Presidente della Repubblica 14 maggio 2007, n. 91](Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20nel%20Dipartimento%20per%20il%20coordinamento%20delle%20politiche%20comunitarie%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20conve_9b2efe6d69f2.md), che e' ridenominato «Comitato per la lotta contro le frodi nei confronti dell'Unione europea»".
 
 ## Art. 4. — Comitato tecnico permanente istituito ai sensi dell'articolo 2, comma 4, della legge 4 febbraio 2005, n. 11
 

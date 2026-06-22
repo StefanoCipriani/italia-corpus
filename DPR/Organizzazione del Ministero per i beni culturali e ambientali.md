@@ -118,7 +118,7 @@ Il [D.P.R. 29 dicembre 2000, n. 441](../Atti%20normativi%20abrogati%20%28in%20or
 
 AGGIORNAMENTO (6)
 
-Il [D.P.R. 2 luglio 2009, n. 91](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20ai%20decreti%20presidenziali%20di%20riorganizzazione%20del%20Ministero%20e%20di%20organizzazione%20degli%20Uffici%20di%20diretta%20collaborazione%20del%20Ministro%20per%20i%20beni%20e%20le%20attivita%20c_1a28b9010a67.md), ha disposto (con l'art. 2, comma 3) l'abrogazione del presente articolo limitatamente alla sua applicazione all'Opificio delle pietre dure e al Museo delle arti e tradizioni popolari.
+Il [D.P.R. 2 luglio 2009, n. 91](Regolamento%20recante%20modifiche%20ai%20decreti%20presidenziali%20di%20riorganizzazione%20del%20Ministero%20e%20di%20organizzazione%20degli%20Uffici%20di%20diretta%20collaborazione%20del%20Ministro%20per%20i%20beni%20e%20le%20attivita%20c_1a28b9010a67.md), ha disposto (con l'art. 2, comma 3) l'abrogazione del presente articolo limitatamente alla sua applicazione all'Opificio delle pietre dure e al Museo delle arti e tradizioni popolari.
 
 ### Art. 24.
 

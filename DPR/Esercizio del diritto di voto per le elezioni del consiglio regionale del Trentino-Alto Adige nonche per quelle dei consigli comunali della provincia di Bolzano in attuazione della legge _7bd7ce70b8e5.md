@@ -45,7 +45,7 @@ Sono elettori del Consiglio provinciale di Trento i cittadini che hanno compiuto
 
 2.
 
-I cittadini cancellati dall'anagrafe della popolazione residente per irreperibilita' accertata ai sensi dell'[articolo 11, comma 1, lettera c), del decreto del Presidente della Repubblica 30 maggio 1989, n. 223](../Regolamenti%20governativi/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md), sono elettori del Consiglio provinciale di Trento purche' si rendano nuovamente reperibili e siano stati in possesso dei requisiti per l'esercizio del diritto elettorale attivo di cui al comma l alla data della cancellazione.
+I cittadini cancellati dall'anagrafe della popolazione residente per irreperibilita' accertata ai sensi dell'[articolo 11, comma 1, lettera c), del decreto del Presidente della Repubblica 30 maggio 1989, n. 223](Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md), sono elettori del Consiglio provinciale di Trento purche' si rendano nuovamente reperibili e siano stati in possesso dei requisiti per l'esercizio del diritto elettorale attivo di cui al comma l alla data della cancellazione.
 
 ))
 

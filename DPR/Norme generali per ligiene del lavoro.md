@@ -118,7 +118,7 @@ CAPO II
 
 ### Art. 24.
 
-((IL [D.LGS. 9 APRILE 2008, N. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 9 APRILE 2008, N. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ### Art. 25.
 
@@ -182,7 +182,7 @@ CAPO IV
 
 ### Art. 38.
 
-((IL [D.LGS. 9 APRILE 2008, N. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 9 APRILE 2008, N. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ### Art. 39.
 

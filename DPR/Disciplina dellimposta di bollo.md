@@ -50,7 +50,7 @@ La [L. 19 gennaio 1985, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md), ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md), ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 3. — (Modi di pagamento).
 
@@ -62,7 +62,7 @@ L'imposta di bollo si corrisponde secondo le indicazioni della tariffa allegata:
                             b)
                                 in modo virtuale, mediante pagamento dell'imposta all'ufficio dell'Agenzia delle entrate o ad altri uffici autorizzati o mediante versamento in conto corrente postale.
 
-((1-bis. Per gli atti da registrare in termine fisso, ai sensi del testo unico delle disposizioni concernenti l'imposta di registro, di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), l'imposta di bollo e' assolta nel termine previsto per la registrazione dell'atto, con le modalita' di cui all'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md). Per i documenti analogici presentati per la registrazione in originale all'ufficio dell'Agenzia delle entrate, l'imposta di bollo puo' essere assolta anche mediante contrassegno telematico, ai sensi del comma 1, lettera a).))
+((1-bis. Per gli atti da registrare in termine fisso, ai sensi del testo unico delle disposizioni concernenti l'imposta di registro, di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), l'imposta di bollo e' assolta nel termine previsto per la registrazione dell'atto, con le modalita' di cui all'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md). Per i documenti analogici presentati per la registrazione in originale all'ufficio dell'Agenzia delle entrate, l'imposta di bollo puo' essere assolta anche mediante contrassegno telematico, ai sensi del comma 1, lettera a).))
 
 ((87))
 
@@ -78,7 +78,7 @@ In ogni caso l'imposta e' dovuta nella misura minima di euro 1,00, ad eccezione 
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md), ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md), ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 4. — Forma, valore e carattere distintivi della carta bollata, delle marche da bollo e dei bolli a punzone.
 
@@ -316,13 +316,13 @@ L'inosservanza degli obblighi stabiliti dall'articolo 19 e' punita, per ogni att
 
 AGGIORNAMENTO (71)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
 
 ------------
 
 AGGIORNAMENTO (72)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
 ### Art. 25. — Omesso od insufficiente pagamento dell'imposta ed omessa o infedele dichiarazione di conguaglio).
 
@@ -346,25 +346,25 @@ L'omessa o infedele dichiarazione di conguaglio prevista dal quinto e dall'ultim
 
 AGGIORNAMENTO (71)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
 
 ------------
 
 AGGIORNAMENTO (72)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
 --------------
 
 AGGIORNAMENTO (86)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 --------------
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md), ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md), ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 26. — (Violazioni in materia di uso delle macchine bollatrici).
 
@@ -376,7 +376,7 @@ L'utente delle macchine bollatrici che non osservi i divieti di cui all'ultimo c
 
 AGGIORNAMENTO (86)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ### Art. 27. — Violazioni costituenti reati
 

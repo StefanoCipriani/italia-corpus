@@ -26,27 +26,27 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 2.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
+((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
 
 ## Art. 3.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
+((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
 
 ## Art. 4.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
+((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
 
 ## Art. 5.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
+((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
 
 ## Art. 6.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
+((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
 
 ## Art. 7.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
+((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
 
 ## Art. 8.
 
@@ -58,15 +58,15 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 10.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
+((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
 
 ## Art. 11.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
+((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
 
 ## Art. 12.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
+((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
 
 ## Art. 13.
 
@@ -74,7 +74,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 14.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
+((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
 
 ## Art. 15.
 
@@ -87,7 +87,7 @@ Nelle materie non comprese fra quelle indicate all'art. 15 la Commissione nazion
 
 ## Art. 17.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
+((ARTICOLO ABROGATO DAL [D.LGS. 24 FEBBRAIO 1998, N.58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)))
 
 ## Art. 18. — Coordinamento tra forme di controllo ed ispezione
 

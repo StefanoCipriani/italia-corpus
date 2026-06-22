@@ -312,10 +312,10 @@ Nota all'art. 10:
 
 1.
 
-Il Garante stabilisce con proprio provvedimento l'ammontare dei diritti di segreteria inerenti ai ricorsi, alle richieste di autorizzazione e alle notificazioni, tenendo eventualmente conto anche dei relativi costi di gestione, nonche' le modalita' del loro pagamento, tenendo conto del disposto dell'articolo 12. Per la riscossione coattiva si applicano le disposizioni di cui al [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), e successive modificazioni ed integrazioni.
+Il Garante stabilisce con proprio provvedimento l'ammontare dei diritti di segreteria inerenti ai ricorsi, alle richieste di autorizzazione e alle notificazioni, tenendo eventualmente conto anche dei relativi costi di gestione, nonche' le modalita' del loro pagamento, tenendo conto del disposto dell'articolo 12. Per la riscossione coattiva si applicano le disposizioni di cui al [regio decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), e successive modificazioni ed integrazioni.
 
 Nota all'[art. 11:
- - Il regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), e successive modificazioni, reca: "Approvazione del testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato".
+ - Il regio decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), e successive modificazioni, reca: "Approvazione del testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato".
 
 ## Registro generale dei trattamenti
 

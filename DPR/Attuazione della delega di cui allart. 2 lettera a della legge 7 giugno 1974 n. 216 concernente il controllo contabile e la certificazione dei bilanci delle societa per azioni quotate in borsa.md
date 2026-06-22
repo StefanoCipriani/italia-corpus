@@ -24,7 +24,7 @@ vigente: true
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2) che il presente articolo continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del presente decreto.
+Il [D.Lgs. 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2) che il presente articolo continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del presente decreto.
 
 ## Art. 4.
 

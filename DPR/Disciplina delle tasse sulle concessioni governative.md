@@ -59,7 +59,7 @@ Le tasse per gli atti occorrenti nei procedimenti interessanti l'amministrazione
 
 ## Art. 7. — Riscossione coattiva
 
-Per la riscossione coattiva delle tasse e delle relative soprattasse si applicano e disposizioni del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
+Per la riscossione coattiva delle tasse e delle relative soprattasse si applicano e disposizioni del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 ## Art. 8. — Effetti del mancato o ritardato pagamento delle tasse
 
@@ -79,7 +79,7 @@ Il pubblico ufficiale che emette atti soggetti a tasse sulle concessioni governa
 
 AGGIORNAMENTO (45)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ## Art. 10. — Competenze per l'accertamento delle infrazioni e ripartizione del provento delle pene pecuniarie
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle leggi sui depositi franchi, approvato con [regio decreto 17 marzo 1938, n. 726](../Testi%20Unici/Testo%20unico%20di%20leggi%20sui%20Depositi%20franchi.%20038U0726.md), ed il relativo regolamento di esecuzione, approvato con il [regio decreto 17 giugno 1938, n. 856](../Regi%20decreti/Nuovo%20regolamento%20per%20lapplicazione%20del%20testo%20unico%20di%20leggi%20sui%20Depositi%20franchi.%20038U0856.md);
+Visto il testo unico delle leggi sui depositi franchi, approvato con [regio decreto 17 marzo 1938, n. 726](../Regi%20decreti/Testo%20unico%20di%20leggi%20sui%20Depositi%20franchi.%20038U0726.md), ed il relativo regolamento di esecuzione, approvato con il [regio decreto 17 giugno 1938, n. 856](../Regi%20decreti/Nuovo%20regolamento%20per%20lapplicazione%20del%20testo%20unico%20di%20leggi%20sui%20Depositi%20franchi.%20038U0856.md);
 
 Visto il testo unico delle disposizioni legislative in materia doganale approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md);
 

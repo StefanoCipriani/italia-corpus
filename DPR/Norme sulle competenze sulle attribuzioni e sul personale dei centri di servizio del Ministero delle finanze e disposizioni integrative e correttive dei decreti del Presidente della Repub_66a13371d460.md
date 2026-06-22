@@ -10,39 +10,39 @@ vigente: true
 
 ## Art. 1.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
 
 ## Art. 2.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
 
 ## Art. 3.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
 
 ## Art. 4.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
 
 ## Art. 5.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
 
 ## Art. 6.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
 
 ## Art. 7.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
 
 ## Art. 8.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
 
 ## Art. 9.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
 
 ## Art. 10. — Ricorsi
 
@@ -58,15 +58,15 @@ Il ricorso contro il ruolo formato ai sensi dell'art. 7 e' presentato con la spe
 
 ## Art. 11.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
 
 ## Art. 12.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
 
 ## Art. 13.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)))
 
 ## Art. 14.
 

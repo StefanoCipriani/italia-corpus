@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il testo unico delle leggi sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md);
+Visto il testo unico delle leggi sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md);
 
 Visto il [regio decreto 2 marzo 1931, n. 600](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20delle%20Commissioni%20locali%20di%20pesca.%20031U0600.md), con cui fu istituita in ciascun capoluogo di Provincia una Commissione locale per la pesca fluviale e lacuale;
 

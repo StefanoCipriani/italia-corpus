@@ -132,7 +132,7 @@ N O T E
  «Art. 18. (Disciplina di bilancio dell'Agenzia italiana per la cooperazione allo sviluppo). - 1.
  All'Agenzia e' attribuita autonomia organizzativa, regolamentare, amministrativa, patrimoniale, contabile e di bilancio. 
  2. I mezzi finanziari complessivi dell'Agenzia sono costituiti: 
- a) dalle risorse finanziarie trasferite da altre amministrazioni, secondo quanto disposto dall'[articolo 9, comma 2, del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md); 
+ a) dalle risorse finanziarie trasferite da altre amministrazioni, secondo quanto disposto dall'[articolo 9, comma 2, del decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md); 
  b) dagli introiti derivanti dalle convenzioni stipulate con le amministrazioni e altri soggetti pubblici o privati per le prestazioni di collaborazione, consulenza, assistenza, servizio, supporto, promozione; 
  c) da un finanziamento annuale iscritto in appositi capitoli dello stato di previsione del Ministero degli affari esteri e della cooperazione internazionale; 
  d) da donazioni, lasciti, legati e liberalita', debitamente accettati; 

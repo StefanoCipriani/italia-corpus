@@ -49,7 +49,7 @@ Hanno diritto ad una rappresentanza nel Consiglio superiore delle accademie e de
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 31 luglio 1954, n. 820](../Regolamenti%20governativi/Modificazioni%20al%20regolamento%20in%20esecuzione%20dellart.%2019%20della%20legge%2030%20dicembre%201947%20n.%201477%20concernente%20il%20Consiglio%20superiore%20delle%20accademie%20e%20delle%20biblioteche.md), ha disposto (con l'articolo unico) che "L'Accademia toscana di scienze e lettere "La Colombaria" di Firenze e l'Accademia peloritana di scienze e lettere di Messina sono comprese tra le Accademie e i Corpi scientifici, indicati nell'[art. 1 del decreto Presidenziale 1 marzo 1948, n. 351](Esecuzione%20della%20disposizione%20di%20cui%20allart.%2019%20della%20legge%2030%20dicembre%201947%20n.%201477%20sul%20riordinamento%20dei%20Corpi%20consultivi%20del%20Ministero%20della%20pubblica%20istruzione.md)".
+Il [D.P.R. 31 luglio 1954, n. 820](Modificazioni%20al%20regolamento%20in%20esecuzione%20dellart.%2019%20della%20legge%2030%20dicembre%201947%20n.%201477%20concernente%20il%20Consiglio%20superiore%20delle%20accademie%20e%20delle%20biblioteche.md), ha disposto (con l'articolo unico) che "L'Accademia toscana di scienze e lettere "La Colombaria" di Firenze e l'Accademia peloritana di scienze e lettere di Messina sono comprese tra le Accademie e i Corpi scientifici, indicati nell'[art. 1 del decreto Presidenziale 1 marzo 1948, n. 351](Esecuzione%20della%20disposizione%20di%20cui%20allart.%2019%20della%20legge%2030%20dicembre%201947%20n.%201477%20sul%20riordinamento%20dei%20Corpi%20consultivi%20del%20Ministero%20della%20pubblica%20istruzione.md)".
 
 ## Art. 2.
 

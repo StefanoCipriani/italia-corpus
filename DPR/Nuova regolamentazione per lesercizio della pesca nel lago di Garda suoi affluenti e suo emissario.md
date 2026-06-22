@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'art. 2 del testo unico delle leggi sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md);
+Visto l'art. 2 del testo unico delle leggi sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md);
 
 Visto il regolamento per la pesca fluviale e lacuale, approvato con [regio decreto 22 novembre 1914, n. 1486](../Regi%20decreti/Col%20quale%20e%20approvato%20un%20nuovo%20regolamento%20per%20la%20pesca%20fluviale%20e%20lacuale.%20014U1486.md), ed il regolamento sulla pesca e sui pescatori, approvato con [regio decreto 29 ottobre 1922, n. 1647](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20lege%2024%20marzo%201921%20n.%20312%20sulla%20pesca%20e%20sui%20pescatori.%20022U1647.md);
 
@@ -104,7 +104,7 @@ I proprietari o possessori di reti, le quali, in conseguenza dell'applicazione d
 
 ## Art. 12.
 
-Per le violazioni delle disposizioni degli articoli 3, primo e terzo comma, 4, 5, 6, 7, 8, 9 e 11 del presente regolamento si applica la pena dell'ammenda da L. 1600 a L. 8000, preveduta nell'art. 34 del testo unico delle leggi sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), gia' aggiornata con l'aumento disposto dall'[art. 7, comma secondo, del decreto legislativo 21 ottobre 1947, n. 1250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-10-21;1250#art_7-com2).
+Per le violazioni delle disposizioni degli articoli 3, primo e terzo comma, 4, 5, 6, 7, 8, 9 e 11 del presente regolamento si applica la pena dell'ammenda da L. 1600 a L. 8000, preveduta nell'art. 34 del testo unico delle leggi sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), gia' aggiornata con l'aumento disposto dall'[art. 7, comma secondo, del decreto legislativo 21 ottobre 1947, n. 1250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-10-21;1250#art_7-com2).
 
 ## Art. 13.
 

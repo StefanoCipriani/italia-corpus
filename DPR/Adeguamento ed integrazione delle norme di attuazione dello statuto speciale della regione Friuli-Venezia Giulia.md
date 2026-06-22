@@ -258,7 +258,7 @@ La sezione di cui al comma 1 e' composta da un presidente di sezione e da quattr
 
 3.
 
-Alla nomina di due consiglieri, rientranti nel contingente previsto dall'articolo 7 del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), provvede il Consiglio dei Ministri, su indicazione del Presidente della regione, da formulare con le modalita' di cui all'articolo 44 dello statuto della regione.
+Alla nomina di due consiglieri, rientranti nel contingente previsto dall'articolo 7 del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), provvede il Consiglio dei Ministri, su indicazione del Presidente della regione, da formulare con le modalita' di cui all'articolo 44 dello statuto della regione.
 
 4.
 
@@ -280,7 +280,7 @@ La sezione delibera il programma annuale di cui al comma 1, tenendo conto degli 
 
 3.
 
-La sezione regionale, oltre a riferire annualmente con una o piu' relazioni al consiglio regionale gli esiti del controllo sulle gestioni e ad assumere le decisioni in materia di parificazione del rendiconto generale della regione ai sensi del combinato disposto dell'articolo 36 del presente decreto e degli articoli 39 e 41 del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), presenta allo stesso consiglio una dichiarazione in cui attesta l'affidabilita' del conto e la legittimita' e la regolarita' delle relative operazioni, esplicitando le modalita' di verifica.
+La sezione regionale, oltre a riferire annualmente con una o piu' relazioni al consiglio regionale gli esiti del controllo sulle gestioni e ad assumere le decisioni in materia di parificazione del rendiconto generale della regione ai sensi del combinato disposto dell'articolo 36 del presente decreto e degli articoli 39 e 41 del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), presenta allo stesso consiglio una dichiarazione in cui attesta l'affidabilita' del conto e la legittimita' e la regolarita' delle relative operazioni, esplicitando le modalita' di verifica.
 
 4.
 

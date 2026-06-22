@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'art. 11 del testo unico delle disposizioni concernenti la, costituzione ed il funzionamento degli Istituti fisioterapici ospitalieri in Roma, approvato con [regio decreto 4 agosto 1932, n. 1296](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20costituzione%20ed%20il%20funzionamento%20dei%20Regi%20istituti%20fisioterapici%20ospitalieri%20in%20Roma.%20032U1296.md);
+Visto l'art. 11 del testo unico delle disposizioni concernenti la, costituzione ed il funzionamento degli Istituti fisioterapici ospitalieri in Roma, approvato con [regio decreto 4 agosto 1932, n. 1296](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20costituzione%20ed%20il%20funzionamento%20dei%20Regi%20istituti%20fisioterapici%20ospitalieri%20in%20Roma.%20032U1296.md);
 
 Visto il [regio decreto 6 luglio 1933, n. 1310](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%204%20agosto%201932%20n.%201296%20sulla%20costituzione%20ed%20il%20funzionamento%20dei%20Regi%20istituti%20fisioterapici%20ospitalieri%20di%20Roma.%20033U1310.md), concernente l'approvazione del regolamento per l'esecuzione del predetto testo unico;
 

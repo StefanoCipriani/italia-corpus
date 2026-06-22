@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA 
  
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87); 
- Visto il testo unico delle leggi sul Consiglio di Stato, approvato con [regio decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md); 
+ Visto il testo unico delle leggi sul Consiglio di Stato, approvato con [regio decreto 26 giugno 1924, n. 1054](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md); 
  Visto il [regio decreto 21 aprile 1942, n. 444](../Regi%20decreti/Regolamento%20per%20lesecuzione%20della%20legge%20sul%20Consiglio%20di%20Stato.%20042U0444.md), di approvazione del regolamento per l'esecuzione della legge sul Consiglio di Stato; 
  Vista la [legge 21 dicembre 1950, n. 1018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-12-21;1018), concernente modificazioni al testo unico delle leggi sul Consiglio di Stato; 
  Vista la [legge 27 aprile 1982, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-27;186), concernente "Ordinamento della giurisdizione amministrativa e del personale di segreteria ed ausiliario del Consiglio di Stato e dei tribunali amministrativi regionali"; 

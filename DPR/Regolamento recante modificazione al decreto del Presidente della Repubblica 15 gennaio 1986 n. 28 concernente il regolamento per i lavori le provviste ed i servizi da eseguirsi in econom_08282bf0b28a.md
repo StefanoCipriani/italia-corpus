@@ -16,7 +16,7 @@ Visto l'[art. 8 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/N
 
 Visto il [decreto del Presidente della Repubblica 30 novembre 1979, n. 718](Approvazione%20del%20regolamento%20per%20le%20gestioni%20dei%20cassieri%20e%20dei%20consegnatari%20delle%20amministrazioni%20dello%20Stato.md), di approvazione del regolamento per le gestioni affidate ai consegnatari-cassieri delle amministrazioni dello Stato;
 
-Visto il testo unico delle leggi sul Consiglio di Stato, approvato con [regio decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md);
+Visto il testo unico delle leggi sul Consiglio di Stato, approvato con [regio decreto 26 giugno 1924, n. 1054](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md);
 
 Visto il [decreto legislativo 5 maggio 1948, n. 642](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20accelerare%20i%20giudizi%20presso%20le%20Sezioni%20giurisdizionali%20del%20Consiglio%20di%20Stato.md);
 

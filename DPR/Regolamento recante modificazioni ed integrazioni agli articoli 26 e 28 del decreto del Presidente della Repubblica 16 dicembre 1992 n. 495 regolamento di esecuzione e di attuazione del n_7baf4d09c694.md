@@ -16,7 +16,7 @@ Visti i [decreti del Presidente della Repubblica 24 luglio 1977, numeri 616](Att
 
 Visto l'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
-Vista la [legge 13 giugno 1991, n. 190](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), ed in particolare l'art. 3 il quale prevede che con decreto del Presidente della Repubblica siano emanate norme regolamentari per l'esecuzione e l'attuazione del [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md);
+Vista la [legge 13 giugno 1991, n. 190](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), ed in particolare l'art. 3 il quale prevede che con decreto del Presidente della Repubblica siano emanate norme regolamentari per l'esecuzione e l'attuazione del [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md);
 
 Visto il [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), di approvazione del nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md);
 

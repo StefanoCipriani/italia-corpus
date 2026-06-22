@@ -217,7 +217,7 @@ Note all'art. 3:
  z) tutte le situazioni relative all'adempimento degli obblighi militari, ivi comprese quelle attestate nel foglio matricolare dello stato di servizio; 
  aa) di non aver riportato condanne penali e di non essere destinatario di provvedimenti che riguardano l'applicazione di misure di sicurezza e di misure di prevenzione, di decisioni civili e di provvedimenti amministrativi iscritti nel casellario giudiziale ai sensi della vigente normativa; 
  bb) di non essere a conoscenza di essere sottoposto a procedimenti penali; 
- bb-bis) di non essere l'ente destinatario di provvedimenti giudiziari che applicano le sanzioni amministrative di cui al [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md); 
+ bb-bis) di non essere l'ente destinatario di provvedimenti giudiziari che applicano le sanzioni amministrative di cui al [decreto legislativo 8 giugno 2001, n. 231](../Decreti%20Legislativi/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md); 
  cc) qualita' di vivenza a carico; 
  dd) tutti i dati a diretta conoscenza dell'interessato contenuti nei registri dello stato civile; 
  ee) di non trovarsi in stato di liquidazione o di fallimento e di non aver presentato domanda di concordato.» 

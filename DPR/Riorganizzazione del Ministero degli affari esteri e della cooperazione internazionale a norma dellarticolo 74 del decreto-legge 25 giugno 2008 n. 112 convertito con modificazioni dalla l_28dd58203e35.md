@@ -24,15 +24,15 @@ Vista la [legge 26 febbraio 1987, n. 49](https://www.normattiva.it/uri-res/N2Ls?
 
 Vista la [legge 22 dicembre 1990, n. 401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-22;401);
 
-Visto il [decreto legislativo 30 luglio 1999, n. 286](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20e%20potenziamento%20dei%20meccanismi%20e%20strumenti%20di%20monitoraggio%20e%20valutazione%20dei%20costi%20dei%20rendimenti%20e%20dei%20risultati%20dellattivita%20svolta%20dalle%20amministrazioni%20pubbliche%20a%20norma%20dell_79b83f91a15a.md);
+Visto il [decreto legislativo 30 luglio 1999, n. 286](../Decreti%20Legislativi/Riordino%20e%20potenziamento%20dei%20meccanismi%20e%20strumenti%20di%20monitoraggio%20e%20valutazione%20dei%20costi%20dei%20rendimenti%20e%20dei%20risultati%20dellattivita%20svolta%20dalle%20amministrazioni%20pubbliche%20a%20norma%20dell_79b83f91a15a.md);
 
-Visto il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni;
+Visto il [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni;
 
 Visto il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e successive modificazioni;
 
 Visto il [decreto legislativo 10 febbraio 2005, n. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md), e successive modificazioni;
 
-Visto il [decreto legislativo 27 ottobre 2009, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%204%20marzo%202009%20n.%2015%20in%20materia%20di%20ottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20di%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni.%2009G0164.md), di attuazione della [legge 4 marzo 2009, n. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20finalizzata%20allottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20alla%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni%20nonche%20disposizioni%20integrative%20dell_ca7c77713a76.md);
+Visto il [decreto legislativo 27 ottobre 2009, n. 150](../Decreti%20Legislativi/Attuazione%20della%20legge%204%20marzo%202009%20n.%2015%20in%20materia%20di%20ottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20di%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni.%2009G0164.md), di attuazione della [legge 4 marzo 2009, n. 15](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20finalizzata%20allottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20alla%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni%20nonche%20disposizioni%20integrative%20dell_ca7c77713a76.md);
 
 Vista la [legge 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125);
 
@@ -109,7 +109,7 @@ All'individuazione degli uffici di livello dirigenziale non generale, nel numero
 
 1.
 
-Nell'ambito delle funzioni previste dall'articolo 6, ((comma 1, terzo periodo)), del [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), il Segretario generale coadiuva direttamente il Ministro ai fini dell'elaborazione degli indirizzi e dei programmi del Ministero; sovrintende all'azione dell'Amministrazione e ne assicura la continuita' delle funzioni, coordinandone gli uffici e le attivita'.
+Nell'ambito delle funzioni previste dall'articolo 6, ((comma 1, terzo periodo)), del [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), il Segretario generale coadiuva direttamente il Ministro ai fini dell'elaborazione degli indirizzi e dei programmi del Ministero; sovrintende all'azione dell'Amministrazione e ne assicura la continuita' delle funzioni, coordinandone gli uffici e le attivita'.
 
 2.
 
@@ -125,7 +125,7 @@ La funzione di coordinamento e' volta ad assicurare, sotto i diversi aspetti, l'
 
 3-bis.
 
-Nell'ambito della Segreteria generale, opera l'Autorita' nazionale - UAMA di cui all'[articolo 7-bis della legge 9 luglio 1990, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;185#art_7bis), che attende al rilascio delle autorizzazioni per l'interscambio di armamenti e dei certificati per le imprese e agli altri compiti previsti dalla predetta legge e successive modificazioni; nonche' segue, d'intesa con le altre competenti amministrazioni dello Stato, le questioni di competenza del Ministero degli affari esteri e della cooperazione internazionale attinenti alla politica di esportazione ed importazione dei materiali a duplice uso e ad altri regimi di controllo conformemente al [decreto legislativo 15 dicembre 2017, n. 221](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20delega%20al%20Governo%20di%20cui%20allarticolo%207%20della%20legge%2012%20agosto%202016%20n.%20170%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20della%20normativa%20europea%20ai%20fini%20del%20_d12333656018.md).
+Nell'ambito della Segreteria generale, opera l'Autorita' nazionale - UAMA di cui all'[articolo 7-bis della legge 9 luglio 1990, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;185#art_7bis), che attende al rilascio delle autorizzazioni per l'interscambio di armamenti e dei certificati per le imprese e agli altri compiti previsti dalla predetta legge e successive modificazioni; nonche' segue, d'intesa con le altre competenti amministrazioni dello Stato, le questioni di competenza del Ministero degli affari esteri e della cooperazione internazionale attinenti alla politica di esportazione ed importazione dei materiali a duplice uso e ad altri regimi di controllo conformemente al [decreto legislativo 15 dicembre 2017, n. 221](../Decreti%20Legislativi/Attuazione%20della%20delega%20al%20Governo%20di%20cui%20allarticolo%207%20della%20legge%2012%20agosto%202016%20n.%20170%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20della%20normativa%20europea%20ai%20fini%20del%20_d12333656018.md).
 
 4.
 
@@ -222,9 +222,9 @@ La Direzione generale per ((l'Africa subsahariana, l'America latina, l'Asia e l'
                         d-bis)
                             tratta le questioni relative alle organizzazioni e istituzioni internazionali competenti per le materie di cui alle lettere ((a), c) e d);))
                         e)
-                            LETTERA NON PIU' PREVISTA DAL [D.P.R. 29 DICEMBRE 2016, N. 260](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2020%20della%20legge%2011%20agosto%202014%20n.%20125%20nonche%20altre%20modifiche%20allorganizzazione%20e%20ai%20posti%20di%20funzione%20di%20livello%20dirigenziale%20del%20Ministero%20degli%20aff_597b2e583bdb.md);
+                            LETTERA NON PIU' PREVISTA DAL [D.P.R. 29 DICEMBRE 2016, N. 260](Regolamento%20di%20attuazione%20dellarticolo%2020%20della%20legge%2011%20agosto%202014%20n.%20125%20nonche%20altre%20modifiche%20allorganizzazione%20e%20ai%20posti%20di%20funzione%20di%20livello%20dirigenziale%20del%20Ministero%20degli%20aff_597b2e583bdb.md);
                         f)
-                            LETTERA NON PIU' PREVISTA DAL [D.P.R. 29 DICEMBRE 2016, N. 260](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2020%20della%20legge%2011%20agosto%202014%20n.%20125%20nonche%20altre%20modifiche%20allorganizzazione%20e%20ai%20posti%20di%20funzione%20di%20livello%20dirigenziale%20del%20Ministero%20degli%20aff_597b2e583bdb.md);
+                            LETTERA NON PIU' PREVISTA DAL [D.P.R. 29 DICEMBRE 2016, N. 260](Regolamento%20di%20attuazione%20dellarticolo%2020%20della%20legge%2011%20agosto%202014%20n.%20125%20nonche%20altre%20modifiche%20allorganizzazione%20e%20ai%20posti%20di%20funzione%20di%20livello%20dirigenziale%20del%20Ministero%20degli%20aff_597b2e583bdb.md);
                         g)
                             promuove, d'intesa con le altre Direzioni generali competenti, le relazioni bilaterali di natura politica, economica, culturale e in ogni altro settore, attende ai relativi negoziati, cura l'analisi, la definizione e l'attuazione dell'azione diplomatica con i Paesi dell'Asia centro - meridionale e sud-orientale, dell'Estremo Oriente e Oceania, dell'America centrale e meridionale, dell'Africa sub-sahariana, salve ((le competenze della Direzione generale di cui al comma 1 e)) le modifiche che potranno essere disposte con riguardo a singoli Paesi o gruppi di Paesi individuati con decreto ministeriale;
                         h)
@@ -274,11 +274,11 @@ La Direzione generale per la ((crescita e la promozione delle esportazioni)) att
                         f)
                             adotta le opportune iniziative per agevolare l'attivita' presso universita' ed enti di ricerca italiani di docenti e ricercatori stranieri, nonche' l'attivita' presso universita' ed enti di ricerca straniera di docenti e ricercatori italiani;
                         g)
-                            LETTERA ABROGATA DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20ai%20regolamenti%20di%20cui%20ai%20decreti%20del%20Presidente%20della%20Repubblica%2019%20maggio%202010%20n.%2095%20e%201%20febbraio%202010%20n.%2054.%2021G00232.md);
+                            LETTERA ABROGATA DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](Regolamento%20recante%20modifiche%20ai%20regolamenti%20di%20cui%20ai%20decreti%20del%20Presidente%20della%20Repubblica%2019%20maggio%202010%20n.%2095%20e%201%20febbraio%202010%20n.%2054.%2021G00232.md);
                         h)
                             promuove, d'intesa con le competenti amministrazioni pubbliche, la collaborazione internazionale e bilaterale nel settore dello sport;
                         i)
-                            LETTERA SOPPRESSA DAL [D.P.R. 29 DICEMBRE 2016, N. 260](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2020%20della%20legge%2011%20agosto%202014%20n.%20125%20nonche%20altre%20modifiche%20allorganizzazione%20e%20ai%20posti%20di%20funzione%20di%20livello%20dirigenziale%20del%20Ministero%20degli%20aff_597b2e583bdb.md).
+                            LETTERA SOPPRESSA DAL [D.P.R. 29 DICEMBRE 2016, N. 260](Regolamento%20di%20attuazione%20dellarticolo%2020%20della%20legge%2011%20agosto%202014%20n.%20125%20nonche%20altre%20modifiche%20allorganizzazione%20e%20ai%20posti%20di%20funzione%20di%20livello%20dirigenziale%20del%20Ministero%20degli%20aff_597b2e583bdb.md).
 
 6.
 
@@ -328,7 +328,7 @@ La Direzione generale per la cooperazione allo sviluppo attende ai compiti ad es
 
 8-bis.
 
-PERIODO SOPPRESSO DAL [D.P.C.M. 25 SETTEMBRE 2023, N. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-09-25;163). I servizi di segretariato di cui al comma 8, lettera g), sono posti alle dipendenze di dirigenti o di funzionari della carriera diplomatica di grado non inferiore a consigliere di legazione. Nello svolgimento dei compiti di cui al comma 8 la Direzione generale opera in raccordo con l'Agenzia italiana per la cooperazione allo sviluppo con modalita' stabilite nella convenzione stipulata tra il Ministro e la predetta Agenzia ai sensi dell'[articolo 8, comma 4, lettera e), del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md).
+PERIODO SOPPRESSO DAL [D.P.C.M. 25 SETTEMBRE 2023, N. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-09-25;163). I servizi di segretariato di cui al comma 8, lettera g), sono posti alle dipendenze di dirigenti o di funzionari della carriera diplomatica di grado non inferiore a consigliere di legazione. Nello svolgimento dei compiti di cui al comma 8 la Direzione generale opera in raccordo con l'Agenzia italiana per la cooperazione allo sviluppo con modalita' stabilite nella convenzione stipulata tra il Ministro e la predetta Agenzia ai sensi dell'[articolo 8, comma 4, lettera e), del decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 8-ter.
 
@@ -369,7 +369,7 @@ La Direzione generale per le risorse e ((la formazione)) attende ai seguenti com
                         m)
                             cura le relazioni sindacali e la contrattazione collettiva integrativa;
                         n)
-                            LETTERA ABROGATA DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20ai%20regolamenti%20di%20cui%20ai%20decreti%20del%20Presidente%20della%20Repubblica%2019%20maggio%202010%20n.%2095%20e%201%20febbraio%202010%20n.%2054.%2021G00232.md);
+                            LETTERA ABROGATA DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](Regolamento%20recante%20modifiche%20ai%20regolamenti%20di%20cui%20ai%20decreti%20del%20Presidente%20della%20Repubblica%2019%20maggio%202010%20n.%2095%20e%201%20febbraio%202010%20n.%2054.%2021G00232.md);
                         o)
                             provvede alla formazione ed al perfezionamento professionale del personale del Ministero degli affari esteri, avvalendosi d'intesa con la Scuola nazionale dell'amministrazione con cui segue la preparazione degli aspiranti alla carriera diplomatica.
 
@@ -397,7 +397,7 @@ La Direzione generale per ((il patrimonio e l'amministrazione)) attende ai segue
 
 1.
 
-COMMA ABROGATO DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20ai%20regolamenti%20di%20cui%20ai%20decreti%20del%20Presidente%20della%20Repubblica%2019%20maggio%202010%20n.%2095%20e%201%20febbraio%202010%20n.%2054.%2021G00232.md).
+COMMA ABROGATO DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](Regolamento%20recante%20modifiche%20ai%20regolamenti%20di%20cui%20ai%20decreti%20del%20Presidente%20della%20Repubblica%2019%20maggio%202010%20n.%2095%20e%201%20febbraio%202010%20n.%2054.%2021G00232.md).
 
 2.
 
@@ -566,7 +566,7 @@ Fermo restando quanto previsto dal [decreto legislativo 30 marzo 2001, n. 165](.
 
 AGGIORNAMENTO (9)
 
-Il [D.P.R. 3 settembre 2025, n. 160](../Regolamenti%20governativi/Regolamento%20concernente%20modifiche%20al%20regolamento%20di%20organizzazione%20del%20Ministero%20degli%20affari%20esteri%20e%20della%20cooperazione%20internazionale%20di%20cui%20al%20decreto%20del%20Presidente%20della%20Repubblica%20_0d49561ded3a.md), ha disposto (con l'art. 1, comma 1, lettera g)) che al comma 2 del presente articolo "alla lettera b), numero 2), le parole: «l'innovazione e la Direzione generale l'amministrazione, l'informatica e le comunicazioni» sono sostituite dalle seguenti: «la formazione e la Direzione generale per il patrimonio e l'amministrazione»".
+Il [D.P.R. 3 settembre 2025, n. 160](Regolamento%20concernente%20modifiche%20al%20regolamento%20di%20organizzazione%20del%20Ministero%20degli%20affari%20esteri%20e%20della%20cooperazione%20internazionale%20di%20cui%20al%20decreto%20del%20Presidente%20della%20Repubblica%20_0d49561ded3a.md), ha disposto (con l'art. 1, comma 1, lettera g)) che al comma 2 del presente articolo "alla lettera b), numero 2), le parole: «l'innovazione e la Direzione generale l'amministrazione, l'informatica e le comunicazioni» sono sostituite dalle seguenti: «la formazione e la Direzione generale per il patrimonio e l'amministrazione»".
 
 ## Art. 10.
 

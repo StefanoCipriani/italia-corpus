@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il testo unico delle leggi sul nuovo catasto terreni, approvato con [regio decreto 8 ottobre 1931, numero 1572](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20nuovo%20catasto.%20031U1572.md);
+Visto il testo unico delle leggi sul nuovo catasto terreni, approvato con [regio decreto 8 ottobre 1931, numero 1572](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20nuovo%20catasto.%20031U1572.md);
 
 Visto l'art. 3 del regolamento approvato con [regio decreto 12 ottobre 1933, n. 1539](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20delle%20disposizioni%20legislative%20sul%20riordinamento%20dellimposta%20fondiaria.%20033U1539.md), per l'esecuzione del testo unico medesimo;
 

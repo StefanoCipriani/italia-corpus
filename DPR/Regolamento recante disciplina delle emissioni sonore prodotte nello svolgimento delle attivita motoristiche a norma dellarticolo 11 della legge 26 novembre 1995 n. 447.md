@@ -22,7 +22,7 @@ Visto il decreto del Ministro dell'ambiente 16 marzo 1998, pubblicato nella Gazz
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 10 novembre 2000;
 
-Acquisito il parere della Conferenza unificata, ai sensi dell'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), nella seduta del 1o febbraio 2001;
+Acquisito il parere della Conferenza unificata, ai sensi dell'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), nella seduta del 1o febbraio 2001;
 
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 26 febbraio 2001;
 

@@ -20,7 +20,7 @@ Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bila
 
 Visto il [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md);
 
-Visto il [decreto legislativo 10 settembre 1993, n. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md);
+Visto il [decreto legislativo 10 settembre 1993, n. 360](../Decreti%20Legislativi/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione dell'11 febbraio 1994;
 
@@ -38,7 +38,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-Il presente regolamento disciplina i procedimenti di rilascio della patente di guida ed i procedimenti ad esso connessi, regolati dagli [articoli 116 e seguenti del codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), emanato con il [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e modificato con il [decreto legislativo 10 settembre 1993, n. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md).
+Il presente regolamento disciplina i procedimenti di rilascio della patente di guida ed i procedimenti ad esso connessi, regolati dagli [articoli 116 e seguenti del codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), emanato con il [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e modificato con il [decreto legislativo 10 settembre 1993, n. 360](../Decreti%20Legislativi/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md).
 
 AVVERTENZA: 
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 

@@ -1127,7 +1127,7 @@ Le ipotesi di recupero devono essere programmate in maniera da essere perfettame
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con gli artt. 68, comma 1 e 134, comma 1) la modifica del comma 5 del presente articolo.
+Il [D.P.R. 28 novembre 1990, n. 384](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con gli artt. 68, comma 1 e 134, comma 1) la modifica del comma 5 del presente articolo.
 
 ### Art. 32. — Indumenti di lavoro
 
@@ -1165,7 +1165,7 @@ Il tempo impiegato per il consumo del pasto deve essere rilevato con normali mez
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con gli artt. 68, comma 2 e 134, comma 2) la modifica del comma 4 del presente articolo.
+Il [D.P.R. 28 novembre 1990, n. 384](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con gli artt. 68, comma 2 e 134, comma 2) la modifica del comma 4 del presente articolo.
 
 ### Art. 34. — Attivita' sociali, culturali, ricreative
 
@@ -1186,7 +1186,7 @@ Eventuali condizioni piu' favorevoli definite in sede di accordi decentrati sono
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con gli artt. 68, comma 3 e 134, comma 3) la modifica del comma 3 del presente articolo.
+Il [D.P.R. 28 novembre 1990, n. 384](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con gli artt. 68, comma 3 e 134, comma 3) la modifica del comma 3 del presente articolo.
 
 ### Art. 35. — ((Santo Patrono. ))
 
@@ -1415,7 +1415,7 @@ Livello 1°
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con l'art. 41,
+Il [D.P.R. 28 novembre 1990, n. 384](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con l'art. 41,
 commi 2, 3, 4, 5 e 6) che "Gli aumenti stipendiali annui lordi derivanti dall'applicazione dei nuovi trattamenti di cui al comma 1 sono attribuiti con decorrenza dal 1 luglio 1990.
  Dal 1 luglio 1988 al 30 settembre 1989 ai dipendenti di cui al
  comma 1 competono i seguenti aumenti stipendiali annui lordi:
@@ -1629,7 +1629,7 @@ Ai coordinatori amministrativi e sanitari di cui all'[art. 8 del decreto del Pre
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con gli artt. 46, comma 2 e 110, comma 6) che "A decorrere dal 1 dicembre 1990 le indennita' differenziate di coordinamento previste dall'[articolo 54 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), sono rideterminate, rispettivamente, in L. 3.780.000 e L. 4.860.000.
+Il [D.P.R. 28 novembre 1990, n. 384](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con gli artt. 46, comma 2 e 110, comma 6) che "A decorrere dal 1 dicembre 1990 le indennita' differenziate di coordinamento previste dall'[articolo 54 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), sono rideterminate, rispettivamente, in L. 3.780.000 e L. 4.860.000.
 Dalla stessa data l'indennita' di polizia giudiziaria di cui all'articolo 55 del medesimo decreto e' rideterminata in L. 1.400.000".
 
 ### Art. 55. — Indennita' di polizia giudiziaria
@@ -1642,7 +1642,7 @@ Al personale cui e' stata attribuita dall'autorita' competente la qualifica di a
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n.384](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con gli artt. 46, comma 2 e 110, comma 6) che "A decorrere dal 1 dicembre 1990 le indennita' differenziate di coordinamento previste dall'[articolo 54 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), sono rideterminate, rispettivamente, in L. 3.780.000 e L. 4.860.000.
+Il [D.P.R. 28 novembre 1990, n.384](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con gli artt. 46, comma 2 e 110, comma 6) che "A decorrere dal 1 dicembre 1990 le indennita' differenziate di coordinamento previste dall'[articolo 54 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), sono rideterminate, rispettivamente, in L. 3.780.000 e L. 4.860.000.
 Dalla stessa data l'indennita' di polizia giudiziaria di cui all'articolo 55 del medesimo decreto e' rideterminata in L. 1.400.000".
 
 ### Art. 56. — Indennita' per il personale infermieristico
@@ -1748,7 +1748,7 @@ Tale somma cessera' di essere corrisposta nel caso in cui i beneficiari dovesser
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con l'art. 45, comma 2) che "Agli ingegneri, architetti e geologi inquadrati nel IX livello retributivo, la somma annua lorda prevista dall'[articolo 61, comma 2, del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), e' elevata a L. 7.140.000 a decorrere dal 1 luglio 1990".
+Il [D.P.R. 28 novembre 1990, n. 384](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con l'art. 45, comma 2) che "Agli ingegneri, architetti e geologi inquadrati nel IX livello retributivo, la somma annua lorda prevista dall'[articolo 61, comma 2, del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), e' elevata a L. 7.140.000 a decorrere dal 1 luglio 1990".
 
 ### Art. 62. — Decorrenza degli aumenti
 
@@ -3085,7 +3085,7 @@ In caso di designazione non unitaria il rappresentante sindacale e' indicato dal
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384 (con l'art. 136, comma 2](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md)) ha disposto che "L'[articolo 79 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), e' abrogato anche per quanto attiene alle professionalita' mediche veterinarie."
+Il [D.P.R. 28 novembre 1990, n. 384 (con l'art. 136, comma 2](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md)) ha disposto che "L'[articolo 79 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), e' abrogato anche per quanto attiene alle professionalita' mediche veterinarie."
 
 ## ORGANIZZAZIONE DEL LAVORO  Capo I
 
@@ -3551,7 +3551,7 @@ L'indennita' medico veterinaria di ispezione, vigilanza e polizia veterinaria sp
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n.384 (con l'art. 108](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md)) ha disposto che "i valori stipendiali annui lordi di cui all'[articolo 92 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), comprensivi del conglobamento di L. 1.081.000 di cui all'[articolo 38 del decreto del Presidente della Repubblica 17 settembre 1987, n. 494](Norme%20risultanti%20dagli%20accordi%20contrattuali%20definiti%20con%20le%20organizzazioni%20sindacali%20per%20il%20triennio%201985-87%20relativi%20al%20personale%20dei%20Ministeri%20degli%20enti%20pubblici%20non%20economici%20degli%20en_fdc168e5c455.md), sono cosi' stabiliti, al 1 luglio 1990, data di decorrenza del regime:
+Il [D.P.R. 28 novembre 1990, n.384 (con l'art. 108](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md)) ha disposto che "i valori stipendiali annui lordi di cui all'[articolo 92 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), comprensivi del conglobamento di L. 1.081.000 di cui all'[articolo 38 del decreto del Presidente della Repubblica 17 settembre 1987, n. 494](Norme%20risultanti%20dagli%20accordi%20contrattuali%20definiti%20con%20le%20organizzazioni%20sindacali%20per%20il%20triennio%201985-87%20relativi%20al%20personale%20dei%20Ministeri%20degli%20enti%20pubblici%20non%20economici%20degli%20en_fdc168e5c455.md), sono cosi' stabiliti, al 1 luglio 1990, data di decorrenza del regime:
  Personale medico
  Assistente medico, stipendio a tempo pieno L. 18.071.000,
  stipendio a tempo definito .............. L. 13.553.000;
@@ -3649,7 +3649,7 @@ Tale indennita' viene attribuita nelle seguenti misure lorde fisse, per 12 mensi
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384 (con l'art. 114, comma 1](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md)) ha disposto che "Gli importi dell'indennita' differenziata di responsabilita' primariale, di cui all'[articolo 96 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), punti a) e b), sono rispettivamente rideterminati in L. 364.500 ed in L. 513.000 a decorrere dal 1 dicembre 1990."
+Il [D.P.R. 28 novembre 1990, n. 384 (con l'art. 114, comma 1](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md)) ha disposto che "Gli importi dell'indennita' differenziata di responsabilita' primariale, di cui all'[articolo 96 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), punti a) e b), sono rispettivamente rideterminati in L. 364.500 ed in L. 513.000 a decorrere dal 1 dicembre 1990."
 
 ### Art. 97. — Indennita' per i direttori degli Istituti zooprofilattici
 
@@ -3661,7 +3661,7 @@ Ai direttori degli Istituti zooprofilattici sperimentali e' attribuita l'indenni
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con l'art. 110, comma 6) che a decorrere dal 1 dicembre 1990 le indennita' di cui all'[articolo 97 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md) e' rideterminata in L. 3.780.000.
+Il [D.P.R. 28 novembre 1990, n. 384](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) ha disposto (con l'art. 110, comma 6) che a decorrere dal 1 dicembre 1990 le indennita' di cui all'[articolo 97 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md) e' rideterminata in L. 3.780.000.
 
 ### Art. 98. — Indennita' di rischio radiologico
 
@@ -4334,7 +4334,7 @@ Il Dipartimento della funzione pubblica, cui la legge demanda l'attivita' di ind
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 28 novembre 1990, n. 384 (con gli artt. 7, comma 1](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) e [77](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md), [comma 1](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md)) ha disposto la modifica del comma 6 del presente articolo.
+Il [D.P.R. 28 novembre 1990, n. 384 (con gli artt. 7, comma 1](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md) e [77](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md), [comma 1](Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%206%20aprile%201990%20concernente%20il%20personale%20del%20comparto%20del%20Servizio%20sanitario%20nazionale%20di%20cui_1ccf7d337466.md)) ha disposto la modifica del comma 6 del presente articolo.
 
 ### Art. 113. — Verifica
 

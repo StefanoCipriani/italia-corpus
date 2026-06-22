@@ -16,17 +16,17 @@ Visto l'[articolo 17, comma 4-bis, della legge 23 agosto 1988, n. 400](https://w
 
 Vista la [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e successive modificazioni;
 
-Visto il [decreto legislativo 7 agosto 1997, n. 279](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Individuazione%20delle%20unita%20previsionali%20di%20base%20del%20bilancio%20dello%20Stato%20riordino%20del%20sistema%20di%20tesoreria%20unica%20e%20ristrutturazione%20del%20rendiconto%20generale%20dello%20Stato.md);
+Visto il [decreto legislativo 7 agosto 1997, n. 279](../Decreti%20Legislativi/Individuazione%20delle%20unita%20previsionali%20di%20base%20del%20bilancio%20dello%20Stato%20riordino%20del%20sistema%20di%20tesoreria%20unica%20e%20ristrutturazione%20del%20rendiconto%20generale%20dello%20Stato.md);
 
-Visto il [decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md);
+Visto il [decreto legislativo 31 marzo 1998, n. 112](../Decreti%20Legislativi/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md);
 
-Visto il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
+Visto il [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
 
 Visto il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e successive modificazioni;
 
 Vista la [legge 6 luglio 2002, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md), recante delega per la riforma dell'organizzazione del Governo e della Presidenza del Consiglio dei Ministri, nonche' di enti pubblici;
 
-Visto il [decreto legislativo 12 giugno 2003, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20al%20decreto%20legislativo%2030%20luglio%201999%20n.%20300%20concernente%20la%20struttura%20organizzativa%20del%20Ministero%20delle%20infrastrutture%20e%20dei%20trasporti%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), recante riforma dell'organizzazione del Ministero delle infrastrutture e dei trasporti;
+Visto il [decreto legislativo 12 giugno 2003, n. 152](../Decreti%20Legislativi/Modifiche%20al%20decreto%20legislativo%2030%20luglio%201999%20n.%20300%20concernente%20la%20struttura%20organizzativa%20del%20Ministero%20delle%20infrastrutture%20e%20dei%20trasporti%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), recante riforma dell'organizzazione del Ministero delle infrastrutture e dei trasporti;
 
 Visto il [decreto legislativo 8 luglio 2003, n. 188](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202001-12-CE%202001-13-CE%20e%202001-14-CE%20in%20materia%20ferroviaria.md), in attuazione delle [direttive 2001/12/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;12), [2001/13/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;13) e [2001/14/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;14);
 
@@ -64,7 +64,7 @@ Capo I
 
 1.
 
-Il Ministero delle infrastrutture e dei trasporti, di seguito denominato: "Ministero", esercita le funzioni di cui all'[articolo 42 del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), come modificato dall'[articolo 2 del decreto legislativo 12 giugno 2003, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20al%20decreto%20legislativo%2030%20luglio%201999%20n.%20300%20concernente%20la%20struttura%20organizzativa%20del%20Ministero%20delle%20infrastrutture%20e%20dei%20trasporti%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md).
+Il Ministero delle infrastrutture e dei trasporti, di seguito denominato: "Ministero", esercita le funzioni di cui all'[articolo 42 del decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), come modificato dall'[articolo 2 del decreto legislativo 12 giugno 2003, n. 152](../Decreti%20Legislativi/Modifiche%20al%20decreto%20legislativo%2030%20luglio%201999%20n.%20300%20concernente%20la%20struttura%20organizzativa%20del%20Ministero%20delle%20infrastrutture%20e%20dei%20trasporti%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md).
 
 2.
 
@@ -146,7 +146,7 @@ Capo II
 
 1.
 
-I Dipartimenti del Ministero assicurano l'esercizio delle funzioni e dei compiti di spettanza statale nelle aree funzionali di cui all'[articolo 42 del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), come modificato dal [decreto legislativo 12 giugno 2003, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20al%20decreto%20legislativo%2030%20luglio%201999%20n.%20300%20concernente%20la%20struttura%20organizzativa%20del%20Ministero%20delle%20infrastrutture%20e%20dei%20trasporti%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), secondo la seguente ripartizione:
+I Dipartimenti del Ministero assicurano l'esercizio delle funzioni e dei compiti di spettanza statale nelle aree funzionali di cui all'[articolo 42 del decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), come modificato dal [decreto legislativo 12 giugno 2003, n. 152](../Decreti%20Legislativi/Modifiche%20al%20decreto%20legislativo%2030%20luglio%201999%20n.%20300%20concernente%20la%20struttura%20organizzativa%20del%20Ministero%20delle%20infrastrutture%20e%20dei%20trasporti%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), secondo la seguente ripartizione:
                             a)
                                 Dipartimento per il coordinamento dello sviluppo del territorio, il personale ed i servizi generali - identificazione delle linee fondamentali dell'assetto del territorio nazionale con particolare riferimento all'articolazione territoriale delle reti infrastrutturali e delle opere di competenza statale, nonche' al sistema delle citta' e delle aree metropolitane; rapporti con gli organismi nazionali ed internazionali e coordinamento con l'Unione europea in materia di governo del territorio e politica urbana; monitoraggio dei progetti internazionali e comunitari; profili comuni ed interdipartimentali del rapporto di lavoro, formazione e politiche del personale, bilancio, risorse strumentali; gestione del contenzioso del lavoro; gestione dei beni mobili ed immobili e della Cassa di previdenza assistenza; edilizia e impianti per gli immobili dell'Amministrazione decentrata; gestione dei sistemi informativi e statistici; nucleo di valutazione e verifica degli investimenti pubblici; attivita' per la salvaguardia di Venezia; indirizzo, coordinamento, monitoraggio e verifica dell'attivita' dei SIIT per le materie di competenza;
                             b)
@@ -158,7 +158,7 @@ I Dipartimenti del Ministero assicurano l'esercizio delle funzioni e dei compiti
 
 2.
 
-I Dipartimenti costituiscono centro di responsabilita' amministrativa ai sensi dell'[articolo 3 del decreto legislativo 7 agosto 1997, n. 279](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Individuazione%20delle%20unita%20previsionali%20di%20base%20del%20bilancio%20dello%20Stato%20riordino%20del%20sistema%20di%20tesoreria%20unica%20e%20ristrutturazione%20del%20rendiconto%20generale%20dello%20Stato.md).
+I Dipartimenti costituiscono centro di responsabilita' amministrativa ai sensi dell'[articolo 3 del decreto legislativo 7 agosto 1997, n. 279](../Decreti%20Legislativi/Individuazione%20delle%20unita%20previsionali%20di%20base%20del%20bilancio%20dello%20Stato%20riordino%20del%20sistema%20di%20tesoreria%20unica%20e%20ristrutturazione%20del%20rendiconto%20generale%20dello%20Stato.md).
 
 3.
 
@@ -755,11 +755,11 @@ Il [D.P.R. 8 dicembre 2007, n. 271](../Atti%20normativi%20abrogati%20%28in%20ori
 
 1.
 
-Ferme restando le competenze in materia infrastrutturale e trasportistica delle regioni, anche a statuto speciale, e delle province autonome di Trento e Bolzano, i SIIT assicurano, in sede decentrata, l'esercizio delle funzioni e dei compiti di spettanza statale nelle aree funzionali di cui all'[articolo 42 del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), come modificato dal [decreto legislativo 12 giugno 2003, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20al%20decreto%20legislativo%2030%20luglio%201999%20n.%20300%20concernente%20la%20struttura%20organizzativa%20del%20Ministero%20delle%20infrastrutture%20e%20dei%20trasporti%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md). In particolare, i SIIT svolgono, anche su base convenzionale, le funzioni di carattere amministrativo, operativo, gestionale ed i connessi servizi sulle materie della progettazione e realizzazione di opere pubbliche, repressione dell'abusivismo edilizio, vigilanza sugli enti gestori, demanio marittimo statale, navigazione, trasporto terrestre, sicurezza dei trasporti ad impianti fissi, circolazione e sicurezza stradale, espletamento del servizio di polizia stradale nonche' altre attivita' tecnico-amministrative su base convenzionale.
+Ferme restando le competenze in materia infrastrutturale e trasportistica delle regioni, anche a statuto speciale, e delle province autonome di Trento e Bolzano, i SIIT assicurano, in sede decentrata, l'esercizio delle funzioni e dei compiti di spettanza statale nelle aree funzionali di cui all'[articolo 42 del decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), come modificato dal [decreto legislativo 12 giugno 2003, n. 152](../Decreti%20Legislativi/Modifiche%20al%20decreto%20legislativo%2030%20luglio%201999%20n.%20300%20concernente%20la%20struttura%20organizzativa%20del%20Ministero%20delle%20infrastrutture%20e%20dei%20trasporti%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md). In particolare, i SIIT svolgono, anche su base convenzionale, le funzioni di carattere amministrativo, operativo, gestionale ed i connessi servizi sulle materie della progettazione e realizzazione di opere pubbliche, repressione dell'abusivismo edilizio, vigilanza sugli enti gestori, demanio marittimo statale, navigazione, trasporto terrestre, sicurezza dei trasporti ad impianti fissi, circolazione e sicurezza stradale, espletamento del servizio di polizia stradale nonche' altre attivita' tecnico-amministrative su base convenzionale.
 
 2.
 
-Fatto salvo quanto disposto dal [decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md) e dai conseguenti provvedimenti di attuazione, il Settore infrastrutture svolge le funzioni di competenza del SIIT nei seguenti ambiti di attivita':
+Fatto salvo quanto disposto dal [decreto legislativo 31 marzo 1998, n. 112](../Decreti%20Legislativi/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md) e dai conseguenti provvedimenti di attuazione, il Settore infrastrutture svolge le funzioni di competenza del SIIT nei seguenti ambiti di attivita':
                             a)
                                 opere pubbliche di competenza del Ministero delle infrastrutture e trasporti;
                             b)
@@ -789,7 +789,7 @@ Fatto salvo quanto disposto dal [decreto legislativo 31 marzo 1998, n. 112](../L
 
 3.
 
-Fatto salvo quanto disposto dal [decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md) e dai conseguenti provvedimenti di attuazione, il Settore trasporti svolge le funzioni di competenza del SIIT nei seguenti ambiti di attivita':
+Fatto salvo quanto disposto dal [decreto legislativo 31 marzo 1998, n. 112](../Decreti%20Legislativi/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md) e dai conseguenti provvedimenti di attuazione, il Settore trasporti svolge le funzioni di competenza del SIIT nei seguenti ambiti di attivita':
                             a)
                                 attivita' in materia di omologazione dei veicoli a motore, loro rimorchi, componenti ed unita' tecniche indipendenti;
                             b)
@@ -971,7 +971,7 @@ Il [D.P.R. 8 dicembre 2007, n. 271](../Atti%20normativi%20abrogati%20%28in%20ori
 
 1.
 
-Ogni due anni l'organizzazione del Ministero e' sottoposta a verifica, ai sensi dell'[articolo 4, comma 5, del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), al fine di accertarne la funzionalita' e l'efficienza.(2)((3))
+Ogni due anni l'organizzazione del Ministero e' sottoposta a verifica, ai sensi dell'[articolo 4, comma 5, del decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), al fine di accertarne la funzionalita' e l'efficienza.(2)((3))
 
 --------------------
 

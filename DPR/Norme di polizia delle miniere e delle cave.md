@@ -35,7 +35,7 @@ Le norme di polizia delle miniere e delle cave provvedono a tutelare la sicurezz
  d) ai lavori di frantumazione, vagliatura, squadratura e lizzatura dei prodotti delle cave ed alle operazioni di caricamento di tali prodotti dai piazzali.
  Non sono soggetti alle disposizioni del presente decreto:
  a) i lavori negli stabilimenti non compresi nel ciclo produttivo minerario aventi per oggetto la utilizzazione dei prodotti minerari - b) le escavazioni di sabbie e ghiaie effettuate in base ad autorizzazione dei competenti organi dello Stato nell'alveo dei corsi d'acqua e nelle spiagge del mare e dei laghi, sempre che i giacimenti di tali sabbie e ghiaie non formino oggetto di permesso di ricerca o concessione ai sensi del [regio decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md), modificato con [legge 7 novembre 1941, n. 1360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-11-07;1360).
- Nulla e' innovato circa la competenza del Ministero dell'interno in materia di tutela della pubblica incolumita' ai sensi del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e del relativo regolamento di esecuzione 6 maggio 1940, n. 635.
+ Nulla e' innovato circa la competenza del Ministero dell'interno in materia di tutela della pubblica incolumita' ai sensi del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e del relativo regolamento di esecuzione 6 maggio 1940, n. 635.
 
 ### Art. 2.
 
@@ -1830,13 +1830,13 @@ TITOLO VIII
 ### Art. 296.
 
 Nei lavori delle miniere e delle cave l'uso degli esplosivi e' consentito con le modalita' e le limitazioni del presente decreto. 
- Nei confronti degli imprenditori di miniere o di cave la concessione della licenza per il trasporto o il deposito di esplosivi, di cui agli [articoli 46](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [47 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 
-773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e' accordata su esibizione di una attestazione rilasciata dal Distretto minerario comprovante l'avvenuto adempimento dell'obbligo della denuncia di esercizio di cui agli articoli 24 e 28 del presente decreto. 
+ Nei confronti degli imprenditori di miniere o di cave la concessione della licenza per il trasporto o il deposito di esplosivi, di cui agli [articoli 46](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [47 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 
+773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e' accordata su esibizione di una attestazione rilasciata dal Distretto minerario comprovante l'avvenuto adempimento dell'obbligo della denuncia di esercizio di cui agli articoli 24 e 28 del presente decreto. 
  Idoneita' all'impiego minerario - Classifica ed elenco degli esplosivi degli accessori detonanti e dei mezzi di accensione.
 
 ### Art. 297.
 
-Nelle miniere e nelle cave e' vietato impiegare esplosivi da mina, accessori detonanti e mezzi di accensione non compresi tra quelli riconosciuti dal Ministero dell'interno ai sensi dell'[art. 53 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e riconosciuti idonei per lo impiego minerario dal Ministro per l'industria ed il commercio.
+Nelle miniere e nelle cave e' vietato impiegare esplosivi da mina, accessori detonanti e mezzi di accensione non compresi tra quelli riconosciuti dal Ministero dell'interno ai sensi dell'[art. 53 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e riconosciuti idonei per lo impiego minerario dal Ministro per l'industria ed il commercio.
 
 ### Art. 298.
 
@@ -2078,7 +2078,7 @@ Gli esplosivi allo stato granulare o pulverulento non possono essere versati sci
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 novembre 1996, n. 624](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-91-CEE%20relativa%20alla%20sicurezza%20e%20salute%20dei%20lavoratori%20nelle%20industrie%20estrattive%20per%20trivellazione%20e%20della%20direttiva%2092-104-CEE%20relativa%20alla%20sicurezza%20e%20sa_3c99c2196a3f.md) ha disposto (con l'art. 36, comma 1) che "Fermo restando il disposto dell'[articolo 46 del regio decreto 18 giugno 1931, n.773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e in deroga al [primo comma dell'articolo 336 del decreto del Presidente della Repubblica 9 aprile 1959 n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), la miscelazione dei prodotti utilizzati per il caricamento dei fori da mina, nonche' il caricamento stesso, possono essere effettuati con automezzi riconosciuti idonei dal Ministero dell'industria, del commercio e dell'artigianato ai sensi dell'[articolo 297 del decreto del Presidente della Repubblica n. 128 del 1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959;128#art_297), e conformemente alle prescrizioni stabilite, caso per caso, 
+Il [D.Lgs. 25 novembre 1996, n. 624](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-91-CEE%20relativa%20alla%20sicurezza%20e%20salute%20dei%20lavoratori%20nelle%20industrie%20estrattive%20per%20trivellazione%20e%20della%20direttiva%2092-104-CEE%20relativa%20alla%20sicurezza%20e%20sa_3c99c2196a3f.md) ha disposto (con l'art. 36, comma 1) che "Fermo restando il disposto dell'[articolo 46 del regio decreto 18 giugno 1931, n.773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e in deroga al [primo comma dell'articolo 336 del decreto del Presidente della Repubblica 9 aprile 1959 n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), la miscelazione dei prodotti utilizzati per il caricamento dei fori da mina, nonche' il caricamento stesso, possono essere effettuati con automezzi riconosciuti idonei dal Ministero dell'industria, del commercio e dell'artigianato ai sensi dell'[articolo 297 del decreto del Presidente della Repubblica n. 128 del 1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959;128#art_297), e conformemente alle prescrizioni stabilite, caso per caso, 
 dall'autorita' di vigilanza."
 
 ### Art. 337.
@@ -4209,7 +4209,7 @@ E' punita con l'ammenda da L. 100.000 a L. 1.000.000 la violazione delle norme d
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 19 dicembre 1994, n.758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 34) che "Nel [primo comma dell'art. 681 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), le parole: "con l'ammenda da lire 500.000 a lire 5.000.000" sono sostituite dalle seguenti: "con l'arresto da due a quattro mesi o con l'ammenda da lire tre milioni a lire venti milioni".
+Il [D.Lgs. 19 dicembre 1994, n.758](../Decreti%20Legislativi/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 34) che "Nel [primo comma dell'art. 681 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), le parole: "con l'ammenda da lire 500.000 a lire 5.000.000" sono sostituite dalle seguenti: "con l'arresto da due a quattro mesi o con l'ammenda da lire tre milioni a lire venti milioni".
 
 ### Art. 682.
 
@@ -4223,7 +4223,7 @@ applicano congiuntamente
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 19 dicembre 1994, n.758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 35) che "Il [primo comma dell'art. 682 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), e' cosi' modificato: 
+Il [D.Lgs. 19 dicembre 1994, n.758](../Decreti%20Legislativi/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 35) che "Il [primo comma dell'art. 682 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), e' cosi' modificato: 
  a) nella lettera a), le parole: "con l'arresto fino a sei mesi o con l'ammenda da lire 1.500.000 a lire 7.500.000" sono sostituite dalle seguenti: "con l'arresto da tre a sei mesi o con l'ammenda da lire cinque milioni a lire trenta milioni", e l'ultimo periodo e' soppresso; 
  b) nella lettera b), le parole: "con l'ammenda da lire 500.000 a lire 2.500.000" sono sostituite con le seguenti: "con l'arresto da due a quattro mesi o con l'ammenda da lire due milioni a lire dieci milioni"; 
  c) nella lettera c), le parole: "con l'ammenda da lire 150.000 a lire 750.000" sono sostituite con le seguenti: "con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire tre milioni".
@@ -4239,7 +4239,7 @@ I capi servizio, i sorveglianti e gli altri preposti sono puniti:
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 19 dicembre 1994, n.758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 36) che "Il [primo comma dell'art. 683 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), e' cosi' modificato: 
+Il [D.Lgs. 19 dicembre 1994, n.758](../Decreti%20Legislativi/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 36) che "Il [primo comma dell'art. 683 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), e' cosi' modificato: 
  a) nella lettera a), le parole: "con l'arresto fino a sei mesi o con l'ammenda da lire 150.000 a lire 750.000" sono sostituite dalle seguenti: "con l'arresto da due a sei mesi o con l'ammenda da lire tre milioni a lire otto milioni", e l'ultimo periodo e' soppresso; 
  b) nella lettera b), le parole: "con l'ammenda da lire 50.000 a lire 250.000" sono sostituite dalle seguenti: "con l'arresto da uno a tre mesi o con l'ammenda da lire un milione a lire quattro milioni"; 
  c) nella lettera c), le parole: "con l'ammenda da lire 15.000 a lire 75.000" sono sostituite dalle seguenti: "con l'arresto fino a due mesi o con l'ammenda da lire cinquecentomila a lire due milioni".
@@ -4255,7 +4255,7 @@ I lavoratori sono puniti:
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 19 dicembre 1994, n.758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 37) che "Il [primo comma dell'art. 684 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), e' cosi' modificato: 
+Il [D.Lgs. 19 dicembre 1994, n.758](../Decreti%20Legislativi/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 37) che "Il [primo comma dell'art. 684 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), e' cosi' modificato: 
  a) nella lettera a), le parole: "con l'ammenda da lire 50.000 a lire 150.000" sono sostituite dalle seguenti: "con l'ammenda da lire cinquecentomila a lire tre milioni", e l'ultimo periodo e' soppresso; 
  b) nella lettera b), le parole: "con l'ammenda da lire 15.000 a lire 50.000" sono sostituite con le seguenti: "con l'arresto fino ad un mese o con l'ammenda da lire trecentomila a lire un milione cinquecentomila"; 
  c) nella lettera c), le parole: "con l'ammenda da lire 5.000 a lire 25.000" sono sostituite dalle seguenti: "con l'arresto fino a quindici giorni o con l'ammenda da lire duecentomila a lire ottocentomila".
@@ -4268,7 +4268,7 @@ Fuori delle ipotesi previste dagli articoli precedenti, chiunque violi le norme 
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 19 dicembre 1994, n.758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 38) che "Nell'[art. 685 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), le parole: "con l'ammenda da lire 25.000 a lire 250.000" sono sostituite dalle seguenti: "con l'arresto fino a due mesi o con l'ammenda da lire trecentomila a lire due milioni".
+Il [D.Lgs. 19 dicembre 1994, n.758](../Decreti%20Legislativi/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 38) che "Nell'[art. 685 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), le parole: "con l'ammenda da lire 25.000 a lire 250.000" sono sostituite dalle seguenti: "con l'arresto fino a due mesi o con l'ammenda da lire trecentomila a lire due milioni".
 
 ### Art. 686.
 
@@ -4279,7 +4279,7 @@ I direttori, i capi servizio, i sorveglianti e gli altri preposti, nonche' i lav
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 19 dicembre 1994, n.758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 39) che " Nel [primo comma dell'art. 686 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), le parole: "con l'ammenda da lire 50.000 a lire 5.000.000" sono sostituite dalle seguenti: "con l'arresto da uno a sei mesi o con l'ammenda da lire tre milioni a lire venti milioni".
+Il [D.Lgs. 19 dicembre 1994, n.758](../Decreti%20Legislativi/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 39) che " Nel [primo comma dell'art. 686 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128](Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), le parole: "con l'ammenda da lire 50.000 a lire 5.000.000" sono sostituite dalle seguenti: "con l'arresto da uno a sei mesi o con l'ammenda da lire tre milioni a lire venti milioni".
 
 ## Disposizioni finali e transitorie
 

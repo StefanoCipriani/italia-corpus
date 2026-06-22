@@ -18,7 +18,7 @@ Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bila
 
 Visto l'[articolo 14 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md);
 
-Visto l'[articolo 7 del regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
+Visto l'[articolo 7 del regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 febbraio 1994;
 

@@ -74,7 +74,7 @@ Sono organi dell'Istituto:
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 6. — Composizione e funzionamento del comitato amministrativo
 
@@ -109,7 +109,7 @@ Il [D.L. 30 giugno 1982, n.390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 7. — Funzioni del comitato amministrativo
 
@@ -128,7 +128,7 @@ Il comitato amministrativo esercita le seguenti funzioni:
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 8. — Composizione e funzionamento del comitato esecutivo
 
@@ -161,7 +161,7 @@ rappresentante dell'ANCI."
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 9. — Comitato tecnico-scientifico
 
@@ -195,7 +195,7 @@ Il [D.L. 30 giugno 1982, n.390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 10. — Compiti del comitato tecnico-scientifico
 
@@ -209,7 +209,7 @@ Il comitato tecnico-scientifico esercita la consulenza scientifica in ordine all
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 11. — Attribuzioni del direttore dell'Istituto
 
@@ -224,7 +224,7 @@ Il direttore dell'Istituto e' responsabile dell'attuazione dei piani di attivita
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 12. — Commissione permanente del comitato amministrativo
 
@@ -238,7 +238,7 @@ Ferme restando le modalita' di collaborazione con le regioni, previste dal [quin
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 13. — Nomina del direttore dell'Istituto
 
@@ -251,7 +251,7 @@ L'ufficio del direttore dell'Istituto e' conferito con decreto del Presidente de
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ## ORGANIZZAZIONE INTERNA DELL'ISTITUTO
 
@@ -276,7 +276,7 @@ omologazione di cui al precedente articolo 2, primo comma."
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ## GESTIONE FINANZIARIA
 
@@ -292,13 +292,13 @@ Per la gestione finanziaria dell'Istituto si applicano le norme vigenti sulla co
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ---------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) come modificato dall'avviso di rettifica (in G.U 06/12/1993, n. 286) ha disposto (con l'art 5) l'abrogazione del comma 1 presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a 
+Il [D.Lgs. 30 giugno 1993, n.268](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) come modificato dall'avviso di rettifica (in G.U 06/12/1993, n. 286) ha disposto (con l'art 5) l'abrogazione del comma 1 presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a 
 decorrere dal 1 gennaio 1994."
 
 ## TRATTAMENTO DEL PERSONALE
@@ -318,7 +318,7 @@ Il trattamento del personale dell'Istituto e' regolato in conformita' della disc
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ## NORME TRANSITORIE
 
@@ -341,7 +341,7 @@ Il [D.L. 30 aprile 1981, n.169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 18. — Conferimento degli incarichi per il primo triennio
 
@@ -351,7 +351,7 @@ Il primo conferimento degli incarichi di direzione dei dipartimenti e di coordin
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 19. — Assegnazione di beni dei disciolti E.N.P.I. ed A.N.C.C.
 
@@ -375,7 +375,7 @@ Con decreto del Ministro della sanita', di concerto con il Ministro del tesoro, 
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 giugno 1993, n.268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
+Il [D.Lgs. 30 giugno 1993, n.268](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art 5) l'abrogazione del presente articolo con efficacia "dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza, e comunque a decorrere dal 1 gennaio 1994."
 
 ### Art. 21. — Coordinamento degli interventi per la Radioprotezione dei lavoratori e delle popolazioni
 

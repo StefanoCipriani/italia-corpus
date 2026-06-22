@@ -351,7 +351,7 @@ Le procedure da seguire per l'attuazione di quanto disposto dal presente articol
 
 AGGIORNAMENTO (6)
 
-Il [D.P.R. 15 dicembre 2001, n. 482](../Regolamenti%20governativi/Regolamento%20di%20semplificazione%20del%20procedimento%20per%20i%20pagamenti%20da%20e%20per%20lestero%20delle%20amministrazioni%20statali.md) ha disposto (con l'art. 9) che "sono soppressi nelle disposizioni normative i riferimenti al contabile del portafoglio".
+Il [D.P.R. 15 dicembre 2001, n. 482](Regolamento%20di%20semplificazione%20del%20procedimento%20per%20i%20pagamenti%20da%20e%20per%20lestero%20delle%20amministrazioni%20statali.md) ha disposto (con l'art. 9) che "sono soppressi nelle disposizioni normative i riferimenti al contabile del portafoglio".
 
 ### Art. 23. — Opposizioni al pagamento
 

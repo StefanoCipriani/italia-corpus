@@ -249,7 +249,7 @@ Per le liquidazioni di pensioni da effettuarsi su domanda, se questa e' presenta
 
 ### Art. 23.
 
-L'ultimo comma dell'art. 48 e l'art. 86 del testo unico sulle pensioni civili e militari, approvato con [regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni, sono abrogati.
+L'ultimo comma dell'art. 48 e l'art. 86 del testo unico sulle pensioni civili e militari, approvato con [regio decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni, sono abrogati.
 
 ## Riliquidazione delle pensioni
 
@@ -285,7 +285,7 @@ Nei casi di pensioni in parte a carico dello Stato o delle Amministrazioni indic
 L'aumento di pensione del 50 per cento di cui alla [legge 19 maggio 1954, n. 268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-05-19;268), e' esteso dalla data da cui ha effetto il presente decreto: 
  1) alle pensioni spettanti ai cittadini italiani profughi gia' gravanti sugli Enti locali o sugli Enti pubblici delle zone di confine passate sotto la sovranita' di altri Stati, il cui pagamento e' effettuato dallo Stato ai sensi del [regio decreto-legge 23 agosto 1943, n. 731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Autorizzazione%20al%20Ministro%20per%20le%20finanze%20a%20pagare%20dal%201%20luglio%201943%20a%20carico%20del%20bilancio%20statale%20le%20pensioni%20gravanti%20sui%20Comuni%20sulle%20Provincie%20e%20sulle%20Istituzioni%20pubbliche%20di%20benefic_7dd02202d5b2.md), del [decreto legislativo 18 gennaio 1947, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-01-18;69) e della [legge 12 febbraio 1955, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-02-12;44); 
  2) alle pensioni e agli assegni liquidati secondo le norme dei cessati Governi, preesistenti alla unificazione dello Stato italiano; 
-3) alle pensioni liquidate in base agli articoli 112 e 113 del testo unico approvato con [regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
+3) alle pensioni liquidate in base agli articoli 112 e 113 del testo unico approvato con [regio decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
 ((3a)) 
  
 -----------------

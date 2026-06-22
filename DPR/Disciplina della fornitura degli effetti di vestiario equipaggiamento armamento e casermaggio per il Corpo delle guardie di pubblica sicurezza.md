@@ -14,7 +14,7 @@ Visto il regolamento per il Corpo delle guardie di pubblica sicurezza, approvato
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'art. 35 del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), Visto il [regio decreto-legge 9 febbraio 1939, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-09;273), e sentita la Corte dei conti a sezioni riunite;
+Visto l'art. 35 del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), Visto il [regio decreto-legge 9 febbraio 1939, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-09;273), e sentita la Corte dei conti a sezioni riunite;
 
 Udito il parere del Consiglio di Stato in adunanza generale;
 
@@ -35,7 +35,7 @@ La Commissione per gli acquisti istituita presso la Direzione generale della pub
 
 Con decreto del Ministro per l'interno possono essere istituiti magazzini per la custodia e la conservazione dei materiali di cui al presente decreto.
  Con la stessa procedura sara' istituito un centro recuperi per la raccolta, utilizzazione ed alienazione dei materiali suddetti che siano fuori uso.
- Tanto i magazzini che il centro recuperi sono sottoposti al riscontro della Corte dei conti, a norma del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md).
+ Tanto i magazzini che il centro recuperi sono sottoposti al riscontro della Corte dei conti, a norma del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md).
 
 ## Art. 4.
 

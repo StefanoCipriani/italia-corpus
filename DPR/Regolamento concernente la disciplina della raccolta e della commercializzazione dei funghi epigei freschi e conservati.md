@@ -309,10 +309,10 @@ La vigilanza sull'applicazione della [legge 23 agosto 1993, n. 352](https://www.
 
 2.
 
-Le guardie giurate, addette ai compiti di vigilanza, devono possedere i requisiti di cui all'[art. 138 del regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), ed essere riconosciute dal prefetto competente per territorio.
+Le guardie giurate, addette ai compiti di vigilanza, devono possedere i requisiti di cui all'[art. 138 del regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), ed essere riconosciute dal prefetto competente per territorio.
 
 Nota all'art. 11:
- - Il testo dell'[art. 138 del regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) (Approvazione del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md)), e' il seguente:
+ - Il testo dell'[art. 138 del regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) (Approvazione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md)), e' il seguente:
  "Art. 138. - Le guardie particolari devono possedere i requisiti seguenti:
  1 essere cittadino italiano;
  2 avere raggiunto la maggiore eta' ed avere adempiuto agli obblighi di leva;

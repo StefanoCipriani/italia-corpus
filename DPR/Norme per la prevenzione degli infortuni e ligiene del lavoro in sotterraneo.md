@@ -310,11 +310,11 @@ Le imprese che impiegano esplosivi, oltre alle disposizioni delle leggi e dei re
 
 ### Art. 42.
 
-((ARTICOLO ABROGATO DAL [D. LGS. 9 APRILE 2008, N. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md) COME MODIFICATO DAL [D. LGS. 3 AGOSTO 2009, N. 106](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%209%20aprile%202008%20n.%2081%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.%2009G0119.md)))
+((ARTICOLO ABROGATO DAL [D. LGS. 9 APRILE 2008, N. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md) COME MODIFICATO DAL [D. LGS. 3 AGOSTO 2009, N. 106](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%209%20aprile%202008%20n.%2081%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.%2009G0119.md)))
 
 ### Art. 43.
 
-((ARTICOLO ABROGATO DAL [D. LGS. 9 APRILE 2008, N. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md) COME MODIFICATO DAL [D. LGS. 3 AGOSTO 2009, N. 106](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%209%20aprile%202008%20n.%2081%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.%2009G0119.md)))
+((ARTICOLO ABROGATO DAL [D. LGS. 9 APRILE 2008, N. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md) COME MODIFICATO DAL [D. LGS. 3 AGOSTO 2009, N. 106](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%209%20aprile%202008%20n.%2081%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.%2009G0119.md)))
 
 ### Art. 44. — Controllo della temperatura all'interno dei depositi
 
@@ -705,7 +705,7 @@ I datori di lavoro e i dirigenti sono puniti:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 19 dicembre 1994, n. 758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto: 
+Il [D.Lgs. 19 dicembre 1994, n. 758](../Decreti%20Legislativi/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto: 
  - (con l'art. 26, comma 19, lettera a)) che "nella lettera a), le parole: "con l'ammenda da lire 1.000.000 a lire 1.500.000" sono sostituite dalle seguenti: "con l'arresto da tre a sei mesi o con l'ammenda da lire tre milioni a lire otto milioni""; 
  - (con l'art. 26, comma 19, lettera b)) che "nella lettera b), le parole: "con l'ammenda da lire 500.000 a lire 1.000.000" sono sostituite con le seguenti: "con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire cinque milioni""; 
  - (con l'art. 26, comma 19, lettera c)) che "nella lettera c), le parole: "con l'ammenda da lire 250.000 a lire 500.000" sono sostituite con le seguenti: "con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire due milioni"".
@@ -720,7 +720,7 @@ I preposti sono puniti:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 19 dicembre 1994, n. 758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 20) che
+Il [D.Lgs. 19 dicembre 1994, n. 758](../Decreti%20Legislativi/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 20) che
  "a) nella lettera a), le parole: "con l'ammenda da lire 50.000 a lire 100.000" sono sostituite dalle seguenti: "con l'arresto da uno a tre mesi o con l'ammenda da lire un milione a lire quattro milioni", e l'ultimo periodo e' soppresso;
  b) nella lettera b), le parole: "con l'ammenda da lire 25.000 a lire 50.000" sono sostituite con le seguenti: "con l'arresto fino a due mesi o con l'ammenda da lire cinquecentomila a lire due milioni"
 
@@ -734,7 +734,7 @@ I lavoratori sono puniti:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 19 dicembre 1994, n. 758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 21) che
+Il [D.Lgs. 19 dicembre 1994, n. 758](../Decreti%20Legislativi/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md) ha disposto (con l'art. 26, comma 21) che
  "a) nella lettera a), le parole: "con l'ammenda da lire 12.500 a lire 25.000" sono sostituite dalle seguenti: "con l'arresto fino ad un mese o con l'ammenda da lire trecentomila a lire un milionecinquecentomila", e l'ultimo periodo e' soppresso;
  b) nella lettera b), le parole: "con l'ammenda da lire 5.000 a lire 12.500" sono sostituite con le seguenti: "con l'arresto fino a quindici giorni o con l'ammenda da lire duecentomila a lire ottocentomila".
 

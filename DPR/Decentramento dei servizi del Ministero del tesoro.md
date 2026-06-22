@@ -154,7 +154,7 @@ Le disposizioni di cui ai precedenti articoli 16,17 non si applicano ai rendicon
 
 AGGIORNAMENTO (5)
 
-Il [D.LGS. 5 dicembre 1997, n. 430](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Unificazione%20dei%20Ministeri%20del%20tesoro%20e%20del%20bilancio%20e%20della%20programmazione%20economica%20e%20riordino%20delle%20competenze%20del%20CIPE%20a%20norma%20dellarticolo%207%20della%20legge%203%20aprile%201997%20n.%2094.md) ha disposto (con l'art.14, comma 2, lettera D)) che con effetto dalla data di entrata in vigore del regolamento previsto dall'articolo 3, comma 3, sono o restano abrogati gli articoli 12, 15, primo comma, lettera a), 17-bis, limitatamente alla denominazione "ragionerie regionali dello Stato", e 34 del [decreto del Presidente della Repubblica 30 giugno 1955, n. 1544](Decentramento%20dei%20servizi%20del%20Ministero%20del%20tesoro.md).
+Il [D.LGS. 5 dicembre 1997, n. 430](../Decreti%20Legislativi/Unificazione%20dei%20Ministeri%20del%20tesoro%20e%20del%20bilancio%20e%20della%20programmazione%20economica%20e%20riordino%20delle%20competenze%20del%20CIPE%20a%20norma%20dellarticolo%207%20della%20legge%203%20aprile%201997%20n.%2094.md) ha disposto (con l'art.14, comma 2, lettera D)) che con effetto dalla data di entrata in vigore del regolamento previsto dall'articolo 3, comma 3, sono o restano abrogati gli articoli 12, 15, primo comma, lettera a), 17-bis, limitatamente alla denominazione "ragionerie regionali dello Stato", e 34 del [decreto del Presidente della Repubblica 30 giugno 1955, n. 1544](Decentramento%20dei%20servizi%20del%20Ministero%20del%20tesoro.md).
 
 ### Art. 18.
 

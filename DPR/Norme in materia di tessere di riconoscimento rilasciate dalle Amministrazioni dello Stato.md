@@ -47,7 +47,7 @@ La tessera personale di riconoscimento e' documento valido ai fini dell'identita
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 13 novembre 1976, n. 904](../Regolamenti%20governativi/Modificazioni%20agli%20articoli%2048%20primo%20comma%20250%20e%20420%20quarto%20comma%20del%20regolamento%20per%20lamministrazione%20del%20patrimonio%20e%20per%20la%20contabilita%20generale%20dello%20Stato%20approvato%20con%20regio%20decreto_78f444a457f6.md) ha disposto (con l'art. 4, comma 1) che "Il limite di L. 600.000 di cui alla [lettera a) dell'art. 2 del decreto del Presidente della Repubblica 28 luglio 1967, n. 851](Norme%20in%20materia%20di%20tessere%20di%20riconoscimento%20rilasciate%20dalle%20Amministrazioni%20dello%20Stato.md), e' elevato a lire 2.400.000".
+Il [D.P.R. 13 novembre 1976, n. 904](Modificazioni%20agli%20articoli%2048%20primo%20comma%20250%20e%20420%20quarto%20comma%20del%20regolamento%20per%20lamministrazione%20del%20patrimonio%20e%20per%20la%20contabilita%20generale%20dello%20Stato%20approvato%20con%20regio%20decreto_78f444a457f6.md) ha disposto (con l'art. 4, comma 1) che "Il limite di L. 600.000 di cui alla [lettera a) dell'art. 2 del decreto del Presidente della Repubblica 28 luglio 1967, n. 851](Norme%20in%20materia%20di%20tessere%20di%20riconoscimento%20rilasciate%20dalle%20Amministrazioni%20dello%20Stato.md), e' elevato a lire 2.400.000".
 
 ## Art. 3.
 

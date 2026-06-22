@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 2 aprile 1885, n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md), che approva il testo unico della [legge 16 luglio 1884, n. 2518](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20classificazione%20dei%20porti%20sulle%20spese%20per%20i%20medesimi%20e%20sulla%20designazione%20delle%20opere%20marittime.%20084U2518.md), con le disposizioni del titolo IV, SUi porti, spiagge e fari ed il relativo regolamento approvato con [regio decreto 26 settembre 1904, n. 713](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%202%20aprile%201885%20testo%20unico%20n.%203095%20sui%20porti%20spiaggie%20e%20fari.%20004U0713.md);
+ Visto il [regio decreto 2 aprile 1885, n. 3095](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md), che approva il testo unico della [legge 16 luglio 1884, n. 2518](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20classificazione%20dei%20porti%20sulle%20spese%20per%20i%20medesimi%20e%20sulla%20designazione%20delle%20opere%20marittime.%20084U2518.md), con le disposizioni del titolo IV, SUi porti, spiagge e fari ed il relativo regolamento approvato con [regio decreto 26 settembre 1904, n. 713](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%202%20aprile%201885%20testo%20unico%20n.%203095%20sui%20porti%20spiaggie%20e%20fari.%20004U0713.md);
  Considerato che lungo il litorale meridionale della Sicilia non esiste alcun porto di rifugio in cui il naviglio, sorpreso da fortunale durante la navigazione, possa ricoverarsi;
  Ritenuta la necessita' di provvedere, nell'interesse della navigazione generale, alla creazione di un portorifugio lungo il suddetto tratto di litorale;
  Considerato che il porto di Gela, classificato nella seconda categoria, classe seconda, serie seconda nei riguardi del commercio, ha i necessari requisiti per la creazione di un porto-rifugio;
@@ -24,7 +24,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Decreta:
 
- Il porto di Gela, ai fini della sua utilizzazione come porto rifugio nell'interesse della navigazione generale e' iscritto, ai sensi e per gli effetti del [regio decreto 2 aprile 1885, n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md), nella prima categoria, ferma restando, nei riguardi del commercio, l'attuale iscrizione del porto stesso nella seconda categoria, classe seconda, serie seconda.
+ Il porto di Gela, ai fini della sua utilizzazione come porto rifugio nell'interesse della navigazione generale e' iscritto, ai sensi e per gli effetti del [regio decreto 2 aprile 1885, n. 3095](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md), nella prima categoria, ferma restando, nei riguardi del commercio, l'attuale iscrizione del porto stesso nella seconda categoria, classe seconda, serie seconda.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale del leggi dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

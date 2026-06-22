@@ -383,7 +383,7 @@ Note all'art. 17:
  Su richiesta del concessionario, il Ministro per l'economia nazionale puo' ordinare l'occupazione d'urgenza, determinando provvisoriamente l'indennita' e disponendone il deposito".
  "Art. 39. - Sulla rinuncia provvede il Ministro per l'economia nazionale, sentito il parere del Consiglio superiore delle miniere".
  "Art. 41. - La decadenza dalla concessione e' pronunciata, previa contestazione dei motivi al concessionario, con decreto del Ministro per l'economia nazionale, sentito il Consiglio superiore delle miniere.
- Contro il decreto che pronuncia la decadenza, e' ammesso ricorso al consiglio di Stato, in sede giurisdizionale, nei casi preveduti dall'art. 26 del testo unico delle leggi sul Consiglio di Stato, approvato con [regio decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md)".
+ Contro il decreto che pronuncia la decadenza, e' ammesso ricorso al consiglio di Stato, in sede giurisdizionale, nei casi preveduti dall'art. 26 del testo unico delle leggi sul Consiglio di Stato, approvato con [regio decreto 26 giugno 1924, n. 1054](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md)".
 
 ### Art. 18. — Entrata in vigore
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 16 del decreto legislativo 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md), recante norme per il coordinamento delle disposizioni in materia di sistemi informativi automatizzati delle amministrazioni pubbliche con quelle concernenti la sicurezza dello Stato;
+Visto l'[art. 16 del decreto legislativo 12 febbraio 1993, n. 39](../Decreti%20Legislativi/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md), recante norme per il coordinamento delle disposizioni in materia di sistemi informativi automatizzati delle amministrazioni pubbliche con quelle concernenti la sicurezza dello Stato;
 
 Vista la [legge 24 ottobre 1977, n. 801](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md), sull'istituzione e ordinamento dei Servizi per le informazioni e la sicurezza e disciplina del segreto di Stato ed in particolare gli articoli 1, 2, 3, 4, 5, 6, 7, 9, 10 e 12 della medesima legge;
 
@@ -36,7 +36,7 @@ Ai fini del presente regolamento si intende:
                         a)
                             per legge, la [legge 24 ottobre 1977, n. 801](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md);
                         b)
-                            per decreto legislativo, il [decreto legislativo 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
+                            per decreto legislativo, il [decreto legislativo 12 febbraio 1993, n. 39](../Decreti%20Legislativi/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
                         c)
                             per Organismi, gli Organismi di informazione e di sicurezza di cui agli [articoli 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md), [4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md) e [6 della legge 24 ottobre 1977, n. 801](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md);
                         d)

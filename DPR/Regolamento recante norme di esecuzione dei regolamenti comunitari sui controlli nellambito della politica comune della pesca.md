@@ -18,7 +18,7 @@ Visto il regolamento (CE) n. 686/97 del Consiglio del 14 aprile 1997, che modifi
 
 Vista la [legge 14 luglio 1965, n. 963](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20pesca%20marittima.md), recante disciplina della pesca ma rittima, e successive modificazioni;
 
-Visto l'[articolo 2 del decreto legislativo 4 giugno 1997, n. 143](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20alle%20regioni%20delle%20funzioni%20amministrative%20in%20materia%20di%20agricoltura%20e%20pesca%20e%20riorganizzazione%20dellAmministrazione%20centrale.md), recante conferimento alle regioni delle funzioni amministrative in materia di agricoltura e pesca e riorganizzazione dell'Amministrazione centrale;
+Visto l'[articolo 2 del decreto legislativo 4 giugno 1997, n. 143](../Decreti%20Legislativi/Conferimento%20alle%20regioni%20delle%20funzioni%20amministrative%20in%20materia%20di%20agricoltura%20e%20pesca%20e%20riorganizzazione%20dellAmministrazione%20centrale.md), recante conferimento alle regioni delle funzioni amministrative in materia di agricoltura e pesca e riorganizzazione dell'Amministrazione centrale;
 
 Vista la [legge 17 febbraio 1982, n. 41](../Atti%20normativi%20abrogati%20%28in%20originale%29/Piano%20per%20la%20razionalizzazione%20e%20lo%20sviluppo%20della%20pesca%20marittima.md), recante Piano per la realizzazione e lo sviluppo della pesca marittima, cosi' come modificata dalla [legge 10 febbraio 1992, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;165);
 

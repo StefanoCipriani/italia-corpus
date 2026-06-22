@@ -95,7 +95,7 @@ Il personale che abbia conseguito la predetta qualifica e' autorizzato a portare
 
 ### Art. 13.
 
-Sono attribuite ai comuni le seguenti funzioni di cui al [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e successive modificazioni:
+Sono attribuite ai comuni le seguenti funzioni di cui al [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e successive modificazioni:
  1) il rilascio della licenza prevista dall'art. 60 e dalle altre disposizioni speciali vigenti in materia di impianto ed esercizio di ascensori per il trasporto di persone o di materiali;
  2) il rilascio della licenza per l'esercizio del mestiere di guida, interprete, corriere o portatore alpino e per l'insegnamento dello sci, di cui all'art. 123;
  3) la ricezione dell'avviso preventivo per le riprese cinematografiche in luogo pubblico o aperto al pubblico, previsto dall'art. 76;

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [regio decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md), con il quale e' stato approvato il testo unico delle leggi sul Consiglio di Stato;
+Visto il [regio decreto 26 giugno 1924, n. 1054](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md), con il quale e' stato approvato il testo unico delle leggi sul Consiglio di Stato;
 
 Visto il [regio decreto 21 aprile 1942, n. 444](../Regi%20decreti/Regolamento%20per%20lesecuzione%20della%20legge%20sul%20Consiglio%20di%20Stato.%20042U0444.md), concernente il regolamento per l'esecuzione delle leggi sul Consiglio di Stato;
 

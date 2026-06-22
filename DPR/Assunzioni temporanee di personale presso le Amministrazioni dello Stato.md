@@ -47,7 +47,7 @@ Presso gli uffici centrali e periferici determinati con provvedimento del Minist
 
 ## Art. 4. — null
 
-Il procuratore generale della Corte dei conti, d'ufficio o su segnalazione dell'amministrazione, ovvero della competente ragioneria centrale, promuove il giudizio a carico del responsabile ai termini degli articoli 52 e 53 del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214, e degli articoli 43 e seguenti](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md) del regolamento di procedura approvato con [regio decreto 13 agosto 1933, n. 1038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20procedura%20per%20i%20giudizi%20innanzi%20alla%20Corte%20dei%20conti.%20033U1038.md).
+Il procuratore generale della Corte dei conti, d'ufficio o su segnalazione dell'amministrazione, ovvero della competente ragioneria centrale, promuove il giudizio a carico del responsabile ai termini degli articoli 52 e 53 del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214, e degli articoli 43 e seguenti](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md) del regolamento di procedura approvato con [regio decreto 13 agosto 1933, n. 1038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20procedura%20per%20i%20giudizi%20innanzi%20alla%20Corte%20dei%20conti.%20033U1038.md).
 
 ## Art. 5.
 

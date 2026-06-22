@@ -95,7 +95,7 @@ Relativamente ai servizi di cui al comma 6, le province autonome di Trento e di 
 
 Successivamente alla data del 31 dicembre 2003 le province stipulano, nel rispetto della normativa comunitaria e di quella provinciale emanata nei limiti di cui all'articolo 8 dello statuto di autonomia, nuovi contratti di servizio con imprese ferroviarie da individuare secondo la normativa medesima.
 
-10. Le province autonome di Trento e di Bolzano partecipano al riparto dei fondi di cui all'[articolo 20 del decreto legislativo 19 novembre 1997, n. 422](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20alle%20regioni%20ed%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20trasporto%20pubblico%20locale%20a%20norma%20dellarticolo%204%20comma%204%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni, secondo i criteri stabiliti dal medesimo decreto per le regioni a statuto ordinario ))
+10. Le province autonome di Trento e di Bolzano partecipano al riparto dei fondi di cui all'[articolo 20 del decreto legislativo 19 novembre 1997, n. 422](../Decreti%20Legislativi/Conferimento%20alle%20regioni%20ed%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20trasporto%20pubblico%20locale%20a%20norma%20dellarticolo%204%20comma%204%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni, secondo i criteri stabiliti dal medesimo decreto per le regioni a statuto ordinario ))
 
 ## Art. 2.
 

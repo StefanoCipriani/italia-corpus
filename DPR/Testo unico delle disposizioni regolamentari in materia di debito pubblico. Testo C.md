@@ -48,7 +48,7 @@ Titolo I
 
 Nel presente decreto si intendono per:
                             a)
-                                strumenti finanziari: gli strumenti finanziari previsti dall'[articolo 1, comma 2, lettere b)](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) e [d), del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), riguardante il testo unico delle disposizioni in materia di intermediazione finanziaria;
+                                strumenti finanziari: gli strumenti finanziari previsti dall'[articolo 1, comma 2, lettere b)](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) e [d), del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), riguardante il testo unico delle disposizioni in materia di intermediazione finanziaria;
                             b)
                                 Ministero: il Ministero dell'economia e delle finanze;
                             c)

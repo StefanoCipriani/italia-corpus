@@ -24,7 +24,7 @@ Visto il [regio decreto 2 luglio 1925, n. 1196](../Atti%20normativi%20abrogati%2
 
 Visto il [regio decreto 8 maggio 1933, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20contabilita%20per%20i%20servizi%20delle%20poste%20e%20dei%20telegrafi.%20033U0841.md), che approva il regolamento per l'amministrazione del patrimonio e per la contabilita' dell'Amministrazione delle poste e delle telecomunicazioni;
 
-Visto il [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), che approva il testo unico delle leggi sull'ordinamento della Corte dei conti, e successive modificazioni;
+Visto il [regio decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), che approva il testo unico delle leggi sull'ordinamento della Corte dei conti, e successive modificazioni;
 
 Vista la [legge 27 febbraio 1958, n. 119](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20particolari%20sullo%20stato%20giuridico%20e%20sullordinamento%20delle%20carriere%20del%20personale%20dipendente%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20e%20dellAzienda%20di%20Stato%20p_1831eb8f4ac3.md);
 

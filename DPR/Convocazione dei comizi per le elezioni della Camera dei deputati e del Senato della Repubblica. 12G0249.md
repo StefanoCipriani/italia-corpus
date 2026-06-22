@@ -15,7 +15,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Visto il proprio decreto in data odierna, che dispone lo scioglimento della Camera dei deputati e del Senato della Repubblica; 
  Visti gli [articoli 61](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_61) e [87, terzo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com3); 
  Visto il testo unico delle leggi recanti norme per l'elezione della Camera dei deputati, di cui al [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), e successive modificazioni; 
- Visto il testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, di cui al [decreto legislativo 20 dicembre 1993, n. 533](../Testi%20Unici/Testo%20unico%20delle%20leggi%20recanti%20norme%20per%20lelezione%20del%20Senato%20della%20Repubblica.md), e successive modificazioni; 
+ Visto il testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, di cui al [decreto legislativo 20 dicembre 1993, n. 533](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20recanti%20norme%20per%20lelezione%20del%20Senato%20della%20Repubblica.md), e successive modificazioni; 
  Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 dicembre 2012; 
  Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'interno; 
  

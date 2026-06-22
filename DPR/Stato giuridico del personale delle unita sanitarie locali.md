@@ -183,7 +183,7 @@ Alle posizioni funzionali di dirigente sanitario o sovrintendente sanitario o di
 
 ### Art. 20.
 
-ARTICOLO ABROGATO DAL [D. LGS. 30 DICEMBRE 1992, N. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ((11))
+ARTICOLO ABROGATO DAL [D. LGS. 30 DICEMBRE 1992, N. 502](../Decreti%20Legislativi/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ((11))
 
 ---------------
 

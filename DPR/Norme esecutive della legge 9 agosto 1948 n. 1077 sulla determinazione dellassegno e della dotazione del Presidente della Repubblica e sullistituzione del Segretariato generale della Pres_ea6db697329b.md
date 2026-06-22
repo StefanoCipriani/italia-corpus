@@ -83,7 +83,7 @@ Per la ricognizione e la conservazione dei beni previsti dall'art. 13 della legg
 
 ## Art. 13.
 
-L'Amministrazione della Presidenza della Repubblica e' autorizzata ad avvalersi del patrocinio dell'Avvocatura dello Stato, ai sensi dell'art. 43 del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md).
+L'Amministrazione della Presidenza della Repubblica e' autorizzata ad avvalersi del patrocinio dell'Avvocatura dello Stato, ai sensi dell'art. 43 del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md).
 
 ## Art. 14.
 

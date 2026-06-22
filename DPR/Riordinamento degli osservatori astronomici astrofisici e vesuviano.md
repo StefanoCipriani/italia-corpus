@@ -82,7 +82,7 @@ Il consiglio direttivo, nominato dal Ministro della pubblica istruzione, e' comp
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 23 luglio 1999, n. 296](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20dellIstituto%20nazionale%20di%20astrofisica%20-%20INAF%20a%20norma%20dellart.%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 13 comma 3) che: "Il termine del mandato del Consiglio per le ricerche astronomiche (CRA), di cui all'[articolo 4 del decreto del Presidente della Repubblica n. 163 del 1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;163#art_4), e' differito sino alla data di insediamento del consiglio direttivo dell'INAF; a tale data il CRA e' soppresso e le sue funzioni sono esercitate dal consiglio direttivo dell'INAF fino alla data di cui al primo periodo del presente comma.
+Il [D. Lgs. 23 luglio 1999, n. 296](../Decreti%20Legislativi/Istituzione%20dellIstituto%20nazionale%20di%20astrofisica%20-%20INAF%20a%20norma%20dellart.%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 13 comma 3) che: "Il termine del mandato del Consiglio per le ricerche astronomiche (CRA), di cui all'[articolo 4 del decreto del Presidente della Repubblica n. 163 del 1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;163#art_4), e' differito sino alla data di insediamento del consiglio direttivo dell'INAF; a tale data il CRA e' soppresso e le sue funzioni sono esercitate dal consiglio direttivo dell'INAF fino alla data di cui al primo periodo del presente comma.
 
 ### Art. 5. — Attribuzione e funzionamento del consiglio direttivo
 

@@ -20,7 +20,7 @@ Visto il punto 4) dell'allegato 3 della [legge 8 marzo 1999, n. 50](https://www.
 
 Viste le preliminari deliberazioni del Consiglio dei Ministri, adottate nelle riunioni del 25 agosto 2000 e del 6 ottobre 2000;
 
-Visto il parere della Conferenza Stato-citta', ai sensi dell'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), espresso nella riunione del 14 settembre 2000;
+Visto il parere della Conferenza Stato-citta', ai sensi dell'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), espresso nella riunione del 14 settembre 2000;
 
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 18 settembre 2000;
 

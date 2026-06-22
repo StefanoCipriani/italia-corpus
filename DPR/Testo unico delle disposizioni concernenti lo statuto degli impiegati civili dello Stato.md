@@ -73,7 +73,7 @@ Per i candidati appartenenti a categorie per le quali leggi speciali prevedono d
 
 AGGIORNAMENTO (84)
 
-Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69) convertito con modificazioni dalla [L. 9 agosto 2013, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202013%20n.%2069%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20delleconomia.%2013G00140.md) ha disposto (con l'art. 42, comma 1, lettera d)) che, fermi restando gli obblighi di certificazione previsti dal [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md) per i lavoratori soggetti a sorveglianza sanitaria, e' abrogata la disposizione concernente l'obbligo del certificato di idoneita' fisica per l'assunzione nel pubblico impiego di cui al numero 4), comma 1 del presente articolo.
+Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69) convertito con modificazioni dalla [L. 9 agosto 2013, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202013%20n.%2069%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20delleconomia.%2013G00140.md) ha disposto (con l'art. 42, comma 1, lettera d)) che, fermi restando gli obblighi di certificazione previsti dal [decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md) per i lavoratori soggetti a sorveglianza sanitaria, e' abrogata la disposizione concernente l'obbligo del certificato di idoneita' fisica per l'assunzione nel pubblico impiego di cui al numero 4), comma 1 del presente articolo.
 
 ### Art. 3. — (Concorsi di ammissione)
 
@@ -123,7 +123,7 @@ Nei concorsi per l'ammissione alle carriere direttive e di concetto le riserve d
 
 AGGIORNAMENTO (48)
 
-La [L. 22 agosto 1985, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-22;444) ha disposto (con l'art. 7, comma 4) che "Ai fini della graduatoria nei pubblici concorsi costituisce titolo di preferenza, a parita' di merito e per le qualifiche fino alla quarta o categorie corrispondenti, lo stato di disoccupazione non inferiore a sei mesi risultante dalla iscrizione presso le apposite liste di collocamento. Tale titolo di preferenza viene inserito, ai fini di cui sopra, dopo il numero 16 di cui all'articolo 5, comma quarto, del testo unico approvato [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md)".
+La [L. 22 agosto 1985, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-22;444) ha disposto (con l'art. 7, comma 4) che "Ai fini della graduatoria nei pubblici concorsi costituisce titolo di preferenza, a parita' di merito e per le qualifiche fino alla quarta o categorie corrispondenti, lo stato di disoccupazione non inferiore a sei mesi risultante dalla iscrizione presso le apposite liste di collocamento. Tale titolo di preferenza viene inserito, ai fini di cui sopra, dopo il numero 16 di cui all'articolo 5, comma quarto, del testo unico approvato [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md)".
 
 ### Art. 6. — (Svolgimento delle prove)
 
@@ -164,7 +164,7 @@ Il periodo di prova ha la durata di sei mesi. ((35))
 
 AGGIORNAMENTO (35)
 
-Il [D.L. 28 agosto 1970, n. 622](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20a%20favore%20dei%20cittadini%20italiani%20rimpatriati%20dalla%20Libia%20integrazioni%20delle%20disposizioni%20per%20lassistenza%20ai%20profughi%20nonche%20disposizioni%20in%20materia%20previdenziale%20a%20favore%20dei%20c_7be5a66e0301.md), convertito con modificazioni dalla [L. 19 ottobre 1970, n. 744](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20agosto%201970%20n.%20622%20concernente%20provvidenze%20a%20favore%20dei%20cittadini%20italiani%20rimpatriati%20dalla%20Libia%20integrazioni%20delle%20disposizi_4be7d3f98671.md), ha disposto (con l'art. 9) che "Il periodo di prova di cui al primo comma dell'art. 10 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' ridotto nei confronti dei vincitori gia' assunti presso le aziende dipendenti dal Ministero delle poste e delle telecomunicazioni, in qualita' di straordinario ai sensi dell'[art. 3 della legge 14 dicembre 1965, n. 1376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-12-14;1376#art_3), anche in deroga ai limiti di eta' fissati dall'articolo stesso, di un periodo corrispondente al servizio reso, alla data di nomina, senza demerito nella predetta qualita' di straordinario".
+Il [D.L. 28 agosto 1970, n. 622](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20a%20favore%20dei%20cittadini%20italiani%20rimpatriati%20dalla%20Libia%20integrazioni%20delle%20disposizioni%20per%20lassistenza%20ai%20profughi%20nonche%20disposizioni%20in%20materia%20previdenziale%20a%20favore%20dei%20c_7be5a66e0301.md), convertito con modificazioni dalla [L. 19 ottobre 1970, n. 744](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20agosto%201970%20n.%20622%20concernente%20provvidenze%20a%20favore%20dei%20cittadini%20italiani%20rimpatriati%20dalla%20Libia%20integrazioni%20delle%20disposizi_4be7d3f98671.md), ha disposto (con l'art. 9) che "Il periodo di prova di cui al primo comma dell'art. 10 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' ridotto nei confronti dei vincitori gia' assunti presso le aziende dipendenti dal Ministero delle poste e delle telecomunicazioni, in qualita' di straordinario ai sensi dell'[art. 3 della legge 14 dicembre 1965, n. 1376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-12-14;1376#art_3), anche in deroga ai limiti di eta' fissati dall'articolo stesso, di un periodo corrispondente al servizio reso, alla data di nomina, senza demerito nella predetta qualita' di straordinario".
 
 ## DOVERI - RESPONSABILITA' - DIRITTI  CAPO I Doveri
 
@@ -197,7 +197,7 @@ L'orario giornaliero di servizio rimane regolato dalle norme in vigore.
 
 AGGIORNAMENTO (46)
 
-La [L. 29 marzo 1983, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-29;93) ha disposto (con l'art. 30, comma 1) che "L'[articolo 14 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), va interpretato nel senso che l'orario ordinario di lavoro ivi disciplinato e' di trentasei ore settimanali".
+La [L. 29 marzo 1983, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-29;93) ha disposto (con l'art. 30, comma 1) che "L'[articolo 14 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), va interpretato nel senso che l'orario ordinario di lavoro ivi disciplinato e' di trentasei ore settimanali".
 
 ### Art. 15. — (((Segreto d'ufficio)
 
@@ -353,7 +353,7 @@ All'impiegato, oltre il congedo ordinario, possono essere concessi per gravi mot
 
 AGGIORNAMENTO (55)
 
-La [L. 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) ha disposto (con l'art. 3, comma 38) che "I tre giorni di permesso mensili di cui all'[articolo 33, comma 3, della legge 5 febbraio 1992, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104#art_33-com3), non sono computati al fine del raggiungimento del limite fissato dal terzo comma dell'articolo 37 del citato testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), come sostituito dal comma 37 del presente articolo".
+La [L. 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) ha disposto (con l'art. 3, comma 38) che "I tre giorni di permesso mensili di cui all'[articolo 33, comma 3, della legge 5 febbraio 1992, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104#art_33-com3), non sono computati al fine del raggiungimento del limite fissato dal terzo comma dell'articolo 37 del citato testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), come sostituito dal comma 37 del presente articolo".
 
 ### Art. 38. — (Congedo straordinario per richiamo alle armi)
 
@@ -374,7 +374,7 @@ Per il primo giorno di ogni periodo ininterrotto di congedo straordinario spetta
 
 AGGIORNAMENTO (61)
 
-La [L. 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md) ha disposto (con l'art. 22, comma 22) che "Il primo comma dell'articolo 40 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), come sostituito dal [comma 39 dell'articolo 3 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), va interpretato nel senso che l'espressione "primo giorno di ogni periodo ininterrotto di congedo straordinario", ivi contenuta, si riferisce anche all'assenza di un solo giorno".
+La [L. 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md) ha disposto (con l'art. 22, comma 22) che "Il primo comma dell'articolo 40 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), come sostituito dal [comma 39 dell'articolo 3 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), va interpretato nel senso che l'espressione "primo giorno di ogni periodo ininterrotto di congedo straordinario", ivi contenuta, si riferisce anche all'assenza di un solo giorno".
 
 ### Art. 41. — (Congedo straordinario per gravidanza e puerperio)
 
@@ -503,7 +503,7 @@ Il [D.P.R. 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%2
 
 AGGIORNAMENTO (83)
 
-La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), ha disposto (con l'art. 1, comma 414) che "A decorrere dal 1° gennaio 2013, per gli enti pubblici, il provvedimento di comando, di cui all'[articolo 56, comma 3, del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' adottato d'intesa tra le amministrazioni interessate, previo assenso dell'interessato. "
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), ha disposto (con l'art. 1, comma 414) che "A decorrere dal 1° gennaio 2013, per gli enti pubblici, il provvedimento di comando, di cui all'[articolo 56, comma 3, del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' adottato d'intesa tra le amministrazioni interessate, previo assenso dell'interessato. "
 
 ### Art. 57. — (((Trattamento del personale comandato e carico della spesa)
 
@@ -579,7 +579,7 @@ Il [D.Lgs. 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20su
 
 AGGIORNAMENTO (72a)
 
-Il [D.Lgs. 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), come modificato dal [D.Lgs. 27 ottobre 2009, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%204%20marzo%202009%20n.%2015%20in%20materia%20di%20ottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20di%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni.%2009G0164.md), ha disposto (con l'art. 23-bis, comma 1) che in deroga al presente articolo, i dirigenti delle pubbliche amministrazioni, nonche' gli appartenenti alla carriera diplomatica e prefettizia e, limitamente agli incarichi pubblici, i magistrati ordinari, amministrativi e contabili e gli avvocati e procuratori dello Stato sono collocati, salvo motivato diniego dell'amministrazione di appartenenza in ordine alle proprie preminenti esigenze organizzative, in aspettativa senza assegni per lo svolgimento di attivita' presso soggetti e organismi, pubblici o privati, anche operanti in sede internazionale, i quali provvedono al relativo trattamento previdenziale.
+Il [D.Lgs. 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), come modificato dal [D.Lgs. 27 ottobre 2009, n. 150](../Decreti%20Legislativi/Attuazione%20della%20legge%204%20marzo%202009%20n.%2015%20in%20materia%20di%20ottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20di%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni.%2009G0164.md), ha disposto (con l'art. 23-bis, comma 1) che in deroga al presente articolo, i dirigenti delle pubbliche amministrazioni, nonche' gli appartenenti alla carriera diplomatica e prefettizia e, limitamente agli incarichi pubblici, i magistrati ordinari, amministrativi e contabili e gli avvocati e procuratori dello Stato sono collocati, salvo motivato diniego dell'amministrazione di appartenenza in ordine alle proprie preminenti esigenze organizzative, in aspettativa senza assegni per lo svolgimento di attivita' presso soggetti e organismi, pubblici o privati, anche operanti in sede internazionale, i quali provvedono al relativo trattamento previdenziale.
 
 ---------------
 
@@ -664,7 +664,7 @@ Il [D.P.R. 20 aprile 1994, n. 349](../Atti%20normativi%20abrogati%20%28in%20orig
 
 AGGIORNAMENTO (89)
 
-La Corte Costituzionale, con sentenza 11 gennaio - 3 marzo 2021, n. 28 (in G.U. 1ª s.s. 10/03/2021, n. 10), ha dichiarato "l'illegittimita' costituzionale dell'[art. 68, comma 3, del d.P.R. 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) (Testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato), nella parte in cui, per il caso di gravi patologie che richiedano terapie temporaneamente e/o parzialmente invalidanti, non esclude dal computo dei consentiti diciotto mesi di assenza per malattia i giorni di ricovero ospedaliero o di day hospital e quelli di assenza dovuti alle conseguenze certificate delle terapie".
+La Corte Costituzionale, con sentenza 11 gennaio - 3 marzo 2021, n. 28 (in G.U. 1ª s.s. 10/03/2021, n. 10), ha dichiarato "l'illegittimita' costituzionale dell'[art. 68, comma 3, del d.P.R. 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) (Testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato), nella parte in cui, per il caso di gravi patologie che richiedano terapie temporaneamente e/o parzialmente invalidanti, non esclude dal computo dei consentiti diciotto mesi di assenza per malattia i giorni di ricovero ospedaliero o di day hospital e quelli di assenza dovuti alle conseguenze certificate delle terapie".
 
 ### Art. 69. — (Aspettativa per motivi di famiglia)
 
@@ -811,7 +811,7 @@ Trascorsi due anni dalla data dell'atto con cui fu inflitta la sanzione discipli
  Il provvedimento e' adottato con decreto ministeriale, sentiti il Consiglio di amministrazione e la Commissione di disciplina. ((54))
 ------------------
 AGGIORNAMETO (54)
- La Corte costituzionale, con sentenza 4 - 22 giugno 1992, n. 289 (in G.U. 1a s.s. 24/06/1992, n. 27) ha dichiarato "l'illegittimita' costituzionale del combinato disposto formato dall'[art. 87 del d.P.R. 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) (Testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato), e dall'[art. 276 del R.D. 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_276) (Ordinamento giudiziario), nella parte in cui consente l'applicazione ai magistrati della riabilitazione prevista per gli impiegati civili dello Stato colpiti da sanzione disciplinare".
+ La Corte costituzionale, con sentenza 4 - 22 giugno 1992, n. 289 (in G.U. 1a s.s. 24/06/1992, n. 27) ha dichiarato "l'illegittimita' costituzionale del combinato disposto formato dall'[art. 87 del d.P.R. 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) (Testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato), e dall'[art. 276 del R.D. 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_276) (Ordinamento giudiziario), nella parte in cui consente l'applicazione ai magistrati della riabilitazione prevista per gli impiegati civili dello Stato colpiti da sanzione disciplinare".
 
 ### Art. 88. — (Reintegrazione dell'impiegato assolto in sede di giudizio penale di revisione)
 
@@ -880,7 +880,7 @@ Quando la sospensione cautelare sia stata disposta in dipendenza del procediment
 
 AGGIORNAMENTO (60)
 
-La Corte costituzionale, con sentenza 13 - 25 luglio 1995, n. 374 (in G.U. 1a s.s. 02/08/1995, n. 32) ha dichiarato "l'illegittimita' costituzionale dell' [art. 97, terzo comma, del d.P.R. 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) (Testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato), nella parte in cui prevede, in caso di sentenza o ordinanza che pronuncia sull'impugnazione, che il procedimento disciplinare deve avere inizio entro 180 giorni dalla data in cui e' divenuta irrevocabile la sentenza di proscioglimento, indipendentemente dalla data di deposito della sentenza o ordinanza conclusiva del procedimento, se successiva alla data in cui si verifica l'irrevocabilita' della pronuncia di proscioglimento".
+La Corte costituzionale, con sentenza 13 - 25 luglio 1995, n. 374 (in G.U. 1a s.s. 02/08/1995, n. 32) ha dichiarato "l'illegittimita' costituzionale dell' [art. 97, terzo comma, del d.P.R. 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) (Testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato), nella parte in cui prevede, in caso di sentenza o ordinanza che pronuncia sull'impugnazione, che il procedimento disciplinare deve avere inizio entro 180 giorni dalla data in cui e' divenuta irrevocabile la sentenza di proscioglimento, indipendentemente dalla data di deposito della sentenza o ordinanza conclusiva del procedimento, se successiva alla data in cui si verifica l'irrevocabilita' della pronuncia di proscioglimento".
 
 ### Art. 98. — (Sospensione dalla qualifica a seguito di condanna penale)
 
@@ -1090,7 +1090,7 @@ Oltre che nel caso previsto dall'art. 63, l'impiegato incorre nella decadenza da
 
 AGGIORNAMENTO (50a)
 
-La [L. 5 dicembre 1988, n. 521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-05;521) ha disposto (con l'art. 12, comma 4) che "Nel senso che precede e' interpretata, nei confronti del personale del Corpo nazionale dei vigili del fuoco, la lettera c) del primo comma dell'articolo 127 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md)".
+La [L. 5 dicembre 1988, n. 521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-05;521) ha disposto (con l'art. 12, comma 4) che "Nel senso che precede e' interpretata, nei confronti del personale del Corpo nazionale dei vigili del fuoco, la lettera c) del primo comma dell'articolo 127 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md)".
 
 ### Art. 128. — (Effetti della decadenza)
 
@@ -1101,7 +1101,7 @@ La decadenza non comporta la perdita del diritto al trattamento di quiescenza se
 
 AGGIORNAMENTO (72)
 
-La Corte costituzionale, con sentenza 11-27 luglio 2007, n. 329 (in G.U. 01/08/2007, n. 30) ha dichiarato "l'illegittimita' costituzionale dell'[art. 128, secondo comma, del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) (Testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato), nella parte in cui non prevede l'obbligo dell'amministrazione di valutare il provvedimento di decadenza dall'impiego, emesso ai sensi dell'art. 127, primo comma, lettera d), dello stesso decreto, al fine della ponderazione della proporzione tra gravita' del comportamento e divieto di concorrere ad altro impiego nell'amministrazione dello Stato".
+La Corte costituzionale, con sentenza 11-27 luglio 2007, n. 329 (in G.U. 01/08/2007, n. 30) ha dichiarato "l'illegittimita' costituzionale dell'[art. 128, secondo comma, del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) (Testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato), nella parte in cui non prevede l'obbligo dell'amministrazione di valutare il provvedimento di decadenza dall'impiego, emesso ai sensi dell'art. 127, primo comma, lettera d), dello stesso decreto, al fine della ponderazione della proporzione tra gravita' del comportamento e divieto di concorrere ad altro impiego nell'amministrazione dello Stato".
 
 ## Dispensa dal servizio
 
@@ -1143,7 +1143,7 @@ L'impiegato con qualifica inferiore a direttore generale, cessato dal servizio p
 
 AGGIORNAMENTO (56)
 
-La Corte costituzionale, con sentenza 14 - 26 gennaio 1994, n. 3 (in G.U. 02/02/1994, n. 6) ha dichiarato "l'illegittimita' costituzionale dell'[art. 132, primo comma, del d.P.R. 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) (Testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato), nella parte in cui non comprende, tra le fattispecie di cessazione del rapporto di impiego in ordine alle quali e' possibile la riammissione in servizio, la dispensa dal servizio per motivi di salute".
+La Corte costituzionale, con sentenza 14 - 26 gennaio 1994, n. 3 (in G.U. 02/02/1994, n. 6) ha dichiarato "l'illegittimita' costituzionale dell'[art. 132, primo comma, del d.P.R. 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) (Testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato), nella parte in cui non comprende, tra le fattispecie di cessazione del rapporto di impiego in ordine alle quali e' possibile la riammissione in servizio, la dispensa dal servizio per motivi di salute".
 
 ----------------
 
@@ -1448,7 +1448,7 @@ I posti disponibili nella qualifica di direttore di sezione sono conferiti per u
 
 AGGIORNAMENTO (27)
 
-Il [D.P.R. 18 novembre 1965, n. 1479](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20delle%20carriere%20e%20revisione%20degli%20organici%20degli%20Impiegati%20civili%20del%20Ministero%20della%20difesa.md) ha disposto (con l'art. 61, comma 1) che "Nella prima applicazione del presente decreto gli esami di idoneita' di cui agli articoli 164 e 368 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), sono sostituiti da un esame speciale costituito da una prova scritta e da una prova orale entrambe a carattere teorico pratico, aventi attinenza ai servizi d'istituto".
+Il [D.P.R. 18 novembre 1965, n. 1479](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20delle%20carriere%20e%20revisione%20degli%20organici%20degli%20Impiegati%20civili%20del%20Ministero%20della%20difesa.md) ha disposto (con l'art. 61, comma 1) che "Nella prima applicazione del presente decreto gli esami di idoneita' di cui agli articoli 164 e 368 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), sono sostituiti da un esame speciale costituito da una prova scritta e da una prova orale entrambe a carattere teorico pratico, aventi attinenza ai servizi d'istituto".
 
 ### Art. 165. — (Concorso per merito distinto ed esame di idoneita')
 
@@ -1993,7 +1993,7 @@ Ai fini del trattamento di quiescenza e' aumentato di quattro o sei dodicesimi i
 
 AGGIORNAMENTO (16)
 
-La [L. 4 giugno 1962, n. 524](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-04;524) ha disposto (con l'art. 12, commi 1 e 2) che "Il limite di cui all'articolo 235, secondo comma, del testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' elevato al 30 per cento.
+La [L. 4 giugno 1962, n. 524](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-04;524) ha disposto (con l'art. 12, commi 1 e 2) che "Il limite di cui all'articolo 235, secondo comma, del testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' elevato al 30 per cento.
  Tale limite si intende riferito al disimpegno delle funzioni di cui al [secondo comma dell'articolo 1 del decreto del Presidente della Repubblica 6 novembre 1960, n. 1655](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20il%20concorso%20di%20ammissione%20al%20ruolo%20del%20personale%20direttivo%20per%20i%20servizi%20amministrativi%20dellAmministrazione%20centrale%20degli%20affari%20esteri.md), sul regolamento per il concorso di ammissione al ruolo del personale direttivo per i servizi amministrativi".
 
 ## Ministero dell'interno  SEZIONE I Personale dell'Amministrazione civile
@@ -2014,7 +2014,7 @@ I prefetti della Repubblica possono, previa deliberazione del Consiglio dei mini
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 29 dicembre 2010, n. 225](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20di%20interventi%20urgenti%20in%20materia%20tributaria%20e%20di%20sostegno%20alle%20imprese%20e%20alle%20famiglie.%2010G0251.md), convertito con modificazioni dalla [L. 26 febbraio 2011, n. 10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%202010%20n.%20225%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20di%20interventi%20urgenti%20in%20materia%20tributa_d5d5f921efa2.md), ha disposto (con l'art. 2, comma 6-novies) che "Al fine di assicurare la piena operativita' delle nuove prefetture di Monza e della Brianza, di Fermo e di Barletta-Andria-Trani, il termine per il conferimento degli incarichi ai rispettivi prefetti e' differito fino al quindicesimo giorno successivo alla data di entrata in vigore della legge di conversione del presente decreto. Conseguentemente, e' ridotta da 9 a 6 l'aliquota di prefetti stabilita dall'articolo 237, comma 3, del testo unico di cui al [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md)".
+Il [D.L. 29 dicembre 2010, n. 225](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20di%20interventi%20urgenti%20in%20materia%20tributaria%20e%20di%20sostegno%20alle%20imprese%20e%20alle%20famiglie.%2010G0251.md), convertito con modificazioni dalla [L. 26 febbraio 2011, n. 10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%202010%20n.%20225%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20di%20interventi%20urgenti%20in%20materia%20tributa_d5d5f921efa2.md), ha disposto (con l'art. 2, comma 6-novies) che "Al fine di assicurare la piena operativita' delle nuove prefetture di Monza e della Brianza, di Fermo e di Barletta-Andria-Trani, il termine per il conferimento degli incarichi ai rispettivi prefetti e' differito fino al quindicesimo giorno successivo alla data di entrata in vigore della legge di conversione del presente decreto. Conseguentemente, e' ridotta da 9 a 6 l'aliquota di prefetti stabilita dall'articolo 237, comma 3, del testo unico di cui al [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md)".
 
 ### Art. 238. — (Collocamento a riposo dei predetti per ragioni di servizio)
 
@@ -2250,7 +2250,7 @@ La nomina alla qualifica iniziale del ruolo della carriera direttiva dell'Ispett
 
 AGGIORNAMENTO (19a)
 
-La [L. 16 agosto 1962, n. 1291](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-16;1291) ha disposto (con l'art. 9) che "Per la nomina alla qualifica iniziale del ruolo della carriera direttiva dell'Ispettorato generale di finanza (tabella B) della Ragioneria generale dello Stato la anzianita' di servizio prevista dall'articolo 275 lettera a) del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' ridotta da otto a cinque anni".
+La [L. 16 agosto 1962, n. 1291](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-16;1291) ha disposto (con l'art. 9) che "Per la nomina alla qualifica iniziale del ruolo della carriera direttiva dell'Ispettorato generale di finanza (tabella B) della Ragioneria generale dello Stato la anzianita' di servizio prevista dall'articolo 275 lettera a) del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' ridotta da otto a cinque anni".
 
 ## Ministero della Pubblica Istruzione  SEZIONE I Personale ispettivo dell'Amministrazione centrale
 
@@ -2487,7 +2487,7 @@ I direttori degli istituti di sperimentazione agraria e talassografica sono coll
 
 AGGIORNAMENTO (65)
 
-Il [D.Lgs. 29 ottobre 1999, n. 454](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riorganizzazione%20del%20settore%20della%20ricerca%20in%20agricoltura%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 9, comma 10) che e' abrogato il presente articolo ad eccezione dei commi primo, secondo e terzo " nei confronti dei direttori di istituto in servizio da almeno dieci anni alla data di entrata in vigore del presente decreto, nonche' ogni altra norma incompatibile con il presente decreto".
+Il [D.Lgs. 29 ottobre 1999, n. 454](../Decreti%20Legislativi/Riorganizzazione%20del%20settore%20della%20ricerca%20in%20agricoltura%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 9, comma 10) che e' abrogato il presente articolo ad eccezione dei commi primo, secondo e terzo " nei confronti dei direttori di istituto in servizio da almeno dieci anni alla data di entrata in vigore del presente decreto, nonche' ogni altra norma incompatibile con il presente decreto".
 
 ### Art. 311. — (Passaggio dei direttori nei ruoli dei professori universitari)
 
@@ -2497,7 +2497,7 @@ I direttori degli istituti di sperimentazione agraria e talassografica che, a se
 
 AGGIORNAMENTO (65)
 
-Il [D.Lgs. 29 ottobre 1999, n. 454](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riorganizzazione%20del%20settore%20della%20ricerca%20in%20agricoltura%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 9, comma 10) che e' abrogato il presente articolo, eccetto che nei confronti dei direttori di istituto in servizio da almeno dieci anni alla data di entrata in vigore dello stesso [D.Lgs. 29 ottobre 1999, n. 454](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riorganizzazione%20del%20settore%20della%20ricerca%20in%20agricoltura%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md).
+Il [D.Lgs. 29 ottobre 1999, n. 454](../Decreti%20Legislativi/Riorganizzazione%20del%20settore%20della%20ricerca%20in%20agricoltura%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 9, comma 10) che e' abrogato il presente articolo, eccetto che nei confronti dei direttori di istituto in servizio da almeno dieci anni alla data di entrata in vigore dello stesso [D.Lgs. 29 ottobre 1999, n. 454](../Decreti%20Legislativi/Riorganizzazione%20del%20settore%20della%20ricerca%20in%20agricoltura%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 ### Art. 312.
 
@@ -2864,7 +2864,7 @@ Il concorso per esame speciale gia' previsto dal [decreto del Presidente della R
 
 AGGIORNAMENTO (15)
 
-La [L. 2 giugno 1962, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-02;400) ha disposto (con l'art. 3) che "La presente legge ha effetto dalla data di entrata in vigore del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md)".
+La [L. 2 giugno 1962, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-02;400) ha disposto (con l'art. 3) che "La presente legge ha effetto dalla data di entrata in vigore del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md)".
 
 ### Art. 367. — (Composizione della Commissione e procedura del concorso speciale)
 
@@ -2887,7 +2887,7 @@ complessivamente tre anni di effettivo servizio nella qualifica di consigliere d
 
 AGGIORNAMENTO (27)
 
-Il [D.P.R. 18 novembre 1965, n. 1479](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20delle%20carriere%20e%20revisione%20degli%20organici%20degli%20Impiegati%20civili%20del%20Ministero%20della%20difesa.md) ha disposto (con l'art. 61, comma 1) "Nella prima applicazione del presente decreto gli esami di idoneita' di cui agli articoli 164 e 368 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), sono sostituiti da un esame speciale costituito da una prova scritta e da una prova orale entrambe a carattere teorico pratico, aventi attinenza ai servizi d'istituto".
+Il [D.P.R. 18 novembre 1965, n. 1479](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20delle%20carriere%20e%20revisione%20degli%20organici%20degli%20Impiegati%20civili%20del%20Ministero%20della%20difesa.md) ha disposto (con l'art. 61, comma 1) "Nella prima applicazione del presente decreto gli esami di idoneita' di cui agli articoli 164 e 368 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), sono sostituiti da un esame speciale costituito da una prova scritta e da una prova orale entrambe a carattere teorico pratico, aventi attinenza ai servizi d'istituto".
 
 ### Art. 369. — (Promozione a direttore di divisione degli impiegati provenienti dal grado di capo sezione)
 
