@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'art. 18 dello statuto dell'Istituto Froebeliano « Vittorio Emanuele II » di Napoli, approvato con [R. decreto 6 aprile 1924, n. 554](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20dellIstituto%20Froebeliano%20di%20Napoli.%20024U0554.md), quanto concerne la nomina del segretario delle scuole e' modificato nel modo seguente : 
+L'art. 18 dello statuto dell'Istituto Froebeliano « Vittorio Emanuele II » di Napoli, approvato con [R. decreto 6 aprile 1924, n. 554](Approvazione%20del%20nuovo%20statuto%20dellIstituto%20Froebeliano%20di%20Napoli.%20024U0554.md), quanto concerne la nomina del segretario delle scuole e' modificato nel modo seguente : 
  
  « Al posto di segretario delle scuole si provvedera' con concorso interno per titoli e con esenzione dei limiti di eta'. Il concorrente dovra' aver disimpegnato, almeno da quattro anni le funzioni di segretario delle scuole ».
 

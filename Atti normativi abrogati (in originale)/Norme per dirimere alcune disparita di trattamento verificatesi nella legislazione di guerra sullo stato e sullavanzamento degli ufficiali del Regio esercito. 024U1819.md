@@ -14,15 +14,15 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel Regio esercito ed il regolamento per la sua esecuzione, approvato con [R. decreto 21 luglio 1907, n. 626](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md), e le sue successive modificazioni;
+Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel Regio esercito ed il regolamento per la sua esecuzione, approvato con [R. decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md), e le sue successive modificazioni;
 
 Viste le [leggi 8 giugno 1923, n. 601 e 21 marzo 1915, n. 301](Che%20porta%20aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20nel%20R.%20esercito%20015U0301.md), portanti modificazioni ed aggiunte alla legge sull'avanzamento nel Regio esercito;
 
-Visto il [R. decreto 15 novembre 1914, n. 1253](../Regi%20decreti/Da%20convertirsi%20in%20legge%20portante%20nuove%20forme%20di%20reclutamento%20di%20sottotenenti%20in%20servizio%20attivo%20permanente.%20014U1253.md), e il [decreto Luogotenenziale 22 agosto 1915, n. 1293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-22;1293), modificato con [decreto Luogotenenziale 12 settembre 1915, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-09-12;1395), sulle nomine ad ufficiale in servizio attivo;
+Visto il [R. decreto 15 novembre 1914, n. 1253](Da%20convertirsi%20in%20legge%20portante%20nuove%20forme%20di%20reclutamento%20di%20sottotenenti%20in%20servizio%20attivo%20permanente.%20014U1253.md), e il [decreto Luogotenenziale 22 agosto 1915, n. 1293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-22;1293), modificato con [decreto Luogotenenziale 12 settembre 1915, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-09-12;1395), sulle nomine ad ufficiale in servizio attivo;
 
 Visto il [R. decreto 11 marzo 1920, n. 317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-03-11;317);
 
-Visto il [R. decreto 7 gennaio 1923, n. 12](../Regi%20decreti/Sullordinamento%20del%20R.%20esercito.%20023U0012.md), sull'ordinamento dell'Esercito e le successive modificazioni;
+Visto il [R. decreto 7 gennaio 1923, n. 12](Sullordinamento%20del%20R.%20esercito.%20023U0012.md), sull'ordinamento dell'Esercito e le successive modificazioni;
 
 Udito il Consiglio dei Ministri;
 
@@ -34,7 +34,7 @@ Le norme per il computo della anzianita' dei tenenti e sottotenenti di complemen
 
 ## Art. 2.
 
-Gli ufficiali, che furono nominati sottotenenti in S. A. P. in base al [R. decreto 15 novembre 1914, n. 1253](../Regi%20decreti/Da%20convertirsi%20in%20legge%20portante%20nuove%20forme%20di%20reclutamento%20di%20sottotenenti%20in%20servizio%20attivo%20permanente.%20014U1253.md), possono ottenere, facendone domanda nello stesso termine indicato nell'articolo precedente, che la loro anzianita' nel grado di tenente e conseguentemente quella nel grado di capitano venga determinata come se avessero conseguito la nomina a tenente in S. A. P. in base al decreto Luogotenenziale 22 agosto 1915. n. 1293, sempreche' abbiano maturato i requisiti prescritti da quest'ultimo decreto nei termini fissati dalle relative norme applicative.
+Gli ufficiali, che furono nominati sottotenenti in S. A. P. in base al [R. decreto 15 novembre 1914, n. 1253](Da%20convertirsi%20in%20legge%20portante%20nuove%20forme%20di%20reclutamento%20di%20sottotenenti%20in%20servizio%20attivo%20permanente.%20014U1253.md), possono ottenere, facendone domanda nello stesso termine indicato nell'articolo precedente, che la loro anzianita' nel grado di tenente e conseguentemente quella nel grado di capitano venga determinata come se avessero conseguito la nomina a tenente in S. A. P. in base al decreto Luogotenenziale 22 agosto 1915. n. 1293, sempreche' abbiano maturato i requisiti prescritti da quest'ultimo decreto nei termini fissati dalle relative norme applicative.
 
 ## Art. 3.
 
@@ -45,7 +45,7 @@ P. a giudizio insindacabile del Ministro per la guerra, su parere delle autorita
 
 ## Art. 4.
 
-Al comma e) del n. IX delle disposizioni esecutive e transitorie del [R. decreto 7 gennaio 1923, n. 12](../Regi%20decreti/Sullordinamento%20del%20R.%20esercito.%20023U0012.md), e' sostituito il seguente, con effetto dal 1° febbraio 1923: 
+Al comma e) del n. IX delle disposizioni esecutive e transitorie del [R. decreto 7 gennaio 1923, n. 12](Sullordinamento%20del%20R.%20esercito.%20023U0012.md), e' sostituito il seguente, con effetto dal 1° febbraio 1923: 
  
  « e) assumeranno il grado di generale medico capo i tenenti generali medici, nonche' i maggiori generali medici che ricoprano tale grado al 31 gennaio 1923. I brigadieri generali medici assumeranno il grado di generale medico. 
  

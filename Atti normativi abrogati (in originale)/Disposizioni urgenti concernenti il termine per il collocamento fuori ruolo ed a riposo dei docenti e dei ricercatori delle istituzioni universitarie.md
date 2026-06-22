@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-La disposizione di cui all'[articolo 16 del decreto legislativo 30 dicembre 1992, n. 503](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md), non si applica ai professori ed ai ricercatori delle istituzioni universitarie.
+La disposizione di cui all'[articolo 16 del decreto legislativo 30 dicembre 1992, n. 503](../Decreti%20Legislativi/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md), non si applica ai professori ed ai ricercatori delle istituzioni universitarie.
 
 2.
 

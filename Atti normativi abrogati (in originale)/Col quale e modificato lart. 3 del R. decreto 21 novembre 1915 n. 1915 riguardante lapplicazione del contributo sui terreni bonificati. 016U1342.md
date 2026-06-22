@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- All'[art. 3 del R. decreto 21 novembre 1915, n. 1643](../Regi%20decreti/Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), allegato A), e' sostituito il seguente: 
+ All'[art. 3 del R. decreto 21 novembre 1915, n. 1643](Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), allegato A), e' sostituito il seguente: 
  
  «Ai terreni bonificati, o compresi nel perimetro di Consorzi di bonifica, per i quali sia trascorso un ventennio di esenzione dalle imposte sia totale sia sul maggior reddito conseguito per effetto della bonifica, e' applicato il contributo di L. 2 per ogni ettaro e per ciascuno degli anni 1916 e 1917. 
  

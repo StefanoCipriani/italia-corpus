@@ -14,11 +14,11 @@ Visto il [regio decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.i
 
 convertito nella [legge 6 dicembre 1928, n. 3474](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20dicembre%201927%20n.%202258%20relativo%20allautonomia%20dellAmministrazione%20dei%20monopoli%20di%20Stato.%20028U3474.md);
 
-Visto il [regio decreto 14 giugno 1941, n. 577](../Regi%20decreti/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md);
+Visto il [regio decreto 14 giugno 1941, n. 577](Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md);
 
 Vista la [legge 7 giugno 1928, n. 1335](Inserzione%20nei%20contratti%20dappalto%20degli%20spacci%20allingrosso%20dei%20generi%20di%20privativa%20della%20clausola%20per%20la%20revisione%20delle%20indennita.%20028U1335.md);
 
-Visto il [decreto legislativo luogotenenziale 10 maggio 1945, n. 251](../Decreti%20legislativi%20luogotenenziali/Temporanea%20modificazione%20del%20sistema%20di%20pagamento%20delle%20spese%20di%20gestione%20dei%20magazzini%20di%20vendita%20dei%20generi%20di%20monopolio.%20045U0251.md);
+Visto il [decreto legislativo luogotenenziale 10 maggio 1945, n. 251](Temporanea%20modificazione%20del%20sistema%20di%20pagamento%20delle%20spese%20di%20gestione%20dei%20magazzini%20di%20vendita%20dei%20generi%20di%20monopolio.%20045U0251.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

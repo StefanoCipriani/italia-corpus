@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La [lettera a) dell'art. 156 del regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' sostituita dalla seguente:
+La [lettera a) dell'art. 156 del regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' sostituita dalla seguente:
 
  a) per gli ufficiali dell'Esercito e della Guardia di finanza:
  tenente............................................... anni 4
@@ -27,7 +27,7 @@ La [lettera a) dell'art. 156 del regio decreto 11 novembre 1923, n. 2395](../Reg
  generale di brigata, e gradi corrispondenti........... " 28
  generale di divisione e gradi corrispondenti.......... " 30
 
- La [lettera b) dell'art. 156 del regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' sostituita dalla seguente:
+ La [lettera b) dell'art. 156 del regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' sostituita dalla seguente:
 
  b) per gli ufficiali della, Marina. militare e delle Capitanerie di porto:
  sottotenente di vascello e gradi corrispondenti....... anni 4

@@ -18,7 +18,7 @@ Tutti i cittadini dello Stato che concorrono alla leva di mare, idonei alle armi
 
 ### Art. 2.
 
-Sono esclusi dal servizio militare e non possono far parte dell'Armata i condannati, in applicazione del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune, alla pena dell'ergastolo o alla pena della reclusione, che abbia per effetto o alla quale sia aggiunta l'interdizione perpetua dai pubblici uffici. 
+Sono esclusi dal servizio militare e non possono far parte dell'Armata i condannati, in applicazione del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune, alla pena dell'ergastolo o alla pena della reclusione, che abbia per effetto o alla quale sia aggiunta l'interdizione perpetua dai pubblici uffici. 
  
  La condanna pronunciata da un giudice straniero ad una pena corrispondente ad alcuna di quelle suindicate produce la esclusione dal servizio militare per decisione del Ministero per la marina. 
  
@@ -262,11 +262,11 @@ Gli inscritti che concorrono alla leva marittima e sono riconosciuti idonei al s
 
 ### Art. 27.
 
-Per l'assegnazione alle categorie del corpo Reale equipaggi marittimi e per la classifica degli arruolati di leva valgono le norme stabilite dall'art. 36 del testo unico delle leggi sull'ordinamento del corpo Reale equipaggi marittimi e stato giuridico dei sottufficiali della Regia marina approvato con [R. decreto 21 agosto 1924, n. 1525](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md).
+Per l'assegnazione alle categorie del corpo Reale equipaggi marittimi e per la classifica degli arruolati di leva valgono le norme stabilite dall'art. 36 del testo unico delle leggi sull'ordinamento del corpo Reale equipaggi marittimi e stato giuridico dei sottufficiali della Regia marina approvato con [R. decreto 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md).
 
 ### Art. 28.
 
-Per la classifica delle reclute di leva che all'atto dello arruolamento si trovino in possesso di speciali titoli di studio valgono le norme stabilite dall'art. 40 del testo unico delle leggi sull'ordinamento del corpo Reali equipaggi marittimi e stato giuridico dei sottufficiali della Regia marina approvato con [R. decreto 21 agosto 1924, n. 1525](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md).
+Per la classifica delle reclute di leva che all'atto dello arruolamento si trovino in possesso di speciali titoli di studio valgono le norme stabilite dall'art. 40 del testo unico delle leggi sull'ordinamento del corpo Reali equipaggi marittimi e stato giuridico dei sottufficiali della Regia marina approvato con [R. decreto 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md).
 
 ### Art. 29.
 
@@ -414,7 +414,7 @@ Gli inscritti di leva marittima appartenenti alla classe chiamata o a classi pre
  
  Agli studenti delle Regie universita' e delle Regie scuole di ingegneria appartenenti alla leva di mare che abbiano seguito almeno due corsi di cultura militare ed abbiano superato i relativi esami si applicano, per l'ammissione negli ufficiali di complemento, le disposizioni di cui al [R. decreto-legge 7 agosto 1925, n. 1615](Istituzione%20presso%20le%20Regie%20universita%20e%20le%20Regie%20scuole%20di%20ingegneria%20di%20scuole%20speciali%20o%20di%20perfezionamento%20e%20corsi%20speciali%20di%20storia%20militare%20o%20di%20cultura%20scientifica%20relativa%20alla%20t_17ca141c0826.md), e sue successive modificazioni. 
  
- Per le reclute di leva che all'atto dell'arruolamento si trovino in possesso di speciali titoli di studio valgono le norme di cui all'art. 40 del testo unico delle leggi sull'ordinamento del corpo Reale equipaggi marittimi e stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto del 21 agosto 1924, n. 1525](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), e sue successive modificazioni.
+ Per le reclute di leva che all'atto dell'arruolamento si trovino in possesso di speciali titoli di studio valgono le norme di cui all'art. 40 del testo unico delle leggi sull'ordinamento del corpo Reale equipaggi marittimi e stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto del 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), e sue successive modificazioni.
 
 ### Art. 43.
 
@@ -474,7 +474,7 @@ Le norme per gli arruolamenti volontari nel corpo Reale equipaggi marittimi sono
 
 I cittadini dello Stato possono essere ammessi a contrarre volontario arruolamento nel corpo Reale equipaggi marittimi quando soddisfino alle seguenti condizioni: 
  
- 1° abbiano un'eta' compresa fra i limiti minimi e massimi di cui all'art. 12 del testo unico delle leggi sull'ordinamento del corpo Reale equipaggi marittimi e stato giuridico dei sottufficiali della Regia marina approvato con [Regio decreto 21 agosto 1924, n. 1525](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), e successive modificazioni; 
+ 1° abbiano un'eta' compresa fra i limiti minimi e massimi di cui all'art. 12 del testo unico delle leggi sull'ordinamento del corpo Reale equipaggi marittimi e stato giuridico dei sottufficiali della Regia marina approvato con [Regio decreto 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), e successive modificazioni; 
  
  2° non siano ammogliati o vedovi con prole se non hanno ancora compiuto il 26° anno di eta'; 
  
@@ -538,7 +538,7 @@ La durata della ferma ordinaria di leva e' di ventotto mesi, e decorre dal giorn
 
 ### Art. 57.
 
-Contraggono la ferma di sei, di quattro e di tre anni i volontari, e la decorrenza e' regolata dal testo unico dell'ordinamento del corpo Reale equipaggi marittimi e stato giuridico dei sottufficiali della Regia marina approvato con [R. decreto 21 agosto 1924, n. 1525](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), e sue successive modificazioni. 
+Contraggono la ferma di sei, di quattro e di tre anni i volontari, e la decorrenza e' regolata dal testo unico dell'ordinamento del corpo Reale equipaggi marittimi e stato giuridico dei sottufficiali della Regia marina approvato con [R. decreto 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), e sue successive modificazioni. 
  
  Gli aspiranti alla nomina ad ufficiale subalterno in uno dei corpi militari della Regia marina debbono contrarre arruolamento volontario nella R. marina con la ferma nel corpo Reale equipaggi marittimi della durata e decorrenza stabilita dalla legge sull'ordinamento della Regia marina.
 
@@ -592,7 +592,7 @@ Il diritto di essere inviato in congedo illimitato, di essere ammesso alla riduz
 
 ### Art. 66.
 
-Per la riammissione sotto le armi dei sottufficiali e sottocapi volontari valgono le norme di cui all'art. 22 del testo unico delle leggi sull'ordinamento del corpo Reale equipaggi marittimi e stato giuridico dei sottufficiali della Regia marina approvato con [R. decreto 21 agosto 1924, n. 1525](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), e sue successive modificazioni. 
+Per la riammissione sotto le armi dei sottufficiali e sottocapi volontari valgono le norme di cui all'art. 22 del testo unico delle leggi sull'ordinamento del corpo Reale equipaggi marittimi e stato giuridico dei sottufficiali della Regia marina approvato con [R. decreto 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), e sue successive modificazioni. 
  
  I detti sottufficiali e sottocapi pero' non potranno essere riammessi col grado primitivo se mentre non erano sotto le armi ebbe luogo una guerra.
 
@@ -724,7 +724,7 @@ Gli inscritti di leva che scientemente producano documenti falsi od infedeli son
 
 ### Art. 91.
 
-L'inscritto che, per sottrarsi all'obbligo del servizio militare, commette in territorio estero dei reati preveduti nella presente legge o nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito secondo la legge italiana, ancorche' non si trovi nel Regno. 
+L'inscritto che, per sottrarsi all'obbligo del servizio militare, commette in territorio estero dei reati preveduti nella presente legge o nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito secondo la legge italiana, ancorche' non si trovi nel Regno. 
  
  Il cittadino o lo straniero che in territorio estero concorre in qualsiasi modo nel reato commesso dall'inscritto, soggiace alle pene stabilite dalla legge italiana ancorche' non si trovi nel territorio del Regno. 
  
@@ -810,7 +810,7 @@ I medici e chirurghi chiamati come periti nei casi preveduti dalla presente legg
 
 ### Art. 103.
 
-Qualunque ufficiale pubblico, agente od impiegato del Governo, che sotto qualsiasi pretesto abbia autorizzato od ammesso riduzioni di ferma, riforme, esclusioni e rafferme con premio, in opposizione al disposto della presente legge, ovvero abbia data arbitraria estensione sia alla durata del servizio, sia alle regole e condizioni della chiamata alle leve marittime o degli arruolamenti volontari, e' punito come reo di abuso di autorita' con le pene portate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle pene maggiori che sono prescritte dallo stesso Codice nel caso di circostanze che aggravino la colpa.
+Qualunque ufficiale pubblico, agente od impiegato del Governo, che sotto qualsiasi pretesto abbia autorizzato od ammesso riduzioni di ferma, riforme, esclusioni e rafferme con premio, in opposizione al disposto della presente legge, ovvero abbia data arbitraria estensione sia alla durata del servizio, sia alle regole e condizioni della chiamata alle leve marittime o degli arruolamenti volontari, e' punito come reo di abuso di autorita' con le pene portate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle pene maggiori che sono prescritte dallo stesso Codice nel caso di circostanze che aggravino la colpa.
 
 ### Art. 104.
 

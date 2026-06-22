@@ -64,7 +64,7 @@ Per essere nominato Podesta' occorre:
  
  b) essere cittadino italiano; 
  
- c) non aver subito condanne per i titoli indicati nell'articolo 25 della legge comunale e provinciale, nonche' per delitti contro la sicurezza dello Stato (titolo I del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)); 
+ c) non aver subito condanne per i titoli indicati nell'articolo 25 della legge comunale e provinciale, nonche' per delitti contro la sicurezza dello Stato (titolo I del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)); 
  
  d) aver conseguito, almeno, il diploma di maturita' classica o scientifica o di abilitazione tecnica o magistrale, ovvero titoli di studio, dei quali sia riconosciuta dal provveditore agli studi l'equipollenza. 
  
@@ -90,7 +90,7 @@ L'ufficio di Podesta' e di consultore municipale e' gratuito.
 
 ## Art. 13.
 
-Sono sottoposte all'approvazione della Giunta provinciale amministrativa le deliberazioni del Podesta' che riguardano le materie indicate nell'art. 217 della legge comunale e provinciale (testo unico approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md)) e quelle relative alla cancellazione d'iscrizioni ipotecarie, a svincoli di cauzione ed a ritiro di capitali. 
+Sono sottoposte all'approvazione della Giunta provinciale amministrativa le deliberazioni del Podesta' che riguardano le materie indicate nell'art. 217 della legge comunale e provinciale (testo unico approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md)) e quelle relative alla cancellazione d'iscrizioni ipotecarie, a svincoli di cauzione ed a ritiro di capitali. 
  
  Tutte le altre deliberazioni del Podesta' sono sottoposte all'approvazione del Prefetto.
 

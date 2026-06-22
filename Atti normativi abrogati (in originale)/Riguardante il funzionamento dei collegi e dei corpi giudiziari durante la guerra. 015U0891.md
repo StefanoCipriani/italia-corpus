@@ -14,7 +14,7 @@ Durante il periodo della guerra e quello di sei mesi successivi alla pubblicazio
  
  1. In caso di mancanza o impedimento del pretore, potra' essere chiamato a supplirlo, con decreto del primo presidente, un giudice di qualunque categoria appartenente ai tribunali o alle preture del distretto. 
  
- Per tale incarico sara' corrisposta l'indennita' stabilita dal [R. decreto 14 settembre 1862, n. 840](../Regi%20decreti/Che%20stabilisce%20le%20indennita%20da%20corrispondersi%20agli%20Impiegati%20di%20vari%20Dicasteri%20in%20missione%20per%20affari%20amministrativi.%20062U0840.md). 
+ Per tale incarico sara' corrisposta l'indennita' stabilita dal [R. decreto 14 settembre 1862, n. 840](Che%20stabilisce%20le%20indennita%20da%20corrispondersi%20agli%20Impiegati%20di%20vari%20Dicasteri%20in%20missione%20per%20affari%20amministrativi.%20062U0840.md). 
  
  La stessa supplenza potra' essere affidata, con decreto Ministeriale, ad un vice pretore anche onorario di altro mandamento. 
  
@@ -26,7 +26,7 @@ Durante il periodo della guerra e quello di sei mesi successivi alla pubblicazio
  
  3. Dopo un mese di tirocinio effettivo, gli uditori giudiziari potranno, previo parere favorevole dei capi di collegio in cui hanno fatto il tirocinio o dei capi del tribunale, se l'abbiano fatto nelle preture, essere desinati a prestar servizio, in qualita' di vice pretori, nelle preture che sono provvedute di titolare e dopo un mese di esercizio delle funzioni di vice pretore, potranno essere destinati nelle preture in supplenza dei pretori mancanti od impediti. 
  
- 4. Fino alla completa attuazione della legge 29 dicembre 1914, fermo per tutt'altro il disposto dell'[art. 9 del R. decreto 11 maggio 1913, n. 457](../Regi%20decreti/Portante%20norme%20per%20lattuazione%20di%20alcune%20disposizioni%20della%20legge%2019%20dicembre%201912%20n.%201311%20sullordinamento%20giudiziario.%20013U0457.md), i giudici e i sostituti procuratori del Re di 4ª categoria possono essere destinati nei mandamenti ad esercitarvi le funzioni di pretore, anche prima di aver compiuto nei tribunali un anno delle funzioni del rispettivo loro ufficio. 
+ 4. Fino alla completa attuazione della legge 29 dicembre 1914, fermo per tutt'altro il disposto dell'[art. 9 del R. decreto 11 maggio 1913, n. 457](Portante%20norme%20per%20lattuazione%20di%20alcune%20disposizioni%20della%20legge%2019%20dicembre%201912%20n.%201311%20sullordinamento%20giudiziario.%20013U0457.md), i giudici e i sostituti procuratori del Re di 4ª categoria possono essere destinati nei mandamenti ad esercitarvi le funzioni di pretore, anche prima di aver compiuto nei tribunali un anno delle funzioni del rispettivo loro ufficio. 
  
  Il presente decreto andra' in vigore dal giorno della sua pubblicazione nella Gazzetta ufficiale. 
  

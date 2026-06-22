@@ -28,7 +28,7 @@ E' autorizzata la spesa straordinaria di L. 45,000,000 al fine di provvedere all
 
 ## Art. 2.
 
-All'esecuzione dei lavori di cui trattasi provvedera' l'Amministrazione delle ferrovie dello Stato con le modalita' e norme che essa segue per i lavori ferroviari di carattere patrimoniale. Il Ministero dei lavori pubblici provvedera' in analogia a quanto e' disposto dall'[art. 78 del R. decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), a rimborsare l'Amministrazione ferroviaria delle spese all'uopo anticipate.
+All'esecuzione dei lavori di cui trattasi provvedera' l'Amministrazione delle ferrovie dello Stato con le modalita' e norme che essa segue per i lavori ferroviari di carattere patrimoniale. Il Ministero dei lavori pubblici provvedera' in analogia a quanto e' disposto dall'[art. 78 del R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), a rimborsare l'Amministrazione ferroviaria delle spese all'uopo anticipate.
 
 ## Art. 3.
 

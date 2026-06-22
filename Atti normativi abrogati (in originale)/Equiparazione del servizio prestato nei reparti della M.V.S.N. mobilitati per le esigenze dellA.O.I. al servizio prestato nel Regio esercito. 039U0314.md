@@ -22,7 +22,7 @@ Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato 
 
 Visto il testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con R. decreto 15 settembre 1932-X, n. 1514, e le successive modificazioni;
 
-Visto il regolamento sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 31 gennaio 1907, n. 145](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20sullo%20stato%20dei%20sottufficiali.%20007U0145.md), e le successive modificazioni;
+Visto il regolamento sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 31 gennaio 1907, n. 145](Che%20approva%20lannesso%20regolamento%20sullo%20stato%20dei%20sottufficiali.%20007U0145.md), e le successive modificazioni;
 
 Vista la legge 7 giugno 1934-XII, n. 899, sull'avanzamento degli ufficiali del Regio esercito, e le successive modificazioni;
 

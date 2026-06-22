@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sull'ordinamento degli istituti superiori di scienze economiche e commerciali approvato con [R. decreto 28 agosto 1924, n. 1618](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20degli%20Istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20024U1618.md), e il relativo regolamento approvato con [R. decreto 8 luglio 1925, n. 1227](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20degli%20istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20025U1227.md);
+Visto il testo unico delle leggi sull'ordinamento degli istituti superiori di scienze economiche e commerciali approvato con [R. decreto 28 agosto 1924, n. 1618](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20degli%20Istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20024U1618.md), e il relativo regolamento approvato con [R. decreto 8 luglio 1925, n. 1227](Approvazione%20del%20regolamento%20generale%20degli%20istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20025U1227.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta de Nostro Ministro Segretario di Stato per l'economia nazionale d
 
 ## Art. 1.
 
-E' istituita in Firenze presso il Regio istituto superiore di scienze sociali Cesare Alfieri una Regia facolta' di scienze economiche e commerciali nella quale si impartisce l'istruzione superiore economica e commerciale secondo le norme del testo unico approvato con [R. decreto 28 agosto 1924, n. 1618](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20degli%20Istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20024U1618.md), ed il relativo regolamento approvato con [R. decreto 8 luglio 1925, n. 1227](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20degli%20istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20025U1227.md).
+E' istituita in Firenze presso il Regio istituto superiore di scienze sociali Cesare Alfieri una Regia facolta' di scienze economiche e commerciali nella quale si impartisce l'istruzione superiore economica e commerciale secondo le norme del testo unico approvato con [R. decreto 28 agosto 1924, n. 1618](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20degli%20Istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20024U1618.md), ed il relativo regolamento approvato con [R. decreto 8 luglio 1925, n. 1227](Approvazione%20del%20regolamento%20generale%20degli%20istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20025U1227.md).
 
 ## Art. 2.
 

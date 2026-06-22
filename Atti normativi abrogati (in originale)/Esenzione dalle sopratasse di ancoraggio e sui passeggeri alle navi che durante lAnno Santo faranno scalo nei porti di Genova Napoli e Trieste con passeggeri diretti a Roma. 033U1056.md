@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge n. 349 del 2 agosto 1897](Riflettente%20un%20ulteriore%20stanziamento%20per%20lesecuzione%20delle%20nuove%20opere%20di%20sistemazione%20deglimpianti%20portuali%20e%20ferroviari%20a%20Genova.%20097U0349.md);
 
-Visto il [R decreto 21 dicembre 1899, n. 465](../Regi%20decreti/Col%20quale%20viene%20applicata%20una%20soprattassa%20di%20ancoraggio%20alle%20navi%20che%20approdano%20nel%20porto%20di%20Genova.%20099U0465.md);
+Visto il [R decreto 21 dicembre 1899, n. 465](Col%20quale%20viene%20applicata%20una%20soprattassa%20di%20ancoraggio%20alle%20navi%20che%20approdano%20nel%20porto%20di%20Genova.%20099U0465.md);
 
 Visto il [decreto Luogotenenziale 16 giugno 1915, n. 965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-16;965);
 
@@ -24,7 +24,7 @@ Visto il [decreto Luogotenenziale 10 marzo 1918, n. 448](https://www.normattiva.
 
 Visto il [R. decreto-legge 15 settembre 1923, n. 1997](Provvedimenti%20per%20le%20opere%20di%20ampliamento%20e%20di%20sistemazione%20del%20porto%20di%20Genova.%20023U1997.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visto il [R. decreto 25 marzo 1923, n. 1018](../Regi%20decreti/Che%20stabilisce%20le%20attribuzioni%20del%20R.%20commissario%20straordinario%20per%20il%20porto%20di%20Napoli.%20023U1018.md);
+Visto il [R. decreto 25 marzo 1923, n. 1018](Che%20stabilisce%20le%20attribuzioni%20del%20R.%20commissario%20straordinario%20per%20il%20porto%20di%20Napoli.%20023U1018.md);
 
 Visto il [R. decreto-legge 20 gennaio 1924, n. 214](Istituzione%20di%20una%20speciale%20centuria%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale%20per%20i%20servizi%20di%20polizia%20nel%20porto%20di%20Napoli.%20024U0214.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 

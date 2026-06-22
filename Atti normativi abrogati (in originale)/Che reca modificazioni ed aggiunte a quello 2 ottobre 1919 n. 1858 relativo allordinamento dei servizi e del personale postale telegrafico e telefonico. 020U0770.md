@@ -260,7 +260,7 @@ In tutti e tre i gruppi, la scelta e' fatta in base al servizio prestato, tenend
  
  Sono nominati prima coloro che posseggono titolo di studio non inferiore alla licenza ginnasiale, tecnica, od altro titolo equiparato o abbiano il grado di ufficiale nel R. esercito o abbiano ottenuto la idoneita' nei precedenti esami al posto di ufficiale o di applicato telefonico. 
  
- Sono nominati, dopo, coloro che abbiano superato l'esame di concorso per la promozione al grado di ausiliaria o di ufficiale d'ordine o di telefonista, o che tale grado abbiano conseguito in virtu' del testo unico approvato con [R. decreto 17 novembre 1912, n. 1329](../Regi%20decreti/Col%20quale%20viene%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20dellesercito.%20012U1329.md). 
+ Sono nominati, dopo, coloro che abbiano superato l'esame di concorso per la promozione al grado di ausiliaria o di ufficiale d'ordine o di telefonista, o che tale grado abbiano conseguito in virtu' del testo unico approvato con [R. decreto 17 novembre 1912, n. 1329](Col%20quale%20viene%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20dellesercito.%20012U1329.md). 
  
  Sono nominati in ultimo coloro che non posseggono i requisiti di cui innanzi e' detto. 
  
@@ -326,7 +326,7 @@ In tutti e tre i gruppi, la scelta e' fatta in base al servizio prestato, tenend
  
  Per la decorrenza della nomina vale la disposizione del secondo comma dell'art. 88. 
  
- Art. 93. - Sono nominati guardafili telegrafici e guardafili e giuntisti telefonici, rispettivamente (quadri I-A e I-B, tabella C ruolo servizi elettrici) gli attuali iscritti in albo ai sensi dell'art. 32 del regolamento speciale approvato con [R. decreto 12 maggio 1910, numero 680, e dell'art. 88](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20di%203ª%20categoria%20e%20per%20quello%20subalterno%20fuori%20ruolo%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20010U0680.md) del regolamento speciale approvato con [Regio decreto 16 maggio 1912, n. 574](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md). 
+ Art. 93. - Sono nominati guardafili telegrafici e guardafili e giuntisti telefonici, rispettivamente (quadri I-A e I-B, tabella C ruolo servizi elettrici) gli attuali iscritti in albo ai sensi dell'art. 32 del regolamento speciale approvato con [R. decreto 12 maggio 1910, numero 680, e dell'art. 88](Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20di%203ª%20categoria%20e%20per%20quello%20subalterno%20fuori%20ruolo%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20010U0680.md) del regolamento speciale approvato con [Regio decreto 16 maggio 1912, n. 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md). 
  
  La nomina decorre dal 1° settembre 1919 anche se trovansi ancora sotto le armi in qualita' di richiamato o trattenuto, per coloro che abbiano compiuto il 21° anno di eta'. Coloro che a tale data non abbiano compiuto il 21° anno saranno nominati al raggiungimento di tale eta'. 
  
@@ -338,9 +338,9 @@ In tutti e tre i gruppi, la scelta e' fatta in base al servizio prestato, tenend
  
  Quelli infine che non hanno compiuto il 19° anno saranno nominati fattorini (quadri II, citati) al raggiungimento di tale eta', ed in ogni modo, non prima di avere compiuto due anni di servizio fuori ruolo. 
  
- Il compenso per il recapito dei telegrammi e degli espressi di cui al [R. decreto 13 luglio 1919, n. 1379](../Regi%20decreti/Che%20aumenta%20la%20retribuzione%20degli%20impiegati%20avventizi%20operai%20ed%20agenti%20subalterni%20avventizi%20e%20del%20personale%20fuori%20ruolo%20dellAmministrazione%20postale%20telegrafica%20e%20telefonica.%20019U1379.md), e' ridotto, per i fattorini di cui al secondo comma del presente articolo, a centesimi 5. 
+ Il compenso per il recapito dei telegrammi e degli espressi di cui al [R. decreto 13 luglio 1919, n. 1379](Che%20aumenta%20la%20retribuzione%20degli%20impiegati%20avventizi%20operai%20ed%20agenti%20subalterni%20avventizi%20e%20del%20personale%20fuori%20ruolo%20dellAmministrazione%20postale%20telegrafica%20e%20telefonica.%20019U1379.md), e' ridotto, per i fattorini di cui al secondo comma del presente articolo, a centesimi 5. 
  
- Le stesse disposizioni, si applicano ai fattorini telefonici di cui all'art. 94 del regolamento speciale approvato con [R. decreto 16 maggio 1912, n. 574](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md). 
+ Le stesse disposizioni, si applicano ai fattorini telefonici di cui all'art. 94 del regolamento speciale approvato con [R. decreto 16 maggio 1912, n. 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md). 
  
  Art. 95. - Gli invalidi della guerra, assunti in servizio in qualita' di impiegati assimilati ad avventizi, fino alla data del presente decreto e quelli che risulteranno idonei nel secondo corso d'istruzione postelegrafonica presso le scuole statali di rieducazione dell'Opera nazionale, sono nominati: 
  
@@ -378,7 +378,7 @@ In tutti e tre i gruppi, la scelta e' fatta in base al servizio prestato, tenend
  
  Per coloro che non abbiano compiuto il 21° anno di eta', la nomina si consegue dal primo giorno del mese successivo al raggiungimento di tale eta', e al compimento del biennio o quadriennio di servizio di cui al comma precedente. 
  
- Per quelli che non fossero forniti del prescritto titolo di studio potra' valere l'esito favorevole della prova di esame di cui all'articolo 33, lettera b), del regolamento approvato con [Regio decreto 12 maggio 1910, n. 680](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20di%203ª%20categoria%20e%20per%20quello%20subalterno%20fuori%20ruolo%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20010U0680.md). 
+ Per quelli che non fossero forniti del prescritto titolo di studio potra' valere l'esito favorevole della prova di esame di cui all'articolo 33, lettera b), del regolamento approvato con [Regio decreto 12 maggio 1910, n. 680](Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20di%203ª%20categoria%20e%20per%20quello%20subalterno%20fuori%20ruolo%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20010U0680.md). 
  
  Art. 101. - Gli operai avventizi e i giornalieri assunti fino al 30 giugno 1919 con funzioni di guardafili telegrafici o telefonici o con mansioni di fatica i quali posseggano i requisiti, di cui all'articolo 99, sono nominati guardafili telegrafici o guardafili o giuntisti telefonici o fattorini (quadri I-A, I-B, 2°, tabella C, rispettivamente ruolo servizi elettrici), a seconda delle speciali attitudini di ciascuno. 
  

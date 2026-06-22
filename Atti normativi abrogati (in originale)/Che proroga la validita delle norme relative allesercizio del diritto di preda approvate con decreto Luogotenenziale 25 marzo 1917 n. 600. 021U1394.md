@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [decreto Luogotenenziale n. 600 del 25 marzo 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-03-25;600), col quale furono approvate le norme relative all'esercizio del diritto di preda;
 
-Visto il [R. decreto 9 giugno 1921, n. 1213](../Regi%20decreti/Che%20proroga%20la%20durata%20in%20vigore%20delle%20norme%20relative%20allesercizio%20del%20diritto%20di%20preda.%20021U1213.md), col quale il termine di validita' delle norme anzidette veniva prorogato fino a nove mesi dopo la conclusione della pace;
+Visto il [R. decreto 9 giugno 1921, n. 1213](Che%20proroga%20la%20durata%20in%20vigore%20delle%20norme%20relative%20allesercizio%20del%20diritto%20di%20preda.%20021U1213.md), col quale il termine di validita' delle norme anzidette veniva prorogato fino a nove mesi dopo la conclusione della pace;
 
 Ritenuta la necessita' di prorogare ulteriormente la validita' delle norme stesse;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro ministro della marina, di concerto con i ministri degl
 
 ## Art. 1.
 
-Le norme relative all'esercizio del diritto di preda, approvate con [decreto Luogotenenziale n. 600 del 25 marzo 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-03-25;600), e prorogate con [R decreto 9 giugno 1921, n. 1213](../Regi%20decreti/Che%20proroga%20la%20durata%20in%20vigore%20delle%20norme%20relative%20allesercizio%20del%20diritto%20di%20preda.%20021U1213.md), avranno effetto fino al 31 dicembre 1921.
+Le norme relative all'esercizio del diritto di preda, approvate con [decreto Luogotenenziale n. 600 del 25 marzo 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-03-25;600), e prorogate con [R decreto 9 giugno 1921, n. 1213](Che%20proroga%20la%20durata%20in%20vigore%20delle%20norme%20relative%20allesercizio%20del%20diritto%20di%20preda.%20021U1213.md), avranno effetto fino al 31 dicembre 1921.
 
 ## Art. 2.
 

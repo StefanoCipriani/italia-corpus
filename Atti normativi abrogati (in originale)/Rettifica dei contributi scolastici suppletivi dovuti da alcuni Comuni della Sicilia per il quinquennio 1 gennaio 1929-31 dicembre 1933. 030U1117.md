@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 20 giugno 1929, n. 1677](Contributi%20dovuti%20dai%20Comuni%20delle%20provincie%20di%20Agrigento%20Caltanissetta%20Catania%20Enna%20Messina%20Palermo%20Ragusa%20Siracusa%20e%20Trapani%20per%20il%20quinquennio%201%20gennaio%201929-31%20dicembre%201933%20in%20applic_9a740df7418f.md), col quale furono stabiliti i contributi dovuti dai Comuni della Sicilia per il quinquennio 1 gennaio 1929-31 dicembre 1933 in applicazione dell'art. 55, lettera b, del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
+Veduto il [R. decreto 20 giugno 1929, n. 1677](Contributi%20dovuti%20dai%20Comuni%20delle%20provincie%20di%20Agrigento%20Caltanissetta%20Catania%20Enna%20Messina%20Palermo%20Ragusa%20Siracusa%20e%20Trapani%20per%20il%20quinquennio%201%20gennaio%201929-31%20dicembre%201933%20in%20applic_9a740df7418f.md), col quale furono stabiliti i contributi dovuti dai Comuni della Sicilia per il quinquennio 1 gennaio 1929-31 dicembre 1933 in applicazione dell'art. 55, lettera b, del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Veduto che a carico di alcuni dei predetti Comuni fu liquidato un contributo diverso da quello effettivamente dovuto, come risulta da un nuovo elenco delle scuole legalmente istituite ed esistenti nei Comuni stessi al 1 gennaio 1929: elenco compilato dal Regio provveditore agli studi di Palermo;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-I contributi che i Comuni indicati nell'elenco annesso al presente decreto debbono versare annualmente alla Regia tesoreria dello Stato, per il quinquennio 1 gennaio 1929-31 dicembre 1933, in applicazione dell'art. 55, lettera b, del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), sono rettificati come all'elenco stesso.
+I contributi che i Comuni indicati nell'elenco annesso al presente decreto debbono versare annualmente alla Regia tesoreria dello Stato, per il quinquennio 1 gennaio 1929-31 dicembre 1933, in applicazione dell'art. 55, lettera b, del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), sono rettificati come all'elenco stesso.
 
 ## Art. 2.
 

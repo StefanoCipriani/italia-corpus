@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-All'art. 230, primo comma, del regolamento approvato con [regio decreto 31 dicembre 1924, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), dopo le parole "possono concedersi soprassoldi ai salariati" e' soppressa la locuzione "esclusi gli operai giornalieri".
+All'art. 230, primo comma, del regolamento approvato con [regio decreto 31 dicembre 1924, n. 2262](Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), dopo le parole "possono concedersi soprassoldi ai salariati" e' soppressa la locuzione "esclusi gli operai giornalieri".
 
 ## Art. 2.
 
@@ -36,7 +36,7 @@ L'ultimo comma dell'art. 232 dello stesso regio decreto e' sostituito dal seguen
 
 ## Art. 4.
 
-Dall'osservanza delle norme di cui al capo XXI del [regio decreto 31 dicembre 1924, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), si prescinde nei riguardi dei salariati dipendenti dalla Amministrazione dei monopoli di Stato, per i quali il titolo e le misure degli eventuali soprassoldi saranno determinati con decreto dell'Amministrazione stessa in relazione alle specifiche esigenze delle proprie lavorazioni, d'intesa col Ministro per il tesoro.
+Dall'osservanza delle norme di cui al capo XXI del [regio decreto 31 dicembre 1924, n. 2262](Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), si prescinde nei riguardi dei salariati dipendenti dalla Amministrazione dei monopoli di Stato, per i quali il titolo e le misure degli eventuali soprassoldi saranno determinati con decreto dell'Amministrazione stessa in relazione alle specifiche esigenze delle proprie lavorazioni, d'intesa col Ministro per il tesoro.
 
 ## Art. 5.
 

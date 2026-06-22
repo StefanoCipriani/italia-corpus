@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti gli articoli 12, 15, 16, 20, 31, 32, 132 e 134 del decreto Reale 30 dicembre 1923, n. 3256, che approva il testo unico delle leggi sulle bonificazioni delle paludi e dei terreni paludosi;
 
-Visto l'[art. 1 del R. decreto-legge 28 ottobre 1921, n. 1560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-10-28;1560#art_1), sulla concessione delle opere di bonifica di prima categoria col sistema del riparto delle spese «a consuntivo» e l'articolo 133 del citato testo unico delle leggi sulle bonificazioni approvato col [R. decreto 30 dicembre 1923, n. 3256](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20bonificazioni%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20023U3256.md);
+Visto l'[art. 1 del R. decreto-legge 28 ottobre 1921, n. 1560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-10-28;1560#art_1), sulla concessione delle opere di bonifica di prima categoria col sistema del riparto delle spese «a consuntivo» e l'articolo 133 del citato testo unico delle leggi sulle bonificazioni approvato col [R. decreto 30 dicembre 1923, n. 3256](Testo%20unico%20delle%20leggi%20sulle%20bonificazioni%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20023U3256.md);
 
 Udito il Consiglio dei Ministri;
 

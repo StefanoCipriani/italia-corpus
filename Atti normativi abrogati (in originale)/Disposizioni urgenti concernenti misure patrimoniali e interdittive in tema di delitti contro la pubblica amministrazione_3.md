@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Quando e' disposto il giudizio o comunque si procede al giudizio in ordine a taluno dei delitti previsti dagli articoli 314, primo comma, 317, 318, primo comma, 319, 319-ter, 320, 321, 323, secondo comma, e 326, terzo comma, prima parte, del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), su richiesta del pubblico ministero il giudice dispone, con decreto motivato, il sequestro di beni dell'imputato, nei limiti del valore pari all'effettivo vantaggio patrimoniale o al concreto profitto derivati dal reato, ovvero, per i delitti di concussione o corruzione, pari a quanto dato o ricevuto.
+Quando e' disposto il giudizio o comunque si procede al giudizio in ordine a taluno dei delitti previsti dagli articoli 314, primo comma, 317, 318, primo comma, 319, 319-ter, 320, 321, 323, secondo comma, e 326, terzo comma, prima parte, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), su richiesta del pubblico ministero il giudice dispone, con decreto motivato, il sequestro di beni dell'imputato, nei limiti del valore pari all'effettivo vantaggio patrimoniale o al concreto profitto derivati dal reato, ovvero, per i delitti di concussione o corruzione, pari a quanto dato o ricevuto.
 
 2.
 
@@ -32,7 +32,7 @@ Il pubblico ministero puo' procedere ad indagini sulle disponibilita' patrimonia
 
 3.
 
-Il provvedimento di sequestro indicato nel comma 1 e' adottato dal giudice competente in ordine alle misure cautelari, a norma degli [articoli 279 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_279) e 91 del [decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), recante le norme di attuazione, di coordinamento e transitorie dello stesso codice; prima della trasmissione degli atti al giudice competente per il giudizio, provvede il giudice per le indagini preliminari.
+Il provvedimento di sequestro indicato nel comma 1 e' adottato dal giudice competente in ordine alle misure cautelari, a norma degli [articoli 279 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_279) e 91 del [decreto legislativo 28 luglio 1989, n. 271](../Codici/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), recante le norme di attuazione, di coordinamento e transitorie dello stesso codice; prima della trasmissione degli atti al giudice competente per il giudizio, provvede il giudice per le indagini preliminari.
 
 4.
 
@@ -49,11 +49,11 @@ L'interessato puo' chiedere al giudice che si proceda all'espletamento di una pe
 
 7.
 
-Con la sentenza di condanna ovvero con la sentenza prevista dall'[articolo 444, comma 2, del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444-com2) per taluno dei delitti indicati nel comma 1, il giudice dispone, nel limite del valore ivi indicato, quale accertato in giudizio, la confisca dei beni sottoposti a sequestro, a norma dell'[articolo 240, secondo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ovvero la confisca della somma depositata a titolo di cauzione, o dispone che si proceda ad esecuzione sui beni costituiti in garanzia.
+Con la sentenza di condanna ovvero con la sentenza prevista dall'[articolo 444, comma 2, del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444-com2) per taluno dei delitti indicati nel comma 1, il giudice dispone, nel limite del valore ivi indicato, quale accertato in giudizio, la confisca dei beni sottoposti a sequestro, a norma dell'[articolo 240, secondo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ovvero la confisca della somma depositata a titolo di cauzione, o dispone che si proceda ad esecuzione sui beni costituiti in garanzia.
 
 8.
 
-Per l'esecuzione della confisca si osservano le disposizioni relative all'esecuzione della misura di sicurezza di cui all'[articolo 240 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); l'esecuzione sui beni costituiti in garanzia ha luogo nelle forme prescritte dal [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443).
+Per l'esecuzione della confisca si osservano le disposizioni relative all'esecuzione della misura di sicurezza di cui all'[articolo 240 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); l'esecuzione sui beni costituiti in garanzia ha luogo nelle forme prescritte dal [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443).
 
 ## Art. 2. — Sequestro e confisca di beni dell'impresa
 
@@ -65,7 +65,7 @@ Quando risulta che il soggetto nei cui confronti si procede per il delitto di co
 
 1.
 
-Salva l'applicazione delle pene accessorie previste dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), la sentenza di condanna per taluno dei delitti indicati nell'articolo 1 determina l'applicazione dei divieti e delle decadenze di cui all'[articolo 10, commi 1](Disposizioni%20contro%20la%20mafia.md) e [2, della legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), per un periodo di cinque anni.
+Salva l'applicazione delle pene accessorie previste dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), la sentenza di condanna per taluno dei delitti indicati nell'articolo 1 determina l'applicazione dei divieti e delle decadenze di cui all'[articolo 10, commi 1](Disposizioni%20contro%20la%20mafia.md) e [2, della legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), per un periodo di cinque anni.
 
 2.
 
@@ -73,14 +73,14 @@ La disposizione del comma 1 non si applica in caso di condanna pronunciata con l
 
 3.
 
-L'[articolo 32-quater del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), introdotto dall'[articolo 120 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_120), e sostituito dall'[articolo 21 della legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55#art_21), e' ulteriormente sostituito dal seguente: 
+L'[articolo 32-quater del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), introdotto dall'[articolo 120 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_120), e sostituito dall'[articolo 21 della legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55#art_21), e' ulteriormente sostituito dal seguente: 
  "Art. 32-quater (Casi nei quali alla condanna consegue l'incapacita' di contrattare con la pubblica amministrazione). - Ogni condanna per i delitti previsti dagli articoli 316- bis, 317, 318, 319, 319- bis, 320, 321, 322, 353, 355, 356, 416, 416- bis, 437, 501, 501- bis, 640, numero 1) del secondo comma, 640- bis, commessi in danno o in vantaggio di un'attivita' imprenditoriale o comunque in relazione ad essa, importa l'incapacita' di contrattare con la pubblica amministrazione.".
 
 ## Art. 4. — Accertamenti di irregolarita' amministrative
 
 1.
 
-Se nel corso del procedimento penale per uno dei reati indicati nell'articolo 1, comma 1, risultano sufficienti indizi di gravi irregolarita' da parte degli amministratori, dei sindaci, dei dirigenti di societa', ovvero dei soci al fine di commettere il reato di cui all'[articolo 321 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il pubblico ministero denuncia i fatti al tribunale per gli accertamenti e i provvedimenti di cui ai [commi secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2409-com2), [terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2409-com3), [quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2409-com4) e [quinto dell'articolo 2409 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2409-com5).
+Se nel corso del procedimento penale per uno dei reati indicati nell'articolo 1, comma 1, risultano sufficienti indizi di gravi irregolarita' da parte degli amministratori, dei sindaci, dei dirigenti di societa', ovvero dei soci al fine di commettere il reato di cui all'[articolo 321 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il pubblico ministero denuncia i fatti al tribunale per gli accertamenti e i provvedimenti di cui ai [commi secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2409-com2), [terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2409-com3), [quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2409-com4) e [quinto dell'articolo 2409 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2409-com5).
 
 ## Art. 5. — Possesso ingiustificato di valori
 

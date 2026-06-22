@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il presidente della Sezione lavoro e previdenza sociale dei Consigli provinciali dell'economia, di cui all'[art. 7 del R. decreto 29 marzo 1928, n. 1003](../Regi%20decreti/Disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U1003.md), e' nominato dal Ministro per le corporazioni, di concerto con i Ministri per l'economia nazionale e per l'interno. 
+Il presidente della Sezione lavoro e previdenza sociale dei Consigli provinciali dell'economia, di cui all'[art. 7 del R. decreto 29 marzo 1928, n. 1003](Disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U1003.md), e' nominato dal Ministro per le corporazioni, di concerto con i Ministri per l'economia nazionale e per l'interno. 
  
  Questa disposizione non si applica alle nomine che siano intervenute anteriormente alla pubblicazione della presente legge.
 
@@ -32,13 +32,13 @@ Quando la Sezione agricola e forestale del Consiglio provinciale dell'economia t
 
 ## Art. 3.
 
-I redditi considerati dall'[art. 18, lettera c), della legge 18 aprile 1926, n. 731](Istituzione%20dei%20Consigli%20provinciali%20delleconomia.%20026U0731.md), quando risultino iscritti nei ruoli della imposta di ricchezza mobile in categoria B, compresi i redditi provenienti da attivita' agrarie che non siano contemplati dal [R. decreto 4 gennaio 1923, n. 16](../Regi%20decreti/Concernente%20lapplicazione%20dellimposta%20di%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0016.md), nonche' in categoria C, in quanto questi ultimi provengano da attivita' industriali o commerciali, sono soggetti all'imposta dei Consigli provinciali dell'economia per l'ammontare iscritto nei ruoli stessi, indipendentemente dall'esistenza o comunque dal carattere dell'azienda o esercizio industriale o commerciale o agricolo, ovvero dall'esercizio di un'attivita' professionale. 
+I redditi considerati dall'[art. 18, lettera c), della legge 18 aprile 1926, n. 731](Istituzione%20dei%20Consigli%20provinciali%20delleconomia.%20026U0731.md), quando risultino iscritti nei ruoli della imposta di ricchezza mobile in categoria B, compresi i redditi provenienti da attivita' agrarie che non siano contemplati dal [R. decreto 4 gennaio 1923, n. 16](Concernente%20lapplicazione%20dellimposta%20di%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0016.md), nonche' in categoria C, in quanto questi ultimi provengano da attivita' industriali o commerciali, sono soggetti all'imposta dei Consigli provinciali dell'economia per l'ammontare iscritto nei ruoli stessi, indipendentemente dall'esistenza o comunque dal carattere dell'azienda o esercizio industriale o commerciale o agricolo, ovvero dall'esercizio di un'attivita' professionale. 
  
- Quando, invece, i detti redditi siano esenti dall'imposta di ricchezza mobile, in virtu' di leggi speciali, ovvero quando possano dar luogo a tassazione a norma dell'[art. 8 del Regio decreto 18 novembre 1923, n. 2538](../Regi%20decreti/Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), sulla tassa di patente, benche' non risultino iscritti nei ruoli dell'imposta di ricchezza mobile delle dette categorie, i medesimi Consigli provinciali dell'economia avranno facolta' di procedere ad accertamenti diretti. 
+ Quando, invece, i detti redditi siano esenti dall'imposta di ricchezza mobile, in virtu' di leggi speciali, ovvero quando possano dar luogo a tassazione a norma dell'[art. 8 del Regio decreto 18 novembre 1923, n. 2538](Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), sulla tassa di patente, benche' non risultino iscritti nei ruoli dell'imposta di ricchezza mobile delle dette categorie, i medesimi Consigli provinciali dell'economia avranno facolta' di procedere ad accertamenti diretti. 
  
  Il limite d'imposta risultante dall'art. 20, penultimo comma, della detta [legge 18 aprile 1926, n. 731](Istituzione%20dei%20Consigli%20provinciali%20delleconomia.%20026U0731.md), nei riguardi dei redditi assoggettabili a tassa di patente, e' abrogato. 
  
- L'imposta stabilita a favore dei Consigli provinciali dell'economia dal detto art. 18, lettera c), della citata [legge 18 aprile 1926, n. 731](Istituzione%20dei%20Consigli%20provinciali%20delleconomia.%20026U0731.md), gode non solo dei privilegi di cui al successivo art. 19 di tale legge, ma altresi' di quelli di cui agli articoli 62 e 63 del testo unico di legge approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), serie seconda. 
+ L'imposta stabilita a favore dei Consigli provinciali dell'economia dal detto art. 18, lettera c), della citata [legge 18 aprile 1926, n. 731](Istituzione%20dei%20Consigli%20provinciali%20delleconomia.%20026U0731.md), gode non solo dei privilegi di cui al successivo art. 19 di tale legge, ma altresi' di quelli di cui agli articoli 62 e 63 del testo unico di legge approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), serie seconda. 
  
  Sino a quando non sara' emanato il regolamento per la esecuzione delle leggi sui Consigli e Uffici provinciali dell'economia, e modificati in conseguenza i regolamenti speciali dei Consigli stessi, resteranno in vigore, in quanto applicabili, le disposizioni dei [commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-22;2578#art_1-com1) e [terzo dell'articolo 1 del R. decreto-legge 22 dicembre 1927, n. 2578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-22;2578#art_1-com3).
 
@@ -66,7 +66,7 @@ Mediante Regio decreto, promosso dal Ministro per l'economia nazionale di concer
 
 ## Art. 6.
 
-Sono devolute alla competenza della Commissione di cui all'[art. 208 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), le controversie derivanti dai provvedimenti: 
+Sono devolute alla competenza della Commissione di cui all'[art. 208 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), le controversie derivanti dai provvedimenti: 
  
  a) per il primo inquadramento del personale considerato nel precedente art. 4, comma primo, sia che i provvedimenti impugnati riguardino valutazioni di anzianita' e attribuzioni di stipendio, o altri assegni, sia che riguardino il conferimento dei gradi, anche per promozioni, nei nuovi ruoli degli Uffici provinciali dell'economia; 
  
@@ -74,7 +74,7 @@ Sono devolute alla competenza della Commissione di cui all'[art. 208 del R. decr
  
  Alla Commissione medesima e' inoltre devoluta la cognizione delle impugnative, per incompetenza o violazione di legge, avverso i provvedimenti di eliminazione adottati a norma dell'[art. 16 del R. decreto-legge 16 giugno 1927, n. 1071](Uffici%20e%20Consigli%20provinciali%20delleconomia.%20027U1071.md), nei riguardi del personale esuberante ovvero tecnicamente o politicamente non atto alle nuove funzioni, nonche' delle controversie relative al trattamento spettante ad ogni titolo al personale stesso. 
  
- Alle dette controversie sono estese le norme di cui al citato [art. 208 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e all'[art. 3 del R. decreto 8 luglio 1925, n. 1172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-08;1172#art_3).
+ Alle dette controversie sono estese le norme di cui al citato [art. 208 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e all'[art. 3 del R. decreto 8 luglio 1925, n. 1172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-08;1172#art_3).
 
 ## Art. 7.
 

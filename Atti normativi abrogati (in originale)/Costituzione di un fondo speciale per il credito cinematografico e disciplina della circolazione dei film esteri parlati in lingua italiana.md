@@ -27,7 +27,7 @@ Tale diritto e' trasferibile.
 ## Art. 3.
 
 Le somme versate a norma dell'articolo precedente costituiranno uno speciale fondo amministrato dalla Sezione autonoma per il credito cinematografico della Banca nazionale del lavoro, da destinarsi esclusivamente alla concessione di finanziamenti per la produzione cinematografica nazionale.
- La gestione del fondo suddetto sara' tenuta separata e distinta da quella della Sezione autonoma per il credito cinematografico, ma sottoposta alla vigilanza, ai controlli e alle modalita' previste nel [regio decreto 14 novembre 1935, n. 2504](../Regi%20decreti/Costituzione%20presso%20la%20Banca%20nazionale%20del%20lavoro%20di%20una%20Sezione%20autonoma%20per%20il%20credito%20cinematografico.%20035U2504.md).
+ La gestione del fondo suddetto sara' tenuta separata e distinta da quella della Sezione autonoma per il credito cinematografico, ma sottoposta alla vigilanza, ai controlli e alle modalita' previste nel [regio decreto 14 novembre 1935, n. 2504](Costituzione%20presso%20la%20Banca%20nazionale%20del%20lavoro%20di%20una%20Sezione%20autonoma%20per%20il%20credito%20cinematografico.%20035U2504.md).
 
 ## Art. 4.
 

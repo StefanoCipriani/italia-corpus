@@ -60,7 +60,7 @@ Qualora la pena pecuniaria non sia soddisfatta nei modi preveduti dal secondo co
  
  Il decreto del Ministro per gli scambi e per le valute che infligge la pena pecuniaria ha efficacia di titolo esecutivo. 
  
- L'esecuzione ha luogo con l'osservanza del testo unico delle disposizioni di legge relative alla procedura coattiva per la riscossione delle entrate patrimoniali dello Stato e degli altri enti pubblici, dei proventi di demanio pubblico e di pubblici servizi e delle tasse sugli affari, approvato con [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
+ L'esecuzione ha luogo con l'osservanza del testo unico delle disposizioni di legge relative alla procedura coattiva per la riscossione delle entrate patrimoniali dello Stato e degli altri enti pubblici, dei proventi di demanio pubblico e di pubblici servizi e delle tasse sugli affari, approvato con [R. decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 ## Art. 8.
 
@@ -80,7 +80,7 @@ Gli autori delle violazioni prevedute dall'art. 1 possono essere arrestati e def
 
 ## Art. 10.
 
-I fatti commessi in violazione delle disposizioni indicate nell'art. 1, sono puniti con la reclusione fino a tre anni, indipendentemente dall'applicazione delle pene pecuniarie stabilite dall'art. 2 e sempreche' non costituiscano il reato preveduto dall'[art. 269 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o qualsiasi altro reato per il quale la legge commina una pena piu' grave: 
+I fatti commessi in violazione delle disposizioni indicate nell'art. 1, sono puniti con la reclusione fino a tre anni, indipendentemente dall'applicazione delle pene pecuniarie stabilite dall'art. 2 e sempreche' non costituiscano il reato preveduto dall'[art. 269 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o qualsiasi altro reato per il quale la legge commina una pena piu' grave: 
  
  1° quando il trasgressore, essendo dedito alle violazioni suindicate, viva abitualmente, anche in parte soltanto, dei proventi delle violazioni stesse; 
  
@@ -98,7 +98,7 @@ I provvedimenti che, a norma di questo decreto, sono demandati al Ministro per g
 
 ## Art. 12.
 
-Il Governo del Re e' autorizzato a riunire in testo unico, provvedendo al loro coordinamento, alla loro integrazione, e, ove occorra alla loro modificazione, le disposizioni legislative indicate nell'art. 1, nonche' quelle indicate nel [terzo comma dell'art. 2 del R. decreto 14 marzo 1938, n. 643](../Regi%20decreti/Disposizioni%20circa%20la%20competenza%20del%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20038U0643.md), contenente disposizioni circa la competenza del Ministero per gli scambi e per le valute.
+Il Governo del Re e' autorizzato a riunire in testo unico, provvedendo al loro coordinamento, alla loro integrazione, e, ove occorra alla loro modificazione, le disposizioni legislative indicate nell'art. 1, nonche' quelle indicate nel [terzo comma dell'art. 2 del R. decreto 14 marzo 1938, n. 643](Disposizioni%20circa%20la%20competenza%20del%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20038U0643.md), contenente disposizioni circa la competenza del Ministero per gli scambi e per le valute.
 
 ## Art. 13.
 

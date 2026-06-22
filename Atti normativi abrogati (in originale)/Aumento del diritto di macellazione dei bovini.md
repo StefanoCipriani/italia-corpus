@@ -26,7 +26,7 @@ Per provvedere alle spese di cui all'[art. 3 della legge 6 luglio 1912, n. 832](
 
 ## Art. 2.
 
-Il provento derivante dall'applicazione del diritto anzidetto sara' devoluto per un decimo ai Comuni e per le modalita' di riscossione e di versamento restano ferme le disposizioni del regolamento approvato con [regio decreto 19 dicembre 1912, n. 1395](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%206%20luglio%201912%20n.%20832%20riguardante%20provvedimenti%20a%20tutela%20e%20ad%20incremento%20della%20produzione%20zootecnica%20nazionale.%20012U1395.md).
+Il provento derivante dall'applicazione del diritto anzidetto sara' devoluto per un decimo ai Comuni e per le modalita' di riscossione e di versamento restano ferme le disposizioni del regolamento approvato con [regio decreto 19 dicembre 1912, n. 1395](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%206%20luglio%201912%20n.%20832%20riguardante%20provvedimenti%20a%20tutela%20e%20ad%20incremento%20della%20produzione%20zootecnica%20nazionale.%20012U1395.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

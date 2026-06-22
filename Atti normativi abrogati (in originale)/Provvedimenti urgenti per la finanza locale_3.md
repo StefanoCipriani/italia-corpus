@@ -274,7 +274,7 @@ La somma messa a disposizione dalla Cassa depositi e prestiti dovra' essere impe
 
 5.
 
-I comuni compresi nei territori di cui all'articolo 1 del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), nell'ambito dei propri programmi di investimento sono tenuti a realizzare con priorita' le opere necessarie a rendere funzionali ed operativi gli interventi eseguiti dalla Cassa per il Mezzogiorno nel settore delle opere idriche e di quelle igieniche.
+I comuni compresi nei territori di cui all'articolo 1 del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), nell'ambito dei propri programmi di investimento sono tenuti a realizzare con priorita' le opere necessarie a rendere funzionali ed operativi gli interventi eseguiti dalla Cassa per il Mezzogiorno nel settore delle opere idriche e di quelle igieniche.
 
 6.
 
@@ -412,7 +412,7 @@ La tassa e' commisurata alla superficie interna utile dei locali e delle aree ed
 
 2.
 
-Non si tiene conto, nella determinazione della superficie tassabile, delle aree di cui all'[art. 270, comma secondo, del regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), come modificato dall'[art. 21 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md).
+Non si tiene conto, nella determinazione della superficie tassabile, delle aree di cui all'[art. 270, comma secondo, del regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), come modificato dall'[art. 21 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md).
 
 3.
 
@@ -466,7 +466,7 @@ Sono esenti dalla tassa:
 2.
 
 I comuni hanno facolta' di determinare la riduzione fino al 50 per cento degli importi previsti nelle tariffe allegate al presente decreto per gli immobili adibiti ad abitazioni in edifici o comparti di edifici dichiarati particolarmente degradati ai sensi del [comma 5 dell'articolo 18 della legge 27 luglio 1978, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-27;392#art_18-com5), degli enti aventi fini di beneficenza, di istruzione e culturali, destinati esclusivamente all'esercizio delle loro attivita' istituzionali, e per gli immobili degli enti ecclesiastici civilmente riconosciuti, destinati esclusivamente all'esercizio delle attivita' di religione e di culto a norma dell'[articolo 16 della legge 20 maggio 1985, n. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-20;222#art_16); 
-per gli immobili non adibiti ad abitazione nell'ipotesi di utilizzazione o di esercizio di attivita' consentiti solo per periodi stagionali da licenza o autorizzazione rilasciata per l'esercizio dell'attivita' svolta; per le abitazioni rurali aventi i requisiti di cui all'[articolo 16 del regio decreto 8 ottobre 1931, n. 1572](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20nuovo%20catasto.%20031U1572.md), e, sempreche' non abbiano fini di lucro, per ospedali, musei e pinacoteche pubblici e privati, sedi di collettivita' aventi finalita' assistenziali.
+per gli immobili non adibiti ad abitazione nell'ipotesi di utilizzazione o di esercizio di attivita' consentiti solo per periodi stagionali da licenza o autorizzazione rilasciata per l'esercizio dell'attivita' svolta; per le abitazioni rurali aventi i requisiti di cui all'[articolo 16 del regio decreto 8 ottobre 1931, n. 1572](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20nuovo%20catasto.%20031U1572.md), e, sempreche' non abbiano fini di lucro, per ospedali, musei e pinacoteche pubblici e privati, sedi di collettivita' aventi finalita' assistenziali.
 
 3.
 
@@ -597,7 +597,7 @@ L'azione giudiziaria deve essere esperita entro novanta giorni dalla notificazio
 
 1.
 
-Se il contribuente non esegue il versamento nel termine indicato nell'avviso di liquidazione o nell'avviso di accertamento, il comune notifica ingiunzione di pagamento contenente l'ordine di pagare entro il termine di sessanta giorni. Alla riscossione coattiva si procede secondo le disposizioni del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
+Se il contribuente non esegue il versamento nel termine indicato nell'avviso di liquidazione o nell'avviso di accertamento, il comune notifica ingiunzione di pagamento contenente l'ordine di pagare entro il termine di sessanta giorni. Alla riscossione coattiva si procede secondo le disposizioni del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 2.
 
@@ -609,10 +609,10 @@ Il rimborso della tassa, delle sanzioni e degli interessi puo' essere richiesto 
 
 Con effetto dal 1° gennaio 1987 sono soppresse:
                             a)
-                                l'imposta sui cani di cui agli articoli da 130 a 135 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni. E' fatto comunque salvo l'obbligo di munirsi della piastrina metallica di riconoscimento di cui all'articolo 136 del predetto [regio decreto 14 settembre 1931, n. 
-1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md); il costo della piastrina e' corrisposto mediante versamento diretto alla tesoreria del comune;
+                                l'imposta sui cani di cui agli articoli da 130 a 135 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni. E' fatto comunque salvo l'obbligo di munirsi della piastrina metallica di riconoscimento di cui all'articolo 136 del predetto [regio decreto 14 settembre 1931, n. 
+1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md); il costo della piastrina e' corrisposto mediante versamento diretto alla tesoreria del comune;
                             b)
-                                la tassa per lo smaltimento dei rifiuti solidi urbani interni, di cui agli articoli 268 e successivi del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), nel testo sostituito dall'[articolo 21 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md).
+                                la tassa per lo smaltimento dei rifiuti solidi urbani interni, di cui agli articoli 268 e successivi del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), nel testo sostituito dall'[articolo 21 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md).
 
 2.
 
@@ -696,7 +696,7 @@ Il limite stabilito dal [secondo comma dell'articolo 17 della legge 10 maggio 19
 
 1.
 
-Le entrate derivanti ai comuni di Sanremo e Venezia dalle gestioni di cui al [regio decreto-legge 22 dicembre 1927, n. 2448](Provvedimenti%20a%20favore%20del%20comune%20di%20San%20Remo.%20027U2448.md), convertito dalla [legge 27 dicembre 1928, n. 3125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20dicembre%201927%20n.%202448%20recante%20provvedimenti%20a%20favore%20del%20comune%20di%20San%20Remo.%20028U3125.md), nonche' al [regio decreto-legge 16 luglio 1936, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-07-16;1404), convertito dalla [legge 14 gennaio 1937, n. 62](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2018%20luglio%201936-XIV%20n.%201404%20concernente%20lestensione%20al%20comune%20di%20Venezia%20delle%20disposizioni%20del%20R.%20decreto-legge%2022%20dicembre%201927-VI%20n.%202448%20conve_560219658717.md), sono considerate ad ogni effetto, fin dalla loro istituzione, entrate di natura pubblicistica, da classificarsi nel bilancio al titolo I, entrate tributarie.
+Le entrate derivanti ai comuni di Sanremo e Venezia dalle gestioni di cui al [regio decreto-legge 22 dicembre 1927, n. 2448](Provvedimenti%20a%20favore%20del%20comune%20di%20San%20Remo.%20027U2448.md), convertito dalla [legge 27 dicembre 1928, n. 3125](Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20dicembre%201927%20n.%202448%20recante%20provvedimenti%20a%20favore%20del%20comune%20di%20San%20Remo.%20028U3125.md), nonche' al [regio decreto-legge 16 luglio 1936, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-07-16;1404), convertito dalla [legge 14 gennaio 1937, n. 62](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2018%20luglio%201936-XIV%20n.%201404%20concernente%20lestensione%20al%20comune%20di%20Venezia%20delle%20disposizioni%20del%20R.%20decreto-legge%2022%20dicembre%201927-VI%20n.%202448%20conve_560219658717.md), sono considerate ad ogni effetto, fin dalla loro istituzione, entrate di natura pubblicistica, da classificarsi nel bilancio al titolo I, entrate tributarie.
 
 ### Art. 32. — Copertura finanziaria
 

@@ -152,7 +152,7 @@ L'aliquota complessiva a carico del datore di lavoro e' ridotta di dieci punti, 
 
 3.
 
-Per tutto quanto non disposto dal presente decreto in materia di infortuni sul lavoro e malattie professionali trovano applicazione le norme contenute nel testo unico approvato con [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), e successive modifiche ed integrazioni.
+Per tutto quanto non disposto dal presente decreto in materia di infortuni sul lavoro e malattie professionali trovano applicazione le norme contenute nel testo unico approvato con [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), e successive modifiche ed integrazioni.
 
 4.
 

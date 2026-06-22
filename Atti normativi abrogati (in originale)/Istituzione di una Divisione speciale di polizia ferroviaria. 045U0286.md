@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 2 aprile 1925, n. 383](Costituzione%20di%20un%20corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20025U0383.md), convertito nella [legge 25 marzo 1926, n. 742](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%202%20aprile%201925%20n.%20383%20relativo%20alla%20costituzione%20di%20un%20Corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20026U0742.md), relative, alla costituzione di un corpo di agenti di pubblica sicurezza;
+Visto il [R. decreto-legge 2 aprile 1925, n. 383](Costituzione%20di%20un%20corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20025U0383.md), convertito nella [legge 25 marzo 1926, n. 742](Conversione%20in%20legge%20del%20Regio%20decreto-legge%202%20aprile%201925%20n.%20383%20relativo%20alla%20costituzione%20di%20un%20Corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20026U0742.md), relative, alla costituzione di un corpo di agenti di pubblica sicurezza;
 
 Visto il [R. decreto 30 novembre 1930, n. 1629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-30;1629), che approva il regolamento per il Corpo degli agenti di pubblica sicurezza;
 

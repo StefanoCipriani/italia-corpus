@@ -52,7 +52,7 @@ Le promozioni al grado di brigadiere ed a ciascuno dei gradi di maresciallo sono
 ## Art. 6.
 
 Il Ministero dell'interno, entro il termine di cui all'art. 1, indice i concorsi per le promozioni, in ciascun Corpo, ai gradi di maresciallo di 1ª, 2ª e 3ª classe, di brigadiere e di vice brigadiere, per il conferimento dei posti che si siano resi vacanti negli organici dei Corpi dei vigili del fuoco e per i quali non siano ancora stati espletati i concorsi previsti dagli [articoli 20](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md) e [24 del regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md), nonche' per i posti che si renderanno vacanti negli organici stessi entro i termini di cui agli articoli 1 e 7 del presente decreto. 
- Gli organici di cui sopra sono quelli riportati nella tabella allegato I al [regio decreto 16 marzo 1942, n. 700](../Regi%20decreti/Forza%20organica%20del%20Corpi%20dei%20vigili%20del%20fuoco.%20042U0700.md). 
+ Gli organici di cui sopra sono quelli riportati nella tabella allegato I al [regio decreto 16 marzo 1942, n. 700](Forza%20organica%20del%20Corpi%20dei%20vigili%20del%20fuoco.%20042U0700.md). 
  Il Ministero dell'interno stabilisce, altresi', il numero dei posti da mettere a concorso per ciascun grado in ciascun Corpo.
 
 ## Art. 7.

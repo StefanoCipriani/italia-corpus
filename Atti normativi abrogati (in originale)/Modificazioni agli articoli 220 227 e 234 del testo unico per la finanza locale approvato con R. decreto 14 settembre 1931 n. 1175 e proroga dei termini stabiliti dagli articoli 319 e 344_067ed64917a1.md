@@ -24,15 +24,15 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-Nella [lettera f) dell'art. 220 del R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e nel primo comma del successivo art. 227, alle parole «concessi od autorizzati» sono sostituite le parole «pei quali sia devoluta al Ministero delle comunicazioni, di concerto col Ministero dei lavori pubblici, la competenza di approvare, nelle relative concessioni di esercizio, con le modalita', degli orari, anche le tariffe speciali».
+Nella [lettera f) dell'art. 220 del R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e nel primo comma del successivo art. 227, alle parole «concessi od autorizzati» sono sostituite le parole «pei quali sia devoluta al Ministero delle comunicazioni, di concerto col Ministero dei lavori pubblici, la competenza di approvare, nelle relative concessioni di esercizio, con le modalita', degli orari, anche le tariffe speciali».
 
 ## Art. 2.
 
-Nel [secondo comma dell'art. 234 del R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), alle parole «15 maggio» sono sostituite le parole «15 giugno».
+Nel [secondo comma dell'art. 234 del R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), alle parole «15 maggio» sono sostituite le parole «15 giugno».
 
 ## Art. 3.
 
-I termini di cui agli [articoli 319](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md) e [344 del R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), che andrebbero a scadere al 30 giugno 1933, giusta il [R. decreto-legge 26 maggio 1932, n. 610](Disposizioni%20per%20la%20eliminazione%20di%20disavanzi%20dei%20bilanci%20delle%20Provincie%20dellanno%201932.%20032U0610.md), sono prorogati fino al 30 giugno 1934. 
+I termini di cui agli [articoli 319](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md) e [344 del R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), che andrebbero a scadere al 30 giugno 1933, giusta il [R. decreto-legge 26 maggio 1932, n. 610](Disposizioni%20per%20la%20eliminazione%20di%20disavanzi%20dei%20bilanci%20delle%20Provincie%20dellanno%201932.%20032U0610.md), sono prorogati fino al 30 giugno 1934. 
  
  Il presente decreto verra' presentato al Parlamento per la conversione in legge. 
  

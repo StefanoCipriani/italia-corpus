@@ -25,7 +25,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-L'organico del Corpo di polizia penitenziaria stabilito dalla tabella A allegata al [decreto legislativo 12 maggio 1995, n. 200](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20del%20Corpo%20di%20polizia%20penitenziaria.md), e' aumentato nel ruolo degli agenti e degli assistenti di millequattrocento unita' di personale maschile.
+L'organico del Corpo di polizia penitenziaria stabilito dalla tabella A allegata al [decreto legislativo 12 maggio 1995, n. 200](../Decreti%20Legislativi/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20del%20Corpo%20di%20polizia%20penitenziaria.md), e' aumentato nel ruolo degli agenti e degli assistenti di millequattrocento unita' di personale maschile.
 
 2.
 
@@ -37,7 +37,7 @@ Per i posti restanti dopo l'applicazione del comma 2 si provvede mediante assunz
 
 4.
 
-Fermo quanto previsto dai commi 2 e 3 per le assunzioni di cui al comma 1, fino al 31 dicembre 1997 le assunzioni del personale del Corpo di polizia penitenziaria per l'accesso alla qualifica di agente hanno luogo anche in eccedenza rispetto alla consistenza numerica del ruolo degli agenti e degli assistenti di cui alla tabella A allegata al [decreto legislativo 12 maggio 1995, n. 200](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20del%20Corpo%20di%20polizia%20penitenziaria.md), cosi' come modificata dal comma 1, e comunque non oltre il limite delle vacanze esistenti nel ruolo dei sovrintendenti e degli ispettori di cui alla predetta tabella. Le conseguenti eccedenze nel ruolo degli agenti e degli assistenti sono riassorbite mediante le ordinarie procedure di avanzamento o per effetto delle assunzioni.
+Fermo quanto previsto dai commi 2 e 3 per le assunzioni di cui al comma 1, fino al 31 dicembre 1997 le assunzioni del personale del Corpo di polizia penitenziaria per l'accesso alla qualifica di agente hanno luogo anche in eccedenza rispetto alla consistenza numerica del ruolo degli agenti e degli assistenti di cui alla tabella A allegata al [decreto legislativo 12 maggio 1995, n. 200](../Decreti%20Legislativi/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20del%20Corpo%20di%20polizia%20penitenziaria.md), cosi' come modificata dal comma 1, e comunque non oltre il limite delle vacanze esistenti nel ruolo dei sovrintendenti e degli ispettori di cui alla predetta tabella. Le conseguenti eccedenze nel ruolo degli agenti e degli assistenti sono riassorbite mediante le ordinarie procedure di avanzamento o per effetto delle assunzioni.
 
 5.
 
@@ -68,7 +68,7 @@ In luogo dell'istituzione di asili nido per i figli dei propri dipendenti, l'Amm
 
 1.
 
-Nell'[articolo 8, comma 1, lettera d), del decreto legislativo 12 maggio 1995, n. 200](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20del%20Corpo%20di%20polizia%20penitenziaria.md), le parole: "a norma dell'articolo 2," sono sostituite dalle seguenti: "a norma dell'articolo 7,".
+Nell'[articolo 8, comma 1, lettera d), del decreto legislativo 12 maggio 1995, n. 200](../Decreti%20Legislativi/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20del%20Corpo%20di%20polizia%20penitenziaria.md), le parole: "a norma dell'articolo 2," sono sostituite dalle seguenti: "a norma dell'articolo 7,".
 
 2.
 

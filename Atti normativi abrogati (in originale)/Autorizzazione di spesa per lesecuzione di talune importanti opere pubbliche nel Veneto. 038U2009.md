@@ -46,7 +46,7 @@ f) di L. 2.000.000 per la costruzione del palazzo di giustizia e di L. 1.200.000
 
 Lo Stato e' autorizzato a rimborsare al comune di Trieste fino al limite di L. 5.000.000 la spesa che sara' da questo sostenuta per lo spostamento del Passeggio di S. Andrea per l'ampliamento del cantiere S. Marco e al comune di Monfalcone fino al limite di L. 1.000.000 la spesa per la costruzione di una strada e di un ponte fisso sul canale navigabile in prolungamento del viale Regina Elena e del viale Oscar Cosulich per l'accesso al cantiere navale. 
  
- Il rimborso avverra' in base all'avanzamento dei lavori, confermato dall'Ufficio del Genio civile, salva l'applicazione dell'[art. 18 del R. decreto 8 febbraio 1923, n. 422](../Regi%20decreti/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md).
+ Il rimborso avverra' in base all'avanzamento dei lavori, confermato dall'Ufficio del Genio civile, salva l'applicazione dell'[art. 18 del R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md).
 
 ## Art. 3.
 
@@ -102,7 +102,7 @@ E' autorizzata la spesa di L. 17.400.000 per provvedere alla esecuzione di opere
 
 Lo Stato e' autorizzato a rimborsare al comune di Padova fino al limite di L. 2.000.000 la spesa che sara' da questo sostenuta per la sistemazione urbanistica delle vie interne costituenti la traversa interna della strada nazionale Milano-Venezia. 
  
- Il rimborso avverra' in base allo stato di avanzamento dei lavori confermato dall'Ufficio del Genio civile, salva l'applicazione dell'[art. 18 del R. decreto 8 febbraio 1923, n. 422](../Regi%20decreti/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md).
+ Il rimborso avverra' in base allo stato di avanzamento dei lavori confermato dall'Ufficio del Genio civile, salva l'applicazione dell'[art. 18 del R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md).
 
 ## Art. 13.
 

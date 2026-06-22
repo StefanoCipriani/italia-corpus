@@ -36,11 +36,11 @@ Fuori dei casi previsti nell'articolo precedente, sono condonate alle persone in
 
 I benefici di cui agli articoli 1 e 2 del presente decreto non si applicano: 
  
- 1° ai delitti contro la personalita' dello Stato previsti dal libro II, titolo I, del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 1° ai delitti contro la personalita' dello Stato previsti dal libro II, titolo I, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- 2° al delitto di infanticidio previsto dall'[art. 578 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 2° al delitto di infanticidio previsto dall'[art. 578 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- 3° ai reati concernenti le sostanze stupefacenti previsti negli [articoli 446](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [447](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [729](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [730 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e da altre disposizioni.
+ 3° ai reati concernenti le sostanze stupefacenti previsti negli [articoli 446](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [447](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [729](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [730 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e da altre disposizioni.
 
 ## Art. 4.
 
@@ -50,7 +50,7 @@ Le norme degli articoli 1, 2 e 3 non concernono i reati previsti dalla legge pen
 
 ## Art. 5.
 
-E' concessa nell'Africa Orientale Italiana alle persone indicate all'art. 1 amnistia per i reati per i quali la legge penale militare commina una pena detentiva non superiore ai sette anni, ovvero la pena pecuniaria, sola o congiunta a pena detentiva non eccedente il limite suddetto, ovvero alcune delle pene di cui ai [nn. 4](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [5](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [6 dell'art. 4 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo sola o congiunta ad una pena detentiva non eccedente il limite di 7 anni. 
+E' concessa nell'Africa Orientale Italiana alle persone indicate all'art. 1 amnistia per i reati per i quali la legge penale militare commina una pena detentiva non superiore ai sette anni, ovvero la pena pecuniaria, sola o congiunta a pena detentiva non eccedente il limite suddetto, ovvero alcune delle pene di cui ai [nn. 4](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [5](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [6 dell'art. 4 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo sola o congiunta ad una pena detentiva non eccedente il limite di 7 anni. 
  
  E' concessa amnistia per tutti i reati comuni giudicati dai Tribunali di guerra e puniti con pena detentiva, sola o congiunta a pene pecuniarie, non superiore ai cinque anni, oppure puniti con sola pena pecuniaria.
 
@@ -70,7 +70,7 @@ I benefici concessi con gli articoli 5 e 6 non si applicano ai reati di tradimen
 
 Sono esclusi dai benefici concessi dagli articoli 1, 2, 5 e 6 coloro che all'epoca del commesso reato avessero riportato due condanne per delitti non colposi a pene detentive, di cui una superiore a tre mesi, oppure tre o piu' condanne per delitti non colposi a pene detentive qualunque sia la misura di esse. 
  
- Agli effetti della esclusione dal beneficio non vanno computate le condanne per reati estinti da precedenti amnistie, ne' quelle per le quali siasi verificata la riabilitazione, ne' infine le condanne alle pene stabilite nei [nn. 3](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [4](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [5](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [6 dell'art. 4 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
+ Agli effetti della esclusione dal beneficio non vanno computate le condanne per reati estinti da precedenti amnistie, ne' quelle per le quali siasi verificata la riabilitazione, ne' infine le condanne alle pene stabilite nei [nn. 3](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [4](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [5](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [6 dell'art. 4 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
  
  Sono pure esclusi dal beneficio coloro che si trovano in stato di latitanza, salvo che si costituiscano in carcere entro tre mesi dalla data di entrata in vigore del presente decreto. Questa disposizione non si applica nel caso in cui la pena sia interamente condonata.
 

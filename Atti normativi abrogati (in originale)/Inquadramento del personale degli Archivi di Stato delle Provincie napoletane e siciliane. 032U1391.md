@@ -76,7 +76,7 @@ I collocamenti nei gradi, di cui agli articoli 3, 4 e 5, avranno luogo con attri
 
 ## Art. 7.
 
-Il trattamento di quiescenza degli impiegati e subalterni predetti sara' regolato dall'[art. 48 del R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
+Il trattamento di quiescenza degli impiegati e subalterni predetti sara' regolato dall'[art. 48 del R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
  Nel caso che l'importo della pensione sara' ripartito fra lo Stato e gli Istituti di previdenza amministrati dalla Direzione generale della Cassa depositi e prestiti, questa determinera' contabilmente la quota a suo carico secondo le proprie leggi e con la procedura di cui al [R. decreto-legge 28 marzo 1929, n. 519, e all'art. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-28;519#art_52) del [R. decreto 15 aprile 1926, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-15;679).
 
 ## Art. 8.

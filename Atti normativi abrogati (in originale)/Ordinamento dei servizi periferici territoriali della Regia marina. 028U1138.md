@@ -195,7 +195,7 @@ I tribunali militari marittimi hanno sede in La Spezia, Taranto e Venezia.
  
  I tribunali militari marittimi sono alla diretta dipendenza dell'Avvocatura generale militare. Sono inoltre dipendenti dal Comando in capo del Dipartimento marittimo dell'Alto Tirreno, quello di La Spezia; dal Comando in capo del Dipartimento marittimo dello Jonio e Basso Adriatico quelli di Taranto e Venezia. 
  
- I tribunali militari marittimi sono costituiti secondo e' stabilito dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
+ I tribunali militari marittimi sono costituiti secondo e' stabilito dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
 
 ### Art. 18.
 

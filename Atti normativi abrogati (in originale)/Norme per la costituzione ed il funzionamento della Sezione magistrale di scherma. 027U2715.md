@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 dicembre 1923, n. 3227](../Regi%20decreti/Reclutamento%20e%20trattamento%20economico%20dei%20sottotenenti%20maestri%20di%20scherma.%20023U3227.md);
+Visto il [R. decreto 31 dicembre 1923, n. 3227](Reclutamento%20e%20trattamento%20economico%20dei%20sottotenenti%20maestri%20di%20scherma.%20023U3227.md);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Visto il [R. decreto-legge 16 ottobre 1919, n. 1986](Che%20regola%20lo%20stato%20giuridico%20ed%20economico%20dei%20sottufficiali%20del%20R.%20esercito.%20019U1986.md), e successive modificazioni;
 
@@ -62,7 +62,7 @@ I sottufficiali del Regio esercito, i quali abbiano frequentato i corsi della Se
 
 ## Art. 5.
 
-Ai sottotenenti maestri di scherma e' dovuto il trattamento economico per essi stabilito dal [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
+Ai sottotenenti maestri di scherma e' dovuto il trattamento economico per essi stabilito dal [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  Ai medesimi sono applicabili tutte le leggi ed i regolamenti che riguardano gli ufficiali del Regio esercito. 
  
@@ -98,7 +98,7 @@ Il maestro direttore tecnico della Sezione magistrale di scherma e' nominato in 
 
 ## Art. 11.
 
-Il maestro direttore tecnico della Sezione magistrale di scherma e' assegnato al grado 9°, gruppo B, della tabella 1 annessa al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
+Il maestro direttore tecnico della Sezione magistrale di scherma e' assegnato al grado 9°, gruppo B, della tabella 1 annessa al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  La tabella di cui all'[art. 12 della legge 11 marzo 1926, n. 400](Nuovo%20ordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20026U0400.md), e' aumentata di un posto del grado 9° - maestro direttore tecnico - e diminuita di due posti nei gradi 10° e 11°. 
  
@@ -126,7 +126,7 @@ Tutti gli altri sottotenenti, dichiarati non idonei, negli esperimenti, a ricopr
 
 Le presenti norme si applicano a datare dai corsi iniziati nell'anno scolastico 1927-28. 
  
- Sono anche applicabili agli allievi del corso iniziato nell'anno 1926-27 a sensi dell'[art. 3 del R. decreto 31 dicembre 1923, n. 3227](../Regi%20decreti/Reclutamento%20e%20trattamento%20economico%20dei%20sottotenenti%20maestri%20di%20scherma.%20023U3227.md), ferma restando, per questi ultimi, la durata di due anni del corso, e salvo il limite massimo di eta' per la nomina a sottotenente, di cui all'art. 4 del presente decreto, che resta per essi stabilito in anni 31.
+ Sono anche applicabili agli allievi del corso iniziato nell'anno 1926-27 a sensi dell'[art. 3 del R. decreto 31 dicembre 1923, n. 3227](Reclutamento%20e%20trattamento%20economico%20dei%20sottotenenti%20maestri%20di%20scherma.%20023U3227.md), ferma restando, per questi ultimi, la durata di due anni del corso, e salvo il limite massimo di eta' per la nomina a sottotenente, di cui all'art. 4 del presente decreto, che resta per essi stabilito in anni 31.
 
 ### Art. 16.
 

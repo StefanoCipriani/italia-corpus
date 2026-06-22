@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visti il [R. decreto-legge 18 maggio 1941, n. 452](Sistemazione%20dei%20territori%20che%20sono%20venuti%20a%20far%20parte%20integrante%20del%20Regno%20dItalia.%20041U0452.md), convertito nella [legge 27 aprile 1943, n. 386](Conversione%20in%20legge%20del%20Regio%20decreto-legge%2018%20maggio%201941-XIX%20n.%20452%20concernente%20la%20sistemazione%20dei%20territori%20della%20Dalmazia%20che%20sono%20venuti%20a%20far%20parte%20integrante%20del%20Regno%20dItalia.%20043U0386.md), e il [R. decreto 7 giugno 1941, n. 453](../Regi%20decreti/Circoscrizioni%20territoriali%20delle%20provincie%20di%20Zara%20Spalato%20e%20Cattaro%20e%20attribuzioni%20del%20Governatore%20della%20Dalmazia.%20041U0453.md), riguardanti, rispettivamente, la sistemazione dei territori che sono venuti a far parte integrante del Regno d'Italia, e le circoscrizioni territoriali delle provincie di Zara, Spalato e Cattaro e le attribuzioni del Governatore della Dalmazia;
+Visti il [R. decreto-legge 18 maggio 1941, n. 452](Sistemazione%20dei%20territori%20che%20sono%20venuti%20a%20far%20parte%20integrante%20del%20Regno%20dItalia.%20041U0452.md), convertito nella [legge 27 aprile 1943, n. 386](Conversione%20in%20legge%20del%20Regio%20decreto-legge%2018%20maggio%201941-XIX%20n.%20452%20concernente%20la%20sistemazione%20dei%20territori%20della%20Dalmazia%20che%20sono%20venuti%20a%20far%20parte%20integrante%20del%20Regno%20dItalia.%20043U0386.md), e il [R. decreto 7 giugno 1941, n. 453](Circoscrizioni%20territoriali%20delle%20provincie%20di%20Zara%20Spalato%20e%20Cattaro%20e%20attribuzioni%20del%20Governatore%20della%20Dalmazia.%20041U0453.md), riguardanti, rispettivamente, la sistemazione dei territori che sono venuti a far parte integrante del Regno d'Italia, e le circoscrizioni territoriali delle provincie di Zara, Spalato e Cattaro e le attribuzioni del Governatore della Dalmazia;
 
 Visto l'[art. 18 della legge 19 gennaio 1939, n. 129](Istituzione%20della%20Camera%20dei%20Fasci%20e%20delle%20Corporazioni.%20039U0129.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, d'intes
 
 Il Governatorato della Dalmazia e' soppresso. 
  
- Fino a nuove disposizioni restano in vigore i provvedimenti emanati dal Governatore a norma del [R. decreto 7 giugno 1941, n. 453](../Regi%20decreti/Circoscrizioni%20territoriali%20delle%20provincie%20di%20Zara%20Spalato%20e%20Cattaro%20e%20attribuzioni%20del%20Governatore%20della%20Dalmazia.%20041U0453.md).
+ Fino a nuove disposizioni restano in vigore i provvedimenti emanati dal Governatore a norma del [R. decreto 7 giugno 1941, n. 453](Circoscrizioni%20territoriali%20delle%20provincie%20di%20Zara%20Spalato%20e%20Cattaro%20e%20attribuzioni%20del%20Governatore%20della%20Dalmazia.%20041U0453.md).
 
 ## Art. 2.
 
@@ -38,7 +38,7 @@ Il Prefetto della provincia di Zara nei territori aggregati alla propria circosc
 
 ## Art. 3.
 
-Il [R. decreto 7 novembre 1941, n. 1303](../Regi%20decreti/Norme%20per%20lapplicazione%20della%20legge%204%20settembre%201941-XIX%20n.%201034%20riguardante%20lesecuzione%20dl%20opere%20pubbliche%20nelle%20provincie%20di%20Lubiana.%20Fiume%20Zara%20Spalato%20e%20Cattaro.%20041U1303.md), relativo alla esecuzione di opere pubbliche e' abrogato per la parte riguardante le opere stesse nei territori del Governatorato della Dalmazia; a tale esecuzione provvederanno i Ministeri dei lavori pubblici e dell'agricoltura e delle foreste.
+Il [R. decreto 7 novembre 1941, n. 1303](Norme%20per%20lapplicazione%20della%20legge%204%20settembre%201941-XIX%20n.%201034%20riguardante%20lesecuzione%20dl%20opere%20pubbliche%20nelle%20provincie%20di%20Lubiana.%20Fiume%20Zara%20Spalato%20e%20Cattaro.%20041U1303.md), relativo alla esecuzione di opere pubbliche e' abrogato per la parte riguardante le opere stesse nei territori del Governatorato della Dalmazia; a tale esecuzione provvederanno i Ministeri dei lavori pubblici e dell'agricoltura e delle foreste.
 
 ## Art. 4.
 

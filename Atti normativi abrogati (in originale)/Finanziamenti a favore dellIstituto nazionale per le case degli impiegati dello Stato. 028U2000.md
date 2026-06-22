@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 25 ottobre 1924, n. 1944](Disposizioni%20per%20fornire%20agli%20impiegati%20dello%20Stato%20civili%20e%20militari%20alloggi%20a%20condizioni%20favorevoli.%20024U1944.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), col quale e' stato creato l'Istituto nazionale per le case degli impiegati dello Stato;
 
-Visto il [R. decreto 20 novembre 1924, n. 1945](../Regi%20decreti/Approvazione%20delle%20norme%20per%20lesecuzione%20del%20R.%20decreto-legge%2025%20ottobre%201924%20n.%201944%20riguardante%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20024U1945.md), contenente le norme per l'esecuzione del [R. decreto-legge 25 ottobre 1924, n. 1944](Disposizioni%20per%20fornire%20agli%20impiegati%20dello%20Stato%20civili%20e%20militari%20alloggi%20a%20condizioni%20favorevoli.%20024U1944.md);
+Visto il [R. decreto 20 novembre 1924, n. 1945](Approvazione%20delle%20norme%20per%20lesecuzione%20del%20R.%20decreto-legge%2025%20ottobre%201924%20n.%201944%20riguardante%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20024U1945.md), contenente le norme per l'esecuzione del [R. decreto-legge 25 ottobre 1924, n. 1944](Disposizioni%20per%20fornire%20agli%20impiegati%20dello%20Stato%20civili%20e%20militari%20alloggi%20a%20condizioni%20favorevoli.%20024U1944.md);
 
 Visto l'[art. 32 del R. decreto-legge 7 febbraio 1926, n. 193](Ordinamento%20dei%20servizi%20preposti%20alla%20edilizia%20popolare%20ed%20economica%20ed%20altri%20provvedimenti%20in%20materia.%20026U0193.md), convertito nella [legge 15 luglio 1926, n. 1263](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1263.md), concernente i finanziamenti a favore del suddetto Istituto;
 
@@ -26,7 +26,7 @@ Visto il [R. decreto-legge 23 ottobre 1927, n. 430](https://www.normattiva.it/ur
 
 Considerata la necessita' e l'urgenza di una operazione di finanziamento con somministrazione di fondi da parte del Monte dei Paschi di Siena, in conto corrente alla Cassa depositi e prestiti per la concessione di mutui al detto Istituto;
 
-Considerata la necessita' e l'urgenza di autorizzare l'Istituto nazionale suddetto a costruire case in Rodi con parte dei fondi assegnati dal [R. decreto 27 gennaio 1927, n. 90](../Regi%20decreti/Assegnazione%20di%20somme%20prelevate%20dallavanzo%20effettivo%20dellesercizio%20finanziario%201925-26.%20027U0090.md); e di autorizzare a favore del detto Istituto un'altra operazione di finanziamento con la Cassa depositi e prestiti per costruzione di case nel Regno;
+Considerata la necessita' e l'urgenza di autorizzare l'Istituto nazionale suddetto a costruire case in Rodi con parte dei fondi assegnati dal [R. decreto 27 gennaio 1927, n. 90](Assegnazione%20di%20somme%20prelevate%20dallavanzo%20effettivo%20dellesercizio%20finanziario%201925-26.%20027U0090.md); e di autorizzare a favore del detto Istituto un'altra operazione di finanziamento con la Cassa depositi e prestiti per costruzione di case nel Regno;
 
 Considerata la necessita' e l'urgenza che i Comitati provinciali per la rappresentanza del detto Istituto e la Commissione per l'assegnazione degli alloggi in Roma sieno integrati con un rappresentante dell'Associazione generale fascista del pubblico impiego;
 
@@ -100,7 +100,7 @@ Nei riguardi dell'operazione prevista dal presente decreto, il Monte dei Paschi 
 
 ## Art. 9.
 
-L'Istituto nazionale per le case degli impiegati dello Stato e' autorizzato, in deroga alle norme che lo regolano, a costruire case in Rodi, nel limite di spesa di non oltre L. 1,500,000, avvalendosi della somma assegnata all'Istituto medesimo con [R. decreto 27 gennaio 1927, n. 90](../Regi%20decreti/Assegnazione%20di%20somme%20prelevate%20dallavanzo%20effettivo%20dellesercizio%20finanziario%201925-26.%20027U0090.md). 
+L'Istituto nazionale per le case degli impiegati dello Stato e' autorizzato, in deroga alle norme che lo regolano, a costruire case in Rodi, nel limite di spesa di non oltre L. 1,500,000, avvalendosi della somma assegnata all'Istituto medesimo con [R. decreto 27 gennaio 1927, n. 90](Assegnazione%20di%20somme%20prelevate%20dallavanzo%20effettivo%20dellesercizio%20finanziario%201925-26.%20027U0090.md). 
  
  Il Governatore delle Isole Egee ha la rappresentanza in Rodi, a tutti gli effetti, dell'Istituto nazionale per le case degli impiegati dello Stato. 
  

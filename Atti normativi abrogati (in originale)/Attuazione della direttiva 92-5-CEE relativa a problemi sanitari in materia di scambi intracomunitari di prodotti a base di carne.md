@@ -296,7 +296,7 @@ Gli stabilimenti di cui al comma 1, lettera b), devono essere in possesso dei re
 
 5.
 
-Per gli stabilimenti di cui al comma 4 si puo' prescindere dal possesso dei requisiti previsti dall'allegato A, capitolo I, punto 2, lettera g), solo per la parte relativa al comando manuale dei rubinetti, punto 3 e punto 11 e dell'allegato B, capitolo I, nei limiti in cui venga assicurato il rispetto delle norme regolamentari prescritte dal [decreto del Presidente della Repubblica 26 marzo 1980, n. 327](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md).
+Per gli stabilimenti di cui al comma 4 si puo' prescindere dal possesso dei requisiti previsti dall'allegato A, capitolo I, punto 2, lettera g), solo per la parte relativa al comando manuale dei rubinetti, punto 3 e punto 11 e dell'allegato B, capitolo I, nei limiti in cui venga assicurato il rispetto delle norme regolamentari prescritte dal [decreto del Presidente della Repubblica 26 marzo 1980, n. 327](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md).
 
 6.
 

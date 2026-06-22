@@ -93,7 +93,7 @@ Sara' punita con multa estensibile a L. 2,000 (duemila), anche quando non siavi 
  
  I marchi o segni, insegne od emblemi alterati saranno reintegrati a spese del delinquente. 
  
- Queste pene sono applicabili senza pregiudizio del risarcimento dei danni a chi di ragione, e di quelle maggiori, che sieno stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nel caso di falsita'.
+ Queste pene sono applicabili senza pregiudizio del risarcimento dei danni a chi di ragione, e di quelle maggiori, che sieno stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nel caso di falsita'.
 
 ## Art. 13.
 

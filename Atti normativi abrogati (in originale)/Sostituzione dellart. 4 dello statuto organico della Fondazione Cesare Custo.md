@@ -14,7 +14,7 @@ N.
 
 838.
 
-Decreto del Capo provvisorio dallo Stato 2 dicembre 1946, col quale, sulla proposta del Ministro per le finanze, l'art. 4 dello statuto organico della Fondazione "Cesare Custo" approvato con [regio decreto 12 giugno 1921, n. 821](../Regi%20decreti/Erezione%20in%20Ente%20morale.%20021U0821.md) e successive modificazioni, viene sostituito.
+Decreto del Capo provvisorio dallo Stato 2 dicembre 1946, col quale, sulla proposta del Ministro per le finanze, l'art. 4 dello statuto organico della Fondazione "Cesare Custo" approvato con [regio decreto 12 giugno 1921, n. 821](Erezione%20in%20Ente%20morale.%20021U0821.md) e successive modificazioni, viene sostituito.
 
 Visto, il Guardasigilli: GULLO
  Registrato alla Corte dei Conti, addi' 22 agosto 1947

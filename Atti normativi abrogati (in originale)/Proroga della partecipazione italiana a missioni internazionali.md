@@ -185,7 +185,7 @@ L'indennita' di cui al comma 1 e' corrisposta al personale che partecipa alle mi
 
 5.
 
-Al personale che partecipa alla missione di cui all'articolo 5, comma 2, si applica il trattamento economico previsto dalla [legge 8 luglio 1961, n. 642](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trattamento%20economico%20del%20personale%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20destinato%20isolatamente%20allestero%20presso%20Delegazioni%20o%20Rappresentanze%20militari%20ovvero%20presso%20enti%20comandi%20od_1e382f250bd3.md), e l'indennita' speciale, di cui all'articolo 3 della medesima legge, nella misura del 50 per cento dell'assegno di lungo servizio all'estero.
+Al personale che partecipa alla missione di cui all'articolo 5, comma 2, si applica il trattamento economico previsto dalla [legge 8 luglio 1961, n. 642](Trattamento%20economico%20del%20personale%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20destinato%20isolatamente%20allestero%20presso%20Delegazioni%20o%20Rappresentanze%20militari%20ovvero%20presso%20enti%20comandi%20od_1e382f250bd3.md), e l'indennita' speciale, di cui all'articolo 3 della medesima legge, nella misura del 50 per cento dell'assegno di lungo servizio all'estero.
 
 ### Art. 8. — Valutazione del servizio prestato in missioni internazionali
 
@@ -215,7 +215,7 @@ Per i reati di cui al comma 2 la competenza territoriale e' del Tribunale di Rom
 
 4.
 
-Al personale militare impiegato nelle missioni di cui agli articoli 4, commi 4, 5, 6, 7 e 8, 5, commi 2, 3 e 4, si applicano il [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e l'articolo 9, commi 3, 4, lettere a), b), c) e d), 5 e 6, del [decreto-legge n. 421 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001;421), convertito, con modificazioni, dalla [legge n. 6 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002;6).
+Al personale militare impiegato nelle missioni di cui agli articoli 4, commi 4, 5, 6, 7 e 8, 5, commi 2, 3 e 4, si applicano il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e l'articolo 9, commi 3, 4, lettere a), b), c) e d), 5 e 6, del [decreto-legge n. 421 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001;421), convertito, con modificazioni, dalla [legge n. 6 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002;6).
 
 ### Art. 11. — Attivita' di ricerca scientifica a fini di prevenzione sanitaria
 

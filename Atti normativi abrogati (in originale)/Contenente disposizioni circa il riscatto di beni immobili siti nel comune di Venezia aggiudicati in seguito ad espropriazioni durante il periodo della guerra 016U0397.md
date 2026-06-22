@@ -27,7 +27,7 @@ Quando il riscatto non venga concordato col deliberatario, l'espropriato, per es
 
 ## Art. 3.
 
-Le disposizioni del precedente art. 1° si applicano anche alle aggiudicazioni fatte dai pretori a termini degli articoli 51 e seguenti del testo unico delle leggi per la riscossione delle imposte dirette, approvato con il [R. decreto 29 giugno 1902, n. 281](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0281.md), fermo rimanendo per la relativa procedura il disposto dell'art. 57 del medesimo testo unico.
+Le disposizioni del precedente art. 1° si applicano anche alle aggiudicazioni fatte dai pretori a termini degli articoli 51 e seguenti del testo unico delle leggi per la riscossione delle imposte dirette, approvato con il [R. decreto 29 giugno 1902, n. 281](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0281.md), fermo rimanendo per la relativa procedura il disposto dell'art. 57 del medesimo testo unico.
 
 ## Art. 4.
 

@@ -19,7 +19,7 @@ La liquidazione della pensione per gli operai borghesi dipendenti dal Ministero 
 
 ## Art. 2.
 
-Per gli operai addetti a lavori insalubri da determinarsi e classificarsi per decreto Reale, ferme restando le condizioni richieste dall'art. 154 del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), il servizio effettivo prestato in quei lavori insalubri sara' aumentato di un quarto nello stabilire la somma da assegnarsi a titolo di pensione, senza che la medesima possa per altro eccedere il massimo fissato dalla tabella.
+Per gli operai addetti a lavori insalubri da determinarsi e classificarsi per decreto Reale, ferme restando le condizioni richieste dall'art. 154 del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), il servizio effettivo prestato in quei lavori insalubri sara' aumentato di un quarto nello stabilire la somma da assegnarsi a titolo di pensione, senza che la medesima possa per altro eccedere il massimo fissato dalla tabella.
 
 ## Art. 3.
 

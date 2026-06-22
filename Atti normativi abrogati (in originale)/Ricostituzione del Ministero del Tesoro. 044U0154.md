@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 31 dicembre 1922, n. 1700](../Regi%20decreti/Concernente%20la%20fusione%20del%20Ministero%20del%20tesoro%20con%20quello%20delle%20finanze.%20022U1700.md) che passava alle dipendenze del Ministero delle Finanze tutti i servizi e le materie di competenza del Ministero del Tesoro;
+Visto il [R. decreto 31 dicembre 1922, n. 1700](Concernente%20la%20fusione%20del%20Ministero%20del%20tesoro%20con%20quello%20delle%20finanze.%20022U1700.md) che passava alle dipendenze del Ministero delle Finanze tutti i servizi e le materie di competenza del Ministero del Tesoro;
 
 Visto l'[art. 4 della legge 24 dicembre 1925, n. 2263](Attribuzioni%20e%20prerogative%20del%20Capo%20del%20Governo%20Primo%20Ministro%20Segretario%20di%20Stato.%20025U2263.md);
 

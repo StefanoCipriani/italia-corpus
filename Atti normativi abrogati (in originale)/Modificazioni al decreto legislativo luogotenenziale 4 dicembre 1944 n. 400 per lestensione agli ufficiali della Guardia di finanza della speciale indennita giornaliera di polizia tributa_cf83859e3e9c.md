@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto-legge 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-06-14;1281), sull'ordinamento del Corpo della guardia di finanza, e successive modificazioni;
 
-Visto il [decreto legislativo luogotenenziale 4 dicembre 1944, n. 400](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20per%20la%20Regia%20guardia%20di%20finanza.%20044U0400.md);
+Visto il [decreto legislativo luogotenenziale 4 dicembre 1944, n. 400](Provvedimenti%20per%20la%20Regia%20guardia%20di%20finanza.%20044U0400.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 20 settembre 1946, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-20;160);
 
@@ -26,18 +26,18 @@ Sulla proposta del Ministro per le finanze, di concerto con il Ministro per il t
 
 ## Art. 1.
 
-Gli [articoli 6](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20per%20la%20Regia%20guardia%20di%20finanza.%20044U0400.md) e [7 del decreto legislativo luogotenenziale 4 dicembre 1944, n. 400](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20per%20la%20Regia%20guardia%20di%20finanza.%20044U0400.md), sono abrogati.
+Gli [articoli 6](Provvedimenti%20per%20la%20Regia%20guardia%20di%20finanza.%20044U0400.md) e [7 del decreto legislativo luogotenenziale 4 dicembre 1944, n. 400](Provvedimenti%20per%20la%20Regia%20guardia%20di%20finanza.%20044U0400.md), sono abrogati.
 
 ## Art. 2.
 
-L'[art. 8 del decreto legislativo luogotenenziale 4 dicembre 1944, n. 400](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20per%20la%20Regia%20guardia%20di%20finanza.%20044U0400.md), e' sostituito dal seguente:
+L'[art. 8 del decreto legislativo luogotenenziale 4 dicembre 1944, n. 400](Provvedimenti%20per%20la%20Regia%20guardia%20di%20finanza.%20044U0400.md), e' sostituito dal seguente:
  "Al comandante generale ed agli ufficiali, sottufficiali e militari di truppa della Guardia di finanza e' concessa una indennita' speciale giornaliera di polizia tributaria, cumulabile con le altre indennita', nella seguente misura:
 
  comandante generale...........................................L. 60 generale di divisione.........................................L. 55 generali di brigata e colonnelli..............................L. 50 tenenti colonnelli e maggiori.................................L. 45 capitani......................................................L. 40 tenenti e sottotenenti........................................L. 35 marescialli dei tre gradi.....................................L. 30 brigadieri....................................................L. 27 sottobrigadieri...............................................L. 25 appuntati.....................................................L. 24 finanzieri....................................................L. 21
 
 ## Art. 3.
 
-L'[art. 9 del decreto legislativo luogotenenziale 4 dicembre 1944, n. 400](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20per%20la%20Regia%20guardia%20di%20finanza.%20044U0400.md), e' sostituito dal seguente:
+L'[art. 9 del decreto legislativo luogotenenziale 4 dicembre 1944, n. 400](Provvedimenti%20per%20la%20Regia%20guardia%20di%20finanza.%20044U0400.md), e' sostituito dal seguente:
  "L'indennita' di cui al precedente art. 8 non e' dovuta:
  a) ai puniti con rimprovero solenne, per 40 giorni a datare da quello in cui venne inflitta la punizione;
  b) ai puniti di fortezza o di arresti, sala o camera di punizione semplice e di rigore, per la durata della punizione stessa;

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](../Testi%20Unici/Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md);
+Visto il testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md);
 
 Visto il [regio decreto legislativo 7 giugno 1946, n. 581](../Regi%20decreti%20legislativi/Norme%20tributarie%20sulle%20concessioni%20governative.md), recante norme tributarie sulle concessioni governative;
 
@@ -20,7 +20,7 @@ Vista la deliberazione del Consiglio dei Ministri Sulla proposta del Ministro pe
 
 ## Art. 1.
 
-Le sopratasse venatorie previste dall'art. 91, nn. 1, 2, 3, 4 e 5 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia approvato con [regio decreto 5 giugno 1939, n. 1016](../Testi%20Unici/Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), sono rispettivamente, elevate a lire centoventi, duecentocinquanta, cento, duecentocinquanta e cinquanta.
+Le sopratasse venatorie previste dall'art. 91, nn. 1, 2, 3, 4 e 5 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia approvato con [regio decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), sono rispettivamente, elevate a lire centoventi, duecentocinquanta, cento, duecentocinquanta e cinquanta.
 
 ## Art. 2.
 

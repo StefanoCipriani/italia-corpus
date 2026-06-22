@@ -135,11 +135,11 @@ Il personale dipendente dal soppresso Ministero del turismo e dello spettacolo, 
 
 2.
 
-I dipendenti di amministrazioni diverse, comandati presso il soppresso Ministero del turismo e dello spettacolo, possono chiedere l'inquadramento nei ruoli aggiunti di cui al comma 1, a norma dell'articolo 199 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+I dipendenti di amministrazioni diverse, comandati presso il soppresso Ministero del turismo e dello spettacolo, possono chiedere l'inquadramento nei ruoli aggiunti di cui al comma 1, a norma dell'articolo 199 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 3.
 
-Il personale del soppresso Ministero del turismo e dello spettacolo che, alla data di entrata in vigore del presente decreto, presta servizio presso altre amministrazioni in posizione di comando puo' richiedere di essere inquadrato nei ruoli dell'amministrazione ove presta servizio, con il consenso di quest'ultima, nei termini e con le modalita' di cui all'articolo 199 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+Il personale del soppresso Ministero del turismo e dello spettacolo che, alla data di entrata in vigore del presente decreto, presta servizio presso altre amministrazioni in posizione di comando puo' richiedere di essere inquadrato nei ruoli dell'amministrazione ove presta servizio, con il consenso di quest'ultima, nei termini e con le modalita' di cui all'articolo 199 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 4.
 
@@ -171,11 +171,11 @@ Gli oneri derivanti dal presente decreto restano contenuti nei limiti delle riso
 
 Entro tre mesi dalla data di entrata in vigore del presente decreto, il Presidente del Consiglio dei Ministri, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano e sentite le associazioni di settore maggiormente rappresentative in campo nazionale, formula, con atto di indirizzo e coordinamento da adottarsi ai sensi dell'[articolo 2, comma 3, lettera d), della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_2-com3-letd), i criteri di adeguamento alle disposizioni vigenti nei Paesi che fanno parte dell'Unione europea delle seguenti normative:
                         a)
-                            la disciplina recata dall'[articolo 4 del regio decreto 24 maggio 1925, n. 1102](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20migliorie%20igieniche%20negli%20alberghi.%20025U1102.md);
+                            la disciplina recata dall'[articolo 4 del regio decreto 24 maggio 1925, n. 1102](Approvazione%20del%20regolamento%20per%20le%20migliorie%20igieniche%20negli%20alberghi.%20025U1102.md);
                         b)
                             la disciplina recata dagli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-17;217#art_7) e [12 della legge 17 maggio 1983, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-17;217#art_12), in materia di classificazione alberghiera;
                         c)
-                            la disciplina recata dall'[articolo 109 del regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e dal [decreto legislativo 11 febbraio 1948, n. 50](Sanzioni%20per%20omessa%20denuncia%20di%20stranieri%20o%20apolidi.md), in materia di pubblica sicurezza;
+                            la disciplina recata dall'[articolo 109 del regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e dal [decreto legislativo 11 febbraio 1948, n. 50](Sanzioni%20per%20omessa%20denuncia%20di%20stranieri%20o%20apolidi.md), in materia di pubblica sicurezza;
                         d)
                             la disciplina recata dall'[articolo 8 della legge 17 maggio 1983, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-17;217#art_8), in materia di vincolo di destinazione.
 

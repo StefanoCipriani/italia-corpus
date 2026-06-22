@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 7 gennaio 1923, n. 12](Sullordinamento%20del%20R.%20esercito.%20023U0012.md), relativo all'ordinamento del Regio esercito;
 
-Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e modificazioni successive;
+Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e modificazioni successive;
 
 Visto il [R. decreto-legge 16 ottobre 1919, n. 1986](Che%20regola%20lo%20stato%20giuridico%20ed%20economico%20dei%20sottufficiali%20del%20R.%20esercito.%20019U1986.md), sullo stato dei sottufficiali del Regio esercito, e modificazioni successive;
 

@@ -62,7 +62,7 @@ A carico dei mutuatari direttamente danneggiati dal terremoto che, avendo ottenu
  
  Analogamente, nel caso di esproprio del fabbricato ipotecato a garanzia del mutuo, promosso da un terzo creditore del mutuatario, il credito dell'Istituto dovra' essere insinuato integralmente, cioe' prescindendo dai benefizi di cui all'art. 1, eventualmente concessi al mutuatario espropriando. 
  
- E' in facolta' del Ministro per le finanze di consentire all'aggiudicatario di un immobile ipotecato a garanzia del mutuo di subentrare al mutuatario, con le norme o condizioni stabilite dall'art. 61 del testo unico delle leggi, sul Credito fondiario approvato col [R. decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md). 
+ E' in facolta' del Ministro per le finanze di consentire all'aggiudicatario di un immobile ipotecato a garanzia del mutuo di subentrare al mutuatario, con le norme o condizioni stabilite dall'art. 61 del testo unico delle leggi, sul Credito fondiario approvato col [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md). 
  
  Per assicurare il ricupero dei propri crediti l'Istituto Vittorio Emanuele III potra', analogamente a quanto dispone l'art. 74 del citato testo unico delle leggi sul Credito fondiario, rendersi aggiudicatario degli immobili ipotecati a garanzia del mutuo, in occasione dei giudizi di esproprio promossi da terzi creditori del mutuatario. 
  

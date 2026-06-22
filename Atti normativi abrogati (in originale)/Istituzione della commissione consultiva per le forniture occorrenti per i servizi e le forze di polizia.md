@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Vista la legge ed il regolamento sulla contabilita' di Stato;
 
-Visto l'art. 35 del testo unico delle leggi sulla Corte dei conti approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md);
+Visto l'art. 35 del testo unico delle leggi sulla Corte dei conti approvato con [regio decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md);
 
 Visto il [regio decreto-legge 9 febbraio 1939, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-09;273) e sentita la Corte dei conti a sezioni riunite;
 
@@ -50,7 +50,7 @@ Il capo della polizia ha facolta' di sentire la commissione, prevista dall'art. 
 
 Con decreto del Ministro per l'interno sono istituiti i magazzini e gli autocentri occorrenti per la custodia, la conservazione e la riparazione dei materiali e dei mezzi acquistati dall'Amministrazione della pubblica sicurezza.
  Con la stessa procedura sono istituiti i centri di recupero per la raccolta, utilizzazione ed alienazione - secondo le modalita' stabilite dalle norme vigenti - dei materiali e mezzi stessi che siano dichiarati non piu' idonei all'uso.
- Tanto i magazzini che gli autocentri ed i centri di recupero sono sottoposti al controllo del Ministero del tesoro - Ragioneria generale dello Stato, ai sensi dello [art. 3 della legge 26 luglio 1939, n. 1037](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-26;1037#art_3), nonche' al riscontro della Corte dei conti a norma del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), e successive modificazioni.
+ Tanto i magazzini che gli autocentri ed i centri di recupero sono sottoposti al controllo del Ministero del tesoro - Ragioneria generale dello Stato, ai sensi dello [art. 3 della legge 26 luglio 1939, n. 1037](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-26;1037#art_3), nonche' al riscontro della Corte dei conti a norma del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), e successive modificazioni.
 
 ## Art. 5.
 

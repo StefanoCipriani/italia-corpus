@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi- decreti 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), e [16 dicembre 1923, n. 2720](../Regi%20decreti/Proroga%20dellattuazione%20del%20nuovo%20ordinamento%20dei%20dazi%20interni%20di%20consumo%20di%20cui%20al%20R.%20decreto%2024%20settembre%201923%20n.%202030%20e%20norme%20transitorie.%20023U2720.md), sui dazi di consumo;
+Visti i [Regi- decreti 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), e [16 dicembre 1923, n. 2720](Proroga%20dellattuazione%20del%20nuovo%20ordinamento%20dei%20dazi%20interni%20di%20consumo%20di%20cui%20al%20R.%20decreto%2024%20settembre%201923%20n.%202030%20e%20norme%20transitorie.%20023U2720.md), sui dazi di consumo;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3063](../Regi%20decreti/Abolizione%20della%20tassa%20di%20famiglia%20e%20del%20valore%20locativo%20ed%20istituzione%20dellimposta%20sul%20reddito%20consumato.%20023U3063.md), relativo all'abolizione della tassa di famiglia e valore locativo ed alla istituzione della imposta sul reddito consumato;
+Visto il [R. decreto 30 dicembre 1923, n. 3063](Abolizione%20della%20tassa%20di%20famiglia%20e%20del%20valore%20locativo%20ed%20istituzione%20dellimposta%20sul%20reddito%20consumato.%20023U3063.md), relativo all'abolizione della tassa di famiglia e valore locativo ed alla istituzione della imposta sul reddito consumato;
 
 Visti i [Regi decreti-legge 23 maggio 1924, n. 759](Provvedimenti%20transitori%20per%20la%20finanza%20locale.%20024U0759.md), e [4 gennaio 1925, n. 2](Imposta%20complementare%20sul%20reddito.%20025U0002.md), concernenti provvedimenti per la finanza locale;
 
@@ -58,7 +58,7 @@ Per i maggiori oneri derivanti ai rivenditori e per le maggiori prestazioni degl
 
 Le Provincie ed i Comuni, che abbiano gia' istituita o che intendano istituire la imposta sulle industrie, possono farne applicazione, in base ad autorizzazione della Giunta provinciale amministrativa, con aliquote aumentate fino al limite massimo stabilito con l'[art. 2 del R. decreto 23 maggio 1924, n. 759](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;759#art_2), e con l'[art. 2 del R. decreto 4 gennaio 1925, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-04;2#art_2). Identica facolta' e' accordata nei riguardi della imposta comunale di patente. 
  
- I Comuni che non intendano provvedere alla applicazione della imposta sulle industrie e di quella di patente, istituite col [R. decreto 18 novembre 1923, n 2538](../Regi%20decreti/Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), hanno facolta' di continuare ad applicare, transitoriamente, con l'autorizzazione della Giunta provinciale amministrativa la tassa di esercizio e rivendita che essi abbiano istituita in conformita' delle norme legislative vigenti.
+ I Comuni che non intendano provvedere alla applicazione della imposta sulle industrie e di quella di patente, istituite col [R. decreto 18 novembre 1923, n 2538](Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), hanno facolta' di continuare ad applicare, transitoriamente, con l'autorizzazione della Giunta provinciale amministrativa la tassa di esercizio e rivendita che essi abbiano istituita in conformita' delle norme legislative vigenti.
 
 ## Art. 6.
 
@@ -66,7 +66,7 @@ Per l'applicazione della imposta comunale sulla industria e della addizionale pr
  
  I ruoli della imposta sulla industria e della addizionale provinciale per i contribuenti indicati al precedente comma, possono essere formati in base al ruolo della impasta di ricchezza mobile senza che occorra la compilazione e pubblicazione della matricola, di cui all'art. 121 del regolamento per l' esecuzione della legge comunale e provinciale approvato con R. decreto' 12 febbraio 1911, m 297. 
  
- Rimane fermo l'obbligo di procedere all'accertamento ed alla notificazione individuale, alla formazione e pubblicazione della matricola, per i redditi soggetti alla imposta sulla industria ed alla addizionale provinciale la cui valutazione viene fatta dal Comune o dalla Provincia ai sensi dell'[art. 5 del R. decreto 18 novembre 1923, n. 2538](../Regi%20decreti/Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), e dell'[art. 1 del R. decreto-legge 4 gennaio 1925, n. 2](Imposta%20complementare%20sul%20reddito.%20025U0002.md).
+ Rimane fermo l'obbligo di procedere all'accertamento ed alla notificazione individuale, alla formazione e pubblicazione della matricola, per i redditi soggetti alla imposta sulla industria ed alla addizionale provinciale la cui valutazione viene fatta dal Comune o dalla Provincia ai sensi dell'[art. 5 del R. decreto 18 novembre 1923, n. 2538](Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), e dell'[art. 1 del R. decreto-legge 4 gennaio 1925, n. 2](Imposta%20complementare%20sul%20reddito.%20025U0002.md).
 
 ## Art. 7.
 
@@ -80,9 +80,9 @@ E' data facolta' alla Giunta provinciale amministrativa di autorizzare i Comuni,
 
 ## Art. 9.
 
-La facolta' attribuita ai Comuni col [R. decreto 30 dicembre 1923, n. 3063](../Regi%20decreti/Abolizione%20della%20tassa%20di%20famiglia%20e%20del%20valore%20locativo%20ed%20istituzione%20dellimposta%20sul%20reddito%20consumato.%20023U3063.md), per la istituzione di una imposta generale progressiva sull'insieme del reddito consumato e' abrogata. 
+La facolta' attribuita ai Comuni col [R. decreto 30 dicembre 1923, n. 3063](Abolizione%20della%20tassa%20di%20famiglia%20e%20del%20valore%20locativo%20ed%20istituzione%20dellimposta%20sul%20reddito%20consumato.%20023U3063.md), per la istituzione di una imposta generale progressiva sull'insieme del reddito consumato e' abrogata. 
  
- In sostituzione dell'addizionale alla imposta complementare, di cui all'[art. 1 del R. decreto 30 dicembre 1923, n. 3063](../Regi%20decreti/Abolizione%20della%20tassa%20di%20famiglia%20e%20del%20valore%20locativo%20ed%20istituzione%20dellimposta%20sul%20reddito%20consumato.%20023U3063.md), e della tassa di famiglia a carico dei contribuenti non soggetti ad imposta complementare di cui al precedente art. 7, i Comuni possono essere autorizzati dal Ministero delle finanze ad applicare una imposta sul valore locativo delle abitazioni e loro dipendenze.
+ In sostituzione dell'addizionale alla imposta complementare, di cui all'[art. 1 del R. decreto 30 dicembre 1923, n. 3063](Abolizione%20della%20tassa%20di%20famiglia%20e%20del%20valore%20locativo%20ed%20istituzione%20dellimposta%20sul%20reddito%20consumato.%20023U3063.md), e della tassa di famiglia a carico dei contribuenti non soggetti ad imposta complementare di cui al precedente art. 7, i Comuni possono essere autorizzati dal Ministero delle finanze ad applicare una imposta sul valore locativo delle abitazioni e loro dipendenze.
 
 ## Art. 10.
 
@@ -102,7 +102,7 @@ Le norme per l'applicazione e riscossione dell'imposta sul valore locativo delle
 
 ## Art. 13.
 
-Il limite invariabile, di minuta vendita ai fini dell'applicazione dei dazi di consumo, indicato all'art. 23 dell'allegato A. al [R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), e' fissato nella misura di litri 100 per il vino e per l'aceto e nella misura di litri 50 per l'alcool, per l'acquavite e per i liquori.
+Il limite invariabile, di minuta vendita ai fini dell'applicazione dei dazi di consumo, indicato all'art. 23 dell'allegato A. al [R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), e' fissato nella misura di litri 100 per il vino e per l'aceto e nella misura di litri 50 per l'alcool, per l'acquavite e per i liquori.
 
 ## Art. 14.
 
@@ -110,17 +110,17 @@ Il dazio di consumo sui foraggi, riscosso mediante tassa annua fissa per ogni ca
 
 ## Art. 15.
 
-Quando concorrano le condizioni previste dall'ultimo capoverso dell'[art. 19 del R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), allegato A, i Comuni chiusi possono essere autorizzati, in deroga alla disposizione dell'art. 181, comma 3°, del regolamento generale daziario, approvato con R. decreto 25 febbraio 1924. n. 540, a riscuotere il dazio sui materiali da costruzione all'introduzione dei materiali stessi in cinta. 
+Quando concorrano le condizioni previste dall'ultimo capoverso dell'[art. 19 del R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), allegato A, i Comuni chiusi possono essere autorizzati, in deroga alla disposizione dell'art. 181, comma 3°, del regolamento generale daziario, approvato con R. decreto 25 febbraio 1924. n. 540, a riscuotere il dazio sui materiali da costruzione all'introduzione dei materiali stessi in cinta. 
  
  Tale autorizzazione e' concessa dal Prefetto della Provincia con motivato decreto, previo parere della Giunta provinciale amministrativa.
 
 ## Art. 16.
 
-Il dazio di consumo, sui commestibili di qualita' fine non nominati nella tariffa massima, allegata al [R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), puo' essere imposto fino al 12 per cento del valore dei generi tassati.
+Il dazio di consumo, sui commestibili di qualita' fine non nominati nella tariffa massima, allegata al [R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), puo' essere imposto fino al 12 per cento del valore dei generi tassati.
 
 ## Art. 17.
 
-I Comuni, per i quali, nonostante l'applicazione di tutte le disposizioni contenute o richiamate nel presente decreto, il bilancio presenti ancora un disavanzo, potranno, fino a concorrenza, essere eccezionalmente autorizzati dal Ministero delle finanze a valersi della facolta' di cui al [2° comma dell'art.2 del R. decreto 16 dicembre 1923, n. 2720](../Regi%20decreti/Proroga%20dellattuazione%20del%20nuovo%20ordinamento%20dei%20dazi%20interni%20di%20consumo%20di%20cui%20al%20R.%20decreto%2024%20settembre%201923%20n.%202030%20e%20norme%20transitorie.%20023U2720.md). 
+I Comuni, per i quali, nonostante l'applicazione di tutte le disposizioni contenute o richiamate nel presente decreto, il bilancio presenti ancora un disavanzo, potranno, fino a concorrenza, essere eccezionalmente autorizzati dal Ministero delle finanze a valersi della facolta' di cui al [2° comma dell'art.2 del R. decreto 16 dicembre 1923, n. 2720](Proroga%20dellattuazione%20del%20nuovo%20ordinamento%20dei%20dazi%20interni%20di%20consumo%20di%20cui%20al%20R.%20decreto%2024%20settembre%201923%20n.%202030%20e%20norme%20transitorie.%20023U2720.md). 
  
  Di tale facolta' potra' farsi uso soltanto per il tempo in cui rimarra' in vigore l'art. 7 del R. decreto 24 settembre. 1923 n. 2030.
 
@@ -128,7 +128,7 @@ I Comuni, per i quali, nonostante l'applicazione di tutte le disposizioni conten
 
 In conseguenza dell'applicazione delle disposizioni enunciate nei precedenti articoli 13, 14, 15, 16, 17, e' autorizzata la revisione dei contratti di appalto stipulati dai Comuni e delle convenzioni di abbonamento con gli esercenti. 
  
- Per la definizione delle eventuali controversie sara' adottata rispettivamente la procedura richiamata agli [articoli 6 del R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), e 29 dell'allegato A del decreto medesimo.
+ Per la definizione delle eventuali controversie sara' adottata rispettivamente la procedura richiamata agli [articoli 6 del R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), e 29 dell'allegato A del decreto medesimo.
 
 ## Art. 19.
 

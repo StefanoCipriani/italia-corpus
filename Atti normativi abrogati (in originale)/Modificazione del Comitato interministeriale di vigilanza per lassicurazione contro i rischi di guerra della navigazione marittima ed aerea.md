@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 2 novembre 1939, n. 1939](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-11-02;1939), convertito, con modificazioni, nella [legge 6 maggio 1940 n. 725](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2023%20novembre%201939-XVIII%20n.%201939%20concernente%20lautorizzazione%20allUnione%20italiana%20di%20riassicurazione%20ad%20assumere%20la%20copertura%20dei%20r_8559c327756d.md), concernente l'autorizzazione data all'unione italiana di riassicurazione di assumere per conto della Stato la copertura dei rischi di guerra della navigazione marittima ed aerea;
+Visto il [R. decreto-legge 2 novembre 1939, n. 1939](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-11-02;1939), convertito, con modificazioni, nella [legge 6 maggio 1940 n. 725](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2023%20novembre%201939-XVIII%20n.%201939%20concernente%20lautorizzazione%20allUnione%20italiana%20di%20riassicurazione%20ad%20assumere%20la%20copertura%20dei%20r_8559c327756d.md), concernente l'autorizzazione data all'unione italiana di riassicurazione di assumere per conto della Stato la copertura dei rischi di guerra della navigazione marittima ed aerea;
 
 Vista la [legge 3 aprile 1941, n. 499](Assicurazione%20obbligatoria%20contro%20i%20rischi%20di%20guerra%20delle%20navi%20di%20nazionalita%20italiana%20e%20delle%20navi%20in%20costruzione%20e%20disposizioni%20integrative%20del%20R.%20decreto-legge%2023%20novembre%201939-XVIII%20_0f41c3a7bb17.md), che ha stabilito alcune norme integrative del Regio decreto suddetto;
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro Segretario di Stato per l'industria ed il commercio,
 
 ## Art. 1.
 
-A modifica dell'[art. 8 del R. decreto-legge 23 novembre 1939, n. 1939](Autorizzazione%20allUnione%20italiana%20di%20riassicurazione%20ad%20assumere%20la%20copertura%20dei%20rischi%20di%20guerra%20della%20navigazione%20marittima%20ed%20aerea.%20039U1939.md), convertito nella [legge 6 maggio 1940, n. 725](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2023%20novembre%201939-XVIII%20n.%201939%20concernente%20lautorizzazione%20allUnione%20italiana%20di%20riassicurazione%20ad%20assumere%20la%20copertura%20dei%20r_8559c327756d.md) il Comitato di vigilanza per l'asSicurazione contro i rischi di guerra della navigazione marittima ed aerea, e' costituito dai seguenti membri: 
+A modifica dell'[art. 8 del R. decreto-legge 23 novembre 1939, n. 1939](Autorizzazione%20allUnione%20italiana%20di%20riassicurazione%20ad%20assumere%20la%20copertura%20dei%20rischi%20di%20guerra%20della%20navigazione%20marittima%20ed%20aerea.%20039U1939.md), convertito nella [legge 6 maggio 1940, n. 725](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2023%20novembre%201939-XVIII%20n.%201939%20concernente%20lautorizzazione%20allUnione%20italiana%20di%20riassicurazione%20ad%20assumere%20la%20copertura%20dei%20r_8559c327756d.md) il Comitato di vigilanza per l'asSicurazione contro i rischi di guerra della navigazione marittima ed aerea, e' costituito dai seguenti membri: 
  1) un direttore generale del Ministero dell'industria e del commercio, presidente; 
  2) il capo dell'Ufficio delle assicurazioni private del Ministero predetto; 
  3) un rappresentante dei Ministero degli affari esteri; 

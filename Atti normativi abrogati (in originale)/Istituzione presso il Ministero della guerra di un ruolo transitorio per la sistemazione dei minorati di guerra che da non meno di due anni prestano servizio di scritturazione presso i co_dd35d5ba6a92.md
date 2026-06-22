@@ -14,15 +14,15 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto del 7 gennaio 1923, n. 12](../Regi%20decreti/Sullordinamento%20del%20R.%20esercito.%20023U0012.md), relativo all'ordinamento del Regio esercito;
+Visto il [R. decreto del 7 gennaio 1923, n. 12](Sullordinamento%20del%20R.%20esercito.%20023U0012.md), relativo all'ordinamento del Regio esercito;
 
 Visto il [R. decreto-legge del 16 ottobre 1919, n. 1986](Che%20regola%20lo%20stato%20giuridico%20ed%20economico%20dei%20sottufficiali%20del%20R.%20esercito.%20019U1986.md), sullo stato dei sottufficiali, e successive modificazioni;
 
 Vista la [legge del 21 agosto 1921, n. 1312](Concernente%20lassunzione%20obbligatoria%20degli%20invalidi%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20aziende%20private.%20021U1312.md), concernente l'assunzione obbligatoria degli invalidi di guerra nelle pubbliche Amministrazioni e nelle aziende private;
 
-Visto il [R. decreto dell'11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento delle Amministrazioni dello Stato;
+Visto il [R. decreto dell'11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento delle Amministrazioni dello Stato;
 
-Visto il [R. decreto del 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), contenente le norme esecutive, interpretative ed integrative di quelle concernenti il trattamento economico e di carriera del personale delle Amministrazioni dello Stato;
+Visto il [R. decreto del 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), contenente le norme esecutive, interpretative ed integrative di quelle concernenti il trattamento economico e di carriera del personale delle Amministrazioni dello Stato;
 
 Udito il Consiglio dei Ministri;
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari della guer
 
 ## Art. 1.
 
-E' istituito presso il Ministero della guerra un ruolo transitorio nel quale possono essere collocati i minorati di guerra per ferite o infermita' ascritte alle prime 8 categorie del [decreto Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876), compreso nella tabella A annessa al [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), che, da non meno di due anni, prestano servizio di scritturazione presso i corpi e gli uffici dipendenti dal Ministero della guerra, previo accertamento della loro idoenita' fisica nei modi stabiliti dal [3° comma dell'art. 7 della legge 25 marzo 1917, n. 481](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md), per la protezione ed assistenza degli invalidi di guerra.
+E' istituito presso il Ministero della guerra un ruolo transitorio nel quale possono essere collocati i minorati di guerra per ferite o infermita' ascritte alle prime 8 categorie del [decreto Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876), compreso nella tabella A annessa al [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), che, da non meno di due anni, prestano servizio di scritturazione presso i corpi e gli uffici dipendenti dal Ministero della guerra, previo accertamento della loro idoenita' fisica nei modi stabiliti dal [3° comma dell'art. 7 della legge 25 marzo 1917, n. 481](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md), per la protezione ed assistenza degli invalidi di guerra.
 
 ## Art. 2.
 
@@ -38,7 +38,7 @@ Il ruolo transitorio di cui all'articolo precedente, al quale non potranno esser
 
 ## Art. 3.
 
-Al personale del ruolo transitorio d'ordine dei minorati di guerra, di cui al precedente art. 1, sono applicabili le disposizioni del [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, che siano compatibili col presente decreto.
+Al personale del ruolo transitorio d'ordine dei minorati di guerra, di cui al precedente art. 1, sono applicabili le disposizioni del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, che siano compatibili col presente decreto.
 
 ## Art. 4.
 
@@ -46,7 +46,7 @@ Il Consiglio d'amministrazione del Ministero della guerra, presi in esame i docu
  
  Lo stesso Consiglio d'amministrazione provvedera', poi, alla formazione della graduatoria di nomina nel ruolo transitorio medesimo, in base ai rapporti informativi all'uopo compilati dalle autorita' competenti e tenendo particolarmente presenti i titoli di studio, e, per coloro che rivestono il grado di ufficiale, anche le rispettive note caratteristiche. 
  
- A parita' di merito, sara' data la preferenza agli aspiranti che hanno prestato servizio di scritturazione per un piu' lungo periodo di tempo nell'Amministrazione militare, ferme restando, a parita' di servizio, le disposizioni dell'[articolo 21 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+ A parita' di merito, sara' data la preferenza agli aspiranti che hanno prestato servizio di scritturazione per un piu' lungo periodo di tempo nell'Amministrazione militare, ferme restando, a parita' di servizio, le disposizioni dell'[articolo 21 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 5.
 

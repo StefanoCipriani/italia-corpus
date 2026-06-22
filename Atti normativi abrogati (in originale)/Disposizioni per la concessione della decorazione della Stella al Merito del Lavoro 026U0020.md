@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'art. 78 dello Statuto del Regno;
 
-Visti i [Regi decreti 30 dicembre 1923, n. 3167](../Regi%20decreti/Istituzione%20della%20decorazione%20della%20Stella%20al%20merito%20del%20lavoro.%20023U3167.md); [23 ottobre 1924, n. 2365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;2365), e [25 gennaio 1925, n. 120](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2030%20dicembre%201923%20n.%203167%20concernente%20la%20istituzione%20della%20decorazione%20della%20Stella%20al%20Merito%20del%20Lavoro.%20025U0120.md), concernenti la decorazione della «Stella al Merito del Lavoro»;
+Visti i [Regi decreti 30 dicembre 1923, n. 3167](Istituzione%20della%20decorazione%20della%20Stella%20al%20merito%20del%20lavoro.%20023U3167.md); [23 ottobre 1924, n. 2365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;2365), e [25 gennaio 1925, n. 120](Modificazioni%20al%20R.%20decreto%2030%20dicembre%201923%20n.%203167%20concernente%20la%20istituzione%20della%20decorazione%20della%20Stella%20al%20Merito%20del%20Lavoro.%20025U0120.md), concernenti la decorazione della «Stella al Merito del Lavoro»;
 
 Sentito il Consiglio dei Ministri;
 
@@ -24,11 +24,11 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Art. 1.
 
-La decorazione della «Stella al Merito del Lavoro», istituita con [R. decreto 30 dicembre 1923, n. 3167](../Regi%20decreti/Istituzione%20della%20decorazione%20della%20Stella%20al%20merito%20del%20lavoro.%20023U3167.md), potra' essere concessa ai lavoratori manuali, i quali siano occupati nel territorio del Regno e delle Colonie ed abbiano i requisiti prescritti dal suddetto decreto, ancorche' dipendenti da aziende appartenenti allo Stato, alle Provincie, ai Comuni ed ai corpi morali.
+La decorazione della «Stella al Merito del Lavoro», istituita con [R. decreto 30 dicembre 1923, n. 3167](Istituzione%20della%20decorazione%20della%20Stella%20al%20merito%20del%20lavoro.%20023U3167.md), potra' essere concessa ai lavoratori manuali, i quali siano occupati nel territorio del Regno e delle Colonie ed abbiano i requisiti prescritti dal suddetto decreto, ancorche' dipendenti da aziende appartenenti allo Stato, alle Provincie, ai Comuni ed ai corpi morali.
 
 ## Art. 2.
 
-Le onorificenze da concedere in ciascun anno non possono eccedere il numero di duecento, delle quali centoquaranta saranno concesse su designazione della Commissione di cui all'[art. 3 del R. decreto 25 gennaio 1925 n. 120](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2030%20dicembre%201923%20n.%203167%20concernente%20la%20istituzione%20della%20decorazione%20della%20Stella%20al%20Merito%20del%20Lavoro.%20025U0120.md), la composizione della quale e' modificata a sensi del seguente articolo, e le altre sessanta su designazione del Ministro per l'economia nazionale. 
+Le onorificenze da concedere in ciascun anno non possono eccedere il numero di duecento, delle quali centoquaranta saranno concesse su designazione della Commissione di cui all'[art. 3 del R. decreto 25 gennaio 1925 n. 120](Modificazioni%20al%20R.%20decreto%2030%20dicembre%201923%20n.%203167%20concernente%20la%20istituzione%20della%20decorazione%20della%20Stella%20al%20Merito%20del%20Lavoro.%20025U0120.md), la composizione della quale e' modificata a sensi del seguente articolo, e le altre sessanta su designazione del Ministro per l'economia nazionale. 
  
  Il premio di cui al [R. decreto 23 ottobre 1924, n. 2365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;2365), spetta soltanto ai centoquaranta lavoratori decorati su designazione della Commissione. 
  
@@ -36,11 +36,11 @@ Le onorificenze da concedere in ciascun anno non possono eccedere il numero di d
 
 ## Art. 3.
 
-Al [primo comma dell'art. 3 del R. decreto 25 gennaio 1925, n. 120](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2030%20dicembre%201923%20n.%203167%20concernente%20la%20istituzione%20della%20decorazione%20della%20Stella%20al%20Merito%20del%20Lavoro.%20025U0120.md), e' sostituito il seguente: 
+Al [primo comma dell'art. 3 del R. decreto 25 gennaio 1925, n. 120](Modificazioni%20al%20R.%20decreto%2030%20dicembre%201923%20n.%203167%20concernente%20la%20istituzione%20della%20decorazione%20della%20Stella%20al%20Merito%20del%20Lavoro.%20025U0120.md), e' sostituito il seguente: 
  
  «Una Commissione nominata per decreto Reale su proposta del Ministro per l'economia nazionale e composta del presidente della Federazione nazionale dei cavalieri del lavoro, presidente, di un rappresentante della Confederazione generale dell'industria italiana, di un rappresentante della Confederazione delle corporazioni sindacali fasciste e dei direttori generali dell'agricoltura e del lavoro e della previdenza sociale, esamina i titoli dei lavoratori manuali proposti per la decorazione e designa al Ministro, annualmente, i centoquaranta che essa ritiene meritevoli». 
  
- Sono soppressi il penultimo capoverso dell'[art. 3 ed il primo comma](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2030%20dicembre%201923%20n.%203167%20concernente%20la%20istituzione%20della%20decorazione%20della%20Stella%20al%20Merito%20del%20Lavoro.%20025U0120.md) dell'[art. 4 del R. decreto 25 gennaio 1925, n. 120](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2030%20dicembre%201923%20n.%203167%20concernente%20la%20istituzione%20della%20decorazione%20della%20Stella%20al%20Merito%20del%20Lavoro.%20025U0120.md).
+ Sono soppressi il penultimo capoverso dell'[art. 3 ed il primo comma](Modificazioni%20al%20R.%20decreto%2030%20dicembre%201923%20n.%203167%20concernente%20la%20istituzione%20della%20decorazione%20della%20Stella%20al%20Merito%20del%20Lavoro.%20025U0120.md) dell'[art. 4 del R. decreto 25 gennaio 1925, n. 120](Modificazioni%20al%20R.%20decreto%2030%20dicembre%201923%20n.%203167%20concernente%20la%20istituzione%20della%20decorazione%20della%20Stella%20al%20Merito%20del%20Lavoro.%20025U0120.md).
 
 ## Art. 4.
 

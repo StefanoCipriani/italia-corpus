@@ -24,7 +24,7 @@ Emana il seguente decreto-legge:
 
 1.
 
-Il [comma 2-bis dell'articolo 72 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e' sostituito dal seguente:
+Il [comma 2-bis dell'articolo 72 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e' sostituito dal seguente:
  "2-bis. Durante la circolazione, gli autoveicoli, i rimorchi ed i semirimorchi adibiti al trasporto di cose, nonche' classificati per uso speciale o per trasporti speciali o per trasporti specifici, immatricolati in Italia con massa complessiva a pieno carico superiore a 3,5t., devono altresi' essere equipaggiati con strisce posteriori e laterali retroriflettenti. Le caratteristiche tecniche delle strisce retroriflettenti sono definite con decreto del Ministro delle infrastrutture e dei trasporti, in ottemperanza a quanto previsto dal regolamento internazionale ONU/ECE 104. I veicoli di nuova immatricolazione devono essere equipaggiati con i dispositivi del presente comma dal 1° aprile 2005 ed i veicoli in circolazione entro il 30 aprile 2007.".
 
 ## Art. 2.

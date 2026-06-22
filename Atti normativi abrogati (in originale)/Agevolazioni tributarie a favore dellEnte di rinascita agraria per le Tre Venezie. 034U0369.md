@@ -24,7 +24,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e del Mi
 
 ## Art. 1.
 
-La tassa di registro sugli acquisti di beni immobili effettuati dall'Ente di rinascita agraria per le Tre Venezie, eretto in ente morale con [R. decreto 14 febbraio 1929, n. 349](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20dellEnte%20di%20rinascita%20agraria%20per%20le%20Tre%20Venezie%20con%20sede%20in%20Treviso.%20029U0349.md), e' dovuta in misura fissa di lire 10, salvo prenotazione in sospeso sul campione unico, previo l'accertamento del valore, a termini di legge, della normale tassa proporzionale. 
+La tassa di registro sugli acquisti di beni immobili effettuati dall'Ente di rinascita agraria per le Tre Venezie, eretto in ente morale con [R. decreto 14 febbraio 1929, n. 349](Approvazione%20del%20nuovo%20statuto%20dellEnte%20di%20rinascita%20agraria%20per%20le%20Tre%20Venezie%20con%20sede%20in%20Treviso.%20029U0349.md), e' dovuta in misura fissa di lire 10, salvo prenotazione in sospeso sul campione unico, previo l'accertamento del valore, a termini di legge, della normale tassa proporzionale. 
  
  Il trattamento di cui sopra e' subordinato alla condizione che i beni immobili acquistati siano rivenduti a terzi entro nove anni dalla data dell'acquisto da parte dell'Ente. 
  

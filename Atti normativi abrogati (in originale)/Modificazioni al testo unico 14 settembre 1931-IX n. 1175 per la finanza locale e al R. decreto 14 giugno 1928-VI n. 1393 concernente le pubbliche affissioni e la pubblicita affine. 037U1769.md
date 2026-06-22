@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), che approva il testo unico per la finanza locale;
+Visto il [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), che approva il testo unico per la finanza locale;
 
 Visto il R. decreto 14 giugno 1928-VI, n. 1399, contente le pubbliche affissioni e la pubblicita' affine;
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro Segretario di Stato per le finanze, di concerto con 
 
 ## Art. 1.
 
-Al testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono apportate le seguenti modificazioni: 
+Al testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono apportate le seguenti modificazioni: 
  
  Imposta sul valore locativo: 
  
@@ -64,7 +64,7 @@ Al testo unico per la finanza locale, approvato con [R. decreto 14 settembre 193
  
  Il valore locativo si desume dal fitto reale o presunto. 
  
- E' fitto reale quello risultante da contratto scritto o da denunzia verbale d'affitto di cui all'art. 9 della tariffa allegato A (parte prima) alla legge del bollo approvate con [R. decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e successive modificazioni; e' presunto in ogni altro caso. 
+ E' fitto reale quello risultante da contratto scritto o da denunzia verbale d'affitto di cui all'art. 9 della tariffa allegato A (parte prima) alla legge del bollo approvate con [R. decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e successive modificazioni; e' presunto in ogni altro caso. 
  
  Quando il fitto reale risulti inferiore a prezzi locativi correnti, e' in facolta' del Comune di procedere all'accertamento del fitto presunto per via di comparazione con altre abitazioni locate in condizioni e circostanze similari. 
  
@@ -209,7 +209,7 @@ Al testo unico per la finanza locale, approvato con [R. decreto 14 settembre 193
 
 ## Art. 2.
 
-Nell'[art. 16 del R. decreto 14 giugno 1928, n. 1399](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20i%20servizi%20comunali%20delle%20pubbliche%20affissioni%20e%20della%20pubblicita%20affine.%20028U1399.md), concernente il servizio delle pubbliche affissioni e della pubblicita' affine alla parola «quadruplicati» viene sostituita la parola a «ventuplicati».
+Nell'[art. 16 del R. decreto 14 giugno 1928, n. 1399](Approvazione%20del%20regolamento%20per%20i%20servizi%20comunali%20delle%20pubbliche%20affissioni%20e%20della%20pubblicita%20affine.%20028U1399.md), concernente il servizio delle pubbliche affissioni e della pubblicita' affine alla parola «quadruplicati» viene sostituita la parola a «ventuplicati».
 
 ## Art. 3.
 

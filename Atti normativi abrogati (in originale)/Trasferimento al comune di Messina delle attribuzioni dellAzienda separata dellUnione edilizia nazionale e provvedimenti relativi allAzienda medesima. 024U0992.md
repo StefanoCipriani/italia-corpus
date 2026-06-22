@@ -20,7 +20,7 @@ Visto l'[art. 6 della legge 20 agosto 1921, n. 1178](Che%20autorizza%20la%20magg
 
 Visto il [R. decreto-legge 24 settembre 1923, n. 2028](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-09-24;2028);
 
-Visto il [R. decreto 9 marzo 1924, n. 794](../Regi%20decreti/Classificazione%20in%20prima%20categoria%20delle%20opere%20di%20bonifica%20dellArsa.%20024U0794.md);
+Visto il [R. decreto 9 marzo 1924, n. 794](Classificazione%20in%20prima%20categoria%20delle%20opere%20di%20bonifica%20dellArsa.%20024U0794.md);
 
 Sentito il Consiglio dei Ministri;
 

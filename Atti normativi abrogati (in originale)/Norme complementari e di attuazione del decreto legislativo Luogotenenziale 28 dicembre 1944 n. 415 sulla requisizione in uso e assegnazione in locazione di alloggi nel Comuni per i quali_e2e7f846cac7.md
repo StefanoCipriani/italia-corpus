@@ -28,7 +28,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Le assegnazioni in locazione degli alloggi, disposte ai sensi dell'art. 2 del decreto legislativo Luogoteneneziale 28 dicembre 1944, n. 415, sono soggette alla imposta di registro prevista per le locazioni di immobili. A tal fine l'assegnatario deve farne denuncia nei modi e nei termini stabiliti dal [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md). 
+Le assegnazioni in locazione degli alloggi, disposte ai sensi dell'art. 2 del decreto legislativo Luogoteneneziale 28 dicembre 1944, n. 415, sono soggette alla imposta di registro prevista per le locazioni di immobili. A tal fine l'assegnatario deve farne denuncia nei modi e nei termini stabiliti dal [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md). 
  
  La sopratassa per la tardata o omessa denuncia e' a carico dell'assegnatario.
 
@@ -58,7 +58,7 @@ Il decreto di derequisizione nei casi previsti dall'[art. 2, comma secondo, del 
 
 I provvedimenti emanati dal commissario per gli alloggi, i verbali delle esecuzioni relative, il ricorso alla Commissione per la risoluzione delle controversie sulle assegnazioni di alloggi in locazione, nonche' i verbali e le decisioni della Commissione medesima sono esenti da tributi. 
  
- Gli atti e i documenti prodotti alla Commissione sono esenti dalla tassa di bollo preveduto dall'art. 121. dell'allegato A. alla legge sul bollo, approvata con [R. decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md).
+ Gli atti e i documenti prodotti alla Commissione sono esenti dalla tassa di bollo preveduto dall'art. 121. dell'allegato A. alla legge sul bollo, approvata con [R. decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md).
 
 ## Art. 6.
 
@@ -156,7 +156,7 @@ La segreteria della Commissione e' affidata dal presidente ad un cancelliere del
 
 ## Art. 15.
 
-Per i ricorsi avverso le decisioni della Commissione, prodotti al Comitato giurisdizionale centrale per le requisizioni, ai sensi dell'[art. 9 del decreto legislativo 28 dicembre 1944, n. 415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-12-28;415#art_9), si osservano le norme del regolamento per il funzionamento del Comitato medesimo, approvato con l'[art. 5 del R. decreto 21 giugno 1941, n. 688](../Regi%20decreti/Costituzione%20del%20Comitato%20giurisdizionale%20centrale%20per%20le%20controversie%20relative%20allapplicazione%20delle%20norme%20per%20la%20disciplina%20delle%20requisizioni.%20041U0688.md), fermo restando il trattamento fiscale previsto dall'[art. 87 del R. decreto 18 agosto 1940, n. 1741](../Regi%20decreti/Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md).
+Per i ricorsi avverso le decisioni della Commissione, prodotti al Comitato giurisdizionale centrale per le requisizioni, ai sensi dell'[art. 9 del decreto legislativo 28 dicembre 1944, n. 415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-12-28;415#art_9), si osservano le norme del regolamento per il funzionamento del Comitato medesimo, approvato con l'[art. 5 del R. decreto 21 giugno 1941, n. 688](Costituzione%20del%20Comitato%20giurisdizionale%20centrale%20per%20le%20controversie%20relative%20allapplicazione%20delle%20norme%20per%20la%20disciplina%20delle%20requisizioni.%20041U0688.md), fermo restando il trattamento fiscale previsto dall'[art. 87 del R. decreto 18 agosto 1940, n. 1741](Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md).
 
 ## Art. 16.
 
@@ -182,7 +182,7 @@ Al commissario per gli alloggi puo' essere attribuita dal prefetto una indennita
  
  Per i servizi del Commissariato degli alloggi, quando non possa provvedersi con il comando di impiegati ai sensi dell'art. 11 del decreto legislativo 28 dicembre 1944, n: 415, il prefetto competente puo' disporre assunzioni di personale non di ruolo. A tale personale, da assumere entro limiti numerici determinati dal Ministro per l'interno, di concerto con quello per il tesoro, e' attribuito il trattamento economico spettante agli impiegati non di ruolo delle corrispondenti categorie in servizio nelle Amministrazioni dello Stato. 
  
- Al personale comandato ed a quello assunto per i servizi del Commissariato degli alloggi possono essere corrisposti premi di operosita' e rendimento, per lavoro straordinario, ai sensi e nei limiti del [R. decreto 17 febbraio 1924 n. 182](../Regi%20decreti/Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md) e successive modificazioni.
+ Al personale comandato ed a quello assunto per i servizi del Commissariato degli alloggi possono essere corrisposti premi di operosita' e rendimento, per lavoro straordinario, ai sensi e nei limiti del [R. decreto 17 febbraio 1924 n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md) e successive modificazioni.
 
 ## Art. 19.
 

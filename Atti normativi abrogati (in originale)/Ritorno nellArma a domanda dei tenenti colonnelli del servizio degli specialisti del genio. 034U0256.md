@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Articolo unico.
 
-In deroga parziale alle norme di cui all'art. 4, 1ª parte, del [R. decreto-legge 16 dicembre 1926, n. 2122, e all'art. 94](Istituzione%20di%20un%20Servizio%20degli%20specialisti%20del%20genio.%20026U2122.md) del testo unico delle leggi e disposizioni sull'avanzamento degli ufficiali del Regio esercito, approvato con [R. decreto 8 maggio 1933, n. 651](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20disposizioni%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20033U0651.md), e' ammessa la cessazione dall'assegnazione al servizio degli specialisti del genio per i tenenti colonnelli che trovandosi nella prima meta' del ruolo, ne facciano domanda. 
+In deroga parziale alle norme di cui all'art. 4, 1ª parte, del [R. decreto-legge 16 dicembre 1926, n. 2122, e all'art. 94](Istituzione%20di%20un%20Servizio%20degli%20specialisti%20del%20genio.%20026U2122.md) del testo unico delle leggi e disposizioni sull'avanzamento degli ufficiali del Regio esercito, approvato con [R. decreto 8 maggio 1933, n. 651](Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20disposizioni%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20033U0651.md), e' ammessa la cessazione dall'assegnazione al servizio degli specialisti del genio per i tenenti colonnelli che trovandosi nella prima meta' del ruolo, ne facciano domanda. 
  
  L'accoglimento di tale domanda e' devoluto al giudizio insindacabile del Ministro per la guerra, il quale decidera' in relazione alle necessita' del servizio degli specialisti del genio. 
  

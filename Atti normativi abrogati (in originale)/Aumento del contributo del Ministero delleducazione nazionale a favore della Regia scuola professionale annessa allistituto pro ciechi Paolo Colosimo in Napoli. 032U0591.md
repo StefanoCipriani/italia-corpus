@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il contributo annuo del Ministero dell'educazione nazionale a favore della Regia scuola professionale annessa al Patronato pro ciechi «Paolo Colosimo» in Napoli, fissato in L. 200.000 dal [R. decreto 27 luglio 1928, n. 2165](../Regi%20decreti/Aumento%20dei%20contributi%20da%20parte%20degli%20Enti%20locali%20a%20favore%20della%20Regia%20scuola%20professionale%20annessa%20al%20Patronato%20pro%20ciechi%20Paolo%20Colosimo%20in%20Napoli.%20028U2165.md), e' ridotto a L. 190.000 per effetto del [R. decreto-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e' elevato a L.
+Il contributo annuo del Ministero dell'educazione nazionale a favore della Regia scuola professionale annessa al Patronato pro ciechi «Paolo Colosimo» in Napoli, fissato in L. 200.000 dal [R. decreto 27 luglio 1928, n. 2165](Aumento%20dei%20contributi%20da%20parte%20degli%20Enti%20locali%20a%20favore%20della%20Regia%20scuola%20professionale%20annessa%20al%20Patronato%20pro%20ciechi%20Paolo%20Colosimo%20in%20Napoli.%20028U2165.md), e' ridotto a L. 190.000 per effetto del [R. decreto-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e' elevato a L.
 410.000.
 
 ## Art. 2.

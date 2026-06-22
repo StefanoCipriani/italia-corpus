@@ -41,7 +41,7 @@ Gli istituti di credito e gli altri soggetti che detengono a qualsiasi titolo i 
 ## Art. 2. — null
 
 2. Nei confronti dei soggetti che, in qualsiasi modo, anche indirettamente, prendono parte ad operazioni per le quali sussistono l'indisponibilita' ed i divieti di cui all'articolo 1 si applica la sanzione amministrativa consistente nel pagamento di una somma di danaro non inferiore alla meta' del valore dell'operazione stessa e non superiore al valore medesimo. La predetta sanzione si applica anche con riguardo alle infrazioni alle disposizioni contenute nel regolamento del Consiglio delle Comunita' europee n. 1608 del 24 giugno 1993. 
- 3. Per l'accertamento delle violazioni delle disposizioni di cui al presente decreto e per l'irrogazione delle relative sanzioni si applicano le disposizioni del titolo II, capi I e II, del testo unico delle norme di legge in materia valutaria, approvato con [decreto del Presidente della Repubblica 31 marzo 1988, n. 148](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20norme%20di%20legge%20in%20materia%20valutaria.md).
+ 3. Per l'accertamento delle violazioni delle disposizioni di cui al presente decreto e per l'irrogazione delle relative sanzioni si applicano le disposizioni del titolo II, capi I e II, del testo unico delle norme di legge in materia valutaria, approvato con [decreto del Presidente della Repubblica 31 marzo 1988, n. 148](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20di%20legge%20in%20materia%20valutaria.md).
 
 ## Art. 3.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al testo unico delle leggi sugli stipendi ed assegni fissi pel R. esercito, approvato col [R. decreto 14 luglio 1898, n. 380](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e modificato con le [leggi 7 luglio 1901, n. 286; 2 giugno 1904, n. 216; 3 luglio 1904, nn. 300, 301 e 302; 8 luglio 1906, n. 305; 19 luglio 1906, n. 372; 30 dicembre 1906, n. 647; 21 marzo 1907, n. 81; 13 giugno 1907, n. 327; 14 luglio 1907, nn. 479, 483, 484 e 495 e 5 gennaio 1908, n. 7](Concernente%20modificazione%20allorganico%20degli%20ufficiali%20del%20Corpo%20sanitario%20militare%20al%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20esercito%20ed%20alla%20legge%20sullavanzame_f0d501d64e44.md), sono apportate le modificazioni seguenti: 
+Al testo unico delle leggi sugli stipendi ed assegni fissi pel R. esercito, approvato col [R. decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e modificato con le [leggi 7 luglio 1901, n. 286; 2 giugno 1904, n. 216; 3 luglio 1904, nn. 300, 301 e 302; 8 luglio 1906, n. 305; 19 luglio 1906, n. 372; 30 dicembre 1906, n. 647; 21 marzo 1907, n. 81; 13 giugno 1907, n. 327; 14 luglio 1907, nn. 479, 483, 484 e 495 e 5 gennaio 1908, n. 7](Concernente%20modificazione%20allorganico%20degli%20ufficiali%20del%20Corpo%20sanitario%20militare%20al%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20esercito%20ed%20alla%20legge%20sullavanzame_f0d501d64e44.md), sono apportate le modificazioni seguenti: 
  
  I. 
  

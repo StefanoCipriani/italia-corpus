@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), concernente la legge sulla imposta di registro, e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), concernente la legge sulla imposta di registro, e successive modificazioni;
 
 Visto il [R. decreto-legge 15 giugno 1940, n. 643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-06-15;643), convertito con modificazioni nella [legge 21 ottobre 1940, n. 1511](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2014%20giugno%201940-XVIII%20n.%20643%20riguardante%20ladeguamento%20dellimposta%20di%20registro%20al%20plusvalore%20dei%20beni%20immobili%20nei%20trasferimenti%20_4497505da65d.md);
 

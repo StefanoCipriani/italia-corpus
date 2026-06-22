@@ -41,7 +41,7 @@ E' approvata la maggiore assegnazione di L. 15,142.47, inscritta al capitolo n. 
 
 ## Art. 8.
 
-E' approvata la maggiore assegnazione di L. 1498.25, inscritta al capitolo n. 160 ter «Eccedenza d'impegni verificatasi al capitolo n. 51 - Fondo a calcolo per le anticipazioni della spesa occorrente al mantenimento degli inabili al lavoro fatti ricoverare negli appositi stabilimenti (legge sulla sicurezza pubblica del 30 giugno 1889, n. 6144, serie 3ª, [art. 81, e R. decreto 19 novembre 1889, n. 6535](../Regi%20decreti/Che%20stabilisce%20le%20norme%20per%20lapplicazione%20dellarticolo%2082%20della%20legge%2030%20giugno%201889%20sulla%20pubblica%20sicurezza.%20089U6535.md), art.
+E' approvata la maggiore assegnazione di L. 1498.25, inscritta al capitolo n. 160 ter «Eccedenza d'impegni verificatasi al capitolo n. 51 - Fondo a calcolo per le anticipazioni della spesa occorrente al mantenimento degli inabili al lavoro fatti ricoverare negli appositi stabilimenti (legge sulla sicurezza pubblica del 30 giugno 1889, n. 6144, serie 3ª, [art. 81, e R. decreto 19 novembre 1889, n. 6535](Che%20stabilisce%20le%20norme%20per%20lapplicazione%20dellarticolo%2082%20della%20legge%2030%20giugno%201889%20sulla%20pubblica%20sicurezza.%20089U6535.md), art.
 24) (Spesa d'ordine) dello stato di previsione della spesa per l'esercizio finanziario 1904-905 e retro», per provvedere al saldo delle eccedenze d'impegni verificatesi nel conto consuntivo della spesa del Ministero dell'interno per l'esercizio finanziario 1905-906.
 
 ## Art. 9.
@@ -114,7 +114,7 @@ E' approvata la maggiore assegnazione di L. 102, inscritta al capitolo n. 160 te
 
 ## Art. 26.
 
-E' approvata la maggiore assegnazione di L. 7,828.30 inscritta al capitolo n. 160 ter B': «Eccedenza d'impegni verificatasi al cap. n. 120: Spese pei domiciliati coatti e per gli assegnati a domicilio obbligatorio ([R. decreto 17 febbraio 1881, n. 74](../Regi%20decreti/Che%20modifica%20le%20disposizioni%20sul%20domicilio%20coatto.%20081U0074.md), e relativo regolamento, approvato con decreto Ministeriale 10 dicembre 1881) - dello stato di previsione della spesa per l'esercizio finanziario 1901-905 e retro», per provvedere al saldo delle eccedenze d'impegni verificatesi nel conto consuntivo della spesa del Ministero dell'interno, per l'esercizio finanziario 1905-906.
+E' approvata la maggiore assegnazione di L. 7,828.30 inscritta al capitolo n. 160 ter B': «Eccedenza d'impegni verificatasi al cap. n. 120: Spese pei domiciliati coatti e per gli assegnati a domicilio obbligatorio ([R. decreto 17 febbraio 1881, n. 74](Che%20modifica%20le%20disposizioni%20sul%20domicilio%20coatto.%20081U0074.md), e relativo regolamento, approvato con decreto Ministeriale 10 dicembre 1881) - dello stato di previsione della spesa per l'esercizio finanziario 1901-905 e retro», per provvedere al saldo delle eccedenze d'impegni verificatesi nel conto consuntivo della spesa del Ministero dell'interno, per l'esercizio finanziario 1905-906.
 
 ## Art. 27.
 

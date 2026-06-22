@@ -35,7 +35,7 @@ L'[art. 9 della legge 6 luglio 1940, n. 952](Disposizioni%20concernenti%20le%20p
 ## Art. 3.
 
 L'[art. 11 della legge 6 luglio 1940, n. 952](Disposizioni%20concernenti%20le%20pensioni%20agli%20agenti%20delle%20Ferrovie%20dello%20Stato%20provenienti%20dalle%20ex%20gestioni%20austriache%20e%20agli%20agenti%20delle%20Ferrovie%20dello%20Stato%20passati%20nei%20ruoli%20di%20altre%20Am_5d35ca9e0340.md), e' sostituito dal seguente:
- "Art. 11. - Le pensioni miste dirette liquidate o da liquidare con le norme del testo unico sulle pensioni del personale delle Ferrovie dello Stato, approvato con [regio decreto 22 aprile 1909, n. 229](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), e successive modificazioni, non sono soggette alla ritenuta a favore del Tesoro".
+ "Art. 11. - Le pensioni miste dirette liquidate o da liquidare con le norme del testo unico sulle pensioni del personale delle Ferrovie dello Stato, approvato con [regio decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), e successive modificazioni, non sono soggette alla ritenuta a favore del Tesoro".
 
 ## Art. 4.
 

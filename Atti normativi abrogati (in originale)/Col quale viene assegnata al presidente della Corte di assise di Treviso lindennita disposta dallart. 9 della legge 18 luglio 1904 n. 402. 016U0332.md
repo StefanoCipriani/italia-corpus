@@ -26,7 +26,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto il parere del Consiglio superiore della magistratura; 
  
- Visto il [R. decreto 12 novembre 1914, n. 1306](../Regi%20decreti/Col%20quale%20e%20concessa%20lindennita%20di%20cui%20allart.%209%20della%20legge%2018%20luglio%201904%20n.%20402%20ai%20presidenti%20di%2040%20Corti%20di%20assise.%20014U1306.md), che determina le Corti di assise, ai presidenti delle quali e' assegnata l'indennita' disposta dall'[art. 9 della legge 18 luglio 1904, n. 402](Modificazioni%20allordinamento%20giudiziario.%20004U0402.md); 
+ Visto il [R. decreto 12 novembre 1914, n. 1306](Col%20quale%20e%20concessa%20lindennita%20di%20cui%20allart.%209%20della%20legge%2018%20luglio%201904%20n.%20402%20ai%20presidenti%20di%2040%20Corti%20di%20assise.%20014U1306.md), che determina le Corti di assise, ai presidenti delle quali e' assegnata l'indennita' disposta dall'[art. 9 della legge 18 luglio 1904, n. 402](Modificazioni%20allordinamento%20giudiziario.%20004U0402.md); 
  
  Ritenuta l'opportunita' di modificare tale determinazione; 
  

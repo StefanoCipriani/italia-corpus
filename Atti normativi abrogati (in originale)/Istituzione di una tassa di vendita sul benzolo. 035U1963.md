@@ -58,7 +58,7 @@ Chiunque intende esercitare l'industria della fabbricazione o rettificazione del
 
 ## Art. 3.
 
-La tassa di vendita sul benzolo, fino a quando non verra' diversamente disposto, con apposito regolamento, e' accertata e riscossa con le norme, in quanto applicabili, stabilite dal regolamento approvato col [R. decreto 19 aprile 1896, n. 123](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lapplicazione%20della%20legge%208%20agosto%201896%20n.%20486%20allegato%20C%20riguardante%20la%20tassa%20sulla%20raffinazione%20degli%20olii%20minerali.%20096U0123.md). 
+La tassa di vendita sul benzolo, fino a quando non verra' diversamente disposto, con apposito regolamento, e' accertata e riscossa con le norme, in quanto applicabili, stabilite dal regolamento approvato col [R. decreto 19 aprile 1896, n. 123](Che%20approva%20il%20Regolamento%20per%20lapplicazione%20della%20legge%208%20agosto%201896%20n.%20486%20allegato%20C%20riguardante%20la%20tassa%20sulla%20raffinazione%20degli%20olii%20minerali.%20096U0123.md). 
  
  La tassa di vendita sul benzolo importato dall'estero e' riscossa dalla dogana all'atto stesso della riscossione del dazio doganale. 
  
@@ -72,7 +72,7 @@ Chiunque sottragga o tenti sottrarre, con qualunque mezzo, il benzolo all'accert
 
 ## Art. 5.
 
-Le pene stabilite dal precedente articolo sono applicate senza pregiudizio di quelle sancite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nel caso di manomissione od alterazione dei congegni, bolli e sigilli, apposti dalla Amministrazione.
+Le pene stabilite dal precedente articolo sono applicate senza pregiudizio di quelle sancite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nel caso di manomissione od alterazione dei congegni, bolli e sigilli, apposti dalla Amministrazione.
 
 ## Art. 6.
 

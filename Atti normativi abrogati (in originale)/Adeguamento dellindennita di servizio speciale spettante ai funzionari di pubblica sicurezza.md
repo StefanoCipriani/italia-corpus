@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'indennita' di servizio speciale prevista dall'[art. 187 del regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, a favore dei funzionari di pubblica sicurezza, e' stabilita, con decorrenza dal 1 luglio 1956, nelle seguenti misure lorde annue: 
+L'indennita' di servizio speciale prevista dall'[art. 187 del regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, a favore dei funzionari di pubblica sicurezza, e' stabilita, con decorrenza dal 1 luglio 1956, nelle seguenti misure lorde annue: 
  
  Celibi Ammogliati 
  
@@ -37,7 +37,7 @@ Commissari aggiunti................ " 160.000 285.000
 Vice commissari e vice commissari 
 in prova.......................... " 125.000 250.000 
  Le misure dell'indennita' previste dal precedente comma per i funzionari di pubblica sicurezza ammogliati sono dovute anche al personale vedovo o celibe con figli legittimi o legittimati o figliastri, minori o inabili al lavoro ed a carico, ovvero con figli naturali legalmente riconosciuti, adottivi o affiliati, minori o inabili ai lavoro ed a carico. 
- L'indennita' suddetta e' computabile agli effetti della pensione, limitatamente alle misure fissate, per i singoli gradi, dall'[art. 187 del regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e dall'[art. 4 del decreto legislativo 5 gennaio 1948, n. 16](../Decreti%20Legislativi/Riforma%20dellordinamento%20organico%20dei%20funzionari%20dellAmministrazione%20della%20pubblica%20sicurezza%20di%20gruppo%20A.md), salvi gli aumenti portati dal [decreto del Presidente della Repubblica 11 luglio 1952, n. 767](../DPR/Maggiorazione%20delle%20competenze%20spettanti%20ai%20dipendenti%20statali%20in%20relazione%20al%20ripristino%20delle%20ritenute%20erariali.md); non e', invece, computabile agli effetti stessi per i vice commissari in prova.
+ L'indennita' suddetta e' computabile agli effetti della pensione, limitatamente alle misure fissate, per i singoli gradi, dall'[art. 187 del regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e dall'[art. 4 del decreto legislativo 5 gennaio 1948, n. 16](../Decreti%20Legislativi/Riforma%20dellordinamento%20organico%20dei%20funzionari%20dellAmministrazione%20della%20pubblica%20sicurezza%20di%20gruppo%20A.md), salvi gli aumenti portati dal [decreto del Presidente della Repubblica 11 luglio 1952, n. 767](../DPR/Maggiorazione%20delle%20competenze%20spettanti%20ai%20dipendenti%20statali%20in%20relazione%20al%20ripristino%20delle%20ritenute%20erariali.md); non e', invece, computabile agli effetti stessi per i vice commissari in prova.
 
 ## Art. 2.
 

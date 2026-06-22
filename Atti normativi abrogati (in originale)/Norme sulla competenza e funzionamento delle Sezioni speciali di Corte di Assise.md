@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 201](../Decreti%20legislativi%20luogotenenziali/Testo%20delle%20disposizioni%20per%20la%20punizione%20dei%20delitti%20fascisti%20e%20per%20la%20repressione%20di%20alcune%20attivita%20fasciste.md);
+Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 201](Testo%20delle%20disposizioni%20per%20la%20punizione%20dei%20delitti%20fascisti%20e%20per%20la%20repressione%20di%20alcune%20attivita%20fasciste.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 18 marzo 1947, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-18;140);
 

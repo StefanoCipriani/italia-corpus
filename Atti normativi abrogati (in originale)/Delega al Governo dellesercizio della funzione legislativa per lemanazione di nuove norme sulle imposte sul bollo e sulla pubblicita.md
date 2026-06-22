@@ -22,12 +22,12 @@ Il Governo e' autorizzato ad emanare entro sei mesi dalla data di entrata in vig
 ## Art. 2.
 
 Ai fini delle semplificazioni previste dall'articolo precedente le nuove norme e le relative tariffe dovranno attuare i seguenti criteri:
- 1) coordinamento del [regio decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), con le disposizioni emanate successivamente, con i nuovi codici, con le leggi riflettenti le cambiali e gli altri titoli di credito, e con la [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4);
+ 1) coordinamento del [regio decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), con le disposizioni emanate successivamente, con i nuovi codici, con le leggi riflettenti le cambiali e gli altri titoli di credito, e con la [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4);
  2) eliminazione di tutte le disposizioni non piu' rispondenti alle necessita' o alle limitate condizioni di vita della Nazione o di limitato rendimento tributario o di molestia per il contribuente;
  3) adeguamento della misura dei vigenti articoli di tariffa al mutato valore della moneta, con contemporanea riduzione degli stessi ad un numero limitato di voci e con elevazione di taluni limiti di esenzione;
  4) raggruppamento in un solo articolo di tariffa di atti affini e similari riducendo al minimo l'attuale discriminazione degli atti e scritti soggetti a bollo;
  5) semplificazione delle modalita' di accertamento e di pagamento dell'imposta e con eventuale sostituzione del pagamento a forfait alla redazione in carta bollata di determinati atti ricorrenti tra le stesse parti, in modo da conciliare le esigenze dei contribuenti con gli interessi erariali;
- 6) stralcio delle disposizioni riguardanti le imposte indicate nell'art. 5 della presente legge, le quali per'altro rimaranno in vigore nella misura e con le norme di accertamento e di applicazione previste dal [regio decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e successive modificazioni, fino all'entrata in vigore della legge tributaria sulla pubblicita' prevista dal detto articolo 5;
+ 6) stralcio delle disposizioni riguardanti le imposte indicate nell'art. 5 della presente legge, le quali per'altro rimaranno in vigore nella misura e con le norme di accertamento e di applicazione previste dal [regio decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e successive modificazioni, fino all'entrata in vigore della legge tributaria sulla pubblicita' prevista dal detto articolo 5;
  7) soppressione o limitazione nel tempo delle esenzioni e delle riduzioni dell'imposta, salvo casi speciali determinati nella tabella B allegata alla legge;
  8) variazione della misura dell'aggio da corrispondere ai distributori secondari, graduandola all'importo dei valori bollati venduti nel corso di ciascun anno;
  9) semplificazione e coordinamento delle norme riguardanti le sanzioni relative alle trasgressioni alle nuove norme in conformita' ai criteri indicati nell'articolo seguente.
@@ -39,7 +39,7 @@ a) I magistrati, i cancellieri, gli ufficiali giudiziari, i funzionari delle pub
  La stessa pena si applica a carico di coloro che facciano uso di atti e scritti non soggetti al bollo sin dall'origine e non esenti in modo assoluto senza aver pagato la relativa imposta.
  Per le trasgressioni relative alle cambiali ed agli altri effetti di commercio, nonche' agli atti e documenti soggetti a imposta di quietanza, la pena pecuniaria e' da 50 a 100 volte l'imposta non pagata col minimo di lire 300;
  c) chiunque fuori delle ipotesi previste nelle precedenti lettere a) e b) non osservi obblighi, divieti o prescrizioni della legge e della annessa tariffa e' punito con la pena pecuniaria da lire 500 a lire 5.000;
- d) le pene stabilite dall'[art. 466 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano anche a chi detiene per lo smercio ovvero usa e smercia, carta bollata, marche o altri valori di bollo precedentemente usati;
+ d) le pene stabilite dall'[art. 466 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano anche a chi detiene per lo smercio ovvero usa e smercia, carta bollata, marche o altri valori di bollo precedentemente usati;
  e) nel caso in cui sia consentito il pagamento in modo virtuale si applicano:
  1° per la omessa o tardiva denuncia una sopratassa uguale a sei decimi della imposta;
  2° per la infedele denuncia una sopratassa uguale a sei quinti della imposta;
@@ -66,7 +66,7 @@ a) Chiunque affigga od esponga al pubblico avvisi, manifesti od altri mezzi pubb
  2) per la infedele denunzia una sopratassa eguale a sei quinti della imposta;
  3) per il pagamento effettuato oltre il ventesimo giorno dalla scadenza una sopratassa pari al 12 per cento dell'imposta.
  Le sopratasse di cui ai numeri 1) e 3) della presente lettera c), eccettuate quelle per infedele denunzia, sono ridotte al decimo del loro ammontare qualora il pagamento abbia luogo non oltre 60 giorni dalla scadenza del termine stabilito;
- d) le pene stabilite dall'[articolo 400 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano anche a chi detiene per lo smercio ovvero usa o smercia valori bollati o contrassegni di bollo precedentemente usati.
+ d) le pene stabilite dall'[articolo 400 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano anche a chi detiene per lo smercio ovvero usa o smercia valori bollati o contrassegni di bollo precedentemente usati.
 
 ## Art. 7.
 

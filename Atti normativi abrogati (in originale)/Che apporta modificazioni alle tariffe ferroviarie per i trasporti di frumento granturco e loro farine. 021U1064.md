@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Viste le tariffe e condizioni per i trasporti sulle ferrovie dello Stato;
 
-Visti gli articoli 39 e 62 (ultimo capoverso) della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata con [R. decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
+Visti gli articoli 39 e 62 (ultimo capoverso) della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata con [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
 
 Visto il R. decreto 29 ottobre 1920, 1523;
 

@@ -12,7 +12,7 @@ vigente: true
 
 Il casellario giudiziale contiene, per estratto, tutte le decisioni definitive pronunziate dai giudici italiani, ordinari e speciali, nonche' quelle pronunziate dai giudici stranieri contro cittadini italiani; delle quali sia data comunicazione ufficiale: 
  
- a) in materia penale, senza distinzione fra quelle di condanna e quelle di assoluzione o di non farsi luogo a procedere, proferite in sede istruttoria o di giudizio, in contradittorio o in contumacia; non esclusi i provvedimenti circa infermi di mente, minorenni e sordomuti, secondo gli [articoli 46](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [53](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [57 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ a) in materia penale, senza distinzione fra quelle di condanna e quelle di assoluzione o di non farsi luogo a procedere, proferite in sede istruttoria o di giudizio, in contradittorio o in contumacia; non esclusi i provvedimenti circa infermi di mente, minorenni e sordomuti, secondo gli [articoli 46](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [53](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [57 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  b) in materia civile e commerciale, ove dichiarino lo stato d'interdizione, d'inabilitazione o di fallimento. 
  
@@ -46,7 +46,7 @@ Nei certificati rilasciati a richiesta di una pubblica Amministrazione, fuori de
  
  2.° delle sentenze di fallimento, d'interdizione o di inabilitazione, quando sieno state revocate; 
  
- 3.° dei provvedimenti presi circa infermi di mente, minorenni o sordomuti, secondo gli [articoli 46](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [53](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [57 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 3.° dei provvedimenti presi circa infermi di mente, minorenni o sordomuti, secondo gli [articoli 46](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [53](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [57 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  4.º delle condanne per contravvenzioni e di quelle in cui la pena sia stata convertita nella riprensione giudiziale; 
  

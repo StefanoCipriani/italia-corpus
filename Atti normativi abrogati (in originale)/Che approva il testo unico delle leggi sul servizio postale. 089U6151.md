@@ -82,7 +82,7 @@ I capitani o padroni di bastimenti, di cui trattasi nell'articolo precedente, ri
 
 ### Art. 8.
 
-Le persone obbligate al trasporto dei dispacci postali in virtu' degli articoli 5 e 6, rifiutando di trasportarli, o mancando di consegnarli, incorreranno in una pena pecuniaria, estensibile a lire 300; salve le disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pei delitti contro la inviolabilita' del segreto epistolare.
+Le persone obbligate al trasporto dei dispacci postali in virtu' degli articoli 5 e 6, rifiutando di trasportarli, o mancando di consegnarli, incorreranno in una pena pecuniaria, estensibile a lire 300; salve le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pei delitti contro la inviolabilita' del segreto epistolare.
 
 ### Art. 9.
 

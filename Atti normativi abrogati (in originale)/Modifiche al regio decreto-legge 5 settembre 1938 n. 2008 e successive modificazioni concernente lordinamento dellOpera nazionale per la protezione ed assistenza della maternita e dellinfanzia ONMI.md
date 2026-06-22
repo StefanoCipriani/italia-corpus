@@ -79,7 +79,7 @@ L'[articolo 4 del regio decreto-legge 5 settembre 1938, n. 2008](Nuove%20disposi
 
 ## Art. 4.
 
-Gli articoli 12, 15, 16 del testo unico delle leggi sulla protezione della maternita' e dell'infanzia approvato con [regio decreto 24 dicembre 1934, n. 2316](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20protezione%20ed%20assistenza%20della%20maternita%20ed%20infanzia%20034U2316.md), sono soppressi.
+Gli articoli 12, 15, 16 del testo unico delle leggi sulla protezione della maternita' e dell'infanzia approvato con [regio decreto 24 dicembre 1934, n. 2316](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20protezione%20ed%20assistenza%20della%20maternita%20ed%20infanzia%20034U2316.md), sono soppressi.
  E' abrogata ogni altra disposizione legislativa o regolamentare incompatibile con le norme contenute nella presente legge.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

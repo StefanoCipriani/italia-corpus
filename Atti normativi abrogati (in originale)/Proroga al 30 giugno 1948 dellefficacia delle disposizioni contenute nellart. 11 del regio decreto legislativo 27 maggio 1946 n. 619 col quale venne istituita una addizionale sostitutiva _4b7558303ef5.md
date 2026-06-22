@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 8 marzo 1945, n. 72](../Decreti%20legislativi%20luogotenenziali/Fondo%20di%20solidarieta%20nazionale.%20045U0072.md), istitutivo di un "Fondo di solidarieta' nazionale";
+Visto il [decreto legislativo luogotenenziale 8 marzo 1945, n. 72](Fondo%20di%20solidarieta%20nazionale.%20045U0072.md), istitutivo di un "Fondo di solidarieta' nazionale";
 
-Visto il [regio decreto legislativo 27 maggio 1946, n. 619](../Regi%20decreti%20legislativi/Disposizioni%20integrative%20del%20decreto%20legislativo%20Luogotenenziale%208%20marzo%201945%20n.%2072%20riguardante%20il%20Fondo%20di%20solidarieta%20nazionale.md), col quale venne istituita un'addizionale sostitutiva di particolari contributi del predetto "Fondo di solidarieta' nazionale";
+Visto il [regio decreto legislativo 27 maggio 1946, n. 619](Disposizioni%20integrative%20del%20decreto%20legislativo%20Luogotenenziale%208%20marzo%201945%20n.%2072%20riguardante%20il%20Fondo%20di%20solidarieta%20nazionale.md), col quale venne istituita un'addizionale sostitutiva di particolari contributi del predetto "Fondo di solidarieta' nazionale";
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per le finanze; HA SANZIONATO E PROMULGA:
 
 ## Articolo unico.
 
-L'efficacia delle disposizioni contenute nell'[art. 11 del regio decreto legislativo 27 maggio 1946, n. 619](../Regi%20decreti%20legislativi/Disposizioni%20integrative%20del%20decreto%20legislativo%20Luogotenenziale%208%20marzo%201945%20n.%2072%20riguardante%20il%20Fondo%20di%20solidarieta%20nazionale.md), e' prorogata, dall'11 settembre 1947 al 30 giugno 1948.
+L'efficacia delle disposizioni contenute nell'[art. 11 del regio decreto legislativo 27 maggio 1946, n. 619](Disposizioni%20integrative%20del%20decreto%20legislativo%20Luogotenenziale%208%20marzo%201945%20n.%2072%20riguardante%20il%20Fondo%20di%20solidarieta%20nazionale.md), e' prorogata, dall'11 settembre 1947 al 30 giugno 1948.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

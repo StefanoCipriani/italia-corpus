@@ -38,7 +38,7 @@ I contravventori alle disposizioni dell'art. 1 sono puniti con la multa non infe
 
 In caso di recidiva i minimi della multa sono raddoppiati e sara' aggiunta la pena della detenzione fino a tre mesi o ad un mese rispettivamente, con la sospensione dell'esercizio da dieci giorni a sei mesi. 
  
- L'applicazione delle pene anzidette non pregiudica la applicazione delle pene maggiori nelle quali i contravventori fossero eventualmente incorsi per effetto delle disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o di altre leggi speciali.
+ L'applicazione delle pene anzidette non pregiudica la applicazione delle pene maggiori nelle quali i contravventori fossero eventualmente incorsi per effetto delle disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o di altre leggi speciali.
 
 ## Art. 6.
 

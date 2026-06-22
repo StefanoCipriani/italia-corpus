@@ -12,7 +12,7 @@ IL MINISTRO
 
 DEL COMMERCIO CON L'ESTERO
 
-Visto l'[articolo 20 del decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come sostituito dall'[articolo 6 del decreto legislativo 18 novembre 1993, n. 470](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20del%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20recante%20razionalizzazione%20dellorganizzazione%20delle%20amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20_de1af61c91ea.md);
+Visto l'[articolo 20 del decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come sostituito dall'[articolo 6 del decreto legislativo 18 novembre 1993, n. 470](../Decreti%20Legislativi/Disposizioni%20correttive%20del%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20recante%20razionalizzazione%20dellorganizzazione%20delle%20amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20_de1af61c91ea.md);
 
 Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 302](Regolamento%20concernente%20lindividuazione%20degli%20uffici%20di%20livello%20dirigenziale%20del%20Ministero%20del%20commercio%20con%20lestero.md);
 
@@ -34,7 +34,7 @@ Nell'ambito del Ministero del commercio con l'estero e' istituito il servizio di
 
 Esso opera in posizione di autonomia e risponde esclusivamente al Ministro.
  Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare
  la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 Note alle premesse:

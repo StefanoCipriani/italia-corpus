@@ -30,7 +30,7 @@ I consiglieri aggiunti che per effetto della presente legge verranno a trovarsi 
  
  Non si fara' luogo ad ammissione di nuovi impiegati finche' il numero di quelli in carica sia ridotto entro i limiti stabiliti dal nuovo organico. 
  
- I posti di applicato di 3ª classe che si renderanno disponibili coll'attuazione del nuovo organico, saranno conferiti per la prima volta, agli scrivani dell'Amministrazione centrale e provinciale dell'interno i quali abbiano superato il prescritto esame di concorso, di cui all'[art. 12 del R. decreto 29 agosto 1909, n. 748](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20carriera%20degli%20impiegati%20dellAmministrazione%20centrale%20e%20provinciale%20dellinterno%20009U0748.md). 
+ I posti di applicato di 3ª classe che si renderanno disponibili coll'attuazione del nuovo organico, saranno conferiti per la prima volta, agli scrivani dell'Amministrazione centrale e provinciale dell'interno i quali abbiano superato il prescritto esame di concorso, di cui all'[art. 12 del R. decreto 29 agosto 1909, n. 748](Che%20approva%20lannesso%20regolamento%20per%20la%20carriera%20degli%20impiegati%20dellAmministrazione%20centrale%20e%20provinciale%20dellinterno%20009U0748.md). 
  
  Gli ispettori generali che attualmente hanno lo stipendio di lire settemila non passeranno alla classe a lire ottomila, finche' non siano stati promossi a tale classe i direttori capi di divisione che li precedono nel ruolo di anzianita'.
 

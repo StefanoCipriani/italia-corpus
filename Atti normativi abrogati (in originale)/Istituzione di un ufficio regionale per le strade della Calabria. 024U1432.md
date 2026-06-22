@@ -18,7 +18,7 @@ Vista la [legge 25 giugno 1906, n. 255](Provvedimenti%20a%20favore%20della%20Cal
 
 Visto il [R. decreto 3 marzo 1924, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-03-03;286), che ha autorizzato la spesa di L. 500,000,000 per la costruzione di una organica e coordinata rete stradale in Calabria, in aggiunta alle somme autorizzate per opere stradali in Calabria col [R. decreto 3 maggio 1923, n. 1285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-03;1285);
 
-Visto l'[art. 20 del R. decreto 31 dicembre 1922, n. 1809](../Regi%20decreti/Concernente%20la%20riforma%20dei%20servizi%20nel%20Ministero%20dei%20lavori%20pubblici.%20022U1809.md);
+Visto l'[art. 20 del R. decreto 31 dicembre 1922, n. 1809](Concernente%20la%20riforma%20dei%20servizi%20nel%20Ministero%20dei%20lavori%20pubblici.%20022U1809.md);
 
 Ritenuta la necessita' di assicurare la sollecita ed integrale erogazione delle somme come sopra impegnate per legge;
 
@@ -112,7 +112,7 @@ Tutte le spese di carattere generale, da sostenersi dall'ufficio regionale pel p
  
  Entro tale limite e con l'osservanza delle norme vigenti per l'assunzione obbligatoria degli invalidi di guerra, il capo dell'ufficio regionale ha facolta' di assumere personale e retribuirlo secondo le necessita' di servizio, nonche' di corrispondere indennita' e compensi ai membri del Comitato e ai funzionari addetti all'ufficio regionale e agli uffici dipendenti. 
  
- L'ufficio regionale e' incluso tra le Amministrazioni presso le quali possono essere distaccati funzionari dell'Amministrazione dei lavori pubblici a' sensi del [R. decreto 26 giugno 1924, n. 1113](../Regi%20decreti/Determinazione%20delle%20Amministrazioni%20degli%20Enti%20e%20degli%20Istituti%20presso%20i%20quali%20possono%20essere%20collocati%20fuori%20ruolo%20impiegati%20dellAmministrazione%20centrale%20e%20provinciale%20dei%20lavori%20pubblici.%20024U1113.md).
+ L'ufficio regionale e' incluso tra le Amministrazioni presso le quali possono essere distaccati funzionari dell'Amministrazione dei lavori pubblici a' sensi del [R. decreto 26 giugno 1924, n. 1113](Determinazione%20delle%20Amministrazioni%20degli%20Enti%20e%20degli%20Istituti%20presso%20i%20quali%20possono%20essere%20collocati%20fuori%20ruolo%20impiegati%20dellAmministrazione%20centrale%20e%20provinciale%20dei%20lavori%20pubblici.%20024U1113.md).
 
 ## Art. 9.
 

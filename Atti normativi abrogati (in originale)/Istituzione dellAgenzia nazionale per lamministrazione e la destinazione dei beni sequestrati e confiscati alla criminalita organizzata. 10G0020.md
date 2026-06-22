@@ -244,7 +244,7 @@ All'[articolo 1 della legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%2
 
 2.
 
-All'[articolo 416-bis, ottavo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo le parole: «alla camorra» sono inserite le seguenti: «, alla 'ndrangheta».
+All'[articolo 416-bis, ottavo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo le parole: «alla camorra» sono inserite le seguenti: «, alla 'ndrangheta».
 
 ## Art. 7. — Disciplina transitoria
 
@@ -268,7 +268,7 @@ Fino alla data di entrata in vigore del regolamento ovvero, quando piu' di uno, 
 
 1.
 
-All'Agenzia si applica l'articolo 1 del testo unico delle leggi e delle norme giuridiche nella rappresentanza e difesa in giudizio dello Stato e nell'ordinamento dell'Avvocatura dello Stato di cui al [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md).
+All'Agenzia si applica l'articolo 1 del testo unico delle leggi e delle norme giuridiche nella rappresentanza e difesa in giudizio dello Stato e nell'ordinamento dell'Avvocatura dello Stato di cui al [regio decreto 30 ottobre 1933, n. 1611](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md).
 
 ## Art. 9. — Foro esclusivo
 
@@ -284,7 +284,7 @@ Nelle controversie di cui al comma 1, l'Agenzia e' domiciliata presso l'Avvocatu
 
 1.
 
-Alla copertura degli oneri derivanti dall'attuazione del presente decreto, pari a 3,4 milioni di euro per l'anno 2010 e pari a 4,2 milioni di euro a decorrere dall'anno 2011, si provvede, quanto a 3,25 milioni di euro per l'anno 2010 e 4 milioni di euro a decorrere dall'anno 2011, mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2010-2012, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2010, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'interno, nonche' quanto a 150 mila euro per l'anno 2010 e 200 mila euro a decorrere dall'anno 2011, mediante corrispondente riduzione dell'autorizzazione di spesa di cui al [decreto legislativo 30 luglio 1999, n. 303](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), come determinata dalla Tabella C della [legge 23 dicembre 2009, n. 191](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202010.%2009G0205.md).
+Alla copertura degli oneri derivanti dall'attuazione del presente decreto, pari a 3,4 milioni di euro per l'anno 2010 e pari a 4,2 milioni di euro a decorrere dall'anno 2011, si provvede, quanto a 3,25 milioni di euro per l'anno 2010 e 4 milioni di euro a decorrere dall'anno 2011, mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2010-2012, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2010, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'interno, nonche' quanto a 150 mila euro per l'anno 2010 e 200 mila euro a decorrere dall'anno 2011, mediante corrispondente riduzione dell'autorizzazione di spesa di cui al [decreto legislativo 30 luglio 1999, n. 303](../Decreti%20Legislativi/Ordinamento%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), come determinata dalla Tabella C della [legge 23 dicembre 2009, n. 191](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202010.%2009G0205.md).
 
 ## Art. 11. — Entrata in vigore
 

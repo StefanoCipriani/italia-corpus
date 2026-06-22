@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 12 marzo 1908, n. 151](../Regi%20decreti/Che%20approva%20il%20regolamento%20di%20esecuzione%20alla%20legge%2011%20luglio%201907%20n.%20502%20portante%20provvedimenti%20per%20la%20citta%20di%20Roma.%20008U0151.md), che approva il regolamento per l'esecuzione della [legge 11 luglio 1907, n. 502](Provvedimenti%20per%20la%20citta%20di%20Roma.%20007U0502.md), contenente provvedimenti per la citta' di Roma; 
+ Visto il [R. decreto 12 marzo 1908, n. 151](Che%20approva%20il%20regolamento%20di%20esecuzione%20alla%20legge%2011%20luglio%201907%20n.%20502%20portante%20provvedimenti%20per%20la%20citta%20di%20Roma.%20008U0151.md), che approva il regolamento per l'esecuzione della [legge 11 luglio 1907, n. 502](Provvedimenti%20per%20la%20citta%20di%20Roma.%20007U0502.md), contenente provvedimenti per la citta' di Roma; 
  
  Udito il parere del Consiglio di Stato; 
  

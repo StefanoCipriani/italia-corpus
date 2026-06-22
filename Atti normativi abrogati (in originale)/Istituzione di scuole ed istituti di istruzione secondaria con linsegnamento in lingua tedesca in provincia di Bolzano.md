@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 27 ottobre 1945, n. 775](../Decreti%20legislativi%20luogotenenziali/Norme%20circa%20linsegnamento%20nelle%20scuole%20elementari%20nella%20provincia%20di%20Bolzano.%20045U0775.md);
+Visto il [decreto legislativo luogotenenziale 27 ottobre 1945, n. 775](Norme%20circa%20linsegnamento%20nelle%20scuole%20elementari%20nella%20provincia%20di%20Bolzano.%20045U0775.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 3 maggio 1874, n. 1910](../Regi%20decreti/Col%20quale%20la%20Societa%20Italiana%20di%20soccorso%20ai%20naufraghi%20e%20eretta%20in%20Corpo%20morale.%20074U1910.md) (serie 2ª), col quale veniva eretta in corpo morale la Societa' italiana di soccorso ai naufraghi;
+Visto il [regio decreto 3 maggio 1874, n. 1910](Col%20quale%20la%20Societa%20Italiana%20di%20soccorso%20ai%20naufraghi%20e%20eretta%20in%20Corpo%20morale.%20074U1910.md) (serie 2ª), col quale veniva eretta in corpo morale la Societa' italiana di soccorso ai naufraghi;
 
-Visto il [regio decreto 12 marzo 1936, n. 671](../Regi%20decreti/Cambiamento%20della%20denominazione%20della%20Societa%20italiana%20di%20soccorso%20ai%20naufraghi%20in%20Ente%20Italiano%20per%20soccorsi%20in%20caso%20di%20sinistri%20marittimi%20e%20approvazione%20del%20relativo%20statuto.%20036U0671.md), col quale la predetta Societa' assumeva la denominazione di Ente italiano per i soccorsi in caso di sinistri marittimi, retto da statuto approvato dal decreto stesso;
+Visto il [regio decreto 12 marzo 1936, n. 671](Cambiamento%20della%20denominazione%20della%20Societa%20italiana%20di%20soccorso%20ai%20naufraghi%20in%20Ente%20Italiano%20per%20soccorsi%20in%20caso%20di%20sinistri%20marittimi%20e%20approvazione%20del%20relativo%20statuto.%20036U0671.md), col quale la predetta Societa' assumeva la denominazione di Ente italiano per i soccorsi in caso di sinistri marittimi, retto da statuto approvato dal decreto stesso;
 
-Visto il [regio decreto 14 luglio 1937, n. 1487](../Regi%20decreti/Riconoscimento%20giuridico%20dellEnte%20nazionale%20fascista%20per%20lassistenza%20alla%20gente%20di%20mare%20ed%20approvazione%20del%20relativo%20statuto.%20037U1487.md), con il quale si approva lo statuto dell'Ente nazionale per l'assistenza alla gente di marea;
+Visto il [regio decreto 14 luglio 1937, n. 1487](Riconoscimento%20giuridico%20dellEnte%20nazionale%20fascista%20per%20lassistenza%20alla%20gente%20di%20mare%20ed%20approvazione%20del%20relativo%20statuto.%20037U1487.md), con il quale si approva lo statuto dell'Ente nazionale per l'assistenza alla gente di marea;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -30,7 +30,7 @@ L'Ente italiano per soccorsi in caso di sinistri marittimi e' soppresso e il suo
 
 ## Art. 2.
 
-L'art. 3 dello statuto dell'Ente nazionale per l'assistenza alla gente di mare, approvato con [regio decreto 14 luglio 1937; n. 1487](../Regi%20decreti/Riconoscimento%20giuridico%20dellEnte%20nazionale%20fascista%20per%20lassistenza%20alla%20gente%20di%20mare%20ed%20approvazione%20del%20relativo%20statuto.%20037U1487.md), e' modificato come segue:
+L'art. 3 dello statuto dell'Ente nazionale per l'assistenza alla gente di mare, approvato con [regio decreto 14 luglio 1937; n. 1487](Riconoscimento%20giuridico%20dellEnte%20nazionale%20fascista%20per%20lassistenza%20alla%20gente%20di%20mare%20ed%20approvazione%20del%20relativo%20statuto.%20037U1487.md), e' modificato come segue:
  "L'Ente si propone:
  a) di provvedere a forme integrative di assistenza a favore dei marittimi disoccupati e delle loro famiglie, in aggiunta a quelle previste dalla legge;
  b) di provvedere all'assistenza dei marittimi in attesa di imbarco;
@@ -42,7 +42,7 @@ L'art. 3 dello statuto dell'Ente nazionale per l'assistenza alla gente di mare, 
 
 ## Art. 3.
 
-Il [regio decreto 12 marzo 1936, n. 671](../Regi%20decreti/Cambiamento%20della%20denominazione%20della%20Societa%20italiana%20di%20soccorso%20ai%20naufraghi%20in%20Ente%20Italiano%20per%20soccorsi%20in%20caso%20di%20sinistri%20marittimi%20e%20approvazione%20del%20relativo%20statuto.%20036U0671.md), e' abrogato.
+Il [regio decreto 12 marzo 1936, n. 671](Cambiamento%20della%20denominazione%20della%20Societa%20italiana%20di%20soccorso%20ai%20naufraghi%20in%20Ente%20Italiano%20per%20soccorsi%20in%20caso%20di%20sinistri%20marittimi%20e%20approvazione%20del%20relativo%20statuto.%20036U0671.md), e' abrogato.
 
 ## Art. 4.
 

@@ -12,14 +12,14 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
- Visto il [regio decreto 29 aprile 1926, n. 828](../Regi%20decreti/Determinazione%20delle%20tariffe%20dei%20diritti%20e%20degli%20atti%20di%20segreteria%20in%20materia%20di%20borsa%20valori%20per%20la%20Borsa%20valori%20di%20Venezia.%20026U0828.md), col quale venne stabilita la tariffa dei diritti di borsa spettanti alla Camera di commercio, industria e agricoltura di Venezia;
+ Visto il [regio decreto 29 aprile 1926, n. 828](Determinazione%20delle%20tariffe%20dei%20diritti%20e%20degli%20atti%20di%20segreteria%20in%20materia%20di%20borsa%20valori%20per%20la%20Borsa%20valori%20di%20Venezia.%20026U0828.md), col quale venne stabilita la tariffa dei diritti di borsa spettanti alla Camera di commercio, industria e agricoltura di Venezia;
  Viste le [deliberazioni in data 17 aprile 1947, n. 265](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1947-04-17;265), e [22 maggio 1947, n. 368](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1947-05-22;368), della Giunta camerale di detta Camera, di commercio, con le quali sono state proposte modifiche alla tariffa in parola;
- Visto l'[art. 53 del regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), col quale si stabilisce la forma e l'organo competente per la emanazione di provvedimenti riguardanti i diritti di borsa;
+ Visto l'[art. 53 del regio decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), col quale si stabilisce la forma e l'organo competente per la emanazione di provvedimenti riguardanti i diritti di borsa;
  Sulla proposta del Ministro Segretario di Stato per il tesoro;
 
  Decreta:
 
- La tariffa dei diritti e degli atti di segreteria, in materia di borsa valori, per la Borsa valori di Venezia, di cui al [regio decreto 29 aprile 1926, n. 828](../Regi%20decreti/Determinazione%20delle%20tariffe%20dei%20diritti%20e%20degli%20atti%20di%20segreteria%20in%20materia%20di%20borsa%20valori%20per%20la%20Borsa%20valori%20di%20Venezia.%20026U0828.md), e' modificata come segue:
+ La tariffa dei diritti e degli atti di segreteria, in materia di borsa valori, per la Borsa valori di Venezia, di cui al [regio decreto 29 aprile 1926, n. 828](Determinazione%20delle%20tariffe%20dei%20diritti%20e%20degli%20atti%20di%20segreteria%20in%20materia%20di%20borsa%20valori%20per%20la%20Borsa%20valori%20di%20Venezia.%20026U0828.md), e' modificata come segue:
 
 
  a) Certificati e copie:

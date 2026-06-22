@@ -56,7 +56,7 @@ La misura dell'indennita' militare e' ridotta di un quarto per gli ufficiali ed 
 
 ## Art. 4.
 
-Sono abrogati gli [articoli 171](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), [172](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [173 del regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+Sono abrogati gli [articoli 171](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), [172](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [173 del regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
  E' abrogato il [decreto legislativo luogotenenziale 7 settembre 1945, n. 574](Aumento%20temporaneo%20della%20indennita%20militare%20per%20gli%20ufficiali%20e%20sottufficiali%20in%20servizio%20permanente%20effettivo%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20_fd707601dbac.md), riguardante l'aumento temporaneo dell'indennita' militare. Le disposizioni concernenti i normali compensi per il lavoro straordinario previsti dal [decreto legislativo Presidenziale 27 giugno 1946, numero 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;19), dalla data in cui ha effetto il presente decreto non si applicano al personale militare.
 
 ## Art. 5.

@@ -32,7 +32,7 @@ La circoscrizione territoriale dei Comandi di Regione aerea e dei seguenti enti 
 ## Art. 3.
 
 Gli ufficiali generali comandanti di Regione e di Settore sono compresi negli organici dei rispettivi gradi.
- Nulla e' innovato quanto al numero dei funzionari destinati alle ispezioni sul funzionamento dei servizi contabili amministrativi, e surrogati nel ruolo organico ai sensi del [regio decreto 9 luglio 1936, n. 1748](../Regi%20decreti/Istituzione%20presso%20il%20Ministero%20dellaeronautica%20di%20un%20servizio%20ispettivo%20in%20materia%20contabile-amministrativa%20degli%20Enti%20aeronautici.%20036U1748.md).
+ Nulla e' innovato quanto al numero dei funzionari destinati alle ispezioni sul funzionamento dei servizi contabili amministrativi, e surrogati nel ruolo organico ai sensi del [regio decreto 9 luglio 1936, n. 1748](Istituzione%20presso%20il%20Ministero%20dellaeronautica%20di%20un%20servizio%20ispettivo%20in%20materia%20contabile-amministrativa%20degli%20Enti%20aeronautici.%20036U1748.md).
 
 ## Art. 4.
 

@@ -2903,7 +2903,7 @@ Il presente decreto entra in vigore il 1 gennaio
 
 1956.
 
-A decorrere da tale data il [regio decreto 18 giugno 1899, n. 230](../Regi%20decreti/Che%20approva%20il%20Regolamento%20generale%20relativo%20alla%20prevenzione%20degli%20infortuni%20nelle%20imprese%20e%20nelle%20industrie%20alle%20quali%20si%20applica%20la%20legge%2017%20marzo%201898%20n.%2080.%20099U0230.md), e' abrogato.
+A decorrere da tale data il [regio decreto 18 giugno 1899, n. 230](Che%20approva%20il%20Regolamento%20generale%20relativo%20alla%20prevenzione%20degli%20infortuni%20nelle%20imprese%20e%20nelle%20industrie%20alle%20quali%20si%20applica%20la%20legge%2017%20marzo%201898%20n.%2080.%20099U0230.md), e' abrogato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 1 del R. decreto-legge 23 maggio 1936, n. 872](Conferimento%20del%20grado%20di%20generale%20darmata%20al%20generale%20comandante%20designato%20darmata%20in%20servizio%20permanente%20effettivo%20Federico%20Baistrocchi%20e%20ai%20generali%20di%20corpo%20darmata%20in%20servizio%20perman_1853371d2592.md), convertito, in legge con la [legge 10 febbraio 1937, n. 324](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20maggio%201936-XIV%20n.%20872%20concernente%20il%20conferimento%20del%20grado%20di%20generale%20darmata%20al%20generale%20comandante%20designato%20darmata%20in%20S.P.E.%20Federico%20B_4823a365b148.md);
+Visto l'[art. 1 del R. decreto-legge 23 maggio 1936, n. 872](Conferimento%20del%20grado%20di%20generale%20darmata%20al%20generale%20comandante%20designato%20darmata%20in%20servizio%20permanente%20effettivo%20Federico%20Baistrocchi%20e%20ai%20generali%20di%20corpo%20darmata%20in%20servizio%20perman_1853371d2592.md), convertito, in legge con la [legge 10 febbraio 1937, n. 324](Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20maggio%201936-XIV%20n.%20872%20concernente%20il%20conferimento%20del%20grado%20di%20generale%20darmata%20al%20generale%20comandante%20designato%20darmata%20in%20S.P.E.%20Federico%20B_4823a365b148.md);
 
 Vista la [legge 9 maggio 1940, n. 369](Stato%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0369.md), e successive modificazioni;
 

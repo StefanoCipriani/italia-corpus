@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro segretario di Stato per le finanze, di concer
 
 ## Articolo unico
 
-E' approvata l'eccedenza d'impegni di L. 103.616,54 verificatasi nell'assegnazione del capitolo n. 21 «Inchieste di cui agli articoli 79 e seguenti del regolamento approvato col [R. decreto 13 marzo 1904, n. 141](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%20sugli%20infortuni%20degli%20operai%20sul%20lavoro.%20004U0141.md), per la esecuzione della legge ([testo unico) 31 gennaio 1904, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1904-01-31;51), sugli infortuni degli operai sul lavoro» dello stato di previsione della spesa del Ministero del lavoro e la previdenza sociale per l'esercizio finanziario 1920-921. 
+E' approvata l'eccedenza d'impegni di L. 103.616,54 verificatasi nell'assegnazione del capitolo n. 21 «Inchieste di cui agli articoli 79 e seguenti del regolamento approvato col [R. decreto 13 marzo 1904, n. 141](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%20sugli%20infortuni%20degli%20operai%20sul%20lavoro.%20004U0141.md), per la esecuzione della legge ([testo unico) 31 gennaio 1904, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1904-01-31;51), sugli infortuni degli operai sul lavoro» dello stato di previsione della spesa del Ministero del lavoro e la previdenza sociale per l'esercizio finanziario 1920-921. 
  
  Questo decreto sara' presentato al Parlamento per essere convertite in legge, ed andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta ufficiale. 
  

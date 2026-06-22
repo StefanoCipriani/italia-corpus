@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 17 agosto 1944, n. 188](../Decreti%20legislativi%20luogotenenziali/Istituzione%20dellEnte%20Nazionale%20Autotrasporti%20di%20Cose%20E.N.A.C..%20044U0188.md);
+Visto il [decreto legislativo luogotenenziale 17 agosto 1944, n. 188](Istituzione%20dellEnte%20Nazionale%20Autotrasporti%20di%20Cose%20E.N.A.C..%20044U0188.md);
 
-Visto il [decreto legislativo luogotenenziale 13 ottobre 1944, n. 324](../Decreti%20legislativi%20luogotenenziali/Norme%20integrative%20del%20decreto%20legislativo%20Luogotenenziale%2017%20agosto%201944%20n.%20188%20concernente%20la%20istituzione%20dellEnte%20nazionale%20autotrasporti%20di%20cose.%20044U0324.md);
+Visto il [decreto legislativo luogotenenziale 13 ottobre 1944, n. 324](Norme%20integrative%20del%20decreto%20legislativo%20Luogotenenziale%2017%20agosto%201944%20n.%20188%20concernente%20la%20istituzione%20dellEnte%20nazionale%20autotrasporti%20di%20cose.%20044U0324.md);
 
 Visto il [decreto legislativo luogotenenziale 23 agosto 1945, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-23;537);
 
@@ -88,7 +88,7 @@ In caso di liquidazione dell'E.A.M. il patrimonio residuo alla fine della liquid
 
 ## Art. 11.
 
-Sono abrogati il [decreto legislativo luogotenenziale 17 agosto 1944, n. 188](../Decreti%20legislativi%20luogotenenziali/Istituzione%20dellEnte%20Nazionale%20Autotrasporti%20di%20Cose%20E.N.A.C..%20044U0188.md), relativo alla istituzione dell'Ente Nazionale Autotrasporti di Cose (E.N.A.C.), lo statuto ad Esso allegato, il [decreto legislativo luogotenenziale 13 ottobre 1944, n. 324](../Decreti%20legislativi%20luogotenenziali/Norme%20integrative%20del%20decreto%20legislativo%20Luogotenenziale%2017%20agosto%201944%20n.%20188%20concernente%20la%20istituzione%20dellEnte%20nazionale%20autotrasporti%20di%20cose.%20044U0324.md), con tenente norme integrative al decreto istitutivo; il [decreto legislativo luogotenenziale 23 agosto 1945, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-23;537), nonche' il decreto Ministeriale 8 maggio 1945, relativo alle condizioni generali per il trasporto di cose con automezzi ed il decreto interministeriale 30 gennaio 1945, relativo alla "tariffa unica per i trasporti di cose su strada con automezzi".
+Sono abrogati il [decreto legislativo luogotenenziale 17 agosto 1944, n. 188](Istituzione%20dellEnte%20Nazionale%20Autotrasporti%20di%20Cose%20E.N.A.C..%20044U0188.md), relativo alla istituzione dell'Ente Nazionale Autotrasporti di Cose (E.N.A.C.), lo statuto ad Esso allegato, il [decreto legislativo luogotenenziale 13 ottobre 1944, n. 324](Norme%20integrative%20del%20decreto%20legislativo%20Luogotenenziale%2017%20agosto%201944%20n.%20188%20concernente%20la%20istituzione%20dellEnte%20nazionale%20autotrasporti%20di%20cose.%20044U0324.md), con tenente norme integrative al decreto istitutivo; il [decreto legislativo luogotenenziale 23 agosto 1945, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-23;537), nonche' il decreto Ministeriale 8 maggio 1945, relativo alle condizioni generali per il trasporto di cose con automezzi ed il decreto interministeriale 30 gennaio 1945, relativo alla "tariffa unica per i trasporti di cose su strada con automezzi".
  Il presente decreto entrera' in vigore nel giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare come legge dello Stato,

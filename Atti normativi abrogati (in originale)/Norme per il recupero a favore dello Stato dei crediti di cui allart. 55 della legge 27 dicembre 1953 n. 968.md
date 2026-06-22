@@ -43,7 +43,7 @@ L'intero importo del credito erariale sara' recuperato in unica soluzione nel ca
 ## Art. 4.
 
 Il recupero dei crediti e' affidato agli Uffici provinciali del tesoro.
- La ratizzazione di cui al secondo comma del precedente art. 3 potra' essere consentita dagli Uffici provinciali del tesoro, in quanto sia prestata, dal debitore idonea garanzia ipotecaria su immobili ed impianti di sua proprieta' oppure valida fideiussione bancaria da parte degli istituti, banche ed aziende di credito, indicate nel [decreto del Presidente della Repubblica 22 maggio 1956, n. 635](../Regolamenti%20governativi/Modifica%20dellart.%2054%20del%20regolamento%20per%20lamministrazione%20del%20patrimonio%20e%20per%20la%20contabilita%20generale%20dello%20Stato%20concernente%20la%20fidejussione%20da%20parte%20delle%20Aziende%20di%20credito.md).
+ La ratizzazione di cui al secondo comma del precedente art. 3 potra' essere consentita dagli Uffici provinciali del tesoro, in quanto sia prestata, dal debitore idonea garanzia ipotecaria su immobili ed impianti di sua proprieta' oppure valida fideiussione bancaria da parte degli istituti, banche ed aziende di credito, indicate nel [decreto del Presidente della Repubblica 22 maggio 1956, n. 635](../DPR/Modifica%20dellart.%2054%20del%20regolamento%20per%20lamministrazione%20del%20patrimonio%20e%20per%20la%20contabilita%20generale%20dello%20Stato%20concernente%20la%20fidejussione%20da%20parte%20delle%20Aziende%20di%20credito.md).
 
 ## Art. 5.
 

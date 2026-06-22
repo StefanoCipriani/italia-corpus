@@ -48,7 +48,7 @@ Essi saranno giudicati da un'Alta Corte di giustizia composta di un presidente e
 
 ### Art. 3.
 
-Coloro che hanno organizzato squadre fasciste, le quali hanno compiuto atti di violenza o di devastazione, e coloro che hanno promosso o diretto l'insurrezione del 28 ottobre 1922 sono puniti secondo l'[art. 120 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 1889. 
+Coloro che hanno organizzato squadre fasciste, le quali hanno compiuto atti di violenza o di devastazione, e coloro che hanno promosso o diretto l'insurrezione del 28 ottobre 1922 sono puniti secondo l'[art. 120 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 1889. 
  
  Coloro che hanno promosso o diretto il colpo di Stato del 3 gennaio 1925 e coloro che hanno in seguito contribuito con atti rilevanti a mantenere in vigore il regime fascista sono puniti secondo l'art, 118 del Codice stesso. 
  
@@ -88,7 +88,7 @@ Per i reati previsti nel presente titolo, la pena puo' essere ridotta fino ad un
  
  b) se hai, partecipato attivamente alla lotta contro i tedeschi. 
  
- Se ricorrono le circostanze attenuanti generiche, previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 1889, alla pena di morte e all'ergastolo e' sostituita la reclusione per trent'anni e le altre pene sono diminuite di un sesto. 
+ Se ricorrono le circostanze attenuanti generiche, previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 1889, alla pena di morte e all'ergastolo e' sostituita la reclusione per trent'anni e le altre pene sono diminuite di un sesto. 
  
  Il colpevole potra' essere dichiarato non punibile, se nella lotta contro i tedeschi si sia particolarmente distinto con atti di valore.
 
@@ -275,7 +275,7 @@ La Sezione speciale della Commissione provinciale ha tutti i poteri di indagine,
  
  Non e' ammesso il diritto di astenersi dal testimoniare nei casi dell'[art. 352 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_352). 
  
- Chi, chiamato come testimonio o perito, non ottempera agli obblighi o commette falsita' e' punito a termine degli [articoli 366](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [372](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [373 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ Chi, chiamato come testimonio o perito, non ottempera agli obblighi o commette falsita' e' punito a termine degli [articoli 366](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [372](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [373 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Chi non adempie alle altre richieste della Sezione e' punito con la reclusione fino a sei mesi o con la multa da 300 a 5000 lire. 
  
@@ -392,7 +392,7 @@ Per l'applicazione del presente decreto sono abolite tutte le prerogative, compr
 
 ### Art. 43.
 
-I pubblici ufficiali e gli incaricati di pubblici servizi, investiti a norma del presente decreto di funzioni relative alla repressione dei delitti dei fascisti, all'epurazione delle Amministrazioni, all'avocazione dei profitti di regime e alla liquidazione dei beni fascisti, i quali si rendono responsabili di alcuno dei reati previsti e puniti dagli [articoli 314](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [316](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [317](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [318](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [319](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [320](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [323](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [324](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [326](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [328 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono puniti con le pene previste da detti articoli, aumentati da un terzo alla meta'.
+I pubblici ufficiali e gli incaricati di pubblici servizi, investiti a norma del presente decreto di funzioni relative alla repressione dei delitti dei fascisti, all'epurazione delle Amministrazioni, all'avocazione dei profitti di regime e alla liquidazione dei beni fascisti, i quali si rendono responsabili di alcuno dei reati previsti e puniti dagli [articoli 314](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [316](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [317](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [318](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [319](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [320](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [323](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [324](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [326](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [328 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono puniti con le pene previste da detti articoli, aumentati da un terzo alla meta'.
 
 ### Art. 44.
 

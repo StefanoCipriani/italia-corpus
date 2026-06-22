@@ -422,7 +422,7 @@ Gli impiegati di cui al quadro VII della tabella D, oltre ai compiti propri dell
 
 ### Art. 45.
 
-Per il personale periferico dell'Amministrazione metrica e del saggio dei metalli preziosi il rapporto informativo di cui all'[art. 42 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' compilato:
+Per il personale periferico dell'Amministrazione metrica e del saggio dei metalli preziosi il rapporto informativo di cui all'[art. 42 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' compilato:
  a) per i capi dei circoli d'ispezione metrica, dal direttore generale del commercio interno e dei consumi industriali. Il giudizio complessivo e' espresso dal consiglio di amministrazione;
  b) per i titolari degli uffici provinciali metrici, dal capo del circolo d'ispezione metrica competente per giurisdizione. Il giudizio complessivo e' espresso dal direttore generale del commercio interno e dei consumi industriali;
  c) per gli altri impiegati delle carriere di concetto, nonche' per quelli della carriera esecutiva ed ausiliaria, dal titolare dell'ufficio provinciale metrico di appartenenza. Il giudizio complessivo e' espresso dal capo del circolo di ispezione metrica.

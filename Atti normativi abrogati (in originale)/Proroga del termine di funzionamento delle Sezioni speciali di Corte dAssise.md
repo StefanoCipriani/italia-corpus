@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 5 ottobre 1945, n. 625](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20norme%20sulle%20sanzioni%20contro%20il%20fascismo.%20045U0625.md);
+Visto il [decreto legislativo luogotenenziale 5 ottobre 1945, n. 625](Modificazioni%20alle%20norme%20sulle%20sanzioni%20contro%20il%20fascismo.%20045U0625.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 3 ottobre 1946, n. 194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-03;194);
 

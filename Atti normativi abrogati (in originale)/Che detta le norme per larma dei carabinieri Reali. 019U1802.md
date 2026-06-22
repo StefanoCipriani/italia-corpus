@@ -20,7 +20,7 @@ Vista la [legge 8 luglio 1883, n. 1467](Che%20determina%20la%20circoscrizione%20
 
 Visto il [R. decreto 21 dicembre 1884, n. 2858](Che%20determina%20la%20circoscrizione%20territoriale%20militare%20per%20il%20servizio%20dellarma%20dei%20carabinieri%20Reali%20084U2858.md), che determina la circoscrizione territoriale per il servizio dell'arma dei carabinieri reali e successive modificazioni;
 
-Visto il testo unico delle leggi sulle pensioni approvato con [R. decreto n. 70 del 21 febbraio 1895](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
+Visto il testo unico delle leggi sulle pensioni approvato con [R. decreto n. 70 del 21 febbraio 1895](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
 
 Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento del R. esercito, modificata dalle [leggi 6 marzo 1998, n. 50; 3 luglio 1902, n. 297; 21 luglio 1902, n. 393; 30 dicembre 1906, n. 647; 14 luglio 1907, n. 495; 1° luglio 1909, n. 506: 17 luglio 1910, n. 515](Modificazioni%20al%20testo%20unico%20delle%20leggi%20di%20ordinamento%20del%20R.%20esercito%20e%20dei%20servizi%20dipendenti%20dallAmministrazione%20della%20guerra%20e%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20R.%20esercito.%20010U0515.md);
 
@@ -350,7 +350,7 @@ A datare dal 1° gennaio 1920 cesseranno di avere vigore gli attuali limiti di e
  
  Gli ufficiali dei carabinieri reali che all'atto dell'applicazione del presente decreto avranno raggiunto l'eta' fissata dalla tabella su riportata potranno ottenere, se idonei, la prima promozione nella posizione ausiliaria, salvo i casi di cui agli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-06-03;601#art_13) e [14, primo comma, della legge 3 giugno 1915 n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-06-03;601#art_14-com1), allorquando saranno promossi gli ufficiali che li seguono immediatamente nel rispettivo ruolo rimasti in servizio attivo permanente. 
  
- Nella tabella annessa all'articolo 74 del testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e' soppressa la colonna 3 riflettente i carabinieri Reali e nella colonna 1, dopo le parole: «stato maggiore», sono aggiunte le parole: «carabinieri Reali». 
+ Nella tabella annessa all'articolo 74 del testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e' soppressa la colonna 3 riflettente i carabinieri Reali e nella colonna 1, dopo le parole: «stato maggiore», sono aggiunte le parole: «carabinieri Reali». 
  
  Le disposizioni transitorie sulla cui base saranno, a suo tempo, liquidate le pensioni agli ufficiali dei carabinieri Reali che avranno alla data del 1° gennaio 1920 gia' superati i nuovi limiti di eta', saranno proposte con successivo decreto, per cura del Ministero del tesoro.
 

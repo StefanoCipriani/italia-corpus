@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 30 dicembre 1923, n. 3139](../Regi%20decreti/Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), che reca provvedimenti per il credito agrario;
+Veduto il [R. decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), che reca provvedimenti per il credito agrario;
 
-Veduto il [R. decreto 2 ottobre 1921, n. 1332](../Regi%20decreti/Che%20applica%20a%20determinati%20fabbricati%20rurali%20il%20beneficio%20del%20concorso%20governativo%20nel%20pagamento%20degli%20interessi%20sui%20mutui%20per%20la%20costruzione%20di%20case%20coloniche.%20021U1332.md), che detta norme per la concessione del concorso governativo nel pagamento degli interessi sui mutui per la costruzione di case coloniche;
+Veduto il [R. decreto 2 ottobre 1921, n. 1332](Che%20applica%20a%20determinati%20fabbricati%20rurali%20il%20beneficio%20del%20concorso%20governativo%20nel%20pagamento%20degli%20interessi%20sui%20mutui%20per%20la%20costruzione%20di%20case%20coloniche.%20021U1332.md), che detta norme per la concessione del concorso governativo nel pagamento degli interessi sui mutui per la costruzione di case coloniche;
 
 Visto il [R. decreto-legge 5 aprile 1925, n. 438](Provvedimenti%20per%20la%20concessione%20di%20mutui%20per%20costruzione%20di%20fabbricati%20rurali.%20025U0438.md), che reca provvedimenti per i mutui per costruzioni di fabbricati rurali;
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il [R. decreto 21 settembre 1910, n. 644](../Regi%20decreti/Che%20apporta%20modificazioni%20al%20regime%20fiscale%20degli%20spiriti.%20010U0644.md), che introduce modificazioni al regime fiscale degli spiriti, e' convertito in legge. 
+ Il [R. decreto 21 settembre 1910, n. 644](Che%20apporta%20modificazioni%20al%20regime%20fiscale%20degli%20spiriti.%20010U0644.md), che introduce modificazioni al regime fiscale degli spiriti, e' convertito in legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

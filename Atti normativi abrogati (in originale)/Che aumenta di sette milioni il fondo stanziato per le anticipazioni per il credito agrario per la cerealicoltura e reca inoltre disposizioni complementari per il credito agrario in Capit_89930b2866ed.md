@@ -20,7 +20,7 @@ Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, di con
 
 ## Art. 1.
 
-Il fondo di 85 milioni stanziato con i [decreti Luogotenenziali 28 giugno 1917, n. 1085](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-06-28;1085), [11 novembre 1917, n. 1831](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-11-11;1831), [14 aprile 1918, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-04-14;556); [14 luglio 1918, n. 1100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-07-14;1100), [15 settembre 1918, n. 1444 e col Regio decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1918-09-15;1444) [20 luglio 1919, n. 1414](../Regi%20decreti/Che%20aumenta%20il%20fondo%20stanziato%20per%20anticipazioni%20agli%20Istituti%20di%20credito%20agrario.%20019U1414.md), e' aumentato di altri 7 milioni.
+Il fondo di 85 milioni stanziato con i [decreti Luogotenenziali 28 giugno 1917, n. 1085](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-06-28;1085), [11 novembre 1917, n. 1831](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-11-11;1831), [14 aprile 1918, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-04-14;556); [14 luglio 1918, n. 1100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-07-14;1100), [15 settembre 1918, n. 1444 e col Regio decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1918-09-15;1444) [20 luglio 1919, n. 1414](Che%20aumenta%20il%20fondo%20stanziato%20per%20anticipazioni%20agli%20Istituti%20di%20credito%20agrario.%20019U1414.md), e' aumentato di altri 7 milioni.
 
 ## Art. 2.
 
@@ -60,7 +60,7 @@ Agli effetti della disposizione di cui al primo comma dell'art. 4 del presente d
 
 ## Art. 7.
 
-Restano in vigore le disposizioni del [secondo](../Regi%20decreti/Che%20aumenta%20il%20fondo%20stanziato%20per%20anticipazioni%20agli%20Istituti%20di%20credito%20agrario.%20019U1414.md) e [terzo comma dell'art. 4 del Regio decreto 20 luglio 1919, n. 1414](../Regi%20decreti/Che%20aumenta%20il%20fondo%20stanziato%20per%20anticipazioni%20agli%20Istituti%20di%20credito%20agrario.%20019U1414.md).
+Restano in vigore le disposizioni del [secondo](Che%20aumenta%20il%20fondo%20stanziato%20per%20anticipazioni%20agli%20Istituti%20di%20credito%20agrario.%20019U1414.md) e [terzo comma dell'art. 4 del Regio decreto 20 luglio 1919, n. 1414](Che%20aumenta%20il%20fondo%20stanziato%20per%20anticipazioni%20agli%20Istituti%20di%20credito%20agrario.%20019U1414.md).
 
 ## Art. 8.
 

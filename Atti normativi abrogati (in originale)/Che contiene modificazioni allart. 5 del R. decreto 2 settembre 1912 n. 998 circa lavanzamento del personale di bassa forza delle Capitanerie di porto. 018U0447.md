@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-L'art. 5 del sopra menzionato [R. decreto 2 settembre 1912, n. 998](../Regi%20decreti/Concernente%20il%20reclutamento%20e%20lavanzamento%20del%20personale%20di%20bassa%20forza%20delle%20capitanerie%20di%20porto.%20012U0998.md), e' sostituito dal seguente: 
+L'art. 5 del sopra menzionato [R. decreto 2 settembre 1912, n. 998](Concernente%20il%20reclutamento%20e%20lavanzamento%20del%20personale%20di%20bassa%20forza%20delle%20capitanerie%20di%20porto.%20012U0998.md), e' sostituito dal seguente: 
  
  «Le promozioni da marinaio di porto di 2ª classe a marinaio di porto di 1ª classe sono conferite nella proporzione di un quinto per merito e di quattro quinti per anzianita'. 
  

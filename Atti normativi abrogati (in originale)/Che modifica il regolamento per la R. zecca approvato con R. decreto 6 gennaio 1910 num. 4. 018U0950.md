@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli articoli 9, 15, 25, 32, 36, 37, 38 e 42 del regolamento per la Regia zecca, approvato con [R. decreto 6 gennaio 1910, n. 4](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20sui%20servizi%20e%20sul%20funzionamento%20della%20R.%20Zecca.%20010U0004.md), e modificato con Nostro decreto 30 gennaio 1916, n. 138, sono modificati come segue: 
+Gli articoli 9, 15, 25, 32, 36, 37, 38 e 42 del regolamento per la Regia zecca, approvato con [R. decreto 6 gennaio 1910, n. 4](Che%20approva%20lannesso%20regolamento%20sui%20servizi%20e%20sul%20funzionamento%20della%20R.%20Zecca.%20010U0004.md), e modificato con Nostro decreto 30 gennaio 1916, n. 138, sono modificati come segue: 
  
  Art. 9. - Il Consiglio d'amministrazione: 
  

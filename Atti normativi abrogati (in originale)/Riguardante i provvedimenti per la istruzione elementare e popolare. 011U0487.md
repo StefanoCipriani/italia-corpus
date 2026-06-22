@@ -282,7 +282,7 @@ Al Comune spetta:
 
 Il servizio di tesoreria per l'amministrazione scolastica e' fatto dalla sezione della tesoreria provinciale alla quale il comune versa i contributi di cui all'art. 17, con le norme stabilite dal regolamento. 
  
- A garanzia del versamento sono applicabili le norme privilegiate stabilite a favore del Monte pensioni per la riscossione dei contributi di cui nell'articolo 12 del testo unico approvato con [Regio decreto 31 gennaio 1909, n. 97](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20Monte-pensioni%20per%20glinsegnanti%20nelle%20scuole%20pubbliche%20elementari%20negli%20asili%20d%20infanzia%20e%20nei%20RR.%20educatori%20femminili%20a%20patrimonio%20sorveg_aa735f9be188.md).
+ A garanzia del versamento sono applicabili le norme privilegiate stabilite a favore del Monte pensioni per la riscossione dei contributi di cui nell'articolo 12 del testo unico approvato con [Regio decreto 31 gennaio 1909, n. 97](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20Monte-pensioni%20per%20glinsegnanti%20nelle%20scuole%20pubbliche%20elementari%20negli%20asili%20d%20infanzia%20e%20nei%20RR.%20educatori%20femminili%20a%20patrimonio%20sorveg_aa735f9be188.md).
 
 ### Art. 20.
 
@@ -842,7 +842,7 @@ Il numero degli ispettori scolastici sara' gradatamente aumentato in un triennio
  
  Il ruolo degli ispettori e degli stipendi sara' formato in conformita' della tabella A annessa alla presente legge. 
  
- Per le promozioni degli ispettori al grado di primi ispettori si seguiranno le norme stabilite dall' art. 5 del testo unico approvato con [Regio decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md), per le promozioni al grado di primo segretario. 
+ Per le promozioni degli ispettori al grado di primi ispettori si seguiranno le norme stabilite dall' art. 5 del testo unico approvato con [Regio decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md), per le promozioni al grado di primo segretario. 
  
  Sono tuttavia ammessi all'esame di concorso per merito pei posti disponibili per l'ampliamento del ruolo dopo il primo e secondo concorso tutti gli ispettori che abbiano almeno quattro anni di effettivo servizio come ispettori.
 

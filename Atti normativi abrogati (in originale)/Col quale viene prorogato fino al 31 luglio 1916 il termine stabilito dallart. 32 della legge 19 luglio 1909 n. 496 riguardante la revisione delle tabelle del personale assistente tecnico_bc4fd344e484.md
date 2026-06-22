@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[articolo 32 della legge 19 luglio 1909, n. 496](Recante%20provvedimenti%20per%20la%20istruzione%20superiore.%20009U0496.md) (art. 127 del testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, numero 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md)), con il quale si stabiliva che, entro due anni dalla promulgazione della legge stessa, si dovesse procedere alla revisione delle tabelle del personale assistente, tecnico e subalterno universitario;
+Visto l'[articolo 32 della legge 19 luglio 1909, n. 496](Recante%20provvedimenti%20per%20la%20istruzione%20superiore.%20009U0496.md) (art. 127 del testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, numero 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md)), con il quale si stabiliva che, entro due anni dalla promulgazione della legge stessa, si dovesse procedere alla revisione delle tabelle del personale assistente, tecnico e subalterno universitario;
 
 Viste le [leggi 21 luglio 1911, n. 800, 22 giugno 1913, n. 780, e 19 luglio 1914, n. 794](Con%20la%20quale%20e%20prorogato%20il%20termine%20fissato%20dallart.%2032%20della%20legge%2019%20luglio%201909%20n.%20496%20sulla%20istruzione%20superiore.%20014U0794.md), che hanno successivamente prorogato tale termine al 31 luglio 1913, al 31 luglio 1914 e al 31 luglio 1915;
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro segretario di Stato per la pubblica istruzione, di c
 
 ## Art. 1.
 
-Il termine fissato dall'[art. 32 della legge 19 luglio 1909, n. 496](Recante%20provvedimenti%20per%20la%20istruzione%20superiore.%20009U0496.md) (art. 127 del testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md)), gia' prorogato con le leggi 21 luglio 1911. n. 800, 22 giugno 1913, n. 780, e 19 luglio 1914, n. 794, e' prorogato ancora fino al 31 luglio 1916. 
+Il termine fissato dall'[art. 32 della legge 19 luglio 1909, n. 496](Recante%20provvedimenti%20per%20la%20istruzione%20superiore.%20009U0496.md) (art. 127 del testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md)), gia' prorogato con le leggi 21 luglio 1911. n. 800, 22 giugno 1913, n. 780, e 19 luglio 1914, n. 794, e' prorogato ancora fino al 31 luglio 1916. 
  
  Tutti i posti di personale in soprannumero e' straordinario di cui agli articoli 34 e 35 della sopra indicata legge, tuttora esistenti, saranno mantenuti sino a stando si procedera' alla revisione suddetta, e potra' provvedersi alla sostituzione nei casi che taluno di essi rimanga scoperto.
 

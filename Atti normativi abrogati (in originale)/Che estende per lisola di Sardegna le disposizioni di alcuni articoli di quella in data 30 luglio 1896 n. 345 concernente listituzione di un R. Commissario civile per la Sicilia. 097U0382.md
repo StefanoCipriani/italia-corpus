@@ -60,7 +60,7 @@ Alla ricostituzione delle Compagnie Baraccellari;
 
 3.
 
-Alla repressione dell'abigeato, del pascolo abusivo e dei danneggiamenti alle private proprieta', con facolta' di comminare sia la confisca degli animali trovati in contravvenzione, come le pene stabilite dagli [articoli 424](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [426 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Alla repressione dell'abigeato, del pascolo abusivo e dei danneggiamenti alle private proprieta', con facolta' di comminare sia la confisca degli animali trovati in contravvenzione, come le pene stabilite dagli [articoli 424](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [426 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Fino a nuova disposizione il pascolo abusivo ed i danneggiamenti saranno considerati come reati di azione pubblica.
 
@@ -203,7 +203,7 @@ Durante un periodo di venti anni dal giorno della immissione in possesso dei ter
 
 ### Art. 16.
 
-Ai coltivatori che ne facessero richiesta, per opere di bonificazione, irrigazione e trasformazione agraria, potra' essere concessa, dall'Amministrazione carceraria, con le cautele e con le condizioni da essa stabilite, l'opera dei condannati alla reclusione, che sono ammessi, secondo la disposizione dell'[articolo 14 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), a scontare una parte della pena in opere pubbliche o private.
+Ai coltivatori che ne facessero richiesta, per opere di bonificazione, irrigazione e trasformazione agraria, potra' essere concessa, dall'Amministrazione carceraria, con le cautele e con le condizioni da essa stabilite, l'opera dei condannati alla reclusione, che sono ammessi, secondo la disposizione dell'[articolo 14 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), a scontare una parte della pena in opere pubbliche o private.
 
 ### Art. 17.
 

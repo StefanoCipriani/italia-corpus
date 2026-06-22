@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 124 cod. pen.](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+Visto l'[art. 124 cod. pen.](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
 
 Visto l'[art. 18 della legge 19 gennaio 1939, n. 129](Istituzione%20della%20Camera%20dei%20Fasci%20e%20delle%20Corporazioni.%20039U0129.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la Gra
 
 ## Art. 1.
 
-E' sospeso a decorrere dal 25 luglio 1943 il termine previsto dall'[art. 124 C.P.](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercizio del diritto di querela per i reati commessi col mezzo della stampa, a favore di chiunque provi di non averlo potuto osservare per cause dipendenti dall'attuale stato di guerra o di non essere venuto per le stesse cause a conoscenza del fatto per il quale intende procedere.
+E' sospeso a decorrere dal 25 luglio 1943 il termine previsto dall'[art. 124 C.P.](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercizio del diritto di querela per i reati commessi col mezzo della stampa, a favore di chiunque provi di non averlo potuto osservare per cause dipendenti dall'attuale stato di guerra o di non essere venuto per le stesse cause a conoscenza del fatto per il quale intende procedere.
 
 ## Art. 2.
 

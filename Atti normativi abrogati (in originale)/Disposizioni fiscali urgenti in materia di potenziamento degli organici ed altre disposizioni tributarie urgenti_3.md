@@ -71,7 +71,7 @@ Le disposizioni di cui all'articolo 11, comma 2, del decreto del Ministro delle 
 
 2.
 
-I concessionari possono disporre delle somme giacenti sui conti correnti postali istituiti per il versamento dell'imposta comunale sugli immobili esclusivamente a fronte del contestuale versamento, a favore degli enti destinatari dell'imposta tramite posta giro alla contabilita' speciale aperta presso le competenti tesorerie provinciali dello Stato, per gli enti assoggettati alla tesoreria unica, ovvero ai conti correnti postali intestati ai comuni interessati, delle somme incassate, al netto di quelle indebitamente affluite sui conti stessi e delle commissioni previste dall'[articolo 10, comma 3, del decreto legislativo 30 dicembre 1992, n. 504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+I concessionari possono disporre delle somme giacenti sui conti correnti postali istituiti per il versamento dell'imposta comunale sugli immobili esclusivamente a fronte del contestuale versamento, a favore degli enti destinatari dell'imposta tramite posta giro alla contabilita' speciale aperta presso le competenti tesorerie provinciali dello Stato, per gli enti assoggettati alla tesoreria unica, ovvero ai conti correnti postali intestati ai comuni interessati, delle somme incassate, al netto di quelle indebitamente affluite sui conti stessi e delle commissioni previste dall'[articolo 10, comma 3, del decreto legislativo 30 dicembre 1992, n. 504](../Decreti%20Legislativi/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 3.
 

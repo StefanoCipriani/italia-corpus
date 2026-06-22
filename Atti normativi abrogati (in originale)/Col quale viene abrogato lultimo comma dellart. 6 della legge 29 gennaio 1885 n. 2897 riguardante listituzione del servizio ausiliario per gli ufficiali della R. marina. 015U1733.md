@@ -26,7 +26,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la [legge 29 gennaio 1885, n. 2897](Che%20stabilisce%20per%20gli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marineria%20la%20posizione%20di%20servizio%20ausiliario.%20085U2897.md), serie 3ª sulla istituzione del servizio ausiliario per gli ufficiali della R. marina; 
  
- Visto il [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), che approva il testo unico delle leggi sulle pensioni civili e militari; 
+ Visto il [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), che approva il testo unico delle leggi sulle pensioni civili e militari; 
  
  Visto il [R. decreto 2 maggio 1915, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-02;596), da convertirsi in legge; 
  
@@ -40,7 +40,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- L'ultimo comma dell'[art. 6 della legge 29 gennaio 1885, n. 2897](Che%20stabilisce%20per%20gli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marineria%20la%20posizione%20di%20servizio%20ausiliario.%20085U2897.md), serie 3ª, e quello dell'[art. 21 del R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), sono abrogati. 
+ L'ultimo comma dell'[art. 6 della legge 29 gennaio 1885, n. 2897](Che%20stabilisce%20per%20gli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marineria%20la%20posizione%20di%20servizio%20ausiliario.%20085U2897.md), serie 3ª, e quello dell'[art. 21 del R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), sono abrogati. 
  
  E' parimente abrogato a decorrere dal 1° gennaio 1916 il Nostro decreto n. 1133 del 15 luglio 1915. 
  

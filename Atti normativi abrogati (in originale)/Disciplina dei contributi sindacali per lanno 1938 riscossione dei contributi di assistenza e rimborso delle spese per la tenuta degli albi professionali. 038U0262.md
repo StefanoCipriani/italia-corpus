@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;109#art_3-num2);
 
-Veduto il [R. decreto 25 gennaio 1937, n. 484](../Regi%20decreti/Regolamento%20dei%20contributi%20sindacali.%20037U0484.md);
+Veduto il [R. decreto 25 gennaio 1937, n. 484](Regolamento%20dei%20contributi%20sindacali.%20037U0484.md);
 
 Veduta la [legge 18 giugno 1931, n. 856](Riordinamento%20delle%20disposizioni%20sul%20riparto%20di%20contributi%20sindacali%20obbligatori.%20031U0856.md);
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro Segretario di Stato per le corporazioni, di concerto
 
 A decorrere dal 1° gennaio 1938 la quota annua per la tessera, per gli iscritti alle Associazioni professionali aderenti alla Confederazione dei professionisti e degli artisti, alle Confederazioni dei datori di lavoro e alle Confederazioni dei lavoratori e' stabilita in lire una. 
  
- Dalla stessa data e' fatto divieto di imporre contributi associativi previsti dall'[art. 68 del R. decreto 25 gennaio 1937, n. 484](../Regi%20decreti/Regolamento%20dei%20contributi%20sindacali.%20037U0484.md). L'applicazione dei contributi facoltativi di cui al successivo art. 69 del cennato Regio decreto e' limitata ai soli casi in cui occorre far fronte a spese di riconosciuta necessita' nell'interesse collettivo di determinate categorie produttrici. 
+ Dalla stessa data e' fatto divieto di imporre contributi associativi previsti dall'[art. 68 del R. decreto 25 gennaio 1937, n. 484](Regolamento%20dei%20contributi%20sindacali.%20037U0484.md). L'applicazione dei contributi facoltativi di cui al successivo art. 69 del cennato Regio decreto e' limitata ai soli casi in cui occorre far fronte a spese di riconosciuta necessita' nell'interesse collettivo di determinate categorie produttrici. 
  
  Tali contributi, da stabilirsi con decreto del Ministro per le corporazioni, possono essere applicati ai rappresentati dalle Associazioni sindacali e agli iscritti agli Enti di assistenza costituiti ai sensi dell'art. 4, ultimo comma, della [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md). 
  
@@ -54,7 +54,7 @@ E' data facolta' al Ministro per le corporazioni di disciplinare con propri decr
 
 ## Art. 4.
 
-I contributi paritetici che le Associazioni sindacali giuridicamente riconosciute dei datori di lavoro e dei lavoratori e gli Istituti di assistenza abbiano determinato di applicare per l'assistenza in caso di malattia, possono essere riscossi con le forme e la procedura privilegiata stabilite per la riscossione delle imposte dirette, adottandosi per i ricorsi in materia di accertamento e di riscossione, nonche' per la decisione di essi, in quanto applicabili, le norme del [R. decreto 25 gennaio 1937, n. 484](../Regi%20decreti/Regolamento%20dei%20contributi%20sindacali.%20037U0484.md). 
+I contributi paritetici che le Associazioni sindacali giuridicamente riconosciute dei datori di lavoro e dei lavoratori e gli Istituti di assistenza abbiano determinato di applicare per l'assistenza in caso di malattia, possono essere riscossi con le forme e la procedura privilegiata stabilite per la riscossione delle imposte dirette, adottandosi per i ricorsi in materia di accertamento e di riscossione, nonche' per la decisione di essi, in quanto applicabili, le norme del [R. decreto 25 gennaio 1937, n. 484](Regolamento%20dei%20contributi%20sindacali.%20037U0484.md). 
  
  Analoga facolta' puo' essere consentita, anche fuori dell'ipotesi di cui al precedente comma, per i contributi non paritetici deliberati dalle Associazioni sindacali giuridicamente riconosciute dei professionisti e degli artisti e di altre categorie, o dai loro Istituti collaterali, per l'assistenza in caso di malattia ed altre analoghe forme di assistenza. 
  

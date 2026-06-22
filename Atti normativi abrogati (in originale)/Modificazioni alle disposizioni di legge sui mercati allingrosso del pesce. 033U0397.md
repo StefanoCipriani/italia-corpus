@@ -30,7 +30,7 @@ Il diritto di mercato puo' essere elevato fino al massimo del 2,25 % a favore de
 
 ## Art. 3.
 
-L'ultimo comma dell'art. 77, l'art. 79, limitatamente alle lettere a) e b), ed il primo comma dell'art. 82 del testo unico delle leggi sulla pesca, approvato col [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), sono abrogati. 
+L'ultimo comma dell'art. 77, l'art. 79, limitatamente alle lettere a) e b), ed il primo comma dell'art. 82 del testo unico delle leggi sulla pesca, approvato col [R. decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), sono abrogati. 
  
  I diritti e le provvigioni di cui all'art. 1, in vigore nei mercati all'ingrosso del pesce, che risultino di misura superiore alle percentuali massime stabilite dallo stesso articolo, saranno ridotte, con la entrata in vigore della presente legge, alle percentuali medesime, nonostante qualsiasi autorizzazione in contrario, salvo il disposto del 1° comma dell'articolo 2. 
  

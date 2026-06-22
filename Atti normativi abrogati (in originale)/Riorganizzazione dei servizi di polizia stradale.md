@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 2 aprile 1925, n. 383](Costituzione%20di%20un%20corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20025U0383.md), convertito nella [legge 25 marzo 1926, n. 742](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%202%20aprile%201925%20n.%20383%20relativo%20alla%20costituzione%20di%20un%20Corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20026U0742.md), relativo all'istituzione del Corpo degli agenti di pubblica sicurezza,;
+Visto il [regio decreto-legge 2 aprile 1925, n. 383](Costituzione%20di%20un%20corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20025U0383.md), convertito nella [legge 25 marzo 1926, n. 742](Conversione%20in%20legge%20del%20Regio%20decreto-legge%202%20aprile%201925%20n.%20383%20relativo%20alla%20costituzione%20di%20un%20Corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20026U0742.md), relativo all'istituzione del Corpo degli agenti di pubblica sicurezza,;
 
 Visto il regolamento del Corpo degli agenti di pubblica, sicurezza, approvato con [regio decreto 30 novembre 1930, n. 1629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-30;1629);
 
 Vista la [legge 26 gennaio 1942, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-26;39), che istituisce il ruolo degli ufficiali del Corpo degli agenti di pubblica sicurezza;
 
-Visto il [decreto legislativo luogotenenziale 2 novembre 1944, n. 365](../Decreti%20legislativi%20luogotenenziali/Istituzione%20del%20Corpo%20delle%20guardie%20di%20pubblica%20sicurezza.%20044U0365.md), concernente l'istituzione del Corpo delle guardie di pubblica sicurezza;
+Visto il [decreto legislativo luogotenenziale 2 novembre 1944, n. 365](Istituzione%20del%20Corpo%20delle%20guardie%20di%20pubblica%20sicurezza.%20044U0365.md), concernente l'istituzione del Corpo delle guardie di pubblica sicurezza;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

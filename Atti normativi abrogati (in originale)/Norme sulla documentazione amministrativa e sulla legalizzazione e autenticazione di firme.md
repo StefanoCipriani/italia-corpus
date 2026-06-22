@@ -143,7 +143,7 @@ Le pubbliche amministrazioni ed i privati hanno facolta' di sostituire, a tutti 
 
 ## Art. 26. — (Sanzioni penali)
 
-Le dichiarazioni mendaci, la falsita' negli atti e l'uso di atti falsi nei casi previsti dalla presente legge sono puniti ai sensi del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle leggi speciali in materia.
+Le dichiarazioni mendaci, la falsita' negli atti e l'uso di atti falsi nei casi previsti dalla presente legge sono puniti ai sensi del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle leggi speciali in materia.
  A tali effetti, l'esibizione di un atto contenente dati non piu' rispondenti a verita' equivale a uso di atto falso e le dichiarazioni rese ai sensi dei precedenti articoli 2, 3, 4, 8 e autenticate a norma dell'articolo 20 sono considerate come fatte a pubblico ufficiale.
  Inoltre, ove i reati indicati nei precedenti commi siano commessi per ottenere la nomina ad un pubblico ufficio o l'autorizzazione all'esercizio di una professione o arte, il giudice, nei casi piu' gravi, puo' applicare l'interdizione temporanea dai pubblici uffici o dalla professione o arte.
  Il pubblico ufficiale che autentica le sottoscrizioni o al quale sono esibiti gli atti ammonisce chi sottoscrive la dichiarazione o esibisce l'atto sulla responsabilita' penale cui puo' andare incontro in caso di dichiarazione mendace o di esibizione di atto falso o contenente dati non piu' rispondenti a verita'.

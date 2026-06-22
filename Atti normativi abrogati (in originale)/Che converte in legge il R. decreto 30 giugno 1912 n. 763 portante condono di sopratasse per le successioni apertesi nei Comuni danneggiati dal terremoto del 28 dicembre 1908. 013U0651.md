@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 30 giugno 1912, n. 763](../Regi%20decreti/Col%20quale%20vengono%20condonate%20le%20soprattasse%20sulle%20successioni%20nei%20Comuni%20danneggiati%20dal%20terremoto%20del%201908%20012U0763.md), portante condono delle soprattasse divenute applicabili, in forza degli articoli 96 e 98 del testo unico delle leggi sulle tasse di registro 20 maggio 1897, n. 217, e non pagate sino al 30 giugno 1912, per le successioni apertesi nei comuni delle provincie di Messina, Reggio Calabria e Catanzaro, danneggiati dal terremoto del 28 dicembre 1908. 
+ E' convertito in legge il [R. decreto 30 giugno 1912, n. 763](Col%20quale%20vengono%20condonate%20le%20soprattasse%20sulle%20successioni%20nei%20Comuni%20danneggiati%20dal%20terremoto%20del%201908%20012U0763.md), portante condono delle soprattasse divenute applicabili, in forza degli articoli 96 e 98 del testo unico delle leggi sulle tasse di registro 20 maggio 1897, n. 217, e non pagate sino al 30 giugno 1912, per le successioni apertesi nei comuni delle provincie di Messina, Reggio Calabria e Catanzaro, danneggiati dal terremoto del 28 dicembre 1908. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

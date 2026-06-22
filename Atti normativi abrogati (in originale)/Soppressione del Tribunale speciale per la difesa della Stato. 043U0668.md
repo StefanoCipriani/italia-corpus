@@ -34,13 +34,13 @@ Il Tribunale speciale per la difesa dello Stato, istituito con la [legge 25 nove
 
 ## Art. 2.
 
-Nei procedimenti relativi ai reati devoluti alla competenza dei Tribunali militari a norma dell'articolo precedente, il giudice militare puo' valersi della facolta' preveduta dall'[art. 233 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra. 
+Nei procedimenti relativi ai reati devoluti alla competenza dei Tribunali militari a norma dell'articolo precedente, il giudice militare puo' valersi della facolta' preveduta dall'[art. 233 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra. 
  
  Per gli stessi procedimenti che siano in corso alla data di entrata in vigore del presente decreto, l'autorita', giudiziaria militare puo' concedere la liberta' provvisoria anche se alla data suddetta sia gia' stato disposto il rinvio a giudizio.
 
 ## Art. 3.
 
-La cognizione delle trasgressioni alle ordinanze di polizia emanate dall'autorita' militare in seguito al passaggio all'autorita' stessa dei poteri per la tutela dell'ordine pubblico, ai sensi dell'[art. 217 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), appartiene ai Tribunali militari.
+La cognizione delle trasgressioni alle ordinanze di polizia emanate dall'autorita' militare in seguito al passaggio all'autorita' stessa dei poteri per la tutela dell'ordine pubblico, ai sensi dell'[art. 217 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), appartiene ai Tribunali militari.
 
 ## Art. 4.
 

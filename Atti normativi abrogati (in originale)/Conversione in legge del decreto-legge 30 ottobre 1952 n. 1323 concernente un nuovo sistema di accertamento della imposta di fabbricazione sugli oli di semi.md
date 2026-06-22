@@ -24,7 +24,7 @@ E' convertito in legge il [decreto-legge n. 1323 del 30 ottobre 1952](Nuovo%20si
 ## Art. 2.
 
 Il Governo e' delegato ad emanare entro sei mesi dalla data di entrata in vigore della presente legge, norme complementari ed integrative dirette a stabilire le percentuali di tolleranza sulle lavorazioni dei semi oleosi, le caratteristiche degli oli raffinati di semi, nonche' a precisare e definire le misure di vigilanza e di controllo per il regolare accertamento dell'imposta.
- Le violazioni alle norme da emanarsi in base alla presente delega potranno essere punite con l'ammenda che, in deroga all'[art. 26 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e successive modificazioni, potra' raggiungere, nel massimo, un milione di lire.
+ Le violazioni alle norme da emanarsi in base alla presente delega potranno essere punite con l'ammenda che, in deroga all'[art. 26 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e successive modificazioni, potra' raggiungere, nel massimo, un milione di lire.
 
 ## Art. 3.
 

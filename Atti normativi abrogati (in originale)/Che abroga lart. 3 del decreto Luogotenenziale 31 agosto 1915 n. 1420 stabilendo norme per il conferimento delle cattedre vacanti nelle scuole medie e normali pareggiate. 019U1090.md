@@ -68,7 +68,7 @@ I candidati dichiarati vincitori per le cattedre a cui, soli, aspirano, avranno 
  
  I candidati i quali risultino soltanto idonei, se la cattedra non spetta ad altri in applicazione delle disposizioni precedenti, conserveranno l'incarico per l'anno scolastico 1919-920, ma la cattedra da loro occupata dovra' considerarsi vacante, ed essere, a suo tempo, messa a concorso. 
  
- Le donne non potranno essere nominate se non per la disciplina, l'ordine ed il grado di Istituti per i quali possono essere ammesse a concorrere ai termini dell'art. 3 del regolamento approvato con [R. decreto 1° aprile 1915, n. 562 e dell'art. 8](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20i%20concorsi%20e%20per%20le%20nomine%20a%20cattedre%20di%20ruolo%20nelle%20scuole%20medie%20e%20normali.%20015U0562.md) del [decreto Luogotenenziale 25 aprile 1919, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-25;615).
+ Le donne non potranno essere nominate se non per la disciplina, l'ordine ed il grado di Istituti per i quali possono essere ammesse a concorrere ai termini dell'art. 3 del regolamento approvato con [R. decreto 1° aprile 1915, n. 562 e dell'art. 8](Col%20quale%20e%20approvato%20il%20regolamento%20per%20i%20concorsi%20e%20per%20le%20nomine%20a%20cattedre%20di%20ruolo%20nelle%20scuole%20medie%20e%20normali.%20015U0562.md) del [decreto Luogotenenziale 25 aprile 1919, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-25;615).
 
 ## Art. 7.
 

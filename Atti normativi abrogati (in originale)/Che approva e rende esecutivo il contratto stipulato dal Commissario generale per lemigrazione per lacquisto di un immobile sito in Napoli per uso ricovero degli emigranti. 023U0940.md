@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'art. 69 (alinea 9) del testo unico della legge sull'emigrazione, approvato con [R. decreto 13 novembre 1919, n. 2205, e l'art. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-13;2205#art_78) del regolamento approvato con [R. decreto 10 luglio 1901, n. 375](../Regi%20decreti/Che%20manda%20in%20vigore%20la%20legge%20n.%2023%20del%2031%20gennaio%201901%20sullemigrazione%20ed%20approva%20il%20relativo%20Regolamento.%20001U0375.md);
+Visto l'art. 69 (alinea 9) del testo unico della legge sull'emigrazione, approvato con [R. decreto 13 novembre 1919, n. 2205, e l'art. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-13;2205#art_78) del regolamento approvato con [R. decreto 10 luglio 1901, n. 375](Che%20manda%20in%20vigore%20la%20legge%20n.%2023%20del%2031%20gennaio%201901%20sullemigrazione%20ed%20approva%20il%20relativo%20Regolamento.%20001U0375.md);
 
 Ritenuta la necessita' di rendere stabile e permanente, con le trasformazioni imposte dalle esigenze dell'igiene e del decoro, la Casa degli emigranti nel porto di Napoli, procedendo a tal uopo all'acquisto dell'immobile attualmente tenuto in affitto a spese del Fondo per l'emigrazione;
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 22 dicembre 1945, n. 838](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Ministero%20dellalimentazione%20e%20istituzione%20di%20un%20Alto%20Commissariato%20per%20lalimentazione.md);
+Visto il [decreto legislativo luogotenenziale 22 dicembre 1945, n. 838](Soppressione%20del%20Ministero%20dellalimentazione%20e%20istituzione%20di%20un%20Alto%20Commissariato%20per%20lalimentazione.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -69,7 +69,7 @@ Con proprio provvedimento il Prefetto puo' disporre la chiusura delle aziende in
 
 ## Art. 9.
 
-L'Alto Commissariato per l'alimentazione adottera' i provvedimenti necessari per l'attuazione del presente decreto ai sensi del [decreto legislativo luogotenenziale 28 dicembre 1944, n. 411](../Decreti%20legislativi%20luogotenenziali/Attribuzioni%20dellAlto%20Commissariato%20dellalimentazione.%20044U0411.md).
+L'Alto Commissariato per l'alimentazione adottera' i provvedimenti necessari per l'attuazione del presente decreto ai sensi del [decreto legislativo luogotenenziale 28 dicembre 1944, n. 411](Attribuzioni%20dellAlto%20Commissariato%20dellalimentazione.%20044U0411.md).
 
 ## Art. 10.
 

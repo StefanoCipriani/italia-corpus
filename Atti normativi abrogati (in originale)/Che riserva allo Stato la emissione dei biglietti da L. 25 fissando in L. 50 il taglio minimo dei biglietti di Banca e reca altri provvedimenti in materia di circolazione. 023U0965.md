@@ -38,7 +38,7 @@ Gli attuali biglietti di Banca da' L. 25 passati a debito dello Stato cesseranno
 
 ## Art. 4.
 
-La contazione e l'esame dei biglietti di Stato e dei buoni di cassa logori di cui all'art. 31 del regolamento approvato con [R. D. 30 ottobre 1896, n. 508](../Regi%20decreti/Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md), potra' essere compiuta unitamente alla verifica prescritta dagli articoli 45 e 46 del regolamento in sede di abbruciamento, secondo la percentuale dei biglietti e dei buoni da verificare che verra' fissata di volta in volta con decreto del Ministro delle finanze.
+La contazione e l'esame dei biglietti di Stato e dei buoni di cassa logori di cui all'art. 31 del regolamento approvato con [R. D. 30 ottobre 1896, n. 508](Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md), potra' essere compiuta unitamente alla verifica prescritta dagli articoli 45 e 46 del regolamento in sede di abbruciamento, secondo la percentuale dei biglietti e dei buoni da verificare che verra' fissata di volta in volta con decreto del Ministro delle finanze.
 
 ## Art. 5.
 

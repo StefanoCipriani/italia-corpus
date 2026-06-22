@@ -49,7 +49,7 @@ Il testo dell'art. 13 del regolamento sugli assegni speciali di bordo e' abrogat
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 5 agosto 1920, n. 1122](../Regi%20decreti/Che%20modifica%20lart.%203%20di%20quello%209%20giugno%201920%20n.%20838%20sugli%20assegni%20speciali%20di%20bordo.%20020U1122.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 5 agosto 1920, n. 1122](Che%20modifica%20lart.%203%20di%20quello%209%20giugno%201920%20n.%20838%20sugli%20assegni%20speciali%20di%20bordo.%20020U1122.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 4.
 

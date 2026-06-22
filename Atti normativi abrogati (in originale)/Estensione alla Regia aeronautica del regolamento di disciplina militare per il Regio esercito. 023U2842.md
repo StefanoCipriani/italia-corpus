@@ -36,7 +36,7 @@ La composizione delle varie divise degli ufficiali, dei sottufficiali, dei milit
 
 ## Art. 3.
 
-Ai militari della Regia aeronautica, di cui e' cenno nell'art. 1, sono estese le disposizioni contenute nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per il Regio esercito e le successive sue modificazioni. 
+Ai militari della Regia aeronautica, di cui e' cenno nell'art. 1, sono estese le disposizioni contenute nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per il Regio esercito e le successive sue modificazioni. 
  
  La giurisdizione territoriale dei tribunali militari e' quella stessa stabilita per il Regio esercito.
 

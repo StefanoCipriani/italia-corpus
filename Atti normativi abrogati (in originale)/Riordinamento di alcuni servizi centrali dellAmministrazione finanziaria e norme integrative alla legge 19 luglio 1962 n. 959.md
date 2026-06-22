@@ -26,7 +26,7 @@ E' istituita presso il Ministero delle finanze la Direzione generale per le entr
 ## Art. 3.
 
 Il quadro n. 1 annesso alla [legge 19 luglio 1962, n. 959](Norme%20sulla%20revisione%20dei%20ruoli%20organici%20dellAmministrazione%20finanziaria.md), e' sostituito da quello di pari numero allegato alla presente legge.
- Nella prima applicazione della presente legge, la meta' dei posti che risultera' disponibile nella qualifica di consigliere di 3ª classe sara' conferita mediante pubblico concorso in deroga all'[articolo 253 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ Nella prima applicazione della presente legge, la meta' dei posti che risultera' disponibile nella qualifica di consigliere di 3ª classe sara' conferita mediante pubblico concorso in deroga all'[articolo 253 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ## Art. 4.
 
@@ -35,7 +35,7 @@ Il quadro n. 10 annesso alla [legge 19 luglio 1962, n. 959](Norme%20sulla%20revi
 
 ## Art. 5.
 
-Nella prima applicazione della presente legge i posti portati in aumento nel ruolo del personale amministrativo-contabile del catasto e dei servizi tecnici erariali sono conferiti, a domanda, su designazione del consiglio di amministrazione, agli impiegati appartenenti alla carriera esecutiva dello stesso ramo dell'amministrazione da almeno dieci anni, provvisti di diploma di istituto di istruzione secondaria di secondo grado ovvero dei requisiti stabiliti dal quarto comma dell'articolo 173 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), i quali abbiano riportato nell'ultimo quinquennio il giudizio complessivo di "ottimo" ed abbiano svolto per almeno cinque anni con carattere di continuita' le mansioni proprie della suddetta carriera di concetto.
+Nella prima applicazione della presente legge i posti portati in aumento nel ruolo del personale amministrativo-contabile del catasto e dei servizi tecnici erariali sono conferiti, a domanda, su designazione del consiglio di amministrazione, agli impiegati appartenenti alla carriera esecutiva dello stesso ramo dell'amministrazione da almeno dieci anni, provvisti di diploma di istituto di istruzione secondaria di secondo grado ovvero dei requisiti stabiliti dal quarto comma dell'articolo 173 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), i quali abbiano riportato nell'ultimo quinquennio il giudizio complessivo di "ottimo" ed abbiano svolto per almeno cinque anni con carattere di continuita' le mansioni proprie della suddetta carriera di concetto.
 
 ## Art. 6.
 
@@ -50,7 +50,7 @@ Per ottenere l'inquadramento previsto nel precedente articolo, gli interessati d
 ## Art. 7.
 
 Agli effetti della progressione nelle qualifiche sia di segretario aggiunto sia di segretario, al personale inquadrato a norma della presente legge e' riconosciuta, nei limiti di due terzi, l'anzianita' posseduta nel ruolo di provenienza.
- La stessa anzianita' di servizio e' valutabile per intero ai fini dell'ammissione al concorso di merito distinto ed all'esame di idoneita' per la promozione a primo segretario di cui all'articolo 176 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ La stessa anzianita' di servizio e' valutabile per intero ai fini dell'ammissione al concorso di merito distinto ed all'esame di idoneita' per la promozione a primo segretario di cui all'articolo 176 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
  Il predetto personale, peraltro, potra' essere ammesso al concorso ed all'esame di cui al comma precedente soltanto quando avra' maturato l'anzianita' richiesta per essere ammesso al concorso e all'esame stesso il personale gia' inquadrato nel ruolo ai sensi dell'[articolo 20 della legge 19 luglio 1962, n. 959](Norme%20sulla%20revisione%20dei%20ruoli%20organici%20dellAmministrazione%20finanziaria.md).
 
 ## Art. 8.

@@ -675,7 +675,7 @@ Oltre i casi nei quali la legge fa derivare da condanne penali la sospensione de
  
  1° I condannati a pene criminali, se non ottengono la riabilitazione; 
  
- 2° I condannati a pene correzionali per reati di furto, ricettazione dolosa di oggetti furtivi, truffa, appropriazione indebita, abuso di fiducia, e frode d'ogni altra specie e sotto qualunque titolo del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), qualunque specie di falso, falsa testimonianza e calunnia, non che per reati contro il buon costume, salvi i casi di riabilitazione di cui e' parola nell'[art. 847 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_847).
+ 2° I condannati a pene correzionali per reati di furto, ricettazione dolosa di oggetti furtivi, truffa, appropriazione indebita, abuso di fiducia, e frode d'ogni altra specie e sotto qualunque titolo del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), qualunque specie di falso, falsa testimonianza e calunnia, non che per reati contro il buon costume, salvi i casi di riabilitazione di cui e' parola nell'[art. 847 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_847).
 
 ### Art. 87.
 
@@ -759,7 +759,7 @@ Qualunque elettore puo' promuovere l'azione penale, costituendosi parte civile, 
  
  Ordinata un'inchiesta dalla Camera, la Commissione ha diritto di far citare i testimoni, concedendo loro, se occorra, una indennita'. 
  
- Ai testimoni delle inchieste ordinate dalla Camera sono applicabili le disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sulla falsa testimonianza, sulla occultazione della verita' e sul rifiuto di deporre in materia civile; salvo le maggiori pene secondo il Codice stesso, cadendo la falsa testimonianza o l'occultazione della verita' od il rifiuto su materia punibile. 
+ Ai testimoni delle inchieste ordinate dalla Camera sono applicabili le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sulla falsa testimonianza, sulla occultazione della verita' e sul rifiuto di deporre in materia civile; salvo le maggiori pene secondo il Codice stesso, cadendo la falsa testimonianza o l'occultazione della verita' od il rifiuto su materia punibile. 
  
  Ai pubblici ufficiali imputati di taluno dei reati contemplati nella presente legge non sono applicabili le disposizioni degli articoli 8 e 110 della legge 20 marzo 1865, allegato A, sull'amministrazione comunale e provinciale.
 
@@ -771,9 +771,9 @@ Nei reati elettorali, ove la presente legge non abbia specificamente contemplato
  
  Ove la detta condanna colpisca il candidato, la privazione del diritto elettorale e di eleggibilita' sara' pronunziata per un tempo non minore di cinque, ne' maggiore di dieci anni. 
  
- Ai reati elettorali si applicano le disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) intorno al tentativo, alla complicita', alla recidiva, al concorso di piu' reati ed alle circostanze attenuanti. 
+ Ai reati elettorali si applicano le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) intorno al tentativo, alla complicita', alla recidiva, al concorso di piu' reati ed alle circostanze attenuanti. 
  
- Resta sempre salva l'applicazione delle maggiori pene stabilite nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per reati piu' gravi non puniti dalla presente legge.
+ Resta sempre salva l'applicazione delle maggiori pene stabilite nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per reati piu' gravi non puniti dalla presente legge.
 
 ## Disposizioni transitorie.
 

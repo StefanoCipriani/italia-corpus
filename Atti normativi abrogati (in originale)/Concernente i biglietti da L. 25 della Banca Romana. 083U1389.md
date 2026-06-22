@@ -16,13 +16,13 @@ IL MINISTRO DEL TESORO
  
  Veduto il R. decreto 1° marzo 1883, n. DCCCLXVIII (Serie 3ª), che autorizza gli Istituti di emissione ad emettere biglietti da lire 25, pagabili al portatore ed a vista, e ne stabilisce il riparto; 
  
- Veduto il [R. decreto 7 giugno 1883, n. 1384](../Regi%20decreti/Concernente%20i%20biglietti%20da%20lire%2025%20della%20Banca%20Romana.%20083U1384.md) (Serie 3ª), che rende di pubblica ragione i segni ed i distintivi caratteristici dei biglietti da lire 25 che la Banca Romana e' autorizzata ad emettere nel limite indicato dal predetto Regio decreto 1° marzo 1883; 
+ Veduto il [R. decreto 7 giugno 1883, n. 1384](Concernente%20i%20biglietti%20da%20lire%2025%20della%20Banca%20Romana.%20083U1384.md) (Serie 3ª), che rende di pubblica ragione i segni ed i distintivi caratteristici dei biglietti da lire 25 che la Banca Romana e' autorizzata ad emettere nel limite indicato dal predetto Regio decreto 1° marzo 1883; 
  
  Di accordo col Ministro di Agricoltura, Industria e Commercio, 
  
  Determina: 
  
- I biglietti da lire 25, pagabili al portatore ed a vista, che la Banca Romana fu autorizzata ad emettere in numero di 280,000, e pel valore complessivo di lire 7,000,000, giusta il R. decreto 1° marzo 1883, n. DCCCLXVIII (Serie 3ª), ed i cui segni e distintivi caratteristici furono resi di pubblica ragione con l'altro [R. decreto 7 giugno 1883, n. 1384](../Regi%20decreti/Concernente%20i%20biglietti%20da%20lire%2025%20della%20Banca%20Romana.%20083U1384.md) (Serie 3ª), saranno divisi in ventotto serie, composta ciascuna di 10,000 biglietti numerati dall'1 al 10,000, ed ognuna di esse distinta col numero progressivo S/1 S/2 S/3 ecc., in precisa conformita' del sistema usato per gli altri biglietti in corso della suddetta Banca. 
+ I biglietti da lire 25, pagabili al portatore ed a vista, che la Banca Romana fu autorizzata ad emettere in numero di 280,000, e pel valore complessivo di lire 7,000,000, giusta il R. decreto 1° marzo 1883, n. DCCCLXVIII (Serie 3ª), ed i cui segni e distintivi caratteristici furono resi di pubblica ragione con l'altro [R. decreto 7 giugno 1883, n. 1384](Concernente%20i%20biglietti%20da%20lire%2025%20della%20Banca%20Romana.%20083U1384.md) (Serie 3ª), saranno divisi in ventotto serie, composta ciascuna di 10,000 biglietti numerati dall'1 al 10,000, ed ognuna di esse distinta col numero progressivo S/1 S/2 S/3 ecc., in precisa conformita' del sistema usato per gli altri biglietti in corso della suddetta Banca. 
  
  Il presente decreto sara' inserto nella Raccolta delle leggi e dei decreti del Regno d'Italia. 
  

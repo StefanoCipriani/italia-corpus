@@ -670,7 +670,7 @@ Le disposizioni del presente articolo non si applicano al mercato secondario dei
 
 1.
 
-Fermo quanto previsto dal testo unico delle norme di legge in materia valutaria approvato con [decreto del Presidente della Repubblica 31 marzo 1988, n. 148](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20norme%20di%20legge%20in%20materia%20valutaria.md), il Ministro del tesoro, con regolamento da adottare ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) disciplina il mercato dei cambi e le relative operazioni che si svolgono, nonche' le forme di vigilanza su detto mercato e le attribuzioni della Banca d'Italia. A tal fine possono essere richiesti dati e notizie agli intermediari professionali autorizzati e agli altri operatori.
+Fermo quanto previsto dal testo unico delle norme di legge in materia valutaria approvato con [decreto del Presidente della Repubblica 31 marzo 1988, n. 148](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20di%20legge%20in%20materia%20valutaria.md), il Ministro del tesoro, con regolamento da adottare ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) disciplina il mercato dei cambi e le relative operazioni che si svolgono, nonche' le forme di vigilanza su detto mercato e le attribuzioni della Banca d'Italia. A tal fine possono essere richiesti dati e notizie agli intermediari professionali autorizzati e agli altri operatori.
 
 ### Art. 22. — (Liquidazione delle operazioni in valori mobiliari)
 

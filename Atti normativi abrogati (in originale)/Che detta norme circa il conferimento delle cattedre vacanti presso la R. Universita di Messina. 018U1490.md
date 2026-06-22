@@ -26,7 +26,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Considerato che le Facolta' della R. Universita' di Messina non si trovano in condizione di funzionare regolarmente, data la vacanza della maggior parte delle cattedre cui per lo stato di guerra non si puo' provvedere in modo normale; 
  
- Ritenuta, pertanto, l'opportunita' di adottare nei riguardi degli insegnamenti delle dette Facolta' un provvedimento analogo a quello gia' adottato con [R. decreto 28 marzo 1915, n. 487](../Regi%20decreti/Col%20quale%20la%20R.%20Universita%20di%20Messina%20viene%20posta%20in%20grado%20di%20provvedere%20ai%20vari%20insegnamenti%20delle%20facolta%20di%20scienze%20fisiche%20e%20matematiche%20naturali%20e%20di%20medicina%20e%20chirurgia%20e%20della%20scu_68d4ef41415d.md), limitatamente agli insegnamenti delle Facolta' di scienze e di medicina e della scuola di farmacia presso l'Universita' medesima; 
+ Ritenuta, pertanto, l'opportunita' di adottare nei riguardi degli insegnamenti delle dette Facolta' un provvedimento analogo a quello gia' adottato con [R. decreto 28 marzo 1915, n. 487](Col%20quale%20la%20R.%20Universita%20di%20Messina%20viene%20posta%20in%20grado%20di%20provvedere%20ai%20vari%20insegnamenti%20delle%20facolta%20di%20scienze%20fisiche%20e%20matematiche%20naturali%20e%20di%20medicina%20e%20chirurgia%20e%20della%20scu_68d4ef41415d.md), limitatamente agli insegnamenti delle Facolta' di scienze e di medicina e della scuola di farmacia presso l'Universita' medesima; 
  
  Veduto il [decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625); 
  

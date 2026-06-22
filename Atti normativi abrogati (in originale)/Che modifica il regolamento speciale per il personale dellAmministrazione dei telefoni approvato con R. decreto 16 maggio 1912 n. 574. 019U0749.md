@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I sottoindicati articoli del regolamento speciale per il personale dell'Amministrazione dei telefoni, approvato con [R. decreto 16 maggio 1912, n. 574](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md), sono modificati come segue: 
+I sottoindicati articoli del regolamento speciale per il personale dell'Amministrazione dei telefoni, approvato con [R. decreto 16 maggio 1912, n. 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md), sono modificati come segue: 
  
  Art. 1. 
  
@@ -166,7 +166,7 @@ I sottoindicati articoli del regolamento speciale per il personale dell'Amminist
 
 ## Art. 2.
 
-Sono aggiunti i seguenti commi all'art. 117-B delle aggiunte varianti al regolamento speciale approvate col [R. decreto n. 462 del 6 aprile 1913](../Regi%20decreti/Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md): 
+Sono aggiunti i seguenti commi all'art. 117-B delle aggiunte varianti al regolamento speciale approvate col [R. decreto n. 462 del 6 aprile 1913](Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md): 
  
  Gli invalidi di guerra, i quali consegnano la titolarita' della ricevitoria di seconda classe, hanno facolta' di prestare la cauzione prescritta, al momento dell'assunzione in servizio, mediante ritenuta sulla pensione o sugli assegni temporanei o rinnovabili loro liquidati e nella misura che risultera' disponibile tenuto conto degli eventuali impegni assunti in forza dell'[art. 21 della legge 25 marzo 1917, n. 491](Che%20converte%20in%20legge%20il%20decreto%20Luogotenenziale%2014%20novembre%201917%20n.%201624%20concernente%20lo%20stanziamento%20di%20somme%20destinale%20allammortamento%20delle%20anticipazioni%20fatte%20dalla%20Cassa%20depositi%20e%20p_479a652306ac.md), e dell'[art. 2 della legge 30 giugno 1908, n. 335](Concernente%20la%20pignorabilita%20e%20sequestrabilita%20degli%20stipendi%20e%20delle%20pensioni%20e%20cessione%20degli%20stipendi%20dei%20funzionari%20delle%20Amministrazioni%20pubbliche.%20008U0335.md). 
  

@@ -12,9 +12,9 @@ vigente: true
 
 E' concessa amnistia per i reati, pei quali la legge stabilisce una pena restrittiva della liberta' personale non superiore nel massimo a trenta mesi, o una pena pecuniaria, sola o congiunta a detta pena, non superiore nel massimo a lire tremila, fatta eccezione per 
  
- a) i reati per i quali fu concessa amnistia con gli [articoli 1](../Regi%20decreti/Che%20concede%20amnistia%20per%20vari%20reali%20e%20contravvenzioni.%20014U1408.md) e [2 del R. decreto 29 dicembre 1914, n. 1408](../Regi%20decreti/Che%20concede%20amnistia%20per%20vari%20reali%20e%20contravvenzioni.%20014U1408.md); 
+ a) i reati per i quali fu concessa amnistia con gli [articoli 1](Che%20concede%20amnistia%20per%20vari%20reali%20e%20contravvenzioni.%20014U1408.md) e [2 del R. decreto 29 dicembre 1914, n. 1408](Che%20concede%20amnistia%20per%20vari%20reali%20e%20contravvenzioni.%20014U1408.md); 
  
- b) i reati contro l'incolumita' pubblica, preveduti nel libro II, titolo VII del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ b) i reati contro l'incolumita' pubblica, preveduti nel libro II, titolo VII del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  c) i reati preveduti nella [legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md), per la difesa economica e militare dello Stato.
 
@@ -32,7 +32,7 @@ L'indulto di cui nell'art. 2 del presente decreto si ha come non concesso se nel
 
 ## Art. 5.
 
-Nel caso di concorso di reati e di pene l'amnistia si applica distintamente a ciascun reato; l'indulto si applica una volta dopo cumulate le pene, secondo le norme stabilite negli [articoli 67 e seguenti del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Nel caso di concorso di reati e di pene l'amnistia si applica distintamente a ciascun reato; l'indulto si applica una volta dopo cumulate le pene, secondo le norme stabilite negli [articoli 67 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 6.
 

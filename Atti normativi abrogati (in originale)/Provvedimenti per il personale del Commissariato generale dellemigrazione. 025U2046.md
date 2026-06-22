@@ -124,7 +124,7 @@ L'indennita' di carriera spettante a norma dell'art. 35 del regolamento approvat
 
 ## Art. 21.
 
-In esecuzione del [secondo comma dell'art. 1 del R. decreto 18 gennaio 1923, n. 169, il Ministro per gli affari esteri](../Regi%20decreti/Che%20fissa%20la%20consistenza%20numerica%20dei%20ruoli%20del%20personale%20dipendente%20dal%20Commissariato%20generale%20dellemigrazione%20e%20reca%20norme%20per%20il%20completamento%20di%20detti%20ruoli%20e%20per%20lestensione%20al%20Commi_0e345a7cb28e.md), sentito il Commissario generale dell'emigrazione, promuovera' un decreto Reale per determinare le norme relative all'assunzione, al servizio ed alla retribuzione: 
+In esecuzione del [secondo comma dell'art. 1 del R. decreto 18 gennaio 1923, n. 169, il Ministro per gli affari esteri](Che%20fissa%20la%20consistenza%20numerica%20dei%20ruoli%20del%20personale%20dipendente%20dal%20Commissariato%20generale%20dellemigrazione%20e%20reca%20norme%20per%20il%20completamento%20di%20detti%20ruoli%20e%20per%20lestensione%20al%20Commi_0e345a7cb28e.md), sentito il Commissario generale dell'emigrazione, promuovera' un decreto Reale per determinare le norme relative all'assunzione, al servizio ed alla retribuzione: 
  
  a) del personale avventizio o straordinario che si rendesse necessario per i servizi sia centrali che periferici del Commissariato; 
  
@@ -132,7 +132,7 @@ In esecuzione del [secondo comma dell'art. 1 del R. decreto 18 gennaio 1923, n. 
  
  c) degli addetti e dei corrispondenti dell'emigrazione all'estero; 
  
- d) dei delegati provinciali dell'emigrazione, degli aiuti delegati, o in mancanza di questi, delle dattilografe e degli agenti previsti dall'[art. 3 del R. decreto 19 luglio 1923, numero 1686](../Regi%20decreti/Vigilanza%20e%20tutela%20provinciale%20dellemigrazione.%20023U1686.md); 
+ d) dei delegati provinciali dell'emigrazione, degli aiuti delegati, o in mancanza di questi, delle dattilografe e degli agenti previsti dall'[art. 3 del R. decreto 19 luglio 1923, numero 1686](Vigilanza%20e%20tutela%20provinciale%20dellemigrazione.%20023U1686.md); 
  
  e) dell'ispettore centrale e degli ispettori regionali dell'emigrazione previsti dal secondo comma dell'art. 1 del decreto citato alla lettera precedente, il numero dei quali potra' essere rispettivamente portato a due e a sei; 
  
@@ -142,7 +142,7 @@ In esecuzione del [secondo comma dell'art. 1 del R. decreto 18 gennaio 1923, n. 
 
 ## Art. 22.
 
-L'indennita' di cui all'ultimo comma dell'[art. 1 del R. decreto 18 gennaio 1923, n. 169](../Regi%20decreti/Che%20fissa%20la%20consistenza%20numerica%20dei%20ruoli%20del%20personale%20dipendente%20dal%20Commissariato%20generale%20dellemigrazione%20e%20reca%20norme%20per%20il%20completamento%20di%20detti%20ruoli%20e%20per%20lestensione%20al%20Commi_0e345a7cb28e.md), e' cumulabile con eventuali indennita' di missioni. Essa spetta anche al segretario della Commissione centrale dell'emigrazione, ferma sempre restando la disposizione dell'art. 57, ultimo comma del testo unico della legge sull'emigrazione su menzionata. 
+L'indennita' di cui all'ultimo comma dell'[art. 1 del R. decreto 18 gennaio 1923, n. 169](Che%20fissa%20la%20consistenza%20numerica%20dei%20ruoli%20del%20personale%20dipendente%20dal%20Commissariato%20generale%20dellemigrazione%20e%20reca%20norme%20per%20il%20completamento%20di%20detti%20ruoli%20e%20per%20lestensione%20al%20Commi_0e345a7cb28e.md), e' cumulabile con eventuali indennita' di missioni. Essa spetta anche al segretario della Commissione centrale dell'emigrazione, ferma sempre restando la disposizione dell'art. 57, ultimo comma del testo unico della legge sull'emigrazione su menzionata. 
  
  E' confermato, nei riguardi del Commissario generale dell'emigrazione, il decreto Ministeriale 1° gennaio 1920, registrato alla Corte dei conti il 19 aprile successivo al registro 1, fondo emigrazione, foglio 51.
 

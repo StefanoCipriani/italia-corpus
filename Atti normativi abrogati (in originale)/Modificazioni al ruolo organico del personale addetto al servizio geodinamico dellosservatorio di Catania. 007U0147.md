@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Dal 1° gennaio 1907 lo stipendio annesso al posto di assistente all'Osservatorio geodinamico di Catania, compreso nel ruolo organico del personale addetto al servizio geodinamico, approvato col [R. decreto del 28 luglio 1904, n. 444](../Regi%20decreti/Determinazione%20del%20ruolo%20organico%20del%20personale%20addetto%20al%20servizio%20geodinamico.%20004U0444.md), e' stabilito in annue L. 2000.
+Dal 1° gennaio 1907 lo stipendio annesso al posto di assistente all'Osservatorio geodinamico di Catania, compreso nel ruolo organico del personale addetto al servizio geodinamico, approvato col [R. decreto del 28 luglio 1904, n. 444](Determinazione%20del%20ruolo%20organico%20del%20personale%20addetto%20al%20servizio%20geodinamico.%20004U0444.md), e' stabilito in annue L. 2000.
 
 ## Art. 2.
 

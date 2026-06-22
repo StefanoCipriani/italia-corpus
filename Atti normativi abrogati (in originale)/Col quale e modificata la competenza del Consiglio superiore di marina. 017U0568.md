@@ -22,9 +22,9 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 27 giugno 1907, n. 404](Istituzione%20di%20un%20Consiglio%20superiore%20di%20marina%20di%20un%20Comitato%20degli%20ammiragli%20e%20di%20un%20Comitato%20per%20lesame%20di%20progetti%20di%20navi.%20007U0404.md);
 
-Visto il [R. decreto 12 novembre 1905, n. 565](../Regi%20decreti/Che%20approva%20e%20contiene%20le%20disposizioni%20relative%20allordinamento%20ed%20alle%20attribuzioni%20del%20Consiglio%20superiore%20della%20marina%20mercantile.%20005U0565.md), e successive sue modificazioni;
+Visto il [R. decreto 12 novembre 1905, n. 565](Che%20approva%20e%20contiene%20le%20disposizioni%20relative%20allordinamento%20ed%20alle%20attribuzioni%20del%20Consiglio%20superiore%20della%20marina%20mercantile.%20005U0565.md), e successive sue modificazioni;
 
-Vieto il [R. decreto 22 giugno 1916, n. 756](../Regi%20decreti/Concernente%20listituzione%20del%20Ministero%20dei%20trasporti%20marittimi%20e%20ferroviari.%20016U0756.md);
+Vieto il [R. decreto 22 giugno 1916, n. 756](Concernente%20listituzione%20del%20Ministero%20dei%20trasporti%20marittimi%20e%20ferroviari.%20016U0756.md);
 
 Sentito il Consiglio dei ministri;
 

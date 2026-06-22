@@ -22,7 +22,7 @@ Gli studenti che si trovino nelle condizioni di cui ai precedenti articoli e che
 
 ## Art. 4.
 
-Le domande e i documenti comprovanti la disagiata condizione economica, prescritti dall'art. 101 del regolamento generale approvato con [R. decreto 1° agosto 1913, n. 1223](../Regi%20decreti/Col%20quale%20e%20approvato%20lannesso%20regolamento%20generale%20sugli%20Istituti%20di%20studi%20commerciali%20in%20esecuzione%20della%20legge%2020%20marzo%201913%20n.%20268.%20013U1223.md), debbono esser presentati dagli interessati alle direzioni dei rispettivi Istituti.
+Le domande e i documenti comprovanti la disagiata condizione economica, prescritti dall'art. 101 del regolamento generale approvato con [R. decreto 1° agosto 1913, n. 1223](Col%20quale%20e%20approvato%20lannesso%20regolamento%20generale%20sugli%20Istituti%20di%20studi%20commerciali%20in%20esecuzione%20della%20legge%2020%20marzo%201913%20n.%20268.%20013U1223.md), debbono esser presentati dagli interessati alle direzioni dei rispettivi Istituti.
 Ad essi dovra' pure unirsi una dichiarazione dell'autorita' militare da cui risulti il servizio militare effettivamente prestato. Sulle domande delibera il Consiglio di amministrazione dell'Istituto. 
  
  Le domande presentate dopo il 15 ottobre 1919, saranno senz'altro respinte.

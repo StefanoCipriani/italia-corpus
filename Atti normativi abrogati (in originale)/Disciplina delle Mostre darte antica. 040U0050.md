@@ -26,7 +26,7 @@ Chiunque intenda inviare all'estero, per Mostre o Esposizioni, opere d'arte anti
 
 Per le opere, di cui e' autorizzato l'invio all'estero per Mostre o Esposizioni, sara' rilasciata dagli uffici di esportazione di oggetti di antichita' e di arte o dalle Regie soprintendenze bibliografiche la licenza di esportazione temporanea, previa determinazione del valore dell'opera in base alle norme in vigore. 
  
- Il Ministro per l'educazione nazionale, quando riconosca nella mostra o esposizione una alta finalita' culturale, puo', di concerto con quello per le finanze, consentire l'esonero dal deposito cauzionale di cui all'art. 164 del regolamento approvato con il [R. decreto 30 gennaio 1913, n. 363](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md).
+ Il Ministro per l'educazione nazionale, quando riconosca nella mostra o esposizione una alta finalita' culturale, puo', di concerto con quello per le finanze, consentire l'esonero dal deposito cauzionale di cui all'art. 164 del regolamento approvato con il [R. decreto 30 gennaio 1913, n. 363](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md).
 
 ## Art. 4.
 

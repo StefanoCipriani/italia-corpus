@@ -22,7 +22,7 @@ Sulla proposta del Ministro Segretario di Stato per gli affari esteri, di concer
 
 I diritti base della tariffa consolare in vigore sono aumentati nella misura del 50%.
  Rimangono invariati i diritti proporzionali di cui ai paragrafi 9, 20, 21, 23 e 38.
- Rimane assorbito dall'aumento suddetto l'aumento del 10% stabilito con [regio decreto-legge 30 ottobre 1935, n. 1941](Aumento%20di%20alcuni%20diritti%20da%20riscuotere%20dai%20Regi%20Uffici%20diplomatici%20e%20consolari%20allestero.%20035U1941.md), convertito in [legge 28 maggio 1936, numero 1001](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2030%20ottobre%201935-XIV%20n.%201941%20relativo%20allaumento%20di%20alcuni%20diritti%20da%20riscuotere%20dai%20Regi%20uffici%20diplomatici%20e%20consolari%20allestero.%20036U1001.md).
+ Rimane assorbito dall'aumento suddetto l'aumento del 10% stabilito con [regio decreto-legge 30 ottobre 1935, n. 1941](Aumento%20di%20alcuni%20diritti%20da%20riscuotere%20dai%20Regi%20Uffici%20diplomatici%20e%20consolari%20allestero.%20035U1941.md), convertito in [legge 28 maggio 1936, numero 1001](Conversione%20in%20legge%20del%20R.%20decreto-legge%2030%20ottobre%201935-XIV%20n.%201941%20relativo%20allaumento%20di%20alcuni%20diritti%20da%20riscuotere%20dai%20Regi%20uffici%20diplomatici%20e%20consolari%20allestero.%20036U1001.md).
 
 ## Art. 2.
 

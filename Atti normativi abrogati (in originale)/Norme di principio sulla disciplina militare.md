@@ -178,7 +178,7 @@ Delle sanzioni condonate non deve rimanere alcuna traccia nel fascicolo personal
 
 ## Art. 22.
 
-L'[articolo 40 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e' abrogato.
+L'[articolo 40 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e' abrogato.
 
 ## Art. 23.
 

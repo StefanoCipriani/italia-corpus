@@ -16,9 +16,9 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md); 
+ Veduto il testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md); 
  
- Veduto il regolamento generale universitario approvato con [R. decreto 9 agosto 1910, n. 796](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md); 
+ Veduto il regolamento generale universitario approvato con [R. decreto 9 agosto 1910, n. 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md); 
  
  Considerata la opportunita' di prorogare per l'anno 1920-921 le disposizioni del Nostro decreto 16 ottobre 1919, n. 2047, riferibili alla concessione di abbreviare il corso universitario a coloro che, avendo compiuto il corso degli studi medi, abbiano conseguito con ritardo, a causa del servizio militare prestato, la licenza dalla scuola media; 
  

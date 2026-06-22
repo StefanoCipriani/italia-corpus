@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto legislativo 1° giugno 1946, numero 606](../Regi%20decreti%20legislativi/Assegnazione%20allEnte%20Zolfi%20Siciliani%20di%20un%20fondo%20straordinario.md), concernente l'assegnazione all'Ente Zolfi Siciliani di un fondo straordinario di L. 60.000.000;
+Visto il [regio decreto legislativo 1° giugno 1946, numero 606](Assegnazione%20allEnte%20Zolfi%20Siciliani%20di%20un%20fondo%20straordinario.md), concernente l'assegnazione all'Ente Zolfi Siciliani di un fondo straordinario di L. 60.000.000;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 19 luglio 1946, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-07-19;200), con il quale il fondo suddetto e' stato aumentato di L. 25.000.000;
 

@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 19 novembre 1914, n. 1421](../Regi%20decreti/Col%20quale%20e%20data%20facolta%20al%20Governo%20di%20provvedere%20alla%20riunione%20ed%20al%20coordinamento%20in%20separati%20testi%20unici%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20tasse%20sugli%20affari.%20014U1421.md), che da' facolta' al Governo di adottare i provvedimenti necessari per la formazione dei testi unici e dei regolamenti generali per le tasse sugli affari; 
+ Visto il [R. decreto 19 novembre 1914, n. 1421](Col%20quale%20e%20data%20facolta%20al%20Governo%20di%20provvedere%20alla%20riunione%20ed%20al%20coordinamento%20in%20separati%20testi%20unici%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20tasse%20sugli%20affari.%20014U1421.md), che da' facolta' al Governo di adottare i provvedimenti necessari per la formazione dei testi unici e dei regolamenti generali per le tasse sugli affari; 
  
  Visto il Nostro decreto 10 gennaio 1918; 
  

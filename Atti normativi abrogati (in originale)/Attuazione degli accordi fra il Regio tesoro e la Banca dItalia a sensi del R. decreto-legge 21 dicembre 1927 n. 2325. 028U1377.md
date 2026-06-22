@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 21 dicembre 1927, n. 2325](Cessazione%20del%20corso%20forzoso%20e%20convertibilita%20in%20oro%20dei%20biglietti%20della%20Banca%20dItalia.%20027U2325.md);
 
-Visto il testo unico di legge sugli istituti di emissione approvato con [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md);
+Visto il testo unico di legge sugli istituti di emissione approvato con [R. decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md);
 
 Viste le leggi che successivamente hanno modificato il testo unico predetto;
 
@@ -101,7 +101,7 @@ E' soggetto a tassa di circolazione nella misura ordinaria l'ammontare dei bigli
 
 Restano abrogate, in quanto riguardano la Banca d'Italia, le disposizioni dell'[art. 2 del R. decreto-legge 10 giugno 1921, n. 736](Contenente%20disposizioni%20relative%20al%20Consorzio%20zolfifero%20siciliano.%20021U0736.md), e dell'[art. 2 del R. decreto-legge 5 marzo 1925, n. 258](Provvedimenti%20tributari%20in%20materia%20di%20bollo%20scambi%20commerciali%20concessioni%20governative%20assicurazioni%20negoziazione%20e%20teatri.%20025U0258.md). 
  
- Sono altresi' abrogate le disposizioni degli articoli 6 e 7 del testo unico di legge approvato col [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), dei Regi decreti 4 agosto, 13 agosto e 23 novembre 1914, nn. 791, 825 e 1284, e del [R. decreto-legge 7 settembre 1926, n. 1506](Provvedimenti%20sulla%20circolazione%20dei%20biglietti%20di%20banca.%20026U1506.md), come pure tutte le altre disposizioni riguardanti l'Istituto di emissione, le quali siano incompatibili col presente decreto.
+ Sono altresi' abrogate le disposizioni degli articoli 6 e 7 del testo unico di legge approvato col [R. decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), dei Regi decreti 4 agosto, 13 agosto e 23 novembre 1914, nn. 791, 825 e 1284, e del [R. decreto-legge 7 settembre 1926, n. 1506](Provvedimenti%20sulla%20circolazione%20dei%20biglietti%20di%20banca.%20026U1506.md), come pure tutte le altre disposizioni riguardanti l'Istituto di emissione, le quali siano incompatibili col presente decreto.
 
 ## Art. 11.
 

@@ -15,7 +15,7 @@ UMBERTO DI SAVOIA
  LUOGOTENENTE GENERALE DEL REGNO 
  
  In virtu' dell'autorita' a Noi delegata; 
- Veduto il testo unico delle leggi sulla istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md); 
+ Veduto il testo unico delle leggi sulla istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md); 
  Veduto il regolamento generale sui servizi dell'istruzione elementare, approvato con [R. decreto 26 aprile 1928, n. 1297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1297); 
  Veduta l'ordinanza del Ministro per la pubblica istruzione in data 11 novembre 1923, l'ordinanza Ministeriale 21 gennaio 1924, il decreto Ministeriale 7 luglio 1928, il decreto Ministeriale 28 settembre 1934 e il decreto Ministeriale 9 febbraio 1945, coi quali sono stati approvati i programmi didattici per le scuole elementari e materne; 
  Sulla proposta del Ministro per la pubblica istruzione; 

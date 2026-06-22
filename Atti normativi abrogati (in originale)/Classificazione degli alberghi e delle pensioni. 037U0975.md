@@ -16,9 +16,9 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il R. decreto 18 giugno 1931-IX, n. 773, che approva il [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
+Visto il R. decreto 18 giugno 1931-IX, n. 773, che approva il [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
 
-Visto il R. decreto 21 gennaio 1929-VII, n. 62, che approva il regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 6 novembre 1926-V, n. 1848;
+Visto il R. decreto 21 gennaio 1929-VII, n. 62, che approva il regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 6 novembre 1926-V, n. 1848;
 
 Visto il R. decreto-legge 23 marzo 1931-IX, n. 371, convertito nella legge 28 dicembre 1931-X, n. 1631, che istituisce il Commissariato per il turismo;
 
@@ -167,7 +167,7 @@ Nei casi previsti dal primo capoverso dell'[art. 232 del testo unico delle leggi
  
  Il ricorso sospende l'esecuzione del provvedimento. In caso inadempienza, il podesta' puo' disporre l'esecuzione di ufficio dei lavori. 
  
- Al rimborso delle spese occorse si provvede a carico del conduttore e del proprietario per la parte di spettanza di ciascuno secondo le norme stabilite dal testo unico approvato con [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
+ Al rimborso delle spese occorse si provvede a carico del conduttore e del proprietario per la parte di spettanza di ciascuno secondo le norme stabilite dal testo unico approvato con [R. decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 ### Art. 15.
 
@@ -176,7 +176,7 @@ Il provvedimento dell'Ente provinciale per il turismo, da notificarsi anche al l
  
  Il ricorso sospende l'esecuzione del provvedimento. 
  
- In caso di inadempienza del provvedimento definitivo da parte del titolare dell'esercizio, l'Ente provinciale per il turismo puo' disporre l'esecuzione di ufficio dei lavori. Al rimborso delle spese relative si provvede a carico del titolare dell'esercizio secondo le norme stabilite dal testo unico approvato con [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), salvo a costui il diritto di ripetere dal locatore dell'immobile l'importo dei lavori che fossero di sua spettanza per legge o per contratto.
+ In caso di inadempienza del provvedimento definitivo da parte del titolare dell'esercizio, l'Ente provinciale per il turismo puo' disporre l'esecuzione di ufficio dei lavori. Al rimborso delle spese relative si provvede a carico del titolare dell'esercizio secondo le norme stabilite dal testo unico approvato con [R. decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), salvo a costui il diritto di ripetere dal locatore dell'immobile l'importo dei lavori che fossero di sua spettanza per legge o per contratto.
 
 ## Dello sanzioni.
 

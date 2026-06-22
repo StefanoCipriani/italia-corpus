@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3062](../Regi%20decreti/Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), istitutivo della imposta complementare progressiva sul reddito;
+Visto il [R. decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), istitutivo della imposta complementare progressiva sul reddito;
 
-Visto il [R. decreto-legge 12 agosto 1927, n. 1463](Sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20027U1463.md), concernente sgravi ed agevolazioni varie in materia di imposte dirette, convertito nella [legge 17 maggio 1928, n. 1122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20agosto%201927%20n.%201463%20col%20quale%20si%20dispongono%20sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20028U1122.md);
+Visto il [R. decreto-legge 12 agosto 1927, n. 1463](Sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20027U1463.md), concernente sgravi ed agevolazioni varie in materia di imposte dirette, convertito nella [legge 17 maggio 1928, n. 1122](Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20agosto%201927%20n.%201463%20col%20quale%20si%20dispongono%20sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20028U1122.md);
 
 Vista la [legge 25 giugno 1940, n. 800](Istituzione%20di%20unaddizionale%20di%20guerra%20alla%20imposta%20complementare%20progressiva%20sul%20reddito.%20040U0800.md), che istituisce una addizionale di guerra all'imposta complementare progressiva sul reddito;
 
@@ -38,7 +38,7 @@ E' sospesa, con effetto dal 1° gennaio 1945, l'applicazione delle disposizioni 
 
 ## Art. 2.
 
-L'imposta complementare sui redditi gia' classificati in categoria D continua ad essere applicata a decorrere dal 1° gennaio 1945, secondo le disposizioni degli [articoli 11](Sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20027U1463.md) e [12 del R. decreto-legge 12 agosto 1927, n. 1463](Sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20027U1463.md), convertito nella [legge 17 maggio 1928, n. 1122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20agosto%201927%20n.%201463%20col%20quale%20si%20dispongono%20sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20028U1122.md), e successive modificazioni. 
+L'imposta complementare sui redditi gia' classificati in categoria D continua ad essere applicata a decorrere dal 1° gennaio 1945, secondo le disposizioni degli [articoli 11](Sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20027U1463.md) e [12 del R. decreto-legge 12 agosto 1927, n. 1463](Sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20027U1463.md), convertito nella [legge 17 maggio 1928, n. 1122](Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20agosto%201927%20n.%201463%20col%20quale%20si%20dispongono%20sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20028U1122.md), e successive modificazioni. 
  
  La ritenuta diretta o di rivalsa dell'imposta complementare prevista dalle disposizioni di cui al precedente comma si opera, quando la retribuzione ragguagliata ad anno non sia inferiore a L. 24.000, sull'ammontare assoggettato all'imposta di ricchezza mobile ai sensi dell'[art. 14, primo comma, del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 384](Disposizioni%20in%20materia%20di%20imposte%20dirette.%20044U0384.md). 
  

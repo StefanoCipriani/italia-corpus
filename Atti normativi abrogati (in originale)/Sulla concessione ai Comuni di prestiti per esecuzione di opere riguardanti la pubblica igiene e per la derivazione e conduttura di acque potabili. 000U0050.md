@@ -46,7 +46,7 @@ Nella concessione dei prestiti e dei concorsi contemplati nella presente legge, 
 
 ## Art. 6.
 
-Nei casi della presente legge, il limite di cui al primo comma dell'articolo 163 della legge Comunale e Provinciale, approvato con [R. decreto 4 maggio 1898, n. 164](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md), sara' del terzo anziche' del quinto delle entrate ordinarie.
+Nei casi della presente legge, il limite di cui al primo comma dell'articolo 163 della legge Comunale e Provinciale, approvato con [R. decreto 4 maggio 1898, n. 164](Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md), sara' del terzo anziche' del quinto delle entrate ordinarie.
 
 ## Art. 7.
 

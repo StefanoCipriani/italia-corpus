@@ -68,7 +68,7 @@ Le spese di procedura per l'annullamento dovranno sostenersi da chi fece la denu
 
 ## Articolo 12.
 
-Saranno applicabili, in caso di falsa denunzia di smarririmento dei titoli, le pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Saranno applicabili, in caso di falsa denunzia di smarririmento dei titoli, le pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Articolo 13.
 

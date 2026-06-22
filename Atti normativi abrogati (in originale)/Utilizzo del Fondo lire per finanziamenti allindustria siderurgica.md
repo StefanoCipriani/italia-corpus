@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il Ministro per il tesoro e' autorizzato ad utilizzare dal conto speciale (Fondo lire 1948-49) previsto dall'Accordo di cooperazione economica approvato con [legge 4 agosto 1948, n. 1108](../Leggi%20di%20ratifica/Ratifica%20ed%20esecutorieta%20dellAccordo%20di%20cooperazione%20economica%20tra%20lItalia%20e%20gli%20Stati%20Uniti%20dAmerica%20concluso%20a%20Roma%20il%2028%20giugno%201948.md), la somma di lire 14,2 miliardi da destinare a finanziamenti per l'esecuzione di opere facenti parte del programma di ripristino e di potenziamento degli impianti siderurgici.
+Il Ministro per il tesoro e' autorizzato ad utilizzare dal conto speciale (Fondo lire 1948-49) previsto dall'Accordo di cooperazione economica approvato con [legge 4 agosto 1948, n. 1108](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecutorieta%20dellAccordo%20di%20cooperazione%20economica%20tra%20lItalia%20e%20gli%20Stati%20Uniti%20dAmerica%20concluso%20a%20Roma%20il%2028%20giugno%201948.md), la somma di lire 14,2 miliardi da destinare a finanziamenti per l'esecuzione di opere facenti parte del programma di ripristino e di potenziamento degli impianti siderurgici.
 
 ## Art. 2.
 

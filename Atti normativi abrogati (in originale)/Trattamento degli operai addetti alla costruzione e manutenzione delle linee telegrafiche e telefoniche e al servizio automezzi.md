@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visti i [regi decreti 24 dicembre 1924, n. 2114](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md) e [31 dicembre 1924, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), e successive modificazioni;
+Visti i [regi decreti 24 dicembre 1924, n. 2114](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md) e [31 dicembre 1924, n. 2262](Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), e successive modificazioni;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 12 dicembre 1946, n. 585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-12;585);
 
-Visto il [decreto legislativo luogotenenziale 21 marzo 1946, n. 357](../Decreti%20legislativi%20luogotenenziali/Estensione%20ad%20alcune%20categorie%20di%20personale%20dellAmministrazione%20postale%20e%20Telegrafica%20e%20dellAzienda%20per%20i%20servizi%20telefonici%20dei%20provvedimenti%20economici%20di%20cui%20al%20decreto%20legislativo%20Luog_d7c673e93a58.md);
+Visto il [decreto legislativo luogotenenziale 21 marzo 1946, n. 357](Estensione%20ad%20alcune%20categorie%20di%20personale%20dellAmministrazione%20postale%20e%20Telegrafica%20e%20dellAzienda%20per%20i%20servizi%20telefonici%20dei%20provvedimenti%20economici%20di%20cui%20al%20decreto%20legislativo%20Luog_d7c673e93a58.md);
 
 Ritenuto opportuno di estendere ai salariati dipendenti dal
 

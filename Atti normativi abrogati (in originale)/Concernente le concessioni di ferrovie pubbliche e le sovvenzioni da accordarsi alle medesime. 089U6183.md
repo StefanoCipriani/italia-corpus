@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E convertito in legge il [Regio decreto, in data 25 dicembre 1887, N. 5162](../Regi%20decreti/Concernente%20le%20concessioni%20di%20ferrovie%20pubbliche%20e%20le%20sovvenzioni%20da%20accordarsi%20alle%20medesime.%20087U8020.md) bis (Serie 3a), concernente le concessioni di ferrovie pubbliche e le sovvenzioni da accordarsi alle medesime, con la modificazione e le aggiunte seguenti: 
+E convertito in legge il [Regio decreto, in data 25 dicembre 1887, N. 5162](Concernente%20le%20concessioni%20di%20ferrovie%20pubbliche%20e%20le%20sovvenzioni%20da%20accordarsi%20alle%20medesime.%20087U8020.md) bis (Serie 3a), concernente le concessioni di ferrovie pubbliche e le sovvenzioni da accordarsi alle medesime, con la modificazione e le aggiunte seguenti: 
  
  All'art. 3 e' sostituito il seguente: 
  

@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md), concernente delega al Governo ad emanare provvedimenti nelle materie previste dai trattati della Comunita' economica europea (C.E.E.) e della Comunita' europea dell'energia atomica (C.E.E.A.) per la durata della terza tappa;
+Vista la [legge 13 ottobre 1969, n. 740](Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md), concernente delega al Governo ad emanare provvedimenti nelle materie previste dai trattati della Comunita' economica europea (C.E.E.) e della Comunita' europea dell'energia atomica (C.E.E.A.) per la durata della terza tappa;
 
 Visto il regolamento del consiglio delle Comunita' europee n. 1017/68 emanato il 19 luglio 1968 concernente la applicazione delle regole di concorrenza ai settori dei trasporti per ferrovia, per strada e per via navigabile;
 
-Sentita la commissione parlamentare di cui all'[art. 3 della legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md);
+Sentita la commissione parlamentare di cui all'[art. 3 della legge 13 ottobre 1969, n. 740](Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md);
 
 Sentito il Consiglio dei Ministri;
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 10 giugno 1937 n. 1527](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20settembre%201936-XIV%20n.%202121%20con%20il%20quale%20si%20stabiliscono%20norme%20per%20lapprestamento%20di%20ricoveri%20antiaerei%20nei%20fabbricati%20di%20nuova%20costruzione%20e%20d_c0d7f2e73568.md);
+Vista la [legge 10 giugno 1937 n. 1527](Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20settembre%201936-XIV%20n.%202121%20con%20il%20quale%20si%20stabiliscono%20norme%20per%20lapprestamento%20di%20ricoveri%20antiaerei%20nei%20fabbricati%20di%20nuova%20costruzione%20e%20d_c0d7f2e73568.md);
 
 Visto il [regio decreto-legge 18 febbraio 1943, n. 39](Norme%20per%20lapprestamento%20di%20ricoveri%20antiaerei%20negli%20edifici%20di%20vecchia%20costruzione.%20043U0039.md);
 

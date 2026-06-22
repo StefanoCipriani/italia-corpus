@@ -14,7 +14,7 @@ per Grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1903, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-11-22;693) ed il regolamento generale per la sua esecuzione, approvato con [R. decreto 24 novembre 1908, n. 756](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md);
+Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1903, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-11-22;693) ed il regolamento generale per la sua esecuzione, approvato con [R. decreto 24 novembre 1908, n. 756](Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md);
 
 Visto il regolamento sul servizio metrico, approvato con [R. decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md);
 

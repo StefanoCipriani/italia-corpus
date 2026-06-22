@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [Legge 19 gennaio 1942, n. 24](Istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0024.md), concernente l'istituzione dell'Ente Acquedotti Siciliani, Visto il decreto reale 23 febbraio 1942, n. 369, concernente le norme per l'esecuzione della citata [legge 19 gennaio 1942, n 24](Istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0024.md);
 
-Visto il [decreto legislativo luogotenenziale 22 settembre 1945, n. 675](../Decreti%20legislativi%20luogotenenziali/Esecuzione%20di%20opere%20pubbliche%20straordinarie%20nella%20Sicilia.%20045U0675.md), concernente l'esecuzione di opere pubbliche straordinarie nella Sicilia;
+Visto il [decreto legislativo luogotenenziale 22 settembre 1945, n. 675](Esecuzione%20di%20opere%20pubbliche%20straordinarie%20nella%20Sicilia.%20045U0675.md), concernente l'esecuzione di opere pubbliche straordinarie nella Sicilia;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro Segretario di Stato per i lavori pubblici, di concer
 
 ## Art. 1.
 
-L'[art. 6 del decreto legislativo luogotenenziale 22 settembre 1945, n. 675](../Decreti%20legislativi%20luogotenenziali/Esecuzione%20di%20opere%20pubbliche%20straordinarie%20nella%20Sicilia.%20045U0675.md), e' sostituito dal seguente:
+L'[art. 6 del decreto legislativo luogotenenziale 22 settembre 1945, n. 675](Esecuzione%20di%20opere%20pubbliche%20straordinarie%20nella%20Sicilia.%20045U0675.md), e' sostituito dal seguente:
  "Per gli scopi di cui all'[art. 1 della legge 19 gennaio 1942, n. 24](Istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0024.md), istitutiva dell'Ente Acquedotti Siciliani, e' autorizzata la spesa di lire cinquecentomilioni da inscriversi nello stato di previsione della spesa del Ministero dei lavori pubblici a cominciare dal 1945-46, in ragione di lire centomilioni per l'esercizio 1945-46; lire centocinquantamilioni per l'esercizio 1945-47 lire centocinquantamilioni per l'esercizio 1947-48 e lire centomilioni per l'esercizio 1948-49".
 
 ## Art. 2.

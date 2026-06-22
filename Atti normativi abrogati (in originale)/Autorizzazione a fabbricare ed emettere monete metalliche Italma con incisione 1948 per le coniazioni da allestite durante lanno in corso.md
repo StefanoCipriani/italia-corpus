@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
  Vista la disposizione transitoria I della Costituzione;
- Visto l'[art. 2 del decreto legislativo luogotenenziale 8 maggio 1946, n. 419](../Decreti%20legislativi%20luogotenenziali/Riordinamento%20della%20circolazione%20monetaria%20dello%20Stato.md);
+ Visto l'[art. 2 del decreto legislativo luogotenenziale 8 maggio 1946, n. 419](Riordinamento%20della%20circolazione%20monetaria%20dello%20Stato.md);
  Visto il [decreto del Capo provvisorio dello Stato 6 settembre 1946, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-09-06;298), riflettente l'autorizzazione alla Zecca a fabbricare ed emettere nuove monete "Italma";
  Visto il [decreto del Capo provvisorio dello Stato 11 aprile 1947, n. 279](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-11;279);
  Sulla proposta del Ministro per il tesoro;

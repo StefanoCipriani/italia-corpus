@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Oltre agli ufficiali, ai sottufficiali e ai militi addetti agli uffici di investigazione politica, istituiti presso i Comandi di legione della Milizia volontaria per la sicurezza nazionale, possono essere incaricati di investigazioni relative a delitti contro la personalita' dello Stato di cui al libro II, titolo I del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), anche altri ufficiali, sottufficiali e militi della Milizia volontaria per la sicurezza nazionale, da prescegliersi dal Comando generale della Milizia medesima. 
+Oltre agli ufficiali, ai sottufficiali e ai militi addetti agli uffici di investigazione politica, istituiti presso i Comandi di legione della Milizia volontaria per la sicurezza nazionale, possono essere incaricati di investigazioni relative a delitti contro la personalita' dello Stato di cui al libro II, titolo I del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), anche altri ufficiali, sottufficiali e militi della Milizia volontaria per la sicurezza nazionale, da prescegliersi dal Comando generale della Milizia medesima. 
  
  Gli incarichi di cui al comma precedente sono preventivamente segnalati di volta in volta dal Comando generale della Milizia al Ministero dell'interno.
 

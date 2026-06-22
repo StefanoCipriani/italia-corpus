@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli articoli 323 e 324 della legge comunale e provinciale [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), modificato dal [R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md);
+Visti gli articoli 323 e 324 della legge comunale e provinciale [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), modificato dal [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ Il Consiglio comunale di Napoli e' sciolto.
 
 ## Art. 2.
 
-E' data facolta' al Governo di prorogare i poteri del Regio commissario predetto anche oltre i termini di cui all'art. 323 della legge comunale e provinciale [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), modificato dall'[art. 103 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md). 
+E' data facolta' al Governo di prorogare i poteri del Regio commissario predetto anche oltre i termini di cui all'art. 323 della legge comunale e provinciale [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), modificato dall'[art. 103 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md). 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge dell'art. 2. 
  

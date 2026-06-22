@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Ai rappresentanti di cui alla lettera b) dell'art. 63 della citata legge 7 luglio 1907, modificato dal [R. decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), e' aggiunto un funzionario superiore del Ministero per i trasporti marittimi e ferroviari.
+Ai rappresentanti di cui alla lettera b) dell'art. 63 della citata legge 7 luglio 1907, modificato dal [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), e' aggiunto un funzionario superiore del Ministero per i trasporti marittimi e ferroviari.
 
 ## Art. 2.
 

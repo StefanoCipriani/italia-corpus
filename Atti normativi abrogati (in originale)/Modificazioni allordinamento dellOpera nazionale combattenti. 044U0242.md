@@ -40,7 +40,7 @@ L'art. 30 R. del [R. decreto-legge 16 settembre 1926, numero 1606](Approvazione%
 
 ## Art. 4.
 
-Gli [articoli 1](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20costituzione%20ed%20il%20funzionamento%20del%20Collegio%20centrale%20arbitrale%20e%20dei%20Collegi%20provinciali%20arbitrali%20per%20lOpera%20nazionale%20per%20i%20combattenti.%20026U1607.md) e [17 del R. decreto 16 settembre 1926, n. 1607](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20costituzione%20ed%20il%20funzionamento%20del%20Collegio%20centrale%20arbitrale%20e%20dei%20Collegi%20provinciali%20arbitrali%20per%20lOpera%20nazionale%20per%20i%20combattenti.%20026U1607.md), sono sostituiti, rispettivamente, dalle disposizioni che seguono: 
+Gli [articoli 1](Approvazione%20del%20regolamento%20per%20la%20costituzione%20ed%20il%20funzionamento%20del%20Collegio%20centrale%20arbitrale%20e%20dei%20Collegi%20provinciali%20arbitrali%20per%20lOpera%20nazionale%20per%20i%20combattenti.%20026U1607.md) e [17 del R. decreto 16 settembre 1926, n. 1607](Approvazione%20del%20regolamento%20per%20la%20costituzione%20ed%20il%20funzionamento%20del%20Collegio%20centrale%20arbitrale%20e%20dei%20Collegi%20provinciali%20arbitrali%20per%20lOpera%20nazionale%20per%20i%20combattenti.%20026U1607.md), sono sostituiti, rispettivamente, dalle disposizioni che seguono: 
  
  «Art. 1. - Il Collegio centrale arbitrale di cui all'art. 30 del Regolamento legislativo per l'ordinamento e le funzioni dell'Opera nazionale per i combattenti, ha sede in Roma presso la Corte Suprema di cassazione. 
  

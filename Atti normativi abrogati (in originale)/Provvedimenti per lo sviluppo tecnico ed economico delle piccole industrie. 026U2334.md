@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 19 maggio 1922, n. 727](Che%20converte%20in%20legge%20il%20decreto%20Luogotenenziale%2025%20maggio%201919%20n.%201009%20recante%20provvedimenti%20a%20favore%20delle%20piccole%20industrie.%20022U0727.md), recante provvedimenti a favore delle piccole industrie;
 
-Visto il [R. decreto 14 maggio 1925, n. 830](../Regi%20decreti/Regolamento%20per%20lesecuzione%20della%20legge%20che%20stabilisce%20provvedimenti%20in%20favore%20delle%20piccole%20industrie.%20025U0830.md), che detta norme per l'applicazione della legge predetta;
+Visto il [R. decreto 14 maggio 1925, n. 830](Regolamento%20per%20lesecuzione%20della%20legge%20che%20stabilisce%20provvedimenti%20in%20favore%20delle%20piccole%20industrie.%20025U0830.md), che detta norme per l'applicazione della legge predetta;
 
 Visto il R. decreto 8 ottobre 1925 che costituisce l'Ente nazionale per le piccole industrie;
 

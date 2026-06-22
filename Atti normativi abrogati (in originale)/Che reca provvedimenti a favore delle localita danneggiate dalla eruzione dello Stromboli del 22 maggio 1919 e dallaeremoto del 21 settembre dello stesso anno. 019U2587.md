@@ -50,13 +50,13 @@ Tutti i lavori eseguiti a norma degli articoli 1 e 2 sono dichiarati di pubblica
 
 La spesa per l'esecuzione dei lavori di cui alla lettera c) dell'articolo 1° ed alla lettera a) dell'art. 2 sara' rimborsata allo Stato per intero dai proprietari che abbiano un reddito imponibile complessivo superiore a L. 5000 e per meta' da quelli che abbiano un reddito non superiore a L. 5000. 
  
- Detto rimborso sara' effettuato in 48 rate bimestrali uguali con le forme ed i privilegi fissati dall'art. 153 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md). 
+ Detto rimborso sara' effettuato in 48 rate bimestrali uguali con le forme ed i privilegi fissati dall'art. 153 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md). 
  
  Sono esonerati dal rimborso i proprietari con reddito imponibile complessivo non superiore a L. 1000.
 
 ## Art. 5.
 
-Per i lavori di cui alla lettera a) dell'art. 1° sono applicabili le disposizioni dell'[art. 7 del R. decreto 6 febbraio 1909, n. 44](../Regi%20decreti/Che%20autorizza%20lo%20sgombero%20delle%20macerie%20e%20dei%20materiali%20caduti%20o%20che%20potessero%20ancora%20cadere%20sulle%20aree%20pubbliche%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2028%20dicembre%201908.%20009U0044.md) e quelle del [R. decreto 6 maggio 1909, n. 255](../Regi%20decreti/Portante%20disposizioni%20circa%20il%20risarcimento%20dei%20danni%20cagionati%20dalle%20demolizioni%20dei%20luoghi%20colpiti%20dal%20terremoto.%20009U0255.md) convertiti nella [legge 21 luglio 1910, n. 579](Conversione%20in%20legge%20dei%20decreti%20Reali%20sul%20terremoto%20del%2028%20dicembre%201908.%20010U0579.md).
+Per i lavori di cui alla lettera a) dell'art. 1° sono applicabili le disposizioni dell'[art. 7 del R. decreto 6 febbraio 1909, n. 44](Che%20autorizza%20lo%20sgombero%20delle%20macerie%20e%20dei%20materiali%20caduti%20o%20che%20potessero%20ancora%20cadere%20sulle%20aree%20pubbliche%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2028%20dicembre%201908.%20009U0044.md) e quelle del [R. decreto 6 maggio 1909, n. 255](Portante%20disposizioni%20circa%20il%20risarcimento%20dei%20danni%20cagionati%20dalle%20demolizioni%20dei%20luoghi%20colpiti%20dal%20terremoto.%20009U0255.md) convertiti nella [legge 21 luglio 1910, n. 579](Conversione%20in%20legge%20dei%20decreti%20Reali%20sul%20terremoto%20del%2028%20dicembre%201908.%20010U0579.md).
 
 ## Art. 6.
 

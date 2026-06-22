@@ -733,7 +733,7 @@ Le imprese nazionali ed estere di assicurazione contro i danni gia' costituite o
 
 La gestione dell'Istituto nazionale delle assicurazioni per quanto riflette la riassicurazione dei rischi diversi da quelli sulla vita umana, assunta per proprio conto a norma del [decreto-legge 29 gennaio 1920, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1920-01-29;115), si considera chiusa dal 1° gennaio 1923, dalla quale data s'inizia la liquidazione della gestione stessa da parte della «Unione italiana di riassicurazione» costituita in conformita' al [decreto-legge 24 novembre 1921, numero 1737, e 17 ottobre 1922, n. 1442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1922-10-17;1442). 
  
- Della detta gestione o di quella dei rischi di guerra in navigazione, esercitata dall'Istituto a norma del [Regio decreto 30 agosto 1914, n. 902](../Regi%20decreti/Col%20quale%20e%20autorizzato%20lIstituto%20nazionale%20delle%20assicurazioni%20ad%20assumere%20i%20rischi%20di%20guerra%20in%20navigazione.%20014U0902.md), saranno presentati separati bilanci ai Ministeri delle finanze e per l'industria e commercio. L'utile netto complessivo risultante dai detti bilanci sara' devoluto al tesoro dello Stato.
+ Della detta gestione o di quella dei rischi di guerra in navigazione, esercitata dall'Istituto a norma del [Regio decreto 30 agosto 1914, n. 902](Col%20quale%20e%20autorizzato%20lIstituto%20nazionale%20delle%20assicurazioni%20ad%20assumere%20i%20rischi%20di%20guerra%20in%20navigazione.%20014U0902.md), saranno presentati separati bilanci ai Ministeri delle finanze e per l'industria e commercio. L'utile netto complessivo risultante dai detti bilanci sara' devoluto al tesoro dello Stato.
 
 ### Art. 67.
 

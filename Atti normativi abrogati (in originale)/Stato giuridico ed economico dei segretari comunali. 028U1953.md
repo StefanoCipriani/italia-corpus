@@ -56,7 +56,7 @@ Le attribuzioni conferite dal [R. decreto 30 dicembre 1923, n. 2960](../Regi%20d
 
 ## Art. 6.
 
-Nessuno puo' essere nominato segretario comunale se non sia in possesso del titolo di cui all'art. 161 della legge comunale e provinciale, [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), modificato dall'[art. 34 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md). 
+Nessuno puo' essere nominato segretario comunale se non sia in possesso del titolo di cui all'art. 161 della legge comunale e provinciale, [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), modificato dall'[art. 34 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md). 
  
  Le nomine ai posti del grado iniziale della carriera hanno luogo in seguito a pubblico concorso per titoli. 
  
@@ -64,7 +64,7 @@ Nessuno puo' essere nominato segretario comunale se non sia in possesso del tito
  
  Quando non sia possibile provvedere per promozione, od il prefetto, sentito il Consiglio di amministrazione, non ne ravvisi l'opportunita', il posto viene conferito in seguito a pubblico concorso per titoli, se trattasi di posto di grado 7° e, per i gradi superiori, in seguito a concorso per titoli al quale sono ammessi a partecipare i segretari comunali, anche degli altri ruoli provinciali, dello stesso grado, e quelli di uno o due gradi immediatamente inferiori, che abbiano rispettivamente almeno tre o cinque anni di permanenza nel proprio grado. 
  
- Sono ammessi a partecipare a detti concorsi, secondo le modalita' che verranno stabilite con le norme di esecuzione del presente decreto, anche gli impiegati di cui agli ultimi due commi dell'[art. 34 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), nonche' i vice-segretari ed i capi ripartizione titolari, in servizio presso i Comuni e forniti del titolo di cui al primo comma del presente articolo.
+ Sono ammessi a partecipare a detti concorsi, secondo le modalita' che verranno stabilite con le norme di esecuzione del presente decreto, anche gli impiegati di cui agli ultimi due commi dell'[art. 34 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), nonche' i vice-segretari ed i capi ripartizione titolari, in servizio presso i Comuni e forniti del titolo di cui al primo comma del presente articolo.
 
 ## Art. 7.
 
@@ -123,7 +123,7 @@ Gli assegni spettanti al segretario, a termini degli articoli precedenti, sono a
 
 Nulla e' innovato a quanto dispongono le leggi ed i regolamenti generali e speciali per le pensioni dei segretari comunali, anche per quanto riguarda i contributi a carico sia dei Comuni sia dei segretari. 
  
- Agli impiegati di cui agli ultimi due commi dell'[art. 34 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), che conseguano la nomina a segretario comunale, si applichera' ai fini della pensione l'[art. 49 del testo unico 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-02-21;70#art_49).
+ Agli impiegati di cui agli ultimi due commi dell'[art. 34 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), che conseguano la nomina a segretario comunale, si applichera' ai fini della pensione l'[art. 49 del testo unico 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-02-21;70#art_49).
 
 ## Art. 13.
 

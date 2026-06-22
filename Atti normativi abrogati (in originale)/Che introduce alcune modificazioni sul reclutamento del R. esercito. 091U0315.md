@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli articoli 142, 143, 145 e 146 del testo unico delle leggi sul reclutamento del Regio Esercito, approvato con [Regio decreto 6 agosto 1888, n. 5655](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20088U5655.md) (serie 3ª), sono sostituiti i seguenti: 
+Agli articoli 142, 143, 145 e 146 del testo unico delle leggi sul reclutamento del Regio Esercito, approvato con [Regio decreto 6 agosto 1888, n. 5655](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20088U5655.md) (serie 3ª), sono sostituiti i seguenti: 
  
  «Art. 142. Durante la prima rafferma il militare riceve un annuo premio di lire 200. 
  
@@ -30,7 +30,7 @@ Agli articoli 142, 143, 145 e 146 del testo unico delle leggi sul reclutamento d
  
  »Le indennita' di cui all'articolo 143 divengono ereditarie dal giorno in cui il militare acquista diritto alle medesime. 
  
- «Art. 146. Perdono i benefici inerenti alla rafferma in corso i militari che siano retrocessi di grado, o passati alle compagnie di disciplina, che si rendono disertori, che contraggono matrimonio senza autorizzazione, o che incorrono in condanna proferita dai tribunali ordinari, alle pene dell'ergastolo, della reclusione o della detenzione per qualunque tempo, od in qualunque condanna proferita dai tribunali ordinari o militari per reati previsti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
+ «Art. 146. Perdono i benefici inerenti alla rafferma in corso i militari che siano retrocessi di grado, o passati alle compagnie di disciplina, che si rendono disertori, che contraggono matrimonio senza autorizzazione, o che incorrono in condanna proferita dai tribunali ordinari, alle pene dell'ergastolo, della reclusione o della detenzione per qualunque tempo, od in qualunque condanna proferita dai tribunali ordinari o militari per reati previsti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
  
  «La retrocessione dal grado ed il passaggio alle compagnie di disciplina devono essere precedute da parere di una Commissione di disciplina. 
  

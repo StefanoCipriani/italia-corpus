@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 26 ottobre 1944, n. 507](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allart.%201%20del%20R.%20decreto-legge%2014%20marzo%201938%20n.%20882%20circa%20limitazioni%20al%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20guardia%20di%20finanza.%20044U0507.md), e successive modificazioni;
+Visto il [decreto legislativo luogotenenziale 26 ottobre 1944, n. 507](Modificazioni%20allart.%201%20del%20R.%20decreto-legge%2014%20marzo%201938%20n.%20882%20circa%20limitazioni%20al%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20guardia%20di%20finanza.%20044U0507.md), e successive modificazioni;
 
-Visto il [decreto legislativo luogotenenziale 12 ottobre 1945, n. 754](../Decreti%20legislativi%20luogotenenziali/Temporanea%20modifica%20al%20decreto%20legislativo%20Luogotenenziale%2026%20ottobre%201944%20n.%20507%20relativo%20ai%20limiti%20di%20eta%20per%20contrarre%20matrimonio%20da%20parte%20degli%20ufficiali%20delle%20Forze%20armate.%20045U0754.md);
+Visto il [decreto legislativo luogotenenziale 12 ottobre 1945, n. 754](Temporanea%20modifica%20al%20decreto%20legislativo%20Luogotenenziale%2026%20ottobre%201944%20n.%20507%20relativo%20ai%20limiti%20di%20eta%20per%20contrarre%20matrimonio%20da%20parte%20degli%20ufficiali%20delle%20Forze%20armate.%20045U0754.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151).
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per le fi
 
 ## Articolo unico.
 
-Il termine stabilito dall'[art. 1 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 754](../Decreti%20legislativi%20luogotenenziali/Temporanea%20modifica%20al%20decreto%20legislativo%20Luogotenenziale%2026%20ottobre%201944%20n.%20507%20relativo%20ai%20limiti%20di%20eta%20per%20contrarre%20matrimonio%20da%20parte%20degli%20ufficiali%20delle%20Forze%20armate.%20045U0754.md), e' prorogato per gli ufficiali dell'Esercito, della Marina, dell' Aeronautica e della Guardia di finanza, reduci da prigionia, fino a tre mesi dal loro rientro in Patria.
+Il termine stabilito dall'[art. 1 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 754](Temporanea%20modifica%20al%20decreto%20legislativo%20Luogotenenziale%2026%20ottobre%201944%20n.%20507%20relativo%20ai%20limiti%20di%20eta%20per%20contrarre%20matrimonio%20da%20parte%20degli%20ufficiali%20delle%20Forze%20armate.%20045U0754.md), e' prorogato per gli ufficiali dell'Esercito, della Marina, dell' Aeronautica e della Guardia di finanza, reduci da prigionia, fino a tre mesi dal loro rientro in Patria.
  Il periodo di tre mesi di cui al precedente comma decorre dalla data di entrata in vigore del presente decreto per coloro che a detta data siano gia' rientrati in Patria.
 
  Il presente decreto, munito del sigillo dello stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

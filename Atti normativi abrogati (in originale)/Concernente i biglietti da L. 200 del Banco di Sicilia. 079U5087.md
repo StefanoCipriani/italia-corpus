@@ -35,7 +35,7 @@ I biglietti al portatore ed a vista del taglio da lire 200 che il Banco di Sicil
 
 ## Art. 2.
 
-Le antiche fedi in nome del cassiere a somme fisse del taglio da lire 200 mano mano che verranno sostituite dai nuovi biglietti dovranno essere riscontrate e quindi abbruciate colle modalita' prescritte dall'articolo 5 del regolamento approvato con [R. decreto 17 settembre 1876, n. 3375](../Regi%20decreti/Che%20approva%20il%20regolamento%20riguardante%20le%20modalita%20e%20le%20forme%20dei%20biglietti%20che%20gli%20istituti%20di%20emissione%20sono%20autorizzati%20ad%20emettere%20per%20proprio%20conto.%20076U3375.md) (Serie 2ª). 
+Le antiche fedi in nome del cassiere a somme fisse del taglio da lire 200 mano mano che verranno sostituite dai nuovi biglietti dovranno essere riscontrate e quindi abbruciate colle modalita' prescritte dall'articolo 5 del regolamento approvato con [R. decreto 17 settembre 1876, n. 3375](Che%20approva%20il%20regolamento%20riguardante%20le%20modalita%20e%20le%20forme%20dei%20biglietti%20che%20gli%20istituti%20di%20emissione%20sono%20autorizzati%20ad%20emettere%20per%20proprio%20conto.%20076U3375.md) (Serie 2ª). 
  
  Il presente decreto sara' inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia. 
  

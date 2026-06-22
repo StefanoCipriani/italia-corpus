@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'art. 140 delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, numero 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), modificato dal [R. decreto 24 gennaio 1929, n. 145](Istituzione%20di%20posti%20di%20missione%20per%20maestri%20elementari%20presso%20gli%20Istituti%20superiori%20di%20magistero%20e%20presso%20lAccademia%20fascista%20di%20educazione%20fisica.%20029U0145.md);
+Veduto l'art. 140 delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, numero 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), modificato dal [R. decreto 24 gennaio 1929, n. 145](Istituzione%20di%20posti%20di%20missione%20per%20maestri%20elementari%20presso%20gli%20Istituti%20superiori%20di%20magistero%20e%20presso%20lAccademia%20fascista%20di%20educazione%20fisica.%20029U0145.md);
 
 Veduto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

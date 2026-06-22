@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 134](../Decreti%20legislativi%20luogotenenziali/Inquadramento%20nel%20sistema%20tributario%20dellavocazione%20dei%20profitti%20di%20regime.md);
+Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 134](Inquadramento%20nel%20sistema%20tributario%20dellavocazione%20dei%20profitti%20di%20regime.md);
 
 Visto il decreto legislativo del Capo provvisorio dello Stato
 

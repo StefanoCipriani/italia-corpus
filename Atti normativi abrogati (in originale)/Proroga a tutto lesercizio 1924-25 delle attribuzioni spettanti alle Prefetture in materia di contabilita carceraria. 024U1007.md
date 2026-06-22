@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 24 settembre 1923, n. 2166](../Regi%20decreti/Sospensione%20per%20il%20corrente%20esercizio%20finanziario%20dellapplicazione%20della%20disposizione%20di%20cui%20allart.%2019%20lettera%20b%20del%20R.%20decreto%2028%20giugno%201923%20n.%201890%20contenente%20norme%20circa%20lamministraz_cefb11019bb6.md), col quale si prorogarono a tutto l'esercizio finanziario 1923-24 le attribuzioni delle Prefetture circa i servizi contabili delle carceri giudiziarie e mandamentali delle rispettive Provincie, e si diedero disposizioni per l'anticipazione dei fondi all'uopo occorrenti; 
+ Visto il [R. decreto 24 settembre 1923, n. 2166](Sospensione%20per%20il%20corrente%20esercizio%20finanziario%20dellapplicazione%20della%20disposizione%20di%20cui%20allart.%2019%20lettera%20b%20del%20R.%20decreto%2028%20giugno%201923%20n.%201890%20contenente%20norme%20circa%20lamministraz_cefb11019bb6.md), col quale si prorogarono a tutto l'esercizio finanziario 1923-24 le attribuzioni delle Prefetture circa i servizi contabili delle carceri giudiziarie e mandamentali delle rispettive Provincie, e si diedero disposizioni per l'anticipazione dei fondi all'uopo occorrenti; 
  
  Ritenuta la necessita' e l'urgenza di prorogare, anche per l'esercizio 1924-25, le attribuzioni anzidette, per porre in grado il Ministero della giustizia di reclutare il personale di ragioneria indispensabile per poter assumere anche questa parte del servizio carcerario; 
  
@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Le disposizioni del [R. decreto 24 settembre 1923, n. 2166](../Regi%20decreti/Sospensione%20per%20il%20corrente%20esercizio%20finanziario%20dellapplicazione%20della%20disposizione%20di%20cui%20allart.%2019%20lettera%20b%20del%20R.%20decreto%2028%20giugno%201923%20n.%201890%20contenente%20norme%20circa%20lamministraz_cefb11019bb6.md), circa i servizi contabili delle carceri giudiziarie e mandamentali, sono prorogate a tutto l'esercizio finanziario 1924-25. 
+ Le disposizioni del [R. decreto 24 settembre 1923, n. 2166](Sospensione%20per%20il%20corrente%20esercizio%20finanziario%20dellapplicazione%20della%20disposizione%20di%20cui%20allart.%2019%20lettera%20b%20del%20R.%20decreto%2028%20giugno%201923%20n.%201890%20contenente%20norme%20circa%20lamministraz_cefb11019bb6.md), circa i servizi contabili delle carceri giudiziarie e mandamentali, sono prorogate a tutto l'esercizio finanziario 1924-25. 
  
  Il Ministro proponente e' autorizzato a dare tutte le altre disposizioni occorrenti per l'esecuzione del presente decreto, che sara' presentato al Parlamento per essere convertito in legge. 
  

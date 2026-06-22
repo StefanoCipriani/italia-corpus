@@ -34,7 +34,7 @@ La tassa e' dovuta per tutti i veicoli ed animali abitualmente adoperati nel ter
 
 ## Art. 3.
 
-La tassa sara' applicata mediante iscrizioni in ruoli annuali, sia principali che suppletivi, ove occorrano, compilati dall'Amministrazione municipale. Contro la iscrizione in ruolo e' ammesso ricorso alla Commissione di cui all'[art. 16 del R. decreto 22 giugno 1913, n. 948](../Regi%20decreti/Col%20quale%20sono%20approvate%20le%20norme%20e%20le%20tariffe%20relative%20alle%20tasse%20sugli%20affari%20per%20la%20Tripolitania%20e%20la%20Cirenaica%20013U0948.md), sulla tassa sugli affari, e, contro le decisioni di detta Commissione, al governatore, il quale decide con provvedimento definitivo.
+La tassa sara' applicata mediante iscrizioni in ruoli annuali, sia principali che suppletivi, ove occorrano, compilati dall'Amministrazione municipale. Contro la iscrizione in ruolo e' ammesso ricorso alla Commissione di cui all'[art. 16 del R. decreto 22 giugno 1913, n. 948](Col%20quale%20sono%20approvate%20le%20norme%20e%20le%20tariffe%20relative%20alle%20tasse%20sugli%20affari%20per%20la%20Tripolitania%20e%20la%20Cirenaica%20013U0948.md), sulla tassa sugli affari, e, contro le decisioni di detta Commissione, al governatore, il quale decide con provvedimento definitivo.
 
 ## Art. 4.
 

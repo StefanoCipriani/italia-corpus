@@ -36,7 +36,7 @@ Alle espropriazioni da compiersi in base al presente decreto saranno applicabili
 
 ## Art. 4.
 
-Ai mutui cui il comune di Salerno ricorrera' per la esecuzione del piano di cui al presente decreto non sono applicabili le limitazioni prescritte dall'art. 191 della legge comunale e provinciale, modificato dall'[art. 56 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md).
+Ai mutui cui il comune di Salerno ricorrera' per la esecuzione del piano di cui al presente decreto non sono applicabili le limitazioni prescritte dall'art. 191 della legge comunale e provinciale, modificato dall'[art. 56 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md).
 
 ## Art. 5.
 

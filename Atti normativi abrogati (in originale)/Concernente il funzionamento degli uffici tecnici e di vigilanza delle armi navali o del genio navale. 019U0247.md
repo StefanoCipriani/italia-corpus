@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto n. 431, del 20 giugno 1895](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20il%20servizio%20delle%20direzioni%20dei%20lavori%20e%20per%20la%20contabilita%20del%20materiale%20nei%20regi%20arsenali%20e%20cantieri%20marittimi.%20095U0431.md), e successive modificazioni;
+Visto il [R. decreto n. 431, del 20 giugno 1895](Che%20approva%20il%20regolamento%20per%20il%20servizio%20delle%20direzioni%20dei%20lavori%20e%20per%20la%20contabilita%20del%20materiale%20nei%20regi%20arsenali%20e%20cantieri%20marittimi.%20095U0431.md), e successive modificazioni;
 
 Vista la [legge n. 365, del 20 giugno 1909](Ordinamento%20amministrativo%20e%20contabile%20della%20R.%20Marina.%20009U0365.md), e successive modificazioni;
 

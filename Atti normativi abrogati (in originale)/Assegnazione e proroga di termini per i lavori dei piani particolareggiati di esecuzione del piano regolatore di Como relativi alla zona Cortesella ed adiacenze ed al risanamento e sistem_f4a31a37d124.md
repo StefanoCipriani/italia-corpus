@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md);
 
-Visto il [regio decreto-legge 15 novembre 1937, numero 2618](Approvazione%20del%20piano%20regolatore%20di%20massima%20edilizio%20e%20di%20ampliamento%20della%20citta%20di%20Como.%20037U2618.md), convertito nella [legge 25 aprile 1938, n. 661](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2015%20novembre%201937-XVI%20n.%202618%20con%20il%20quale%20e%20stato%20approvato%20il%20piano%20regolatore%20di%20massima%20edilizio%20e%20di%20ampliamento%20della%20citta%20di%20Como.%20038U0661.md), che approva il piano regolatore di massima della citta' di Como nonche' il piano particolareggiato della zona Cortesella ed adiacenze;
+Visto il [regio decreto-legge 15 novembre 1937, numero 2618](Approvazione%20del%20piano%20regolatore%20di%20massima%20edilizio%20e%20di%20ampliamento%20della%20citta%20di%20Como.%20037U2618.md), convertito nella [legge 25 aprile 1938, n. 661](Conversione%20in%20legge%20del%20Regio%20decreto-legge%2015%20novembre%201937-XVI%20n.%202618%20con%20il%20quale%20e%20stato%20approvato%20il%20piano%20regolatore%20di%20massima%20edilizio%20e%20di%20ampliamento%20della%20citta%20di%20Como.%20038U0661.md), che approva il piano regolatore di massima della citta' di Como nonche' il piano particolareggiato della zona Cortesella ed adiacenze;
 
 Visto il regio decreto 7 settembre 1939;
 

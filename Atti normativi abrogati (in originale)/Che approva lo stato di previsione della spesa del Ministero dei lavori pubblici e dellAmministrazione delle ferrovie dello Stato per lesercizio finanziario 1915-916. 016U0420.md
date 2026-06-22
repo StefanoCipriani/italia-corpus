@@ -24,7 +24,7 @@ L'Amministrazione delle ferrovie dello Stato e' autorizzata ad accertare e riscu
 
 ## Art. 4.
 
-Agli effetti dell'art. 38 del tasto unico delle disposizioni per le pensioni del personale delle ferrovie dello Stato, approvato con [R. decreto 22 aprile 1909, n. 229](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), il limite massimo dell'annualita' per le pensioni da concedersi nell'esercizio 1915-916, in dipendenza dei normali collocamenti a riposo non chiesti dagli agenti, senza che concorra la constatata loro inabilita', e' stabilito nella somma di L. 1.500.000.
+Agli effetti dell'art. 38 del tasto unico delle disposizioni per le pensioni del personale delle ferrovie dello Stato, approvato con [R. decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), il limite massimo dell'annualita' per le pensioni da concedersi nell'esercizio 1915-916, in dipendenza dei normali collocamenti a riposo non chiesti dagli agenti, senza che concorra la constatata loro inabilita', e' stabilito nella somma di L. 1.500.000.
 
 ## Art. 5.
 

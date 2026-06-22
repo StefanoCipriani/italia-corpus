@@ -18,7 +18,7 @@ Viste le disposizioni in vigore per la concessione dei mutui da parte della Cass
 
 Vista la [legge 20 agosto 1921, n. 1177](Che%20reca%20provvedimenti%20contro%20la%20disoccupazione.%20021U1177.md);
 
-Ritenuta la necessita' di prorogare il termine di un biennio fissato all'[articolo 1 del R. decreto 19 novembre 1921, n. 1704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-19;1704#art_1), modificato col [R. decreto 8 febbraio 1923, n. 287](../Regi%20decreti/Col%20quale%20vengono%20apportate%20modificazioni%20alle%20norme%20vigenti%20per%20la%20concessione%20di%20mutui%20da%20parte%20della%20Cassa%20depositi%20e%20prestiti.%20023U0287.md);
+Ritenuta la necessita' di prorogare il termine di un biennio fissato all'[articolo 1 del R. decreto 19 novembre 1921, n. 1704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-19;1704#art_1), modificato col [R. decreto 8 febbraio 1923, n. 287](Col%20quale%20vengono%20apportate%20modificazioni%20alle%20norme%20vigenti%20per%20la%20concessione%20di%20mutui%20da%20parte%20della%20Cassa%20depositi%20e%20prestiti.%20023U0287.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato, per gli affari dell'interno, Presidente del Consiglio dei Ministri, di concerto coi Ministri per le finanze, per i lavori pubblici e per la pubblica istruzione;
 

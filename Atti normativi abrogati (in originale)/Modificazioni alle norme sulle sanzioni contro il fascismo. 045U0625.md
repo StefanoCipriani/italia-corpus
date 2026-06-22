@@ -84,7 +84,7 @@ Presso le Sezioni speciali di Corte di Assise e' istituito un ufficio di pubblic
  
  Gli avvocati designati dal Comitato di Liberazione Nazionale sono chiamati a far parte dell'ufficio del pubblico ministero per il tempo strettamente necessario all'espletamento dell'incarico ricevuto. Essi hanno il trattamento economico dei magistrati di grado sesto. 
  
- L'avvocato che si rifiuta di assumere l'ufficio suddetto e' punito ai sensi dell'[art. 366 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ L'avvocato che si rifiuta di assumere l'ufficio suddetto e' punito ai sensi dell'[art. 366 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 8.
 

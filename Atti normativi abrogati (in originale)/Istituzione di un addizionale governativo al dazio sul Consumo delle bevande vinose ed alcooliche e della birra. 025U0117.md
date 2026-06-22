@@ -22,7 +22,7 @@ Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-E' istituito a favore dello Stato un addizionale al dazio sul consumo delle bevande vinose ed alcooliche e della birra, comprese nella categoria I della tariffa massima dei dazi annessa al [R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), nelle seguenti misure: 
+E' istituito a favore dello Stato un addizionale al dazio sul consumo delle bevande vinose ed alcooliche e della birra, comprese nella categoria I della tariffa massima dei dazi annessa al [R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), nelle seguenti misure: 
  
  
 
@@ -48,7 +48,7 @@ E' istituito a favore dello Stato un addizionale al dazio sul consumo delle beva
 
 ## Art. 2.
 
-L'addizionale stabilito dal precedente articolo, che si estende pure alla tassa di produzione interna, e' applicato con le norme e coi privilegi previsti nel [R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), nel relativo [regolamento 25 febbraio 1924, n. 540](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-02-25;540), e nel presente decreto. 
+L'addizionale stabilito dal precedente articolo, che si estende pure alla tassa di produzione interna, e' applicato con le norme e coi privilegi previsti nel [R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), nel relativo [regolamento 25 febbraio 1924, n. 540](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-02-25;540), e nel presente decreto. 
  
  Per le convenzioni di abbonamento in corso alla data dell'applicazione del detto addizionale sara' variato proporzionalmente il canone, e la modificazione da apportarsi alle convenzioni stesse sara' fissata dall'intendente di finanza della Provincia.
 
@@ -58,7 +58,7 @@ L'addizionale governativo istituito dal presente decreto riscosso a cura dei Com
  
  La riscossione dell'addizionale e' eseguita con la medesima bolletta con cui viene percetto il dazio comunale, facendosene separata menzione nella bolletta stessa. 
  
- In caso di mancato pagamento dell'addizionale si procedi al ricupero delle somme dovute con le norme indicate negli [articoli 32](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md) e [33 del R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md).
+ In caso di mancato pagamento dell'addizionale si procedi al ricupero delle somme dovute con le norme indicate negli [articoli 32](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md) e [33 del R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md).
 
 ## Art. 4.
 
@@ -76,7 +76,7 @@ Il versamento alla sezione di Regia tesoreria provinciale deve effettuarsi entro
  
  Per t'accennato caso di inadempienza l'intendente di finanza puo' altresi' disporre l'invio di un sorvegliante presso l'azienda daziaria, tanto gestita direttamente come appaltata, o presso la tesoreria dei Comuni o Consorzi morosi, con l'incarico di concentrare ogni introito daziario e di curarne il Versamento nella sezione di tesoreria provinciale, fino a concorrenza del credito dello Stato. 
  
- Per l'esecuzione degli eventuali provvedimenti, come sopra loro affidati, gli intendenti di finanza si uniformeranno, in quanto applicabili, alle modalita' previste dagli [articoli 74](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), [75](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md) e [85 del R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), e dalle relative norme regolamentari.
+ Per l'esecuzione degli eventuali provvedimenti, come sopra loro affidati, gli intendenti di finanza si uniformeranno, in quanto applicabili, alle modalita' previste dagli [articoli 74](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), [75](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md) e [85 del R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), e dalle relative norme regolamentari.
 
 ## Art. 6.
 

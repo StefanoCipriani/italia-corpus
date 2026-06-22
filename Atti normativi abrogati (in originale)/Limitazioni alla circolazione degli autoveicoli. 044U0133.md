@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il Testo Unico delle norme per la tutela delle strade e per la circolazione, approvato con [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md);
+Visto il Testo Unico delle norme per la tutela delle strade e per la circolazione, approvato con [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md);
 
 Vista la [legge 24 marzo 1942, n. 398](Norme%20per%20la%20limitazione%20durante%20la%20guerra%20della%20circolazione%20degli%20autoveicoli%20e%20per%20la%20disciplina%20dei%20servizi%20pubblici%20di%20trasporto.%20042U0398.md), concernente le norme per la limitazione, durante la guerra, della circolazione degli autoveicoli e per la disciplina dei servizi pubblici di trasporto;
 
@@ -44,7 +44,7 @@ Chiunque circoli con autoveicolo per il quale non sia stato rilasciato il permes
  
  Le pene di cui sopra sono raddoppiate se il contravventore si sia servito di un autoveicolo altrui senza l'autorizzazione del proprietario. 
  
- Nulla e' innovato a quanto e' disposto dall'art. 70 delle norme per la tutela delle strade e per la circolazione, approvate con [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md).
+ Nulla e' innovato a quanto e' disposto dall'art. 70 delle norme per la tutela delle strade e per la circolazione, approvate con [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md).
 
 ## Art. 4.
 
@@ -70,11 +70,11 @@ I permessi di cui all'art. 1 hanno validita' non superiore a mesi quattro e poss
 
 ## Art. 6.
 
-Gli Ispettorati Compartimentali sono autorizzati a rilasciare permessi temporanei per la circolazione di collaudo e di immatricolazione, non superiori a dieci giorni su determinati percorsi, in conformita' alle disposizioni di cui all'art. 74 delle norme approvare con [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md).
+Gli Ispettorati Compartimentali sono autorizzati a rilasciare permessi temporanei per la circolazione di collaudo e di immatricolazione, non superiori a dieci giorni su determinati percorsi, in conformita' alle disposizioni di cui all'art. 74 delle norme approvare con [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md).
 
 ## Art. 7.
 
-Gli autoveicoli in prova devono essere muniti, oltre che della targa e del relativo certificato di concessione, di cui all'art. 73 delle citate norme approvate con [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), anche dello speciale permesso previsto dall'art. 1 del presente decreto.
+Gli autoveicoli in prova devono essere muniti, oltre che della targa e del relativo certificato di concessione, di cui all'art. 73 delle citate norme approvate con [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), anche dello speciale permesso previsto dall'art. 1 del presente decreto.
 
 ## Art. 8.
 

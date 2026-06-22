@@ -46,7 +46,7 @@ Sono altresi' liberamente ed annualmente determinati e comunicati alle regioni e
  Il testo delle note qui pubblicato e' stato redatto ai 
  sensi dell'art. 10, commi 2 e 3, del testo unico approvato 
  con [decreto del Presidente della Repubblica 28 dicembre 
- 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
+ 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
  disposizioni di legge modificate o alle quali e' operato il 
  rinvio. Restano invariati il valore e l'efficacia degli 
  atti legislativi qui trascritti.
@@ -92,7 +92,7 @@ Ulteriori proroghe del termine di cui al [comma 1 dell'articolo 1 della legge 30
 
 5.
 
-Per la realizzazione di interventi urgenti per il sostegno dell'immagine del turismo italiano sui mercati dei paesi generatori della domanda turistica, e' autorizzata per il 1991 la spesa di lire 8 miliardi, di cui il 50 per cento riservato ad interventi per il sostegno dell'immagine del turismo dei territori di cui al testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
+Per la realizzazione di interventi urgenti per il sostegno dell'immagine del turismo italiano sui mercati dei paesi generatori della domanda turistica, e' autorizzata per il 1991 la spesa di lire 8 miliardi, di cui il 50 per cento riservato ad interventi per il sostegno dell'immagine del turismo dei territori di cui al testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
 
 6.
 

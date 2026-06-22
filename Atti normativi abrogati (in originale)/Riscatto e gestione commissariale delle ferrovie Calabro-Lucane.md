@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 E' approvato, con efficacia dal 1 gennaio 1964, l'atto di diffida notificato il 25 settembre 1962 alla Societa' italiana per le strade ferrate del Mediterraneo, Societa' per Azioni, per il riscatto delle ferrovie Calabro-Lucane.
  Il Ministero dei trasporti e dell'aviazione civile - Ispettorato generale della motorizzazione civile e dei trasporti in concessione - e' autorizzato ad assumere, dalla predetta data, la gestione delle ferrovie CalabroLucane ed a provvedervi direttamente a mezzo di un commissario e un vice commissario, nominati dal Ministro per i trasporti e per l'aviazione civile fra i funzionari del Ministero (Ispettorato generale della motorizzazione civile e dei trasporti in concessione) aventi la qualifica di direttore centrale.
- Per il periodo di espletamento dell'incarico i funzionari di cui al precedente comma saranno collocati nella posizione di fuori ruolo, ai sensi dell'[articolo 58 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ Per il periodo di espletamento dell'incarico i funzionari di cui al precedente comma saranno collocati nella posizione di fuori ruolo, ai sensi dell'[articolo 58 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ## Art. 2.
 

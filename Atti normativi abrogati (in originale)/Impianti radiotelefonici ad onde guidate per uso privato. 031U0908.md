@@ -18,13 +18,13 @@ Visto il testo unico di legge sui telefoni 3 maggio 1903, n. 196, il relativo [r
 
 Visto il [R. decreto-legge 11 marzo 1920, n. 316](Che%20apporta%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche.%20020U0316.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visti i [Regi decreti 8 febbraio 1923, n. 1067](../Regi%20decreti/Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md), e [10 luglio 1924, n. 1226](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20Regio%20decreto%208%20febbraio%201923%20n.%201067%20e%20successive%20modificazioni%20riflettenti%20le%20comunicazioni%20senza%20filo.%20024U1226.md);
+Visti i [Regi decreti 8 febbraio 1923, n. 1067](Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md), e [10 luglio 1924, n. 1226](Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20Regio%20decreto%208%20febbraio%201923%20n.%201067%20e%20successive%20modificazioni%20riflettenti%20le%20comunicazioni%20senza%20filo.%20024U1226.md);
 
 Visto l'[art. 5 del R. decreto-legge 1° maggio 1924, n. 655](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%208%20febbraio%201923%20n.%201067%20e%2027%20settembre%201923%20n.%202351%20relativi%20alle%20comunicazioni%20senza%20filo.%20024U0655.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visto il [R. decreto-legge 15 ottobre 1925, n. 1990](Provvedimenti%20vari%20per%20laumento%20delle%20entrate%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.%20025U1990.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
-Visto il [R. decreto 12 maggio 1930, n. 697](../Regi%20decreti/Provvedimenti%20per%20gli%20aumenti%20di%20entrate%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.%20030U0697.md);
+Visto il [R. decreto 12 maggio 1930, n. 697](Provvedimenti%20per%20gli%20aumenti%20di%20entrate%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.%20030U0697.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

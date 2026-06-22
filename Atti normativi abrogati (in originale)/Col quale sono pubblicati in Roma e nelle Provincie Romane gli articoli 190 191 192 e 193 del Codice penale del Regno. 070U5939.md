@@ -24,7 +24,7 @@ Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Sono pubblicati ed avranno forza di Legge in Roma e nelle Provincie Romane gli [articoli 190](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [191](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [192](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [193 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno, del 20 novembre 1859, i quali sono del tenore seguente: 
+Sono pubblicati ed avranno forza di Legge in Roma e nelle Provincie Romane gli [articoli 190](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [191](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [192](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [193 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno, del 20 novembre 1859, i quali sono del tenore seguente: 
  
  «Art. 190. Allorche' con violenze, o vie di fatto, o minaccie, o tumulti, sara' stato impedito ad uno o piu' cittadini l'esercizio dei proprii diritti politici, i colpevoli saranno puniti col carcere estensibile a due anni, e con multa maggiore o minore secondo la gravita' e conseguenze del reato. 
  
@@ -46,7 +46,7 @@ Sono pubblicati ed avranno forza di Legge in Roma e nelle Provincie Romane gli [
 
 ## Art. 2.
 
-Finche' rimarra' in vigore in Roma e nelle Provincie Romane il Regolamento sui delitti e sulle pene del 20 settembre 1832, ed al solo effetto dell'attuazione delle sanzioni penali contenute negli articoli precedenti del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno, non che negli articoli 73, 74, 75 e 76 della Legge sulle elezioni politiche, si osserveranno le disposizioni che seguono: 
+Finche' rimarra' in vigore in Roma e nelle Provincie Romane il Regolamento sui delitti e sulle pene del 20 settembre 1832, ed al solo effetto dell'attuazione delle sanzioni penali contenute negli articoli precedenti del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno, non che negli articoli 73, 74, 75 e 76 della Legge sulle elezioni politiche, si osserveranno le disposizioni che seguono: 
  
  1° La pena della reclusione corrisponde a quella dell'opera pubblica per un tempo non minore di tre anni, e della galera a tempo non eccedente gli anni dieci. 
  
@@ -62,11 +62,11 @@ Finche' rimarra' in vigore in Roma e nelle Provincie Romane il Regolamento sui d
  
  Nella incapacita' di essere tutore e curatore, o di concorrere negli atti relativi alla tutela, tranne pei propri figli nei casi dalla Legge contemplati. 
  
- 3° La sospensione dall'esercizio dei pubblici uffizi consiste nella esclusione del condannato, per un tempo non minore di tre mesi, e non maggiore di tre anni, dall'esercizio dei diritti politici, e di qualunque funzione, impiego od uffizio pubblico; salva la particolare disposizione dell'[articolo 193 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno, mentovato nell'articolo 1° del presente Decreto. 
+ 3° La sospensione dall'esercizio dei pubblici uffizi consiste nella esclusione del condannato, per un tempo non minore di tre mesi, e non maggiore di tre anni, dall'esercizio dei diritti politici, e di qualunque funzione, impiego od uffizio pubblico; salva la particolare disposizione dell'[articolo 193 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno, mentovato nell'articolo 1° del presente Decreto. 
  
  Se il condannato contravverra' alla sospensione sara' punito colla pena del carcere estensibile a mesi sei, ferma stando la durata della sospensione. 
  
- 4° I reati contemplati negli articoli 74, 75, 76 della Legge sulle elezioni politiche saranno trattati come delitti minori. Quelli preveduti dall' articolo 73 della stessa Legge, non che dagli [articoli 190](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [191](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [192](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [193 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno, saranno trattati come delitti maggiori.
+ 4° I reati contemplati negli articoli 74, 75, 76 della Legge sulle elezioni politiche saranno trattati come delitti minori. Quelli preveduti dall' articolo 73 della stessa Legge, non che dagli [articoli 190](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [191](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [192](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [193 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno, saranno trattati come delitti maggiori.
 
 ## Art. 3.
 

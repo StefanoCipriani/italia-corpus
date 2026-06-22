@@ -14,7 +14,7 @@ E' autorizzata la demonetazione di pezzi di bronzo da cent. 10 per l'ammontare d
 
 ## Art. 2.
 
-Il riparto delle monete di bronzo stabilito col [R. decreto 4 gennaio 1914, n. 17](../Regi%20decreti/Col%20quale%20e%20autorizzata%20la%20demonetazione%20di%20pezzi%20di%20bronzo%20da%20centesimi%2010%20di%20vecchio%20conio%20e%20la%20riconiazione%20in%20pezzi%20da%20centesimi%20uno%20e%20due.%20014U0017.md) resta quindi modificato come segue: 
+Il riparto delle monete di bronzo stabilito col [R. decreto 4 gennaio 1914, n. 17](Col%20quale%20e%20autorizzata%20la%20demonetazione%20di%20pezzi%20di%20bronzo%20da%20centesimi%2010%20di%20vecchio%20conio%20e%20la%20riconiazione%20in%20pezzi%20da%20centesimi%20uno%20e%20due.%20014U0017.md) resta quindi modificato come segue: 
  
  Pezzi da centesimi 10 L. 41.500.000,-- 
  » » » 5 L. 25.700.000,-- 

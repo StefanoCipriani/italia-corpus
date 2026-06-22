@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per tutta la durata della guerra e fino ad un anno dopo la cessazione dello stato di guerra e' data facolta' ai Prefetti, quando ne sia riconosciuta l'urgente necessita', di stabilire con proprio decreto, sentito il Comitato provinciale dei prezzi, la tariffa delle inserzioni nei Fogli annunzi legali delle provincie in misura diversa da quella prevista dal [R. decreto 11 gennaio 1923, n. 254](../Regi%20decreti/Che%20aumenta%20il%20prezzo%20delle%20inserzioni%20nel%20Foglio%20degli%20annunci%20legali%20delle%20Provincie%20stabilito%20dalla%20tariffa%20annessa%20alla%20legge%2030%20giugno%201876%20n.%203195.%20023U0254.md),. in relazione al costo del servizio determinato dalle particolari condizioni dei mercati locali. 
+Per tutta la durata della guerra e fino ad un anno dopo la cessazione dello stato di guerra e' data facolta' ai Prefetti, quando ne sia riconosciuta l'urgente necessita', di stabilire con proprio decreto, sentito il Comitato provinciale dei prezzi, la tariffa delle inserzioni nei Fogli annunzi legali delle provincie in misura diversa da quella prevista dal [R. decreto 11 gennaio 1923, n. 254](Che%20aumenta%20il%20prezzo%20delle%20inserzioni%20nel%20Foglio%20degli%20annunci%20legali%20delle%20Provincie%20stabilito%20dalla%20tariffa%20annessa%20alla%20legge%2030%20giugno%201876%20n.%203195.%20023U0254.md),. in relazione al costo del servizio determinato dalle particolari condizioni dei mercati locali. 
  
  I provvedimenti previsti dal comma precedente debbono essere comunicati al Ministero dell'interno.
 

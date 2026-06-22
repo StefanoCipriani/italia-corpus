@@ -385,7 +385,7 @@ Le autorizzazioni rilasciate ai sensi del [decreto del Presidente della Repubbli
 
 2.
 
-E' differito al 1 giugno 1995, limitatamente a quanto disposto dall'articolo 11, comma 3, il termine di cui all'[articolo 12, comma 2, del decreto del Presidente della Repubblica 26 agosto 1993, n. 412](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20la%20progettazione%20linstallazione%20lesercizio%20e%20la%20manutenzione%20degli%20impianti%20termici%20degli%20edifici%20ai%20fini%20del%20contenimento%20dei%20consumi%20di%20energia%20in%20attuazio_9b3be45049cf.md).
+E' differito al 1 giugno 1995, limitatamente a quanto disposto dall'articolo 11, comma 3, il termine di cui all'[articolo 12, comma 2, del decreto del Presidente della Repubblica 26 agosto 1993, n. 412](../DPR/Regolamento%20recante%20norme%20per%20la%20progettazione%20linstallazione%20lesercizio%20e%20la%20manutenzione%20degli%20impianti%20termici%20degli%20edifici%20ai%20fini%20del%20contenimento%20dei%20consumi%20di%20energia%20in%20attuazio_9b3be45049cf.md).
 
 ## Art. 19. — Entrata in vigore
 

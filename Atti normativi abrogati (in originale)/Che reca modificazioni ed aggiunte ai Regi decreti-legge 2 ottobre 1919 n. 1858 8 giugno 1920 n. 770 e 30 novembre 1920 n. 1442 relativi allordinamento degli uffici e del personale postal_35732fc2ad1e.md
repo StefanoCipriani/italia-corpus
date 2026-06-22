@@ -190,7 +190,7 @@ Le disposizioni dei sotto indicati articoli dei citati [Regi decreti-legge 2 ott
  
  Art. 100. - Aggiungere il seguente comma: 
  
- Dal compimento del 16° anno di eta' in poi essi sono adibiti al servizio di recapito dei telegrammi e degli espressi sostituendo all'attuale retribuzione il compenso di cui al [R. decreto 13 luglio 1919, n. 1379](../Regi%20decreti/Che%20aumenta%20la%20retribuzione%20degli%20impiegati%20avventizi%20operai%20ed%20agenti%20subalterni%20avventizi%20e%20del%20personale%20fuori%20ruolo%20dellAmministrazione%20postale%20telegrafica%20e%20telefonica.%20019U1379.md). Tale compenso e' ridotto ai sensi dell'art. 94 quando conseguono la nomina a fattorino. 
+ Dal compimento del 16° anno di eta' in poi essi sono adibiti al servizio di recapito dei telegrammi e degli espressi sostituendo all'attuale retribuzione il compenso di cui al [R. decreto 13 luglio 1919, n. 1379](Che%20aumenta%20la%20retribuzione%20degli%20impiegati%20avventizi%20operai%20ed%20agenti%20subalterni%20avventizi%20e%20del%20personale%20fuori%20ruolo%20dellAmministrazione%20postale%20telegrafica%20e%20telefonica.%20019U1379.md). Tale compenso e' ridotto ai sensi dell'art. 94 quando conseguono la nomina a fattorino. 
  
  Art. 101. - Primo comma: 
  

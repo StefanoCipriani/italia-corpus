@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), convertito nella [legge 7 marzo 1938, n. 141](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20difesa%20del%20risparmio%20e%20per%20la%20disciplina%20della%20funzione%20creditizia.%20038U0141.md), e successive modificazioni ed aggiunte;
 
-Visto il [regio decreto 11 giugno 1936, n. 1067](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), con il quale venne approvato lo statuto della Banca di Italia;
+Visto il [regio decreto 11 giugno 1936, n. 1067](Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), con il quale venne approvato lo statuto della Banca di Italia;
 
 Visto il [decreto del Presidente della Repubblica 19 aprile 1948, n. 482](Modificazioni%20allo%20statuto%20della%20Banca%20dItalia.md), con il quale lo stesso statuto venne modificato;
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 ## Art. 1.
 
-Allo statuto della Banca d'Italia, Istituto di diritto pubblico con sede in Roma, approvato con il [regio decreto 11 giugno 1936, n. 1067](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), e modificato con il [decreto del presidente della Repubblica 19 aprile 1948, n. 482](Modificazioni%20allo%20statuto%20della%20Banca%20dItalia.md), sono apportate le seguenti modificazioni:
+Allo statuto della Banca d'Italia, Istituto di diritto pubblico con sede in Roma, approvato con il [regio decreto 11 giugno 1936, n. 1067](Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), e modificato con il [decreto del presidente della Repubblica 19 aprile 1948, n. 482](Modificazioni%20allo%20statuto%20della%20Banca%20dItalia.md), sono apportate le seguenti modificazioni:
  all'art. 2, comma terzo, e' aggiunta la parola "Cagliari" dopo la parola "Bologna";
  all'art. 17, comma primo, il numero "12" e' sostituito con il numero "13";
  allo stesso art. 17, comma terzo, le parole "per un terzo in ciascun anno" sono sostituite con le parole "in ragione di quattro per il primo ed il secondo anno e di cinque per il terzo anno";

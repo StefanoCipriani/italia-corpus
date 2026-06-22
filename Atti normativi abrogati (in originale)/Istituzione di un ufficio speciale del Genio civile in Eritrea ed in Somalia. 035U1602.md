@@ -18,11 +18,11 @@ Vista la [legge 6 luglio 1933, n. 999](Ordinamento%20organico%20per%20lEritrea%2
 
 Visto il [R. decreto-legge 14 giugno 1928, n. 1801](Disposizioni%20per%20la%20destinazione%20nelle%20varie%20Colonie%20del%20personale%20civile%20e%20militare%20non%20appartenente%20ai%20ruoli%20coloniali.%20028U1801.md), relativo alla destinazione in Colonia di personale civile e militare non appartenente al ruolo coloniale;
 
-Visto il [R. decreto 31 ottobre 1923, n. 2504](../Regi%20decreti/Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md), ed il decreto Ministeriale 1° ottobre 1925. relativi al trattamento economico del personale civile in Colonia ed all'indennita' di trasferta per piccole distanze;
+Visto il [R. decreto 31 ottobre 1923, n. 2504](Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md), ed il decreto Ministeriale 1° ottobre 1925. relativi al trattamento economico del personale civile in Colonia ed all'indennita' di trasferta per piccole distanze;
 
 Visti gli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;355#art_3) e [5 del R. decreto 26 febbraio 1928, n. 355](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;355#art_5), relativo al numero dei funzionari civili e militari delle altre Amministrazioni dello Stato che possono prestar servizio in Colonia;
 
-Viste le norme per l'esecuzione delle opere pubbliche nelle Colonie, approvate con [R. decreto 21 maggio 1934, n. 1397](../Regi%20decreti/Norme%20per%20la%20esecuzione%20delle%20opere%20pubbliche%20nelle%20Colonie.%20034U1397.md);
+Viste le norme per l'esecuzione delle opere pubbliche nelle Colonie, approvate con [R. decreto 21 maggio 1934, n. 1397](Norme%20per%20la%20esecuzione%20delle%20opere%20pubbliche%20nelle%20Colonie.%20034U1397.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -60,7 +60,7 @@ Il personale tecnico direttivo da assegnare agli istituendi uffici sara' costitu
 
 ## Art. 6.
 
-Al personale anzidetto saranno corrisposte, sui bilanci se parati dell'Eritrea e della Somalia, oltre al normale trattamento economico, le indennita' previste dal [R. decreto 31 ottobre 1923, n. 2501](../Regi%20decreti/Erezione%20in%20Ente%20morale%20dellorfanotrofio%20femminile%20aronese%20Carlo%20e%20Procuratore%20Luigi%20Molinari%20in%20Arona.%20023U2501.md), e dal decreto Ministeriale 1° ottobre 1925, qualora concorrano le circostanze in esso contemplate. 
+Al personale anzidetto saranno corrisposte, sui bilanci se parati dell'Eritrea e della Somalia, oltre al normale trattamento economico, le indennita' previste dal [R. decreto 31 ottobre 1923, n. 2501](Erezione%20in%20Ente%20morale%20dellorfanotrofio%20femminile%20aronese%20Carlo%20e%20Procuratore%20Luigi%20Molinari%20in%20Arona.%20023U2501.md), e dal decreto Ministeriale 1° ottobre 1925, qualora concorrano le circostanze in esso contemplate. 
  
  Spetteranno inoltre le indennita' speciali stabilite dal [R. decreto-legge 22 novembre 1925, n. 2342](Concessione%20di%20una%20indennita%20speciale%20agli%20ingegneri%20e%20ai%20geometri%20del%20Genio%20civile%20chiamati%20a%20prestar%20servizio%20in%20Libia.%20025U2342.md), per il personale del Real corpo del Genio civile chiamato a prestare servizio in Libia ed aumentate nella misura seguente: 
  

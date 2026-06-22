@@ -74,7 +74,7 @@ Il trattamento economico per raggiungere il porto d'imbarco e' quello previsto d
 
 ## Art. 6.
 
-Il personale civile di ruolo, dipendente dalle varie amministrazioni dello Stato, non assimilato a gradi militari, al seguito delle truppe o comunque addetto a comandi, reparti, servizi ed uffici ha diritto alla indennita' di entrata in campagna, alla razione viveri, alla indennita' per perdita bagaglio ed al soprassoldo di operazioni dovuto agli ufficiali dello stesso grado gerarchico, ai sensi del [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
+Il personale civile di ruolo, dipendente dalle varie amministrazioni dello Stato, non assimilato a gradi militari, al seguito delle truppe o comunque addetto a comandi, reparti, servizi ed uffici ha diritto alla indennita' di entrata in campagna, alla razione viveri, alla indennita' per perdita bagaglio ed al soprassoldo di operazioni dovuto agli ufficiali dello stesso grado gerarchico, ai sensi del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  Al predetto personale non sono assegnati quadrupedi ne' sono, pertanto, dovute indennita' quadrupedi e razioni foraggio. 
  

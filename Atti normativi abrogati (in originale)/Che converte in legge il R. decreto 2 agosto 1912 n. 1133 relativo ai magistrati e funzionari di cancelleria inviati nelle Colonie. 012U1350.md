@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 2 agosto 1912, n. 1133](../Regi%20decreti/Che%20stabilisce%20che%20i%20magistrati%20ed%20i%20funzionari%20di%20cancellerie%20e%20segreterie%20giudiziarie%20inviati%20nella%20Libia%20od%20in%20altre%20colonie%20per%20lamministrazione%20della%20giustizia%20possono%20essere%20posti%20t_6b2a67ad496c.md), riguardante i magistrati e funzionari di cancelleria e segreteria, inviati nella Libia ed in altre colonie per l'amministrazione della giustizia. 
+ E' convertito in legge il [R. decreto 2 agosto 1912, n. 1133](Che%20stabilisce%20che%20i%20magistrati%20ed%20i%20funzionari%20di%20cancellerie%20e%20segreterie%20giudiziarie%20inviati%20nella%20Libia%20od%20in%20altre%20colonie%20per%20lamministrazione%20della%20giustizia%20possono%20essere%20posti%20t_6b2a67ad496c.md), riguardante i magistrati e funzionari di cancelleria e segreteria, inviati nella Libia ed in altre colonie per l'amministrazione della giustizia. 
  
  Finche' non sara' diversamente provveduto, anche per l'esercizio 1913-914 e successivi, gli stipendi ai magistrati e funzionari di cancelleria e segreteria contemplati nell'art.1 del suddetto decreto saranno corrisposti sul capitolo 27 del bilancio di previsione del Ministero di grazia e giustizia. 
  

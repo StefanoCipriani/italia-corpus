@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [articoli 16](../Regi%20decreti/Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), [17](../Regi%20decreti/Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), [18](../Regi%20decreti/Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md) e [19 del R. decreto 6 settembre 1923, n. 2125](../Regi%20decreti/Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), relativo alla costituzione di Consorzi obbligatori per i Depositi cavalli stalloni;
+Visti gli [articoli 16](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), [17](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), [18](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md) e [19 del R. decreto 6 settembre 1923, n. 2125](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), relativo alla costituzione di Consorzi obbligatori per i Depositi cavalli stalloni;
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Art. 1.
 
-Le somme occorrenti per le spese di cui all'[art. 17 del R. decreto 6 settembre 1923, n. 2125](../Regi%20decreti/Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), da corrispondersi dalle Provincie consorziate, dovranno da queste essere versate alla cassa del Consorzio in rate semestrali anticipate. 
+Le somme occorrenti per le spese di cui all'[art. 17 del R. decreto 6 settembre 1923, n. 2125](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), da corrispondersi dalle Provincie consorziate, dovranno da queste essere versate alla cassa del Consorzio in rate semestrali anticipate. 
  
  Qualora le Amministrazioni provinciali non provvedano a tale versamento entro il termine prescritto, le somme non versate potranno essere anticipate, nell'esercizio 1924-25, dallo Stato, che se ne rivarra', insieme con gli interessi al tasso legale, sulle somme che dovranno essere iscritte d'ufficio nei bilanci delle Amministrazioni inadempienti.
 
@@ -32,7 +32,7 @@ Con decreto del Ministro per le finanze sara' provveduto allo stanziamento nel b
 
 ## Art. 3.
 
-Gli stalloni e i beni mobili esistenti nei singoli depositi al 1° luglio 1924 saranno trasferiti ai Consorzi costituiti a norma dell'[art. 16 del R. decreto 6 settembre 1923, n. 2125](../Regi%20decreti/Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), e i Consorzi medesimi saranno responsabili della razionale conservazione degli stalloni e dei beni stessi, che dovranno essere sempre mantenuti in piena efficienza. 
+Gli stalloni e i beni mobili esistenti nei singoli depositi al 1° luglio 1924 saranno trasferiti ai Consorzi costituiti a norma dell'[art. 16 del R. decreto 6 settembre 1923, n. 2125](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), e i Consorzi medesimi saranno responsabili della razionale conservazione degli stalloni e dei beni stessi, che dovranno essere sempre mantenuti in piena efficienza. 
  
  Questo decreto sara' presentato al Parlamento per essere convertito in legge. 
  

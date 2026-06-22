@@ -24,7 +24,7 @@ S.;
 
 Visto il [R. decreto-legge n. 730 in data 6 giugno 1920](Relativo%20al%20trattamento%20economico%20degli%20ufficiali%20di%20corpi%20militari%20della%20R.%20marina%20eccedenti%20ai%20ruoli%20organici.%20020U0730.md) relativo al trattamento economico degli ufficiali della Regia marina eccedenti ai ruoli organici;
 
-Visto il [R. decreto n. 135 in data 11 gennaio 1923](../Regi%20decreti/Che%20sopprime%20i%20gradi%20di%20sotto-ammiraglio%20e%20di%20brigadiere%20generale%20per%20tutti%20i%20corpi%20militari%20della%20Regia%20marina%20e%20vengono%20stabiliti%20i%20quadri%20organici%20degli%20ufficiali%20del%20servizio%20attivo%20p_0f2678c69cf1.md) relativo alla sistemazione dei quadri organici degli ufficiali della Regia marina del S. A. P. e successive modificazioni;
+Visto il [R. decreto n. 135 in data 11 gennaio 1923](Che%20sopprime%20i%20gradi%20di%20sotto-ammiraglio%20e%20di%20brigadiere%20generale%20per%20tutti%20i%20corpi%20militari%20della%20Regia%20marina%20e%20vengono%20stabiliti%20i%20quadri%20organici%20degli%20ufficiali%20del%20servizio%20attivo%20p_0f2678c69cf1.md) relativo alla sistemazione dei quadri organici degli ufficiali della Regia marina del S. A. P. e successive modificazioni;
 
 Visto il [R. decreto-legge n. 1600 del 4 settembre 1925](Collocamento%20in%20aspettativa%20per%20riduzione%20di%20quadri%20degli%20ufficiali%20del%20Regio%20esercito%20in%20posizione%20ausiliaria%20speciale.%20025U1600.md) relativo alla abolizione della P. A. S. per gli ufficiali del Regio esercito;
 
@@ -34,7 +34,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro ad interim pe
 
 ## Art. 1.
 
-E' abolita la posizione ausiliaria speciale per gli ufficiali dei vari corpi della Regia marina: di cui ai [Regi decreti 22 aprile 1920, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-22;472); [6 giugno 1920, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-06;730); [11 gennaio 1923, n. 135](../Regi%20decreti/Che%20sopprime%20i%20gradi%20di%20sotto-ammiraglio%20e%20di%20brigadiere%20generale%20per%20tutti%20i%20corpi%20militari%20della%20Regia%20marina%20e%20vengono%20stabiliti%20i%20quadri%20organici%20degli%20ufficiali%20del%20servizio%20attivo%20p_0f2678c69cf1.md), e successive modificazioni. 
+E' abolita la posizione ausiliaria speciale per gli ufficiali dei vari corpi della Regia marina: di cui ai [Regi decreti 22 aprile 1920, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-22;472); [6 giugno 1920, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-06;730); [11 gennaio 1923, n. 135](Che%20sopprime%20i%20gradi%20di%20sotto-ammiraglio%20e%20di%20brigadiere%20generale%20per%20tutti%20i%20corpi%20militari%20della%20Regia%20marina%20e%20vengono%20stabiliti%20i%20quadri%20organici%20degli%20ufficiali%20del%20servizio%20attivo%20p_0f2678c69cf1.md), e successive modificazioni. 
  
  Gli ufficiali di cui sopra, attualmente in P. A. S., saranno collocati in aspettativa per riduzione di quadri. 
  

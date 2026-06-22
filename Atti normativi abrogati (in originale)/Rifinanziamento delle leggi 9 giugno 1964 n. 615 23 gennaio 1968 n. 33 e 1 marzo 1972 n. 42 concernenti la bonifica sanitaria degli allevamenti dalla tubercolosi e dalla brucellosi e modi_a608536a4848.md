@@ -47,12 +47,12 @@ A partire dall'entrata in vigore della presente legge, le norme previste dalla [
 
 ## Art. 7.
 
-Il numero 11) del primo comma dell'articolo 1 del regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), e' sostituito dal seguente:
+Il numero 11) del primo comma dell'articolo 1 del regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e' sostituito dal seguente:
  "11) tubercolosi".
 
 ## Art. 8.
 
-L'articolo 102 del regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), e' sostituito dal seguente:
+L'articolo 102 del regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e' sostituito dal seguente:
  "Pervenuta la denuncia di un caso di tubercolosi bovina, il sindaco dispone le indagini cliniche da parte del veterinario comunale, integrate dalle prove allergiche e, se del caso, dalle prove di laboratorio intese a rilevare l'esistenza, la forma e la diffusione della malattia nell'allevamento.
  Nei riguardi dei bovini affetti da tubercolosi il sindaco, in conformita' del disposto dell'articolo 10 del presente regolamento, prescrive i seguenti provvedimenti:
  a) isolamento e sequestro in separato ricovero o almeno in un idoneo posto della stalla comune, sino ad avvenuta macellazione, con divieto di usare abbeveratoi adibiti per gli altri animali;
@@ -66,18 +66,18 @@ L'articolo 102 del regolamento di polizia veterinaria approvato con [decreto del
 
 ## Art. 9.
 
-Il secondo ed il terzo comma dell'articolo 103 del regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), sono sostituiti dal seguente comma: 
+Il secondo ed il terzo comma dell'articolo 103 del regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), sono sostituiti dal seguente comma: 
  "Dalla monta pubblica e privata sono esclusi i tori per i quali l'esito dell'anzidetta prova e' stato positivo. Essi devono essere marcati all'orecchio destro nel modo previsto dal precedente articolo 102, lettera b)".
 
 ## Art. 10.
 
-L'articolo 104 del regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), e' sostituito dal seguente:
+L'articolo 104 del regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e' sostituito dal seguente:
  "Nei casi di tubercolosi degli animali di altre specie si adottano, in quanto applicabili, le misure indicate nel precedente articolo 102.
  I cani, i gatti, le scimmie e gli psittaci riconosciuti affetti da tubercolosi devono, con provvedimento del sindaco, essere soppressi, ed i locali e gli oggetti che possono essere stati contaminati, accuratamente disinfettati".
 
 ## Art. 11.
 
-All'inizio dell'articolo 111 del regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), e' inserito il seguente comma:
+All'inizio dell'articolo 111 del regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e' inserito il seguente comma:
  "La vaccinazione dei bovini di eta' superiore a sei mesi deve essere autorizzata dalle competenti autorita' sanitarie. I bovini vaccinati devono essere contrassegnati secondo le istruzioni all'uopo impartite dal Ministero della sanita'".
 
 ## Art. 12.

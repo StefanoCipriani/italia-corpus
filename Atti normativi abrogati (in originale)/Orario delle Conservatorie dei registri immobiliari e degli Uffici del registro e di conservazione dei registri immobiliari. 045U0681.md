@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Per tutto il periodo di tempo in cui gli uffici finanziari continueranno, in deroga all'[art. 52 del R. decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), ad osservare l'orario giornaliero di sei ore, le conservatorie dei registri immobiliari e gli uffici misti del registro e di conservazione dei registri immobiliari osserveranno lo stesso orario giornaliero di sei ore, rimanendo aperti al pubblico dalle ore 8 alle ore 14 in ciascun giorno feriale e dalle ore 9 alle ore 12 in ogni giorno festivo. 
+Per tutto il periodo di tempo in cui gli uffici finanziari continueranno, in deroga all'[art. 52 del R. decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), ad osservare l'orario giornaliero di sei ore, le conservatorie dei registri immobiliari e gli uffici misti del registro e di conservazione dei registri immobiliari osserveranno lo stesso orario giornaliero di sei ore, rimanendo aperti al pubblico dalle ore 8 alle ore 14 in ciascun giorno feriale e dalle ore 9 alle ore 12 in ogni giorno festivo. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

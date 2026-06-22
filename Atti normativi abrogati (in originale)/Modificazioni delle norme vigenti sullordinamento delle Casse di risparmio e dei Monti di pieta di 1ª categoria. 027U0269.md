@@ -22,7 +22,7 @@ Vista la [legge 17 luglio 1898, n. 311](Che%20modifica%20gli%20articoli%2015%20e
 
 Vista la [legge 4 maggio 1898, n. 169](Concernente%20disposizioni%20sui%20Monti%20di%20Pieta.%20098U0169.md), sull'ordinamento dei Monti di pieta';
 
-Visto il [R. decreto 14 giugno 1923, n. 1396](../Regi%20decreti/Riforme%20alla%20legge%204%20maggio%201898%20sui%20Monti%20di%20Pieta.%20023U1396.md), che modifica la [legge 4 maggio 1898, n. 169](Concernente%20disposizioni%20sui%20Monti%20di%20Pieta.%20098U0169.md), sui Monti di pieta';
+Visto il [R. decreto 14 giugno 1923, n. 1396](Riforme%20alla%20legge%204%20maggio%201898%20sui%20Monti%20di%20Pieta.%20023U1396.md), che modifica la [legge 4 maggio 1898, n. 169](Concernente%20disposizioni%20sui%20Monti%20di%20Pieta.%20098U0169.md), sui Monti di pieta';
 
 Visto il [R. decreto-legge 7 settembre 1926, n. 1511](Provvedimenti%20per%20la%20tutela%20del%20risparmio.%20026U1511.md), portante provvedimenti per la tutela del risparmio;
 
@@ -179,7 +179,7 @@ Fino a che la massa di rispetto non sia giunta e non si mantenga eguale almeno a
  
  Rimane fermo in ogni caso per i Monti di pieta' di 1ª categoria, anche se fusi con Casse di risparmio, il disposto dell'[art. 7, n. 3, della legge 10 dicembre 1925, n. 2277](Protezione%20e%20assistenza%20della%20maternita%20e%20dellinfanzia.%20025U2277.md), sull'Opera nazionale per la protezione della maternita' e dell'infanzia, ai sensi dell'art. 1 del presente decreto. 
  
- L'[art. 17 della legge 15 luglio 1888, n. 5546](Concernente%20il%20riordinamento%20delle%20Casse%20di%20risparmio.%20088U5546.md) (serie 3ª), e le disposizioni contenute nell'[art. 3 del R. decreto 14 giugno 1923, n. 1396](../Regi%20decreti/Riforme%20alla%20legge%204%20maggio%201898%20sui%20Monti%20di%20Pieta.%20023U1396.md), circa la destinazione degli utili dei Monti di pieta' di 1ª categoria, sono abrogate.
+ L'[art. 17 della legge 15 luglio 1888, n. 5546](Concernente%20il%20riordinamento%20delle%20Casse%20di%20risparmio.%20088U5546.md) (serie 3ª), e le disposizioni contenute nell'[art. 3 del R. decreto 14 giugno 1923, n. 1396](Riforme%20alla%20legge%204%20maggio%201898%20sui%20Monti%20di%20Pieta.%20023U1396.md), circa la destinazione degli utili dei Monti di pieta' di 1ª categoria, sono abrogate.
 
 ## Art. 17.
 

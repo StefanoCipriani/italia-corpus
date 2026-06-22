@@ -54,7 +54,7 @@ Al primo referendario o referendario direttore di ufficio, competono tutti i pot
 
 ## Art. 7.
 
-Per quanto non previsto nel presente decreto si applicano le norme del testo unico delle leggi sull'ordinamento della Corte dei conti, approvato con [R. decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), e le altre disposizioni relative alla Corte medesima.
+Per quanto non previsto nel presente decreto si applicano le norme del testo unico delle leggi sull'ordinamento della Corte dei conti, approvato con [R. decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), e le altre disposizioni relative alla Corte medesima.
 
 ## Art. 8.
 

@@ -18,7 +18,7 @@ Visto il [decreto luogotenenziale 18 novembre 1917, n. 1897](https://www.normatt
 
 Visto il [decreto luogotenenziale 11 agosto 1918, n. 1179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-11;1179), che erigeva il Commissariato anzidetto in organo autonomo di amministrazione centrale attiva per l'assistenza dei profughi di guerra e la tutela degli interessi collettivi delle provincie invase dal nemico;
 
-Visto il [R. decreto 19 gennaio 1919, n. 41](../Regi%20decreti/Col%20quale%20per%20la%20durata%20della%20guerra%20e%20fino%20ad%20un%20anno%20dopo%20la%20pubblicazione%20della%20pace%20e%20istituito%20il%20Ministero%20per%20le%20terre%20liberate%20dal%20nemico.%20019U0041.md), che istituiva fino ad un anno dopo la pubblicazione della pace il Ministero delle terre liberate e sopprimeva il detto Alto Commissario;
+Visto il [R. decreto 19 gennaio 1919, n. 41](Col%20quale%20per%20la%20durata%20della%20guerra%20e%20fino%20ad%20un%20anno%20dopo%20la%20pubblicazione%20della%20pace%20e%20istituito%20il%20Ministero%20per%20le%20terre%20liberate%20dal%20nemico.%20019U0041.md), che istituiva fino ad un anno dopo la pubblicazione della pace il Ministero delle terre liberate e sopprimeva il detto Alto Commissario;
 
 Visto l'art. 18 della legge 19 gennaio 1939, 129;
 

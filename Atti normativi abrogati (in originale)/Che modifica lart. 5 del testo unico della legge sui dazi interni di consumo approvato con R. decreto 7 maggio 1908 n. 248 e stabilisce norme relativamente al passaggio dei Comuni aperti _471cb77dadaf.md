@@ -26,7 +26,7 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-L'art. 5 del testo unico della legge sui dazi di consumo, approvato con [R. decreto 7 maggio 1908, numero 248](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sui%20dazi%20interni%20di%20consumo.%20008U0248.md), e' sostituito dal seguente: 
+L'art. 5 del testo unico della legge sui dazi di consumo, approvato con [R. decreto 7 maggio 1908, numero 248](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sui%20dazi%20interni%20di%20consumo.%20008U0248.md), e' sostituito dal seguente: 
  
  I Comuni delle prime tre classi, attualmente aperti, e, dopo un periodo non inferiore a tre anni dall'avvenuto passaggio ad aperti, quelli che diventino tali a sensi dell'articolo precedente, possono far passaggio alla categoria dei Comuni chiusi, quando eccedano il limite legale della sovrimposta ai tributi diretti fondiari. 
  

@@ -18,7 +18,7 @@ La sopratassa da applicarsi sulle corrispondenze di ogni genere insufficientemen
 
 ## Art. 3.
 
-Le stampe contenenti corrispondenza abusiva non hanno corso, ferma l'applicazione dell'art. 35 del testo unico delle leggi postali approvato col [R. decreto 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md).
+Le stampe contenenti corrispondenza abusiva non hanno corso, ferma l'applicazione dell'art. 35 del testo unico delle leggi postali approvato col [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md).
 
 ## Art. 4.
 

@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto-legge 20 maggio 1924, n. 834](Compensi%20ai%20membri%20di%20Commissioni%20esaminatrici%20dipendenti%20dal%20Ministero%20della%20pubblica%20istruzione.%20024U0834.md).
 
-convertito nella [legge 25 giugno 1925, n. 1167](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2020%20maggio%201924%20n.%20834%20relativo%20ai%20compensi%20ai%20membri%20di%20Commissioni%20esaminatrici%20dipendenti%20dal%20Ministero%20della%20pubblica%20istruzione.%20025U1167.md);
+convertito nella [legge 25 giugno 1925, n. 1167](Conversione%20in%20legge%20del%20R.%20decreto%2020%20maggio%201924%20n.%20834%20relativo%20ai%20compensi%20ai%20membri%20di%20Commissioni%20esaminatrici%20dipendenti%20dal%20Ministero%20della%20pubblica%20istruzione.%20025U1167.md);
 
 Visto il decreto-legge luogotenenziale 25 giugno 1944.
 

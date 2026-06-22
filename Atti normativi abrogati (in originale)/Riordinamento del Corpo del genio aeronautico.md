@@ -51,7 +51,7 @@ Per la cessazione dal servizio permanente degli ufficiali del ruolo chimici e de
 ## Art. 4.
 
 Gli ufficiali in servizio permanente effettivo del ruolo ingegneri sono reclutati:
- a) mediante corsi regolari dell'Accademia aeronautica, ai quali possono essere ammessi i giovani che siano in possesso di titolo di studio valido per l'iscrizione ai corsi di laurea in ingegneria e degli altri requisiti prescritti dal [regio decreto 25 marzo 1941, numero 472](../Regi%20decreti/Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), sull'ordinamento dell'Accademia aeronautica, ad eccezione di quello relativo all'attitudine psicofisiologica necessaria per esercitare la navigazione aerea in qualita' di pilota di aeroplano;
+ a) mediante corsi regolari dell'Accademia aeronautica, ai quali possono essere ammessi i giovani che siano in possesso di titolo di studio valido per l'iscrizione ai corsi di laurea in ingegneria e degli altri requisiti prescritti dal [regio decreto 25 marzo 1941, numero 472](Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), sull'ordinamento dell'Accademia aeronautica, ad eccezione di quello relativo all'attitudine psicofisiologica necessaria per esercitare la navigazione aerea in qualita' di pilota di aeroplano;
  b) mediante concorso per titoli ed esami, tra i cittadini italiani che siano in possesso di laurea in ingegneria o in architettura e che non abbiano superato alla data del bando l'eta' di trent'anni. Il bando di concorso stabilisce la ripartizione, tra le varie specialita', dei posti messi a concorso e indica le lauree richieste per le varie specialita'.
 
 ## Art. 5.
@@ -62,7 +62,7 @@ In caso di insuccesso, subentrano altri studenti nell'ordine della graduatoria d
 
 ## Art. 6.
 
-Salvo il disposto dei successivi articoli 7 e 8, ai giovani reclutati ai sensi della, lettera a) dell'articolo 4 e dell'articolo 5 si applicano le norme del [regio decreto 25 marzo 1941, n. 472](../Regi%20decreti/Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), e successive modificazioni, ad eccezione di quelle attinenti al conseguimento del brevetto di pilota d'aeroplano e di pilota militare. Si applicano, altresi', le disposizioni del [decreto legislativo 7 giugno 1945, n. 568](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1945-06-07;568), recante norme per la validita' degli studi compiuti presso l'Accademia aeronautica ai fini del conseguimento della laurea in ingegneria.
+Salvo il disposto dei successivi articoli 7 e 8, ai giovani reclutati ai sensi della, lettera a) dell'articolo 4 e dell'articolo 5 si applicano le norme del [regio decreto 25 marzo 1941, n. 472](Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), e successive modificazioni, ad eccezione di quelle attinenti al conseguimento del brevetto di pilota d'aeroplano e di pilota militare. Si applicano, altresi', le disposizioni del [decreto legislativo 7 giugno 1945, n. 568](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1945-06-07;568), recante norme per la validita' degli studi compiuti presso l'Accademia aeronautica ai fini del conseguimento della laurea in ingegneria.
 
 ## Art. 7.
 
@@ -158,7 +158,7 @@ Fino a tre anni dalla data di entrata in vigore della presente legge, il Ministr
 ### Art. 21.
 
 Nel limite dei posti di cui all'articolo precedente e nel periodo di tempo ivi indicato, il Ministro per la difesa ha altresi' facolta' di bandire concorsi straordinari per titoli fra, gli studenti universitari che abbiano superato tutti gli esami del biennio propedeutico di ingegneria.
- Per essere ammessi ai concorsi, i candidati debbono non aver superato l'eta' di ventiquattro anni alla, data del 31 ottobre dell'anno in cui viene bandito il concorso ed essere in possesso degli altri requisiti prescritti dal [regio decreto 25 marzo 1941, numero 472](../Regi%20decreti/Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), ad eccezione di quello relativo all'attitudine psicofisiologica necessaria per esercitare la navigazione aerea in qualita' di piloti d'aeroplano.
+ Per essere ammessi ai concorsi, i candidati debbono non aver superato l'eta' di ventiquattro anni alla, data del 31 ottobre dell'anno in cui viene bandito il concorso ed essere in possesso degli altri requisiti prescritti dal [regio decreto 25 marzo 1941, numero 472](Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), ad eccezione di quello relativo all'attitudine psicofisiologica necessaria per esercitare la navigazione aerea in qualita' di piloti d'aeroplano.
  I vincitori del concorso sono nominati, dopo un breve corso militare presso l'Accademia aeronautica, aspiranti ufficiali nel ruolo ingegneri. Si applicano ad essi le disposizioni dell'articolo 7, primo comma, e degli articoli 8 e 9.
 
 ### Art. 22.

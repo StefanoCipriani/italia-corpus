@@ -66,7 +66,7 @@ Gli accantonamenti sui redditi di detto anno, deliberati ai sensi dell'[art. 3 d
 
 ## Art. 9.
 
-Sono abrogati l'[art. 11 del regio decreto legislativo 27 maggio 1946, n. 436](../Regi%20decreti%20legislativi/Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), e gli articoli 1, secondo comma, e 2 della [legge 1 aprile 1949, n. 94](Trasferimento%20a%20capitale%20dei%20saldi%20attivi%20delle%20rivalutazioni%20per%20conguaglio%20monetario%20operato%20a%20mente%20del%20decreto%20legislativo%2014%20febbraio%201948%20n.%2049.md).
+Sono abrogati l'[art. 11 del regio decreto legislativo 27 maggio 1946, n. 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), e gli articoli 1, secondo comma, e 2 della [legge 1 aprile 1949, n. 94](Trasferimento%20a%20capitale%20dei%20saldi%20attivi%20delle%20rivalutazioni%20per%20conguaglio%20monetario%20operato%20a%20mente%20del%20decreto%20legislativo%2014%20febbraio%201948%20n.%2049.md).
 
  TABELLA
  Coefficiente

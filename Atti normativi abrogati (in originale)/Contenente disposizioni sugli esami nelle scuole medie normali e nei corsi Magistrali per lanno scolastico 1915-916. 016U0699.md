@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Veduta la [legge 27 giugno 1912, n. 678](Portante%20disposizioni%20per%20gli%20esami%20nelle%20scuole%20elementari%20popolari%20e%20medie.%20012U0678.md), sugli esami nelle scuole elementari popolari e medie;
 
-Veduto il regolamento per gli esami nelle scuole medie e normali in applicazione della legge anzidetta, approvato con [R. decreto 22 giugno 1913, n. 1217](../Regi%20decreti/Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20medie%20e%20normali.%20013U1217.md);
+Veduto il regolamento per gli esami nelle scuole medie e normali in applicazione della legge anzidetta, approvato con [R. decreto 22 giugno 1913, n. 1217](Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20medie%20e%20normali.%20013U1217.md);
 
 Veduti i RR. decreti 20 maggio 1915, n. 715 e 24 maggio 1915, n. 803;
 
@@ -58,7 +58,7 @@ I candidati provenienti da scuola privata o paterna potranno sostenere nelle due
 
 ## Art. 5.
 
-Tutte le altre disposizioni della [legge 27 giugno 1912, n. 678](Portante%20disposizioni%20per%20gli%20esami%20nelle%20scuole%20elementari%20popolari%20e%20medie.%20012U0678.md), e del regolamento approvato col [R. decreto 22 giugno 1913, n. 1217](../Regi%20decreti/Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20medie%20e%20normali.%20013U1217.md), in materia di esami, per le quali non sia qui stabilita alcuna deroga, dovranno essere osservate negli esami estivi ed autunnali del corrente anno scolastico 1915-916, salvo che gravi motivi di ordine politico o militare richiedano di derogare alle disposizioni degli articoli 2, 8, 9, 30, 35 del citato [regolamento 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1217).
+Tutte le altre disposizioni della [legge 27 giugno 1912, n. 678](Portante%20disposizioni%20per%20gli%20esami%20nelle%20scuole%20elementari%20popolari%20e%20medie.%20012U0678.md), e del regolamento approvato col [R. decreto 22 giugno 1913, n. 1217](Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20medie%20e%20normali.%20013U1217.md), in materia di esami, per le quali non sia qui stabilita alcuna deroga, dovranno essere osservate negli esami estivi ed autunnali del corrente anno scolastico 1915-916, salvo che gravi motivi di ordine politico o militare richiedano di derogare alle disposizioni degli articoli 2, 8, 9, 30, 35 del citato [regolamento 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1217).
 
 ## Art. 6.
 

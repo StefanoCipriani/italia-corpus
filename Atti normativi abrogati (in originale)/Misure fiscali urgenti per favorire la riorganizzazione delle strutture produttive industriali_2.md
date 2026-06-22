@@ -25,7 +25,7 @@ E M A N A il seguente decreto:
 1.
 
 Per i conferimenti, in societa' esistenti o da costituire, di aziende, di complessi aziendali relativi a singoli rami dell'impresa e di altri beni materiali o immateriali ammortizzabili nonche' di partecipazioni azionarie e non azionarie posti in essere da societa' esistenti alla data di entrata in vigore del presente decreto, entro il 31 dicembre 1990, il 75 per cento della differenza tra il valore delle azioni o quote ricevute e l'ultimo valore dei beni conferiti riconosciuto ai fini delle imposte sui redditi non concorre a formare il reddito imponibile delle societa' conferenti, a condizione che sia iscritto in bilancio e distintamente indicato in apposito fondo o in apposito allegato, fino a quando non sia realizzato, distribuito ai soci, portato a capitale o a copertura di perdite di esercizio.
-L'ammontare residuo concorre a formare il reddito con le modalita' previste dal comma 4 dell'articolo 54 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
+L'ammontare residuo concorre a formare il reddito con le modalita' previste dal comma 4 dell'articolo 54 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
 
 2.
 

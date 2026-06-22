@@ -12,13 +12,13 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
 
-Visto il [regio decreto 31 agosto 1933, n. 2005](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20industriale%20Teofilo%20Patini%20di%20Aquila%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2005.md), concernente la trasformazione della Scuola Industriale governativa di Aquila in Scuola tecnica industriale e la trasformazione altresi' del Laboratorio Scuola annesso in Scuola professionale femminile governativa;
+Visto il [regio decreto 31 agosto 1933, n. 2005](Trasformazione%20della%20Regia%20scuola%20industriale%20Teofilo%20Patini%20di%20Aquila%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2005.md), concernente la trasformazione della Scuola Industriale governativa di Aquila in Scuola tecnica industriale e la trasformazione altresi' del Laboratorio Scuola annesso in Scuola professionale femminile governativa;
 
 Visto il [regio decreto-legge 21 settembre 1938, n. 2038](Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md), che istituisce, tra l'altro, un Istituto tecnico industriale a indirizzo minerario governativo in Aquila;
 
 Visto il decreto Ministeriale 14 giugno 1940, registrato alla Corte dei conti il 26 settembre 1940 riguardante la tabella organica di detto Istituto in applicazione del regio decreto anzidetto;
 
-Visto il [regio decreto 21 giugno 1942, n. 970](../Regi%20decreti/Istituzione%20regificazione%20e%20soppressione%20di%20Regi%20istituti%20e%20Regie%20scuole%20di%20istruzione%20tecnica.%20042U0970.md), che sopprime, tra l'altro, la Scuola professionale femminile gia' aggregata alla Scuola tecnica industriale di Aquila;
+Visto il [regio decreto 21 giugno 1942, n. 970](Istituzione%20regificazione%20e%20soppressione%20di%20Regi%20istituti%20e%20Regie%20scuole%20di%20istruzione%20tecnica.%20042U0970.md), che sopprime, tra l'altro, la Scuola professionale femminile gia' aggregata alla Scuola tecnica industriale di Aquila;
 
 Vista la richiesta dell'istituto tecnico industriale governativo di Aquila relativa alla istituzione delle sezioni meccanici-elettricisti ed edili, in sostituzione della sezione minerari, ed alla annessione della Scuola industriale sopracitata;
 

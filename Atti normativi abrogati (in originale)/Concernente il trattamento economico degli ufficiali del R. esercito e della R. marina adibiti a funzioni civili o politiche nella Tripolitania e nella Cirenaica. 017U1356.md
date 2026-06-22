@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli ufficiali del R. esercito e della R. marina destinati nella Tripolitania e nella Cirenaica ed adibiti permanentemente a funzioni civili o politiche, sono estese, in quanto siano applicabili ed in quanto riguarda la durata del servizio da prestare in colonia ed il trattamento economico, le disposizioni contenute negli articoli 11, 12, escluso le norme comprese sotto la lettera e), 13 a 19, 22, primo comma ed ultima parte del secondo comma riguardante l'indennita' per residenza disagiata, 23 a 25 e 60 dell'ordinamento militare della Tripolitania e della Cirenaica, approvato col [R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md).
+Agli ufficiali del R. esercito e della R. marina destinati nella Tripolitania e nella Cirenaica ed adibiti permanentemente a funzioni civili o politiche, sono estese, in quanto siano applicabili ed in quanto riguarda la durata del servizio da prestare in colonia ed il trattamento economico, le disposizioni contenute negli articoli 11, 12, escluso le norme comprese sotto la lettera e), 13 a 19, 22, primo comma ed ultima parte del secondo comma riguardante l'indennita' per residenza disagiata, 23 a 25 e 60 dell'ordinamento militare della Tripolitania e della Cirenaica, approvato col [R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md).
 
 ## Art. 2.
 

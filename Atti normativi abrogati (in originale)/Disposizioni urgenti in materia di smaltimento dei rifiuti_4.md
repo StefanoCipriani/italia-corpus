@@ -208,7 +208,7 @@ Le concessioni di cui all'[articolo 8 del decreto del Presidente della Repubblic
 
 2.
 
-Al [primo comma dell'articolo 268 del regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), come sostituito dall'[articolo 21 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), sono aggiunte, in fine, le seguenti parole: "nonche' gli eventuali oneri finanziari del capitale investito".
+Al [primo comma dell'articolo 268 del regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), come sostituito dall'[articolo 21 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), sono aggiunte, in fine, le seguenti parole: "nonche' gli eventuali oneri finanziari del capitale investito".
 
 ## Art. 8.
 
@@ -338,7 +338,7 @@ All'onere di lire 200 miliardi di cui al comma 1 si provvede mediante corrispond
 
 ## Art. 17.
 
-1. In attesa della predisposizione del regolamento per i lavori, le provviste e i servizi da eseguirsi in economia da parte del Ministero dell'ambiente, il Ministero medesimo puo' avvalersi del regolamento della Presidenza del Consiglio dei Ministri, emanato con [decreto del Presidente della Repubblica 5 giugno 1985, n. 359](../Regolamenti%20governativi/Regolamento%20per%20i%20lavori%20le%20provviste%20e%20i%20servizi%20da%20eseguirsi%20in%20economia%20da%20parte%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri.md).
+1. In attesa della predisposizione del regolamento per i lavori, le provviste e i servizi da eseguirsi in economia da parte del Ministero dell'ambiente, il Ministero medesimo puo' avvalersi del regolamento della Presidenza del Consiglio dei Ministri, emanato con [decreto del Presidente della Repubblica 5 giugno 1985, n. 359](../DPR/Regolamento%20per%20i%20lavori%20le%20provviste%20e%20i%20servizi%20da%20eseguirsi%20in%20economia%20da%20parte%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri.md).
 
 ## Art. 18.
 

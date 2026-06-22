@@ -32,7 +32,7 @@ La tassa stabilita dall'[art. 2 del R. decreto-legge 29 dicembre 1926, n. 2191](
 
 ## Art. 2.
 
-E' abrogato il n. 17, lett. n), della tabella A allegata alla legge tributaria sulle concessioni governative approvata con [R. decreto 30 dicembre 1923, n. 3279](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md), relativa alla tassa di concessione governativa per la licenza annuale di caccia con passata con fischio o spauracchio al volo.
+E' abrogato il n. 17, lett. n), della tabella A allegata alla legge tributaria sulle concessioni governative approvata con [R. decreto 30 dicembre 1923, n. 3279](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md), relativa alla tassa di concessione governativa per la licenza annuale di caccia con passata con fischio o spauracchio al volo.
 
 ## Art. 3.
 

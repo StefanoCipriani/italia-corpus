@@ -53,8 +53,8 @@ La Scuola superiore dell'Amministrazione dell'interno, istituita con decreto int
 
 ### Art. 5. — Composizione del consiglio di amministrazione del Ministero dell'interno per gli affari concernenti il personale dell'Amministrazione civile
 
-Ai fini della composizione del consiglio di amministrazione del Ministero dell'interno, per la trattazione degli affari concernenti il personale dell'Amministrazione civile, i rappresentanti del personale di cui alla lettera d) del primo comma dell'art. 146 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni, sono eletti dal personale dell'Amministrazione civile fra gli appartenenti alla stessa Amministrazione. 
- Si applicano le disposizioni di cui alla [legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775) e al [decreto del Presidente della Repubblica 22 luglio 1977, n. 721](../Regolamenti%20governativi/Regolamento%20per%20la%20elezione%20dei%20rappresentanti%20del%20personale%20in%20seno%20ai%20consigli%20di%20amministrazione%20e%20organi%20similari%20ai%20sensi%20dellart.%207%20della%20legge%2028%20ottobre%201970%20n.%20775.md), e successive modificazioni.
+Ai fini della composizione del consiglio di amministrazione del Ministero dell'interno, per la trattazione degli affari concernenti il personale dell'Amministrazione civile, i rappresentanti del personale di cui alla lettera d) del primo comma dell'art. 146 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni, sono eletti dal personale dell'Amministrazione civile fra gli appartenenti alla stessa Amministrazione. 
+ Si applicano le disposizioni di cui alla [legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775) e al [decreto del Presidente della Repubblica 22 luglio 1977, n. 721](../DPR/Regolamento%20per%20la%20elezione%20dei%20rappresentanti%20del%20personale%20in%20seno%20ai%20consigli%20di%20amministrazione%20e%20organi%20similari%20ai%20sensi%20dellart.%207%20della%20legge%2028%20ottobre%201970%20n.%20775.md), e successive modificazioni.
 
 ### Art. 6. — Strutture e mezzi per il funzionamento degli uffici
 
@@ -227,7 +227,7 @@ Il personale addetto ad uffici che svolgono servizi essenziali e' tenuto, in occ
 
 ### Art. 27. — Sanzioni
 
-La trasgressione dell'obbligo di cui all'articolo precedente riveste, in ogni caso, carattere di particolare gravita' e comporta, pertanto, l'applicazione della sanzione disciplinare di cui all'art. 81 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+La trasgressione dell'obbligo di cui all'articolo precedente riveste, in ogni caso, carattere di particolare gravita' e comporta, pertanto, l'applicazione della sanzione disciplinare di cui all'art. 81 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ## DISPOSIZIONI TRANSITORIE E FINALI  Capo I DISPOSIZIONI TRANSITORIE
 
@@ -237,7 +237,7 @@ TITOLO IV
 
 Il personale appartenente ai ruoli della soppressa Amministrazione per le attivita' assistenziali italiane e internazionali ed il personale appartenente ai ruoli ad esaurimento di cui all'[art. 21 della legge 27 maggio 1970, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-27;382#art_21), e' inquadrato, con effetto dal giorno precedente a quello di entrata in vigore del presente decreto, nelle corrispondenti qualifiche dell'Amministrazione civile dell'interno, ove occorra anche in soprannumero.
  I primi dirigenti ed i dirigenti superiori della soppressa Amministrazione per le attivita' assistenziali italiane ed internazionali sono inquadrati tutti in soprannumero, non riassorbibile, nelle corrispondenti qualifiche dirigenziali dell'Amministrazione civile dell'interno.
- Si osserva l'art. 200, ultimo comma, del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ Si osserva l'art. 200, ultimo comma, del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
  Il consiglio di amministrazione, tenuto conto dei compiti effettivamente disimpegnati dagli interessati nel corso dell'ultimo quinquennio, quali risultano dai rapporti informativi annuali e da ogni altro atto o documento del fascicolo personale avente data certa anteriore a quella d'entrata in vigore del presente decreto, procede alla individuazione dei funzionari della carriera direttiva della soppressa Amministrazione per le attivita' assistenziali italiane e internazionali da inquadrare, in base agli specifici requisiti di professionalita' posseduti, nelle qualifiche non dirigenziali di cui al quadro B della tabella I.
 
 ### Art. 29. — Conferimento delle qualifiche dirigenziali al personale proveniente

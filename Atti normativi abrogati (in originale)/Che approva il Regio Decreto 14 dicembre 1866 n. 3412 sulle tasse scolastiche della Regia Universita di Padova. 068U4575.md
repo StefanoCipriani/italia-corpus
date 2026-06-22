@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' approvato il [Regio Decreto 14 dicembre 1866, n. 3412](../Regi%20decreti/Per%20le%20tasse%20scolastiche%20nella%20R.%20Universita%20di%20Padova.%20066U3412.md), sulle tasse scolastiche della Regia Universita' di Padova.
+E' approvato il [Regio Decreto 14 dicembre 1866, n. 3412](Per%20le%20tasse%20scolastiche%20nella%20R.%20Universita%20di%20Padova.%20066U3412.md), sulle tasse scolastiche della Regia Universita' di Padova.
 
 ## Art. 2.
 

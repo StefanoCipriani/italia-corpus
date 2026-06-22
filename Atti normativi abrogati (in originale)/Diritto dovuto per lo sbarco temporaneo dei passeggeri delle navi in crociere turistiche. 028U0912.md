@@ -18,7 +18,7 @@ Vista la [legge 23 luglio 1896, n. 318](Riflettente%20la%20concessione%20di%20co
 
 Vista la [legge 21 dicembre 1905, n. 590](Per%20ladottamento%20del%20sistema%20inglese%20Merchant%20Schipping%20Act%20per%20la%20misurazione%20del%20tonnellaggio%20di%20stazza%20delle%20navi.%20005U0590.md);
 
-Visto il [R. decreto 14 giugno 1923, n. 1397](../Regi%20decreti/Diritto%20di%20faro%20per%20i%20porti%20rade%20e%20spiaggie%20del%20Regno%20e%20della%20colonia%20Eritrea.%20023U1397.md);
+Visto il [R. decreto 14 giugno 1923, n. 1397](Diritto%20di%20faro%20per%20i%20porti%20rade%20e%20spiaggie%20del%20Regno%20e%20della%20colonia%20Eritrea.%20023U1397.md);
 
 Visto il [R. decreto-legge 28 dicembre 1924, n. 2284](Tasse%20di%20ancoraggio%20dovute%20dalle%20navi%20nazionali%20ed%20estere%20che%20approdino%20nei%20porti%20dello%20Stato.%20024U2284.md);
 

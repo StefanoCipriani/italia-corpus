@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e le successive norme esecutive, interpretative ed integrative;
+Veduto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e le successive norme esecutive, interpretative ed integrative;
 
 Veduto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-La disposizione dell'art. 9 del decreto 6 maggio 1923, n. 1054, richiamata dall'art. 94, capoverso, del [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), riguardante lo scrutinio di merito dei professori ordinari dei Regi istituti medi d'istruzione, e' da intendere nel senso che la qualifica di merito distinto non puo' essere attribuita a piu' di un professore per ogni dieci o frazione di dieci professori, che si trovino nelle prescritte condizioni di anzianita'.
+La disposizione dell'art. 9 del decreto 6 maggio 1923, n. 1054, richiamata dall'art. 94, capoverso, del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), riguardante lo scrutinio di merito dei professori ordinari dei Regi istituti medi d'istruzione, e' da intendere nel senso che la qualifica di merito distinto non puo' essere attribuita a piu' di un professore per ogni dieci o frazione di dieci professori, che si trovino nelle prescritte condizioni di anzianita'.
 
 ## Art. 2.
 
@@ -32,17 +32,17 @@ I provveditori agli studi provenienti dall'insegnamento medio possono, su domand
 
 ## Art. 3.
 
-I posti di ispettore superiore nel ruolo dell'Amministrazione centrale della pubblica istruzione (grado 6°), di ispettore centrale delle scuole medie (grado 6°) e di ispettore centrale delle scuole elementari (grado 6°), di cui alle tabelle nn. 28, 36 e 37 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono stabiliti rispettivamente nel numero di 10, 6 e 6. 
+I posti di ispettore superiore nel ruolo dell'Amministrazione centrale della pubblica istruzione (grado 6°), di ispettore centrale delle scuole medie (grado 6°) e di ispettore centrale delle scuole elementari (grado 6°), di cui alle tabelle nn. 28, 36 e 37 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono stabiliti rispettivamente nel numero di 10, 6 e 6. 
  
  I posti di direttore didattico (grado 10°), di cui alla citata tabella n. 37, sono stabiliti nel numero di 1960.
 
 ## Art. 4.
 
-Fermo restando il disposto dell'art. 10, comma 3°, del testo unico delle leggi sull'istruzione elementare, post-elementare e sulle sue opere d'integrazione, approvato col [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), pel conferimento dei posti di ispettore centrale delle scuole elementari possono applicarsi anche le norme di cui all'[art. 4, comma 1°, del R. decreto 31 dicembre 1923, n. 2976](../Regi%20decreti/Disposizioni%20concernenti%20lIspettorato%20centrale%20degli%20istituti%20medi%20di%20istruzione.%20023U2976.md).
+Fermo restando il disposto dell'art. 10, comma 3°, del testo unico delle leggi sull'istruzione elementare, post-elementare e sulle sue opere d'integrazione, approvato col [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), pel conferimento dei posti di ispettore centrale delle scuole elementari possono applicarsi anche le norme di cui all'[art. 4, comma 1°, del R. decreto 31 dicembre 1923, n. 2976](Disposizioni%20concernenti%20lIspettorato%20centrale%20degli%20istituti%20medi%20di%20istruzione.%20023U2976.md).
 
 ## Art. 5.
 
-La tabella n. 30 dell'allegato 11 al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' modificata, per la parte concernente la carriera amministrativa (gruppo A) e quella di ragioneria (gruppo B), in conformita' della tabella annessa al presente decreto.
+La tabella n. 30 dell'allegato 11 al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' modificata, per la parte concernente la carriera amministrativa (gruppo A) e quella di ragioneria (gruppo B), in conformita' della tabella annessa al presente decreto.
 
 ## Art. 6.
 
@@ -50,7 +50,7 @@ Il Ministro per la pubblica istruzione puo' distaccare a prestar servizio presso
 
 ## Art. 7.
 
-Qualora nella prima attuazione del presente decreto ed entro un triennio successivo vengano nominate ai posti di ispettore centrale delle scuole medie o delle scuole elementari persone che prima dell'applicazione del [R. decreto 31 dicembre 1922, n. 1679](../Regi%20decreti/Che%20stabilisce%20le%20nuove%20tabelle%20organiche%20dellAmministrazione%20centrale%20e%20regionale%20del%20Ministero%20della%20pubblica%20istruzione%20e%20del%20personale%20ispettivo%20e%20didattico%20delle%20scuole%20elementari.%20022U1679.md), rivestivano l'uno o l'altro ufficio, saranno computati a loro favore, agli effetti dell'anzianita' nel nuovo grado, gli anni di servizio prestati nell'ufficio di ispettori centrale sia delle scuole medie, sia delle scuole elementari, anteriormente all'applicazione del precitato decreto e con trattamento economico pari a quello dei capi divisione o equiparati dei ruoli delle Amministrazioni centrali, ove abbiano all'atto della nomina grado inferiore al 6°. Per coloro invece che all'atto della nomina gia' appartengano, al grado 6°, ancorche' in ruolo diverso, saranno computati, agli stessi effetti, anche gli anni di servizio prestati nel grado 6° dopo l'applicazione del [R. decreto 31 dicembre 1922, n. 1679](../Regi%20decreti/Che%20stabilisce%20le%20nuove%20tabelle%20organiche%20dellAmministrazione%20centrale%20e%20regionale%20del%20Ministero%20della%20pubblica%20istruzione%20e%20del%20personale%20ispettivo%20e%20didattico%20delle%20scuole%20elementari.%20022U1679.md).
+Qualora nella prima attuazione del presente decreto ed entro un triennio successivo vengano nominate ai posti di ispettore centrale delle scuole medie o delle scuole elementari persone che prima dell'applicazione del [R. decreto 31 dicembre 1922, n. 1679](Che%20stabilisce%20le%20nuove%20tabelle%20organiche%20dellAmministrazione%20centrale%20e%20regionale%20del%20Ministero%20della%20pubblica%20istruzione%20e%20del%20personale%20ispettivo%20e%20didattico%20delle%20scuole%20elementari.%20022U1679.md), rivestivano l'uno o l'altro ufficio, saranno computati a loro favore, agli effetti dell'anzianita' nel nuovo grado, gli anni di servizio prestati nell'ufficio di ispettori centrale sia delle scuole medie, sia delle scuole elementari, anteriormente all'applicazione del precitato decreto e con trattamento economico pari a quello dei capi divisione o equiparati dei ruoli delle Amministrazioni centrali, ove abbiano all'atto della nomina grado inferiore al 6°. Per coloro invece che all'atto della nomina gia' appartengano, al grado 6°, ancorche' in ruolo diverso, saranno computati, agli stessi effetti, anche gli anni di servizio prestati nel grado 6° dopo l'applicazione del [R. decreto 31 dicembre 1922, n. 1679](Che%20stabilisce%20le%20nuove%20tabelle%20organiche%20dellAmministrazione%20centrale%20e%20regionale%20del%20Ministero%20della%20pubblica%20istruzione%20e%20del%20personale%20ispettivo%20e%20didattico%20delle%20scuole%20elementari.%20022U1679.md).
 
 ## Art. 8.
 

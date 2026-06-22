@@ -20,7 +20,7 @@ Nella dimensione, nella filigrana, noi distintivi del bollo e nel colore della s
 
 ## Art. 3.
 
-I fogli di carta da L. 1, 2, 3 e 5 porteranno anche il distintivo della Provincia, istituito col [R. decreto 1° agosto 1910, n. 601](../Regi%20decreti/Concernente%20la%20modifica%20ai%20distintivi%20della%20carta%20filigranata%20col%20bollo%20a%20tassa%20fissa.%20010U0601.md). 
+I fogli di carta da L. 1, 2, 3 e 5 porteranno anche il distintivo della Provincia, istituito col [R. decreto 1° agosto 1910, n. 601](Concernente%20la%20modifica%20ai%20distintivi%20della%20carta%20filigranata%20col%20bollo%20a%20tassa%20fissa.%20010U0601.md). 
  
  In via provvisoria sono anche istituiti dei fogli da L. 5 aventi le caratteristiche di cui al precedente articolo 2, e sforniti del distintivo della Provincia, che dovranno servire per una prima fornitura ai magazzini provinciali.
 

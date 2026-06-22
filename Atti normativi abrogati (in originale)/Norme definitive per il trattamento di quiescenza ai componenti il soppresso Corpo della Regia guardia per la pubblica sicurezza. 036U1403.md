@@ -16,11 +16,11 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
+Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
 
-Visto il [R. decreto 2 ottobre 1919, n. 1790](../Regi%20decreti/Che%20sopprime%20lattuale%20corpo%20delle%20guardie%20di%20citta%20ed%20in%20sua%20vece%20istituisce%20il%20corpo%20della%20R.%20guardia%20per%20la%20pubblica%20sicurezza.%20019U1790.md), col quale venne istituito il Corpo della Regia guardia per la pubblica sicurezza;
+Visto il [R. decreto 2 ottobre 1919, n. 1790](Che%20sopprime%20lattuale%20corpo%20delle%20guardie%20di%20citta%20ed%20in%20sua%20vece%20istituisce%20il%20corpo%20della%20R.%20guardia%20per%20la%20pubblica%20sicurezza.%20019U1790.md), col quale venne istituito il Corpo della Regia guardia per la pubblica sicurezza;
 
-Visto il [R. decreto 31 dicembre 1922, n. 1680](../Regi%20decreti/Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md), col quale venne disposto lo scioglimento del Corpo stesso;
+Visto il [R. decreto 31 dicembre 1922, n. 1680](Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md), col quale venne disposto lo scioglimento del Corpo stesso;
 
 Ritenuta la necessita' assoluta ed urgente di stabilire l'obbligo della presentazione della domanda di pensione da parte degli appartenenti a tale Corpo che ne abbiano diritto;
 
@@ -32,13 +32,13 @@ Sulla proposta del Capo del Governo Primo Ministro, Ministro Segretario di Stato
 
 ## Art. 1.
 
-- Gli appartenenti al soppresso Corpo della Regia guardia per la pubblica sicurezza che, pur trovandosi nelle condizioni previste dagli [articoli 7](../Regi%20decreti/Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md) e [14 del R. decreto 31 dicembre 1922, n. 1680](../Regi%20decreti/Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md), non siano stati collocati a riposo d'autorita', dovranno fare domanda per ottenere la liquidazione della pensione, entro sei mesi dalla data di pubblicazione del presente decreto. 
+- Gli appartenenti al soppresso Corpo della Regia guardia per la pubblica sicurezza che, pur trovandosi nelle condizioni previste dagli [articoli 7](Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md) e [14 del R. decreto 31 dicembre 1922, n. 1680](Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md), non siano stati collocati a riposo d'autorita', dovranno fare domanda per ottenere la liquidazione della pensione, entro sei mesi dalla data di pubblicazione del presente decreto. 
  
  Coloro che presentassero la domanda dopo il termine stabilito dal precedente comma saranno ammessi a godere della pensione soltanto dal primo giorno del mese successivo a quello della domanda stessa.
 
 ## Art. 2.
 
-- Sulle pensioni liquidate a norma del precedente articolo 1 dovra' essere ricuperata, in ogni caso, l'indennita' di congedamento eventualmente corrisposta agli interessati in base agli [articoli 13](../Regi%20decreti/Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md) e [18 del Regio decreto 31 dicembre 1922, n. 1680](../Regi%20decreti/Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md).
+- Sulle pensioni liquidate a norma del precedente articolo 1 dovra' essere ricuperata, in ogni caso, l'indennita' di congedamento eventualmente corrisposta agli interessati in base agli [articoli 13](Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md) e [18 del Regio decreto 31 dicembre 1922, n. 1680](Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md).
 
 ## Art. 3.
 

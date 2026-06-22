@@ -58,11 +58,11 @@ Le ammende, prevedute nei numeri 1, 2 e 3 dell'art. 31 del testo unico sono stab
  
  1) da L. 50 a L. 200, per coloro che espongano in vendita o introducano in commercio pesi, misure e strumenti per pesare e misurare, mancanti del bollo di prima verificazione; 
  
- 2) da L. 25 a L. 100, per coloro che non adempiranno a quanto e' prescritto dall'art. 16 del testo unico o che abbiano omesso di domandare l'iscrizione nello stato degli utenti, a termini del n. 3 dell'art. 19 dello stesso testo unico, e per i contravventori a qualsiasi altra disposizione delle leggi sui pesi e sulle misure ed ai relativi regolamenti, quando non sia preveduta l'applicazione dell'[art. 692 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 2) da L. 25 a L. 100, per coloro che non adempiranno a quanto e' prescritto dall'art. 16 del testo unico o che abbiano omesso di domandare l'iscrizione nello stato degli utenti, a termini del n. 3 dell'art. 19 dello stesso testo unico, e per i contravventori a qualsiasi altra disposizione delle leggi sui pesi e sulle misure ed ai relativi regolamenti, quando non sia preveduta l'applicazione dell'[art. 692 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  3) L. 40, per i notai ed altri pubblici ufficiali che siano incorsi in contravvenzione alle disposizioni degli articoli 9, 10 e 11 del testo unico e per ogni altra persona che sia incorsa nella stessa contravvenzione. 
  
- Resta ferma l'ammenda preveduta nell'[art. 692 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) a carico di coloro che, in pubblico negozio, tengano misure e pesi diversi da quelli stabiliti dalla legge, salvo il disposto del terzo comma dell'art. 1 e del primo comma dell'art. 11 del presente decreto.
+ Resta ferma l'ammenda preveduta nell'[art. 692 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) a carico di coloro che, in pubblico negozio, tengano misure e pesi diversi da quelli stabiliti dalla legge, salvo il disposto del terzo comma dell'art. 1 e del primo comma dell'art. 11 del presente decreto.
 
 ## Art. 5.
 

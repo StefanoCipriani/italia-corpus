@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di apportare ulteriori modifiche al nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), con particolare riferimento alla disciplina della circolazione nei centri abitati, alle caratteristiche dei veicoli ed alla revisione degli stessi;
+Ritenuta la straordinaria necessita' ed urgenza di apportare ulteriori modifiche al nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), con particolare riferimento alla disciplina della circolazione nei centri abitati, alle caratteristiche dei veicoli ed alla revisione degli stessi;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 15 maggio 1996;
 
@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come modificato dal [decreto legislativo 10 settembre 1993, n. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md), sono apportate le seguenti modificazioni:
+Al [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), come modificato dal [decreto legislativo 10 settembre 1993, n. 360](../Decreti%20Legislativi/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 7, comma 10, sono aggiunti i seguenti periodi:
  "Con i provvedimenti di cui al comma 9 i comuni possono altresi' disporre di avvalersi di sistemi telematici a controllo centralizzato o di altre apparecchiature, debitamente omologate, le cui risultanze sono considerate fonti di prova per l'accertamento delle violazioni al divieto di accesso nelle zone a traffico limitato. Le modalita' di utilizzazione di dette apparecchiature sono stabilite con decreto del Ministro dei lavori pubblici, di concerto con il Ministro dell'interno.";

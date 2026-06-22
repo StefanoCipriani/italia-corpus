@@ -16,13 +16,13 @@ Agli articoli della legge sulla leva marittima, in data del 18 agosto 1871, n. 4
  
  1. I condannati: 
  
- a) alla pena dei lavori forzati per applicazione del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune; 
+ a) alla pena dei lavori forzati per applicazione del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune; 
  
- b) alla pena dell'ergastolo ed a quella della casa, di forza per un tempo maggiore di 10 anni, per applicazione del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano. 
+ b) alla pena dell'ergastolo ed a quella della casa, di forza per un tempo maggiore di 10 anni, per applicazione del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano. 
  
  2. I condannati: 
  
- a) alla pena della reclusione o della relegazione come colpevoli dei reati definiti nel libro secondo del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune: 
+ a) alla pena della reclusione o della relegazione come colpevoli dei reati definiti nel libro secondo del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune: 
  
  Titolo I, capi 1 e 2; 
  
@@ -38,7 +38,7 @@ Agli articoli della legge sulla leva marittima, in data del 18 agosto 1871, n. 4
  
  Titolo X, capo 2; 
  
- b) alla pena della casa di forza per un tempo non maggiore di 10 anni; come colpevoli dei reati definiti nel libro secondo del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano: 
+ b) alla pena della casa di forza per un tempo non maggiore di 10 anni; come colpevoli dei reati definiti nel libro secondo del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano: 
  
  Titolo I, capi 1 e 2; 
  
@@ -424,7 +424,7 @@ Agli articoli della legge sulla leva marittima, in data del 18 agosto 1871, n. 4
  
  Qualora siano riconosciuti inabili al servizio militare saranno riformati. 
  
- LXXIII. Qualunque ufficiale pubblico, agente od impiegato del Governo, che sotto qualsiasi pretesto abbia autorizzato od ammesso esenzioni dal servizio di lª o di 2ª categoria, riforme, esclusioni, surrogazioni di fratello e rafferme con premio, in opposizione al disposto della presente legge, ovvero abbia data arbitraria estensione, sia alla durata del servizio, sia alle regole e condizioni della chiamata alle leve marittime o degli arruolamenti volontari, e' punito come reo di abuso di autorita' con le pene portate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle pene maggiori che sono prescritte dallo stesso Codice nel caso di circostanze che aggravino la colpa. 
+ LXXIII. Qualunque ufficiale pubblico, agente od impiegato del Governo, che sotto qualsiasi pretesto abbia autorizzato od ammesso esenzioni dal servizio di lª o di 2ª categoria, riforme, esclusioni, surrogazioni di fratello e rafferme con premio, in opposizione al disposto della presente legge, ovvero abbia data arbitraria estensione, sia alla durata del servizio, sia alle regole e condizioni della chiamata alle leve marittime o degli arruolamenti volontari, e' punito come reo di abuso di autorita' con le pene portate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle pene maggiori che sono prescritte dallo stesso Codice nel caso di circostanze che aggravino la colpa. 
  
  LXXIV. I militari del Corpo Reale equipaggi, gia' assoldati anziani o volontari, o surrogati ordinari, secondo le disposizioni dell'antica legge 28 luglio 1861, sono autorizzati a ritirare dalla Cassa Depositi e Prestiti i rispettivi crediti di cui agli articoli 73, 74, 90 e 91 di detta legge. 
  

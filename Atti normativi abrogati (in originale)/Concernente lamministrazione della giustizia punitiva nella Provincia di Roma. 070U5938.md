@@ -22,7 +22,7 @@ Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Per l'amministrazione della giustizia punitiva, fino all'attuazione del nuovo [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' mantenuto in osservanza il Regolamento sui delitti e sulle pene, del 20 settembre 1832, colle modificazioni seguenti.
+Per l'amministrazione della giustizia punitiva, fino all'attuazione del nuovo [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' mantenuto in osservanza il Regolamento sui delitti e sulle pene, del 20 settembre 1832, colle modificazioni seguenti.
 
 ## Art. 2.
 

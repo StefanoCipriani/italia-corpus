@@ -24,7 +24,7 @@ In apposito capitolo da inscriversi nella parte ordinaria dello stato di previsi
 
 ## Art. 4.
 
-Sono abrogate le disposizioni contenute nell'art. 20, nn. 7 e 8 del testo unico delle leggi sulle tasse di bollo approvato con [R. decreto 4 luglio 1897, n. 414](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20tassa%20di%20bollo%20e%20su%20quelle%20in%20surrogazione%20del%20bollo%20e%20registro.%20097U0414.md), in quanto concernono le tasse di bollo sulle quietanze e ricevute indicate nell'art. 1 della presente legge.
+Sono abrogate le disposizioni contenute nell'art. 20, nn. 7 e 8 del testo unico delle leggi sulle tasse di bollo approvato con [R. decreto 4 luglio 1897, n. 414](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20tassa%20di%20bollo%20e%20su%20quelle%20in%20surrogazione%20del%20bollo%20e%20registro.%20097U0414.md), in quanto concernono le tasse di bollo sulle quietanze e ricevute indicate nell'art. 1 della presente legge.
 
 ## Art. 5.
 

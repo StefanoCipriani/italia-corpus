@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 23 ottobre 1925, n. 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;1917), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
+Visto il [regio decreto-legge 23 ottobre 1925, n. 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;1917), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
-Visto il [regio decreto-legge 4 ottobre 1934, n. 1691](Istituzione%20in%20Torino%20dellIstituto%20elettrotecnico%20nazionale%20Galileo%20Ferraris.%20034U1691.md), convertito nella [legge 11 aprile 1935, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%204%20ottobre%201934%20n.%201691%20concernente%20la%20istituzione%20in%20Torino%20dellIstituto%20elettrotecnico%20nazionale%20Galileo%20Ferraris.%20035U0762.md);
+Visto il [regio decreto-legge 4 ottobre 1934, n. 1691](Istituzione%20in%20Torino%20dellIstituto%20elettrotecnico%20nazionale%20Galileo%20Ferraris.%20034U1691.md), convertito nella [legge 11 aprile 1935, n. 762](Conversione%20in%20legge%20del%20R.%20decreto-legge%204%20ottobre%201934%20n.%201691%20concernente%20la%20istituzione%20in%20Torino%20dellIstituto%20elettrotecnico%20nazionale%20Galileo%20Ferraris.%20035U0762.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le poste e per le telecomunicazioni, di concerto
 
 ## Art. 1.
 
-La misura del diritto fisso sulle licenze speciali di radioaudizioni prevista, dal [3° comma dell'art. 7 del regio decreto-legge 23 ottobre 1925, n. 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;1917#art_7-com3), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), aumentata dall'[articolo 14 del regio decreto legge 4 ottobre 1934, n. 1691](Istituzione%20in%20Torino%20dellIstituto%20elettrotecnico%20nazionale%20Galileo%20Ferraris.%20034U1691.md), convertito nella [legge 11 aprile 1935, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%204%20ottobre%201934%20n.%201691%20concernente%20la%20istituzione%20in%20Torino%20dellIstituto%20elettrotecnico%20nazionale%20Galileo%20Ferraris.%20035U0762.md), viene elevata a lire 20.
+La misura del diritto fisso sulle licenze speciali di radioaudizioni prevista, dal [3° comma dell'art. 7 del regio decreto-legge 23 ottobre 1925, n. 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;1917#art_7-com3), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), aumentata dall'[articolo 14 del regio decreto legge 4 ottobre 1934, n. 1691](Istituzione%20in%20Torino%20dellIstituto%20elettrotecnico%20nazionale%20Galileo%20Ferraris.%20034U1691.md), convertito nella [legge 11 aprile 1935, n. 762](Conversione%20in%20legge%20del%20R.%20decreto-legge%204%20ottobre%201934%20n.%201691%20concernente%20la%20istituzione%20in%20Torino%20dellIstituto%20elettrotecnico%20nazionale%20Galileo%20Ferraris.%20035U0762.md), viene elevata a lire 20.
 
 ## Art. 2.
 

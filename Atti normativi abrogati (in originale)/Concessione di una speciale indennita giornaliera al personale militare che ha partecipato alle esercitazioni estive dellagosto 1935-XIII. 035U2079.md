@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 19 aprile 1907, n. 201](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md), che approva il regolamento per le indennita' eventuali del Regio esercito, e
+Visto il [R. decreto 19 aprile 1907, n. 201](Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md), che approva il regolamento per le indennita' eventuali del Regio esercito, e
 
 successive modificazioni;
 

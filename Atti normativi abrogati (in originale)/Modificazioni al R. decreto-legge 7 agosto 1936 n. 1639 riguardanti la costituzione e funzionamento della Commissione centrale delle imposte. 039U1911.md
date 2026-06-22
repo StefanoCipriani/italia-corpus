@@ -34,7 +34,7 @@ All'art. 32 del R. decreto-legge 7 agosto 1936-XIV, n. 1639, convertito nella le
  
  «Il Ministro per le finanze, di propria iniziativa o Eni proposta del presidente della Commissione, puo' disporre, quando ne riconosca la necessita' la costituzione di altre sezioni. 
  
- «Ciascuna sezione e' composta di un vice-presidente e di quattro membri e nella stessa sezione non possono appartenere, se non temporaneamente a sensi dell'[articolo 15 del R. decreto 8 luglio 1937, n. 1516](../Regi%20decreti/Norme%20relative%20alla%20costituzione%20ed%20al%20funzionamento%20delle%20Commissioni%20amministrative%20per%20le%20imposte%20dirette%20e%20per%20le%20imposte%20indirette%20sugli%20affari.%20037U1516.md), piu' membri della stessa categoria. 
+ «Ciascuna sezione e' composta di un vice-presidente e di quattro membri e nella stessa sezione non possono appartenere, se non temporaneamente a sensi dell'[articolo 15 del R. decreto 8 luglio 1937, n. 1516](Norme%20relative%20alla%20costituzione%20ed%20al%20funzionamento%20delle%20Commissioni%20amministrative%20per%20le%20imposte%20dirette%20e%20per%20le%20imposte%20indirette%20sugli%20affari.%20037U1516.md), piu' membri della stessa categoria. 
  
  «La Commissione centrale viene convocata a sezioni unite per l'esame delle controversie per le quali le Commissioni provinciali, pronunciando in sede di rinvio, non siansi uniformate al principio di diritto affermato dalla Commissione centrale, nonche', per l'esame delle controversie che i presidenti delle sezioni ritengano necessario deferire al giudizio dello sezioni unite. 
  

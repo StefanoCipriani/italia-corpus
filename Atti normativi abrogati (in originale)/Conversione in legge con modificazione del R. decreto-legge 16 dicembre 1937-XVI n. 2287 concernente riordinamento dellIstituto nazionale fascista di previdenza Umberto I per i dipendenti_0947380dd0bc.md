@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  Dopo il 2° comma dell'articolo 2, e' aggiunto il seguente: 
  
- «Per il personale di cui al primo comma del presente articolo cessa l'obbligo di iscrizione alle Casse di malattia, ai sensi del [R. decreto-legge 29 novembre 1925, n. 2146](Estensione%20alle%20nuove%20Provincie%20delle%20leggi%20di%20assicurazione%20sociale.%20025U2146.md), e del relativo regolamento di attuazione approvato con [R. decreto 4 marzo 1926, n. 528](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20novembre%201925%20n.%202146%20concernente%20lestensione%20alle%20nuove%20Provincie%20delle%20leggi%20di%20assicurazioni%20sociali%20per%20la%20parte%20r_c27bf456a0f3.md)». 
+ «Per il personale di cui al primo comma del presente articolo cessa l'obbligo di iscrizione alle Casse di malattia, ai sensi del [R. decreto-legge 29 novembre 1925, n. 2146](Estensione%20alle%20nuove%20Provincie%20delle%20leggi%20di%20assicurazione%20sociale.%20025U2146.md), e del relativo regolamento di attuazione approvato con [R. decreto 4 marzo 1926, n. 528](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20novembre%201925%20n.%202146%20concernente%20lestensione%20alle%20nuove%20Provincie%20delle%20leggi%20di%20assicurazioni%20sociali%20per%20la%20parte%20r_c27bf456a0f3.md)». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

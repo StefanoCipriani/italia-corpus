@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, secondo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Ritenuta la necessita' e l'urgenza di emanare norme per l'ulteriore proroga dei regimi vincolistici delle locazioni di immobili destinati all'esercizio di attivita' professionali, commerciali o artigiane nonche' dei contratti di locazione di immobili adibiti a uso di albergo, pensione o locanda, da ultimo prorogati al 31 dicembre 1968 con [decreto-legge 27 giugno 1967, n. 460](Disciplina%20transitoria%20delle%20locazioni%20di%20immobili%20urbani.md), convertito in legge con la [legge 28 luglio 1967, n. 628](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%201967%20n.%20460%20concernente%20Disciplina%20transitoria%20delle%20locazioni%20di%20immobili%20urbani.md);
+Ritenuta la necessita' e l'urgenza di emanare norme per l'ulteriore proroga dei regimi vincolistici delle locazioni di immobili destinati all'esercizio di attivita' professionali, commerciali o artigiane nonche' dei contratti di locazione di immobili adibiti a uso di albergo, pensione o locanda, da ultimo prorogati al 31 dicembre 1968 con [decreto-legge 27 giugno 1967, n. 460](Disciplina%20transitoria%20delle%20locazioni%20di%20immobili%20urbani.md), convertito in legge con la [legge 28 luglio 1967, n. 628](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%201967%20n.%20460%20concernente%20Disciplina%20transitoria%20delle%20locazioni%20di%20immobili%20urbani.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per la grazia e giustizia, del Ministro per l'indust
 
 ## Art. 1.
 
-Il termine del 31 dicembre 1968 previsto negli [articoli 4, primo comma](Disciplina%20transitoria%20delle%20locazioni%20di%20immobili%20urbani.md), e [6, primo comma, del decreto-legge 27 giugno 1967, n. 460](Disciplina%20transitoria%20delle%20locazioni%20di%20immobili%20urbani.md), convertito in legge con la [legge 28 luglio 1967, n. 628](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%201967%20n.%20460%20concernente%20Disciplina%20transitoria%20delle%20locazioni%20di%20immobili%20urbani.md), e' prorogato al 30 giugno 1969.
+Il termine del 31 dicembre 1968 previsto negli [articoli 4, primo comma](Disciplina%20transitoria%20delle%20locazioni%20di%20immobili%20urbani.md), e [6, primo comma, del decreto-legge 27 giugno 1967, n. 460](Disciplina%20transitoria%20delle%20locazioni%20di%20immobili%20urbani.md), convertito in legge con la [legge 28 luglio 1967, n. 628](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20giugno%201967%20n.%20460%20concernente%20Disciplina%20transitoria%20delle%20locazioni%20di%20immobili%20urbani.md), e' prorogato al 30 giugno 1969.
 
 ## Art. 2.
 

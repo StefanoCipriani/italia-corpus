@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-All'[art. 1 del R. decreto 22 gennaio 1911, n. 78](../Regi%20decreti/Che%20stabilisce%20la%20composizione%20della%20Commissione%20centrale%20dei%20valori%20per%20le%20dogane.%20011U0078.md), modificato dai RR. decreti 18 febbraio 1912, n. 148, e 1° febbraio 1914, n. 153, e' sostituito il seguente: 
+All'[art. 1 del R. decreto 22 gennaio 1911, n. 78](Che%20stabilisce%20la%20composizione%20della%20Commissione%20centrale%20dei%20valori%20per%20le%20dogane.%20011U0078.md), modificato dai RR. decreti 18 febbraio 1912, n. 148, e 1° febbraio 1914, n. 153, e' sostituito il seguente: 
  
 Art. 1. - La Commissione centrale dei valori per le dogane istituita per l'accertamento e la determazione dei valori delle merci adoperati nelle statistiche doganali, esistente presso il Ministero per l'industria, il commercio e il lavoro e' composta nel modo seguente: 
  

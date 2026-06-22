@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 14 settembre 1945, n. 709](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20per%20i%20mutui%20fondiari%20ed%20edilizi%20garantiti%20sopra%20immobili%20danneggiati%20dalla%20guerra.%20045U0709.md);
+Visto il [decreto legislativo luogotenenziale 14 settembre 1945, n. 709](Provvedimenti%20per%20i%20mutui%20fondiari%20ed%20edilizi%20garantiti%20sopra%20immobili%20danneggiati%20dalla%20guerra.%20045U0709.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -24,12 +24,12 @@ Sulla proposta del Ministro per il tesoro, di concerto con i Ministri per la gra
 
 ## Art. 1.
 
-Il [primo comma dell'art. 1 del decreto legislativo luogotenenziale 14 settembre 1945, n. 709](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20per%20i%20mutui%20fondiari%20ed%20edilizi%20garantiti%20sopra%20immobili%20danneggiati%20dalla%20guerra.%20045U0709.md), e' sostituito dal seguente:
+Il [primo comma dell'art. 1 del decreto legislativo luogotenenziale 14 settembre 1945, n. 709](Provvedimenti%20per%20i%20mutui%20fondiari%20ed%20edilizi%20garantiti%20sopra%20immobili%20danneggiati%20dalla%20guerra.%20045U0709.md), e' sostituito dal seguente:
  "Le ipoteche a garanzia dei mutui concessi dagli Istituti di credito fondiario sopra immobili che per fatti di guerra siano stati distrutti o danneggiati in modo da aver subito la diminuzione di almeno un quarto del reddito, garantiscono, con la stessa efficacia del grado ad esse spettante in aggiunta all'importo della iscrizione, tutte le semestralita' in scadenza dalla data della dichiarazione di guerra sino al 15 aprile 1948, ed i relativi interessi di mora".
 
 ## Art. 2.
 
-Le disposizioni del [decreto legislativo luogotenenziale 14 settembre 1945, n. 709](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20per%20i%20mutui%20fondiari%20ed%20edilizi%20garantiti%20sopra%20immobili%20danneggiati%20dalla%20guerra.%20045U0709.md), modificate a' termini dell'articolo precedente, sono estese alle Casse di risparmio e agli Istituti di credito di diritto pubblico.
+Le disposizioni del [decreto legislativo luogotenenziale 14 settembre 1945, n. 709](Provvedimenti%20per%20i%20mutui%20fondiari%20ed%20edilizi%20garantiti%20sopra%20immobili%20danneggiati%20dalla%20guerra.%20045U0709.md), modificate a' termini dell'articolo precedente, sono estese alle Casse di risparmio e agli Istituti di credito di diritto pubblico.
 
 ## Art. 3.
 

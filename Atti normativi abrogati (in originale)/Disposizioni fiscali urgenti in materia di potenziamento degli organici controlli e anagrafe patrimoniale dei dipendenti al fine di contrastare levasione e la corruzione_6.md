@@ -102,7 +102,7 @@ Le informazioni, i documenti e gli elementi acquisiti dallo STAF nel corso delle
 
 4.
 
-Indagini patrimoniali possono essere estese, previa autorizzazione del procuratore della Repubblica del luogo di residenza o di sede, ai prossimi congiunti dei dipendenti dell'Amministrazione finanziaria, nonche' a terzi, persone fisiche o giuridiche, imprese ed enti rispetto ai quali vi siano specifici elementi per ritenere che agiscano come prestanome dei suddetti dipendenti. Per prossimi congiunti si intendono quelli indicati nell'articolo 307, ultimo comma, del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Indagini patrimoniali possono essere estese, previa autorizzazione del procuratore della Repubblica del luogo di residenza o di sede, ai prossimi congiunti dei dipendenti dell'Amministrazione finanziaria, nonche' a terzi, persone fisiche o giuridiche, imprese ed enti rispetto ai quali vi siano specifici elementi per ritenere che agiscano come prestanome dei suddetti dipendenti. Per prossimi congiunti si intendono quelli indicati nell'articolo 307, ultimo comma, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 5.
 
@@ -194,7 +194,7 @@ Alla prova scritta possono essere ammessi soltanto coloro che abbiano superato c
 
 Il [comma 1 dell'articolo 10 della legge 29 ottobre 1991, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358#art_10-com1), e' sostituito dai seguenti:
  " 1. Il personale appartenente alle qualifiche dirigenziali del Ministero delle finanze, escluso quello del Dipartimento delle dogane e delle imposte indirette, e' inquadrato, secondo le modalita' stabilite dall'articolo 12, in un ruolo amministrativo e in un ruolo tecnico, aventi dotazioni organiche il cui numero complessivo non puo' superare le duemilaquattrocentosedici unita', di cui quattro per il livello di funzione B, trentasei per il livello di funzione C, seicentoquattro per il livello di funzione D e millesettecentosettantadue per il livello di funzione E.
- 1-bis. Nella tabella A allegata al [decreto legislativo 26 aprile 1990, n. 105](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Organizzazione%20centrale%20e%20periferica%20dellAmministrazione%20delle%20dogane%20e%20delle%20imposte%20indirette%20e%20ordinamento%20del%20relativo%20personale%20in%20attuazione%20della%20legge%2010%20ottobre%201989%20n.%20349.md), e' aggiunto un posto di funzione di consigliere ministeriale nella qualifica di dirigente generale di livello C.".
+ 1-bis. Nella tabella A allegata al [decreto legislativo 26 aprile 1990, n. 105](../Decreti%20Legislativi/Organizzazione%20centrale%20e%20periferica%20dellAmministrazione%20delle%20dogane%20e%20delle%20imposte%20indirette%20e%20ordinamento%20del%20relativo%20personale%20in%20attuazione%20della%20legge%2010%20ottobre%201989%20n.%20349.md), e' aggiunto un posto di funzione di consigliere ministeriale nella qualifica di dirigente generale di livello C.".
 
 2.
 
@@ -242,7 +242,7 @@ Le disposizioni di cui all'articolo 11, comma 2, del decreto del Ministro delle 
 
 2.
 
-I concessionari possono disporre delle somme giacenti sui conti correnti postali istituiti per il versamento dell'imposta comunale sugli immobili esclusivamente a fronte del contestuale versamento, a favore degli enti destinatari dell'imposta tramite posta giro alla contabilita' speciale aperta presso le competenti tesorerie provinciali dello Stato, per gli enti assoggettati alla tesoreria unica, ovvero ai conti correnti postali intestati ai comuni interessati, delle somme incassate, al netto di quelle indebitamente affluite sui conti stessi e delle commissioni previste dall'[articolo 10, comma 3, del decreto legislativo 30 dicembre 1992, n. 504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+I concessionari possono disporre delle somme giacenti sui conti correnti postali istituiti per il versamento dell'imposta comunale sugli immobili esclusivamente a fronte del contestuale versamento, a favore degli enti destinatari dell'imposta tramite posta giro alla contabilita' speciale aperta presso le competenti tesorerie provinciali dello Stato, per gli enti assoggettati alla tesoreria unica, ovvero ai conti correnti postali intestati ai comuni interessati, delle somme incassate, al netto di quelle indebitamente affluite sui conti stessi e delle commissioni previste dall'[articolo 10, comma 3, del decreto legislativo 30 dicembre 1992, n. 504](../Decreti%20Legislativi/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 3.
 

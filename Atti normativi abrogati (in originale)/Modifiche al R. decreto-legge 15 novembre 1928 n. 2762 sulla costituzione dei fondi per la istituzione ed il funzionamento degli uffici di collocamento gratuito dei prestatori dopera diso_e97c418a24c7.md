@@ -18,7 +18,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Vista la Carta del Lavoro 21 aprile 1927;
 
-Visto il [R. decreto 29 marzo 1928, n. 1003](../Regi%20decreti/Disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U1003.md), sulla disciplina nazionale della domanda e dell'offerta di lavoro;
+Visto il [R. decreto 29 marzo 1928, n. 1003](Disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U1003.md), sulla disciplina nazionale della domanda e dell'offerta di lavoro;
 
 Visto il [R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md), sull'assicurazione obbligatoria contro la disoccupazione involontaria;
 
@@ -33,9 +33,9 @@ Sulla proposta del Ministro Segretario di Stato per le corporazioni, di concerto
 ## Art. 1.
 
 I seguenti articoli del [R. decreto-legge 15 novembre 1928, n. 2762](Costituzione%20di%20fondi%20per%20la%20istituzione%20e%20il%20funzionamento%20degli%20uffici%20per%20il%20collocamento%20gratuito%20dei%20prestatori%20dopera%20disoccupati.%20028U2762.md), convertito nella [legge 24 giugno 1929, n. 1181](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2015%20novembre%201928%20n.%202762%20che%20provvede%20alla%20costituzione%20di%20fondi%20per%20la%20istituzione%20e%20il%20funzionamento%20degli%20Uffici%20per%20il%20coll_69484e34b788.md), sono modificati come segue: 
- Art. 1. - Per provvedere alla spesa necessaria alla istituzione ed al funzionamento degli Uffici per il collocamento gratuito dei prestatori d'opera disoccupati, a norma del [R. decreto 29 marzo 1928, n. 1003](../Regi%20decreti/Disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U1003.md), e' costituito un apposito fondo dell'ammontare massimo di L. 20.000.000, al quale contribuiscono: 
+ Art. 1. - Per provvedere alla spesa necessaria alla istituzione ed al funzionamento degli Uffici per il collocamento gratuito dei prestatori d'opera disoccupati, a norma del [R. decreto 29 marzo 1928, n. 1003](Disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U1003.md), e' costituito un apposito fondo dell'ammontare massimo di L. 20.000.000, al quale contribuiscono: 
 a) la gestione speciale per l'assicurazione obbligatoria contro la disoccupazione, di cui al [R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md), per i tre quarti dell'annuo fabbisogno, fino al massimo di L. 15.000.000; 
-b) il «Fondo speciale delle corporazioni», di cui all'[articolo 26 del R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), per un decimo, fino al massimo di L. 1.000.000; 
+b) il «Fondo speciale delle corporazioni», di cui all'[articolo 26 del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), per un decimo, fino al massimo di L. 1.000.000; 
 c) le Confederazioni nazionali dei datori di lavoro e dei lavoratori interessate, per la rimanenza, fino al massimo di L. 4.000.000, secondo il riparto che sara' determinato dalla Commissione di cui al successivo art. 2, tenuto conto delle attivita' economiche e delle categorie di prestatori d'opera per le quali gli Uffici sono istituiti. 
  Art. 2. - Per l'amministrazione del fondo, di cui all'articolo 1 del presente decreto, e' istituita presso il Ministero delle corporazioni, sotto la presidenza del Ministro o del Sottosegretario di Stato, una Commissione composta: 
  1° del direttore generale dell'assistenza, previdenza e propaganda corporativa; 

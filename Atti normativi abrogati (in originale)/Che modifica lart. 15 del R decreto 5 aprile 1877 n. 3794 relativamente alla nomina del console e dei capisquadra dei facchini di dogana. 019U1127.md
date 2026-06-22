@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-All'[art. 15 del R. decreto 5 aprile 1877, n. 3794](../Regi%20decreti/Col%20quale%20e%20modificato%20il%20regolamento%20dei%20facchini%20di%20dogana.%20077U3794.md) (serie 2ª), relativo alla nomina del console e dei capisquadra dei facchini di dogana e' sostituito il seguente: 
+All'[art. 15 del R. decreto 5 aprile 1877, n. 3794](Col%20quale%20e%20modificato%20il%20regolamento%20dei%20facchini%20di%20dogana.%20077U3794.md) (serie 2ª), relativo alla nomina del console e dei capisquadra dei facchini di dogana e' sostituito il seguente: 
  
  Art. 15. - Spetta ai facchini doganali designare a maggioranza, con regolare votazione fra quelli che appartengono al corpo da almeno cinque anni il console. 
  

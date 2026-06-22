@@ -61,11 +61,11 @@ Il [primo comma dell'art. 37 della legge 1° giugno 1939, n. 1089](Tutela%20dell
  da lire 1.000.001 a lire 6.000.000: quindici per cento; 
  da lire 6.000.001 a lire 21.000.000: venticinque per cento; 
  oltre lire 21.000.000: trenta per cento. 
- Le stesse disposizioni si applicano alle cose di interesse bibliografico di cui agli articoli 128 e 131 del regolamento approvato con [regio decreto 30 gennaio 1913, n. 363](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md)".
+ Le stesse disposizioni si applicano alle cose di interesse bibliografico di cui agli articoli 128 e 131 del regolamento approvato con [regio decreto 30 gennaio 1913, n. 363](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md)".
 
 ## Art. 7.
 
-In quanto compatibili con il presente decreto restano ferme le norme della [legge 1 giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md), e del regolamento approvato con [regio decreto 30 gennaio 1913, n. 363](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md), ed ogni altra disposizione in materia di tutela delle cose di interesse storico ed artistico.
+In quanto compatibili con il presente decreto restano ferme le norme della [legge 1 giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md), e del regolamento approvato con [regio decreto 30 gennaio 1913, n. 363](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md), ed ogni altra disposizione in materia di tutela delle cose di interesse storico ed artistico.
  Continua altresi' ad applicarsi quanto agli stessi fini e' disposto, in materia di vigilanza sugli archivi privati, dal [decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md).
 
 ## Art. 8.

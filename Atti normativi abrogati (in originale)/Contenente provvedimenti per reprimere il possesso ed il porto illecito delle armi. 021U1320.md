@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [testo unico della legge sulla pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [R. decreto 30 giugno 1899, numero 6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-06-30;6144) (Serie 3ª);
+Visto il [testo unico della legge sulla pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [R. decreto 30 giugno 1899, numero 6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-06-30;6144) (Serie 3ª);
 
 Vista la [legge 2 luglio 1908, n. 319](Sulle%20lesioni%20commesse%20con%20armi%20e%20sulle%20contravvenzioni%20per%20porto%20darmi.%20008U0319.md), sulle lesioni commesse con armi o sulle contravvenzioni per porto d'armi;
 
@@ -36,9 +36,9 @@ Le pene stabilite dagli [articoli 2](Sulle%20lesioni%20commesse%20con%20armi%20e
 
 Il mandato di cattura puo' essere spedito contro gli imputati: 
  
- 1° dei reati previsti nell'articolo precedente e negli [articoli 460](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [461](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [462](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [463](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [464](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [468 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 1° dei reati previsti nell'articolo precedente e negli [articoli 460](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [461](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [462](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [463](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [464](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [468 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- 2° dei reati rispettivamente previsti e puniti negli [articoli 11](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), [19](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [20 del testo unico della legge di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 30 giugno 1889, n. 6144](../Regi%20decreti/Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (Serie 3ª); 2, 3 e 4 della [legge 2 luglio 1908, n. 319](Sulle%20lesioni%20commesse%20con%20armi%20e%20sulle%20contravvenzioni%20per%20porto%20darmi.%20008U0319.md); 1, 2, 4, 5 e 6 del [R. decreto 3 agosto 1919, numero 1360](../Regi%20decreti/Concernente%20la%20denunzia%20di%20armi%20munizioni%20e%20di%20materie%20esplodenti%20da%20parte%20dei%20privati%20cittadini%20che%20ne%20siano%20detentori.%20019U1360.md) e [1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-03;1) della [legge 26 dicembre 1920, n. 1819](Relativa%20alle%20contravvenzioni%20per%20porto%20darmi.%20020U1819.md).
+ 2° dei reati rispettivamente previsti e puniti negli [articoli 11](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), [19](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [20 del testo unico della legge di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (Serie 3ª); 2, 3 e 4 della [legge 2 luglio 1908, n. 319](Sulle%20lesioni%20commesse%20con%20armi%20e%20sulle%20contravvenzioni%20per%20porto%20darmi.%20008U0319.md); 1, 2, 4, 5 e 6 del [R. decreto 3 agosto 1919, numero 1360](Concernente%20la%20denunzia%20di%20armi%20munizioni%20e%20di%20materie%20esplodenti%20da%20parte%20dei%20privati%20cittadini%20che%20ne%20siano%20detentori.%20019U1360.md) e [1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-03;1) della [legge 26 dicembre 1920, n. 1819](Relativa%20alle%20contravvenzioni%20per%20porto%20darmi.%20020U1819.md).
 
 ## Art. 3.
 
@@ -50,7 +50,7 @@ Per i reati preveduti negli articoli precedenti si osservano le seguenti norme:
 
 ## Art. 4.
 
-In deroga alla disposizione dell'art. 17, capoverso ultimo del [testo unico della legge di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) su menzionato, il prefetto non puo' concedere la licenza del porto d'arma nel caso in quel capoverso preveduta.
+In deroga alla disposizione dell'art. 17, capoverso ultimo del [testo unico della legge di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) su menzionato, il prefetto non puo' concedere la licenza del porto d'arma nel caso in quel capoverso preveduta.
 
 ## Art. 5.
 

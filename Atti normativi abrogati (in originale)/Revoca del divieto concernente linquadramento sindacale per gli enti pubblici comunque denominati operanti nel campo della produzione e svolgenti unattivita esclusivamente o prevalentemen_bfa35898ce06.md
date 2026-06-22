@@ -10,9 +10,9 @@ vigente: true
 
 ## Art. 1.
 
-Il divieto di far parte di associazioni sindacali, sancito dall'[art. 3 del R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), e' revocato per quanto concerne gli enti pubblici, comunque denominati, i quali operino nel campo della produzione e svolgano un'attivita' economica in regime di concorrenza. 
+Il divieto di far parte di associazioni sindacali, sancito dall'[art. 3 del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), e' revocato per quanto concerne gli enti pubblici, comunque denominati, i quali operino nel campo della produzione e svolgano un'attivita' economica in regime di concorrenza. 
  
- Con Regi decreti da emanarsi su proposta del Ministro per le corporazioni, di concerto col Ministro per le finanze e con gli altri Ministri interessati, sentiti il Comitato corporativo centrale ed il Consiglio dei Ministri, puo' essere revocato il divieto di far parte di associazioni sindacali, sancito dall'[art. 3 del R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), per gli altri enti pubblici, comunque denominati, purche' operanti nel campo della produzione e svolgenti un'attivita' esclusivamente o prevalentemente economica.
+ Con Regi decreti da emanarsi su proposta del Ministro per le corporazioni, di concerto col Ministro per le finanze e con gli altri Ministri interessati, sentiti il Comitato corporativo centrale ed il Consiglio dei Ministri, puo' essere revocato il divieto di far parte di associazioni sindacali, sancito dall'[art. 3 del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), per gli altri enti pubblici, comunque denominati, purche' operanti nel campo della produzione e svolgenti un'attivita' esclusivamente o prevalentemente economica.
 
 ## Art. 2.
 

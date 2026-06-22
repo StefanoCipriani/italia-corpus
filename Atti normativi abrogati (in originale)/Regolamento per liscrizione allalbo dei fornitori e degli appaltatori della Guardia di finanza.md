@@ -39,7 +39,7 @@ Per le imprese edili l'iscrizione all'albo nazionale dei costruttori e' valida a
  Il testo delle note qui pubblicato e' stato redatto ai 
  sensi dell'art. 10, comma 3, del testo unico approvato con 
  [decreto del Presidente della Repubblica 28 dicembre 1985, 
- n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
+ n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
  disposizioni di legge alle quali e' operato il rinvio. 
  Restano invariati il valore e l'efficacia degli atti 
  legislativi qui trascritti.
@@ -117,7 +117,7 @@ Le imprese italiane che desiderano ottenere l'iscrizione all'Albo dovranno prese
                         c)
                             certificato di iscrizione nel registro prefettizio (cooper- ative) o nello schedario del Ministero del lavoro e della previdenza sociale, ove trattasi di consorzio di cooperative (esclusi i consorzi agrari);
                         d)
-                            licenza del Ministero dell'interno, a mente dell'[art. 28 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) - [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) - per le imprese che chiedono l'iscrizione per la fornitura o l'esecuzione di lavori riguardanti i manufatti esplosivi, le armi, le munizioni, le uniformi militari od altri oggetti destinati all'armamento ed all'equipaggiamento delle Forze armate. Le categorie ed i gruppi, per le quali le imprese devono essere in possesso della licenza di Pubblica Sicurezza, sono contrassegnate con due asterischi nell'allegato 1;
+                            licenza del Ministero dell'interno, a mente dell'[art. 28 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) - [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) - per le imprese che chiedono l'iscrizione per la fornitura o l'esecuzione di lavori riguardanti i manufatti esplosivi, le armi, le munizioni, le uniformi militari od altri oggetti destinati all'armamento ed all'equipaggiamento delle Forze armate. Le categorie ed i gruppi, per le quali le imprese devono essere in possesso della licenza di Pubblica Sicurezza, sono contrassegnate con due asterischi nell'allegato 1;
                         e)
                             certificato del R.I.Na. attestante, per le imprese che richiedono l'iscrizione per la fornitura o l'esecuzione di lavori su unita' navali in vetroresina o in acciaio, rispettivamente: 
  l'abilitazione a costruire imbarcazioni omologate e conformi ai regolamenti; 
@@ -151,9 +151,9 @@ Le imprese appartenenti agli altri Paesi della CEE nonche' a Paesi terzi, sottos
  4. tutta la documentazione dovra' essere tradotta in lingua italiana e vidimata dalla locale Autorita' Consolare italiana, salvo eventuali accordi bilaterali con il Paese originario. 
  5. L'Amministrazione si riserva la facolta' di eseguire ogni accertamento ritenuto utile.
 
-Nota all'[art. 3](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md):
- - L'[art. 28 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R.D. n. 773/1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;773), e' cosi' formulato:
- "Art. 28. - Oltre i casi preveduti dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono proibite la raccolta e la detenzione, senza licenza del ministro per l'interno, di armi da guerra e di armi ad esse analoghe, nazionali o straniere, o di parti di esse, di munizioni, di uniformi militari o di altri oggetti destinati all'armamento e all'equipaggiamento di forze armate nazionali o straniere.
+Nota all'[art. 3](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md):
+ - L'[art. 28 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R.D. n. 773/1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;773), e' cosi' formulato:
+ "Art. 28. - Oltre i casi preveduti dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono proibite la raccolta e la detenzione, senza licenza del ministro per l'interno, di armi da guerra e di armi ad esse analoghe, nazionali o straniere, o di parti di esse, di munizioni, di uniformi militari o di altri oggetti destinati all'armamento e all'equipaggiamento di forze armate nazionali o straniere.
  La licenza e', altresi', necessaria per la fabbricazione, l'importazione e l'esportazione delle armi predette o di parti di esse, di munizioni, di uniformi militari o di altri oggetti destinati all'armamento o all'equipaggiamento di forze armate.
  Per il trasporto delle armi stesse nell'interno dello Stato e' necessario darne avviso al prefetto.
  Il contravventore e' punito, qualora il fatto non costituisca un piu' grave reato, con l'arresto da un mese a tre anni e con l'ammenda da lire duecentomila a ottocentomila"

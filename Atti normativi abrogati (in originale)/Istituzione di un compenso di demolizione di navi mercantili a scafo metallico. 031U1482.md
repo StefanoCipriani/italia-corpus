@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-Per la demolizione, in Italia, di navi mercantili a scafo metallico abilitate al solo trasporto di merci a norma dell'art. 5, comma 1°, lettera a), del regolamento per la sicurezza delle navi mercantili e della vita umana in mare, approvato con [R. decreto 10 agosto 1928, n. 2752](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20delle%20navi%20mercantili%20e%20della%20vita%20umana%20in%20mare.%20028U2752.md), e' concesso un compenso alle condizioni e nella misura indicate nel seguente articolo.
+Per la demolizione, in Italia, di navi mercantili a scafo metallico abilitate al solo trasporto di merci a norma dell'art. 5, comma 1°, lettera a), del regolamento per la sicurezza delle navi mercantili e della vita umana in mare, approvato con [R. decreto 10 agosto 1928, n. 2752](Approvazione%20del%20regolamento%20per%20la%20sicurezza%20delle%20navi%20mercantili%20e%20della%20vita%20umana%20in%20mare.%20028U2752.md), e' concesso un compenso alle condizioni e nella misura indicate nel seguente articolo.
 
 ## Art. 2.
 

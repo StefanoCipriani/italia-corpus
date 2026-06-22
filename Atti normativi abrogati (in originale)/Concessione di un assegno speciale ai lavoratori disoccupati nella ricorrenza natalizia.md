@@ -20,7 +20,7 @@ Ai lavoratori assicurati obbligatoriamente contro la disoccupazione involontaria
 
 ## Art. 2.
 
-Ai disoccupati, che nel periodo tra il 18 e il 24 dicembre 1948 si trovino in godimento del sussidio straordinario di disoccupazione di cui al [regio decreto legislativo 20 maggio 1946, n. 373](../Regi%20decreti%20legislativi/Aumenta%20degli%20assegni%20integrativi%20della%20indennita%20di%20disoccupazione%20concessione%20di%20sussidi%20straordinari%20ai%20lavoratori%20involontariamente%20disoccupati%20non%20aventi%20diritto%20alla%20indennita%20predetta.md), anche per un solo giorno, e' corrisposto, unitamente al sussidio, uno speciale assegno pari a sei giorni del sussidio medesimo, nella misura prevista dal [decreto legislativo 12 agosto 1947, n. 870](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-08-12;870), con le eventuali maggiorazioni per i figli, esclusa l'indennita' di caropane.
+Ai disoccupati, che nel periodo tra il 18 e il 24 dicembre 1948 si trovino in godimento del sussidio straordinario di disoccupazione di cui al [regio decreto legislativo 20 maggio 1946, n. 373](Aumenta%20degli%20assegni%20integrativi%20della%20indennita%20di%20disoccupazione%20concessione%20di%20sussidi%20straordinari%20ai%20lavoratori%20involontariamente%20disoccupati%20non%20aventi%20diritto%20alla%20indennita%20predetta.md), anche per un solo giorno, e' corrisposto, unitamente al sussidio, uno speciale assegno pari a sei giorni del sussidio medesimo, nella misura prevista dal [decreto legislativo 12 agosto 1947, n. 870](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-08-12;870), con le eventuali maggiorazioni per i figli, esclusa l'indennita' di caropane.
 
 ## Art. 3.
 

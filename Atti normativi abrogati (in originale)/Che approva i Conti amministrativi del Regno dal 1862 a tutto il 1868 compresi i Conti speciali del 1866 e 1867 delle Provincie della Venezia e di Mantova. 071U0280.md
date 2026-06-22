@@ -192,7 +192,7 @@ Le spese ordinarie e straordinarie invece,
  1868, conformemente al disposto 
  dell'[articolo 55 del Regio 
  Decreto in data 3 novembre 1861, 
- n. 302](../Regi%20decreti/Sulla%20Contabilita%20generale%20dello%20Stato.%20061U0302.md), e dall'articolo 597 del 
+ n. 302](Sulla%20Contabilita%20generale%20dello%20Stato.%20061U0302.md), e dall'articolo 597 del 
  Regolamento sulla contabilita' 
  generale dello Stato del 13 
  dicembre 1863, modificato con 
@@ -219,7 +219,7 @@ a sole . . . . . . . . . . . . . . . . . . . . . L. 280,462,003.49
 
 ### Art. 14.
 
-I mandati spediti e non soddisfatti prima della chiusura dell'esercizio 1867, compresi fra le somme di cui all'articolo 11, saranno portati a credito nel Conto speciale del Tesoro all'epoca in cui se ne fara' il pagamento, giusta il disposto dell'[art. 52 del Regio Decreto 3 novembre 1861, n. 302](../Regi%20decreti/Sulla%20Contabilita%20generale%20dello%20Stato.%20061U0302.md).
+I mandati spediti e non soddisfatti prima della chiusura dell'esercizio 1867, compresi fra le somme di cui all'articolo 11, saranno portati a credito nel Conto speciale del Tesoro all'epoca in cui se ne fara' il pagamento, giusta il disposto dell'[art. 52 del Regio Decreto 3 novembre 1861, n. 302](Sulla%20Contabilita%20generale%20dello%20Stato.%20061U0302.md).
 
 ### Art. 15.
 
@@ -579,7 +579,7 @@ Le somme rimaste disponibili il 31 dicembre
  trasportate il 1° gennaio successivo ai 
  corrispondenti capitoli dell'esercizio 1869, 
  giusta il disposto dell'[art. 56 del Regio 
- Decreto 3 novembre 1861, n. 302](../Regi%20decreti/Sulla%20Contabilita%20generale%20dello%20Stato.%20061U0302.md) e dell'art. 600 
+ Decreto 3 novembre 1861, n. 302](Sulla%20Contabilita%20generale%20dello%20Stato.%20061U0302.md) e dell'art. 600 
  del Regolamento sulla contabilita' generale 
  dello Stato del 25 novembre 1866 ascendono a . » 25,710,725.40 
  -------------
@@ -600,7 +600,7 @@ Nella suddetta somma sono comprese le lire 1,619,328.25, importo di economie gia
 
 ### Art. 50.
 
-I mandati spediti e non soddisfatti prima della chiusura dell'esercizio 1868, compresi fra le somme di cui all'articolo 44, saranno portati a credito del Conto speciale del Tesoro all'epoca in cui se ne fara' il pagamento, giusta il disposto dell'[articolo 52 del Regio Decreto 3 novembre 1861, n. 302](../Regi%20decreti/Sulla%20Contabilita%20generale%20dello%20Stato.%20061U0302.md).
+I mandati spediti e non soddisfatti prima della chiusura dell'esercizio 1868, compresi fra le somme di cui all'articolo 44, saranno portati a credito del Conto speciale del Tesoro all'epoca in cui se ne fara' il pagamento, giusta il disposto dell'[articolo 52 del Regio Decreto 3 novembre 1861, n. 302](Sulla%20Contabilita%20generale%20dello%20Stato.%20061U0302.md).
 
 ### Art. 51.
 

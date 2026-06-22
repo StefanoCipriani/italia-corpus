@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto l'art. 25 del testo unico delle leggi sulla istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
-Visto i [Regi decreti 28 novembre 1935, n. 2044](../Regi%20decreti/Norme%20relative%20agli%20insegnamenti%20che%20debbono%20essere%20impartiti%20nelle%20Universita%20e%20negli%20Istituti%20superiori.%20035U2044.md); [7 maggio 1936, n. 882](../Regi%20decreti/Sostituzione%20delle%20tabelle%20allegate%20al%20R.%20decreto%2028%20novembre%201935-XIV%20n.%202044%20relative%20agli%20insegnamenti%20propri%20alle%20lauree%20ed%20ai%20diplomi%20che%20sono%20rilasciati%20dalle%20Universita%20e%20dagli%20Ist_cad83aff1cae.md); [30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md);
+Visto i [Regi decreti 28 novembre 1935, n. 2044](Norme%20relative%20agli%20insegnamenti%20che%20debbono%20essere%20impartiti%20nelle%20Universita%20e%20negli%20Istituti%20superiori.%20035U2044.md); [7 maggio 1936, n. 882](Sostituzione%20delle%20tabelle%20allegate%20al%20R.%20decreto%2028%20novembre%201935-XIV%20n.%202044%20relative%20agli%20insegnamenti%20propri%20alle%20lauree%20ed%20ai%20diplomi%20che%20sono%20rilasciati%20dalle%20Universita%20e%20dagli%20Ist_cad83aff1cae.md); [30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -68,7 +68,7 @@ Le disposizioni del precedente art. 2 sono applicabili con deliberazione delle a
 
 ## Art. 5.
 
-E' abrogato il [R. decreto 26 febbraio 1942, n. 350](../Regi%20decreti/Norme%20per%20la%20validita%20degli%20studi%20compiuti%20presso%20la%20Regia%20Accademia%20aeronautica%20ai%20fini%20del%20conseguimento%20della%20laurea%20in%20ingegneria.%20042U0350.md).
+E' abrogato il [R. decreto 26 febbraio 1942, n. 350](Norme%20per%20la%20validita%20degli%20studi%20compiuti%20presso%20la%20Regia%20Accademia%20aeronautica%20ai%20fini%20del%20conseguimento%20della%20laurea%20in%20ingegneria.%20042U0350.md).
 
 ## Art. 6.
 

@@ -26,7 +26,7 @@ Sulla proposta del Ministro Segretario di Stato per i lavori pubblici, di concer
 
 ## Articolo unico.
 
-Il termine di cui all'[art. 1 del decreto legislativo luogotenenziale 5 aprile 1946, n. 255](../Decreti%20legislativi%20luogotenenziali/Acceleramento%20della%20unificazione%20delle%20frequenze%20degli%20impianti%20elettrici.md), per l'unificazione della frequenza degli impianti elettrici dell'italia meridionale (Campania, Molise, Puglie, Basilicata, Calabria) e' fissato al 30 settembre 1947.
+Il termine di cui all'[art. 1 del decreto legislativo luogotenenziale 5 aprile 1946, n. 255](Acceleramento%20della%20unificazione%20delle%20frequenze%20degli%20impianti%20elettrici.md), per l'unificazione della frequenza degli impianti elettrici dell'italia meridionale (Campania, Molise, Puglie, Basilicata, Calabria) e' fissato al 30 settembre 1947.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

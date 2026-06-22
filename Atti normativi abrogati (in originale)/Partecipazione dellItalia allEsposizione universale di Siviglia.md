@@ -29,7 +29,7 @@ Per la partecipazione dell'Italia all'Esposizione universale che si svolgera' a 
                             diecimila milioni di lire per il 1992.
 
 AVVERTENZA:
- Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio e della quale restano invariati il valore e l'efficacia.
+ Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio e della quale restano invariati il valore e l'efficacia.
 
 ## Art. 2.
 
@@ -63,7 +63,7 @@ Le attivita' del Commissariato generale si svolgono nel rispetto degli indirizzi
 
 1.
 
-Il commissario generale rappresenta il Governo italiano ai fini degli adempimenti previsti dalla convenzione sulle esposizioni internazionali firmata a Parigi il 22 novembre 1928, resa esecutiva con [regio decreto-legge 13 gennaio 1931, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-13;24), convertito dalla [legge 9 aprile 1931, n. 893](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20gennaio%201931%20n.%2024%20relativo%20allapprovazione%20della%20Convenzione%20per%20le%20Esposizioni%20internazionali%20con%20Protocollo%20di%20firma%20firmata%20a%20Parigi%20tra%20l_f5116aaa7363.md), modificata da ultimo con protocollo firmato a Parigi il 30 novembre 1972, reso esecutivo con [legge 3 giugno 1978, n. 314](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20protocollo%20recante%20modifiche%20alla%20convenzione%20firmata%20a%20Parigi%20il%2022%20novembre%201928%20concernente%20le%20esposizioni%20Internazionali%20con%20allegati%20aperto%20alla%20firma%20a%20Pa_146fdda8f306.md).
+Il commissario generale rappresenta il Governo italiano ai fini degli adempimenti previsti dalla convenzione sulle esposizioni internazionali firmata a Parigi il 22 novembre 1928, resa esecutiva con [regio decreto-legge 13 gennaio 1931, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-13;24), convertito dalla [legge 9 aprile 1931, n. 893](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20gennaio%201931%20n.%2024%20relativo%20allapprovazione%20della%20Convenzione%20per%20le%20Esposizioni%20internazionali%20con%20Protocollo%20di%20firma%20firmata%20a%20Parigi%20tra%20l_f5116aaa7363.md), modificata da ultimo con protocollo firmato a Parigi il 30 novembre 1972, reso esecutivo con [legge 3 giugno 1978, n. 314](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20protocollo%20recante%20modifiche%20alla%20convenzione%20firmata%20a%20Parigi%20il%2022%20novembre%201928%20concernente%20le%20esposizioni%20Internazionali%20con%20allegati%20aperto%20alla%20firma%20a%20Pa_146fdda8f306.md).
 
 2.
 
@@ -88,7 +88,7 @@ Essi hanno diritto ad un'indennita' a carico del Commissariato generale, in aggi
 Per i periodi di servizio prestati fuori sede vengono corrisposti, da parte del Commissariato generale, il rimborso delle spese di viaggio, in conformita' alle disposizioni vigenti, e un'indennita' giornaliera commisurata al trattamento di missione riservato ai dipendenti statali.
 
 Nota all'[articolo 5:
- - Il D.P.R. n. 571/1958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958;571#art_5) reca: "Norme di esecuzione dell'art. 58 delle disposizioni sullo statuto degli impiegati civili dello Stato, approvato con [D.P.R. 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md)".
+ - Il D.P.R. n. 571/1958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958;571#art_5) reca: "Norme di esecuzione dell'art. 58 delle disposizioni sullo statuto degli impiegati civili dello Stato, approvato con [D.P.R. 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md)".
 
 ## Art. 6.
 
@@ -109,7 +109,7 @@ Il personale di cui al comma 1 ha diritto ad un'indennita' a carico del Commissa
 Per i periodi di servizio prestati fuori sede vengono corrisposti, da parte del Commissariato generale, il rimborso delle spese di viaggio, in conformita' alle disposizioni vigenti, e un'indennita' giornaliera commisurata al trattamento di missione riservato ai dipendenti statali.
 
 Nota all'[articolo 6:
- - Il D.P.R. n. 571/1958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958;571#art_6) reca: "Norme di esecuzione dell'art. 58 delle disposizioni sullo statuto degli impiegati civili dello Stato, approvato con [D.P.R. 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md)".
+ - Il D.P.R. n. 571/1958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958;571#art_6) reca: "Norme di esecuzione dell'art. 58 delle disposizioni sullo statuto degli impiegati civili dello Stato, approvato con [D.P.R. 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md)".
 
 ## Art. 7.
 

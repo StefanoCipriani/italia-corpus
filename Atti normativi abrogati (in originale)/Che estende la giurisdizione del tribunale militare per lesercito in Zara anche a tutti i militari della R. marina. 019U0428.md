@@ -10,9 +10,9 @@ vigente: true
 
 ## Art. 1.
 
-Durante la presente guerra la giurisdizione del tribunale militare per l'esercito in Zara viene estesa a tutti i militari della R. marina, sia destinati a terra che a bordo di navi dislocate in Dalmazia, ed ai medesimi sono applicate le pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
+Durante la presente guerra la giurisdizione del tribunale militare per l'esercito in Zara viene estesa a tutti i militari della R. marina, sia destinati a terra che a bordo di navi dislocate in Dalmazia, ed ai medesimi sono applicate le pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
  
- Nondimeno ai predetti militari sono applicate le pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, qualora si tratti di reati in servizio compresi nel capo III, titolo II, libro I del menzionato Codice, ovvero dei reati non preveduti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per l'esercito e dei reati di cui nel [decreto Luogotenenziale 4 febbraio 1917, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-02-04;196).
+ Nondimeno ai predetti militari sono applicate le pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, qualora si tratti di reati in servizio compresi nel capo III, titolo II, libro I del menzionato Codice, ovvero dei reati non preveduti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per l'esercito e dei reati di cui nel [decreto Luogotenenziale 4 febbraio 1917, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-02-04;196).
 
 ## Art. 2.
 

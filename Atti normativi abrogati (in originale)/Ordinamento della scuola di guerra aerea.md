@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 28 febbraio 1935, n. 447](../Regi%20decreti/Costituzione%20della%20Scuola%20di%20guerra%20aerea.%20035U0447.md), concernente la costituzione della scuola di guerra aerea, e successive modificazioni;
+Visto il [regio decreto 28 febbraio 1935, n. 447](Costituzione%20della%20Scuola%20di%20guerra%20aerea.%20035U0447.md), concernente la costituzione della scuola di guerra aerea, e successive modificazioni;
 
-Visto l'[art. 34 del regio decreto-legge 22 febbraio 1937, n. 220](Ordinamento%20della%20Regia%20aeronautica.%20037U0220.md), convertito nella [legge 25 giugno 1937, n. 1501](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20febbraio%201937-XV%20n.%20220%20che%20approva%20lordinamento%20della%20Regia%20aeronautica.%20037U1501.md), sull'ordinamento dell'Aeronautica, e successive modificazioni;
+Visto l'[art. 34 del regio decreto-legge 22 febbraio 1937, n. 220](Ordinamento%20della%20Regia%20aeronautica.%20037U0220.md), convertito nella [legge 25 giugno 1937, n. 1501](Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20febbraio%201937-XV%20n.%20220%20che%20approva%20lordinamento%20della%20Regia%20aeronautica.%20037U1501.md), sull'ordinamento dell'Aeronautica, e successive modificazioni;
 
 Vista la [legge 12 novembre 1955, n. 1137](Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), sull'avanzamento degli ufficiali dell'Esercito, della Marina e della Aeronautica, e successive modificazioni;
 
@@ -84,7 +84,7 @@ All'insegnamento delle varie discipline presso la scuola di guerra aerea si prov
 
 ## Art. 9.
 
-E' abrogato il [regio decreto 28 febbraio 1935, n. 447](../Regi%20decreti/Costituzione%20della%20Scuola%20di%20guerra%20aerea.%20035U0447.md), e successive modificazioni.
+E' abrogato il [regio decreto 28 febbraio 1935, n. 447](Costituzione%20della%20Scuola%20di%20guerra%20aerea.%20035U0447.md), e successive modificazioni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

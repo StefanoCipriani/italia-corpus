@@ -28,7 +28,7 @@ Lo stipendio del personale tecnico degli ingegneri dell'Amministrazione delle ca
 
 Il posto di ingegnere viene conferito mediante concorso per titoli. 
  
- Per l'ammissione al concorso gli aspiranti, oltre al possesso dei titoli richiesti dalle norme vigenti, di cui al [R. decreto 15 luglio 1909, n. 541](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20carriera%20degli%20impiegati%20dellAmministrazione%20degli%20stabilimenti%20carcerari%20e%20dei%20riformatori%20governativi%20e%20per%20il%20personale%20ad%20essa%20aggregato.%20009U0541.md), debbono comprovare di avere almeno sei anni di esercizio professionale libero, o di servizio in altre Amministrazioni dello Stato.
+ Per l'ammissione al concorso gli aspiranti, oltre al possesso dei titoli richiesti dalle norme vigenti, di cui al [R. decreto 15 luglio 1909, n. 541](Che%20approva%20il%20regolamento%20per%20la%20carriera%20degli%20impiegati%20dellAmministrazione%20degli%20stabilimenti%20carcerari%20e%20dei%20riformatori%20governativi%20e%20per%20il%20personale%20ad%20essa%20aggregato.%20009U0541.md), debbono comprovare di avere almeno sei anni di esercizio professionale libero, o di servizio in altre Amministrazioni dello Stato.
 
 ## Art. 3.
 

@@ -41,7 +41,7 @@ I nuovi posti di sotto agenti, istituiti colla presente legge, saranno devoluti,
 
 ## Art. 5.
 
-Sono abrogate per gli agenti e pei sotto agenti dei depositi le disposizioni concernenti la concessione degli aumenti sessennali contenute nel [R. decreto 31 dicembre 1876, n. 3618](../Regi%20decreti/Che%20stabilisce%20i%20ruoli%20organici%20del%20personale%20dellamministrazione%20centrale%20e%20le%20norme%20per%20le%20concessioni%20del%20sessennio%20agli%20impiegati%20dellamministrazione%20della%20guerra.%20076U3618.md), in esecuzione della legge 7 luglio stesso anno, n. 3212.
+Sono abrogate per gli agenti e pei sotto agenti dei depositi le disposizioni concernenti la concessione degli aumenti sessennali contenute nel [R. decreto 31 dicembre 1876, n. 3618](Che%20stabilisce%20i%20ruoli%20organici%20del%20personale%20dellamministrazione%20centrale%20e%20le%20norme%20per%20le%20concessioni%20del%20sessennio%20agli%20impiegati%20dellamministrazione%20della%20guerra.%20076U3618.md), in esecuzione della legge 7 luglio stesso anno, n. 3212.
 
 ## Art. 6.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
+Visto il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Visto il [R. decreto 24 gennaio 1929, n. 145](Istituzione%20di%20posti%20di%20missione%20per%20maestri%20elementari%20presso%20gli%20Istituti%20superiori%20di%20magistero%20e%20presso%20lAccademia%20fascista%20di%20educazione%20fisica.%20029U0145.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-I maestri elementari iscritti nei ruoli regionali, i quali chiedono di assentarsi dalla scuola essendo stati ammessi a frequentare, con l'autorizzazione del Ministero dell'educazione nazionale, corsi speciali di differenziazioni didattiche, istituiti ai sensi degli articoli 46 e 48 del testo unico delle leggi e norme giuridiche sull'istruzione elementare approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), ovvero scuole di cultura magistrale complementare con corso continuativo non inferiore a sei mesi e di riconosciuto interesse generale, sono collocati in aspettativa. 
+I maestri elementari iscritti nei ruoli regionali, i quali chiedono di assentarsi dalla scuola essendo stati ammessi a frequentare, con l'autorizzazione del Ministero dell'educazione nazionale, corsi speciali di differenziazioni didattiche, istituiti ai sensi degli articoli 46 e 48 del testo unico delle leggi e norme giuridiche sull'istruzione elementare approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), ovvero scuole di cultura magistrale complementare con corso continuativo non inferiore a sei mesi e di riconosciuto interesse generale, sono collocati in aspettativa. 
  
  Ad essi e' conservata la sede, ma non lo stipendio ne' le competenze accessorie, ed il tempo trascorso in aspettativa e' computato agli effetti degli aumenti periodici di stipendio, quando comprovino di avere effettivamente frequentato il corso per tutta la sua durata e di avere conseguito il diploma o certificato degli studi compiuti.
 

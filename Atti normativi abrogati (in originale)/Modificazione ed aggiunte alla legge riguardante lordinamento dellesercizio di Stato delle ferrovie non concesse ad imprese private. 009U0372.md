@@ -142,7 +142,7 @@ I sottoindicati articoli della [legge 7 luglio 1907, n. 429](Riguardante%20lordi
  
  Art. 35, comma 2°: 
  
- Ai reclami relativi al contratto di trasporto di persone e di cose, presentati all'Amministrazione delle ferrovie dello Stato, non sono applicabili gli articoli 19, n. 3, e 20, n. 34, del testo unico delle leggi sulle tasse di bollo, approvato col [R. decreto 4 luglio 1897, n. 414](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20tassa%20di%20bollo%20e%20su%20quelle%20in%20surrogazione%20del%20bollo%20e%20registro.%20097U0414.md). 
+ Ai reclami relativi al contratto di trasporto di persone e di cose, presentati all'Amministrazione delle ferrovie dello Stato, non sono applicabili gli articoli 19, n. 3, e 20, n. 34, del testo unico delle leggi sulle tasse di bollo, approvato col [R. decreto 4 luglio 1897, n. 414](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20tassa%20di%20bollo%20e%20su%20quelle%20in%20surrogazione%20del%20bollo%20e%20registro.%20097U0414.md). 
  
  Art. 38, comma 2°: 
  
@@ -225,7 +225,7 @@ In casi eccezionali possono, con deliberazione del Consiglio dei ministri, esser
 
 ## Art. 4.
 
-Salvo il disposto dell'[art. 180 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), l'Amministrazione delle ferrovie dello Stato non e' tenuta a comunicare all'autorita' giudiziaria gli atti e le relazioni delle inchieste in ogni caso di sinistro che abbia recato danno alle persone o alle cose.
+Salvo il disposto dell'[art. 180 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), l'Amministrazione delle ferrovie dello Stato non e' tenuta a comunicare all'autorita' giudiziaria gli atti e le relazioni delle inchieste in ogni caso di sinistro che abbia recato danno alle persone o alle cose.
 
 ## Art. 5.
 
@@ -262,7 +262,7 @@ Qualora, in seguito ad un sinistro ferroviario o per qualsiasi altra causa, anco
 
 Per l'impianto del servizio di navigazione di cui alla [legge 5 aprile 1908, n. 111](Che%20approva%20le%20Convenzioni%20pei%20servizi%20postali%20e%20commerciali%20marittimi.%20008U0111.md), il ministro della marina potra' consentire il passaggio all'Amministrazione delle ferrovie dello Stato, a richiesta della medesima, del personale tecnico ed operaio, che ad essa occorresse ed a condizione che il personale stesso ne faccia domanda. 
  
- Il detto personale avra' le qualifiche e gli stipendi o paghe, che gli saranno assegnate dal Consiglio di amministrazione, e ad esso saranno applicabili le norme in vigore per il personale delle ferrovie dello Stato, fatta eccezione di quanto riguarda il trattamento di pensione, che sara' regolato secondo le disposizioni del testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto del 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e della [legge 26 dicembre 1901, n. 518](Portante%20modificazioni%20alle%20disposizioni%20che%20regolano%20le%20pensioni%20degli%20operai%20della%20R.%20Marina.%20001U0518.md), per le pensioni degli operai della R.
+ Il detto personale avra' le qualifiche e gli stipendi o paghe, che gli saranno assegnate dal Consiglio di amministrazione, e ad esso saranno applicabili le norme in vigore per il personale delle ferrovie dello Stato, fatta eccezione di quanto riguarda il trattamento di pensione, che sara' regolato secondo le disposizioni del testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto del 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e della [legge 26 dicembre 1901, n. 518](Portante%20modificazioni%20alle%20disposizioni%20che%20regolano%20le%20pensioni%20degli%20operai%20della%20R.%20Marina.%20001U0518.md), per le pensioni degli operai della R.
 marina. 
  
  La liquidazione della pensione sara' fatta in base al servizio complessivamente prestato sotto la R. marina e sotto l'Amministrazione delle ferrovie dello Stato: e l'onere della pensione sara' ripartito tra il tesoro e l'Amministrazione delle ferrovie dello Stato in ragione della somma totale degli stipendi che saranno stati a ciascuno corrisposti prima e dopo il passaggio alle ferrovie dello Stato. Agli effetti del riparto, gli operai a paga si considerano come provvisti di uno stipendio pari alla loro paga moltiplicata per 360.

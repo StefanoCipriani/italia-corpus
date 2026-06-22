@@ -486,7 +486,7 @@ Il viaggiatore che ometta di dichiarare alla dogana tabacchi lavorati, in quanti
 
 ### Art. 72. — Adulterazione o Mescolanza dei generi di monopolio da parte dei rivenditori o trasportatori. Cessione di generi fra rivenditori.
 
-I magazzinieri, le persone autorizzate alla vendita al pubblico dei generi di monopolio, i conduttori o appaltatori di trasporto che adulterino i generi di monopolio o mescolino le qualita' sono puniti con l'ammenda da L. 100 a L. 2000, salve le maggiori pene stabilite dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+I magazzinieri, le persone autorizzate alla vendita al pubblico dei generi di monopolio, i conduttori o appaltatori di trasporto che adulterino i generi di monopolio o mescolino le qualita' sono puniti con l'ammenda da L. 100 a L. 2000, salve le maggiori pene stabilite dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  E' considerata come adulterazione la bagnatura del sale e quella del tabacco che si vende a peso. 
  
@@ -705,7 +705,7 @@ Il contrabbando commesso da tutti o da alcuni dei componenti dell'associazione c
 
 Il contrabbando e' punito con la detenzione da tre a cinque anni e con la vigilanza speciale dell'Autorita' di pubblica sicurezza da uno a tre anni, oltre le pene pecuniarie e la confisca: 
  
- 1° quando avvenga a mano armata od in unione di tre o piu' persone quantunque non armate. Sotto il nome di armi s'intendono quelle indicate nell'[art. 155 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 1° quando avvenga a mano armata od in unione di tre o piu' persone quantunque non armate. Sotto il nome di armi s'intendono quelle indicate nell'[art. 155 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  2° quando vi sia stata sottrazione od asportazione di bolli dei pubblici uffici, o contraffazione di bolli, od altra falsificazione tendente a nascondere la provenienza della merce o del genere in contrabbando; 
  
@@ -715,11 +715,11 @@ Il contrabbando e' punito con la detenzione da tre a cinque anni e con la vigila
 
 Gli impiegati dello Stato, compresi gli impiegati ed agenti delle Amministrazioni autonome e gli ufficiali ed agenti di polizia giudiziaria, i quali incorrano in reato di contrabbando colpito da pena restrittiva della liberta' personale e da vigilanza speciale della pubblica sicurezza, sono puniti col massimo della detenzione e della vigilanza speciale e col triplo della multa, oltre la confisca e la detenzione. 
  
- Nel caso di corruzione, salve le pene previste dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono inoltre puniti con la interdizione perpetua dai pubblici uffici e con una multa speciale che raggiunga il triplo del valore delle cose promesse o ricevute e non sia, comunque, inferiore a L. 500.
+ Nel caso di corruzione, salve le pene previste dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono inoltre puniti con la interdizione perpetua dai pubblici uffici e con una multa speciale che raggiunga il triplo del valore delle cose promesse o ricevute e non sia, comunque, inferiore a L. 500.
 
 ### Art. 99. — Pene per i militari della Regia guardia di finanza.
 
-I militari della Regia guardia di finanza che commettano contrabbandi o colludano con altri per frodare il diritto di monopolio sul consumo dei sali e dei tabacchi, sono puniti con le pene stabilite nella prima parte dell'art. 188 e, secondo il valore del danno, nell'[art. 207 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, ferme restando le pene pecuniarie e la confisca stabilite dalla presente legge.
+I militari della Regia guardia di finanza che commettano contrabbandi o colludano con altri per frodare il diritto di monopolio sul consumo dei sali e dei tabacchi, sono puniti con le pene stabilite nella prima parte dell'art. 188 e, secondo il valore del danno, nell'[art. 207 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, ferme restando le pene pecuniarie e la confisca stabilite dalla presente legge.
 
 ### Art. 100. — Pene per i corrieri, capitani, addetti a servizi di trasporto, pubblici esercenti, spedizionieri.
 
@@ -727,11 +727,11 @@ Sono puniti col massimo della pena i corrieri, i capitani e le persone di serviz
 
 ### Art. 101. — Aggravamento della pena per i reati comuni commessi in occasione del contrabbando.
 
-Per i reati di falso, di resistenza ed oltraggio alla forza pubblica, di lesioni personali e di omicidio, commessi in occasione del contrabbando, sara' applicato il massimo della pena stabilita dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), indipendentemente dalle pene comminate per il contrabbando.
+Per i reati di falso, di resistenza ed oltraggio alla forza pubblica, di lesioni personali e di omicidio, commessi in occasione del contrabbando, sara' applicato il massimo della pena stabilita dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), indipendentemente dalle pene comminate per il contrabbando.
 
 ### Art. 102. — Eccezioni alle disposizioni del codice penale.
 
-Le disposizioni del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) circa il concorso di piu' persone in uno stesso reato, il favoreggiamento e la ricettazione sono applicabili ai reati di associazione contrabbandiera o di contrabbando, con le seguenti eccezioni: 
+Le disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) circa il concorso di piu' persone in uno stesso reato, il favoreggiamento e la ricettazione sono applicabili ai reati di associazione contrabbandiera o di contrabbando, con le seguenti eccezioni: 
  
  1° e' sempre considerato quale coautore nell'associazione contrabbandiera colui che scientemente e volontariamente abbia fornito all'associazione stessa, od a taluno che ne faccia parte, armi, munizioni, denaro o mezzi di trasporto necessari al contrabbando; 
  
@@ -803,7 +803,7 @@ Il processo verbale di accertamento dei reati previsti dalla presente legge e' c
 
 Competenza dell'intendente di finanza. Competenza dell'autorita' giudiziaria. 
  
- Le pene pecuniarie previste dalla parte III, titolo I, della presente legge sono applicate dall'intendente di finanza con decreto penale ai sensi del [R. decreto 25 marzo 1923, n. 796](../Regi%20decreti/Riguardante%20la%20competenza%20dellintendente%20di%20finanza%20a%20riconoscere%20la%20esistenza%20delle%20trasgressioni%20alle%20disposizioni%20tributarie%20e%20in%20genere%20a%20qualsiasi%20legge%20o%20decreto%20interessanti%20i%20trib_92c5af07dc8d.md). 
+ Le pene pecuniarie previste dalla parte III, titolo I, della presente legge sono applicate dall'intendente di finanza con decreto penale ai sensi del [R. decreto 25 marzo 1923, n. 796](Riguardante%20la%20competenza%20dellintendente%20di%20finanza%20a%20riconoscere%20la%20esistenza%20delle%20trasgressioni%20alle%20disposizioni%20tributarie%20e%20in%20genere%20a%20qualsiasi%20legge%20o%20decreto%20interessanti%20i%20trib_92c5af07dc8d.md). 
  
  La cognizione del reato di contrabbando e la decisione sulla impugnazione del decreto penale emesso dall'intendente di finanza, ai sensi del precedente comma, appartiene, esclusivamente, al Tribunale.
 
@@ -815,7 +815,7 @@ Quando i reati previsti dalla presente legge siano talmente connessi con reati c
 
 Conversione delle pene pecuniarie. Inapplicabilita' alle pene pecuniarie della sospensione della esecuzione. 
  
- Le pene pecuniarie previste dalla parte terza della presente legge, anche se applicate col decreto penale dell'intendente di finanza, sono convertibili nella detenzione secondo le norme stabilite dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dal [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447). 
+ Le pene pecuniarie previste dalla parte terza della presente legge, anche se applicate col decreto penale dell'intendente di finanza, sono convertibili nella detenzione secondo le norme stabilite dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dal [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447). 
  
  Ad esse non e' in alcun caso applicabile il beneficio della sospensione della esecuzione della condanna.
 
@@ -843,7 +843,7 @@ La riscossione delle pene pecuniarie e delle spese di giustizia nelle cause per 
 
 ### Art. 117. — Riscossione coattiva delle pene pecuniarie.
 
-Alla riscossione coattiva delle pene pecuniarie e delle spese di giustizia dovute in forza dei giudicati, si procedera' con la procedura mobiliare e immobiliare stabilita dal [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), per la riscossione delle entrate patrimoniali dello Stato e degli altri enti pubblici.
+Alla riscossione coattiva delle pene pecuniarie e delle spese di giustizia dovute in forza dei giudicati, si procedera' con la procedura mobiliare e immobiliare stabilita dal [R. decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), per la riscossione delle entrate patrimoniali dello Stato e degli altri enti pubblici.
 
 ### Art. 118. — Cancellazione delle inscrizioni ipotecarie.
 
@@ -855,7 +855,7 @@ Per la ripartizione dei proventi contravvenzionali valgono le disposizioni della
 
 ### Art. 120. — Applicazione della legge doganale e del codice penale.
 
-Ai reati riguardanti il monopolio dei sali e dei tabacchi sono applicabili, in quanto non sia diversamente disposto dalla presente legge, le disposizioni del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e quelle della legge doganale.
+Ai reati riguardanti il monopolio dei sali e dei tabacchi sono applicabili, in quanto non sia diversamente disposto dalla presente legge, le disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e quelle della legge doganale.
 
 ### Art. 121. — Regolamento.
 

@@ -701,7 +701,7 @@ Chiunque, allo scopo suindicato, fornisce all'autorita' competente indicazioni m
 
 ### Art. 53. — Distruzione o deterioramento di nave o galleggiante requisiti.
 
-Chiunque, fuori dei casi indicati negli articoli precedenti, distrugge, sostituisce, sottrae o altrimenti rende inservibile, anche temporaneamente, o deteriora la nave o il galleggiante requisiti e affidati alla sua custodia, e' punito secondo le disposizioni dell'[art. 334 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Chiunque, fuori dei casi indicati negli articoli precedenti, distrugge, sostituisce, sottrae o altrimenti rende inservibile, anche temporaneamente, o deteriora la nave o il galleggiante requisiti e affidati alla sua custodia, e' punito secondo le disposizioni dell'[art. 334 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Se il fatto e' avvenuto o e' stato agevolato per colpa, si applica, la reclusione fino a sei mesi o la multa fino a L. 3000.
 

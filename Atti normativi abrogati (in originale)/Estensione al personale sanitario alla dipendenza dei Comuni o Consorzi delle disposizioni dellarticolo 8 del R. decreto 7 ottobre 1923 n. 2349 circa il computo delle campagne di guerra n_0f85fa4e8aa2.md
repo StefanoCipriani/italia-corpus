@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'inter
 
 ## Art. 1.
 
-La disposizione dell'[articolo 8 del R. decreto 7 ottobre 1923, n. 2349](../Regi%20decreti/Provvedimenti%20transitori%20per%20il%20trattamento%20di%20quiescenza%20ai%20segretari%20ed%20altri%20impiegati%20degli%20Enti%20locali%20iscritti%20alla%20Cassa%20di%20previdenza.%20023U2349.md), recante provvedimenti a favore degli impiegati degli Enti locali, riguardante il riconoscimento delle campagne di guerra nel computo delle pensioni, e' estesa al personale sanitario dipendente dagli Enti medesimi, inscritto alla Cassa di previdenza per le pensioni dei sanitari.
+La disposizione dell'[articolo 8 del R. decreto 7 ottobre 1923, n. 2349](Provvedimenti%20transitori%20per%20il%20trattamento%20di%20quiescenza%20ai%20segretari%20ed%20altri%20impiegati%20degli%20Enti%20locali%20iscritti%20alla%20Cassa%20di%20previdenza.%20023U2349.md), recante provvedimenti a favore degli impiegati degli Enti locali, riguardante il riconoscimento delle campagne di guerra nel computo delle pensioni, e' estesa al personale sanitario dipendente dagli Enti medesimi, inscritto alla Cassa di previdenza per le pensioni dei sanitari.
 
 ## Art. 2.
 

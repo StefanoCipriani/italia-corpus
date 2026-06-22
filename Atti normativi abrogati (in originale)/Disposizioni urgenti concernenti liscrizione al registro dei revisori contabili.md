@@ -147,7 +147,7 @@ Nel caso di omesso pagamento del contributo il direttore generale della direzion
 
 5.
 
-In caso di perdurante omesso versamento dell'obbligo contributivo, decorsi sei mesi dalla sospensione di cui al comma 4, e' disposta la cancellazione dal registro dei revisori contabili con decreto del Ministro di grazia e giustizia, da emanarsi nelle forme di cui all'[articolo 7, comma 3, del decreto del Presidente della Repubblica 20 novembre 1992, n. 474](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20iscrizione%20nel%20registro%20dei%20revisori%20contabili%20in%20attuazione%20degli%20articoli%2011%20e%2012%20del%20decreto%20legislativo%2027%20gennaio%201992%20n.%2088.md).
+In caso di perdurante omesso versamento dell'obbligo contributivo, decorsi sei mesi dalla sospensione di cui al comma 4, e' disposta la cancellazione dal registro dei revisori contabili con decreto del Ministro di grazia e giustizia, da emanarsi nelle forme di cui all'[articolo 7, comma 3, del decreto del Presidente della Repubblica 20 novembre 1992, n. 474](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20iscrizione%20nel%20registro%20dei%20revisori%20contabili%20in%20attuazione%20degli%20articoli%2011%20e%2012%20del%20decreto%20legislativo%2027%20gennaio%201992%20n.%2088.md).
 
 6.
 
@@ -155,7 +155,7 @@ Non sono ripetibili, se non richieste in data antecedente alla data di entrata i
 
 7.
 
-E' abrogato l'[articolo 18 del regio decreto 10 febbraio 1937, n. 228](../Regi%20decreti/Norme%20per%20lattuazione%20del%20Regio%20decreto-legge%2024%20luglio%201936-XIV%20n.%201548%20sui%20sindaci%20delle%20Societa%20commerciali%20revisori%20dei%20conti.%20037U0228.md), ed il [regio decreto 19 giugno 1940, n. 894](../Regi%20decreti/Determinazione%20del%20contributo%20annuo%20a%20carico%20dei%20revisori%20ufficiali%20dei%20conti.%20040U0894.md).
+E' abrogato l'[articolo 18 del regio decreto 10 febbraio 1937, n. 228](Norme%20per%20lattuazione%20del%20Regio%20decreto-legge%2024%20luglio%201936-XIV%20n.%201548%20sui%20sindaci%20delle%20Societa%20commerciali%20revisori%20dei%20conti.%20037U0228.md), ed il [regio decreto 19 giugno 1940, n. 894](Determinazione%20del%20contributo%20annuo%20a%20carico%20dei%20revisori%20ufficiali%20dei%20conti.%20040U0894.md).
 
 ## Art. 9. — Entrata in vigore
 

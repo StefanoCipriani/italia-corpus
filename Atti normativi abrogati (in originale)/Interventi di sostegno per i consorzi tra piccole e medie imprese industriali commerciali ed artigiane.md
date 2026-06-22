@@ -36,7 +36,7 @@ E' esclusa la partecipazione di societa' che, per collegamenti tecnico-finanziar
  
 
  AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 Note all'art. 1:
@@ -73,7 +73,7 @@ La quota di partecipazione sottoscritta da ciascuna impresa non puo' superare il
 
 3.
 
-I consorzi e le societa' consortili di cui al comma 1 possono essere costituiti da non meno di cinque imprese qualora operino nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), o in settori merceologici specializzati, individuati con decreto del Ministro dell'industria, del commercio e dell'artigianato; la stessa riduzione si applica ai consorzi e alle societa' consortili tra imprese artigiane di cui all'[articolo 6 della legge 8 agosto 1985, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443#art_6).
+I consorzi e le societa' consortili di cui al comma 1 possono essere costituiti da non meno di cinque imprese qualora operino nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), o in settori merceologici specializzati, individuati con decreto del Ministro dell'industria, del commercio e dell'artigianato; la stessa riduzione si applica ai consorzi e alle societa' consortili tra imprese artigiane di cui all'[articolo 6 della legge 8 agosto 1985, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443#art_6).
 
 4.
 
@@ -192,7 +192,7 @@ Il limite anzidetto e' ulteriormente elevato a 300 milioni di lire per i consorz
 
 4.
 
-Per i consorzi e le societa' consortili costituiti tra piccole e medie imprese ubicate nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), la percentuale massima dei contributi indicata nel comma 1 e' elevata al 60 per cento, fermi restando i limiti massimi annuali di cui ai commi 1, 2 e 3.
+Per i consorzi e le societa' consortili costituiti tra piccole e medie imprese ubicate nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), la percentuale massima dei contributi indicata nel comma 1 e' elevata al 60 per cento, fermi restando i limiti massimi annuali di cui ai commi 1, 2 e 3.
 
 5.
 

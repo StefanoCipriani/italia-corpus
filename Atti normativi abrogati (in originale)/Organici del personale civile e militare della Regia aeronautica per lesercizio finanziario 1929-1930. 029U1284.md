@@ -26,9 +26,9 @@ Visto l'[art. 2 del R. decreto-legge 16 agosto 1926, n. 1387](Divieto%20di%20ass
 
 Visto l'[art. 4 della legge 19 maggio 1927, n. 774](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellaeronautica%20per%20lesercizio%20finanziario%20dal%201%20luglio%201927%20al%2030%20giugno%201928.%20027U0774.md);
 
-Visto il [R. decreto 28 giugno 1928, n. 1530](../Regi%20decreti/Organici%20del%20personale%20civile%20e%20militare%20della%20Regia%20aeronautica%20per%20lesercizio%20finanziario%20l928-29.%20028U1530.md);
+Visto il [R. decreto 28 giugno 1928, n. 1530](Organici%20del%20personale%20civile%20e%20militare%20della%20Regia%20aeronautica%20per%20lesercizio%20finanziario%20l928-29.%20028U1530.md);
 
-Visto il [R. decreto 13 dicembre 1928, n. 3180](../Regi%20decreti/Mantenimento%20in%20eccedenza%20agli%20organici%20stabiliti%20di%20n.%203%20posti%20nel%20ruolo%20del%20personale%20civile%20tecnico%20della%20Regia%20aeronautica.%20028U3180.md);
+Visto il [R. decreto 13 dicembre 1928, n. 3180](Mantenimento%20in%20eccedenza%20agli%20organici%20stabiliti%20di%20n.%203%20posti%20nel%20ruolo%20del%20personale%20civile%20tecnico%20della%20Regia%20aeronautica.%20028U3180.md);
 
 Ritenuto urgente e necessario fissare i ruoli del personale civile e militare della Regia aeronautica, e di apportare alcune varianti al
 

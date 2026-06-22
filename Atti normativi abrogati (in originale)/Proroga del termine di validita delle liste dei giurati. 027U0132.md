@@ -18,7 +18,7 @@ Vista la [legge 8 giugno 1874, n. 1937](Contenente%20alcune%20modificazioni%20al
 
 Vista la [legge 19 dicembre 1886, n. 4183](Riguardante%20le%20liste%20dei%20giurati.%20086U4183.md) (serie terza);
 
-Visto il [R. decreto 22 gennaio 1922, n. 85](../Regi%20decreti/Contenente%20modificazioni%20nei%20servizi%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20022U0085.md);
+Visto il [R. decreto 22 gennaio 1922, n. 85](Contenente%20modificazioni%20nei%20servizi%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20022U0085.md);
 
 Visti la [legge 4 febbraio 1926, n. 237](Istituzione%20del%20Podesta%20e%20della%20Consulta%20municipale%20nei%20Comuni%20con%20popolazione%20non%20eccedente%20i%205000%20abitanti.%20026U0237.md), il [R. decreto-legge 9 maggio 1926, n. 818](Modificazioni%20alla%20legge%204%20febbraio%201926%20n.%20237%20sulla%20istituzione%20del%20Podesta%20e%20della%20Consulta%20municipale.%20026U0818.md), convertito nella [legge del 25 giugno 1926, n. 1226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-06-25;1226), ed il [R. decreto 3 settembre 1926, n. 1910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-09-03;1910), riguardante l'istituzione dei podesta' e delle Consulte municipali;
 

@@ -22,9 +22,9 @@ In virtu' dell'autorita' a Noi delegata
 
 Vista la [legge 24 maggio 1903, n. 205](Ordinamento%20della%20Colonia%20Eritrea.%20003U0205.md), sull'ordinamento della Colonia eritrea;
 
-Visto il [R. decreto 31 gennaio 1909, n. 378](../Regi%20decreti/Che%20approva%20lordinamento%20fondiario%20per%20la%20Colonia%20Eritrea.%20009U0378.md), che approva l'ordinamento fondiario per detta Colonia;
+Visto il [R. decreto 31 gennaio 1909, n. 378](Che%20approva%20lordinamento%20fondiario%20per%20la%20Colonia%20Eritrea.%20009U0378.md), che approva l'ordinamento fondiario per detta Colonia;
 
-Visto il [R. decreto n 1393 del 26 novembre 1914](../Regi%20decreti/Col%20quale%20sono%20approvate%20alcune%20norme%20circa%20le%20espropriazioni%20per%20causa%20di%20pubblica%20utilita%20nella%20colonia%20Eritrea%20014U1393.md), che modifica parzialmente l'ordinamento predetto;
+Visto il [R. decreto n 1393 del 26 novembre 1914](Col%20quale%20sono%20approvate%20alcune%20norme%20circa%20le%20espropriazioni%20per%20causa%20di%20pubblica%20utilita%20nella%20colonia%20Eritrea%20014U1393.md), che modifica parzialmente l'ordinamento predetto;
 
 Sentito il governatore dell'Eritrea;
 
@@ -36,13 +36,13 @@ Sulla proposta del ministro segretario di Stato per le colonie; Abbiamo decretat
 
 ## Art. 1.
 
-All'[art. 1 del R. decreto 26 novembre 1914, n. 1393](../Regi%20decreti/Col%20quale%20sono%20approvate%20alcune%20norme%20circa%20le%20espropriazioni%20per%20causa%20di%20pubblica%20utilita%20nella%20colonia%20Eritrea%20014U1393.md), e' aggiunto il seguente comma: 
+All'[art. 1 del R. decreto 26 novembre 1914, n. 1393](Col%20quale%20sono%20approvate%20alcune%20norme%20circa%20le%20espropriazioni%20per%20causa%20di%20pubblica%20utilita%20nella%20colonia%20Eritrea%20014U1393.md), e' aggiunto il seguente comma: 
  
  «Resta salva, per altro, la facolta' del Governo della Colonia di procedere, nei modi stabiliti dall'ordinamento fondiario a concessioni dei terreni indicati negli alinea precedenti».
 
 ## Art. 2.
 
-Gli alinea a) e b) dell'[art 2 del R. decreto n. 1393 del 26 novembre 1914](../Regi%20decreti/Col%20quale%20sono%20approvate%20alcune%20norme%20circa%20le%20espropriazioni%20per%20causa%20di%20pubblica%20utilita%20nella%20colonia%20Eritrea%20014U1393.md) sono modificati come appresso: 
+Gli alinea a) e b) dell'[art 2 del R. decreto n. 1393 del 26 novembre 1914](Col%20quale%20sono%20approvate%20alcune%20norme%20circa%20le%20espropriazioni%20per%20causa%20di%20pubblica%20utilita%20nella%20colonia%20Eritrea%20014U1393.md) sono modificati come appresso: 
  
  a) i fabbricati soggetti ad imposta saranno valutati capitalizzando il reddito, in base al quale, e' stabilita la imposta, al 100 per 4; 
  
@@ -54,7 +54,7 @@ Gli alinea a) e b) dell'[art 2 del R. decreto n. 1393 del 26 novembre 1914](../R
 
 ## Art. 3.
 
-Le disposizioni del [R. decreto 26 novembre 1914, n. 1393](../Regi%20decreti/Col%20quale%20sono%20approvate%20alcune%20norme%20circa%20le%20espropriazioni%20per%20causa%20di%20pubblica%20utilita%20nella%20colonia%20Eritrea%20014U1393.md), con le aggiunte e modificazioni di cui al presente decreto, avranno vigore fino al 31 dicembre
+Le disposizioni del [R. decreto 26 novembre 1914, n. 1393](Col%20quale%20sono%20approvate%20alcune%20norme%20circa%20le%20espropriazioni%20per%20causa%20di%20pubblica%20utilita%20nella%20colonia%20Eritrea%20014U1393.md), con le aggiunte e modificazioni di cui al presente decreto, avranno vigore fino al 31 dicembre
 
 1924.
 

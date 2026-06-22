@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduti la [legge 20 marzo 1913, n. 206](Riguardante%20lassunzione%20di%20personale%20avventizio%20per%20gli%20uffici%20scolastici%20provinciali%20ed%20altri%20provvedimenti%20per%20applicare%20la%20legge%204%20giugno%201911%20n.%20487%20013U0206.md), il testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), ed il [R. decreto-legge 31 marzo 1925, n. 360](Provvedimenti%20economici%20a%20favore%20dei%20maestri%20elementari.%20025U0360.md);
+Veduti la [legge 20 marzo 1913, n. 206](Riguardante%20lassunzione%20di%20personale%20avventizio%20per%20gli%20uffici%20scolastici%20provinciali%20ed%20altri%20provvedimenti%20per%20applicare%20la%20legge%204%20giugno%201911%20n.%20487%20013U0206.md), il testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), ed il [R. decreto-legge 31 marzo 1925, n. 360](Provvedimenti%20economici%20a%20favore%20dei%20maestri%20elementari.%20025U0360.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,12 +22,12 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Al secondo comma dell'art. 51 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), alle parole «e quelli in dipendenza dell'art. 157 del presente testo unico» sono sostituite le seguenti:  
- «e la differenza tra gli stipendi stabiliti dalla tabella E annessa al testo unico e quelli della tabella B annessa al [R. decreto 13 maggio 1920, n. 1129](../Regi%20decreti/Applicazione%20dei%20ruoli%20aperti%20al%20personale%20tecnico%20e%20provinciale%20dellistruzione%20primaria%20e%20popolare.%20020U1129.md), diminuita della quota di L. 800 annue per insegnante in corrispondenza al numero dei posti legalmente istituiti per bisogni dell'istruzione riconosciuti dal Ministero».
+Al secondo comma dell'art. 51 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), alle parole «e quelli in dipendenza dell'art. 157 del presente testo unico» sono sostituite le seguenti:  
+ «e la differenza tra gli stipendi stabiliti dalla tabella E annessa al testo unico e quelli della tabella B annessa al [R. decreto 13 maggio 1920, n. 1129](Applicazione%20dei%20ruoli%20aperti%20al%20personale%20tecnico%20e%20provinciale%20dellistruzione%20primaria%20e%20popolare.%20020U1129.md), diminuita della quota di L. 800 annue per insegnante in corrispondenza al numero dei posti legalmente istituiti per bisogni dell'istruzione riconosciuti dal Ministero».
 
 ## Art. 2.
 
-Fra l'art. 51 e 52 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' inserito il seguente nuovo art. 51-bis: 
+Fra l'art. 51 e 52 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' inserito il seguente nuovo art. 51-bis: 
  
  «A far data dal 1° luglio 1925 i concorsi e i rimborsi dipendenti dalle disposizioni emanate fino al 31 dicembre 1923, nonche' quelli dipendenti dal [R. decreto-legge 1° maggio 1924, n. 763](Disposizioni%20concernenti%20le%20scuole%20elementari%20nei%20territori%20annessi.%20024U0763.md), e dovuti dallo Stato ai Comuni che conservano l'amministrazione delle scuole elementari, saranno liquidati, annualmente, in base: 
  
@@ -39,7 +39,7 @@ Fra l'art. 51 e 52 del testo unico approvato con [R. decreto 22 gennaio 1925, n.
 
 ## Art. 3.
 
-All'art. 60 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), sono aggiunti i commi seguenti: 
+All'art. 60 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), sono aggiunti i commi seguenti: 
  
  «Potranno ugualmente istituirsi scuole provvisorie in quelle frazioni o borgate dove gli obbligati, pure essendo in numero superiore ai 40, a cagione di deflussi temporanei e periodici di popolazione, in ogni anno si riducono a meno di 40, e in quelle frazioni o borgate dove, a causa della emigrazione interna, si verificano temporanei affollamenti di fanciulli obbligati. 
  
@@ -47,18 +47,18 @@ All'art. 60 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](.
 
 ## Art. 4.
 
-Al primo comma dell'art. 63 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), sono aggiunte alle parole: «ritenute idonee allo scopo» le altre: «udito il parere del Comitato contro l'analfabetismo». 
+Al primo comma dell'art. 63 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), sono aggiunte alle parole: «ritenute idonee allo scopo» le altre: «udito il parere del Comitato contro l'analfabetismo». 
  
  Al secondo comma dello stesso articolo e' sostituito il seguente:  
  «La delega ottenuta dalle istituzioni culturali avra' efficacia fino a contraria disposizione da parte del Ministero, o finche' non venga disdetta dalla istituzione delegata con preavviso di un anno».
 
 ## Art. 5.
 
-L'art. 64 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' abrogato.
+L'art. 64 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' abrogato.
 
 ## Art. 6.
 
-All'art. 65 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' sostituito il seguente: 
+All'art. 65 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' sostituito il seguente: 
  
  «Agli Enti delegati sara' corrisposta dal Ministero della pubblica istruzione per ogni scuola provvisoria la quota annua di L. 7200. 
  
@@ -72,7 +72,7 @@ All'art. 65 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](.
 
 ## Art. 7.
 
-Fra l'art. 66 e 67 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' inserito il seguente nuovo art. 66-bis: 
+Fra l'art. 66 e 67 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' inserito il seguente nuovo art. 66-bis: 
  
  «Le eventuali economie che le associazioni culturali delegate realizzano sulla somma fissa loro concessa sul bilancio dello Stato per la gestione delle scuole provvisorie; economie risultanti dal conto finale riveduto dal Comitato contro l'analfabetismo, sono versate all'Erario dello Stato. 
  
@@ -82,13 +82,13 @@ Fra l'art. 66 e 67 del testo unico approvato con [R. decreto 22 gennaio 1925, n.
 
 ## Art. 8.
 
-Fra il primo ed il secondo comma dell'art. 67 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' inserito il seguente: 
+Fra il primo ed il secondo comma dell'art. 67 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' inserito il seguente: 
  
  «Il maestro di scuola provvisoria deve essere fornito del diploma di abilitazione all'insegnamento elementare».
 
 ## Art. 9.
 
-All'art. 70 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' sostituito il seguente: 
+All'art. 70 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' sostituito il seguente: 
  
  «Potranno essere convertite in classificate le scuole provvisorie in cui il numero degli obbligati abbia raggiunto il numero di 50 e l'aumento sia dovuto a cause di carattere permanente accertate dall'autorita' scolastica. 
  
@@ -98,19 +98,19 @@ All'art. 70 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](.
 
 ## Art. 10.
 
-Fra l'art. 70 ed il 71 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' inserito un art. 70-bis cosi' concepito: 
+Fra l'art. 70 ed il 71 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' inserito un art. 70-bis cosi' concepito: 
  
  «Qualsiasi mutamento di classificazione o soppressione delle scuole non puo' essere disposto se le condizioni per farvi luogo non siansi verificate almeno da un biennio».
 
 ## Art. 11.
 
-Dopo l'art. 72 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' inserito un art. 72-bis cosi' concepito: 
+Dopo l'art. 72 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' inserito un art. 72-bis cosi' concepito: 
  
  «Nulla e' innovato alle disposizioni vigenti per quanto riguarda la vigilanza e l'ispezione da parte dell'autorita' scolastica competente sulle scuole di qualsiasi tipo gestite dagli Enti culturali delegati dal Comitato contro l'analfabetismo».
 
 ## Art. 12.
 
-All'art. 74 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' sostituito il seguente: 
+All'art. 74 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' sostituito il seguente: 
  
  «E' costituito presso il Ministero della pubblica istruzione un Comitato contro l'analfabetismo. 
  
@@ -124,7 +124,7 @@ All'art. 74 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](.
 
 ## Art. 13.
 
-All'art. 75 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' sostituito il seguente: 
+All'art. 75 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' sostituito il seguente: 
  
  «Al Comitato predetto spetta di stabilire le opportune intese fra gli Enti delegati per il migliore conseguimento dei fini. Esso determina le norme tecniche, disciplinari ed amministrative per lo svolgimento del programma d'azione degli enti delegati, stabilisce il compenso diario ed i premi ai maestri, in base ai risultati dell'insegnamento; assegna ad ogni Ente delegato la sua sfera d'azione; ne approva il piano di lavoro annuale, ne vigila l'azione, riceve, esamina e sottopone all'approvazione del Ministero il conto finale della gestione dei fondi erogati dal Ministero in favore di ciascun Ente delegato; riferisce annualmente al Ministro sui risultati conseguiti da ciascun Ente delegato e presenta le opportune proposte. Provvede inoltre a quanto altro verra' disposto con il regolamento. 
  
@@ -132,19 +132,19 @@ All'art. 75 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](.
 
 ## Art. 14.
 
-Nell'art. 76 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), le parole «a favore del rappresentante del Ministero in seno al Comitato» sono sostituite dalle seguenti: «a favore del presidente del Comitato».
+Nell'art. 76 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), le parole «a favore del rappresentante del Ministero in seno al Comitato» sono sostituite dalle seguenti: «a favore del presidente del Comitato».
 
 ## Art. 15.
 
-Il 1° comma dell'art. 78 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' abrogato.
+Il 1° comma dell'art. 78 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' abrogato.
 
 ## Art. 16.
 
-Al 3° comma dell'art. 78 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' soppresso l'inciso «ancorche' sia scaduto il triennio di cui al 1° comma di questo articolo».
+Al 3° comma dell'art. 78 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' soppresso l'inciso «ancorche' sia scaduto il triennio di cui al 1° comma di questo articolo».
 
 ## Art. 17.
 
-Nell'art. 81, 1° comma, del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), dopo le parole «al numero degli alunni approvati all'esame» sono aggiunte le seguenti: «per il passaggio dalla prima alla seconda classe e». 
+Nell'art. 81, 1° comma, del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), dopo le parole «al numero degli alunni approvati all'esame» sono aggiunte le seguenti: «per il passaggio dalla prima alla seconda classe e». 
  
  Il secondo comma del medesimo art. 81 e' soppresso. 
  
@@ -152,7 +152,7 @@ Nell'art. 81, 1° comma, del testo unico approvato con [R. decreto 22 gennaio 19
 
 ## Art. 18.
 
-Fra l'art. 157 e 158 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' inserito il seguente: 
+Fra l'art. 157 e 158 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' inserito il seguente: 
  
  «Art. 157-bis. - I Comuni le cui scuole elementari sono amministrate dai Regi provveditori agli studi corrispondono allo Stato un contributo annuo di L. 800 per ciascun posto di insegnante di scuole classificate e provvisorie legalmente istituite. 
  
@@ -182,7 +182,7 @@ Al pagamento dei premi e sussidi alle varie istituzioni sussidiarie della scuola
 
 ## Art. 22.
 
-Al comma 3° dell'art. 211 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), vengono aggiunte le seguenti parole: 
+Al comma 3° dell'art. 211 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), vengono aggiunte le seguenti parole: 
  
  «Resta in facolta' del Ministero della pubblica istruzione di concedere sussidi ad istituzioni gia' esistenti, che prestino opera per l'educazione e la istruzione degli anormali».
 
@@ -192,7 +192,7 @@ Le maestre elementari, che prestino da un quinquennio servizio in asili infantil
 
 ## Art. 24.
 
-All'art. 18 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), sono aggiunti i seguenti commi: 
+All'art. 18 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), sono aggiunti i seguenti commi: 
  
  «Ai direttori didattici governativi in prova, assunti per concorso, spetta durante il periodo di prova un assegno mensile pari allo stipendio di cui essi erano provvisti nel ruolo di provenienza, senza alcun diritto a supplemento di servizio attivo. 
  
@@ -200,7 +200,7 @@ All'art. 18 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](.
 
 ## Art. 25.
 
-Nell'art. 255 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), sono soppresse le parole «Limitatamente al triennio dal 19 novembre 1923» e le parole: «se non si oppongono imprescindibili ragioni di servizio» ed e' aggiunto il seguente comma: 
+Nell'art. 255 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), sono soppresse le parole «Limitatamente al triennio dal 19 novembre 1923» e le parole: «se non si oppongono imprescindibili ragioni di servizio» ed e' aggiunto il seguente comma: 
  
  «Per la direzione tecnica locale delle scuole di qualsiasi tipo le Associazioni delegate, assumendo a loro carico le spese di supplenza, possono col consenso del Regio provveditore o della Amministrazione comunale, se trattasi di Comuni autonomi, servirsi dell'opera di insegnanti elementari di ruolo, senza che percio' la carriera scolastica di questi sia interrotta».
 
@@ -230,16 +230,16 @@ I direttori, gl'insegnanti e gli assistenti degli Istituti dei sordomuti prescel
 
 ## Art. 31.
 
-La facolta' di cui ai [commi 1°](../Regi%20decreti/Norme%20concernenti%20lordinamento%20per%20listruzione%20elementare.%20023U2453.md), [3°](../Regi%20decreti/Norme%20concernenti%20lordinamento%20per%20listruzione%20elementare.%20023U2453.md) e [4° dell'articolo 30 del R. decreto 3 novembre 1923, n. 2453](../Regi%20decreti/Norme%20concernenti%20lordinamento%20per%20listruzione%20elementare.%20023U2453.md), di nominare direttori didattici governativi per soli titoli, e' prorogata sino al 31 dicembre 1925.
+La facolta' di cui ai [commi 1°](Norme%20concernenti%20lordinamento%20per%20listruzione%20elementare.%20023U2453.md), [3°](Norme%20concernenti%20lordinamento%20per%20listruzione%20elementare.%20023U2453.md) e [4° dell'articolo 30 del R. decreto 3 novembre 1923, n. 2453](Norme%20concernenti%20lordinamento%20per%20listruzione%20elementare.%20023U2453.md), di nominare direttori didattici governativi per soli titoli, e' prorogata sino al 31 dicembre 1925.
 Entro tale termine gli interessati devono presentare la domanda documentata al Ministero. 
  
- Agli effetti del comma 3° del citato [articolo 30 del R. decreto 3 novembre 1923, n. 2453](../Regi%20decreti/Norme%20concernenti%20lordinamento%20per%20listruzione%20elementare.%20023U2453.md), ha valore anche il diploma di abilitazione alla direzione didattica conseguito posteriormente alla pubblicazione del decreto medesimo.
+ Agli effetti del comma 3° del citato [articolo 30 del R. decreto 3 novembre 1923, n. 2453](Norme%20concernenti%20lordinamento%20per%20listruzione%20elementare.%20023U2453.md), ha valore anche il diploma di abilitazione alla direzione didattica conseguito posteriormente alla pubblicazione del decreto medesimo.
 
 ## Art. 32.
 
-Nella prima applicazione dell'art. 174 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' data facolta' al Ministero della pubblica istruzione di procedere alla nomina del personale occorrente per la direzione e il funzionamento della Scuola di metodo, scegliendolo tra persone che per capacita', cultura e servizi resi comunque a vantaggio dei ciechi diano affidamento di adempiere lo speciale compito. 
+Nella prima applicazione dell'art. 174 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' data facolta' al Ministero della pubblica istruzione di procedere alla nomina del personale occorrente per la direzione e il funzionamento della Scuola di metodo, scegliendolo tra persone che per capacita', cultura e servizi resi comunque a vantaggio dei ciechi diano affidamento di adempiere lo speciale compito. 
  
- Se nelle more della istituzione della Regia scuola di metodo di cui all'art. 174 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), sia stato tenuto presso qualche istituto di ciechi eretto in Ente morale, con l'assenso del Ministero della pubblica istruzione, un corso per la preparazione di maestri dei ciechi e di assistenti e detto corso abbia avuto adeguato svolgimento per un periodo non inferiore ai tre mesi potra', per una volta tanto, a giudizio del direttore della Scuola di metodo desunto dall'andamento didattico del corso, venir rilasciato dalla Scuola stessa ai frequentanti un certificato di idoneita', previo il pagamento della tassa di L. 50 da parte dell'iscritto. 
+ Se nelle more della istituzione della Regia scuola di metodo di cui all'art. 174 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), sia stato tenuto presso qualche istituto di ciechi eretto in Ente morale, con l'assenso del Ministero della pubblica istruzione, un corso per la preparazione di maestri dei ciechi e di assistenti e detto corso abbia avuto adeguato svolgimento per un periodo non inferiore ai tre mesi potra', per una volta tanto, a giudizio del direttore della Scuola di metodo desunto dall'andamento didattico del corso, venir rilasciato dalla Scuola stessa ai frequentanti un certificato di idoneita', previo il pagamento della tassa di L. 50 da parte dell'iscritto. 
  
  Potranno giovarsi della eccezionale disposizione solamente i frequentanti muniti di titoli di studio almeno di cultura media.
 
@@ -249,13 +249,13 @@ Per il periodo di un quinquennio, a far data dal 1° luglio 1925, il titolo di a
  
  Tali corsi di preparazione avranno una durata non minore di due anni e si svolgeranno per un periodo non minore di tre mesi in ciascun anno di studio. 
  
- Essi saranno organizzati come i corsi estivi di cui alla lettera b) dell'art. 37 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), salvo speciali insegnamenti determinati dalle peculiari condizioni linguistiche e di ambiente delle nuove Provincie. 
+ Essi saranno organizzati come i corsi estivi di cui alla lettera b) dell'art. 37 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), salvo speciali insegnamenti determinati dalle peculiari condizioni linguistiche e di ambiente delle nuove Provincie. 
  
  Ai corsi potranno essere ammesse, oltre che le insegnanti elementari regolarmente abilitate e le persone fornite di titoli di cui all'art. 41 del testo unico predetto, anche le maestre giardiniere abilitate secondo la legislazione del cessato regime e cioe' fornite del titolo conseguito in conformita' delle norme dello statuto di organizzazione degli istituti magistrali, approvato con l'Ordinanza ministeriale austro-ungarica 31 luglio 1886, n. 6031 (art. 8, paragr. 90 a 101).
 
 ## Art. 34.
 
-Le aperture di credito a favore dei Presidenti delle Associazioni culturali delegate, per il funzionamento delle scuole provvisorie, potranno eccedere il limite stabilito dall'art. 76 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), limitatamente alle spese che si riferiscono all'anno scolastico 1924-25, fino alla somma massima di L. 1,000,000.
+Le aperture di credito a favore dei Presidenti delle Associazioni culturali delegate, per il funzionamento delle scuole provvisorie, potranno eccedere il limite stabilito dall'art. 76 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), limitatamente alle spese che si riferiscono all'anno scolastico 1924-25, fino alla somma massima di L. 1,000,000.
 
 ## Art. 35.
 

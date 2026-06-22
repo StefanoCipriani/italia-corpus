@@ -46,7 +46,7 @@ Per la 61ª e 62ª serie del prestito redimibile 3,50%, le date di estrazione e 
 
 ## Art. 6.
 
-Il [primo comma dell'art. 3 del R. decreto 11 ottobre 1934, n. 1731](../Regi%20decreti/Variazioni%20ai%20ruoli%20degli%20ispettori%20del%20Demanio%20e%20delle%20Tasse%20sugli%20affari%20e%20dei%20procuratori%20del%20Registro%20e%20soppressione%20di%20taluni%20Uffici%20del%20registro%20di%20limitata%20importanza.%20034U1731.md), e' integrato con le seguenti parole: « Con la decorrenza che sara' determinata dal Ministro per le finanze con propri decreti ». 
+Il [primo comma dell'art. 3 del R. decreto 11 ottobre 1934, n. 1731](Variazioni%20ai%20ruoli%20degli%20ispettori%20del%20Demanio%20e%20delle%20Tasse%20sugli%20affari%20e%20dei%20procuratori%20del%20Registro%20e%20soppressione%20di%20taluni%20Uffici%20del%20registro%20di%20limitata%20importanza.%20034U1731.md), e' integrato con le seguenti parole: « Con la decorrenza che sara' determinata dal Ministro per le finanze con propri decreti ». 
  
  Questo decreto endra' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. 
  Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 

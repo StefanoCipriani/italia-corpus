@@ -14,7 +14,7 @@ E' concessa amnistia ai capitani marittimi in comando di navi mercantili ed alle
  
  a) previsti dal Codice della marina mercantile, per i quali e' fissata la pena restrittiva della liberta' per un tempo non superiore al massimo a tre anni; una pena pecuniaria sola, o congiunta con la precedente, che non ecceda le lire tremila; l'interdizione e la sospensione dai gradi; 
  
- b) previsti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo per i quali e' fissata la pena restrittiva della liberta' per un tempo non superiore, nel massimo, ad anni tre; 
+ b) previsti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo per i quali e' fissata la pena restrittiva della liberta' per un tempo non superiore, nel massimo, ad anni tre; 
  
  c) previsti dal [decreto Luogotenenziale 22 ottobre 1916, n. 1505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-22;1505); 
  
@@ -34,7 +34,7 @@ L'indulto di cui all'art 2 del presente decreto si avra' come non concesso ove, 
 
 ## Art. 5.
 
-Nel caso di concorso di reati e di pene, l'amnistia si applica distintamente a ciascun reato; l'indulto si applica una volta sola, dopo cumulate le pene secondo le norme stabilite dall'[art. 67 e seguenti del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Nel caso di concorso di reati e di pene, l'amnistia si applica distintamente a ciascun reato; l'indulto si applica una volta sola, dopo cumulate le pene secondo le norme stabilite dall'[art. 67 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 6.
 

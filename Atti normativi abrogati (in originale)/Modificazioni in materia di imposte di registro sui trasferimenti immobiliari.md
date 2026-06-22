@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 L'[art. 32 della legge 6 agosto 1954, n. 603](Istituzione%20di%20una%20imposta%20sulle%20societa%20e%20modificazioni%20in%20materia%20di%20imposte%20indirette%20sugli%20affari.md), e' modificato come segue:
- "L'imposta per i trasferimenti a titolo oneroso e per i conferimenti in societa' di beni immobili o di altri diritti immobiliari, stabilita dagli articoli 1 e 81, lettera c), e da quelli che vi fanno richiamo, della tariffa allegato A al [regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e successive modificazioni, e' dovuta nella misura seguente:
+ "L'imposta per i trasferimenti a titolo oneroso e per i conferimenti in societa' di beni immobili o di altri diritti immobiliari, stabilita dagli articoli 1 e 81, lettera c), e da quelli che vi fanno richiamo, della tariffa allegato A al [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e successive modificazioni, e' dovuta nella misura seguente:
  a) per i trasferimenti immobiliari di qualsiasi valore lire 4 per ogni cento lire;
  b) se il trasferimento avvenga entro tre anni da altro trasferimento a titolo oneroso dello stesso immobile o diritto immobiliare sul quale si sia pagata la imposta normale di passaggio: la stessa imposta di cui alla lettera a) ridotta di un quarto, fino a concorrenza del valore tassato nel precedente trasferimento;
  c) se il trasferimento riguarda beni immobili situati all'estero: lire una per ogni cento lire".
@@ -25,7 +25,7 @@ L'[art. 32 della legge 6 agosto 1954, n. 603](Istituzione%20di%20una%20imposta%2
 ## Art. 2.
 
 Per i trasferimenti immobiliari di cui all'[art. 17 della legge 2 luglio 1949, n. 408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-07-02;408#art_17), l'imposta di registro e' dovuta in ragione di lire 2,50 per cento.
- L'art. 43 della tabella allegato B al [regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md) e' abrogato.
+ L'art. 43 della tabella allegato B al [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md) e' abrogato.
 
 ## Art. 3.
 

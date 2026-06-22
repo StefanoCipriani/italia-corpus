@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con R. decreto 18 giugno 1931-X, n. 773;
+Visto il [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con R. decreto 18 giugno 1931-X, n. 773;
 
 Visto l'art. 18 della legge 19 gennaio 1939-XVII, n. 129;
 
@@ -30,7 +30,7 @@ Vista la delega rilasciata al Sottosegretarie di Stato, per Il Ministero di graz
 
 ## Articolo unico.
 
-Durante l'attuale stato di guerra e' sospesa l'applicazione dell'art. 28, 2° comma, del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con R. decreto 18 giugno 1931-IX, n. 773, per quanto riguarda la fabbricazione di uniformi militari e di altri oggetti destinati all'equipaggiamento delle Forze armate, limitatamente alle ditte che attendono a tale fabbricazione esclusivamente su diretta ordinazione dell'autorita' militare ed alle persone che lavorano per conto e sotto la responsabilita' delle ditte medesime. 
+Durante l'attuale stato di guerra e' sospesa l'applicazione dell'art. 28, 2° comma, del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con R. decreto 18 giugno 1931-IX, n. 773, per quanto riguarda la fabbricazione di uniformi militari e di altri oggetti destinati all'equipaggiamento delle Forze armate, limitatamente alle ditte che attendono a tale fabbricazione esclusivamente su diretta ordinazione dell'autorita' militare ed alle persone che lavorano per conto e sotto la responsabilita' delle ditte medesime. 
  
  Le generalita' di tali persone devono essere preventivamente comunicate dalle ditte assuntrici all'autorita' Militare ed a quella di pubblica sicurezza. 
  

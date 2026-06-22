@@ -18,7 +18,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Visto il [R. decreto-legge 5 maggio 1931, n. 450](Emissione%20di%20quattro%20serie%20di%20buoni%20del%20Tesoro%20novennali.%20031U0450.md), col quale furono autorizzate la creazione e l'emissione di quattro serie di buoni del Tesoro novennali a premi 5% scadenti il 15 maggio 1940;
 
-Visto il [R. decreto 10 giugno 1931, n. 670](../Regi%20decreti/Emissione%20di%20una%20quinta%20serie%20di%20buoni%20del%20Tesoro%20novennali.%20031U0670.md), col quale furono autorizzate la creazione e l'emissione di una quinta serie dei buoni anzidetti;
+Visto il [R. decreto 10 giugno 1931, n. 670](Emissione%20di%20una%20quinta%20serie%20di%20buoni%20del%20Tesoro%20novennali.%20031U0670.md), col quale furono autorizzate la creazione e l'emissione di una quinta serie dei buoni anzidetti;
 
 Ritenuta la necessita' e l'urgenza di predisporre i provvedimenti occorrenti per il rimborso dei buoni novennali 4,75 per cento scadenti il 15 novembre 1932;
 

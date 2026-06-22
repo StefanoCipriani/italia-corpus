@@ -40,7 +40,7 @@ Con il fondo di cui all'art. 2, lettera b), si puo' provvedere alla costruzione 
 
 ## Art. 4.
 
-Per l'esecuzione dei lavori di competenza degli Enti di cui all'art. 1 del presente decreto, si applicano gli [articoli 3](../Decreti%20legislativi%20luogotenenziali/Autorizzazione%20della%20spesa%20di%20lire%20trentasette%20miliardi%20per%20lesecuzione%20di%20opere%20pubbliche%20straordinarie%20urgenti%20a%20pagamento%20non%20differito%20per%20la%20ricostruzione%20ed%20a%20sollievo%20della%20disoccu_2fb80316f8da.md) e [4 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 690](../Decreti%20legislativi%20luogotenenziali/Autorizzazione%20della%20spesa%20di%20lire%20trentasette%20miliardi%20per%20lesecuzione%20di%20opere%20pubbliche%20straordinarie%20urgenti%20a%20pagamento%20non%20differito%20per%20la%20ricostruzione%20ed%20a%20sollievo%20della%20disoccu_2fb80316f8da.md).
+Per l'esecuzione dei lavori di competenza degli Enti di cui all'art. 1 del presente decreto, si applicano gli [articoli 3](Autorizzazione%20della%20spesa%20di%20lire%20trentasette%20miliardi%20per%20lesecuzione%20di%20opere%20pubbliche%20straordinarie%20urgenti%20a%20pagamento%20non%20differito%20per%20la%20ricostruzione%20ed%20a%20sollievo%20della%20disoccu_2fb80316f8da.md) e [4 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 690](Autorizzazione%20della%20spesa%20di%20lire%20trentasette%20miliardi%20per%20lesecuzione%20di%20opere%20pubbliche%20straordinarie%20urgenti%20a%20pagamento%20non%20differito%20per%20la%20ricostruzione%20ed%20a%20sollievo%20della%20disoccu_2fb80316f8da.md).
 
 ## Art. 5.
 

@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
  Visto l'[art. 358 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
- Visto il regolamento di polizia mortuaria approvato con [regio decreto 21 dicembre 1942, n. 1880](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.%20042U1880.md);
+ Visto il regolamento di polizia mortuaria approvato con [regio decreto 21 dicembre 1942, n. 1880](Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.%20042U1880.md);
  Udito il parere del Consiglio superiore di sanita';
  Udito il parere del Consiglio di Stato;
  Sentito il Consiglio dei Ministri;

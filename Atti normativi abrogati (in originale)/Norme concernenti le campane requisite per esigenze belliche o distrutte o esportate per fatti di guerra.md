@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 23 aprile 1942, n. 505](../Regi%20decreti/Raccolta%20di%20campane%20facenti%20parte%20di%20edifici%20per%20il%20culto.%20042U0505.md), recante norme per la raccolta di campane facenti parte di edifici per il culto;
+Visto il [regio decreto 23 aprile 1942, n. 505](Raccolta%20di%20campane%20facenti%20parte%20di%20edifici%20per%20il%20culto.%20042U0505.md), recante norme per la raccolta di campane facenti parte di edifici per il culto;
 
-Visto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 652](../Decreti%20legislativi%20luogotenenziali/Abolizione%20del%20monopolio%20dei%20carboni%20e%20dei%20metalli%20e%20istituzione%20di%20un%20Ufficio%20centrale%20carboni.%20045U0652.md);
+Visto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 652](Abolizione%20del%20monopolio%20dei%20carboni%20e%20dei%20metalli%20e%20istituzione%20di%20un%20Ufficio%20centrale%20carboni.%20045U0652.md);
 
 Visto il [decreto legislativo Presidenziale 27 giugno 1946, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;35), concernente la riparazione e ricostruzione degli edifici di culto e di quelli degli enti pubblici di beneficenza danneggiati o distrutti da offese belliche;
 
@@ -26,12 +26,12 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per l'interno
 
 ## Art. 1.
 
-La riconsegna e la posa in opera delle campane raccolte ai sensi del [regio decreto 23 aprile 1942, n. 505](../Regi%20decreti/Raccolta%20di%20campane%20facenti%20parte%20di%20edifici%20per%20il%20culto.%20042U0505.md), saranno effettuate dallo Stato entro cinque anni dalla pubblicazione del presente decreto, con le norme stabilite negli articoli seguenti.
- E' abrogato l'[art. 2 del regio decreto 23 aprile 1942, n. 505](../Regi%20decreti/Raccolta%20di%20campane%20facenti%20parte%20di%20edifici%20per%20il%20culto.%20042U0505.md).
+La riconsegna e la posa in opera delle campane raccolte ai sensi del [regio decreto 23 aprile 1942, n. 505](Raccolta%20di%20campane%20facenti%20parte%20di%20edifici%20per%20il%20culto.%20042U0505.md), saranno effettuate dallo Stato entro cinque anni dalla pubblicazione del presente decreto, con le norme stabilite negli articoli seguenti.
+ E' abrogato l'[art. 2 del regio decreto 23 aprile 1942, n. 505](Raccolta%20di%20campane%20facenti%20parte%20di%20edifici%20per%20il%20culto.%20042U0505.md).
 
 ## Art. 2.
 
-Il Ministero dei trasporti, Servizi o approvvigionamenti delle ferrovie dello Stato provvedera', di intesa col Ministero del tesoro, alla liquidazione della gestione relativa alla raccolta delle campane effettuata in base al [regio decreto 23 aprile 1942, n. 505](../Regi%20decreti/Raccolta%20di%20campane%20facenti%20parte%20di%20edifici%20per%20il%20culto.%20042U0505.md), nonche' alla gestione inerente alla restituzione delle campane agli Enti di culto ed alle altre operazioni previste nel presente decreto.
+Il Ministero dei trasporti, Servizi o approvvigionamenti delle ferrovie dello Stato provvedera', di intesa col Ministero del tesoro, alla liquidazione della gestione relativa alla raccolta delle campane effettuata in base al [regio decreto 23 aprile 1942, n. 505](Raccolta%20di%20campane%20facenti%20parte%20di%20edifici%20per%20il%20culto.%20042U0505.md), nonche' alla gestione inerente alla restituzione delle campane agli Enti di culto ed alle altre operazioni previste nel presente decreto.
  Non si applicano in materia le disposizioni che prescrivono il parere del Consiglio di amministrazione delle ferrovie dello Stato.
 
 ## Art. 3.

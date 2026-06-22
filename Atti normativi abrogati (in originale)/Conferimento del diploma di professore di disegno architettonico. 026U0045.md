@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto il [decreto Luogotenenziale 5 maggio 1918, n. 1852](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-05;1852), che approva il regolamento generale per l'applicazione della [legge 6 luglio 1912, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;734), sugli istituti di belle arti, di musica e d'arte drammatica;
 
-Visto il [R. decreto 5 aprile 1923, n. 860](../Regi%20decreti/Che%20modifica%20lart.%20258%20del%20regolamento%20sugli%20Istituti%20di%20belle%20arti%20di%20musica%20e%20darte%20drammatica%20approvato%20con%20D.%20L.%205%20maggio%201918%20n.%201852.%20023U0860.md);
+Visto il [R. decreto 5 aprile 1923, n. 860](Che%20modifica%20lart.%20258%20del%20regolamento%20sugli%20Istituti%20di%20belle%20arti%20di%20musica%20e%20darte%20drammatica%20approvato%20con%20D.%20L.%205%20maggio%201918%20n.%201852.%20023U0860.md);
 
-Visto il [R. decreto 31 dicembre 1923, n. 3123](../Regi%20decreti/Ordinamento%20dellistruzione%20artistica.%20023U3123.md);
+Visto il [R. decreto 31 dicembre 1923, n. 3123](Ordinamento%20dellistruzione%20artistica.%20023U3123.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-In deroga al disposto degli [articoli 1](../Regi%20decreti/Che%20modifica%20lart.%20258%20del%20regolamento%20sugli%20Istituti%20di%20belle%20arti%20di%20musica%20e%20darte%20drammatica%20approvato%20con%20D.%20L.%205%20maggio%201918%20n.%201852.%20023U0860.md) e [2 del R. decreto 5 aprile 1923, n. 860](../Regi%20decreti/Che%20modifica%20lart.%20258%20del%20regolamento%20sugli%20Istituti%20di%20belle%20arti%20di%20musica%20e%20darte%20drammatica%20approvato%20con%20D.%20L.%205%20maggio%201918%20n.%201852.%20023U0860.md), e dell'[art. 81, comma 4, del R. decreto 31 dicembre 1923, n. 3123](../Regi%20decreti/Ordinamento%20dellistruzione%20artistica.%20023U3123.md), le Regie accademie di belle arti di Bologna, Firenze, Milano, Napoli, Palermo, Roma, Torino e Venezia, sono autorizzate a rilasciare per titoli ed esami o per soli titoli il diploma di professore di disegno architettonico nel periodo dal 1º gennaio al 28 febbraio 1926, in una unica sessione. 
+In deroga al disposto degli [articoli 1](Che%20modifica%20lart.%20258%20del%20regolamento%20sugli%20Istituti%20di%20belle%20arti%20di%20musica%20e%20darte%20drammatica%20approvato%20con%20D.%20L.%205%20maggio%201918%20n.%201852.%20023U0860.md) e [2 del R. decreto 5 aprile 1923, n. 860](Che%20modifica%20lart.%20258%20del%20regolamento%20sugli%20Istituti%20di%20belle%20arti%20di%20musica%20e%20darte%20drammatica%20approvato%20con%20D.%20L.%205%20maggio%201918%20n.%201852.%20023U0860.md), e dell'[art. 81, comma 4, del R. decreto 31 dicembre 1923, n. 3123](Ordinamento%20dellistruzione%20artistica.%20023U3123.md), le Regie accademie di belle arti di Bologna, Firenze, Milano, Napoli, Palermo, Roma, Torino e Venezia, sono autorizzate a rilasciare per titoli ed esami o per soli titoli il diploma di professore di disegno architettonico nel periodo dal 1º gennaio al 28 febbraio 1926, in una unica sessione. 
  
  Coloro che aspirino a conseguire per esami detto diploma non sono tenuti a produrre titoli di studi artistici o di cultura, compresa la licenza dal corso speciale di architettura, ma dovranno pero' esibire titoli comprovanti la propria attivita' artistica e professionale gia' svolta. 
  
@@ -38,7 +38,7 @@ Agli effetti di cui all'articolo precedente il compito del giudizio degli esami 
 
 ## Art. 3.
 
-Nulla e' innovato al disposto dell'[art. 81, comma 4°, del R. decreto 31 dicembre 1923, n. 3123](../Regi%20decreti/Ordinamento%20dellistruzione%20artistica.%20023U3123.md).
+Nulla e' innovato al disposto dell'[art. 81, comma 4°, del R. decreto 31 dicembre 1923, n. 3123](Ordinamento%20dellistruzione%20artistica.%20023U3123.md).
 
 ## Art. 4.
 

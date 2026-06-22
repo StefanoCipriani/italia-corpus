@@ -185,7 +185,7 @@ Gli aumenti di retribuzione per incarichi, supplenze ed eccedenze d'orario, hann
 
 ## Art. 23.
 
-Per le scuole medie che verranno istituite o convertite in governative dopo il 1° ottobre 1909, i contributi annui indicati nella tabella A, annessa al testo unico approvato con [R. decreto 25 luglio 1907, n. 645](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulle%20norme%20per%20la%20istituzione%20e%20conversione%20in%20governative%20di%20nuove%20scuole%20medie.%20007U0645.md), sono aumentati di L. 700.
+Per le scuole medie che verranno istituite o convertite in governative dopo il 1° ottobre 1909, i contributi annui indicati nella tabella A, annessa al testo unico approvato con [R. decreto 25 luglio 1907, n. 645](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulle%20norme%20per%20la%20istituzione%20e%20conversione%20in%20governative%20di%20nuove%20scuole%20medie.%20007U0645.md), sono aumentati di L. 700.
 
 ## Art. 24.
 

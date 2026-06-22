@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduti il [R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), ed il [Regio decreto-legge 28 dicembre 1924, n. 2269](Proroga%20del%20termine%20fissato%20dal%20secondo%20comma%20dellarticolo%2090%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202889%20riguardante%20la%20riforma%20degli%20ordinamenti%20sanitari.%20024U2269.md);
+Veduti il [R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), ed il [Regio decreto-legge 28 dicembre 1924, n. 2269](Proroga%20del%20termine%20fissato%20dal%20secondo%20comma%20dellarticolo%2090%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202889%20riguardante%20la%20riforma%20degli%20ordinamenti%20sanitari.%20024U2269.md);
 
 Sentito il Consiglio dei Ministri;
 

@@ -49,7 +49,7 @@ L'Amministrazione deve disporre la concessione del trattamento definitivo di pen
 
 I Ministri possono delegare ai Sottosegretari di Stato, agli Alti Commissari e ai Commissari la firma dei provvedimenti di cessazione dal servizio.
  La delega puo' essere concessa al capo del personale o del servizio competente per i provvedimenti relativi al personale di grado inferiore al 6°, quando si tratti di cessazione dal servizio per raggiunti limiti di eta'.
- Sono abrogati l'[art. 22, secondo comma, del regio decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), e le successive disposizioni che prevedono il concerto con il Ministro per il tesoro, per la emanazione dei provvedimenti di collocamento a riposo.
+ Sono abrogati l'[art. 22, secondo comma, del regio decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), e le successive disposizioni che prevedono il concerto con il Ministro per il tesoro, per la emanazione dei provvedimenti di collocamento a riposo.
 
 ## Art. 6.
 
@@ -61,7 +61,7 @@ Nel caso di decesso del pensionato, l'Ufficio provinciale del tesoro, che ha in 
 
 ## Art. 8.
 
-Sono abrogati l'art. 125 del testo unico delle leggi sulle pensioni civili e militari, approvato con [regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e le successive norme di estensione, riguardanti la perdita del diritto a pensione da parte della vedova nel caso che il matrimonio sia stato contratto senza il prescritto assentimento.
+Sono abrogati l'art. 125 del testo unico delle leggi sulle pensioni civili e militari, approvato con [regio decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e le successive norme di estensione, riguardanti la perdita del diritto a pensione da parte della vedova nel caso che il matrimonio sia stato contratto senza il prescritto assentimento.
  E' del pari abrogato l'art. 182 del testo unico di cui al precedente comma riguardante la decadenza dal diritto a pensione per coloro che lascino trascorrere piu' di un anno dal giorno in cui dovrebbe cominciare il godimento senza inoltrare la prescritta domanda o senza presentare i documenti giustificativi.
 
 ## Art. 9.

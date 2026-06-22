@@ -18,7 +18,7 @@ IL MINISTRO DELLE FINANZE
  
  Visto l'[art. 8 della legge 30 aprile 1874, numero 1920](Sulla%20circolazione%20cartacea%20durante%20il%20corso%20forzoso.%20074U1920.md); 
  
- Visto l'[art. 5 del R. decreto 14 giugno 1874, n. 1942](../Regi%20decreti/Che%20regola%20la%20circolazione%20dei%20biglietti%20della%20Banca%20Nazionale%20nel%20Regno%20d%20Italia%20fino%20alla%20emissione%20dei%20biglietti%20del%20Consorzio.%20074U1942.md), 
+ Visto l'[art. 5 del R. decreto 14 giugno 1874, n. 1942](Che%20regola%20la%20circolazione%20dei%20biglietti%20della%20Banca%20Nazionale%20nel%20Regno%20d%20Italia%20fino%20alla%20emissione%20dei%20biglietti%20del%20Consorzio.%20074U1942.md), 
  
  Determina quanto segue: 
  

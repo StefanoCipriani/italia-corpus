@@ -14,7 +14,7 @@ E' convertito in legge il [R. decreto 10 maggio 1928, numero 1009](https://www.n
 
 ## Art. 2.
 
-E' convalidato il [R. decreto 26 aprile 1928, n. 969](../Regi%20decreti/19ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201927-28.%20028U0969.md), che autorizza la 19ª prelevazione dal fondo di riserva per le spese impreviste, inscritto nel bilancio del Ministero delle finanze, per l'esercizio finanziario 1927-28. 
+E' convalidato il [R. decreto 26 aprile 1928, n. 969](19ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201927-28.%20028U0969.md), che autorizza la 19ª prelevazione dal fondo di riserva per le spese impreviste, inscritto nel bilancio del Ministero delle finanze, per l'esercizio finanziario 1927-28. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

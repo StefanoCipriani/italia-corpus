@@ -16,7 +16,7 @@ Il Governo del Re e' autorizzato a concedere l'esercizio del credito fondiario i
 
 La concessione sara' fatta per decreto Reale sopra proposta del Ministro di agricoltura, industria e commercio, in seguito a deliberazione del Consiglio dei ministri. 
  
- La Societa' nazionale dovra' uniformarsi alle disposizioni del testo unico della legge sul credito fondiario approvato con [R. decreto del 22 febbraio 1885, n. 2922](../Regi%20decreti/Che%20approva%20lannessovi%20testo%20unico%20delle%20leggi%20sul%20Credito%20fondiario.%20085U2922.md) (Serie 3ª), salvo le modificazioni ed eccezioni della presente legge.
+ La Societa' nazionale dovra' uniformarsi alle disposizioni del testo unico della legge sul credito fondiario approvato con [R. decreto del 22 febbraio 1885, n. 2922](Che%20approva%20lannessovi%20testo%20unico%20delle%20leggi%20sul%20Credito%20fondiario.%20085U2922.md) (Serie 3ª), salvo le modificazioni ed eccezioni della presente legge.
 
 ## Art. 3.
 
@@ -176,7 +176,7 @@ Par le fusioni che avvenissero di Istituti di credito fondiario preesistenti col
 
 ## Art. 23.
 
-Gl'Istituti che attualmente esercitano il credito fondiario in Italia, in virtu' dell'art. 1, alinea 1°, della legge 22 febbraio 1885, testo unico, e cioe' gl'Istituti di credito fondiario dei Banchi di Napoli e di Sicilia, del Monte dei Paschi di Siena, delle Opere pie di S. Paolo di Torino, delle Casse di risparmio di Milano e di Bologna e del Banco di Santo Spirito in Roma, se non parteciperanno alla formazione del nuovo Istituto, potranno continuare ad esercitare il credito fondiario, ma dovranno limitare le nuove operazioni alla zona rispettivamente a ciascuno di essi assegnata dalle convenzioni del 4 ottobre 1865, 23 febbraio 1866 e dai regi decreti 1° maggio 1870 e [24 luglio 1873, n. 722](../Regi%20decreti/Che%20autorizza%20il%20Banco%20di%20S.%20Spirito%20ad%20assumere%20lesercizio%20del%20Credito%20fondiario%20nella%20Provincia%20di%20Roma.%207300722R.md) serie 2ª), parte supplementare). 
+Gl'Istituti che attualmente esercitano il credito fondiario in Italia, in virtu' dell'art. 1, alinea 1°, della legge 22 febbraio 1885, testo unico, e cioe' gl'Istituti di credito fondiario dei Banchi di Napoli e di Sicilia, del Monte dei Paschi di Siena, delle Opere pie di S. Paolo di Torino, delle Casse di risparmio di Milano e di Bologna e del Banco di Santo Spirito in Roma, se non parteciperanno alla formazione del nuovo Istituto, potranno continuare ad esercitare il credito fondiario, ma dovranno limitare le nuove operazioni alla zona rispettivamente a ciascuno di essi assegnata dalle convenzioni del 4 ottobre 1865, 23 febbraio 1866 e dai regi decreti 1° maggio 1870 e [24 luglio 1873, n. 722](Che%20autorizza%20il%20Banco%20di%20S.%20Spirito%20ad%20assumere%20lesercizio%20del%20Credito%20fondiario%20nella%20Provincia%20di%20Roma.%207300722R.md) serie 2ª), parte supplementare). 
  
  Il ministro d'agricoltura, industria e commercio, sentito il Consiglio di Stato e d'accordo colti Istituti interessati, potra' pero' in ogni tempo modificare con regio decreto i confini delle varie zone. 
  
@@ -204,7 +204,7 @@ All'Istituto nazionale ed agli Istituti che eserciteranno il credito fondiario i
 
 Gli Istituti di credito fondiario allorquando in esercizio della facolta' dichiarata alla lettera b, articolo 4 della legge 22 febbraio 1885, testo unico, acquistino per via di cessione o di surrogazione crediti ipotecari, dovranno far risultare dall'atto condizionato di mutuo le dichiarazioni del creditore cedente o surrogando e del proprietario dell'immobile ipotecato che non segui' e non fu loro notificata ne' da essi accettata alcuna surroga, cessione, pegno, pignoramento o sequestro del credito ipotecario in questione. 
  
- Ogni falsa attestazione al riguardo e' punita ai sensi dell'[articolo 279 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ Ogni falsa attestazione al riguardo e' punita ai sensi dell'[articolo 279 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Inoltre la cessione o la surrogazione a favore di un Istituto di credito fondiario risultante dal contratto condizionato dovra', dopo eseguita la relativa annotazione, essere a cura del mutuatario notificata per atto di usciere al domicilio eletto e al domicilio o residenza dichiarati nelle iscrizioni od annotazioni rispettive a tutti i creditori o posteriormente iscritti o che avessero fatto seguire annotazioni in margine od in calce delle dette posteriori iscrizioni. 
  

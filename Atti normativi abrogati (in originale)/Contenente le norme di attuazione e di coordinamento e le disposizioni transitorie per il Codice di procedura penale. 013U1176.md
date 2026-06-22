@@ -153,7 +153,7 @@ Nel caso di lesione personale, i periti la descrivono esattamente, indicano la s
  
  Se vi siano piu' lesioni, l'esame e il giudizio sono dati separatamente, quando occorra, per ciascuna lesione. 
  
- Se non sia possibile un giudizio definitivo, i periti procedono a nuovo accertamento nel decimo e nel ventesimo giorno. Il giudice puo' ordinare che l'accertamento sia eseguito anche in termine piu' breve, se lo stimi necessario; e puo' farlo eseguire al di la' dei venti giorni nei casi preveduti nei numeri 1 e 2 del primo capoverso dell'[articolo 372 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Se non sia possibile un giudizio definitivo, i periti procedono a nuovo accertamento nel decimo e nel ventesimo giorno. Il giudice puo' ordinare che l'accertamento sia eseguito anche in termine piu' breve, se lo stimi necessario; e puo' farlo eseguire al di la' dei venti giorni nei casi preveduti nei numeri 1 e 2 del primo capoverso dell'[articolo 372 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 15.
 
@@ -165,7 +165,7 @@ Nel caso d'incendio, i periti accertano la qualita' della materia incendiaria ad
 
 16.
 
-I periti descrivono le tracce e i segni dei furti che siano commessi nei modi preveduti nei [numeri 4](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [5](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [6](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [7 dell'articolo 404 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ed espongono il loro parere sul modo e il tempo del delitto, sugli strumenti o altri mezzi impiegati.
+I periti descrivono le tracce e i segni dei furti che siano commessi nei modi preveduti nei [numeri 4](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [5](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [6](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [7 dell'articolo 404 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ed espongono il loro parere sul modo e il tempo del delitto, sugli strumenti o altri mezzi impiegati.
 
 ### Art. 17.
 
@@ -387,7 +387,7 @@ L'esecuzione dei provvedimenti di ricovero dell'imputato in un manicomio, o in u
  
  Il ricovero dei minorenni nell'Istituto di correzione o educazione puo' essere eseguito anche a mezzo di una Societa' di assistenza o di patronato. 
  
- Per la esecuzione del provvedimento menzionato in fine del capoverso dell'[art. 53 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il presidente fa chiamare la persona a cui dev'essere fatta l'ingiunzione, e di questa fa redigere processo verbale alla presenza del pubblico ministero. Il pretore provvede nella stessa maniera con la sola assistenza del cancelliere.
+ Per la esecuzione del provvedimento menzionato in fine del capoverso dell'[art. 53 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il presidente fa chiamare la persona a cui dev'essere fatta l'ingiunzione, e di questa fa redigere processo verbale alla presenza del pubblico ministero. Il pretore provvede nella stessa maniera con la sola assistenza del cancelliere.
 
 ### Art. 44.
 

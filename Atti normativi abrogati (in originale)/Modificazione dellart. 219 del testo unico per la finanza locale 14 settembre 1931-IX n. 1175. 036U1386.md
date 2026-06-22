@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), che approva il testo Unico sulla finanza locale;
+Visto il [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), che approva il testo Unico sulla finanza locale;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le finanze, di concerto con quello per l'interno
 
 ## Art. 1.
 
-- Nel [primo comma dell'art. 219 del R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), alle parole nel secondo semestre dall'anno sono sostituite le parole «negli ultimi quattro mesi dell'anno». 
+- Nel [primo comma dell'art. 219 del R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), alle parole nel secondo semestre dall'anno sono sostituite le parole «negli ultimi quattro mesi dell'anno». 
  
  Tale modificazione ha effetto a decorrere dall'anno 1936.
 

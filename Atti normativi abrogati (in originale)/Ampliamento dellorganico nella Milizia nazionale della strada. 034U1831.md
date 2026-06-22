@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti il [R. decreto 26 novembre 1928, n. 2716](../Regi%20decreti/Istituzione%20della%20Milizia%20della%20strada.%20028U2716.md), e le [leggi 24 marzo 1930, n. 537, 8 giugno 1931, n. 836, e 8 giugno 1933, n. 757](Ampliamento%20dellorganico%20della%20Milizia%20nazionale%20della%20strada.%20033U0757.md),
+Visti il [R. decreto 26 novembre 1928, n. 2716](Istituzione%20della%20Milizia%20della%20strada.%20028U2716.md), e le [leggi 24 marzo 1930, n. 537, 8 giugno 1931, n. 836, e 8 giugno 1933, n. 757](Ampliamento%20dellorganico%20della%20Milizia%20nazionale%20della%20strada.%20033U0757.md),
 
 relativi alla Milizia nazionale della strada;
 

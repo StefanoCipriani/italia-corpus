@@ -14,9 +14,9 @@ Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto il [decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modifiche ed integrazioni;
 
-Visto il [decreto legislativo 31 marzo 1998, n. 80](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuove%20disposizioni%20in%20materia%20di%20organizzazione%20e%20di%20rapporti%20di%20lavoro%20nelle%20amministrazioni%20pubbliche%20di%20giurisdizione%20nelle%20controversie%20di%20lavoro%20e%20di%20giurisdizione%20amministrativa%20ema_9cf1dd317dff.md);
+Visto il [decreto legislativo 31 marzo 1998, n. 80](../Decreti%20Legislativi/Nuove%20disposizioni%20in%20materia%20di%20organizzazione%20e%20di%20rapporti%20di%20lavoro%20nelle%20amministrazioni%20pubbliche%20di%20giurisdizione%20nelle%20controversie%20di%20lavoro%20e%20di%20giurisdizione%20amministrativa%20ema_9cf1dd317dff.md);
 
-Ritenuta la straordinaria necessita' ed urgenza di provvedere al differimento del termine stabilito dall'articolo 45, comma 8, del citato [decreto legislativo 31 marzo 1998, n. 80](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuove%20disposizioni%20in%20materia%20di%20organizzazione%20e%20di%20rapporti%20di%20lavoro%20nelle%20amministrazioni%20pubbliche%20di%20giurisdizione%20nelle%20controversie%20di%20lavoro%20e%20di%20giurisdizione%20amministrativa%20ema_9cf1dd317dff.md);
+Ritenuta la straordinaria necessita' ed urgenza di provvedere al differimento del termine stabilito dall'articolo 45, comma 8, del citato [decreto legislativo 31 marzo 1998, n. 80](../Decreti%20Legislativi/Nuove%20disposizioni%20in%20materia%20di%20organizzazione%20e%20di%20rapporti%20di%20lavoro%20nelle%20amministrazioni%20pubbliche%20di%20giurisdizione%20nelle%20controversie%20di%20lavoro%20e%20di%20giurisdizione%20amministrativa%20ema_9cf1dd317dff.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 settembre 1998;
 
@@ -28,7 +28,7 @@ Emana il seguente decreto-legge:
 
 1.
 
-Il termine del 30 settembre 1998 di cui al [comma 8 dell'articolo 45 del decreto legislativo 31 marzo 1998, n. 80](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuove%20disposizioni%20in%20materia%20di%20organizzazione%20e%20di%20rapporti%20di%20lavoro%20nelle%20amministrazioni%20pubbliche%20di%20giurisdizione%20nelle%20controversie%20di%20lavoro%20e%20di%20giurisdizione%20amministrativa%20ema_9cf1dd317dff.md), e' prorogato al 31 dicembre 1998.
+Il termine del 30 settembre 1998 di cui al [comma 8 dell'articolo 45 del decreto legislativo 31 marzo 1998, n. 80](../Decreti%20Legislativi/Nuove%20disposizioni%20in%20materia%20di%20organizzazione%20e%20di%20rapporti%20di%20lavoro%20nelle%20amministrazioni%20pubbliche%20di%20giurisdizione%20nelle%20controversie%20di%20lavoro%20e%20di%20giurisdizione%20amministrativa%20ema_9cf1dd317dff.md), e' prorogato al 31 dicembre 1998.
 
 ## Art. 2.
 

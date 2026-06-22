@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduti il testo unico approvato col [Regio decreto 21 ottobre 1903, n. 431](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20nomina%20e%20il%20licenziamento%20dei%20maestri.%20003U0431.md), la [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md) e i [decreti-legge 15 maggio 1919, n. 882, 29 agosto 1919, n. 1675 e 9 novembre 1919, n. 2285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-11-09;2285);
+Veduti il testo unico approvato col [Regio decreto 21 ottobre 1903, n. 431](Che%20approva%20il%20regolamento%20per%20la%20nomina%20e%20il%20licenziamento%20dei%20maestri.%20003U0431.md), la [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md) e i [decreti-legge 15 maggio 1919, n. 882, 29 agosto 1919, n. 1675 e 9 novembre 1919, n. 2285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-11-09;2285);
 
 Considerata l'opportunita' e l'urgenza di estendere o modificare alcune delle norme contenute nei predetti decreti-legge;
 

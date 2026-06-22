@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Durante la guerra e sino ad un anno dopo la conclusione della pace, gli imputati, che siano detenuti da non meno di due anni, possono, a loro domanda e con l'autorizzazione dell'autorita' giudiziaria a disposizione della quale si trovano, essere aggregati dal Ministero dell'interno ad uno degli stabilimenti penitenziari agricoli o industriali indicati nell'[art. 14 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Durante la guerra e sino ad un anno dopo la conclusione della pace, gli imputati, che siano detenuti da non meno di due anni, possono, a loro domanda e con l'autorizzazione dell'autorita' giudiziaria a disposizione della quale si trovano, essere aggregati dal Ministero dell'interno ad uno degli stabilimenti penitenziari agricoli o industriali indicati nell'[art. 14 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 

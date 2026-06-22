@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'[art. 25 della legge 22 luglio 1906, n. 623](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-22;623#art_25), che autorizza il Governo a coordinare, sia fra loro, sia col [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le vigenti disposizioni sul lotto pubblico ed a raccoglierle in unico testo;
+Visto l'[art. 25 della legge 22 luglio 1906, n. 623](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-22;623#art_25), che autorizza il Governo a coordinare, sia fra loro, sia col [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le vigenti disposizioni sul lotto pubblico ed a raccoglierle in unico testo;
 
-Visto, per le disposizioni riferentisi alla materia contravvenzionale, il vigente [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) approvato con [R. decreto 30 giugno 1889, n. 6133](Che%20approva%20il%20testo%20definitivo%20del%20Codice%20penale%20per%20il%20Regno.%20089U6133.md);
+Visto, per le disposizioni riferentisi alla materia contravvenzionale, il vigente [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) approvato con [R. decreto 30 giugno 1889, n. 6133](Che%20approva%20il%20testo%20definitivo%20del%20Codice%20penale%20per%20il%20Regno.%20089U6133.md);
 
 Udito il parere del Consiglio di Stato;
 

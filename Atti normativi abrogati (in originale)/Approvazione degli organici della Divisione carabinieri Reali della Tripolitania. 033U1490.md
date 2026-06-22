@@ -28,7 +28,7 @@ Su proposta del Nostro Ministro Segretario di Stato per le colonie, di concerto 
 
 ## Art. 1.
 
-In deroga a quanto stabilisce l'[art. 6, comma 3°, del R. decreto-legge 26 luglio 1929, n. 1430](Modificazioni%20allordinamento%20e%20allorganico%20dellArma%20dei%20carabinieri%20Reali.%20029U1430.md), e' consentito, previa riduzione di 98 militari indigeni, l'aumento di 7 sottufficiali e 54 militari di truppa nazionale nell'organico della Divisione carabinieri Reali della Tripolitania fissato dal [R. decreto 10 dicembre 1931, n. 1762](../Regi%20decreti/Tabelle%20organiche%20del%20R.%20Corpo%20di%20truppe%20coloniali%20della%20Tripolitania.%20031U1762.md).
+In deroga a quanto stabilisce l'[art. 6, comma 3°, del R. decreto-legge 26 luglio 1929, n. 1430](Modificazioni%20allordinamento%20e%20allorganico%20dellArma%20dei%20carabinieri%20Reali.%20029U1430.md), e' consentito, previa riduzione di 98 militari indigeni, l'aumento di 7 sottufficiali e 54 militari di truppa nazionale nell'organico della Divisione carabinieri Reali della Tripolitania fissato dal [R. decreto 10 dicembre 1931, n. 1762](Tabelle%20organiche%20del%20R.%20Corpo%20di%20truppe%20coloniali%20della%20Tripolitania.%20031U1762.md).
 
 ## Art. 2.
 

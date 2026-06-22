@@ -16,7 +16,7 @@ Visto il [regio decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizion
 
 Visto il [regio decreto 22 dicembre 1932, n. 1728](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20regolamentari%20sul%20conferimento%20dei%20posti%20di%20notaro.%20032U1728.md), contenente disposizioni regolamentari sul conferimento dei posti di notaio;
 
-Visto il [decreto legislativo luogotenenziale 5 aprile 1946, n. 314](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20norme%20sul%20conferimento%20dei%20posti%20di%20notaio.md);
+Visto il [decreto legislativo luogotenenziale 5 aprile 1946, n. 314](Modificazioni%20alle%20norme%20sul%20conferimento%20dei%20posti%20di%20notaio_2.md);
 
 Visto l'art. 4 del decreto-legge luogotenenziale 25 giugno 1944,
 
@@ -30,16 +30,16 @@ Sulla proposta del Ministro per la grazia e giustizia, di concerto con il Minist
 
 ## Art. 1.
 
-Fermo il disposto degli [articoli 1](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20norme%20sul%20conferimento%20dei%20posti%20di%20notaio.md) e [9 del decreto legislativo luogotenenziale 5 aprile 1946, n. 314](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20norme%20sul%20conferimento%20dei%20posti%20di%20notaio.md), e' data facolta' al Ministro per la grazia e giustizia di indire entro il termine di due anni dalla data di entrata in vigore del presente decreto, un concorso per titoli per 53 posti di notaio a favore soltanto dei reduci dalla prigionia o dalla deportazione che siano in possesso dei requisiti stabiliti dall'art. 3 del decreto anzidetto.
+Fermo il disposto degli [articoli 1](Modificazioni%20alle%20norme%20sul%20conferimento%20dei%20posti%20di%20notaio_2.md) e [9 del decreto legislativo luogotenenziale 5 aprile 1946, n. 314](Modificazioni%20alle%20norme%20sul%20conferimento%20dei%20posti%20di%20notaio_2.md), e' data facolta' al Ministro per la grazia e giustizia di indire entro il termine di due anni dalla data di entrata in vigore del presente decreto, un concorso per titoli per 53 posti di notaio a favore soltanto dei reduci dalla prigionia o dalla deportazione che siano in possesso dei requisiti stabiliti dall'art. 3 del decreto anzidetto.
  Ai posti da conferire mediante tale concorso potranno inoltre essere aggiunti quelli gia' accantonati a norma del citato art. 9 che rimarranno eventualmente disponibili dopo esaurito il concorso per titoli previsto nello stesso articolo.
 
 ## Art. 2.
 
-Per i concorsi che saranno indetti a favore dei reduci dalla prigionia o dalla deportazione, a termini degli [articoli 9 del decreto legislativo luogotenenziale 5 aprile 1946, n. 314](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20norme%20sul%20conferimento%20dei%20posti%20di%20notaio.md) e [1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-05;1) del presente decreto, il periodo di pratica notarile richiesto per l'ammissione e' ridotto a sei mesi continui.
+Per i concorsi che saranno indetti a favore dei reduci dalla prigionia o dalla deportazione, a termini degli [articoli 9 del decreto legislativo luogotenenziale 5 aprile 1946, n. 314](Modificazioni%20alle%20norme%20sul%20conferimento%20dei%20posti%20di%20notaio_2.md) e [1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-05;1) del presente decreto, il periodo di pratica notarile richiesto per l'ammissione e' ridotto a sei mesi continui.
 
 ## Art. 3.
 
-Per il concorso di cui all'art. 1 del presente decreto saranno osservate, in quanto applicabili, le disposizioni del [decreto legislativo luogotenenziale 5 aprile 1946, n. 314](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20norme%20sul%20conferimento%20dei%20posti%20di%20notaio.md).
+Per il concorso di cui all'art. 1 del presente decreto saranno osservate, in quanto applicabili, le disposizioni del [decreto legislativo luogotenenziale 5 aprile 1946, n. 314](Modificazioni%20alle%20norme%20sul%20conferimento%20dei%20posti%20di%20notaio_2.md).
 
 ## Art. 4.
 

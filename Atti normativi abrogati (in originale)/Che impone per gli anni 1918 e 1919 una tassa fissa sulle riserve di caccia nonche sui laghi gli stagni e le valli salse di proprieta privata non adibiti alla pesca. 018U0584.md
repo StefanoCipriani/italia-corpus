@@ -20,7 +20,7 @@ Per ogni ettaro o frazione di ettaro che sia dal proprietario o possessore costi
 
 I fondi riservati per la caccia dovranno essere circondati da pali collocati a distanza di non piu' di cento metri l'uno dall'altro, e recanti ad altezza di quattro metri, e in ogni caso in modo visibile, una targa con la scritta «Divieto di caccia». 
  
- Ove questa prescrizione non sia osservata, non si riterranno sussistere i segnali che rendono palese la inibizione agli effetti dell'[articolo 428 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Ove questa prescrizione non sia osservata, non si riterranno sussistere i segnali che rendono palese la inibizione agli effetti dell'[articolo 428 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 3.
 

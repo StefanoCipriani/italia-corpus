@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 20 maggio 1926, n. 1106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-20;1106), che reca modificazioni al [R. decreto 31 dicembre 1923, numero 3125](../Regi%20decreti/Agevolazioni%20per%20la%20costruzione%20di%20edifici%20scolastici.%20023U3125.md), concernente l'edilizia scolastica. 
+ E' convertito in legge il [R. decreto 20 maggio 1926, n. 1106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-20;1106), che reca modificazioni al [R. decreto 31 dicembre 1923, numero 3125](Agevolazioni%20per%20la%20costruzione%20di%20edifici%20scolastici.%20023U3125.md), concernente l'edilizia scolastica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

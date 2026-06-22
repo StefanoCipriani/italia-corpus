@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le anticipazioni alle Casse di risparmio per delegazioni sulla sovrimposta e sui contributi, rilasciate da Provincie, Comuni e Consorzi, autorizzate dal [R. decreto 23 maggio 1915, n. 711](../Regi%20decreti/Che%20aumenta%20il%20fondo%20di%20300%20milioni%20di%20cui%20al%20R.%20decreto%2018%20agosto%201914%20n.%20827%20per%20anticipazioni%20da%20patre%20degli%20istituti%20di%20emissione%20e%20si%20danno%20disposizioni%20per%20lerogazione%20del%20fondo%20anz_1599d009fa7a.md), sono consentite per somma eguale al valore attuale delle delegazioni offerte in garanzia, con uno scarto prudenziale non eccedente in ogni caso il 10% del valore suddetto.
+Le anticipazioni alle Casse di risparmio per delegazioni sulla sovrimposta e sui contributi, rilasciate da Provincie, Comuni e Consorzi, autorizzate dal [R. decreto 23 maggio 1915, n. 711](Che%20aumenta%20il%20fondo%20di%20300%20milioni%20di%20cui%20al%20R.%20decreto%2018%20agosto%201914%20n.%20827%20per%20anticipazioni%20da%20patre%20degli%20istituti%20di%20emissione%20e%20si%20danno%20disposizioni%20per%20lerogazione%20del%20fondo%20anz_1599d009fa7a.md), sono consentite per somma eguale al valore attuale delle delegazioni offerte in garanzia, con uno scarto prudenziale non eccedente in ogni caso il 10% del valore suddetto.
 
 ## Art. 2.
 

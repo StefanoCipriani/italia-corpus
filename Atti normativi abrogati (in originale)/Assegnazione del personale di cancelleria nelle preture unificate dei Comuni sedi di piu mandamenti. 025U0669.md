@@ -32,7 +32,7 @@ Nelle preture di Alessandria, Ancona, Bari, Bergamo, Bologna, Brescia, Cagliari,
 
 ## Art. 2.
 
-Rimane fermo il disposto dell'[art. 16 del R. decreto 27 novembre 1924, n. 2057](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto-legge%2023%20maggio%201924%20n.%20772%20circa%20lunificazione%20degli%20uffici%20di%20pretura%20nei%20Comuni%20sede%20di%20piu%20mandamenti.%20024U2057.md), e all'uopo, ove all'atto della unificazione siavi eccedenza di personale di cancelleria rispetto alla pianta organica, il funzionario meno anziano e' trasferito ad altro ufficio, possibilmente della stessa sede, o sara' trattenuto in servizio nell'ufficio unificato, in soprannumero, fino alla vacanza di un posto in sottordine nell'ufficio stesso.
+Rimane fermo il disposto dell'[art. 16 del R. decreto 27 novembre 1924, n. 2057](Norme%20per%20lattuazione%20del%20R.%20decreto-legge%2023%20maggio%201924%20n.%20772%20circa%20lunificazione%20degli%20uffici%20di%20pretura%20nei%20Comuni%20sede%20di%20piu%20mandamenti.%20024U2057.md), e all'uopo, ove all'atto della unificazione siavi eccedenza di personale di cancelleria rispetto alla pianta organica, il funzionario meno anziano e' trasferito ad altro ufficio, possibilmente della stessa sede, o sara' trattenuto in servizio nell'ufficio unificato, in soprannumero, fino alla vacanza di un posto in sottordine nell'ufficio stesso.
 
 ## Art. 3.
 

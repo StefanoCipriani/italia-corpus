@@ -18,9 +18,9 @@ Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.no
 
 Visto il [regio decreto-legge 25 gennaio 1921, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-01-25;44), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visto il [regio decreto-legge 13 gennaio 1927, n. 15](Norme%20per%20il%20servizio%20di%20trasmissione%20e%20recapito%20dei%20telegrammi%20per%20telefono.%20027U0015.md), convertito nella [legge 18 dicembre 1927, n. 2428](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20gennaio%201927%20n.%2015%20che%20reca%20norme%20per%20il%20servizio%20di%20trasmissione%20e%20recapito%20dei%20telegrammi%20per%20telefono.%20027U2428.md);
+Visto il [regio decreto-legge 13 gennaio 1927, n. 15](Norme%20per%20il%20servizio%20di%20trasmissione%20e%20recapito%20dei%20telegrammi%20per%20telefono.%20027U0015.md), convertito nella [legge 18 dicembre 1927, n. 2428](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20gennaio%201927%20n.%2015%20che%20reca%20norme%20per%20il%20servizio%20di%20trasmissione%20e%20recapito%20dei%20telegrammi%20per%20telefono.%20027U2428.md);
 
-Visto il [decreto legislativo luogotenenziale 5 aprile 1945, n. 247](../Decreti%20legislativi%20luogotenenziali/Aumento%20delle%20tariffe%20telefoniche%20interurbane%20e%20determinazione%20dei%20giorni%20festivi%20per%20la%20loro%20riduzione.%20045U0247.md), con il quale sono state aumentate le tariffe telefoniche interurbane;
+Visto il [decreto legislativo luogotenenziale 5 aprile 1945, n. 247](Aumento%20delle%20tariffe%20telefoniche%20interurbane%20e%20determinazione%20dei%20giorni%20festivi%20per%20la%20loro%20riduzione.%20045U0247.md), con il quale sono state aumentate le tariffe telefoniche interurbane;
 
 Visti i [decreti legislativi luogotenenziali 21 gennaio 1946, nn. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-21;6) e [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-21;7), con i quali sono state aumentate le tariffe postali e telegrafiche;
 
@@ -40,7 +40,7 @@ L'ultimo comma dell'[art. 32 del regio decreto-legge 25 gennaio 1921, n. 44](htt
 
 ## Art. 2.
 
-Il compenso di L. 0,40 per ogni telegramma dettato, stabilito nell'[art. 9 del regio decreto-legge 13 gennaio 1927, n. 15](Norme%20per%20il%20servizio%20di%20trasmissione%20e%20recapito%20dei%20telegrammi%20per%20telefono.%20027U0015.md), convertito nella [legge 18 dicembre 1927, n. 2428](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20gennaio%201927%20n.%2015%20che%20reca%20norme%20per%20il%20servizio%20di%20trasmissione%20e%20recapito%20dei%20telegrammi%20per%20telefono.%20027U2428.md), e' elevato a L. 4.
+Il compenso di L. 0,40 per ogni telegramma dettato, stabilito nell'[art. 9 del regio decreto-legge 13 gennaio 1927, n. 15](Norme%20per%20il%20servizio%20di%20trasmissione%20e%20recapito%20dei%20telegrammi%20per%20telefono.%20027U0015.md), convertito nella [legge 18 dicembre 1927, n. 2428](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20gennaio%201927%20n.%2015%20che%20reca%20norme%20per%20il%20servizio%20di%20trasmissione%20e%20recapito%20dei%20telegrammi%20per%20telefono.%20027U2428.md), e' elevato a L. 4.
 
 ## Art. 3.
 

@@ -24,7 +24,7 @@ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20G
 
 Vista la [legge 2 luglio 1911, n. 630](Concernente%20modificazioni%20alla%20legge%2027%20giugno%201909%20n.%20384%20circa%20spese%20per%20la%20marina%20militare.%20011U0630.md);
 
-Visto il [R. decreto 26 giugno 1915, n. 993](../Regi%20decreti/Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md), che da' facolta' al Governo di dichiarare soggetto alla giurisdizione militare, in tutto o in parte, il personale degli stabilimenti che producono materiali per l'esercito o per l'armata, ogni qualvolta occorra, per assicurare la continuita' e lo sviluppo della produzione richiesta dalle esigenze della guerra;
+Visto il [R. decreto 26 giugno 1915, n. 993](Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md), che da' facolta' al Governo di dichiarare soggetto alla giurisdizione militare, in tutto o in parte, il personale degli stabilimenti che producono materiali per l'esercito o per l'armata, ogni qualvolta occorra, per assicurare la continuita' e lo sviluppo della produzione richiesta dalle esigenze della guerra;
 
 Sentito il Consiglio dei ministri;
 

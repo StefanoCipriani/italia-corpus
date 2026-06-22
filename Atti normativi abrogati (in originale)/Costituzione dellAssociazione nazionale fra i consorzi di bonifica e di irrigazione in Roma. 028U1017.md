@@ -82,7 +82,7 @@ Per agevolare ed assistere l'attivita' degli enti, l'Associazione provvede speci
  
  Per il compito di cui alla lettera d) l'Associazione nazionale puo' emettere titoli fruttiferi, previa autorizzazione dei Ministri per i lavori pubblici, per le finanze e per l'economia nazionale. 
  
- In caso di prestiti da contrarre all'estero, in luogo dell'autorizzazione del Ministro per le finanze, occorre quella del Comitato istituito con [R. decreto 5 gennaio 1928, n. 1](../Regi%20decreti/Norme%20per%20la%20disciplina%20della%20contrattazione%20di%20operazioni%20di%20mutuo%20allestero.%20028U0001.md).
+ In caso di prestiti da contrarre all'estero, in luogo dell'autorizzazione del Ministro per le finanze, occorre quella del Comitato istituito con [R. decreto 5 gennaio 1928, n. 1](Norme%20per%20la%20disciplina%20della%20contrattazione%20di%20operazioni%20di%20mutuo%20allestero.%20028U0001.md).
 
 ## Art. 5.
 

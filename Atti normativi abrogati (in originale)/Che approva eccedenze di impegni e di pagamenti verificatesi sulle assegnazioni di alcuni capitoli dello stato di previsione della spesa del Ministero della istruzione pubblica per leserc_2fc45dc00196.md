@@ -24,9 +24,9 @@ Sono approvare le seguenti eccedenze d'impegno, verificatesi in sede di consunti
  comandati agli uffici provinciali ([art. 83 della 
  legge 4 giugno 1911, n. 487, e l6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;6#art_83) del 
  regalamento approvato con [R. decreto 1° febbraio 
- 1912, n. 180](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20riguardante%20le%20attribuzioni%20la%20nomina%20e%20la%20carriera%20degli%20ispettori%20e%20dei%20vice%20ispettori%20scolastici%20ed%20il%20conferimento%20dei%20posti%20dispettore%20_d883a96522e0.md)) - Assegni fissi agli ispettori 
+ 1912, n. 180](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20riguardante%20le%20attribuzioni%20la%20nomina%20e%20la%20carriera%20degli%20ispettori%20e%20dei%20vice%20ispettori%20scolastici%20ed%20il%20conferimento%20dei%20posti%20dispettore%20_d883a96522e0.md)) - Assegni fissi agli ispettori 
  scolastici destinati al Ministero in virtu' del 
- [R. decreto 12 marzo 1914, n. 415](../Regi%20decreti/Col%20quale%20viene%20modificato%20lart.%201%20del%20regolamento%20approvato%20con%20R.%20decreto%201%20febbraio%201912%20n.%20180%20riguardante%20la%20nomina%20la%20carriera%20e%20le%20attribuzioni%20degli%20ispettori%20e%20dei%20vice%20ispettori_9b5b13ca07c7.md), (spese fisse). 
+ [R. decreto 12 marzo 1914, n. 415](Col%20quale%20viene%20modificato%20lart.%201%20del%20regolamento%20approvato%20con%20R.%20decreto%201%20febbraio%201912%20n.%20180%20riguardante%20la%20nomina%20la%20carriera%20e%20le%20attribuzioni%20degli%20ispettori%20e%20dei%20vice%20ispettori_9b5b13ca07c7.md), (spese fisse). 
  In conto competenza . . . . . . . . . . . . . . . . . 41,638.05  Cap. n. 33. Regi ispettori scolastici - 
  Personale - Indennita' di residenza in Roma 
  (Spese fisse). In conto competenza . . . . . . . . . 971.24  Cap. n. 42. Sussidi a vedove ed orfani minorenni 
@@ -104,7 +104,7 @@ Sono approvare le seguenti eccedenze d'impegno, verificatesi in sede di consunti
  Anagni, a carico dei fondi della soppressa Cassa 
  ecclesiastica (articolo 25 del decreto 
  Luogotenenziale 17 febbraio l861. num. 25l, e 
- [Regio decreto 27 giugno 1897, n. 415](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lerogazione%20della%20somma%20di%20L.%2084000%20proveniente%20dal%20fondo%20della%20soppressa%20Cassa%20Ecclesiastica%20inscritta%20nel%20bilancio%20dellIstruzione.%20097U0415.md), modificato 
+ [Regio decreto 27 giugno 1897, n. 415](Che%20approva%20il%20Regolamento%20per%20lerogazione%20della%20somma%20di%20L.%2084000%20proveniente%20dal%20fondo%20della%20soppressa%20Cassa%20Ecclesiastica%20inscritta%20nel%20bilancio%20dellIstruzione.%20097U0415.md), modificato 
  col Regio decreto 26 gennaio, 1913, n. 366) In 
  conto competenza . . . . . . . . . . . . . . . . . . 5,883.81  Cap. n. 141. Istituti dei sordo-muti - Personale 
  di ruolo - Stipendi - Remunerazioni per 

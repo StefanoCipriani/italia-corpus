@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Viste le tariffe e condizioni valevoli per i trasporti effettuati sulle linee ferroviarie esercitate dallo Stato;
 
-Visto l'ultimo capoverso dell'[art. 62 legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato con [R. decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
+Visto l'ultimo capoverso dell'[art. 62 legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato con [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
 
 Considerata la necessita' di rendere piu' facile e sollecita la determinazione e riscossione, per ogni biglietto, dell'aumento del 20% per i viaggi domenicali, stabilito dall'[art. 4 del R. decreto-legge 8 aprile 1920, n. 410](Che%20aumenta%20alcune%20tariffe%20di%20trasporti%20sulle%20ferrovie%20dello%20Stato.%20020U0410.md), mantenendone tuttavia invariati nel complesso gli effetti finanziari;
 

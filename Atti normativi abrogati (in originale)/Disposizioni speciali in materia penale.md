@@ -20,13 +20,13 @@ Sulla proposta del Ministro Segretario di Stato per la grazia e giustizia; HA SA
 
 ## Art. 1.
 
-Continuano ad avere efficacia, sino a nuova disposizione, le norme dell'[art. 6 del decreto legislativo luogotenenziale 10 agosto 1944, n. 194](../Decreti%20legislativi%20luogotenenziali/Temporanea%20limitazione%20dei%20casi%20di%20arresto%20e%20di%20mandato%20di%20cattura%20e%20della%20custodia%20preventiva.%20044U0194.md).
+Continuano ad avere efficacia, sino a nuova disposizione, le norme dell'[art. 6 del decreto legislativo luogotenenziale 10 agosto 1944, n. 194](Temporanea%20limitazione%20dei%20casi%20di%20arresto%20e%20di%20mandato%20di%20cattura%20e%20della%20custodia%20preventiva.%20044U0194.md).
  Le ordinanze pronunciate a termine dei predetto art. 6 sono impugnabili dal pubblico ministero e dall'imputato, ai sensi del [primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_280-com1) e [secondo comma dell'art. 280 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_280-com2).
  Per le ordinanze pronunciate anteriormente alla data di entrata in vigore del presente decreto, il termine per la impugnazione decorre dal decimo giorno dopo la data anzidetta.
 
 ## Art. 2.
 
-Riguardo ai procedimenti in corso al 15 ottobre 1947 continuano ad applicarsi gli [articoli 4](../Decreti%20legislativi%20luogotenenziali/Temporanea%20limitazione%20dei%20casi%20di%20arresto%20e%20di%20mandato%20di%20cattura%20e%20della%20custodia%20preventiva.%20044U0194.md) e [5 del decreto legislativo luogotenenziale 10 agosto 1944, n. 194](../Decreti%20legislativi%20luogotenenziali/Temporanea%20limitazione%20dei%20casi%20di%20arresto%20e%20di%20mandato%20di%20cattura%20e%20della%20custodia%20preventiva.%20044U0194.md).
+Riguardo ai procedimenti in corso al 15 ottobre 1947 continuano ad applicarsi gli [articoli 4](Temporanea%20limitazione%20dei%20casi%20di%20arresto%20e%20di%20mandato%20di%20cattura%20e%20della%20custodia%20preventiva.%20044U0194.md) e [5 del decreto legislativo luogotenenziale 10 agosto 1944, n. 194](Temporanea%20limitazione%20dei%20casi%20di%20arresto%20e%20di%20mandato%20di%20cattura%20e%20della%20custodia%20preventiva.%20044U0194.md).
 
 ## Art. 3.
 
@@ -34,7 +34,7 @@ Le disposizioni contenute nella [legge 13 giugno 1942, n. 788](Repressione%20del
 
 ## Art. 4.
 
-Hanno efficacia fino al 15 ottobre 1948 le disposizioni del [decreto legislativo luogotenenziale 8 dicembre 1944, n. 406](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20agli%20articoli%20238%20e%20238-bis%20del%20Codice%20di%20procedura%20penale.%20044U0406.md), recante modificazioni agli [articoli 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_238) e [238-bis del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_238bis).
+Hanno efficacia fino al 15 ottobre 1948 le disposizioni del [decreto legislativo luogotenenziale 8 dicembre 1944, n. 406](Modificazioni%20agli%20articoli%20238%20e%20238-bis%20del%20Codice%20di%20procedura%20penale.%20044U0406.md), recante modificazioni agli [articoli 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_238) e [238-bis del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_238bis).
 
 ## Art. 5.
 

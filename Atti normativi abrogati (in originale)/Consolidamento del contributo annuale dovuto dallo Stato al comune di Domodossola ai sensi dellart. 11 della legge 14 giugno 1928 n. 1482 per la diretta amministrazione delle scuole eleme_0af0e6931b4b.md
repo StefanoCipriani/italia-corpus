@@ -38,4 +38,4 @@ VITTORIO EMANUELE III
 ------------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 11 dicembre 1930, n. 1974](../Regi%20decreti/Revoca%20del%20R.%20decreto%203%20aprile%201930%20n.%201116%20che%20consolidava%20il%20contributo%20annuale%20dovuto%20dallo%20Stato%20al%20comune%20di%20Domodossola%20per%20laggregazione%20dellex%20comune%20di%20Vagna.%20030U1974.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 11 dicembre 1930, n. 1974](Revoca%20del%20R.%20decreto%203%20aprile%201930%20n.%201116%20che%20consolidava%20il%20contributo%20annuale%20dovuto%20dallo%20Stato%20al%20comune%20di%20Domodossola%20per%20laggregazione%20dellex%20comune%20di%20Vagna.%20030U1974.md), e' visualizzabile nell'aggiornamento successivo dello stesso.

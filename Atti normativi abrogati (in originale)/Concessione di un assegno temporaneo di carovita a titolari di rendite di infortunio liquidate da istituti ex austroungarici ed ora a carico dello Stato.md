@@ -16,7 +16,7 @@ Visto il [regio decreto-legge 23 marzo 1933, n. 264](https://www.normattiva.it/u
 
 Visto il [regio decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md);
 
-Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 343](../Decreti%20legislativi%20luogotenenziali/Corresponsione%20di%20un%20assegno%20temporaneo%20di%20carovita%20ai%20titolari%20di%20rendita%20per%20infortunio%20sul%20lavoro%20o%20per%20malattie%20professionali%20con%20grado%20di%20inabilita%20dal%2050%20al%20100%20.%20045U0343.md);
+Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 343](Corresponsione%20di%20un%20assegno%20temporaneo%20di%20carovita%20ai%20titolari%20di%20rendita%20per%20infortunio%20sul%20lavoro%20o%20per%20malattie%20professionali%20con%20grado%20di%20inabilita%20dal%2050%20al%20100%20.%20045U0343.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per il tesoro, di concerto con i Ministri per gli af
 
 ## Art. 1.
 
-Ai titolari delle rendite di infortunio per Inabilita' permanente di grado dal 50 al 100 per cento, nonche' ai titolari superstiti di lavoratori deceduti per infortunio sul lavoro contemplati negli articoli i e 3 del [regio decreto-legge 24 settembre 1931, n. 1555](Provvedimenti%20per%20i%20titolari%20di%20rendite%20dinfortunio%20gia%20a%20carico%20dIstituti%20austro-ungarici%20di%20previdenza%20sociale.%20031U1555.md), viene esteso, a decorrere dal 1° luglio 1946, e fino e nuova disposizione, l'assegno temporaneo di carovita previsto dall'[art. 1, del decreto legislativo luogotenenziale 26 aprile 1945, n. 343](../Decreti%20legislativi%20luogotenenziali/Corresponsione%20di%20un%20assegno%20temporaneo%20di%20carovita%20ai%20titolari%20di%20rendita%20per%20infortunio%20sul%20lavoro%20o%20per%20malattie%20professionali%20con%20grado%20di%20inabilita%20dal%2050%20al%20100%20.%20045U0343.md).
+Ai titolari delle rendite di infortunio per Inabilita' permanente di grado dal 50 al 100 per cento, nonche' ai titolari superstiti di lavoratori deceduti per infortunio sul lavoro contemplati negli articoli i e 3 del [regio decreto-legge 24 settembre 1931, n. 1555](Provvedimenti%20per%20i%20titolari%20di%20rendite%20dinfortunio%20gia%20a%20carico%20dIstituti%20austro-ungarici%20di%20previdenza%20sociale.%20031U1555.md), viene esteso, a decorrere dal 1° luglio 1946, e fino e nuova disposizione, l'assegno temporaneo di carovita previsto dall'[art. 1, del decreto legislativo luogotenenziale 26 aprile 1945, n. 343](Corresponsione%20di%20un%20assegno%20temporaneo%20di%20carovita%20ai%20titolari%20di%20rendita%20per%20infortunio%20sul%20lavoro%20o%20per%20malattie%20professionali%20con%20grado%20di%20inabilita%20dal%2050%20al%20100%20.%20045U0343.md).
 
 ## Art. 2.
 

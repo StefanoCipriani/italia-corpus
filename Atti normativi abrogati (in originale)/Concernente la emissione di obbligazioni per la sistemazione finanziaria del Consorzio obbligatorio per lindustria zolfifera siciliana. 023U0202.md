@@ -48,7 +48,7 @@ Le somme ricavate dal collocamento delle obbligazioni saranno destinate interame
  
  2° al pagamento dei certificati di avanzo di Cassa relativi all'esercizio 1920-921 secondo le risultanze del bilancio. 
  
- Ove le dette somme non siano sufficienti a soddisfare i pagamenti prodotti, la differenza a saldo sara' prelevata dall'importo dei versamenti eseguiti dallo Stato in conto delle somme spettanti ai consorsiati ai termini del [R. decreto 31 agosto 1919, n. 1754](../Regi%20decreti/Contenente%20norme%20per%20la%20erogazione%20e%20ripartizione%20degli%20utili%20ricavati%20dalle%20rendite%20di%20zolfo%20grezzo%20e%20lavorato%20fatte%20ai%20Governi%20alleati%20e%20neutrali.%20019U1754.md).
+ Ove le dette somme non siano sufficienti a soddisfare i pagamenti prodotti, la differenza a saldo sara' prelevata dall'importo dei versamenti eseguiti dallo Stato in conto delle somme spettanti ai consorsiati ai termini del [R. decreto 31 agosto 1919, n. 1754](Contenente%20norme%20per%20la%20erogazione%20e%20ripartizione%20degli%20utili%20ricavati%20dalle%20rendite%20di%20zolfo%20grezzo%20e%20lavorato%20fatte%20ai%20Governi%20alleati%20e%20neutrali.%20019U1754.md).
 
 ## Art. 4.
 
@@ -58,7 +58,7 @@ Alla reintegrazione del complesso delle somme dovute allo Stato per la tassa di 
 
 ## Art. 5.
 
-Non si fara' luogo alla reintegrazione di quella parte delle somme versate dallo Stato al Consorzio a favore dei Consorziati, ai termini del [R. decreto 31 agosto 1919, n. 1754](../Regi%20decreti/Contenente%20norme%20per%20la%20erogazione%20e%20ripartizione%20degli%20utili%20ricavati%20dalle%20rendite%20di%20zolfo%20grezzo%20e%20lavorato%20fatte%20ai%20Governi%20alleati%20e%20neutrali.%20019U1754.md), la quale al 30 aprile 1922 si trovava erogata per spese di amministrazione dell'esercizio o investita in anticipazione ai consorziati.
+Non si fara' luogo alla reintegrazione di quella parte delle somme versate dallo Stato al Consorzio a favore dei Consorziati, ai termini del [R. decreto 31 agosto 1919, n. 1754](Contenente%20norme%20per%20la%20erogazione%20e%20ripartizione%20degli%20utili%20ricavati%20dalle%20rendite%20di%20zolfo%20grezzo%20e%20lavorato%20fatte%20ai%20Governi%20alleati%20e%20neutrali.%20019U1754.md), la quale al 30 aprile 1922 si trovava erogata per spese di amministrazione dell'esercizio o investita in anticipazione ai consorziati.
 
 ## Art. 6.
 
@@ -88,7 +88,7 @@ Per far fronte alle eventuali deficienze del ricavo della vendita dello stock de
  
  4° un ulteriore 10 per cento degli estagli di cui al n. 2 dalla data in cui saranno cessati gli effetti del [Regio decreto-legge 29 gennaio 1922, n. 117](Recante%20disposizioni%20per%20la%20riduzione%20dei%20canoni%20estagli%20nelle%20miniere%20di%20zolfo%20della%20Sicilia.%20022U0117.md), a tutto il 31 luglio 1931; 
  
- 5° i tre quinti delle somme accantonate per il progresso tecnico ed economico dell'industria zolfifera ai sensi dell'[articolo 1 lettera b) del Regio decreto 31 agosto 1919, n. 1754](../Regi%20decreti/Contenente%20norme%20per%20la%20erogazione%20e%20ripartizione%20degli%20utili%20ricavati%20dalle%20rendite%20di%20zolfo%20grezzo%20e%20lavorato%20fatte%20ai%20Governi%20alleati%20e%20neutrali.%20019U1754.md). 
+ 5° i tre quinti delle somme accantonate per il progresso tecnico ed economico dell'industria zolfifera ai sensi dell'[articolo 1 lettera b) del Regio decreto 31 agosto 1919, n. 1754](Contenente%20norme%20per%20la%20erogazione%20e%20ripartizione%20degli%20utili%20ricavati%20dalle%20rendite%20di%20zolfo%20grezzo%20e%20lavorato%20fatte%20ai%20Governi%20alleati%20e%20neutrali.%20019U1754.md). 
  
  In caso di esercizio diretto delle miniere di zolfo della Sicilia da parte dei rispettivi proprietari, i contributi di cui ai numeri 2 e 4 del presente articolo saranno prelevati sopra una quota parte dello zolfo depositato presso il Consorzio dai proprietari diretti esercenti, da considerarsi come estaglio, la cui determinazione e' demandata all'Ufficio delle miniere di Caltanissetta. 
  

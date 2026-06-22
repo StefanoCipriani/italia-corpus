@@ -16,13 +16,13 @@ RE D'ITALIA
 
 Visto il [R. decreto 2 ottobre 1919, n. 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;1995), che reca provvedimenti a favore della produzione e della utilizzazione dell'energia idroelettrica, convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visto il [R. decreto 5 settembre 1922, n. 1454](../Regi%20decreti/Che%20estende%20alle%20nuove%20Provincie%20le%20disposizioni%20relative%20alla%20produzione%20ed%20utilizzazione%20dellenergia%20elettrica.%20022U1454.md), che reca analoghe norme per i territori annessi con le [leggi 26 settembre 1920, n. 1322, e 19 dicembre 1920, n. 1778](Che%20approva%20lannesso%20Trattato%20concluso%20fra%20il%20Regno%20dItalia%20e%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20020U1778.md);
+Visto il [R. decreto 5 settembre 1922, n. 1454](Che%20estende%20alle%20nuove%20Provincie%20le%20disposizioni%20relative%20alla%20produzione%20ed%20utilizzazione%20dellenergia%20elettrica.%20022U1454.md), che reca analoghe norme per i territori annessi con le [leggi 26 settembre 1920, n. 1322, e 19 dicembre 1920, n. 1778](Che%20approva%20lannesso%20Trattato%20concluso%20fra%20il%20Regno%20dItalia%20e%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20020U1778.md);
 
 Visti i [Regi decreti 9 ottobre 1919, n. 2161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-09;2161); [14 agosto 1920, n. 1285](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20le%20derivazioni%20e%20utilizzazioni%20di%20acque%20pubbliche.%20020U1285.md), e [25 febbraio 1924, n. 456](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-25;456);
 
-Visto il [R. decreto 10 maggio 1923, n. 1792](../Regi%20decreti/Convalidazione%20dei%20Regi%20decreti%2019%20novembre%201921%20n.%201592%20e%2016%20novembre%201921%20n.%201593%20e%20modificazione%20dellimposta%20sul%20consumo%20del%20gas%20e%20dellenergia%20elettrica.%20023U1792.md);
+Visto il [R. decreto 10 maggio 1923, n. 1792](Convalidazione%20dei%20Regi%20decreti%2019%20novembre%201921%20n.%201592%20e%2016%20novembre%201921%20n.%201593%20e%20modificazione%20dellimposta%20sul%20consumo%20del%20gas%20e%20dellenergia%20elettrica.%20023U1792.md);
 
-Visto il [R. decreto 19 marzo 1925, n. 266](../Regi%20decreti/Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md);
+Visto il [R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -56,7 +56,7 @@ Il contributo per il servizio idrografico fluviale, previsto al penultimo comma 
 
 ## Art. 5.
 
-Le spese derivanti dalla attuazione del presente decreto faranno carico alle apposite assegnazioni stabilite col [R. decreto 19 marzo 1925, n. 266](../Regi%20decreti/Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), da integrarsi, qualora se ne manifesti il bisogno, mediante prelevamenti dallo speciale fondo di riserva istituito col decreto medesimo.
+Le spese derivanti dalla attuazione del presente decreto faranno carico alle apposite assegnazioni stabilite col [R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), da integrarsi, qualora se ne manifesti il bisogno, mediante prelevamenti dallo speciale fondo di riserva istituito col decreto medesimo.
 
 ## Art. 6.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduti il [decreto Luogotenenziale 26 maggio 1918, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-26;723), il [R. decreto 24 luglio 1919, n. 1459](../Regi%20decreti/Che%20stabilisce%20norme%20per%20la%20somministrazione%20di%20crediti%20da%20parte%20del%20tesoro%20dello%20Stato%20alle%20cooperative%20per%20enti%20ed%20istituti%20di%20consumo%20per%20acquisto%20conservazione%20e%20distribuzione%20dei%20gen_16674d77d820.md), ed il [R. decreto-legge 16 febbraio 1922, n. 334](Che%20reca%20norme%20intese%20ad%20agevolare%20il%20credito%20ad%20Enti%20autonomi%20di%20consumo%20a%20Cooperative%20e%20loro%20Consorsi.%20022U0334.md);
+Veduti il [decreto Luogotenenziale 26 maggio 1918, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-26;723), il [R. decreto 24 luglio 1919, n. 1459](Che%20stabilisce%20norme%20per%20la%20somministrazione%20di%20crediti%20da%20parte%20del%20tesoro%20dello%20Stato%20alle%20cooperative%20per%20enti%20ed%20istituti%20di%20consumo%20per%20acquisto%20conservazione%20e%20distribuzione%20dei%20gen_16674d77d820.md), ed il [R. decreto-legge 16 febbraio 1922, n. 334](Che%20reca%20norme%20intese%20ad%20agevolare%20il%20credito%20ad%20Enti%20autonomi%20di%20consumo%20a%20Cooperative%20e%20loro%20Consorsi.%20022U0334.md);
 
 Riconosciuta la necessita' di agevolare il credito agli Enti autonomi di consumo, a cooperative di consumo e loro consorzi;
 
@@ -64,7 +64,7 @@ L'Istituto sovventore puo' tuttavia consentire che le somme incassate in seguito
 
 ## Art. 7.
 
-Quando le cose sottoposte al privilegio siano menomate, deteriorate o distrutte si applicano le penalita' stabilite dall'[articolo 203 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Quando le cose sottoposte al privilegio siano menomate, deteriorate o distrutte si applicano le penalita' stabilite dall'[articolo 203 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 8.
 

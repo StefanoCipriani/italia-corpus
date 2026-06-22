@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduto il [R. decreto 15 ottobre 1911, n 1205](../Regi%20decreti/Col%20quale%20vengono%20introdotte%20alcune%20modificazioni%20nella%20costituzione%20dellOrdine%20cavalleresco%20al%20merito%20agricolo%20industriale%20e%20commerciale.%20011U1205.md) col quale vengono introdotte alcune modificazioni nella costituzione dell'Ordine cavalleresco al merito agricolo, industriale e commerciale; 
+ Veduto il [R. decreto 15 ottobre 1911, n 1205](Col%20quale%20vengono%20introdotte%20alcune%20modificazioni%20nella%20costituzione%20dellOrdine%20cavalleresco%20al%20merito%20agricolo%20industriale%20e%20commerciale.%20011U1205.md) col quale vengono introdotte alcune modificazioni nella costituzione dell'Ordine cavalleresco al merito agricolo, industriale e commerciale; 
  
  Ritenuta la difficolta' di procedere attualmente alla delega ed alla scelta di nuovi componenti il Consiglio dell'Ordine anzidetto in sostituzione di quelli usciti di carica col finire dell'anno 1914, e considerata la necessita' di assicurare pur tuttavia il regolare funzionamento del Consiglio stesso; 
  

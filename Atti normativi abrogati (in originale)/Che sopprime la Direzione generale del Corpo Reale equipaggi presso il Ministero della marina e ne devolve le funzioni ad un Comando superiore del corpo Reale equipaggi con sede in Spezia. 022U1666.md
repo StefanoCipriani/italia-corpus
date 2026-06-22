@@ -22,7 +22,7 @@ Visto il [R. decreto 15 luglio 1906, n. 406](https://www.normattiva.it/uri-res/N
 
 Vista la [legge n. 365 del 20 giugno 1909](Ordinamento%20amministrativo%20e%20contabile%20della%20R.%20Marina.%20009U0365.md), relativa alla riforma dell'ordinamento amministrativo contabile della R. marina;
 
-Visto il [R. decreto n. 853 del 9 dicembre 1909](../Regi%20decreti/Che%20sopprime%20la%20carica%20di%20comandante%20superiore%20del%20corpo%20R.%20equipaggi%20e%20ne%20affida%20le%20attribuzioni%20al%20direttore%20generale%20del%20personale%20e%20del%20servizio%20militare.%20009U0853.md) e successive modificazioni;
+Visto il [R. decreto n. 853 del 9 dicembre 1909](Che%20sopprime%20la%20carica%20di%20comandante%20superiore%20del%20corpo%20R.%20equipaggi%20e%20ne%20affida%20le%20attribuzioni%20al%20direttore%20generale%20del%20personale%20e%20del%20servizio%20militare.%20009U0853.md) e successive modificazioni;
 
 Visto il [R. decreto-legge n. 1988 in data 20 ottobre 1919](Che%20regola%20lordinamento%20del%20corpo%20R.%20equipaggi%20e%20lo%20stato%20giuridico%20ed%20economico%20dei%20sottufficiali%20della%20R.%20marina.%20019U1988.md), e successive modificazioni;
 

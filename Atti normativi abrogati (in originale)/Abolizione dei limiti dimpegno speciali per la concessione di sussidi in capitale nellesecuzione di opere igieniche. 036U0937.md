@@ -18,7 +18,7 @@ Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20d
 
 Veduto il [R. decreto-legge 30 dicembre 1923, n. 3132](Agevolezze%20per%20la%20provvista%20di%20acqua%20potabile%20e%20per%20le%20opere%20di%20igiene.%20023U3132.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), concernente agevolezze per le provviste di acqua potabile per opere d'igiene;
 
-Veduto il [R. decreto 16 giugno 1932, n. 681](../Regi%20decreti/Attribuzione%20al%20Ministero%20dei%20lavori%20pubblici%20dei%20servizi%20relativi%20alla%20costruzione%20di%20ospedali%20cimiteri%20locali%20di%20isolamento%20acquedotti%20ed%20altre%20opere%20igieniche.%20032U0681.md);
+Veduto il [R. decreto 16 giugno 1932, n. 681](Attribuzione%20al%20Ministero%20dei%20lavori%20pubblici%20dei%20servizi%20relativi%20alla%20costruzione%20di%20ospedali%20cimiteri%20locali%20di%20isolamento%20acquedotti%20ed%20altre%20opere%20igieniche.%20032U0681.md);
 
 Ritenuta la necessita' urgente ed assoluta di promuovere il massimo incremento delle opere d'igiene, senza peraltro importare maggiore aggravio per l'Erario;
 

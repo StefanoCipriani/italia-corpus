@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- I benefici, privilegi ed esenzioni tributarie concessi a taluni Istituti mutualistici di assistenza malattia con [legge 9 luglio 1940, n. 1094](Estensione%20a%20taluni%20Istituti%20mutualistici%20di%20assistenza%20malattie%20delle%20agevolazioni%20tributarie%20concesse%20alla%20Cassa%20nazionale%20per%20gli%20addetti%20al%20commercio.%20040U1094.md), sono estesi anche all'Ente nazionale fascista di assistenza per i venditori ambulanti e i giornalai, giuridicamente riconosciuto con [R. decreto 6 giugno 1940, n. 1161](../Regi%20decreti/Riconoscimento%20giuridico%20dellEnte%20nazionale%20fascista%20di%20assistenza%20per%20i%20venditori%20ambulanti%20e%20i%20giornalai.%20040U1161.md). 
+ I benefici, privilegi ed esenzioni tributarie concessi a taluni Istituti mutualistici di assistenza malattia con [legge 9 luglio 1940, n. 1094](Estensione%20a%20taluni%20Istituti%20mutualistici%20di%20assistenza%20malattie%20delle%20agevolazioni%20tributarie%20concesse%20alla%20Cassa%20nazionale%20per%20gli%20addetti%20al%20commercio.%20040U1094.md), sono estesi anche all'Ente nazionale fascista di assistenza per i venditori ambulanti e i giornalai, giuridicamente riconosciuto con [R. decreto 6 giugno 1940, n. 1161](Riconoscimento%20giuridico%20dellEnte%20nazionale%20fascista%20di%20assistenza%20per%20i%20venditori%20ambulanti%20e%20i%20giornalai.%20040U1161.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta, nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

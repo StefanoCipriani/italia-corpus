@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md);
 
-Visto il [R. decreto 25 marzo 1941, n. 472](../Regi%20decreti/Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md);
+Visto il [R. decreto 25 marzo 1941, n. 472](Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md);
 
 Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
@@ -49,19 +49,19 @@ Possono essere comandati a frequentare il corso di istruzione per il conferiment
 
 ## Art. 4.
 
-L'ultimo capoverso dell'[art. 10 del R. decreto 25 marzo 1941, n. 472](../Regi%20decreti/Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), e' sostituito dal seguente: 
+L'ultimo capoverso dell'[art. 10 del R. decreto 25 marzo 1941, n. 472](Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), e' sostituito dal seguente: 
  
  «Il conseguimento, alla fine dell'apposito corso, del brevetto di pilota militare d'aeroplano o del brevetto di osservatore dall'aeroplano e' condizione indispensabile per ottenere la nomina a sottotenente in servizio permanente effettivo dell'Arma aeronautica - ruolo naviganti».
 
 ## Art. 5.
 
-Il penultimo capoverso dell'[art. 12 del R. decreto 25 marzo 1941, n. 472](../Regi%20decreti/Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), e' sostituito dal seguente: 
+Il penultimo capoverso dell'[art. 12 del R. decreto 25 marzo 1941, n. 472](Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), e' sostituito dal seguente: 
  
  «Ottenuta l'idoneita' in tutti gli esami della 3a classe e conseguito alla fine dell'apposito corso il brevetto di pilota militare di aeroplano o il brevetto di osservatore dall'aeroplano, gli allievi della 3ª classe sono nominati sottotenenti dell'Arma aeronautica - ruolo naviganti in servizio permanente effettivo».
 
 ## Art. 6.
 
-Per gli allievi della 3ª classe della Regia Accademia aeronautica, comandati a frequentare il corso di istruzione per il conseguimento del brevetto di osservatore dall'aeroplano, si applicano per sopraggiunta inidoneita' fisica o constatata inattitudine le norme contenute nell'[art. 14 del R. decreto 25 marzo 1941, n. 472](../Regi%20decreti/Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), relativamente alla possibilita' di nomina a sottotenente in servizio permanente effettivo nel ruolo servizi dell'Arma aeronautica, e cio' anche se detti allievi avessero in precedenza conseguito il brevetto di pilota militare.
+Per gli allievi della 3ª classe della Regia Accademia aeronautica, comandati a frequentare il corso di istruzione per il conseguimento del brevetto di osservatore dall'aeroplano, si applicano per sopraggiunta inidoneita' fisica o constatata inattitudine le norme contenute nell'[art. 14 del R. decreto 25 marzo 1941, n. 472](Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), relativamente alla possibilita' di nomina a sottotenente in servizio permanente effettivo nel ruolo servizi dell'Arma aeronautica, e cio' anche se detti allievi avessero in precedenza conseguito il brevetto di pilota militare.
 
 ## Art. 7.
 

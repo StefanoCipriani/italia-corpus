@@ -18,7 +18,7 @@ Visto l'art. 2 del Nostro decreto 15 ottobre 1895, n. 620, col quale fu disposto
 
 Visto il regolamento generale del Banco di Sicilia, approvato con Nostro decreto 21 aprile 1892, n. 219;
 
-Visto il [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), col quale fu approvato il testo unico delle leggi sulle pensioni civili e militari dello Stato;
+Visto il [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), col quale fu approvato il testo unico delle leggi sulle pensioni civili e militari dello Stato;
 
 Sentita la Corte dei Conti;
 

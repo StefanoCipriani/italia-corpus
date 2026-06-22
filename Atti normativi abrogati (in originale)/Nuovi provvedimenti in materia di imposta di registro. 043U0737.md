@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), concernente la legge sulle imposte di registro e disposizioni successive;
+Visto il [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), concernente la legge sulle imposte di registro e disposizioni successive;
 
 Visti i [Regi decreti-legge 7 agosto 1936, n. 1657](Registrazione%20di%20denunzie%20di%20contratti%20verbali%20di%20locazione%20di%20fabbricati.%20036U1657.md), e [11 febbraio 1943, n. 105](Modificazioni%20alle%20disposizioni%20vigenti%20in%20ordine%20al%20pagamento%20dei%20tributi%20a%20mezzo%20di%20marche.%20043U0105.md), convertiti, rispettivamente, nelle [leggi 25 gennaio 1937, n. 108, e 28 giugno 1943, n. 645](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2011%20febbraio%201943-XXI%20n.%20105.%20concernente%20modificazioni%20alle%20disposizioni%20vigenti%20in%20ordine%20al%20pagamento%20dei%20tributi%20a%20mezzo%20di%20_dd19f178577c.md), concernenti il sistema della registrazione dei contratti verbali di locazione dei fabbricati mediante marche;
 
@@ -38,7 +38,7 @@ TITOLO I.
 
 ### Art. 1. — (Misura dell'imposta).
 
-L'imposta di registro di cui alla tariffa, allegato A, alla legge del registro approvata con [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e disposizioni successive, dovuta per i trasferimenti a titolo oneroso, sotto qualsiasi denominazione e per qualsiasi titolo posti in essere, compresi i conferimenti in societa', di beni immobili e di diritti immobiliari, nonche' per le assegnazioni soggette ad imposta proporzionale di cui all'art. 88 della detta tariffa, e' stabilita nella misura seguente: 
+L'imposta di registro di cui alla tariffa, allegato A, alla legge del registro approvata con [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e disposizioni successive, dovuta per i trasferimenti a titolo oneroso, sotto qualsiasi denominazione e per qualsiasi titolo posti in essere, compresi i conferimenti in societa', di beni immobili e di diritti immobiliari, nonche' per le assegnazioni soggette ad imposta proporzionale di cui all'art. 88 della detta tariffa, e' stabilita nella misura seguente: 
  
  a) fino al valore di L. 5000: 3 per cento; 
  
@@ -54,7 +54,7 @@ L'imposta di registro di cui alla tariffa, allegato A, alla legge del registro a
  
  L'imposta di registro nella misura di cui sopra, assorbe l'imposta speciale di registro sul plusvalore di cui al [R. decreto-legge 14 giugno 1940, n. 643](Adeguamento%20dellimposta%20di%20registro%20al%20plus%20valore%20dei%20beni%20immobili%20nei%20trasferimenti%20per%20atto%20tra%20vivi%20e%20modifiche%20di%20alcune%20aliquote%20della%20tariffa%20relative%20alle%20imposte%20di%20registro%20ed%20_8de00f9b6ec5.md), convertito, con modificazioni, nella [legge 21 ottobre 1940, n. 1511](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2014%20giugno%201940-XVIII%20n.%20643%20riguardante%20ladeguamento%20dellimposta%20di%20registro%20al%20plusvalore%20dei%20beni%20immobili%20nei%20trasferimenti%20_4497505da65d.md), nonche' l'imposta di registro sui piccoli trasferimenti, di cui alla [legge 17 agosto 1941, n. 1043](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-08-17;1043). 
  
- Per i trasferimenti posti in essere a decorrere dall'entrata in vigore del presente decreto, che abbiano per oggetto beni immobili o diritti immobiliari acquistati a decorrere dal 28 giugno 1940, non compete il beneficio della riduzione dell'imposta di registro di un quarto, stabilita dalla lettera d) dell'art. 1, della tariffa allegato A della legge del registro approvata con [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md).
+ Per i trasferimenti posti in essere a decorrere dall'entrata in vigore del presente decreto, che abbiano per oggetto beni immobili o diritti immobiliari acquistati a decorrere dal 28 giugno 1940, non compete il beneficio della riduzione dell'imposta di registro di un quarto, stabilita dalla lettera d) dell'art. 1, della tariffa allegato A della legge del registro approvata con [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md).
 
 ### Art. 2. — (Aumento dell'imposta diretta erariale sul reddito).
 
@@ -127,7 +127,7 @@ L'aliquota del 3 per cento di cui alla lettera a) dell'art. 1, e' ridotta alla m
  
  d) per le rivendite immobiliari effettuate dalle aziende di credito ai sensi e nei termini di cui agli [articoli 2](Agevolazioni%20tributarie%20per%20gli%20acquisti%20di%20beni%20immobili%20effettuati%20da%20Istituti%20di%20credito.%20033U0332.md) e [3 del R. decreto-legge 20 aprile 1933, n. 332](Agevolazioni%20tributarie%20per%20gli%20acquisti%20di%20beni%20immobili%20effettuati%20da%20Istituti%20di%20credito.%20033U0332.md), convertito nella [legge 21 luglio 1933, n. 1041](Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20aprile%201933%20n.%20332%20concernente%20agevolazioni%20tributarie%20per%20gli%20acquisti%20di%20beni%20immobili%20effettuati%20da%20Istituti%20di%20credito.%20033U1041.md); 
  
- e) per i trasferimenti immobiliari effettuati a favore di istituti di credito fondiario, compresa l'assegnazione dei beni a norma dell'[art. 588 del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_588), ed alle rivendite da questi posti in essere anche a trattativa privata, ai sensi e nei termini nell'un caso o nell'altro, di cui agli articoli 60 e 74 del testo unico delle leggi sul credito fondiario approvato con [R. decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md). Nel caso di immobili pervenuti ai detti istituti anteriormente al 28 giugno 1940, il termine di dieci anni di cui al citato art. 74 decorre dalla detta data del 28 giugno 1940; 
+ e) per i trasferimenti immobiliari effettuati a favore di istituti di credito fondiario, compresa l'assegnazione dei beni a norma dell'[art. 588 del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_588), ed alle rivendite da questi posti in essere anche a trattativa privata, ai sensi e nei termini nell'un caso o nell'altro, di cui agli articoli 60 e 74 del testo unico delle leggi sul credito fondiario approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md). Nel caso di immobili pervenuti ai detti istituti anteriormente al 28 giugno 1940, il termine di dieci anni di cui al citato art. 74 decorre dalla detta data del 28 giugno 1940; 
  
  f) per i trasferimenti immobiliari per maggiori assegni o conguagli derivanti da atto di divisione, quando il trasferimento ha luogo tra parenti fino al terzo grado ed altresi' per i trasferimenti immobiliari derivanti da cessione di quote o di cointeressenze immobiliari a coeredi o donatari quando la cessione ha luogo fra parenti fino al terzo grado oppure fra il coniuge dell'autore della successione o del donante e parenti di questi ultimi fino al terzo grado; 
  
@@ -217,7 +217,7 @@ Resta ferma ogni disposizione vigente in materia di imposta di registro sui tras
 
 ### Art. 16.
 
-Per l'applicazione delle nuove aliquote stabilite dal presente decreto si osservano le norme di cui all'articolo 150, primo comma, ed all'art. 152, della legge del registro approvata con [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md).
+Per l'applicazione delle nuove aliquote stabilite dal presente decreto si osservano le norme di cui all'articolo 150, primo comma, ed all'art. 152, della legge del registro approvata con [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md).
 
 ### Art. 17. — (Registrazione mediante marche).
 
@@ -225,7 +225,7 @@ Per la registrazione dei contratti verbali di locazione di fabbricati e' riprist
 
 ### Art. 18. — (Revisione della tariffa del registro).
 
-Con Regio decreto, su proposta del Ministro per le finanze sara' riveduta e coordinata in base alle disposizioni contenute nel presente decreto ed in altre leggi, la tariffa, allegato A, alla legge del registro approvata con [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md). 
+Con Regio decreto, su proposta del Ministro per le finanze sara' riveduta e coordinata in base alle disposizioni contenute nel presente decreto ed in altre leggi, la tariffa, allegato A, alla legge del registro approvata con [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md). 
  
  Il presente decreto entra in vigore nel quinto giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno e a decorrere dalla stessa data restano abrogate le disposizioni di cui al [R. decreto-legge 12 aprile 1943, n. 234](Provvedimenti%20in%20materia%20dimposta%20di%20registro.%20043U0234.md). 
  

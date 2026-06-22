@@ -48,7 +48,7 @@ Le due Legioni libiche permanenti di M. V. S. N., ordinate come unita' di fanter
 
 ## Art. 3.
 
-Al personale delle Legioni libiche, nei riguardi disciplinari, penali e di servizio, si applicano le disposizioni del regolamento di disciplina, del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nonche' le altre disposizioni regolamentari del Regio esercito. 
+Al personale delle Legioni libiche, nei riguardi disciplinari, penali e di servizio, si applicano le disposizioni del regolamento di disciplina, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nonche' le altre disposizioni regolamentari del Regio esercito. 
  
  I rapporti tra le Legioni libiche ed il Comando generale della M.
 V. S. N. si svolgono per il tramite gerarchico delle autorita' coloniali da cui dipendono e del Ministero delle colonie, e viceversa.

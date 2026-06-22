@@ -16,9 +16,9 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), che approva il testo di legge sulle tasse ciclistiche e automobilistiche e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), che approva il testo di legge sulle tasse ciclistiche e automobilistiche e successive modificazioni;
 
-Visto il [R. decreto-legge 29 luglio 1938, n. 1121](Unificazione%20del%20regime%20tributario%20per%20lautomobilismo%20industriale.%20038U1121.md), convertito nella [legge 3 gennaio 1939, n. 58](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2029%20luglio%201938-XVI%20n.%201121%20riguardante%20lunificazione%20del%20regime%20tributario%20per%20lautomobilismo%20industriale.%20039U0058.md), portante la unificazione del regime tributario per l'automobilismo pesante, e la istituzione del pagamento quadrimestrale della tassa unica di circolazione, modificato dal [R. decreto-legge 24 novembre 1938, n. 1936](Modificazioni%20al%20R.%20decreto-legge%2029%20luglio%201938-XVI%20n.%201121%20concernente%20lunificazione%20del%20regime%20tributario%20per%20lautomobilismo%20industriale.%20038U1936.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
+Visto il [R. decreto-legge 29 luglio 1938, n. 1121](Unificazione%20del%20regime%20tributario%20per%20lautomobilismo%20industriale.%20038U1121.md), convertito nella [legge 3 gennaio 1939, n. 58](Conversione%20in%20legge%20del%20R.%20decreto-legge%2029%20luglio%201938-XVI%20n.%201121%20riguardante%20lunificazione%20del%20regime%20tributario%20per%20lautomobilismo%20industriale.%20039U0058.md), portante la unificazione del regime tributario per l'automobilismo pesante, e la istituzione del pagamento quadrimestrale della tassa unica di circolazione, modificato dal [R. decreto-legge 24 novembre 1938, n. 1936](Modificazioni%20al%20R.%20decreto-legge%2029%20luglio%201938-XVI%20n.%201121%20concernente%20lunificazione%20del%20regime%20tributario%20per%20lautomobilismo%20industriale.%20038U1936.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
 Visto il [R. decreto-legge 21 novembre 1938, n. 1937](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-11-21;1937), che aboli' la tassa di circolazione sulle automobili, sui motocicli, sulle motocarrozzette e sugli autoscafi per trasporto di persone ed istitui' il diritto erariale di statistica;
 
@@ -36,7 +36,7 @@ Sulla proposta del Ministro per le finanze, di concerto con i Ministri per l'int
 
 ## Art. 1.
 
-La circolazione dei motocicli delle motocarrozzette, delle automobili, degli autoscafi, per trasporto di persone ad uso privato, per servizio pubblico di piazza o da noleggio di rimessa, per servizio pubblico sulle linee regolarmente concesse o autorizzate, per servizio di alberghi ed istituti e la circolazione degli autocarri attrezzati e collaudati per trasporto di persone, anche se nuovi di fabbrica, e' soggetta alla tassa stabilita nelle tariffe A, B e C allegate al presente decreto, con le norme previste dal [R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e successive disposizioni, viste, d'ordine Nostro, dal Ministro per le finanze. 
+La circolazione dei motocicli delle motocarrozzette, delle automobili, degli autoscafi, per trasporto di persone ad uso privato, per servizio pubblico di piazza o da noleggio di rimessa, per servizio pubblico sulle linee regolarmente concesse o autorizzate, per servizio di alberghi ed istituti e la circolazione degli autocarri attrezzati e collaudati per trasporto di persone, anche se nuovi di fabbrica, e' soggetta alla tassa stabilita nelle tariffe A, B e C allegate al presente decreto, con le norme previste dal [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e successive disposizioni, viste, d'ordine Nostro, dal Ministro per le finanze. 
  
 Il [R. decreto-legge 24 novembre 1935, n. 1937](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-11-24;1937), e' abrogato.
 
@@ -153,11 +153,11 @@ Il concessionario ha l'obbligo di restituire alla Prefettura la targa di prova e
 
 ## Art. 13.
 
-Per ogni altra violazione delle disposizioni del [R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e successive norme integrative e modificative, s'incorre nella pena pecuniaria da un minimo di L. 100 ad un massimo di L. 500.
+Per ogni altra violazione delle disposizioni del [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e successive norme integrative e modificative, s'incorre nella pena pecuniaria da un minimo di L. 100 ad un massimo di L. 500.
 
 ## Art. 14.
 
-Restano in vigore tutte le disposizioni in materia di tasse automobilistiche stabilite dal [R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e da successive norme integrative e modificative, in quanto non incompatibili col presente decreto.
+Restano in vigore tutte le disposizioni in materia di tasse automobilistiche stabilite dal [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e da successive norme integrative e modificative, in quanto non incompatibili col presente decreto.
 
 ## Art. 15.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il corso legale dei biglietti della Banca d'Italia, del Banco di Napoli e del Banco di Sicilia, di che all'art. 10 del testo unico delle leggi sugli Istituti di emissione, approvato con [R. decreto 9 ottobre 1900, n. 373](../Regi%20decreti/Col%20quale%20si%20approva%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20riguardanti%20glIstituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20banca.%20000U0373.md), e' prorogato a tutto il 31 dicembre 1906.
+Il corso legale dei biglietti della Banca d'Italia, del Banco di Napoli e del Banco di Sicilia, di che all'art. 10 del testo unico delle leggi sugli Istituti di emissione, approvato con [R. decreto 9 ottobre 1900, n. 373](Col%20quale%20si%20approva%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20riguardanti%20glIstituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20banca.%20000U0373.md), e' prorogato a tutto il 31 dicembre 1906.
 
 ## Art. 2.
 

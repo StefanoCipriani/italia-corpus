@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e sue successive modificazioni;
+Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e sue successive modificazioni;
 
 Visto il testo unico delle disposizioni legislative riguardanti l'avanzamento degli ufficiali dei Corpi militari della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md);
 

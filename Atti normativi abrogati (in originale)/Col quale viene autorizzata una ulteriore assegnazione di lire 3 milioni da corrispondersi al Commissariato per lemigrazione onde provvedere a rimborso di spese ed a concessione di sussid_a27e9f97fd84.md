@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), sul conferimento dei poteri straordinari al Governo in caso di guerra e durante la guerra medesima. 
  
- Visti il [R. decreto 9 maggio 1915, n. 607](../Regi%20decreti/Che%20autorizza%20una%20prelevazione%20di%20L.%201.000.000%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20per%20lesercizio%201914-915%20a%20favore%20del%20Ministero%20degli%20affari%20esteri.%20015U0607.md), e i Nostri decreti 8 luglio 1915, n. 1066, e 12 settembre stesso anno n 1425, con i quali venne assegnata complessivamente la somma di L. 3.000.000 per provvedere a rimborso di spese ed a concessione di sussidi ai connazionali rimpatriando; 
+ Visti il [R. decreto 9 maggio 1915, n. 607](Che%20autorizza%20una%20prelevazione%20di%20L.%201.000.000%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20per%20lesercizio%201914-915%20a%20favore%20del%20Ministero%20degli%20affari%20esteri.%20015U0607.md), e i Nostri decreti 8 luglio 1915, n. 1066, e 12 settembre stesso anno n 1425, con i quali venne assegnata complessivamente la somma di L. 3.000.000 per provvedere a rimborso di spese ed a concessione di sussidi ai connazionali rimpatriando; 
  
  Riconosciuta la necessita' di assegnare al Commissariato per l'emigrazione l'ulteriore somma di L. 3.000.000 per gli scopi suindicati; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- In aggiunta alla somma di lire tre milioni di cui al [R. decreto 9 maggio 1915, n. 607](../Regi%20decreti/Che%20autorizza%20una%20prelevazione%20di%20L.%201.000.000%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20per%20lesercizio%201914-915%20a%20favore%20del%20Ministero%20degli%20affari%20esteri.%20015U0607.md), e ai Nostri decreti 8 luglio 1915, n. 1066, e 12 settembre stesso anno numero 1425, e' autorizzata l'ulteriore assegnazione di lire tre milioni da corrispondersi al Commissariato per l'emigrazione onde provvedere a rimborso di spese ed a concessione di sussidi ai connazionali rimpatriandi. 
+ In aggiunta alla somma di lire tre milioni di cui al [R. decreto 9 maggio 1915, n. 607](Che%20autorizza%20una%20prelevazione%20di%20L.%201.000.000%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20per%20lesercizio%201914-915%20a%20favore%20del%20Ministero%20degli%20affari%20esteri.%20015U0607.md), e ai Nostri decreti 8 luglio 1915, n. 1066, e 12 settembre stesso anno numero 1425, e' autorizzata l'ulteriore assegnazione di lire tre milioni da corrispondersi al Commissariato per l'emigrazione onde provvedere a rimborso di spese ed a concessione di sussidi ai connazionali rimpatriandi. 
  
  La indicata somma viene inscritta al capitolo numero 60-bis gia' istituito nello stato di previsione del Ministero degli affari esteri per l'esercizio finanziario 1915-916. 
  

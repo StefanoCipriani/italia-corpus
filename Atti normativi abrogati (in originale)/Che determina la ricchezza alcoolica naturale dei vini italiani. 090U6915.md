@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [regio decreto, n. 6461, dell'8 novembre 1889](../Regi%20decreti/Che%20revoca%20i%20decreti%20N.%205672%20e%205979%20riguardanti%20la%20determinazione%20della%20ricchezza%20alcoolina%20naturale%20dei%20vini%20italiani%20destinati%20allesportazione%20per%20il%20rimborso%20delle%20tasse%20sugli%20spiriti.%20089U6461.md), il quale stabilisce la ricchezza alcoolica naturale dei vini italiani da servir di base alla determinazione del rimborso delle tasse sullo spirito, pei vini conciati all'infuori della sorveglianza dell'amministrazione finanziaria ed esportati all'estero. 
+E' convertito in legge il [regio decreto, n. 6461, dell'8 novembre 1889](Che%20revoca%20i%20decreti%20N.%205672%20e%205979%20riguardanti%20la%20determinazione%20della%20ricchezza%20alcoolina%20naturale%20dei%20vini%20italiani%20destinati%20allesportazione%20per%20il%20rimborso%20delle%20tasse%20sugli%20spiriti.%20089U6461.md), il quale stabilisce la ricchezza alcoolica naturale dei vini italiani da servir di base alla determinazione del rimborso delle tasse sullo spirito, pei vini conciati all'infuori della sorveglianza dell'amministrazione finanziaria ed esportati all'estero. 
  
  Col giorno 1° luglio 1890 cessera' di aver vigore il decreto sopradetto, ed avranno invece attuazione le disposizioni della presente legge.
 
@@ -24,7 +24,7 @@ La restituzione della tassa di fabbricazione sullo spirito aggiunto ai vini ital
 
 ## Art. 3.
 
-Sullo spirito che si voglia aggiungere ai vini per elevarne la forza alcoolica al di sopra di 14 gradi, non e' accordata la restituzione della tassa, se non siano osservate le discipline di cui all'art. 64, comma 2ª, del testo unico della legge sugli spiriti, approvato con [regio decreto del 29 agosto 1889, n. 6358](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20spiriti.%20089U6358.md) (serie 3ª). 
+Sullo spirito che si voglia aggiungere ai vini per elevarne la forza alcoolica al di sopra di 14 gradi, non e' accordata la restituzione della tassa, se non siano osservate le discipline di cui all'art. 64, comma 2ª, del testo unico della legge sugli spiriti, approvato con [regio decreto del 29 agosto 1889, n. 6358](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20spiriti.%20089U6358.md) (serie 3ª). 
  
  E' fatta pero' eccezione pei vini tipici vermouth e marsala, i quali potranno alcoolizzarsi con diritto al rimborso della tassa e senza il vincolo delle discipline suddette, rispettivamente, fino al limite massimo di 18 e 23 gradi. 
  

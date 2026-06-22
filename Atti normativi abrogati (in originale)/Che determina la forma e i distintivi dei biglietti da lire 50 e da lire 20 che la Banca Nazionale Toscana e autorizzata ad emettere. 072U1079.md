@@ -12,7 +12,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE 
  
- Visto il [Regio Decreto 3 settembre 1872, n. 991](../Regi%20decreti/Concernente%20lemissione%20di%20biglietti%20da%20lire%2050%20e%20da%20lire%2020%20per%20parte%20della%20Banca%20Nazionale%20Toscana.%20072U0991.md) (Serie 2ª), col quale la Banca Nazionale Toscana fu autorizzata ad emettere biglietti da L. 50 e da 20 fino alla concorrenza di un decimo della sua circolazione, contro ritiro di eguale somma in biglietti di taglio superiore; 
+ Visto il [Regio Decreto 3 settembre 1872, n. 991](Concernente%20lemissione%20di%20biglietti%20da%20lire%2050%20e%20da%20lire%2020%20per%20parte%20della%20Banca%20Nazionale%20Toscana.%20072U0991.md) (Serie 2ª), col quale la Banca Nazionale Toscana fu autorizzata ad emettere biglietti da L. 50 e da 20 fino alla concorrenza di un decimo della sua circolazione, contro ritiro di eguale somma in biglietti di taglio superiore; 
  
  Determina quanto segue: 
  

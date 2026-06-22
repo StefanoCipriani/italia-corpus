@@ -38,7 +38,7 @@ Il Consorzio per sovvenzioni su valori industriali e' altresi' autorizzato a con
 
 ## Art. 3.
 
-I paghero' cambiari rappresentanti le sovvenzioni di che agli articoli precedenti, da emettersi secondo le norme contenute nell'[art. 7 del R. decreto 20 dicembre 1914, n. 1375](../Regi%20decreti/Che%20autorizza%20la%20costituzione%20di%20un%20Consorzio%20fra%20Istituti%20di%20emissione%20ed%20altri%20enti%20per%20sovvenzioni%20su%20valori%20industriali.%20014U1375.md), conterranno un riferimento anche al presente decreto, e i relativi atti di cessione saranno notificati, per l'accettazione, alle Amministrazioni competenti.
+I paghero' cambiari rappresentanti le sovvenzioni di che agli articoli precedenti, da emettersi secondo le norme contenute nell'[art. 7 del R. decreto 20 dicembre 1914, n. 1375](Che%20autorizza%20la%20costituzione%20di%20un%20Consorzio%20fra%20Istituti%20di%20emissione%20ed%20altri%20enti%20per%20sovvenzioni%20su%20valori%20industriali.%20014U1375.md), conterranno un riferimento anche al presente decreto, e i relativi atti di cessione saranno notificati, per l'accettazione, alle Amministrazioni competenti.
 
 ## Art. 4.
 

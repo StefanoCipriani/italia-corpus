@@ -18,7 +18,7 @@ Visto l'art. 59 dello Statuto fondamentale del Regno;
 
 Visto l'[art. 2 della legge 12 febbraio 1888, n. 5195](Sul%20riordinamento%20dei%20Ministeri.%20088U5195.md);
 
-Visto il [R. decreto 24 gennaio 1923, n. 62](../Regi%20decreti/Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md);
+Visto il [R. decreto 24 gennaio 1923, n. 62](Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md);
 
 Udito il Consiglio dei Ministri;
 

@@ -36,7 +36,7 @@ Fino al 31 dicembre 1929 l'Amministrazione provinciale di Parma e' autorizzata, 
 
 ## Art. 2.
 
-Al personale, che, in applicazione dell'articolo precedente, sara' dispensato dal servizio, e' applicabile il trattamento stabilito dall'[art. 3 del R. decreto 27 maggio 1923, n. 1177](../Regi%20decreti/Che%20stabilisce%20la%20revisione%20delle%20tabelle%20e%20dei%20regolamenti%20organici%20del%20personale%20delle%20Provincie%20dei%20Comuni%20e%20delle%20istituzioni%20pubbliche%20di%20beneficenza.%20023U1177.md).
+Al personale, che, in applicazione dell'articolo precedente, sara' dispensato dal servizio, e' applicabile il trattamento stabilito dall'[art. 3 del R. decreto 27 maggio 1923, n. 1177](Che%20stabilisce%20la%20revisione%20delle%20tabelle%20e%20dei%20regolamenti%20organici%20del%20personale%20delle%20Provincie%20dei%20Comuni%20e%20delle%20istituzioni%20pubbliche%20di%20beneficenza.%20023U1177.md).
 
 ## Art. 3.
 

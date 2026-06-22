@@ -18,9 +18,9 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Vista la [legge 8 luglio 1883, n. 1473](Che%20fonda%20una%20cassa%20nazionale%20di%20assicurazione%20per%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20083U1473.md) (serie 3ª), che approva la Convenzione 18 febbraio 1883 per la fondazione della Cassa nazionale di assicurazione per gli infortuni sul lavoro, e la [legge 28 marzo 1912, n. 304](Che%20approva%20la%20convenzione%2016%20giugno%201911%20stipulata%20con%20gli%20Istituti%20fondatori%20della%20Cassa%20nazionale%20dassicurazione%20per%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20012U0304.md), che approva l'altra Convenzione 16 giugno 1911, nonche' le modificazioni apportate alle leggi predette;
 
-Viste il [R. decreto 3 gennaio 1926, n. 239](../Regi%20decreti/Istituzione%20e%20nomina%20duna%20Commissione%20per%20il%20riordinamento%20della%20Cassa%20nazionale%20per%20gli%20infortuni%20sul%20lavoro.%20026U0239.md), che istituisce o nomina una Commissione per il riordinamento della Cassa nazionale di assicurazione per gli infortuni sul lavoro;
+Viste il [R. decreto 3 gennaio 1926, n. 239](Istituzione%20e%20nomina%20duna%20Commissione%20per%20il%20riordinamento%20della%20Cassa%20nazionale%20per%20gli%20infortuni%20sul%20lavoro.%20026U0239.md), che istituisce o nomina una Commissione per il riordinamento della Cassa nazionale di assicurazione per gli infortuni sul lavoro;
 
-Ritenuta la necessita' urgente ed assoluta di emanare norme per l'ordinamento della Cassa nazionale predetta in con sequenza del [R. decreto 3 gennaio 1926, n. 239](../Regi%20decreti/Istituzione%20e%20nomina%20duna%20Commissione%20per%20il%20riordinamento%20della%20Cassa%20nazionale%20per%20gli%20infortuni%20sul%20lavoro.%20026U0239.md), precitato;
+Ritenuta la necessita' urgente ed assoluta di emanare norme per l'ordinamento della Cassa nazionale predetta in con sequenza del [R. decreto 3 gennaio 1926, n. 239](Istituzione%20e%20nomina%20duna%20Commissione%20per%20il%20riordinamento%20della%20Cassa%20nazionale%20per%20gli%20infortuni%20sul%20lavoro.%20026U0239.md), precitato;
 
 Udito il Consiglio dei Ministri;
 
@@ -64,7 +64,7 @@ I componenti del Consiglio di amministrazione durano in carica tre anni e posson
  
  I consiglieri nominati in sostituzione di altri, che abbiano cessato dall'ufficio prima della ordinaria scadenza triennale, durano in carica fino al termine di scadenza dei consiglieri che essi furono chiamati a sostituire. 
  
- Al Consiglio di amministrazione e' aggregato il rappresentante previsto dall'[art. 35 del R. decreto 25 maggio 1913, n. 668](../Regi%20decreti/Col%20quale%20vengono%20approvate%20le%20annesse%20norme%20relative%20agli%20infortuni%20degli%20operai%20sul%20lavoro%20nella%20Tripolitania%20e%20nella%20Cirenaica.%20013U0668.md), concernente l'assicurazione infortuni nella Tripolitania e nella Cirenaica finche' la Cassa nazionale gestira' tale assicurazione in regime di esclusivita'.
+ Al Consiglio di amministrazione e' aggregato il rappresentante previsto dall'[art. 35 del R. decreto 25 maggio 1913, n. 668](Col%20quale%20vengono%20approvate%20le%20annesse%20norme%20relative%20agli%20infortuni%20degli%20operai%20sul%20lavoro%20nella%20Tripolitania%20e%20nella%20Cirenaica.%20013U0668.md), concernente l'assicurazione infortuni nella Tripolitania e nella Cirenaica finche' la Cassa nazionale gestira' tale assicurazione in regime di esclusivita'.
 
 ## Art. 4.
 

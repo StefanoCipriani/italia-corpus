@@ -14,7 +14,7 @@ Per provvedere alla spesa necessaria alla istituzione ed al funzionamento degli 
  
  a) la gestione speciale per l'assicurazione obbligatoria contro la disoccupazione, di cui al [R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md), per i cinque decimi dell'annuo fabbisogno, fino ad un massimo di L. 10,000,000; 
  
- b) il «Fondo speciale delle corporazioni» di cui all'[articolo 26 del R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), per un decimo, Fino al massimo di L. 1,000,000; 
+ b) il «Fondo speciale delle corporazioni» di cui all'[articolo 26 del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), per un decimo, Fino al massimo di L. 1,000,000; 
  
  c) per la meta' della residua somma occorrente, le Confederazioni nazionali dei Sindacati fascisti dell'industria, dell'agricoltura, del commercio, dei trasporti terrestri e della navigazione interna, dei bancari, della gente del mare e dell'aria; 
  

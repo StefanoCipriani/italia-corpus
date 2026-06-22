@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto l'art. 129 del regolamento sull'amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 4 maggio 1885, n. 3074](Che%20approva%20il%20Regolamento%20per%20lAmministrazione%20del%20patrimonio%20e%20la%20Contabilita%20generale%20dello%20Stato.%20085U3074.md) (serie 3ª); 
  
- Visti il regolamento per la esecuzione dei lavori del genio militare, approvato con [R. decreto 8 agosto 1895, n. 588](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20dei%20lavori%20del%20Genio%20militare.%20095U0588.md), e il [R. decreto del 14 gennaio 1909, n. 51](../Regi%20decreti/Che%20modifica%20due%20articoli%20del%20regolamento%20per%20lesecuzione%20dei%20lavori%20del%20genio%20militare.%20009U0051.md), che modifica l'art. 82 di tale regolamento; 
+ Visti il regolamento per la esecuzione dei lavori del genio militare, approvato con [R. decreto 8 agosto 1895, n. 588](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20dei%20lavori%20del%20Genio%20militare.%20095U0588.md), e il [R. decreto del 14 gennaio 1909, n. 51](Che%20modifica%20due%20articoli%20del%20regolamento%20per%20lesecuzione%20dei%20lavori%20del%20genio%20militare.%20009U0051.md), che modifica l'art. 82 di tale regolamento; 
  
  Visto il [decreto Luogotenenziale del 13 giugno 1915, n. 872](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-13;872), che approva il testo unico delle disposizioni per la costituzione del corpo aeronautico militare e dei servizi che ne dipendono; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- All'art. 82 del vigente regolamento per la esecuzione dei lavori del genio militare, modificato col [R. decreto del 14 gennaio 1909, n. 51](../Regi%20decreti/Che%20modifica%20due%20articoli%20del%20regolamento%20per%20lesecuzione%20dei%20lavori%20del%20genio%20militare.%20009U0051.md), sono aggiunti i seguenti capoversi: 
+ All'art. 82 del vigente regolamento per la esecuzione dei lavori del genio militare, modificato col [R. decreto del 14 gennaio 1909, n. 51](Che%20modifica%20due%20articoli%20del%20regolamento%20per%20lesecuzione%20dei%20lavori%20del%20genio%20militare.%20009U0051.md), sono aggiunti i seguenti capoversi: 
  
  «Quando trattisi di lavori riguardanti l'aeronautica militare, il Ministero potra' provvedere alla collaudazione dei medesimi sia direttamente che per mezzo dei comandanti d'aeronautica, ove l'importare dei lavori superi le L. 40,000. Ove tale importare non ecceda questo limite, il Ministero potra' delegarne la collaudazione ad uno degli enti dipendenti, diversi da quelli indicati nel presente articolo, purche' il collaudatore sia scelto fra coloro che non abbiano preso parte alla redazione del progetto, alla sorveglianza o direzione dei lavori da collaudare». 
  

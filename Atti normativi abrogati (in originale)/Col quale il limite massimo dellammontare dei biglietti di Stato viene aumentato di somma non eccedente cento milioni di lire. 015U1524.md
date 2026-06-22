@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Il limite massimo dell'ammontare dei biglietti di Stato, stabilito dal [R. decreto 23 maggio 1915, n. 709](../Regi%20decreti/Che%20autorizza%20una%20nuova%20emissione%20di%20biglietti%20di%20stato.%20015U0709.md), e' aumentato di somma non eccedente cento milioni di lire. 
+Il limite massimo dell'ammontare dei biglietti di Stato, stabilito dal [R. decreto 23 maggio 1915, n. 709](Che%20autorizza%20una%20nuova%20emissione%20di%20biglietti%20di%20stato.%20015U0709.md), e' aumentato di somma non eccedente cento milioni di lire. 
  
  Con decreto del ministro del tesoro sara' provveduto al reparto di tale somma in biglietti da 10 e da 5 ed a tutto quanto occorre per la esecuzione del presente decreto, il quale avra' vigore dal giorno della sua pubblicazione nella Gazzetta ufficiale del Regno. 
  

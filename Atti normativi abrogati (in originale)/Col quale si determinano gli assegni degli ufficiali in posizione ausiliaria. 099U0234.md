@@ -20,7 +20,7 @@ Visto il [Regio decreto 17 ottobre 1881, n. 439](Che%20stabilisce%20le%20modalit
 
 Visto il [Regio decreto 21 ottobre 1881, n. 454](Che%20stabilisce%20gli%20assegni%20spettanti%20agli%20ufficiali%20collocati%20nella%20posizione%20di%20servizio%20ausiliario.%20081U0454.md), che determina gli assegni degli ufficiali nella posizione ausiliaria;
 
-Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [Regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
+Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [Regio decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
 
 Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel Regio esercito;
 

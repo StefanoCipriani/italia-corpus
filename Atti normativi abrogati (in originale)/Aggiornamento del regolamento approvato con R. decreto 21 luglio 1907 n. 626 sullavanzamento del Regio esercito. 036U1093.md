@@ -44,7 +44,7 @@ Gli articoli 21 e 22 del regolamento sull'avanzamento del Regio esercito, approv
  
  «Art. 21-bis. - Il Ministro per la guerra ha facolta' di reintegrare nel grado: 
  
- «1° i militari che l'abbiano perduto in seguito a condanna per reati comuni o per reati previsti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, quando abbiano ottenuto la riabilitazione e sia intervenuto il parere del Tribunale supremo militare ai termini dell'art. 3 della legge 13 giugno 1935-XIII, n. 1116; 
+ «1° i militari che l'abbiano perduto in seguito a condanna per reati comuni o per reati previsti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, quando abbiano ottenuto la riabilitazione e sia intervenuto il parere del Tribunale supremo militare ai termini dell'art. 3 della legge 13 giugno 1935-XIII, n. 1116; 
  
  «2° i militari che siano incorsi nella perdita del grado per essere state annullate le promozioni ai termini del secondo comma del n. 2 del precedente articolo, purche' siano decorsi due anni, se il militare e' in servizio, o tre, se e' in congedo, da quando fu commesso il fatto che escludeva l'avanzamento. 
  

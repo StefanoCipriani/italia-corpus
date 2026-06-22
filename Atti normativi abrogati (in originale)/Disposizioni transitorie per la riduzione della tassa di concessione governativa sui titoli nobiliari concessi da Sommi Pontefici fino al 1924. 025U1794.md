@@ -18,7 +18,7 @@ Veduti i Regi decreti 2 e 5 luglio 1896, nn. 313 e 314, per l'ordinamento della 
 
 Veduta la legge tributaria sulle concessioni governative 30 dicembre 1923, n. 3279, tabella A, titolo III;
 
-Veduto il [R. decreto 24 gennaio 1924, n. 95](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%202%20luglio%201896%20n.%20313%20sul%20riordinamento%20della%20Consulta%20araldica.%20024U0095.md), sul riordinamento della Consulta araldica;
+Veduto il [R. decreto 24 gennaio 1924, n. 95](Modificazioni%20al%20R.%20decreto%202%20luglio%201896%20n.%20313%20sul%20riordinamento%20della%20Consulta%20araldica.%20024U0095.md), sul riordinamento della Consulta araldica;
 
 Veduta la deliberazione del 2 febbraio 1925 della Consulta araldica del Regno;
 

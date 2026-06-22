@@ -115,7 +115,7 @@ Per i trasporti militari viaggiatori effettuati con treni appositi, i prezzi ris
 
 L'importo integrale degli aumenti riguardanti i trasporti di persone e cose, anche per quanto concerne le linee di proprieta' privata esercitate dallo Stato, e' devoluto interamente alle ferrovie dello Stato, comprese le quote riferentisi alle tasse erariali e alla tassa e soprattassa di bollo. 
  
- L'Amministrazione delle ferrovie dello Stato, a norma dell'[art. 5 del R. decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), prendera' accordi coi Ministeri del tesoro e delle finanze, per determinare l'importo conseguente dagli aumenti di tariffa, importo da defalcarsi dall'ammontare complessivo dei prodotti lordi, agli effetti della determinazione della somma dovuta sulla differenza per tasse erariali e tasse e soprattasse di bollo.
+ L'Amministrazione delle ferrovie dello Stato, a norma dell'[art. 5 del R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), prendera' accordi coi Ministeri del tesoro e delle finanze, per determinare l'importo conseguente dagli aumenti di tariffa, importo da defalcarsi dall'ammontare complessivo dei prodotti lordi, agli effetti della determinazione della somma dovuta sulla differenza per tasse erariali e tasse e soprattasse di bollo.
 
 ## Art. 13.
 

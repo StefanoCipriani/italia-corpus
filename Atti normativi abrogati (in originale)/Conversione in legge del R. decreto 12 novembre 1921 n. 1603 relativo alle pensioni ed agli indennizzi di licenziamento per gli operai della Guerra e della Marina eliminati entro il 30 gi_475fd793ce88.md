@@ -58,7 +58,7 @@ VITTORIO EMANUELE III
  
  m) all'ultmo alinea dello stesso art. 7, sono aggiunte, continuando, le seguenti parole: «nonche' pel personale operaio a matricola degli stabilimenti militari di pena dipendenti dal Ministero della guerra»; 
  
- n) l'art. 8 resta modificato come fu gia' disposto dall'[art. 2 del R. decreto 17 giugno 1923, n. 1646](../Regi%20decreti/Sistemazione%20del%20personale%20salariato%20delle%20nuove%20provincie%20passato%20alla%20dipendenza%20di%20stabilimenti%20militari%20del%20Regno.%20023U1646.md), con l'aggiunta delle seguenti parole, alla fine del primo alinea: «esclusi coloro che cessarono dal servizio anteriormente al 6 dicembre 1921»; 
+ n) l'art. 8 resta modificato come fu gia' disposto dall'[art. 2 del R. decreto 17 giugno 1923, n. 1646](Sistemazione%20del%20personale%20salariato%20delle%20nuove%20provincie%20passato%20alla%20dipendenza%20di%20stabilimenti%20militari%20del%20Regno.%20023U1646.md), con l'aggiunta delle seguenti parole, alla fine del primo alinea: «esclusi coloro che cessarono dal servizio anteriormente al 6 dicembre 1921»; 
  
  o) nell'art. 9. primo alinea, alle parole: «quattro quinti della pensione presunta, a carico del debito vitalizio», sono sostituite le seguenti: «quattro quinti della pensione lorda presunta, a carico del debito vitalizio, nonche', in conto sospeso, gli assegni temporanei di caro-viveri loro spettanti»; 
  

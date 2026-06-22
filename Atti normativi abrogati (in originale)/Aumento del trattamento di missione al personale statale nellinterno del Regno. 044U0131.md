@@ -18,9 +18,9 @@ Visto il [decreto luogotenenziale 14 settembre 1918, n. 1311](https://www.normat
 
 Visto il [R. decreto-legge 20 febbraio 1921, n. 221](Recante%20modificazioni%20al%20decreto%20Luogotenenziale%2014%20settembre%201918%20n.%201311%20che%20stabilisce%20in%20caso%20di%20missione%20le%20indennita%20per%20spese%20di%20viaggio%20e%20di%20soggiorno%20al%20personale%20civile%20e%20milita_c972afa345ca.md);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive disposizioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive disposizioni;
 
-Visto il [R. decreto 31 dicembre 1924, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), e successive disposizioni;
+Visto il [R. decreto 31 dicembre 1924, n. 2262](Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), e successive disposizioni;
 
 Visto il [R. decreto-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), convertito nella [legge 6 gennaio 1931, n. 18](Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20novembre%201930%20n.%201491%20recante%20riduzione%20di%20stipendi%20e%20di%20altri%20emolumenti%20dei%20dipendenti%20statali%20nonche%20del%20personale%20degli%20Enti%20pubblici%20loca_f0ea546b6624.md);
 

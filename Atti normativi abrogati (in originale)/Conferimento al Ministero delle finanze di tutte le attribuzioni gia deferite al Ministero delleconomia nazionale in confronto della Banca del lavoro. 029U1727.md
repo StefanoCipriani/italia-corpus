@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto-legge 18 marzo 1929, n. 416](Riordinamento%20della%20Banca%20nazionale%20del%20lavoro.%20029U0416.md); 
  
- Visto il [R. decreto 12 settembre 1929, n. 1661](../Regi%20decreti/Trasformazione%20del%20Ministero%20delleconomia%20nazionale%20in%20Ministero%20dellagricoltura%20e%20delle%20foreste%20istituzione%20presso%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste%20del%20Sottosegretariato%20di%20S_07ec071c3c2f.md), con il quale il Ministero dell'economia nazionale e' trasformato in Ministero dell'agricoltura e delle foreste; 
+ Visto il [R. decreto 12 settembre 1929, n. 1661](Trasformazione%20del%20Ministero%20delleconomia%20nazionale%20in%20Ministero%20dellagricoltura%20e%20delle%20foreste%20istituzione%20presso%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste%20del%20Sottosegretariato%20di%20S_07ec071c3c2f.md), con il quale il Ministero dell'economia nazionale e' trasformato in Ministero dell'agricoltura e delle foreste; 
  
  Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  

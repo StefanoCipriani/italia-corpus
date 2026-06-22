@@ -24,7 +24,7 @@ UMBERTO I
  
  La dichiarazione richiesta nell'[articolo 81 della legge 30 giugno 1889 n. 6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-06-30;6144#art_81), sara' fatta con ordinanza del Ministero dell'Interno, che potra' delegare questa sua facolta' ai Prefetti. 
  
- E' abrogata ogni contraria disposizione del [Regio decreto 19 novembre 1889 n. 6535](../Regi%20decreti/Che%20stabilisce%20le%20norme%20per%20lapplicazione%20dellarticolo%2082%20della%20legge%2030%20giugno%201889%20sulla%20pubblica%20sicurezza.%20089U6535.md). 
+ E' abrogata ogni contraria disposizione del [Regio decreto 19 novembre 1889 n. 6535](Che%20stabilisce%20le%20norme%20per%20lapplicazione%20dellarticolo%2082%20della%20legge%2030%20giugno%201889%20sulla%20pubblica%20sicurezza.%20089U6535.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 28 giugno 1923, n. 1360](../Regi%20decreti/Riguardante%20la%20circoscrizione%20territoriale%20dei%20circoli%20di%20Corte%20di%20assise%20e%20relative%20norme%20di%20attuazione.%20023U1360.md), col quale viene stabilita la circoscrizione territoriale dei circoli di Corte di assise del Regno;
+Visto il [R. decreto 28 giugno 1923, n. 1360](Riguardante%20la%20circoscrizione%20territoriale%20dei%20circoli%20di%20Corte%20di%20assise%20e%20relative%20norme%20di%20attuazione.%20023U1360.md), col quale viene stabilita la circoscrizione territoriale dei circoli di Corte di assise del Regno;
 
 Ritenuta la convenienza e l'urgenza della istituzione di un circolo ordinario di Corte di assise nella citta' di Spezia;
 

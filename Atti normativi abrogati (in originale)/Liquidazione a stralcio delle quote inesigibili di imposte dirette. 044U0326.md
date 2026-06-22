@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico della legge sulla riscossione delle imposte dirette, approvato col [R. decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), le successive modifiche nonche' il regolamento per l'applicazione del testo unico anzidetto approvato col [R. decreto 15 settembre 1923, n. 2090](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20riscossione%20delle%20imposte%20dirette.%20023U2090.md);
+Visto il testo unico della legge sulla riscossione delle imposte dirette, approvato col [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), le successive modifiche nonche' il regolamento per l'applicazione del testo unico anzidetto approvato col [R. decreto 15 settembre 1923, n. 2090](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20riscossione%20delle%20imposte%20dirette.%20023U2090.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

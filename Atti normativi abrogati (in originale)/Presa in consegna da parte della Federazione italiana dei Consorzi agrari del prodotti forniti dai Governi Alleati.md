@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 586](../Decreti%20legislativi%20luogotenenziali/Regolazione%20dei%20pagamenti%20in%20dipendenza%20delle%20importazioni%20e%20delle%20esportazioni%20da%20e%20verso%20i%20Paesi%20Alleati.md), concernente la regolazione dei pagamenti e delle riscossioni in dipendenza delle importazioni e delle esportazioni da e verso le Nazioni alleate;
+Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 586](Regolazione%20dei%20pagamenti%20in%20dipendenza%20delle%20importazioni%20e%20delle%20esportazioni%20da%20e%20verso%20i%20Paesi%20Alleati.md), concernente la regolazione dei pagamenti e delle riscossioni in dipendenza delle importazioni e delle esportazioni da e verso le Nazioni alleate;
 
-Visto il [decreto legislativo luogotenenziale 28 maggio 1945, n. 370](../Decreti%20legislativi%20luogotenenziali/Norme%20circa%20le%20importazioni%20e%20le%20esportazioni.%20045U0370.md), recante norme sulle importazioni ed esportazioni;
+Visto il [decreto legislativo luogotenenziale 28 maggio 1945, n. 370](Norme%20circa%20le%20importazioni%20e%20le%20esportazioni.%20045U0370.md), recante norme sulle importazioni ed esportazioni;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), concernente la facolta' del Governo di emanare norme giuridiche;
 
@@ -26,14 +26,14 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Per il periodo anteriore all'entrata in vigore del [decreto legislativo luogotenenziale n. 586 del 12 aprile 1946](../Decreti%20legislativi%20luogotenenziali/Regolazione%20dei%20pagamenti%20in%20dipendenza%20delle%20importazioni%20e%20delle%20esportazioni%20da%20e%20verso%20i%20Paesi%20Alleati.md), sono riconosciute valide a tutti gli effetti, le operazioni di presa in consegna e di distribuzione dei prodotti alimentari forniti dai Governi alleati al Governo italiano, effettuate direttamente dalla Federazione italiana dei Consorzi agrari per conto e nell'interesse dello Stato ed in conformita' alle disposizioni a tal fine impartite dall'Alto Commissariato per l'alimentazione d'intesa con le altre Amministrazioni competenti. 
+Per il periodo anteriore all'entrata in vigore del [decreto legislativo luogotenenziale n. 586 del 12 aprile 1946](Regolazione%20dei%20pagamenti%20in%20dipendenza%20delle%20importazioni%20e%20delle%20esportazioni%20da%20e%20verso%20i%20Paesi%20Alleati.md), sono riconosciute valide a tutti gli effetti, le operazioni di presa in consegna e di distribuzione dei prodotti alimentari forniti dai Governi alleati al Governo italiano, effettuate direttamente dalla Federazione italiana dei Consorzi agrari per conto e nell'interesse dello Stato ed in conformita' alle disposizioni a tal fine impartite dall'Alto Commissariato per l'alimentazione d'intesa con le altre Amministrazioni competenti. 
  La Federazione italiana dei Consorzi agrari deve tenere, per le operazioni compiute nell'espletamento dei compiti di cui al precedente comma, separata gestione sotto la vigilanza e il controllo del Ministero del tesoro e dell'Alto Commissariato per l'alimentazione, prescindendo dall'osservanza delle norme sulla contabilita' generale dello Stato. 
  Il ricavato dalla vendita delle merci stesse deve essere versato, al netto delle spese effettive sostenute dalla stessa Federazione italiana dei Consorzi agrari, nelle casse dello Stato. 
  Le disposizioni vigenti per quanto riguarda il controllo della Corte dei conti sui rendiconti, sono applicabili alla detta gestione.
 
 ## Art. 2.
 
-In deroga al disposto di cui al [2° comma dell'art. 4 del decreto legislativo luogotenenziale 28 maggio 1945, n. 370](../Decreti%20legislativi%20luogotenenziali/Norme%20circa%20le%20importazioni%20e%20le%20esportazioni.%20045U0370.md), i pagamenti dei diritti che in base agli accertamenti degli uffici doganali fossero dovuti sulle merci importate, saranno regolati direttamente fra l'Amministrazione finanziaria e la Federazione italiana dei Consorzi agrari.
+In deroga al disposto di cui al [2° comma dell'art. 4 del decreto legislativo luogotenenziale 28 maggio 1945, n. 370](Norme%20circa%20le%20importazioni%20e%20le%20esportazioni.%20045U0370.md), i pagamenti dei diritti che in base agli accertamenti degli uffici doganali fossero dovuti sulle merci importate, saranno regolati direttamente fra l'Amministrazione finanziaria e la Federazione italiana dei Consorzi agrari.
 
 ## Art. 3.
 

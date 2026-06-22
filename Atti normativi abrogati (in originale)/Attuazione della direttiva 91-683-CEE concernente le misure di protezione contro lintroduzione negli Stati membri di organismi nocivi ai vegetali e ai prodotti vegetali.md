@@ -44,7 +44,7 @@ Gli uffici delle regioni e province autonome finora denominati Osservatori per l
 
 3.
 
-Ai fini del presente decreto e ai sensi della [legge 9 marzo 1955, n. 471](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20internazionale%20per%20la%20protezione%20delle%20piante%20firmata%20a%20Roma%20il%206%20dicembre%201951.md), gli uffici di cui ai commi 1 e 2 sono denominati rispettivamente, nell'ambito del Servizio fitosanitario nazionale, "Servizio fitosanitario centrale" e "Servizio fitosanitario regionale".
+Ai fini del presente decreto e ai sensi della [legge 9 marzo 1955, n. 471](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20internazionale%20per%20la%20protezione%20delle%20piante%20firmata%20a%20Roma%20il%206%20dicembre%201951.md), gli uffici di cui ai commi 1 e 2 sono denominati rispettivamente, nell'ambito del Servizio fitosanitario nazionale, "Servizio fitosanitario centrale" e "Servizio fitosanitario regionale".
 
 4.
 

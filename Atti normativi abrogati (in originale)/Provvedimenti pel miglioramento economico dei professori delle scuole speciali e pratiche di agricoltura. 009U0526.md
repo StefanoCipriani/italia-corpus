@@ -76,7 +76,7 @@ L'incarico della direzione sara' conferito per concorso, al quale prenderanno pa
 
 ## Art. 9.
 
-Al numero degli assistenti stabiliti dal [Regio decreto 13 luglio 1890, n. 6987](../Regi%20decreti/Che%20approva%20gli%20annessi%20ruoli%20degli%20insegnanti%20nelle%20Scuole%20pratiche%20e%20nelle%20Scuole%20speciali%20di%20agricoltura.%20090U6987.md), modificato dal [R. decreto 12 febbraio 1893, n. 52](../Regi%20decreti/Che%20modifica%20i%20ruoli%20degli%20insegnanti%20nelle%20scuole%20speciali%20di%20agricoltura.%20093U0052.md), per le scuole speciali, sono aggiunti altri 17 posti da destinarsi alle scuole pratiche d'agricoltura, ed il loro numero complessivo risulta dalla tabella C di cui all'art. 7.
+Al numero degli assistenti stabiliti dal [Regio decreto 13 luglio 1890, n. 6987](Che%20approva%20gli%20annessi%20ruoli%20degli%20insegnanti%20nelle%20Scuole%20pratiche%20e%20nelle%20Scuole%20speciali%20di%20agricoltura.%20090U6987.md), modificato dal [R. decreto 12 febbraio 1893, n. 52](Che%20modifica%20i%20ruoli%20degli%20insegnanti%20nelle%20scuole%20speciali%20di%20agricoltura.%20093U0052.md), per le scuole speciali, sono aggiunti altri 17 posti da destinarsi alle scuole pratiche d'agricoltura, ed il loro numero complessivo risulta dalla tabella C di cui all'art. 7.
 
 ## Art. 10.
 

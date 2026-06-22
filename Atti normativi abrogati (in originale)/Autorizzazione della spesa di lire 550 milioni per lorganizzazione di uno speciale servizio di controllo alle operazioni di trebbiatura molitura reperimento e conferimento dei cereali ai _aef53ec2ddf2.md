@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 367](../Decreti%20legislativi%20luogotenenziali/Istituzione%20dellUfficio%20nazionale%20statistico%20economico%20dellagricoltura%20e%20soppressione%20degli%20Enti%20economici%20dellagricoltura%20e%20della%20loro%20associazione.%20045U0367.md);
+Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 367](Istituzione%20dellUfficio%20nazionale%20statistico%20economico%20dellagricoltura%20e%20soppressione%20degli%20Enti%20economici%20dellagricoltura%20e%20della%20loro%20associazione.%20045U0367.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

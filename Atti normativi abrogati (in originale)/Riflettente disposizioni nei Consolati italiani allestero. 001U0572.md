@@ -45,7 +45,7 @@ Gli assegni locali annui da corrispondersi agli Uffici consolari sottoindicati s
 
 AGGIORNAMENTO (1)
 
-L'Errata Corrige in G.U. 11/02/1902, n. 34 ha disposto che "Nella pubblicazione seguita nel n. 31 (7 febbraio scorso) del [R. decreto 29 dicembre 1901, n. 572](../Regi%20decreti/Riflettente%20disposizioni%20nei%20Consolati%20italiani%20allestero.%20001U0572.md), nella tabella dell'articolo 2 avvenne, per errore di copia, l'omissione del R. Consolato in Batum e dell'assegno allo stesso fissato in lire 4400. 
+L'Errata Corrige in G.U. 11/02/1902, n. 34 ha disposto che "Nella pubblicazione seguita nel n. 31 (7 febbraio scorso) del [R. decreto 29 dicembre 1901, n. 572](Riflettente%20disposizioni%20nei%20Consolati%20italiani%20allestero.%20001U0572.md), nella tabella dell'articolo 2 avvenne, per errore di copia, l'omissione del R. Consolato in Batum e dell'assegno allo stesso fissato in lire 4400. 
  Ritengasi completata, con la presente aggiunta, la pubblicazione del sopradetto R. decreto". 
 -------------- 
 Nota redazionale 

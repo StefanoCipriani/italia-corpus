@@ -14,7 +14,7 @@ Il termine stabilito dall'[art. 2 della legge 7 luglio 1901, n. 308](Modificazio
 
 ## Art. 2.
 
-Le disposizioni degli articoli 183-186 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), sono applicabili alle assegnazioni vitalizie concesse ai danneggiati politici delle provincie napoletane e siciliane a norma delle [leggi 8 luglio 1883, n. 1496 e 7 luglio 1901, n. 308](Modificazioni%20alla%20legge%208%20luglio%201883%20n.%201496%20serie%203ª%20relativa%20ai%20provvedimenti%20pei%20danneggiati%20politici%20delle%20provincie%20napoletane%20e%20siciliane.%20001U0308.md). 
+Le disposizioni degli articoli 183-186 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), sono applicabili alle assegnazioni vitalizie concesse ai danneggiati politici delle provincie napoletane e siciliane a norma delle [leggi 8 luglio 1883, n. 1496 e 7 luglio 1901, n. 308](Modificazioni%20alla%20legge%208%20luglio%201883%20n.%201496%20serie%203ª%20relativa%20ai%20provvedimenti%20pei%20danneggiati%20politici%20delle%20provincie%20napoletane%20e%20siciliane.%20001U0308.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La durata del primo periodo di attuazione degli interventi della Cassa del Mezzogiorno, prevista dal testo unico approvato con [decreto del Presidente della Repubblica 30 giugno 1967, n. 1523](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sul%20Mezzogiorno.md), e' riferita al sessennio 1965-1970.
+La durata del primo periodo di attuazione degli interventi della Cassa del Mezzogiorno, prevista dal testo unico approvato con [decreto del Presidente della Repubblica 30 giugno 1967, n. 1523](../DPR/Testo%20unico%20delle%20leggi%20sul%20Mezzogiorno.md), e' riferita al sessennio 1965-1970.
  L'efficacia del Piano pluriennale per il coordinamento degli interventi pubblici nel Mezzogiorno, relativo agli anni finanziari 1966-1969, approvato dal CIPE ai sensi dell'[articolo 3 del testo unico 30 giugno 1967, n. 1523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1967-06-30;1523#art_3), e' prorogata al 31 dicembre 1970.
 
 ## Art. 2.

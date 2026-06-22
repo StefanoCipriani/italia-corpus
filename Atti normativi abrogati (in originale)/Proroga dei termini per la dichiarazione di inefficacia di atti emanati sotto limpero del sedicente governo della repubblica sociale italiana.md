@@ -30,7 +30,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 ## Articolo unico.
 
-I termini previsti dall'[art. 3, comma primo](../Decreti%20legislativi%20luogotenenziali/Assetto%20della%20legislazione%20nei%20territori%20liberati.%20044U0249.md), e dall'[art. 4, comma secondo, del decreto legislativo luogotenenziale 5 ottobre 1944, n. 249](../Decreti%20legislativi%20luogotenenziali/Assetto%20della%20legislazione%20nei%20territori%20liberati.%20044U0249.md), sono prorogati sino al 30 giugno 1947.
+I termini previsti dall'[art. 3, comma primo](Assetto%20della%20legislazione%20nei%20territori%20liberati.%20044U0249.md), e dall'[art. 4, comma secondo, del decreto legislativo luogotenenziale 5 ottobre 1944, n. 249](Assetto%20della%20legislazione%20nei%20territori%20liberati.%20044U0249.md), sono prorogati sino al 30 giugno 1947.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

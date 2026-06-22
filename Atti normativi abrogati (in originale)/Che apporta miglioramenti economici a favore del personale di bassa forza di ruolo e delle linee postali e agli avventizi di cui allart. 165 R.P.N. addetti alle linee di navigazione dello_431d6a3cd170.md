@@ -20,7 +20,7 @@ Visto il [R. decreto-legge 2 maggio 1920, n. 598](Contenente%20provvedimenti%20e
 
 Visto il [R. decreto-legge 25 agosto 1920, n. 1184](Relativo%20alla%20sistemazione%20del%20personale%20dellex-Ministero%20dei%20trasporti.%20020U1184.md);
 
-Visto il [R. decreto 30 settembre 1920, n. 1389](../Regi%20decreti/Contenente%20norme%20pel%20passaggio%20dallo%20stato%20di%20guerra%20allo%20stato%20di%20pace.%20020U1389.md);
+Visto il [R. decreto 30 settembre 1920, n. 1389](Contenente%20norme%20pel%20passaggio%20dallo%20stato%20di%20guerra%20allo%20stato%20di%20pace.%20020U1389.md);
 
 Udito il Consiglio dei ministri;
 

@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), col quale e' stato approvato il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, e successive modificazioni;
+Visto il [regio decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), col quale e' stato approvato il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, e successive modificazioni;
 
-Visto il [regio decreto 20 giugno 1929, n. 1058](../Regi%20decreti/Approvazione%20del%20regolamento%20sui%20servizi%20del%20Provveditorato%20Generale%20dello%20Stato.%20029U1058.md), che approva il regolamento sui servizi del Provveditorato generale dello Stato, e successive modificazioni;
+Visto il [regio decreto 20 giugno 1929, n. 1058](Approvazione%20del%20regolamento%20sui%20servizi%20del%20Provveditorato%20Generale%20dello%20Stato.%20029U1058.md), che approva il regolamento sui servizi del Provveditorato generale dello Stato, e successive modificazioni;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

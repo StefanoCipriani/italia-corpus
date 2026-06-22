@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 30 giugno 1907, n. 384](Riordinamento%20della%20carriera%20dordine%20nelle%20Amministrazioni%20centrali.%20007U0384.md), di riordinamento della carriera d'ordine delle Amministrazioni centrali;
 
-Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
+Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
 
 Vista la [legge 10 marzo 1911, n. 147](Concernente%20il%20nuovo%20organico%20per%20lAmministrazione%20centrale%20della%20guerra.%20011U0147.md), che approva l'organico per il personale dell'Amministrazione centrale della guerra;
 

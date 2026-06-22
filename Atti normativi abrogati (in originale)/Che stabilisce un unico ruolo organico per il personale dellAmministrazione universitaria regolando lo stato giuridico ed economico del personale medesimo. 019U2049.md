@@ -153,7 +153,7 @@ Agli attuali impiegati che, prima della loro assunzione in ruolo abbiano prestat
 
 ### Art. 19.
 
-Agli attuali segretari e vice-segretari, che abbiano avuto promozioni per merito mediante esami di concorso sostenuti in base alla disposizione transitoria dell'art. 25 del regolamento organico per il personale delle segreterie universitarie, approvato con [Regio decreto 9 settembre 1909, n. 716](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20organico%20per%20il%20personale%20amministrativo%20delle%20segreterie%20universitarie.%20009U0716.md), si concede un anno nel collocamento nel quadro di classificazione e l'abbreviazione di un anno per il periodo di aumento di stipendio successivo alla data della pubblicazione del presente decreto.
+Agli attuali segretari e vice-segretari, che abbiano avuto promozioni per merito mediante esami di concorso sostenuti in base alla disposizione transitoria dell'art. 25 del regolamento organico per il personale delle segreterie universitarie, approvato con [Regio decreto 9 settembre 1909, n. 716](Che%20approva%20lannesso%20regolamento%20organico%20per%20il%20personale%20amministrativo%20delle%20segreterie%20universitarie.%20009U0716.md), si concede un anno nel collocamento nel quadro di classificazione e l'abbreviazione di un anno per il periodo di aumento di stipendio successivo alla data della pubblicazione del presente decreto.
 
 ### Art. 20.
 

@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 21 marzo 1929, n. 629](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md), e successive modificazioni;
+Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 21 marzo 1929, n. 629](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md), e successive modificazioni;
 
 Vista la [legge 1° aprile 1935, n. 397](Nomina%20a%20sottotenente%20di%20complemento%20nel%20Regio%20esercito%20di%20alcune%20categorie%20di%20sottufficiali%20e%20militari%20di%20truppa%20in%20congedo.%20035U0397.md), concernente la nomina a sottotenente di complemento nel Regio esercito di alcune categorie di sottufficiali e militari di truppa in congedo;
 
-Visto il [R. decreto-legge 9 maggio 1935, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-05-09;312), recante modificazioni al testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md);
+Visto il [R. decreto-legge 9 maggio 1935, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-05-09;312), recante modificazioni al testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

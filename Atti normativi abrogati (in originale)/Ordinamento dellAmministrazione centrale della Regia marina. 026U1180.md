@@ -56,7 +56,7 @@ I servizi dell'Amministrazione centrale della marina sono ripartiti nel modo seg
 
 ## Art. 4.
 
-Alla tabella n. 67 allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, e' sostituita la seguente, per quanto riguarda il personale della carriera amministrativa dell'Amministrazione centrale (gruppo A). 
+Alla tabella n. 67 allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, e' sostituita la seguente, per quanto riguarda il personale della carriera amministrativa dell'Amministrazione centrale (gruppo A). 
  
  Grado 4° direttori generali . . . . . . . . . . . . . 2 
  » 5° ispettore generale (a) . . . . . . . . . . . 1 

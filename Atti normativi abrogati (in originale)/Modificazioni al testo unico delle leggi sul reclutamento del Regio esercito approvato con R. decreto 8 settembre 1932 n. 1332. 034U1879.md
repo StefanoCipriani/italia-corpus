@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md);
+Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md);
 
 Visto il [R. decreto-legge 5 marzo 1934, n. 482](Modifiche%20al%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20R.%20decreto%208%20settembre%201932%20n.%201332.%20034U0482.md), convertito in legge con la [legge 4 giugno 1934, n. 942](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201934%20n.%20482%20portante%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20R.%20decreto%208%20settembre%2019_a564af75dc5a.md), che apporta modifiche al testo unico suddetto;
 
@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-L'art. 112 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md), modificato dal [R. decreto-legge 5 marzo 1934, n. 482](Modifiche%20al%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20R.%20decreto%208%20settembre%201932%20n.%201332.%20034U0482.md), convertito in legge con la [legge 4 giugno 1934, n. 942](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201934%20n.%20482%20portante%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20R.%20decreto%208%20settembre%2019_a564af75dc5a.md), e' sostituito dal seguente: 
+L'art. 112 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md), modificato dal [R. decreto-legge 5 marzo 1934, n. 482](Modifiche%20al%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20R.%20decreto%208%20settembre%201932%20n.%201332.%20034U0482.md), convertito in legge con la [legge 4 giugno 1934, n. 942](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201934%20n.%20482%20portante%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20R.%20decreto%208%20settembre%2019_a564af75dc5a.md), e' sostituito dal seguente: 
  
  «Il Ministro per la guerra, entro il primo semestre dalla chiamata alle armi di ogni classe o parte di essa, ha facolta' di determinare, con provvedimento collettivo, il passaggio totale o parziale dei militari da una ferma all'altra. In quest'ultimo caso il passaggio potra' essere disposto per armi specialita' o seguendo l'ordine in cui i relativi titoli sono elencati nella presente legge. 
  

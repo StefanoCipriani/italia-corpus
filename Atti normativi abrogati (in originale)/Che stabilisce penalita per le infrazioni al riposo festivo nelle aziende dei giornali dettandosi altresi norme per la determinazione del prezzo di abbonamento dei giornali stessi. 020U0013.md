@@ -24,7 +24,7 @@ Sulla proposta del Nostro ministro segretario di Stato per l'industria, il comme
 
 ## Art. 1.
 
-In deroga alle disposizioni vigenti, le infrazioni al divieto di pubblicazione dei giornali in determinati giorni ed ore, contenuto nel regolamento per l'applicazione del [R. decreto 28 settembre 1919, n. 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-28;1933), approvato con [R. decreto 14 dicembre 1919, n. 2448](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20il%20riposo%20festivo%20nelle%20aziende%20di%20giornali.%20019U2448.md), sono punite col sequestro del giornale e con una penalita' non inferiore a lire diecimila, il cui importo sara' devoluto a beneficio delle istituzioni di previdenza per giornalisti, esistenti nel luogo in cui la contravvenzione e' stata perpetrata. 
+In deroga alle disposizioni vigenti, le infrazioni al divieto di pubblicazione dei giornali in determinati giorni ed ore, contenuto nel regolamento per l'applicazione del [R. decreto 28 settembre 1919, n. 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-28;1933), approvato con [R. decreto 14 dicembre 1919, n. 2448](Che%20approva%20il%20regolamento%20per%20il%20riposo%20festivo%20nelle%20aziende%20di%20giornali.%20019U2448.md), sono punite col sequestro del giornale e con una penalita' non inferiore a lire diecimila, il cui importo sara' devoluto a beneficio delle istituzioni di previdenza per giornalisti, esistenti nel luogo in cui la contravvenzione e' stata perpetrata. 
  
  In caso di recidiva, il magistrato puo' inoltre ordinare la sospensione del giornale per un periodo di tempo determinato.
 

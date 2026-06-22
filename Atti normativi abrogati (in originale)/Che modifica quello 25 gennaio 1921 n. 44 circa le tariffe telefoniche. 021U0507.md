@@ -14,11 +14,11 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico di leggi sui telefoni approvato con [R. decreto del 3 maggio 1903, n. 196](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20sui%20telefoni.%20003U0196.md);
+Visto il testo unico di leggi sui telefoni approvato con [R. decreto del 3 maggio 1903, n. 196](Approvazione%20del%20testo%20unico%20della%20legge%20sui%20telefoni.%20003U0196.md);
 
 Visto il [R. decreto-legge 11 marzo 1920, n. 316](Che%20apporta%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche.%20020U0316.md);
 
-Visto il [R. decreto 25 gennaio 1921, n. 44](../Regi%20decreti/recante%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche%20interne.%20021U0044.md);
+Visto il [R. decreto 25 gennaio 1921, n. 44](recante%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche%20interne.%20021U0044.md);
 
 Udito il Consiglio dei ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro ministro segretario di Stato per le poste ed i telegra
 
 ## Art. 1.
 
-L'ultimo comma dell'[art. 25 del R. decreto 25 gennaio 1921, n. 44](../Regi%20decreti/recante%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche%20interne.%20021U0044.md), e' modificato come segue: 
+L'ultimo comma dell'[art. 25 del R. decreto 25 gennaio 1921, n. 44](recante%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche%20interne.%20021U0044.md), e' modificato come segue: 
  
  Per ogni cinque minuti di corrispondenza nei posti telefonici pubblici, L. 0,50 sulle linee fino a 3 km. 
  
@@ -34,7 +34,7 @@ L'ultimo comma dell'[art. 25 del R. decreto 25 gennaio 1921, n. 44](../Regi%20de
 
 ## Art. 2.
 
-Gli art. 26 e 27 dello stesso [R. decreto 25 gennaio 1921, n. 44](../Regi%20decreti/recante%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche%20interne.%20021U0044.md) sono modificati come segue: 
+Gli art. 26 e 27 dello stesso [R. decreto 25 gennaio 1921, n. 44](recante%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche%20interne.%20021U0044.md) sono modificati come segue: 
  
  Art. 26. - L'[art. 2 del R. decreto n. 1850 del 21 settembre 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-21;1850#art_2) e' sostituito dall'articolo seguente: 
  

@@ -58,7 +58,7 @@ VITTORIO EMANUELE III
  
  Nei casi in cui, per mancanza di fondi di spettanza del comune o della provincia, l'esattore o il ricevitore fossero costretti ad anticipare del proprio l'importo di tale somma, essi avranno diritto di percepire su di essa, a carico dell'ente pel quale l'avranno anticipata, l'interesse al saggio legale dalla data dei pagamenti. A tale anticipazione non saranno pero' tenuti l'esattore o il ricevitore che non abbiano modo di rivalersi entro l'anno solare delle somme anticipate. 
  
- Quando l'esattore o il ricevitore provinciale ritardassero il versamento (eccettuato il caso contemplato nel precedente capoverso) si applicheranno le disposizioni degli articoli 81 e 84 del testo unico approvato con [R. decreto 29 giugno 1902, n. 281](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0281.md) e si potra' procedere contro di essi all'esecuzione per mezzo dell'Intendenza di finanza. 
+ Quando l'esattore o il ricevitore provinciale ritardassero il versamento (eccettuato il caso contemplato nel precedente capoverso) si applicheranno le disposizioni degli articoli 81 e 84 del testo unico approvato con [R. decreto 29 giugno 1902, n. 281](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0281.md) e si potra' procedere contro di essi all'esecuzione per mezzo dell'Intendenza di finanza. 
  
  Le multe a carico degli esattori o dei ricevitori andranno a beneficio del Collegio convitto. 
  

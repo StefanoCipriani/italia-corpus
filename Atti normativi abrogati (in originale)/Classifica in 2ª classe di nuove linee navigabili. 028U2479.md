@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sulla navigazione interna e sulla fluitazione approvato con [R. decreto 11 luglio 1913, n. 959](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20navigazione%20interna%20e%20sulla%20fluitazione.%20013U0959.md);
+Visto il testo unico delle leggi sulla navigazione interna e sulla fluitazione approvato con [R. decreto 11 luglio 1913, n. 959](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20navigazione%20interna%20e%20sulla%20fluitazione.%20013U0959.md);
 
 Visti la [legge 5 maggio 1907, n. 257](Concernente%20la%20istituzione%20del%20Magistrato%20alle%20acque%20per%20le%20provincie%20Venete%20e%20di%20Mantova.%20007U0257.md), istitutiva del Magistrato alle acque per le Provincie venete e di Mantova, modificata da quella 31 dicembre 1923, n. 3228, ed il [R. decreto 29 novembre 1925, n. 2583](Modifiche%20alla%20competenza%20territoriale%20del%20Magistrato%20alle%20acque%20e%20dellufficio%20del%20Genio%20civile%20di%20Brescia.%20025U2583.md), che estende la competenza del Magistrato stesso ai territori della Venezia Tridentina e della Venezia Giulia;
 

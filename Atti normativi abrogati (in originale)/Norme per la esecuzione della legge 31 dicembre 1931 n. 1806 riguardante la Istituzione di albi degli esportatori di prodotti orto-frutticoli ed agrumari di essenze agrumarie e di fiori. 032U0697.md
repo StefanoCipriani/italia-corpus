@@ -58,7 +58,7 @@ E' consentita l'iscrizione ai commercianti dichiarati falliti, qualora essi abbi
 
 ### Art. 6.
 
-Agli effetti dell'art. 8, comma 4°, della legge, ai reati previsti nei titoli III, VI e X del libro secondo del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) abrogato e nell'art. 319 dello stesso Codice, si intendono sostituiti i reati previsti nei corrispondenti titoli II, VII e XIII del libro secondo del Codice vigente e negli articoli 440, 2° e 3° comma, 441 e 442 del Codice medesimo.
+Agli effetti dell'art. 8, comma 4°, della legge, ai reati previsti nei titoli III, VI e X del libro secondo del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) abrogato e nell'art. 319 dello stesso Codice, si intendono sostituiti i reati previsti nei corrispondenti titoli II, VII e XIII del libro secondo del Codice vigente e negli articoli 440, 2° e 3° comma, 441 e 442 del Codice medesimo.
 
 ### Art. 7.
 

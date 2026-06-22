@@ -118,7 +118,7 @@ Gli esercenti di caffe', alberghi, osterie o d'altri stabilimenti e negozi compr
 
 ### Art. 16.
 
-Pei recidivi saranno applicate le disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), libro I, titolo II, capo V, sezione II; e libro III, titolo unico, capo IV.
+Pei recidivi saranno applicate le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), libro I, titolo II, capo V, sezione II; e libro III, titolo unico, capo IV.
 
 ### Art. 17.
 
@@ -128,7 +128,7 @@ I ricevitori del lotto ed i loro commessi trasgredendo alle disposizioni della p
 
 ### Art. 18.
 
-Le pene pecuniarie nel caso di non effettuato pagamento sono commutate in pene corporali col ragguaglio stabilito dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); con che pero' il carcere in nessun caso ecceda il termine di due anni. 
+Le pene pecuniarie nel caso di non effettuato pagamento sono commutate in pene corporali col ragguaglio stabilito dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); con che pero' il carcere in nessun caso ecceda il termine di due anni. 
  
  Sara' sempre in facolta' del condannato di fare cessare la pena sussidiaria del carcere o dell'arresto col pagamento della pena pecuniaria corrispondente al carcere o all'arresto che gli rimarrebbe da scontare.
 

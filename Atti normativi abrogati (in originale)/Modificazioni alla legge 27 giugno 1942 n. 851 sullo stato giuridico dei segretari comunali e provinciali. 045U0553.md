@@ -16,9 +16,9 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visto il testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
-Visto il [R. decreto 21 marzo 1929, n. 371](../Regi%20decreti/Norme%20integrative%20ed%20esecutive%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20sullo%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20029U0371.md);
+Visto il [R. decreto 21 marzo 1929, n. 371](Norme%20integrative%20ed%20esecutive%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20sullo%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20029U0371.md);
 
 Vista la [legge 27 giugno 1942, n. 851](Modificazioni%20al%20testo%20unico%20della%20legge%20comunale%20e%20provinciale%20approvato%20con%20R.%20decreto%203%20marzo%201934-XII%20n.%20383%20concernenti%20il%20nuovo%20stato%20giuridico%20dei%20segretari%20comunali%20e%20provinciali.%20042U0851.md);
 
@@ -40,21 +40,21 @@ Per i segretari comunali dei gradi 1°, 2°, 3° e 4°, per i segretari provinci
 
 ## Art. 3.
 
-All'attribuzione degli aumenti periodici di stipendio e dei diritti accessori ai segretari comunali e provinciali, che abbiano maturato, i prescritti periodi di anzianita', si fa luogo in base al semplice accertamento, da parte dei competenti uffici del personale, delle condizioni stabilite rispettivamente, dagli [articoli 98](../Regi%20decreti/Norme%20integrative%20ed%20esecutive%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20sullo%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20029U0371.md) e [102 del R. decreto 21 marzo 1929, n. 371](../Regi%20decreti/Norme%20integrative%20ed%20esecutive%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20sullo%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20029U0371.md), omesso ogni parere del Consiglio d'amministrazione.
+All'attribuzione degli aumenti periodici di stipendio e dei diritti accessori ai segretari comunali e provinciali, che abbiano maturato, i prescritti periodi di anzianita', si fa luogo in base al semplice accertamento, da parte dei competenti uffici del personale, delle condizioni stabilite rispettivamente, dagli [articoli 98](Norme%20integrative%20ed%20esecutive%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20sullo%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20029U0371.md) e [102 del R. decreto 21 marzo 1929, n. 371](Norme%20integrative%20ed%20esecutive%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20sullo%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20029U0371.md), omesso ogni parere del Consiglio d'amministrazione.
 
 ## Art. 4.
 
-Il terzo comma degli articoli 156 e 157 del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), sostituito dall'art. 1-sub 156 e 157 della [legge 27 giugno 1942, n. 851](Modificazioni%20al%20testo%20unico%20della%20legge%20comunale%20e%20provinciale%20approvato%20con%20R.%20decreto%203%20marzo%201934-XII%20n.%20383%20concernenti%20il%20nuovo%20stato%20giuridico%20dei%20segretari%20comunali%20e%20provinciali.%20042U0851.md), e' abrogato.
+Il terzo comma degli articoli 156 e 157 del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), sostituito dall'art. 1-sub 156 e 157 della [legge 27 giugno 1942, n. 851](Modificazioni%20al%20testo%20unico%20della%20legge%20comunale%20e%20provinciale%20approvato%20con%20R.%20decreto%203%20marzo%201934-XII%20n.%20383%20concernenti%20il%20nuovo%20stato%20giuridico%20dei%20segretari%20comunali%20e%20provinciali.%20042U0851.md), e' abrogato.
 
 ## Art. 5.
 
-In deroga a quanto disposto dall'art. 241 del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), sostituito dall'articolo 1-sub 241 della [legge 27 giugno 1942, n. 851](Modificazioni%20al%20testo%20unico%20della%20legge%20comunale%20e%20provinciale%20approvato%20con%20R.%20decreto%203%20marzo%201934-XII%20n.%20383%20concernenti%20il%20nuovo%20stato%20giuridico%20dei%20segretari%20comunali%20e%20provinciali.%20042U0851.md), e' demandato al prefetto di autorizzare il segretario comunale ed il segretario provinciale a prestare opera retribuita presso istituzioni pubbliche di assistenza e di beneficenza o altri enti pubblici locali. 
+In deroga a quanto disposto dall'art. 241 del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), sostituito dall'articolo 1-sub 241 della [legge 27 giugno 1942, n. 851](Modificazioni%20al%20testo%20unico%20della%20legge%20comunale%20e%20provinciale%20approvato%20con%20R.%20decreto%203%20marzo%201934-XII%20n.%20383%20concernenti%20il%20nuovo%20stato%20giuridico%20dei%20segretari%20comunali%20e%20provinciali.%20042U0851.md), e' demandato al prefetto di autorizzare il segretario comunale ed il segretario provinciale a prestare opera retribuita presso istituzioni pubbliche di assistenza e di beneficenza o altri enti pubblici locali. 
  
  Analogamente spetta al prefetto di autorizzare i segretari comunali e i segretari provinciali a far parte dell'amministrazione di societa' cooperative costituite tra impiegati o ad essere prescelti come periti, consulenti tecnici o arbitri.
 
 ## Art. 6.
 
-Spetta al prefetto di applicare al segretario comunale ed al segretario provinciale la sospensione cautelativa prevista dall'art. 249 del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), sostituito dall'art. 1-sub 249 della [legge 27 giugno 1942, n. 851](Modificazioni%20al%20testo%20unico%20della%20legge%20comunale%20e%20provinciale%20approvato%20con%20R.%20decreto%203%20marzo%201934-XII%20n.%20383%20concernenti%20il%20nuovo%20stato%20giuridico%20dei%20segretari%20comunali%20e%20provinciali.%20042U0851.md).
+Spetta al prefetto di applicare al segretario comunale ed al segretario provinciale la sospensione cautelativa prevista dall'art. 249 del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), sostituito dall'art. 1-sub 249 della [legge 27 giugno 1942, n. 851](Modificazioni%20al%20testo%20unico%20della%20legge%20comunale%20e%20provinciale%20approvato%20con%20R.%20decreto%203%20marzo%201934-XII%20n.%20383%20concernenti%20il%20nuovo%20stato%20giuridico%20dei%20segretari%20comunali%20e%20provinciali.%20042U0851.md).
 
 ## Art. 7.
 

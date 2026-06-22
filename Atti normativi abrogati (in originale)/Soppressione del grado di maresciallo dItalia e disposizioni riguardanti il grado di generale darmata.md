@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visti i [regi decreti-legge 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md) e [17 giugno 1920, n. 1038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-06-17;1038), convertiti in legge rispettivamente con le [leggi 25 giugno 1926, n. 1262 e 10 aprile 1927, n. 579](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2017%20giugno%201926%20n.%201038%20contenente%20la%20nomina%20di%20Marescialli%20dItalia%20e%20disposizioni%20relative%20a%20tale%20grado.%20027U0579.md);
+Visti i [regi decreti-legge 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md) e [17 giugno 1920, n. 1038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-06-17;1038), convertiti in legge rispettivamente con le [leggi 25 giugno 1926, n. 1262 e 10 aprile 1927, n. 579](Conversione%20in%20legge%20del%20R.%20decreto-legge%2017%20giugno%201926%20n.%201038%20contenente%20la%20nomina%20di%20Marescialli%20dItalia%20e%20disposizioni%20relative%20a%20tale%20grado.%20027U0579.md);
 
 Vista la [legge 9 maggio 1940, n. 368](Ordinamento%20del%20Regio%20esercito.%20040U0368.md), sull'ordinamento dell'Esercito, e successive modificazioni;
 

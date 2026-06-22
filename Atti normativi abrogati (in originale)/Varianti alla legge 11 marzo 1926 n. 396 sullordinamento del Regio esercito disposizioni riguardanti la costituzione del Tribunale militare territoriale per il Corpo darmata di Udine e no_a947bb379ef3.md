@@ -18,7 +18,7 @@ Vista la [legge 11 marzo 1926, n. 396](Ordinamento%20del%20Regio%20esercito.%200
 
 Visto il [R. decreto-legge 5 agosto 1927, n. 1539](Varianti%20alla%20legge%2011%20marzo%201926%20n.%20396%20sullordinamento%20del%20Regio%20esercito.%20027U1539.md), contenente varianti alla legge suddetta;
 
-Visti i [Regi decreti 19 ottobre 1923, n. 2316](../Regi%20decreti/Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md), e [30 dicembre 1923, n. 2903](../Regi%20decreti/Norme%20di%20attuazione%20del%20R.%20decreto%2019%20ottobre%201923%20n.%202316%20e%20nuove%20disposizioni%20sullordinamento%20giudiziario%20militare.%20023U2903.md), sull'ordinamento giudiziario militare;
+Visti i [Regi decreti 19 ottobre 1923, n. 2316](Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md), e [30 dicembre 1923, n. 2903](Norme%20di%20attuazione%20del%20R.%20decreto%2019%20ottobre%201923%20n.%202316%20e%20nuove%20disposizioni%20sullordinamento%20giudiziario%20militare.%20023U2903.md), sull'ordinamento giudiziario militare;
 
 Vista la [legge 11 marzo 1926, n. 398](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20026U0398.md), sull'avanzamento degli ufficiali del Regio esercito;
 

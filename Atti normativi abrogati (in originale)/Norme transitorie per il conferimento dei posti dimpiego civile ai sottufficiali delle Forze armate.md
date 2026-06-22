@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle leggi sullo stato dei sottufficiali dell'Esercito, approvato con [regio decreto 15 settembre 1932, n. 1514](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), e successive modificazioni;
+Visto il testo unico delle leggi sullo stato dei sottufficiali dell'Esercito, approvato con [regio decreto 15 settembre 1932, n. 1514](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), e successive modificazioni;
 
-Visto il testo unico delle disposizioni legislative riguardanti l'ordinamento del Corpo equipaggi marittimi e lo stato giuridico dei sottufficiali del Corpo equipaggi marittimi, approvato con [regio decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative riguardanti l'ordinamento del Corpo equipaggi marittimi e lo stato giuridico dei sottufficiali del Corpo equipaggi marittimi, approvato con [regio decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni;
 
 Visto il [regio decreto-legge 3 febbraio 1938, n. 744](Norme%20sul%20reclutamento%20ed%20avanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20nonche%20sullo%20stato%20dei%20sottufficiali%20della%20Regia%20aeronautica.%20038U0744.md), riguardante le norme sul trattamento ed avanzamento dei sottufficiali e militari di truppa nonche' lo stato dei sottufficiali dell'Aeronautica, e successive modificazioni;
 

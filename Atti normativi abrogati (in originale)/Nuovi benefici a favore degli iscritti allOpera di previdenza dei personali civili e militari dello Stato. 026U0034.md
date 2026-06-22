@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-I Minimi degli assegni stabiliti dalle tabelle A e B annesse al [R. decreto 4 giugno 1925 n. 1036](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md), che approva il testo unico delle disposizioni legislative sull'Opera di previdenza dei personali civili e militari dello Stato, sono elevati a L. 1000 per le vedove, a L. 900 per gli orfani, ed a L. 800 per i genitori e i fratelli degli iscritti all'Opera medesima. 
+I Minimi degli assegni stabiliti dalle tabelle A e B annesse al [R. decreto 4 giugno 1925 n. 1036](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md), che approva il testo unico delle disposizioni legislative sull'Opera di previdenza dei personali civili e militari dello Stato, sono elevati a L. 1000 per le vedove, a L. 900 per gli orfani, ed a L. 800 per i genitori e i fratelli degli iscritti all'Opera medesima. 
  
  Sono aumentati di L. 200 gli assegni alle vedove, qualora queste abbiano uno o due orfani minorenni a loro carico, e di L. 400 se il numero di detti orfani e' superiore a due. 
  
@@ -46,7 +46,7 @@ L'Opera di previdenza e' autorizzata a soccorrere i funzionari civili e militari
 
 ## Art. 4.
 
-All'[art. 23 del R. decreto 4 giugno 1925, n. 1036](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md), si sostituisce il seguente: 
+All'[art. 23 del R. decreto 4 giugno 1925, n. 1036](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md), si sostituisce il seguente: 
  
  «L'Opera di previdenza puo' investire capitali di sua proprieta' nelle spese per la costruzione e l'acquisto di edifici da adibire, sotto la sua diretta dipendenza, a convitti per l'educazione e l'istruzione degli orfani dei personali civili e militari dello Stato. 
  
@@ -54,7 +54,7 @@ All'[art. 23 del R. decreto 4 giugno 1925, n. 1036](../Testi%20Unici/Approvazion
 
 ## Art. 5.
 
-L'[art. 24 del R. decreto 4 giugno 1925, n. 1036](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md), e' modificato nel modo seguente: 
+L'[art. 24 del R. decreto 4 giugno 1925, n. 1036](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md), e' modificato nel modo seguente: 
  
  «Al personale civile e militare dello Stato, collocato a riposo con diritto a pensione, e' corrisposta, a titolo d'indennita' di buonuscita, una somma pari a tanti centesimi dell'ultimo stipendio annuo, quanti sono gli anni di servizio effettivo prestati nelle categorie di personale ammesse, a godere dei benefici dell'Opera di previdenza. 
  
@@ -65,7 +65,7 @@ L'[art. 24 del R. decreto 4 giugno 1925, n. 1036](../Testi%20Unici/Approvazione%
 
 ## Art. 6.
 
-L'[art. 39 del R. decreto 4 giugno 1925; n. 1036](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md), e' modificato come segue: 
+L'[art. 39 del R. decreto 4 giugno 1925; n. 1036](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md), e' modificato come segue: 
  
  «Con effetto dal 1° gennaio 1926 la misura degli assegni vitalizi facoltativi concessi e da concedersi sui fondi della Cassa sovvenzioni e' deliberata dal Consiglio di amministrazione nella maniera seguente: 
  
@@ -83,7 +83,7 @@ L'[art. 39 del R. decreto 4 giugno 1925; n. 1036](../Testi%20Unici/Approvazione%
 
 ## Art. 7.
 
-Sono abrogati gli articoli 4, 37 (ultimo comma) e 43 del [R. decreto 4 giugno 1925, n. 1036](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md). 
+Sono abrogati gli articoli 4, 37 (ultimo comma) e 43 del [R. decreto 4 giugno 1925, n. 1036](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md). 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. 
  

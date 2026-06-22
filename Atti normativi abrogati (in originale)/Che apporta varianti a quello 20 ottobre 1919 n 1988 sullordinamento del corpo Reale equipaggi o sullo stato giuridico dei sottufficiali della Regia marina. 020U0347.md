@@ -168,7 +168,7 @@ Questo assegno e' di lire 1,50 pei sott'ufficiali delle categorie macchinisti (i
 L'art. 50 e' sostituito dal seguente: 
  
  I sott'ufficiali hanno diritto al collocamento a riposo per anzianita' di servizio dopo 20 anni di effettivo servizio (escluso quindi qualsiasi computo di navigazione, campagne di guerra, ecc.).
-Agli effetti del computo della pensione e' calcolato in aggiunta ai 20 anni di servizio effettivo il maggior servizio al quale hanno diritto i militari del corpo R. equipaggi per la navigazione, le campagne di guerra, e per ogni altro titolo previsto dal vigente testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive varianti. 
+Agli effetti del computo della pensione e' calcolato in aggiunta ai 20 anni di servizio effettivo il maggior servizio al quale hanno diritto i militari del corpo R. equipaggi per la navigazione, le campagne di guerra, e per ogni altro titolo previsto dal vigente testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive varianti. 
  
  I sott'ufficiali saranno collocati a riposo d'autorita' quando abbiano compiuto 32 anni di servizio effettivo. Devono essere inoltre collocati a riposo quando abbiano compiuto il 52° anno di eta', purche' contino almeno 20 anni di servizio effettivo: qualora non si trovassero in questa ultima condizione, resteranno alle armi fino al compimento del 20° anno di servizio. 
  
@@ -242,7 +242,7 @@ Indennita' caro viveri - Cessazione dell'indennita' giornaliera straordinaria de
  
  Gli assegni predetti saranno corrisposti fino a quando saranno devolute analoghe indennita' agli ufficiali ed agli impiegati civili dello Stato. 
  
- Col 1° gennaio 1920 cessera' per i sottufficiali il godimento dell'indennita' giornaliera straordinaria di cui al [R. decreto n. 1416 In data 27 luglio 1919](../Regi%20decreti/Che%20concede%20a%20tutti%20i%20sottufficiali%20della%20Regia%20marina%20che%20non%20percepiscono%20soprassoldo%20di%20servizio%20allestero%20una%20indennita%20giornaliera.%20019U1416.md).
+ Col 1° gennaio 1920 cessera' per i sottufficiali il godimento dell'indennita' giornaliera straordinaria di cui al [R. decreto n. 1416 In data 27 luglio 1919](Che%20concede%20a%20tutti%20i%20sottufficiali%20della%20Regia%20marina%20che%20non%20percepiscono%20soprassoldo%20di%20servizio%20allestero%20una%20indennita%20giornaliera.%20019U1416.md).
 
 ## Art. 21.
 

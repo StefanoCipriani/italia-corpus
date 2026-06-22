@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto il testo Unico delle leggi sul reclutamento del R. esercito, approvato con decreto Reale del 6 agosto 1888, n. 5655 (serie 3ª);
 
-Vista la [legge 30 giugno 1910, n. 362](Concernente%20ladozione%20della%20ferma%20biennale.%20010U0362.md), con la quale furono modificate alcune disposizioni del detto testo unico e fu data facolta' al Nostro Governo di pubblicare un nuovo testo unico delle leggi sul reclutamento del R. esercito introducendo in esso quelle modificazioni che, sentito il parere del Consiglio di Stato, saranno ritenute necessarie per emendarne le disposizioni o coordinarle tra loro e con quelle del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e delle altre leggi;
+Vista la [legge 30 giugno 1910, n. 362](Concernente%20ladozione%20della%20ferma%20biennale.%20010U0362.md), con la quale furono modificate alcune disposizioni del detto testo unico e fu data facolta' al Nostro Governo di pubblicare un nuovo testo unico delle leggi sul reclutamento del R. esercito introducendo in esso quelle modificazioni che, sentito il parere del Consiglio di Stato, saranno ritenute necessarie per emendarne le disposizioni o coordinarle tra loro e con quelle del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e delle altre leggi;
 
-Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) approvato con [R. decreto 30 giugno 1889, n. 6133](Che%20approva%20il%20testo%20definitivo%20del%20Codice%20penale%20per%20il%20Regno.%20089U6133.md) (serie 3ª);
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) approvato con [R. decreto 30 giugno 1889, n. 6133](Che%20approva%20il%20testo%20definitivo%20del%20Codice%20penale%20per%20il%20Regno.%20089U6133.md) (serie 3ª);
 
 Vista la [legge 28 giugno 1891, n. 316](Portante%20modificazioni%20allobbligo%20del%20servizio%20militare%20stabilito%20dalla%20legge%20sul%20reclutamento%20del%20regio%20esercito.%20091U0316.md);
 
@@ -104,9 +104,9 @@ A testo unico delle leggi sul reclutamento del R. esercito rimane approvato il s
  
  Art. 5. 
  
- (Art. 3 testo unico 6 agosto 1888 - [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 30 giugno 1889). 
+ (Art. 3 testo unico 6 agosto 1888 - [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 30 giugno 1889). 
  
- Sono esclusi dal servizio militare e non possono far parte del R. esercito i condannati, in applicazione del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune, alla pena dell'ergastolo o alla pena della reclusione che abbia per effetto o alla quale sia aggiunta l'interdizione perpetua dai pubblici uffici. 
+ Sono esclusi dal servizio militare e non possono far parte del R. esercito i condannati, in applicazione del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune, alla pena dell'ergastolo o alla pena della reclusione che abbia per effetto o alla quale sia aggiunta l'interdizione perpetua dai pubblici uffici. 
  
  I condannati da giudici stranieri a pene che corrispondono a quelle suindicate e per gli stessi reati a cui le dette pene sono applicabili secondo le leggi del Regno, possono essere esclusi dal far parte dal R. esercito per decisione del ministro della guerra. 
  
@@ -779,7 +779,7 @@ equipaggi.
  
  Art. 78. 
  
-(Art. 101 testo unico 6 agosto 1888 - [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 30 giugno 1889). 
+(Art. 101 testo unico 6 agosto 1888 - [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 30 giugno 1889). 
  
  Colui che intende surrogare il fratello deve: 
  
@@ -1309,7 +1309,7 @@ Arruolamenti volontari ordinari, volontariato di un anno, ammissioni anticipate 
  
  Art. 137. 
  
-(Art. 162 testo unico 6 agosto 1888 - [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 30 giugno 1889). 
+(Art. 162 testo unico 6 agosto 1888 - [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 30 giugno 1889). 
  
  Coloro che con frode o raggiri abbiano cooperato alla omissione di un giovane sulle liste di leva, sono puniti con la reclusione fino a tre anni e con multa estensibile a lire duemila, salve le pene maggiori, se vi e' luogo, per i pubblici ufficiali. 
  
@@ -1317,13 +1317,13 @@ Arruolamenti volontari ordinari, volontariato di un anno, ammissioni anticipate 
  
  Art. 138. 
  
-(Art. 163 testo unico 6 agosto 1888 - [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 30 giugno 1889). 
+(Art. 163 testo unico 6 agosto 1888 - [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 30 giugno 1889). 
  
  I colpevoli di fraudolenta sostituzione di persone sono puniti colla reclusione da tre a dieci anni. 
  
  Art. 139. 
  
-(Art. 164 testo unico 6 agosto 1888 - [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 30 giugno 1889). 
+(Art. 164 testo unico 6 agosto 1888 - [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 30 giugno 1889). 
  
  La frode nelle surrogazioni di fratello e' punita con la reclusione fino a due anni senza pregiudizio delle pene piu' gravi applicabili nel caso di falsita'. 
  
@@ -1337,7 +1337,7 @@ Arruolamenti volontari ordinari, volontariato di un anno, ammissioni anticipate 
  
  Art. 141. 
  
-(Art. 166 testo unico 6 agosto 1888 - [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 30 giugno 1889). 
+(Art. 166 testo unico 6 agosto 1888 - [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 30 giugno 1889). 
  
  Gli inscritti colpevoli di essersi procacciate infermita' temporanee o permanenti al fine di esimersi dal servizio militare sono puniti con la reclusione fino ad un anno. 
  
@@ -1367,7 +1367,7 @@ Arruolamenti volontari ordinari, volontariato di un anno, ammissioni anticipate 
  
  Art. 144. 
  
-(Art. 169 testo unico 6 agosto 1888 - [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 30 giugno 1889). 
+(Art. 169 testo unico 6 agosto 1888 - [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 30 giugno 1889). 
  
  I renitenti arrestati sono puniti con la detenzione da uno a due anni; quelli che si presentano spontanei prima della scadenza di un anno dal giorno della dichiarazione di renitenza, incorrono nella pena della detenzione da due a sei mesi; e coloro che si presentano spontanei dopo questo limite di tempo vanno soggetti alla stessa pena della detenzione da sei mesi ad un anno. 
  
@@ -1389,7 +1389,7 @@ Arruolamenti volontari ordinari, volontariato di un anno, ammissioni anticipate 
  
  Art. 146. 
  
-(Art. 171 testo unico 6 agosto 1888 - [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 30 giugno 1889). 
+(Art. 171 testo unico 6 agosto 1888 - [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 30 giugno 1889). 
  
  Chiunque abbia scientemente nascosto od ammesso al suo servizio un renitente e' punito con la detenzione sino a sei mesi. 
  
@@ -1419,13 +1419,13 @@ Arruolamenti volontari ordinari, volontariato di un anno, ammissioni anticipate 
  
  (Art. 174 testo unico 6 agosto 1888). 
  
- Ogni pubblico ufficiale che sotto qualsiasi pretesto abbia autorizzato od ammesso esenzioni dal servizio di 1ª categoria, riforme, esclusioni e surrogazioni di fratello, oppostamente al disposto della legge, ovvero abbia data arbitraria estensione sia alla durata, sia alle regole e condizioni della chiamata alla leva e degli arruolamenti volontari, e' punito come reo di abuso di autorita' colle pene portate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle pene maggiori prescritte dallo stesso Codice nel caso di circostanze che ne aggravino la colpa. 
+ Ogni pubblico ufficiale che sotto qualsiasi pretesto abbia autorizzato od ammesso esenzioni dal servizio di 1ª categoria, riforme, esclusioni e surrogazioni di fratello, oppostamente al disposto della legge, ovvero abbia data arbitraria estensione sia alla durata, sia alle regole e condizioni della chiamata alla leva e degli arruolamenti volontari, e' punito come reo di abuso di autorita' colle pene portate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle pene maggiori prescritte dallo stesso Codice nel caso di circostanze che ne aggravino la colpa. 
  
  Art. 150. 
  
  ([Art. 33-ter legge 17 luglio 1910, n. 538](Provvedimento%20riguardante%20lemigrazione.%20010U0538.md)). 
  
- L'inscritto che, per sottrarsi all'obbligo del servizio militare, commette in territorio estero reati preveduti nella legge sul reclutamento dell'esercito o nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito secondo la legge italiana, ancorche' non si trovi nel Regno. 
+ L'inscritto che, per sottrarsi all'obbligo del servizio militare, commette in territorio estero reati preveduti nella legge sul reclutamento dell'esercito o nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito secondo la legge italiana, ancorche' non si trovi nel Regno. 
  
  Il cittadino o lo straniero, che in territorio estero concorre in qualsiasi modo nel reato commesso dall'inscritto, soggiace alle pene stabilite dalla legge italiana ancorche' non si trovi nel territorio del Regno. Se sia stato giudicato all'estero pel medesimo fatto, puo' essere giudicato nel Regno se il ministro della giustizia ne faccia richiesta. 
  
@@ -1473,7 +1473,7 @@ Arruolamenti volontari ordinari, volontariato di un anno, ammissioni anticipate 
  
  ([Art. 7 legge 7 luglio 1910, n. 407](Chiamate%20di%20controllo%20ed%20obblighi%20di%20servizio%20dei%20militari%20in%20congedo%20del%20R.%20esercito.%20010U0407.md)). 
  
- Alle contravvenzioni previste dai precedenti articoli 154 e 155 sono applicabili le disposizioni degli [articoli 24](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [101 Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ Alle contravvenzioni previste dai precedenti articoli 154 e 155 sono applicabili le disposizioni degli [articoli 24](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [101 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Art. 158. 
  

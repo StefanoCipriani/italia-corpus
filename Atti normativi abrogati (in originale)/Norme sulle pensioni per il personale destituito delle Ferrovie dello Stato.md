@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'art. 16 del testo unico approvato con [R. decreto 22 aprile 1909, n. 229](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), e' cosi' modificato:
+L'art. 16 del testo unico approvato con [R. decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), e' cosi' modificato:
  "Il diritto dell'agente al conseguimento della pensione si perde:
  a) per dimissione dal servizio;
  b) per destituzione a termini dell'art. 98 del regolamento del personale approvato con [R. decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md);

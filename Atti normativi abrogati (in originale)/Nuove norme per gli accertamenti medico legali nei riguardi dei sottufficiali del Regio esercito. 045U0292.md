@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 15 settembre 1932, n. 1514](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), e successive modificazioni;
+Visto il testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 15 settembre 1932, n. 1514](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), e successive modificazioni;
 
 Visto il [R. decreto-legge 2 febbraio 1943, n. 128](Disposizioni%20in%20materia%20di%20accertamenti%20medico-legali%20in%20relazione%20allattuale%20stato%20di%20guerra.%20043U0128.md), che detta disposizioni in materia di accertamenti medico-legali;
 

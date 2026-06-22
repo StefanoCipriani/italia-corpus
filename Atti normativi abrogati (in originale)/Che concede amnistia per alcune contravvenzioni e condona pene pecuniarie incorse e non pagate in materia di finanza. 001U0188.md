@@ -88,7 +88,7 @@ Sono condonate le pene pecuniarie incorse e non pagate fino alla data del presen
 
 ## Art. 6.
 
-Nel caso di concorso di reati e di pene, l'amnistia si applica distintamente a ciascun reato: l'indulto si applica una sola volta dopo cumulate le pene secondo le norme stabilite negli [articoli 67 e seguenti del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Nel caso di concorso di reati e di pene, l'amnistia si applica distintamente a ciascun reato: l'indulto si applica una sola volta dopo cumulate le pene secondo le norme stabilite negli [articoli 67 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sono approvate le unite norme complementari dell'ordinamento giudiziario per la Tripolitania e per la Cirenaica, approvato con [R. decreto 20 marzo 1913, n. 289](../Regi%20decreti/Col%20quale%20vengono%20approvati%20gli%20annessi%20ordinamento%20giudiziario%20e%20disposizioni%20relative%20alle%20leggi%20da%20applicarsi%20in%20Libia.%20013U0289.md), e gli annessi allegati, visti, d'ordine Nostro, dal ministro proponente.
+Sono approvate le unite norme complementari dell'ordinamento giudiziario per la Tripolitania e per la Cirenaica, approvato con [R. decreto 20 marzo 1913, n. 289](Col%20quale%20vengono%20approvati%20gli%20annessi%20ordinamento%20giudiziario%20e%20disposizioni%20relative%20alle%20leggi%20da%20applicarsi%20in%20Libia.%20013U0289.md), e gli annessi allegati, visti, d'ordine Nostro, dal ministro proponente.
 
 ## Art. 2.
 

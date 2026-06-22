@@ -29,7 +29,7 @@ Sono pubblicati ed avranno esecuzione nella Provincia Romana, a cominciare dalle
  
  3° Il Codice di commercio, approvato col [Regio Decreto del 25 giugno 1865, n. 2364](Per%20lapprovazione%20e%20pubblicazione%20del%20Codice%20di%20commercio.%20065U2364.md), ed i Reali Decreti 23 dicembre 1865, n. 2712, 2671 e 2672, e 30 dicembre 1865, n. 2727; 
  
- 4° Il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato col Regio Decreto 20 novembre 1859, n. 3783, ed i [Regi Decreti del 26 novembre 1865, n. 2599](Col%20quale%20sono%20apportate%20alcune%20modificazioni%20al%20Codice%20Penale.%20065U2599.md), e del [30 dicembre 1865, n. 2720](Per%20la%20rettificazione%20di%20un%20errore%20di%20stampa%20occorso%20nel%20Decreto%20del%2026%20novembre%201865%20n.%202599.%20065U2720.md); 
+ 4° Il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato col Regio Decreto 20 novembre 1859, n. 3783, ed i [Regi Decreti del 26 novembre 1865, n. 2599](Col%20quale%20sono%20apportate%20alcune%20modificazioni%20al%20Codice%20Penale.%20065U2599.md), e del [30 dicembre 1865, n. 2720](Per%20la%20rettificazione%20di%20un%20errore%20di%20stampa%20occorso%20nel%20Decreto%20del%2026%20novembre%201865%20n.%202599.%20065U2720.md); 
  
  5° Il [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato col [Regio Decreto del 26 novembre 1865, n. 2598](Per%20lapprovazione%20e%20pubblicazione%20del%20Codice%20di%20procedura%20penale.%20065U2598.md), il [Regio Decreto 28 gennaio 1866, n. 2782](Per%20la%20estensione%20e%20correzione%20degli%20articoli%20353%20e%20678%20del%20Codice%20di%20procedura%20penale.%20066U2782.md), e la [Legge 28 giugno 1866, n. 3008](Colla%20quale%20agli%20articoli%20834%20e%20835%20del%20Codice%20di%20Procedura%20penale%20ne%20sono%20sostituiti%20due%20altri%20di%20diverso%20tenore.%20066U3008.md); 
  
@@ -81,11 +81,11 @@ E' pure pubblicato ed avra' esecuzione nella Provincia Romana, a cominciare dall
 
 ## Art. 3.
 
-All'[articolo 153 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' aggiunto il capoverso seguente: 
+All'[articolo 153 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' aggiunto il capoverso seguente: 
  
  Colla stessa pena e' punito l'attentato contro la persona del Sommo Pontefice. 
  
- E' parimerite aggiunto all'articolo 471 del detto [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) il seguente capoverso: 
+ E' parimerite aggiunto all'articolo 471 del detto [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) il seguente capoverso: 
  
  Colle stesse pene saranno puniti i pubblici discorsi, gli scritti o fatti che siano di natura da eccitare lo sprezzo ed il malcontento contro la persona del Sommo Pontefice; 
  
@@ -105,7 +105,7 @@ Per l'attuazione di quelle parti dei Codici e delle Leggi che si riferiscono all
 
 Avranno esecuzione dal 1° gennaio 1871: 
  
- a) Il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ed i Regii Decreti indicati al n. 4 dell'art. 1; 
+ a) Il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ed i Regii Decreti indicati al n. 4 dell'art. 1; 
  
  b) Gli [articoli 3](contenente%20disposizioni%20transitorie%20per%20lattuazione%20del%20Codice%20civile%20del%20Regno%20dItalia.%20065U2606.md) e [4 del Regio Decreto 30 novembre 1865, n. 2606](contenente%20disposizioni%20transitorie%20per%20lattuazione%20del%20Codice%20civile%20del%20Regno%20dItalia.%20065U2606.md), contenente disposizioni transitorie per l'attuazione del [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262); 
  
@@ -123,7 +123,7 @@ Avranno esecuzione dal 1° gennaio 1871:
 
 ## Art. 7.
 
-La pubblicazione dei Codici menzionati nello art. 1 si eseguira' col trasmetterne non piu' tardi del 1° dicembre corrente anno, per quanto riguarda il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e non piu' tardi del 15 stesso mese per tutti gli altri, un esemplare stampato a ciascuno dei Comuni della Provincia Romana, per essere depositato nella sala del Consiglio comunale, e tenuto ivi esposto durante un mese per un'ora in ciascun giorno affinche' ognuno possa prenderne cognizione. 
+La pubblicazione dei Codici menzionati nello art. 1 si eseguira' col trasmetterne non piu' tardi del 1° dicembre corrente anno, per quanto riguarda il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e non piu' tardi del 15 stesso mese per tutti gli altri, un esemplare stampato a ciascuno dei Comuni della Provincia Romana, per essere depositato nella sala del Consiglio comunale, e tenuto ivi esposto durante un mese per un'ora in ciascun giorno affinche' ognuno possa prenderne cognizione. 
  
  Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

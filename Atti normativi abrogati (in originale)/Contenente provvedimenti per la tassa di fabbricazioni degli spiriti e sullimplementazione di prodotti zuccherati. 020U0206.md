@@ -44,7 +44,7 @@ Dal giorno dell'applicazione del presente decreto fino a tutto il 31 dicembre 19
 
 ## Art. 3.
 
-Il primo comma dell'art. 18 del testo unico di leggi sulla tassa di fabbricazione degli spiriti approvato con [R. decreto del 16 settembre 1909, n. 704](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sugli%20spiriti.%20009U0704.md), e' modificato come segue: 
+Il primo comma dell'art. 18 del testo unico di leggi sulla tassa di fabbricazione degli spiriti approvato con [R. decreto del 16 settembre 1909, n. 704](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sugli%20spiriti.%20009U0704.md), e' modificato come segue: 
  
  E' esente da tassa di fabbricazione lo spirito che venga adulterato nei modi da stabilirsi col regolamento per l'esecuzione della presente legge, per essere adoperato a scopo d'illuminazione, di riscaldamento o di forza motrice. Con decreto del ministro delle finanze potra' essere concessa l'esenzione da tassa per lo spirito da impiegare in altri usi industriali, previa adulterazione nei modi e sotto le condizioni da stabilirsi con lo stesso decreto.
 

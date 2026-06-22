@@ -142,7 +142,7 @@ La punizione di cui al n.° 8 dell'art. 7 e' pure inflitta dai Consigli di disci
  
  b) Per gravi mancanze non comprese negli articoli 9 e 11. 
  
- Salve sempre le pene maggiori sancite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nei casi di maggiore gravita' del reato.
+ Salve sempre le pene maggiori sancite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nei casi di maggiore gravita' del reato.
 
 ## Art. 11.
 
@@ -150,7 +150,7 @@ E' punita col carcere militare e dai Tribunali militari:
  
  1.° La diserzione qualificata, cioe' con asportazione d'armi da fuoco del Corpo doganale; 
  
- 2.° L'insubordinazione al superiore accompagnata da minaccie o vie di fatto. Ogni qual volta la minaccia o le vie di fatto siano tali da costituire un reato punito con pena maggiore dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), avra' luogo il rinvio ai Tribunali ordinari.
+ 2.° L'insubordinazione al superiore accompagnata da minaccie o vie di fatto. Ogni qual volta la minaccia o le vie di fatto siano tali da costituire un reato punito con pena maggiore dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), avra' luogo il rinvio ai Tribunali ordinari.
 
 ## Art. 12.
 

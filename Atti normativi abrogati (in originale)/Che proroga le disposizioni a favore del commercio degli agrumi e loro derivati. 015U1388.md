@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto l'[art. 1 del R. decreto 10 settembre 1914, n. 1058](../Regi%20decreti/Da%20convertirsi%20in%20legge%20col%20quale%20vengono%20prorogate%20le%20disposizioni%20concernenti%20provvedimenti%20per%20favorire%20il%20commercio%20degli%20agrumi%20e%20loro%20derivati%20presso%20la%20Camera%20agrumaria%20di%20Messina.%20014U1058.md), col quale vennero prorogate alcune disposizioni concernenti la Camera agrumaria di Messina;
+Veduto l'[art. 1 del R. decreto 10 settembre 1914, n. 1058](Da%20convertirsi%20in%20legge%20col%20quale%20vengono%20prorogate%20le%20disposizioni%20concernenti%20provvedimenti%20per%20favorire%20il%20commercio%20degli%20agrumi%20e%20loro%20derivati%20presso%20la%20Camera%20agrumaria%20di%20Messina.%20014U1058.md), col quale vennero prorogate alcune disposizioni concernenti la Camera agrumaria di Messina;
 
 Ritenuto che per assicurare il buon andamento della Camera agrumaria e' necessario prorogare ulteriormente gli effetti delle disposizioni contenute nel citato art. 1 del R decreto predetto;
 

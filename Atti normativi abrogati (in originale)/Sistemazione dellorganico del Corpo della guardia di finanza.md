@@ -14,7 +14,7 @@ Visto il [regio decreto-legge 14 giugno 1923, n. 1281](https://www.normattiva.it
 
 Visto il [regio decreto-legge 5 luglio 1934, n. 1187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1187), convertito nella [legge 4 aprile 1935, n. 568](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decretolegge%205%20luglio%201934%20n.%201187%20che%20reca%20provvedimenti%20per%20la%20Regia%20guardia%20di%20finanza.%20035U0568.md);
 
-Vista la [legge 20 marzo 1940, n. 234](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Aumento%20degli%20organici%20reclutamento%20degli%20ufficiali%20di%20complemento%20avanzamento%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20e%20delega%20al%20Governo%20per%20la%20pubblicazione%20del%20testo%20unico%20dei%20prov_e6d9692fbd55.md), Visto il [regio decreto 17 settembre 1940, n. 1567](../Regi%20decreti/Norme%20per%20lesecuzione%20dellart.%203%20del%20R.%20decreto-legge%2025%20gennaio%201937-XV%20n.%20116%20convertito%20nella%20legge%207%20giugno%201937-XV%20n.%20993%20che%20reca%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di_14063937e20d.md);
+Vista la [legge 20 marzo 1940, n. 234](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Aumento%20degli%20organici%20reclutamento%20degli%20ufficiali%20di%20complemento%20avanzamento%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20e%20delega%20al%20Governo%20per%20la%20pubblicazione%20del%20testo%20unico%20dei%20prov_e6d9692fbd55.md), Visto il [regio decreto 17 settembre 1940, n. 1567](Norme%20per%20lesecuzione%20dellart.%203%20del%20R.%20decreto-legge%2025%20gennaio%201937-XV%20n.%20116%20convertito%20nella%20legge%207%20giugno%201937-XV%20n.%20993%20che%20reca%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di_14063937e20d.md);
 
 Vista la [legge 24 novembre 1941, n. 1291](Aumento%20degli%20organici%20della%20Regia%20guardia%20di%20finanza.%20041U1291.md);
 
@@ -24,7 +24,7 @@ Vista la [legge 4 agosto 1942, n. 915](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Vista la [legge 2 ottobre 1942, n. 1203](Aumento%20degli%20organici%20e%20determinazione%20dei%20limiti%20di%20eta%20degli%20ufficiali%20della%20Regia%20guardia%20di%20finanza.%20042U1203.md);
 
-Visto il [decreto legislativo luogotenenziale 4 dicembre 1944, n. 400](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20per%20la%20Regia%20guardia%20di%20finanza.%20044U0400.md);
+Visto il [decreto legislativo luogotenenziale 4 dicembre 1944, n. 400](Provvedimenti%20per%20la%20Regia%20guardia%20di%20finanza.%20044U0400.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -58,7 +58,7 @@ Il Corpo della guardia di finanza e' comandato da un generale di corpo d'armata 
 ## Art. 3.
 
 Le norme per il funzionamento degli ispettorati generali sono stabilite con decreto del Capo provvisorio dello Stato, ai sensi dell'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md).
- I generali di brigata ispettori fanno parte di diritto della Commissione centrale di avanzamento per gli ufficiali, di cui al [regio decreto 17 settembre 1940, n. 1567](../Regi%20decreti/Norme%20per%20lesecuzione%20dellart.%203%20del%20R.%20decreto-legge%2025%20gennaio%201937-XV%20n.%20116%20convertito%20nella%20legge%207%20giugno%201937-XV%20n.%20993%20che%20reca%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di_14063937e20d.md).
+ I generali di brigata ispettori fanno parte di diritto della Commissione centrale di avanzamento per gli ufficiali, di cui al [regio decreto 17 settembre 1940, n. 1567](Norme%20per%20lesecuzione%20dellart.%203%20del%20R.%20decreto-legge%2025%20gennaio%201937-XV%20n.%20116%20convertito%20nella%20legge%207%20giugno%201937-XV%20n.%20993%20che%20reca%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di_14063937e20d.md).
  I Comandi di zona della guardia di finanza sono soppressi.
 
 ## Art. 4.

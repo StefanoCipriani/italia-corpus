@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro ad interim pe
 
 ## Art. 1.
 
-Alla [lettera r) dell'art. 6 del R. decreto 7 gennaio 1923, n. 12](../Regi%20decreti/Sullordinamento%20del%20R.%20esercito.%20023U0012.md), modificato dall'[art. 1 del R. decreto 4 maggio 1925, n. 552](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-04;552#art_1), sono sostituite le lettere seguenti: 
+Alla [lettera r) dell'art. 6 del R. decreto 7 gennaio 1923, n. 12](Sullordinamento%20del%20R.%20esercito.%20023U0012.md), modificato dall'[art. 1 del R. decreto 4 maggio 1925, n. 552](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-04;552#art_1), sono sostituite le lettere seguenti: 
  
  r) il generale medico capo e i tre generali medici ispettori di sanita' militare; 
  

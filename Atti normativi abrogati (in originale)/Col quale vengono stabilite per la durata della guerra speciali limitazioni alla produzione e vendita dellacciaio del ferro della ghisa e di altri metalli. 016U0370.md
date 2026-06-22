@@ -49,7 +49,7 @@ Qualsiasi contravvenzione alle disposizioni del presente decreto, e' punita coll
 
 ## Art. 5.
 
-Ogni controversia che fosse per derivare dall'applicazione del presente decreto, sara' definita in conformita' dell'[art. 10 del R. decreto 26 giugno 1915, n. 993](../Regi%20decreti/Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md).
+Ogni controversia che fosse per derivare dall'applicazione del presente decreto, sara' definita in conformita' dell'[art. 10 del R. decreto 26 giugno 1915, n. 993](Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md).
 
 ## Art. 6.
 

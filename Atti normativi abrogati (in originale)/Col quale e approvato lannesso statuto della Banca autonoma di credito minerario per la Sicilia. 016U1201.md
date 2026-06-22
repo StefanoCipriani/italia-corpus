@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' approvato l'unito statuto della Banca autonoma di credito minerario per la Sicilia, composto di 91 articoli, visto, d'ordine Nostro, dal ministro proponente in sostituzione dello statuto approvato con [R. decreto 1° agosto 1913, n. 1143](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20nuovo%20statuto%20della%20Banca%20autonoma%20del%20Credito%20minerario%20per%20la%20Sicilia%20e%20sono%20stabilite%20le%20norme%20per%20la%20vigilanza%20governativa%20che%20deve%20essere%20esercitata%20dal%20Mini_5990a7884f8d.md), che rimane abrogato.
+E' approvato l'unito statuto della Banca autonoma di credito minerario per la Sicilia, composto di 91 articoli, visto, d'ordine Nostro, dal ministro proponente in sostituzione dello statuto approvato con [R. decreto 1° agosto 1913, n. 1143](Col%20quale%20e%20approvato%20il%20nuovo%20statuto%20della%20Banca%20autonoma%20del%20Credito%20minerario%20per%20la%20Sicilia%20e%20sono%20stabilite%20le%20norme%20per%20la%20vigilanza%20governativa%20che%20deve%20essere%20esercitata%20dal%20Mini_5990a7884f8d.md), che rimane abrogato.
 
 ## Art. 2.
 

@@ -84,7 +84,7 @@ Per le pensioni ordinarie dirette e di riversibilita' comprese quelle privilegia
 
 ## Art. 9.
 
-Le tabelle II e III di cui all'[art. 10 del R. decreto 18 novembre 1920, n. 1626](../Regi%20decreti/Che%20estende%20il%20nuovo%20regime%20delle%20pensioni%20ai%20militari%20del%20Regio%20esercito%20e%20della%20Regia%20marina.%20020U1626.md), sono sostituite rispettivamente dalle seguenti: 
+Le tabelle II e III di cui all'[art. 10 del R. decreto 18 novembre 1920, n. 1626](Che%20estende%20il%20nuovo%20regime%20delle%20pensioni%20ai%20militari%20del%20Regio%20esercito%20e%20della%20Regia%20marina.%20020U1626.md), sono sostituite rispettivamente dalle seguenti: 
  
  TABELLA II 
  

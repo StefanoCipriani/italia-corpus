@@ -43,7 +43,7 @@ Le anticipazioni di cui al precedente articolo graveranno su appositi capitoli d
 
 ## Art. 6.
 
-Ove la dichiarazione dall'esportatore resa all'Ente fideiubente ed all'Intendenza di finanza ai fini del precedente art. 4, risulti falsa od infedele, il responsabile, indipendentemente dalle sanzioni di cui al [Codice penale, e di cui all'art. 6](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) della [legge 31 luglio 1954, n. 570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;570), incorre, con la procedura prevista dalla [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4), nella multa, in misura variabile da due a sei volte l'ammontare della somma indebitamente riscossa.
+Ove la dichiarazione dall'esportatore resa all'Ente fideiubente ed all'Intendenza di finanza ai fini del precedente art. 4, risulti falsa od infedele, il responsabile, indipendentemente dalle sanzioni di cui al [Codice penale, e di cui all'art. 6](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) della [legge 31 luglio 1954, n. 570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;570), incorre, con la procedura prevista dalla [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4), nella multa, in misura variabile da due a sei volte l'ammontare della somma indebitamente riscossa.
 
 ## Art. 7.
 

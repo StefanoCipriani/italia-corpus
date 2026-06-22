@@ -22,7 +22,7 @@ UMBERTO I
  
  Articolo unico. 
  
- E' convertito in legge il [Regio decreto del 3 aprile 1898, n. 113](../Regi%20decreti/Che%20da%20piena%20ed%20intera%20esecuzione%20allaccordo%20commerciale%20provvisorio%20fra%20lItalia%20e%20la%20Bulgaria.%20098U0113.md), che approva la proroga dell'Accordo commerciale provvisorio concluso, fra l'Italia e la Bulgaria, il 12 marzo 1897. 
+ E' convertito in legge il [Regio decreto del 3 aprile 1898, n. 113](Che%20da%20piena%20ed%20intera%20esecuzione%20allaccordo%20commerciale%20provvisorio%20fra%20lItalia%20e%20la%20Bulgaria.%20098U0113.md), che approva la proroga dell'Accordo commerciale provvisorio concluso, fra l'Italia e la Bulgaria, il 12 marzo 1897. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

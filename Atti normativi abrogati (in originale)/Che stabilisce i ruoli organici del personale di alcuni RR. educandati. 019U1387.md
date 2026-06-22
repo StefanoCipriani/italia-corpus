@@ -22,13 +22,13 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visti i RR. decreti 2 giugno 1895, nn. 392,393, 394, 395, 396 che approvano gli statuti organici dei RR. collegi femminili «Agli Angeli», di Verona, «delle Fanciulle» di Milano, «San Benedetto», di Montagnana, «Maria Adelaide» di Palermo e di «Poggio Imperiale», di Firenze;
 
-Visto il [R. decreto 31 agosto 1901, n. 449](../Regi%20decreti/Che%20modifica%20lo%20Statuto%20organico%20del%20R.%20Collegio%20femminile%20degli%20Angeli%20in%20Verona.%20001U0449.md), che modifica gli articoli 16 e 41 dello statuto organico del Collegio «Agli Angeli» di Verona;
+Visto il [R. decreto 31 agosto 1901, n. 449](Che%20modifica%20lo%20Statuto%20organico%20del%20R.%20Collegio%20femminile%20degli%20Angeli%20in%20Verona.%20001U0449.md), che modifica gli articoli 16 e 41 dello statuto organico del Collegio «Agli Angeli» di Verona;
 
-Visto il [R. decreto 29 settembre 1902, n. 443](../Regi%20decreti/Relativo%20alla%20designazione%20di%20talune%20zone%20malariche%20esistenti%20nelle%20provincie%20di%20Reggio%20Calabria.%20002U0443.md), che modifica l'art. 18 dello statuto organico del R. Collegio delle Fanciulle di Milano;
+Visto il [R. decreto 29 settembre 1902, n. 443](Relativo%20alla%20designazione%20di%20talune%20zone%20malariche%20esistenti%20nelle%20provincie%20di%20Reggio%20Calabria.%20002U0443.md), che modifica l'art. 18 dello statuto organico del R. Collegio delle Fanciulle di Milano;
 
-Visto il [R. decreto 15 maggio 1898, n. 194](../Regi%20decreti/Che%20sostituisce%20con%20altro%20il%203%20comma%20dellart.%2016%20dello%20Statuto%20organico%20del%20R.%20Educatorio%20femminile%20Maria%20Adelaide%20in%20Palermo.%20098U0194.md), che modifica l'art. 16 dello statuto organico del R. collegio «Maria Adelaide» di Palermo;
+Visto il [R. decreto 15 maggio 1898, n. 194](Che%20sostituisce%20con%20altro%20il%203%20comma%20dellart.%2016%20dello%20Statuto%20organico%20del%20R.%20Educatorio%20femminile%20Maria%20Adelaide%20in%20Palermo.%20098U0194.md), che modifica l'art. 16 dello statuto organico del R. collegio «Maria Adelaide» di Palermo;
 
-Visto il [R. decreto 15 dicembre 1912, n. 1449](../Regi%20decreti/Aggiunta%20di%20un%20comma%20ad%20uno%20statuto%20organico%20collegiale.%20012U1449.md), che modifica l'art. 17 dello statuto organico del R. Collegio femminile di Poggio Imperiale di Firenze;
+Visto il [R. decreto 15 dicembre 1912, n. 1449](Aggiunta%20di%20un%20comma%20ad%20uno%20statuto%20organico%20collegiale.%20012U1449.md), che modifica l'art. 17 dello statuto organico del R. Collegio femminile di Poggio Imperiale di Firenze;
 
 Visti i RR. decreti 26 aprile 1900, n. 238; 13 novembre 1902, n. 567; 25 luglio 1912, n.989; 2 agosto 1912, n. 972, relativi al ruolo organico del R. Collegio femminile «Agli Angeli» di Verona;
 
@@ -38,11 +38,11 @@ Vista la [legge 25 maggio 1913, n. 517](Concernente%20la%20trasformazione%20di%2
 
 Veduta la [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), relativa agli Istituti di istruzione media;
 
-Visto il [R. decreto 27 maggio 1900, n. 237](../Regi%20decreti/Ruolo%20organico%20del%20R.%20Collegio%20femminile%20di%20Milano.%20000U0237.md), che modifica l'art. 39 dello statuto ed il ruolo organico del R. collegio femminile «delle Fanciulle» di Milano;
+Visto il [R. decreto 27 maggio 1900, n. 237](Ruolo%20organico%20del%20R.%20Collegio%20femminile%20di%20Milano.%20000U0237.md), che modifica l'art. 39 dello statuto ed il ruolo organico del R. collegio femminile «delle Fanciulle» di Milano;
 
 Veduta la [legge 3 luglio 1908, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-03;413), relativa al ruolo organico del R. collegio femminile di San Benedetto Montagnana;
 
-Visto il [R. decreto 10 febbraio 1898, n. 111](../Regi%20decreti/Che%20modifica%20il%20ruolo%20organico%20del%20personale%20del%20R.%20Educatorio%20femminile%20Maria%20Adelaide%20in%20Palermo.%20098U0111.md), relativo al ruolo organico del R. collegio «Maria Adelaide» di Palermo;
+Visto il [R. decreto 10 febbraio 1898, n. 111](Che%20modifica%20il%20ruolo%20organico%20del%20personale%20del%20R.%20Educatorio%20femminile%20Maria%20Adelaide%20in%20Palermo.%20098U0111.md), relativo al ruolo organico del R. collegio «Maria Adelaide» di Palermo;
 
 Visti i RR. decreti 15 ottobre 1895, n. 702, e 6 maggio 1906, n. 225, relativi al ruolo organico del R. collegio femminile al Poggio Imperiale di Firenze;
 

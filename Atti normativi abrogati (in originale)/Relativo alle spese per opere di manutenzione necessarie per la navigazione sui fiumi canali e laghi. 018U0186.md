@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle disposizioni di legge sulla navigazione interna e sulla fluitazione, approvato con [R. decreto 11 luglio 1913, n. 959](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20navigazione%20interna%20e%20sulla%20fluitazione.%20013U0959.md);
+Visto il testo unico delle disposizioni di legge sulla navigazione interna e sulla fluitazione, approvato con [R. decreto 11 luglio 1913, n. 959](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20navigazione%20interna%20e%20sulla%20fluitazione.%20013U0959.md);
 
 Vista la [legge 8 aprile 1915, n. 508](Concernente%20lesecuzione%20di%20opere%20di%20navigazione%20interna%20e%20proroga%20dei%20termini%20di%20cui%20agli%20articoli%203%20e%2079%20del%20testo%20unico%2011%20luglio%201913%20n.%20959%20delle%20disposizioni%20di%20legge%20sulla%20navigazio_0fae9839d1f6.md), che proroga, tra l'altro, per un triennio, e cioe' sino al 27 gennaio 1918, il termine stabilito dall'art. 79 del precitato testo unico, relativo alla competenza passiva della spesa di manutenzione di opere idrauliche di 1ª e 2ª categoria attinenti a linee navigabili di 3ª e 4ª classe;
 

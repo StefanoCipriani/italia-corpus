@@ -70,7 +70,7 @@ Nessun Ufizio succursale di 2ª classe od Agenzia puo' essere affidata a chi non
  
  In caso di rinuncia dell'esercizio deve il titolare darne avviso all'Amministrazione tre mesi prima. 
  
- Il titolare che abbandoni arbitrariamente l'Ufizio o la collettoria potra' essere deferito all'Autorita' giudiziaria pel procedimento a senso dell'[art. 181 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Il titolare che abbandoni arbitrariamente l'Ufizio o la collettoria potra' essere deferito all'Autorita' giudiziaria pel procedimento a senso dell'[art. 181 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 6.
 

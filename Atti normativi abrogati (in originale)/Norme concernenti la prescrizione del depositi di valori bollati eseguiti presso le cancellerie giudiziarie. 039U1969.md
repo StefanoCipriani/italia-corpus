@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Si prescrive col decorso di tre anni il diritto alla restituzione dei valori bollati depositati presso le cancellerie giudiziarie a termini dell'art. 49 del regolamento approvato con [R. decreto 10 dicembre 1882, n. 1103, e dell'art. 2](../Regi%20decreti/Che%20approva%20il%20regolamento%20concernente%20la%20contabilita%20delle%20cancellerie%20giudiziarie%20ed%20altre%20parti%20del%20servizio.%20082U1103.md) del [R. decreto 17 luglio 1921, n. 995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-17;995). 
+Si prescrive col decorso di tre anni il diritto alla restituzione dei valori bollati depositati presso le cancellerie giudiziarie a termini dell'art. 49 del regolamento approvato con [R. decreto 10 dicembre 1882, n. 1103, e dell'art. 2](Che%20approva%20il%20regolamento%20concernente%20la%20contabilita%20delle%20cancellerie%20giudiziarie%20ed%20altre%20parti%20del%20servizio.%20082U1103.md) del [R. decreto 17 luglio 1921, n. 995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-17;995). 
  
  I valori non ritirati entro il termine suddetto sono devoluti all'Ente di previdenza per gli avvocati ed i procuratori.
 

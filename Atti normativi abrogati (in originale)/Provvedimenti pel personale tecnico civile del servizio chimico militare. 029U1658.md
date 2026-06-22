@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato, e le successive modificazioni ed aggiunte;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato, e le successive modificazioni ed aggiunte;
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
-Visti i [Regi decreti 15 ottobre 1925, n. 1911](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1911), e [4 febbraio 1926, n. 370](../Regi%20decreti/Norme%20per%20lordinamento%20il%20funzionamento%20o%20lamministrazione%20del%20Servizio%20chimico%20militare.%20026U0370.md), sul servizio chimico militare;
+Visti i [Regi decreti 15 ottobre 1925, n. 1911](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1911), e [4 febbraio 1926, n. 370](Norme%20per%20lordinamento%20il%20funzionamento%20o%20lamministrazione%20del%20Servizio%20chimico%20militare.%20026U0370.md), sul servizio chimico militare;
 
 Visto il [R. decreto-legge 16 agosto 1926, n. 1887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-16;1887);
 
@@ -26,7 +26,7 @@ Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecut
 
 Vista la [legge 16 dicembre 1926, n. 2121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-12-16;2121), sul servizio tecnico d'artiglieria;
 
-Visto il testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti, approvato con [R. decreto 23 febbraio 1928, n. 327](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md);
+Visto il testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti, approvato con [R. decreto 23 febbraio 1928, n. 327](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md);
 
 Ritenuta la necessita' urgente ed assoluta di provvedimenti intesi a sistemare il personale tecnico addetto al servizio chimico militare ed al servizio tecnico d'artiglieria;
 
@@ -99,7 +99,7 @@ Per l'indirizzo, il coordinamento e il controllo scientifico degli studi, delle 
 
 ## Art. 5.
 
-I posti di chimici aggiunti sono conferiti in seguito a concorso per esami e per titoli a coloro che siano provvisti di diploma di abilitazione all'esercizio della professione di chimico o di ingegnere chimico, ovvero di laurea in chimica o di ingegnere chimico conseguita entro il 31 dicembre 1924, o, ai sensi dell'[art. 6 del R. decreto 31 dicembre 1923, numero 2909](../Regi%20decreti/Disposizioni%20concernenti%20gli%20esami%20di%20Stato.%20023U2909.md), entro il 31 dicembre 1925.
+I posti di chimici aggiunti sono conferiti in seguito a concorso per esami e per titoli a coloro che siano provvisti di diploma di abilitazione all'esercizio della professione di chimico o di ingegnere chimico, ovvero di laurea in chimica o di ingegnere chimico conseguita entro il 31 dicembre 1924, o, ai sensi dell'[art. 6 del R. decreto 31 dicembre 1923, numero 2909](Disposizioni%20concernenti%20gli%20esami%20di%20Stato.%20023U2909.md), entro il 31 dicembre 1925.
 
 ## Art. 6.
 
@@ -115,9 +115,9 @@ L'eta' massima prescritta per l'ammissione ai concorsi di cui ai precedenti arti
 
 ## Art. 8.
 
-Ai concorsi, di cui ai precedenti articoli, sono applicabili le disposizioni degli articoli 16, penultimo comma, 17 e 21 del [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), [7 del R. decreto 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;7), [n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e 1 e 2 del [R. decreto-legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46), nonche' tutte le altre emanate a favore degli ex combattenti in genere e degli invalidi di guerra in specie. 
+Ai concorsi, di cui ai precedenti articoli, sono applicabili le disposizioni degli articoli 16, penultimo comma, 17 e 21 del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), [7 del R. decreto 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;7), [n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e 1 e 2 del [R. decreto-legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46), nonche' tutte le altre emanate a favore degli ex combattenti in genere e degli invalidi di guerra in specie. 
  
- Nel formare la graduatoria dei vincitori del concorso, si terra' conto, oltre che dei diritti preferenziali di cui all'[articolo 21 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), specialmente dei servizi chimici prestati presso laboratori ed opifici chimici dello Stato o dell'industria privata, delle pubblicazioni e degli studi speciali compiuti in materia, nonche' della conoscenza di lingue estere, oltre quelle che fossero comprese nel programma degli esami di concorso. 
+ Nel formare la graduatoria dei vincitori del concorso, si terra' conto, oltre che dei diritti preferenziali di cui all'[articolo 21 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), specialmente dei servizi chimici prestati presso laboratori ed opifici chimici dello Stato o dell'industria privata, delle pubblicazioni e degli studi speciali compiuti in materia, nonche' della conoscenza di lingue estere, oltre quelle che fossero comprese nel programma degli esami di concorso. 
  
  Saranno inoltre preferiti, a parita' di merito, i concorrenti coniugati e fra questi gli aventi figli.
 
@@ -131,7 +131,7 @@ Al personale dei chimici, per il periodo durante il quale sia addetto al maneggi
 
 ## Art. 11.
 
-I sette dottori in chimica, che attualmente fanno parte del ruolo di cui agli articoli 17 e 18 del testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti, approvato col [Regio decreto 23 febbraio 1928, n. 327](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), verranno, all'atto dell'entrata in vigore del presente decreto, trasferiti nel nuovo ruolo degli specialisti tecnici chimici (gruppo A), col grado di chimici o di chimici aggiunti, secondo che rivestano il grado 8° o 9°, conservando la loro anzianita' e la rispettiva posizione nel ruolo. 
+I sette dottori in chimica, che attualmente fanno parte del ruolo di cui agli articoli 17 e 18 del testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti, approvato col [Regio decreto 23 febbraio 1928, n. 327](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), verranno, all'atto dell'entrata in vigore del presente decreto, trasferiti nel nuovo ruolo degli specialisti tecnici chimici (gruppo A), col grado di chimici o di chimici aggiunti, secondo che rivestano il grado 8° o 9°, conservando la loro anzianita' e la rispettiva posizione nel ruolo. 
  
  I tre capitecnici di artiglieria e genio specializzati in chimica, che attualmente fanno parte del ruolo di cui all'artiticolo 23 del citato testo unico, verranno, all'atto dell'entrata in vigore del presente decreto, trasferiti nel nuovo ruolo dei capitecnici chimici (gruppo B), conservando il grado medesimo che attualmente rivestono, nonche' la loro anzianita' e la rispettiva posizione nel ruolo.
 
@@ -155,7 +155,7 @@ Per l'assegnazione dei posti, che dopo data applicazione agli articoli 11, 12 e 
 
 ## Art. 15.
 
-Con l'attuazione del presente decreto restano soppressi gli articoli 17 e 18 del testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti approvato con [R. decreto 23 febbraio 1928, n. 327](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), e viene diminuito di cinque capitecnici il ruolo organico dei capitecnici di artiglieria e genio (gruppo B) di cui all'art. 23 del medesimo testo unico.
+Con l'attuazione del presente decreto restano soppressi gli articoli 17 e 18 del testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti approvato con [R. decreto 23 febbraio 1928, n. 327](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), e viene diminuito di cinque capitecnici il ruolo organico dei capitecnici di artiglieria e genio (gruppo B) di cui all'art. 23 del medesimo testo unico.
 
 ## Art. 16.
 

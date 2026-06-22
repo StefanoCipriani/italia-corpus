@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto il [R. decreto 22 febbraio 1863, n. 1174](Contenente%20lordinamento%20del%20servizio%20della%20Marina%20militare%20dello%20Stato.%20063U1174.md), che stabilisce le attribuzioni dei comandanti di dipartimenti militari marittimi e le sue successive modificazioni; 
  
- Visto il [R. decreto 30 agosto 1914, n. 945](../Regi%20decreti/Concernente%20la%20costituzione%20delle%20forze%20navali%20dello%20Stato.%20014U0945.md), che stabilisce la costituzione delle forze navali dello Stato, e le sue successive modificazioni; 
+ Visto il [R. decreto 30 agosto 1914, n. 945](Concernente%20la%20costituzione%20delle%20forze%20navali%20dello%20Stato.%20014U0945.md), che stabilisce la costituzione delle forze navali dello Stato, e le sue successive modificazioni; 
  
  Sentito il Consiglio superiore di marina; 
  

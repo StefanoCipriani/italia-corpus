@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto l'[art. 7 del R. decreto 22 gennaio 1914, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-22;19#art_7), e la tabella F al decreto stesso allegata; 
  
- Visto il [R. decreto 22 ottobre 1914, n. 1458](../Regi%20decreti/Col%20quale%20viene%20modificato%20il%20ruolo%20organico%20del%20Ministero%20dellistruzione%20pubblica%20per%20il%20passaggio%20di%20personale%20al%20Ministero%20delle%20colonie.%20014U1458.md), portante aumento di un posto di segretario di 2ª classe nel ruolo organico del Ministero dell'istruzione, di cui nella tabella M approvata con la [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md); 
+ Visto il [R. decreto 22 ottobre 1914, n. 1458](Col%20quale%20viene%20modificato%20il%20ruolo%20organico%20del%20Ministero%20dellistruzione%20pubblica%20per%20il%20passaggio%20di%20personale%20al%20Ministero%20delle%20colonie.%20014U1458.md), portante aumento di un posto di segretario di 2ª classe nel ruolo organico del Ministero dell'istruzione, di cui nella tabella M approvata con la [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md); 
  
  Ritenuta la necessita' di sostituire il predetto posto con altro di segretario di 1ª classe; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  A decorrere dal 1° settembre 1916, nel ruolo organico del Ministero della istruzione, di cui nella tabella M, approvata con la [legge 16 luglio 1914, n.679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), e' soppresso un posto di segretario di 2ª classe con lo stipendio annuo di L. 3000 ed in sua vece e' aumentato un posto di segretario di 1ª classe con lo stipendio annuo di L. 3500. 
  
- L'onere della relativa spesa fara' carico al Ministero delle colonie e sara' soddisfatto con le norme del [R. decreto 8 maggio 1913, n. 419](../Regi%20decreti/Concernente%20le%20modalita%20per%20il%20pagamento%20degli%20stipendi%20ai%20funzionari%20delle%20varie%20Amministrazioni%20posti%20temporaneamente%20a%20disposizione%20del%20Ministero%20delle%20colonie%20013U0419.md). 
+ L'onere della relativa spesa fara' carico al Ministero delle colonie e sara' soddisfatto con le norme del [R. decreto 8 maggio 1913, n. 419](Concernente%20le%20modalita%20per%20il%20pagamento%20degli%20stipendi%20ai%20funzionari%20delle%20varie%20Amministrazioni%20posti%20temporaneamente%20a%20disposizione%20del%20Ministero%20delle%20colonie%20013U0419.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -12,13 +12,13 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [regio decreto-legge 14 gennaio 1926, n. 196](Coordinamento%20dei%20servizi%20di%20commissariato%20delle%20forze%20armate%20dello%20Stato.%20026U0196.md), convertito in legge con la [legge 25 giugno 1926, n. 1262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md);
+Visto il [regio decreto-legge 14 gennaio 1926, n. 196](Coordinamento%20dei%20servizi%20di%20commissariato%20delle%20forze%20armate%20dello%20Stato.%20026U0196.md), convertito in legge con la [legge 25 giugno 1926, n. 1262](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md);
 
-Visto il [regio decreto 16 gennaio 1927, n. 118](../Regi%20decreti/Composizione%20e%20attribuzioni%20della%20Commissione%20centrale%20pei%20collaudi%20in%20appello%20delle%20sostanze%20alimentari%20dei%20materiali%20del%20corredo%20e%20vari%20occorrenti%20alle%20forze%20armate%20dello%20Stato.%20027U0118.md);
+Visto il [regio decreto 16 gennaio 1927, n. 118](Composizione%20e%20attribuzioni%20della%20Commissione%20centrale%20pei%20collaudi%20in%20appello%20delle%20sostanze%20alimentari%20dei%20materiali%20del%20corredo%20e%20vari%20occorrenti%20alle%20forze%20armate%20dello%20Stato.%20027U0118.md);
 
-Visto il [regio decreto 30 dicembre 1929, n. 2431](../Regi%20decreti/Modifiche%20alla%20composizione%20della%20Commissione%20centrale%20per%20i%20collaudi%20in%20appello.%20029U2431.md);
+Visto il [regio decreto 30 dicembre 1929, n. 2431](Modifiche%20alla%20composizione%20della%20Commissione%20centrale%20per%20i%20collaudi%20in%20appello.%20029U2431.md);
 
-Visto il [regio decreto 25 febbraio 1935, n. 345](../Regi%20decreti/Modificazioni%20alla%20composizione%20della%20Commissione%20centrale%20per%20i%20collaudi%20in%20appello.%20035U0345.md);
+Visto il [regio decreto 25 febbraio 1935, n. 345](Modificazioni%20alla%20composizione%20della%20Commissione%20centrale%20per%20i%20collaudi%20in%20appello.%20035U0345.md);
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, numero 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -30,7 +30,7 @@ Sulla, proposta del Ministro per la guerra, d'intesa coi Ministri per l'interno,
 
 ## Art. 1.
 
-La Commissione per i collaudi in appello, indicata nell'[art. 8 del regio decreto-legge 14 gennaio 1926, numero 196](Coordinamento%20dei%20servizi%20di%20commissariato%20delle%20forze%20armate%20dello%20Stato.%20026U0196.md), convertito in legge con la [legge 25 giugno 1926, n. 1262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' cosi' composta: 
+La Commissione per i collaudi in appello, indicata nell'[art. 8 del regio decreto-legge 14 gennaio 1926, numero 196](Coordinamento%20dei%20servizi%20di%20commissariato%20delle%20forze%20armate%20dello%20Stato.%20026U0196.md), convertito in legge con la [legge 25 giugno 1926, n. 1262](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' cosi' composta: 
  un consigliere di Stato, presidente; 
  un colonnello o tenente colonnello dell'Esercito, membro effettivo; 
  un colonnello o tenente colonnello commissario della Marina, membro effettivo; 
@@ -49,7 +49,7 @@ Il presidente ed i membri effettivi e supplenti sono nominati con decreto del Mi
 
 ## Art. 3.
 
-Restano ferme le disposizioni del [regio decreto 16 gennaio 1927, n. 118](../Regi%20decreti/Composizione%20e%20attribuzioni%20della%20Commissione%20centrale%20pei%20collaudi%20in%20appello%20delle%20sostanze%20alimentari%20dei%20materiali%20del%20corredo%20e%20vari%20occorrenti%20alle%20forze%20armate%20dello%20Stato.%20027U0118.md), e successive, in quanto non modificate da quelle del presente decreto, ne' con esse in contrasto.
+Restano ferme le disposizioni del [regio decreto 16 gennaio 1927, n. 118](Composizione%20e%20attribuzioni%20della%20Commissione%20centrale%20pei%20collaudi%20in%20appello%20delle%20sostanze%20alimentari%20dei%20materiali%20del%20corredo%20e%20vari%20occorrenti%20alle%20forze%20armate%20dello%20Stato.%20027U0118.md), e successive, in quanto non modificate da quelle del presente decreto, ne' con esse in contrasto.
 
 ## Art. 4.
 

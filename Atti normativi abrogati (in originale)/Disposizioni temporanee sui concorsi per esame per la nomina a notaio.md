@@ -16,7 +16,7 @@ Visto il [regio decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizion
 
 Visto il [regio decreto 22 dicembre 1932, n. 1728](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20regolamentari%20sul%20conferimento%20dei%20posti%20di%20notaro.%20032U1728.md), contenente disposizioni regolamentari sul conferimento dei posti di notaio;
 
-Visto il [decreto legislativo luogotenenziale 5 aprile 1946, n. 314](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20norme%20sul%20conferimento%20dei%20posti%20di%20notaio.md);
+Visto il [decreto legislativo luogotenenziale 5 aprile 1946, n. 314](Modificazioni%20alle%20norme%20sul%20conferimento%20dei%20posti%20di%20notaio_2.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -32,7 +32,7 @@ E' data facolta' al Ministro per la grazia e giustizia di stabilire che le prove
 
 ## Art. 2.
 
-Per l'ammissione ai concorsi per esame per nomina a notaio, che saranno indetti non oltre il termine di cui al precedente articolo, il periodo di pratica notarile prescritto dall'[art. 11 del decreto legislativo luogotenenziale 5 aprile 1946, n. 314](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20norme%20sul%20conferimento%20dei%20posti%20di%20notaio.md), e' ridotto a sei mesi continui a favore dei reduci dalla prigionia o dalla deportazione.
+Per l'ammissione ai concorsi per esame per nomina a notaio, che saranno indetti non oltre il termine di cui al precedente articolo, il periodo di pratica notarile prescritto dall'[art. 11 del decreto legislativo luogotenenziale 5 aprile 1946, n. 314](Modificazioni%20alle%20norme%20sul%20conferimento%20dei%20posti%20di%20notaio_2.md), e' ridotto a sei mesi continui a favore dei reduci dalla prigionia o dalla deportazione.
 
 ## Art. 3.
 

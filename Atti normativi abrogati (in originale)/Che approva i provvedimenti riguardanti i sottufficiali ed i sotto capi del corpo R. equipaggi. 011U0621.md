@@ -140,7 +140,7 @@ Al 2° capoverso dell'[art. 4 della legge 24 marzo 1907, n. 135](Provvedimenti%2
 
 ## Art. 10.
 
-La pensione di riforma del sottufficiale del corpo R. equipaggi e' ragguagliata a quella minima fissata dalla tabella di cui all'art. 8 della presente legge, eccettuati i casi di favore, salvo il disposto dell'art. 98 del testo unico delle leggi sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
+La pensione di riforma del sottufficiale del corpo R. equipaggi e' ragguagliata a quella minima fissata dalla tabella di cui all'art. 8 della presente legge, eccettuati i casi di favore, salvo il disposto dell'art. 98 del testo unico delle leggi sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
 
 ## Art. 11.
 

@@ -25,8 +25,8 @@ E' autorizzato il pagamento delle spese ordinarie e straordinarie del Ministero 
 ## Art. 2.
 
 E' confermata per l'esercizio finanziario 1946-47 la validita' dell'autorizzazione al Ministro per il tesoro a provvedere con propri decreti alle variazioni di bilancio dipendenti dall'attuazione dei provvedimenti, sottoelencati, ai fini delle integrazioni che potranno occorrere agli stanziamenti recati dall'annesso stato di previsione per le esigenze previste dai provvedimenti medesimi:
- 1) [decreto legislativo luogotenenziale 16 febbraio 1946, n. 28](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20un%20assegno%20temporaneo%20a%20favore%20dei%20reduci%20disoccupati%20e%20bisognosi.md), relativo alla concessione di un assegno temporaneo a favore dei reduci disoccupati e bisognosi.
- 2) [decreto legislativo luogotenenziale 26 aprile 1946 n. 240](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20a%20favore%20dei%20reduci.md), riguardante provvidenze a favore dei reduci.
+ 1) [decreto legislativo luogotenenziale 16 febbraio 1946, n. 28](Concessione%20di%20un%20assegno%20temporaneo%20a%20favore%20dei%20reduci%20disoccupati%20e%20bisognosi.md), relativo alla concessione di un assegno temporaneo a favore dei reduci disoccupati e bisognosi.
+ 2) [decreto legislativo luogotenenziale 26 aprile 1946 n. 240](Provvidenze%20a%20favore%20dei%20reduci.md), riguardante provvidenze a favore dei reduci.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

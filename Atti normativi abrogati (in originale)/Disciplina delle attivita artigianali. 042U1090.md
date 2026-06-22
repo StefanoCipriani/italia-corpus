@@ -50,7 +50,7 @@ Con decreto Reale, su proposta del Ministro per le corporazioni, d'intesa con qu
 
 ## Art. 3.
 
-Per l'esercizio delle attivita' di fotografo, pirotecnico ed orafo, ed affini soggette alla disciplina del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato col R. decreto 18 giugno 1931-IX, n. 773, il rilascio della autorizzazione, di competenza delle autorita' indicate nel testo unico predetto, e' disposto previo parere della Commissione preveduta nell'articolo seguente, avuto riguardo a quanto e' stabilito nell'art. 5.
+Per l'esercizio delle attivita' di fotografo, pirotecnico ed orafo, ed affini soggette alla disciplina del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato col R. decreto 18 giugno 1931-IX, n. 773, il rilascio della autorizzazione, di competenza delle autorita' indicate nel testo unico predetto, e' disposto previo parere della Commissione preveduta nell'articolo seguente, avuto riguardo a quanto e' stabilito nell'art. 5.
 
 ## Art. 4.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto il testo unico approvato con [R. decreto-legge 30 novembre 1919, n. 2318](Che%20riunisce%20in%20testo%20unico%20le%20leggi%20per%20le%20case%20popolari%20e%20per%20lindustria%20edilizia.%20019U2318.md), e le successive disposizioni sulle case popolari ed economiche;
 
-Veduto il [R. decreto 11 gennaio 1923, n. 65](../Regi%20decreti/Che%20abolisce%20le%20Commissioni%20e%20Comitati%20previsti%20nel%20testo%20unico%20delle%20disposizioni%20sulle%20case%20popolari%20ed%20economiche%20emanate%20con%20R.%20D.%20L.%2030%20novembre%201919%20n.%202318.%20023U0065.md), che abolisce la Commissione ed i Comitati in materia di edilizia popolare e conferisce al Ministro per l'industria e commercio il mandato di coordinare, con suo decreto, la consulenza tecnica di alcuni organi predetti con la Commissione di vigilanza sulla edilizia popolare istituita con decreto 8 dicembre 1922, dei Ministri per l'industria e commercio e per il tesoro;
+Veduto il [R. decreto 11 gennaio 1923, n. 65](Che%20abolisce%20le%20Commissioni%20e%20Comitati%20previsti%20nel%20testo%20unico%20delle%20disposizioni%20sulle%20case%20popolari%20ed%20economiche%20emanate%20con%20R.%20D.%20L.%2030%20novembre%201919%20n.%202318.%20023U0065.md), che abolisce la Commissione ed i Comitati in materia di edilizia popolare e conferisce al Ministro per l'industria e commercio il mandato di coordinare, con suo decreto, la consulenza tecnica di alcuni organi predetti con la Commissione di vigilanza sulla edilizia popolare istituita con decreto 8 dicembre 1922, dei Ministri per l'industria e commercio e per il tesoro;
 
 Constatata, in base ai risultati dell'esperienza, la necessita' di rafforzare i poteri della Commissione anzidetta con opportune garanzie per la esecutorieta' delle sue decisioni;
 
@@ -52,7 +52,7 @@ L'ordinanza del presidente della Commissione di vigilanza, per la esecuzione del
 
 ### Art. 4.
 
-E' confermato al Ministro per l'economia nazionale il mandato conferitogli dall'[art. 2 del R. decreto 11 gennaio 1923, n. 65](../Regi%20decreti/Che%20abolisce%20le%20Commissioni%20e%20Comitati%20previsti%20nel%20testo%20unico%20delle%20disposizioni%20sulle%20case%20popolari%20ed%20economiche%20emanate%20con%20R.%20D.%20L.%2030%20novembre%201919%20n.%202318.%20023U0065.md), di coordinare nella Commissione di vigilanza sulla edilizia popolare i compiti delle altre Commissioni soppresse, e gli e' data a tale uopo la facolta' di modificare o integrare, secondo il bisogno, la composizione della Commissione stessa.
+E' confermato al Ministro per l'economia nazionale il mandato conferitogli dall'[art. 2 del R. decreto 11 gennaio 1923, n. 65](Che%20abolisce%20le%20Commissioni%20e%20Comitati%20previsti%20nel%20testo%20unico%20delle%20disposizioni%20sulle%20case%20popolari%20ed%20economiche%20emanate%20con%20R.%20D.%20L.%2030%20novembre%201919%20n.%202318.%20023U0065.md), di coordinare nella Commissione di vigilanza sulla edilizia popolare i compiti delle altre Commissioni soppresse, e gli e' data a tale uopo la facolta' di modificare o integrare, secondo il bisogno, la composizione della Commissione stessa.
 
 ### Art. 5.
 
@@ -96,7 +96,7 @@ Le relazioni definitive di collaudo ed i reparti, tra i soci, della spesa per la
  
  In mancanza di ricorsi i collaudi diverranno esecutivi. 
  
- Tale disposizione si applica anche ai collaudi gia' compiuti ed in corso di esecuzione e che siano disposti anteriormente alle norme stabilite col [R. decreto 8 febbraio 1923, n. 345](../Regi%20decreti/Contenente%20norme%20complementari%20per%20la%20esecuzione%20ed%20il%20collaudo%20dei%20lavori%20edilizi%20col%20contributo%20governativo.%20023U0345.md).
+ Tale disposizione si applica anche ai collaudi gia' compiuti ed in corso di esecuzione e che siano disposti anteriormente alle norme stabilite col [R. decreto 8 febbraio 1923, n. 345](Contenente%20norme%20complementari%20per%20la%20esecuzione%20ed%20il%20collaudo%20dei%20lavori%20edilizi%20col%20contributo%20governativo.%20023U0345.md).
 
 ### Art. 10. — null
 

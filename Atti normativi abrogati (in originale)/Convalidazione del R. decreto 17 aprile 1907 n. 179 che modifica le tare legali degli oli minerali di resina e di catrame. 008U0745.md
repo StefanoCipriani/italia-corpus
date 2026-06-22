@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 17 aprile 1907, n. 179](../Regi%20decreti/Approvazione%20delle%20tare%20legali%20per%20il%20dazio%20sugli%20oli%20minerali%20di%20resina%20di%20catrame%20ed%20altri.%20007U0179.md), che modifica le tare legali degli oli minerali, di resina e di catrame. 
+ E' convertito in legge il [R. decreto 17 aprile 1907, n. 179](Approvazione%20delle%20tare%20legali%20per%20il%20dazio%20sugli%20oli%20minerali%20di%20resina%20di%20catrame%20ed%20altri.%20007U0179.md), che modifica le tare legali degli oli minerali, di resina e di catrame. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

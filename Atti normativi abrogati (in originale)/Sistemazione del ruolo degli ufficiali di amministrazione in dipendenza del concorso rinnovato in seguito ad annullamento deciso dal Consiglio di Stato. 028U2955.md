@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 19 aprile 1923, n. 910](../Regi%20decreti/Concernente%20il%20reclutamento%20di%20ufficiali%20inferiori%20nel%20Corpo%20di%20amministrazione.%20023U0910.md), col quale si da' facolta' al Ministro per la guerra di provvedere mediante concorso ad un reclutamento di subalterni e capitani di amministrazione in servizio permanente effettivo;
+Visto il [R. decreto 19 aprile 1923, n. 910](Concernente%20il%20reclutamento%20di%20ufficiali%20inferiori%20nel%20Corpo%20di%20amministrazione.%20023U0910.md), col quale si da' facolta' al Ministro per la guerra di provvedere mediante concorso ad un reclutamento di subalterni e capitani di amministrazione in servizio permanente effettivo;
 
 Visto il decreto Ministeriale 4 giugno 1923 con il quale veniva notificato il bando di concorso per un numero di posti di subalterni e capitani di amministrazione in servizio attivo, corrispondente alle vacanze esistenti o verificabili nei gradi suddetti fino alla data del 15 agosto 1923;
 
@@ -38,9 +38,9 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-E' data facolta' al Ministro per la guerra di provvedere, in dipendenza dell'esito delle operazioni compiute dalla Commissione di cui ai decreti Ministeriali 1° giugno 1927 e 8 novembre 1927, alle nomine, nei gradi di subalterni e capitani di amministrazione in S.P.E., dei vincitori del concorso bandito col decreto Ministeriale 4 giugno 1923, sotto la data e con le anzianita' risultanti dall'applicazione degli [articoli 6](../Regi%20decreti/Concernente%20il%20reclutamento%20di%20ufficiali%20inferiori%20nel%20Corpo%20di%20amministrazione.%20023U0910.md) e [7 del R. decreto 19 aprile 1923, n. 910](../Regi%20decreti/Concernente%20il%20reclutamento%20di%20ufficiali%20inferiori%20nel%20Corpo%20di%20amministrazione.%20023U0910.md). 
+E' data facolta' al Ministro per la guerra di provvedere, in dipendenza dell'esito delle operazioni compiute dalla Commissione di cui ai decreti Ministeriali 1° giugno 1927 e 8 novembre 1927, alle nomine, nei gradi di subalterni e capitani di amministrazione in S.P.E., dei vincitori del concorso bandito col decreto Ministeriale 4 giugno 1923, sotto la data e con le anzianita' risultanti dall'applicazione degli [articoli 6](Concernente%20il%20reclutamento%20di%20ufficiali%20inferiori%20nel%20Corpo%20di%20amministrazione.%20023U0910.md) e [7 del R. decreto 19 aprile 1923, n. 910](Concernente%20il%20reclutamento%20di%20ufficiali%20inferiori%20nel%20Corpo%20di%20amministrazione.%20023U0910.md). 
  
- Qualora non venissero ricoperte nel grado di capitano le vacanze risultanti nel grado stesso al 15 agosto 1923, si procedera' ad un corrispondente maggior reclutamento nel grado inferiore, tenendo presenti, agli effetti di tale ultimo reclutamento, gli [articoli 2](../Regi%20decreti/Concernente%20il%20reclutamento%20di%20ufficiali%20inferiori%20nel%20Corpo%20di%20amministrazione.%20023U0910.md) e [5 del R. decreto 19 aprile 1923, n. 910](../Regi%20decreti/Concernente%20il%20reclutamento%20di%20ufficiali%20inferiori%20nel%20Corpo%20di%20amministrazione.%20023U0910.md).
+ Qualora non venissero ricoperte nel grado di capitano le vacanze risultanti nel grado stesso al 15 agosto 1923, si procedera' ad un corrispondente maggior reclutamento nel grado inferiore, tenendo presenti, agli effetti di tale ultimo reclutamento, gli [articoli 2](Concernente%20il%20reclutamento%20di%20ufficiali%20inferiori%20nel%20Corpo%20di%20amministrazione.%20023U0910.md) e [5 del R. decreto 19 aprile 1923, n. 910](Concernente%20il%20reclutamento%20di%20ufficiali%20inferiori%20nel%20Corpo%20di%20amministrazione.%20023U0910.md).
 
 ## Art. 2. — null
 

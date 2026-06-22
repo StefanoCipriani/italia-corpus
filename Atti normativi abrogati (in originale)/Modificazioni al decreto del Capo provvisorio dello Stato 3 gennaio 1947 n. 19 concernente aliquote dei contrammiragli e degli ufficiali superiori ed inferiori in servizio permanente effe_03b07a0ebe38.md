@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'[art. 1 del regio decreto legislativo 14 maggio 1946, n. 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
+Visto l'[art. 1 del regio decreto legislativo 14 maggio 1946, n. 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
 
-Visti gli [articoli 1](../Regi%20decreti%20legislativi/Collocamento%20in%20ausiliaria%20o%20dispensa%20dal%20servizio%20a%20domanda%20o%20di%20autorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20e%20degli%20ufficiali%20del%20ruolo%20speciale%20di%20complemento%20d_a5ab4a4bd961.md) e [7 del regio decreto legislativo 31 maggio 1946, n. 490](../Regi%20decreti%20legislativi/Collocamento%20in%20ausiliaria%20o%20dispensa%20dal%20servizio%20a%20domanda%20o%20di%20autorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20e%20degli%20ufficiali%20del%20ruolo%20speciale%20di%20complemento%20d_a5ab4a4bd961.md);
+Visti gli [articoli 1](Collocamento%20in%20ausiliaria%20o%20dispensa%20dal%20servizio%20a%20domanda%20o%20di%20autorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20e%20degli%20ufficiali%20del%20ruolo%20speciale%20di%20complemento%20d_a5ab4a4bd961.md) e [7 del regio decreto legislativo 31 maggio 1946, n. 490](Collocamento%20in%20ausiliaria%20o%20dispensa%20dal%20servizio%20a%20domanda%20o%20di%20autorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20e%20degli%20ufficiali%20del%20ruolo%20speciale%20di%20complemento%20d_a5ab4a4bd961.md);
 
 Visto il [decreto del Capo provvisorio dello Stato 3 gennaio 1947, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-01-03;19);
 

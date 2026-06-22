@@ -22,7 +22,7 @@ UMBERTO I
  
  Articolo unico. 
  
- E' convertito in legge il [Regio decreto 25 dicembre 1887, N. 5125](../Regi%20decreti/Che%20stabilisce%20le%20discipline%20per%20lapplicazione%20della%20tassa%20alla%20produzione%20dellacido%20acetico%20puro%20ed%20alla%20rettificazione%20dellacido%20impuro.%20087U5125.md), (Serie 3ª), che, in relazione all'[articolo 15 della legge 14 luglio 1887, N. 4703](Che%20riforma%20la%20tariffa%20doganale.%20087U4703.md), (Serie 3ª), stabilisce le discipline per l'applicazione della tassa alla produzione dell'acido acetico puro ed alla rettificazione dell'acido impuro. 
+ E' convertito in legge il [Regio decreto 25 dicembre 1887, N. 5125](Che%20stabilisce%20le%20discipline%20per%20lapplicazione%20della%20tassa%20alla%20produzione%20dellacido%20acetico%20puro%20ed%20alla%20rettificazione%20dellacido%20impuro.%20087U5125.md), (Serie 3ª), che, in relazione all'[articolo 15 della legge 14 luglio 1887, N. 4703](Che%20riforma%20la%20tariffa%20doganale.%20087U4703.md), (Serie 3ª), stabilisce le discipline per l'applicazione della tassa alla produzione dell'acido acetico puro ed alla rettificazione dell'acido impuro. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

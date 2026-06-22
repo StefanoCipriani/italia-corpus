@@ -18,7 +18,7 @@ Visto l'art. 5 dello Statuto fondamentale del Regno;
 
 Visto il [secondo comma dell'art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 5 novembre 1911, n. 1247](../Regi%20decreti/Che%20pone%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20regno%20dItalia%20la%20Tripolitania%20e%20la%20Cirenaica.%20011U1247.md), convertito nella [legge 25 febbraio 1912, n. 83](Che%20converte%20in%20legge%20il%20Regio%20decreto%205%20novembre%201911%20n.%201247%20col%20quale%20la%20Tripolitania%20e%20la%20Cirenaica%20sono%20poste%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20Regno%20dItalia.%20012U0083.md);
+Visto il [R. decreto 5 novembre 1911, n. 1247](Che%20pone%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20regno%20dItalia%20la%20Tripolitania%20e%20la%20Cirenaica.%20011U1247.md), convertito nella [legge 25 febbraio 1912, n. 83](Che%20converte%20in%20legge%20il%20Regio%20decreto%205%20novembre%201911%20n.%201247%20col%20quale%20la%20Tripolitania%20e%20la%20Cirenaica%20sono%20poste%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20Regno%20dItalia.%20012U0083.md);
 
 Visto il [R. decreto 31 ottobre 1919, n. 2401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-31;2401), che approva le norme fondamentali per l'assetto della Cirenaica;
 
@@ -60,7 +60,7 @@ VITTORIO EMANUELE III
  
  Visto il [secondo comma dell'art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  
- Visto il [R. decreto 5 novembre 1911, n. 1247](../Regi%20decreti/Che%20pone%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20regno%20dItalia%20la%20Tripolitania%20e%20la%20Cirenaica.%20011U1247.md), convertito nella [legge 25 febbraio 1912, n. 83](Che%20converte%20in%20legge%20il%20Regio%20decreto%205%20novembre%201911%20n.%201247%20col%20quale%20la%20Tripolitania%20e%20la%20Cirenaica%20sono%20poste%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20Regno%20dItalia.%20012U0083.md); 
+ Visto il [R. decreto 5 novembre 1911, n. 1247](Che%20pone%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20regno%20dItalia%20la%20Tripolitania%20e%20la%20Cirenaica.%20011U1247.md), convertito nella [legge 25 febbraio 1912, n. 83](Che%20converte%20in%20legge%20il%20Regio%20decreto%205%20novembre%201911%20n.%201247%20col%20quale%20la%20Tripolitania%20e%20la%20Cirenaica%20sono%20poste%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20Regno%20dItalia.%20012U0083.md); 
  
  Visto il [R. decreto 31 ottobre 1919, n. 2401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-31;2401), che approva le norme fondamentali per l'assetto della Cirenaica; 
  

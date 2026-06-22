@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduto il [R. decreto 25 gennaio 1937, n. 484](../Regi%20decreti/Regolamento%20dei%20contributi%20sindacali.%20037U0484.md);
+Veduto il [R. decreto 25 gennaio 1937, n. 484](Regolamento%20dei%20contributi%20sindacali.%20037U0484.md);
 
 Veduta la [legge 18 giugno 1931, n. 856](Riordinamento%20delle%20disposizioni%20sul%20riparto%20di%20contributi%20sindacali%20obbligatori.%20031U0856.md);
 

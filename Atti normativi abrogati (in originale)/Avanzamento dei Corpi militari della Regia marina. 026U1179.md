@@ -121,7 +121,7 @@ L'ufficiale primo inscritto nel quadro di avanzamento acquista diritto al grado 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Accertamento dell'idoneità all'avanzamento degli ufficiali in servizio permanente.
 
@@ -220,7 +220,7 @@ La Commissione ordinaria di avanzamento e' costituita come segue:
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](Aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20e%20lordinamento%20dei%20Corpi%20della%20Regia%20marina.%20027U0755.md), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20marzo%201927%20numero%20755%20che%20porta%20modifiche%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20027U2763.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](Aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20e%20lordinamento%20dei%20Corpi%20della%20Regia%20marina.%20027U0755.md), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20marzo%201927%20numero%20755%20che%20porta%20modifiche%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20027U2763.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 22.
 
@@ -328,7 +328,7 @@ Sono considerati esclusi dall'avanzamento:
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 34.
 
@@ -357,7 +357,7 @@ Agli ufficiali definitivamente esclusi dall'avanzamento ed a quelli dichiarati n
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Dell'avanzamento.
 
@@ -394,7 +394,7 @@ L'avanzamento a capitano del Corpo del genio navale, del corpo delle armi navali
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 41.
 
@@ -415,7 +415,7 @@ L'avanzamento a maggiore in tutti i Corpi militari della Regia marina avviene in
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](Aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20e%20lordinamento%20dei%20Corpi%20della%20Regia%20marina.%20027U0755.md), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20marzo%201927%20numero%20755%20che%20porta%20modifiche%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20027U2763.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](Aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20e%20lordinamento%20dei%20Corpi%20della%20Regia%20marina.%20027U0755.md), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20marzo%201927%20numero%20755%20che%20porta%20modifiche%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20027U2763.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 43.
 
@@ -484,7 +484,7 @@ I capitani di fregata e gradi corrispondenti da collocarsi in aspettativa per ri
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 52.
 
@@ -563,7 +563,7 @@ Nessun ufficiale in congedo, a qualunque categoria appartenga, puo' conseguire l
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](Aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20e%20lordinamento%20dei%20Corpi%20della%20Regia%20marina.%20027U0755.md), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20marzo%201927%20numero%20755%20che%20porta%20modifiche%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20027U2763.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](Aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20e%20lordinamento%20dei%20Corpi%20della%20Regia%20marina.%20027U0755.md), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20marzo%201927%20numero%20755%20che%20porta%20modifiche%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20027U2763.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 65.
 
@@ -587,7 +587,7 @@ Gli ufficiali di complemento della Regia marina, aventi grado di guardiamarina o
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 68.
 
@@ -666,7 +666,7 @@ I tenenti gia' in servizio nel Corpo del genio navale e non ancora in quadro di 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](Aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20e%20lordinamento%20dei%20Corpi%20della%20Regia%20marina.%20027U0755.md), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20marzo%201927%20numero%20755%20che%20porta%20modifiche%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20027U2763.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](Aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20e%20lordinamento%20dei%20Corpi%20della%20Regia%20marina.%20027U0755.md), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20marzo%201927%20numero%20755%20che%20porta%20modifiche%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20027U2763.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 79.
 
@@ -687,7 +687,7 @@ Per i colonnelli e tenenti colonnelli del genio navale provenienti dal Corpo deg
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](Aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20e%20lordinamento%20dei%20Corpi%20della%20Regia%20marina.%20027U0755.md), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20marzo%201927%20numero%20755%20che%20porta%20modifiche%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20027U2763.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](Aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20e%20lordinamento%20dei%20Corpi%20della%20Regia%20marina.%20027U0755.md), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20marzo%201927%20numero%20755%20che%20porta%20modifiche%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20027U2763.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Disposizioni per gli ufficiali trasferiti dai ruoli degli ufficiali in congedo.
 
@@ -730,7 +730,7 @@ Gli ufficiali in aspettativa per riduzione di quadri, senza diritto a richiamo i
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](Aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20e%20lordinamento%20dei%20Corpi%20della%20Regia%20marina.%20027U0755.md), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20marzo%201927%20numero%20755%20che%20porta%20modifiche%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20027U2763.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 27 marzo 1927, n. 755](Aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20e%20lordinamento%20dei%20Corpi%20della%20Regia%20marina.%20027U0755.md), convertito senza modificazioni dalla [L. 29 dicembre 1927, n. 2763](Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20marzo%201927%20numero%20755%20che%20porta%20modifiche%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20027U2763.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Degli ufficiali mutilati e invalidi di guerra riassunti in servizio.
 
@@ -790,7 +790,7 @@ Per la compilazione dei quadri di avanzamento ordinari o suppletivi nell'anno 19
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 26 settembre 1926, n. 1650](Disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U1650.md), convertito senza modificazioni dalla [L. 21 luglio 1927, n. 1551](Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201926%20n.%201650%20che%20reca%20disposizioni%20speciali%20per%20gli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20027U1551.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 93.
 

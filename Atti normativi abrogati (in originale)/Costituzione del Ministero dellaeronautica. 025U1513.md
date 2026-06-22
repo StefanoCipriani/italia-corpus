@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 24 gennaio 1923, n. 62](../Regi%20decreti/Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md), e [4 maggio 1925, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-04;627), relativi alla costituzione ed all'ordinamento della Regia aeronautica;
+Visti i [Regi decreti 24 gennaio 1923, n. 62](Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md), e [4 maggio 1925, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-04;627), relativi alla costituzione ed all'ordinamento della Regia aeronautica;
 
 Visto il [R. decreto 14 maggio 1925, n. 632](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-14;632), relativo alla istituzione del Sottosegretariato di Stato per l'aeronautica;
 
@@ -204,7 +204,7 @@ Con decreto Reale, sulla proposta del Ministro per le finanze sara' provveduto a
 
 ### Art. 10.
 
-Sono abrogati il [R. decreto 24 gennaio 1923, n. 62](../Regi%20decreti/Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md), e qualsiasi altra disposizione contraria al presente decreto.
+Sono abrogati il [R. decreto 24 gennaio 1923, n. 62](Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md), e qualsiasi altra disposizione contraria al presente decreto.
 
 ### Art. 11.
 

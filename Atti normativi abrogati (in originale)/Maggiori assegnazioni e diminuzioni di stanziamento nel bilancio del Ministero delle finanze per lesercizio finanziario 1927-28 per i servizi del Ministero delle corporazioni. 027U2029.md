@@ -37,8 +37,8 @@ centrale (spese fisse) . . . . . . . . . . . . . . . . L. 684,140
 
  Cap. n. 47-bis (di nuova istituzione) - «Indennita',
 compensi ed altre spese per l'esercizio della vigilanza
-stabilita dagli [articoli 29](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md) e [40 del R. decreto 1°
-luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), sulle Associazioni sindacali e
+stabilita dagli [articoli 29](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md) e [40 del R. decreto 1°
+luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), sulle Associazioni sindacali e
 sugli istituti collaterali di cui all'ultimo comma
 dell'[articolo 4 della legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md)». . .» 60,000
 

@@ -70,11 +70,11 @@ Ministero del tesoro
  finanziarie di alcune societa' autostradali 
 (cap. n. 7798).................................. 299.000.000.000 
 Ministero degli affari esteri 
-[Legge 4 ottobre 1966, n. 794](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20internazionale%20per%20la%20costituzione%20dellIstituto%20Italo-Latino%20Americano%20firmata%20a%20Roma%20il%201%20giugno%201966.md) - Ratifica ed esecu- 
+[Legge 4 ottobre 1966, n. 794](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20internazionale%20per%20la%20costituzione%20dellIstituto%20Italo-Latino%20Americano%20firmata%20a%20Roma%20il%201%20giugno%201966.md) - Ratifica ed esecu- 
  zione della convenzione internazionale per la 
  costituzione dell'Istituto italolatino americano 
  (cap. n. 3117).................................. 1.800.000.000 
-[Legge 9 giugno 1977, n. 358](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20istitutiva%20di%20una%20Agenzia%20spaziale%20europea%20A.S.E.%20con%20allegati%20firmata%20a%20Parigi%20il%2030%20maggio%201975.md) - Ratifica ed esecu- 
+[Legge 9 giugno 1977, n. 358](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20istitutiva%20di%20una%20Agenzia%20spaziale%20europea%20A.S.E.%20con%20allegati%20firmata%20a%20Parigi%20il%2030%20maggio%201975.md) - Ratifica ed esecu- 
  zione della convenzione istitutiva di una Agen- 
  zia spaziale europea (ASE) (cap. n. 8251)....... 116.301.000.000 
 Ministero della sanita' 

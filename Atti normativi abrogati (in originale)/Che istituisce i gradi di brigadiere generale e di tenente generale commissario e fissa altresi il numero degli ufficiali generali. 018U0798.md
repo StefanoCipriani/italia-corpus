@@ -22,15 +22,15 @@ In virtu' dell'autorita' a Noi delegata;
 
 In virtu' delle facolta' conferite al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel R. esercito, il regolamento per la sua esecuzione approvato con [R. decreto 21 luglio 1907, n. 626](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md), e le successive modificazioni;
+Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel R. esercito, il regolamento per la sua esecuzione approvato con [R. decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md), e le successive modificazioni;
 
 Vista la [legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md), recante modificazioni alla legge sull'avanzamento nel R. esercito;
 
-Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del R. esercito e della R. marina, il regolamento per la sua esecuzione approvato con [R. decreto 18 luglio 1912, n. 867](../Regi%20decreti/Che%20approva%20le%20disposizioni%20per%20lapplicazione%20della%20legge%2018%20luglio%201912%20n.%20806%20concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0867.md), e le successive modificazioni;
+Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del R. esercito e della R. marina, il regolamento per la sua esecuzione approvato con [R. decreto 18 luglio 1912, n. 867](Che%20approva%20le%20disposizioni%20per%20lapplicazione%20della%20legge%2018%20luglio%201912%20n.%20806%20concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0867.md), e le successive modificazioni;
 
-Visto il testo unico delle leggi sull'ordinamento del R. esercito, approvato con [R. decreto 14 luglio 1898, n. 525](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e le successive modificazioni;
+Visto il testo unico delle leggi sull'ordinamento del R. esercito, approvato con [R. decreto 14 luglio 1898, n. 525](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e le successive modificazioni;
 
-Visto il testo unico delle leggi sugli stipendi e assegni fissi per il R. esercito approvato con [R. decreto 14 luglio 1898, n. 380](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e le successive modificazioni;
+Visto il testo unico delle leggi sugli stipendi e assegni fissi per il R. esercito approvato con [R. decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e le successive modificazioni;
 
 Visti i Nostri decreti 23 agosto 1917, n. 1341, e 17 gennaio 1918, n. 62;
 
@@ -76,7 +76,7 @@ E' abrogata per i maggiori generali e per i colonnelli la disposizione dell'[art
 
 Il numero degli ufficiali generali e' quello indicato dall'annessa tabella; pero' tale numero potra' anche non essere raggiunto quando lo consentano le esigenze del servizio. 
  
- Restano quindi abrogati, agli effetti del presente decreto, il § 13 del [R. decreto 21 luglio 1907, n. 626](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md), che approva il regolamento per la esecuzione della legge sull'avanzamento nel R. esercito ed il [decreto Luogotenenziale 27 giugno 1915, n. 1017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-27;1017).
+ Restano quindi abrogati, agli effetti del presente decreto, il § 13 del [R. decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md), che approva il regolamento per la esecuzione della legge sull'avanzamento nel R. esercito ed il [decreto Luogotenenziale 27 giugno 1915, n. 1017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-27;1017).
 
 ## Art. 8.
 

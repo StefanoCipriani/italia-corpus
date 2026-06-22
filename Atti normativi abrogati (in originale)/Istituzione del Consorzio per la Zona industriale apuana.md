@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto legge 24 luglio 1938, n. 1266](Dichiarazione%20di%20pubblica%20utilita%20e%20norme%20per%20le%20opere%20occorrenti%20per%20limpianto%20e%20lesercizio%20della%20zona%20industriale%20nel%20territorio%20di%20Massa%20e%20Carrara.%20038U1266.md), convertito nella [legge 5 gennaio 1939, n. 343](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20luglio%201938-XVI%20n.%201266%20riguardante%20la%20dichiarazione%20di%20pubblica%20utilita%20e%20norme%20per%20le%20opere%20occorrenti%20per%20limpianto%20e%20lesercizio%20della%20zona_244b50c7e70c.md), relativo alla zona industriale di Massa-Carrara (Apuania);
+Visto il [regio decreto legge 24 luglio 1938, n. 1266](Dichiarazione%20di%20pubblica%20utilita%20e%20norme%20per%20le%20opere%20occorrenti%20per%20limpianto%20e%20lesercizio%20della%20zona%20industriale%20nel%20territorio%20di%20Massa%20e%20Carrara.%20038U1266.md), convertito nella [legge 5 gennaio 1939, n. 343](Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20luglio%201938-XVI%20n.%201266%20riguardante%20la%20dichiarazione%20di%20pubblica%20utilita%20e%20norme%20per%20le%20opere%20occorrenti%20per%20limpianto%20e%20lesercizio%20della%20zona_244b50c7e70c.md), relativo alla zona industriale di Massa-Carrara (Apuania);
 
 Visto il [regio decreto-legge 2 febbraio 1939, n. 112](Imposte%20di%20registro%20ed%20ipotecarie%20per%20la%20zona%20industriale%20del%20comune%20di%20Apuania.%20039U0112.md);
 
@@ -18,7 +18,7 @@ Vista la [legge 23 marzo 1940, n. 231](Agevolazioni%20in%20materia%20di%20impost
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 30 gennaio 1946, n. 10](../Decreti%20legislativi%20luogotenenziali/Aumento%20delle%20tariffe%20di%20trasporto%20sulle%20ferrovie%20dello%20Stato.md);
+Visto il [decreto legislativo luogotenenziale 30 gennaio 1946, n. 10](Aumento%20delle%20tariffe%20di%20trasporto%20sulle%20ferrovie%20dello%20Stato.md);
 
 Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 

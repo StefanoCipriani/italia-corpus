@@ -127,7 +127,7 @@ Oltre i casi previsti dall'art. 26 della legge 20 marzo 1865, allegato A non son
  
  Tale incapacita' cessa un anno dopo compiuto il termine degli effetti dell'ammonizione e della sorveglianza; 
  
- c) i condannati per reati di associazione di malfattori, di furto, di ricettazione dolosa di oggetti furtivi, truffa, approprazione indebita, abuso di fiducia e frodi d'ogni altra specie e sotto qualunque titolo del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), per qualunque specie di falso, falsa testimonianza o calunnia, per eccitamento all'odio fra le varie classi sociali, non che per reati contro il buon costume, salvi i casi di riabilitazione a termini di legge. 
+ c) i condannati per reati di associazione di malfattori, di furto, di ricettazione dolosa di oggetti furtivi, truffa, approprazione indebita, abuso di fiducia e frodi d'ogni altra specie e sotto qualunque titolo del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), per qualunque specie di falso, falsa testimonianza o calunnia, per eccitamento all'odio fra le varie classi sociali, non che per reati contro il buon costume, salvi i casi di riabilitazione a termini di legge. 
  
  d) coloro che sono ricoverati negli ospizi di carita', e coloro che sono abitualmente a carico degli istituti di pubblica beneficenza e delle Congregazioni di carita'. 
  
@@ -417,7 +417,7 @@ Qualunque elettore puo' promuovere l'azione penale, costituendosi parte civile p
  
  Ordinata un'inchiesta dal Consiglio comunale o dalla Giunta provinciale amministrativa, chi ne e' incaricato ha diritto di far citare testimoni. 
  
- Ai testimoni delle inchieste, ordinate come sopra, sono applicabili le disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sulla falsa testimonianza, sulla occultazione della verita' e sul rifiuto di deporre in materia civile; salvo le maggiori pene secondo il Codice stesso, cadendo la falsa testimonianza e l'occultazione della verita', od il rifiuto su materia punibile. 
+ Ai testimoni delle inchieste, ordinate come sopra, sono applicabili le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sulla falsa testimonianza, sulla occultazione della verita' e sul rifiuto di deporre in materia civile; salvo le maggiori pene secondo il Codice stesso, cadendo la falsa testimonianza e l'occultazione della verita', od il rifiuto su materia punibile. 
  
  Ai pubblici ufficiali imputati di taluno dei reati contemplati nella presente legge, non sono applicabili le disposizioni dell'articolo 8 della legge 20 marzo 1865, allegato A.
 
@@ -429,9 +429,9 @@ Nei reati elettorali, ove la presente legge non abbia specificatamente contempla
  
  Ove la detta condanna colpisca il candidato, la privazione del diritto elettorale e di eleggibilita' sara' pronunziata per un tempo non minore di due, ne' maggiore di cinque anni. 
  
- Ai reati elettorali si applicano le disposizioni del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) intorno al tentativo, alla complicita', alla recidiva, al concorso di piu' reati, ed alle circostanze attenuanti. 
+ Ai reati elettorali si applicano le disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) intorno al tentativo, alla complicita', alla recidiva, al concorso di piu' reati, ed alle circostanze attenuanti. 
  
- Resta sempre salva l'applicazione delle maggiori pene stabilite nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per reati piu' gravi non puniti dalla presente legge.
+ Resta sempre salva l'applicazione delle maggiori pene stabilite nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per reati piu' gravi non puniti dalla presente legge.
 
 ## Art. 47.
 
@@ -736,7 +736,7 @@ Cessano di far parte delle spese poste a carico dei comuni e delle provincie dal
  
  a) le spese pel mobilio destinato all'uso degli uffizi di prefettura e sottoprefettura, dei prefetti e sotto prefetti; 
  
- b) le spese ordinate dal [Regio decreto 6 dicembre 1865, n. 2628](../Regi%20decreti/Contenente%20disposizioni%20transitorie%20per%20lattuazione%20nelle%20Provincie%20Toscane%20delle%20leggi%20sullOrdinamento%20giudiziario%20e%20sugli%20stipendi%20della%20Magistratura.%20065U2628.md) sull'ordinamento giudiziario; 
+ b) le spese ordinate dal [Regio decreto 6 dicembre 1865, n. 2628](Contenente%20disposizioni%20transitorie%20per%20lattuazione%20nelle%20Provincie%20Toscane%20delle%20leggi%20sullOrdinamento%20giudiziario%20e%20sugli%20stipendi%20della%20Magistratura.%20065U2628.md) sull'ordinamento giudiziario; 
  
  c) le spese ordinate dalla [legge 23 dicembre 1875, n. 2839](Che%20modifica%20lordinamento%20giudiziario%20del%206%20dicembre%201865.%20075U2839.md), per le indennita' di alloggio ai pretori; 
  

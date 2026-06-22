@@ -32,7 +32,7 @@ Il posto di traduttore aggiunto di seconda classe (grado 10°) e' conferito medi
 
 La promozione al posto di traduttore aggiunto di prima classe (grado 9°) e' conferita al traduttore aggiunto di seconda classe dopo cinque anni di effettivo servizio, su parere favorevole del Consiglio d'amministrazione. 
  
- Il servizio eventualmente prestato in precedenza, in altro gruppo o ruolo, con lo stesso grado o con grado superiore, e' computato, agli effetti dell'anzianita' richiesta nel comma precedente, nel modo stabilito dall'art. 9, capoverso, del [Regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+ Il servizio eventualmente prestato in precedenza, in altro gruppo o ruolo, con lo stesso grado o con grado superiore, e' computato, agli effetti dell'anzianita' richiesta nel comma precedente, nel modo stabilito dall'art. 9, capoverso, del [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 4.
 
@@ -137,7 +137,7 @@ Nella prima attuazione della presente legge il posto di traduttore capo (grado 6
 
 ## Art. 16.
 
-Per le traduzioni degli atti dello stato civile richieste al Ministero dai Comuni, quando non sia possibile provvedervi a norma dell'[art. 31 del R. decreto 22 giugno 1905, n. 278](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20lorganico%20del%20personale%20del%20Ministero%20di%20grazia%20e%20giustizia%20e%20dei%20culti.%20005U0278.md), e' dovuta per ogni atto una tassa di lire 20 o di lire 8 in conformita' della tabella B, alligata alla presente legge. 
+Per le traduzioni degli atti dello stato civile richieste al Ministero dai Comuni, quando non sia possibile provvedervi a norma dell'[art. 31 del R. decreto 22 giugno 1905, n. 278](Che%20approva%20e%20contiene%20il%20regolamento%20per%20lorganico%20del%20personale%20del%20Ministero%20di%20grazia%20e%20giustizia%20e%20dei%20culti.%20005U0278.md), e' dovuta per ogni atto una tassa di lire 20 o di lire 8 in conformita' della tabella B, alligata alla presente legge. 
  
  La riscossione delle predette tasse ha luogo a mezzo di marche amministrative apposte a cura dell'Ufficio sulla traduzione eseguita ed annullate col timbro dell'Ufficio medesimo. 
  

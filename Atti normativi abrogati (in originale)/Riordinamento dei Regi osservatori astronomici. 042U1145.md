@@ -124,7 +124,7 @@ Al personale scientifico di cui alle lettere b) e c) del comma 1° dell'art. 3, 
 
 ### Art. 13.
 
-Nella gestione di fondi assegnati dal Ministero dell'educazione nazionale agli Osservatori astronomici si seguono, in quanto applicabili, le norme di cui al [R. decreto 20 luglio 1922, n. 1216](../Regi%20decreti/Concernente%20il%20concentramento%20amministrativo%20delle%20Universita%20e%20degli%20Istituti%20di%20istruzione%20superiore.%20022U1216.md). 
+Nella gestione di fondi assegnati dal Ministero dell'educazione nazionale agli Osservatori astronomici si seguono, in quanto applicabili, le norme di cui al [R. decreto 20 luglio 1922, n. 1216](Concernente%20il%20concentramento%20amministrativo%20delle%20Universita%20e%20degli%20Istituti%20di%20istruzione%20superiore.%20022U1216.md). 
  
  La Regia universita' di Firenze continuera' a valersi dell'Osservatorio di Arcetri per l'insegnamento dell'astronomia e concorrera' nelle spese di manutenzione dell'Istituto con una somma annua non inferiore a quella ad esso corrisposta nell'anno accademico 1924-25, tenuto conto peraltro delle riduzioni apportate ai contributi statali da provvedimenti finanziari di indole generale. 
  
@@ -177,7 +177,7 @@ Al Regio Osservatorio vesuviano potra' essere destinato dal Ministro uno dei cal
 
 ### Art. 20.
 
-Nella gestione di fondi assegnati dal Ministero dell'educazione nazionale all'Osservatorio vesuviano si seguono, in quanto applicabili, le norme di cui al [R. decreto 20 luglio 1922, n. 1216](../Regi%20decreti/Concernente%20il%20concentramento%20amministrativo%20delle%20Universita%20e%20degli%20Istituti%20di%20istruzione%20superiore.%20022U1216.md).
+Nella gestione di fondi assegnati dal Ministero dell'educazione nazionale all'Osservatorio vesuviano si seguono, in quanto applicabili, le norme di cui al [R. decreto 20 luglio 1922, n. 1216](Concernente%20il%20concentramento%20amministrativo%20delle%20Universita%20e%20degli%20Istituti%20di%20istruzione%20superiore.%20022U1216.md).
 
 ### Art. 21.
 

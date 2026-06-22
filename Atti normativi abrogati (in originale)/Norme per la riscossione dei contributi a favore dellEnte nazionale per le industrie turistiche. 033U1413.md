@@ -54,7 +54,7 @@ L'Ente nazionale per le industrie turistiche, in base agli elementi forniti dall
  
  Chiunque vi abbia interesse puo', entro quindici giorni dall'ultimo di pubblicazione, proporre reclamo al prefetto, avverso l'iscrizione, per eccessiva tassazione ovvero per indebito esonero o per insufficiente tassazione di un terzo. 
  
- Contro le decisioni del prefetto e' ammesso, entro venti giorni, ricorso al Ministero delle corporazioni, il quale decide con provvedimento definitivo; sentita la Commissione consultiva per la disciplina delle contribuzioni sindacali, istituita in virtu' dell'[art. 1 del R. decreto 17 marzo 1927, n. 401](../Regi%20decreti/Ordinamento%20del%20Ministero%20delle%20corporazioni.%20027U0401.md), con decreto ministeriale 20 gennaio 1928.
+ Contro le decisioni del prefetto e' ammesso, entro venti giorni, ricorso al Ministero delle corporazioni, il quale decide con provvedimento definitivo; sentita la Commissione consultiva per la disciplina delle contribuzioni sindacali, istituita in virtu' dell'[art. 1 del R. decreto 17 marzo 1927, n. 401](Ordinamento%20del%20Ministero%20delle%20corporazioni.%20027U0401.md), con decreto ministeriale 20 gennaio 1928.
 
 ## Art. 5.
 

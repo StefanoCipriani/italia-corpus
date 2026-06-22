@@ -84,7 +84,7 @@ Fermo l'obbligo della trascrizione dei decreti di determinazione dei perimetri e
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 28 novembre 1929, n. 2310](../Regi%20decreti/Obbligatorieta%20della%20trascrizione%20dei%20contratti%20e%20delle%20deliberazioni%20con%20le%20quali%20i%20consorzi%20estendono%20la%20loro%20attivita%20di%20bonificamento%20agrario%20fuori%20dei%20confini%20del%20proprio%20territorio.%20029U2310.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 28 novembre 1929, n. 2310](Obbligatorieta%20della%20trascrizione%20dei%20contratti%20e%20delle%20deliberazioni%20con%20le%20quali%20i%20consorzi%20estendono%20la%20loro%20attivita%20di%20bonificamento%20agrario%20fuori%20dei%20confini%20del%20proprio%20territorio.%20029U2310.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 9.
 

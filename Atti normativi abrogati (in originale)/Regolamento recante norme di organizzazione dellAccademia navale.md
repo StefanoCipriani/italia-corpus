@@ -18,7 +18,7 @@ Visto il [decreto del Presidente della Repubblica 11 marzo 1953, n. 412](Approva
 
 Visto il testo unico delle leggi sull'istruzione universitaria, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
-Visto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), che approva, tra l'altro, le tabelle relative agli insegnamenti propri alle lauree ed ai diplomi che sono rilasciati dalle universita' e dagli istituti universitari;
+Visto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), che approva, tra l'altro, le tabelle relative agli insegnamenti propri alle lauree ed ai diplomi che sono rilasciati dalle universita' e dagli istituti universitari;
 
 Vista la [legge 27 maggio 1991, n. 168](Norme%20per%20il%20riconoscimento%20della%20validita%20degli%20studi%20compiuti%20dagli%20ufficiali%20in%20servizio%20permanente%20della%20Marina%20e%20dellAeronautica%20militari%20nonche%20della%20Guardia%20di%20finanza%20presso%20le%20ri_7796c8ee76f6.md), concernente le norme per il riconoscimento della validita' degli studi compiuti dagli ufficiali in servizio permanente della Marina e dell'Aeronautica militare, nonche' della Guardia di finanza, presso le rispettive accademie e scuola di applicazione, ai fini dell'ammissione ai corsi di diploma e di laurea di talune facolta' universitarie;
 
@@ -61,7 +61,7 @@ L'Accademia navale e' un istituto di formazione militare, con sede a Livorno, ch
 L'Accademia navale partecipa inoltre, compatibilmente con le primarie esigenze didattiche, ad attivita' di studio e di ricerca a livello universitario nei settori della cultura di preminente interesse della Marina militare.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ### Art. 2. — Indirizzo formativo
 

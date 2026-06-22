@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md), convertito nella [legge 13 giugno 1935, n. 1297](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20gennaio%201935-XIII%20n.%20314%20che%20approva%20le%20norme%20riguardanti%20il%20reclutamento%20e%20lavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U1297.md), riguardante il reclutamento e l'avanzamento degli ufficiali della Regia aeronautica;
+Visto il [R. decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md), convertito nella [legge 13 giugno 1935, n. 1297](Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20gennaio%201935-XIII%20n.%20314%20che%20approva%20le%20norme%20riguardanti%20il%20reclutamento%20e%20lavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U1297.md), riguardante il reclutamento e l'avanzamento degli ufficiali della Regia aeronautica;
 
 Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 

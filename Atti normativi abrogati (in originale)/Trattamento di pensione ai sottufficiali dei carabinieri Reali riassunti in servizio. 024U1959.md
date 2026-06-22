@@ -14,17 +14,17 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA.
 
-Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto n. 70 del 21 febbraio 1895](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
+Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto n. 70 del 21 febbraio 1895](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
 
 Visto il regolamento per la esecuzione della legge predetta, approvato con [R. decreto 5 settembre 1895, n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md);
 
 Visto il [decreto Luogotenenziale n. 494 del 6 aprile 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-06;494);
 
-Visto il [R. decreto n. 1802 in data 2 ottobre 1919](../Regi%20decreti/Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md);
+Visto il [R. decreto n. 1802 in data 2 ottobre 1919](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md);
 
 Visto il [R. decreto-legge n. 2073 in data 9 novembre 1919](Contenente%20provvedimenti%20pel%20corpo%20della%20R.%20guardia%20di%20finanza.%20019U2073.md);
 
-Visto il [R. decreto n. 2480 in data 21 novembre 1923](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md);
+Visto il [R. decreto n. 2480 in data 21 novembre 1923](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md);
 
 Visto il decreto n. 2835 in data 30 dicembre 1923;
 
@@ -36,7 +36,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la guerra, di concert
 
 ## Art. 1.
 
-Per la reintegrazione delle vacanze nei gradi di sottufficiale dei carabinieri Reali dipendenti dal riordinamento dell'Arma approvato col [R. decreto 2 ottobre 1919, n. 1802](../Regi%20decreti/Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), sono estese ai sottufficiali dell'Arma stessa che abbiano compiuto il limite massimo di servizio stabilito per il collocamento a riposo, le disposizioni dell'[art. 9, lettera c) del R. decreto 9 novembre 1919, n. 2073](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-09;2073#art_9-letc).
+Per la reintegrazione delle vacanze nei gradi di sottufficiale dei carabinieri Reali dipendenti dal riordinamento dell'Arma approvato col [R. decreto 2 ottobre 1919, n. 1802](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), sono estese ai sottufficiali dell'Arma stessa che abbiano compiuto il limite massimo di servizio stabilito per il collocamento a riposo, le disposizioni dell'[art. 9, lettera c) del R. decreto 9 novembre 1919, n. 2073](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-09;2073#art_9-letc).
 
 ## Art. 2.
 

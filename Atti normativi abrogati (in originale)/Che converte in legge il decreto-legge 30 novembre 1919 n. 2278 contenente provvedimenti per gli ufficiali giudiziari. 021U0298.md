@@ -337,7 +337,7 @@ Gli ufficiali giudiziari sono pubblici ufficiali istituiti per procedere agli at
  
  L'[art. 40 del regolamento del 10 dicembre 1882, n. 1103](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1882-12-10;1103#art_40), e' abrogato. 
  
- Gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-27;1669#art_1) e [2 del decreto Luogotenenziale 27 ottobre 1918, n. 1669](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-27;1669#art_2), ed il [R. decreto 20 luglio 1919, n. 1282](../Regi%20decreti/Che%20concede%20un%20assegno%20annuo%20straordinario%20agli%20ufficiali%20giudiziari%20attualmente%20in%20servizio.%20019U1282.md), sono abrogati. 
+ Gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-27;1669#art_1) e [2 del decreto Luogotenenziale 27 ottobre 1918, n. 1669](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-27;1669#art_2), ed il [R. decreto 20 luglio 1919, n. 1282](Che%20concede%20un%20assegno%20annuo%20straordinario%20agli%20ufficiali%20giudiziari%20attualmente%20in%20servizio.%20019U1282.md), sono abrogati. 
  
  Gli atti degli ufficiali giudiziari saranno vistati dal cancelliere nei casi e colle norme stabilite dal regolamento. 
  

@@ -22,7 +22,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-Il termine del 31 dicembre 1980 di cui alla [legge 7 luglio 1980, n. 298](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%207%20maggio%201980%20n.%20152%20concernente%20il%20differimento%20del%20termine%20di%20cui%20allo%20articolo%2089%20del%20decreto%20del%20Presidente%20della%20Repubblica%2024%20luglio%201977%20n.%206_8035f4557f20.md), e' differito al 31 dicembre 1981.
+Il termine del 31 dicembre 1980 di cui alla [legge 7 luglio 1980, n. 298](Conversione%20in%20legge%20del%20decreto-legge%207%20maggio%201980%20n.%20152%20concernente%20il%20differimento%20del%20termine%20di%20cui%20allo%20articolo%2089%20del%20decreto%20del%20Presidente%20della%20Repubblica%2024%20luglio%201977%20n.%206_8035f4557f20.md), e' differito al 31 dicembre 1981.
 
 ## Art. 2.
 

@@ -42,7 +42,7 @@ I militari chiamati a norma dell'articolo precedente devono presentarsi agli ent
 
 Il militare che, senza esserne impedito da cause di forza maggiore, non risponde alla chiamata ordinata ai sensi dell'art. 1, e' punito con la reclusione militare fino ad un anno. 
  
- Si applica, relativamente al reato preveduto dal comma precedente, la disposizione dell'[art. 243 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra, sempreche' il colpevole, successivamente al commesso reato, venga destinato a reparti mobilitati. 
+ Si applica, relativamente al reato preveduto dal comma precedente, la disposizione dell'[art. 243 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra, sempreche' il colpevole, successivamente al commesso reato, venga destinato a reparti mobilitati. 
  
  Durante lo stato di guerra, e' differita o sospesa l'esecuzione della pena inflitta, per il reato preveduto dal primo comma, a persone che, successivamente alla condanna, siano destinate a reparti mobilitati.
 

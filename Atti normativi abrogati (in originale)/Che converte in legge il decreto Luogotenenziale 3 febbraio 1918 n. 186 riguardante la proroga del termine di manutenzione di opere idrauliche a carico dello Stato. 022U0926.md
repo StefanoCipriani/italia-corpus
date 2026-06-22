@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [decreto Luogotenenziale 3 febbraio 1918, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-03;186), concernente la proroga del termine di cui all'art. 79 del testo unico delle disposizioni di legge sulla navigazione interna e sulla fluitazione, approvato con [R. decreto 11 luglio 1913, n. 959](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20navigazione%20interna%20e%20sulla%20fluitazione.%20013U0959.md). 
+ E' convertito in legge il [decreto Luogotenenziale 3 febbraio 1918, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-03;186), concernente la proroga del termine di cui all'art. 79 del testo unico delle disposizioni di legge sulla navigazione interna e sulla fluitazione, approvato con [R. decreto 11 luglio 1913, n. 959](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20navigazione%20interna%20e%20sulla%20fluitazione.%20013U0959.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,7 +16,7 @@ E' abolita l'azione penale e sono condonate le pene pronunciate per i seguenti r
  
  b) per i reati politici soggetti a pene correzionali, purche' non siano accompagnati o connessi a reati contro le persone, le proprieta' o le leggi militari; 
  
- c) per i reati preveduti dagli [articoli 247](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [260](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [263](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [264 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno commessi in occasione di dimostrazioni politiche, purche' soggetti a pena correzionale; 
+ c) per i reati preveduti dagli [articoli 247](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [260](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [263](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [264 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno commessi in occasione di dimostrazioni politiche, purche' soggetti a pena correzionale; 
  
  d) per le contravvenzioni alle leggi e regolamenti sullo stato civile; 
  

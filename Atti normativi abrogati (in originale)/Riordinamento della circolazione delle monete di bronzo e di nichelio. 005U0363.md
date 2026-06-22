@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il Governo del Re e' autorizzato a provvedere al ritiro dalla circolazione ed alla vendita, previa deformazione, delle monete di nichelio misto da centesimi 20, coniate in virtu' dell'allegato P, alla [legge 22 luglio 1894, n. 339](Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md), e delle monete di nichelio puro da centesimi 25, di cui al [R. decreto 13 febbraio 1902, n. 54](../Regi%20decreti/Col%20quale%20si%20autorizza%20la%20fabbricazione%20e%20lemissione%20di%20monete%20di%20nichelio%20puro%20da%20centesimi%2025.%20002U0054.md). 
+Il Governo del Re e' autorizzato a provvedere al ritiro dalla circolazione ed alla vendita, previa deformazione, delle monete di nichelio misto da centesimi 20, coniate in virtu' dell'allegato P, alla [legge 22 luglio 1894, n. 339](Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md), e delle monete di nichelio puro da centesimi 25, di cui al [R. decreto 13 febbraio 1902, n. 54](Col%20quale%20si%20autorizza%20la%20fabbricazione%20e%20lemissione%20di%20monete%20di%20nichelio%20puro%20da%20centesimi%2025.%20002U0054.md). 
  
  Il contingente di monete di bronzo, da ritirarsi e da alienarsi, previa deformazione, ai sensi della [legge 7 luglio 1901, n. 302](Provvedimenti%20per%20la%20trasformazione%20di%2030%20milioni%20di%20monete%20di%20bronzo%20in%20altrettanta%20somma%20di%20monete%20di%20nichelio%20puro.%20001U0302.md), e' limitato a L. 20,000,000 in pezzi di bronzo da centesimi 5 e 10.
 

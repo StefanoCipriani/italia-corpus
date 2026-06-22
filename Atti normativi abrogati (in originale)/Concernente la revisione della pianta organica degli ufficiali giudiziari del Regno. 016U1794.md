@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La tabella organica degli ufficiali giudiziari addetti alle Corti di cassazione e di appello, ai tribunali civili e penali e alle preture, approvata con [R. decreto 17 dicembre 1903, n. 487](../Regi%20decreti/Che%20determina%20il%20numero%20degli%20ufficiali%20giudiziari.%20003U0487.md), e riveduta con l'altro [R. decreto 26 giugno 1910, n. 558](../Regi%20decreti/Che%20modifica%20la%20tabella%20organica%20degli%20ufficiali%20giudiziari%20addetti%20alle%20Corti%20di%20cassazione%20e%20di%20appello%20ai%20tribunali%20civili%20e%20penali%20e%20alle%20preture.%20010U0558.md), e' nuovamente modificata in conformita' dell'elenco annesso al presente decreto, visto, d'ordine Nostro, dal ministro predetto.
+La tabella organica degli ufficiali giudiziari addetti alle Corti di cassazione e di appello, ai tribunali civili e penali e alle preture, approvata con [R. decreto 17 dicembre 1903, n. 487](Che%20determina%20il%20numero%20degli%20ufficiali%20giudiziari.%20003U0487.md), e riveduta con l'altro [R. decreto 26 giugno 1910, n. 558](Che%20modifica%20la%20tabella%20organica%20degli%20ufficiali%20giudiziari%20addetti%20alle%20Corti%20di%20cassazione%20e%20di%20appello%20ai%20tribunali%20civili%20e%20penali%20e%20alle%20preture.%20010U0558.md), e' nuovamente modificata in conformita' dell'elenco annesso al presente decreto, visto, d'ordine Nostro, dal ministro predetto.
 
 ## Art. 2.
 

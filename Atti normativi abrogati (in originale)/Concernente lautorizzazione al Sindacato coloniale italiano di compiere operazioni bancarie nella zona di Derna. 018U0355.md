@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 23 febbraio 1913, n. 156](../Regi%20decreti/Col%20quale%20viene%20regolato%20lesercizio%20delle%20operazioni%20bancarie%20in%20Libia%20per%20parte%20di%20Societa%20commerciali.%20013U0156.md), relativo all'esercizio di operazioni bancarie in Tripolitania e in Cirenaica; 
+ Visto il [R. decreto 23 febbraio 1913, n. 156](Col%20quale%20viene%20regolato%20lesercizio%20delle%20operazioni%20bancarie%20in%20Libia%20per%20parte%20di%20Societa%20commerciali.%20013U0156.md), relativo all'esercizio di operazioni bancarie in Tripolitania e in Cirenaica; 
  
  Vista l'istanza con la quale il «Sindacato coloniale italiano» regolarmente costituitosi a Tripoli ha chiesto di essere autorizzato all'esercizio in Derna delle dette operazioni in deroga al disposto di quel decreto; 
  

@@ -34,7 +34,7 @@ Alla maggiore spesa di cui al precedente articolo, sara' provveduto per L. 90.00
  
  a) Ministero dell'educazione nazionale, capitolo 84 del bilancio 1935-1936, e corrispondenti degli esercizi successivi, «Sussidi ed incoraggiamenti a Scuole professionali libere ed altre istituzioni affini, contributi per il mantenimento dei corsi per maestranze» L. 45.000; 
  
- b) Ministero dell'agricoltura e delle foreste, capitolo 44 del bilancio per l'esercizio 1935-1936 e corrispondenti degli esercizi successivi, «Spese per l'applicazione delle leggi sulla pesca (testo unico approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md))» L. 20.000; 
+ b) Ministero dell'agricoltura e delle foreste, capitolo 44 del bilancio per l'esercizio 1935-1936 e corrispondenti degli esercizi successivi, «Spese per l'applicazione delle leggi sulla pesca (testo unico approvato con [R. decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md))» L. 20.000; 
  
  c) Ministero delle comunicazioni (Marina mercantile), capitolo 75 del bilancio per l'esercizio 1935-1936 e corrispondenti degli esercizi successivi, «Compensi di costruzione, modificazione, trasformazione, riparazione e compensi daziari a favore dell'industria delle costruzioni navali» L. 25.000. 
  

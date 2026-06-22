@@ -19,7 +19,7 @@ Il limite di impegno, nell'esercizio 1927-1928, per le sovvenzioni di costruzion
 
 ## Art. 3.
 
-Il limite di impegno per le annualita' di pagamento del contributo dello Stato, per opere di irrigazione, giusta l'[articolo 5 del R. decreto 20 maggio 1926, n. 1154](../Regi%20decreti/Nuove%20disposizioni%20sulle%20opere%20di%20irrigazione%20nellItalia%20Meridionale%20e%20nelle%20Isole.%20026U1154.md), e' fissato, per l'esercizio finanziario 1927-28, in L. 1,500,000.
+Il limite di impegno per le annualita' di pagamento del contributo dello Stato, per opere di irrigazione, giusta l'[articolo 5 del R. decreto 20 maggio 1926, n. 1154](Nuove%20disposizioni%20sulle%20opere%20di%20irrigazione%20nellItalia%20Meridionale%20e%20nelle%20Isole.%20026U1154.md), e' fissato, per l'esercizio finanziario 1927-28, in L. 1,500,000.
 
 ## Art. 4.
 

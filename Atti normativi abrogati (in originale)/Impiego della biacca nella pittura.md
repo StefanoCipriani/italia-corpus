@@ -68,7 +68,7 @@ I casi di intossicazione saturnina notificati ai sensi dell'articolo precedente 
 
 ## Art. 13.
 
-Salve le maggiori sanzioni previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono puniti per la inosservanza delle norme previste nella presente legge, con l'ammenda da lire 50.000 a lire 300.000, i datori di lavoro, i produttori e i commercianti.
+Salve le maggiori sanzioni previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono puniti per la inosservanza delle norme previste nella presente legge, con l'ammenda da lire 50.000 a lire 300.000, i datori di lavoro, i produttori e i commercianti.
 
 ## Art. 14.
 

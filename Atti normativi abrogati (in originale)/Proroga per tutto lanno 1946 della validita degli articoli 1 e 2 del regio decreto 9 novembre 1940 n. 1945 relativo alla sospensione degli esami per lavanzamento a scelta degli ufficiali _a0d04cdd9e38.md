@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'art. 101 delle norme approvate con [regio decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md), convertito nella [legge 13 giugno 1935, n. 1297](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20gennaio%201935-XIII%20n.%20314%20che%20approva%20le%20norme%20riguardanti%20il%20reclutamento%20e%20lavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U1297.md), quale e' stato sostituito dall'[art. 27 della legge 13 agosto 1940, n. 1185](Modificazioni%20alle%20norme%20sul%20reclutamento%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica%20approvate%20con%20il%20Regio%20decreto-legge%2028%20gennaio%201935-XIII%20n.%20314%20convertito%20nella%20leggo_055f5fca2b68.md);
+Visto l'art. 101 delle norme approvate con [regio decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md), convertito nella [legge 13 giugno 1935, n. 1297](Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20gennaio%201935-XIII%20n.%20314%20che%20approva%20le%20norme%20riguardanti%20il%20reclutamento%20e%20lavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U1297.md), quale e' stato sostituito dall'[art. 27 della legge 13 agosto 1940, n. 1185](Modificazioni%20alle%20norme%20sul%20reclutamento%20e%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica%20approvate%20con%20il%20Regio%20decreto-legge%2028%20gennaio%201935-XIII%20n.%20314%20convertito%20nella%20leggo_055f5fca2b68.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per l'aeronautica, di concerto con il Ministro per i
 
 ## Articolo unico.
 
-E' prorogata per tutto l'anno 1946 la validita' del disposto degli [articoli 1](../Regi%20decreti/Avanzamento%20a%20scelta%20degli%20ufficiali%20della%20Regia%20aeronautica%20durante%20lattuale%20stato%20di%20guerra.%20040U1945.md) e [2 del regio decreto 9 novembre 1940, n. 1945](../Regi%20decreti/Avanzamento%20a%20scelta%20degli%20ufficiali%20della%20Regia%20aeronautica%20durante%20lattuale%20stato%20di%20guerra.%20040U1945.md), relativo alla sospensione degli esami per l'avanzamento a scelta degli ufficiali dell'Aeronautica militare.
+E' prorogata per tutto l'anno 1946 la validita' del disposto degli [articoli 1](Avanzamento%20a%20scelta%20degli%20ufficiali%20della%20Regia%20aeronautica%20durante%20lattuale%20stato%20di%20guerra.%20040U1945.md) e [2 del regio decreto 9 novembre 1940, n. 1945](Avanzamento%20a%20scelta%20degli%20ufficiali%20della%20Regia%20aeronautica%20durante%20lattuale%20stato%20di%20guerra.%20040U1945.md), relativo alla sospensione degli esami per l'avanzamento a scelta degli ufficiali dell'Aeronautica militare.
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 15 aprile 1946.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

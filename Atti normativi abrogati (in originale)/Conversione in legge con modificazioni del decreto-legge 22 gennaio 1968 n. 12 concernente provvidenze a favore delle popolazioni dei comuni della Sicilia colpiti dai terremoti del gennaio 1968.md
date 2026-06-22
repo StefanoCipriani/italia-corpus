@@ -114,7 +114,7 @@ E' convertito in legge il [decreto-legge 22 gennaio 1968, n. 12](Provvidenze%20a
 
  Art. 39-bis
 
- In deroga all'[articolo 72 della legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972#art_72), e delle successive modifiche ([articolo 6 del regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), [articolo 5 della legge 26 aprile 1954, n. 251](Modificazione%20agli%20articoli%2010%2034%2036%20del%20regio%20decreto%2030%20dicembre%201923%20n.%202841%20e%20allart.%206%20del%20testo%20unico%20approvato%20con%20regio%20decreto%2014%20settembre%201931%20n.%201175.md)) i cittadini dei comuni di cui all'articolo 1 trasferiti a seguito del sisma in altri comuni hanno diritto all'assistenza da parte degli enti comunali di assistenza.
+ In deroga all'[articolo 72 della legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972#art_72), e delle successive modifiche ([articolo 6 del regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), [articolo 5 della legge 26 aprile 1954, n. 251](Modificazione%20agli%20articoli%2010%2034%2036%20del%20regio%20decreto%2030%20dicembre%201923%20n.%202841%20e%20allart.%206%20del%20testo%20unico%20approvato%20con%20regio%20decreto%2014%20settembre%201931%20n.%201175.md)) i cittadini dei comuni di cui all'articolo 1 trasferiti a seguito del sisma in altri comuni hanno diritto all'assistenza da parte degli enti comunali di assistenza.
 
  Art. 39-ter.
 

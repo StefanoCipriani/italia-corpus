@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il [R. decreto-legge 25 ottobre 1924, n. 1944](Disposizioni%20per%20fornire%20agli%20impiegati%20dello%20Stato%20civili%20e%20militari%20alloggi%20a%20condizioni%20favorevoli.%20024U1944.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), col quale e' stato creato l'Istituto nazionale per le case degli impiegati dello Stato, e successivi provvedimenti legislativi riguardanti l'Istituto stesso;
 
-Visto il [testo unico delle disposizioni sull'edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con R. decreto 28 aprile 1938-XVI, n. 1165;
+Visto il [testo unico delle disposizioni sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con R. decreto 28 aprile 1938-XVI, n. 1165;
 
 Considerata la necessita' urgente ed assoluta di mettere l'Istituto predetto in grado di costruire nuove case per i dipendenti dello Stato;
 
@@ -64,7 +64,7 @@ La rappresentanza dell'Istituto nei Comuni non capoluoghi di provincia per le co
 
 ## Art. 6.
 
-L'accantonamento per riserva patrimoniale e di garanzia da farsi dall'Istituto per le case degli Impiegati dello Stato ai sensi dell'[art. 14 del R. decreto 20 novembre 1924, n. 1945](../Regi%20decreti/Approvazione%20delle%20norme%20per%20lesecuzione%20del%20R.%20decreto-legge%2025%20ottobre%201924%20n.%201944%20riguardante%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20024U1945.md), cessera' con il raggiungimento della somma di L. 8.000.000. 
+L'accantonamento per riserva patrimoniale e di garanzia da farsi dall'Istituto per le case degli Impiegati dello Stato ai sensi dell'[art. 14 del R. decreto 20 novembre 1924, n. 1945](Approvazione%20delle%20norme%20per%20lesecuzione%20del%20R.%20decreto-legge%2025%20ottobre%201924%20n.%201944%20riguardante%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20024U1945.md), cessera' con il raggiungimento della somma di L. 8.000.000. 
  
  Restera' parimenti limitato alla somma di L. 200.000 l'analogo accantonamento per riserva afferente le case per militari, di cui alla [legge 27 giugno 1929, n. 1184](Autorizzazione%20allIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20statali%20a%20costruire%20alloggi%20da%20assegnarsi%20in%20fitto%20agli%20ufficiali%20e%20sottufficiali%20del%20Regio%20esercito.%20029U1184.md), e successive disposizioni. 
  
@@ -80,11 +80,11 @@ Ai fini del presente decreto sono estese tutte le disposizioni che regolano l'Is
 
 ## Art. 9.
 
-La facolta' di cui all'[art. 1, n. 3, del R. decreto 20 novembre 1924, n. 1945](../Regi%20decreti/Approvazione%20delle%20norme%20per%20lesecuzione%20del%20R.%20decreto-legge%2025%20ottobre%201924%20n.%201944%20riguardante%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20024U1945.md), per la quale l'Istituto puo' acquistare e rilevare, in via eccezionale, case da altri enti, e' estesa all'acquisto di case da privati, previa autorizzazione da darsi di volta in volta dal Ministro per le finanze.
+La facolta' di cui all'[art. 1, n. 3, del R. decreto 20 novembre 1924, n. 1945](Approvazione%20delle%20norme%20per%20lesecuzione%20del%20R.%20decreto-legge%2025%20ottobre%201924%20n.%201944%20riguardante%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20024U1945.md), per la quale l'Istituto puo' acquistare e rilevare, in via eccezionale, case da altri enti, e' estesa all'acquisto di case da privati, previa autorizzazione da darsi di volta in volta dal Ministro per le finanze.
 
 ## Art. 10.
 
-Per l'assegnazione degli alloggi il termine utile per la presentazione del ricorso al Comitato centrale di cui all'[art. 391 del testo unico delle disposizioni sull'edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con [R. decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md), e' fissato in cinque giorni, decorrenti dalla data di notificazione del provvedimento o di pubblicazione del medesimo nell'albo delle sedi dell'Istituto, secondo le norme di rito. 
+Per l'assegnazione degli alloggi il termine utile per la presentazione del ricorso al Comitato centrale di cui all'[art. 391 del testo unico delle disposizioni sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con [R. decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md), e' fissato in cinque giorni, decorrenti dalla data di notificazione del provvedimento o di pubblicazione del medesimo nell'albo delle sedi dell'Istituto, secondo le norme di rito. 
  
  Negli altri casi il termine di cinque giorni decorre dalla data di notificazione del provvedimento. 
  

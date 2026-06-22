@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto l'art. 42 del testo unico delle leggi sulla pesca, approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md);
+Visto l'art. 42 del testo unico delle leggi sulla pesca, approvato con [R. decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md);
 
 Visto il R. decreto-legge 31 dicembre 1936-XV, n. 2411, concernente lo sviluppo del naviglio peschereccio;
 

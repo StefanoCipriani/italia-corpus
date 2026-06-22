@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-L'art. 123 del regolamento approvato col [R. decreto 27 dicembre 1896, n. 584](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%2023%20luglio%201896%20n.%20318%20sui%20provvedimenti%20a%20favore%20della%20Marina%20mercantile.%20096U0584.md), e' abrogato e sostituito dal seguente: 
+L'art. 123 del regolamento approvato col [R. decreto 27 dicembre 1896, n. 584](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%2023%20luglio%201896%20n.%20318%20sui%20provvedimenti%20a%20favore%20della%20Marina%20mercantile.%20096U0584.md), e' abrogato e sostituito dal seguente: 
  
  Art. 123. - § 1. - La potenza in cavalli della macchina motrice dei piroscafi o barche a vapore nazionali che vengono destinati al servizio di rimorchio nei porti, nelle rade e nelle spiaggie dello Stato, agli effetti della imposizione della tassa annuale di ancoraggio stabilita dall'[art. 24 della legge 23 luglio 1896, n. 318](Riflettente%20la%20concessione%20di%20compensi%20di%20costruzione%20e%20premi%20di%20navigazione%20ai%20piroscafi%20ed%20ai%20velieri%20nazionali%20096U0318.md), e' determinata come segue: 
  

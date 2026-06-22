@@ -60,7 +60,7 @@ Il bilancio di previsione per l'esercizio 1911-912, rettificato in conformita' a
 
 ## Art. 3.
 
-Sono convalidati i decreti Reali, coi quali vennero autorizzate le prelevazioni dal fondo di riserva per le spese impreviste indicate nell'annessa tabella D. Sono quindi approvate le prelevazioni medesime e quelle fatte sul fondo di riserva per le spese obbligatorie e d'ordine indicate nell'annessa tabella C, per gli effetti di che agli articoli 29 e 38 del testo unico della legge sulla contabilita' generale, approvato col [R. decreto 17 febbraio 1884, n. 2016](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md) (serie 3ª).
+Sono convalidati i decreti Reali, coi quali vennero autorizzate le prelevazioni dal fondo di riserva per le spese impreviste indicate nell'annessa tabella D. Sono quindi approvate le prelevazioni medesime e quelle fatte sul fondo di riserva per le spese obbligatorie e d'ordine indicate nell'annessa tabella C, per gli effetti di che agli articoli 29 e 38 del testo unico della legge sulla contabilita' generale, approvato col [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md) (serie 3ª).
 
 ## Art. 4.
 
@@ -127,7 +127,7 @@ E' fatto assoluto divieto alle amministrazioni di promuovere od eccitare in qual
 
 ## Art. 17.
 
-Il Governo presentera' alla Camera non oltre il 31 dicembre 1912 specifiche proposte di legge dirette a temperare gli effetti finanziari delle disposizioni di eccezione contenute in leggi speciali con le quali si e' derogato alle norme generali contenute nel testo unico di legge approvato col [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), salvo le ulteriori proposte di legge per il riordinamento generale del regime delle pensioni. 
+Il Governo presentera' alla Camera non oltre il 31 dicembre 1912 specifiche proposte di legge dirette a temperare gli effetti finanziari delle disposizioni di eccezione contenute in leggi speciali con le quali si e' derogato alle norme generali contenute nel testo unico di legge approvato col [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), salvo le ulteriori proposte di legge per il riordinamento generale del regime delle pensioni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

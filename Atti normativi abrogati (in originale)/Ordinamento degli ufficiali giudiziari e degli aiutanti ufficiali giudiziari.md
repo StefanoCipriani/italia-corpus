@@ -73,7 +73,7 @@ L'esame di concorso consta:
  b) nozioni di procedura penale;
  Entrambe con speciale riferimento alle funzioni dell'ufficiale giudiziario;
  c) nozioni sull'ordinamento giudiziario e sull'ordinamento degli ufficiali giudiziari e degli aiutanti ufficiali giudiziari;
- 2) di una prova orale sulle predette materie, nonche', nella parte riguardante i servizi degli ufficiali giudiziari, su nozioni relative al [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e alle leggi di bollo e registro, alle leggi in materia cambiaria ed a quelle che disciplinano i contratti di compravendita degli autoveicoli.
+ 2) di una prova orale sulle predette materie, nonche', nella parte riguardante i servizi degli ufficiali giudiziari, su nozioni relative al [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e alle leggi di bollo e registro, alle leggi in materia cambiaria ed a quelle che disciplinano i contratti di compravendita degli autoveicoli.
  3) di un saggio di dattilografia.
 
 ### Art. 6.
@@ -479,7 +479,7 @@ Quando la Commissione di vigilanza e di disciplina esprime parere che all'uffici
 ### Art. 62.
 
 All'ufficiale giudiziario 6 comminata la destituzione, esclusa qualunque procedura disciplinare:
- a) per qualsiasi condanna passata in giudicato riportata per delitti contro la personalita' internazionale e contro la personalita' interna dello Stato, contro la moralita' ed il buon costume, escluso il delitto colposo di cui al capoverso dell'[art. 527 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ovvero per i delitti contro la fede pubblica e per il delitto d'incesto, per quelli preveduti dagli articoli da 314 a 322, 624, 628, 629, 630, 640, 642, 643, 645, 646;
+ a) per qualsiasi condanna passata in giudicato riportata per delitti contro la personalita' internazionale e contro la personalita' interna dello Stato, contro la moralita' ed il buon costume, escluso il delitto colposo di cui al capoverso dell'[art. 527 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ovvero per i delitti contro la fede pubblica e per il delitto d'incesto, per quelli preveduti dagli articoli da 314 a 322, 624, 628, 629, 630, 640, 642, 643, 645, 646;
  b) per qualsiasi condanna che importi l'interdizione perpetua dai pubblici uffici.
 
 ### Art. 63.
@@ -593,7 +593,7 @@ Gli ufficiali giudiziari inabili al servizio per condizioni di salute od incapac
 
 ### Art. 81.
 
-Il trattamento di quiescenza degli ufficiali giudiziari e' regolato dal testo unico delle disposizioni legislative sull'ordinamento della Cassa di previdenza delle pensioni degli ufficiali giudiziari approvato con [regio decreto 12 luglio 1934, n. 2312](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20034U2312.md), e successive modificazioni.
+Il trattamento di quiescenza degli ufficiali giudiziari e' regolato dal testo unico delle disposizioni legislative sull'ordinamento della Cassa di previdenza delle pensioni degli ufficiali giudiziari approvato con [regio decreto 12 luglio 1934, n. 2312](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20034U2312.md), e successive modificazioni.
 
 ### Art. 82.
 
@@ -644,7 +644,7 @@ Salvo quanto e' regolato da leggi speciali, l'ufficiale giudiziario delle pretur
 ### Art. 89.
 
 L'ufficiale giudiziario e' obbligato ad avvalersi del servizio postale per la notificazione degli atti in materia civile ed amministrativa, da eseguirsi fuori del comune di sua, residenza, eccetto che la parte chieda che la notificazione sia, eseguita, di persona. In quest'ultimo caso la richiesta, deve essere fatta per iscritto in calce o a margine dell'atto e firmata dallo stesso richiedente. Se questi non puo' o non sa scrivere, l'ufficiale giudiziario deve farne menzione nell'atto indicandone il motivo.
- La notificazione a mezzo del servizio postale e' eseguita secondo le norme previste dal [regio decreto 21 ottobre 1923, n 2393](../Regi%20decreti/Norme%20per%20la%20notificazione%20degli%20atti%20giudiziari%20a%20mezzo%20della%20posta.%20023U2393.md).
+ La notificazione a mezzo del servizio postale e' eseguita secondo le norme previste dal [regio decreto 21 ottobre 1923, n 2393](Norme%20per%20la%20notificazione%20degli%20atti%20giudiziari%20a%20mezzo%20della%20posta.%20023U2393.md).
 
 ### Art. 90.
 
@@ -687,7 +687,7 @@ Il cancelliere della pretura deve far procedere alla notificazione della copia d
 
 ### Art. 97.
 
-Quando gli atti di pignoramento per la riscossione delle pene pecuniarie e spese di giustizia risultino infruttuosi, gli ufficiali giudiziari devono richiedere, ed allegare ai verbali, un certificato da rilasciarsi dall'autorita' comunale, attestante la insolvibilita' del debitore contro cui hanno proceduto, salvo il disposto degli [articoli 614 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_614) e 40 del [regio decreto 28 maggio 1931, n. 602](../Regi%20decreti/Disposizioni%20di%20attuazione%20del%20codice%20di%20procedura%20penale.%20031U0602.md), contenente le disposizioni di attuazione del detto codice.
+Quando gli atti di pignoramento per la riscossione delle pene pecuniarie e spese di giustizia risultino infruttuosi, gli ufficiali giudiziari devono richiedere, ed allegare ai verbali, un certificato da rilasciarsi dall'autorita' comunale, attestante la insolvibilita' del debitore contro cui hanno proceduto, salvo il disposto degli [articoli 614 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_614) e 40 del [regio decreto 28 maggio 1931, n. 602](Disposizioni%20di%20attuazione%20del%20codice%20di%20procedura%20penale.%20031U0602.md), contenente le disposizioni di attuazione del detto codice.
  Gli ufficiali giudiziari possono richiedere all'autorita' comunale il certificato di insolvibilita' a mezzo del servizio postale.
  I verbali ed il certificato sopra, indicati devono essere depositati in cancelleria.
 
@@ -845,7 +845,7 @@ Per gli atti compiuti fuori della sede dell'ufficio spetta all'ufficiale giudizi
 ### Art. 120.
 
 Nel calcolo delle distanze si deve tener conto della piu' breve tra quelle che si possono percorrere per raggiungere il luogo ove l'atto deve essere eseguito.
- Per determinare le singole distanze l'ufficiale giudiziario deve attenersi agli stati compilati giusta le prescrizioni dell'art. 25, prima parte, del [regio decreto 3 maggio 1923, n. 1043](../Regi%20decreti/Che%20stabilisce%20le%20competenze%20dovute%20ai%20testimoni%20periti%20giurati%20e%20ufficiali%20giudiziari%20e%20le%20indennita%20spettanti%20ai%20magistrati%20e%20cancellieri%20per%20le%20trasferte.%20023U1043.md), e, qualora da tali stati le distanze, computabili ai fini dell'indennita' di trasferta, non risultino in tutto o in parte deve comprovarle col certificato dell'autorita' competente, a richiesta della parte.
+ Per determinare le singole distanze l'ufficiale giudiziario deve attenersi agli stati compilati giusta le prescrizioni dell'art. 25, prima parte, del [regio decreto 3 maggio 1923, n. 1043](Che%20stabilisce%20le%20competenze%20dovute%20ai%20testimoni%20periti%20giurati%20e%20ufficiali%20giudiziari%20e%20le%20indennita%20spettanti%20ai%20magistrati%20e%20cancellieri%20per%20le%20trasferte.%20023U1043.md), e, qualora da tali stati le distanze, computabili ai fini dell'indennita' di trasferta, non risultino in tutto o in parte deve comprovarle col certificato dell'autorita' competente, a richiesta della parte.
  Dopo il primo chilometro ogni altro successivo si considera compiuto quando l'ufficiale giudiziario abbia percorso piu' di duecento metri.
 
 ### Art. 121.
@@ -872,7 +872,7 @@ La percentuale sui crediti ricuperati dall'erario sui campioni civili e penali, 
 
 ### Art. 125.
 
-La percentuale sui crediti ricuperati sui campioni amministrativi e' liquidata a favore dell'ufficiale giudiziario, per quanto riguarda, i procedimenti davanti alle giurisdizioni amministrative, sui recuperi delle spese che sono prenotate a debito secondo le norme del regolamento approvato con [regio decreto 17 agosto 1907, n. 640](../Regi%20decreti/Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0640.md), e, per quanto riguarda i giudizi innanzi alla Corte dei conti, sui ricuperi delle spese da ripetersi ai sensi del [regio decreto 5 settembre 1909, n. 776](../Regi%20decreti/Che%20approva%20le%20norme%20per%20la%20esecuzione%20delle%20decisioni%20di%20condanna%20pronunziate%20dalla%20Corte%20dei%20conti%20in%20giudizi%20di%20responsabilita%20a%20carico%20di%20funzionari%20pubblici%20o%20di%20agenti%20contabili%20del_bddf1ca35046.md), e che risultino prenotate negli appositi campioni esistenti presso gli uffici del registro.
+La percentuale sui crediti ricuperati sui campioni amministrativi e' liquidata a favore dell'ufficiale giudiziario, per quanto riguarda, i procedimenti davanti alle giurisdizioni amministrative, sui recuperi delle spese che sono prenotate a debito secondo le norme del regolamento approvato con [regio decreto 17 agosto 1907, n. 640](Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0640.md), e, per quanto riguarda i giudizi innanzi alla Corte dei conti, sui ricuperi delle spese da ripetersi ai sensi del [regio decreto 5 settembre 1909, n. 776](Che%20approva%20le%20norme%20per%20la%20esecuzione%20delle%20decisioni%20di%20condanna%20pronunziate%20dalla%20Corte%20dei%20conti%20in%20giudizi%20di%20responsabilita%20a%20carico%20di%20funzionari%20pubblici%20o%20di%20agenti%20contabili%20del_bddf1ca35046.md), e che risultino prenotate negli appositi campioni esistenti presso gli uffici del registro.
 
 ### Art. 126.
 
@@ -1031,7 +1031,7 @@ Il numero complessivo degli aiutanti ufficiali giudiziari e' di 1050 e la loro r
 ### Art. 149.
 
 Sono estese agli aiutanti ufficiali giudiziari le disposizioni di cui all'art. 2 riguardanti la equiparazione agli impiegati civili dello Stato, quelle di cui all'art. 85 riguardanti la tabella organica e quella dei posti di ufficio, quelle di cui agli articoli da 20 a 24 riguardanti la cauzione, che viene ridotta a lire 15.000 (quindicimila), e l'assunzione in servizio, e quelle contenute negli articoli 25, 26 e 27 riguardanti le esenzioni e le incompatibilita'.
- Gli aiutanti ufficiali giudiziari devono iscriversi alla Cassa di previdenza per le pensioni degli ufficiali giudiziari, amministrata dalla Direzione generale di previdenza, secondo le norme e per gli effetti previsti per la stessa Cassa dal [regio decreto 12 luglio 1934, numero 2312](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20034U2312.md), e successive modificazioni.
+ Gli aiutanti ufficiali giudiziari devono iscriversi alla Cassa di previdenza per le pensioni degli ufficiali giudiziari, amministrata dalla Direzione generale di previdenza, secondo le norme e per gli effetti previsti per la stessa Cassa dal [regio decreto 12 luglio 1934, numero 2312](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20034U2312.md), e successive modificazioni.
 
 ### Art. 150.
 
@@ -1052,7 +1052,7 @@ Sono estese agli aiutanti ufficiali giudiziari, in quanto applicabili, le norme 
 
 Dalla data di entrata in vigore della presente legge vengono iscritti alla Cassa di previdenza per le pensioni degli ufficiali giudiziari, amministrata dalla Direzione generale degli Istituti di previdenza, gli aiutanti ufficiali giudiziari, nei confronti dei quali sono estese le norme in vigore riguardanti la predetta Cassa di previdenza.
  Con l'iscrizione alla Cassa di previdenza, cessa, a partire dalla stessa, data di entrata in vigore della presente legge, l'obbligo dell'iscrizione degli aiutanti ufficiali giudiziari all'Istituto nazionale della previdenza sociale.
- Agli aiutanti ufficiali giudiziari che, a partire dalla predetta data di iscrizione alla Cassa di previdenza in poi, cessano dal servizio per limiti di eta', senza aver conseguito il diritto a pensione, compete, salvo la facolta' di riscatto, l'indennita' una volta tanto anche quando il periodo di iscrizione risulti inferiore ai dieci anni previsti dall'[articolo 25 del regio decreto 12 luglio 1934, n. 2312](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20034U2312.md), che approva l'ordinamento della Cassa di previdenza per le pensioni degli ufficiali giudiziari.
+ Agli aiutanti ufficiali giudiziari che, a partire dalla predetta data di iscrizione alla Cassa di previdenza in poi, cessano dal servizio per limiti di eta', senza aver conseguito il diritto a pensione, compete, salvo la facolta' di riscatto, l'indennita' una volta tanto anche quando il periodo di iscrizione risulti inferiore ai dieci anni previsti dall'[articolo 25 del regio decreto 12 luglio 1934, n. 2312](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20034U2312.md), che approva l'ordinamento della Cassa di previdenza per le pensioni degli ufficiali giudiziari.
  L'indennita' di cui al comma precedente si determina, secondo le norme in vigore della predetta Cassa di previdenza, in base all'eta', alla data di cessazione dal servizio ed agli anni di effettiva iscrizione alla Cassa stessa.
 
 ### Art. 154.
@@ -1109,7 +1109,7 @@ PARTE QUARTA
 
 I commessi autorizzati, che trovansi in servizio alla data di pubblicazione della presente legge nella Gazzetta Ufficiale, sono confermati con decreto del Ministro per la grazia e giustizia, su proposta del primo presidente della Corte di cassazione o della Corte di appello competente, ed assumono, previo giuramento a norma del precedente art. 24, la qualifica di aiutante ufficiale giudiziario.
  Dalla suddetta data di pubblicazione essi vengono iscritti alla Cassa di previdenza, di cui all'art. 149, comma secondo, e cessa l'obbligo di iscrizione all'istituto nazionale della previdenza sociale, nonche' ogni rapporto di impiego privato fra i medesimi e gli ufficiali giudiziari da cui dipendono, i quali sono tenuti a liquidare le indennita' loro spettanti in base allo stipendio mensile di lire 850 (ottocentocinquanta). Ai commessi autorizzati, che cessano dal servizio prima dell'entrata in vigore della presente legge spetta altresi' una volta tanto e a carico dell'Erario, una indennita' pari a tante mensilita' del compenso stabilito dall'[articolo 6 del decreto legislativo del Capo provvisorio dello Stato 5 maggio 1947, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-05;380#art_6), e successive modificazioni, per quanti sono gli anni di servizio nei quali hanno goduto di detto compenso.
- Agli aiutanti ufficiali giudiziari che, a partire dalla stessa data di iscrizione alla Cassa di previdenza in poi, cessano dal servizio senza avere conseguito il diritto a pensione, compete, salvo la facolta' di riscatto, l'indennita' una volta tanto, anche quando il periodo di iscrizione risulti inferiore ai dieci anni previsti dall'[art. 25 del regio decreto 12 luglio 1934, n. 2312](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20034U2312.md), che approva l'ordinamento della Cassa di previdenza per gli ufficiali giudiziari.
+ Agli aiutanti ufficiali giudiziari che, a partire dalla stessa data di iscrizione alla Cassa di previdenza in poi, cessano dal servizio senza avere conseguito il diritto a pensione, compete, salvo la facolta' di riscatto, l'indennita' una volta tanto, anche quando il periodo di iscrizione risulti inferiore ai dieci anni previsti dall'[art. 25 del regio decreto 12 luglio 1934, n. 2312](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20034U2312.md), che approva l'ordinamento della Cassa di previdenza per gli ufficiali giudiziari.
  L'indennita' di cui al comma precedente si determina secondo le norme in vigore per la predetta Cassa di previdenza, in base all'eta', alla data di cessazione dal servizio ed agli anni di effettiva iscrizione alla Cassa stessa.
 
 ### Art. 162.
@@ -1124,7 +1124,7 @@ Nel termine di due mesi dalla data di entrata in vigore del presente ordinamento
 
 ### Art. 164.
 
-Gli ufficiali giudiziari che sono stati nominati negli uffici giudiziari delle ex Colonie italiane a seguito di concorso ai sensi degli articoli 90 dell'ordinamento giudiziario della Libia, approvato con [regio decreto 27 giugno 1935, n. 2167](../Regi%20decreti/Approvazione%20dellordinamento%20giudiziario%20per%20la%20Libia.%20035U2167.md), e 47 e seguenti delle relative norme di esecuzione, approvate con [regio decreto 27 giugno 1938, n. 2168, ed art. 72](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-27;2168#art_72) dell'ordinamento giudiziario dell'Eritrea, approvato con [regio decreto 20 giugno 1935, n. 1649](../Regi%20decreti/Ordinamento%20giudiziario%20per%20la%20Colonia%20Eritrea.%20035U1649.md), andranno a far parte del ruolo degli ufficiali giudiziari della Repubblica italiana in soprannumero, salvo riassorbimento nei primi posti che si renderanno vacanti.
+Gli ufficiali giudiziari che sono stati nominati negli uffici giudiziari delle ex Colonie italiane a seguito di concorso ai sensi degli articoli 90 dell'ordinamento giudiziario della Libia, approvato con [regio decreto 27 giugno 1935, n. 2167](Approvazione%20dellordinamento%20giudiziario%20per%20la%20Libia.%20035U2167.md), e 47 e seguenti delle relative norme di esecuzione, approvate con [regio decreto 27 giugno 1938, n. 2168, ed art. 72](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-27;2168#art_72) dell'ordinamento giudiziario dell'Eritrea, approvato con [regio decreto 20 giugno 1935, n. 1649](Ordinamento%20giudiziario%20per%20la%20Colonia%20Eritrea.%20035U1649.md), andranno a far parte del ruolo degli ufficiali giudiziari della Repubblica italiana in soprannumero, salvo riassorbimento nei primi posti che si renderanno vacanti.
 
 ### Art. 165.
 
@@ -1137,7 +1137,7 @@ Ogni disposizione del presente ordinamento, la quale fa espresso richiamo al sol
 
 ### Art. 167.
 
-Sono abrogate le disposizioni contenute nella parte prima del testo organico 28 dicembre 1924, n. 2271, riguardante l'ordinamento degli ufficiali giudiziari, nonche' quelle contenute nella [legge 22 dicembre 1932, n. 1675](Modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari.%20032U1675.md), nel [regio decreto 8 giugno 1933, n. 621](../Regi%20decreti/Norme%20di%20coordinamento%20e%20di%20attuazione%20della%20legge%2022%20dicembre%201932%20n.%201675%20che%20modifica%20lordinamento%20degli%20ufficiali%20giudiziari.%20033U0621.md), nel [regio decreto-legge 19 aprile 1934, n. 698](Modifiche%20allordinamento%20degli%20ufficiali%20giudiziari%20e%20degli%20uscieri%20giudiziari.%20034U0698.md), e nella [legge 3 giugno 1949, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-06-03;331).
+Sono abrogate le disposizioni contenute nella parte prima del testo organico 28 dicembre 1924, n. 2271, riguardante l'ordinamento degli ufficiali giudiziari, nonche' quelle contenute nella [legge 22 dicembre 1932, n. 1675](Modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari.%20032U1675.md), nel [regio decreto 8 giugno 1933, n. 621](Norme%20di%20coordinamento%20e%20di%20attuazione%20della%20legge%2022%20dicembre%201932%20n.%201675%20che%20modifica%20lordinamento%20degli%20ufficiali%20giudiziari.%20033U0621.md), nel [regio decreto-legge 19 aprile 1934, n. 698](Modifiche%20allordinamento%20degli%20ufficiali%20giudiziari%20e%20degli%20uscieri%20giudiziari.%20034U0698.md), e nella [legge 3 giugno 1949, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-06-03;331).
  E' altresi' abrogata ogni altra disposizione contraria o non compatibile con la presente legge.
 
 ### Art. 168.

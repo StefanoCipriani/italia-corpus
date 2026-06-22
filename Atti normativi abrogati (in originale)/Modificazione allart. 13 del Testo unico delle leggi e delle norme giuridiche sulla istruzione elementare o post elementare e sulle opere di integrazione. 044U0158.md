@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il Testo unico delle leggi sull'istruzione elementare, post-elementare, e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928 n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
+Visto il Testo unico delle leggi sull'istruzione elementare, post-elementare, e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928 n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Vista la [legge 31 maggio 1943, n. 570](Collocamento%20dei%20direttori%20didattici%20nel%20grado%209%20gruppo%20B%20sistemazione%20dei%20maestri%20elementari%20incaricati%20della%20direzione%20didattica%20delle%20scuole%20rurali%20e%20passaggio%20alla%20diretta%20amministraz_932ef8d3b66a.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-All'art. 13 del Testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post elementare, e sulle opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e' sostituito il seguente: 
+All'art. 13 del Testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post elementare, e sulle opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e' sostituito il seguente: 
  
  « Quando una circoscrizione ispettiva sia temporaneamente priva del titolare, il Regio provveditore agli studi ne affida la supplenza a quello dei direttori didattici della provincia che ritenga piu' idoneo. 
  

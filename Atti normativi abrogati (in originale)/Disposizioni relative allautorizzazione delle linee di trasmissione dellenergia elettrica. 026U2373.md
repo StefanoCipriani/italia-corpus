@@ -20,7 +20,7 @@ Visto il [decreto Luogotenenziale 22 febbraio 1917, n. 386](https://www.normatti
 
 Visti l' [art. 25 del R. decreto 9 ottobre 1919, n. 2161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-09;2161#art_25), secondo cui il decreto di concessione delle grandi derivazioni di acque pubbliche ha efficacia di pubblica utilita' anche per le linee elettriche di trasmissione dell'energia prodotta, e l'art. 39 del relativo [regolamento 14 agosto 1920, n. 1285](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1920-08-14;1285), che consente la dichiarazione di pubblica utilita', con decreto Reale su proposta del Ministro per i lavori pubblici, per la costruzione delle linee di trasmissione dell'energia proveniente da impianti idroelettrici esistenti e quella delle linee per il collegamento di detti impianti;
 
-Visto il [R. decreto 17 dicembre 1922, n. 1723](../Regi%20decreti/Che%20reca%20unaggiunta%20allart.%208%20della%20legge%207%20giugno%201894%20n.%20232%20sulla%20trasmissione%20a%20distanza%20della%20energia%20per%20mezzo%20delle%20correnti%20elettriche.%20022U1723.md), che ha apportato un'aggiunta all'[art. 8 della legge 7 giugno 1894, n. 232](Sulla%20trasmissione%20a%20distanza%20delle%20correnti%20elettriche%20destinate%20al%20trasporto%20ed%20alla%20distribuzione%20delle%20energie%20per%20uso%20industriale.%20094U0232.md);
+Visto il [R. decreto 17 dicembre 1922, n. 1723](Che%20reca%20unaggiunta%20allart.%208%20della%20legge%207%20giugno%201894%20n.%20232%20sulla%20trasmissione%20a%20distanza%20della%20energia%20per%20mezzo%20delle%20correnti%20elettriche.%20022U1723.md), che ha apportato un'aggiunta all'[art. 8 della legge 7 giugno 1894, n. 232](Sulla%20trasmissione%20a%20distanza%20delle%20correnti%20elettriche%20destinate%20al%20trasporto%20ed%20alla%20distribuzione%20delle%20energie%20per%20uso%20industriale.%20094U0232.md);
 
 Considerata la necessita' assoluta ed urgente d'integrare le norme suddette per evitare intralci ed abusi nell'impianto di linee elettriche;
 
@@ -36,13 +36,13 @@ Le disposizioni del [decreto Luogotenenziale 22 febbraio 1917, n. 386](https://w
 
 ## Art. 2.
 
-Chi chiede l'autorizzazione alla costruzione e al collegamento di linee di trasmissione di energia elettrica comunque prodotta, nonche' ai successivi ampliamenti e mutamenti, deve ottenere preventivamente l'approvazione del Ministero delle comunicazioni ai sensi dell'[art. 1 del R. decreto 17 dicembre 1922, n. 1723](../Regi%20decreti/Che%20reca%20unaggiunta%20allart.%208%20della%20legge%207%20giugno%201894%20n.%20232%20sulla%20trasmissione%20a%20distanza%20della%20energia%20per%20mezzo%20delle%20correnti%20elettriche.%20022U1723.md). 
+Chi chiede l'autorizzazione alla costruzione e al collegamento di linee di trasmissione di energia elettrica comunque prodotta, nonche' ai successivi ampliamenti e mutamenti, deve ottenere preventivamente l'approvazione del Ministero delle comunicazioni ai sensi dell'[art. 1 del R. decreto 17 dicembre 1922, n. 1723](Che%20reca%20unaggiunta%20allart.%208%20della%20legge%207%20giugno%201894%20n.%20232%20sulla%20trasmissione%20a%20distanza%20della%20energia%20per%20mezzo%20delle%20correnti%20elettriche.%20022U1723.md). 
  
  Sulla domanda di autorizzazione provvede definitivamente il Ministro per i lavori pubblici, sentito il Consiglio superiore dei lavori pubblici, dopo che sia intervenuta l'approvazione del Ministero delle comunicazioni.
 
 ## Art. 3.
 
-Nei casi di urgenza gli uffici del Genio civile possono consentire in via provvisoria l'inizio delle costruzioni delle linee elettriche o dei successivi ampliamenti o mutamenti, riferendone immediatamente al Ministro per i lavori sempreche' sia intervenuta l'approvazione del Ministero delle comunicazioni ai sensi dell'[art. 1 del R. decreto 17 dicembre 1922, n. 1723](../Regi%20decreti/Che%20reca%20unaggiunta%20allart.%208%20della%20legge%207%20giugno%201894%20n.%20232%20sulla%20trasmissione%20a%20distanza%20della%20energia%20per%20mezzo%20delle%20correnti%20elettriche.%20022U1723.md).
+Nei casi di urgenza gli uffici del Genio civile possono consentire in via provvisoria l'inizio delle costruzioni delle linee elettriche o dei successivi ampliamenti o mutamenti, riferendone immediatamente al Ministro per i lavori sempreche' sia intervenuta l'approvazione del Ministero delle comunicazioni ai sensi dell'[art. 1 del R. decreto 17 dicembre 1922, n. 1723](Che%20reca%20unaggiunta%20allart.%208%20della%20legge%207%20giugno%201894%20n.%20232%20sulla%20trasmissione%20a%20distanza%20della%20energia%20per%20mezzo%20delle%20correnti%20elettriche.%20022U1723.md).
 
 ## Art. 4.
 
@@ -54,7 +54,7 @@ L'autorita' militare dev'essere sempre interpellata a termini della [legge 7 giu
 
 ## Art. 6.
 
-Le norme regolamentari di cui all'[art. 2 del R. decreto 17 dicembre 1922, n. 1723](../Regi%20decreti/Che%20reca%20unaggiunta%20allart.%208%20della%20legge%207%20giugno%201894%20n.%20232%20sulla%20trasmissione%20a%20distanza%20della%20energia%20per%20mezzo%20delle%20correnti%20elettriche.%20022U1723.md), saranno emanate su proposta del Ministro per le comunicazioni, di concerto con quello per i lavori pubblici, sentito il Consiglio superiore dei lavori pubblici.
+Le norme regolamentari di cui all'[art. 2 del R. decreto 17 dicembre 1922, n. 1723](Che%20reca%20unaggiunta%20allart.%208%20della%20legge%207%20giugno%201894%20n.%20232%20sulla%20trasmissione%20a%20distanza%20della%20energia%20per%20mezzo%20delle%20correnti%20elettriche.%20022U1723.md), saranno emanate su proposta del Ministro per le comunicazioni, di concerto con quello per i lavori pubblici, sentito il Consiglio superiore dei lavori pubblici.
 
 ## Art. 7.
 
@@ -62,7 +62,7 @@ E' data facolta' al Governo di istituire nel Consiglio superiore dei lavori pubb
 
 ## Art. 8.
 
-Sono applicabili alle materie contenute nella [legge 7 giugno 1894, n. 232](Sulla%20trasmissione%20a%20distanza%20delle%20correnti%20elettriche%20destinate%20al%20trasporto%20ed%20alla%20distribuzione%20delle%20energie%20per%20uso%20industriale.%20094U0232.md), e relativo [regolamento, nel decreto 22 febbraio 1917, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1917-02-22;386), nel [R. decreto 17 dicembre 1922, numero 1723](../Regi%20decreti/Che%20reca%20unaggiunta%20allart.%208%20della%20legge%207%20giugno%201894%20n.%20232%20sulla%20trasmissione%20a%20distanza%20della%20energia%20per%20mezzo%20delle%20correnti%20elettriche.%20022U1723.md), e nel presente decreto le disposizioni degli [articoli 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_374), [376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_376), [377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_377) e [378 della legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_378), sulle opere pubbliche. 
+Sono applicabili alle materie contenute nella [legge 7 giugno 1894, n. 232](Sulla%20trasmissione%20a%20distanza%20delle%20correnti%20elettriche%20destinate%20al%20trasporto%20ed%20alla%20distribuzione%20delle%20energie%20per%20uso%20industriale.%20094U0232.md), e relativo [regolamento, nel decreto 22 febbraio 1917, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1917-02-22;386), nel [R. decreto 17 dicembre 1922, numero 1723](Che%20reca%20unaggiunta%20allart.%208%20della%20legge%207%20giugno%201894%20n.%20232%20sulla%20trasmissione%20a%20distanza%20della%20energia%20per%20mezzo%20delle%20correnti%20elettriche.%20022U1723.md), e nel presente decreto le disposizioni degli [articoli 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_374), [376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_376), [377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_377) e [378 della legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_378), sulle opere pubbliche. 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente, e' autorizzato alla presentazione del relativo disegno di legge. 
  

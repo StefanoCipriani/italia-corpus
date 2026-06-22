@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-I cittadini degli altri Stati membri della Comunita' economica europea, in possesso dei requisiti richiesti ai cittadini italiani, possono ottenere le autorizzazioni, di cui agli [articoli 123](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [134 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), per quanto concerne lo svolgimento delle attivita' di interprete e di raccolta di informazioni commerciali per conto di privati.
+I cittadini degli altri Stati membri della Comunita' economica europea, in possesso dei requisiti richiesti ai cittadini italiani, possono ottenere le autorizzazioni, di cui agli [articoli 123](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [134 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), per quanto concerne lo svolgimento delle attivita' di interprete e di raccolta di informazioni commerciali per conto di privati.
 
 ## Art. 2.
 

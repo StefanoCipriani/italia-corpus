@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 24 agosto 1933, n. 2178](../Regi%20decreti/Trasformazione%20del%20Regio%20istituto%20industriale%20Saverio%20Altamura%20di%20Foggia%20in%20Regio%20istituto%20tecnico%20industriale.%20033U2178.md), che approva lo statuto e la tabella organica dell'Istituto tecnico industriale governativo di Foggia;
+Visto il [regio decreto 24 agosto 1933, n. 2178](Trasformazione%20del%20Regio%20istituto%20industriale%20Saverio%20Altamura%20di%20Foggia%20in%20Regio%20istituto%20tecnico%20industriale.%20033U2178.md), che approva lo statuto e la tabella organica dell'Istituto tecnico industriale governativo di Foggia;
 
-Visto il [regio decreto 24 agosto 1933, n. 2186](../Regi%20decreti/Trasformazione%20del%20Regio%20istituto%20industriale%20A.%20Volta%20di%20Napoli%20in%20Regio%20istituto%20tecnico%20industriale.%20033U2186.md), che approva lo statuto e la tabella organica dell'Istituto tecnico industriale governativo "A. Volta" di Napoli;
+Visto il [regio decreto 24 agosto 1933, n. 2186](Trasformazione%20del%20Regio%20istituto%20industriale%20A.%20Volta%20di%20Napoli%20in%20Regio%20istituto%20tecnico%20industriale.%20033U2186.md), che approva lo statuto e la tabella organica dell'Istituto tecnico industriale governativo "A. Volta" di Napoli;
 
 Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), e successive modificazioni;
 

@@ -36,7 +36,7 @@ Alla [legge 18 luglio 1920, n. 999](Che%20istituisce%20una%20Commissione%20parla
  
  All'articolo 7 della stessa legge e' aggiunto il capoverso seguente: 
  
- «Le persone interrogate dalla Commissione possono essere sentite con giuramento. Sono ad esse applicabili le disposizioni del capo IV, titolo IV, libro II del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)». 
+ «Le persone interrogate dalla Commissione possono essere sentite con giuramento. Sono ad esse applicabili le disposizioni del capo IV, titolo IV, libro II del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)». 
  
  Alla stessa legge e' aggiunto il seguente articolo: 
  

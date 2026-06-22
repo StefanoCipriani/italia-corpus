@@ -36,7 +36,7 @@ Sulla proposta del ministro segretario di Stato per le colonie;
 
 Abbiamo decretato e decretiamo:
 
-Agli articoli 84, 86 e 158 dell'ordinamento fondiario della Colonia eritrea, approvato col [R. decreto 31 gennaio 1909, n. 378](../Regi%20decreti/Che%20approva%20lordinamento%20fondiario%20per%20la%20Colonia%20Eritrea.%20009U0378.md), sono sostituiti i seguenti:
+Agli articoli 84, 86 e 158 dell'ordinamento fondiario della Colonia eritrea, approvato col [R. decreto 31 gennaio 1909, n. 378](Che%20approva%20lordinamento%20fondiario%20per%20la%20Colonia%20Eritrea.%20009U0378.md), sono sostituiti i seguenti:
 
 «Art. 84. - Potranno essere rilasciate concessioni edilizie tanto a cittadini e stranieri, quanto ad indigeni.
 
@@ -92,7 +92,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Agli articoli 84, 86 e 158 dell'ordinamento fondiario della Colonia eritrea, approvato col [R. decreto 31 gennaio 1909, n. 378](../Regi%20decreti/Che%20approva%20lordinamento%20fondiario%20per%20la%20Colonia%20Eritrea.%20009U0378.md), sono sostituiti i seguenti: 
+ Agli articoli 84, 86 e 158 dell'ordinamento fondiario della Colonia eritrea, approvato col [R. decreto 31 gennaio 1909, n. 378](Che%20approva%20lordinamento%20fondiario%20per%20la%20Colonia%20Eritrea.%20009U0378.md), sono sostituiti i seguenti: 
  
  «Art. 84. - Potranno essere rilasciate concessioni edilizie tanto a cittadini e stranieri, quanto ad indigeni. 
  

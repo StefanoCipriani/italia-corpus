@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), che approva il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile;
+Visto il [regio decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), che approva il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile;
 
 Visto il [regio decreto-legge 20 settembre 1926, n. 1643](Abolizione%20di%20talune%20tasse%20sugli%20affari%20tra%20cui%20alcune%20speciali%20istituite%20durante%20il%20periodo%20bellico%20e%20post-bellico%20nonche%20sgravi%20e%20riduzioni%20in%20materia%20di%20imposte%20dirette%20e%20nuove%20norme%20p_7c52aec11706.md), riguardante sgravi e riduzioni in materia di imposte dirette;
 
 Visto il [regio decreto-legge 18 settembre 1934, n. 1465](Disposizioni%20in%20materia%20di%20applicazione%20dellimposta%20di%20ricchezza%20mobile%20sugli%20interessi%20dipendenti%20dalle%20obbligazioni%20emesse%20dalle%20Societa%20per%20azioni.%20034U1465.md), relativo all'applicazione della imposta di ricchezza mobile sugli interessi dipendenti dalle obbligazioni emesse dalle societa' per azioni;
 
-Visto il [regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che approva il testo della legge del registro;
+Visto il [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che approva il testo della legge del registro;
 
 Vista la [legge 25 giugno 1943, n. 540](Nuovo%20testo%20della%20legge%20sulle%20imposte%20ipotecarie.%20043U0540.md), sulle imposte ipotecarie;
 

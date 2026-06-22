@@ -18,7 +18,7 @@ I capitoli a favore dei quali possono effettuarsi prelevamenti dal fondo a dispo
 
 ## Art. 3.
 
-E' sospeso il contributo di L. 500.000 previsto dal [R. decreto 4 settembre 1927, n. 2119](../Regi%20decreti/Contributo%20per%20le%20spese%20di%20funzionamento%20della%20Scuola%20superiore%20di%20malariologia%20in%20Roma.%20027U2119.md), a favore della Scuola superiore di malariologia in Roma. 
+E' sospeso il contributo di L. 500.000 previsto dal [R. decreto 4 settembre 1927, n. 2119](Contributo%20per%20le%20spese%20di%20funzionamento%20della%20Scuola%20superiore%20di%20malariologia%20in%20Roma.%20027U2119.md), a favore della Scuola superiore di malariologia in Roma. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

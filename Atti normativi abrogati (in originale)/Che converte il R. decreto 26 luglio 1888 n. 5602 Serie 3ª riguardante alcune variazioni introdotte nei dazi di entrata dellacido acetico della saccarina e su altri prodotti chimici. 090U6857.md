@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [Regio decreto 26 luglio 1888, n. 5602](../Regi%20decreti/Sono%20introdotte%20alcune%20variazioni%20nella%20tariffa%20generale%20doganale.%20088U5602.md) (serie 3ª), col quale furono introdotte alcune variazioni nella tariffa generale per le dogane rispetto ai dazi di entrata sull'acido acetico, sulla saccarina e su altri prodotti chimici non nominati.
+E' convertito in legge il [Regio decreto 26 luglio 1888, n. 5602](Sono%20introdotte%20alcune%20variazioni%20nella%20tariffa%20generale%20doganale.%20088U5602.md) (serie 3ª), col quale furono introdotte alcune variazioni nella tariffa generale per le dogane rispetto ai dazi di entrata sull'acido acetico, sulla saccarina e su altri prodotti chimici non nominati.
 
 ## Art. 2.
 

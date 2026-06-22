@@ -85,7 +85,7 @@ Alla data in cui entrera' in vigore la presente legge i sottufficiali che rivest
  
  Gli attuali macchinisti di 3ª classe, se abbiano le condizioni di permanenza nel grado e di periodo d'imbarco stabilite dalla [legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md) (serie 4ª) per l'avanzamento all'attuale grado di macchinista di 2ª classe, saranno classificati secondi macchinisti di 1ª classe. 
  
- Gli altri macchinisti di 3ª classe saranno classificati secondi macchinisti di 2ª classe e nominati secondi macchinisti di 1ª classe quando riuniranno le condizioni di avanzamento anzidette. Uguale trattamento sara' usato agli allievi macchinisti stati ammessi alla R. scuola macchinisti in base all'ordinamento di quell'Istituto approvato con [R. decreto del 13 marzo 1898, n. 138](../Regi%20decreti/Che%20porta%20modificazioni%20allordinamento%20della%20R.%20scuola%20degli%20allievi%20macchinisti.%20098U0138.md). 
+ Gli altri macchinisti di 3ª classe saranno classificati secondi macchinisti di 2ª classe e nominati secondi macchinisti di 1ª classe quando riuniranno le condizioni di avanzamento anzidette. Uguale trattamento sara' usato agli allievi macchinisti stati ammessi alla R. scuola macchinisti in base all'ordinamento di quell'Istituto approvato con [R. decreto del 13 marzo 1898, n. 138](Che%20porta%20modificazioni%20allordinamento%20della%20R.%20scuola%20degli%20allievi%20macchinisti.%20098U0138.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

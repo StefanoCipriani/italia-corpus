@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli articoli 31, 40 e 42 del testo unico delle leggi sul servizio postale approvato con [R. decreto 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), modificati con la [legge 2 luglio 1912, n. 748](Che%20apporta%20riforme%20nel%20servizio%20postale%20012U0748.md), e con il [R. decreto-legge 11 marzo 1920, n. 316](Che%20apporta%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche.%20020U0316.md);
+Visti gli articoli 31, 40 e 42 del testo unico delle leggi sul servizio postale approvato con [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), modificati con la [legge 2 luglio 1912, n. 748](Che%20apporta%20riforme%20nel%20servizio%20postale%20012U0748.md), e con il [R. decreto-legge 11 marzo 1920, n. 316](Che%20apporta%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche.%20020U0316.md);
 
-Visto il [R. decreto n. 2971 del 2 dicembre 1923](../Regi%20decreti/Autorizzazione%20ad%20accordare%20agevolazioni%20postali%20ad%20Enti%20concessionari%20di%20lotterie%20o%20tombole%20per%20la%20spedizione%20dei%20biglietti%20circolari%20ecc.%20023U2971.md);
+Visto il [R. decreto n. 2971 del 2 dicembre 1923](Autorizzazione%20ad%20accordare%20agevolazioni%20postali%20ad%20Enti%20concessionari%20di%20lotterie%20o%20tombole%20per%20la%20spedizione%20dei%20biglietti%20circolari%20ecc.%20023U2971.md);
 
 Vista la [legge n. 1244 del 18 giugno 1925](Concessione%20della%20lotteria%20nazionale%20a%20favore%20dellUnione%20italiana%20dei%20ciechi%20in%20Firenze.%20025U1244.md) con la quale e' stata autorizzata, una lotteria nazionale a favore dell'Unione italiana dei ciechi;
 
@@ -36,7 +36,7 @@ L'Unione italiana dei ciechi e' autorizzata a spedire in conto corrente postale 
 
 ## Art. 2.
 
-Alla spedizione del carteggio di cui all'articolo precedente sono applicabili le disposizioni del [R. decreto n. 2971 del 2 dicembre 1923](../Regi%20decreti/Autorizzazione%20ad%20accordare%20agevolazioni%20postali%20ad%20Enti%20concessionari%20di%20lotterie%20o%20tombole%20per%20la%20spedizione%20dei%20biglietti%20circolari%20ecc.%20023U2971.md), salvo le maggiori agevolazioni concesse col presente decreto-legge.
+Alla spedizione del carteggio di cui all'articolo precedente sono applicabili le disposizioni del [R. decreto n. 2971 del 2 dicembre 1923](Autorizzazione%20ad%20accordare%20agevolazioni%20postali%20ad%20Enti%20concessionari%20di%20lotterie%20o%20tombole%20per%20la%20spedizione%20dei%20biglietti%20circolari%20ecc.%20023U2971.md), salvo le maggiori agevolazioni concesse col presente decreto-legge.
 
 ## Art. 3.
 

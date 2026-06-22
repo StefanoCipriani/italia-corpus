@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'indennita' militare speciale per gli ufficiali addetti ai reparti di correzione ed agli stabilimenti militari di pena, prevista dall'art. 30 del testo unico delle disposizioni concernenti gli stipendi ed assegni fissi dell'Esercito, approvato con [regio decreto 31 dicembre 1928, n. 3458](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), e' elevata a lire 7500 annue.
+L'indennita' militare speciale per gli ufficiali addetti ai reparti di correzione ed agli stabilimenti militari di pena, prevista dall'art. 30 del testo unico delle disposizioni concernenti gli stipendi ed assegni fissi dell'Esercito, approvato con [regio decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), e' elevata a lire 7500 annue.
 
 ## Art. 2.
 

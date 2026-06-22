@@ -20,7 +20,7 @@ RE D'ITALIA
 
 Vista la [legge 29 giugno 1902, n. 281 e 13 agosto 1922, n. 1146](Portante%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%2029%20giugno%201902%20n.%20281.%20022U1146.md), sulla riscossione delle imposte dirette;
 
-Visto il testo unico delle leggi sugli Istituti d'emissione approvato con [R. decreto 28 aprile 1910, numero 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md);
+Visto il testo unico delle leggi sugli Istituti d'emissione approvato con [R. decreto 28 aprile 1910, numero 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md);
 
 Sentito il Consiglio dei ministri;
 

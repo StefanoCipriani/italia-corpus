@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto 7 dicembre 1911, n. 1282](../Regi%20decreti/Che%20apporta%20aumenti%20alle%20unita%20delle%20armi%20combattenti%20ed%20alle%20tabelle%20organiche%20di%20formazione%20del%20R.%20esercito.%20011U1282.md), che apporta aumenti alle unita' delle armi combattenti ed alle tabelle organiche di formazione del R. esercito.
+E' convertito in legge il [R. decreto 7 dicembre 1911, n. 1282](Che%20apporta%20aumenti%20alle%20unita%20delle%20armi%20combattenti%20ed%20alle%20tabelle%20organiche%20di%20formazione%20del%20R.%20esercito.%20011U1282.md), che apporta aumenti alle unita' delle armi combattenti ed alle tabelle organiche di formazione del R. esercito.
 
 ## Art. 2.
 

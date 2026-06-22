@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 16 ottobre 1919, n. 1986](Che%20regola%20lo%20stato%2
 
 Visto il [R. decreto-legge 20 agosto 1923, n. 2207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-08-20;2207), contenente provvedimenti per la navigazione aerea;
 
-Visto il [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), che approva il testo unico sulle pensioni civili e militari e successive modificazioni;
+Visto il [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), che approva il testo unico sulle pensioni civili e militari e successive modificazioni;
 
 Udito il Consiglio dei Ministri;
 

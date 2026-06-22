@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [articoli 237](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [238 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, pubblicato con Reale decreto in data 28 novembre 1869;
+Visti gli [articoli 237](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [238 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, pubblicato con Reale decreto in data 28 novembre 1869;
 
 Considerando che i proiettili, o parti di proiettili, sparati dall'artiglieria nelle esercitazioni di tiro non cessano di appartenere legittimamente all'Amministrazione militare ed hanno forma abbastanza definita per potere esser sempre riconosciuti come oggetti estranei agli usi comuni ed appropriati invece ad uso militare;
 
@@ -32,7 +32,7 @@ I proprietari di terreni sui quali dopo le esercitazioni di tiro si trovassero p
 
 ## Art. 3.
 
-Gli scopritori, gli acquirenti, gli incettatori ed i detentori di proiettili, o di parte dei medesimi, che saranno, a seconda dei casi, incorsi o nelle pene stabilite dagli [articoli 237](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [238 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare sull'acquisto di cose destinate ad usi militari, ovvero in quelle comminate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune per i furti, le appropriazioni indebite, le ricettazioni di cose dello Stato ed il rinvenimento di cose smarrite, saranno denunziati alla competente autorita' giudiziaria per il procedimento penale. 
+Gli scopritori, gli acquirenti, gli incettatori ed i detentori di proiettili, o di parte dei medesimi, che saranno, a seconda dei casi, incorsi o nelle pene stabilite dagli [articoli 237](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [238 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare sull'acquisto di cose destinate ad usi militari, ovvero in quelle comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune per i furti, le appropriazioni indebite, le ricettazioni di cose dello Stato ed il rinvenimento di cose smarrite, saranno denunziati alla competente autorita' giudiziaria per il procedimento penale. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -20,7 +20,7 @@ La gestione temporanea dell'ente sara' affidata ad un commissario straordinario 
 
 Durante tale gestione la vigilanza sull'ente sara' esercitata direttamente dal Ministero dell'interno. 
  
- Al commissario sono deferite le attribuzioni spettanti al Consiglio generale ed al Comitato esecutivo a norma dello statuto e del regolamento, approvati rispettivamente con [Regi decreti 7 ottobre 1905, numeri 605](../Regi%20decreti/Che%20approva%20lannesso%20statuto%20dellAzienda%20per%20la%20costruzione%20e%20lesercizio%20di%20opere%20di%20derivazione%20di%20forza%20idraulica%20in%20Napoli.%20005U0605.md) e [606](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20dellAzienda%20per%20la%20costruzione%20e%20lesercizio%20di%20opere%20di%20derivazione%20di%20forza%20idraulica%20in%20Napoli.%20005U0606.md). 
+ Al commissario sono deferite le attribuzioni spettanti al Consiglio generale ed al Comitato esecutivo a norma dello statuto e del regolamento, approvati rispettivamente con [Regi decreti 7 ottobre 1905, numeri 605](Che%20approva%20lannesso%20statuto%20dellAzienda%20per%20la%20costruzione%20e%20lesercizio%20di%20opere%20di%20derivazione%20di%20forza%20idraulica%20in%20Napoli.%20005U0605.md) e [606](Che%20approva%20lannesso%20regolamento%20dellAzienda%20per%20la%20costruzione%20e%20lesercizio%20di%20opere%20di%20derivazione%20di%20forza%20idraulica%20in%20Napoli.%20005U0606.md). 
  
  Il commissario straordinario sara' nominato con decreto Reale su proposta del ministro dell'interno. 
  

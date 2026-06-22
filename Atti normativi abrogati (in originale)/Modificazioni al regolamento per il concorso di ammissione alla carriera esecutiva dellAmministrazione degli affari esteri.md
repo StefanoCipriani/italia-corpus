@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni;
+Visto il testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni;
 
 Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md);
 
@@ -20,7 +20,7 @@ Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/
 
 Visto il [decreto del Presidente della Repubblica 12 aprile 1972, n. 194](Regolamento%20per%20il%20concorso%20di%20ammissione%20alla%20carriera%20esecutiva%20dellAmministrazione%20degli%20affari%20esteri.md);
 
-Visto il [decreto del Presidente della Repubblica 24 febbraio 1975, n. 156](../Regolamenti%20governativi/Modificazione%20al%20regolamento%20per%20il%20concorso%20di%20ammissione%20alla%20carriera%20esecutiva%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2012%20aprile%201972%20n.%20194.md);
+Visto il [decreto del Presidente della Repubblica 24 febbraio 1975, n. 156](../DPR/Modificazione%20al%20regolamento%20per%20il%20concorso%20di%20ammissione%20alla%20carriera%20esecutiva%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2012%20aprile%201972%20n.%20194.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -70,7 +70,7 @@ L'[art. 7 del decreto del Presidente della Repubblica 12 aprile 1972, n. 194](Re
  Art. 7 - Graduatoria. - La graduatoria viene formata dalla commissione esaminatrice secondo l'ordine derivante dal punteggio complessivo conseguito da ciascun candidato.
  Qualora il candidato abbia concorso per piu' specializzazioni riportando l'idoneita' in relazione a piu' di una di esse, ai fini della attribuzione della specializzazione nonche' del punteggio complessivo si terra' conto dei soli punti conseguiti nelle prove relative alla specializzazione per la quale ha dichiarato di optare.
 La dichiarazione di opzione deve essere fatta a pena di decadenza entro sette giorni dal termine dei lavori della commissione, oppure, se successiva, dalla data di pubblicazione dei punteggi complessivi conseguiti dai candidati nell'albo della Direzione generale del personale del Ministero degli affari esteri. In mancanza, l'opzione si considera esercitata a favore della specializzazione in relazione alla quale il candidato abbia riportato la migliore utile collocazione in graduatoria.
- A parita' di punteggio vengono applicati l'[art. 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e le altre vigenti disposizioni in materia di preferenze.
+ A parita' di punteggio vengono applicati l'[art. 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e le altre vigenti disposizioni in materia di preferenze.
  Il Ministro per gli affari esteri, riconosciuta la regolarita' del procedimento del concorso, approva con proprio decreto, sotto condizione dell'accertamento dei requisiti per l'ammissione in carriera, la graduatoria di merito dei concorrenti risultati idonei nelle prove di esame.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale nelle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

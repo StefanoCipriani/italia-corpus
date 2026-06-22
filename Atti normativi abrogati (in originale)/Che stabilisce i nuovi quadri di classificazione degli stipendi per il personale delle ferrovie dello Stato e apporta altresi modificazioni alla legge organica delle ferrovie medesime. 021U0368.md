@@ -61,7 +61,7 @@ Sara' provveduto con decreto Reale, su proposta del ministro dei lavori pubblici
 
 ## Art. 8.
 
-Ai sottoindicati articoli della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificati col [R. decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), sono apportate le seguenti modificazioni: 
+Ai sottoindicati articoli della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificati col [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), sono apportate le seguenti modificazioni: 
  
  Ai paragrafi 4°, 5°, 6°, 8°, dell'art. 6 sono sostituiti i seguenti: Paragrafo 4°) «approva i progetti per lavori sulle linee e dipendenze e le provviste d'importo superiore a L. 200.000». 
  

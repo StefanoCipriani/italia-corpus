@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 29 novembre 1914, n. 1340](../Regi%20decreti/Col%20quale%20vengono%20approvati%20speciali%20soprassoldi%20a%20militari%20del%20corpo%20reale%20equipaggi%20richiamati%20in%20servizio.%20014U1340.md); 
+ Visto il [R. decreto 29 novembre 1914, n. 1340](Col%20quale%20vengono%20approvati%20speciali%20soprassoldi%20a%20militari%20del%20corpo%20reale%20equipaggi%20richiamati%20in%20servizio.%20014U1340.md); 
  
  Udito il Consiglio superiore di marina; 
  
@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- A decorrere dal 1° gennaio 1917 la tabella allegata al [R. decreto 29 novembre 1914, n. 1340](../Regi%20decreti/Col%20quale%20vengono%20approvati%20speciali%20soprassoldi%20a%20militari%20del%20corpo%20reale%20equipaggi%20richiamati%20in%20servizio.%20014U1340.md), e' sostituita dalla seguente:
+ A decorrere dal 1° gennaio 1917 la tabella allegata al [R. decreto 29 novembre 1914, n. 1340](Col%20quale%20vengono%20approvati%20speciali%20soprassoldi%20a%20militari%20del%20corpo%20reale%20equipaggi%20richiamati%20in%20servizio.%20014U1340.md), e' sostituita dalla seguente:
 
 Capi di 1 e 2 classe
                                 Secondi capi

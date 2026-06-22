@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli aventi diritto a prestazioni previdenziali o assicurative in dipendenza della morte o della scomparizione in mare di componenti l'equipaggio o di-passeggeri di navi mercantili, qualora per cause inerenti allo stato di guerra non possano ottenere dai competenti Uffici dello stato civile gli estratti degli atti di morte o di scomparizione in mare redatti a norma degli articoli 206 a 209 del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), potranno esibire, ai soli fini del conseguimento delle prestazioni previdenziali o assicurative, un certificato rilasciato dal Ministero della marina attestante l'avvenuta morte o scomparizione. 
+Gli aventi diritto a prestazioni previdenziali o assicurative in dipendenza della morte o della scomparizione in mare di componenti l'equipaggio o di-passeggeri di navi mercantili, qualora per cause inerenti allo stato di guerra non possano ottenere dai competenti Uffici dello stato civile gli estratti degli atti di morte o di scomparizione in mare redatti a norma degli articoli 206 a 209 del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), potranno esibire, ai soli fini del conseguimento delle prestazioni previdenziali o assicurative, un certificato rilasciato dal Ministero della marina attestante l'avvenuta morte o scomparizione. 
  
  Per la compilazione del certificato di cui al precedente comma, il Ministero della marina puo' avvalersi, oltre che dei risultati delle inchieste sui sinistri marittimi, da qualunque autorita' eseguite, anche di qualsiasi altro elemento che ritenga rilevante allo scopo.
 

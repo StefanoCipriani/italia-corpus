@@ -55,7 +55,7 @@ Agli effetti del presente decreto si intende per:
  delle disposizioni sulla promulgazione delle leggi, sulla 
  emanazione dei decreti del Presidente della Repubblica e 
  sulle pubblicazioni ufficiali della Repubblica italiana, 
- approvato con [D.P.R. 14 marzo 1986, n. 217](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
+ approvato con [D.P.R. 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
 
 ### Art. 2. — Ambito di applicazione
 
@@ -523,7 +523,7 @@ Le parti possono convenire di assoggettare il contratto alla legislazione di un 
 
 3.
 
-Per quanto non disposto dal presente articolo, si applicano le disposizioni della convenzione di Roma del 19 giugno 1980, sulla legge applicabile alle obbligazioni contrattuali, resa esecutiva con [legge 18 dicembre 1984, n. 975](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sulla%20legge%20applicabile%20alle%20obbligazioni%20contrattuali%20con%20protocollo%20e%20due%20dichiarazioni%20comuni%20adottata%20a%20Roma%20il%2019%20giugno%201980.md), presumendosi, ai fini della sua applicazione, che il contratto presenti il collegamento piu' stretto con lo Stato membro del contratto. 
+Per quanto non disposto dal presente articolo, si applicano le disposizioni della convenzione di Roma del 19 giugno 1980, sulla legge applicabile alle obbligazioni contrattuali, resa esecutiva con [legge 18 dicembre 1984, n. 975](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20sulla%20legge%20applicabile%20alle%20obbligazioni%20contrattuali%20con%20protocollo%20e%20due%20dichiarazioni%20comuni%20adottata%20a%20Roma%20il%2019%20giugno%201980.md), presumendosi, ai fini della sua applicazione, che il contratto presenti il collegamento piu' stretto con lo Stato membro del contratto. 
  ([Direttiva n. 90/619, art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;619))
 
 ## MODIFICHE E INTEGRAZIONI ALLA LEGISLAZIONE SULL'ESERCIZIO DELL'ATTIVITA' ASSICURATIVA

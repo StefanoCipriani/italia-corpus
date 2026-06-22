@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto-legge 18 dicembre 1913, n. 1458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1913-12-18;1458), che detta disposizioni sulle importazioni ed esportazioni temporanee, convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visto il [regio decreto 14 giugno 1923, n. 1313](../Regi%20decreti/Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), che apporta modificazioni alla legge sulle importazioni ed esportazioni temporanee;
+Visto il [regio decreto 14 giugno 1923, n. 1313](Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), che apporta modificazioni alla legge sulle importazioni ed esportazioni temporanee;
 
 Visto l'art. 13 delle disposizioni preliminari alla tariffa dei dazi doganali;
 
@@ -30,7 +30,7 @@ Sentito il Consiglio dei Ministri, Sulla proposta del Ministro per il commercio 
 
 ## Art. 1.
 
-Il Comitato di cui all'[art. 1, dei regio decreto 14 giugno 1923, n. 1313](../Regi%20decreti/Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), e successive modificazioni, per l'esame delle concessioni di importazioni ed esportazioni temporanee e di quelle relative alla restituzione dei dazi, previste dall'art. 13 delle disposizioni preliminari alla tariffa dei dazi doganali e' composto dal direttore generale per i piani degli scambi con l'estero e per gli affari doganali; 
+Il Comitato di cui all'[art. 1, dei regio decreto 14 giugno 1923, n. 1313](Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), e successive modificazioni, per l'esame delle concessioni di importazioni ed esportazioni temporanee e di quelle relative alla restituzione dei dazi, previste dall'art. 13 delle disposizioni preliminari alla tariffa dei dazi doganali e' composto dal direttore generale per i piani degli scambi con l'estero e per gli affari doganali; 
  dal direttore generale per i servizi delle importazioni e delle esportazioni; 
  dal direttore generale per le dogane e imposte indirette; 
  dal direttore generale della produzione agricola; 

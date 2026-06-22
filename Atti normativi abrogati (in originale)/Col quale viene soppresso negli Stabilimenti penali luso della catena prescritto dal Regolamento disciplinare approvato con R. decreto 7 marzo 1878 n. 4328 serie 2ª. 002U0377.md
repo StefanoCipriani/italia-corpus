@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Negli Stabilimenti penali, anche se non siano ordinati secondo il sistema del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' soppresso l'uso della catena prescritto dal Regolamento disciplinare, approvato con [R. decreto del 7 marzo 1878, n. 4328](Col%20quale%20e%20approvato%20il%20regolamento%20disciplinare%20pei%20condannati%20alle%20pene%20dei%20lavori%20forzati.%20078U4328.md) (serie 2ª). 
+ Negli Stabilimenti penali, anche se non siano ordinati secondo il sistema del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' soppresso l'uso della catena prescritto dal Regolamento disciplinare, approvato con [R. decreto del 7 marzo 1878, n. 4328](Col%20quale%20e%20approvato%20il%20regolamento%20disciplinare%20pei%20condannati%20alle%20pene%20dei%20lavori%20forzati.%20078U4328.md) (serie 2ª). 
  
  Ogni altra disposizione contraria alla presente e' abrogata. 
  

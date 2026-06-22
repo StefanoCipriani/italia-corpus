@@ -64,7 +64,7 @@ Agli articoli 18, 21, 22, 25 e 27 del testo unico, approvato con [decreto Luogot
  
  Il Ministero dell'interno, nel provvedere su tali bilanci, potra': 
  
- a) fare di ufficio le allocazioni necessarie cosi' per le entrate come per le spese obbligatorie a norma dell'art. 219 della legge comunale e provinciale, testo unico approvato [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md); 
+ a) fare di ufficio le allocazioni necessarie cosi' per le entrate come per le spese obbligatorie a norma dell'art. 219 della legge comunale e provinciale, testo unico approvato [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md); 
  
  b) ridurre le spese obbligatorie per proporzionarle alle effettive esigenze di servizio; 
  
@@ -232,7 +232,7 @@ A far parte del Collegio arbitrale di secondo grado, sedente in Roma, di cui all
 
 ## Art. 26.
 
-La facolta' di cui al precedente articolo si intende estesa anche agli anni successivi al 1920 e per tutto il corso degli anni stessi, qualora all'atto della costituzione annuale del predetto Collegio, a mente del regolamento approvato con [R. decreto 6 aprile 1913, n. 512](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20lapplicazione%20dellart.%2047%20della%20legge%2013%20luglio%201910%20n.%20466%20e%20dellart.%2026%20del%20R.%20decreto%2024%20dicembre%201911%20n.%201479%20convertito%20in%20legge%20con%20la%20legge%206%20l_a2a04e9abeb6.md), non fossero coperti almeno due posti di referendario al Consiglio di Stato.
+La facolta' di cui al precedente articolo si intende estesa anche agli anni successivi al 1920 e per tutto il corso degli anni stessi, qualora all'atto della costituzione annuale del predetto Collegio, a mente del regolamento approvato con [R. decreto 6 aprile 1913, n. 512](Che%20approva%20lannesso%20regolamento%20per%20lapplicazione%20dellart.%2047%20della%20legge%2013%20luglio%201910%20n.%20466%20e%20dellart.%2026%20del%20R.%20decreto%2024%20dicembre%201911%20n.%201479%20convertito%20in%20legge%20con%20la%20legge%206%20l_a2a04e9abeb6.md), non fossero coperti almeno due posti di referendario al Consiglio di Stato.
 
 ## Art. 27.
 

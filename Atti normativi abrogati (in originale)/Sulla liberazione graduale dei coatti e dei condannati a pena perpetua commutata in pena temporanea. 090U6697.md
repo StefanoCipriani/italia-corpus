@@ -14,7 +14,7 @@ Il domicilio obbligatorio assegnato dai prefetti in virtu' delle leggi 20 marzo 
 
 ## Art. 2.
 
-E' pure data facolta' al ministro dell'interno di ritardare secondo le esigenze della pubblica sicurezza e per un tempo non eccedente i due anni la liberazione dei condannati a pena perpetua, la quale in virtu' dell'[articolo 39 del regio decreto 1° dicembre 1889, n. 6509](../Regi%20decreti/Contenente%20le%20disposizioni%20per%20lattuazione%20del%20Codice%20penale%20per%20il%20Regno%20dItalia.%20089U6509.md), sia commutata in pena temporanea. 
+E' pure data facolta' al ministro dell'interno di ritardare secondo le esigenze della pubblica sicurezza e per un tempo non eccedente i due anni la liberazione dei condannati a pena perpetua, la quale in virtu' dell'[articolo 39 del regio decreto 1° dicembre 1889, n. 6509](Contenente%20le%20disposizioni%20per%20lattuazione%20del%20Codice%20penale%20per%20il%20Regno%20dItalia.%20089U6509.md), sia commutata in pena temporanea. 
  
  I liberati possono dal ministro dell'interno essere assegnati a domicilio coatto per la durata massima di anni cinque senza che ricorrano gli estremi di cui nell'[art. 123 della legge 30 giugno 1889, n. 6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-06-30;6144#art_123).
 

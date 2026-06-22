@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md), convertito nella [legge 13 giugno 1935, n. 1297](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20gennaio%201935-XIII%20n.%20314%20che%20approva%20le%20norme%20riguardanti%20il%20reclutamento%20e%20lavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U1297.md), e le successive aggiunte e modificazioni;
+Visto il [regio decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md), convertito nella [legge 13 giugno 1935, n. 1297](Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20gennaio%201935-XIII%20n.%20314%20che%20approva%20le%20norme%20riguardanti%20il%20reclutamento%20e%20lavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U1297.md), e le successive aggiunte e modificazioni;
 
-Visto il [decreto legislativo luogotenenziale 2 agosto 1945, n. 634](../Decreti%20legislativi%20luogotenenziali/Composizione%20della%20Commissione%20superiore%20di%20avanzamento%20per%20gli%20ufficiali%20della%20Regia%20aeronautica%20durante%20il%20periodo%20di%20guerra.%20045U0634.md);
+Visto il [decreto legislativo luogotenenziale 2 agosto 1945, n. 634](Composizione%20della%20Commissione%20superiore%20di%20avanzamento%20per%20gli%20ufficiali%20della%20Regia%20aeronautica%20durante%20il%20periodo%20di%20guerra.%20045U0634.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per le fi
 
 ## Articolo unico.
 
-L'efficacia del [decreto legislativo luogotenenziale 2 agosto 1945, n. 634](../Decreti%20legislativi%20luogotenenziali/Composizione%20della%20Commissione%20superiore%20di%20avanzamento%20per%20gli%20ufficiali%20della%20Regia%20aeronautica%20durante%20il%20periodo%20di%20guerra.%20045U0634.md), riguardante la composizione della Commissione superiore di avanzamento per gli ufficiali dell'Aeronautica militare, e' prorogata fino al 31 dicembre 1947.
+L'efficacia del [decreto legislativo luogotenenziale 2 agosto 1945, n. 634](Composizione%20della%20Commissione%20superiore%20di%20avanzamento%20per%20gli%20ufficiali%20della%20Regia%20aeronautica%20durante%20il%20periodo%20di%20guerra.%20045U0634.md), riguardante la composizione della Commissione superiore di avanzamento per gli ufficiali dell'Aeronautica militare, e' prorogata fino al 31 dicembre 1947.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

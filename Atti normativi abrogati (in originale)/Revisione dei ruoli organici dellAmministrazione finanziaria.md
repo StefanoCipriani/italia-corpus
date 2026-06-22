@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
+Visto il [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
 Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive variazioni;
 
 Vista la [legge 25 gennaio 1940, n. 4](Riordinamento%20dei%20ruoli%20del%20personale%20dellAmministrazione%20finanziaria.%20040U0004.md), sul riordinamento dei ruoli del personale dell'Amministrazione finanziaria;
 
-Visto il [regio decreto 5 maggio 1939, n. 767](../Regi%20decreti/Riordinamento%20dei%20ruoli%20del%20personale%20dellAmministrazione%20provinciale%20del%20catasto%20e%20dei%20servizi%20tecnici%20erariali.%20039U0767.md), ed il [regio decreto 16 maggio 1940, n. 576](../Regi%20decreti/Riordinamento%20dei%20ruoli%20dellAmministrazione%20provinciale%20del%20catasto%20e%20dei%20servizi%20tecnici%20erariali.%20040U0576.md), sulla riorganizzazione dei ruoli dell'Amministrazione provinciale del catasto e dei servizi tecnici erariali;
+Visto il [regio decreto 5 maggio 1939, n. 767](Riordinamento%20dei%20ruoli%20del%20personale%20dellAmministrazione%20provinciale%20del%20catasto%20e%20dei%20servizi%20tecnici%20erariali.%20039U0767.md), ed il [regio decreto 16 maggio 1940, n. 576](Riordinamento%20dei%20ruoli%20dellAmministrazione%20provinciale%20del%20catasto%20e%20dei%20servizi%20tecnici%20erariali.%20040U0576.md), sulla riorganizzazione dei ruoli dell'Amministrazione provinciale del catasto e dei servizi tecnici erariali;
 
 Visto il [regio decreto 11 novembre 1941, n. 1389](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-11-11;1389), relativo all'aumento di un posto di grado 5° nei ruoli dell'Amministrazione provinciale delle imposte dirette;
 

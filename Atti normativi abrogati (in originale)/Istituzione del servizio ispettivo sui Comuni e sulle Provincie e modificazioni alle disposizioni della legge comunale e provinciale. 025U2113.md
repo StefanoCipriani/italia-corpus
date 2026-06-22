@@ -26,7 +26,7 @@ E' istituito il servizio degli ispettori provinciali, affidato a funzionari dei 
 
 ## Art. 2.
 
-E' data facolta' al Prefetto di adottare, col procedimento di cui all'[art. 43 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), sanzioni disciplinari a carico dei segretari, impiegati, agenti e salariati che svolgono azione incompatibile con le generali direttive politiche del Governo. 
+E' data facolta' al Prefetto di adottare, col procedimento di cui all'[art. 43 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), sanzioni disciplinari a carico dei segretari, impiegati, agenti e salariati che svolgono azione incompatibile con le generali direttive politiche del Governo. 
  
  La sanzione disciplinare applicata dal Prefetto in base al motivo previsto dal presente articolo costituisce provvedimento definitivo.
 

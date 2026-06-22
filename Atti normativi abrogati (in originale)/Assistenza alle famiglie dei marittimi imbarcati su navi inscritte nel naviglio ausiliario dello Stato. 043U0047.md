@@ -18,7 +18,7 @@ Per la durata dell'attuale stato di guerra ed in dipendenza di esso i Ministeri 
 
 La speciale indennita' da corrispondere alle famiglie dei marittimi che si trovano nelle condizioni dell'art. 1 e' pari alla differenza tra la paga di tabella stabilita nel contratto di arruolamento applicato alla nave all'atto dell'iscrizione di questa nel naviglio ausiliario e le competenze militari spettanti al marittimo, non tenendo conto degli eventuali soccorsi giornalieri goduti dai suoi familiari. 
  
- Per i marittimi arruolati con la retribuzione di cui alle [lettere c)](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [d) del secondo comma dell'art. 325 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), il Ministro per le comunicazioni, sentite le organizzazioni sindacali competenti, accerta la paga complessiva media fruita all'inizio della guerra.
+ Per i marittimi arruolati con la retribuzione di cui alle [lettere c)](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [d) del secondo comma dell'art. 325 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), il Ministro per le comunicazioni, sentite le organizzazioni sindacali competenti, accerta la paga complessiva media fruita all'inizio della guerra.
 
 ## Art. 3.
 

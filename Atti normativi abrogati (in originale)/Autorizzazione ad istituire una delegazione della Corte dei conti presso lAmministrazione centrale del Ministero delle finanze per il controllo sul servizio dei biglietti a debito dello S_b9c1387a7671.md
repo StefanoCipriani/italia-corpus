@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'art. 22 del testo unico delle leggi sull'ordinamento della Corte dei conti, approvato con [R. decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md); 
+ Visto l'art. 22 del testo unico delle leggi sull'ordinamento della Corte dei conti, approvato con [R. decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md); 
  
  Visto il [R. decreto-legge 20 maggio 1935, n. 874](Autorizzazione%20a%20ritirare%20dalla%20circolazione%20le%20attuali%20monete%20di%20argento%20e%20ad%20emettere%20biglietti%20di%20Stato.%20035U0874.md); 
  
@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Per il controllo sul servizio dei biglietti a debito dello Stato le funzioni degli Uffici della Corte dei conti di cui al 1° comma dell'art. 22 del testo unico approvato con [R. decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), potranno essere esercitate, anche mediante apposita delegazione della Corte stessa, presso i competenti organi dell'Amministrazione centrale del Ministero delle finanze. 
+ Per il controllo sul servizio dei biglietti a debito dello Stato le funzioni degli Uffici della Corte dei conti di cui al 1° comma dell'art. 22 del testo unico approvato con [R. decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), potranno essere esercitate, anche mediante apposita delegazione della Corte stessa, presso i competenti organi dell'Amministrazione centrale del Ministero delle finanze. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

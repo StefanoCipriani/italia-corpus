@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 9 luglio 1926, n. 1162](Riordinamento%20del%20servizio%20statistico.%20026U1162.md), relativa al riordinamento del servizio statistico;
 
-Visto il [R. decreto-legge 27 maggio 1929, n. 1285](Modifiche%20allordinamento%20dellIstituto%20centrale%20di%20statistica%20del%20Regno.%20029U1285.md), convertito nella [legge 21 dicembre 1929, n. 2238](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20maggio%201929%20n.%201285%20concernente%20modificazioni%20allordinamento%20dellIstituto%20centrale%20di%20statistica.%20029U2238.md), contenente modifiche all'ordinamento dell'Istituto centrale di statistica;
+Visto il [R. decreto-legge 27 maggio 1929, n. 1285](Modifiche%20allordinamento%20dellIstituto%20centrale%20di%20statistica%20del%20Regno.%20029U1285.md), convertito nella [legge 21 dicembre 1929, n. 2238](Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20maggio%201929%20n.%201285%20concernente%20modificazioni%20allordinamento%20dellIstituto%20centrale%20di%20statistica.%20029U2238.md), contenente modifiche all'ordinamento dell'Istituto centrale di statistica;
 
 Visto il regolamento interno del suddetto Istituto, approvato con decreto del Presidente del Consiglio dei Ministri in data 15 gennaio 1930, e successive modificazioni;
 

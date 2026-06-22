@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di provvedere alla proroga del termine di cui all'[articolo 17 del decreto legislativo 28 luglio 1989, n. 273](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20decreto%20del%20Presidente%20della%20Repubblica%2022%20settembre%201988%20n.%20449%20recante%20norme%20per%20ladeguamento%20dellordinamento%20giudiziario%20al%20nuovo_65e6f1b0944a.md);
+Ritenuta la straordinaria necessita' ed urgenza di provvedere alla proroga del termine di cui all'[articolo 17 del decreto legislativo 28 luglio 1989, n. 273](../Decreti%20Legislativi/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20decreto%20del%20Presidente%20della%20Repubblica%2022%20settembre%201988%20n.%20449%20recante%20norme%20per%20ladeguamento%20dellordinamento%20giudiziario%20al%20nuovo_65e6f1b0944a.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 ottobre 1991;
 
@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Nell'[articolo 17, comma 1, del decreto legislativo 28 luglio 1989, n. 273](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20decreto%20del%20Presidente%20della%20Repubblica%2022%20settembre%201988%20n.%20449%20recante%20norme%20per%20ladeguamento%20dellordinamento%20giudiziario%20al%20nuovo_65e6f1b0944a.md), le parole: "e comunque non oltre due anni dalla entrata in vigore del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447)" sono sostituite dalle seguenti: "e comunque non oltre tre anni dalla entrata in vigore del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447)".
+Nell'[articolo 17, comma 1, del decreto legislativo 28 luglio 1989, n. 273](../Decreti%20Legislativi/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20decreto%20del%20Presidente%20della%20Repubblica%2022%20settembre%201988%20n.%20449%20recante%20norme%20per%20ladeguamento%20dellordinamento%20giudiziario%20al%20nuovo_65e6f1b0944a.md), le parole: "e comunque non oltre due anni dalla entrata in vigore del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447)" sono sostituite dalle seguenti: "e comunque non oltre tre anni dalla entrata in vigore del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447)".
 
 ## Art. 2.
 

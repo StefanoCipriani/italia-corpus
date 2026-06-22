@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 7 aprile 1942, n. 322](Norme%20sullemissione%20di%20obbligazioni%20e%20sullaumento%20di%20capitale%20delle%20societa%20per%20azioni.%20042U0322.md), recante norme sulla disciplina della costituzione, dell'aumento di capitale e della emissione di obbligazioni delle societa' per azioni, convertito, con modifiche nella [legge 11 luglio 1942, n. 884](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%207%20aprile%201942-XX%20n.%20322%20recante%20norme%20sullemissione%20di%20obbligazioni%20e%20sullaumento%20di%20capitale%20delle%20societa%20per%20azioni.%20042U0884.md);
+Visto il [regio decreto-legge 7 aprile 1942, n. 322](Norme%20sullemissione%20di%20obbligazioni%20e%20sullaumento%20di%20capitale%20delle%20societa%20per%20azioni.%20042U0322.md), recante norme sulla disciplina della costituzione, dell'aumento di capitale e della emissione di obbligazioni delle societa' per azioni, convertito, con modifiche nella [legge 11 luglio 1942, n. 884](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%207%20aprile%201942-XX%20n.%20322%20recante%20norme%20sullemissione%20di%20obbligazioni%20e%20sullaumento%20di%20capitale%20delle%20societa%20per%20azioni.%20042U0884.md);
 
-Visto il [decreto legislativo luogotenenziale 15 febbraio 1946, n. 161](../Decreti%20legislativi%20luogotenenziali/Modificazione%20dellart.%201%20del%20R%20decreto-legge%207%20aprile%201942%20B.%20322%20convertito%20con%20modificazioni%20nella%20legge%2011%20luglio%201942%20n.%20884%20concernente%20norme%20sulla%20emissione%20di%20obbligazioni%20e%20sullau_25c2d2eade90.md);
+Visto il [decreto legislativo luogotenenziale 15 febbraio 1946, n. 161](Modificazione%20dellart.%201%20del%20R%20decreto-legge%207%20aprile%201942%20B.%20322%20convertito%20con%20modificazioni%20nella%20legge%2011%20luglio%201942%20n.%20884%20concernente%20norme%20sulla%20emissione%20di%20obbligazioni%20e%20sullau_25c2d2eade90.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per l'industria, e il commercio, di concerto col Min
 
 ## Articolo unico.
 
-L'efficacia dell'[art. 1 del decreto legislativo luogotenenziale 15 febbraio 1946, n. 161](../Decreti%20legislativi%20luogotenenziali/Modificazione%20dellart.%201%20del%20R%20decreto-legge%207%20aprile%201942%20B.%20322%20convertito%20con%20modificazioni%20nella%20legge%2011%20luglio%201942%20n.%20884%20concernente%20norme%20sulla%20emissione%20di%20obbligazioni%20e%20sullau_25c2d2eade90.md) - eccettuata la disposizione del penultimo comma - e' prorogata sino al 31 dicembre 1947.
+L'efficacia dell'[art. 1 del decreto legislativo luogotenenziale 15 febbraio 1946, n. 161](Modificazione%20dellart.%201%20del%20R%20decreto-legge%207%20aprile%201942%20B.%20322%20convertito%20con%20modificazioni%20nella%20legge%2011%20luglio%201942%20n.%20884%20concernente%20norme%20sulla%20emissione%20di%20obbligazioni%20e%20sullau_25c2d2eade90.md) - eccettuata la disposizione del penultimo comma - e' prorogata sino al 31 dicembre 1947.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

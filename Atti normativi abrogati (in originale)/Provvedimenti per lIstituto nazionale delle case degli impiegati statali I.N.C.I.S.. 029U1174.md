@@ -36,7 +36,7 @@ Gli enti autorizzati a finanziare l'Istituto nazionale per le case degli impiega
 
 ## Art. 4.
 
-L'Istituto nazionale per le case degli impiegati dello Stato e' autorizzato a costruire case nella Colonia della Somalia, fino all'importo massimo di tre milioni di lire, avvalendosi della somma assegnatagli in virtu' del [R. decreto 27 gennaio 1927, n. 90](../Regi%20decreti/Assegnazione%20di%20somme%20prelevate%20dallavanzo%20effettivo%20dellesercizio%20finanziario%201925-26.%20027U0090.md). 
+L'Istituto nazionale per le case degli impiegati dello Stato e' autorizzato a costruire case nella Colonia della Somalia, fino all'importo massimo di tre milioni di lire, avvalendosi della somma assegnatagli in virtu' del [R. decreto 27 gennaio 1927, n. 90](Assegnazione%20di%20somme%20prelevate%20dallavanzo%20effettivo%20dellesercizio%20finanziario%201925-26.%20027U0090.md). 
  
  L'Istituto potra' estendere la sua attivita' anche nelle altre Colonie, per la costruzione di case entro i limiti di spesa da stabilirsi dal Ministro per le finanze. 
  

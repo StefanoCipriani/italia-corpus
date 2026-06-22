@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Ritenuta la urgente necessita' di assicurare il normale funzionamento dei Regi riformatori, fino al loro assetto definitivo, in armonia con le disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in corso di elaborazione;
+Ritenuta la urgente necessita' di assicurare il normale funzionamento dei Regi riformatori, fino al loro assetto definitivo, in armonia con le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in corso di elaborazione;
 
 Viste le [leggi 3 luglio 1904, n. 318, e 30 dicembre 1906, n. 649](Provvedimenti%20in%20favore%20del%20personale%20amministrativo%20e%20sanitario%20degli%20stabilimenti%20carcerari%20e%20dei%20riformatori%20governativi%20e%20del%20personale%20di%20custodia%20degli%20stabilimenti%20carcerari.%20006U0649.md);
 

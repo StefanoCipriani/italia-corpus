@@ -24,7 +24,7 @@ Vista la [legge 2 ottobre 1940, n. 1369](Norme%20sullo%20stato%20e%20lavanzament
 
 Vista le [legge 16 giugno 1935, n. 1026](Stato%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1026.md), e successive modificazioni;
 
-Visto il [R. decreto-legge 19 maggio 1941, n. 583](Trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20dei%20comandi%20enti%20reparti%20e%20servizi%20costituenti%20le%20Forze%20armate%20operanti%20nonche%20al%20personale%20militare%20_fcebed3f36e5.md), convertito nella [legge 10 maggio 1943, n. 507](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20maggio%201941-XIX%20n.%20583%20relativo%20al%20trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20di%20_c00e94ef3697.md);
+Visto il [R. decreto-legge 19 maggio 1941, n. 583](Trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20dei%20comandi%20enti%20reparti%20e%20servizi%20costituenti%20le%20Forze%20armate%20operanti%20nonche%20al%20personale%20militare%20_fcebed3f36e5.md), convertito nella [legge 10 maggio 1943, n. 507](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20maggio%201941-XIX%20n.%20583%20relativo%20al%20trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20di%20_c00e94ef3697.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -42,7 +42,7 @@ Durante l'attuale stato di guerra, e sino ad un anno dalla sua cessazione, e' so
 
 ## Art. 2.
 
-I militari delle Forze armate prigionieri di guerra internati, i quali cessano dal servizio permanente per raggiungimento del limite di eta' o di permanenza massima di grado o nella carica, sono considerati, da tale data, trattenuti in temporaneo servizio attivo per tutto il tempo della prigionia o dell'internamento, salvo che essi non si trovino nelle condizioni di cui alle lettere a) e b) dell'art. 40 del R, [decreto-legge 19 maggio 1941, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1941-05-19;583), convertito nella [legge 10 maggio 1943, n. 507](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20maggio%201941-XIX%20n.%20583%20relativo%20al%20trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20di%20_c00e94ef3697.md).
+I militari delle Forze armate prigionieri di guerra internati, i quali cessano dal servizio permanente per raggiungimento del limite di eta' o di permanenza massima di grado o nella carica, sono considerati, da tale data, trattenuti in temporaneo servizio attivo per tutto il tempo della prigionia o dell'internamento, salvo che essi non si trovino nelle condizioni di cui alle lettere a) e b) dell'art. 40 del R, [decreto-legge 19 maggio 1941, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1941-05-19;583), convertito nella [legge 10 maggio 1943, n. 507](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20maggio%201941-XIX%20n.%20583%20relativo%20al%20trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20di%20_c00e94ef3697.md).
 
 ## Art. 3.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [decreto-legge 6 aprile 1919, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-04-06;494), riguardante provvedimenti per l'arma dei carabinieri Reali;
 
-Visto il [R. decreto 2 ottobre 1919, n. 1802](../Regi%20decreti/Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), riguardante il riordinamento dell'arma dei carabinieri Reali;
+Visto il [R. decreto 2 ottobre 1919, n. 1802](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), riguardante il riordinamento dell'arma dei carabinieri Reali;
 
 Udito il Consiglio dei Ministri;
 

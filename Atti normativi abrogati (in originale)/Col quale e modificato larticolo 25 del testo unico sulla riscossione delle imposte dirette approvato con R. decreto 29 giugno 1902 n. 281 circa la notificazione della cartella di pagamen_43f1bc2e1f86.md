@@ -10,9 +10,9 @@ vigente: true
 
 ## Articolo unico.
 
-L'art. 25 del testo unico di leggi sulla riscossione delle imposte dirette approvato con [R. decreto 29 giugno 1902, n. 281](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0281.md), e' modificato come appresso: 
+L'art. 25 del testo unico di leggi sulla riscossione delle imposte dirette approvato con [R. decreto 29 giugno 1902, n. 281](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0281.md), e' modificato come appresso: 
  
- «Inoltre gli esattori dovranno non piu' tardi della seconda meta' di gennaio notificare a ciascun contribuente nei modi stabiliti dal regolamento approvato con [R. decreto 10 luglio 1902, n. 296](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0296.md), una cartella nella quale sia indicato l'ammontare annuale di ciascuna imposta e quello di ciascuna rata. 
+ «Inoltre gli esattori dovranno non piu' tardi della seconda meta' di gennaio notificare a ciascun contribuente nei modi stabiliti dal regolamento approvato con [R. decreto 10 luglio 1902, n. 296](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0296.md), una cartella nella quale sia indicato l'ammontare annuale di ciascuna imposta e quello di ciascuna rata. 
  
  Se tale obbligo non viene adempiuto nel detto termine, la multa a favore dell'esattore non sara' applicabile che per le rate scadute dopo trascorsi almeno dieci giorni dalla notificazione delle cartelle. 
  

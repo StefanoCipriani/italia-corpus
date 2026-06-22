@@ -14,11 +14,11 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D' ITALIA
 
-Visto il testo unico delle leggi sul servizio postale, approvato con [R. decreto 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md);
+Visto il testo unico delle leggi sul servizio postale, approvato con [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md);
 
-Visto il regolamento generale sul servizio postale, approvato con [R. decreto 10 febbraio 1901, n. 120](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md);
+Visto il regolamento generale sul servizio postale, approvato con [R. decreto 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md);
 
-Visto il testo unico delle leggi sui telefoni, approvato con [R. decreto 3 maggio 1903, n. 196](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20sui%20telefoni.%20003U0196.md);
+Visto il testo unico delle leggi sui telefoni, approvato con [R. decreto 3 maggio 1903, n. 196](Approvazione%20del%20testo%20unico%20della%20legge%20sui%20telefoni.%20003U0196.md);
 
 Visti i [decreti Luogotenenziali 14 luglio 1918, n. 986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-07-14;986), [26 gennaio 1919, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-01-26;68) e [27 febbraio 1919, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-27;320);
 
@@ -123,7 +123,7 @@ Il 7° e 8° capoverso dell'articolo 24 del testo unico delle leggi telefoniche 
 
 ### Art. 6.
 
-I capoversi 3, 4 e 5 dell'[articolo 25 del R. decreto n. 44 del 25 gennaio 1921](../Regi%20decreti/recante%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche%20interne.%20021U0044.md) sono sostituiti dai seguenti: 
+I capoversi 3, 4 e 5 dell'[articolo 25 del R. decreto n. 44 del 25 gennaio 1921](recante%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche%20interne.%20021U0044.md) sono sostituiti dai seguenti: 
  
  La tariffa per ciascun abbonamento di una rete telefonica urbana entro il raggio di 3 chilometri dall'ufficio di commutazione non puo' eccedere il massimo di L. 1500. 
  

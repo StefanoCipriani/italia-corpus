@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Il [primo comma dell'art. 13 del R. decreto 23 gennaio 1910, n. 86](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20riguardante%20nuove%20disposizioni%20per%20lapplicazione%20della%20legge%20sulle%20guarantigie%20e%20sulla%20disciplina%20della%20magistratura.%20010U0086.md) e' modificato come segue: 
+Il [primo comma dell'art. 13 del R. decreto 23 gennaio 1910, n. 86](Che%20approva%20lannesso%20regolamento%20riguardante%20nuove%20disposizioni%20per%20lapplicazione%20della%20legge%20sulle%20guarantigie%20e%20sulla%20disciplina%20della%20magistratura.%20010U0086.md) e' modificato come segue: 
  
  Le funzioni di segretario della Corte suprema disciplinare e delle Commissioni speciali sono esercitate dal segretario del Consiglio superiore della magistratura e, in caso di sua mancanza, assenza od impedimento, dal vice segretario. 
  

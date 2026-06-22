@@ -18,7 +18,7 @@ Visto il [testo unico 27 marzo 1919, n. 426](https://www.normattiva.it/uri-res/N
 
 Visto il [R. decreto-legge 18 aprile 1920, n. 579](Che%20estende%20alle%20nuove%20Provincie%20le%20disposizioni%20legislative%20sul%20risarcimento%20dei%20danni%20di%20guerra.%20020U0579.md), di estensione di tali leggi alle nuove provincie d'Italia;
 
-Visto l'[art. 9 del R. decreto 4 gennaio 1923, n. 7](../Regi%20decreti/Che%20istituisce%20presso%20la%20Corte%20di%20appello%20di%20Venezia%20un%20Comitato%20centrale%20per%20la%20liquidazione%20e%20limmediato%20pagamento%20sotto%20determinate%20condizioni%20di%20indennita%20per%20danni%20di%20guerra.%20023U0007.md);
+Visto l'[art. 9 del R. decreto 4 gennaio 1923, n. 7](Che%20istituisce%20presso%20la%20Corte%20di%20appello%20di%20Venezia%20un%20Comitato%20centrale%20per%20la%20liquidazione%20e%20limmediato%20pagamento%20sotto%20determinate%20condizioni%20di%20indennita%20per%20danni%20di%20guerra.%20023U0007.md);
 
 Ritenuta l'opportunita' di promuovere nel superiore interesse dell'economia nazionale la ricostruzione e il funzionamento delle grandi industrie della Venezia Giulia danneggiate dalla guerra ma non aventi diritto, pel mancato concorso delle condizioni volute, all'applicazione in loro favore delle disposizioni legislative sul risarcimento dei danni di guerra;
 
@@ -45,7 +45,7 @@ Il mutuo verra' versato in contanti detratto tutto cio' che sotto qualsiasi form
 
 Il mutuo sara' fatto dalla Banca d'Italia coi fondi forniti dal Tesoro dello Stato. 
  
- Ai fondi occorrenti sara' provveduto mediante storno dal capitolo speciale inscritto al bilancio del Tesoro in base al disposto dell'[art. 9 del R. decreto 4 gennaio 1923, n. 7](../Regi%20decreti/Che%20istituisce%20presso%20la%20Corte%20di%20appello%20di%20Venezia%20un%20Comitato%20centrale%20per%20la%20liquidazione%20e%20limmediato%20pagamento%20sotto%20determinate%20condizioni%20di%20indennita%20per%20danni%20di%20guerra.%20023U0007.md).
+ Ai fondi occorrenti sara' provveduto mediante storno dal capitolo speciale inscritto al bilancio del Tesoro in base al disposto dell'[art. 9 del R. decreto 4 gennaio 1923, n. 7](Che%20istituisce%20presso%20la%20Corte%20di%20appello%20di%20Venezia%20un%20Comitato%20centrale%20per%20la%20liquidazione%20e%20limmediato%20pagamento%20sotto%20determinate%20condizioni%20di%20indennita%20per%20danni%20di%20guerra.%20023U0007.md).
 
 ## Art. 5.
 

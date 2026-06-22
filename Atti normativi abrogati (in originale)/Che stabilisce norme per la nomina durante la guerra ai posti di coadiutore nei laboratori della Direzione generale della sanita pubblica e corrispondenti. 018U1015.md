@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In Virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sullo stato degli impiegati civili approvato con [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
+Visto il testo unico delle leggi sullo stato degli impiegati civili approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
 
-Visti il regolamento generale per la applicazione di quel testo unico, approvato con [R. decreto 24 novembre 1908, n. 756](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md) e il regolamento per la carriera del personale dell'Amministrazione centrale provinciale della sanita' pubblica approvato con [R. decreto 25 giugno 1914, n. 702](../Regi%20decreti/Col%20quale%20e%20approvato%20lunito%20regolamento%20per%20il%20personale%20dellAmministrazione%20centrale%20e%20dellAmministrazione%20provinciale%20della%20sanita%20pubblica.%20014U0702.md);
+Visti il regolamento generale per la applicazione di quel testo unico, approvato con [R. decreto 24 novembre 1908, n. 756](Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md) e il regolamento per la carriera del personale dell'Amministrazione centrale provinciale della sanita' pubblica approvato con [R. decreto 25 giugno 1914, n. 702](Col%20quale%20e%20approvato%20lunito%20regolamento%20per%20il%20personale%20dellAmministrazione%20centrale%20e%20dellAmministrazione%20provinciale%20della%20sanita%20pubblica.%20014U0702.md);
 
 Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 

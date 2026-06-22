@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti i [Regi decreti 23 dicembre 1865, nn. 2700](../Regi%20decreti/Col%20quale%20e%20approvata%20la%20Tariffa%20per%20gli%20atti%20giudiziari%20in%20materia%20civile.%20065U2700.md) e [2701](../Regi%20decreti/Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md), con i quali furono approvate le tariffe giudiziarie in materia civile e penale;
+Visti i [Regi decreti 23 dicembre 1865, nn. 2700](Col%20quale%20e%20approvata%20la%20Tariffa%20per%20gli%20atti%20giudiziari%20in%20materia%20civile.%20065U2700.md) e [2701](Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md), con i quali furono approvate le tariffe giudiziarie in materia civile e penale;
 
-Visto il [R. decreto 3 maggio 1923, n. 1043](../Regi%20decreti/Che%20stabilisce%20le%20competenze%20dovute%20ai%20testimoni%20periti%20giurati%20e%20ufficiali%20giudiziari%20e%20le%20indennita%20spettanti%20ai%20magistrati%20e%20cancellieri%20per%20le%20trasferte.%20023U1043.md);
+Visto il [R. decreto 3 maggio 1923, n. 1043](Che%20stabilisce%20le%20competenze%20dovute%20ai%20testimoni%20periti%20giurati%20e%20ufficiali%20giudiziari%20e%20le%20indennita%20spettanti%20ai%20magistrati%20e%20cancellieri%20per%20le%20trasferte.%20023U1043.md);
 
 Visto il R. decreto-legge 20 novembre 1030, n. 1491;
 

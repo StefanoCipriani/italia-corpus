@@ -65,14 +65,14 @@ L'[articolo 11 del codice di procedura penale](https://www.normattiva.it/uri-res
 
 1.
 
-L'[articolo 1 del decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), recante norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), e' sostituito dal seguente:
+L'[articolo 1 del decreto legislativo 28 luglio 1989, n. 271](../Codici/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), recante norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), e' sostituito dal seguente:
  "Art. 1 (Modalita' di determinazione della competenza per i procedimenti riguardanti i magistrati). - 1. Agli effetti di quanto stabilito dall'articolo 11 del codice, il distretto di corte di appello nel cui capoluogo ha sede il giudice competente e' individuato sulla base della tabella A allegata al presente decreto.".
 
 ### Art. 5.
 
 1.
 
-Al [decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), recante norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), e' allegata la seguente tabella:
+Al [decreto legislativo 28 luglio 1989, n. 271](../Codici/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), recante norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), e' allegata la seguente tabella:
  "Tabella A - Spostamenti di competenza per i procedimenti penali nei quali un magistrato assume la qualita' di imputato ovvero di persona offesa o danneggiata dal reato:
  da Roma a Perugia; da Perugia a Firenze; da Firenze a Genova; da Genova a Torino; da Torino a Milano; da Milano a Brescia; da Brescia a Venezia; da Venezia a Trento; da Trento a Trieste; da Trieste a Bologna; da Bologna a Ancona; da Ancona a L'Aquila; da L'Aquila a Campobasso; da Campobasso a Bari; da Bari a Lecce; da Lecce a Potenza; da Potenza a Catanzaro; da Cagliari a Palermo; da Palermo a Caltanissetta; da Caltanissetta a Catania; da Catania a Messina; da Messina a Reggio Calabria; da Reggio Calabria a Catanzaro; da Catanzaro a Salerno; da Salerno a Napoli; da Napoli a Roma.".
 

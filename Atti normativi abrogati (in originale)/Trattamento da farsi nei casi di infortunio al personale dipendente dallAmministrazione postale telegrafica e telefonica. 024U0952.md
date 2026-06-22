@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 31 gennaio 1904, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-01-31;51), contro gli infortuni degli operai sul lavoro e quello 30 marzo 1921, n. 296, che apporta modificazioni alla detta legge;
 
-Visto il [R. decreto 6 giugno 1907, n. 716](../Regi%20decreti/Concernente%20concessione%20dindennita%20per%20infortuni%20sul%20lavoro%20ad%20agenti%20ed%20operai%20dellAmministrazione%20postale%20e%20telegrafica.%20007U0716.md);
+Visto il [R. decreto 6 giugno 1907, n. 716](Concernente%20concessione%20dindennita%20per%20infortuni%20sul%20lavoro%20ad%20agenti%20ed%20operai%20dellAmministrazione%20postale%20e%20telegrafica.%20007U0716.md);
 
 Visto il [R. decreto 8 marzo 1923, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-08;633);
 
@@ -34,7 +34,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le poste ed i telegra
 
 ## Art. 1.
 
-Dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale e fino a che non sara' provveduto organicamente a regolare il trattamento da farsi nei casi di infortunio, al personale dipendente dal Ministero delle poste e dei telegrafi, sara' esteso agli agenti di manutenzione delle linee telegrafiche e telefoniche, facenti parte del personale di ruolo del predetto Ministero, il trattamento previsto dal [R. decreto 6 giugno 1907, n. 716](../Regi%20decreti/Concernente%20concessione%20dindennita%20per%20infortuni%20sul%20lavoro%20ad%20agenti%20ed%20operai%20dellAmministrazione%20postale%20e%20telegrafica.%20007U0716.md);
+Dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale e fino a che non sara' provveduto organicamente a regolare il trattamento da farsi nei casi di infortunio, al personale dipendente dal Ministero delle poste e dei telegrafi, sara' esteso agli agenti di manutenzione delle linee telegrafiche e telefoniche, facenti parte del personale di ruolo del predetto Ministero, il trattamento previsto dal [R. decreto 6 giugno 1907, n. 716](Concernente%20concessione%20dindennita%20per%20infortuni%20sul%20lavoro%20ad%20agenti%20ed%20operai%20dellAmministrazione%20postale%20e%20telegrafica.%20007U0716.md);
 
 ## Art. 2.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Al [terzo comma dell'art. 81 del R. decreto 17 marzo 1932, n. 365](../Regi%20decreti/Approvazione%20del%20regolamento%20sui%20lavori%20del%20genio%20militare.%20032U0365.md), modificato dall'articolo unico del [R. decreto 16 dicembre 1941, n. 1557](../Regi%20decreti/Modificazione%20per%20il%20tempo%20di%20guerra%20dellart.%2081%20del%20regolamento%20sui%20lavori%20del%20Genio%20militare%20approvato%20con%20R.%20decreto%2017%20marzo%201932-X%20n.%20365.%20041U1557.md), e' sostituito il seguente: 
+Al [terzo comma dell'art. 81 del R. decreto 17 marzo 1932, n. 365](Approvazione%20del%20regolamento%20sui%20lavori%20del%20genio%20militare.%20032U0365.md), modificato dall'articolo unico del [R. decreto 16 dicembre 1941, n. 1557](Modificazione%20per%20il%20tempo%20di%20guerra%20dellart.%2081%20del%20regolamento%20sui%20lavori%20del%20Genio%20militare%20approvato%20con%20R.%20decreto%2017%20marzo%201932-X%20n.%20365.%20041U1557.md), e' sostituito il seguente: 
  
  «Ciascun comando del genio, per i lavori del proprio territorio, puo' pero' delegare lo stesso capo del l'ufficio esecutivo a compiere il collaudo od autorizzarlo ad ometterlo quando si tratti di lavori di mantenimento, eseguiti ad economia (in amministrazione). Puo' provvedere personalmente o delegare ufficiali dipendenti (di grado non inferiore a quello del capo dell'ufficio esecutivo a cui furono affidati i lavori e che non abbiano avuto la sorveglianza e la direzione dei medesimi) al collaudo di lavori ad imprese di importo complessivo non superiore a L. 500.000; se l'importo dei lavori non snpera le L. 200.000 puo' autorizzare l'omissione del collaudo ». 
  

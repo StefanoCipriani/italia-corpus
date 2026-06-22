@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista, la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media, tecnica;
- Visto il [regio decreto 1 maggio 1941, n. 610](../Regi%20decreti/Modificazioni%20alla%20pianta%20organica%20del%20Regio%20Istituto%20tecnico%20industriale%20%20Omar%20%20di%20Novara.%20041U0610.md), che approva la tabella organica dell'Istituto tecnico industriale "Omar" di Novara;
+ Visto il [regio decreto 1 maggio 1941, n. 610](Modificazioni%20alla%20pianta%20organica%20del%20Regio%20Istituto%20tecnico%20industriale%20%20Omar%20%20di%20Novara.%20041U0610.md), che approva la tabella organica dell'Istituto tecnico industriale "Omar" di Novara;
  Visto l'[art. 10 del decreto legislativo Presidenziale 27 giugno 1946, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;107#art_10);
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;
 

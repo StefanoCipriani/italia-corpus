@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 12 maggio 1939, n. 708](../Regi%20decreti/Bandiera%20darma%20della%20Regia%20marina%20uso%20della%20Bandiera%20nazionale%20alla%20Regia%20Accademia%20navale%20e%20al%20battaglione%20San%20Marco%20e%20concessione%20di%20una%20Bandiera%20di%20combattimento%20e%20di%20uno%20Stendardo%20all_a86300484124.md), concernente bandiera d'arma della Marina militare, uso della bandiera nazionale per l'Accademia navale e per il battaglione San Marco e concessione di una "Bandiera di combattimento" e di uno "Stendardo" alle navi militari ed alle squadriglie di M.A.S.;
+Visto il [regio decreto 12 maggio 1939, n. 708](Bandiera%20darma%20della%20Regia%20marina%20uso%20della%20Bandiera%20nazionale%20alla%20Regia%20Accademia%20navale%20e%20al%20battaglione%20San%20Marco%20e%20concessione%20di%20una%20Bandiera%20di%20combattimento%20e%20di%20uno%20Stendardo%20all_a86300484124.md), concernente bandiera d'arma della Marina militare, uso della bandiera nazionale per l'Accademia navale e per il battaglione San Marco e concessione di una "Bandiera di combattimento" e di uno "Stendardo" alle navi militari ed alle squadriglie di M.A.S.;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 25 ottobre 1947, n. 1152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-10-25;1152), concernente l'adozione di una bandiera per l'Esercito e per l'Aeronautica nonche' per i reparti a terra della Marina militare;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la difesa; Decreta:
 
 ## Articolo unico
 
-L'[art. 9 del regio decreto 12 maggio 1939, n. 708](../Regi%20decreti/Bandiera%20darma%20della%20Regia%20marina%20uso%20della%20Bandiera%20nazionale%20alla%20Regia%20Accademia%20navale%20e%20al%20battaglione%20San%20Marco%20e%20concessione%20di%20una%20Bandiera%20di%20combattimento%20e%20di%20uno%20Stendardo%20all_a86300484124.md), e' cosi' modificato: 
+L'[art. 9 del regio decreto 12 maggio 1939, n. 708](Bandiera%20darma%20della%20Regia%20marina%20uso%20della%20Bandiera%20nazionale%20alla%20Regia%20Accademia%20navale%20e%20al%20battaglione%20San%20Marco%20e%20concessione%20di%20una%20Bandiera%20di%20combattimento%20e%20di%20uno%20Stendardo%20all_a86300484124.md), e' cosi' modificato: 
  "Lo stendardo di cui all'art. 3 del presente decreto e' costituito da: una freccia, un drappo, una fiamma, un'asta, un nastro azzurro ed un cordone. 
  La freccia e' di bronzo ed e' formata da una parte cilindrica sormontata da una galletta sferica con sovrapposta la corona turrita e rostrata. La corona, la galletta e gli ornamenti sono dorati. La scritta che riporta le decorazioni concesse alla nave, al sommergibile, alla squadriglia, e' incisa sulla parte cilindrica della freccia, e cosi' pure i fatti d'arme e le relative date. 
  Il drappo, in seta con frangia dorata, e' di forma quadrata e porta nella parte frontale la bandiera nazionale navale e nel verso la bandiera di bompresso. Su di esso vanno appuntate le decorazioni. 

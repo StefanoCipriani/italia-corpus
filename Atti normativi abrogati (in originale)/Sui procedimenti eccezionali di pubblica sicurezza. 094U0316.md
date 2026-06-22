@@ -12,7 +12,7 @@ vigente: true
 
 Quando sieno ritenuti pericolosi alla sicurezza pubblica, possono essere assegnati a domicilio coatto, oltre le persone indicate nella legge di pubblica sicurezza 30 giugno 1889, n. 6144 (serie 3ª), coloro che riportarono una condanna per uno dei seguenti reati: 
  
- 1° delitti contro l'ordine pubblico, preveduti nel titolo V, libro II del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 1° delitti contro l'ordine pubblico, preveduti nel titolo V, libro II del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  2° delitti contro l'incolumita' pubblica, preveduti negli articoli 300 a 307 e negli articoli 312, 313, 315 e 317 dello stesso Codice; 
  

@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni;
+Visto il testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni;
 
-Visto il [decreto legislativo luogotenenziale 8 marzo 1945, n. 62](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20finanza%20locale.%20045U0062.md);
+Visto il [decreto legislativo luogotenenziale 8 marzo 1945, n. 62](Provvedimenti%20in%20materia%20di%20finanza%20locale.%20045U0062.md);
 
 Visto il [decreto legislativo luogotenenziale 18 febbraio 1946, n. 100](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20tributari%20a%20favore%20degli%20Enti%20locali.md);
 

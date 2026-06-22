@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 9 agosto 1914, n. 1419](../Regi%20decreti/Col%20quale%20e%20approvato%20lannesso%20nuovo%20regolamento%20per%20il%20servizio%20del%20materiale%20di%20artiglieria.%20014U1419.md), col quale veniva approvato il nuovo regolamento per il servizio del materiale di artiglieria; 
+ Visto il [R. decreto 9 agosto 1914, n. 1419](Col%20quale%20e%20approvato%20lannesso%20nuovo%20regolamento%20per%20il%20servizio%20del%20materiale%20di%20artiglieria.%20014U1419.md), col quale veniva approvato il nuovo regolamento per il servizio del materiale di artiglieria; 
  
  Visto l'[articolo 16 della legge 17 febbraio 1884, numero 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-02-17;2016#art_16) (serie III) sull'amministrazione e sulla contabilita' generale dello Stato; 
  

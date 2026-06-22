@@ -30,7 +30,7 @@ E' approvato e dichiarato di pubblica utilita' il piano regolatore edilizio del 
 
 ## Art. 2.
 
-Per l'occupazione delle aree destinate a vie, corsi, piazze o simili, nonche' delle zone fabbricabili da occuparsi ai sensi dell'[art. 34 del R. decreto 8 febbraio 1923, n. 422](../Regi%20decreti/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), il Comune procedera' in confronto dei rispettivi proprietari a norma delle disposizioni speciali del presente decreto e delle disposizioni generali della legge sulle espropriazioni per causa di pubblica utilita' 25 giugno 1865, n. 2359.
+Per l'occupazione delle aree destinate a vie, corsi, piazze o simili, nonche' delle zone fabbricabili da occuparsi ai sensi dell'[art. 34 del R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), il Comune procedera' in confronto dei rispettivi proprietari a norma delle disposizioni speciali del presente decreto e delle disposizioni generali della legge sulle espropriazioni per causa di pubblica utilita' 25 giugno 1865, n. 2359.
 
 ## Art. 3.
 

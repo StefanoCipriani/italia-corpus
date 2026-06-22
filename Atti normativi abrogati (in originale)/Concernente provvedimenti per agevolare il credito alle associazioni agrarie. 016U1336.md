@@ -58,7 +58,7 @@ Il locatore ha diritto di prelazione sull' Istituto mutuante a meno che non gli 
 
 ## Art. 5.
 
-Quando gli oggetti sottoposti al privilegio siano menomati, deteriorati o distratti, si applicano le penalita' stabilite dall'[art. 203 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Quando gli oggetti sottoposti al privilegio siano menomati, deteriorati o distratti, si applicano le penalita' stabilite dall'[art. 203 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 6.
 

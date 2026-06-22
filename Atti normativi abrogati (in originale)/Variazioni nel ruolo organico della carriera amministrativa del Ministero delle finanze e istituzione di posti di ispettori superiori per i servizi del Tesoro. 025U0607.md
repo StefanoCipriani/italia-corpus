@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-Nel ruolo organico del personale della carriera amministrativa dell'Amministrazione centrale del Ministero delle finanze e delle Intendenze, di cui alla tabella n. 1 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono aumentati dieci posti di ispettori superiori, da destinarsi ai servizi del Tesoro, e sono diminuiti due posti di intendente di finanza di seconda classe. 
+Nel ruolo organico del personale della carriera amministrativa dell'Amministrazione centrale del Ministero delle finanze e delle Intendenze, di cui alla tabella n. 1 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono aumentati dieci posti di ispettori superiori, da destinarsi ai servizi del Tesoro, e sono diminuiti due posti di intendente di finanza di seconda classe. 
  
  Nel ruolo organico del personale di gestione e di controllo delle delegazioni del Tesoro, di cui alla tabella n. 5 dell'allegato predetto, sono diminuiti due posti di direttore di delegazione del Tesoro.
 

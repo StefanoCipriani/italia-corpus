@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sono approvate le seguenti variazioni alla legge di ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra (testo unico approvato con [R. decreto n. 525, del 14 luglio 1898](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md)) modificata con [leggi n. 285 del 7 luglio 1901, n. 303 del 21 luglio 1902, n. 216 del 2 giugno 1904, n. 300 del 3 luglio 1904, numero 347 del 9 luglio 1905, n. 305 dell'8 luglio 1906, n. 343 del 12 luglio 1906, n. 372 del 19 luglio 1906 e n. 647 del 30 dicembre 1906](Provvedimenti%20per%20larma%20dei%20RR.%20carabinieri.%20006U0647.md). 
+Sono approvate le seguenti variazioni alla legge di ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra (testo unico approvato con [R. decreto n. 525, del 14 luglio 1898](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md)) modificata con [leggi n. 285 del 7 luglio 1901, n. 303 del 21 luglio 1902, n. 216 del 2 giugno 1904, n. 300 del 3 luglio 1904, numero 347 del 9 luglio 1905, n. 305 dell'8 luglio 1906, n. 343 del 12 luglio 1906, n. 372 del 19 luglio 1906 e n. 647 del 30 dicembre 1906](Provvedimenti%20per%20larma%20dei%20RR.%20carabinieri.%20006U0647.md). 
  
  1. All'ultimo alinea dell'art. 66 e' sostituito il seguente: 
  
@@ -111,7 +111,7 @@ Sono approvate le seguenti variazioni alla legge di ordinamento del R. esercito 
 
 ## Art. 2.
 
-E' approvata la seguente modificazione alla legge sugli stipendi ed assegni fissi pel R. esercito (testo unico approvato con [R. decreto n. 380 del 14 luglio 1898](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md)) modificata con [leggi n. 286 del 7 luglio 1901, n. 216 del 2 giugno 1904, nn. 300, 301 e 302 del 3 luglio 1904, n. 305 dell'8 luglio 1906, n. 372, del 19 luglio 1906 e n. 647 del 30 dicembre 1906](Provvedimenti%20per%20larma%20dei%20RR.%20carabinieri.%20006U0647.md). 
+E' approvata la seguente modificazione alla legge sugli stipendi ed assegni fissi pel R. esercito (testo unico approvato con [R. decreto n. 380 del 14 luglio 1898](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md)) modificata con [leggi n. 286 del 7 luglio 1901, n. 216 del 2 giugno 1904, nn. 300, 301 e 302 del 3 luglio 1904, n. 305 dell'8 luglio 1906, n. 372, del 19 luglio 1906 e n. 647 del 30 dicembre 1906](Provvedimenti%20per%20larma%20dei%20RR.%20carabinieri.%20006U0647.md). 
  
  Nella tabella VI, nelle parti relative agli ingegneri geografi e topografi, ai ragionieri e capitecnici d'artiglieria e genio, ai disegnatori, agli assistenti del genio sostituire: 
  
@@ -140,7 +140,7 @@ Gli attuali assistenti, provenienti dai capi operai, capi lavoranti e lavoranti 
 
  
  
- e le norme da seguirsi per la loro promozione nelle varie classi saranno analoghe a quelle stabilite dall'[art. 2 del R. decreto 27 novembre 1904, n. 630](../Regi%20decreti/Che%20fissa%20il%20numero%20degli%20assistenti%20del%20genio%20nelle%20amministrazioni%20dipendenti%20dal%20Ministero%20della%20guerra.%20004U0630.md).
+ e le norme da seguirsi per la loro promozione nelle varie classi saranno analoghe a quelle stabilite dall'[art. 2 del R. decreto 27 novembre 1904, n. 630](Che%20fissa%20il%20numero%20degli%20assistenti%20del%20genio%20nelle%20amministrazioni%20dipendenti%20dal%20Ministero%20della%20guerra.%20004U0630.md).
 
 ## Art. 6.
 

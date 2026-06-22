@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il regolamento per i documenti matricolari e caratteristici del personale militare della Marina, approvato con [regio decreto 24 agosto 1941, n. 1236](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20i%20documenti%20matricolari%20e%20caratteristici%20del%20personale%20militare%20delta%20Regia%20marina.%20041U1236.md);
+Visto il regolamento per i documenti matricolari e caratteristici del personale militare della Marina, approvato con [regio decreto 24 agosto 1941, n. 1236](Approvazione%20del%20regolamento%20per%20i%20documenti%20matricolari%20e%20caratteristici%20del%20personale%20militare%20delta%20Regia%20marina.%20041U1236.md);
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la marina militare, di concerto con il Ministro 
 
 ## Art. 1.
 
-Al regolamento per i documenti matricolari e caratteristici del personale militare della Marina, approvato con [regio decreto 24 agosto 1941, n. 1236](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20i%20documenti%20matricolari%20e%20caratteristici%20del%20personale%20militare%20delta%20Regia%20marina.%20041U1236.md), sono apportate le modifiche di cui agli articoli seguenti.
+Al regolamento per i documenti matricolari e caratteristici del personale militare della Marina, approvato con [regio decreto 24 agosto 1941, n. 1236](Approvazione%20del%20regolamento%20per%20i%20documenti%20matricolari%20e%20caratteristici%20del%20personale%20militare%20delta%20Regia%20marina.%20041U1236.md), sono apportate le modifiche di cui agli articoli seguenti.
 
 ## Art. 2.
 

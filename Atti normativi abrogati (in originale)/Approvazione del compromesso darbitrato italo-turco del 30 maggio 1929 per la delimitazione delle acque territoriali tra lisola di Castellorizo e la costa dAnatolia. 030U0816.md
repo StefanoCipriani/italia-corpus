@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [decreto-legge 31 gennaio 1924, n. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-01-31;343), convertito in legge con [legge 15 luglio 1926, n. 1588](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20del%20R.%20decreto%20legge%2031%20gennaio%201924%20n.%20343%20col%20quale%20sono%20approvati%20alcuni%20atti%20internazionali%20fra%20lItalia%20ed%20altri%20Stati%20da%20una%20parte%20e%20la%20Turchia%20dallaltra%20firmati_deb4aade4de9.md), che approva il Trattato di pace, concluso a Losanna in data 24 luglio 1923, tra l'Italia ed altri Stati con la Turchia;
+Visto il [decreto-legge 31 gennaio 1924, n. 343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-01-31;343), convertito in legge con [legge 15 luglio 1926, n. 1588](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%2031%20gennaio%201924%20n.%20343%20col%20quale%20sono%20approvati%20alcuni%20atti%20internazionali%20fra%20lItalia%20ed%20altri%20Stati%20da%20una%20parte%20e%20la%20Turchia%20dallaltra%20firmati_deb4aade4de9.md), che approva il Trattato di pace, concluso a Losanna in data 24 luglio 1923, tra l'Italia ed altri Stati con la Turchia;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per gli affari esteri;
 

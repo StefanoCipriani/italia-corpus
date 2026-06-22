@@ -26,7 +26,7 @@ Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.
 
 Vista la [legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md), recante modificazioni alla legge sull'avanzamento nel R. esercito e successive modificazioni;
 
-Visto il testo unico delle leggi sull'ordinamento, del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, approvato con [R. decreto 14 luglio 1898, n. 525](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e modificato con leggi successive;
+Visto il testo unico delle leggi sull'ordinamento, del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, approvato con [R. decreto 14 luglio 1898, n. 525](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e modificato con leggi successive;
 
 Visto il decreto Luogotenenziale del 24 giugno 1915 col quale sono estese a tutte le truppe anche non dislocate in territorio dichiarato in stato di guerra, le disposizioni previste dalla legge e dal regolamento sull'avanzamento per il tempo di guerra;
 

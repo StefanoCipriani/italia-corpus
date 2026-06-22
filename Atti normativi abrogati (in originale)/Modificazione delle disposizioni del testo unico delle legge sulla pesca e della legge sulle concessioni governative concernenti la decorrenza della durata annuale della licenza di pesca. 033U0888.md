@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il quarto comma dell'art. 22 del testo unico delle leggi sulla pesca, approvato con [R. decreto dell'8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e' cosi' modificato: 
+ Il quarto comma dell'art. 22 del testo unico delle leggi sulla pesca, approvato con [R. decreto dell'8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e' cosi' modificato: 
  
  «La licenza di pesca ha la durata di un anno a decorrere dal giorno del rilascio». 
  

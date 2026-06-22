@@ -18,11 +18,11 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il testo unico delle leggi metriche 23 agosto 1890, n. 7088 (serie 3°);
 
-Visto il [R. decreto 21 ottobre 1923, n. 2367](../Regi%20decreti/Revisione%20delle%20entrate%20minori.%20023U2367.md), che modifica la tariffa dei diritti metrici, stabiliti dal citato testo unico;
+Visto il [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md), che modifica la tariffa dei diritti metrici, stabiliti dal citato testo unico;
 
-Visto il [R. decreto 7 aprile 1927, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-07;544), che integra l'allegato A, annesso al precitato [R. decreto 21 ottobre 1923, n. 2367](../Regi%20decreti/Revisione%20delle%20entrate%20minori.%20023U2367.md);
+Visto il [R. decreto 7 aprile 1927, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-07;544), che integra l'allegato A, annesso al precitato [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md);
 
-Visto il [R. decreto-legge 28 novembre 1938, n. 1941](Modificazioni%20ai%20diritti%20metrici.%20038U1941.md), col quale vennero modificati i diritti metrici fissati dal [R. decreto 21 ottobre 1923, n. 2367](../Regi%20decreti/Revisione%20delle%20entrate%20minori.%20023U2367.md);
+Visto il [R. decreto-legge 28 novembre 1938, n. 1941](Modificazioni%20ai%20diritti%20metrici.%20038U1941.md), col quale vennero modificati i diritti metrici fissati dal [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), riguardante l'Assemblea per la nuova costituzione dello Stato, il giuramento dei membri del governo e la facolta' del governo di emanare norme giuridiche;
 

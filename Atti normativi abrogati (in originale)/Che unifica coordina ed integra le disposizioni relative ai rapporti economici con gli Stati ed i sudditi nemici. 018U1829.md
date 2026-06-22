@@ -168,7 +168,7 @@ Il sindacato e' esercitato, sotto la vigilanza dell'intendente di finanza e del 
 
 I sindacatori hanno diritto di prendere in ogni tempo visione di tutti i libri ed atti dell'azienda. 
  
- Chiunque rifiuti di fornire al sindacatore le informazioni da esso richieste nell'esercizio delle sue funzioni e' punito a termini dell'[art. 435 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Chiunque rifiuti di fornire al sindacatore le informazioni da esso richieste nell'esercizio delle sue funzioni e' punito a termini dell'[art. 435 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 25.
 
@@ -217,7 +217,7 @@ Per gli atti eccedenti l'ordinaria gestione, l'amministratore deve essere autori
 
 ### Art. 29.
 
-All'amministratore sequestratario puo' essere dal prefetto, di concerto con l'intendente di finanza, assegnata a carico dell'azienda una indennita', la cui misura sara' equamente determinata tenendo conto della entita' e natura dell'azienda medesima, della circostanza che sia stata autorizzata o vietata la continuazione della gestione e del grado del funzionario incaricato. In nessun caso tale indennita' puo' superare la misura massima dell'indennita' giornaliera di missione, che era stabilita dall'[art. 3 del R. decreto 14 settembre 1862, n. 840](../Regi%20decreti/Che%20stabilisce%20le%20indennita%20da%20corrispondersi%20agli%20Impiegati%20di%20vari%20Dicasteri%20in%20missione%20per%20affari%20amministrativi.%20062U0840.md).
+All'amministratore sequestratario puo' essere dal prefetto, di concerto con l'intendente di finanza, assegnata a carico dell'azienda una indennita', la cui misura sara' equamente determinata tenendo conto della entita' e natura dell'azienda medesima, della circostanza che sia stata autorizzata o vietata la continuazione della gestione e del grado del funzionario incaricato. In nessun caso tale indennita' puo' superare la misura massima dell'indennita' giornaliera di missione, che era stabilita dall'[art. 3 del R. decreto 14 settembre 1862, n. 840](Che%20stabilisce%20le%20indennita%20da%20corrispondersi%20agli%20Impiegati%20di%20vari%20Dicasteri%20in%20missione%20per%20affari%20amministrativi.%20062U0840.md).
 
 ### Art. 30.
 
@@ -277,7 +277,7 @@ Il sequestro, di cui all'articolo precedente, e' imposto con suo decreto dal pre
  
  Nello stesso modo puo' essere provveduto al sequestro di altri mobili e di immobili, quando speciali ragioni cio' consiglino. 
  
- E' proibita la restituzione agli aventi diritto dei valori e delle somme indicati nei comma precedenti, senza l'autorizzazione del prefetto. In caso di infrazione sono applicabili al detentore presso di cui il sequestro e' stato dichiarato le disposizioni dell'[art. 203 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ E' proibita la restituzione agli aventi diritto dei valori e delle somme indicati nei comma precedenti, senza l'autorizzazione del prefetto. In caso di infrazione sono applicabili al detentore presso di cui il sequestro e' stato dichiarato le disposizioni dell'[art. 203 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 39.
 
@@ -389,7 +389,7 @@ Lo presiede il rappresentante del presidente del Consiglio ed in sua assenza od 
 
 ### Art. 53.
 
-Con l'entrata in vigore del presente decreto cessano di applicarsi il [R. decreto 24 maggio 1915, n. 697](../Regi%20decreti/Che%20vieta%20ogni%20traffico%20di%20esportazione%20dimportazione%20o%20di%20transito%20fra%20il%20territorio%20del%20Regno%20e%20delle%20sue%20Colonie%20e%20il%20territorio%20della%20Monarchia%20Austro-Ungarica.%20015U0697.md), ed i Nostri decreti 24 giugno 1915, n. 902, 25 novembre 1915, n. 1755, 30 gennaio 1916, n. 103, 4 febbraio 1916, n. 92, 12 marzo 1916, n, 320, 13 aprile 1916, nn. 451 e 492, 30 aprile 1916, n. 477, 13 luglio 1916, n. 864, 8 agosto 1916, nn. 960 e 961, 27 agosto 1916, n. 1146, 21 dicembre 1916, n. 1867, 15 aprile 1917, n. 643 l'art. 5 del Nostro decreto 18 gennaio 1918, n. 36, ed il Nostro decreto 24 marzo 1918, n. 414. 
+Con l'entrata in vigore del presente decreto cessano di applicarsi il [R. decreto 24 maggio 1915, n. 697](Che%20vieta%20ogni%20traffico%20di%20esportazione%20dimportazione%20o%20di%20transito%20fra%20il%20territorio%20del%20Regno%20e%20delle%20sue%20Colonie%20e%20il%20territorio%20della%20Monarchia%20Austro-Ungarica.%20015U0697.md), ed i Nostri decreti 24 giugno 1915, n. 902, 25 novembre 1915, n. 1755, 30 gennaio 1916, n. 103, 4 febbraio 1916, n. 92, 12 marzo 1916, n, 320, 13 aprile 1916, nn. 451 e 492, 30 aprile 1916, n. 477, 13 luglio 1916, n. 864, 8 agosto 1916, nn. 960 e 961, 27 agosto 1916, n. 1146, 21 dicembre 1916, n. 1867, 15 aprile 1917, n. 643 l'art. 5 del Nostro decreto 18 gennaio 1918, n. 36, ed il Nostro decreto 24 marzo 1918, n. 414. 
  
  Restano ferme, per quanto concerne le privative industriali, l'art. 5 del Nostro decreto 20 giugno 1915, n. 962, ed il Nostro decreto 22 marzo 1917, n. 533. Nulla e' innovato in ordine alle altre disposizioni vigenti relativamente ai sudditi nemici.
 

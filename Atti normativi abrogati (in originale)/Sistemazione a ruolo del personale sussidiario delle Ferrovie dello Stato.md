@@ -70,7 +70,7 @@ I benefici economici derivanti dall'applicazione del presente decreto avranno un
 I sussidiari sistemati a ruolo in forza del presente decreto sono iscritti al fondo pensioni dalla data della nomina a ruolo.
  Le ritenute per il fondo pensioni si inizieranno dal mese successivo a quello della cessazione dell'assicurazione all'Istituto nazionale delle assicurazioni.
  Il capitale liquidato dall'Istituto nazionale delle assicurazioni sara' incamerato dal Fondo pensioni.
- Il servizio prestato precedentemente alla nomina a ruolo e' riconoscibile o riscattabile ai sensi e con le norme degli [articoli 1](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md) e [2 del R. decreto 7 dicembre 1923, n. 2590](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md).
+ Il servizio prestato precedentemente alla nomina a ruolo e' riconoscibile o riscattabile ai sensi e con le norme degli [articoli 1](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md) e [2 del R. decreto 7 dicembre 1923, n. 2590](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md).
 
 ## Art. 8.
 

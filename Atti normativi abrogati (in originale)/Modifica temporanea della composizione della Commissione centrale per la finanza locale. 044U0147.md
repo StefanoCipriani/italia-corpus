@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il T.U. della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visto il T.U. della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Visto l'[art. 18 della legge 19 gennaio 1939, n. 129](Istituzione%20della%20Camera%20dei%20Fasci%20e%20delle%20Corporazioni.%20039U0129.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro dell'Interno, d'intesa col Ministro delle Finanze; A
 
 ## Art. 1.
 
-Fino a nuova disposizione, ed in deroga all'art. 329 del T.U. della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), la Commissione Centrale per la Finanza locale, presieduta dal Ministro dell'Interno o per sua delega dal Sottosegretario di Stato dell'Interno, e' composta come appresso: 
+Fino a nuova disposizione, ed in deroga all'art. 329 del T.U. della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), la Commissione Centrale per la Finanza locale, presieduta dal Ministro dell'Interno o per sua delega dal Sottosegretario di Stato dell'Interno, e' composta come appresso: 
  
 a) il Direttore Generale dell'Amministrazione Civile; 
  

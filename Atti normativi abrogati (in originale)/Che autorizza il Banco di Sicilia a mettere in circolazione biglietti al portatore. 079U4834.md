@@ -12,7 +12,7 @@ IL MINISTRO DEL TESORO
 
 Veduto l'[articolo 8 della legge 30 aprile 1874, n. 1920](Sulla%20circolazione%20cartacea%20durante%20il%20corso%20forzoso.%20074U1920.md) (serie 2ª);
 
-Veduto il regolamento approvato col [regio decreto 17 settembre 1876, n. 3375](../Regi%20decreti/Che%20approva%20il%20regolamento%20riguardante%20le%20modalita%20e%20le%20forme%20dei%20biglietti%20che%20gli%20istituti%20di%20emissione%20sono%20autorizzati%20ad%20emettere%20per%20proprio%20conto.%20076U3375.md) (serie 2ª), che riguarda la modalita' e le forme dei biglietti che gli istituti di emissione sono autorizzati ad emettere per proprio conto;
+Veduto il regolamento approvato col [regio decreto 17 settembre 1876, n. 3375](Che%20approva%20il%20regolamento%20riguardante%20le%20modalita%20e%20le%20forme%20dei%20biglietti%20che%20gli%20istituti%20di%20emissione%20sono%20autorizzati%20ad%20emettere%20per%20proprio%20conto.%20076U3375.md) (serie 2ª), che riguarda la modalita' e le forme dei biglietti che gli istituti di emissione sono autorizzati ad emettere per proprio conto;
 
 Veduta la domanda del Banco di Sicilia, per essere autorizzato ad emettere biglietti suoi proprii al portatore, a sensi della legge 30 aprile 1874, dei tagli da lire 1000, 500, 100 e 50, in sostituzione delle fedi intestate al cassiere a somme fisse, con riserva, in quanto ai biglietti da lire 200, taglio parimenti permesso agli istituti di emissione dalla legge sulla circolazione cartacea durante il corso forzoso, di sottoporre all'approvazione del Governo il relativo modello per ottenerne la prescritta autorizzazione, quando il modello stesso, dipendentemente dalla fabbricazione della carta ora in corso di ordinazione, potra' essere in pronto;
 
@@ -98,7 +98,7 @@ Banco di Sicilia - Lire cinquecento pagabile a vista al portatore - Art. 8 legge
 
 ## Art. 3.
 
-Le antiche fedi in nome del cassiere a somme fisse, mano mano che verranno sostituite dai nuovi biglietti, dovranno essere riscontrate e quindi abbruciate colle modalita' prescritte dall'art. 5 del regolamento, approvato con [regio decreto 17 settembre 1876, n. 3375](../Regi%20decreti/Che%20approva%20il%20regolamento%20riguardante%20le%20modalita%20e%20le%20forme%20dei%20biglietti%20che%20gli%20istituti%20di%20emissione%20sono%20autorizzati%20ad%20emettere%20per%20proprio%20conto.%20076U3375.md) (serie 2ª). 
+Le antiche fedi in nome del cassiere a somme fisse, mano mano che verranno sostituite dai nuovi biglietti, dovranno essere riscontrate e quindi abbruciate colle modalita' prescritte dall'art. 5 del regolamento, approvato con [regio decreto 17 settembre 1876, n. 3375](Che%20approva%20il%20regolamento%20riguardante%20le%20modalita%20e%20le%20forme%20dei%20biglietti%20che%20gli%20istituti%20di%20emissione%20sono%20autorizzati%20ad%20emettere%20per%20proprio%20conto.%20076U3375.md) (serie 2ª). 
  
  Il presente decreto sara' inserito nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia. 
  

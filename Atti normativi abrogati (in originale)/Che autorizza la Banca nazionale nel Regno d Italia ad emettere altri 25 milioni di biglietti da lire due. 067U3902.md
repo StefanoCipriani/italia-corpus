@@ -18,7 +18,7 @@ IL MINISTRO DELLE FINANZE
  
  Veduto il [Decreto Ministeriale del 5 ottobre 1866, n. 3270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1866-10-05;3270), per effetto del quale il conto corrente tenuto tra la Banca nazionale e il Tesoro dello Stato pel mutuo di lire 250 milioni e' aumentato di altri 28 milioni di lire; 
  
- Veduto il [Regio Decreto 21 aprile 1867, n. 3649](../Regi%20decreti/Col%20quale%20la%20Banca%20Nazionale%20nel%20Regno%20dItalia%20e%20autorizzata%20ad%20emettere%20Biglietti%20di%20Banca%20da%20lire%20due.%20067U3649.md), ed il Decreto Ministeriale del 26 aprile, n. 3654; 
+ Veduto il [Regio Decreto 21 aprile 1867, n. 3649](Col%20quale%20la%20Banca%20Nazionale%20nel%20Regno%20dItalia%20e%20autorizzata%20ad%20emettere%20Biglietti%20di%20Banca%20da%20lire%20due.%20067U3649.md), ed il Decreto Ministeriale del 26 aprile, n. 3654; 
  
  DETERMINA: 
  

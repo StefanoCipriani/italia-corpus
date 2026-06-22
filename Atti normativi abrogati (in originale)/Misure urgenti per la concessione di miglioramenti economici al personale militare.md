@@ -94,7 +94,7 @@ Ai sottufficiali inquadrati nei livelli VI e VI-bis e' attribuito, a decorrere d
 
 10.
 
-I nuovi importi hanno effetto sulla tredicesima mensilita', sul trattamento ordinario di quiescenza, normale e privilegiato, sulle indennita' di buonuscita e di licenziamento, sull'assegno alimentare previsto dall'[articolo 82 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e da disposizioni analoghe, sull'equo indennizzo, sulle ritenute previdenziali ed assistenziali e relativi contributi, comprese le ritenute in conto entrate Tesoro, o altre analoghe, ed i contributi di riscatto, nonche' sulla determinazione degli importi dovuti per indennita' integrativa speciale, con esclusione a tale ultimo fine degli importi di cui ai commi 8 e 9.
+I nuovi importi hanno effetto sulla tredicesima mensilita', sul trattamento ordinario di quiescenza, normale e privilegiato, sulle indennita' di buonuscita e di licenziamento, sull'assegno alimentare previsto dall'[articolo 82 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e da disposizioni analoghe, sull'equo indennizzo, sulle ritenute previdenziali ed assistenziali e relativi contributi, comprese le ritenute in conto entrate Tesoro, o altre analoghe, ed i contributi di riscatto, nonche' sulla determinazione degli importi dovuti per indennita' integrativa speciale, con esclusione a tale ultimo fine degli importi di cui ai commi 8 e 9.
 
 11.
 

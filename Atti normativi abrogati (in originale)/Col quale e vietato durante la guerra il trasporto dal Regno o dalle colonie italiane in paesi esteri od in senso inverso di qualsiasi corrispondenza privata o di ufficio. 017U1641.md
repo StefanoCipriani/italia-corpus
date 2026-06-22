@@ -24,9 +24,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto l'articolo 3 del testo unico delle leggi postali approvato con [R. decreto del 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md); 
+ Visto l'articolo 3 del testo unico delle leggi postali approvato con [R. decreto del 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md); 
  
- Visto il [R. decreto del 23 maggio 1915, n. 689](../Regi%20decreti/Riguardante%20la%20censura%20postale%20in%20caso%20di%20circostanze%20straordinarie.%20015U0689.md); 
+ Visto il [R. decreto del 23 maggio 1915, n. 689](Riguardante%20la%20censura%20postale%20in%20caso%20di%20circostanze%20straordinarie.%20015U0689.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Fermo il disposto dell'articolo 3 del testo unico delle leggi postali, approvato con [R. decreto del 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), per quanto concerne il trasporto di corrispondenze da e per l'interno del Regno in contravvenzione alla privativa postale, e' vietato durante il periodo della guerra di trasportare dal Regno e dalle colonie italiane in paesi esteri, o in senso inverso, qualsiasi corrispondenza privata o di ufficio chiusa od aperta, salvo le esenzioni stabilite dal R. Governo. 
+ Fermo il disposto dell'articolo 3 del testo unico delle leggi postali, approvato con [R. decreto del 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), per quanto concerne il trasporto di corrispondenze da e per l'interno del Regno in contravvenzione alla privativa postale, e' vietato durante il periodo della guerra di trasportare dal Regno e dalle colonie italiane in paesi esteri, o in senso inverso, qualsiasi corrispondenza privata o di ufficio chiusa od aperta, salvo le esenzioni stabilite dal R. Governo. 
  
  Le infrazioni a questo divieto sono punite con la detenzione sino a tre mesi, salvo le maggiori pene comminate dalla [legge 21 marzo 1915, num. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md), alle quali possa dare luogo il contenuto delle corrispondenze. 
  

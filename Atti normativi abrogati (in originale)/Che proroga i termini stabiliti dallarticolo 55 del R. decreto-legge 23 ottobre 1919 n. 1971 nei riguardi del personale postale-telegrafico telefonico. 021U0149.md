@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visti i [Regi decreti 23 ottobre 1919, num. 1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-23;1971); [11 marzo 1920, n. 292](../Regi%20decreti/Concernente%20lapplicazione%20dei%20ruoli%20aperti%20al%20personale%20del%20R.%20corpo%20del%20genio%20civile.%20020U0292.md); [29 aprile 1920, n. 683](../Regi%20decreti/Che%20proroga%20i%20termini%20stabiliti%20dallarticolo%2055%20del%20R.%20decreto-legge%2023%20ottobre%201919%20n.%201971.%20020U0683.md); [22 luglio 1920, n. 1133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-07-22;1133), e [30 dicembre 1920, n. 1862](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-12-30;1862); 
+ Visti i [Regi decreti 23 ottobre 1919, num. 1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-23;1971); [11 marzo 1920, n. 292](Concernente%20lapplicazione%20dei%20ruoli%20aperti%20al%20personale%20del%20R.%20corpo%20del%20genio%20civile.%20020U0292.md); [29 aprile 1920, n. 683](Che%20proroga%20i%20termini%20stabiliti%20dallarticolo%2055%20del%20R.%20decreto-legge%2023%20ottobre%201919%20n.%201971.%20020U0683.md); [22 luglio 1920, n. 1133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-07-22;1133), e [30 dicembre 1920, n. 1862](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-12-30;1862); 
  
  Udito il Consiglio dei ministri; 
  

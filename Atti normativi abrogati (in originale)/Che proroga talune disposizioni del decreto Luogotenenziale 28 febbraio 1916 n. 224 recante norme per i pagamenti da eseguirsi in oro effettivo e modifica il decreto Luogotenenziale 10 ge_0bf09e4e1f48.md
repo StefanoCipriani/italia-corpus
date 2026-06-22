@@ -18,7 +18,7 @@ Veduto il [decreto Luogotenenziale 28 febbraio 1916, n. 224](https://www.normatt
 
 Veduto il [decreto Luogotenenziale 10 gennaio 1918, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-01-10;26), per la determinazione del corso ufficiale dell'oro;
 
-Veduto il [R. decreto 7 novembre 1920, n. 1717](../Regi%20decreti/Che%20proroga%20sino%20al%2030%20aprile%201921%20lefficacia%20dei%20decreti%20Luogotenenziali%2028%20febbraio%201916%20n.%20224%2010%20gennaio%201918%20n.26%2029%20settembre%2019l8%20n.%201410%20e%204%20giugno%201916%20n.%20675%20emanati%20in%20dipenden_25d90ab3d3c7.md), che ha prorogato per il termine di sei mesi dopo la data di cessazione dello stato di guerra la validita' dei decreti predetti;
+Veduto il [R. decreto 7 novembre 1920, n. 1717](Che%20proroga%20sino%20al%2030%20aprile%201921%20lefficacia%20dei%20decreti%20Luogotenenziali%2028%20febbraio%201916%20n.%20224%2010%20gennaio%201918%20n.26%2029%20settembre%2019l8%20n.%201410%20e%204%20giugno%201916%20n.%20675%20emanati%20in%20dipenden_25d90ab3d3c7.md), che ha prorogato per il termine di sei mesi dopo la data di cessazione dello stato di guerra la validita' dei decreti predetti;
 
 Sentito il Consiglio dei ministri;
 

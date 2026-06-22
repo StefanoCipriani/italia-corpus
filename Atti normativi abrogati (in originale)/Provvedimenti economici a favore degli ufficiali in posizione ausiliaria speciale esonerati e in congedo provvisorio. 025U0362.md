@@ -64,7 +64,7 @@ Le vedove e gli orfani degli ufficiali che, se non fossero deceduti, avrebbero p
 
 ## Art. 6.
 
-Agli ufficiali in congedo provvisorio e' concesso, dalla data d'attuazione del presente decreto, l'aumento d'indennita' militare assegnato per la famiglia ai sensi dell'ultimo comma dell'[art. 171 del Regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), restando in conseguenza abrogata, dalla data predetta, la disposizione del quarto comma dell'art. 174 del Regio decreto suindicato. 
+Agli ufficiali in congedo provvisorio e' concesso, dalla data d'attuazione del presente decreto, l'aumento d'indennita' militare assegnato per la famiglia ai sensi dell'ultimo comma dell'[art. 171 del Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), restando in conseguenza abrogata, dalla data predetta, la disposizione del quarto comma dell'art. 174 del Regio decreto suindicato. 
  
  Questo decreto andra' in vigore dal 1° aprile 1925 e sara' presentato al Parlamento per la conversione in legge. 
  

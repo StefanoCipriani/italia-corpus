@@ -25,7 +25,7 @@ E' autorizzato il pagamento delle spese ordinarie e straordinarie del Ministero 
 ## Art. 2.
 
 E' confermata, per l'esercizio finanziario 1946-47 la validita' dell'autorizzazione al Ministro per il tesoro a provvedere con propri decreti alle variazioni di bilancio dipendenti dall'attuazione dei provvedimenti sottoelencati, ai funi delle integrazioni che potranno occorrere agli stanziamenti recati dall'annesso stato di previsione del Ministero dei trasporti per le esigenze previste dai provvedimenti medesimi:
- 1) [decreto legislativo luogotenenziale 15 ottobre 1944, n. 346](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20eccezionali%20per%20la%20riattivazione%20dei%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata.%20044U0346.md) recante provvidenze eccezionali per la riattivazione dei pubblici servizi di trasporto concessi all'industria privata.
+ 1) [decreto legislativo luogotenenziale 15 ottobre 1944, n. 346](Provvidenze%20eccezionali%20per%20la%20riattivazione%20dei%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata.%20044U0346.md) recante provvidenze eccezionali per la riattivazione dei pubblici servizi di trasporto concessi all'industria privata.
  2) [decreto legislativo luogotenenziale 1° febbraio 1945, n. 46](../Decreti%20legislativi%20luogotenenziali/Disciplina%20del%20pagamento%20delle%20indegnita%20di%20requisizione%20degli%20autoveicoli%20requisiti%20dalle%20Autorita%20Alleate.%20045U0046.md), concernente la disciplina del pagamento delle indennita' di requisizione degli autoveicoli requisiti dalle Autorita' Alleate.
 
 ## Art. 3.

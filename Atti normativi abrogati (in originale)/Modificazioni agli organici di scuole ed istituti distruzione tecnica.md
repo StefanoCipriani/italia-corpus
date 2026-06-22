@@ -18,7 +18,7 @@ A decorrere dal 1° ottobre 1941 sono approvate le tabelle organiche delle Regie
 
 ## Art. 3.
 
-A decorrere dal 1° ottobre 1942 e' istituito un posto di segretario economo di ruolo nel Regio istituito tecnico commerciale di Macomer e la tabella organica approvata con [R. decreto 23 febbraio 1942, n. 418](../Regi%20decreti/Approvazione%20delle%20tabelle%20organiche%20dei%20Regi%20istituti%20tecnici%20commerciali%20e%20per%20geometri%20ed%20inferiori%20isolati%20e%20delle%20Regie%20scuole%20tecniche%20commerciali%20istituiti%20a%20decorrere%20dal%2016%20ottob_01073e05b079.md), e' sostituita dal quella allegata al presente decreto, vista e firmata, dal Ministro per la pubblica istruzione.
+A decorrere dal 1° ottobre 1942 e' istituito un posto di segretario economo di ruolo nel Regio istituito tecnico commerciale di Macomer e la tabella organica approvata con [R. decreto 23 febbraio 1942, n. 418](Approvazione%20delle%20tabelle%20organiche%20dei%20Regi%20istituti%20tecnici%20commerciali%20e%20per%20geometri%20ed%20inferiori%20isolati%20e%20delle%20Regie%20scuole%20tecniche%20commerciali%20istituiti%20a%20decorrere%20dal%2016%20ottob_01073e05b079.md), e' sostituita dal quella allegata al presente decreto, vista e firmata, dal Ministro per la pubblica istruzione.
 
 ## Art. 4.
 

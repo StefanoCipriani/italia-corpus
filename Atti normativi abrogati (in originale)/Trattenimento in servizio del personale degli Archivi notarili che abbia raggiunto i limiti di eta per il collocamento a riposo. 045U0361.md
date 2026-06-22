@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il Ministro per la grazia e giustizia ha facolta' di trattenere in servizio, non oltre sei mesi dalla data di cessazione dello stato di guerra, gli impiegati e gli uscieri degli Archivi notarili che entro tale termine raggiungono i limiti di eta' e di servizio stabiliti per il collocamento a riposo dall'[art. 15 del R. decreto legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737#art_15), sul nuovo ordinamento degli Archivi notarili, convertito in legge con la [legge, 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md).
+Il Ministro per la grazia e giustizia ha facolta' di trattenere in servizio, non oltre sei mesi dalla data di cessazione dello stato di guerra, gli impiegati e gli uscieri degli Archivi notarili che entro tale termine raggiungono i limiti di eta' e di servizio stabiliti per il collocamento a riposo dall'[art. 15 del R. decreto legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737#art_15), sul nuovo ordinamento degli Archivi notarili, convertito in legge con la [legge, 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md).
 
 ## Art. 2.
 

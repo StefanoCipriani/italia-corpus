@@ -265,7 +265,7 @@ Per le domande di privativa riguardanti invenzioni utili alla difesa militare de
 L'invenzione deve essere tenuta segreta dopo la comunicazione della richiesta di differimento e fino allo spirare del termine di cui all'articolo precedente, nonche' durante lo svolgimento dell'espropriazione comunicata nel termine anzidetto e posteriormente al decreto di espropriazione, che menzioni l'obbligo del segreto.
 L'invenzione deve essere altresi' tenuta segreta nell'ipotesi prevista all'art. 12, dopo la comunicazione all'interessato della determinazione di promuovere l'espropriazione con imposizione del segreto. 
  
- Tuttavia l'obbligo del segreto cessa qualora il Ministero competente manifesti al riguardo il suo consenso. La violazione del segreto e' punita a termini dell'[art. 262 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Tuttavia l'obbligo del segreto cessa qualora il Ministero competente manifesti al riguardo il suo consenso. La violazione del segreto e' punita a termini dell'[art. 262 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 38.
 
@@ -369,7 +369,7 @@ I diritti di privativa, nonche' quelli derivanti dalle domande in corso, possono
 
 L'espropriazione ha luogo per decreto reale, su proposta del Ministro competente, di concerto con il Ministro per le corporazioni e con quello per le finanze, sentito il Consiglio dei Ministri se il provvedimento interessa la difesa militare del Paese o il Consiglio delle privative industriali e dei marchi negli altri casi. 
  
- Quando il decreto di espropriazione nell'interesse della difesa militare del Paese viene emanato prima della stampa prescritta nell'art. 32, potra' menzionare l'obbligo e la durata del segreto sull'oggetto dell'invenzione, la cui violazione e' punita ai sensi dell'[art. 262 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Quando il decreto di espropriazione nell'interesse della difesa militare del Paese viene emanato prima della stampa prescritta nell'art. 32, potra' menzionare l'obbligo e la durata del segreto sull'oggetto dell'invenzione, la cui violazione e' punita ai sensi dell'[art. 262 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 52.
 

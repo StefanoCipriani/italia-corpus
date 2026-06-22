@@ -18,7 +18,7 @@ Visto il [R. decreto 19 ottobre 1919, n. 2060](https://www.normattiva.it/uri-res
 
 Vista la [legge 23 settembre 1920, n. 1365](Che%20converte%20in%20legge%20il%20R.%20decreto%2018%20ottobre%201919%20n.%202060%20relativo%20alla%20istituzione%20dellEnte%20autonomo%20dellAcquedotto%20pugliese.%20020U1365.md), con la quale venne modificato e convalidato il citato decreto;
 
-Visto il [R. decreto 4 marzo 1923, n. 543](../Regi%20decreti/Che%20scioglie%20il%20Consiglio%20damministrazione%20dellEnte%20autonomo%20per%20lAcquedotto%20Pugliesi%20e%20provvede%20per%20la%20nomina%20di%20un%20R.%20commissario%20023U0543.md), col quale, in virtu' della delegazione dei poteri conferiti al Governo con la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md), fu sciolto, a decorrere dal 16 marzo detto, il Consiglio di amministrazione dell'Ente e ne furono affidate le attribuzioni all'ing. Gaetano Postigliene, stabilendosi che, in qualita' di Regio commissario, le avrebbe esercitate fino a nuove disposizioni;
+Visto il [R. decreto 4 marzo 1923, n. 543](Che%20scioglie%20il%20Consiglio%20damministrazione%20dellEnte%20autonomo%20per%20lAcquedotto%20Pugliesi%20e%20provvede%20per%20la%20nomina%20di%20un%20R.%20commissario%20023U0543.md), col quale, in virtu' della delegazione dei poteri conferiti al Governo con la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md), fu sciolto, a decorrere dal 16 marzo detto, il Consiglio di amministrazione dell'Ente e ne furono affidate le attribuzioni all'ing. Gaetano Postigliene, stabilendosi che, in qualita' di Regio commissario, le avrebbe esercitate fino a nuove disposizioni;
 
 Ritenuta l'opportunita' di ripristinare l'Amministrazione normale prevista della legge istituzionale dell'Ente;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di
 
 ## Art. 1.
 
-A decorrere dal 15 aprile 1925 il Regio commissario dell'Ente autonomo per l'Acquedotto pugliese, nominato col [R. decreto 4 marzo 1923, n. 543](../Regi%20decreti/Che%20scioglie%20il%20Consiglio%20damministrazione%20dellEnte%20autonomo%20per%20lAcquedotto%20Pugliesi%20e%20provvede%20per%20la%20nomina%20di%20un%20R.%20commissario%20023U0543.md), cessa dalle sue funzioni ed il Consiglio di amministrazione dell'Ente e' ricostituito. Esso sara' composto di un presidente, di un vice-presidente, nominati per decreto Reale su proposta del Ministro per i lavori pubblici, sentito il Consiglio dei Ministri e di: 
+A decorrere dal 15 aprile 1925 il Regio commissario dell'Ente autonomo per l'Acquedotto pugliese, nominato col [R. decreto 4 marzo 1923, n. 543](Che%20scioglie%20il%20Consiglio%20damministrazione%20dellEnte%20autonomo%20per%20lAcquedotto%20Pugliesi%20e%20provvede%20per%20la%20nomina%20di%20un%20R.%20commissario%20023U0543.md), cessa dalle sue funzioni ed il Consiglio di amministrazione dell'Ente e' ricostituito. Esso sara' composto di un presidente, di un vice-presidente, nominati per decreto Reale su proposta del Ministro per i lavori pubblici, sentito il Consiglio dei Ministri e di: 
  
  a) due membri (uno tecnico ed uno amministrativo) nominati dal Ministero dei lavori pubblici; 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-All'art. 2 del sopracitato [R. decreto 9 agosto 1912, n. 1127](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lapplicazione%20della%20tassa%20della%20Camera%20di%20commercio%20di%20Pesaro.%20012U1127.md), e' sostituito il seguente: 
+All'art. 2 del sopracitato [R. decreto 9 agosto 1912, n. 1127](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lapplicazione%20della%20tassa%20della%20Camera%20di%20commercio%20di%20Pesaro.%20012U1127.md), e' sostituito il seguente: 
  
  «L'aliquota di detta tassa non potra' oltrepassare il limite di L. 1 per ogni cento lire di reddito netto. Entro il limite accennato la Camera di commercio e industria di Pesaro sottoporra' ogni anno all'approvazione del Ministero per l'industria, il commercio e il lavoro l'aliquota effettiva di tassa da applicarsi nell'anno successivo». 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'art. 5 del testo unico delle disposizioni riflettenti l'ordinamento della Commissione Suprema di difesa ed il servizio degli osservatori industriali approvato con [R. decreto 8 gennaio 1928, n. 165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20riflettenti%20lordinamento%20della%20Commissione%20Suprema%20di%20difesa%20ed%20il%20servizio%20degli%20osservatori%20industriali.%20028U0165.md);
+Visto l'art. 5 del testo unico delle disposizioni riflettenti l'ordinamento della Commissione Suprema di difesa ed il servizio degli osservatori industriali approvato con [R. decreto 8 gennaio 1928, n. 165](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20riflettenti%20lordinamento%20della%20Commissione%20Suprema%20di%20difesa%20ed%20il%20servizio%20degli%20osservatori%20industriali.%20028U0165.md);
 
 Ritenuta la necessita' assoluta ed urgente di stabilire il trattamento economico del presidente del Comitato per la mobilitazione civile, anche in seguito alla sua cessazione dai ruoli del Regio esercito per limiti di eta';
 

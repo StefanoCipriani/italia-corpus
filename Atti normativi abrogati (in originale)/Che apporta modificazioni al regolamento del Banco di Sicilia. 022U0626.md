@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il testo unico di legge sugli Istituti di emissione approvato con il [R. decreto 28 aprile 1910, numero 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md);
+Veduto il testo unico di legge sugli Istituti di emissione approvato con il [R. decreto 28 aprile 1910, numero 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md);
 
 Veduto il [R. decreto 2 agosto 1908, n. 584](Che%20approva%20lannesso%20statuto%20del%20Banco%20di%20Sicilia.%20008U0584.md), col quale fu approvato lo statuto del Banco di Sicilia;
 
@@ -1856,7 +1856,7 @@ Puo', pero', a richiesta del depositante, estinguerla anche prima del detto term
  
  Art. 233.-a). 
  
- Per il baratto in tutte le Provincie del Regno dei biglietti di propria emissione, previsto dagli articoli 8 e 9 del testo unico di legge sugli Istituti di emissione, approvato con [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), nonche' per il pagamento dei titoli nominativi, pagabili a vista (vaglia cambiari, assegni bancari, titoli apodissari) il Banco ha facolta' di nominare a norma dell'art. 27, n. 7 dello statuto, e previo nulla osta del Ministero del tesoro propri rappresentanti legali, scegliendoli, fra banche e ditte bancarie di riconosciuta solidita'. 
+ Per il baratto in tutte le Provincie del Regno dei biglietti di propria emissione, previsto dagli articoli 8 e 9 del testo unico di legge sugli Istituti di emissione, approvato con [R. decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), nonche' per il pagamento dei titoli nominativi, pagabili a vista (vaglia cambiari, assegni bancari, titoli apodissari) il Banco ha facolta' di nominare a norma dell'art. 27, n. 7 dello statuto, e previo nulla osta del Ministero del tesoro propri rappresentanti legali, scegliendoli, fra banche e ditte bancarie di riconosciuta solidita'. 
  
  Art. 233.-b). 
  
@@ -2361,7 +2361,7 @@ In tale computo le frazioni di tempo inferiori ad un mese si trascurano.
  
  Art. 274. 
  
- Il Consiglio generale determina annualmente il limite di somma da destinarsi per i collocamenti a riposo, ai termini dell'art. 4 del testo unico sulle pensioni degli impiegati dello Stato, approvato con [Regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
+ Il Consiglio generale determina annualmente il limite di somma da destinarsi per i collocamenti a riposo, ai termini dell'art. 4 del testo unico sulle pensioni degli impiegati dello Stato, approvato con [Regio decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
  
  Art. 275. 
  
@@ -2635,7 +2635,7 @@ In tale computo le frazioni di tempo inferiori ad un mese si trascurano.
  
  Art. 296.-b). 
  
- Oltre che nei casi previsti dagli articoli precedenti, l'impiegato condannato per qualunque delitto o contravvenzione ad una qualsiasi delle pene indicate nell'[art. 11 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ovvero prosciolto o assolto con le formule ricordate nell'ultimo comma dell'art. 296, puo' dal Consiglio di amministrazione essere sottoposto a procedimento disciplinare. 
+ Oltre che nei casi previsti dagli articoli precedenti, l'impiegato condannato per qualunque delitto o contravvenzione ad una qualsiasi delle pene indicate nell'[art. 11 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ovvero prosciolto o assolto con le formule ricordate nell'ultimo comma dell'art. 296, puo' dal Consiglio di amministrazione essere sottoposto a procedimento disciplinare. 
  
  Art. 296.-c). 
  

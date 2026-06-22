@@ -20,7 +20,7 @@ Con effetto dal giorno della entrata in vigore della presente legge, l'importo d
 
 ## Art. 2.
 
-La corresponsione della indennita' prevista dall'[articolo 8 del decreto del Presidente della Repubblica 24 ottobre 1955, n. 1323](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20delle%20norme%20del%20titolo%20III%20della%20legge%2029%20aprile%201949%20n.%20264%20concernenti%20lestensione%20dellassicurazione%20obbligatoria%20contro%20la%20disoccupazione_3fa8ab5bfe2b.md), avverra', sin dalla rata del gennaio 1961, nella nuova misura di cui all'articolo precedente e per l'intero periodo al quale la erogazione si riferisce.
+La corresponsione della indennita' prevista dall'[articolo 8 del decreto del Presidente della Repubblica 24 ottobre 1955, n. 1323](../DPR/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20delle%20norme%20del%20titolo%20III%20della%20legge%2029%20aprile%201949%20n.%20264%20concernenti%20lestensione%20dellassicurazione%20obbligatoria%20contro%20la%20disoccupazione_3fa8ab5bfe2b.md), avverra', sin dalla rata del gennaio 1961, nella nuova misura di cui all'articolo precedente e per l'intero periodo al quale la erogazione si riferisce.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

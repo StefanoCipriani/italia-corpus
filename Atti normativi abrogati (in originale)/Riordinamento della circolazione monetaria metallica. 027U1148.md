@@ -22,7 +22,7 @@ Visto che il termine assegnato per il ritiro di dette monete e' stato con succes
 
 Visto il [R. decreto-legge 7 settembre 1926, n. 1506](Provvedimenti%20sulla%20circolazione%20dei%20biglietti%20di%20banca.%20026U1506.md);
 
-Visto il [R. decreto 16 settembre 1926, n. 1631](../Regi%20decreti/Fabbricazione%20ed%20emissione%20di%20monete%20di%20argento%20da%20L.%205%20e%20da%20L.%2010.%20026U1631.md), col quale venne autorizzata la fabbricazione e l'emissione di nuove monete di argento da L. 10 e da L. 5;
+Visto il [R. decreto 16 settembre 1926, n. 1631](Fabbricazione%20ed%20emissione%20di%20monete%20di%20argento%20da%20L.%205%20e%20da%20L.%2010.%20026U1631.md), col quale venne autorizzata la fabbricazione e l'emissione di nuove monete di argento da L. 10 e da L. 5;
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla facolta' del potere esecutivo di emanare norme giuridiche;
 

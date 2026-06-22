@@ -29,7 +29,7 @@ Con decreto Reale, su proposta del Ministro per le corporazioni, di concerto, in
  Dette norme dovranno essere osservate da chiunque assuma od occupi altri al lavoro alle proprie dipendenze e sia obbligato all'osservanza delle leggi indicate nel comma precedente.
 Nell'anzidetto decreto Reale potra' essere prescritto che, in determinati casi, le norme medesime dovranno essere osservate, in tutto o in parte, da colui che presta la sua opera alle dipendenze altrui. 
  
- Con lo stesso decreto Reale potra' essere comminata, per la violazione delle norme ivi contenute, la pena dell'ammenda fino a L. 10.000, ferma rimanendo la facolta' concessa al giudice dall'[articolo 26,comma 2°, del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Con lo stesso decreto Reale potra' essere comminata, per la violazione delle norme ivi contenute, la pena dell'ammenda fino a L. 10.000, ferma rimanendo la facolta' concessa al giudice dall'[articolo 26,comma 2°, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 

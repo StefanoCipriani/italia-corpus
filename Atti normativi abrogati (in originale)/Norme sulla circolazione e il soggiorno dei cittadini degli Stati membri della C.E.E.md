@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 13 luglio 1965, n. 871](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md);
+Vista la [legge 13 luglio 1965, n. 871](Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md);
 
 Vista la direttiva della Comunita' economica europea n. 64/220 pubblicata nella "Gazzetta Ufficiale" della Comunita' economica europea n. 56 del 4 aprile 1964;
 
@@ -22,7 +22,7 @@ Visto l'art. 5 della direttiva della Comunita' economica europea n. 64/224 pubbl
 
 Vista la direttiva della Comunita' economica europea n. 64/240 pubblicata nella "Gazzetta Ufficiale" della Comunita' economica europea n. 62 del 17 aprile 1964;
 
-Sentita la Commissione parlamentare di cui all'[articolo 3 della legge 13 luglio 1965, n. 871](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md);
+Sentita la Commissione parlamentare di cui all'[articolo 3 della legge 13 luglio 1965, n. 871](Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -71,7 +71,7 @@ I cittadini di uno degli Stati membri della Comunita' economica europea - divers
 
 Il soggiorno per i cittadini di uno Stato membro della Comunita' economica europea che si stabiliscono sul territorio della Repubblica per esercitarvi un'attivita' non subordinata ha la durata di cinque anni ed e' prorogabile automaticamente.
  Salvo misure giustificate da motivi di ordine pubblico o di pubblica sicurezza riferentisi al comportamento personale dell'individuo, le persone di cui agli articoli 1, 2, 3 e 4 possono soggiornare su tutto il territorio nazionale.
- Nei confronti delle stesse persone non si applica la disposizione di cui al [secondo comma dell'art. 142 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
+ Nei confronti delle stesse persone non si applica la disposizione di cui al [secondo comma dell'art. 142 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
 
 ## Art. 6.
 
@@ -126,7 +126,7 @@ I passaporti e le carte d'identita' concessi o rinnovati ai cittadini che si rec
 
 ## Art. 14.
 
-Gli agenti, rappresentanti, commessi viaggiatori e piazzisti di cui all'[art. 127 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), nonche' gli istitutori ed i rappresentanti di case estere di cui all'art. 243 del regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), qualora siano cittadini di uno Stato membro della Comunita' economica europea, sono tenuti a munirsi della sola copia della licenza concessa alla ditta rappresentata provando la loro qualita' mediante certificato, rilasciato dalle competenti autorita' del luogo dove ha sede la ditta.
+Gli agenti, rappresentanti, commessi viaggiatori e piazzisti di cui all'[art. 127 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), nonche' gli istitutori ed i rappresentanti di case estere di cui all'art. 243 del regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), qualora siano cittadini di uno Stato membro della Comunita' economica europea, sono tenuti a munirsi della sola copia della licenza concessa alla ditta rappresentata provando la loro qualita' mediante certificato, rilasciato dalle competenti autorita' del luogo dove ha sede la ditta.
 
 ## Art. 15.
 

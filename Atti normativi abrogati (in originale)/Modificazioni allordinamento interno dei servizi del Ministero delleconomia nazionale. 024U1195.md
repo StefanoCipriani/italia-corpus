@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti i Regi decreti 6 settembre e 14 ottobre 1923, nn. 2125 e 2286, circa la costituzione e l'ordinamento degli uffici e dei servizi del Ministero dell'economia nazionale;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3244](../Regi%20decreti/Passaggio%20dei%20tratturi%20di%20Paglia%20e%20delle%20trazzere%20di%20Sicilia%20dalla%20dipendenza%20del%20Ministero%20delle%20finanze%20a%20quella%20del%20Ministero%20delleconomia%20nazionale.%20023U3244.md), concernente il passaggio dei servizi dalla dipendenza del Ministero delle finanze a quella del Ministero dell'economia nazionale;
+Visto il [R. decreto 30 dicembre 1923, n. 3244](Passaggio%20dei%20tratturi%20di%20Paglia%20e%20delle%20trazzere%20di%20Sicilia%20dalla%20dipendenza%20del%20Ministero%20delle%20finanze%20a%20quella%20del%20Ministero%20delleconomia%20nazionale.%20023U3244.md), concernente il passaggio dei servizi dalla dipendenza del Ministero delle finanze a quella del Ministero dell'economia nazionale;
 
 Udito il Consiglio dei Ministri;
 

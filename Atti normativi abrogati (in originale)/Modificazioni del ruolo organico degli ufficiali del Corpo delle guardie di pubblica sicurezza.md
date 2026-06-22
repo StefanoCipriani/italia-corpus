@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 26 gennaio 1942, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-26;39);
 
-Visto il [decreto legislativo luogotenenziale 15 febbraio 1945, n. 43](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md);
+Visto il [decreto legislativo luogotenenziale 15 febbraio 1945, n. 43](Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151) e il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
@@ -30,11 +30,11 @@ Il ruolo organico degli ufficiali del Corpo delle guardie di pubblica sicurezza,
  -- -- 899
  10° e 11° - Maestro-direttore della banda . . . . . . . . . . . . 1 
  -- -- 900 
- L'organico come sopra stabilito e' comprensivo delle variazioni in aumento del ruolo degli ufficiali del Corpo delle guardie di pubblica sicurezza previste dall'[art. 3 del decreto legislativo luogotenenziale 15 febbraio 1945, n. 43](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md), a seguito dell'inquadramento in soprannumero degli ufficiali provenienti dal soppresso Corpo di polizia dell'Africa italiana.
+ L'organico come sopra stabilito e' comprensivo delle variazioni in aumento del ruolo degli ufficiali del Corpo delle guardie di pubblica sicurezza previste dall'[art. 3 del decreto legislativo luogotenenziale 15 febbraio 1945, n. 43](Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md), a seguito dell'inquadramento in soprannumero degli ufficiali provenienti dal soppresso Corpo di polizia dell'Africa italiana.
 
 ## Art. 2.
 
-Ove per effetto dell'[art. 2 del decreto legislativo luogotenenziale 15 febbraio 1945, n. 43](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md), risultasse inquadrato in qualcuno dei gradi del ruolo degli ufficiali del Corpo delle guardie di pubblica sicurezza un numero di ufficiali maggiore di quello previsto dall'organico Stabilito dall'art. 1 del presente decreto, l'inquadramento in detto grado si intendera' effettuato in soprannumero, salvo riassorbimento con le successive vacanze.
+Ove per effetto dell'[art. 2 del decreto legislativo luogotenenziale 15 febbraio 1945, n. 43](Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md), risultasse inquadrato in qualcuno dei gradi del ruolo degli ufficiali del Corpo delle guardie di pubblica sicurezza un numero di ufficiali maggiore di quello previsto dall'organico Stabilito dall'art. 1 del presente decreto, l'inquadramento in detto grado si intendera' effettuato in soprannumero, salvo riassorbimento con le successive vacanze.
  Durante la eventuale permanenza in servizio degli ufficiali in soprannumero, saranno tenuti vacanti altrettanti posti nel grado immediatamente inferiore.
 
 ## Art. 3.

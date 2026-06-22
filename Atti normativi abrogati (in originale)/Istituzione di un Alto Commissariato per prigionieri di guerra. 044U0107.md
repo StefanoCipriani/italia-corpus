@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la legge di guerra, approvata con [R. decreto 8 luglio 1938, n. 1415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-07-08;1415);
 
-Visto il [R. decreto 23 ottobre 1930, n. 1615](../Regi%20decreti/Approvazione%20dei%20seguenti%20Atti%20internazionali%20stipulati%20a%20Ginevra%20il%2027%20luglio%201929%20fra%20lItalia%20ed%20altri%20Stati%20a%20Convenzione%20per%20il%20miglioramento%20della%20sorte%20dei%20feriti%20e%20dei%20malati%20negli_048b51416bf8.md), che da' esecuzione nel Regno alla convenzione stipulata a Ginevra il 27 luglio 1929, relativa al trattamento dei prigionieri di guerra;
+Visto il [R. decreto 23 ottobre 1930, n. 1615](Approvazione%20dei%20seguenti%20Atti%20internazionali%20stipulati%20a%20Ginevra%20il%2027%20luglio%201929%20fra%20lItalia%20ed%20altri%20Stati%20a%20Convenzione%20per%20il%20miglioramento%20della%20sorte%20dei%20feriti%20e%20dei%20malati%20negli_048b51416bf8.md), che da' esecuzione nel Regno alla convenzione stipulata a Ginevra il 27 luglio 1929, relativa al trattamento dei prigionieri di guerra;
 
 Visto l'[art. 18 della legge 19 gennaio 1939, n. 129](Istituzione%20della%20Camera%20dei%20Fasci%20e%20delle%20Corporazioni.%20039U0129.md);
 

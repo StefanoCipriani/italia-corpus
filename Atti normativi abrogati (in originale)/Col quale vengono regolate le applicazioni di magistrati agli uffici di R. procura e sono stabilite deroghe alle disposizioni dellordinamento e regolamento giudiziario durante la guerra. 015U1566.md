@@ -14,7 +14,7 @@ Durante la guerra e fino a sei mesi dopo la pubblicazione della pace avranno vig
 
 1.
 
-Quando risulti indispensabile per straordinari bisogni del servizio, e non si possa provvedere in conformita' di quanto dispone il [R. decreto 13 maggio 1915, n. 798](../Regi%20decreti/Col%20quale%20vengono%20stabilite%20le%20norme%20per%20lapplicazione%20dei%20funzionari%20del%20Pubblico%20ministero.%20015U0798.md), i procuratori generali di Corte d'appello, previa autorizzazione del Ministero, possono applicare alle RR. procure del distretto, con le funzioni di sostituti procuratori del Re, i pretori dello stesso distretto, di 1ª e 2ª categoria. 
+Quando risulti indispensabile per straordinari bisogni del servizio, e non si possa provvedere in conformita' di quanto dispone il [R. decreto 13 maggio 1915, n. 798](Col%20quale%20vengono%20stabilite%20le%20norme%20per%20lapplicazione%20dei%20funzionari%20del%20Pubblico%20ministero.%20015U0798.md), i procuratori generali di Corte d'appello, previa autorizzazione del Ministero, possono applicare alle RR. procure del distretto, con le funzioni di sostituti procuratori del Re, i pretori dello stesso distretto, di 1ª e 2ª categoria. 
  
  Alle stesse condizioni puo' il Ministero applicare i pretori alle RR. procure di un distretto diverso. 
  

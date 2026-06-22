@@ -26,7 +26,7 @@ Ai territori annessi al Regno in virtu' delle [leggi 26 settembre 1920, n. 1322 
  
  a) [legge 23 gennaio 1902, n. 25](Concernente%20sgravio%20di%20consumi%20ed%20altri%20provvedimenti%20finanziari%20002U0025.md), allegato C, (articoli 2, 4, 6, 8, 9, 10, 11, 20) e relativo regolamento (art. 1 a 19) approvato col [R. D. 23 marzo 1902, n. 114](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%2023%20gennaio%201902%20n.%2025%20allegato%20C%20riguardante%20le%20tasse%20sugli%20affari.%20002U0114.md); 
  
- b) [R. decreto 14 aprile 1910, n. 639 (art. 2](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md) e [3](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md)); 
+ b) [R. decreto 14 aprile 1910, n. 639 (art. 2](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md) e [3](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md)); 
  
  c) [R. decreto 22 maggio 1910, n. 316](Che%20approva%20lannesso%20regolamento%20per%20la%20procedura%20dei%20ricorsi%20amministrativi%20sulle%20dilazioni%20a%20pagamento%20e%20sugli%20annullamenti%20di%20crediti%20in%20materia%20di%20tasse%20sugli%20affari.%20010U0316.md); 
  

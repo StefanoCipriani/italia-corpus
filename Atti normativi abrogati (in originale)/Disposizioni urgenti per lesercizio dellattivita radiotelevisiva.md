@@ -36,7 +36,7 @@ In attesa della riforma complessiva del sistema radiotelevisivo e delle telecomu
 
 1.
 
-Su proposta del Ministro delle poste e delle telecomunicazioni, secondo le procedure di cui all'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), e in applicazione dell'[articolo 4, comma 1, della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), sono adottati, entro novanta giorni dalla data di entrata in vigore del presente decreto, i regolamenti per l'attuazione:
+Su proposta del Ministro delle poste e delle telecomunicazioni, secondo le procedure di cui all'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), e in applicazione dell'[articolo 4, comma 1, della legge 9 marzo 1989, n. 86](Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), sono adottati, entro novanta giorni dalla data di entrata in vigore del presente decreto, i regolamenti per l'attuazione:
                         a)
                             della [direttiva 95/51/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;51), riguardante l'uso di reti televisive via cavo per la fornitura di servizi di telecomunicazioni gia' liberalizzati;
                         b)

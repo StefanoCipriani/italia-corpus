@@ -44,7 +44,7 @@ I sergenti si reclutano fra i caporali maggiori ed i caporali di leva o volontar
  
  E' fatta facolta' al ministro della guerra di reclutare i sergenti anche dagli allievi sottufficiali di appositi reparti di istruzione, che abbiano ultimato con successo il corso stabilito per la nomina a sergente. 
  
- Sono conservate le fonti di reclutamento di sergenti indicate alle lettere c, d, e, f, g dell'art. 1 del testo unico delle leggi sullo stato dei sottufficiali approvato con [R. decreto 6 maggio 1909, n. 272](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20R.%20esercito.%20009U0272.md). Anche questi sergenti potranno acquistare diritto ai benefici concessi dalla presente legge, ove assumano la ferma di tre anni.
+ Sono conservate le fonti di reclutamento di sergenti indicate alle lettere c, d, e, f, g dell'art. 1 del testo unico delle leggi sullo stato dei sottufficiali approvato con [R. decreto 6 maggio 1909, n. 272](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20R.%20esercito.%20009U0272.md). Anche questi sergenti potranno acquistare diritto ai benefici concessi dalla presente legge, ove assumano la ferma di tre anni.
 
 ## Art. 4.
 
@@ -150,7 +150,7 @@ In caso di morte del sottufficiale, i premi a cui questi avesse acquisito diritt
 
 Durante il tredicesimo anno di servizio, il sottufficiale puo' fare domanda d'impiego civile e, se riconosciuto idoneo alle relative funzioni, acquista titolo ad ottenerlo nel limite dei posti vacanti. 
  
- Non puo' aspirare ad impiego civile il sottufficiale raffermato con premio, di cui all'art. 12 del testo unico delle leggi sullo stato dei sottufficiali approvato con [R. decreto 6 maggio 1909, n. 272](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20R.%20esercito.%20009U0272.md).
+ Non puo' aspirare ad impiego civile il sottufficiale raffermato con premio, di cui all'art. 12 del testo unico delle leggi sullo stato dei sottufficiali approvato con [R. decreto 6 maggio 1909, n. 272](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20R.%20esercito.%20009U0272.md).
 
 ## Art. 19.
 
@@ -215,7 +215,7 @@ II sottufficiale, collocato a riposo a venti anni di servizio, ha diritto ad una
 
 ## Art. 24.
 
-E' abolito, per i sottufficiali, l'aumento del quinto della pensione stabilito dall'art. 90 del testo unico delle leggi sulle pensioni approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), per i graduati di truppa che abbiano compiuto dodici anni di servizio effettivo nello stesso grado.
+E' abolito, per i sottufficiali, l'aumento del quinto della pensione stabilito dall'art. 90 del testo unico delle leggi sulle pensioni approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), per i graduati di truppa che abbiano compiuto dodici anni di servizio effettivo nello stesso grado.
 
 ## Art. 25.
 
@@ -223,7 +223,7 @@ La pensione di riforma del sottufficiale e' ragguagliata a tanti quarantesimi de
 
 ## Art. 26.
 
-La pensione dei sottufficiali che vengano collocati a riposo per ferite od infermita' contratte per cause di servizio, sara' liquidata secondo gli articoli 100 e 101 del testo unico delle leggi sulle pensioni approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), ragguagliando il massimo ai sette decimi dell'assegno complessivo goduto nell'ultimo anno di servizio ed il minimo alla meta' dell'assegno complessivo medesimo.
+La pensione dei sottufficiali che vengano collocati a riposo per ferite od infermita' contratte per cause di servizio, sara' liquidata secondo gli articoli 100 e 101 del testo unico delle leggi sulle pensioni approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), ragguagliando il massimo ai sette decimi dell'assegno complessivo goduto nell'ultimo anno di servizio ed il minimo alla meta' dell'assegno complessivo medesimo.
 
 ## Art. 27.
 
@@ -324,7 +324,7 @@ I sottufficiali, che abbiano compiuto dodici anni di servizio e non oltrepassino
 
 ### Art. 37.
 
-I sottufficiali, che non abbiano o non acquistino diritto a nessuno dei premi di cui all'art. 12 e sieno dispensati dal servizio, riformati o retrocessi senza diritto a pensione, otterranno l'indennita' stabilita dallo art. 11 del testo unico delle leggi sullo stato dei sottufficiali approvato con [R. decreto 6 maggio 1909, n. 272](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20R.%20esercito.%20009U0272.md).
+I sottufficiali, che non abbiano o non acquistino diritto a nessuno dei premi di cui all'art. 12 e sieno dispensati dal servizio, riformati o retrocessi senza diritto a pensione, otterranno l'indennita' stabilita dallo art. 11 del testo unico delle leggi sullo stato dei sottufficiali approvato con [R. decreto 6 maggio 1909, n. 272](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20R.%20esercito.%20009U0272.md).
 
 ### Art. 38.
 

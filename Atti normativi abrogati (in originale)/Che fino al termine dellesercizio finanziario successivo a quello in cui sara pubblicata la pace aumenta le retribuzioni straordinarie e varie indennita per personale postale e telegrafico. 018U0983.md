@@ -44,7 +44,7 @@ Alle attuali mercedi corrisposte ai guardafili allievi a norma dell'articolo 34 
 
 ## Art. 6.
 
-Alle indennita' dovute agli agenti di manutenzione con dirigenza di squadra, nonche' agli agenti di manutenzione ed agli allievi guardafili con sorveglianza di tronco, ai sensi della tabella annessa al [R. decreto n. 1515 del 14 novembre 1913](../Regi%20decreti/Col%20quale%20vengono%20apportate%20alcune%20modificazioni%20alle%20tabelle%20di%20indennita%20per%20missione%20ed%20ispezioni%20dovute%20ai%20funzionari%20dipendenti%20dal%20Ministero%20delle%20poste%20e%20dei%20telegrafi.%20013U1515.md) e del citato articolo 34 del regolamento speciale per il personale di 3ª categoria, e fuori ruolo, e' aggiunto un supplemento giornaliero di L. 1,50 per ogni indennita' di soggiorno e di L. 1,00 per ogni indennita' di pernottazione.
+Alle indennita' dovute agli agenti di manutenzione con dirigenza di squadra, nonche' agli agenti di manutenzione ed agli allievi guardafili con sorveglianza di tronco, ai sensi della tabella annessa al [R. decreto n. 1515 del 14 novembre 1913](Col%20quale%20vengono%20apportate%20alcune%20modificazioni%20alle%20tabelle%20di%20indennita%20per%20missione%20ed%20ispezioni%20dovute%20ai%20funzionari%20dipendenti%20dal%20Ministero%20delle%20poste%20e%20dei%20telegrafi.%20013U1515.md) e del citato articolo 34 del regolamento speciale per il personale di 3ª categoria, e fuori ruolo, e' aggiunto un supplemento giornaliero di L. 1,50 per ogni indennita' di soggiorno e di L. 1,00 per ogni indennita' di pernottazione.
 
 ## Art. 7.
 

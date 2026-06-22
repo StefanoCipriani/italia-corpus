@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-L'[art. 3 del R. decreto 23 maggio 1915, n. 687](../Regi%20decreti/Col%20quale%20e%20autorizzata%20la%20emissione%20di%20cartoline%20e%20buste%20speciali%20in%20esenzione%20di%20tasse%20postali%20per%20la%20corrispondenza%20dei%20militari%20del%20R.%20esercito%20e%20della%20R.%20marina.%20015U0687.md), gia' variato dall'art. 2 del decreto Luogotenenziale 20 luglio 9116, n. 905, e' modificato come segue: 
+L'[art. 3 del R. decreto 23 maggio 1915, n. 687](Col%20quale%20e%20autorizzata%20la%20emissione%20di%20cartoline%20e%20buste%20speciali%20in%20esenzione%20di%20tasse%20postali%20per%20la%20corrispondenza%20dei%20militari%20del%20R.%20esercito%20e%20della%20R.%20marina.%20015U0687.md), gia' variato dall'art. 2 del decreto Luogotenenziale 20 luglio 9116, n. 905, e' modificato come segue: 
  
  «Le cartoline di che ai precedenti articoli sono distribuite ai militari ed assimilati dell'esercito mobilitato e dell'armata nella misura di quattro alla settimana». 
  

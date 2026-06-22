@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 Per la sistemazione dell'idrovia Padova-Venezia, il cui importo e' preventivato in 7,6 miliardi di lire, e' autorizzata la spesa di 6,6 miliardi di lire da inserire nello stato di previsione della spesa del Ministero dei lavori pubblici in ragione di 400 milioni nell'esercizio finanziario 1962-63, di 1 miliardo nell'esercizio finanziario 1963-64 di 2 miliardi negli esercizi finanziari dal 1964-65 al 1965-66 e di 1 miliardo e 200 milioni nello esercizio finanziario 1966-67.
- La residua, spesa di 1 miliardo di lire sara' sostenuta dagli enti locali interessati e sara' detratta dai contributi che risulteranno in definitiva dovuti dagli enti locali medesimi ai sensi dell'articolo 6, terzo comma, del testo unico delle disposizioni di legge sulla navigazione interna, approvato con [regio decreto 11 luglio 1913, n. 959](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20navigazione%20interna%20e%20sulla%20fluitazione.%20013U0959.md).
+ La residua, spesa di 1 miliardo di lire sara' sostenuta dagli enti locali interessati e sara' detratta dai contributi che risulteranno in definitiva dovuti dagli enti locali medesimi ai sensi dell'articolo 6, terzo comma, del testo unico delle disposizioni di legge sulla navigazione interna, approvato con [regio decreto 11 luglio 1913, n. 959](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20navigazione%20interna%20e%20sulla%20fluitazione.%20013U0959.md).
 
 ## Art. 2.
 

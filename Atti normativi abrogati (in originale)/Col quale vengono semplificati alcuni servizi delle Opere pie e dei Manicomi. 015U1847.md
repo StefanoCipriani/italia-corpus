@@ -38,7 +38,7 @@ Gli [articoli 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:189
  
  D) Dopo il secondo comma dell'articolo 80 e' aggiunto il seguente: 
  
- «Nelle controversie di cui alla lettera a) la Giunta provinciale amministrativa si pronuncia con la composizione indicata nell'art. 13 del lesto unico delle leggi sulle attribuzioni giurisdizionali della Giunta provinciale amministrativa approvato con [R. decreto 17 agosto 1907, n. 639](../Regi%20decreti/Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0639.md), e con la procedura prescritta nell'art. 125 del regolamento amministrativo per l'esecuzione della presente legge. 
+ «Nelle controversie di cui alla lettera a) la Giunta provinciale amministrativa si pronuncia con la composizione indicata nell'art. 13 del lesto unico delle leggi sulle attribuzioni giurisdizionali della Giunta provinciale amministrativa approvato con [R. decreto 17 agosto 1907, n. 639](Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0639.md), e con la procedura prescritta nell'art. 125 del regolamento amministrativo per l'esecuzione della presente legge. 
  
  La decisione della Giunta e' omessa in Camera di Consiglio, senta ministero di avvocato, e viene redatta su carta libera». 
  

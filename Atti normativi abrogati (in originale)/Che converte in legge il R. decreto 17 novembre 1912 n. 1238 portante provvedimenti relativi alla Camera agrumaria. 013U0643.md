@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto 17 novembre 1912, n. 1238](../Regi%20decreti/Portante%20provvedimenti%20a%20favore%20della%20Camera%20agrumaria%20012U1238.md), col quale la Camera agrumaria e' autorizzata a concedere anticipazioni ai depositanti dell'esercizio 1912-913 in conformita' alle disposizioni dell'[art. 3 della legge 31 luglio 1911, n. 839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-31;839#art_3), relative alle anticipazioni ai depositanti dell'esercizio 1911-912.
+E' convertito in legge il [R. decreto 17 novembre 1912, n. 1238](Portante%20provvedimenti%20a%20favore%20della%20Camera%20agrumaria%20012U1238.md), col quale la Camera agrumaria e' autorizzata a concedere anticipazioni ai depositanti dell'esercizio 1912-913 in conformita' alle disposizioni dell'[art. 3 della legge 31 luglio 1911, n. 839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-31;839#art_3), relative alle anticipazioni ai depositanti dell'esercizio 1911-912.
 
 ## Art. 2.
 

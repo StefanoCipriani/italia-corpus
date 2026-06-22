@@ -50,7 +50,7 @@ Il ricorso sulla misura del compenso deve essere proposto al ministro della mari
 
 ## Art. 8.
 
-A chiunque per dolo o per negligenza non adempia agli oneri derivanti dalla requisizione, sono applicabili le pene stabilite rispettivamente dalla prima e dalla seconda parte dell'[art. 205 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+A chiunque per dolo o per negligenza non adempia agli oneri derivanti dalla requisizione, sono applicabili le pene stabilite rispettivamente dalla prima e dalla seconda parte dell'[art. 205 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 9.
 

@@ -18,7 +18,7 @@ Visto il [decreto legislativo 19 settembre 1994, n. 626](Attuazione%20delle%20di
 
 adattato alla nuova normativa comunitaria sulla sicurezza del lavoro;
 
-Vista la [legge 12 aprile 1995, n. 146](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20protocollo%20alla%20convenzione%20sullinquinamento%20atmosferico%20transfrontaliero%20a%20lunga%20distanza%20concernente%20la%20lotta%20contro%20le%20emissioni%20di%20composti%20organici%20volatil_a219e05ca9c7.md), in applicazione del
+Vista la [legge 12 aprile 1995, n. 146](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20protocollo%20alla%20convenzione%20sullinquinamento%20atmosferico%20transfrontaliero%20a%20lunga%20distanza%20concernente%20la%20lotta%20contro%20le%20emissioni%20di%20composti%20organici%20volatil_a219e05ca9c7.md), in applicazione del
 
 protocollo delle Nazioni Unite per la riduzione delle emissioni di composti organici volatili, e dell'impegno dell'Italia alla riduzione di tali emissioni nella misura del 30 per cento entro il 2000 rispetto al 1990;
 
@@ -38,7 +38,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-I sindaci dei comuni con oltre 150.000 abitanti, ovvero con un numero di abitanti inferiore se e' installato un sistema di rilevamento della qualita' dell'aria, per gli effetti dell'[articolo 7 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), allo scopo di prevenire le emissioni inquinanti, con particolare riferimento al benzene e agli idrocarburi policiclici aromatici, possono vietare come misura programmata, permanente o temporanea, la circolazione nei centri abitati di tutte o di alcune categorie di autoveicoli non conformi alle [direttive 91/441/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;441), [91/542/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;542) e [93/59/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;59), fatti salvi gli autoveicoli che effettuano controlli almeno semestrali secondo quanto previsto dalla [direttiva 92/55/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;55).
+I sindaci dei comuni con oltre 150.000 abitanti, ovvero con un numero di abitanti inferiore se e' installato un sistema di rilevamento della qualita' dell'aria, per gli effetti dell'[articolo 7 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), allo scopo di prevenire le emissioni inquinanti, con particolare riferimento al benzene e agli idrocarburi policiclici aromatici, possono vietare come misura programmata, permanente o temporanea, la circolazione nei centri abitati di tutte o di alcune categorie di autoveicoli non conformi alle [direttive 91/441/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;441), [91/542/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;542) e [93/59/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;59), fatti salvi gli autoveicoli che effettuano controlli almeno semestrali secondo quanto previsto dalla [direttiva 92/55/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;55).
 
 ## Art. 2.
 
@@ -93,7 +93,7 @@ Ferme restando le disposizioni penali di cui al [decreto legislativo 19 settembr
 
 1.
 
-Le disposizioni di cui all'[articolo 11, comma 3, del decreto del Presidente della Repubblica 26 agosto 1993, n. 412](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20la%20progettazione%20linstallazione%20lesercizio%20e%20la%20manutenzione%20degli%20impianti%20termici%20degli%20edifici%20ai%20fini%20del%20contenimento%20dei%20consumi%20di%20energia%20in%20attuazio_9b3be45049cf.md), si applicano esclusivamente agli impianti termici di potenza nominale superiore a 600 kW, a decorrere dal 1 ottobre 1995, ed a quelli superiori a 350 kW, a decorrere dal 1 giugno 1996.
+Le disposizioni di cui all'[articolo 11, comma 3, del decreto del Presidente della Repubblica 26 agosto 1993, n. 412](../DPR/Regolamento%20recante%20norme%20per%20la%20progettazione%20linstallazione%20lesercizio%20e%20la%20manutenzione%20degli%20impianti%20termici%20degli%20edifici%20ai%20fini%20del%20contenimento%20dei%20consumi%20di%20energia%20in%20attuazio_9b3be45049cf.md), si applicano esclusivamente agli impianti termici di potenza nominale superiore a 600 kW, a decorrere dal 1 ottobre 1995, ed a quelli superiori a 350 kW, a decorrere dal 1 giugno 1996.
 
 ## Art. 5.
 

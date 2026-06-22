@@ -22,9 +22,9 @@ In virtu' dell'autorita' a Noi delegata;
 
 In forza dei poteri conferiti al Governo del Re, con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Visto il [R. decreto 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), che approva il nuovo testo unico delle leggi postali;
+Visto il [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), che approva il nuovo testo unico delle leggi postali;
 
-Visto il [R. decreto 20 giugno 1909, n. 637](../Regi%20decreti/Che%20estende%20alla%20corrispondenza%20telegrafica%20nellinterno%20del%20Regno%20le%20regole%20di%20servizio%20contenute%20nel%20regolamento%20telegrafico%20internazionale%20riveduto%20e%20firmato%20a%20Lisbona%20approvato%20col%20R.%20_8c946e70b533.md), che stabilisce le norme speciali per il servizio telegrafico interno;
+Visto il [R. decreto 20 giugno 1909, n. 637](Che%20estende%20alla%20corrispondenza%20telegrafica%20nellinterno%20del%20Regno%20le%20regole%20di%20servizio%20contenute%20nel%20regolamento%20telegrafico%20internazionale%20riveduto%20e%20firmato%20a%20Lisbona%20approvato%20col%20R.%20_8c946e70b533.md), che stabilisce le norme speciali per il servizio telegrafico interno;
 
 Visto il [decreto Luogotenenziale 14 luglio 1918, numero 986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-07-14;986), che aumenta le tariffe postali e telegrafiche;
 

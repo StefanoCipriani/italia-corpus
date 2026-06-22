@@ -134,7 +134,7 @@ In tutti i comuni del Regno si terranno appositi registri, in cui saranno indica
 
 ## Art. 18.
 
-Le pene pecuniarie comminate nella presente legge saranno applicate senza pregiudizio delle penalita' stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), qualora chi e' colpito dalla multa incorresse in qualche reato da esso Codice contemplato.
+Le pene pecuniarie comminate nella presente legge saranno applicate senza pregiudizio delle penalita' stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), qualora chi e' colpito dalla multa incorresse in qualche reato da esso Codice contemplato.
 
 ## Art. 19.
 

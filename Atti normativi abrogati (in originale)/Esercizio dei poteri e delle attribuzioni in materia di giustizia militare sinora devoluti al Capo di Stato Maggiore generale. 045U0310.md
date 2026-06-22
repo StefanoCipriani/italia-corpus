@@ -20,7 +20,7 @@ Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visti gli [articoli 17](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [245](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [270 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra;
+Visti gli [articoli 17](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [245](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [270 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra;
 
 Visto l'ordinamento giudiziario militare, approvato con [R. decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md);
 
@@ -64,7 +64,7 @@ L'alta vigilanza del servizio della giustizia penale militare di guerra e' eserc
 
 ## Art. 6.
 
-Al Comandante supremo per le disposizioni di sua competenza concernenti l'inizio e l'esercizio dell'azione penale, previste dagli [articoli 245](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [270 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra, e' sostituito il Ministro della Forza armata, cui appartiene il colpevole. 
+Al Comandante supremo per le disposizioni di sua competenza concernenti l'inizio e l'esercizio dell'azione penale, previste dagli [articoli 245](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [270 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra, e' sostituito il Ministro della Forza armata, cui appartiene il colpevole. 
  
  Quando vi siano piu' colpevoli appartenenti a diverse Forze armate, provvede il Ministro della Forza armata cui appartiene il colpevole piu' elevato in grado.
 
@@ -72,7 +72,7 @@ Al Comandante supremo per le disposizioni di sua competenza concernenti l'inizio
 
 Il bando del 1° agosto 1943, e quello n. 212 del 25 agosto 1943, e n. 6 del 1° ottobre 1943, contenenti norme sui poteri e le attribuzioni del Capo di Stato Maggiore generale in materia di giustizia militare, sono abrogati. 
  
- Eccettuato il potere di bando, previsto dall'[art. 17 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra i poteri e le attribuzioni che spettano al Comandante supremo, in forza di qualsivoglia disposizione contenuta nelle leggi penali militari, sono esercitate, quando non sia diversamente disposto dal presente decreto, dal Ministro di quella Forza armata, cui appartiene il militare o dalla quale dipende l'estraneo alle Forze armate imputato o condannato. 
+ Eccettuato il potere di bando, previsto dall'[art. 17 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra i poteri e le attribuzioni che spettano al Comandante supremo, in forza di qualsivoglia disposizione contenuta nelle leggi penali militari, sono esercitate, quando non sia diversamente disposto dal presente decreto, dal Ministro di quella Forza armata, cui appartiene il militare o dalla quale dipende l'estraneo alle Forze armate imputato o condannato. 
  
  Quando vi siano piu' colpevoli dipendenti da diversi Ministeri, provvede il Ministro, da cui dipende il militare piu' elevato in grado.
 

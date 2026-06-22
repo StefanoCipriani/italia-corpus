@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle disposizioni legislative riguardanti gli ufficiali di complemento della Marina, approvato con [regio decreto 16 maggio 1932, n. 819](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20032U0819.md), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative riguardanti gli ufficiali di complemento della Marina, approvato con [regio decreto 16 maggio 1932, n. 819](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20032U0819.md), e successive modificazioni;
 
-Visto il Regolamento sul reclutamento degli ufficiali della marina, approvato con [regio decreto 7 giugno 1928, n. 1823](../Regi%20decreti/Regolamento%20sul%20reclutamento%20degli%20ufficiali%20di%20complemento%20della%20Regia%20marina%20ed%20abrogazione%20del%20regolamento%20approvato%20col%20R.%20decreto%203%20maggio%201923%20n.%201129.%20028U1823.md);
+Visto il Regolamento sul reclutamento degli ufficiali della marina, approvato con [regio decreto 7 giugno 1928, n. 1823](Regolamento%20sul%20reclutamento%20degli%20ufficiali%20di%20complemento%20della%20Regia%20marina%20ed%20abrogazione%20del%20regolamento%20approvato%20col%20R.%20decreto%203%20maggio%201923%20n.%201129.%20028U1823.md);
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, numero 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), modificato dalla [legge 4 settembre 1940, n. 1547](Modificazione%20allart.%201%20della%20legge%2031%20gennaio%201926-VI%20n.%20100%20sulla%20facolta%20del%20Potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20040U1547.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per la marina militare, d'intesa con i Ministri per 
 
 ## Art. 1.
 
-Il reclutamento degli ufficiali commissari di complemento ai sensi degli articoli 7 e seguenti del Regolamento approvato con [regio decreto 7 giugno 1928, numero 1823](../Regi%20decreti/Regolamento%20sul%20reclutamento%20degli%20ufficiali%20di%20complemento%20della%20Regia%20marina%20ed%20abrogazione%20del%20regolamento%20approvato%20col%20R.%20decreto%203%20maggio%201923%20n.%201129.%20028U1823.md), si effettua anche fra gli iscritti alla leva marittima laureati in scienze politiche, in scienze economico-marittime, in scienze statistiche e demografiche ed in scienze statistiche e attuariali.
+Il reclutamento degli ufficiali commissari di complemento ai sensi degli articoli 7 e seguenti del Regolamento approvato con [regio decreto 7 giugno 1928, numero 1823](Regolamento%20sul%20reclutamento%20degli%20ufficiali%20di%20complemento%20della%20Regia%20marina%20ed%20abrogazione%20del%20regolamento%20approvato%20col%20R.%20decreto%203%20maggio%201923%20n.%201129.%20028U1823.md), si effettua anche fra gli iscritti alla leva marittima laureati in scienze politiche, in scienze economico-marittime, in scienze statistiche e demografiche ed in scienze statistiche e attuariali.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

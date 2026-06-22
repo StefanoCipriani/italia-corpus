@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 11 luglio 1929, n. 1250](../Regi%20decreti/Norme%20per%20la%20definizione%20delle%20vertenze%20cavalleresche%20tra%20militari.%20029U1250.md), e successive modificazioni;
+Visto il [regio decreto 11 luglio 1929, n. 1250](Norme%20per%20la%20definizione%20delle%20vertenze%20cavalleresche%20tra%20militari.%20029U1250.md), e successive modificazioni;
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la guerra, di concerto con i Ministri per la mar
 
 ## Art. 1.
 
-Le vertenze cavalleresche tra militari delle Forze armate sorte e non definite durante la guerra, in prigionia e durante il periodo di armistizio, sono sottoposte ad uno speciale giuri' d'onore formato nel modo stabilito dagli articoli seguenti, anche se gia' un giuri' d'onore costituito a senso del [regio decreto 11 luglio 1929, numero 1250](../Regi%20decreti/Norme%20per%20la%20definizione%20delle%20vertenze%20cavalleresche%20tra%20militari.%20029U1250.md), abbia emesso dichiarazione di non intervento.
+Le vertenze cavalleresche tra militari delle Forze armate sorte e non definite durante la guerra, in prigionia e durante il periodo di armistizio, sono sottoposte ad uno speciale giuri' d'onore formato nel modo stabilito dagli articoli seguenti, anche se gia' un giuri' d'onore costituito a senso del [regio decreto 11 luglio 1929, numero 1250](Norme%20per%20la%20definizione%20delle%20vertenze%20cavalleresche%20tra%20militari.%20029U1250.md), abbia emesso dichiarazione di non intervento.
 
 ## Art. 2.
 
@@ -43,7 +43,7 @@ I militari, anche se gia' congedati, hanno l'obbligo di segnalare al Comando mil
 
 ## Art. 5.
 
-Il giuri' d'onore speciale si pronuncia inappellabilmente nei modi stabiliti dall'[art. 7 del regio decreto 11 luglio 1929, n. 1250](../Regi%20decreti/Norme%20per%20la%20definizione%20delle%20vertenze%20cavalleresche%20tra%20militari.%20029U1250.md).
+Il giuri' d'onore speciale si pronuncia inappellabilmente nei modi stabiliti dall'[art. 7 del regio decreto 11 luglio 1929, n. 1250](Norme%20per%20la%20definizione%20delle%20vertenze%20cavalleresche%20tra%20militari.%20029U1250.md).
  Esso deve tener presenti:
  a) le speciali circostanze in cui sorsero durante la guerra, in prigionia o in campi di internamento, in periodo di armistizio, molte vertenze cavalleresche tra militari e l'opportunita' morale e disciplinare di affermare che la coscienza dei sacrifici compiuti insieme deve ritenersi sufficiente motivo per le parti, a cancellare il ricordo di ogni attrito e contrasto personale e a sinceramente conciliarsi;
  b) che gli avvenimenti successivi all'inizio delle varie vertenze potrebbero avere promosso la conciliazione dei contendenti, alcuni dei quali potrebbero avere partecipato insieme alle stesse azioni;

@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il testo unico di legge sugli istituti di emissione approvato con il [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md); 
+ Veduto il testo unico di legge sugli istituti di emissione approvato con il [R. decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md); 
  
  Veduti gli articoli 20 e 27 dello statuto del Banco di Napoli approvato con [R. decreto 2 agosto 1908, n. 506](Che%20approva%20lannesso%20statuto%20del%20Banco%20di%20Napoli.%20008U0506.md); 
  

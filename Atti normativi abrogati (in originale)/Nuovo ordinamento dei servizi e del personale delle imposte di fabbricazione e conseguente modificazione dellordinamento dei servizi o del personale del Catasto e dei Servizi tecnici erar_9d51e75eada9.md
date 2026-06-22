@@ -16,11 +16,11 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinameuto gerarchico delle Amministrazioni dello Stato, e successive variazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinameuto gerarchico delle Amministrazioni dello Stato, e successive variazioni;
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato, e successive modificazioni;
 
-Visto il [R. decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), che ha approvato il regolamento per il personale degli Uffici finanziari, e successive variazioni;
+Visto il [R. decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), che ha approvato il regolamento per il personale degli Uffici finanziari, e successive variazioni;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -44,7 +44,7 @@ Sono istituiti, alla dipendenza della Direzione generale delle dogane e delle im
 
 ## Art. 2.
 
-Agli Uffici tecnici delle imposte di fabbricazione sono attribuiti tutti i servizi attualmente disimpegnati dagli Uffici tecnici erariali a mezzo della loro Sezione 2ª, a termini dell'[art. 3 del R. decreto 22 ottobre 1936, n. 2007](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20il%20personale%20degli%20Uffici%20finanziari%20per%20quanto%20si%20riferisce%20al%20personale%20del%20catasto%20e%20dei%20servizi%20tecnici%20erariali.%20036U2007.md), e dell'art. 30, n. II, del decreto Ministeriale 1° dicembre 1936.
+Agli Uffici tecnici delle imposte di fabbricazione sono attribuiti tutti i servizi attualmente disimpegnati dagli Uffici tecnici erariali a mezzo della loro Sezione 2ª, a termini dell'[art. 3 del R. decreto 22 ottobre 1936, n. 2007](Modificazioni%20al%20regolamento%20per%20il%20personale%20degli%20Uffici%20finanziari%20per%20quanto%20si%20riferisce%20al%20personale%20del%20catasto%20e%20dei%20servizi%20tecnici%20erariali.%20036U2007.md), e dell'art. 30, n. II, del decreto Ministeriale 1° dicembre 1936.
 
 ## Art. 3.
 
@@ -77,7 +77,7 @@ Le stesse norme valgono per il reclutamento al grado iniziale del ruolo di grupp
 
 ## Art. 8.
 
-Per le promozioni ai gradi 8° e 9° nei ruoli di gruppo A ai cui alle unite tabelle A e B, saranno applicate le disposizioni stabilite nel [R. decreto 20 novembre 1930, n. 1482](../Regi%20decreti/Norme%20per%20gli%20esami%20di%20promozione%20nei%20ruoli%20dei%20personali%20civili%20di%20gruppo%20A.%20030U1482.md).
+Per le promozioni ai gradi 8° e 9° nei ruoli di gruppo A ai cui alle unite tabelle A e B, saranno applicate le disposizioni stabilite nel [R. decreto 20 novembre 1930, n. 1482](Norme%20per%20gli%20esami%20di%20promozione%20nei%20ruoli%20dei%20personali%20civili%20di%20gruppo%20A.%20030U1482.md).
 
 ## Art. 9.
 
@@ -119,7 +119,7 @@ Sono trasferiti dall'attuale ruolo di gruppo A «ingegneri» del personale del C
 
 Il personale trasferito di cui al precedente art. 13, sara' inquadrato nel ruolo di gruppo A di cui nell'unita tabella A con il grado e nell'ordine di anzianita' in cui si trova nel ruolo di provenienza. 
  
- Dopo l'inquadramento di cui sopra i posti nel grado 8° del nuovo ruolo di cui nell'unita tabella A, saranno conferiti nei limiti, alle condizioni e con le modalita' stabilite nel [R. decreto 22 novembre 1937, n. 1933](../Regi%20decreti/Modificazioni%20alle%20norme%20riguardanti%20la%20promozione%20al%20grado%20ottavo%20nei%20ruoli%20di%20personali%20civili%20di%20gruppo%20A%20delle%20Amministrazioni%20statali.%20037U1933.md), integrato dal successivo [R. decreto 19 maggio 1938, n. 617](../Regi%20decreti/Integrazioni%20alle%20norme%20sulla%20promozione%20al%20grado%20ottavo%20del%20personale%20civile%20di%20gruppo%20A%20delle%20Amministrazioni%20statali.%20038U0617.md). 
+ Dopo l'inquadramento di cui sopra i posti nel grado 8° del nuovo ruolo di cui nell'unita tabella A, saranno conferiti nei limiti, alle condizioni e con le modalita' stabilite nel [R. decreto 22 novembre 1937, n. 1933](Modificazioni%20alle%20norme%20riguardanti%20la%20promozione%20al%20grado%20ottavo%20nei%20ruoli%20di%20personali%20civili%20di%20gruppo%20A%20delle%20Amministrazioni%20statali.%20037U1933.md), integrato dal successivo [R. decreto 19 maggio 1938, n. 617](Integrazioni%20alle%20norme%20sulla%20promozione%20al%20grado%20ottavo%20del%20personale%20civile%20di%20gruppo%20A%20delle%20Amministrazioni%20statali.%20038U0617.md). 
  
  I posti che rimarranno disponibili nel grado 9° saranno conferiti mediante promozioni per anzianita' congiunta al merito ai funzionari del grado 10°, come sopra trasferiti, che abbiano almeno due anni di effettivo servizio di gruppo A. 
  

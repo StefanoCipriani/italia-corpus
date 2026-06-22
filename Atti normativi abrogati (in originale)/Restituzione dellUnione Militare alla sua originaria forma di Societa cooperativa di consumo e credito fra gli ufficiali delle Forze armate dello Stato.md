@@ -14,7 +14,7 @@ Visto il [regio decreto legislativo 10 maggio 1946, n. 262](../Regi%20decreti%20
 
 Visto il [regio decreto-legge 27 ottobre 1926, n. 1999](Trasformazione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20Ente%20autonomo%20avente%20personalita%20giuridica%20propria.%20026U1999.md), portante trasformazione della gia' Societa' cooperativa "Unione Militare" in ente autonomo avente personalita' giuridica propria;
 
-Visto il testo unico delle disposizioni legislative sul predetto Ente, approvato con [regio decreto 3 marzo 1937, n. 375](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sulla%20costituzione%20dellEnte%20autonomo%20Unione%20Militare.%20037U0375.md), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative sul predetto Ente, approvato con [regio decreto 3 marzo 1937, n. 375](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sulla%20costituzione%20dellEnte%20autonomo%20Unione%20Militare.%20037U0375.md), e successive modificazioni;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -53,7 +53,7 @@ Entro il termine di 60 giorni dalla data della consegna delle attivita' patrimon
 
 ## Art. 6.
 
-A decorrere dal giorno dell'effettuato trapasso del patrimonio dell'Ente alla Societa' cooperativa, cesseranno di aver vigore le disposizioni di cui al [regio decreto-legge 27 ottobre 1926, n. 1999](Trasformazione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20Ente%20autonomo%20avente%20personalita%20giuridica%20propria.%20026U1999.md), del testo unico approvato con [regio decreto 3 marzo 1937, n. 375](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sulla%20costituzione%20dellEnte%20autonomo%20Unione%20Militare.%20037U0375.md), e quella del regolamento generale, approvato con [regio decreto 31 marzo 1938, n. 732](../Regi%20decreti/Regolamento%20generale%20per%20il%20funzionamento%20dellUnione%20militare.%20038U0732.md), salvo la compilazione e il deposito dell'ultimo bilancio del soppresso Ente, per i quali si appureranno le norme di cui all'art 10 del predetto testo unico giusta quanto disposto dal precedente art. 4.
+A decorrere dal giorno dell'effettuato trapasso del patrimonio dell'Ente alla Societa' cooperativa, cesseranno di aver vigore le disposizioni di cui al [regio decreto-legge 27 ottobre 1926, n. 1999](Trasformazione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20Ente%20autonomo%20avente%20personalita%20giuridica%20propria.%20026U1999.md), del testo unico approvato con [regio decreto 3 marzo 1937, n. 375](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sulla%20costituzione%20dellEnte%20autonomo%20Unione%20Militare.%20037U0375.md), e quella del regolamento generale, approvato con [regio decreto 31 marzo 1938, n. 732](Regolamento%20generale%20per%20il%20funzionamento%20dellUnione%20militare.%20038U0732.md), salvo la compilazione e il deposito dell'ultimo bilancio del soppresso Ente, per i quali si appureranno le norme di cui all'art 10 del predetto testo unico giusta quanto disposto dal precedente art. 4.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

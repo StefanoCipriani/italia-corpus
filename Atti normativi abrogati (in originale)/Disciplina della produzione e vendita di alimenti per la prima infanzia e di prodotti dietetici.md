@@ -34,7 +34,7 @@ Coloro che alla data di entrata in vigore della presente legge producono aliment
 ## Art. 5.
 
 Chiunque produce o importa, a scopo di vendita alimenti per la prima infanzia e prodotti dietetici senza le autorizzazioni previste nella presente legge, e' punito con l'ammenda fino a lire cinquecentomila.
- Con la stessa pena e' punito chiunque produce o importa a scopo di vendita alimenti per la prima infanzia e prodotti dietetici non corrispondenti alle norme del regolamento o li pone in commercio o in vendita in recipienti o involucri con caratteristiche diverse da quelle prescritte, salvo che il fatto non costituisca reato secondo le norme del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Con la stessa pena e' punito chiunque produce o importa a scopo di vendita alimenti per la prima infanzia e prodotti dietetici non corrispondenti alle norme del regolamento o li pone in commercio o in vendita in recipienti o involucri con caratteristiche diverse da quelle prescritte, salvo che il fatto non costituisca reato secondo le norme del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  In caso di condanna l'Alto Commissario puo' revocare l'autorizzazione o sospenderla per un periodo non superiore ad un anno.
  In caso di recidiva specifica l'ammenda stabilita nei commi primo e secondo del presente articolo puo' essere aumentata fino al doppio.
 

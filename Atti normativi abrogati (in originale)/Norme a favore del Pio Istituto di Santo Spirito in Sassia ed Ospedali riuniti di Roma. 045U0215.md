@@ -24,7 +24,7 @@ Vista la [legge 24 marzo 1907, n. 110](Portante%20provvedimenti%20a%20favore%20d
 
 Visto il R. .[decreto-legge 18 aprile 1920, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1920-04-18;481);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2841](../Regi%20decreti/Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md);
+Visto il [R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md);
 
 Visto il [R. decreto-legge 6 novembre 1924, n. 1961](Sistemazione%20finanziaria%20del%20Pio%20istituto%20di%20Santo%20Spirito%20in%20Sassia%20ed%20Ospedali%20riuniti%20di%20Roma.%20024U1961.md);
 

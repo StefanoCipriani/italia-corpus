@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il testo dell'art. 4 della tariffa, allegato A alla legge di registro approvata con [regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), modificato dal [regio decreto-legge 9 maggio 1935, n. 606](Agevolazioni%20tributarie%20in%20materia%20di%20tasse%20di%20registro.%20035U0606.md), e' sostituito dal seguente:
+Il testo dell'art. 4 della tariffa, allegato A alla legge di registro approvata con [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), modificato dal [regio decreto-legge 9 maggio 1935, n. 606](Agevolazioni%20tributarie%20in%20materia%20di%20tasse%20di%20registro.%20035U0606.md), e' sostituito dal seguente:
  a) cessioni pro-soluto e pro-solvendo di crediti e retrocessione di crediti, lire 1,50 per cento;
  b) cessioni pro-soluto e pro-solvendo di crediti, stipulate in relazione alle operazioni di cui alla lettera b) dell'art. 28 della presente tariffa, lire 0,50 per cento;
  c) cessioni pro-soluto e pro-solvendo di annualita' o contributi governativi e di enti pubblici nonche' di crediti verso pubbliche amministrazioni, stipulate in relazione alle operazioni di cui alla lettera c) dell'art. 28 della presente tariffa, lire 0,25 per cento.
@@ -26,7 +26,7 @@ Le dette aliquote si applicano all'intero ammontare dei crediti ceduti anche se 
 
 ## Art. 2.
 
-Il testo dell'art. 28 della tariffa allegato A. alla legge di registro approvata con [regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e' sostituito dal seguente:
+Il testo dell'art. 28 della tariffa allegato A. alla legge di registro approvata con [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e' sostituito dal seguente:
  Obbligazioni di somme di denaro:
  a) obbligazioni di somme di denaro, promesse di pagare, prestiti, promesse di prestiti, aperture di crediti, ricognizioni di debito anche per mezzo di alienazione di rendite sul debito pubblico, ed in genere tutti gli atti e contratti che contengono obbligo di somme e valori senza liberalita', e senza che l'obbligo sia il corrispettivo di una trasmissione di mobili ed immobili non registrata, e non sia stata altrimenti sottoposta a imposta di registro, lire 1,50 per cento.
  Se l'obbligazione di somma deriva da contratti di cambio marittimo, lire 0,50 per cento;

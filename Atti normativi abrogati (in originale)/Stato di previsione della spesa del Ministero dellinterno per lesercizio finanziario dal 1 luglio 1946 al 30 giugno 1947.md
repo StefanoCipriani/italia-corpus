@@ -56,16 +56,16 @@ E' stabilito in L. 400.000.000, per l'esercizio finanziario 1946-47, lo stanziam
 
 ## Art. 7.
 
-Sono abrogate, a decorrere dall'esercizio 1946-47, le disposizioni di cui al [regio decreto-legge 12 agosto 1937, n. 1492](Norme%20per%20la%20concessione%20e%20la%20erogazione%20dei%20premi%20di%20nuzialita%20e%20natalita%20agli%20appartenenti%20alle%20Forze%20armate%20in%20servizio%20permanente%20effettivo%20ed%20agli%20impiegati%20statali%20per%20gli%20eventi%20fa_0ef987f3741c.md), convertito nella [legge 23 dicembre 1937 numero 2286](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20agosto%201937-XV%20n.%201492%20recante%20norme%20per%20la%20concessione%20e%20la%20erogazione%20dei%20premi%20di%20nuzialita%20e%20natalita%20agli%20appartenenti%20alle%20Forze%20armate%20_e55c73849b67.md), e successive variazioni, concernente la corresponsione e l'erogazione di premi di nuzialita' e natalita'.
+Sono abrogate, a decorrere dall'esercizio 1946-47, le disposizioni di cui al [regio decreto-legge 12 agosto 1937, n. 1492](Norme%20per%20la%20concessione%20e%20la%20erogazione%20dei%20premi%20di%20nuzialita%20e%20natalita%20agli%20appartenenti%20alle%20Forze%20armate%20in%20servizio%20permanente%20effettivo%20ed%20agli%20impiegati%20statali%20per%20gli%20eventi%20fa_0ef987f3741c.md), convertito nella [legge 23 dicembre 1937 numero 2286](Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20agosto%201937-XV%20n.%201492%20recante%20norme%20per%20la%20concessione%20e%20la%20erogazione%20dei%20premi%20di%20nuzialita%20e%20natalita%20agli%20appartenenti%20alle%20Forze%20armate%20_e55c73849b67.md), e successive variazioni, concernente la corresponsione e l'erogazione di premi di nuzialita' e natalita'.
 
 ## Art. 8.
 
 E' confermata per l'esercizio finanziario 1946-47 la validita' dell'autorizzazione al Ministro per il tesoro di provvedere con propri decreti alle variazioni di bilancio dipendenti dall'attuazione dei provvedimenti sotto elencati, ai fini delle integrazioni che potranno occorrere agli stanziamenti recati dall'annesso stato) di previsione per le esigenze previste dai provvedimenti medesimi:
 
  [Regio decreto-legge 30 novembre 1937, n. 2145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-11-30;2145) concernente l'integrazione dei bilanci degli Enti comunali di assistenza;
- [Decreto legislativo luogotenenziale 24 agosto 1944, n. 211](../Decreti%20legislativi%20luogotenenziali/Integrazione%20dei%20disavanzi%20economici%20dei%20bilanci%20delle%20Amministrazioni%20provinciali%20e%20comunali.%20044U0211.md) concernente l'integrazione dei disavanzi economici dei bilanci delle Amministrazioni provinciali e comunali;
+ [Decreto legislativo luogotenenziale 24 agosto 1944, n. 211](Integrazione%20dei%20disavanzi%20economici%20dei%20bilanci%20delle%20Amministrazioni%20provinciali%20e%20comunali.%20044U0211.md) concernente l'integrazione dei disavanzi economici dei bilanci delle Amministrazioni provinciali e comunali;
  [Decreto legislativo luogotenenziale 28 settembre 1944, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-28;229) concernente la costituzione "dell'Ente nazionale per la distribuzione dei soccorsi in Italia" (E.N.D.S.I.);
- [Decreto legislativo luogotenenziale 22 febbraio 1945, n. 38](../Decreti%20legislativi%20luogotenenziali/Prezzi%20del%20pane%20e%20della%20pasta.%20045U0038.md) concernente i prezzi del pane e della pasta.
+ [Decreto legislativo luogotenenziale 22 febbraio 1945, n. 38](Prezzi%20del%20pane%20e%20della%20pasta.%20045U0038.md) concernente i prezzi del pane e della pasta.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

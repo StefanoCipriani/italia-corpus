@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e successive modificazioni, sull'esercizio delle assicurazioni private;
 
-Visto il regolamento approvato con [R. decreto 4 gennaio 1925, n. 63](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md), per la esecuzione del precitato R. decreto-legge;
+Visto il regolamento approvato con [R. decreto 4 gennaio 1925, n. 63](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md), per la esecuzione del precitato R. decreto-legge;
 
-Visto il [R. decreto 20 maggio 1926, n. 933](../Regi%20decreti/Approvazione%20dello%20statuto%20organico%20dellIstituto%20nazionale%20delle%20assicurazioni.%20026U0933.md), con il quale e' stato approvato lo statuto organico dell'Istituto nazionale delle assicurazioni;
+Visto il [R. decreto 20 maggio 1926, n. 933](Approvazione%20dello%20statuto%20organico%20dellIstituto%20nazionale%20delle%20assicurazioni.%20026U0933.md), con il quale e' stato approvato lo statuto organico dell'Istituto nazionale delle assicurazioni;
 
 Ritenuta la necessita' urgente ed assoluta di adeguare l'organizzazione dell'Istituto allo sviluppo assunto dall'Ente;
 

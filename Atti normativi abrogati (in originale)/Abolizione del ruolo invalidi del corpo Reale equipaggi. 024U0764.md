@@ -46,7 +46,7 @@ Gli [articoli 54](Che%20regola%20lordinamento%20del%20corpo%20R.%20equipaggi%20e
 
 ## Art. 4.
 
-Le disposizioni contenute nel presento decreto saranno inscritte nel testo unico autorizzato col [R. decreto 30 dicembre 1923, n. 2991](../Regi%20decreti/Compilazione%20e%20pubblicazione%20di%20testi%20unici%20coordinati%20riguardanti%20i%20personali%20e%20i%20servizi%20della%20Regia%20marina.%20023U2991.md).
+Le disposizioni contenute nel presento decreto saranno inscritte nel testo unico autorizzato col [R. decreto 30 dicembre 1923, n. 2991](Compilazione%20e%20pubblicazione%20di%20testi%20unici%20coordinati%20riguardanti%20i%20personali%20e%20i%20servizi%20della%20Regia%20marina.%20023U2991.md).
 
 ## Art. 5.
 

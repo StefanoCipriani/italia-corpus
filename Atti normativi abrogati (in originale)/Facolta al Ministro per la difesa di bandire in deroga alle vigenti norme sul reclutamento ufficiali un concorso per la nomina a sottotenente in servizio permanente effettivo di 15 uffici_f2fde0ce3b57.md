@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md), convertito nella [legge 13 giugno 1935, n. 1297](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20gennaio%201935-XIII%20n.%20314%20che%20approva%20le%20norme%20riguardanti%20il%20reclutamento%20e%20lavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U1297.md), e le successive aggiunte e modificazioni;
+Visto il [regio decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md), convertito nella [legge 13 giugno 1935, n. 1297](Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20gennaio%201935-XIII%20n.%20314%20che%20approva%20le%20norme%20riguardanti%20il%20reclutamento%20e%20lavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U1297.md), e le successive aggiunte e modificazioni;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

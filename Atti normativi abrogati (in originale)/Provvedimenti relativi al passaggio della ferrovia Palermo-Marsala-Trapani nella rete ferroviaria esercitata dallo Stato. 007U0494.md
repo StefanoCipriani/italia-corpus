@@ -14,7 +14,7 @@ L'amministrazione delle ferrovie dello Stato e' autorizzata ad assumere l'eserci
 
 ## Art. 2.
 
-Il personale stabile e provvisorio, addetto all'esercizio della ferrovia Palermo-Marsala-Trapani, contemplato nel quadro organico del personale dell'esercizio in vigore dal 1° gennaio 1903 e nella tabella graduatoria degli operai dell'officina, passa alla dipendenza dell'amministrazione delle ferrovie ed avra', a decorrere dal giorno della consegna della linea, il trattamento risultante dall'ordinamento approvato col [regio decreto 22 luglio 1906, n. 417](../Regi%20decreti/Che%20approva%20gli%20annessi%20regolamenti%20pel%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20quello%20addetto%20alla%20navigazione%20sullo%20stretto%20di%20Messina.%20006U0417.md). 
+Il personale stabile e provvisorio, addetto all'esercizio della ferrovia Palermo-Marsala-Trapani, contemplato nel quadro organico del personale dell'esercizio in vigore dal 1° gennaio 1903 e nella tabella graduatoria degli operai dell'officina, passa alla dipendenza dell'amministrazione delle ferrovie ed avra', a decorrere dal giorno della consegna della linea, il trattamento risultante dall'ordinamento approvato col [regio decreto 22 luglio 1906, n. 417](Che%20approva%20gli%20annessi%20regolamenti%20pel%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20quello%20addetto%20alla%20navigazione%20sullo%20stretto%20di%20Messina.%20006U0417.md). 
  
  Dal comitato di amministrazione delle ferrovie di Stato saranno stabilite la qualifica della tabella graduatoria a la posizione del quadro di classificazione da assegnarsi a ciascun agente.
 

@@ -26,7 +26,7 @@ I fatti diretti a compiere la distruzione di edifici pubblici e privati, di navi
 
 ## Art. 2.
 
-La rivelazione di segreti politici o militari concernenti la sicurezza dello Stato, prevista dagli [articoli 107](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [108 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punita a' termini dell'[art. 2 della legge 25 novembre 1926, n. 2008](Provvedimenti%20per%20la%20difesa%20dello%20Stato.%20026U2008.md), tutte le volte che la rivelazione sia fatta direttamente o indirettamente ad uno Stato estero od ai suoi agenti. 
+La rivelazione di segreti politici o militari concernenti la sicurezza dello Stato, prevista dagli [articoli 107](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [108 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punita a' termini dell'[art. 2 della legge 25 novembre 1926, n. 2008](Provvedimenti%20per%20la%20difesa%20dello%20Stato.%20026U2008.md), tutte le volte che la rivelazione sia fatta direttamente o indirettamente ad uno Stato estero od ai suoi agenti. 
  
  Non e' punibile a' termini dell'[art. 4 della legge 25 novembre 1926, n. 2008](Provvedimenti%20per%20la%20difesa%20dello%20Stato.%20026U2008.md), la propaganda delle dottrine, dei programmi e dei metodi di azione, che tradizionalmente siano stati ritenuti compatibili con la costituzione politica ed economica dello Stato italiano, quando anche professati o adottati da associazioni sciolte dalla pubblica autorita'.
 
@@ -38,7 +38,7 @@ La presunzione di frode, di cui al penultimo capoverso dell'[art. 5 della legge 
 
 La pena di morte inflitta in applicazione della [legge 25 novembre 1926, n. 2008](Provvedimenti%20per%20la%20difesa%20dello%20Stato.%20026U2008.md), e' eseguita mediante fucilazione in un recinto militare o in altro luogo designato dal Comando presso il quale e' costituito il Tribunale speciale. 
  
- L'esecuzione non e' pubblica, salvo che il Comando suddetto non disponga diversamente, e salvo il caso che sia stato costituito un Tribunale straordinario, a norma dell'[art. 7 della legge 25 novembre 1926, n. 2008](Provvedimenti%20per%20la%20difesa%20dello%20Stato.%20026U2008.md), e dell'[art. 559 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
+ L'esecuzione non e' pubblica, salvo che il Comando suddetto non disponga diversamente, e salvo il caso che sia stato costituito un Tribunale straordinario, a norma dell'[art. 7 della legge 25 novembre 1926, n. 2008](Provvedimenti%20per%20la%20difesa%20dello%20Stato.%20026U2008.md), e dell'[art. 559 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
  
  Il cancelliere del Tribunale speciale deve assistere all'esecuzione e redigerne verbale, che indi trascrive nell'originale della sentenza. 
  

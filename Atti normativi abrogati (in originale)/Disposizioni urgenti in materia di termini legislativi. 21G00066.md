@@ -62,15 +62,15 @@ All'[articolo 3-bis, comma 3, del decreto-legge 7 ottobre 2020, n. 125](https://
 
 1.
 
-Il termine per la deliberazione del rendiconto di gestione relativo all'esercizio 2020 per gli enti locali, di cui all'[articolo 227, comma 2, del decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), e' prorogato al 31 maggio 2021.
+Il termine per la deliberazione del rendiconto di gestione relativo all'esercizio 2020 per gli enti locali, di cui all'[articolo 227, comma 2, del decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), e' prorogato al 31 maggio 2021.
 
 2.
 
-Per l'esercizio 2021, il termine per la deliberazione del bilancio di previsione degli enti locali, di cui all'[articolo 151, comma 1, del decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), e' differito al 31 maggio 2021. Fino a tale data e' autorizzato l'esercizio provvisorio di cui all'articolo 163 del citato [decreto legislativo n. 267 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;267).
+Per l'esercizio 2021, il termine per la deliberazione del bilancio di previsione degli enti locali, di cui all'[articolo 151, comma 1, del decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), e' differito al 31 maggio 2021. Fino a tale data e' autorizzato l'esercizio provvisorio di cui all'articolo 163 del citato [decreto legislativo n. 267 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;267).
 
 3.
 
-Per le Regioni e le Province autonome di Trento e Bolzano, i termini previsti dall'[articolo 18, comma 1, lettere b)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20armonizzazione%20dei%20sistemi%20contabili%20e%20degli%20schemi%20di%20bilancio%20delle%20Regioni%20degli%20enti%20locali%20e%20dei%20loro%20organismi%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%205%20_d31410e5ac35.md) e [c), del decreto legislativo 23 giugno 2011, n. 118](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20armonizzazione%20dei%20sistemi%20contabili%20e%20degli%20schemi%20di%20bilancio%20delle%20Regioni%20degli%20enti%20locali%20e%20dei%20loro%20organismi%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%205%20_d31410e5ac35.md), sono cosi' prorogati per l'anno 2021:
+Per le Regioni e le Province autonome di Trento e Bolzano, i termini previsti dall'[articolo 18, comma 1, lettere b)](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20armonizzazione%20dei%20sistemi%20contabili%20e%20degli%20schemi%20di%20bilancio%20delle%20Regioni%20degli%20enti%20locali%20e%20dei%20loro%20organismi%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%205%20_d31410e5ac35.md) e [c), del decreto legislativo 23 giugno 2011, n. 118](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20armonizzazione%20dei%20sistemi%20contabili%20e%20degli%20schemi%20di%20bilancio%20delle%20Regioni%20degli%20enti%20locali%20e%20dei%20loro%20organismi%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%205%20_d31410e5ac35.md), sono cosi' prorogati per l'anno 2021:
                         a)
                             il rendiconto relativo all'anno 2020 e' approvato da parte del consiglio entro il 30 settembre 2021, con preventiva approvazione da parte della giunta entro il 30 giugno 2021;
                         b)
@@ -82,7 +82,7 @@ All'[articolo 111, comma 2-septies, del decreto-legge 19 maggio 2020, n. 34](htt
 
 5.
 
-Per l'anno 2021, il termine previsto dall'[articolo 31 del decreto legislativo 23 giugno 2011, n. 118](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20armonizzazione%20dei%20sistemi%20contabili%20e%20degli%20schemi%20di%20bilancio%20delle%20Regioni%20degli%20enti%20locali%20e%20dei%20loro%20organismi%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%205%20_d31410e5ac35.md), per l'adozione dei bilanci di esercizio dell'anno 2020 degli enti di cui all'articolo 19, comma 2, lettera b), punto i), e lettera c), del citato [decreto legislativo n.118 del 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;118), e' prorogato al 30 giugno 2021.
+Per l'anno 2021, il termine previsto dall'[articolo 31 del decreto legislativo 23 giugno 2011, n. 118](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20armonizzazione%20dei%20sistemi%20contabili%20e%20degli%20schemi%20di%20bilancio%20delle%20Regioni%20degli%20enti%20locali%20e%20dei%20loro%20organismi%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%205%20_d31410e5ac35.md), per l'adozione dei bilanci di esercizio dell'anno 2020 degli enti di cui all'articolo 19, comma 2, lettera b), punto i), e lettera c), del citato [decreto legislativo n.118 del 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;118), e' prorogato al 30 giugno 2021.
 
 6.
 
@@ -102,7 +102,7 @@ Il termine ultimo per l'adozione del bilancio d'esercizio delle Camere di commer
 
 9.
 
-I termini di cui all'articolo 243-bis, comma 5, primo periodo, nonche' di cui all'[articolo 261, comma 1, del decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), sono fissati al 30 giugno 2021, qualora, rispettivamente, i termini di novanta e di sessanta giorni, siano scaduti antecedentemente alla predetta data.
+I termini di cui all'articolo 243-bis, comma 5, primo periodo, nonche' di cui all'[articolo 261, comma 1, del decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), sono fissati al 30 giugno 2021, qualora, rispettivamente, i termini di novanta e di sessanta giorni, siano scaduti antecedentemente alla predetta data.
 
 ## Art. 4. — Proroga in materia di esercizio di poteri speciali nei settori di rilevanza strategica
 
@@ -134,7 +134,7 @@ All'[articolo 48, comma 6, del decreto-legge 16 luglio 2020, n. 76](https://www.
 
 4.
 
-Il termine di cui all'articolo 92, comma 4-septies, primo periodo, del [decreto-legge 17 marzo 2020, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-03-17;18), convertito, con modificazioni, dalla [legge 24 aprile 2020, n. 27](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20marzo%202020%20n.%2018%20recante%20misure%20di%20potenziamento%20del%20Servizio%20sanitario%20nazionale%20e%20di%20sostegno%20economico%20per%20famiglie%20lavorato_0e05bc54d12d.md), relativo alla revisione periodica dei veicoli di cui all'[articolo 80 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e' differito al 31 dicembre 2021.
+Il termine di cui all'articolo 92, comma 4-septies, primo periodo, del [decreto-legge 17 marzo 2020, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-03-17;18), convertito, con modificazioni, dalla [legge 24 aprile 2020, n. 27](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20marzo%202020%20n.%2018%20recante%20misure%20di%20potenziamento%20del%20Servizio%20sanitario%20nazionale%20e%20di%20sostegno%20economico%20per%20famiglie%20lavorato_0e05bc54d12d.md), relativo alla revisione periodica dei veicoli di cui all'[articolo 80 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e' differito al 31 dicembre 2021.
 
 ## Art. 6.
 

@@ -18,7 +18,7 @@ E' stabilita una tassa del 2 per cento sui prezzi dei trasporti a piccola veloci
 
 ## Art. 3.
 
-Saranno applicabili anche alla tassa stabilita col precedente articolo 2 tutte le disposizioni della [legge 6 aprile 1862, n. 542](Colla%20quale%20e%20stabilita%20una%20tassa%20del%2010%20p.%20%20sul%20prezzo%20dei%20trasporti%20a%20grande%20velocita%20sulle%20strade%20ferrate.%20062U0542.md), del [Regio decreto 14 luglio 1866, n. 3122](../Regi%20decreti/Concernente%20le%20tasse%20di%20bollo.%20066U3122.md), e della [legge 23 agosto 1868, n. 4552](Che%20estende%20alle%20ferrovie%20delle%20Provincie%20Venete%20e%20di%20Mantova%20le%20tasse%20in%20vigore%20sulle%20altre%20strade%20ferrate%20del%20Regno.%20068U4552.md).
+Saranno applicabili anche alla tassa stabilita col precedente articolo 2 tutte le disposizioni della [legge 6 aprile 1862, n. 542](Colla%20quale%20e%20stabilita%20una%20tassa%20del%2010%20p.%20%20sul%20prezzo%20dei%20trasporti%20a%20grande%20velocita%20sulle%20strade%20ferrate.%20062U0542.md), del [Regio decreto 14 luglio 1866, n. 3122](Concernente%20le%20tasse%20di%20bollo.%20066U3122.md), e della [legge 23 agosto 1868, n. 4552](Che%20estende%20alle%20ferrovie%20delle%20Provincie%20Venete%20e%20di%20Mantova%20le%20tasse%20in%20vigore%20sulle%20altre%20strade%20ferrate%20del%20Regno.%20068U4552.md).
 
 ## Art. 4.
 

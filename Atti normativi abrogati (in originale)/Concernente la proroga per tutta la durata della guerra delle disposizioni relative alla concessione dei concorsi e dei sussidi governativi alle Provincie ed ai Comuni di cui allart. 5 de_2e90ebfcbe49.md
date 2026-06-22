@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Ritenuto che con Nostro decreto 30 gennaio 1916, n. 141, fu prorogata fino al 30 giugno 1916 l'applicazione delle norme stabilite con l'[art. 5 del R. decreto 22 settembre 1914, n. 1028](../Regi%20decreti/Col%20quale%20vengono%20autorizzate%20anticipazioni%20di%20fondi%20alla%20Cassa%20depositi%20e%20prestiti%20per%20metterla%20in%20grado%20di%20concedere%20alle%20Provincie%20ed%20ai%20Comuni%20mutui%20destinati%20alla%20pronta%20esecuzione%20d_6b598753f60b.md), per la concessione dei concorsi o sussidi governativi; 
+ Ritenuto che con Nostro decreto 30 gennaio 1916, n. 141, fu prorogata fino al 30 giugno 1916 l'applicazione delle norme stabilite con l'[art. 5 del R. decreto 22 settembre 1914, n. 1028](Col%20quale%20vengono%20autorizzate%20anticipazioni%20di%20fondi%20alla%20Cassa%20depositi%20e%20prestiti%20per%20metterla%20in%20grado%20di%20concedere%20alle%20Provincie%20ed%20ai%20Comuni%20mutui%20destinati%20alla%20pronta%20esecuzione%20d_6b598753f60b.md), per la concessione dei concorsi o sussidi governativi; 
  
  Che permanendo le ragioni che consigliarono l'adozione di dette norme, e' necessario prorogarne ancora l'applicazione per tutta la durata della guerra; 
  

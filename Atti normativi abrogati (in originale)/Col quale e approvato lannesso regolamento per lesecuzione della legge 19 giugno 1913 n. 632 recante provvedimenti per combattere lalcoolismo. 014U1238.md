@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto l'[articolo 13 della legge 19 giugno 1913, n. 632](Recante%20provvedimenti%20per%20combattere%20lalcoolismo.%20013U0632.md) recante provvedimenti per combattere l'alcoolismo; 
  
- Visto il [testo unico della legge di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [R. decreto 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (serie 3ª), nonche' il relativo regolamento di esecuzione approvato con [R. decreto 8 novembre 1889, n. 6517](Che%20approva%20lunito%20regolamento%20per%20lesecuzione%20della%20legge%2030%20giugno%20sulla%20pubblica%20sicurezza.%20089U6517.md) (serie 3ª); 
+ Visto il [testo unico della legge di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [R. decreto 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (serie 3ª), nonche' il relativo regolamento di esecuzione approvato con [R. decreto 8 novembre 1889, n. 6517](Che%20approva%20lunito%20regolamento%20per%20lesecuzione%20della%20legge%2030%20giugno%20sulla%20pubblica%20sicurezza.%20089U6517.md) (serie 3ª); 
  
  Udito il parere del Consiglio superiore di sanita'; 
  

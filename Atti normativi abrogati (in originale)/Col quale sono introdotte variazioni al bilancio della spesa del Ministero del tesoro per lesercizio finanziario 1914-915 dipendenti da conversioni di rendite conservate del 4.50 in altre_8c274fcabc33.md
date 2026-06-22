@@ -26,9 +26,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto l'art. 2 della legge stessa, col quale furono dichiarate esenti dalla conversione suddetta le rendite 4,50%, possedute dalle pubbliche istituzioni di beneficenza in quanto non vengano successivamente, per effetto di qualsiasi operazione, ad essere trasferite ad altri intestatari, ovvero tramutate al portatore; 
  
- Visto il regolamento approvato con [R. decreto 21 dicembre 1903, n. 486](../Regi%20decreti/Che%20disciplina%20la%20conversione%20del%20consolidato%20450%20in%20consolidato%20350%20per%20cento.%20003U0486.md), per l'esecuzione della legge suddetta; 
+ Visto il regolamento approvato con [R. decreto 21 dicembre 1903, n. 486](Che%20disciplina%20la%20conversione%20del%20consolidato%20450%20in%20consolidato%20350%20per%20cento.%20003U0486.md), per l'esecuzione della legge suddetta; 
  
- Visto il [R. decreto 21 marzo 1915, n. 443](../Regi%20decreti/Col%20quale%20sono%20introdotte%20alcune%20variazioni%20nel%20bilancio%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201914-915%20015U0443.md), relativo a variazioni del bilancio della spesa del Ministero del tesoro per l'esercizio 1914-915 dipendenti dalle conversioni di rendite del consolidato 4,50% netto in altre del consolidato 3,50% netto eseguite nel secondo semestre dell'anno 1914; 
+ Visto il [R. decreto 21 marzo 1915, n. 443](Col%20quale%20sono%20introdotte%20alcune%20variazioni%20nel%20bilancio%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201914-915%20015U0443.md), relativo a variazioni del bilancio della spesa del Ministero del tesoro per l'esercizio 1914-915 dipendenti dalle conversioni di rendite del consolidato 4,50% netto in altre del consolidato 3,50% netto eseguite nel secondo semestre dell'anno 1914; 
  
  Ritenuto che nel corso del semestre dal 1° gennaio al 30 giugno 1915 in seguito ad ulteriori accertamenti, da parte della Direzione generale del debito pubblico venne riconosciuto che tra le rendite conservate provvisoriamente nel consolidato 4.50% netto dovevano essere e vennero, di fatto, convertite nel consolidato 3.50% netto, iscrizioni: 
  

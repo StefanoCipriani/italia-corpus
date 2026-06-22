@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 4 febbraio 1926, n. 370](../Regi%20decreti/Norme%20per%20lordinamento%20il%20funzionamento%20o%20lamministrazione%20del%20Servizio%20chimico%20militare.%20026U0370.md), concernente le norme per l'ordinamento, il funzionamento e l'amministrazione del Servizio chimico militare;
+Visto il [R. decreto 4 febbraio 1926, n. 370](Norme%20per%20lordinamento%20il%20funzionamento%20o%20lamministrazione%20del%20Servizio%20chimico%20militare.%20026U0370.md), concernente le norme per l'ordinamento, il funzionamento e l'amministrazione del Servizio chimico militare;
 
 Vista la [legge 17 aprile 1930, n. 458](Istituzione%20del%20Servizio%20tecnico%20automobilistico%20e%20sua%20organizzazione%20e%20funzionamento.%20030U0458.md), circa l'istituzione del Servizio tecnico automobilistico e sua organizzazione e funzionamento;
 
@@ -32,7 +32,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 All'[art. 7 del R. decreto-legge 28 settembre 1934, n. 1635](Decentramento%20ed%20avviamento%20alla%20sistemazione%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20034U1635.md), convertito in legge con la [legge 27 dicembre 1934, n. 2222](Conversione%20in%20legge%20del%20R.%20decreto%20legge%2028%20settembre%201934%20n.%201635%20relativo%20al%20decentramento%20ed%20allavviamento%20della%20sistemazione%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20034U2222.md), relativo al decentramento ed all'avviamento della sistemazione dei servici dell'Amministrazione centrale della guerra, e' aggiunto il seguente comma: 
  
- «La Direzione del servizio chimico militare e l'Ispettorato del materiale automobilistico avranno anche attribuzioni amministrative, restando cosi' abrogate, nell'[art. 2 del R. decreto 4 febbraio 1926, n. 370](../Regi%20decreti/Norme%20per%20lordinamento%20il%20funzionamento%20o%20lamministrazione%20del%20Servizio%20chimico%20militare.%20026U0370.md), e nell'[art. 2 della legge 17 aprile 1930, n. 458](Istituzione%20del%20Servizio%20tecnico%20automobilistico%20e%20sua%20organizzazione%20e%20funzionamento.%20030U0458.md), le disposizioni le quali stabiliscono che i detti organi fanno capo per le questioni amministrative rispettivamente alla Direzione generale del genio e alla Direzione generale di artiglieria».
+ «La Direzione del servizio chimico militare e l'Ispettorato del materiale automobilistico avranno anche attribuzioni amministrative, restando cosi' abrogate, nell'[art. 2 del R. decreto 4 febbraio 1926, n. 370](Norme%20per%20lordinamento%20il%20funzionamento%20o%20lamministrazione%20del%20Servizio%20chimico%20militare.%20026U0370.md), e nell'[art. 2 della legge 17 aprile 1930, n. 458](Istituzione%20del%20Servizio%20tecnico%20automobilistico%20e%20sua%20organizzazione%20e%20funzionamento.%20030U0458.md), le disposizioni le quali stabiliscono che i detti organi fanno capo per le questioni amministrative rispettivamente alla Direzione generale del genio e alla Direzione generale di artiglieria».
 
 ## Art. 2.
 

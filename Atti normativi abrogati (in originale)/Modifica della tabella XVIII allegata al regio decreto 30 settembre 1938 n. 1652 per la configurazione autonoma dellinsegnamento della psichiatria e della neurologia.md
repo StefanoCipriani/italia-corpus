@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La tabella XVIII allegata al [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e' modificata nel senso che l'insegnamento fondamentale di "clinica delle malattie nervose e mentali (semestrale)" e' sostituito dai due insegnamenti fondamentali di "clinica neurologica (semestrale)" e di "clinica psichiatrica (semestrale)".
+La tabella XVIII allegata al [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e' modificata nel senso che l'insegnamento fondamentale di "clinica delle malattie nervose e mentali (semestrale)" e' sostituito dai due insegnamenti fondamentali di "clinica neurologica (semestrale)" e di "clinica psichiatrica (semestrale)".
  Il numero complessivo degli esami necessari per la ammissione alle prove di laurea in medicina e chirurgia rimane immodificato.
  Nell'ordinamento didattico universitario e' soppresso l'insegnamento complementare di "psichiatria".
 

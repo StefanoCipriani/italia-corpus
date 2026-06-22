@@ -46,7 +46,7 @@ Le pene temporanee restrittive della liberta' personale per un tempo non superio
  
  La pena dell'ergastolo e' ridotta di un grado. 
  
- Sono eccettuati da tale condono i disertori con passaggio al nemico, e le persone condannate per reati di tradimento, spionaggio e arruolamento, preveduti in disposizioni diverse dagli articoli 74, 77 primo e secondo capoverso del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e 75 e 78 primo e secondo capoverso del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
+ Sono eccettuati da tale condono i disertori con passaggio al nemico, e le persone condannate per reati di tradimento, spionaggio e arruolamento, preveduti in disposizioni diverse dagli articoli 74, 77 primo e secondo capoverso del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e 75 e 78 primo e secondo capoverso del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
 
 ## Art. 6.
 
@@ -78,7 +78,7 @@ Nel caso di concorso di reati e di pene l'amnistia si applica indistintamente a 
 
 ## Art. 11.
 
-In tutti i casi, in cui in virtu' del presente decreto la condanna sia commutata in condizionale, la commutazione si verifica di diritto, e la condanna cessa di avere effetto, se il condannato entro il termine di cinque anni dalla data del presente decreto non commetta alcun reato preveduto nei Codici penali militari, ne' alcun delitto preveduto nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune, o in altra legge penale; altrimenti e' espiata a norma di legge, previa revoca da parte del giudice ordinario o militare, che pronuncera' l'ultima condanna.
+In tutti i casi, in cui in virtu' del presente decreto la condanna sia commutata in condizionale, la commutazione si verifica di diritto, e la condanna cessa di avere effetto, se il condannato entro il termine di cinque anni dalla data del presente decreto non commetta alcun reato preveduto nei Codici penali militari, ne' alcun delitto preveduto nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune, o in altra legge penale; altrimenti e' espiata a norma di legge, previa revoca da parte del giudice ordinario o militare, che pronuncera' l'ultima condanna.
 
 ## Art. 12.
 

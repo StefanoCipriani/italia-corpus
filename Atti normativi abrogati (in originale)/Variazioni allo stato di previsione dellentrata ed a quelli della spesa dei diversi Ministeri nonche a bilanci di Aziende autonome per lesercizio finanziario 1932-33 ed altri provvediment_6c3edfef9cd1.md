@@ -38,13 +38,13 @@ Nei bilanci delle Amministrazioni del Fondo di massa del Corpo della Regia guard
 
 ## Art. 4.
 
-Al personale in servizio di prova destinato in Colonia, e' dovuta l'indennita' coloniale in misura pari a quella spettante, ai termini dell'[art. 1, lettera b), del R. decreto 31 ottobre 1923, n. 2504](../Regi%20decreti/Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md), al personale di egual gruppo, fornito dello stipendio minimo del grado iniziale di carriera. 
+Al personale in servizio di prova destinato in Colonia, e' dovuta l'indennita' coloniale in misura pari a quella spettante, ai termini dell'[art. 1, lettera b), del R. decreto 31 ottobre 1923, n. 2504](Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md), al personale di egual gruppo, fornito dello stipendio minimo del grado iniziale di carriera. 
  
  La presente disposizione ha vigore dal 1° maggio 1933-XI.
 
 ## Art. 5.
 
-E' prorogata al 30 giugno 1934 l'efficacia delle disposizioni di cui al [R. decreto 26 luglio 1925, n. 1237](../Regi%20decreti/Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md).
+E' prorogata al 30 giugno 1934 l'efficacia delle disposizioni di cui al [R. decreto 26 luglio 1925, n. 1237](Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md).
 
 ## Art. 6.
 

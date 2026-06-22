@@ -58,7 +58,7 @@ All'[art. 1 della legge 31 marzo 1904, n. 140](Che%20emana%20provvedimenti%20a%2
  
  Sui mutui di cui al n. 1, lettere a) e b), e' corrisposto l'interesse del 2 ½ per cento. A compensare la differenza tra il tasso ordinario e quello del 2 ½ per cento e' devoluto alla Cassa provinciale il fondo stanziato con l'[art. 23 della legge 31 marzo 1904, n. 140](Che%20emana%20provvedimenti%20a%20favore%20della%20provincia%20di%20Basilicata.%20004U0140.md). Sugli altri prestiti e' corrisposto l'interesse, da fissarsi dalla Cassa provinciale, di accordo col Ministero di agricoltura, non superiore al tasso ufficiale dello sconto. 
  
- Quando il debitore deteriora o distrugge gli oggetti sottoposti al privilegio, oppure impiega in tutto o in parte la somma ricevuta a prestito per scopi diversi da quelli per i quali fu concessa, e' punito con le pene comminate dall'[art. 203 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Quando il debitore deteriora o distrugge gli oggetti sottoposti al privilegio, oppure impiega in tutto o in parte la somma ricevuta a prestito per scopi diversi da quelli per i quali fu concessa, e' punito con le pene comminate dall'[art. 203 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 

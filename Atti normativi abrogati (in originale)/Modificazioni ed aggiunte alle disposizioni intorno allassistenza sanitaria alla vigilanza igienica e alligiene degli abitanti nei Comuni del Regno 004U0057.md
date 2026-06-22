@@ -129,7 +129,7 @@ Nel caso di inadempimento, si potra', previo diffidamento, provvedere d'ufficio,
 
 Al 1° comma dell'articolo 42 e' sostituito il seguente: 
  
- «Chiunque vende, ritiene per vendere, o somministra come compenso ai propri dipendenti, materie destinate al cibo o alla bevanda, che siano riconosciute guaste, infette, adulterate o in altro modo insalubri o nocive, e' punito con pena pecuniaria da L. 10 a L. 100 oltre la confisca delle materie, e cio' senza pregiudizio delle sanzioni di cui gli [articoli 319](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [320](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [322 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)». 
+ «Chiunque vende, ritiene per vendere, o somministra come compenso ai propri dipendenti, materie destinate al cibo o alla bevanda, che siano riconosciute guaste, infette, adulterate o in altro modo insalubri o nocive, e' punito con pena pecuniaria da L. 10 a L. 100 oltre la confisca delle materie, e cio' senza pregiudizio delle sanzioni di cui gli [articoli 319](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [320](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [322 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)». 
  
  Nell'articolo 50, dopo le parole: «una malattia infettiva» sono aggiunte le parole: «dell'uomo . . .». 
  
@@ -137,7 +137,7 @@ Al 1° comma dell'articolo 42 e' sostituito il seguente:
  
  Allo stesso articolo 60 e' aggiunto il seguente comma: 
  
- Alle contravvenzioni stesse sono applicabili le disposizioni degli articoli 202 e 203 della legge comunale e provinciale. (Testo unico approvato con [R. decreto 4 maggio 1898, n. 164](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md))». 
+ Alle contravvenzioni stesse sono applicabili le disposizioni degli articoli 202 e 203 della legge comunale e provinciale. (Testo unico approvato con [R. decreto 4 maggio 1898, n. 164](Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md))». 
  
  All'[articolo 70 della legge 22 dicembre 1888, n. 5849](Sullordinamento%20dellamministrazione%20e%20dellassistenza%20sanitaria%20del%20Regno.%20088U5849.md) (serie 3ª) e' aggiunto il seguente comma: 
  

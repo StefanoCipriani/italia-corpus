@@ -70,7 +70,7 @@ Salvo quanto e' stabilito negli articoli 4 e 5, le disposizioni necessarie per l
 
 Gli uffici di censura sono incaricati della sorveglianza per l'esecuzione da parte dei giornali e delle pubblicazioni periodiche delle disposizioni di cui agli articoli 6 e 7. 
  
- In caso di contravvenzione alle disposizioni suddette, gli uffici di censura procederanno ai termini dell'[art. 3 del R. decreto 23 maggio 1915, n. 675](../Regi%20decreti/Recante%20disposizioni%20per%20la%20stampa%20015U0675.md); e, in caso di recidiva, potranno applicare le disposizioni di cui all'art. 5 del decreto medesimo, e cio' senza pregiudizio della denunzia all'autorita' giudiziaria per la contravvenzione di cui all'art. 9 del presente decreto.
+ In caso di contravvenzione alle disposizioni suddette, gli uffici di censura procederanno ai termini dell'[art. 3 del R. decreto 23 maggio 1915, n. 675](Recante%20disposizioni%20per%20la%20stampa%20015U0675.md); e, in caso di recidiva, potranno applicare le disposizioni di cui all'art. 5 del decreto medesimo, e cio' senza pregiudizio della denunzia all'autorita' giudiziaria per la contravvenzione di cui all'art. 9 del presente decreto.
 
 ## Art. 12.
 

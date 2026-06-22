@@ -26,7 +26,7 @@ Vista la [legge 13 gennaio 1918, n. 17](Che%20autorizza%20il%20Governo%20ad%20au
 
 Visto il [decreto Luogotenenziale 10 febbraio 1918, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-10;264), per la misura dei soprassoldi delle medaglie d'oro, argento e bronzo al valor militare;
 
-Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, num. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
+Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, num. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
 
 Sentito il Consiglio dei ministri:
 

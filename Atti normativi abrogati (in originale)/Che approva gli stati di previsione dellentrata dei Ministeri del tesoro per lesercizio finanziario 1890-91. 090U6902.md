@@ -14,11 +14,11 @@ Il Governo del Re e' autorizzato a far pagare le spese ordinarie e straordinarie
 
 ## Art. 2.
 
-Per gli effetti di che all'art. 38 del testo unico della legge sulla contabilita' generale dello Stato, approvato col [Regio decreto 17 febbraio 1884, n. 2016](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md), sono considerate spese obbligatorie e d'ordine quelle descritte nel qui unito elenco A.
+Per gli effetti di che all'art. 38 del testo unico della legge sulla contabilita' generale dello Stato, approvato col [Regio decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md), sono considerate spese obbligatorie e d'ordine quelle descritte nel qui unito elenco A.
 
 ## Art. 3.
 
-Per il pagamento delle spese indicate nel qui annesso elenco B, potranno i Ministeri aprire crediti mediante mandati a disposizione dei funzionari da essi dipendenti, ai termini dell'art. 47 del testo unico della legge sulla contabilita' generale dello Stato, approvato col [Regio decreto 17 febbraio 1884, n. 2016](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md).
+Per il pagamento delle spese indicate nel qui annesso elenco B, potranno i Ministeri aprire crediti mediante mandati a disposizione dei funzionari da essi dipendenti, ai termini dell'art. 47 del testo unico della legge sulla contabilita' generale dello Stato, approvato col [Regio decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md).
 
 ## Art. 4.
 

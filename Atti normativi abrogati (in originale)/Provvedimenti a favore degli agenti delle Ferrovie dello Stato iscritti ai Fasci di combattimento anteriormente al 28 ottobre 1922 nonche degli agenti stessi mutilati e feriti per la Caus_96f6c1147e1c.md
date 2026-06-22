@@ -18,7 +18,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Visto il [R. decreto-legge 13 dicembre 1933, n. 1706](Provvedimenti%20a%20favore%20delle%20famiglie%20dei%20caduti%20per%20la%20causa%20fascista%20dei%20mutilati%20e%20feriti%20per%20la%20causa%20stessa%20nonche%20degli%20inscritti%20ai%20Fasci%20di%20combattimento%20anteriormente%20al%2028%20ottob_2ee4f6577cd7.md);
 
-Visto il [R. decreto 19 agosto 1927, n. 1711](../Regi%20decreti/Testo%20unificato%20contenente%20provvedimenti%20a%20favore%20degli%20agenti%20ex-combattenti%20delle%20Ferrovie%20dello%20Stato.%20027U1711.md);
+Visto il [R. decreto 19 agosto 1927, n. 1711](Testo%20unificato%20contenente%20provvedimenti%20a%20favore%20degli%20agenti%20ex-combattenti%20delle%20Ferrovie%20dello%20Stato.%20027U1711.md);
 
 Visto il [R. decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md) e le aggiunte e le modificazioni apportatevi successivamente;
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-I benefici previsti dal [R. decreto 19 agosto 1927, n. 1711](../Regi%20decreti/Testo%20unificato%20contenente%20provvedimenti%20a%20favore%20degli%20agenti%20ex-combattenti%20delle%20Ferrovie%20dello%20Stato.%20027U1711.md), a favore degli agenti delle Ferrovie dello Stato che hanno prestato servizio militare in reparti combattenti durante la guerra 1915-18 sono estesi, come nei successivi articoli e' specificato, a coloro che risultino regolarmente iscritti ai Fasci di combattimento senza interruzione da data anteriore al 28 ottobre 1922.
+I benefici previsti dal [R. decreto 19 agosto 1927, n. 1711](Testo%20unificato%20contenente%20provvedimenti%20a%20favore%20degli%20agenti%20ex-combattenti%20delle%20Ferrovie%20dello%20Stato.%20027U1711.md), a favore degli agenti delle Ferrovie dello Stato che hanno prestato servizio militare in reparti combattenti durante la guerra 1915-18 sono estesi, come nei successivi articoli e' specificato, a coloro che risultino regolarmente iscritti ai Fasci di combattimento senza interruzione da data anteriore al 28 ottobre 1922.
 
 ## Art. 2.
 
@@ -46,7 +46,7 @@ Agli agenti di qualunque grado delle Ferrovie dello Stato nominati stabili, in p
 
 Agli agenti che si trovino nelle condizioni previste dal precedente art. 1 e' corrisposto, in aggiunta al compenso stabilito dal precedente art. 2 e con la stessa decorrenza, un ulteriore compenso annuo per mutilazione od invalidita' riportata per la Causa Fascista, in dipendenza di eventi verificatisi dal 23 marzo 1919 al 31 dicembre 1925 nella misura seguente: 
  
- a) di L. 400 per i mutilati e gli invalidi iscritti alle prime sei categorie ai sensi del [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sulle pensioni di guerra; 
+ a) di L. 400 per i mutilati e gli invalidi iscritti alle prime sei categorie ai sensi del [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sulle pensioni di guerra; 
  
  b) di L. 300 per i mutilati e invalidi iscritti alla 7ª e 8ª categoria di pensione. 
  
@@ -66,9 +66,9 @@ Per gli iscritti al Partito Nazionale Fascista che si trovino nelle condizioni p
 
 L'art. 58 del vigente regolamento del personale e' sostituito dal seguente: 
  
- « Nelle promozioni da conferirsi in base a scrutinio per merito comparativo o al risultato di esami di concorso, a parita' di merito hanno la precedenza gli ex combattenti a termini dell'[art. 1 del R. decreto 19 agosto 1927, n. 1711](../Regi%20decreti/Testo%20unificato%20contenente%20provvedimenti%20a%20favore%20degli%20agenti%20ex-combattenti%20delle%20Ferrovie%20dello%20Stato.%20027U1711.md), nonche' coloro che risultino regolarmente inscritti ai Fasci di combattimento senza interruzione da data anteriore al 28 ottobre 1922, oppure siano in possesso del brevetto di ferito per la Causa Fascista in eventi verificatisi dal 23 marzo 1919 al 31 dicembre 1925, ancorche' in quest'ultimo caso la data di iscrizione sia posteriore alla Marcia su Roma ovvero infine siano invalidi per la Causa Fascista ai sensi della [legge 24 marzo 1930, n. 454](Estensione%20ai%20cittadini%20divenuti%20invalidi%20per%20la%20causa%20nazionale%20delle%20disposizioni%20delle%20leggi%2025%20marzo%201917%20n.%20481%2021%20agosto%201921%20n.%201312%20e%203%20dicembre%201925%20n.%202151%20e%20di%20ogni%20altra%20dispo_3f26f1bd6bcc.md). 
+ « Nelle promozioni da conferirsi in base a scrutinio per merito comparativo o al risultato di esami di concorso, a parita' di merito hanno la precedenza gli ex combattenti a termini dell'[art. 1 del R. decreto 19 agosto 1927, n. 1711](Testo%20unificato%20contenente%20provvedimenti%20a%20favore%20degli%20agenti%20ex-combattenti%20delle%20Ferrovie%20dello%20Stato.%20027U1711.md), nonche' coloro che risultino regolarmente inscritti ai Fasci di combattimento senza interruzione da data anteriore al 28 ottobre 1922, oppure siano in possesso del brevetto di ferito per la Causa Fascista in eventi verificatisi dal 23 marzo 1919 al 31 dicembre 1925, ancorche' in quest'ultimo caso la data di iscrizione sia posteriore alla Marcia su Roma ovvero infine siano invalidi per la Causa Fascista ai sensi della [legge 24 marzo 1930, n. 454](Estensione%20ai%20cittadini%20divenuti%20invalidi%20per%20la%20causa%20nazionale%20delle%20disposizioni%20delle%20leggi%2025%20marzo%201917%20n.%20481%2021%20agosto%201921%20n.%201312%20e%203%20dicembre%201925%20n.%202151%20e%20di%20ogni%20altra%20dispo_3f26f1bd6bcc.md). 
  
- « La posizione rispettiva fra gli agenti di cui al presente, articolo sara' determinata dalla limitazione di merito stabilita in relazione al disposto dell'[art. 1 del R. decreto 19 agosto 1927, n. 1711](../Regi%20decreti/Testo%20unificato%20contenente%20provvedimenti%20a%20favore%20degli%20agenti%20ex-combattenti%20delle%20Ferrovie%20dello%20Stato.%20027U1711.md), e da quella stabilita dalle istruzioni di cui all'[art. 10 del R. decreto-legge 11 ottobre 1934, n. 1716](Provvedimenti%20a%20favore%20degli%20agenti%20delle%20Ferrovie%20dello%20Stato%20iscritti%20ai%20Fasci%20di%20combattimento%20anteriormente%20al%2028%20ottobre%201922%20nonche%20degli%20agenti%20stessi%20mutilati%20e%20feriti%20per%20la%20Caus_96f6c1147e1c.md) ».
+ « La posizione rispettiva fra gli agenti di cui al presente, articolo sara' determinata dalla limitazione di merito stabilita in relazione al disposto dell'[art. 1 del R. decreto 19 agosto 1927, n. 1711](Testo%20unificato%20contenente%20provvedimenti%20a%20favore%20degli%20agenti%20ex-combattenti%20delle%20Ferrovie%20dello%20Stato.%20027U1711.md), e da quella stabilita dalle istruzioni di cui all'[art. 10 del R. decreto-legge 11 ottobre 1934, n. 1716](Provvedimenti%20a%20favore%20degli%20agenti%20delle%20Ferrovie%20dello%20Stato%20iscritti%20ai%20Fasci%20di%20combattimento%20anteriormente%20al%2028%20ottobre%201922%20nonche%20degli%20agenti%20stessi%20mutilati%20e%20feriti%20per%20la%20Caus_96f6c1147e1c.md) ».
 
 ## Art. 7.
 

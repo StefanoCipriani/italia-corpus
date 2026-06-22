@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti il [decreto-legge Luogotenenziale 27 ottobre 1918, n. 1774](Concernente%20gli%20onorari%20e%20gli%20altri%20diritti%20dei%20procuratori%20legali.%20018U1774.md), ed il [R. decreto-legge 22 dicembre 1921, n. 1887](Che%20aumenta%20gli%20onorari%20e%20gli%20altri%20diritti%20dei%20procuratori%20legali%20stabiliti%20dal%20decreto-legge%20Luogotenenziale%2027%20ottobre%201919%20N.%201774.%20021U1887.md), convertiti nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visto il [R. decreto 20 settembre 1922, n. 1316](../Regi%20decreti/In%20esecuzione%20dellart.%205%20della%20legge%2015%20settembre%201922%20n.%201237%20che%20modifica%20la%20competenza%20dei%20pretori%20e%20dei%20conciliatori.%20022U1316.md);
+Visto il [R. decreto 20 settembre 1922, n. 1316](In%20esecuzione%20dellart.%205%20della%20legge%2015%20settembre%201922%20n.%201237%20che%20modifica%20la%20competenza%20dei%20pretori%20e%20dei%20conciliatori.%20022U1316.md);
 
 Vista la [legge 25 marzo 1926, n. 453](Ordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20026U0453.md);
 

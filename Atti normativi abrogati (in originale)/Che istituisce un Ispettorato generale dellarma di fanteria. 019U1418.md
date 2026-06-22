@@ -16,13 +16,13 @@ RE D'ITALIA
 
 In virtu' delle facolta' conferite al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Vista la legge di ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, testo unico approvato con [Regio decreto 14 luglio 1898, n. 525](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e successive modificazioni;
+Vista la legge di ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, testo unico approvato con [Regio decreto 14 luglio 1898, n. 525](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e successive modificazioni;
 
-Visto il [R. decreto 12 febbraio 1911, n. 132](../Regi%20decreti/Che%20fissa%20le%20attribuzioni%20degli%20ispettori%20generali%20di%20cavalleria%20dartiglieria%20e%20del%20genio%20e%20dellispettore%20delle%20truppe%20da%20montagna.%20011U0132.md);
+Visto il [R. decreto 12 febbraio 1911, n. 132](Che%20fissa%20le%20attribuzioni%20degli%20ispettori%20generali%20di%20cavalleria%20dartiglieria%20e%20del%20genio%20e%20dellispettore%20delle%20truppe%20da%20montagna.%20011U0132.md);
 
 Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel R. esercito e successive modificazioni;
 
-Visto il regolamento per l'esecuzione della predetta legge approvato con [R. decreto 21 luglio 1907, n. 626](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md), e successive modificazioni;
+Visto il regolamento per l'esecuzione della predetta legge approvato con [R. decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md), e successive modificazioni;
 
 Sulla proposta del Nostro ministro segretario di Stato per gli affari della guerra;
 

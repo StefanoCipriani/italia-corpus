@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visti i decreti Ministeriali in data 8 luglio 1924, che approvano i testi unici di leggi per l'imposta di fabbricazione sullo zucchero e sul glucosio, maltosio ed altre materie zuccherine;
 
-Visti gli allegati B e C al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md), che recano modificazioni al regime fiscale dello zucchero e degli altri prodotti zuccherini;
+Visti gli allegati B e C al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md), che recano modificazioni al regime fiscale dello zucchero e degli altri prodotti zuccherini;
 
 Ritenuta la necessita' di urgenti misure di carattere tributario;
 

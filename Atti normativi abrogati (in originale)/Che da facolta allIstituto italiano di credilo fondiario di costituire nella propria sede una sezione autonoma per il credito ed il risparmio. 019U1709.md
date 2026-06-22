@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, numero 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
+Veduto il testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, numero 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
 
 Sentito il Consiglio dei ministri;
 

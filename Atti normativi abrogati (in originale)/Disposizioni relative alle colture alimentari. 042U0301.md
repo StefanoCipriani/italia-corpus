@@ -46,7 +46,7 @@ Il Ministero dell'agricoltura e delle foreste ha facolta' di stabilire che deter
 
 Il conduttore di azienda che non adempie alle prescrizioni di destinare a colture l'area che gli e' stata prefissa ovvero esegua senza licenza colture per cui questa e' prescritta e' punito con l'ammenda da L. 1000 a 3000 per ha. o frazione di ha. 
  
- I prodotti delle coltivazioni per le quali era prescritta la licenza sono confiscati a termini del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ I prodotti delle coltivazioni per le quali era prescritta la licenza sono confiscati a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 

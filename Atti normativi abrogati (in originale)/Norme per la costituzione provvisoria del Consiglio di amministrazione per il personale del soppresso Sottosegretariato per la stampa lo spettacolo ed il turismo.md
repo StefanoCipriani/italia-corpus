@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto luogotenenziale 5 luglio 1945, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-05;416);
 
-Visto l'[art. 8 del regio decreto legislativo 21 maggio 1946, n. 465](../Regi%20decreti%20legislativi/Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20nonche%20ai%20bilanci%20di%20talune%20Aziende%20autonome%20per%20lesercizio%20finanziario%201945-46%20ed%20altri%20provvedi_ac45f30e8910.md);
+Visto l'[art. 8 del regio decreto legislativo 21 maggio 1946, n. 465](Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20nonche%20ai%20bilanci%20di%20talune%20Aziende%20autonome%20per%20lesercizio%20finanziario%201945-46%20ed%20altri%20provvedi_ac45f30e8910_2.md);
 
 Visto il [decreto legislativo 12 settembre 1947, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-09-12;941);
 

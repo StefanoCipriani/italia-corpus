@@ -22,7 +22,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Af
 
 E' abolita l'azione penale e sono condonate le pene pronunciate peri seguenti reati commessi fino alla data del presente Decreto: 
  
- 1° Per i reati preveduti dagli [articoli 268](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [269](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [270](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [471 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno e dall'[articolo 127 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano del 20 giugno 1853. 
+ 1° Per i reati preveduti dagli [articoli 268](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [269](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [270](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [471 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno e dall'[articolo 127 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano del 20 giugno 1853. 
  
  2° Per i reati di azione pubblica commessi col mezzo della stampa. 
  
@@ -36,7 +36,7 @@ E' abolita l'azione penale e sono condonate le pene pronunciate peri seguenti re
  
  7° Per tutte le contravvenzioni alle leggi sui pesi e sulle misure. 
  
- 8° Per tutte le contravvenzioni di azione pubblica contemplate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno e dalla Legge di pubblica sicurezza, e dal Regolamento di polizia punitiva vigente in Toscana punibili con 5 giorni di carcere o con multa fino a lire cinquanta.
+ 8° Per tutte le contravvenzioni di azione pubblica contemplate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno e dalla Legge di pubblica sicurezza, e dal Regolamento di polizia punitiva vigente in Toscana punibili con 5 giorni di carcere o con multa fino a lire cinquanta.
 
 ## Art. 2.
 
@@ -44,13 +44,13 @@ Nelle Provincie della Venezia ed in quella di Mantova rimangono soppresse in for
  
  1° Pei fatti indicati nei numeri 1, 2 e 3 dell'articolo precedente. 
  
- 2° Per tutte le contravvenzioni di azione pubblica contemplate nella seconda parte del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ivi vigente del 27 maggio 1852, purche' non si tratti di persona recidiva, e per quelle contemplato dai Regolamenti in materia boschiva. 
+ 2° Per tutte le contravvenzioni di azione pubblica contemplate nella seconda parte del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ivi vigente del 27 maggio 1852, purche' non si tratti di persona recidiva, e per quelle contemplato dai Regolamenti in materia boschiva. 
  
  3° Per i delitti contro la tranquillita' e l'ordine pubblico. 
  
  4° Per i delitti contro la sicurezza della vita, della salute, della proprieta', e cosi' pure per porto e detenzione d'armi, purche' il titolo del reato non importi per se stesso, e senza riguardo alle circostanze personali dell'imputato o condannato, pena maggiore di tre mesi di arresto e non si tratti di persona recidiva. 
  
- 5° Per i crimini menzionati nel capo VII, parte I del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 27 maggio 1852 suddetto.
+ 5° Per i crimini menzionati nel capo VII, parte I del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 27 maggio 1852 suddetto.
 
 ## Art. 3.
 

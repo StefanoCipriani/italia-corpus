@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata e dei pieni poteri conferiti al Governo del Re dalla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Vista la [legge del 30 giugno 1910, n. 395](Sulla%20radiotelegrafia%20e%20radiotelefonia.%20010U0395.md), ed il relativo regolamento approvato con il [R. decreto 1° febbraio 1912, n. 227](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2030%20giugno%201910%20n.%20395%20sulla%20radiotelegrafia%20e%20sulla%20radiotelefonia.%20012U0227.md);
+Vista la [legge del 30 giugno 1910, n. 395](Sulla%20radiotelegrafia%20e%20radiotelefonia.%20010U0395.md), ed il relativo regolamento approvato con il [R. decreto 1° febbraio 1912, n. 227](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2030%20giugno%201910%20n.%20395%20sulla%20radiotelegrafia%20e%20sulla%20radiotelefonia.%20012U0227.md);
 
-Visto il [R. decreto 11 luglio 1913, n. 1006](../Regi%20decreti/Col%20quale%20viene%20data%20piena%20ed%20intera%20esecuzione%20alla%20annessa%20convenzione%20radiotelegrafica%20relativo%20protocollo%20e%20annesso%20regolamento%20di%20servizio%20firmati%20in%20Londra%20il%205%20luglio%201912%20fra%20lIta_356bd950e063.md), col quale e' data esecuzione alla Convenzione radiotelegrafica di Londra;
+Visto il [R. decreto 11 luglio 1913, n. 1006](Col%20quale%20viene%20data%20piena%20ed%20intera%20esecuzione%20alla%20annessa%20convenzione%20radiotelegrafica%20relativo%20protocollo%20e%20annesso%20regolamento%20di%20servizio%20firmati%20in%20Londra%20il%205%20luglio%201912%20fra%20lIta_356bd950e063.md), col quale e' data esecuzione alla Convenzione radiotelegrafica di Londra;
 
 Visto il [decreto Luogotenenziale del 12 novembre 1916, n. 1587](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-11-12;1587), sullo impianto della radiotelegrafia sulle navi mercantili;
 

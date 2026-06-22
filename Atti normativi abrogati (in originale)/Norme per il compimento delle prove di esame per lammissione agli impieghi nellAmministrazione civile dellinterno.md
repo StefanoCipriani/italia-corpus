@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e successive modificazioni;
+Visto il [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e successive modificazioni;
 
 Visto il regolamento approvato con [regio decreto 4 aprile 1938, n. 417](../Regi%20decreti/Regolamento%20per%20il%20personale%20dellAmministrazione%20civile%20dellinterno.%20038U0417.md);
 

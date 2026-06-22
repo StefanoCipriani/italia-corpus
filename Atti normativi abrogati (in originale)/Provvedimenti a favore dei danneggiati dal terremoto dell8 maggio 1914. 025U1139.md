@@ -18,7 +18,7 @@ Vista la [legge 19 luglio 1914, n. 761](Concernente%20provvedimenti%20a%20favore
 
 Visto il [decreto Luogotenenziale 6 gennaio 1916, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-01-06;140);
 
-Visto il [R. decreto 28 agosto 1924, n. 2061](../Regi%20decreti/Nuova%20delimitazione%20della%20zona%20colpita%20dal%20terremoto%20dell8%20maggio%201914%20in%20provincia%20di%20Catania.%20024U2061.md);
+Visto il [R. decreto 28 agosto 1924, n. 2061](Nuova%20delimitazione%20della%20zona%20colpita%20dal%20terremoto%20dell8%20maggio%201914%20in%20provincia%20di%20Catania.%20024U2061.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -32,7 +32,7 @@ Il valore dei fabbricati e dei muri paraterra, colpiti dal terremoto dell'8 magg
 
 ## Art. 2.
 
-E' data facolta' ai privati danneggiati dal terremoto 8 maggio 1914, compresi nel perimetro di cui al [R. decreto 28 agosto 1924, n. 2061](../Regi%20decreti/Nuova%20delimitazione%20della%20zona%20colpita%20dal%20terremoto%20dell8%20maggio%201914%20in%20provincia%20di%20Catania.%20024U2061.md), di presentare fino al 31 dicembre 1925 domande dirette ad ottenere i benefici di cui alla [legge 19 luglio 1914, n. 761](Concernente%20provvedimenti%20a%20favore%20dei%20danneggiati%20dal%20terremoto%20dell8%20maggio%201914%20nella%20provincia%20di%20Catania%20e%20modificazioni%20alla%20legge%2012%20luglio%201912%20n.%20712.%20014U0761.md), e successive. 
+E' data facolta' ai privati danneggiati dal terremoto 8 maggio 1914, compresi nel perimetro di cui al [R. decreto 28 agosto 1924, n. 2061](Nuova%20delimitazione%20della%20zona%20colpita%20dal%20terremoto%20dell8%20maggio%201914%20in%20provincia%20di%20Catania.%20024U2061.md), di presentare fino al 31 dicembre 1925 domande dirette ad ottenere i benefici di cui alla [legge 19 luglio 1914, n. 761](Concernente%20provvedimenti%20a%20favore%20dei%20danneggiati%20dal%20terremoto%20dell8%20maggio%201914%20nella%20provincia%20di%20Catania%20e%20modificazioni%20alla%20legge%2012%20luglio%201912%20n.%20712.%20014U0761.md), e successive. 
  
  Uguale facolta' e' consentita agli Enti locali per riparazione o ricostruzione degli edifici pubblici o di uso pubblico.
 

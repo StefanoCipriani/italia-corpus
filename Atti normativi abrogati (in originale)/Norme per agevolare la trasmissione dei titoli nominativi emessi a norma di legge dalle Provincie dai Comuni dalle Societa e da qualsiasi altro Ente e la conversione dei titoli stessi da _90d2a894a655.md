@@ -38,7 +38,7 @@ Il titolare che domanda la conversione del titolo nominativo in titolo al portat
 
 ### Art. 3. — null
 
-Il mancato annullamento del titolo e' punito con la detenzione fino ad un anno e con la multa da L. 1000 a L. 5000, salvo le maggiori pene sancite dal [Cod. pen.](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e il risarcimento dei danni ove sia il caso.
+Il mancato annullamento del titolo e' punito con la detenzione fino ad un anno e con la multa da L. 1000 a L. 5000, salvo le maggiori pene sancite dal [Cod. pen.](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e il risarcimento dei danni ove sia il caso.
 
 ### Art. 4.
 

@@ -108,7 +108,7 @@ Nelle deliberazioni relative alla ricostituzione ed alla formazione degli atti i
 
 Nei dieci giorni successivi ad ogni seduta la Commissione fara' affiggere all'albo comunale e pubblicare nel Foglio degli annunzi legali della Provincia un elenco sommario degli atti, compresi quelli di matrimonio previsti nell'ultimo comma dell'art 7, dei quali ha deliberato la formazione o la ricostituzione e, distinguendo quelli di nascita da quelli di matrimonio e da quelli di morte, ed indicando per ciascun atto il nome delle persone cui si riferiscono, l'eta', la paternita' e maternita', il luogo di nascita di esse, e la data della nascita, del matrimonio e della morte. 
  
- Entro un mese dalla data della pubblicazione e dell'affissione, gli interessati od il Pubblico Ministero potranno fare richiamo contro le deliberazioni delle Commissioni al tribunale civile del Circondario, in conformita' delle disposizioni contenute nel capo VI del titolo XII del libro I [Cod. civ.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), nel titolo X del [R. D. 15 novembre 1865, n. 2602](../Regi%20decreti/Per%20lOrdinamento%20dello%20Stato%20Civile.%20065U2602.md), sull'ordinamento dello stato civile, e negli [articoli 845](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_845) ed [846 del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_846). 
+ Entro un mese dalla data della pubblicazione e dell'affissione, gli interessati od il Pubblico Ministero potranno fare richiamo contro le deliberazioni delle Commissioni al tribunale civile del Circondario, in conformita' delle disposizioni contenute nel capo VI del titolo XII del libro I [Cod. civ.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), nel titolo X del [R. D. 15 novembre 1865, n. 2602](Per%20lOrdinamento%20dello%20Stato%20Civile.%20065U2602.md), sull'ordinamento dello stato civile, e negli [articoli 845](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_845) ed [846 del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_846). 
  
  La decisione del tribunale sara' comunicata d'ufficio alla Commissione competente. 
  
@@ -136,7 +136,7 @@ Trascorso il mese indicato nell'art. 9 le deliberazioni non impugnate sono esecu
 
 Ciascun Comune predisporra', per la trascrizione di cui agli articoli 2, n. 3, ed 11, in doppio esemplare, un registro speciale per gli atti di nascita, uno per gli atti di morte, ed uno per quelli di matrimonio, conformi al modello prescritto dall'ordinamento dello stato civile. 
  
- Se qualcuno di tali registri non sara' sufficiente, si provvedera' a norma degli [articoli 32](../Regi%20decreti/Per%20lOrdinamento%20dello%20Stato%20Civile.%20065U2602.md) e [33 del R. decreto 15 novembre 1865, n. 2602](../Regi%20decreti/Per%20lOrdinamento%20dello%20Stato%20Civile.%20065U2602.md), sull'ordinamento dello stato civile. 
+ Se qualcuno di tali registri non sara' sufficiente, si provvedera' a norma degli [articoli 32](Per%20lOrdinamento%20dello%20Stato%20Civile.%20065U2602.md) e [33 del R. decreto 15 novembre 1865, n. 2602](Per%20lOrdinamento%20dello%20Stato%20Civile.%20065U2602.md), sull'ordinamento dello stato civile. 
  
  I registri andranno esenti dal pagamento della tassa di bollo e saranno vidimati senza spesa. 
  
@@ -144,7 +144,7 @@ Ciascun Comune predisporra', per la trascrizione di cui agli articoli 2, n. 3, e
  
  Nei registri medesimi saranno ricevute le dichiarazioni di nascita e di morte autorizzate, a norma degli [articoli 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_372) e [392 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_392), dalle Commissioni, o, in sede di ricorso, dall'autorita' giudiziaria. 
  
- Quando la Commissione avra' cessato di funzionare i registri saranno chiusi a norma dell'[art. 29 del R decreto 15 novembre 1865, n. 2602](../Regi%20decreti/Per%20lOrdinamento%20dello%20Stato%20Civile.%20065U2602.md), e per ciascuno di essi il Comune compilera' nel termine di un mese l'indice alfabetico prescritto dall'art. 30 del decreto medesimo, dopo di che uno degli originali, col relativo indice con gli allegati, sara' depositato nella cancelleria del tribunale. 
+ Quando la Commissione avra' cessato di funzionare i registri saranno chiusi a norma dell'[art. 29 del R decreto 15 novembre 1865, n. 2602](Per%20lOrdinamento%20dello%20Stato%20Civile.%20065U2602.md), e per ciascuno di essi il Comune compilera' nel termine di un mese l'indice alfabetico prescritto dall'art. 30 del decreto medesimo, dopo di che uno degli originali, col relativo indice con gli allegati, sara' depositato nella cancelleria del tribunale. 
  
  Le deliberazioni originali, con i documenti ad esse acquisiti, saranno dalla Commissione consegnate al Comune per essere allegate al corrispondente registro. 
  

@@ -21,7 +21,7 @@ A favore del "Fondo di rotazione", previsto dal capo III della [legge 25 luglio 
 
 ## Art. 2.
 
-Per l'utilizzazione delle somme di cui al precedente art. 1, si applicano le norme contenute nel capo III della [legge 25 luglio 1952, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;949), e nel regolamento di esecuzione approvato con [decreto del Presidente della Repubblica 17 ottobre 1952, n. 1317](../Regolamenti%20governativi/Regolamento%20per%20lesecuzione%20delle%20norme%20di%20cui%20al%20capo%20III%20della%20legge%2025%20luglio%201952%20n.%20949%20recante%20provvedimenti%20per%20lo%20sviluppo%20delleconomia%20e%20lincremento%20delloccupazione.md), con le seguenti modificazioni.
+Per l'utilizzazione delle somme di cui al precedente art. 1, si applicano le norme contenute nel capo III della [legge 25 luglio 1952, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;949), e nel regolamento di esecuzione approvato con [decreto del Presidente della Repubblica 17 ottobre 1952, n. 1317](../DPR/Regolamento%20per%20lesecuzione%20delle%20norme%20di%20cui%20al%20capo%20III%20della%20legge%2025%20luglio%201952%20n.%20949%20recante%20provvedimenti%20per%20lo%20sviluppo%20delleconomia%20e%20lincremento%20delloccupazione.md), con le seguenti modificazioni.
 
 ## Art. 3.
 

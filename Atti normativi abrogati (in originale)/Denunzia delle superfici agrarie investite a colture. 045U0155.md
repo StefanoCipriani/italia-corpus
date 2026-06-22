@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 27 dicembre 1940, n. 1716](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-12-27;1716), convertito con modificazioni nella [legge 24 aprile 1941, n. 385](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20dicembre%201940-XIX%20n.%201716%20recante%20disposizioni%20per%20la%20disciplina%20degli%20approvvigionamenti%20della%20distribuzione%20e%20dei%20consumi%20_49bee2e89aec.md), recante disposizioni per la disciplina degli approvvigionamenti, della distribuzione e dei consumi dei generi alimentari in periodo di guerra;
+Visto il [R. decreto-legge 27 dicembre 1940, n. 1716](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-12-27;1716), convertito con modificazioni nella [legge 24 aprile 1941, n. 385](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20dicembre%201940-XIX%20n.%201716%20recante%20disposizioni%20per%20la%20disciplina%20degli%20approvvigionamenti%20della%20distribuzione%20e%20dei%20consumi%20_49bee2e89aec.md), recante disposizioni per la disciplina degli approvvigionamenti, della distribuzione e dei consumi dei generi alimentari in periodo di guerra;
 
 Vista la [legge 18 maggio 1942, n. 566](Riordinamento%20degli%20Enti%20economici%20dellagricoltura%20e%20dei%20Consorzi%20agrari.%20042U0566.md), sul riordinamento degli Enti economici dell'agricoltura, e le disposizioni successivamente emanate per la organizzazione dell'agricoltura e degli ammassi;
 

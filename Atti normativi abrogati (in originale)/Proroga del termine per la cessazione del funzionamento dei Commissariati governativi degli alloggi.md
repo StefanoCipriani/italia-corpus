@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 28 dicembre 1944, n. 415](../Decreti%20legislativi%20luogotenenziali/Nomina%20ed%20attribuzioni%20dei%20commissari%20governativi%20per%20gli%20alloggi.%20044U0415.md);
+Visto il [decreto legislativo luogotenenziale 28 dicembre 1944, n. 415](Nomina%20ed%20attribuzioni%20dei%20commissari%20governativi%20per%20gli%20alloggi.%20044U0415.md);
 
-Visto il [decreto legislativo luogotenenziale 4 giugno 1945, n. 332](../Decreti%20legislativi%20luogotenenziali/Norme%20complementari%20e%20di%20attuazione%20del%20decreto%20legislativo%20Luogotenenziale%2028%20dicembre%201944%20n.%20415%20sulla%20requisizione%20in%20uso%20e%20assegnazione%20in%20locazione%20di%20alloggi%20nel%20Comuni%20per%20i%20quali_e2e7f846cac7.md);
+Visto il [decreto legislativo luogotenenziale 4 giugno 1945, n. 332](Norme%20complementari%20e%20di%20attuazione%20del%20decreto%20legislativo%20Luogotenenziale%2028%20dicembre%201944%20n.%20415%20sulla%20requisizione%20in%20uso%20e%20assegnazione%20in%20locazione%20di%20alloggi%20nel%20Comuni%20per%20i%20quali_e2e7f846cac7.md);
 
-Visto il [regio decreto legislativo 25 maggio 1946, n. 425](../Regi%20decreti%20legislativi/Nome%20per%20la%20risoluzione%20delle%20controversie%20sulle%20requisizioni%20di%20alloggi.md);
+Visto il [regio decreto legislativo 25 maggio 1946, n. 425](Nome%20per%20la%20risoluzione%20delle%20controversie%20sulle%20requisizioni%20di%20alloggi.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 11 aprile 1947, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-04-11;191);
 

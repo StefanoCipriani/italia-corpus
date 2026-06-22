@@ -28,8 +28,8 @@ Sulla proposta del Presidente del Consiglio dei Ministri, ministro dell'interno,
 
 Nei territori annessi al Regno con le [leggi 26 settembre 1920, n. 1322, e 19 dicembre 1920, n. 1778](Che%20approva%20lannesso%20Trattato%20concluso%20fra%20il%20Regno%20dItalia%20e%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20020U1778.md), sono pubblicati ed avranno esecuzione, con le modifiche di cui agli articoli seguenti: 
  
- 1° gli [articoli 21](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), [22](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [23 del testo unico della legge sulla 
- pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [Regio decreto 30 giugno 1889,  n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (serie 3ª); 
+ 1° gli [articoli 21](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), [22](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [23 del testo unico della legge sulla 
+ pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [Regio decreto 30 giugno 1889,  n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (serie 3ª); 
  
  2° gli articoli 24 a 33 del regolamento alla predetta legge 
  approvato con [R. decreto 8 novembre 1889, n. 6157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-11-08;6157) (serie 3ª), 

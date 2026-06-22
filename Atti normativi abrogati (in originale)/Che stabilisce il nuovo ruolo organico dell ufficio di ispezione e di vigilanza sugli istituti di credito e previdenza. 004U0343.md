@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il ruolo organico dell'Ufficio d'ispezione e vigilanza sugli Istituti di credito e previdenza presso il Ministero di Agricoltura, Industria e Commercio, instituito con [R. decreto 16 dicembre 1894, n. 565](../Regi%20decreti/Che%20riordina%20il%20servizio%20di%20vigilanza%20degli%20istituti%20di%20credito%20e%20di%20previdenza.%20094U0565.md), modificato con [R. decreto 20 novembre 1897, n. 481](../Regi%20decreti/Che%20modifica%20il%20ruolo%20organico%20dellIspettorato%20degli%20Istituti%20di%20credito%20e%20di%20previdenza.%20097U0481.md), e' stabilito in conformita' alla tabella annessa alla presente legge.
+Il ruolo organico dell'Ufficio d'ispezione e vigilanza sugli Istituti di credito e previdenza presso il Ministero di Agricoltura, Industria e Commercio, instituito con [R. decreto 16 dicembre 1894, n. 565](Che%20riordina%20il%20servizio%20di%20vigilanza%20degli%20istituti%20di%20credito%20e%20di%20previdenza.%20094U0565.md), modificato con [R. decreto 20 novembre 1897, n. 481](Che%20modifica%20il%20ruolo%20organico%20dellIspettorato%20degli%20Istituti%20di%20credito%20e%20di%20previdenza.%20097U0481.md), e' stabilito in conformita' alla tabella annessa alla presente legge.
 
 ## Art. 2.
 

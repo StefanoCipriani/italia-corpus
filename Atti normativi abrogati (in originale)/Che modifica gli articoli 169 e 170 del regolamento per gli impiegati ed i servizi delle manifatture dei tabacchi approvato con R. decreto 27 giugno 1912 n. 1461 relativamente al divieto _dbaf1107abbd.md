@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Agli articoli 169 e 170 del regolamento approvato con. [R. decreto 27 giugno 1912, n. 1461](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20il%20personale%20ed%20i%20servizi%20delle%20Manifatture%20dei%20tabacchi%20e%20dei%20magazzini%20di%20deposito%20dei%20tabacchi%20greggi%20esteri.%20012U1461.md), e' sostituito il seguente: 
+Agli articoli 169 e 170 del regolamento approvato con. [R. decreto 27 giugno 1912, n. 1461](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20il%20personale%20ed%20i%20servizi%20delle%20Manifatture%20dei%20tabacchi%20e%20dei%20magazzini%20di%20deposito%20dei%20tabacchi%20greggi%20esteri.%20012U1461.md), e' sostituito il seguente: 
  
  «Nessuno puo' uscire dallo stabilimento con tabacchi, ne' con qualsiasi genere di pertinenza dell'Amministrazione. 
  

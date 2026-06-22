@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Le disposizioni contenute nell'articolo 65 del testo unico delle leggi sulle pensioni civili e militari, approvato con [regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni, si applicano a tutti i militari delle Forze armate, ivi compresi i militari del Corpo della guardia di finanza, del Corpo delle guardie di pubblica sicurezza e del Corpo degli agenti di custodia, nonche' agli appartenenti al Corpo nazionale dei vigili del fuoco.
+Le disposizioni contenute nell'articolo 65 del testo unico delle leggi sulle pensioni civili e militari, approvato con [regio decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni, si applicano a tutti i militari delle Forze armate, ivi compresi i militari del Corpo della guardia di finanza, del Corpo delle guardie di pubblica sicurezza e del Corpo degli agenti di custodia, nonche' agli appartenenti al Corpo nazionale dei vigili del fuoco.
  Le disposizioni stesse si applicano, altresi', al personale civile, compreso quello operaio, dell'Amministrazione militare che prende imbarco a bordo delle navi militari.
 
 ## Art. 2.

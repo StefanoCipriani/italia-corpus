@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Nei procedimenti pei reati che in tempo di pace sono di competenza dei tribunali ordinari e che in tempo di guerra sono sottoposti, a termini del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per l'esercito e di quello militare marittimo, alla giurisdizione militare, l'Amministrazione delle ferrovie dello Stato puo' costituirsi parte civile, a mezzo dei propri competenti uffici del servizio legale, nei procedimento e nel giudizio, fermo il disposto del capoverso dell'[art. 27 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e dell'[art. 26 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per la marina.
+Nei procedimenti pei reati che in tempo di pace sono di competenza dei tribunali ordinari e che in tempo di guerra sono sottoposti, a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per l'esercito e di quello militare marittimo, alla giurisdizione militare, l'Amministrazione delle ferrovie dello Stato puo' costituirsi parte civile, a mezzo dei propri competenti uffici del servizio legale, nei procedimento e nel giudizio, fermo il disposto del capoverso dell'[art. 27 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e dell'[art. 26 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per la marina.
 
 ## Art. 2.
 

@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 1° novembre 1914, n. 1244](../Regi%20decreti/Da%20convertirsi%20in%20legge%20col%20quale%20viene%20autorizzata%20la%20costruzione%20di%20ferrovie%20a%20cura%20diretta%20dello%20Stato.%20014U1244.md), da convertirsi in legge, col quale venne autorizzata la costruzione della ferrovia Montebelluna-Susegana e del tronco Sacile-Aviano, della ferrovia Sacile-Aviano-Pinzano, a cura diretta dello Stato, nonche' la spesa necessaria, limitatamente ai movimenti di terra ed alla esecuzione delle opere minori;
+Visto il [R. decreto 1° novembre 1914, n. 1244](Da%20convertirsi%20in%20legge%20col%20quale%20viene%20autorizzata%20la%20costruzione%20di%20ferrovie%20a%20cura%20diretta%20dello%20Stato.%20014U1244.md), da convertirsi in legge, col quale venne autorizzata la costruzione della ferrovia Montebelluna-Susegana e del tronco Sacile-Aviano, della ferrovia Sacile-Aviano-Pinzano, a cura diretta dello Stato, nonche' la spesa necessaria, limitatamente ai movimenti di terra ed alla esecuzione delle opere minori;
 
 Visto il [decreto Ministeriale 29 dicembre 1914, numero 6696](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1914-12-29;6696)-48048, col quale, sulla somma complessiva di L. 6.540.000, di cui al citato R. decreto, furono assegnate L. 1.416.000 per i suindicati lavori, da eseguirsi per la costruzione del tronco Sacile-Aviano;
 

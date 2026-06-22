@@ -64,7 +64,7 @@ La validita' normale del passaporto e' di un anno.
 
 ## Art. 6.
 
-Le norme del presente decreto non si applicano al passaporto diplomatico e a quello rilasciato per regio servizio, per i quali restano ferme le disposizioni di cui all'[art. 8 del Regio decreto 31 gennaio 1901, n. 36](../Regi%20decreti/Circa%20il%20rilascio%20dei%20passaporti%20per%20lestero.%20001U0036.md).
+Le norme del presente decreto non si applicano al passaporto diplomatico e a quello rilasciato per regio servizio, per i quali restano ferme le disposizioni di cui all'[art. 8 del Regio decreto 31 gennaio 1901, n. 36](Circa%20il%20rilascio%20dei%20passaporti%20per%20lestero.%20001U0036.md).
 
 ## Art. 7.
 

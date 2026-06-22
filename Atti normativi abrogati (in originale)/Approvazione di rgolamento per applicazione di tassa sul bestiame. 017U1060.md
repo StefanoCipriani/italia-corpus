@@ -14,4 +14,4 @@ N.
 
 1060.
 
-Decreto Luogotenenziale 14 giugno 1917, col quale, sulla proposta del ministro delle finanze, e' approvato il regolamento per l'applicazione della tassa sul bestiame nei comuni della provincia di Genova, in sostituzione di quello approvato con [R. decreto 22 ottobre 1905, n. 334](../Regi%20decreti/Approvazione%20di%20regolamento.%200500334R.md).
+Decreto Luogotenenziale 14 giugno 1917, col quale, sulla proposta del ministro delle finanze, e' approvato il regolamento per l'applicazione della tassa sul bestiame nei comuni della provincia di Genova, in sostituzione di quello approvato con [R. decreto 22 ottobre 1905, n. 334](Approvazione%20di%20regolamento.%200500334R.md).

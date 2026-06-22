@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli ufficiali della disciolta M.V.S.N. e sue specialita' che siano cessati dal servizio sotto la data del 31 dicembre 1943 o successivamente, qualora contino almeno 20 anni di servizio permanente effettivo, dei quali almeno 5 di iscrizione all'Opera di previdenza della milizia, liquideranno il trattamento di pensione stabilito nello statuto della «Sezione per assegni vitalizi» dell'Opera di previdenza della M.V.S.N., approvato con [R. decreto 15 luglio 1938, n. 1282](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20della%20Sezione%20per%20assegni%20vitalizi%20dellOpera%20di%20previdenza%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20038U1282.md), e successive modificazioni, a prescindere dal limite di eta' fissato nella tabella a) annessa al decreto stesso.
+Gli ufficiali della disciolta M.V.S.N. e sue specialita' che siano cessati dal servizio sotto la data del 31 dicembre 1943 o successivamente, qualora contino almeno 20 anni di servizio permanente effettivo, dei quali almeno 5 di iscrizione all'Opera di previdenza della milizia, liquideranno il trattamento di pensione stabilito nello statuto della «Sezione per assegni vitalizi» dell'Opera di previdenza della M.V.S.N., approvato con [R. decreto 15 luglio 1938, n. 1282](Approvazione%20del%20nuovo%20statuto%20della%20Sezione%20per%20assegni%20vitalizi%20dellOpera%20di%20previdenza%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20038U1282.md), e successive modificazioni, a prescindere dal limite di eta' fissato nella tabella a) annessa al decreto stesso.
 
 ## Art. 2.
 

@@ -40,7 +40,7 @@ Gli Istituti mutuanti sono autorizzati, in deroga eventuale delle rispettive nor
 
 ## Art. 4.
 
-I fondi derivanti dalla emissione delle obbligazioni considerate nel presente decreto saranno impiegati soltanto in operazioni di credito agrario e fondiario agrario, con le norme fissate dal [R. decreto 18 aprile 1926, n. 884](../Regi%20decreti/Norme%20in%20base%20alle%20quali%20dovranno%20essere%20eseguite%20le%20operazioni%20di%20credito%20agrario%20e%20fondiario-agrario%20in%20Tripolitania.%20026U0884.md). 
+I fondi derivanti dalla emissione delle obbligazioni considerate nel presente decreto saranno impiegati soltanto in operazioni di credito agrario e fondiario agrario, con le norme fissate dal [R. decreto 18 aprile 1926, n. 884](Norme%20in%20base%20alle%20quali%20dovranno%20essere%20eseguite%20le%20operazioni%20di%20credito%20agrario%20e%20fondiario-agrario%20in%20Tripolitania.%20026U0884.md). 
  La differenza fra l'interesse a carico dei mutuatari e quello dovuto agli Istituti portatori delle obbligazioni sara' rimborsata dal Governo della Colonia che, a tal fine, inscrivera' appositi stanziamenti in bilancio. 
  Fara', carico ai mutuatari una percentuale a titolo di commissione da corrispondersi alla Cassa di risparmio della Tripolitania, quale rimborso delle spese inerenti alla emissione ed al servizio delle obbligazioni di cui al presente decreto.
 

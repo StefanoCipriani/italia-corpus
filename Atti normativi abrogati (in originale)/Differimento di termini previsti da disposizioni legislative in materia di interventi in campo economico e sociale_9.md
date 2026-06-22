@@ -42,7 +42,7 @@ Il termine di cui al [comma 3 dell'articolo 70 della legge 30 dicembre 1991, n. 
 
 3.
 
-L'[articolo 4 del decreto legislativo 11 agosto 1993, n. 375](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20comma%201%20lettera%20aa%20della%20legge%2023%20ottobre%201992%20n.%20421%20concernente%20razionalizzazione%20dei%20sistemi%20di%20accertamento%20dei%20lavoratori%20dellagricoltura%20e%20dei%20relativi%20contributi.md), trova applicazione a decorrere dal 1 giugno 1996.
+L'[articolo 4 del decreto legislativo 11 agosto 1993, n. 375](../Decreti%20Legislativi/Attuazione%20dellart.%203%20comma%201%20lettera%20aa%20della%20legge%2023%20ottobre%201992%20n.%20421%20concernente%20razionalizzazione%20dei%20sistemi%20di%20accertamento%20dei%20lavoratori%20dellagricoltura%20e%20dei%20relativi%20contributi.md), trova applicazione a decorrere dal 1 giugno 1996.
 
 4.
 
@@ -82,15 +82,15 @@ Il termine di cui all'[articolo 13, comma 4, della legge 5 febbraio 1992, n. 122
 
 1.
 
-All'[articolo 3, comma 13, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dall'[articolo 4, comma 1, lettera i), del decreto legislativo 7 dicembre 1993, n. 517](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), sono inserite, dopo le parole: "variazioni ed assestamento", le seguenti: "ed informa il controllo sugli atti ai principi contenuti nell'[articolo 2403 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2403)".
+All'[articolo 3, comma 13, del decreto legislativo 30 dicembre 1992, n. 502](../Decreti%20Legislativi/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dall'[articolo 4, comma 1, lettera i), del decreto legislativo 7 dicembre 1993, n. 517](../Decreti%20Legislativi/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), sono inserite, dopo le parole: "variazioni ed assestamento", le seguenti: "ed informa il controllo sugli atti ai principi contenuti nell'[articolo 2403 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2403)".
 
 2.
 
-All'[articolo 10, comma 2, del decreto legislativo 30 giugno 1993, n. 266](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20del%20Ministero%20della%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), sono soppresse le parole: "e comunque a decorrere dal 1 gennaio 1994".
+All'[articolo 10, comma 2, del decreto legislativo 30 giugno 1993, n. 266](../Decreti%20Legislativi/Riordinamento%20del%20Ministero%20della%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), sono soppresse le parole: "e comunque a decorrere dal 1 gennaio 1994".
 
 3.
 
-All'[articolo 9, comma 3, del decreto legislativo 30 giugno 1993, n. 270](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20zooprofilattici%20sperimentali%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), sono soppresse le parole: "e, comunque, non oltre il 30 giugno 1994."; all'articolo 10, comma 2, del citato [decreto legislativo n. 270 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;270), sono soppresse le parole: "e comunque a decorrere dal 1 gennaio 1994".
+All'[articolo 9, comma 3, del decreto legislativo 30 giugno 1993, n. 270](../Decreti%20Legislativi/Riordinamento%20degli%20istituti%20zooprofilattici%20sperimentali%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), sono soppresse le parole: "e, comunque, non oltre il 30 giugno 1994."; all'articolo 10, comma 2, del citato [decreto legislativo n. 270 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;270), sono soppresse le parole: "e comunque a decorrere dal 1 gennaio 1994".
 
 4.
 

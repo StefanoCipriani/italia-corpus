@@ -20,7 +20,7 @@ Visto il [R. decreto-legge 30 agosto 1925, n. 1513](Costituzione%20del%20Ministe
 
 Visto il [R. decreto-legge 22 febbraio 1937, n. 220](Ordinamento%20della%20Regia%20aeronautica.%20037U0220.md), convertito nella [legge 25 giugno 1937, n. 1501](Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20febbraio%201937-XV%20n.%20220%20che%20approva%20lordinamento%20della%20Regia%20aeronautica.%20037U1501.md), concernente l'ordinamento della Regia aeronautica, e successive modificazioni;
 
-Visto il [R. decreto 16 luglio 1935, n. 1677](../Regi%20decreti/Costituzione%20e%20funzionamento%20del%20Comitato%20tecnico%20di%20aeronautica.%20035U1677.md), sulla costituzione e funzionamento del Comitato tecnico di aeronautica;
+Visto il [R. decreto 16 luglio 1935, n. 1677](Costituzione%20e%20funzionamento%20del%20Comitato%20tecnico%20di%20aeronautica.%20035U1677.md), sulla costituzione e funzionamento del Comitato tecnico di aeronautica;
 
 Visto il [R. decreto-legge 22 ottobre 1936, n. 1956](Istituzione%20del%20Consiglio%20dellAria.%20036U1956.md), convertito nella [legge 31 dicembre 1936, n. 2336](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2022%20ottobre%201936-XIV%20n.%201956%20relativo%20alla%20istituzione%20del%20Consiglio%20dellAria.%20036U2336.md), concernente l'istituzione del Consiglio dell'aria;
 
@@ -254,7 +254,7 @@ Per i servizi tecnici e di segreteria sono destinati presso i suddetti Corpi con
 
 ### Art. 22.
 
-Sono abrogati il [R. decreto 16 luglio 1935, n. 1677](../Regi%20decreti/Costituzione%20e%20funzionamento%20del%20Comitato%20tecnico%20di%20aeronautica.%20035U1677.md), ed il [R. decreto-legge 22 ottobre 1936, n. 1956](Istituzione%20del%20Consiglio%20dellAria.%20036U1956.md), convertito nella [legge 31 dicembre 1936, n. 2336](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2022%20ottobre%201936-XIV%20n.%201956%20relativo%20alla%20istituzione%20del%20Consiglio%20dellAria.%20036U2336.md), nonche' ogni altra disposizione contraria alle norme contenute nel presente decreto il quale entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+Sono abrogati il [R. decreto 16 luglio 1935, n. 1677](Costituzione%20e%20funzionamento%20del%20Comitato%20tecnico%20di%20aeronautica.%20035U1677.md), ed il [R. decreto-legge 22 ottobre 1936, n. 1956](Istituzione%20del%20Consiglio%20dellAria.%20036U1956.md), convertito nella [legge 31 dicembre 1936, n. 2336](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2022%20ottobre%201936-XIV%20n.%201956%20relativo%20alla%20istituzione%20del%20Consiglio%20dellAria.%20036U2336.md), nonche' ogni altra disposizione contraria alle norme contenute nel presente decreto il quale entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  
  Il presente decreto sara' presentato al parlamento per la conversione in legge. Il Ministro proponente e' autorizzato a presentare il relativo disegno di legge. 
  

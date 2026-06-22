@@ -14,17 +14,17 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
-Visto il [R. decreto 15 agosto 1926, n. 1733](../Regi%20decreti/Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), e successive modificazioni;
+Visto il [R. decreto 15 agosto 1926, n. 1733](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), e successive modificazioni;
 
-Visto il [R. decreto 18 ottobre 1927, n. 2023](../Regi%20decreti/Norme%20relative%20al%20contratto%20di%20impiego%20ed%20alle%20mansioni%20del%20personale%20da%20assumere%20nellAmministrazione%20postale%20telegrafica%20con%20contratto%20a%20termine.%20027U2023.md);
+Visto il [R. decreto 18 ottobre 1927, n. 2023](Norme%20relative%20al%20contratto%20di%20impiego%20ed%20alle%20mansioni%20del%20personale%20da%20assumere%20nellAmministrazione%20postale%20telegrafica%20con%20contratto%20a%20termine.%20027U2023.md);
 
-Visto il [R. decreto 31 maggio 1928, n. 1233](../Regi%20decreti/Estensione%20al%20personale%20postale%20telegrafico%20del%20cessato%20regime%20austro-ungarico%20delle%20disposizioni%20del%20R.%20decreto%2015%20agosto%201926%20n.%201733%20sullordinamento%20del%20personale%20dellAmministrazione%20d_fd71c4fed33e.md);
+Visto il [R. decreto 31 maggio 1928, n. 1233](Estensione%20al%20personale%20postale%20telegrafico%20del%20cessato%20regime%20austro-ungarico%20delle%20disposizioni%20del%20R.%20decreto%2015%20agosto%201926%20n.%201733%20sullordinamento%20del%20personale%20dellAmministrazione%20d_fd71c4fed33e.md);
 
-Visto il [R. decreto 17 settembre 1931, n. 1345](../Regi%20decreti/Nuove%20tabelle%20organiche%20del%20personale%20postale%20e%20telegrafico.%20031U1345.md);
+Visto il [R. decreto 17 settembre 1931, n. 1345](Nuove%20tabelle%20organiche%20del%20personale%20postale%20e%20telegrafico.%20031U1345.md);
 
-Visto il [R. decreto 26 aprile 1934, n. 814](../Regi%20decreti/Provvedimenti%20a%20favore%20del%20personale%20postelegrafico%20ex%20combattente%20o%20proveniente%20dal%20gruppo%20B.%20034U0814.md);
+Visto il [R. decreto 26 aprile 1934, n. 814](Provvedimenti%20a%20favore%20del%20personale%20postelegrafico%20ex%20combattente%20o%20proveniente%20dal%20gruppo%20B.%20034U0814.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -44,25 +44,25 @@ La variante alla tabella n. 1 dell'allegato 1 al [R. decreto 17 settembre 1931, 
 
 ## Art. 2.
 
-Il personale di ruolo di seconda categoria dell'Amministrazione delle poste e dei telegrafi, di cui all'art. 1 dell'ordinamento approvato con [R. decreto 15 agosto 1926, n. 1733](../Regi%20decreti/Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), comprende: 
+Il personale di ruolo di seconda categoria dell'Amministrazione delle poste e dei telegrafi, di cui all'art. 1 dell'ordinamento approvato con [R. decreto 15 agosto 1926, n. 1733](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), comprende: 
  
- a) un ruolo di capi d'ufficio principali ed assimilati, con le funzioni di dirigenza, di vigilanza e di controllo, che saranno specificate con decreto Ministeriale, costituito dai gradi 8° e 9° col trattamento economico stabilito per il gruppo B dal [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni; 
+ a) un ruolo di capi d'ufficio principali ed assimilati, con le funzioni di dirigenza, di vigilanza e di controllo, che saranno specificate con decreto Ministeriale, costituito dai gradi 8° e 9° col trattamento economico stabilito per il gruppo B dal [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni; 
  
- b) un ruolo di capi d'ufficio, un ruolo di ufficiali esecutivi, ed un ruolo di personale tecnico speciale, col trattamento economico stabilito per il personale di gruppo C dal citato R. decreto n. 2395, e successive modificazioni, fermo restando il disposto dell'[art. 4 del R. decreto 26 aprile 1934, n. 814](../Regi%20decreti/Provvedimenti%20a%20favore%20del%20personale%20postelegrafico%20ex%20combattente%20o%20proveniente%20dal%20gruppo%20B.%20034U0814.md). 
+ b) un ruolo di capi d'ufficio, un ruolo di ufficiali esecutivi, ed un ruolo di personale tecnico speciale, col trattamento economico stabilito per il personale di gruppo C dal citato R. decreto n. 2395, e successive modificazioni, fermo restando il disposto dell'[art. 4 del R. decreto 26 aprile 1934, n. 814](Provvedimenti%20a%20favore%20del%20personale%20postelegrafico%20ex%20combattente%20o%20proveniente%20dal%20gruppo%20B.%20034U0814.md). 
  
- La tabella n. 2 dell'allegato 1 al [R. decreto 17 settembre 1931 n. 1345](../Regi%20decreti/Nuove%20tabelle%20organiche%20del%20personale%20postale%20e%20telegrafico.%20031U1345.md), e' sostituita con effetto dal 1° ottobre 1935 da quella annessa al presente decreto, firmata, d'ordine Nostro, dai Ministri per le comunicazioni e per le finanze.
+ La tabella n. 2 dell'allegato 1 al [R. decreto 17 settembre 1931 n. 1345](Nuove%20tabelle%20organiche%20del%20personale%20postale%20e%20telegrafico.%20031U1345.md), e' sostituita con effetto dal 1° ottobre 1935 da quella annessa al presente decreto, firmata, d'ordine Nostro, dai Ministri per le comunicazioni e per le finanze.
 
 ## Art. 3.
 
-Nel conferimento dei posti che risultino disponibili nel grado iniziale del ruolo a) di prima categoria del personale direttivo postale e telegrafico dopo l'applicazione nell'[art. 3 del R. decreto 26 aprile 1934, n. 814](../Regi%20decreti/Provvedimenti%20a%20favore%20del%20personale%20postelegrafico%20ex%20combattente%20o%20proveniente%20dal%20gruppo%20B.%20034U0814.md), e fino al 31 dicembre 1937, l'aliquota riservata ai candidati estranei con l'[art. 10 del R. decreto 15 agosto 1926, n. 1733](../Regi%20decreti/Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), e' stabilita in un terzo; quella riservata al personale di ruolo e delle ricevitorie ivi indicato, e' fissata in due terzi. 
+Nel conferimento dei posti che risultino disponibili nel grado iniziale del ruolo a) di prima categoria del personale direttivo postale e telegrafico dopo l'applicazione nell'[art. 3 del R. decreto 26 aprile 1934, n. 814](Provvedimenti%20a%20favore%20del%20personale%20postelegrafico%20ex%20combattente%20o%20proveniente%20dal%20gruppo%20B.%20034U0814.md), e fino al 31 dicembre 1937, l'aliquota riservata ai candidati estranei con l'[art. 10 del R. decreto 15 agosto 1926, n. 1733](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), e' stabilita in un terzo; quella riservata al personale di ruolo e delle ricevitorie ivi indicato, e' fissata in due terzi. 
  
- Per detto personale l'Amministrazione delle poste e dei telegrafi e' autorizzata a derogare alla disposizione di cui al penultimo comma dell'art. 5 dell'ordinamento approvato con [R. decreto 15 agosto 1926, n. 1733](../Regi%20decreti/Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md).
+ Per detto personale l'Amministrazione delle poste e dei telegrafi e' autorizzata a derogare alla disposizione di cui al penultimo comma dell'art. 5 dell'ordinamento approvato con [R. decreto 15 agosto 1926, n. 1733](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md).
 
 ## Art. 4.
 
 I posti del ruolo di capi d'ufficio principali di cui alla lettera a) dell'art. 2 disponibili al 1° ottobre 1935, sono conferiti: 
  
- quelli del grado 8° ai capi d'ufficio di prima classe ed assimilati dei ruoli a) di seconda categoria di cui alle tabelle annesse ai [Regi decreti 17 settembre 1931, n. 1345](../Regi%20decreti/Nuove%20tabelle%20organiche%20del%20personale%20postale%20e%20telegrafico.%20031U1345.md), e [31 maggio 1928, n. 1233](../Regi%20decreti/Estensione%20al%20personale%20postale%20telegrafico%20del%20cessato%20regime%20austro-ungarico%20delle%20disposizioni%20del%20R.%20decreto%2015%20agosto%201926%20n.%201733%20sullordinamento%20del%20personale%20dellAmministrazione%20d_fd71c4fed33e.md), i quali abbiano appartenuto al gruppo B e siano inoltre forniti del titolo di studio di cui alla [lettera b) dell'art. 16 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); 
+ quelli del grado 8° ai capi d'ufficio di prima classe ed assimilati dei ruoli a) di seconda categoria di cui alle tabelle annesse ai [Regi decreti 17 settembre 1931, n. 1345](Nuove%20tabelle%20organiche%20del%20personale%20postale%20e%20telegrafico.%20031U1345.md), e [31 maggio 1928, n. 1233](Estensione%20al%20personale%20postale%20telegrafico%20del%20cessato%20regime%20austro-ungarico%20delle%20disposizioni%20del%20R.%20decreto%2015%20agosto%201926%20n.%201733%20sullordinamento%20del%20personale%20dellAmministrazione%20d_fd71c4fed33e.md), i quali abbiano appartenuto al gruppo B e siano inoltre forniti del titolo di studio di cui alla [lettera b) dell'art. 16 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); 
  
  quelli del grado 9° ai capi d'ufficio di seconda classe ed assimilati dei predetti ruoli a) di seconda categoria che abbiano anch'essi appartenuto ai gruppo B e siano forniti del titolo di studio di cui sopra. 
  
@@ -72,25 +72,25 @@ I posti del ruolo di capi d'ufficio principali di cui alla lettera a) dell'art. 
 
 I posti del ruolo di capo d'ufficio principale di cui alla lettera a) dell'art. 2, eventualmente non conferiti in base alle norme dell'art. 4 e quelli che si rendono successivamente vacanti sono conferiti: 
  
- quelli del grado 8° ai funzionari del grado 9° dello stesso ruolo con le norme dell'[art. 7 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); 
+ quelli del grado 8° ai funzionari del grado 9° dello stesso ruolo con le norme dell'[art. 7 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); 
  
- quelli del grado 9°, fino alla concorrenza della meta', per merito comparativo, su designazione del Consiglio di amministrazione, ai funzionari del ruolo dei capi d'ufficio che abbiano appartenuto al gruppo B, e siano forniti del titolo di studio di cui alla [lettera b) dell'art. 16 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), fino ad esaurimento; il resto, mediante concorso per esame, al personale dei gradi 8° (transitorio) 9° e 10° di seconda categoria che sia fornito del suddetto titolo di studio.
+ quelli del grado 9°, fino alla concorrenza della meta', per merito comparativo, su designazione del Consiglio di amministrazione, ai funzionari del ruolo dei capi d'ufficio che abbiano appartenuto al gruppo B, e siano forniti del titolo di studio di cui alla [lettera b) dell'art. 16 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), fino ad esaurimento; il resto, mediante concorso per esame, al personale dei gradi 8° (transitorio) 9° e 10° di seconda categoria che sia fornito del suddetto titolo di studio.
 
 ## Art. 6.
 
-I funzionari appartenenti al quadro separato dei commissari e ragionieri, di cui all'art. 21 dell'ordinamento approvato con [R. decreto n. 1733 del 15 agosto 1926](../Regi%20decreti/Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), che siano forniti del titolo di studio previsto alla [lettera a) dell'art. 16 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), possono essere collocati in soprannumero, ciascuno nel corrispondente grado del ruolo a) del personale di prima categoria di cui alla tabella. n. 1 annessa al [R. decreto 17 settembre 1931, n. 1345](../Regi%20decreti/Nuove%20tabelle%20organiche%20del%20personale%20postale%20e%20telegrafico.%20031U1345.md). 
+I funzionari appartenenti al quadro separato dei commissari e ragionieri, di cui all'art. 21 dell'ordinamento approvato con [R. decreto n. 1733 del 15 agosto 1926](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), che siano forniti del titolo di studio previsto alla [lettera a) dell'art. 16 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), possono essere collocati in soprannumero, ciascuno nel corrispondente grado del ruolo a) del personale di prima categoria di cui alla tabella. n. 1 annessa al [R. decreto 17 settembre 1931, n. 1345](Nuove%20tabelle%20organiche%20del%20personale%20postale%20e%20telegrafico.%20031U1345.md). 
  
  Tale collocamento e' fatto mediante esame di concorso e per non oltre dieci posti complessivi. 
  
  I posti conferiti in soprannumero debbono successivamente ridursi nei rispettivi gradi 7° ed 8° ed andare in aumento al gradi 10° ed 11° sino ad equiparazione coi posti di ruolo, in ragione di uno ogni tre posti che si fanno vacanti nei suddetti gradi 7° ed 8° dopo l'andata in vigore del presente decreto. 
  
- Ai fini delle promozioni al grado superiore dei funzionari che in base al presente articolo conseguano il collocamento nel ruolo a) del personale di prima categoria, si applicano le disposizioni dell'art. 9 dell'ordinamento approvato con [R. decreto 15 agosto 1926, n. 1733](../Regi%20decreti/Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md).
+ Ai fini delle promozioni al grado superiore dei funzionari che in base al presente articolo conseguano il collocamento nel ruolo a) del personale di prima categoria, si applicano le disposizioni dell'art. 9 dell'ordinamento approvato con [R. decreto 15 agosto 1926, n. 1733](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md).
 
 ## Art. 7.
 
 L'Amministrazione delle poste e dei telegrafi e' autorizzata a bandire concorsi interni per reclutamento nel ruolo c) del personale esecutivo di seconda categoria sino a concorrenza della meta' degli impiegati del detto ruolo cessati dal servizio nel periodo dal 1° luglio 1935 al 31 dicembre 1937. 
  
- Tali concorsi sono riservati agli impiegati ausiliari nonche' agli agenti di terza categoria forniti del titolo di studio di cui alla [lettera e) dell'art. 16 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), oppure che attendano almeno dal 18 dicembre 1928 alle funzioni degli impiegati di seconda categoria. Per questi concorsi e' applicabile il disposto del [terzo comma dell'art. 1 del R. decreto 18 dicembre 1930, n. 1733](../Regi%20decreti/Norme%20transitorie%20per%20i%20passaggi%20a%20categoria%20superiore%20e%20la%20sistemazione%20in%20ruolo%20del%20personale%20in%20servizio%20delle%20Amministrazioni%20statali.%20030U1733.md). 
+ Tali concorsi sono riservati agli impiegati ausiliari nonche' agli agenti di terza categoria forniti del titolo di studio di cui alla [lettera e) dell'art. 16 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), oppure che attendano almeno dal 18 dicembre 1928 alle funzioni degli impiegati di seconda categoria. Per questi concorsi e' applicabile il disposto del [terzo comma dell'art. 1 del R. decreto 18 dicembre 1930, n. 1733](Norme%20transitorie%20per%20i%20passaggi%20a%20categoria%20superiore%20e%20la%20sistemazione%20in%20ruolo%20del%20personale%20in%20servizio%20delle%20Amministrazioni%20statali.%20030U1733.md). 
  
  Al personale ausiliario che fa passaggio in ruolo sono applicabili le disposizioni di cui all'[art. 2 del R. decreto-legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46#art_2), convertito nella legge 24 magio 1926, n. 898.
 
@@ -108,7 +108,7 @@ Con decorrenza dal 1° ottobre 1935 le retribuzioni per il lavoro straordinario 
 
 ## Art. 10.
 
-Dopo l'applicazione dell'art. 3 del presente decreto, l'ammissione del personale delle poste e dei telegrafi ai concorsi per la nomina nel ruolo ivi indicato, e' subordinata al possesso del titolo di studio di cui alla [lettera a) dell'art. 16 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+Dopo l'applicazione dell'art. 3 del presente decreto, l'ammissione del personale delle poste e dei telegrafi ai concorsi per la nomina nel ruolo ivi indicato, e' subordinata al possesso del titolo di studio di cui alla [lettera a) dell'art. 16 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 11.
 

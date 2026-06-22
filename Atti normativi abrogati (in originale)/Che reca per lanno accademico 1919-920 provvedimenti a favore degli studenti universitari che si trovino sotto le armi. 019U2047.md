@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Veduta la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Veduto il testo unico delle leggi sulla istruzione superiore, approvato con [Regio decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md);
+Veduto il testo unico delle leggi sulla istruzione superiore, approvato con [Regio decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md);
 
-Veduto il regolamento generale universitario approvato con [R. decreto 9 agosto 1910, n. 796](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), modificato con [R. decreto 21 settembre 1911, n. 1194](../Regi%20decreti/Col%20quale%20vengono%20modificati%20alcuni%20articoli%20del%20regolamento%20generale%20universitario%20approvato%20con%20R.%20decreto%209%20agosto%201910%20n.%20796%20011U1194.md);
+Veduto il regolamento generale universitario approvato con [R. decreto 9 agosto 1910, n. 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), modificato con [R. decreto 21 settembre 1911, n. 1194](Col%20quale%20vengono%20modificati%20alcuni%20articoli%20del%20regolamento%20generale%20universitario%20approvato%20con%20R.%20decreto%209%20agosto%201910%20n.%20796%20011U1194.md);
 
 Udito il Consiglio dei ministri;
 

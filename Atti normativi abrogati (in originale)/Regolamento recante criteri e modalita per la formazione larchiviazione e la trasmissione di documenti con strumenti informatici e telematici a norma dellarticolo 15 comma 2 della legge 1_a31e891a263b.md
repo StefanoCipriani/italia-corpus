@@ -16,7 +16,7 @@ Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.n
 
 Visto l'[articolo 15, comma 2, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
-Visto il [decreto legislativo 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
+Visto il [decreto legislativo 12 febbraio 1993, n. 39](../Decreti%20Legislativi/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
 Sentito il Garante per la protezione dei dati personali;
 
@@ -73,7 +73,7 @@ Ai fini del presente regolamento s'intende:
                                 per regole tecniche, le specifiche di carattere tecnico, ivi compresa ogni disposizione che ad esse si applichi.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note al preambolo:
  - Si riporta il testo dell'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87):
  "Art. 87. - Il Presidente della Repubblica e' il Capo dello Stato e rappresenta l'unita' nazionale.

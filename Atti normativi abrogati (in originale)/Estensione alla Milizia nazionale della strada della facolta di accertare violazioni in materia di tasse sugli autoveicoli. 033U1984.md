@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Oltre agli ufficiali, sottufficiali, militari ed agenti elencati nell'[art. 26 del R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), possono accertare violazioni in materia di tasse sugli autoveicoli previste dallo stesso [R. decreto 20 dicembre 1923, n. 3283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-20;3283), anche gli ufficiali, sottufficiali, graduati e militi della Milizia nazionale della strada.
+Oltre agli ufficiali, sottufficiali, militari ed agenti elencati nell'[art. 26 del R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), possono accertare violazioni in materia di tasse sugli autoveicoli previste dallo stesso [R. decreto 20 dicembre 1923, n. 3283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-20;3283), anche gli ufficiali, sottufficiali, graduati e militi della Milizia nazionale della strada.
 
 ## Art. 2.
 
-La quarta parte del prodotto netto di tutte le pene pecuniarie accertate a termini dell'articolo precedente dalla Milizia della strada verra' accreditata ai conti vestiario dei sottufficiali, graduati e militi della stessa Milizia secondo il riparto che sara' effettuato col decreto Ministeriale da emanarsi ai sensi dell'[art. 117 del R. decreto 20 ottobre 1932, n. 1554](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20Milizia%20nazionale%20della%20strada.%20032U1554.md).
+La quarta parte del prodotto netto di tutte le pene pecuniarie accertate a termini dell'articolo precedente dalla Milizia della strada verra' accreditata ai conti vestiario dei sottufficiali, graduati e militi della stessa Milizia secondo il riparto che sara' effettuato col decreto Ministeriale da emanarsi ai sensi dell'[art. 117 del R. decreto 20 ottobre 1932, n. 1554](Approvazione%20del%20regolamento%20per%20la%20Milizia%20nazionale%20della%20strada.%20032U1554.md).
 
 ## Art. 3.
 

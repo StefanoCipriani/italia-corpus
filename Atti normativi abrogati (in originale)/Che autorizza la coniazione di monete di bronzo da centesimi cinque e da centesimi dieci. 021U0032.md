@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [Regio decreto 4 settembre 1919, n. 1618](../Regi%20decreti/Che%20autorizza%20la%20fabbricazione%20e%20lemissione%20di%20monete%20di%20nichelio%20puro%20da%20centesimi%20cinquanta%20e%20di%20bronzo%20da%20centesimi%20dieci.%20019U1618.md);
+Visto il [Regio decreto 4 settembre 1919, n. 1618](Che%20autorizza%20la%20fabbricazione%20e%20lemissione%20di%20monete%20di%20nichelio%20puro%20da%20centesimi%20cinquanta%20e%20di%20bronzo%20da%20centesimi%20dieci.%20019U1618.md);
 
-Visto il [Regio decreto 13 luglio 1919, n. 1219](../Regi%20decreti/Che%20autorizza%20la%20fabbricazione%20e%20lemissione%20di%20monete%20di%20bronzo%20da%20centesimi%20cinque.%20019U1219.md);
+Visto il [Regio decreto 13 luglio 1919, n. 1219](Che%20autorizza%20la%20fabbricazione%20e%20lemissione%20di%20monete%20di%20bronzo%20da%20centesimi%20cinque.%20019U1219.md);
 
 Visto il [Regio decreto 2 maggio 1920, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-05-02;627);
 
@@ -32,7 +32,7 @@ La R. Zecca e' autorizzata a coniare monete di bronzo da centesimi cinque e da c
 
 ## Art. 2.
 
-L'entrata corrispondente alla emissione delle monete di cui sopra sara' inscritta nei capitoli di cui agli [articoli 9](../Regi%20decreti/Che%20autorizza%20la%20fabbricazione%20e%20lemissione%20di%20monete%20di%20nichelio%20puro%20da%20centesimi%20cinquanta%20e%20di%20bronzo%20da%20centesimi%20dieci.%20019U1618.md) e [7 dei Regi decreti 4 settembre 1919, n. 1618](../Regi%20decreti/Che%20autorizza%20la%20fabbricazione%20e%20lemissione%20di%20monete%20di%20nichelio%20puro%20da%20centesimi%20cinquanta%20e%20di%20bronzo%20da%20centesimi%20dieci.%20019U1618.md) e [13 luglio 1919, n. 1219](../Regi%20decreti/Che%20autorizza%20la%20fabbricazione%20e%20lemissione%20di%20monete%20di%20bronzo%20da%20centesimi%20cinque.%20019U1219.md). 
+L'entrata corrispondente alla emissione delle monete di cui sopra sara' inscritta nei capitoli di cui agli [articoli 9](Che%20autorizza%20la%20fabbricazione%20e%20lemissione%20di%20monete%20di%20nichelio%20puro%20da%20centesimi%20cinquanta%20e%20di%20bronzo%20da%20centesimi%20dieci.%20019U1618.md) e [7 dei Regi decreti 4 settembre 1919, n. 1618](Che%20autorizza%20la%20fabbricazione%20e%20lemissione%20di%20monete%20di%20nichelio%20puro%20da%20centesimi%20cinquanta%20e%20di%20bronzo%20da%20centesimi%20dieci.%20019U1618.md) e [13 luglio 1919, n. 1219](Che%20autorizza%20la%20fabbricazione%20e%20lemissione%20di%20monete%20di%20bronzo%20da%20centesimi%20cinque.%20019U1219.md). 
  
  Le spese relative alla coniazione dei contingenti autorizzati col presente decreto graveranno sul capitolo 286 aggiunto dell'esercizio corrente, nel quale il ministro del tesoro potra' fare le opportune variazioni con propri decreti, e sui corrispondenti capitoli degli esercizi successivi.
 

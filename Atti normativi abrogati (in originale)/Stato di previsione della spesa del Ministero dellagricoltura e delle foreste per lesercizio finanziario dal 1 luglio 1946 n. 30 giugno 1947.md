@@ -28,7 +28,7 @@ E' approvato il bilancio dell'Azienda di Stato per le foreste demaniali, per l'e
 
 ## Art. 3.
 
-E' confermata per l'esercizio finanziario 1946-47: la validita' dell'autorizzazione al Ministro per il tesoro a provvedere con propri decreti alle variazioni di bilancio dipendenti dall'attuazione dell'[art. 1 del decreto legislativo luogotenenziale 21 settembre 1944, n. 259](../Decreti%20legislativi%20luogotenenziali/Variazioni%20di%20bilancio%20per%20lesercizio%20finanziario%201944-45.%20044U0259.md).
+E' confermata per l'esercizio finanziario 1946-47: la validita' dell'autorizzazione al Ministro per il tesoro a provvedere con propri decreti alle variazioni di bilancio dipendenti dall'attuazione dell'[art. 1 del decreto legislativo luogotenenziale 21 settembre 1944, n. 259](Variazioni%20di%20bilancio%20per%20lesercizio%20finanziario%201944-45.%20044U0259.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta, ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

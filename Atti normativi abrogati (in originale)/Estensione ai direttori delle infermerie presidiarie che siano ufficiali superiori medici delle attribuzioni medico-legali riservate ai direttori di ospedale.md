@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e successive modificazioni;
 
-Visto il regolamento per l'esecuzione del testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 6 giugno 1940, n. 1481](Parte%20prima%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20Regio%20decreto%2024%20febbraio%201938-XVI%20n.%20329.%20040U1481.md) e con [regio decreto 3 aprile 1942, n. 1133](../Regi%20decreti/Parte%20seconda%20del%20regolamento%20per%20lesecuzione%20del%20Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20Regio%20decreto%2024%20febbraio%201938-XVI%20n.%20329.%20042U1133.md), e successive modificazioni;
+Visto il regolamento per l'esecuzione del testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 6 giugno 1940, n. 1481](Parte%20prima%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20Regio%20decreto%2024%20febbraio%201938-XVI%20n.%20329.%20040U1481.md) e con [regio decreto 3 aprile 1942, n. 1133](Parte%20seconda%20del%20regolamento%20per%20lesecuzione%20del%20Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20Regio%20decreto%2024%20febbraio%201938-XVI%20n.%20329.%20042U1133.md), e successive modificazioni;
 
 Visto il regolamento sul servizio sanitario militare territoriale dell'Esercito, approvato con regio decreto 17 novembre 1932;
 

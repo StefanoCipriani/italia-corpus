@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visti l'articolo unico della [legge 28 dicembre 1952, n. 3060, e l'art. 47](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20della%20facolta%20di%20provvedere%20alla%20riforma%20degli%20ordinamenti%20delle%20professioni%20di%20esercente%20in%20economia%20e%20commercio%20e%20di%20ragioniere.md) dell'ordinamento della professione di dottore commercialista approvato con [decreto del Presidente della Repubblica 27 ottobre 1953, n. 1067](Ordinamento%20della%20professione%20di%20dottore%20commercialista.md);
+Visti l'articolo unico della [legge 28 dicembre 1952, n. 3060, e l'art. 47](Delega%20al%20Governo%20della%20facolta%20di%20provvedere%20alla%20riforma%20degli%20ordinamenti%20delle%20professioni%20di%20esercente%20in%20economia%20e%20commercio%20e%20di%20ragioniere.md) dell'ordinamento della professione di dottore commercialista approvato con [decreto del Presidente della Repubblica 27 ottobre 1953, n. 1067](Ordinamento%20della%20professione%20di%20dottore%20commercialista.md);
 
 Sentito il Consiglio nazionale dei dottori commercialisti;
 

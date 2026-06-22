@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md);
+Visto il testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -68,7 +68,7 @@ Le predette disposizioni saranno applicate anche agli studenti, inscritti negli 
 
 ## Art. 9.
 
-Gli incarichi per qualunque insegnamento per i corsi accelerati potranno essere conferiti anche con deroga alle disposizioni contenute nel testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md) e al regolamento generale universitario approvato con [R. decreto 9 agosto 1910, n. 796](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), e al [decreto-legge 17 agosto 1919, n. 1706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-08-17;1706). 
+Gli incarichi per qualunque insegnamento per i corsi accelerati potranno essere conferiti anche con deroga alle disposizioni contenute nel testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md) e al regolamento generale universitario approvato con [R. decreto 9 agosto 1910, n. 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), e al [decreto-legge 17 agosto 1919, n. 1706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-08-17;1706). 
  
  Gli incarichi dei corsi accelerati pei due trimestri dell'anno 1919-920 saranno compensati con la retribuzione complessiva di L.
 1500. 

@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dai Consiglio dei Ministri c
 
 ## Art. 1.
 
-Al regolamento sull'ordinamento, avanzamento e stato giuridico del personale civile insegnante e di Gabinetto dell'Accademia navale, approvato con [regio decreto 15 ottobre 1936, n. 2135](../Regi%20decreti/Approvazione%20del%20regolamento%20sullordinamento%20avanzamento%20e%20stato%20giuridico%20del%20personale%20civile%20insegnante%20e%20di%20gabinetto%20della%20Regia%20accademia%20navale.%20036U2135.md), sono apportate le modifiche di cui ai successivi articoli.
+Al regolamento sull'ordinamento, avanzamento e stato giuridico del personale civile insegnante e di Gabinetto dell'Accademia navale, approvato con [regio decreto 15 ottobre 1936, n. 2135](Approvazione%20del%20regolamento%20sullordinamento%20avanzamento%20e%20stato%20giuridico%20del%20personale%20civile%20insegnante%20e%20di%20gabinetto%20della%20Regia%20accademia%20navale.%20036U2135.md), sono apportate le modifiche di cui ai successivi articoli.
 
 ## Art. 2.
 

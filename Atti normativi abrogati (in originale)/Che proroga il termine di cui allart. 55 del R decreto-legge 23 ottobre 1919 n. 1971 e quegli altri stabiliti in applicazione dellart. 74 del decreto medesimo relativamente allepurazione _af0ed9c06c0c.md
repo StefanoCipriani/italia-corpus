@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visti i [Regi decreti 23 ottobre 1919, n. 1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-23;1971); [11 marzo 1920, n. 292](../Regi%20decreti/Concernente%20lapplicazione%20dei%20ruoli%20aperti%20al%20personale%20del%20R.%20corpo%20del%20genio%20civile.%20020U0292.md); [19 aprile 1920, n. 683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-19;683) e [22 luglio 1920, n. 1133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-07-22;1133); 
+ Visti i [Regi decreti 23 ottobre 1919, n. 1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-23;1971); [11 marzo 1920, n. 292](Concernente%20lapplicazione%20dei%20ruoli%20aperti%20al%20personale%20del%20R.%20corpo%20del%20genio%20civile.%20020U0292.md); [19 aprile 1920, n. 683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-19;683) e [22 luglio 1920, n. 1133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-07-22;1133); 
  
  Udito il Consiglio dei ministri; 
  

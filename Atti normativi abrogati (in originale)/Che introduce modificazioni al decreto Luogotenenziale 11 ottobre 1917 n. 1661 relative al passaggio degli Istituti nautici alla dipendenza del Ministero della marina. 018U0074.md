@@ -16,7 +16,7 @@ A modificazione dell'[art. 3 del decreto Luogotenenziale 11 ottobre 1917, n. 166
 
 ## Art. 2.
 
-La distribuzione delle materie e gli orari per ciascuna sezione d'Istituto nautico, determinati con [R. decreto 23 luglio 1899, n. 340](../Regi%20decreti/Che%20approva%20la%20nuova%20Tabella%20della%20distribuzione%20delle%20materie%20e%20degli%20orarii%20per%20ciascuna%20sezione%20dIstituto%20nautico%20099U0340.md), sono modificati, per il solo anno scolastico 1917-918, secondo la unita tabella, firmata, d'ordine Nostro, dal ministro della marina.
+La distribuzione delle materie e gli orari per ciascuna sezione d'Istituto nautico, determinati con [R. decreto 23 luglio 1899, n. 340](Che%20approva%20la%20nuova%20Tabella%20della%20distribuzione%20delle%20materie%20e%20degli%20orarii%20per%20ciascuna%20sezione%20dIstituto%20nautico%20099U0340.md), sono modificati, per il solo anno scolastico 1917-918, secondo la unita tabella, firmata, d'ordine Nostro, dal ministro della marina.
 
 ## Art. 3.
 

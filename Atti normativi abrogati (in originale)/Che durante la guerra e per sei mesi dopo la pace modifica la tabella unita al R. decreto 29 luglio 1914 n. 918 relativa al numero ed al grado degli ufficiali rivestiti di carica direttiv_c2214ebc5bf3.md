@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 29 luglio 1914, n. 918](../Regi%20decreti/Che%20fissa%20il%20numero%20e%20il%20grado%20degli%20ufficiali%20investiti%20di%20carica%20direttiva%20presso%20il%20Ministero%20della%20marina.%20014U0918.md), che fissa il grado ed il numero degli ufficiali rivestiti di carica direttiva presso il Ministero della marina; 
+ Visto il [R. decreto 29 luglio 1914, n. 918](Che%20fissa%20il%20numero%20e%20il%20grado%20degli%20ufficiali%20investiti%20di%20carica%20direttiva%20presso%20il%20Ministero%20della%20marina.%20014U0918.md), che fissa il grado ed il numero degli ufficiali rivestiti di carica direttiva presso il Ministero della marina; 
  
  Vista la [legge 31 dicembre 1917, n. 2045](Che%20proroga%20il%20termine%20indicato%20della%20legge%2028%20ottobre%201917%20n.%201751%20circa%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20per%20lanno%20finanziario%201917-918%20sino%20a%20quando%20i%20medesimi%20non%20sian_80dd5cff68ce.md), che autorizza l'esercizio provvisorio degli stati di previsione della spesa per l'esercizio finanziario 1917-918; 
  

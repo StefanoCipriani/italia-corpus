@@ -40,7 +40,7 @@ Il [R. decreto-legge 23 maggio 1924, n. 870](Promozione%20degli%20ufficiali%20de
 
 ## Art. 4.
 
-Le disposizioni contenute nel presente decreto saranno inserite nel testo unico autorizzato col [R. decreto 30 dicembre 1923, n. 2991](../Regi%20decreti/Compilazione%20e%20pubblicazione%20di%20testi%20unici%20coordinati%20riguardanti%20i%20personali%20e%20i%20servizi%20della%20Regia%20marina.%20023U2991.md). 
+Le disposizioni contenute nel presente decreto saranno inserite nel testo unico autorizzato col [R. decreto 30 dicembre 1923, n. 2991](Compilazione%20e%20pubblicazione%20di%20testi%20unici%20coordinati%20riguardanti%20i%20personali%20e%20i%20servizi%20della%20Regia%20marina.%20023U2991.md). 
  
  Il presente decreto andra' in vigore dal 16 giugno 1925 e sara' presentato al Parlamento per la sua conversione in legge. 
  

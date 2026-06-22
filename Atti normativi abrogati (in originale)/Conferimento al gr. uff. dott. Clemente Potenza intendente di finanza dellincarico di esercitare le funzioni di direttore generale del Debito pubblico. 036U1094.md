@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA 
  
- Veduto l'[art. 52 del testo unico delle leggi sul Debito pubblico](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) 17 luglio 1910, n. 536; 
+ Veduto l'[art. 52 del testo unico delle leggi sul Debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) 17 luglio 1910, n. 536; 
  
  Veduti gli articoli 1 e 2 del regolamento sul Debito pubblico, approvato con [R. decreto 19 febbraio 1911, n. 298](Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md); . 
  

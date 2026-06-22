@@ -72,7 +72,7 @@ Il Consiglio centrale delle stazioni di cura e' composto:
  
  Il Consiglio e' assistito da un segretario scelto fra i funzionari del Ministero dell'interno. 
  
- Ai componenti del Consiglio centrale saranno assegnati i gettoni di presenza e le indennita' a termini dell'[art. 63 del R. decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md).
+ Ai componenti del Consiglio centrale saranno assegnati i gettoni di presenza e le indennita' a termini dell'[art. 63 del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md).
 
 ### Art. 7.
 
@@ -138,7 +138,7 @@ La imposta di cura e' applicata con le norme che regolano l'imposta di soggiorno
 
 Il contributo speciale di cura e' dovuto da tutti coloro i quali per l'esercizio di commerci, industrie, professioni e uffici, traggono vantaggi economici particolari dalla esistenza della stazione di cura, di soggiorno o di turismo. 
  
- Il contributo e' corrisposto con addizionale, non superiore al 0.50 per cento del reddito colpito dalla imposta sulle industrie, professioni ed arti, di categoria B e C e della tassa di patente, stabilite dal [R. decreto 18 novembre 1923, n. 2538](../Regi%20decreti/Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md). 
+ Il contributo e' corrisposto con addizionale, non superiore al 0.50 per cento del reddito colpito dalla imposta sulle industrie, professioni ed arti, di categoria B e C e della tassa di patente, stabilite dal [R. decreto 18 novembre 1923, n. 2538](Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md). 
  
  Ove le due imposte predette non siano istituite nel Comune, il contributo e' applicato nella misura non superiore al 0.50 per cento del reddito netto, anche se inferiore a L. 2000.
 
@@ -196,7 +196,7 @@ TITOLO II.
 
 Sono abrogate tutte le disposizioni sull'ordinamento amministrativo delle stazioni di cura e di soggiorno vigenti nelle Provincie annesse ed ogni altra disposizione sulla tassa di soggiorno nei Comuni di cura e di soggiorno. 
  
- Nulla e' innovato al [R. decreto-legge 19 novembre 1921, n. 1724](Che%20reca%20provvedimenti%20transitori%20a%20favore%20della%20finanza%20locale.%20021U1724.md), al [R. decreto-legge 23 ottobre 1922, n. 1388](Che%20reca%20provvedimenti%20transitori%20a%20favore%20della%20finanza%20locale.%20022U1388.md), al [Regio decreto 18 novembre 1923, n. 2538](../Regi%20decreti/Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), e al [R. decreto-legge 4 gennaio 1925, n. 2](Imposta%20complementare%20sul%20reddito.%20025U0002.md), in quanto concerne la tassa di soggiorno dei Comuni non dichiarati stazioni di cura e soggiorno ai termini del presente decreto.
+ Nulla e' innovato al [R. decreto-legge 19 novembre 1921, n. 1724](Che%20reca%20provvedimenti%20transitori%20a%20favore%20della%20finanza%20locale.%20021U1724.md), al [R. decreto-legge 23 ottobre 1922, n. 1388](Che%20reca%20provvedimenti%20transitori%20a%20favore%20della%20finanza%20locale.%20022U1388.md), al [Regio decreto 18 novembre 1923, n. 2538](Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), e al [R. decreto-legge 4 gennaio 1925, n. 2](Imposta%20complementare%20sul%20reddito.%20025U0002.md), in quanto concerne la tassa di soggiorno dei Comuni non dichiarati stazioni di cura e soggiorno ai termini del presente decreto.
 
 ### Art. 23.
 

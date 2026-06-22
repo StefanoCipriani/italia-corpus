@@ -20,7 +20,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Ritenuta la necessita', urgente ed assoluta, di introdurre alcune variazioni agli stanziamenti inscritti, per il corrente esercizio finanziario, negli stati di previsione della spesa di diversi Ministeri, nonche' in alcuni bilanci relativi a gestioni speciali;
 
-Visto il [R. decreto 12 settembre 1929, n. 1661](../Regi%20decreti/Trasformazione%20del%20Ministero%20delleconomia%20nazionale%20in%20Ministero%20dellagricoltura%20e%20delle%20foreste%20istituzione%20presso%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste%20del%20Sottosegretariato%20di%20S_07ec071c3c2f.md), concernente la trasformazione del Ministero dell'economia nazionale in Ministero dell'agricoltura e delle foreste, e la modificazione della denominazione del Ministero della pubblica istruzione in quella di Ministero dell'educazione nazionale;
+Visto il [R. decreto 12 settembre 1929, n. 1661](Trasformazione%20del%20Ministero%20delleconomia%20nazionale%20in%20Ministero%20dellagricoltura%20e%20delle%20foreste%20istituzione%20presso%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste%20del%20Sottosegretariato%20di%20S_07ec071c3c2f.md), concernente la trasformazione del Ministero dell'economia nazionale in Ministero dell'agricoltura e delle foreste, e la modificazione della denominazione del Ministero della pubblica istruzione in quella di Ministero dell'educazione nazionale;
 
 Sentito il Consiglio dei Ministri;
 

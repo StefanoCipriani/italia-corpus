@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la [legge 22 maggio 1915, n 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto il [R. decreto 29 luglio 1914, n 918](../Regi%20decreti/Che%20fissa%20il%20numero%20e%20il%20grado%20degli%20ufficiali%20investiti%20di%20carica%20direttiva%20presso%20il%20Ministero%20della%20marina.%20014U0918.md), che fissa il numero ed il grado degli ufficiali rivestiti di carica direttiva presso il Ministero della marina ; 
+ Visto il [R. decreto 29 luglio 1914, n 918](Che%20fissa%20il%20numero%20e%20il%20grado%20degli%20ufficiali%20investiti%20di%20carica%20direttiva%20presso%20il%20Ministero%20della%20marina.%20014U0918.md), che fissa il numero ed il grado degli ufficiali rivestiti di carica direttiva presso il Ministero della marina ; 
  
  Udito il Consiglio dei ministri; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Nella tabella indicante il numero ed il grado degli ufficiali rivestiti di carica direttiva presso l'Amministrazione centrale della marina, approvata con l'[articolo 1 del R. decreto 29 luglio 1914, n. 918](../Regi%20decreti/Che%20fissa%20il%20numero%20e%20il%20grado%20degli%20ufficiali%20investiti%20di%20carica%20direttiva%20presso%20il%20Ministero%20della%20marina.%20014U0918.md), e' apportata la seguente variante : 
+ Nella tabella indicante il numero ed il grado degli ufficiali rivestiti di carica direttiva presso l'Amministrazione centrale della marina, approvata con l'[articolo 1 del R. decreto 29 luglio 1914, n. 918](Che%20fissa%20il%20numero%20e%20il%20grado%20degli%20ufficiali%20investiti%20di%20carica%20direttiva%20presso%20il%20Ministero%20della%20marina.%20014U0918.md), e' apportata la seguente variante : 
  
  Ad « un capitano di vascello vice direttore generale di artiglieria ed armamenti » si sostituisce « un contrammiraglio o capitano di vascello, vice direttore generale di artiglieria e armamenti ». 
  

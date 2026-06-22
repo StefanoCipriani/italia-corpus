@@ -32,7 +32,7 @@ Per l'impianto di cimiteri destinati alla inumazione dei militari delle Forze Ar
  
  La sistemazione e la manutenzione dei predetti cimiteri, comprese le piantagioni, l'erezione di monumenti, la vigilanza sanitaria, l'ordine e la chiusura dei cimiteri stessi, nonche' la nomina dei custodi, possono essere affidati alle Amministrazioni comunali o anche ad Enti, regolarmente costituiti, che ne facciano richiesta. Le condizioni relative sono convenute fra il Comune o l'Ente ed il Ministero dei lavori pubblici. 
  
- Per la parte non regolata dalle disposizioni richiamate nel comma primo del presente articolo, sono osservate le disposizioni relative ai cimiteri comuni, stabilite dalla legge sanitaria e del regolamento di polizia mortuaria approvato con [R. decreto 21 dicembre 1942, n. 1880](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.%20042U1880.md).
+ Per la parte non regolata dalle disposizioni richiamate nel comma primo del presente articolo, sono osservate le disposizioni relative ai cimiteri comuni, stabilite dalla legge sanitaria e del regolamento di polizia mortuaria approvato con [R. decreto 21 dicembre 1942, n. 1880](Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.%20042U1880.md).
 
 ## Art. 2.
 

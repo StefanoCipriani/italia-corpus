@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 18 novembre 1923, n. 2538](../Regi%20decreti/Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), recante provvedimenti per le finanze locali;
+Visto il [R. decreto 18 novembre 1923, n. 2538](Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), recante provvedimenti per le finanze locali;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), col quale venne approvata la legge tributaria automobilistica, e successive modifiche apportate coi [Regi decreti-legge 3 gennaio 1926, n. 44](Modificazioni%20al%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20ed%20alla%20legge%20tributaria%20ciclistica%20ed%20automobilistica.%20026U0044.md), e [20 settembre 1926, n. 1643](Abolizione%20di%20talune%20tasse%20sugli%20affari%20tra%20cui%20alcune%20speciali%20istituite%20durante%20il%20periodo%20bellico%20e%20post-bellico%20nonche%20sgravi%20e%20riduzioni%20in%20materia%20di%20imposte%20dirette%20e%20nuove%20norme%20p_7c52aec11706.md);
+Visto il [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), col quale venne approvata la legge tributaria automobilistica, e successive modifiche apportate coi [Regi decreti-legge 3 gennaio 1926, n. 44](Modificazioni%20al%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20ed%20alla%20legge%20tributaria%20ciclistica%20ed%20automobilistica.%20026U0044.md), e [20 settembre 1926, n. 1643](Abolizione%20di%20talune%20tasse%20sugli%20affari%20tra%20cui%20alcune%20speciali%20istituite%20durante%20il%20periodo%20bellico%20e%20post-bellico%20nonche%20sgravi%20e%20riduzioni%20in%20materia%20di%20imposte%20dirette%20e%20nuove%20norme%20p_7c52aec11706.md);
 
 Ritenuta la necessita' urgente ed assoluta di emanare ulteriori disposizioni modificatrici dell'attuale regime tributario degli autoveicoli;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-Sono soppressi, a decorrere dal 1° gennaio 1928, per tutti gli autoveicoli ed i velocipedi a motore contemplati dalla legge sulle tasse automobilistiche 30 dicembre 1923, n. 3283, nonche' dai [Regi decreti-legge 3 gennaio 1926, n. 44](Modificazioni%20al%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20ed%20alla%20legge%20tributaria%20ciclistica%20ed%20automobilistica.%20026U0044.md), e [20 settembre 1926, n. 1643](Abolizione%20di%20talune%20tasse%20sugli%20affari%20tra%20cui%20alcune%20speciali%20istituite%20durante%20il%20periodo%20bellico%20e%20post-bellico%20nonche%20sgravi%20e%20riduzioni%20in%20materia%20di%20imposte%20dirette%20e%20nuove%20norme%20p_7c52aec11706.md), i contributi di manutenzione stradale applicati dai Comuni e dalle Provincie in virtu' degli [articoli 9](../Regi%20decreti/Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), [10](../Regi%20decreti/Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md) e [11 del R. decreto 18 novembre 1923, n. 2538](../Regi%20decreti/Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md).
+Sono soppressi, a decorrere dal 1° gennaio 1928, per tutti gli autoveicoli ed i velocipedi a motore contemplati dalla legge sulle tasse automobilistiche 30 dicembre 1923, n. 3283, nonche' dai [Regi decreti-legge 3 gennaio 1926, n. 44](Modificazioni%20al%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20ed%20alla%20legge%20tributaria%20ciclistica%20ed%20automobilistica.%20026U0044.md), e [20 settembre 1926, n. 1643](Abolizione%20di%20talune%20tasse%20sugli%20affari%20tra%20cui%20alcune%20speciali%20istituite%20durante%20il%20periodo%20bellico%20e%20post-bellico%20nonche%20sgravi%20e%20riduzioni%20in%20materia%20di%20imposte%20dirette%20e%20nuove%20norme%20p_7c52aec11706.md), i contributi di manutenzione stradale applicati dai Comuni e dalle Provincie in virtu' degli [articoli 9](Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), [10](Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md) e [11 del R. decreto 18 novembre 1923, n. 2538](Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md).
 
 ## Art. 2.
 
@@ -44,7 +44,7 @@ E' istituito un «contributo di miglioramento stradale», dovuto dai possessori 
 
 ## Art. 3.
 
-Il contrassegno metallico prescritto dal [quarto comma dell'art. 11 del R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e' abolito. 
+Il contrassegno metallico prescritto dal [quarto comma dell'art. 11 del R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e' abolito. 
  
  E' istituito in sua vece uno speciale disco colorato recante gli estremi di individuazione dell'autoveicolo e quelli dell'effettuato pagamento della tassa di circolazione e del contributo di miglioramento stradale. Tale disco, le cui caratteristiche saranno determinate con le norme di applicazione del presente decreto, fa parte integrante della quietanza da rilasciarsi dall'ente esattore (Reale Automobile Club d'Italia) al contribuente, in prova dell'eseguito pagamento della tassa di circolazione. 
  

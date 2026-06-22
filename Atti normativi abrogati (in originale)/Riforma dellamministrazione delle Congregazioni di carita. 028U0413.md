@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli [articoli 5 del R. decreto 30 dicembre 1923, n. 2841](../Regi%20decreti/Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), e 2 della [legge 17 giugno 1926, n. 1187](Riforma%20dei%20Regi%20decreti%2030%20dicembre%201923%20nn.%202841%20e%203048%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20026U1187.md), sono abrogati. 
+Gli [articoli 5 del R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), e 2 della [legge 17 giugno 1926, n. 1187](Riforma%20dei%20Regi%20decreti%2030%20dicembre%201923%20nn.%202841%20e%203048%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20026U1187.md), sono abrogati. 
  
  Agli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972#art_5) e [6 della legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972#art_6), e' sostituito il seguente: 
  
@@ -38,7 +38,7 @@ Il presidente esercita tutte le attribuzioni relative alla gestione della Congre
  
  Il Comitato dei patroni ha attribuzioni esclusivamente consultive; esso da' parere su tutte le materie che il presidente crede di sottoporgli. 
  
- Il parere del Comitato e' obbligatorio in merito alle deliberazioni soggette all'approvazione della Giunta provinciale amministrativa, a termini dell'[art. 19 del R. decreto 30 dicembre 1923, n. 2841](../Regi%20decreti/Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), nonche' su tutte le proposte di riforma, in genere, interessanti gli istituti amministrati dalla Congregazione di carita'. 
+ Il parere del Comitato e' obbligatorio in merito alle deliberazioni soggette all'approvazione della Giunta provinciale amministrativa, a termini dell'[art. 19 del R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), nonche' su tutte le proposte di riforma, in genere, interessanti gli istituti amministrati dalla Congregazione di carita'. 
  
  Qualora, in tali casi, il parere del Comitato sia contrario alle proposte del presidente, questi dovra' farne constare nel verbale delle relative deliberazioni.
 
@@ -50,7 +50,7 @@ Restano ferme anche nei riguardi dei patroni le ineleggibilita' e le incompatibi
 
 Il presidente puo' essere sospeso o revocato con decreto motivato dal prefetto. 
  
- Contro il provvedimento del prefetto e' ammesso ricorso, nel termine di cui all'[art. 21 del R. decreto 30 dicembre 1923, n. 2841 al Ministro per l'interno](../Regi%20decreti/Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), avverso la cui decisione non e' esperibile alcun gravame amministrativo o giudiziario.
+ Contro il provvedimento del prefetto e' ammesso ricorso, nel termine di cui all'[art. 21 del R. decreto 30 dicembre 1923, n. 2841 al Ministro per l'interno](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), avverso la cui decisione non e' esperibile alcun gravame amministrativo o giudiziario.
 
 ## Art. 6.
 
@@ -91,7 +91,7 @@ Salvo quanto e' disposto nell'articolo precedente, la presente legge entra in vi
 
 ### Art. 12.
 
-Il Governo del Re e' autorizzato a coordinare in testo unico le disposizioni della presente legge con quelle delle [leggi 17 luglio 1890, n. 6972, 18 luglio 1904, n. 390](Riflettente%20la%20istituzione%20di%20Commissioni%20provinciali%20di%20un%20Consiglio%20superiore%20e%20di%20un%20servizio%20dispezione%20della%20pubblica%20assistenza%20e%20beneficenza%20004U0390.md), nonche' del [R. decreto 30 dicembre 1923, n. 2841](../Regi%20decreti/Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), e della [legge 17 giugno 1926, n. 1187](Riforma%20dei%20Regi%20decreti%2030%20dicembre%201923%20nn.%202841%20e%203048%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20026U1187.md), e con tutte le altre disposizioni legislative attinenti alla materia. 
+Il Governo del Re e' autorizzato a coordinare in testo unico le disposizioni della presente legge con quelle delle [leggi 17 luglio 1890, n. 6972, 18 luglio 1904, n. 390](Riflettente%20la%20istituzione%20di%20Commissioni%20provinciali%20di%20un%20Consiglio%20superiore%20e%20di%20un%20servizio%20dispezione%20della%20pubblica%20assistenza%20e%20beneficenza%20004U0390.md), nonche' del [R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), e della [legge 17 giugno 1926, n. 1187](Riforma%20dei%20Regi%20decreti%2030%20dicembre%201923%20nn.%202841%20e%203048%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20026U1187.md), e con tutte le altre disposizioni legislative attinenti alla materia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

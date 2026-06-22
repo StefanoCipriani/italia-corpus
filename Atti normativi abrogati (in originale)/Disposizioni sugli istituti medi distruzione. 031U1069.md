@@ -50,7 +50,7 @@ Ogni istituto tecnico inferiore isolato ha un segretario ed un numero di bidelli
 
 ## Art. 5.
 
-Valgono per i contributi finanziari dovuti dalle Provincie per il mantenimento degli istituti tecnici inferiori isolati, le norme stabilite dal [R. decreto 11 marzo 1923, n. 685](../Regi%20decreti/Che%20stabilisce%20i%20contributi%20a%20carico%20di%20Provincie%20Comuni%20ed%20altri%20Enti%20per%20il%20mantenimento%20di%20RR.%20scuole%20medie%20e%20normali.%20023U0685.md), sotto la voce «Ginnasi isolati».
+Valgono per i contributi finanziari dovuti dalle Provincie per il mantenimento degli istituti tecnici inferiori isolati, le norme stabilite dal [R. decreto 11 marzo 1923, n. 685](Che%20stabilisce%20i%20contributi%20a%20carico%20di%20Provincie%20Comuni%20ed%20altri%20Enti%20per%20il%20mantenimento%20di%20RR.%20scuole%20medie%20e%20normali.%20023U0685.md), sotto la voce «Ginnasi isolati».
 
 ## Art. 6.
 
@@ -71,7 +71,7 @@ Gli enti locali, che domandino l'istituzione di nuove scuole medie governative, 
 
 ## Art. 10.
 
-Al [secondo comma dell'art. 2 del R. decreto 16 luglio 1923, n. 1753](../Regi%20decreti/Ordinamento%20e%20attribuzioni%20del%20Ministero%20della%20pubblica%20istruzione%20e%20dei%20suoi%20Corpi%20consultivi.%20023U1753.md), e' sostituito il seguente: 
+Al [secondo comma dell'art. 2 del R. decreto 16 luglio 1923, n. 1753](Ordinamento%20e%20attribuzioni%20del%20Ministero%20della%20pubblica%20istruzione%20e%20dei%20suoi%20Corpi%20consultivi.%20023U1753.md), e' sostituito il seguente: 
  «Il Ministro ha facolta' di comandare a prestar servizio presso gli uffici del Ministero, per incarichi speciali che debbono essere indicati nel decreto di comando, funzionari di concetto appartenenti ad altri ruoli o professori universitari o medi in numero non superiore a sei complessivamente. Detti comandi hanno la durata di due anni e possono essere confermati».
 
 ## Art. 11.

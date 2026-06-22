@@ -28,23 +28,23 @@ Sulla proposta del Guardasigilli Ministro Segretario di Stato per la giustizia e
 
 ## Art. 1.
 
-E' in facolta' dell'Amministrazione del fondo per il culto di liquidare l'assegno spettante agli economi spirituali a termini dell'[art. 2 del R. decreto 2 luglio 1922, n. 910](../Regi%20decreti/Per%20la%20esecuzione%20del%20decreto-legge%202%20febbraio%201922%20n.%20164%20riguardante%20il%20miglioramento%20economico%20di%20alcune%20categorie%20del%20clero.%20022U0910.md), anche senz'attendere la domanda dell'interessato, quando sia in possesso degli elementi all'uopo necessari.
+E' in facolta' dell'Amministrazione del fondo per il culto di liquidare l'assegno spettante agli economi spirituali a termini dell'[art. 2 del R. decreto 2 luglio 1922, n. 910](Per%20la%20esecuzione%20del%20decreto-legge%202%20febbraio%201922%20n.%20164%20riguardante%20il%20miglioramento%20economico%20di%20alcune%20categorie%20del%20clero.%20022U0910.md), anche senz'attendere la domanda dell'interessato, quando sia in possesso degli elementi all'uopo necessari.
 
 ## Art. 2.
 
-Gli [articoli 4](../Regi%20decreti/Che%20eleva%20lassegno%20supplementare%20ai%20parroci%20del%20Regno.%20021U1409.md) e [5 del R. decreto 2 ottobre 1921, n. 1409](../Regi%20decreti/Che%20eleva%20lassegno%20supplementare%20ai%20parroci%20del%20Regno.%20021U1409.md), sono applicabili per la liquidazione di tutti gli assegni che possano comunque spettare alle parrocchie in dipendenza di qualsiasi legge e regolamento relativi a concessione di supplemento di congrua o di altri assegni a favore del clero.
+Gli [articoli 4](Che%20eleva%20lassegno%20supplementare%20ai%20parroci%20del%20Regno.%20021U1409.md) e [5 del R. decreto 2 ottobre 1921, n. 1409](Che%20eleva%20lassegno%20supplementare%20ai%20parroci%20del%20Regno.%20021U1409.md), sono applicabili per la liquidazione di tutti gli assegni che possano comunque spettare alle parrocchie in dipendenza di qualsiasi legge e regolamento relativi a concessione di supplemento di congrua o di altri assegni a favore del clero.
 
 ## Art. 3.
 
-L'accertamento tecnico dei beni immobili, consentito dall'[art. 7 del R. decreto 2 ottobre 1921, n. 1409](../Regi%20decreti/Che%20eleva%20lassegno%20supplementare%20ai%20parroci%20del%20Regno.%20021U1409.md), puo' sempre essere disposto dall'Amministrazione del fondo per il culto, quando, a suo giudizio insindacabile, lo ritenga opportuno. 
+L'accertamento tecnico dei beni immobili, consentito dall'[art. 7 del R. decreto 2 ottobre 1921, n. 1409](Che%20eleva%20lassegno%20supplementare%20ai%20parroci%20del%20Regno.%20021U1409.md), puo' sempre essere disposto dall'Amministrazione del fondo per il culto, quando, a suo giudizio insindacabile, lo ritenga opportuno. 
  
  I risultati dell'accertamento possono essere presi a base delle liquidazioni da eseguirsi in applicazione di qualsiasi legge e regolamento relativi a concessione di supplemento di congrua o di altri assegni al clero, non ostante l'esistenza di contratto di affitto, di denunzia o di liquidazioni agli effetti della tassa di manomorta o di qualsiasi altro titolo.
 
 ## Art. 4.
 
-Il comma 2° dell'art. 7 del regolamento approvato con [Regio decreto 25 agosto 1899, n. 350](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%204%20giugno%201899%20n.%20191%20riguardante%20laumento%20delle%20congrue%20parrocchiali.%20099U0350.md), e' abrogato. 
+Il comma 2° dell'art. 7 del regolamento approvato con [Regio decreto 25 agosto 1899, n. 350](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%204%20giugno%201899%20n.%20191%20riguardante%20laumento%20delle%20congrue%20parrocchiali.%20099U0350.md), e' abrogato. 
  
- All'[art. 8 del R. decreto 2 ottobre 1921, n. 1409](../Regi%20decreti/Che%20eleva%20lassegno%20supplementare%20ai%20parroci%20del%20Regno.%20021U1409.md), e' aggiunto che per le parrocchie aventi una popolazione superiore a 6000 abitanti i prodotti casuali sono computati in ragione di L. 400 sino a 7000 abitanti, 500 sino a 8000 e cosi' via di 100 lire in piu' per ogni ulteriore migliaio di abitanti, con che pero' non si superi la somma di L. 900. 
+ All'[art. 8 del R. decreto 2 ottobre 1921, n. 1409](Che%20eleva%20lassegno%20supplementare%20ai%20parroci%20del%20Regno.%20021U1409.md), e' aggiunto che per le parrocchie aventi una popolazione superiore a 6000 abitanti i prodotti casuali sono computati in ragione di L. 400 sino a 7000 abitanti, 500 sino a 8000 e cosi' via di 100 lire in piu' per ogni ulteriore migliaio di abitanti, con che pero' non si superi la somma di L. 900. 
  
  L'articolo stesso e' applicabile per tutte le liquidazioni di supplemento di congrua e di altri assegni in dipendenza di qualsiasi legge o regolamento.
 
@@ -64,9 +64,9 @@ Agli effetti dell'[art. 14 del regolamento 25 agosto 1899, numero 350](https://w
 
 ## Art. 7.
 
-Allorquando sia provato che le spese per la ufficiatura e la manutenzione della cattedrale sono in realta' e legittimamente a carico del capitolo cattedrale o palatino in tutto od in parte, puo' essere ammessa in deduzione delle attivita' del capitolo una somma che l'Amministrazione stabilira' a titolo di compenso o concorso alle spese anzidette, con riguardo alla importanza della sede e della chiesa, nonche' in relazione alla entita' dell'onere e del reddito patrimoniale del capitolo stesso, in conformita' di quanto dispone l'[art. 26 del R. decreto 2 luglio 1922, n. 910](../Regi%20decreti/Per%20la%20esecuzione%20del%20decreto-legge%202%20febbraio%201922%20n.%20164%20riguardante%20il%20miglioramento%20economico%20di%20alcune%20categorie%20del%20clero.%20022U0910.md), per la liquidazione del supplemento di congrua ai vescovi. 
+Allorquando sia provato che le spese per la ufficiatura e la manutenzione della cattedrale sono in realta' e legittimamente a carico del capitolo cattedrale o palatino in tutto od in parte, puo' essere ammessa in deduzione delle attivita' del capitolo una somma che l'Amministrazione stabilira' a titolo di compenso o concorso alle spese anzidette, con riguardo alla importanza della sede e della chiesa, nonche' in relazione alla entita' dell'onere e del reddito patrimoniale del capitolo stesso, in conformita' di quanto dispone l'[art. 26 del R. decreto 2 luglio 1922, n. 910](Per%20la%20esecuzione%20del%20decreto-legge%202%20febbraio%201922%20n.%20164%20riguardante%20il%20miglioramento%20economico%20di%20alcune%20categorie%20del%20clero.%20022U0910.md), per la liquidazione del supplemento di congrua ai vescovi. 
  
- Per l'ammissione della spesa dovra' essere presentato il certificato prescritto dall'art. 20, lettera C, del citato [Regio decreto 2 luglio 1922, n. 910](../Regi%20decreti/Per%20la%20esecuzione%20del%20decreto-legge%202%20febbraio%201922%20n.%20164%20riguardante%20il%20miglioramento%20economico%20di%20alcune%20categorie%20del%20clero.%20022U0910.md), contenente le notizie di che ai numeri 1 e 2 dell'articolo stesso.
+ Per l'ammissione della spesa dovra' essere presentato il certificato prescritto dall'art. 20, lettera C, del citato [Regio decreto 2 luglio 1922, n. 910](Per%20la%20esecuzione%20del%20decreto-legge%202%20febbraio%201922%20n.%20164%20riguardante%20il%20miglioramento%20economico%20di%20alcune%20categorie%20del%20clero.%20022U0910.md), contenente le notizie di che ai numeri 1 e 2 dell'articolo stesso.
 
 ## Art. 8.
 
@@ -82,7 +82,7 @@ Sono ammessi fra le passivita' del beneficio, gli oneri religiosi ed i pesi di c
 
 imposta sui redditi agrari puo' essere ammessa, allorche' sia effettivamente pagata, subordinatamente pero' alla revisione della rendita computata nello attivo della liquidazione del supplemento di congrua per i beni ai quali si riferisce la imposta suddetta. 
  
- All'infuori delle imposte sui terreni e fabbricati e delle spese di riparazione nella misura stabilita dall'[art. 9 del R. decreto 2 ottobre 1921, n. 1409](../Regi%20decreti/Che%20eleva%20lassegno%20supplementare%20ai%20parroci%20del%20Regno.%20021U1409.md), non sono deducibili altre spese per i beni immobili redditizi o in uso personale dell'investito.
+ All'infuori delle imposte sui terreni e fabbricati e delle spese di riparazione nella misura stabilita dall'[art. 9 del R. decreto 2 ottobre 1921, n. 1409](Che%20eleva%20lassegno%20supplementare%20ai%20parroci%20del%20Regno.%20021U1409.md), non sono deducibili altre spese per i beni immobili redditizi o in uso personale dell'investito.
 
 ## Art. 10.
 
@@ -92,7 +92,7 @@ In niun caso, e per nessun motivo, l'ammontare dello assegno da liquidarsi e cor
 
 ## Art. 11.
 
-Per facilitare l'applicazione delle disposizioni emanate con la [legge 4 giugno 1899, n. 191](Che%20provvede%20allaumento%20delle%20Congrue%20parrocchiali%20-%20allanticipata%20consegna%20ai%20Comuni%20delle%20rendite%20delle%20soppresse%20Chiese%20ricettizie%20e%20Comunie%20curate%20-%20e%20al%20pagamento%20di%20un%20acconto%20ai%20Co_3ebb50757754.md), e relativo regolamento approvato con [R. decreto 25 agosto 1899, n. 350](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%204%20giugno%201899%20n.%20191%20riguardante%20laumento%20delle%20congrue%20parrocchiali.%20099U0350.md), con i [decreti Luogotenenziali 17 marzo 1918, n. 396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-03-17;396), e [6 luglio 1919, n. 1156, con il R. decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-07-06;1156) [2 ottobre 1921, n. 1409](../Regi%20decreti/Che%20eleva%20lassegno%20supplementare%20ai%20parroci%20del%20Regno.%20021U1409.md), e con qualsiasi altra disposizione susseguente, l'Amministrazione del fondo per il culto ha facolta' di estendere ai parroci la facolta' contenuta nell'[art. 32 del R. decreto 2 luglio 1922, n. 910](../Regi%20decreti/Per%20la%20esecuzione%20del%20decreto-legge%202%20febbraio%201922%20n.%20164%20riguardante%20il%20miglioramento%20economico%20di%20alcune%20categorie%20del%20clero.%20022U0910.md) riguardante la concessione di un acconto del supplemento di congrua ai vicari curati, ai canonici e ai vescovi.
+Per facilitare l'applicazione delle disposizioni emanate con la [legge 4 giugno 1899, n. 191](Che%20provvede%20allaumento%20delle%20Congrue%20parrocchiali%20-%20allanticipata%20consegna%20ai%20Comuni%20delle%20rendite%20delle%20soppresse%20Chiese%20ricettizie%20e%20Comunie%20curate%20-%20e%20al%20pagamento%20di%20un%20acconto%20ai%20Co_3ebb50757754.md), e relativo regolamento approvato con [R. decreto 25 agosto 1899, n. 350](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%204%20giugno%201899%20n.%20191%20riguardante%20laumento%20delle%20congrue%20parrocchiali.%20099U0350.md), con i [decreti Luogotenenziali 17 marzo 1918, n. 396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-03-17;396), e [6 luglio 1919, n. 1156, con il R. decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-07-06;1156) [2 ottobre 1921, n. 1409](Che%20eleva%20lassegno%20supplementare%20ai%20parroci%20del%20Regno.%20021U1409.md), e con qualsiasi altra disposizione susseguente, l'Amministrazione del fondo per il culto ha facolta' di estendere ai parroci la facolta' contenuta nell'[art. 32 del R. decreto 2 luglio 1922, n. 910](Per%20la%20esecuzione%20del%20decreto-legge%202%20febbraio%201922%20n.%20164%20riguardante%20il%20miglioramento%20economico%20di%20alcune%20categorie%20del%20clero.%20022U0910.md) riguardante la concessione di un acconto del supplemento di congrua ai vicari curati, ai canonici e ai vescovi.
 
 ## Art. 12.
 
@@ -114,7 +114,7 @@ Avvenuta l'approvazione della liquidazione definitiva, che sara' eseguita second
 
 I canonici dei capitoli cattedrali o palatini, che siano in pari tempo parroci, sono assimilabili ai canonici investiti di dignita' o ufficio e percio' hanno diritto al supplemento di congrua fino a lire 3000. 
  
- In caso di opzione, a termini dell'[art. 17 del R. decreto 2 luglio 1922, n. 910](../Regi%20decreti/Per%20la%20esecuzione%20del%20decreto-legge%202%20febbraio%201922%20n.%20164%20riguardante%20il%20miglioramento%20economico%20di%20alcune%20categorie%20del%20clero.%20022U0910.md), per l'assegno parrocchiale, avranno diritto alla differenza di lire 500 in piu' in guisa da raggiungere la congrua di lire 3000. Ma l'assegno per le spese di culto, qualora spetti, dev'essere corrisposto in ragione del 15 % limitatamente alla congrua parrocchiale di lire 2500. 
+ In caso di opzione, a termini dell'[art. 17 del R. decreto 2 luglio 1922, n. 910](Per%20la%20esecuzione%20del%20decreto-legge%202%20febbraio%201922%20n.%20164%20riguardante%20il%20miglioramento%20economico%20di%20alcune%20categorie%20del%20clero.%20022U0910.md), per l'assegno parrocchiale, avranno diritto alla differenza di lire 500 in piu' in guisa da raggiungere la congrua di lire 3000. Ma l'assegno per le spese di culto, qualora spetti, dev'essere corrisposto in ragione del 15 % limitatamente alla congrua parrocchiale di lire 2500. 
  
  Qualora uno dei benefici sia provvisto di una rendita netta di L. 4000, nessun supplemento di congrua e' dovuto per l'altro. 
  

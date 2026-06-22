@@ -110,7 +110,7 @@ Entro due anni dalla pubblicazione della presente legge il Governo del Re ha fac
 
 Un esemplare delle memorie e note aggiunte, compilate a svolgimento delle comparse conclusionali o della discussione, va soggetto al bollo di lire due, oltre i decimi, se trattasi di giudizio avanti le preture, e di lire tre, oltre i decimi, avanti i tribunali e le Corti, da applicarsi soltanto sul primo foglio con le norme che saranno stabilite dalle disposizioni per l'attuazione della presente legge. 
  
- L'inosservanza di questa disposizione dara' luogo all'applicazione della penalita' comminata dall'art. 56, n. 1 della legge sul bollo, testo unico approvato con [R. decreto 4 luglio 1897, n. 414](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20tassa%20di%20bollo%20e%20su%20quelle%20in%20surrogazione%20del%20bollo%20e%20registro.%20097U0414.md), a carico degli avvocati n procuratori e del cancelliere, 
+ L'inosservanza di questa disposizione dara' luogo all'applicazione della penalita' comminata dall'art. 56, n. 1 della legge sul bollo, testo unico approvato con [R. decreto 4 luglio 1897, n. 414](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20tassa%20di%20bollo%20e%20su%20quelle%20in%20surrogazione%20del%20bollo%20e%20registro.%20097U0414.md), a carico degli avvocati n procuratori e del cancelliere, 
  
  Gli altri esemplari delle memorie e note aggiunte sono esenti dalla tassa di bollo, salvo il caso d'uso ai sensi dell'art. 2 del predetto testo unico, ma devono essere distribuiti ai magistrati giudicanti e del pubblico ministero per mezzo del cancelliere, cui spetta di accertare la esibizione delle memorie o note aggiunte ai fascicoli degli atti di causa.
 
@@ -124,7 +124,7 @@ I ricorsi principali ed incidentali, le memorie e gli atti dei procedimenti in s
  
  Gli atti e documenti che si producono avanti i predetti collegi, quando non siano per loro natura soggetti fino dall'origine, a diversa tassa di bollo, debbono essere bollati, prima della produzione, col pagamento della tassa di centesimi cinquanta per ogni foglio nei procedimenti avanti il Consiglio di Stato e la Corte dei conti, e di centesimi venticinque nei procedimenti avanti la Giunta provinciale amministrativa e il Consiglio di prefettura. 
  
- Resta ferma l'esenzione di cui all'art. 22, n. 5, della legge sul bollo testo unico, approvato con [R. decreto 4 luglio 1897, n. 414](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20tassa%20di%20bollo%20e%20su%20quelle%20in%20surrogazione%20del%20bollo%20e%20registro.%20097U0414.md), per gli atti e documenti, che devono servire di corredo e giustificazione dei conti ivi indicati, ed ogni altra esenzione che risulti dal predetto testo unico e da leggi speciali. 
+ Resta ferma l'esenzione di cui all'art. 22, n. 5, della legge sul bollo testo unico, approvato con [R. decreto 4 luglio 1897, n. 414](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20tassa%20di%20bollo%20e%20su%20quelle%20in%20surrogazione%20del%20bollo%20e%20registro.%20097U0414.md), per gli atti e documenti, che devono servire di corredo e giustificazione dei conti ivi indicati, ed ogni altra esenzione che risulti dal predetto testo unico e da leggi speciali. 
  
  Spettera' alla Corte dei conti il decidere quali altri documenti o scritti siano attinenti al giudizio del conto e debbano andare esenti da tassa.
 

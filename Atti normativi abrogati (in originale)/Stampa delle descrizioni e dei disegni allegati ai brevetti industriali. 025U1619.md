@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la legge 30 ottobre 1859, n. 3731;
 
-Visto il [R. decreto 29 luglio 1923, n. 1970](../Regi%20decreti/Servizio%20delle%20privative%20industriali.%20023U1970.md);
+Visto il [R. decreto 29 luglio 1923, n. 1970](Servizio%20delle%20privative%20industriali.%20023U1970.md);
 
 Visto il [R. decreto 30 dicembre 1923, n.1828](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;1828);
 
@@ -34,7 +34,7 @@ La descrizione e i disegni allegati a ciascun attestato di privativa industriale
 
 All'atto del deposito della domanda di privativa industriale il depositante deve versare, in aggiunta alle tasse stabilite dalle vigenti disposizioni, la somma di L. 100 per contribuire alla spesa di stampa della descrizione e dei disegni. 
  
- Mediante tale contributo viene stampata ciascuna descrizione che, scritta a mano od a macchina su carta da bollo a termine dell'art. 2 del regolamento approvato con [R. decreto 2 ottobre 1913, n. 1237](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20nuovo%20regolamento%20per%20lapplicazione%20della%20legge%2030%20ottobre%201859%20n.3731%20sulle%20privative%20industriali%20013U1237.md), non superi 10 pagine di scrittura con un massimo di 25 righe per ogni pagina e di 28 sillabe per ogni riga, e vengono riprodotti i disegni che, per ciascuna privativa industriale, siano contenuti in una sola tavola delle dimensioni di centimetri 21 x 33. 
+ Mediante tale contributo viene stampata ciascuna descrizione che, scritta a mano od a macchina su carta da bollo a termine dell'art. 2 del regolamento approvato con [R. decreto 2 ottobre 1913, n. 1237](Col%20quale%20viene%20approvato%20lannesso%20nuovo%20regolamento%20per%20lapplicazione%20della%20legge%2030%20ottobre%201859%20n.3731%20sulle%20privative%20industriali%20013U1237.md), non superi 10 pagine di scrittura con un massimo di 25 righe per ogni pagina e di 28 sillabe per ogni riga, e vengono riprodotti i disegni che, per ciascuna privativa industriale, siano contenuti in una sola tavola delle dimensioni di centimetri 21 x 33. 
  
  Qualora il numero delle pagine ovvero delle tavole predette sia superato, il depositante deve versare un supplemento di contributo in ragione di L. 5 ovvero di L. 20 rispettivamente per ogni pagina e frazione di pagina o per ogni tavola e frazione di tavola in piu' del numero consentito ai sensi del comma precedente.
 
@@ -46,7 +46,7 @@ In difetto del versamento di cui all'articolo precedente, il deposito delle doma
 
 ## Art. 4.
 
-A partire dall'esercizio finanziario 1925-26, per provvedere alla spesa di stampa di cui all'art. 1 del presente decreto, la somma di L. 600,000, stabilita nell'[art. 3 del R. decreto 29 luglio 1923, n. 1970](../Regi%20decreti/Servizio%20delle%20privative%20industriali.%20023U1970.md), sara' aumentata della somma occorrente mediante decreto del Ministro per le finanze.
+A partire dall'esercizio finanziario 1925-26, per provvedere alla spesa di stampa di cui all'art. 1 del presente decreto, la somma di L. 600,000, stabilita nell'[art. 3 del R. decreto 29 luglio 1923, n. 1970](Servizio%20delle%20privative%20industriali.%20023U1970.md), sara' aumentata della somma occorrente mediante decreto del Ministro per le finanze.
 
 ## Art. 5.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 1° febbraio 1920, n. 156](../Regi%20decreti/Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), sulla costituzione e le attribuzioni dei corpi consultivi della Regia marina e sue successive modificazioni;
+Visto il [R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), sulla costituzione e le attribuzioni dei corpi consultivi della Regia marina e sue successive modificazioni;
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la marina, di concerto con quello per le finanze
 
 ## Art. 1.
 
-Al [R. decreto 1° febbraio 1920, n. 156](../Regi%20decreti/Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), e sue successive modificazioni, sono apportate le seguenti varianti.
+Al [R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), e sue successive modificazioni, sono apportate le seguenti varianti.
 
 ## Art. 2.
 
@@ -34,13 +34,13 @@ Nell'articolo 8, modificato con l'[art. 6 del R. decreto 2 maggio 1920, n. 643](
 
 ## Art. 4.
 
-L'[art. 1 del R. decreto 4 gennaio 1923, n. 109](../Regi%20decreti/Che%20modifica%20la%20costituzione%20e%20le%20attribuzioni%20del%20Consiglio%20superiore%20di%20marina.%20023U0109.md), e' abrogato, e il [n. 6 dell'art. 10 del R. decreto 1° febbraio 1920, n. 156](../Regi%20decreti/Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), e' cosi modificato: 
+L'[art. 1 del R. decreto 4 gennaio 1923, n. 109](Che%20modifica%20la%20costituzione%20e%20le%20attribuzioni%20del%20Consiglio%20superiore%20di%20marina.%20023U0109.md), e' abrogato, e il [n. 6 dell'art. 10 del R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), e' cosi modificato: 
  
- «N. 6. Parere tecnico-amministrativo sui capitolati d'oneri generali o particolari, ovvero sui progetti di contratti interessanti la Regia marina, eccettuati quelli previsti dal [R. decreto 8 febbraio 1923, n. 422](../Regi%20decreti/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), nei casi in cui la legge sulla contabilita' generale dello Stato prescrive di sentire il parere del Consiglio di Stato».
+ «N. 6. Parere tecnico-amministrativo sui capitolati d'oneri generali o particolari, ovvero sui progetti di contratti interessanti la Regia marina, eccettuati quelli previsti dal [R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), nei casi in cui la legge sulla contabilita' generale dello Stato prescrive di sentire il parere del Consiglio di Stato».
 
 ## Art. 5.
 
-Gli [articoli 2](../Regi%20decreti/Che%20modifica%20la%20costituzione%20e%20le%20attribuzioni%20del%20Consiglio%20superiore%20di%20marina.%20023U0109.md) e [3 del R. decreto 4 gennaio 1923, n. 109](../Regi%20decreti/Che%20modifica%20la%20costituzione%20e%20le%20attribuzioni%20del%20Consiglio%20superiore%20di%20marina.%20023U0109.md), sono abrogati, e nel [R. decreto 1° febbraio 1920, n. 156](../Regi%20decreti/Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), dopo l'articolo 10 e' inserito il seguente: 
+Gli [articoli 2](Che%20modifica%20la%20costituzione%20e%20le%20attribuzioni%20del%20Consiglio%20superiore%20di%20marina.%20023U0109.md) e [3 del R. decreto 4 gennaio 1923, n. 109](Che%20modifica%20la%20costituzione%20e%20le%20attribuzioni%20del%20Consiglio%20superiore%20di%20marina.%20023U0109.md), sono abrogati, e nel [R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), dopo l'articolo 10 e' inserito il seguente: 
  
  «Art. 10 bis. - Quando il Consiglio superiore di marina deve dare parere sopra gli affari di cui al n. 6 del precedente art. 10, fanno parte del Consiglio stesso, come membri straordinari con voto, un consigliere di Stato ed un avvocato erariale, nonche', a seconda della competenza sugli affari da trattare, l'ufficiale del Genio navale o macchinista piu' elevato in grado fra quelli destinati presso il Comitato dei progetti delle navi, escluso il presidente, anch'essi in qualita' di membri straordinari con voto. 
  
@@ -81,7 +81,7 @@ Nell'art. 16, modificato con l'[articolo 2 del R. decreto 21 ottobre 1923, n. 25
 
 ## Art. 8.
 
-In dipendenza del disposto dell'[art. 1 del R. decreto 4 gennaio 1923, n. 109](../Regi%20decreti/Che%20modifica%20la%20costituzione%20e%20le%20attribuzioni%20del%20Consiglio%20superiore%20di%20marina.%20023U0109.md), l'[art. 18 del R. decreto 1° febbraio 1920, n. 156](../Regi%20decreti/Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), e' abrogato e sostituito dal seguente: 
+In dipendenza del disposto dell'[art. 1 del R. decreto 4 gennaio 1923, n. 109](Che%20modifica%20la%20costituzione%20e%20le%20attribuzioni%20del%20Consiglio%20superiore%20di%20marina.%20023U0109.md), l'[art. 18 del R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), e' abrogato e sostituito dal seguente: 
  
  «Il Comitato dei progetti delle navi: 
  
@@ -110,11 +110,11 @@ All'esame del Comitato sono presentati anche i progetti di nuove navi che veniss
 
 ## Art. 10.
 
-Le disposizioni contenute nel presente decreto saranno inserite nel testo unico delle disposizioni legislative sui corpi consultivi della Regia marina, che il Governo ha facolta' di compilare e pubblicare in base al [R. decreto 30 dicembre 1923, n. 2991](../Regi%20decreti/Compilazione%20e%20pubblicazione%20di%20testi%20unici%20coordinati%20riguardanti%20i%20personali%20e%20i%20servizi%20della%20Regia%20marina.%20023U2991.md).
+Le disposizioni contenute nel presente decreto saranno inserite nel testo unico delle disposizioni legislative sui corpi consultivi della Regia marina, che il Governo ha facolta' di compilare e pubblicare in base al [R. decreto 30 dicembre 1923, n. 2991](Compilazione%20e%20pubblicazione%20di%20testi%20unici%20coordinati%20riguardanti%20i%20personali%20e%20i%20servizi%20della%20Regia%20marina.%20023U2991.md).
 
 ## Art. 11.
 
-Nel [primo comma dell'art. 4 della legge 25 gennaio 1885, n. 2889](Sulla%20liquidazione%20della%20pensione%20agli%20ufficiali%20della%20Regia%20armata.%20085U2889.md) (serie 3ª), e nel 2° comma dell'art. 12 del testo unico delle leggi sulle pensioni civili e militari approvato con [Regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), sono abrogate rispettivamente le parole: «e per parere emesso dal Consiglio superiore di Marina», «e per parere del Consiglio superiore di marina».
+Nel [primo comma dell'art. 4 della legge 25 gennaio 1885, n. 2889](Sulla%20liquidazione%20della%20pensione%20agli%20ufficiali%20della%20Regia%20armata.%20085U2889.md) (serie 3ª), e nel 2° comma dell'art. 12 del testo unico delle leggi sulle pensioni civili e militari approvato con [Regio decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), sono abrogate rispettivamente le parole: «e per parere emesso dal Consiglio superiore di Marina», «e per parere del Consiglio superiore di marina».
 
 ## Art. 12.
 

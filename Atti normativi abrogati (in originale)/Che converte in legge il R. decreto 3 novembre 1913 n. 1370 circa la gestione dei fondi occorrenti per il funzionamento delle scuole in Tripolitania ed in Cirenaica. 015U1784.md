@@ -26,7 +26,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 3 novembre 1913, n. 1370](../Regi%20decreti/Da%20convertirsi%20in%20legge%20col%20quale%20sono%20apportate%20alcune%20variazioni%20allo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20degli%20affari%20esteri%20per%20lesercizio%201913-914.%20013U1370.md), portante variazioni allo stato di previsione della spesa del Ministero degli affari esteri per l'esercizio finanziario 1913-914 allo scopo di affidare al Ministero delle colonie la gestione dei fondi occorrenti per il funzionamento delle scuole in Tripolitania ed in Cirenaica. 
+ E' convertito in legge il [R. decreto 3 novembre 1913, n. 1370](Da%20convertirsi%20in%20legge%20col%20quale%20sono%20apportate%20alcune%20variazioni%20allo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20degli%20affari%20esteri%20per%20lesercizio%201913-914.%20013U1370.md), portante variazioni allo stato di previsione della spesa del Ministero degli affari esteri per l'esercizio finanziario 1913-914 allo scopo di affidare al Ministero delle colonie la gestione dei fondi occorrenti per il funzionamento delle scuole in Tripolitania ed in Cirenaica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

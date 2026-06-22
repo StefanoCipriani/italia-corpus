@@ -22,7 +22,7 @@ Sono elevate a lire 1.000 ciascuna, le tasse fisse minime di registra e ipotecar
 
 ## Art. 2.
 
-Sono rispettivamente elevate a lire 1.000, lire 2.000 lire 4.000 e lire 8.000 le tasse fisse previste nella misura di lire 200, lire 500, lire 1.000 e lire 2.000 dalle voci della parte II della tariffa, allegato A, al [regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e successive modificazioni.
+Sono rispettivamente elevate a lire 1.000, lire 2.000 lire 4.000 e lire 8.000 le tasse fisse previste nella misura di lire 200, lire 500, lire 1.000 e lire 2.000 dalle voci della parte II della tariffa, allegato A, al [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e successive modificazioni.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta, nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

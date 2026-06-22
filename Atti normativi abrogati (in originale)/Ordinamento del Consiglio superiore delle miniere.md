@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 14 ottobre 1926, n. 1835](../Regi%20decreti/Ordinamento%20del%20Consiglio%20superiore%20delle%20miniere.%20026U1835.md), concernente l'ordinamento del Consiglio superiore delle miniere, modificato con [regio decreto-legge 6 gennaio 1936, n. 94](Ordinamento%20del%20Consiglio%20superiore%20delle%20miniere.%20036U0094.md), e con [regio decreto-legge 21 novembre 1938, n. 1864](Modificazioni%20alla%20composizione%20del%20Consiglio%20superiore%20delle%20miniere.%20038U1864.md);
+Visto il [regio decreto 14 ottobre 1926, n. 1835](Ordinamento%20del%20Consiglio%20superiore%20delle%20miniere.%20026U1835.md), concernente l'ordinamento del Consiglio superiore delle miniere, modificato con [regio decreto-legge 6 gennaio 1936, n. 94](Ordinamento%20del%20Consiglio%20superiore%20delle%20miniere.%20036U0094.md), e con [regio decreto-legge 21 novembre 1938, n. 1864](Modificazioni%20alla%20composizione%20del%20Consiglio%20superiore%20delle%20miniere.%20038U1864.md);
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

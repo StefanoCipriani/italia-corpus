@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'articolo 47 del regolamento sull'avanzamento dei corpi militari della R. marina, approvato con [R. decreto 4 settembre 1898, n. 444](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%206%20marzo%201898%20n.%2059%20sullavanzamento%20nei%20Corpi%20militari%20della%20R.%20Marina.%20098U0444.md), e' apportata la seguente aggiunta: 
+All'articolo 47 del regolamento sull'avanzamento dei corpi militari della R. marina, approvato con [R. decreto 4 settembre 1898, n. 444](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%206%20marzo%201898%20n.%2059%20sullavanzamento%20nei%20Corpi%20militari%20della%20R.%20Marina.%20098U0444.md), e' apportata la seguente aggiunta: 
  
  «I graduati ed i comuni di 1ª classe che in tre successivi scrutini per la formazione dei quadri ordinari d'avanzamento per la promozione ad un medesimo grado (esclusi quindi, nel computo dei tre successivi scrutini, quelli relativi ai quadri suppletivi di cui all'articolo seguente) sieno dichiarati non idonei per le deficienti qualita' professionali o per la condotta, sono definitivamente esclusi dall'avanzamento, nell'intesa che fra la prima e l'ultima dichiarazione di non idoneita' debba intercedere un periodo di tempo non inferiore a due anni».
 

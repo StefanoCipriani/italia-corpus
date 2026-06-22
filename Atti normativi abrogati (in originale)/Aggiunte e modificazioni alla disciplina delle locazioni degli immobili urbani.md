@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](../Decreti%20legislativi%20luogotenenziali/Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md);
+Visto il [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md);
 
 Visto il [decreto legislativo 27 febbraio 1947, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-02-27;39);
 
@@ -20,14 +20,14 @@ Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri per la g
 
 ## Art. 1.
 
-Nei mandamenti nei quali le controversie previste nell'[art. 22 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](../Decreti%20legislativi%20luogotenenziali/Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md) e nell'[art. 10 del decreto legislativo 27 febbraio 1947, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-02-27;39#art_10) e concernenti immobili adibiti ad uso commerciale od industriale siano o si presumano numerose, il presidente del Tribunale puo' costituire, per il giudizio sulle anzidette controversie, speciali Sottocommissioni delle Commissioni arbitrali prevedute dall'[art. 21 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](../Decreti%20legislativi%20luogotenenziali/Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md).
+Nei mandamenti nei quali le controversie previste nell'[art. 22 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md) e nell'[art. 10 del decreto legislativo 27 febbraio 1947, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-02-27;39#art_10) e concernenti immobili adibiti ad uso commerciale od industriale siano o si presumano numerose, il presidente del Tribunale puo' costituire, per il giudizio sulle anzidette controversie, speciali Sottocommissioni delle Commissioni arbitrali prevedute dall'[art. 21 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md).
  Nella composizione delle Sottocommissioni indicate nel comma precedente, ferme restando le altre disposizioni del richiamato art. 21, gli inquilini sono sostituiti con due appartenenti alle categorie dei commercianti o degli industriali, che siano inquilini, scelti dopo aver sentito, ove esistano, le associazioni di categoria locali o provinciali.
  L'assegnazione delle controversie prevedute dal primo comma alle speciali Sottocommissioni e' fatta dal presidente delle Commissioni arbitrali. L'assegnazione delle controversie in difformita' delle disposizioni di questo articolo, deve essere dedotta dalle parti, a pena di decadenza, nel loro primo atto successivo all'assegnazione stessa.
  Le controversie concernenti immobili adibiti promiscuamente ad uso di abitazione e ad uso commerciale o industriale, possono essere giudicate sia dalle Sottocommissioni previste dal primo comma, sia dalle altre Commissioni o Sottocommissioni, qualunque sia l'uso prevalente.
 
 ## Art. 2.
 
-In tutti i casi previsti dall'[art. 22 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](../Decreti%20legislativi%20luogotenenziali/Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md) e dall'[art. 10 del decreto legislativo 27 febbraio 1947, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-02-27;39#art_10), il presidente delle Commissioni e delle Sottocommissioni arbitrali, puo', all'inizio del procedimento, cercare di indurre le parti ad un equo componimento.
+In tutti i casi previsti dall'[art. 22 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md) e dall'[art. 10 del decreto legislativo 27 febbraio 1947, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-02-27;39#art_10), il presidente delle Commissioni e delle Sottocommissioni arbitrali, puo', all'inizio del procedimento, cercare di indurre le parti ad un equo componimento.
  Tale tentativo puo' essere rinnovato ogni qualvolta se ne presenti l'opportunita'.
  Se il componimento riesce, se ne da' atto nel processo verbale, il quale tiene luogo della decisione.
 

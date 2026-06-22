@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'[art. 56 del regio decreto 12 luglio 1923, numero 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), modificato con l'[art. 2 del decreto legislativo luogotenenziale 4 marzo 1946, n. 325](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alla%20composizione%20dalle%20Commissioni%20per%20gli%20accertamenti%20sanitari%20per%20la%20concessione%20delle%20pensioni%20di%20guerra.md);
+Visto l'[art. 56 del regio decreto 12 luglio 1923, numero 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), modificato con l'[art. 2 del decreto legislativo luogotenenziale 4 marzo 1946, n. 325](Modificazioni%20alla%20composizione%20dalle%20Commissioni%20per%20gli%20accertamenti%20sanitari%20per%20la%20concessione%20delle%20pensioni%20di%20guerra.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro Segretario di Stato per il tesoro, di concerto col P
 
 ## Art. 1.
 
-Nell'[art. 56 del regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), modificato con l'[art. 2 del decreto legislativo luogotenenziale 4 marzo 1946, n. 325](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alla%20composizione%20dalle%20Commissioni%20per%20gli%20accertamenti%20sanitari%20per%20la%20concessione%20delle%20pensioni%20di%20guerra.md), sono inseriti dopo i primi due commi i seguenti:
+Nell'[art. 56 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), modificato con l'[art. 2 del decreto legislativo luogotenenziale 4 marzo 1946, n. 325](Modificazioni%20alla%20composizione%20dalle%20Commissioni%20per%20gli%20accertamenti%20sanitari%20per%20la%20concessione%20delle%20pensioni%20di%20guerra.md), sono inseriti dopo i primi due commi i seguenti:
  "Al posto di ufficiali medici dell'Esercito, della Marina o dell'Aeronautica o in aggiunta ad essi possono essere nominati membri di detta Commissione anche medici appartenenti al personale civile dello Stato, di ruolo o a contratto. La loro nomina e' fatta di intesa anche col Ministro preposto alla Amministrazione dello Stato dalla quale dipendono.
  Resta ferma la presidenza della Commissione medica per le pensioni di guerra all' ufficiale medico superiore piu' elevato in grado".
 

@@ -34,7 +34,7 @@ La tassa sara' riscossa con le forme e coi privilegi con cui si riscuotono le im
 
 ## Art. 7.
 
-I [Regi decreti 25 gennaio 1870, n. 2319](../Regi%20decreti/Che%20autorizza%20la%20Camera%20di%20commercio%20e%20darti%20di%20Palermo%20ad%20imporre%20unannua%20tassa%20sugli%20industriali%20e%20commercianti%20del%20suo%20territorio.%207002319R.md), e [17 settembre 1871, n. 136](../Regi%20decreti/Col%20quale%20gli%20industriali%20e%20commercianti%20di%20Palermo%20sono%20divisi%20in%20dieci%20classi%20di%20due%20categorie%20ciascuna%20per%20la%20tassa%20dovuta%20a%20quella%20Camera%20di%20commercio.%207100136R.md) sopracitati, sono abrogati. 
+I [Regi decreti 25 gennaio 1870, n. 2319](Che%20autorizza%20la%20Camera%20di%20commercio%20e%20darti%20di%20Palermo%20ad%20imporre%20unannua%20tassa%20sugli%20industriali%20e%20commercianti%20del%20suo%20territorio.%207002319R.md), e [17 settembre 1871, n. 136](Col%20quale%20gli%20industriali%20e%20commercianti%20di%20Palermo%20sono%20divisi%20in%20dieci%20classi%20di%20due%20categorie%20ciascuna%20per%20la%20tassa%20dovuta%20a%20quella%20Camera%20di%20commercio.%207100136R.md) sopracitati, sono abrogati. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

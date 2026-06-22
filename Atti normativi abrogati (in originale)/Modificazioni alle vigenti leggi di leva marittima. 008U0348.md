@@ -109,7 +109,7 @@ E' data facolta' al ministro della marina di anticipare il congedamento dei mili
 
 ## Art. 13.
 
-Sono abolite tutte le disposizioni delle vigenti leggi sulla leva marittima (testo unico approvato con [R. decreto del 16 dicembre 1888, n. 5860](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), serie 3ª, e [legge 27 dicembre 1906, n. 679](Modificazioni%20alla%20legge%20sulla%20leva%20marittima.%20006U0679.md), portante modificazioni al testo stesso), le quali siano contrarie alla presente legge, che entrera' in vigore il 1° ottobre 1908. 
+Sono abolite tutte le disposizioni delle vigenti leggi sulla leva marittima (testo unico approvato con [R. decreto del 16 dicembre 1888, n. 5860](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), serie 3ª, e [legge 27 dicembre 1906, n. 679](Modificazioni%20alla%20legge%20sulla%20leva%20marittima.%20006U0679.md), portante modificazioni al testo stesso), le quali siano contrarie alla presente legge, che entrera' in vigore il 1° ottobre 1908. 
  
  Il Governo del Re, nel procedere alla pubblicazione di un nuovo testo unico delle leggi sulla leva marittima, autorizzata con l'[art. 6 della legge 27 dicembre 1906, n. 679](Modificazioni%20alla%20legge%20sulla%20leva%20marittima.%20006U0679.md), ha facolta' d'introdurvi le modificazioni che si renderanno necessarie per emendare e coordinare il vigente testo unico in relazione anche alle disposizioni risultanti dalla presente legge.
 

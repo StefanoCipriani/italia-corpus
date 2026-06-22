@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  a) La misura delle indennita' di prima categoria stabilita col [Regio decreto 11 gennaio 1911, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-01-11;69), e' elevata a lire 1,55 per i sergenti maggiori e sergenti dell'arma di cavalleria e a lire 1,50 per i caporali e soldati della stessa arma in servizio di rinforzo presso le stazioni dell'arma dei Reali carabinieri e di colonna mobile per integrare il servizio di squadriglie istituite per misura di pubblica sicurezza; 
  
- b) la misura del supplemento alla razione foraggi dei cavalli di truppa dell'arma dei Reali carabinieri, destinati al servizio delle squadriglie predette, stabilite con la tabella allegata al [R. decreto 19 aprile 1907, n. 202](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20alle%20truppe%20in%20servizio%20di%20pubblica%20sicurezza.%20007U0202.md), e' elevata a L. 1,50; 
+ b) la misura del supplemento alla razione foraggi dei cavalli di truppa dell'arma dei Reali carabinieri, destinati al servizio delle squadriglie predette, stabilite con la tabella allegata al [R. decreto 19 aprile 1907, n. 202](Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20alle%20truppe%20in%20servizio%20di%20pubblica%20sicurezza.%20007U0202.md), e' elevata a L. 1,50; 
  
  c) le indennita' sopra indicate non possono essere corrisposte che limitatamente alle giornate di effettivo servizio prestato in campagna come colonna mobile o per integrare l'azione speciale delle squadriglie. 
  

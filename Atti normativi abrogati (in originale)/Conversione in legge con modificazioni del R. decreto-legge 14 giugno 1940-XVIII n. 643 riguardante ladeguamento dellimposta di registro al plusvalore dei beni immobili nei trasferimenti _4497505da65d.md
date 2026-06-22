@@ -46,7 +46,7 @@ VITTORIO EMANUELE III
  
  g) alle rivendite immobiliari effettuate dalle aziende di credito ai sensi e nei termini di cui agli articoli 2 e 3 del R. decreto-legge 20 aprile 1933-XI, n. 332, convertito nella legge 21 luglio 1933-XI, n. 1041; 
  
- h) ai trasferimenti immobiliari effettuati a favore di Istituti di credito fondiario ed alle rivendite da questi poste in essere, anche a trattativa privata, ai sensi e nei termini, nell'un caso e nell'altro, di cui agli articoli 60 e 74 del testo unico della legge sul credito fondiario approvato con [R. decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md); 
+ h) ai trasferimenti immobiliari effettuati a favore di Istituti di credito fondiario ed alle rivendite da questi poste in essere, anche a trattativa privata, ai sensi e nei termini, nell'un caso e nell'altro, di cui agli articoli 60 e 74 del testo unico della legge sul credito fondiario approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md); 
  
  i) ai trasferimenti immobiliari per maggiori assegni o conguagli derivanti da atti di divisione, quando il trasferimento ha luogo fra parenti fino al terzo grado, ed altresi' ai trasferimenti immobiliari derivanti da cessioni di quote o di cointeressenze immobiliari fra coeredi, quando la cessione ha luogo fra parenti fino al terzo grado oppure fra il coniuge dell'autore della successione e parenti di quest'ultimo fino al terzo grado; 
  

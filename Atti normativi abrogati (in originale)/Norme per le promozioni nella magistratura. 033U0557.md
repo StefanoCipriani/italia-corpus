@@ -24,13 +24,13 @@ Le promozioni ai posti disponibili annualmente di consigliere di Corte di appell
  
  Qualora i vincitori del concorso, ovvero i primi pretori ed i pretori promovibili in Corte di appello, non risultino in numero sufficiente per coprire le quote annuali di posti ad essi assegnate, le rispettive differenze vanno ad aumentare il numero dei posti da conferire ai giudici ed ai sostituti procuratori del Re promovibili per merito distinto. 
  
- E' abrogata la disposizione di cui alla parte prima dell'[articolo 7 del R. decreto 12 maggio 1930, n. 663](../Regi%20decreti/Norme%20per%20lattuazione%20delta%20legge%2017%20aprile%201930%20n.%20421%20sul%20reclutamento%20e%20sulla%20carriera%20dei%20magistrati.%20030U0663.md).
+ E' abrogata la disposizione di cui alla parte prima dell'[articolo 7 del R. decreto 12 maggio 1930, n. 663](Norme%20per%20lattuazione%20delta%20legge%2017%20aprile%201930%20n.%20421%20sul%20reclutamento%20e%20sulla%20carriera%20dei%20magistrati.%20030U0663.md).
 
 ### Art. 2.
 
 Il concorso e' indetto nel primo trimestre di ogni anno per un numero di posti pari ai quattro decimi delle vacanze che si verificheranno nell'anno successivo per collocamenti a riposo nel grado di consigliere e sostituto procuratore generale di Corte di appello e nei gradi superiori. 
  
- Possono prendere parte al concorso i giudici ed i sostituti procuratori del Re, i quali entro il 31 dicembre dell'anno in cui il concorso viene indetto compiano almeno 18 anni di servizio effettivo ed i primi pretori e pretori, i quali ne compiano almeno 19. Tuttavia non puo' partecipare al concorso il magistrato che sia preceduto in graduatoria da colleghi i quali non abbiano l'anzianita' necessaria per prendersi parte. Per l'ammissione al concorso occorre una deliberazione motivata del Consiglio giudiziario presso la Corte di appello, giusta gli [articoli 116](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md) e [117 del R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md). L'ammissione puo' essere concessa solo ai magistrati che si distinguono per eminenti doti di cultura, diligenza e carattere. 
+ Possono prendere parte al concorso i giudici ed i sostituti procuratori del Re, i quali entro il 31 dicembre dell'anno in cui il concorso viene indetto compiano almeno 18 anni di servizio effettivo ed i primi pretori e pretori, i quali ne compiano almeno 19. Tuttavia non puo' partecipare al concorso il magistrato che sia preceduto in graduatoria da colleghi i quali non abbiano l'anzianita' necessaria per prendersi parte. Per l'ammissione al concorso occorre una deliberazione motivata del Consiglio giudiziario presso la Corte di appello, giusta gli [articoli 116](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md) e [117 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md). L'ammissione puo' essere concessa solo ai magistrati che si distinguono per eminenti doti di cultura, diligenza e carattere. 
  
  Contro la deliberazione del Consiglio giudiziario che abbia ritenuto il magistrato non meritevole dell'ammissione al concorso, l'interessato puo' ricorrere, entro quindici giorni dalla ricevutane comunicazione, ad una Commissione centrale istituita presso il Ministero di grazia e giustizia. Detta Commissione, composta di tre membri scelti dal Ministro fra i magistrati aventi grado di primo presidente di Corte di appello o parificato residenti in Roma, delibera definitivamente sull'ammissione. 
  
@@ -40,7 +40,7 @@ Il concorso e' indetto nel primo trimestre di ogni anno per un numero di posti p
 
 ### Art. 3.
 
-La presentazione dei lavori giudiziari e degli altri titoli e documenti da parte dei concorrenti e' regolata dalle norme stabilite nell'[art. 129 del R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md). I lavori giudiziari di obbligo pero' devono riferirsi a non meno di due diversi periodi di tempo, che saranno indicati nell'avviso di concorso.
+La presentazione dei lavori giudiziari e degli altri titoli e documenti da parte dei concorrenti e' regolata dalle norme stabilite nell'[art. 129 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md). I lavori giudiziari di obbligo pero' devono riferirsi a non meno di due diversi periodi di tempo, che saranno indicati nell'avviso di concorso.
 
 ### Art. 4.
 
@@ -98,7 +98,7 @@ I magistrati scrutinati, per qualsiasi ragione, dopo che siano state ultimate le
 
 ### Art. 9.
 
-Le promozioni dei magistrati dichiarati promovibili in seguito a scrutinio hanno luogo, salvo che ricorrano speciali esigenze di servizio, da valutarsi dal Ministro, secondo l'ordine degli elenchi, che verra' osservato distintamente per le promozioni nella giudicante e per quelle nella requirente, ai sensi dell'[art. 123 del R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md). 
+Le promozioni dei magistrati dichiarati promovibili in seguito a scrutinio hanno luogo, salvo che ricorrano speciali esigenze di servizio, da valutarsi dal Ministro, secondo l'ordine degli elenchi, che verra' osservato distintamente per le promozioni nella giudicante e per quelle nella requirente, ai sensi dell'[art. 123 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md). 
  
  Normalmente i vincitori del concorso sono promossi con precedenza sulle altre categorie di promovibili ed i promovibili per merito distinto con precedenza sui promovibili per merito. 
  
@@ -142,7 +142,7 @@ Il numero dei posti di ruolo di primo presidente di Corte di appello o parificat
  
  Resta correlativamente diminuito da 271 a 224 il numero dei consiglieri e sostituti procuratori generali di Corte di cassazione, stabilito nella predetta tabella. 
  
- Al [terzo comma dell'art. 158 del R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), modificato con l'[art. 4 della legge 17 aprile 1927, n. 514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-04-17;514#art_4), e con l'articolo unico della [legge 28 giugno 1928, n. 1487](Istituzione%20di%20un%20ufficio%20del%20ruolo%20presso%20la%20Corte%20di%20cassazione%20del%20Regno.%20028U1487.md), e' sostituito il seguente: 
+ Al [terzo comma dell'art. 158 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), modificato con l'[art. 4 della legge 17 aprile 1927, n. 514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-04-17;514#art_4), e con l'articolo unico della [legge 28 giugno 1928, n. 1487](Istituzione%20di%20un%20ufficio%20del%20ruolo%20presso%20la%20Corte%20di%20cassazione%20del%20Regno.%20028U1487.md), e' sostituito il seguente: 
  
  « I magistrati posti fuori del ruolo organico, in forza della presente disposizione, non devono in ogni caso superare il numero di ventotto ».
 
@@ -214,7 +214,7 @@ Entro lo stesso periodo di tempo di cui all'articolo precedente, gli uditori di 
 
 ### Art. 25.
 
-Ai fini dell'applicazione della tabella di cui all'art. 19, capoverso 1°, del [R. decreto 12 maggio 1930, n. 663](../Regi%20decreti/Norme%20per%20lattuazione%20delta%20legge%2017%20aprile%201930%20n.%20421%20sul%20reclutamento%20e%20sulla%20carriera%20dei%20magistrati.%20030U0663.md), i primi pretori e pretori possono, entro il periodo di un anno dal giorno dell'entrata in vigore della presente legge, essere tramutati ad altra sede anche senza il loro consenso; per esigenze di servizio.
+Ai fini dell'applicazione della tabella di cui all'art. 19, capoverso 1°, del [R. decreto 12 maggio 1930, n. 663](Norme%20per%20lattuazione%20delta%20legge%2017%20aprile%201930%20n.%20421%20sul%20reclutamento%20e%20sulla%20carriera%20dei%20magistrati.%20030U0663.md), i primi pretori e pretori possono, entro il periodo di un anno dal giorno dell'entrata in vigore della presente legge, essere tramutati ad altra sede anche senza il loro consenso; per esigenze di servizio.
 
 ### Art. 26.
 

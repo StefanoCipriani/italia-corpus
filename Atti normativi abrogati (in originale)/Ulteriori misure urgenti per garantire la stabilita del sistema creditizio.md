@@ -16,9 +16,9 @@ Visti gli [articoli 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto il testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
 
-Visto il testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md);
+Visto il testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md);
 
-Visto il [testo unico delle disposizioni legislative e regolamentari in materia di debito pubblico](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), di cui al [decreto del Presidente della Repubblica 30 dicembre 2003, n. 398](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), e in particolare l'articolo 3;
+Visto il [testo unico delle disposizioni legislative e regolamentari in materia di debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), di cui al [decreto del Presidente della Repubblica 30 dicembre 2003, n. 398](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), e in particolare l'articolo 3;
 
 Considerate le conclusioni del Consiglio Ecofin del 7 ottobre 2008 sui principi comuni dell'Unione europea per l'adozione di risposte immediate alle turbolenze dei mercati finanziari;
 

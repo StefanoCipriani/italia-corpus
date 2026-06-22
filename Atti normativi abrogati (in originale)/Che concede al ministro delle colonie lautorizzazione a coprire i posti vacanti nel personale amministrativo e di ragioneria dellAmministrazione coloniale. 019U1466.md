@@ -20,9 +20,9 @@ Ritenuta la necessita' di coprire i posti attualmente vacanti nel personale ammi
 
 Visto il [R. decreto 22 gennaio 1914, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-22;19);
 
-Visto il [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md), che approva il testo unico delle leggi sullo stato degli impiegati civili;
+Visto il [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md), che approva il testo unico delle leggi sullo stato degli impiegati civili;
 
-Visto il regolamento generale per l'esecuzione del predetto testo unico, approvato con [R. decreto 24 novembre 1908, n. 756](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md);
+Visto il regolamento generale per l'esecuzione del predetto testo unico, approvato con [R. decreto 24 novembre 1908, n. 756](Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md);
 
 Udito il Consiglio dei ministri;
 

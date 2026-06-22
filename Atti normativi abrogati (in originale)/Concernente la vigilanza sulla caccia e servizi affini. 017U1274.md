@@ -26,7 +26,7 @@ Sulla proposta del ministro segretario di Stato per l'agricoltura, di concerto c
 
 ## Art. 1.
 
-Nelle Provincie, nelle quali il corpo speciale delle guardiecaccia campestri giurate per la sorveglianza sulla caccia e servizi affini, con sede. in Genova, riconosciuto con decreto 11 agosto 1916 del prefetto di Genova, a termini del [R. decreto 4 giugno 1914, n. 563](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20gli%20Istituti%20di%20vigilanza%20privata.%20014U0563.md), sia stato autorizzato ad esercitare la vigilanza rurale e venatoria nell'interesse di privati, le guardie ad esso appartenenti hanno facolta' di esercitare la vigilanza medesima in tutto il territorio della Provincia, anche nel pubblico interesse.
+Nelle Provincie, nelle quali il corpo speciale delle guardiecaccia campestri giurate per la sorveglianza sulla caccia e servizi affini, con sede. in Genova, riconosciuto con decreto 11 agosto 1916 del prefetto di Genova, a termini del [R. decreto 4 giugno 1914, n. 563](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20gli%20Istituti%20di%20vigilanza%20privata.%20014U0563.md), sia stato autorizzato ad esercitare la vigilanza rurale e venatoria nell'interesse di privati, le guardie ad esso appartenenti hanno facolta' di esercitare la vigilanza medesima in tutto il territorio della Provincia, anche nel pubblico interesse.
 
 ## Art. 2.
 

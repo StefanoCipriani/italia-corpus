@@ -42,7 +42,7 @@ Le Intendenze di finanza, appena ricevuti gli elenchi, cureranno l'invio alle ri
 
 Alla lettera e) dell'art. 4 dell'allegato A al [R. decreto 12 ottobre 1915, n. 1510](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-10-12;1510), e' sostituita la seguente: 
  
- e) gli indigenti ai sensi dell'art. 25, n. 3, del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), e le persone povere, che giusta le vigenti leggi sulla sanita' e sulla beneficenza, fruiscono della cura medica e della somministrazione gratuita dei medicinali.
+ e) gli indigenti ai sensi dell'art. 25, n. 3, del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), e le persone povere, che giusta le vigenti leggi sulla sanita' e sulla beneficenza, fruiscono della cura medica e della somministrazione gratuita dei medicinali.
 
 ## Art. 6.
 

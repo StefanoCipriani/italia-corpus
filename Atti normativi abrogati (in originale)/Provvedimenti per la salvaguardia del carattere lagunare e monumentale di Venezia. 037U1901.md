@@ -48,7 +48,7 @@ In occasione dell'esecuzione dei lavori di cui all'art. 1 o durante il prosciuga
  
  La necessita' di tali lavori sara' riconosciuta dal podesta' previo parere dell'ufficiale sanitario e del Genio civile sentita la Commissione edilizia comunale. 
  
- Sara' osservata, in quanto applicabile, la procedura dell'art. 55 del vigente testo unico della legge comunale o provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md). 
+ Sara' osservata, in quanto applicabile, la procedura dell'art. 55 del vigente testo unico della legge comunale o provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md). 
  
  Tali opere saranno sussidiate dal comune di Venezia in ragione del 30 % della spesa a collaudo eseguito. 
  

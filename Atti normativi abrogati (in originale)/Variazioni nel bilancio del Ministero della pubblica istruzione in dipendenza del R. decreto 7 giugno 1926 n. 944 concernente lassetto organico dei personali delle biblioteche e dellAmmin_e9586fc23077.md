@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 3 giugno 1926, n. 924](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellistruzione%20pubblica%20per%20lesercizio%20finanziario%20dal%201%20luglio%201926%20al%2030%20giugno%201927.%20026U0924.md);
 
-Visto il [R. decreto 7 giugno 1926, n. 944](../Regi%20decreti/Provvedimenti%20per%20le%20biblioteche%20governative%20e%20lAmministrazione%20centrale%20della%20pubblica%20istruzione.%20026U0944.md), concernente l'assetto organico dei personali delle biblioteche e dell'Amministrazione centrale della pubblica istruzione;
+Visto il [R. decreto 7 giugno 1926, n. 944](Provvedimenti%20per%20le%20biblioteche%20governative%20e%20lAmministrazione%20centrale%20della%20pubblica%20istruzione.%20026U0944.md), concernente l'assetto organico dei personali delle biblioteche e dell'Amministrazione centrale della pubblica istruzione;
 
 Ritenuta la necessita' assoluta e l'urgenza di apportare variazioni nello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio 1926-27, in dipendenza del precitato Regio decreto ed in relazione al riordinamento delle biblioteche;
 

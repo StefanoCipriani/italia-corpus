@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertite in legge il [R. decreto 28 agosto 1924; n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396), che modifica il [R. decreto 8 febbraio 1923, n. 422](../Regi%20decreti/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), sulla esecuzione di opere pubbliche, colle seguenti modificazioni: 
+E' convertite in legge il [R. decreto 28 agosto 1924; n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396), che modifica il [R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), sulla esecuzione di opere pubbliche, colle seguenti modificazioni: 
  
  a) all'art. 6 si sostituisce il seguente: 
  
@@ -22,7 +22,7 @@ E' convertite in legge il [R. decreto 28 agosto 1924; n. 1396](https://www.norma
  
  «All'art. 40 e' sostituito il seguente: 
  
- «Le disposizioni del presente decreto sono estese, in quanto applicabili, ai lavori che si eseguiscono, con o senza concorso dello Stato, dalla Provincia, dai Comuni e dai Consorzi amministrativi per l'esecuzione di opere pubbliche, ferma l'osservanza delle norme del [R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md). 
+ «Le disposizioni del presente decreto sono estese, in quanto applicabili, ai lavori che si eseguiscono, con o senza concorso dello Stato, dalla Provincia, dai Comuni e dai Consorzi amministrativi per l'esecuzione di opere pubbliche, ferma l'osservanza delle norme del [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md). 
  
  «La risoluzione dei contratti, nel caso previsto dall'articolo 9 del presente decreto, e' pronunziata dalle Amministrazioni appaltanti nei modi e con le garanzie di legge. Lo svincolo, parziale o anticipato della cauzione, ammesso dall'art. 21 di detto decreto, deve, per le Provincie e per i Comuni, essere autorizzato nei modi prescritti dal regolamento per l'esecuzione della legge comunale e provinciale. 
  
@@ -30,7 +30,7 @@ E' convertite in legge il [R. decreto 28 agosto 1924; n. 1396](https://www.norma
 
 ## Art. 2.
 
-Il Governo del Re e' autorizzato a coordinare in testo unico le disposizioni della presente legge con quelle dei [Regi decreti 28 agosto 1924, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396); [8 febbraio 1923, n. 422](../Regi%20decreti/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md); 12 febbraio 1922, n: 214, e del [decreto Luogotenenziale 6 febbraio 1919, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-06;107). 
+Il Governo del Re e' autorizzato a coordinare in testo unico le disposizioni della presente legge con quelle dei [Regi decreti 28 agosto 1924, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396); [8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md); 12 febbraio 1922, n: 214, e del [decreto Luogotenenziale 6 febbraio 1919, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-06;107). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

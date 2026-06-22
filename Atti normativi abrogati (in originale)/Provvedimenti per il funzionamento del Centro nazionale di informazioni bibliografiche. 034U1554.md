@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 9 novembre 1931, n. 1799](../Regi%20decreti/Istituzione%20in%20Roma%20di%20un%20Centro%20nazionale%20di%20informazioni%20bibliografiche.%20031U1799.md), col quale veniva istituito in Roma, presso la Biblioteca nazionale centrale « Vittorio Emanuele II », il Centro nazionale di informazioni bibliografiche;
+Veduto il [R. decreto 9 novembre 1931, n. 1799](Istituzione%20in%20Roma%20di%20un%20Centro%20nazionale%20di%20informazioni%20bibliografiche.%20031U1799.md), col quale veniva istituito in Roma, presso la Biblioteca nazionale centrale « Vittorio Emanuele II », il Centro nazionale di informazioni bibliografiche;
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -30,7 +30,7 @@ Per il funzionamento del Centro nazionale di informazioni bibliografiche e' auto
 
 ## Art. 2.
 
-Al direttore della Biblioteca nazionale centrale « Vittorio Emanuele II » di Roma, preposto, giusta l'[art. 4 del R. decreto 9 novembre 1931, n. 1799](../Regi%20decreti/Istituzione%20in%20Roma%20di%20un%20Centro%20nazionale%20di%20informazioni%20bibliografiche.%20031U1799.md), al Centro nazionale di informazioni bibliografiche, sara' assegnata, sullo stanziamento di cui al precedente articolo, l'annua indennita' di L. 2000, la quale e' soggetta alle riduzioni stabilite dai [Regi decreti-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e [14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561).
+Al direttore della Biblioteca nazionale centrale « Vittorio Emanuele II » di Roma, preposto, giusta l'[art. 4 del R. decreto 9 novembre 1931, n. 1799](Istituzione%20in%20Roma%20di%20un%20Centro%20nazionale%20di%20informazioni%20bibliografiche.%20031U1799.md), al Centro nazionale di informazioni bibliografiche, sara' assegnata, sullo stanziamento di cui al precedente articolo, l'annua indennita' di L. 2000, la quale e' soggetta alle riduzioni stabilite dai [Regi decreti-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e [14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561).
 
 ## Art. 3.
 

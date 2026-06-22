@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [Regio decreto 25 aprile 1897, n. 135](../Regi%20decreti/Che%20erige%20in%20ente%20morale%20listituto%20nazionale%20Umberto%20I%20per%20gli%20orfani%20degli%20impiegati%20subalterni%20delle%20pubbliche%20amministrazioni%20italiane%20con%20sede%20in%20Roma%20e%20ne%20approva%20lo%20statuto.%209700135R.md), col quale fu eretto in ente morale l'Istituto nazionale di previdenza «Umberto I» per gli orfani degli impiegati subalterni delle pubbliche Amministrazioni italiane, e le successive modificazioni apportate coi [Regi decreti 1° febbraio 1923, numero 310](../Regi%20decreti/Approvazione%20di%20statuti.%20023U0310.md), e [29 novembre 1928, n. 2823](../Regi%20decreti/Cambiamento%20della%20denominazione%20dellIstituto%20nazionale%20di%20previdenza%20Umberto%20I%20per%20gli%20impiegati%20subalterni%20ed%20operai%20delle%20pubbliche%20Amministrazioni%20e%20loro%20orfani%20con%20sede%20in%20Roma%20in%20Ist_74d203d2bfc6.md);
+Visto il [Regio decreto 25 aprile 1897, n. 135](../Regi%20decreti/Che%20erige%20in%20ente%20morale%20listituto%20nazionale%20Umberto%20I%20per%20gli%20orfani%20degli%20impiegati%20subalterni%20delle%20pubbliche%20amministrazioni%20italiane%20con%20sede%20in%20Roma%20e%20ne%20approva%20lo%20statuto.%209700135R.md), col quale fu eretto in ente morale l'Istituto nazionale di previdenza «Umberto I» per gli orfani degli impiegati subalterni delle pubbliche Amministrazioni italiane, e le successive modificazioni apportate coi [Regi decreti 1° febbraio 1923, numero 310](Approvazione%20di%20statuti.%20023U0310.md), e [29 novembre 1928, n. 2823](Cambiamento%20della%20denominazione%20dellIstituto%20nazionale%20di%20previdenza%20Umberto%20I%20per%20gli%20impiegati%20subalterni%20ed%20operai%20delle%20pubbliche%20Amministrazioni%20e%20loro%20orfani%20con%20sede%20in%20Roma%20in%20Ist_74d203d2bfc6.md);
 
 Riconosciuta la necessita' urgente ed assoluta di emanare norme intese ad integrare il trattamento previdenziale dei salariati dipendenti dalle Amministrazioni dello Stato;
 
@@ -155,7 +155,7 @@ A favore dell'Ente sono applicabili le norme stabilite dalle vigenti tariffe uff
 
 ## Art. 16.
 
-All'Ente e' devoluto, in applicazione del testo unico delle disposizioni legislative sullo stato giuridico e sul trattamento economico dei salariati dello Stato, approvato con [Regio decreto 24 dicembre 1924, n. 2114](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md), l'importo delle multe inflitte al personale, l'interesse sui depositi a garanzia e l'importo dei depositi a garanzia incamerati a titolo di penalita'.
+All'Ente e' devoluto, in applicazione del testo unico delle disposizioni legislative sullo stato giuridico e sul trattamento economico dei salariati dello Stato, approvato con [Regio decreto 24 dicembre 1924, n. 2114](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md), l'importo delle multe inflitte al personale, l'interesse sui depositi a garanzia e l'importo dei depositi a garanzia incamerati a titolo di penalita'.
 
 ## Art. 17.
 

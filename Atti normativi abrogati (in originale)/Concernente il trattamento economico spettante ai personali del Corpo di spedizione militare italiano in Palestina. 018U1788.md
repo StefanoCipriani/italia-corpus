@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Ai personali del R. esercito italiano costituenti il corpo di spedizione militare italiano in Palestina sono dovute le indennita' stabilite del [R. decreto 23 maggio 1915, n. 677](../Regi%20decreti/Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), sotto l'osservanza delle disposizioni contenute nel decreto stesso, e nelle norme annesse, nonche' degli altri decreti successivamente emanati circa le indennita' di guerra spettanti alle truppe, in campagna Europa, dal giorno dell'imbarco per la Palestina fino al giorno dello sbarco al ritorno in Italia. 
+Ai personali del R. esercito italiano costituenti il corpo di spedizione militare italiano in Palestina sono dovute le indennita' stabilite del [R. decreto 23 maggio 1915, n. 677](Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), sotto l'osservanza delle disposizioni contenute nel decreto stesso, e nelle norme annesse, nonche' degli altri decreti successivamente emanati circa le indennita' di guerra spettanti alle truppe, in campagna Europa, dal giorno dell'imbarco per la Palestina fino al giorno dello sbarco al ritorno in Italia. 
  
  Agli ufficiali del detto corpo di spedizione, qualunque sia il loro grado, e' pure dovuta una indennita' di equipaggiamento di L. 600, pagabile, per la prima meta', all'atto della destinazione al corpo di spedizione in Palestina e per la seconda meta', dopo il compimento di un anno di servizio, presso il corpo di spedizione medesimo.
 

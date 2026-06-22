@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto l'art. 53 della tariffa allegato A alla legge sul registro approvata con [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md);
+Visto l'art. 53 della tariffa allegato A alla legge sul registro approvata con [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md);
 
 Ritenuta la necessita' urgente ed assoluta di ridurre la aliquota di tassa stabilita per i contratti di appalto di costruzioni di navi a sollievo dell'industria nazionale delle costruzioni navali;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-Dopo il primo comma dell'art. 53 della tariffa allegato A alla legge di registro approvata con [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), viene inserito il seguente: 
+Dopo il primo comma dell'art. 53 della tariffa allegato A alla legge di registro approvata con [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), viene inserito il seguente: 
  «Appalto per costruzioni nel Regno di navi commesse da Stati esteri, cessioni e risoluzioni di tali contratti con corrispettivo: tassa proporzionale 0,10 per cento».
 
 ## Art. 2.

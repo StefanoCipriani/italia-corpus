@@ -124,7 +124,7 @@ I residui passivi del bilancio della Colonia Eritrea, alla chiusura dell'eserciz
 
 ### Art. 7.
 
-Ai sensi dell'articolo 77 del regolamento per la gestione amministrativa e contabile della Colonia Eritrea, approvato con [Regio decreto 15 agosto 1913, n. 1161](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20della%20Colonia%20eritrea.%20013U1161.md), alla competenza dell'articolo n. 49 della spesa «Somma a disposizione per lavori di pubblica utilita', ecc.» e' inscritta la somma di lire 5.774.830,30.
+Ai sensi dell'articolo 77 del regolamento per la gestione amministrativa e contabile della Colonia Eritrea, approvato con [Regio decreto 15 agosto 1913, n. 1161](Col%20quale%20e%20approvato%20il%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20della%20Colonia%20eritrea.%20013U1161.md), alla competenza dell'articolo n. 49 della spesa «Somma a disposizione per lavori di pubblica utilita', ecc.» e' inscritta la somma di lire 5.774.830,30.
 
 ### Art. 8.
 
@@ -443,7 +443,7 @@ I residui passivi del bilancio dell'Eritrea, alla chiusura dell'esercizio finanz
 
 ### Art. 22.
 
-Ai sensi dell'articolo n. 77 del regolamento per la gestione amministrativa e contabile dell'Eritrea, approvato con [Regio decreto 15 agosto 1913, n. 1161](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20della%20Colonia%20eritrea.%20013U1161.md), alla competenza dell'articolo n. 37-bis della spesa del bilancio della Colonia stessa, per l'esercizio finanziario 1926-27 «Somma a disposizione per lavori di pubblica utilita', ecc.» e' inscritta la somma di lire 2.043.148,85.
+Ai sensi dell'articolo n. 77 del regolamento per la gestione amministrativa e contabile dell'Eritrea, approvato con [Regio decreto 15 agosto 1913, n. 1161](Col%20quale%20e%20approvato%20il%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20della%20Colonia%20eritrea.%20013U1161.md), alla competenza dell'articolo n. 37-bis della spesa del bilancio della Colonia stessa, per l'esercizio finanziario 1926-27 «Somma a disposizione per lavori di pubblica utilita', ecc.» e' inscritta la somma di lire 2.043.148,85.
 
 ### Art. 23.
 
@@ -783,7 +783,7 @@ I residui passivi del bilancio dell'Eritrea, alla chiusura dell'esercizio finanz
 
 ### Art. 37.
 
-Ai sensi dell'articolo n. 77 del regolamento per la gestione amministrativa e contabile dell'Eritrea, approvato con [Regio decreto 15 agosto 1913, n. 1161](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20della%20Colonia%20eritrea.%20013U1161.md), ai seguenti articoli del bilancio della Colonia medesima, per l'esercizio finanziario 1927-28, e' inscritta la somma per ciascuno di essi indicata: 
+Ai sensi dell'articolo n. 77 del regolamento per la gestione amministrativa e contabile dell'Eritrea, approvato con [Regio decreto 15 agosto 1913, n. 1161](Col%20quale%20e%20approvato%20il%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20della%20Colonia%20eritrea.%20013U1161.md), ai seguenti articoli del bilancio della Colonia medesima, per l'esercizio finanziario 1927-28, e' inscritta la somma per ciascuno di essi indicata: 
  
  Articolo 38-bis. - Utile di gestione 1927-1928 (parte) destinata a spese straordinarie, ecc. 
  
@@ -1179,7 +1179,7 @@ I residui passivi, alla chiusura dell'esercizio finanziario 1928-29, sono stabil
 
 ### Art. 55.
 
-Ai sensi dell'articolo 65 dell'Ordinamento amministrativo-contabile per l'Eritrea e per la Somalia - approvato con [decreto Ministeriale 28 luglio 1928, n. 4622](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1928-07-28;4622), in forza dell'[articolo 32 del Regio decreto 28 giugno 1928, n. 1646](../Regi%20decreti/Applicazione%20dellordinamento%20amministrativo-contabile%20delle%20Colonie%20alla%20Colonia%20Eritrea%20ed%20alla%20Somalia%20Italiana.%20028U1646.md) - l'avanzo, accertato col consuntivo nella somma di lire 405.125,76, e' esclusivamente assegnato alla competenza dell'articolo aggiunto 44-XI del bilancio dell'Eritrea per l'esercizio finanziario 1928-29, con la dizione: «Accantonamento per provvedere all'eventuale pagamento di saldi di spese residue, ecc.».
+Ai sensi dell'articolo 65 dell'Ordinamento amministrativo-contabile per l'Eritrea e per la Somalia - approvato con [decreto Ministeriale 28 luglio 1928, n. 4622](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1928-07-28;4622), in forza dell'[articolo 32 del Regio decreto 28 giugno 1928, n. 1646](Applicazione%20dellordinamento%20amministrativo-contabile%20delle%20Colonie%20alla%20Colonia%20Eritrea%20ed%20alla%20Somalia%20Italiana.%20028U1646.md) - l'avanzo, accertato col consuntivo nella somma di lire 405.125,76, e' esclusivamente assegnato alla competenza dell'articolo aggiunto 44-XI del bilancio dell'Eritrea per l'esercizio finanziario 1928-29, con la dizione: «Accantonamento per provvedere all'eventuale pagamento di saldi di spese residue, ecc.».
 
 ### Art. 56.
 

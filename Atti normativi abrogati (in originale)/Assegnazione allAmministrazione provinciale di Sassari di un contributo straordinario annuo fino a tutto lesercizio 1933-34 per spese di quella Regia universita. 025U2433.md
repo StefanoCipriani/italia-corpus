@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), recante provvedimenti per l'istruzione superiore; 
+ Visto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), recante provvedimenti per l'istruzione superiore; 
  
  Ritenuto che in seguito al nuovo ordinamento per l'istruzione superiore e' stata posta a carico della provincia di Sassari una maggiore spesa per il mantenimento di quella Universita' giusta la convenzione approvata con R. decreto 9 ottobre 1924 che fissa in L. 540,000 il contributo della Provincia stessa per il mantenimento predetto; 
  

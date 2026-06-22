@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 26 ottobre 1940, n. 1543](Risarcimento%20dei%20danni%20di%20guerra.%20040U1543.md);
 
-Visto il [regio decreto 16 dicembre 1940, n. 1957](../Regi%20decreti/Norme%20integrative%20e%20regolamentari%20per%20lattuazione%20della%20legge%2026%20ottobre%201940-XVIII%20n.%201543%20sul%20risarcimento%20dei%20danni%20di%20guerra.%20040U1957.md);
+Visto il [regio decreto 16 dicembre 1940, n. 1957](Norme%20integrative%20e%20regolamentari%20per%20lattuazione%20della%20legge%2026%20ottobre%201940-XVIII%20n.%201543%20sul%20risarcimento%20dei%20danni%20di%20guerra.%20040U1957.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

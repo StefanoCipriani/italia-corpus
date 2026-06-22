@@ -33,7 +33,7 @@ Le date e le norme di esecuzione dei censimenti di cui al comma 1 sono stabilite
  Il testo delle note qui pubblicato e' stato redatto ai 
  sensi dell'art. 10, comma 3, del testo unico approvato con 
  [decreto del Presidente della Repubblica 28 dicembre 1985, 
- n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
+ n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
  disposizioni di legge alle quali e' operato il rinvio. 
  Restano invariati il valore e l'efficacia degli atti 
  legislativi qui trascritti.
@@ -158,7 +158,7 @@ Il segreto sui dati e sulle notizie raccolti in occasione dei censimenti e' tute
 
 2.
 
-I rilevatori ed i coordinatori sono vincolati al segreto d'ufficio ai sensi dell'[articolo 8 del decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md), e, in quanto incaricati di un pubblico servizio, al divieto di cui all'[articolo 326 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+I rilevatori ed i coordinatori sono vincolati al segreto d'ufficio ai sensi dell'[articolo 8 del decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md), e, in quanto incaricati di un pubblico servizio, al divieto di cui all'[articolo 326 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 Nota all'art. 9:
  - Il testo degli [articoli 8](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md) e [9 del D.Lgs. 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md) (Norme sul Sistema statistico nazionale e sulla riorganizzazione dell'Istituto nazionale di statistica, ai sensi dell'[art. 24 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_24)), e' il seguente:
@@ -212,11 +212,11 @@ Nota all'art. 11:
 
 1.
 
-I comuni, in conformita' a quanto disposto dall'articolo 46 del regolamento di esecuzione della [legge 24 dicembre 1954, n. 1228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-24;1228), sull'ordinamento delle anagrafi della popolazione residente, approvato con [decreto del Presidente della Repubblica 30 maggio 1989, n. 223](../Regolamenti%20governativi/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md), effettuano la revisione dell'anagrafe della popolazione residente sulla base delle notizie, raccolte con apposito modello inserito sul questionario del censimento generale della popolazione, riguardanti il cognome, il nome, il sesso, il luogo, la data di nascita e il comune di residenza. Le istruzioni per l'anzidetta revisione vengono impartite dall'Istituto nazionale di statistica, d'intesa con il Ministero dell'interno.
+I comuni, in conformita' a quanto disposto dall'articolo 46 del regolamento di esecuzione della [legge 24 dicembre 1954, n. 1228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-24;1228), sull'ordinamento delle anagrafi della popolazione residente, approvato con [decreto del Presidente della Repubblica 30 maggio 1989, n. 223](../DPR/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md), effettuano la revisione dell'anagrafe della popolazione residente sulla base delle notizie, raccolte con apposito modello inserito sul questionario del censimento generale della popolazione, riguardanti il cognome, il nome, il sesso, il luogo, la data di nascita e il comune di residenza. Le istruzioni per l'anzidetta revisione vengono impartite dall'Istituto nazionale di statistica, d'intesa con il Ministero dell'interno.
 
 Note all'[art. 12:
  - La legge 24 dicembre 1954, n. 1228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-24;1228#art_12), reca: "Ordinamento delle anagrafi della popolazione residente".
- - Il testo dell'[art. 46 del D.P.R. 30 maggio 1989, n. 223](../Regolamenti%20governativi/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md) (Approvazione del nuovo regolamento anagrafico della popolazione residente), e' il seguente:
+ - Il testo dell'[art. 46 del D.P.R. 30 maggio 1989, n. 223](../DPR/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md) (Approvazione del nuovo regolamento anagrafico della popolazione residente), e' il seguente:
  "Art. 46 (Revisione delle anagrafi). - 1. A seguito di ogni censimento generale della popolazione, i comuni devono provvedere alla revisione dell'anagrafe al fine di accertare la corrispondenza quantitativa e qualitativa di essa con le risultanze del censimento.
  2. La documentazione desunta dai censimenti per la revisione delle anagrafi e' soggetta alle norme che tutelano la riservatezza dei dati censuari.
  3. La revisione viene effettuata secondo modalita' tecniche stabilite nell'occasione dall'Istituto centrale di statistica.

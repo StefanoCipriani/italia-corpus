@@ -16,13 +16,13 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto l'[art. 12 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+Visto l'[art. 12 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
 
 Visti gli [articoli 672 e seguenti del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_672);
 
-Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito;
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito;
 
-Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo;
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo;
 
 Visto il R. decreto-legge 26 gennaio 1931-IX, n. 122, concernente il nuovo ordinamento della giustizia militare, convertito in legge con la legge 18 giugno 1931 IX, n. 919;
 

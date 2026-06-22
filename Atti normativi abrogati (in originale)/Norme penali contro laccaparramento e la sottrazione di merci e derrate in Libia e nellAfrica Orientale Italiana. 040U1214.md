@@ -30,7 +30,7 @@ Sulla proposta del Ministro Segretario di Stato per l'Africa Italiana; Abbiamo d
 
 Chiunque in Libia e nell'Africa Orientale Italiana accaparra, incetta o comunque sottrae al consumo normale materie prime, generi alimentari di prima necessita' o altra merce di uso comune e' punito, salvo che il fatto costituisca reato piu' grave, con la reclusione fino a due anni o con la multa fino a lire cinquemila. 
  
- Se il fatto e' commesso nell'esercizio del commercio od industria, la reclusione e' da uno a cinque anni e la multa da lire tremila a ventimila. Nei casi di particolare gravita', la pena puo' essere aumentata fino alla meta', ferina rimanendo, per la multa, la disposizione dell'[art. 24, comma terzo, del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Se il fatto e' commesso nell'esercizio del commercio od industria, la reclusione e' da uno a cinque anni e la multa da lire tremila a ventimila. Nei casi di particolare gravita', la pena puo' essere aumentata fino alla meta', ferina rimanendo, per la multa, la disposizione dell'[art. 24, comma terzo, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 

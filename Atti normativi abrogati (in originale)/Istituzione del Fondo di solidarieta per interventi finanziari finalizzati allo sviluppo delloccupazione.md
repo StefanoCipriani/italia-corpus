@@ -36,7 +36,7 @@ E' istituito presso l'Istituto mobiliare italiano - I.M.I. il "Fondo di solidari
 
 ## Art. 2.
 
-Nei primi dodici mesi a decorrere dall'inizio di funzionamento del Fondo, gli interventi sono diretti allo sviluppo dei settori economici nei territori di cui all'art. 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
+Nei primi dodici mesi a decorrere dall'inizio di funzionamento del Fondo, gli interventi sono diretti allo sviluppo dei settori economici nei territori di cui all'art. 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
  Le proposte di intervento, formulate dal consiglio di amministrazione del Fondo, sono sottoposte al parere del CIPE.
  Per gli anni successivi al 30 giugno 1981 potranno essere stabiliti interventi di natura diversa ed individuate altre aree di operativita' del Fondo su proposta del CIPE, sentite le organizzazioni sindacali dei lavoratori.
 

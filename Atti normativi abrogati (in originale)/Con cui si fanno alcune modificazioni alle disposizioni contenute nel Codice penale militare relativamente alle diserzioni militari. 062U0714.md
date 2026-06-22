@@ -14,17 +14,17 @@ Sara' in facolta' del Comandante del Corpo o Distaccamento di dichiarare diserto
 
 ## Art. 2.
 
-La pena della reclusione militare stabilita dall'[art. 130 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per la diserzione all'interno potra' estendersi a due anni, secondo le circostanze. 
+La pena della reclusione militare stabilita dall'[art. 130 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per la diserzione all'interno potra' estendersi a due anni, secondo le circostanze. 
  
  Nei casi previsti dall'art. 133 dello stesso Codice, essa sara' estensibile a tre anni. 
  
- La diserzione all'estero, di cui e' parola nell'[art. 142 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, sara' punita con l'aumento di uno a due gradi a seconda dei casi e delle circostanze.
+ La diserzione all'estero, di cui e' parola nell'[art. 142 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, sara' punita con l'aumento di uno a due gradi a seconda dei casi e delle circostanze.
 
 ## Art. 3.
 
 Il sott'uffiziale, caporale o soldato che sia arrestato oltre i limiti fissati alle guarnigioni, o in difetto di limiti, alla distanza di chilometri 2 dal luogo ove ha stanza il Corpo o Distaccamento, sara' punito col secondo grado del carcere militare. 
  
- Gli [articoli 31](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [32](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [33 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare sono applicabili anche al reato di diserzione.
+ Gli [articoli 31](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [32](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [33 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare sono applicabili anche al reato di diserzione.
 
 ## Art. 4.
 
@@ -42,7 +42,7 @@ Chiunque, sia militare che estraneo alla milizia avra' provocato o consigliato a
  
  In tutti i casi preveduti nel presente articolo le pene dovranno rispettivamente aumentarsi da uno a due gradi quando la provocazione o il consiglio comprenda tre o piu' militari. 
  
- L'alinea dell'[art. 145 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare sara' applicato anche alle persone non militari, che avranno provocato o consigliato ad un reato di diserzione.
+ L'alinea dell'[art. 145 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare sara' applicato anche alle persone non militari, che avranno provocato o consigliato ad un reato di diserzione.
 
 ## Art. 6.
 
@@ -66,7 +66,7 @@ Saranno sottoposte alla giurisdizione militare anche le persone estranee alla mi
 
 ## Art. 10.
 
-Sono sospese quelle disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare che sono contrarie alla presente legge.
+Sono sospese quelle disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare che sono contrarie alla presente legge.
 
 ## Art. 11.
 

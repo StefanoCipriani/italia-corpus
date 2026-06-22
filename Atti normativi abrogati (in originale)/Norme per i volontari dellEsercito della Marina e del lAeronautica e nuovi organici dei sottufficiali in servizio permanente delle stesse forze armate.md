@@ -159,7 +159,7 @@ Nel caso in cui dopo le promozioni a secondo capo in servizio permanente dei vin
 
 Il Ministero della difesa ha facolta' di bandire concorsi per l'arruolamento volontario nel Corpo equipaggi militari marittimi con la ferma di anni tre per anticipo della chiamata alla leva marittima.
 L'espletamento di tale ferma e' utile agli effetti del servizio militare di leva.
- Ai concorsi possono partecipare i giovani in possesso dei requisiti richiesti per l'arruolamento volontario a premio con ferma di anni sei dal testo unico sull'ordinamento del Corpo equipaggi militari marittimi approvato con [regio decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni.
+ Ai concorsi possono partecipare i giovani in possesso dei requisiti richiesti per l'arruolamento volontario a premio con ferma di anni sei dal testo unico sull'ordinamento del Corpo equipaggi militari marittimi approvato con [regio decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni.
  I volontari arruolati ai sensi del presente articolo sono classificati comuni di primo classe all'inizio del nono mese di ferma e sono promossi sottocapi con decorrenza dalla data di inizio del secondo anno di ferma.
  Essi sono scrutinati per l'avanzamento al grado di sergente, con il criterio dell'anzianita', e per corsi di arruolamento, dopo un minimo di 18 mesi di servizio nei limiti dei posti disponibili nella forza organica dei sergenti di cui al precedente articolo 18 e sempre dopo che siano stati promossi i sottocapi volontari in ferma sessennale aventi la stessa anzianita' di servizio.
  Gli idonei sono promossi con decorrenza dal primo del mese successivo alla data di approvazione del relativo quadro di avanzamento.
@@ -172,7 +172,7 @@ Per i sottufficiali gia' volontari della Marina rimasti in servizio oltre i vinc
 
 ## Art. 23.
 
-All'articolo 31 del testo unico sull'ordinamento del C.E.M.M. approvato con [regio decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni, sono apportate le seguenti varianti:
+All'articolo 31 del testo unico sull'ordinamento del C.E.M.M. approvato con [regio decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni, sono apportate le seguenti varianti:
 
  I. - Il primo ed il secondo comma sono sostituiti dal seguente:
  "I comuni ed i sottocapi del Corpo equipaggi militari marittimi di tutte le categorie e specialita' possono, al termine della ferma di leva o entro quattro mesi dalla data di congedo, domandare di essere trattenuti o riammessi in servizio con successivi vincoli di rafferma della durata di un anno, non superiori a sei".

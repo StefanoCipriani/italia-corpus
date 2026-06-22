@@ -28,9 +28,9 @@ E' concessa amnistia e cessano tutti gli effetti penali delle precedenti condann
  
  b) delitti contro la liberta' del lavoro; 
  
- c) delitti di duello preveduti negli [articoli 237](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [238](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [239, n. 3](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [241](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [244 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ c) delitti di duello preveduti negli [articoli 237](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [238](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [239, n. 3](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [241](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [244 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- d) delitti commessi per imprudenza, negligenza o per imperizia nell'arte o professione o per inosservanza di regolamenti, ordini e discipline, purche' non ne siano derivate la morte o lesioni personali prevedute nel [n. 2 dell'articolo 372 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ d) delitti commessi per imprudenza, negligenza o per imperizia nell'arte o professione o per inosservanza di regolamenti, ordini e discipline, purche' non ne siano derivate la morte o lesioni personali prevedute nel [n. 2 dell'articolo 372 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  e) furti di legna commessi nei boschi, quando il valore della cosa rubata non ecceda le lire trenta; 
  
@@ -40,7 +40,7 @@ E' concessa amnistia e cessano tutti gli effetti penali delle precedenti condann
 
 E' altresi' concessa amnistia e cessano tutti gli effetti penali delle precedenti condanne per le seguenti contravvenzioni commesse fino alla data del presente decreto: 
  
- a) contravvenzioni prevedute nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e nel [testo unico della legge di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto del 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (serie 3ª), fatta eccezione, per gli ammoniti, delle contravvenzioni di cui agli [articoli 464](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [465 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e 110 della legge di pubblica sicurezza; 
+ a) contravvenzioni prevedute nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e nel [testo unico della legge di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto del 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (serie 3ª), fatta eccezione, per gli ammoniti, delle contravvenzioni di cui agli [articoli 464](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [465 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e 110 della legge di pubblica sicurezza; 
  
  b) contravvenzioni alle leggi ed ai regolamenti sullo stato civile; 
  

@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 1, n. 7, del regio decreto 14 novembre 1901, n. 466](../Regi%20decreti/Sulle%20attribuzioni%20del%20Consiglio%20dei%20Ministri.%20001U0466.md) sulle attribuzioni del Consiglio dei Ministri;
+Visto l'[art. 1, n. 7, del regio decreto 14 novembre 1901, n. 466](Sulle%20attribuzioni%20del%20Consiglio%20dei%20Ministri.%20001U0466.md) sulle attribuzioni del Consiglio dei Ministri;
 
-Visto l'art. 16, n. 1, del testo unico delle leggi sul Consiglio di Stato, approvato con il [regio decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md);
+Visto l'art. 16, n. 1, del testo unico delle leggi sul Consiglio di Stato, approvato con il [regio decreto 26 giugno 1924, n. 1054](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md);
 
-Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
+Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per gli affari esteri; Decreta:
 
 ## Art. 1.
 
-Per l'ammissione, alla carriera diplomatico-consolare si osservano le norme del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e quelle contenute nel [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), di esecuzione dello stesso testo unico, salvo quanto disposto dai successivi articoli.
+Per l'ammissione, alla carriera diplomatico-consolare si osservano le norme del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e quelle contenute nel [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), di esecuzione dello stesso testo unico, salvo quanto disposto dai successivi articoli.
 
 ## Art. 2.
 
@@ -41,7 +41,7 @@ diplomatiche e consolari o in economia e commercio, conseguita presso una Univer
 
 ## Art. 3.
 
-Il requisito dell'attitudine professionale di cui all'art. 223, lettera b), del testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' accertato mediante colloquio nel quale gli aspiranti debbono dar prova della propria attitudine di orientamento e di valutazione in relazione ai principali problemi internazionali. 
+Il requisito dell'attitudine professionale di cui all'art. 223, lettera b), del testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' accertato mediante colloquio nel quale gli aspiranti debbono dar prova della propria attitudine di orientamento e di valutazione in relazione ai principali problemi internazionali. 
  Il colloquio si svolge con una Commissione nominata con decreto del Ministro per gli affari esteri e composta di un presidente, scelto fra gli Ambasciatori e gli Inviati straordinari e Ministri plenipotenziari di 1a classe a riposo, di un consigliere di Stato, di un funzionario della carriera diplomatico-consolare di grado non inferiore a consigliere di Ambasciata e di un membro esperto di problemi internazionali scelto fra i professori titolari di Universita'. Le funzioni di segretario sono affidate ad un funzionario della carriera diplomatico-consolare di grado non inferiore a primo segretario di Legazione. 
  La risoluzione della Commissione con cui e' riconosciuta la mancanza del requisito dell'attitudine professionale deve essere motivata.
 
@@ -49,7 +49,7 @@ Il requisito dell'attitudine professionale di cui all'art. 223, lettera b), del 
 
 Il termine per la presentazione delle domande di ammissione non puo' essere inferiore a sessanta giorni dalla data di pubblicazione del decreto che bandisce il concorso.
  Nella domanda gli aspiranti al concorso debbono dichiarare le eventuali condanne penali riportate anche all'estero e i procedimenti penali pendenti in Italia o all'estero; devono inoltre dichiarare le invalidita' e le infermita' di cui siano eventualmente affetti e le cause che le hanno determinate.
- La domanda deve essere corredata dei documenti attestanti l'esito della visita di leva e la posizione nei riguardi degli obblighi militari, nonche' del certificato medico attestante il possesso del requisito di cui all'art. 223, lettera a), del testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ La domanda deve essere corredata dei documenti attestanti l'esito della visita di leva e la posizione nei riguardi degli obblighi militari, nonche' del certificato medico attestante il possesso del requisito di cui all'art. 223, lettera a), del testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 Il possesso di tale requisito puo' essere accertato con visita medica di controllo da parte della Amministrazione in qualsiasi momento.
  Qualora il candidato risieda all'estero, la firma in calce alla domanda deve essere autenticata dalla competente autorita' diplomatica o consolare italiana.
 

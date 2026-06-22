@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'[art 63 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), riguardante l'ordinamento dell'esercizio di Stato delle ferrovie non concesse ed imprese private, modificato dal [Regio decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
+Visto l'[art 63 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), riguardante l'ordinamento dell'esercizio di Stato delle ferrovie non concesse ed imprese private, modificato dal [Regio decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
 
-Visto il [Regio decreto 22 giugno 1916, n. 755](../Regi%20decreti/Concernente%20listituzione%20del%20Ministero%20dellindustria%20del%20commercio%20e%20del%20lavoro.%20016U0755.md), con il quale il Ministero dell'agricoltura, industria e commercio e' stato diviso in due parti l'una relativa all'agricoltura, e l'altra concernente l'industria, il commercio e il lavoro;
+Visto il [Regio decreto 22 giugno 1916, n. 755](Concernente%20listituzione%20del%20Ministero%20dellindustria%20del%20commercio%20e%20del%20lavoro.%20016U0755.md), con il quale il Ministero dell'agricoltura, industria e commercio e' stato diviso in due parti l'una relativa all'agricoltura, e l'altra concernente l'industria, il commercio e il lavoro;
 
 Visto il [Regio decreto-legge, n. 700 del 3 giugno 1920](Che%20istituisce%20il%20Ministero%20per%20il%20lavoro%20previdenza%20sociale%20stabilendone%20la%20competenza.%20020U0700.md), che istituisce il Ministero per il lavoro e la previdenza sociale;
 

@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Nel contratto che venga eventualmente stipulato con l'Ente nazionale per le industrie turistiche a norme dell'art. 8 del regolamento approvato col [R. decreto 21 agosto 1922, n. 1522](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lapplicazione%20del%20decreto-legge%203%20giugno%201920%20n.%20862%20relativo%20alle%20tasse%20dingresso%20nei%20monumenti%20nei%20musei%20nelle%20gallerie%20e%20negli%20scavi%20di%20antichita.%20022U1522.md), per la vendita delle tessere di abbonamento, sara' stabilito che la percentuale spettante all'Ente sulle somme incassate sia da esso direttamente trattenuta sulle somme stesse. 
+Nel contratto che venga eventualmente stipulato con l'Ente nazionale per le industrie turistiche a norme dell'art. 8 del regolamento approvato col [R. decreto 21 agosto 1922, n. 1522](Che%20approva%20il%20regolamento%20per%20lapplicazione%20del%20decreto-legge%203%20giugno%201920%20n.%20862%20relativo%20alle%20tasse%20dingresso%20nei%20monumenti%20nei%20musei%20nelle%20gallerie%20e%20negli%20scavi%20di%20antichita.%20022U1522.md), per la vendita delle tessere di abbonamento, sara' stabilito che la percentuale spettante all'Ente sulle somme incassate sia da esso direttamente trattenuta sulle somme stesse. 
  
  Le condizioni per la gestione da parte dell'Ente, per la resa dei conti e per il versamento delle somme spettanti all'Erario, saranno determinate nel relativo contratto, anche in deroga alle disposizioni della legge e del regolamento di contabilita' generale dello Stato.
 

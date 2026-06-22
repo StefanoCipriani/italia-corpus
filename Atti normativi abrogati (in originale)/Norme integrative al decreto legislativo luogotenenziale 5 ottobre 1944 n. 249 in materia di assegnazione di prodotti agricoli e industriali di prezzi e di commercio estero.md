@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 5 ottobre 1944, n. 249](../Decreti%20legislativi%20luogotenenziali/Assetto%20della%20legislazione%20nei%20territori%20liberati.%20044U0249.md), concernente l'assetto della legislazione nei territori liberati;
+Visto il [decreto legislativo luogotenenziale 5 ottobre 1944, n. 249](Assetto%20della%20legislazione%20nei%20territori%20liberati.%20044U0249.md), concernente l'assetto della legislazione nei territori liberati;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -31,7 +31,7 @@ Sono convalidati i seguenti atti e provvedimenti emanati sotto l'impero della se
 
 ## Art. 2.
 
-Le disposizioni dell'[art. 6 del decreto legislativo luogotenenziale 5 ottobre 1944, n. 249](../Decreti%20legislativi%20luogotenenziali/Assetto%20della%20legislazione%20nei%20territori%20liberati.%20044U0249.md), si applicano anche alle sentenze emesse in materia di infrazione alle norme sui prezzi dal tribunale costituito con la partecipazione di un esperto come terzo giudice, in base a disposizioni emanate sotto l'impero della sedicente repubblica sociale.
+Le disposizioni dell'[art. 6 del decreto legislativo luogotenenziale 5 ottobre 1944, n. 249](Assetto%20della%20legislazione%20nei%20territori%20liberati.%20044U0249.md), si applicano anche alle sentenze emesse in materia di infrazione alle norme sui prezzi dal tribunale costituito con la partecipazione di un esperto come terzo giudice, in base a disposizioni emanate sotto l'impero della sedicente repubblica sociale.
 
 ## Art. 3.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [Regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
+Visto il [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
 Visto il [Regio decreto 12 ottobre 1924, n. 1575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1575);
 
@@ -28,7 +28,7 @@ E' abrogato il [secondo comma dell'art. 2 del Regio decreto 12 ottobre 1924, n. 
 
 ## Art. 2.
 
-Nei ruoli organici del personale dell'Amministrazione centrale delle finanze e delle Intendenze, del Provveditorato generale dello Stato, delle Delegazioni del tesoro e della Corte dei conti, approvati rispettivamente con le tabelle numeri 1, 3, 5 e 7 dell'allegato II al [Regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono introdotte le variazioni risultanti dalle tabelle numeri 1, 2 e 3, allegate al presente decreto, viste, d'ordine Nostro, dal Ministro proponente.
+Nei ruoli organici del personale dell'Amministrazione centrale delle finanze e delle Intendenze, del Provveditorato generale dello Stato, delle Delegazioni del tesoro e della Corte dei conti, approvati rispettivamente con le tabelle numeri 1, 3, 5 e 7 dell'allegato II al [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono introdotte le variazioni risultanti dalle tabelle numeri 1, 2 e 3, allegate al presente decreto, viste, d'ordine Nostro, dal Ministro proponente.
 
 ## Art. 3.
 
@@ -64,9 +64,9 @@ In conseguenza del trasferimento dell'Officina delle carte-valori da Torino a Ro
  
  Agli operai esonerati, in base all'applicazione del precedente comma, i quali abbiano non meno di venti anni di servizio, sara' applicato il trattamento di quiescenza stabilito all'[articolo 2 ed al primo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-11-16;1613#art_2-com1) dell'[articolo 3 del Regio decreto 16 novembre 1922, n. 1613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-11-16;1613#art_3), riguardante il collocamento a riposo degli operai delle manifatture dei tabacchi, facendo astrazione dai limiti di eta' fissati nell'articolo 1 del decreto medesimo. 
  
- Agli altri operai che contino meno di venti anni di servizio e' concesso il trattamento stabilito, per gli operai delle amministrazioni militari, col [Regio decreto 19 aprile 1923, n. 945](../Regi%20decreti/Concernente%20la%20nuova%20organizzazione%20della%20mano%20dopera%20dipendente%20dalle%20Amministrazioni%20militari.%20023U0945.md), e successive modificazioni. 
+ Agli altri operai che contino meno di venti anni di servizio e' concesso il trattamento stabilito, per gli operai delle amministrazioni militari, col [Regio decreto 19 aprile 1923, n. 945](Concernente%20la%20nuova%20organizzazione%20della%20mano%20dopera%20dipendente%20dalle%20Amministrazioni%20militari.%20023U0945.md), e successive modificazioni. 
  
- Resta, tuttavia, ferma, ove piu' favorevole, l'applicazione delle disposizioni inerenti al trattamento di quiescenza per gli operai dell'Officina predetta, stabilito con la [legge 7 luglio 1905, n. 354](Pensioni%20agli%20operai%20dellOfficina%20governativa%20delle%20carte-valori.%20005U0354.md) e col [Regio decreto 17 aprile 1921, n. 796](../Regi%20decreti/Che%20approva%20il%20regolamento%20sui%20servizi%20e%20sul%20funzionamento%20della%20R.%20Zecca%20di%20Roma%20e%20dellOfficina%20governativa%20carte-valori%20di%20Torino.%20021U0796.md), e successive modificazioni.
+ Resta, tuttavia, ferma, ove piu' favorevole, l'applicazione delle disposizioni inerenti al trattamento di quiescenza per gli operai dell'Officina predetta, stabilito con la [legge 7 luglio 1905, n. 354](Pensioni%20agli%20operai%20dellOfficina%20governativa%20delle%20carte-valori.%20005U0354.md) e col [Regio decreto 17 aprile 1921, n. 796](Che%20approva%20il%20regolamento%20sui%20servizi%20e%20sul%20funzionamento%20della%20R.%20Zecca%20di%20Roma%20e%20dellOfficina%20governativa%20carte-valori%20di%20Torino.%20021U0796.md), e successive modificazioni.
 
 ## Art. 8.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il testo unico di legge sulle pensioni approvato con [Regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
+Veduto il testo unico di legge sulle pensioni approvato con [Regio decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
 
 Vedute le [leggi 22 gennaio 1865, n. 2119](Colla%20quale%20e%20assegnata%20una%20pensione%20vitalizia%20a%20ciascuno%20dei%20Mille%20fregiati%20della%20medaglia%20donore%20a%20ricordo%20della%20spedizione%20di%20Marsala.%20065U2119.md), sulla pensione vitalizia ai Mille di Marsala e 4 dicembre 1879, n. 5168, serie II, sugli assegni di ricompensa nazionale, e successive modificazioni ed estensioni;
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di
 
 ## Art. 1.
 
-Gli aumenti concessi con gli articoli 1 a 3 del [Regio decreto 21 novembre 1923, n. 2477](../Regi%20decreti/Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md), sono elevati al centosettanta per cento sulle prime lire duemila per le pensioni o assegni diretti e sulle prime settecento lire per le pensioni o assegni di riversibilita' e al cinquanta per cento sulla rimanente parte.
+Gli aumenti concessi con gli articoli 1 a 3 del [Regio decreto 21 novembre 1923, n. 2477](Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md), sono elevati al centosettanta per cento sulle prime lire duemila per le pensioni o assegni diretti e sulle prime settecento lire per le pensioni o assegni di riversibilita' e al cinquanta per cento sulla rimanente parte.
 
 ## Art. 2.
 
@@ -67,13 +67,13 @@ Le disposizioni dei precedenti articoli 4 e 5 si applicano anche per le pensioni
 
 ## Art. 7.
 
-Gli aumenti di pensione al personale della Real Casa, di cui al [primo comma dell'articolo 5 del Regio decreto 21 novembre 1923, n. 2477](../Regi%20decreti/Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md), sono elevati al centoquaranta per cento sulle prime lire duemila delle pensioni dirette e sulle prime lire settecento delle pensioni od assegni di riversibilita' e al quaranta per cento sulla rimanente parte. 
+Gli aumenti di pensione al personale della Real Casa, di cui al [primo comma dell'articolo 5 del Regio decreto 21 novembre 1923, n. 2477](Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md), sono elevati al centoquaranta per cento sulle prime lire duemila delle pensioni dirette e sulle prime lire settecento delle pensioni od assegni di riversibilita' e al quaranta per cento sulla rimanente parte. 
  
  Qualora la cessazione dal servizio abbia avuto luogo posteriormente al 31 maggio 1919, l'aumento calcolato come al comma precedente, e' diminuito di un quarantesimo per ogni bimestre successivo.
 
 ## Art. 8.
 
-Gli aumenti sulle pensioni ed assegni diretti e di riversibilita' dei sottufficiali e militari di truppa dei carabinieri Reali, di cui all'[articolo 6 del Regio decreto 21 novembre 1923, n. 2477](../Regi%20decreti/Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md), sono elevati al centottantacinque per cento sulle prime lire duemila delle pensioni od assegni diretti e sulle prime lire settecento delle pensioni od assegni di riversibilita' e al sessantacinque per cento sulla rimanente parte. 
+Gli aumenti sulle pensioni ed assegni diretti e di riversibilita' dei sottufficiali e militari di truppa dei carabinieri Reali, di cui all'[articolo 6 del Regio decreto 21 novembre 1923, n. 2477](Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md), sono elevati al centottantacinque per cento sulle prime lire duemila delle pensioni od assegni diretti e sulle prime lire settecento delle pensioni od assegni di riversibilita' e al sessantacinque per cento sulla rimanente parte. 
  
 ------------- 
 Nota redazionale 
@@ -97,13 +97,13 @@ Nota redazionale
 
 ## Art. 10.
 
-Per i militari di truppa dei carabinieri Reali, di cui al [primo comma dell'articolo 7 del Regio decreto 21 novembre 1923, n. 2477](../Regi%20decreti/Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md), l'aumento e' elevato al centocinquantacinque per cento sulle prime lire duemila, per le pensioni od assegni diretti, e sulle prime lire settecento per le pensioni od assegni di riversibilita' e al cinquantacinque per cento sulla rimanente parte. 
+Per i militari di truppa dei carabinieri Reali, di cui al [primo comma dell'articolo 7 del Regio decreto 21 novembre 1923, n. 2477](Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md), l'aumento e' elevato al centocinquantacinque per cento sulle prime lire duemila, per le pensioni od assegni diretti, e sulle prime lire settecento per le pensioni od assegni di riversibilita' e al cinquantacinque per cento sulla rimanente parte. 
  
  Per i militari di truppa dei carabinieri Reali, cessati dal servizio posteriormente all'ottobre 1919 si applicano sul detto aumento le diminuzioni previste al secondo comma del citato articolo 7, fermo il disposto del terzo comma dell'articolo stesso.
 
 ## Art. 11.
 
-Le pensioni od assegni diretti e di riversibilita' liquidati a carico del Fondo pensioni delle Ferrovie dello Stato per cessazioni dal servizio avvenute a partire dal 1° aprile 1919, quali risultano dopo la riforma di cui all'[articolo 16 del Regio decreto 7 dicembre 1923, n. 2590](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md) e successive modificazioni, sono aumentate come segue: 
+Le pensioni od assegni diretti e di riversibilita' liquidati a carico del Fondo pensioni delle Ferrovie dello Stato per cessazioni dal servizio avvenute a partire dal 1° aprile 1919, quali risultano dopo la riforma di cui all'[articolo 16 del Regio decreto 7 dicembre 1923, n. 2590](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md) e successive modificazioni, sono aumentate come segue: 
  
  a) Se la cessazione dal servizio ha avuto luogo nell'aprile 1919 l'aumento e' del centoquaranta per cento sulle prime lire duemila per le pensioni od assegni diretti e sulle prime lire settecento per le pensioni od assegni di riversibilita', e del quaranta per cento sopra la rimanente parte; 
  
@@ -133,17 +133,17 @@ Fino a quando abbia luogo la corresponsione di assegni mensili di caro viveri a 
 
 ## Art. 14.
 
-All'[articolo 11 del Regio decreto 21 novembre 1923, numero 2477](../Regi%20decreti/Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md), e' aggiunto il seguente comma con effetto dalla entrata in vigore, del decreto stesso: 
+All'[articolo 11 del Regio decreto 21 novembre 1923, numero 2477](Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md), e' aggiunto il seguente comma con effetto dalla entrata in vigore, del decreto stesso: 
  
  «Sulle pensioni od altri assegni ripartiti fra lo Stato e i Comuni, liquidati ad ufficiali, sottufficiali o militi di truppa, del corpo della Regia guardia di finanza, comandati per il servizio del dazio consumo presso i comuni medesimi, l'aumento previsto dal presente decreto e gli assegni mensili di caro-viveri di cui al precedente secondo comma sono computati e dovuti come se l'intera pensione od assegno fosse a carico dello Stato».
 
 ## Art. 15.
 
-Gli aumenti di cui al presente decreto sono calcolati sulla base delle pensioni e degli assegni diretti e di riversibilita', senza tener conto degli aumenti concessi col [Regio decreto 21 novembre 1923, n. 2477](../Regi%20decreti/Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md). 
+Gli aumenti di cui al presente decreto sono calcolati sulla base delle pensioni e degli assegni diretti e di riversibilita', senza tener conto degli aumenti concessi col [Regio decreto 21 novembre 1923, n. 2477](Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md). 
  
  Per determinare gli aumenti di cui al presente decreto e per stabilire, con gli aumenti stessi, le nuove pensioni e i nuovi assegni, si trascurano, sulla pensione e sull'assegno base, le frazioni di cinquanta lire. 
  
- Negli aumenti stabiliti dal presente decreto restano assorbiti quelli di cui al citato [Regio decreto 21 novembre 1923, n. 2477](../Regi%20decreti/Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md).
+ Negli aumenti stabiliti dal presente decreto restano assorbiti quelli di cui al citato [Regio decreto 21 novembre 1923, n. 2477](Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md).
 
 ## Art. 16.
 
@@ -153,7 +153,7 @@ Coloro che, per richiamo in servizio o per altro motivo, abbiano ottenuto piu' l
  
  Per gli ufficiali, di cui nel precedente comma, che siano stati richiamati in servizio dal congedo provvisorio, si considera come data di cessazione quella dell'ultimo rinvio in congedo, purche' il richiamo abbia durato complessivamente almeno diciotto mesi. 
  
- Per l'aumento delle pensioni di riposo liquidate e da liquidarsi agli ufficiali collocati in posizione ausiliaria speciale, cui fu assegnata la pensione provvisoria ai sensi del [Regio decreto 9 luglio 1923, n. 1561](../Regi%20decreti/Disposizioni%20relative%20agli%20ufficiali%20in%20posizione%20ausiliaria%20speciale.%20023U1561.md), e delle relative pensioni di riversibilita', si considera come data di cessazione dal servizio quella del 30 giugno 1923.
+ Per l'aumento delle pensioni di riposo liquidate e da liquidarsi agli ufficiali collocati in posizione ausiliaria speciale, cui fu assegnata la pensione provvisoria ai sensi del [Regio decreto 9 luglio 1923, n. 1561](Disposizioni%20relative%20agli%20ufficiali%20in%20posizione%20ausiliaria%20speciale.%20023U1561.md), e delle relative pensioni di riversibilita', si considera come data di cessazione dal servizio quella del 30 giugno 1923.
 
 ## Art. 17.
 
@@ -167,23 +167,23 @@ Gli aumenti di pensioni o di assegni stabiliti dal presente decreto sono liquida
 
 ## Art. 18.
 
-Agli effetti dell'applicazione dell'[articolo 11 del Regio decreto 30 dicembre 1923, n. 2835](../Regi%20decreti/Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), si tiene conto anche degli aumenti spettanti, a norma delle disposizioni contenute nel presente decreto, sulle pensioni che risulterebbero dovute considerando la cessazione dal servizio come avvenuta al 31 dicembre 1923. 
+Agli effetti dell'applicazione dell'[articolo 11 del Regio decreto 30 dicembre 1923, n. 2835](Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), si tiene conto anche degli aumenti spettanti, a norma delle disposizioni contenute nel presente decreto, sulle pensioni che risulterebbero dovute considerando la cessazione dal servizio come avvenuta al 31 dicembre 1923. 
  
  La precedente disposizione si estende anche al personale che abbia cessato dal servizio anteriormente al 1° aprile 1925. 
  
- Gli aumenti previsti dal presente decreto si applicano anche alle pensioni i cui titolari abbiano fruito del disposto dell'articolo 12 del citato [Regio decreto 30 dicembre 1923, n. 2835](../Regi%20decreti/Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), esteso con l'[articolo 22 del Regio decreto 8 maggio 1925, n. 779](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-08;779#art_22).
+ Gli aumenti previsti dal presente decreto si applicano anche alle pensioni i cui titolari abbiano fruito del disposto dell'articolo 12 del citato [Regio decreto 30 dicembre 1923, n. 2835](Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), esteso con l'[articolo 22 del Regio decreto 8 maggio 1925, n. 779](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-08;779#art_22).
 
 ## Art. 19.
 
-I ricorsi contro le liquidazioni di cui al secondo comma del precedente articolo 17, o contro la mancata concessione degli aumenti di pensione da parte degli uffici indicati nel comma stesso, devono essere presentati, a pena di decadenza, entro il 31 dicembre 1925, alla Corte dei conti, la quale provvede nei modi indicati all'[articolo 4 del Regio decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md).
+I ricorsi contro le liquidazioni di cui al secondo comma del precedente articolo 17, o contro la mancata concessione degli aumenti di pensione da parte degli uffici indicati nel comma stesso, devono essere presentati, a pena di decadenza, entro il 31 dicembre 1925, alla Corte dei conti, la quale provvede nei modi indicati all'[articolo 4 del Regio decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md).
 
 ## Art. 20.
 
-Agli aumenti di pensione di cui ai precedenti articoli sono applicabili le norme del [Regio decreto 21 novembre 1923, n. 2477](../Regi%20decreti/Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md) e successive modificazioni ed estensioni, che non contrastino col presente decreto.
+Agli aumenti di pensione di cui ai precedenti articoli sono applicabili le norme del [Regio decreto 21 novembre 1923, n. 2477](Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md) e successive modificazioni ed estensioni, che non contrastino col presente decreto.
 
 ## Art. 21.
 
-All'[articolo 21 del Regio decreto 2 ottobre 1919, n. 1802](../Regi%20decreti/Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), dopo il primo comma, e' aggiunto il seguente: 
+All'[articolo 21 del Regio decreto 2 ottobre 1919, n. 1802](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), dopo il primo comma, e' aggiunto il seguente: 
  
  «Avranno inoltre diritto a pensione quelli di detti ufficiali che, richiamati o trattenuti per la guerra, abbiano aggiunto complessivamente venti o piu' anni di servizio utile per effetto della loro permanenza alle armi, anche se questa siasi protratta oltre la data della cessazione dello stato di guerra. La pensione agli ufficiali suddetti sara' liquidata sulla base degli assegni dovuti al grado di sottufficiale che essi avrebbero potuto conseguire, in via di normale avanzamento, fine alla data del collocamento in congedo da ufficiale».
 
@@ -217,7 +217,7 @@ Le pensioni dirette e di riversibilita' e gli assegni graziali vitalizi, tempora
 
 ## Art. 25.
 
-E' abrogato con effetto dal 1° luglio 1925, il disposto dall'[articolo 31 del Regio decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md).
+E' abrogato con effetto dal 1° luglio 1925, il disposto dall'[articolo 31 del Regio decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md).
 
 ## Art. 26.
 

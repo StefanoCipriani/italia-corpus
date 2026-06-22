@@ -18,7 +18,7 @@ In virtu' della delegazione dei poteri conferiti al Governo con la [legge 3 dice
 
 Vista la [legge 12 febbraio 1903, n. 50](Costituzione%20di%20un%20consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20003U0050.md), sulla costituzione del Consorzio autonomo del porto di Genova, e il [regolamento 23 febbraio 1913, n. 378](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-02-23;378), per l'esecuzione della medesima;
 
-Visto il testo unico delle leggi sulle pensioni civili e Militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
+Visto il testo unico delle leggi sulle pensioni civili e Militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
 
 Vista la [legge 29 gennaio 1885, n. 2897](Che%20stabilisce%20per%20gli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marineria%20la%20posizione%20di%20servizio%20ausiliario.%20085U2897.md) (serie 3ª) sulla attuazione del servizio ausiliario degli ufficiali della R. marina;
 

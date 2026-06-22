@@ -197,7 +197,7 @@ Con decreto del Ministro dell'interno, da emanare entro sessanta giorni dalla da
 
 7.
 
-Gli articoli 31 e seguenti del capo IV del [regio decreto 21 marzo 1929, n. 371](../Regi%20decreti/Norme%20integrative%20ed%20esecutive%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20sullo%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20029U0371.md), e le disposizioni in contrasto con le norme di cui al presente articolo sono abrogati.
+Gli articoli 31 e seguenti del capo IV del [regio decreto 21 marzo 1929, n. 371](Norme%20integrative%20ed%20esecutive%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20sullo%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20029U0371.md), e le disposizioni in contrasto con le norme di cui al presente articolo sono abrogati.
 
 ## Art. 8. — Disposizioni concernenti le tasse di concorso
  e i diritti di segreteria

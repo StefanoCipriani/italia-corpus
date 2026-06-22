@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle leggi sulla riscossione delle imposte dirette, approvato con [regio decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e le successive modificazioni;
+Visto il testo unico delle leggi sulla riscossione delle imposte dirette, approvato con [regio decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e le successive modificazioni;
 
-Visto il regolamento per l'esecuzione del testo unico anzidetto, approvato con [regio decreto 15 settembre 1923, n. 2090](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20riscossione%20delle%20imposte%20dirette.%20023U2090.md);
+Visto il regolamento per l'esecuzione del testo unico anzidetto, approvato con [regio decreto 15 settembre 1923, n. 2090](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20riscossione%20delle%20imposte%20dirette.%20023U2090.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -31,7 +31,7 @@ In deroga alle vigenti norme sul conferimento di esattorie delle imposte dirette
 
 ## Art. 2.
 
-I delegati governativi di cui all'articolo precedente sono nominati con decreto del Ministro per le finanze tra i funzionari dell' Amministrazione finanziaria, in attivita' di servizio od a riposo, ed hanno gli stessi obblighi di quelli nominati ai sensi dell'art. 23 del regolamento sulla riscossione, approvato con [regio decreto 15 settembre 1923, n. 2090](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20riscossione%20delle%20imposte%20dirette.%20023U2090.md).
+I delegati governativi di cui all'articolo precedente sono nominati con decreto del Ministro per le finanze tra i funzionari dell' Amministrazione finanziaria, in attivita' di servizio od a riposo, ed hanno gli stessi obblighi di quelli nominati ai sensi dell'art. 23 del regolamento sulla riscossione, approvato con [regio decreto 15 settembre 1923, n. 2090](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20riscossione%20delle%20imposte%20dirette.%20023U2090.md).
  Nel decreto di nomina, o con decreti successivi, sono stabilite la misura dell'aggio di riscossione e la retribuzione da assegnarsi ai delegati in misura fissa mensile.
  I delegati possono in ogni tempo essere revocati e costituiti con decreto del Ministro per le finanze.
 

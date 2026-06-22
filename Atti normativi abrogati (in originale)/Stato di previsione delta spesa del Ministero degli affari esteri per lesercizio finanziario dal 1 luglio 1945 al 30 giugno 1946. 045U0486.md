@@ -30,7 +30,7 @@ E' autorizzato il pagamento delle spese ordinarie e straordinarie del Ministero 
 
 ## Art. 2.
 
-I capitoli a favore dei quali possono effettuarsi prelevamenti dal fondo a disposizione, di cui all'[articolo 8 del R. decreto legge 29 dicembre 1933, n. 1713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-29;1713#art_8), convertito nella [legge 3 aprile 1933, n. 319](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2029%20dicembre%201932%20n.%201713%20concernente%20variazioni%20allo%20stato%20di%20previsione%20dellentrata%20e%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20per%20lesercizio%20f_e1af42586c1c.md), sono stabiliti, per l'esercizio finanziario 1945-46, come dall'elenco annesso al presente decreto.
+I capitoli a favore dei quali possono effettuarsi prelevamenti dal fondo a disposizione, di cui all'[articolo 8 del R. decreto legge 29 dicembre 1933, n. 1713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-29;1713#art_8), convertito nella [legge 3 aprile 1933, n. 319](Conversione%20in%20legge%20del%20R.%20decreto-legge%2029%20dicembre%201932%20n.%201713%20concernente%20variazioni%20allo%20stato%20di%20previsione%20dellentrata%20e%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20per%20lesercizio%20f_e1af42586c1c.md), sono stabiliti, per l'esercizio finanziario 1945-46, come dall'elenco annesso al presente decreto.
 
 ## Art. 3.
 

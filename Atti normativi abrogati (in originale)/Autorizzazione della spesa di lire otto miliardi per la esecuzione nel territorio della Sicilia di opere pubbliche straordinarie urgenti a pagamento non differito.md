@@ -28,7 +28,7 @@ E' autorizzata la spesa di lire otto miliardi per l'esecuzione, nel territorio d
 
 A carico della somma autorizzata in base al precedente articolo, potranno essere assunti impegni per le seguenti categorie di opere:
  a) per la riparazione dei danni di guerra;
- b) per la costruzione di alloggi per dar ricovero alle persone rimaste senza tetto in seguito agli eventi bellici, in applicazione del [decreto legislativo luogotenenziale 9 giugno 1945, n. 305](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20seguito%20ad%20eventi%20bellici.%20045U0305.md);
+ b) per la costruzione di alloggi per dar ricovero alle persone rimaste senza tetto in seguito agli eventi bellici, in applicazione del [decreto legislativo luogotenenziale 9 giugno 1945, n. 305](Testo%20unico%20delle%20disposizioni%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20seguito%20ad%20eventi%20bellici.%20045U0305.md);
  c) per l'esecuzione di opere pubbliche varie di carattere straordinario;
  d) per i lavori di completamento e di nuova costruzione di fabbricati di proprieta' dell'Incis e degli Istituti autonomi per le case popolari.
 
@@ -42,8 +42,8 @@ I lavori di cui ai precedenti articoli, sono dichiarati urgenti ed indifferibili
 
 ## Art. 5.
 
-Per l'esecuzione dei lavori di competenza degli enti di cui, all'art. 1 del presente decreto, si applicano le disposizioni di cui agli [articoli 2](../Decreti%20legislativi%20luogotenenziali/Esecuzione%20di%20opere%20pubbliche%20straordinarie%20nella%20Sicilia.%20045U0675.md), [3](../Decreti%20legislativi%20luogotenenziali/Esecuzione%20di%20opere%20pubbliche%20straordinarie%20nella%20Sicilia.%20045U0675.md) e [4 del decreto legislativo luogotenenziale 22 settembre 1945, n. 675](../Decreti%20legislativi%20luogotenenziali/Esecuzione%20di%20opere%20pubbliche%20straordinarie%20nella%20Sicilia.%20045U0675.md).
- Per i lavori di completamento e di nuova costruzione di fabbricati di proprieta' degli enti di cui all'art. 2 lettera d), del presente decreto, si applicano le disposizioni degli [articoli 2](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20per%20favorire%20lattivita%20costruttiva%20dellI.N.C.I.S.%20degli%20Istituti%20per%20le%20case%20popolari%20e%20dellEnte%20edilizio%20di%20Reggio%20Calabria.%20045U0637.md) e [3 del decreto legislativo luogotenenziale 22 settembre 1945, n. 637](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20per%20favorire%20lattivita%20costruttiva%20dellI.N.C.I.S.%20degli%20Istituti%20per%20le%20case%20popolari%20e%20dellEnte%20edilizio%20di%20Reggio%20Calabria.%20045U0637.md), e successive modificazioni.
+Per l'esecuzione dei lavori di competenza degli enti di cui, all'art. 1 del presente decreto, si applicano le disposizioni di cui agli [articoli 2](Esecuzione%20di%20opere%20pubbliche%20straordinarie%20nella%20Sicilia.%20045U0675.md), [3](Esecuzione%20di%20opere%20pubbliche%20straordinarie%20nella%20Sicilia.%20045U0675.md) e [4 del decreto legislativo luogotenenziale 22 settembre 1945, n. 675](Esecuzione%20di%20opere%20pubbliche%20straordinarie%20nella%20Sicilia.%20045U0675.md).
+ Per i lavori di completamento e di nuova costruzione di fabbricati di proprieta' degli enti di cui all'art. 2 lettera d), del presente decreto, si applicano le disposizioni degli [articoli 2](Disposizioni%20per%20favorire%20lattivita%20costruttiva%20dellI.N.C.I.S.%20degli%20Istituti%20per%20le%20case%20popolari%20e%20dellEnte%20edilizio%20di%20Reggio%20Calabria.%20045U0637.md) e [3 del decreto legislativo luogotenenziale 22 settembre 1945, n. 637](Disposizioni%20per%20favorire%20lattivita%20costruttiva%20dellI.N.C.I.S.%20degli%20Istituti%20per%20le%20case%20popolari%20e%20dellEnte%20edilizio%20di%20Reggio%20Calabria.%20045U0637.md), e successive modificazioni.
 
 ## Art. 6.
 

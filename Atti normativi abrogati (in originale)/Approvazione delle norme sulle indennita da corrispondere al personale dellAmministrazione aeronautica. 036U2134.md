@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 23 ottobre 1921, n. 1555](../Regi%20decreti/Che%20modifica%20il%20comma%202%20dellart.%205%20del%20decreto%20Luogotenenziale%2014%20settembre%201918%20n.%201311%20sulle%20indennita%20di%20soggiorno%20e%20trasferimento.%20021U1555.md), sulla indennita' di soggiorno e trasferimento;
+Visto il [R. decreto 23 ottobre 1921, n. 1555](Che%20modifica%20il%20comma%202%20dellart.%205%20del%20decreto%20Luogotenenziale%2014%20settembre%201918%20n.%201311%20sulle%20indennita%20di%20soggiorno%20e%20trasferimento.%20021U1555.md), sulla indennita' di soggiorno e trasferimento;
 
 Visto il decreto commissariale 27 giugno 1924, sulla indennita' da corrispondere al personale addetto ai servizi dell'Aeronautica;
 

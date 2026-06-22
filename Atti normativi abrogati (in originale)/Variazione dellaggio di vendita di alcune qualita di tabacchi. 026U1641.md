@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla facolta' del potere esecutivo di emanare norme giuridiche;
 
-Visto il [R. decreto 31 dicembre 1922, n. 1805](../Regi%20decreti/Relativo%20al%20prezzo%20di%20vendita%20ai%20rivenditori%20dei%20tabacchi%20nazionali%20ed%20esteri%20e%20dei%20prodotti%20secondari.%20022U1805.md);
+Visto il [R. decreto 31 dicembre 1922, n. 1805](Relativo%20al%20prezzo%20di%20vendita%20ai%20rivenditori%20dei%20tabacchi%20nazionali%20ed%20esteri%20e%20dei%20prodotti%20secondari.%20022U1805.md);
 
 Ritenuta la necessita' assoluta ed urgente di variare la misura dell'aggio di vendita sullo smercio dei tabacchi fini nazionali ed esteri;
 

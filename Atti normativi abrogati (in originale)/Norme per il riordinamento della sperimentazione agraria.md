@@ -244,7 +244,7 @@ Lo Stato cessa di far parte dei consorzi relativi alle stazioni sperimentali agr
 
 ### Art. 29.
 
-Il Ministero dell'agricoltura e delle foreste, sentito il parere del comitato nazionale della sperimentazione agraria, ha facolta' di finanziare, sulla base di apposite convenzioni, programmi di ricerca e di sperimentazione agraria formulati, anche nell'ambito di ricerche collegiali, da istituti universitari che si occupino di discipline interessanti l'agricoltura. E' abrogato l'[art. 43 del regio decreto-legge 25 novembre 1929, n. 2226](Provvedimenti%20per%20le%20stazioni%20sperimentali%20agrarie.%20029U2226.md), convertito con la [legge 5 giugno 1930, n. 951](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2025%20novembre%201929%20n.%202226%20concernente%20provvedimenti%20per%20le%20Stazioni%20sperimentali%20agrarie%20030U0951.md).
+Il Ministero dell'agricoltura e delle foreste, sentito il parere del comitato nazionale della sperimentazione agraria, ha facolta' di finanziare, sulla base di apposite convenzioni, programmi di ricerca e di sperimentazione agraria formulati, anche nell'ambito di ricerche collegiali, da istituti universitari che si occupino di discipline interessanti l'agricoltura. E' abrogato l'[art. 43 del regio decreto-legge 25 novembre 1929, n. 2226](Provvedimenti%20per%20le%20stazioni%20sperimentali%20agrarie.%20029U2226.md), convertito con la [legge 5 giugno 1930, n. 951](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2025%20novembre%201929%20n.%202226%20concernente%20provvedimenti%20per%20le%20Stazioni%20sperimentali%20agrarie%20030U0951.md).
 
 ### Art. 30.
 
@@ -382,7 +382,7 @@ Gli istituti di ricerca e di sperimentazione agraria provvedono ai loro fini:
 L'anno finanziario degli istituti di ricerca e di sperimentazione agraria comincia il primo gennaio e termina il 31 dicembre.
  Il bilancio di previsione, deliberato dal consiglio di amministrazione entro il 15 novembre dell'anno precedente a quello cui il bilancio stesso si riferisce, insieme alla relazione del collegio dei revisori, e' trasmesso per l'approvazione non oltre i successivi 15 giorni al Ministero dell'agricoltura e delle foreste.
  Il conto consuntivo deliberato dal consiglio di amministrazione entro il 15 marzo dell'anno successivo cui il conto medesimo si riferisce, insieme alla relazione del collegio dei revisori, e' trasmesso per l'approvazione, non oltre i successivi 15 giorni, al Ministero dell'agricoltura e delle foreste.
- Resta fermo il disposto dell'art. 31 del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md).
+ Resta fermo il disposto dell'art. 31 del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md).
 
 ### Art. 45.
 
@@ -485,7 +485,7 @@ I direttori straordinari sono nominati per la durata di tre anni.
  La nomina ad ordinario alla quarta classe di stipendio (ex coefficiente 700) ha effetto dal giorno successivo a quello del compimento del triennio ed eventualmente del quinquennio di servizio effettivo come direttore straordinario.
  I direttori ordinari conseguono la terza classe di stipendio (ex coefficiente 800) dopo sei anni di permanenza nella quarta classe di stipendio.
  I direttori ordinari conseguono la seconda classe di stipendio (ex coefficiente 970) e la prima classe di stipendio (ex coefficiente 1040) dopo cinque anni di permanenza nella classe di stipendio immediatamente inferiore.
- Nei riguardi dei direttori degli istituti di ricerca e di sperimentazione agraria continuano ad applicarsi le disposizioni particolari di cui agli articoli 309, 310, 311 e 312 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ Nei riguardi dei direttori degli istituti di ricerca e di sperimentazione agraria continuano ad applicarsi le disposizioni particolari di cui agli articoli 309, 310, 311 e 312 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ### Art. 58.
 
@@ -564,7 +564,7 @@ Gli stipendi spettanti al personale delle carriere direttive scientifiche degli 
 
 ### Art. 67.
 
-La nomina a preparatore si consegue mediante pubblico concorso, al quale sono ammessi a partecipare coloro che abbiano compiuto gli studi di istruzione obbligatoria e siano in possesso degli altri requisiti generali stabiliti dall'art. 2 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+La nomina a preparatore si consegue mediante pubblico concorso, al quale sono ammessi a partecipare coloro che abbiano compiuto gli studi di istruzione obbligatoria e siano in possesso degli altri requisiti generali stabiliti dall'art. 2 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
  Il concorso e' per titoli ed e' integrato da una prova pratica di scrittura sotto dettato oltre ad una prova di idoneita' tecnica, secondo le modalita' determinate dal bando di concorso.
 
 ### Art. 68.
@@ -610,7 +610,7 @@ In sede di prima attuazione del presente decreto gli attuali direttori degli ist
 
 ### Art. 74.
 
-Il personale appartenente al ruolo dei preparatori (ex coefficiente 157) della carriera ausiliaria degli istituti di sperimentazione agraria, di cui al quadro 76 annesso al testo unico delle disposizioni concernenti gli impiegati civili dello Stato, emanato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' collocato nel nuovo ruolo organico dei preparatori di cui al precedente art. 62 nella qualifica di preparatore corrispondente all'ex coefficiente 159, conservando le anzianita' di carriera e di qualifica acquisite.
+Il personale appartenente al ruolo dei preparatori (ex coefficiente 157) della carriera ausiliaria degli istituti di sperimentazione agraria, di cui al quadro 76 annesso al testo unico delle disposizioni concernenti gli impiegati civili dello Stato, emanato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' collocato nel nuovo ruolo organico dei preparatori di cui al precedente art. 62 nella qualifica di preparatore corrispondente all'ex coefficiente 159, conservando le anzianita' di carriera e di qualifica acquisite.
  Il personale appartenente al ruolo dei bidelli (ex coefficiente 151) della carriera ausiliaria degli istituti di sperimentazione agraria, di cui al suddetto quadro 76, e' collocato nel ruolo di nuova istituzione degli uscieri degli istituti di ricerca e di sperimentazione agraria, nella qualifica di usciere (ex coefficiente 151), conservando le anzianita' di carriera e di qualifica acquisite.
 
 ### Art. 75.
@@ -635,7 +635,7 @@ In sede di prima attuazione del presente decreto gli impiegati del ruolo dei ser
 
 ### Art. 77.
 
-In sede di prima attuazione del presente decreto, i posti, non conferiti in applicazione dell'articolo 75, appartenenti al ruolo amministrativo della carriera direttiva degli istituti di ricerca e di sperimentazione agraria sono riservati al trasferimento del personale del ruolo amministrativo centrale e periferico di cui alla tabella I annessa alla [legge 13 maggio 1966, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-05-13;303), da disporsi a termini del secondo e del terzo comma dell'art. 200 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+In sede di prima attuazione del presente decreto, i posti, non conferiti in applicazione dell'articolo 75, appartenenti al ruolo amministrativo della carriera direttiva degli istituti di ricerca e di sperimentazione agraria sono riservati al trasferimento del personale del ruolo amministrativo centrale e periferico di cui alla tabella I annessa alla [legge 13 maggio 1966, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-05-13;303), da disporsi a termini del secondo e del terzo comma dell'art. 200 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ### Art. 78.
 
@@ -643,7 +643,7 @@ Al primo concorso pubblico, per ciascuna specializzazione, per la nomina a diret
 
 ### Art. 79.
 
-Al personale inquadrato nei ruoli statali ai sensi de, [regio decreto 29 maggio 1941, n. 489](../Regi%20decreti/Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md) continuano ad applicarsi, per il trattamento di quiescenza, le disposizioni di cui al [decreto del Presidente della Repubblica 28 giugno 1946, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1946-06-28;84).
+Al personale inquadrato nei ruoli statali ai sensi de, [regio decreto 29 maggio 1941, n. 489](Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md) continuano ad applicarsi, per il trattamento di quiescenza, le disposizioni di cui al [decreto del Presidente della Repubblica 28 giugno 1946, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1946-06-28;84).
 
 ### Art. 80.
 

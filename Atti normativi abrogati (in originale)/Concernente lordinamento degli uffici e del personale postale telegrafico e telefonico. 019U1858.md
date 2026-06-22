@@ -470,7 +470,7 @@ Capo IV.
 
 ### Art. 43.
 
-Agli impiegati ed agenti di ruolo dell'Amministrazione centrale e provinciale sono applicabili le norme disciplinari del testo unico delle leggi sullo stato degli impiegati civili approvato con [Regio decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md), salvo le eccezioni di che nel presente e nei seguenti articoli. 
+Agli impiegati ed agenti di ruolo dell'Amministrazione centrale e provinciale sono applicabili le norme disciplinari del testo unico delle leggi sullo stato degli impiegati civili approvato con [Regio decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md), salvo le eccezioni di che nel presente e nei seguenti articoli. 
  
  Le punizioni applicabili al personale postale e dei servizi elettrici sono: 
  
@@ -904,7 +904,7 @@ Sono promossi ufficiali, senza esame, con decorrenza dal 1° settembre 1919:
  
  Sono nominati prima coloro che posseggono titolo di studio non inferiore alla licenza ginnasiale, tecnica, o altro titolo equiparato o abbiano il grado di ufficiale nel R. esercito, o abbiano ottenuta la idoneita' in precedenti esami al posto di ufficiale o di applicato telefonico. 
  
- Sono nominati, dopo, coloro che abbiano superato l'esame di concorso per la promozione al grado di ausiliaria o di ufficiale d'ordine o di telefonista; o che tale grado abbiano conseguito in virtu' del testo unico approvato con [R. decreto 17 novembre 1912, numero 1329](../Regi%20decreti/Col%20quale%20viene%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20dellesercito.%20012U1329.md). 
+ Sono nominati, dopo, coloro che abbiano superato l'esame di concorso per la promozione al grado di ausiliaria o di ufficiale d'ordine o di telefonista; o che tale grado abbiano conseguito in virtu' del testo unico approvato con [R. decreto 17 novembre 1912, numero 1329](Col%20quale%20viene%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20dellesercito.%20012U1329.md). 
  
  Sono nominati in ultimo coloro che non posseggano i requisiti di cui innanzi e' detto. 
  
@@ -990,7 +990,7 @@ Sono nominati ufficiali nei quadri II, delle tabelle B, ruolo postale e ruolo se
  
  a) gli alunni postali-telegrafici chiamati sotto le armi. La nomina decorre, ai soli effetti dell'anzianita' di ruolo e dei conseguenti avanzamenti, dal primo giorno del mese successivo al compimento di un biennio dalla nomina ad alunno; 
  
- b) i vincitori dei concorsi per i posti di alunno banditi nel 1911, 1913 e 1914, i quali non furono nominati alunni, perche' chiamati alle armi. La nomina si consegue dopo avere superata la prova prescritta dall'art. 2, nn. 5 e 6 del regolamento approvato con [Regio decreto 16 maggio 1909, n. 341](../Regi%20decreti/Approvazione%20del%20regolamento%20speciale%20per%20il%20personale%20di%20prima%20e%20seconda%20categoria%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20009U0341.md), e decorre ai soli effetti dell'anzianita' di ruolo e dei conseguenti avanzamenti di stipendio, dal primo giorno del mese successivo alla data dalla quale sono stati dichiarati trattenuti sotto le armi; ma in ogni caso non anteriore all'ultima nomina conferita agli alunni di cui alla lettera a) del presente articolo.
+ b) i vincitori dei concorsi per i posti di alunno banditi nel 1911, 1913 e 1914, i quali non furono nominati alunni, perche' chiamati alle armi. La nomina si consegue dopo avere superata la prova prescritta dall'art. 2, nn. 5 e 6 del regolamento approvato con [Regio decreto 16 maggio 1909, n. 341](Approvazione%20del%20regolamento%20speciale%20per%20il%20personale%20di%20prima%20e%20seconda%20categoria%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20009U0341.md), e decorre ai soli effetti dell'anzianita' di ruolo e dei conseguenti avanzamenti di stipendio, dal primo giorno del mese successivo alla data dalla quale sono stati dichiarati trattenuti sotto le armi; ma in ogni caso non anteriore all'ultima nomina conferita agli alunni di cui alla lettera a) del presente articolo.
 
 ### Art. 87.
 
@@ -1010,7 +1010,7 @@ Sono ammessi ad un esame di idoneita' a posti di ufficiale (quadro II, delle tab
 
 ### Art. 88.
 
-Sono nominati meccanici telegrafici (quadro III-B, tabella B, ruolo servizi elettrici) gli attuali allievi operai meccanici telegrafici, previo esame consistente nel saggio pratico di cui al n. 1 e nella descrizione degli apparati telegrafici Morse, Hughes e Baudot di cui al n. 4 del programma contenuto nell'allegato n. 1 del regolamento approvato con [R. decreto 12 maggio 1910, n. 680](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20di%203ª%20categoria%20e%20per%20quello%20subalterno%20fuori%20ruolo%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20010U0680.md). 
+Sono nominati meccanici telegrafici (quadro III-B, tabella B, ruolo servizi elettrici) gli attuali allievi operai meccanici telegrafici, previo esame consistente nel saggio pratico di cui al n. 1 e nella descrizione degli apparati telegrafici Morse, Hughes e Baudot di cui al n. 4 del programma contenuto nell'allegato n. 1 del regolamento approvato con [R. decreto 12 maggio 1910, n. 680](Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20di%203ª%20categoria%20e%20per%20quello%20subalterno%20fuori%20ruolo%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20010U0680.md). 
  
  La nomina decorre ai soli effetti dell'anzianita' e dei conseguenti aumenti di stipendio dal primo giorno del mese successivo al compimento di un biennio dalla data di nomina ad allievo. 
  
@@ -1018,7 +1018,7 @@ Sono nominati meccanici telegrafici (quadro III-B, tabella B, ruolo servizi elet
 
 ### Art. 89.
 
-Sono nominati meccanici telefonici (quadro III-C, tabella B, ruolo servizi elettrici) gli attuali allievi meccanici telefonici, previo l'esame prescritto dal regolamento speciale approvato col [R. decreto 16 maggio 1912, n. 574](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md). 
+Sono nominati meccanici telefonici (quadro III-C, tabella B, ruolo servizi elettrici) gli attuali allievi meccanici telefonici, previo l'esame prescritto dal regolamento speciale approvato col [R. decreto 16 maggio 1912, n. 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md). 
  
  Per la decorrenza della nomina, e per la prova di esame che devono sostenere coloro che si trovano ancora sotto le armi, si applicano le disposizioni di cui agli ultimi due comma dell'articolo precedente.
 
@@ -1036,7 +1036,7 @@ Sono nominati guardafili telegrafici con decorrenza dal 1° settembre 1919 gli a
 
 ### Art. 92.
 
-Sono nominati rispettivamente apparecchiatori e guardafili telefonici (quadri I-B-bis e I-B del ruolo servizi elettrici) gli attuali allievi apparecchiatori ed allievi guardafili telefonici, previa la prova prescritta dal regolamento speciale approvato con [R. decreto 16 maggio 1912, n. 574](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md). 
+Sono nominati rispettivamente apparecchiatori e guardafili telefonici (quadri I-B-bis e I-B del ruolo servizi elettrici) gli attuali allievi apparecchiatori ed allievi guardafili telefonici, previa la prova prescritta dal regolamento speciale approvato con [R. decreto 16 maggio 1912, n. 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md). 
  
  Per la decorrenza della nomina e per la prova di esame che devono sostenere coloro che si trovano ancora sotto le armi, si applicano le disposizioni di cui agli ultimi due comma dell'art. 88. 
  
@@ -1044,17 +1044,17 @@ Sono nominati rispettivamente apparecchiatori e guardafili telefonici (quadri I-
 
 ### Art. 93.
 
-Sono nominati allievi guardafili telegrafici ed allievi guardafili telefonici, rispettivamente inscritti in albo ai sensi dell'art. 32 del regolamento speciale approvato con [R. decreto 12 maggio 1910, n. 680, e dell'art. 88](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20di%203ª%20categoria%20e%20per%20quello%20subalterno%20fuori%20ruolo%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20010U0680.md) del regolamento speciale approvato con [R. decreto 16 maggio 1912, n. 574](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md), coloro che abbiano compiuto il 19° anno di eta', contino almeno un anno di servizio, posseggano gli altri requisiti richiesti rispettivamente dagli articoli 2 e 78 dei citati regolamenti e siano forniti del certificato di proscioglimento dall'obbligo dell'istruzione elementare, o in difetto, abbiano superato la prova di esame prevista dal comma b degli articoli 33 e 89 dei regolamenti stessi.
+Sono nominati allievi guardafili telegrafici ed allievi guardafili telefonici, rispettivamente inscritti in albo ai sensi dell'art. 32 del regolamento speciale approvato con [R. decreto 12 maggio 1910, n. 680, e dell'art. 88](Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20di%203ª%20categoria%20e%20per%20quello%20subalterno%20fuori%20ruolo%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20010U0680.md) del regolamento speciale approvato con [R. decreto 16 maggio 1912, n. 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md), coloro che abbiano compiuto il 19° anno di eta', contino almeno un anno di servizio, posseggano gli altri requisiti richiesti rispettivamente dagli articoli 2 e 78 dei citati regolamenti e siano forniti del certificato di proscioglimento dall'obbligo dell'istruzione elementare, o in difetto, abbiano superato la prova di esame prevista dal comma b degli articoli 33 e 89 dei regolamenti stessi.
 
 ### Art. 94.
 
-Sono collocati in ruolo al quadro II, tabella C, servizi elettrici, i fattorini telegrafici di cui all'art. 19 del regolamento speciale approvato con [R. decreto 12 maggio 1910, n. 680](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20di%203ª%20categoria%20e%20per%20quello%20subalterno%20fuori%20ruolo%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20010U0680.md), che alla data del presente decreto abbiano compiuto il 19° anno di eta'. 
+Sono collocati in ruolo al quadro II, tabella C, servizi elettrici, i fattorini telegrafici di cui all'art. 19 del regolamento speciale approvato con [R. decreto 12 maggio 1910, n. 680](Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20di%203ª%20categoria%20e%20per%20quello%20subalterno%20fuori%20ruolo%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20010U0680.md), che alla data del presente decreto abbiano compiuto il 19° anno di eta'. 
  
  Quelli che non hanno compiuto il 19° anno sono nominati come sopra al raggiungimento di tale eta', ed in ogni modo non prima di aver compiuto due anni di servizio come fattorino. 
  
- Il compenso per il recapito dei telegrammi e degli espressi di cui al [R. decreto 13 luglio 1919, n. 1379](../Regi%20decreti/Che%20aumenta%20la%20retribuzione%20degli%20impiegati%20avventizi%20operai%20ed%20agenti%20subalterni%20avventizi%20e%20del%20personale%20fuori%20ruolo%20dellAmministrazione%20postale%20telegrafica%20e%20telefonica.%20019U1379.md), e' ridotto per gli agenti suddetti a centesimi cinque. 
+ Il compenso per il recapito dei telegrammi e degli espressi di cui al [R. decreto 13 luglio 1919, n. 1379](Che%20aumenta%20la%20retribuzione%20degli%20impiegati%20avventizi%20operai%20ed%20agenti%20subalterni%20avventizi%20e%20del%20personale%20fuori%20ruolo%20dellAmministrazione%20postale%20telegrafica%20e%20telefonica.%20019U1379.md), e' ridotto per gli agenti suddetti a centesimi cinque. 
  
- Le stesse disposizioni si applicano ai fattorini dell'Amministrazione telefonica di cui all'art. 94 del regolamento organico speciale approvato con [R. decreto 16 maggio 1912, n. 574](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md).
+ Le stesse disposizioni si applicano ai fattorini dell'Amministrazione telefonica di cui all'art. 94 del regolamento organico speciale approvato con [R. decreto 16 maggio 1912, n. 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md).
 
 ## Avventizi.
 
@@ -1128,7 +1128,7 @@ Gli avventizi e le avventizie assunti in servizio in sostituzione di agenti suba
  
  Per coloro che non abbiano compiuto il 21° anno di eta' la nomina si consegue dal primo giorno del mese successivo al raggiungimento di tale eta', e al compimento del triennio o quadriennio di servizio di cui al comma precedente. 
  
- Per quelli che non fossero forniti del prescritto titolo di studio potra' valere l'esito favorevole della prova di esame di cui all'articolo 33, lettera b, del regolamento approvato con [R. decreto 12 maggio 1910, n. 680](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20di%203ª%20categoria%20e%20per%20quello%20subalterno%20fuori%20ruolo%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20010U0680.md).
+ Per quelli che non fossero forniti del prescritto titolo di studio potra' valere l'esito favorevole della prova di esame di cui all'articolo 33, lettera b, del regolamento approvato con [R. decreto 12 maggio 1910, n. 680](Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20di%203ª%20categoria%20e%20per%20quello%20subalterno%20fuori%20ruolo%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20010U0680.md).
 
 ### Art. 100.
 

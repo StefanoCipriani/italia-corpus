@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti la [legge 11 luglio 1904, n. 378](Concessioni%20speciali%20alle%20Societa%20cooperative%20di%20lavoro%20e%20produzione%20fra%20gli%20inscritti%20marittimi%20esercenti%20la%20pesca%20costituite%20in%20unico%20sindacato%20generale.%20004U0378.md), sulla pesca e sui pescatori, e il regolamento per l'applicazione della legge, approvato con [R. decreto 30 dicembre 1909, n. 830](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20sulla%20pesca%20e%20sui%20pescatori.%20009U0830.md);
+Visti la [legge 11 luglio 1904, n. 378](Concessioni%20speciali%20alle%20Societa%20cooperative%20di%20lavoro%20e%20produzione%20fra%20gli%20inscritti%20marittimi%20esercenti%20la%20pesca%20costituite%20in%20unico%20sindacato%20generale.%20004U0378.md), sulla pesca e sui pescatori, e il regolamento per l'applicazione della legge, approvato con [R. decreto 30 dicembre 1909, n. 830](Che%20approva%20lannesso%20regolamento%20sulla%20pesca%20e%20sui%20pescatori.%20009U0830.md);
 
 Ritenuta la necessita' di continuare, anche nell'esercizio finanziario 1916-917, gli aiuti all'industria pescareccia ed alle legali organizzazioni dei pescatori;
 

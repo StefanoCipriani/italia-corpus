@@ -236,7 +236,7 @@ A tutti gli ufficiali che vengono inscritti sul quadro di avanzamento, ed a quel
 ----------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 marzo 1935, n. 445](Modificazioni%20alla%20legge%207%20giugno%201934%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U0445.md), convertito senza modificazioni dalla [L. 13 giugno 1935, n. 1134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201935-XIII%20n.%20445%20recante%20modificazioni%20alla%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1134.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 marzo 1935, n. 445](Modificazioni%20alla%20legge%207%20giugno%201934%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U0445.md), convertito senza modificazioni dalla [L. 13 giugno 1935, n. 1134](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201935-XIII%20n.%20445%20recante%20modificazioni%20alla%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1134.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## DELL'AVANZAMENTO DEGLI UFFICIALI IN SERVIZIO PERMANENTE EFFETTIVO  TITOLO I.  Dei ruoli di anzianita' e delle vacanze nei ruoli.
 
@@ -338,7 +338,7 @@ Il complesso delle vacanze di cui all'articolo precedente nei singoli ruoli e gr
 ----------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 marzo 1935, n. 445](Modificazioni%20alla%20legge%207%20giugno%201934%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U0445.md), convertito senza modificazioni dalla [L. 13 giugno 1935, n. 1134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201935-XIII%20n.%20445%20recante%20modificazioni%20alla%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1134.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 marzo 1935, n. 445](Modificazioni%20alla%20legge%207%20giugno%201934%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U0445.md), convertito senza modificazioni dalla [L. 13 giugno 1935, n. 1134](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201935-XIII%20n.%20445%20recante%20modificazioni%20alla%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1134.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Articolo 29.
 
@@ -348,7 +348,7 @@ Qualora - durante l'anno - in un determinato ruolo e grado si vengano a formare 
 ----------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 marzo 1935, n. 445](Modificazioni%20alla%20legge%207%20giugno%201934%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U0445.md), convertito senza modificazioni dalla [L. 13 giugno 1935, n. 1134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201935-XIII%20n.%20445%20recante%20modificazioni%20alla%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1134.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 marzo 1935, n. 445](Modificazioni%20alla%20legge%207%20giugno%201934%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U0445.md), convertito senza modificazioni dalla [L. 13 giugno 1935, n. 1134](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201935-XIII%20n.%20445%20recante%20modificazioni%20alla%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1134.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Articolo 30.
 
@@ -628,7 +628,7 @@ Prima di essere giudicati per l'avanzamento ad anzianita', a scelta ordinaria od
 ----------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 marzo 1935, n. 445](Modificazioni%20alla%20legge%207%20giugno%201934%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U0445.md), convertito senza modificazioni dalla [L. 13 giugno 1935, n. 1134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201935-XIII%20n.%20445%20recante%20modificazioni%20alla%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1134.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 marzo 1935, n. 445](Modificazioni%20alla%20legge%207%20giugno%201934%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U0445.md), convertito senza modificazioni dalla [L. 13 giugno 1935, n. 1134](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201935-XIII%20n.%20445%20recante%20modificazioni%20alla%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1134.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Articolo 48.
 
@@ -1232,7 +1232,7 @@ PARTE III.
 
 ### Articolo 111.
 
-Agli ufficiali mutilati ed invalidi di guerra riassunti in servizio si applicano le norme contenute nel [R. decreto 31 dicembre 1923, n. 3257](../Regi%20decreti/Stato%20avanzamento%20e%20trattamento%20di%20pensione%20degli%20ufficiali%20mutilati%20ed%20invalidi%20riassunti%20in%20servizio.%20023U3257.md) con le seguenti avvertenze: 
+Agli ufficiali mutilati ed invalidi di guerra riassunti in servizio si applicano le norme contenute nel [R. decreto 31 dicembre 1923, n. 3257](Stato%20avanzamento%20e%20trattamento%20di%20pensione%20degli%20ufficiali%20mutilati%20ed%20invalidi%20riassunti%20in%20servizio.%20023U3257.md) con le seguenti avvertenze: 
  
  a) per l'accertamento della promovibilita' l'ufficiale riassunto non e', in alcun caso, sottoposto ad esame od esperimento; mentre viene classificato con norme da stabilirsi con decreto Reale; 
  
@@ -1309,7 +1309,7 @@ L'ufficiale in congedo:
 ----------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 marzo 1935, n. 445](Modificazioni%20alla%20legge%207%20giugno%201934%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U0445.md), convertito senza modificazioni dalla [L. 13 giugno 1935, n. 1134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201935-XIII%20n.%20445%20recante%20modificazioni%20alla%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1134.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 marzo 1935, n. 445](Modificazioni%20alla%20legge%207%20giugno%201934%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U0445.md), convertito senza modificazioni dalla [L. 13 giugno 1935, n. 1134](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201935-XIII%20n.%20445%20recante%20modificazioni%20alla%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1134.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Articolo 115.
 
@@ -1360,7 +1360,7 @@ Per essere preso in esame, nei riguardi dell'avanzamento, l'ufficiale di complem
 ----------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 marzo 1935, n. 445](Modificazioni%20alla%20legge%207%20giugno%201934%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U0445.md), convertito senza modificazioni dalla [L. 13 giugno 1935, n. 1134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201935-XIII%20n.%20445%20recante%20modificazioni%20alla%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1134.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 marzo 1935, n. 445](Modificazioni%20alla%20legge%207%20giugno%201934%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U0445.md), convertito senza modificazioni dalla [L. 13 giugno 1935, n. 1134](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201935-XIII%20n.%20445%20recante%20modificazioni%20alla%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1134.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Articolo 122.
 
@@ -1422,7 +1422,7 @@ L'ufficiale di complemento delle varie armi da assegnare alle unita' di prima li
 ----------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 marzo 1935, n. 445](Modificazioni%20alla%20legge%207%20giugno%201934%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U0445.md), convertito senza modificazioni dalla [L. 13 giugno 1935, n. 1134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201935-XIII%20n.%20445%20recante%20modificazioni%20alla%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1134.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 marzo 1935, n. 445](Modificazioni%20alla%20legge%207%20giugno%201934%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U0445.md), convertito senza modificazioni dalla [L. 13 giugno 1935, n. 1134](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201935-XIII%20n.%20445%20recante%20modificazioni%20alla%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1134.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## DELL'AVANZAMENTO IN TEMPO DI GUERRA.
 
@@ -1620,7 +1620,7 @@ I quadri di avanzamento esistenti all'atto dell'entrata in vigore della presente
 ----------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 marzo 1935, n. 445](Modificazioni%20alla%20legge%207%20giugno%201934%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U0445.md), convertito senza modificazioni dalla [L. 13 giugno 1935, n. 1134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201935-XIII%20n.%20445%20recante%20modificazioni%20alla%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1134.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 marzo 1935, n. 445](Modificazioni%20alla%20legge%207%20giugno%201934%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U0445.md), convertito senza modificazioni dalla [L. 13 giugno 1935, n. 1134](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201935-XIII%20n.%20445%20recante%20modificazioni%20alla%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1134.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Articolo 151.
 
@@ -1665,7 +1665,7 @@ e) a scelta speciale per avere ottenuto il trasferimento nel corpo di stato magg
 ### Articolo 155.
 
 Per concorrere agli esami per l'avanzamento anticipato stabilito dalla lettera a) del precedente articolo, i capitani di cui all'articolo 154 - ne facciano o no domanda - debbono essere designati dalle autorita' giudicatrici con le norme dell'articolo 59.
-I capitani designati, previa classifica, prima dell'entrata in vigore della presente legge, in base al [R.D. 4 gennaio 1934 n. 127](../Regi%20decreti/Modifiche%20al%20R.%20decreto%205%20gennaio%201933%20n.%201%20recante%20norme%20per%20lavanzamento%20anticipato%20dei%20capitani%20e%20dei%20tenenti%20del%20Regio%20esercito.%20034U0127.md), sosterranno senz'altro gli esami per l'avanzamento anticipato. Coloro che superino gli esami stessi potranno conseguire l'avanzamento anticipato solo nel caso in cui, in una nuova classifica, come da articolo 47, riportino i punti minimi parziali e totale prescritti. 
+I capitani designati, previa classifica, prima dell'entrata in vigore della presente legge, in base al [R.D. 4 gennaio 1934 n. 127](Modifiche%20al%20R.%20decreto%205%20gennaio%201933%20n.%201%20recante%20norme%20per%20lavanzamento%20anticipato%20dei%20capitani%20e%20dei%20tenenti%20del%20Regio%20esercito.%20034U0127.md), sosterranno senz'altro gli esami per l'avanzamento anticipato. Coloro che superino gli esami stessi potranno conseguire l'avanzamento anticipato solo nel caso in cui, in una nuova classifica, come da articolo 47, riportino i punti minimi parziali e totale prescritti. 
  
  Le norme ed i programmi di esame saranno stabiliti con decreto Reale. Punto minimo di idoneita' quello da stabilirsi nel predetto decreto. 
  
@@ -1817,7 +1817,7 @@ Fino a quando, in ciascun ruolo di mobilitazione, non siano stati raggiunti gli 
 ----------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 marzo 1935, n. 445](Modificazioni%20alla%20legge%207%20giugno%201934%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U0445.md), convertito senza modificazioni dalla [L. 13 giugno 1935, n. 1134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201935-XIII%20n.%20445%20recante%20modificazioni%20alla%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1134.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 5 marzo 1935, n. 445](Modificazioni%20alla%20legge%207%20giugno%201934%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U0445.md), convertito senza modificazioni dalla [L. 13 giugno 1935, n. 1134](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20marzo%201935-XIII%20n.%20445%20recante%20modificazioni%20alla%20legge%207%20giugno%201934-XII%20n.%20899%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1134.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Articolo 173.
 

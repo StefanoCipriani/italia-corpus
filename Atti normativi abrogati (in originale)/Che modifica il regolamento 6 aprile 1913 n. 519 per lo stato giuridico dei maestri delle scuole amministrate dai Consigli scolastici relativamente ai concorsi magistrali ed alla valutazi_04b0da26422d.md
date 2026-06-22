@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli articoli 2, 4, 8, 10, 12, 13, 14, 15, 16, 17, 20, 21, 22, 24, 25, 26, 27, 29, 34, 38, 39, 51, 52, 56, 71, 72, 74 e 87 del regolamento approvato con [R. decreto 6 aprile 1913, n. 549](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20concernente%20lo%20stato%20giuridico%20dei%20maestri%20delle%20scuole%20elementari%20amministrate%20dai%20Consigli%20scolastici%20013U0549.md), sono sostituiti gli articoli seguenti: 
+Agli articoli 2, 4, 8, 10, 12, 13, 14, 15, 16, 17, 20, 21, 22, 24, 25, 26, 27, 29, 34, 38, 39, 51, 52, 56, 71, 72, 74 e 87 del regolamento approvato con [R. decreto 6 aprile 1913, n. 549](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20concernente%20lo%20stato%20giuridico%20dei%20maestri%20delle%20scuole%20elementari%20amministrate%20dai%20Consigli%20scolastici%20013U0549.md), sono sostituiti gli articoli seguenti: 
  
  Art. 2. - Il concorso e' bandito dal Consiglio scolastico, una sola volta all'anno, per posti di ultima classe di scuole rurali e di obbligatorie non classificate, tenendo distinti i posti delle classi maschili da quelli delle classi femminili e da quelli delle classi miste. 
  
@@ -28,7 +28,7 @@ Agli articoli 2, 4, 8, 10, 12, 13, 14, 15, 16, 17, 20, 21, 22, 24, 25, 26, 27, 2
  
  In ogni caso il termine predetto e' prorogato al 31 luglio per tutti i concorrenti per la presentazione del certificato di servizio dell'anno in corso: e, per i soli concorrenti che conseguano il diploma di abilitazione all'insegnamento elementare, di cui all'articolo del [regolamento 22 giugno 1913, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1913-06-22;1217), nella sessione estiva di esami dell'anno in cui il concorso fu bandito, per la presentazione del diploma stesso. 
  
- Qualora il diploma non possa essere rilasciato entro il 31 luglio, puo' essere sostituito da un certificato provvisorio, da redigersi a norma dell'art. 52 del predetto regolamento approvato con [R. decreto 22 giugno 1913, n. 1217](../Regi%20decreti/Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20medie%20e%20normali.%20013U1217.md). 
+ Qualora il diploma non possa essere rilasciato entro il 31 luglio, puo' essere sostituito da un certificato provvisorio, da redigersi a norma dell'art. 52 del predetto regolamento approvato con [R. decreto 22 giugno 1913, n. 1217](Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20medie%20e%20normali.%20013U1217.md). 
  
  Art. 10. - I documenti, che i concorrenti devono presentare a corredo della domanda in carta bollata, sono i seguenti: 
  

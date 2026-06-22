@@ -64,7 +64,7 @@ Entro, il 30 settembre 1923 gli insegnanti elementari dipendenti dall'Amministra
  
  Nella liquidazione delle pensioni dovute dal Monte agli insegnanti collocati a riposo a norma dei commi precedenti si applicano le disposizioni dell'art. 3 del presente decreto. 
  
- E' abrogata la disposizione dell'[art. 6 del R. decreto 21 settembre 1919, n. 1777](../Regi%20decreti/Che%20detta%20norme%20per%20la%20prima%20attribuzione%20agli%20attuali%20insegnanti%20effettivi%20delle%20scuole%20dirette%20ed%20amministrate%20dai%20Consigli%20scolastici%20degli%20stipendi%20fissati%20dalla%20tabella%20A%20annessa%20al%20_c0d14b882fa3.md), prorogata con [R. decreto 21 agosto 1922, n. 1302](../Regi%20decreti/Che%20proroga%20lapplicazione%20dellart.%206%20del%20R.%20decreto%2021%20settembre%201919%20n.%201777%20relativamente%20al%20collocamento%20a%20riposo%20di%20ufficio%20dei%20maestri%20elementari.%20022U1302.md).
+ E' abrogata la disposizione dell'[art. 6 del R. decreto 21 settembre 1919, n. 1777](Che%20detta%20norme%20per%20la%20prima%20attribuzione%20agli%20attuali%20insegnanti%20effettivi%20delle%20scuole%20dirette%20ed%20amministrate%20dai%20Consigli%20scolastici%20degli%20stipendi%20fissati%20dalla%20tabella%20A%20annessa%20al%20_c0d14b882fa3.md), prorogata con [R. decreto 21 agosto 1922, n. 1302](Che%20proroga%20lapplicazione%20dellart.%206%20del%20R.%20decreto%2021%20settembre%201919%20n.%201777%20relativamente%20al%20collocamento%20a%20riposo%20di%20ufficio%20dei%20maestri%20elementari.%20022U1302.md).
 
 ## Art. 8.
 

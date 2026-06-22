@@ -14,7 +14,7 @@ A cominciare dal bilancio di prima previsione per l'anno 1880 saranno presentati
 
 ## Art. 2.
 
-Le attribuzioni degli uffici dei Regi avvocati erariali, a norma del [R. decreto 16 gennaio 1876, n. 2914](../Regi%20decreti/Concernente%20il%20riordinamento%20degli%20uffizi%20del%20contenzioso%20finanziario.%20076U2914.md) (Serie 2ª), sono estese all'Amministrazione del Fondo per il culto. 
+Le attribuzioni degli uffici dei Regi avvocati erariali, a norma del [R. decreto 16 gennaio 1876, n. 2914](Concernente%20il%20riordinamento%20degli%20uffizi%20del%20contenzioso%20finanziario.%20076U2914.md) (Serie 2ª), sono estese all'Amministrazione del Fondo per il culto. 
  
  Nei procedimenti del Fondo per il culto sono notate a debito le tasse di registro e di bollo per gli atti e le sentenze, e i diritti di cancelleria e di usciere. 
  

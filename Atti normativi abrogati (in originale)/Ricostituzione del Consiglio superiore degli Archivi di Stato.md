@@ -16,7 +16,7 @@ Visto il [regio decreto-legge 20 giugno 1935, n. 1137](Modificazioni%20alle%20no
 
 Vista la [legge 22 dicembre 1939, n. 2606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-12-22;2606);
 
-Visto il [decreto legislativo luogotenenziale 21 settembre 1944, n. 236](../Decreti%20legislativi%20luogotenenziali/Scioglimento%20del%20Consiglio%20superiore%20per%20gli%20Archivi%20del%20Regno%20e%20della%20Giunta%20per%20gli%20Archivi%20del%20Regno.%20044U0236.md);
+Visto il [decreto legislativo luogotenenziale 21 settembre 1944, n. 236](Scioglimento%20del%20Consiglio%20superiore%20per%20gli%20Archivi%20del%20Regno%20e%20della%20Giunta%20per%20gli%20Archivi%20del%20Regno.%20044U0236.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -45,7 +45,7 @@ L'[art. 4 della legge 22 dicembre 1939, n. 2006](Nuovo%20ordinamento%20degli%20A
 
 ## Art. 2.
 
-Il [decreto legislativo luogotenenziale 21 settembre 1944, n. 236](../Decreti%20legislativi%20luogotenenziali/Scioglimento%20del%20Consiglio%20superiore%20per%20gli%20Archivi%20del%20Regno%20e%20della%20Giunta%20per%20gli%20Archivi%20del%20Regno.%20044U0236.md), e' abrogato.
+Il [decreto legislativo luogotenenziale 21 settembre 1944, n. 236](Scioglimento%20del%20Consiglio%20superiore%20per%20gli%20Archivi%20del%20Regno%20e%20della%20Giunta%20per%20gli%20Archivi%20del%20Regno.%20044U0236.md), e' abrogato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

@@ -36,7 +36,7 @@ Le disposizioni dell'[art. 4 del R. decreto-legge 24 novembre 1930, n. 1596](Eso
 
 A deroga della disposizione di cui all'articolo precedente, l'Amministrazione delle ferrovie dello Stato e' autorizzata: 
  a) a provvedere all'assunzione, mediante pubblico concorso per titoli e per esami, di tre allievi ispettori in prova - gruppo A - specializzati in chimica; 
- b) a provvedere all'assunzione di tre allievi ispettori in prova - gruppo A - specializzati in medicina e chirurgia, ricavandoli dai rimanenti idonei della graduatoria relativa al concorso autorizzato con [R. decreto 3 ottobre 1929, n. 1864](../Regi%20decreti/Facolta%20di%20procedere%20mediante%20concorso%20al%20reclutamento%20di%2015%20allievi%20ispettori%20medici%20delle%20Ferrovie%20dello%20Stato.%20029U1864.md). 
+ b) a provvedere all'assunzione di tre allievi ispettori in prova - gruppo A - specializzati in medicina e chirurgia, ricavandoli dai rimanenti idonei della graduatoria relativa al concorso autorizzato con [R. decreto 3 ottobre 1929, n. 1864](Facolta%20di%20procedere%20mediante%20concorso%20al%20reclutamento%20di%2015%20allievi%20ispettori%20medici%20delle%20Ferrovie%20dello%20Stato.%20029U1864.md). 
  Il presente decreto sara' presentato al Parlamento per la conversione in legge e il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  Dato a San Rossore, addi' 8 ottobre 1931 - Anno IX 

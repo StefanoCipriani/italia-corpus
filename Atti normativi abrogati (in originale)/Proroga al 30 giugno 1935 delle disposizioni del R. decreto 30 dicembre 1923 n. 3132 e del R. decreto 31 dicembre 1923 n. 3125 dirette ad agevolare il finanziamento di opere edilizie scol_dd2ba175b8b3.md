@@ -18,7 +18,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Visto il [R. decreto 18 maggio 1931, n. 544](../Regi%20decreti/Concentramento%20nel%20Ministero%20dei%20lavori%20pubblici%20di%20servizi%20relativi%20alla%20esecuzione%20di%20lavori%20pubblici%20per%20conto%20dello%20Stato.%20031U0544.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 3132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3132) convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), ed il [R. decreto 31 dicembre 1923, n. 3125](../Regi%20decreti/Agevolazioni%20per%20la%20costruzione%20di%20edifici%20scolastici.%20023U3125.md), emesso in virtu' dei poteri delegati;
+Visto il [R. decreto 30 dicembre 1923, n. 3132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3132) convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), ed il [R. decreto 31 dicembre 1923, n. 3125](Agevolazioni%20per%20la%20costruzione%20di%20edifici%20scolastici.%20023U3125.md), emesso in virtu' dei poteri delegati;
 
 Ritenuta l'assoluta necessita' ed urgenza di prorogare le disposizioni di favore, scadenti il 30 giugno 1934, dirette ad agevolare il finanziamento di opere edilizie scolastiche ed igieniche;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di
 
 ## Art. 1.
 
-E' prorogato sino al 30 giugno 1935 l'[art. 10 del R. decreto 31 dicembre 1923, n. 3125](../Regi%20decreti/Agevolazioni%20per%20la%20costruzione%20di%20edifici%20scolastici.%20023U3125.md), che autorizza agevolazioni per la costruzione di edifici scolastici.
+E' prorogato sino al 30 giugno 1935 l'[art. 10 del R. decreto 31 dicembre 1923, n. 3125](Agevolazioni%20per%20la%20costruzione%20di%20edifici%20scolastici.%20023U3125.md), che autorizza agevolazioni per la costruzione di edifici scolastici.
 
 ## Art. 2.
 

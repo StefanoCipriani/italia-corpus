@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
+Visto il [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -28,7 +28,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 ## Art. 1.
 
-Il [comma 4 dell'art. 191 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 18 giugno 1931 n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e' cosi' modificato: 
+Il [comma 4 dell'art. 191 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 18 giugno 1931 n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e' cosi' modificato: 
  
  « Il contravventore e' punito con l'arresto da sei mesi a due anni e con l'ammenda da lire mille a diecimila ». 
  
@@ -43,7 +43,7 @@ Il [comma 4 dell'art. 191 del testo unico delle leggi di pubblica sicurezza](../
 
 Salvo che il fatto costituisca un reato piu' grave, e' punito con l'arresto da sei mesi a due anni e con l'ammenda da lire mille a diecimila colui che, indipendentemente all'esercizio abusivo di un locale di meretricio, faccia opera di adescamento per agevolare la prostituzione. 
  
- Se alcuno determina a compiere tale opera di adescamento una persona non imputabile, si osserva l'[articolo 111 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Se alcuno determina a compiere tale opera di adescamento una persona non imputabile, si osserva l'[articolo 111 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 3.
 

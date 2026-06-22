@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
+Visto il [decreto legislativo luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
@@ -33,7 +33,7 @@ Per il personale residente in localita' e stazioni in territorio di confine con 
 
 Per la conversione in valuta estera locale della parte di assegni di cui ai precedenti articoli si applica un rapporto fisso commisurato alla quotazione ufficiale dei cambi quale risultava alla data del 1° gennaio 1946.
  Per la conversione medesima a favore del personale residente in territorio estero di confine con l'Italia di Stati per i quali alla data del 1° gennaio 1946 non sussisteva la quotazione dei cambi, il rapporto fisso di cui al precedente comma e' determinato, con propri decreti, dal Ministro per il tesoro in base alla situazione valutaria dei singoli Stati.
- L'onere derivante dalla differenza fra il rapporto fisso di conversione di cui ai precedenti commi e la quotazione del cambio ufficiale - maggiorato della quota addizionale sui cambi con l'estero di cui al [decreto legislativo luogotenenziale 4 gennaio 1946, n. 2](../Decreti%20legislativi%20luogotenenziali/Costituzione%20di%20un%20Fondo%20per%20ladeguamento%20ai%20prezzi.md) - alla data in cui si effettuano le operazioni per le rimesse in valuta estera e' a carico del bilancio dello Stato e gravera' sui capitoli di spesa relativi agli stipendi o alle paghe.
+ L'onere derivante dalla differenza fra il rapporto fisso di conversione di cui ai precedenti commi e la quotazione del cambio ufficiale - maggiorato della quota addizionale sui cambi con l'estero di cui al [decreto legislativo luogotenenziale 4 gennaio 1946, n. 2](Costituzione%20di%20un%20Fondo%20per%20ladeguamento%20ai%20prezzi.md) - alla data in cui si effettuano le operazioni per le rimesse in valuta estera e' a carico del bilancio dello Stato e gravera' sui capitoli di spesa relativi agli stipendi o alle paghe.
 
 ## Art. 4.
 

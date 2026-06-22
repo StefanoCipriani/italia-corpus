@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-E' concessa, per la durata della guerra, l'esenzione dal dazio di confine stabilito sotto la voce 422-C-3 della tariffa doganale (testo unico approvato con [Regio decreto 28 luglio 1910, n. 577](../Regi%20decreti/Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md)) ai sottoprodotti della macellazione (trippe, lingue, visceri, cervelli, ecc.) preparati, conservati in scatole, di produzione eritrea, la cui origine sia comprovata nei modi da stabilirsi dal ministro delle finanze. 
+E' concessa, per la durata della guerra, l'esenzione dal dazio di confine stabilito sotto la voce 422-C-3 della tariffa doganale (testo unico approvato con [Regio decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md)) ai sottoprodotti della macellazione (trippe, lingue, visceri, cervelli, ecc.) preparati, conservati in scatole, di produzione eritrea, la cui origine sia comprovata nei modi da stabilirsi dal ministro delle finanze. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -14,7 +14,7 @@ Sono convertiti in legge i [Regi decreti 12 maggio 1927, n. 732](https://www.nor
 
 ## Art. 2.
 
-Sono convalidati i [Regi decreti 12 maggio 1927, n. 735](../Regi%20decreti/43ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201926-27.%20027U0735.md), e [12 maggio 1927, n. 736](../Regi%20decreti/44ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201926-1927.%20027U0736.md). 
+Sono convalidati i [Regi decreti 12 maggio 1927, n. 735](43ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201926-27.%20027U0735.md), e [12 maggio 1927, n. 736](44ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201926-1927.%20027U0736.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

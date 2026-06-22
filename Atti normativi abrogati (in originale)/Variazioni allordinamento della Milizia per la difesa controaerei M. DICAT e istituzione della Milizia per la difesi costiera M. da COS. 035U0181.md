@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 14 gennaio 1923, n. 31](../Regi%20decreti/Col%20quale%20e%20istituita%20una%20milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20023U0031.md), concernente la istituzione della Milizia volontaria per la sicurezza nazionale, convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
+Visto il [R. decreto 14 gennaio 1923, n. 31](Col%20quale%20e%20istituita%20una%20milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20023U0031.md), concernente la istituzione della Milizia volontaria per la sicurezza nazionale, convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
 Visto il R. decreto-legge 4 agosto, 1924, n. 1292, che approva il nuovo ordinamento della milizia volontaria per la sicurezza nazionale, convertito in legge con la [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
-Visto il [R. decreto 21 giugno 1928, n. 1815](../Regi%20decreti/Cessione%20gratuita%20di%20materiali%20del%20Regio%20esercito%20alla%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20028U1815.md), relativo alla cessione gratuita di materiali del Regio esercito alla milizia volontaria per la sicurezza nazionale;
+Visto il [R. decreto 21 giugno 1928, n. 1815](Cessione%20gratuita%20di%20materiali%20del%20Regio%20esercito%20alla%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20028U1815.md), relativo alla cessione gratuita di materiali del Regio esercito alla milizia volontaria per la sicurezza nazionale;
 
 Visto il [R. decreto-legge 18 febbraio 1930, n. 93](Istituzione%20e%20ordinamento%20della%20Milizia%20per%20la%20difesa%20aerea%20territoriale%20D.A.T..%20030U0093.md), concernente l'istituzione e l'ordinamento della milizia per la difesa aerea territoriale (D.A.T.), convertito in legge con la [legge 3 aprile 1930, n. 314](Conversione%20in%20legge%20del%20R.%20decreto-legge%2018%20febbraio%201930%20n.%2093%20concernente%20la%20istituzione%20e%20lordinamento%20della%20Milizia%20per%20la%20difesa%20aerea%20territoriale%20D.A.T..%20030U0314.md);
 

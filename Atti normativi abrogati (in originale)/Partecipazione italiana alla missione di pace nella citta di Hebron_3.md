@@ -40,7 +40,7 @@ Al personale militare di cui all'articolo 2 e' attribuito, con decorrenza dalla 
 
 2.
 
-Al personale militare si applicano altresi' le norme previste ai [commi 2](Partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron_2.md), [3](Partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron_2.md) e [4 dell'articolo 3 del decreto-legge 20 giugno 1994, n. 397](Partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron_2.md), convertito dalla [legge 3 agosto 1994, n. 482](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2020%20giugno%201994%20n.%20397%20recante%20partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron.md).
+Al personale militare si applicano altresi' le norme previste ai [commi 2](Partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron_2.md), [3](Partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron_2.md) e [4 dell'articolo 3 del decreto-legge 20 giugno 1994, n. 397](Partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron_2.md), convertito dalla [legge 3 agosto 1994, n. 482](Conversione%20in%20legge%20del%20decreto-legge%2020%20giugno%201994%20n.%20397%20recante%20partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron.md).
 
 ## Art. 4.
 

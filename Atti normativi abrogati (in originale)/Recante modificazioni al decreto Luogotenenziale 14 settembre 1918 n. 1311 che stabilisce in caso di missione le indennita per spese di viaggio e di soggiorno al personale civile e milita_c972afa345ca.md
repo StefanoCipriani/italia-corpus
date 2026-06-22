@@ -14,11 +14,11 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il [R. decreto 14 settembre 1862, n. 840](../Regi%20decreti/Che%20stabilisce%20le%20indennita%20da%20corrispondersi%20agli%20Impiegati%20di%20vari%20Dicasteri%20in%20missione%20per%20affari%20amministrativi.%20062U0840.md);
+Veduto il [R. decreto 14 settembre 1862, n. 840](Che%20stabilisce%20le%20indennita%20da%20corrispondersi%20agli%20Impiegati%20di%20vari%20Dicasteri%20in%20missione%20per%20affari%20amministrativi.%20062U0840.md);
 
 Veduto il [decreto Luogotenenziale 14 settembre 1918, n. 1311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-14;1311), che stabilisce, il caso di missione, l'indennita' per le spese di viaggio e per quelle di soggiorno al personale civile dello Stato, sia di ruolo che straordinario, avventizio o assimilato, e agli ufficiali dell'esercito, della marina, della guardia di finanza e degli altri corpi militarizzati.
 
-Veduto l'art. 17 del testo unico delle leggi sullo stato degli impiegati civili, approvato col [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
+Veduto l'art. 17 del testo unico delle leggi sullo stato degli impiegati civili, approvato col [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
 
 Udito il Consiglio dei ministri;
 
@@ -76,7 +76,7 @@ All'[art. 19 del decreto Luogotenenziale 14 settembre 1918, numero 1311](https:/
  
  Quando sono dovuti tali rimborsi non spettano ne' l'aumento del doppio decimo sul prezzo del biglietto di viaggio, ne', per quanto concerne il bagaglio personale dell'ufficiale, i rimborsi e i compensi di cui alle lettere a) e d) del numero 2 dell'art. 16. 
  
- E' abolita l'indennita' chilometrica di bagaglio pei casi di missione di cui alla colonna 6 della tariffa approvata col [R. decreto 2 settembre 1912, n. 1008](../Regi%20decreti/Col%20quale%20vengono%20modificate%20le%20tariffe%20degli%20assegni%20di%20viaggio%20o%20missione%20per%20il%20personale%20della%20R.%20marina.%20012U1008.md).
+ E' abolita l'indennita' chilometrica di bagaglio pei casi di missione di cui alla colonna 6 della tariffa approvata col [R. decreto 2 settembre 1912, n. 1008](Col%20quale%20vengono%20modificate%20le%20tariffe%20degli%20assegni%20di%20viaggio%20o%20missione%20per%20il%20personale%20della%20R.%20marina.%20012U1008.md).
 
 ## Art. 6.
 

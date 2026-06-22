@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'art. 20 del testo unico delle leggi doganali approvato con [R. decreto 26 gennaio 1896, n. 20](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md);
+Visto l'art. 20 del testo unico delle leggi doganali approvato con [R. decreto 26 gennaio 1896, n. 20](Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md);
 
 Ritenuta la necessita' di conferire agli organi dell'Amministrazione finanziaria piu' ampie facolta' per provvedere nei casi d'urgenza alla necessaria sistemazione dei servizi di vigilanza doganale;
 
@@ -24,7 +24,7 @@ Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 ## Articolo unico.
 
-All'art. 20 del testo unico delle leggi doganali approvato con [R. decreto 26 gennaio 1896, n. 20](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), e aggiunto il seguente comma: 
+All'art. 20 del testo unico delle leggi doganali approvato con [R. decreto 26 gennaio 1896, n. 20](Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), e aggiunto il seguente comma: 
  
  «I comandanti di circolo della Regia guardia di finanza, nei casi ritenuti urgenti dal Comando generale, potranno pero' procedere, per bisogni della vigilanza, direttamente alla immediata occupazione di terreni o locali, dandone poi notizia al Prefetto della Provincia, per gli ulteriori provvedimenti di sua spettanza ». 
  

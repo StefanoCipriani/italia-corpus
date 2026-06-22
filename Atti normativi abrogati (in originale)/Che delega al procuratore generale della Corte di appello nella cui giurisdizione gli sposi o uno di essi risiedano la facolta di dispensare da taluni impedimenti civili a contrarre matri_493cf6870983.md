@@ -40,7 +40,7 @@ Contro il diniego della dispensa e' ammesso il richiamo al ministro della giusti
 
 ## Art. 3.
 
-Gli [articoli 79](../Regi%20decreti/Per%20lOrdinamento%20dello%20Stato%20Civile.%20065U2602.md) e [81 del Regio decreto 15 novembre 1865, n. 2602](../Regi%20decreti/Per%20lOrdinamento%20dello%20Stato%20Civile.%20065U2602.md), sono abrogati.
+Gli [articoli 79](Per%20lOrdinamento%20dello%20Stato%20Civile.%20065U2602.md) e [81 del Regio decreto 15 novembre 1865, n. 2602](Per%20lOrdinamento%20dello%20Stato%20Civile.%20065U2602.md), sono abrogati.
 
 ## Art. 4.
 

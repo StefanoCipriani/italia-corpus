@@ -18,7 +18,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Visto il [R. decreto-legge 7 settembre 1933, n. 1169](Istituzione%20di%20un%20commissario%20speciale%20per%20il%20territorio%20dei%20comuni%20di%20Littoria%20e%20di%20Sabaudia.%20033U1169.md);
 
-Visto il [R. decreto 19 ottobre 1933, n. 1403](../Regi%20decreti/Estensione%20delle%20attribuzioni%20del%20commissario%20speciale%20per%20lAgro%20Pontino.%20033U1403.md);
+Visto il [R. decreto 19 ottobre 1933, n. 1403](Estensione%20delle%20attribuzioni%20del%20commissario%20speciale%20per%20lAgro%20Pontino.%20033U1403.md);
 
 Ritenuta la necessita' assoluta ed urgente di costruire nel comune di Littoria un palazzo da adibire a sede del Commissario speciale per l'Agro Pontino e degli uffici dipendenti;
 

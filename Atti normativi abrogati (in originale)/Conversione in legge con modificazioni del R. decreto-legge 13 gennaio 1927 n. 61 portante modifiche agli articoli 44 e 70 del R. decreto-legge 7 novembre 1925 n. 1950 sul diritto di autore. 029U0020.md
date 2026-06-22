@@ -42,11 +42,11 @@ VITTORIO EMANUELE III
  
  « La eventuale maggiore estensione della durata del diritto di autore andra' ad esclusivo favore degli autori e dei loro aventi causa. 
  
- « Gli autori e i loro aventi causa i quali hanno perduto i loro diritti per mancanza dell'adempimento delle formalita' prescritte dal testo unico approvato con [R. decreto 19 settembre 1882, n. 1012](../Regi%20decreti/Approva%20il%20testo%20unico%20delle%20leggi%20sui%20diritti%20dautore.%20082U1012.md), li riacquistano e ne godono per la durata che ancora rimane in conformita' del presente decreto, purche' entro il 28 febbraio 1929 dichiarino all'Ufficio della proprieta' intellettuale, nelle forme indicate nel regolamento, di volersi giovare di tale riacquisto di diritti. 
+ « Gli autori e i loro aventi causa i quali hanno perduto i loro diritti per mancanza dell'adempimento delle formalita' prescritte dal testo unico approvato con [R. decreto 19 settembre 1882, n. 1012](Approva%20il%20testo%20unico%20delle%20leggi%20sui%20diritti%20dautore.%20082U1012.md), li riacquistano e ne godono per la durata che ancora rimane in conformita' del presente decreto, purche' entro il 28 febbraio 1929 dichiarino all'Ufficio della proprieta' intellettuale, nelle forme indicate nel regolamento, di volersi giovare di tale riacquisto di diritti. 
  
  « Coloro che hanno proceduto legittimamente alla riproduzione di opere cadute in pubblico dominio per mancato adempimento delle formalita' sopra accennate, potranno ancora tenerle in commercio per il periodo di un anno dal giorno in cui sara' data pubblica notizia della dichiarazione fatta all'Ufficio della proprieta' intellettuale dall'autore e aventi causa a norma del comma precedente. 
  
- « Coloro che hanno proceduto legittimamente alla riproduzione di opere cadute nel secondo periodo di protezione, di cui al [comma secondo dell'art. 9 del R. decreto 19 settembre 1882, n. 1012](../Regi%20decreti/Approva%20il%20testo%20unico%20delle%20leggi%20sui%20diritti%20dautore.%20082U1012.md), potranno ancora tenerle in commercio per un periodo di tre anni dall'entrata in vigore del [R. decreto-legge 7 novembre 1925, n. 1950](Disposizioni%20sul%20diritto%20di%20autore.%20025U1950.md) ». 
+ « Coloro che hanno proceduto legittimamente alla riproduzione di opere cadute nel secondo periodo di protezione, di cui al [comma secondo dell'art. 9 del R. decreto 19 settembre 1882, n. 1012](Approva%20il%20testo%20unico%20delle%20leggi%20sui%20diritti%20dautore.%20082U1012.md), potranno ancora tenerle in commercio per un periodo di tre anni dall'entrata in vigore del [R. decreto-legge 7 novembre 1925, n. 1950](Disposizioni%20sul%20diritto%20di%20autore.%20025U1950.md) ». 
  
  L'art. 71 del citato R. decreto-legge e' modificato come segue: 
  

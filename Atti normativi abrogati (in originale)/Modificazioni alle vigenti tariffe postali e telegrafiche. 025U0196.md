@@ -14,15 +14,15 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sul servizio postale, approvato con [R. decreto 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md);
+Visto il testo unico delle leggi sul servizio postale, approvato con [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md);
 
-Visto il regolamento generale sul servizio postale, approvato con [R. decreto 10 febbraio 1901, n. 120](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md);
+Visto il regolamento generale sul servizio postale, approvato con [R. decreto 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md);
 
 Visti i Regi decreti n.316 dell'il marzo 1920; n. 44 del 25 gennaio 1921; n. 1824 del 23 novembre 1921; n. 1638 del 17 dicembre 1922; n, 1669 del 15 luglio 1923; n. 2187 del 27 settembre 1923; n. 768 del 1° maggio 1924, e n. 905 del 23 maggio 1924, con i quali sono state apportate modificazioni alle tasse del servizio postale;
 
-Visto il [R. decreto n. 355 dell'8 febbraio 1923](../Regi%20decreti/Che%20reca%20aumento%20del%20corrispettivo%20per%20la%20fissazione%20dei%20canoni%20dovuti%20dai%20concessionari%20di%20agenzie%20di%20espressi.%20023U0355.md), col quale e' stato aumentato il corrispettivo dovuto dai concessionari di agenzie di espressi;
+Visto il [R. decreto n. 355 dell'8 febbraio 1923](Che%20reca%20aumento%20del%20corrispettivo%20per%20la%20fissazione%20dei%20canoni%20dovuti%20dai%20concessionari%20di%20agenzie%20di%20espressi.%20023U0355.md), col quale e' stato aumentato il corrispettivo dovuto dai concessionari di agenzie di espressi;
 
-Visto il [R. decreto 3 maggio 1923, n. 1131](../Regi%20decreti/Che%20riduce%20in%20via%20di%20esperimento%20le%20tariffe%20telegrafiche%20e%20telefoniche.%20023U1131.md), riguardante modificazioni provvisorie alle tariffe telegrafiche;
+Visto il [R. decreto 3 maggio 1923, n. 1131](Che%20riduce%20in%20via%20di%20esperimento%20le%20tariffe%20telegrafiche%20e%20telefoniche.%20023U1131.md), riguardante modificazioni provvisorie alle tariffe telegrafiche;
 
 Udito il Consiglio dei Ministri;
 
@@ -170,7 +170,7 @@ La tassa di registrazione per l'uso di un indirizzo abbreviato o convenuto e' di
 
 ## Art. 9.
 
-Sono abrogate le disposizioni del [R. decreto 25 gennaio 1921, n. 44](../Regi%20decreti/recante%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche%20interne.%20021U0044.md), e [3 maggio 1923, n. 1131](../Regi%20decreti/Che%20riduce%20in%20via%20di%20esperimento%20le%20tariffe%20telegrafiche%20e%20telefoniche.%20023U1131.md), in quanto sono contrarie alle disposizioni degli articoli dal n. 4 al n. 8 del presente decreto.
+Sono abrogate le disposizioni del [R. decreto 25 gennaio 1921, n. 44](recante%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche%20interne.%20021U0044.md), e [3 maggio 1923, n. 1131](Che%20riduce%20in%20via%20di%20esperimento%20le%20tariffe%20telegrafiche%20e%20telefoniche.%20023U1131.md), in quanto sono contrarie alle disposizioni degli articoli dal n. 4 al n. 8 del presente decreto.
 
 ## Art. 10.
 

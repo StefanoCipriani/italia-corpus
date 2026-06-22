@@ -16,7 +16,7 @@ Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%2
 
 Visti il [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md) e il [regio decreto, legislativo 29 maggio 1946, n. 488](../Regi%20decreti%20legislativi/Modificazioni%20delle%20disposizioni%20vigenti%20per%20la%20liquidazione%20della%20indennita%20di%20carovita%20e%20per%20la%20concessione%20dellindennita%20ai%20dipendenti%20statali%20residenti%20in%20Comuni%20distrutti%20o%20gravement_f04ea74b5da4.md);
 
-Visto il [regio decreto legislativo 20 maggio 1946, n. 450](../Regi%20decreti%20legislativi/Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md);
+Visto il [regio decreto legislativo 20 maggio 1946, n. 450](Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md);
 
 Visto il [decreto legislativo 25 ottobre 1946, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-10-25;263);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro Segretario di Stato per il lavoro e la previdenza so
 
 ## Art. 1.
 
-Le misure delle retribuzioni lorde mensili stabilite dalla tabella A annessa al [regio decreto legislativo 20 maggio 1946, n. 450](../Regi%20decreti%20legislativi/Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md), per il personale degli Uffici del lavoro, sono aumentate:
+Le misure delle retribuzioni lorde mensili stabilite dalla tabella A annessa al [regio decreto legislativo 20 maggio 1946, n. 450](Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md), per il personale degli Uffici del lavoro, sono aumentate:
  del 270 per cento sulle prime L. 1000 mensili lorde;
  del 70 per cento la quota eccedente le L. 1000 mensili lorde.
  Sull'importo lordo di ciascuno emolumento, risultante dall'applicazione del precedente comma, si opera l'arrotondamento a norma dell'[art. 1 del decreto legislativo del Capo provvisorio dello Stato 25 ottobre 1946, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-25;23#art_1).
@@ -37,7 +37,7 @@ Al personale di cui al precedente art. 1 e' esteso il disposto dell'[art. 2 del 
 
 ## Art. 3.
 
-Nelle retribuzioni risultanti dall'applicazione del primo comma del precedente art. 1 rimane assorbita e consolidata fino alla concorrenza, di L. 24.000 annue l'indennita' mensile di carovita, istituita a favore dei dipendenti dello Stato con il [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), e successive modificazioni, e concessa al personale degli Uffici regionali e provinciali del lavoro con [regio decreto legislativo 20 maggio 1946, n. 450](../Regi%20decreti%20legislativi/Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md). L'indennita' stessa resta ridotta di un eguale importo.
+Nelle retribuzioni risultanti dall'applicazione del primo comma del precedente art. 1 rimane assorbita e consolidata fino alla concorrenza, di L. 24.000 annue l'indennita' mensile di carovita, istituita a favore dei dipendenti dello Stato con il [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), e successive modificazioni, e concessa al personale degli Uffici regionali e provinciali del lavoro con [regio decreto legislativo 20 maggio 1946, n. 450](Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md). L'indennita' stessa resta ridotta di un eguale importo.
  Quando sia da determinare l'importo complessivo dell'indennita' di carovita e relative quote complementari, in applicazione degli articoli da 2 a 6 del citato [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), sul nuovo importo cosi' determinato deve essere applicata la riduzione di cui al precedente comma.
 
 ## Art. 4.
@@ -47,7 +47,7 @@ Le nuove misure delle competenze risultanti dall'attuazione del precedente art. 
 
 ## Art. 5.
 
-Gli assegni personali previsti dal 30 comma dell'[articolo 5 del regio decreto legislativo 20 maggio 1946, n. 450](../Regi%20decreti%20legislativi/Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md), vengono ridotti o riassorbiti con i miglioramenti di trattamento economico comunque derivanti alla retribuzione o all'indennita' di carovita dalla prima applicazione dei precedenti articoli.
+Gli assegni personali previsti dal 30 comma dell'[articolo 5 del regio decreto legislativo 20 maggio 1946, n. 450](Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md), vengono ridotti o riassorbiti con i miglioramenti di trattamento economico comunque derivanti alla retribuzione o all'indennita' di carovita dalla prima applicazione dei precedenti articoli.
  Al personale che nella prima attuazione del presente decreto consegue un miglioramento economico complessivo per retribuzione, assegno personale di cui al precedente comma ed indennita' carovita, comprese le quote complementari, che non superi di almeno L. 2500 mensili lorde il trattamento complessivo goduto agli stessi titoli e' attribuito un assegno "ad personam" dell'importo necessario per conseguire il detto beneficio di L. 2500 lorde.
  L'assegno stesso e' riassorbibile nei successivi aumenti che si verifichino nella retribuzione.
 
@@ -65,7 +65,7 @@ Con decreto del Ministro per le finanze e il tesoro saranno introdotte in bilanc
 
 ## Art. 8.
 
-L'[art. 9 del regio decreto legislativo 20 maggio 1946, n. 450](../Regi%20decreti%20legislativi/Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md), e' sostituito dal seguente:
+L'[art. 9 del regio decreto legislativo 20 maggio 1946, n. 450](Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md), e' sostituito dal seguente:
 
  La conferma delle qualifiche di cui il personale risulta provvisto alla data di entrata in vigore del presente decreto, secondo l'annessa tabella B e' subordinata al possesso del titolo di studio stabilito dal precedente art. 21 per il conferimento di ciascuna delle qualifiche stesse.
  Ove il personale predetto risulti provvisto di qualifiche diverse da quelle previste dalla suindicata tabella 8, le qualifiche in atto devono essere sostituite da quelle di cui alla tabella medesima, le quali saranno attribuite a giudizio insindacabile del Ministro per il lavoro e la previdenza sociale, in relazione alle funzioni effettivamente esercitate e subordinatamente al possesso del titolo di studio di cui al citato art. 2.
@@ -79,15 +79,15 @@ L'[art. 9 del regio decreto legislativo 20 maggio 1946, n. 450](../Regi%20decret
 
 ## Art. 9.
 
-Il termine previsto dal [primo comma dell'art. 10 del regio decreto legislativo 20 maggio 1946, n. 450](../Regi%20decreti%20legislativi/Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md), e' prorogato al 31 gennaio 1947.
+Il termine previsto dal [primo comma dell'art. 10 del regio decreto legislativo 20 maggio 1946, n. 450](Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md), e' prorogato al 31 gennaio 1947.
 
 ## Art. 10.
 
-Il termine previsto dall'[art. 11 del regio decreto legislativo 20 maggio 1946, n. 450](../Regi%20decreti%20legislativi/Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md), e' prorogato al 30 giugno 1947.
+Il termine previsto dall'[art. 11 del regio decreto legislativo 20 maggio 1946, n. 450](Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md), e' prorogato al 30 giugno 1947.
 
 ## Art. 11.
 
-Della Commissione prevista dall'[art. 12 del regio decreto legislativo 20 maggio 1946, n. 450](../Regi%20decreti%20legislativi/Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md), fanno parte, altresi', due funzionari di gruppo A del Ministero del lavoro e della previdenza sociale, in qualita' di segretari.
+Della Commissione prevista dall'[art. 12 del regio decreto legislativo 20 maggio 1946, n. 450](Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md), fanno parte, altresi', due funzionari di gruppo A del Ministero del lavoro e della previdenza sociale, in qualita' di segretari.
 
 ## Art. 12.
 

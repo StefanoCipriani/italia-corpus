@@ -243,7 +243,7 @@ I cancellieri per iscrivere la causa a ruolo e per ricevere la costituzione dei 
 
 ## Art. 22.
 
-In conformita' dell'[art. 120 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) gli ufficiali giudiziari sono autorizzati a valersi del servizio postale secondo le norme del R. decreto che sara' emanato su proposta del ministro della giustizia di concerto con quello delle poste e dei telegrafi.
+In conformita' dell'[art. 120 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) gli ufficiali giudiziari sono autorizzati a valersi del servizio postale secondo le norme del R. decreto che sara' emanato su proposta del ministro della giustizia di concerto con quello delle poste e dei telegrafi.
 
 ## Art. 23.
 
@@ -341,7 +341,7 @@ Gli articoli 173 e 186 della tariffa penale modificati con la [legge 19 marzo 19
  
  L'[art. 40 del regolamento del 10 dicembre 1882, n. 1103](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1882-12-10;1103#art_40), e' abrogato. 
  
- Gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-27;1669#art_1) e [2 del decreto Luogotenenziale 27 ottobre 1918, n. 1669](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-27;1669#art_2), ed il [R. decreto 20 luglio 1919, n. 1282](../Regi%20decreti/Che%20concede%20un%20assegno%20annuo%20straordinario%20agli%20ufficiali%20giudiziari%20attualmente%20in%20servizio.%20019U1282.md), sono abrogati.
+ Gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-27;1669#art_1) e [2 del decreto Luogotenenziale 27 ottobre 1918, n. 1669](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-27;1669#art_2), ed il [R. decreto 20 luglio 1919, n. 1282](Che%20concede%20un%20assegno%20annuo%20straordinario%20agli%20ufficiali%20giudiziari%20attualmente%20in%20servizio.%20019U1282.md), sono abrogati.
 
 ## Art. 35.
 

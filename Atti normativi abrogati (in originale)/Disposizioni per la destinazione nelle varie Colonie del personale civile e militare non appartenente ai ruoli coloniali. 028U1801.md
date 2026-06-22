@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 26 febbraio 1928, n. 355](Riordinamento%20del%20personale%20dellAmministrazione%20coloniale.%20028U0355.md), sul riordinamento del personale dell'Amministrazione coloniale;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), sul collocamento fuori ruolo dei dipendenti statali, e successive variazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), sul collocamento fuori ruolo dei dipendenti statali, e successive variazioni;
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili;
 
@@ -34,7 +34,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze e di quell
 
 La destinazione in qualunque Colonia del personale civile e militare non appartenente all'Amministrazione coloniale in applicazione degli [articoli 3](Riordinamento%20del%20personale%20dellAmministrazione%20coloniale.%20028U0355.md) e [5 del R. decreto-legge 26 febbraio 1928, n. 355](Riordinamento%20del%20personale%20dellAmministrazione%20coloniale.%20028U0355.md), puo' essere disposta anche d'ufficio. 
  
- Il personale destinato in Colonia, in applicazione del precedente comma, e' collocato fuori del proprio ruolo organico ai termini del [R. decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), e successive modificazioni.
+ Il personale destinato in Colonia, in applicazione del precedente comma, e' collocato fuori del proprio ruolo organico ai termini del [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), e successive modificazioni.
 Quando cio' non si renda possibile, causa la disposizione limitatrice di cui all'[art. 3 del R. decreto 16 agosto 1926, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-16;1387#art_3), e' considerato comandato, ai sensi dell'[art. 101 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili, anche se rivesta grado inferiore al sesto dell'ordinamento gerarchico. 
  
  Lo stipendio e le competenze del personale comandato sono a carico dei bilanci dei Governi coloniali e il provvedimento di comando e' adottato con decreto del Ministro competente, di concerto con quelli per le colonie e per le finanze. 

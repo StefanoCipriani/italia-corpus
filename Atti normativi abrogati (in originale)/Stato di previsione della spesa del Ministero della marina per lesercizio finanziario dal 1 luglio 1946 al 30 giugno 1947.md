@@ -35,7 +35,7 @@ Capitanerie di porto dipendenti dalla guerra;
 
 ## Art. 3.
 
-Le disposizioni di cui agli articoli 20 e 44 del testo unico concernente l'amministrazione e la contabilita' dei Corpi, Istituti e Stabilimenti militari, approvato con [regio decreto 2 febbraio 1928, n. 263](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), sono estese anche ai capitoli riguardanti le spese del materiale e della mano d'opera degli Arsenali militari marittimi, relativi prelevamenti per questo titolo non potranno eccedere, durante l'esercizio 1946-47 complessivamente la somma di L. 3.000.000.
+Le disposizioni di cui agli articoli 20 e 44 del testo unico concernente l'amministrazione e la contabilita' dei Corpi, Istituti e Stabilimenti militari, approvato con [regio decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), sono estese anche ai capitoli riguardanti le spese del materiale e della mano d'opera degli Arsenali militari marittimi, relativi prelevamenti per questo titolo non potranno eccedere, durante l'esercizio 1946-47 complessivamente la somma di L. 3.000.000.
  I capitoli a favore dei quali nell'esercizio 1946-47, potranno operarsi prelevamenti dal fondo ad disposizione di cui ai su citati articoli sono descritti nel l'elenco annesso al presente e decreto.
 
 ## Art. 4.

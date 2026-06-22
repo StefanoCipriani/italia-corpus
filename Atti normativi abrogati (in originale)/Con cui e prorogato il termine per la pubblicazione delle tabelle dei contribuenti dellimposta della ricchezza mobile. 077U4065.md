@@ -18,7 +18,7 @@ IL MINISTRO DELLE FINANZE
  
  Determina quanto segue: 
  
- E' prorogato a tutto il 20 ottobre 1877 il termine stabilito dall'art. 4 del suddetto decreto per la trasmissione al sindaco della tabella dei contribuenti di cui all'art. 79 del regolamento approvato col [R. decreto 24 agosto 1877, n. 4022](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4022.md) (Serie 2ª). 
+ E' prorogato a tutto il 20 ottobre 1877 il termine stabilito dall'art. 4 del suddetto decreto per la trasmissione al sindaco della tabella dei contribuenti di cui all'art. 79 del regolamento approvato col [R. decreto 24 agosto 1877, n. 4022](Che%20approva%20il%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4022.md) (Serie 2ª). 
  
  Il Direttore generale delle imposte dirette e del catasto e' incaricato della esecuzione del presente decreto, che sara' registrato alla Corte dei conti, ed inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia. 
  

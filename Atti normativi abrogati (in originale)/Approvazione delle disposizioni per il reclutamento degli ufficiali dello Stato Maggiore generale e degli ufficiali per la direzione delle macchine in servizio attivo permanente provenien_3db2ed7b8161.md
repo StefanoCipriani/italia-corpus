@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md), sul reclutamento degli ufficiali del corpo di Stato Maggiore generale della Regia marina e sue successive modificazioni;
 
-Visto il [R. decreto n. 495 in data 14 marzo 1915](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20nuovo%20ordinamento%20della%20R.%20Accademia%20navale.%20015U0495.md), che approva l'ordinamento della Regia accademia navale, e successive modificazioni;
+Visto il [R. decreto n. 495 in data 14 marzo 1915](Col%20quale%20e%20approvato%20il%20nuovo%20ordinamento%20della%20R.%20Accademia%20navale.%20015U0495.md), che approva l'ordinamento della Regia accademia navale, e successive modificazioni;
 
 Visto il [R. decreto 20 agosto 1924, n. 1525](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-20;1525), [1523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-20;1523) di pubblicazione, che approva il testo unico delle disposizioni legislative riguardanti l'ordinamento del corpo Reale equipaggi e lo stato giuridico dei sottufficiali della Regia marina;
 
@@ -34,7 +34,7 @@ Sono approvate le annesse disposizioni, firmate, d'ordine Nostro, dal Ministro p
 
 ## Art. 2.
 
-Le disposizioni annesse al presente decreto saranno inserite nel testo unico delle leggi sull'ordinamento dei Corpi militari della Regia marina di cui al [R. decreto 30 dicembre 1923, n. 2991](../Regi%20decreti/Compilazione%20e%20pubblicazione%20di%20testi%20unici%20coordinati%20riguardanti%20i%20personali%20e%20i%20servizi%20della%20Regia%20marina.%20023U2991.md). 
+Le disposizioni annesse al presente decreto saranno inserite nel testo unico delle leggi sull'ordinamento dei Corpi militari della Regia marina di cui al [R. decreto 30 dicembre 1923, n. 2991](Compilazione%20e%20pubblicazione%20di%20testi%20unici%20coordinati%20riguardanti%20i%20personali%20e%20i%20servizi%20della%20Regia%20marina.%20023U2991.md). 
  
  Le disposizioni stesse potranno in seguito essere modificate con decreto Reale, sentito il Consiglio superiore di marina ed il Consiglio di Stato.
 

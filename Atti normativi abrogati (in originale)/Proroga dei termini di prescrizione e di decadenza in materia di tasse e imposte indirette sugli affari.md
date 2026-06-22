@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto legislativo luogotenenziale 29 dicembre 1944, n. 393](../Decreti%20legislativi%20luogotenenziali/Proroga%20dei%20termini%20di%20prescrizione%20e%20decadenza%20previsti%20dalle%20leggi%20tributarie.%20044U0393.md), recante proroga dei termini di prescrizione e di decadenza previsti dalle leggi tributarie Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 49](../Decreti%20legislativi%20luogotenenziali/Cessazione%20dello%20stato%20di%20guerra%20e%20passaggio%20dalla%20legislazione%20di%20guerra%20a%20quella%20di%20pace.md), riguardante la cessazione dello stato di guerra e il passaggio dalla legislazione di guerra a quella di pace;
 
-Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 264](../Decreti%20legislativi%20luogotenenziali/Proroga%20di%20termini%20in%20materia%20di%20tasse%20e%20un%20poste%20indirette%20sugli%20affari.md), recante proroga di termini, in materia di tasse e imposte indirette sugli affari;
+Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 264](Proroga%20di%20termini%20in%20materia%20di%20tasse%20e%20un%20poste%20indirette%20sugli%20affari.md), recante proroga di termini, in materia di tasse e imposte indirette sugli affari;
 
 Visto il [decreto legislativo 16 novembre 1946, n. 476](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-11-16;476), concernente ulteriore proroga di termini in materia di tasse e imposte indirette sugli affari;
 

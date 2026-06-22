@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I termini fissati dall'[articolo 38 del Regio decreto 20 novembre 1865, n. 2606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-11-20;2606#art_38), pubblicato nella provincia romana col [Regio decreto 27 novembre 1870, n. 6030](../Regi%20decreti/Che%20manda%20pubblicare%20nella%20Provincia%20di%20Roma%20alcuni%20Codici%20Leggi%20Decreti%20e%20Regolamenti%20concernenti%20lunificazione%20legislativa.%20070U6030.md), e prorogati coll'[articolo 1 della legge 19 marzo 1873, numero 1281](Colla%20quale%20i%20termini%20fissati%20dallart.%2038%20del%20Regio%20decreto%2030%20novembre%201865%20per%20far%20inscrivere%20o%20rinnovare%20le%20ipoteche%20legali%20sono%20prorogati%20nella%20Provincia%20Romana%20a%20tutto%20giugno%201874.%20073U1281.md), a tutto giugno 1874, sono nuovamente prorogati per la detta provincia a tutto il dicembre 1875.
+I termini fissati dall'[articolo 38 del Regio decreto 20 novembre 1865, n. 2606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-11-20;2606#art_38), pubblicato nella provincia romana col [Regio decreto 27 novembre 1870, n. 6030](Che%20manda%20pubblicare%20nella%20Provincia%20di%20Roma%20alcuni%20Codici%20Leggi%20Decreti%20e%20Regolamenti%20concernenti%20lunificazione%20legislativa.%20070U6030.md), e prorogati coll'[articolo 1 della legge 19 marzo 1873, numero 1281](Colla%20quale%20i%20termini%20fissati%20dallart.%2038%20del%20Regio%20decreto%2030%20novembre%201865%20per%20far%20inscrivere%20o%20rinnovare%20le%20ipoteche%20legali%20sono%20prorogati%20nella%20Provincia%20Romana%20a%20tutto%20giugno%201874.%20073U1281.md), a tutto giugno 1874, sono nuovamente prorogati per la detta provincia a tutto il dicembre 1875.
 
 ## Art. 2.
 

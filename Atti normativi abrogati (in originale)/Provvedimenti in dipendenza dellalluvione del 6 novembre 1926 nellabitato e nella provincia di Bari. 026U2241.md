@@ -127,7 +127,7 @@ Il Ministero dell'economia nazionale anticipera' inoltre alla Cassa di credito a
 
 ## Art. 13.
 
-Il disposto dell'art. 91 del testo unico delle leggi e dei decreti sul credito agrario, approvato con [R. decreto 9 aprile 1922, n. 932](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md), e' reso applicabile ai mutui accordati dalla Cassa di credito agrario di Bari-Taranto.
+Il disposto dell'art. 91 del testo unico delle leggi e dei decreti sul credito agrario, approvato con [R. decreto 9 aprile 1922, n. 932](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md), e' reso applicabile ai mutui accordati dalla Cassa di credito agrario di Bari-Taranto.
 
 ## Art. 14.
 

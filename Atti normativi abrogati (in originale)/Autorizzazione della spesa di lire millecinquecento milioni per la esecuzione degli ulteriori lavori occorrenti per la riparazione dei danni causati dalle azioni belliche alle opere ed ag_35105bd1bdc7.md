@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 16 gennaio 1936, n. 801](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20di%20un%20Consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20036U0801.md), che approva, il testo unico delle disposizioni legislative riguardanti la costituzione di un Consorzio autonomo per l'esecuzione delle opere e per l'esercizio del porto di Genova;
+Visto il [regio decreto 16 gennaio 1936, n. 801](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20di%20un%20Consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20036U0801.md), che approva, il testo unico delle disposizioni legislative riguardanti la costituzione di un Consorzio autonomo per l'esecuzione delle opere e per l'esercizio del porto di Genova;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), concernente la facolta' del Governo di emanare norme giuridiche;
 
-Visto il [decreto legislativo luogotenenziale 22 settembre 1945, n. 710](../Decreti%20legislativi%20luogotenenziali/Autorizzazione%20della%20spesa%20straordinaria%20di%20lire%20un%20miliardo%20e%20cinquecento%20milioni%20per%20lavori%20di%20riparazione%20dei%20danni%20causati%20dalle%20azioni%20belliche%20alle%20opere%20ed%20impianti%20del%20porto%20di%20Ge_4ad920a20c4a.md), riguardante l'autorizzazione della spesa di lire millecinquecento milioni per la riparazione dei danni causati dalle azioni belliche alle opere ed agli impianti del porto di Genova;
+Visto il [decreto legislativo luogotenenziale 22 settembre 1945, n. 710](Autorizzazione%20della%20spesa%20straordinaria%20di%20lire%20un%20miliardo%20e%20cinquecento%20milioni%20per%20lavori%20di%20riparazione%20dei%20danni%20causati%20dalle%20azioni%20belliche%20alle%20opere%20ed%20impianti%20del%20porto%20di%20Ge_4ad920a20c4a.md), riguardante l'autorizzazione della spesa di lire millecinquecento milioni per la riparazione dei danni causati dalle azioni belliche alle opere ed agli impianti del porto di Genova;
 
 Ritenuto che tale autorizzazione di spesa e' risultata insufficiente in relazione alla entita' dei lavori di riparazione e di ricostruzione da eseguire in detto porto;
 
@@ -37,7 +37,7 @@ La somma annua di lire trecentomilioni di cui al capoverso dell'art. 1 sara' acc
 
 ## Art. 3.
 
-Ai lavori da eseguire con la somma autorizzata col presente decreto, si applicano le disposizioni di cui agli [articoli 3](../Decreti%20legislativi%20luogotenenziali/Autorizzazione%20della%20spesa%20straordinaria%20di%20lire%20un%20miliardo%20e%20cinquecento%20milioni%20per%20lavori%20di%20riparazione%20dei%20danni%20causati%20dalle%20azioni%20belliche%20alle%20opere%20ed%20impianti%20del%20porto%20di%20Ge_4ad920a20c4a.md) e [4 del decreto legislativo luogotenenziale 22 settembre 1945, n. 710](../Decreti%20legislativi%20luogotenenziali/Autorizzazione%20della%20spesa%20straordinaria%20di%20lire%20un%20miliardo%20e%20cinquecento%20milioni%20per%20lavori%20di%20riparazione%20dei%20danni%20causati%20dalle%20azioni%20belliche%20alle%20opere%20ed%20impianti%20del%20porto%20di%20Ge_4ad920a20c4a.md).
+Ai lavori da eseguire con la somma autorizzata col presente decreto, si applicano le disposizioni di cui agli [articoli 3](Autorizzazione%20della%20spesa%20straordinaria%20di%20lire%20un%20miliardo%20e%20cinquecento%20milioni%20per%20lavori%20di%20riparazione%20dei%20danni%20causati%20dalle%20azioni%20belliche%20alle%20opere%20ed%20impianti%20del%20porto%20di%20Ge_4ad920a20c4a.md) e [4 del decreto legislativo luogotenenziale 22 settembre 1945, n. 710](Autorizzazione%20della%20spesa%20straordinaria%20di%20lire%20un%20miliardo%20e%20cinquecento%20milioni%20per%20lavori%20di%20riparazione%20dei%20danni%20causati%20dalle%20azioni%20belliche%20alle%20opere%20ed%20impianti%20del%20porto%20di%20Ge_4ad920a20c4a.md).
 
 ## Art. 4.
 

@@ -22,7 +22,7 @@ Nulla e' innovato per quanto riguarda il reclutamento, la nomina e l'avanzamento
 
 ## Art. 4.
 
-Il [R. decreto 6 agosto 1914, n. 1043](../Regi%20decreti/Col%20quale%20viene%20assegnato%20uno%20speciale%20soprassoldo%20agli%20aspiranti%20di%20complemento%20guardiamarina%20e%20sottotenenti%20macchinisti.%20014U1043.md), ed ogni altra disposizione contraria al presente decreto rimane abrogata. 
+Il [R. decreto 6 agosto 1914, n. 1043](Col%20quale%20viene%20assegnato%20uno%20speciale%20soprassoldo%20agli%20aspiranti%20di%20complemento%20guardiamarina%20e%20sottotenenti%20macchinisti.%20014U1043.md), ed ogni altra disposizione contraria al presente decreto rimane abrogata. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

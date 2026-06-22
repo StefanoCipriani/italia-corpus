@@ -14,7 +14,7 @@ Visto l'art. 77, comma, secondo, della Costituzione;
 
 Visto il decreto Ministeriale 8 luglio 1924, che approva il testo unico di leggi per l'imposta di fabbricazione sulla birra e successive modificazioni;
 
-Visto il [regio decreto-legge 5 ottobre 1933, n. 1314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-05;1314), riguardante il regime fiscale degli oli di semi, convertito nella [legge 18 gennaio 1934, n. 231](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%205%20ottobre%201933%20n.%201314%20riguardante%20il%20regime%20fiscale%20degli%20oli%20di%20semi.%20034U0231.md), e successive modificazioni;
+Visto il [regio decreto-legge 5 ottobre 1933, n. 1314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-05;1314), riguardante il regime fiscale degli oli di semi, convertito nella [legge 18 gennaio 1934, n. 231](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%205%20ottobre%201933%20n.%201314%20riguardante%20il%20regime%20fiscale%20degli%20oli%20di%20semi.%20034U0231.md), e successive modificazioni;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 3 gennaio 1947, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-03;1), istitutivo della imposta di fabbricazione sui filati delle fibre tessili naturali ed artificiali;
 

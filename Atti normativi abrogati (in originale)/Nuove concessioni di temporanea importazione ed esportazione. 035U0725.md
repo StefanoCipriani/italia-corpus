@@ -20,7 +20,7 @@ Viste le successive modificazioni e aggiunte al testo delle disposizioni suddett
 
 Visto l'[art. 3, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Sentito il Comitato consultivo per le importazioni ed esportazioni temporanee, istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](../Regi%20decreti/Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), successivamente modificato;
+Sentito il Comitato consultivo per le importazioni ed esportazioni temporanee, istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), successivamente modificato;
 
 Sentito il Consiglio dei Ministri;
 

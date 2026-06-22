@@ -20,7 +20,7 @@ Vista la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Visto il [R. decreto-legge 7 marzo 1925, n. 222](Riordinamento%20per%20le%20Borse.%20025U0222.md);
 
-Visto il regolamento approvato con [R. decreto 9 aprile 1925, n. 376](../Regi%20decreti/Approvazione%20del%20regolamento%20sulle%20Borse.%20025U0376.md);
+Visto il regolamento approvato con [R. decreto 9 aprile 1925, n. 376](Approvazione%20del%20regolamento%20sulle%20Borse.%20025U0376.md);
 
 Visto il [R. decreto-legge 29 luglio 1925, n. 1261](Passaggio%20delle%20attribuzioni%20concernenti%20le%20Borse%20valori%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20delle%20finanze.%20025U1261.md);
 

@@ -130,7 +130,7 @@ Le disposizioni dei precedenti articoli si applicano anche ai subaffitti ed affi
 
 ## Art. 15.
 
-Gli inquilini smobilitati che godono dei vantaggi loro conferiti dal [R. decreto del 15 agosto 1919, n. 1440](../Regi%20decreti/Che%20detta%20norme%20per%20il%20pagamento%20delle%20quote%20di%20affitto%20non%20corrisposte%20dagli%20inquilini%20durante%20il%20servizio%20militare.%20019U1440.md), potranno, se le loro famiglie hanno percepito il sussidio governativo, scegliere fra l'abbuono delle quote di affitto non corrisposte durante il servizio militare, rinunziando alle misure di favore stabilite dall'art. 5 del su citato decreto, ovvero il mantenimento di queste misure di favore, con l'obbligo di pagare le quote arretrate di affitto.
+Gli inquilini smobilitati che godono dei vantaggi loro conferiti dal [R. decreto del 15 agosto 1919, n. 1440](Che%20detta%20norme%20per%20il%20pagamento%20delle%20quote%20di%20affitto%20non%20corrisposte%20dagli%20inquilini%20durante%20il%20servizio%20militare.%20019U1440.md), potranno, se le loro famiglie hanno percepito il sussidio governativo, scegliere fra l'abbuono delle quote di affitto non corrisposte durante il servizio militare, rinunziando alle misure di favore stabilite dall'art. 5 del su citato decreto, ovvero il mantenimento di queste misure di favore, con l'obbligo di pagare le quote arretrate di affitto.
 
 ## Art. 16.
 

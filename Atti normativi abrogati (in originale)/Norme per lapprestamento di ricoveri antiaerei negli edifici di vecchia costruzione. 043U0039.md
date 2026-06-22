@@ -104,7 +104,7 @@ Qualora, non oltre otto giorni dalla notifica dell'ordinanza di cui all'art. 2, 
 
 ## Art. 7.
 
-Qualora il proprietario, all'infuori dei casi previsti dall'art. 6, primo e terzo comma, non provveda alla esecuzione delle ordinanze emesse dal podesta' per l'apprestamento del ricovero o delle uscite di sicurezza, i lavori saranno eseguiti d'ufficio e la relativa spesa sara' ricuperata per intero con le modalita' da stabilirsi ai sensi dell'art. 6, secondo comma. Si applica, inoltre, la sanzione prevista dall'[art. 650 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Qualora il proprietario, all'infuori dei casi previsti dall'art. 6, primo e terzo comma, non provveda alla esecuzione delle ordinanze emesse dal podesta' per l'apprestamento del ricovero o delle uscite di sicurezza, i lavori saranno eseguiti d'ufficio e la relativa spesa sara' ricuperata per intero con le modalita' da stabilirsi ai sensi dell'art. 6, secondo comma. Si applica, inoltre, la sanzione prevista dall'[art. 650 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  Le stesse disposizioni si osservano se, nel termine assegnato, non siano stati compiuti, senza giustificato motivo, tutti i lavori prescritti, inoltre al proprietario non verra' concesso alcun contributo per i lavori gia' eseguiti.
 
 ## Art. 8.

@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Veduto il R. decreto 21 ottobre 1901, che istituisce la Commissione consultiva per le sostanze esplosive; 
  
- Veduto il regolamento approvato con [R. decreto 21 novembre 1907, n. 805](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20istituzione%20dun%20laboratorio%20chimico%20per%20le%20sostanze%20esplosive%20presso%20il%20Ministero%20dallinterno.%20007U0805.md); 
+ Veduto il regolamento approvato con [R. decreto 21 novembre 1907, n. 805](Che%20approva%20lannesso%20regolamento%20per%20la%20istituzione%20dun%20laboratorio%20chimico%20per%20le%20sostanze%20esplosive%20presso%20il%20Ministero%20dallinterno.%20007U0805.md); 
  
  Veduti gli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625#art_9) e [10 del decreto Luogotenenziale del 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625#art_10); 
  
@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  «Art. 3° - La Commissione si compone di un presidente e di due membri, tutti nominati dal ministro dell'interno. Ne fanno anche parte tre delegati tecnici da designarsi, uno per ciascuno, dai ministri delle finanze, della guerra e della marina». 
  
- 2° - L'art. 12 del regolamento approvato con [Regio decreto 21 novembre 1907, n. 805](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20istituzione%20dun%20laboratorio%20chimico%20per%20le%20sostanze%20esplosive%20presso%20il%20Ministero%20dallinterno.%20007U0805.md) e' modificato come appresso: 
+ 2° - L'art. 12 del regolamento approvato con [Regio decreto 21 novembre 1907, n. 805](Che%20approva%20lannesso%20regolamento%20per%20la%20istituzione%20dun%20laboratorio%20chimico%20per%20le%20sostanze%20esplosive%20presso%20il%20Ministero%20dallinterno.%20007U0805.md) e' modificato come appresso: 
  
  «Art. 12° - Ai componenti della Commissione e' assegnata per ogni adunanza, che risulti da analogo verbale, la medaglia di presenza di lire 10 (dieci), per i componenti appartenenti a qualsiasi amministrazione dello Stato, e di lire 15 (quindici) per i componenti estranei alle dette amministrazioni. 
  

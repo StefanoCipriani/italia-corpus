@@ -14,7 +14,7 @@ Il Governo del Re e' autorizzato a far pagare le spese ordinarie e straordinarie
 
 ## Art. 2.
 
-Sono autorizzate le spese di L. 76.705.000 per provvedere agli oneri generali di carattere straordinario, di L. 50.000.000 per gli oneri relativi alla manutenzione straordinaria ed alle opere edilizie e igieniche di cui ai [Regi decreti 18 maggio 1931, n. 544](../Regi%20decreti/Concentramento%20nel%20Ministero%20dei%20lavori%20pubblici%20di%20servizi%20relativi%20alla%20esecuzione%20di%20lavori%20pubblici%20per%20conto%20dello%20Stato.%20031U0544.md), e [16 giugno 1932, n. 681](../Regi%20decreti/Attribuzione%20al%20Ministero%20dei%20lavori%20pubblici%20dei%20servizi%20relativi%20alla%20costruzione%20di%20ospedali%20cimiteri%20locali%20di%20isolamento%20acquedotti%20ed%20altre%20opere%20igieniche.%20032U0681.md), nonche' di L. 5.000.000 per le necessita' piu' urgenti in caso di pubbliche calamita'.
+Sono autorizzate le spese di L. 76.705.000 per provvedere agli oneri generali di carattere straordinario, di L. 50.000.000 per gli oneri relativi alla manutenzione straordinaria ed alle opere edilizie e igieniche di cui ai [Regi decreti 18 maggio 1931, n. 544](../Regi%20decreti/Concentramento%20nel%20Ministero%20dei%20lavori%20pubblici%20di%20servizi%20relativi%20alla%20esecuzione%20di%20lavori%20pubblici%20per%20conto%20dello%20Stato.%20031U0544.md), e [16 giugno 1932, n. 681](Attribuzione%20al%20Ministero%20dei%20lavori%20pubblici%20dei%20servizi%20relativi%20alla%20costruzione%20di%20ospedali%20cimiteri%20locali%20di%20isolamento%20acquedotti%20ed%20altre%20opere%20igieniche.%20032U0681.md), nonche' di L. 5.000.000 per le necessita' piu' urgenti in caso di pubbliche calamita'.
 
 ## Art. 3.
 

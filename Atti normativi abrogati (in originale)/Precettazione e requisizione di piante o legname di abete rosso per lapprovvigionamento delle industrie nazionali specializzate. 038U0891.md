@@ -36,7 +36,7 @@ La intimazione alla precettazione e l'esecuzione dell'ordine di requisizione son
 
 ## Art. 3.
 
-Il possessore, di cui all'articolo precedente che abbia ricevuto l'ordine di precettazione o di requisizione, deve, sotto la sua responsabilita', darne immediata notizia al proprietario del bosco o del legname abbattuto od in lavorazione, ed e' costituito custode delle cose precettate o requisite, sotto le sanzioni del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Il possessore, di cui all'articolo precedente che abbia ricevuto l'ordine di precettazione o di requisizione, deve, sotto la sua responsabilita', darne immediata notizia al proprietario del bosco o del legname abbattuto od in lavorazione, ed e' costituito custode delle cose precettate o requisite, sotto le sanzioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  La precettazione da' luogo a speciale contrassegno con martellatura.
 
 ## Art. 4.

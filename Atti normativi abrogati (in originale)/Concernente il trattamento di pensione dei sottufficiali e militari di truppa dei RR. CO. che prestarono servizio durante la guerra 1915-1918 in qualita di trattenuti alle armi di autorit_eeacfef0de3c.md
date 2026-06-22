@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sulle Pensioni approvato con [R. decreto n. 70, del 21 febbraio 1895](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
+Visto il testo unico delle leggi sulle Pensioni approvato con [R. decreto n. 70, del 21 febbraio 1895](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
 
 Visto il regolamento per la esecuzione della legge predetta, approvato con [R. decreto 5 settembre 1895, n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md);
 
@@ -22,7 +22,7 @@ Visto il [decreto Luogotenenziale n. 2150, del 6 dicembre 1917](https://www.norm
 
 Visti i decreti Luogotenenziali nn. 494 e [495 del 6 aprile 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-06;495);
 
-Visto il [R. decreto n. 1802 in data 2 ottobre 1919](../Regi%20decreti/Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md) che detta le norme per l'arma dei carabinieri Reali;
+Visto il [R. decreto n. 1802 in data 2 ottobre 1919](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md) che detta le norme per l'arma dei carabinieri Reali;
 
 Udito il Consiglio dei ministri;
 

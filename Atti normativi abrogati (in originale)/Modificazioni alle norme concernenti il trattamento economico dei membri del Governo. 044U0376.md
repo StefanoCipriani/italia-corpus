@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 12 febbraio 1888, n. 5195](Sul%20riordinamento%20dei%20Ministeri.%20088U5195.md), e successive modificazioni;
 
-Visto il testo unico delle leggi sulle pensioni civili o militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
+Visto il testo unico delle leggi sulle pensioni civili o militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
 
 Visto il [R. decreto-legge 10 luglio 1924, n. 1100](Norme%20sulla%20costituzione%20dei%20Gabinetti%20dei%20Ministri%20e%20delle%20segreterie%20particolari%20dei%20Sottosegretari%20di%20Stato.%20024U1100.md);
 
@@ -36,7 +36,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 Lo stipendio mensile dei membri del Governo e' fissato nella misura di L. 30.000 per il Presidente del Consiglio dei Ministri, di L. 15.000 per i Ministri Segretari di Stato e di L. 12.000 per i Sottosegretari di. Stato. 
  
- Agli effetti della pensione, quando questa spetti a norma delle leggi vigenti, il periodo di tempo trascorso nella carica di Ministro e Sottosegretario sara' considerato come corrispondente a quello prestato nel grado primo, di cui all'allegato 3° del [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
+ Agli effetti della pensione, quando questa spetti a norma delle leggi vigenti, il periodo di tempo trascorso nella carica di Ministro e Sottosegretario sara' considerato come corrispondente a quello prestato nel grado primo, di cui all'allegato 3° del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  L'indennita' mensile di alloggio per i membri del Governo, che non risiedano a Roma, e' fissata nella misura di L. 2000. 
  

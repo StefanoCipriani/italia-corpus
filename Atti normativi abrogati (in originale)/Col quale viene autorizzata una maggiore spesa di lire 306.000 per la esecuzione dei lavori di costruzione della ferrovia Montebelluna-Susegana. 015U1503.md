@@ -30,7 +30,7 @@ Sulla proposta del ministro segretario di Stato per i lavori pubblici, di concer
 
 ## Articolo unico.
 
-In aggiunta alla somma di L. 6540.000 di cui all'[articolo 1 del R. decreto 1° novembre 1914, n. 1244](../Regi%20decreti/Da%20convertirsi%20in%20legge%20col%20quale%20viene%20autorizzata%20la%20costruzione%20di%20ferrovie%20a%20cura%20diretta%20dello%20Stato.%20014U1244.md), e' autorizzata la ulteriore spesa di L. 306.000 per fra fronte agli impegni da assumere, entro l'esercizio finanziario corrente, per la esecuzione dei lavori di costruzione a cura diretta dello Stato della ferrovia Montebelluna-Susegana. 
+In aggiunta alla somma di L. 6540.000 di cui all'[articolo 1 del R. decreto 1° novembre 1914, n. 1244](Da%20convertirsi%20in%20legge%20col%20quale%20viene%20autorizzata%20la%20costruzione%20di%20ferrovie%20a%20cura%20diretta%20dello%20Stato.%20014U1244.md), e' autorizzata la ulteriore spesa di L. 306.000 per fra fronte agli impegni da assumere, entro l'esercizio finanziario corrente, per la esecuzione dei lavori di costruzione a cura diretta dello Stato della ferrovia Montebelluna-Susegana. 
  
  La detta somma di lire 306,000 da assegnare con decreto del ministro del tesoro, in aggiunta a quella stanziata al capitolo n. 263 del bilancio del Ministero dei lavori pubblici per l'esercizio finanziario 1915-916, sara' da provvedere con i mezzi stabiliti dall'[articolo 3 della legge 23 dicembre 1908, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-12-23;638#art_3), e successive. 
  

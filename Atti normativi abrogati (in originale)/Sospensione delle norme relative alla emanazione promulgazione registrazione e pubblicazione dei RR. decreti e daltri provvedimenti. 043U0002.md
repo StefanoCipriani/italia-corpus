@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 18 della legge 19 gennaio 1939 n. 129](Istituzione%20della%20Camera%20dei%20Fasci%20e%20delle%20Corporazioni.%20039U0129.md);
 
-Visto il T.U. delle disposizioni legislative riguardanti la promulgazione e pubblicazioni delle leggi e dei RR. decreti, approvato con [R.D. 24 settembre 1931 n. 1256](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20promulgazione%20e%20pubblicazione%20delle%20leggi%20e%20dei%20Regi%20decreti.%20031U1256.md);
+Visto il T.U. delle disposizioni legislative riguardanti la promulgazione e pubblicazioni delle leggi e dei RR. decreti, approvato con [R.D. 24 settembre 1931 n. 1256](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20promulgazione%20e%20pubblicazione%20delle%20leggi%20e%20dei%20Regi%20decreti.%20031U1256.md);
 
 Visto il T.U. 12 luglio 1934 n. 1214 delle leggi sull'ordinamento della Corte dei Conti;
 
@@ -54,6 +54,6 @@ Il presente Decreto entra in vigore il giorno della sua pubblicazione nella seri
  
  BADOGLIO 
  
- Visto: (ai sensi del [R.D. 30 ottobre 1943 n. 1/B](../Regi%20decreti/Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
+ Visto: (ai sensi del [R.D. 30 ottobre 1943 n. 1/B](Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
  
  Il Guardasigilli: BADOGLIO

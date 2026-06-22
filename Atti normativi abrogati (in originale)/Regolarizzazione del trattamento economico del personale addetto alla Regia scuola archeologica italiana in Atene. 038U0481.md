@@ -20,7 +20,7 @@ Visto l'art. 3, n. 2, della legge 31 gennaio 1926-IV, n. 100;
 
 Visto il R. decreto 15 dicembre 1936-XV, n. 2256;
 
-Riconosciuta la necessita' urgente ed assoluta di rivedere il trattamento economico del personale addetto alla Regia scuola archeologica italiana di Atene, istituita con [R. decreto 9 maggio 1909, n. 373](../Regi%20decreti/Istituzione%20in%20Atene%20di%20un%20Istituto%20italiano%20di%20archeologia.%20009U0373.md);
+Riconosciuta la necessita' urgente ed assoluta di rivedere il trattamento economico del personale addetto alla Regia scuola archeologica italiana di Atene, istituita con [R. decreto 9 maggio 1909, n. 373](Istituzione%20in%20Atene%20di%20un%20Istituto%20italiano%20di%20archeologia.%20009U0373.md);
 
 Sentito il Consiglio dei Ministri;
 

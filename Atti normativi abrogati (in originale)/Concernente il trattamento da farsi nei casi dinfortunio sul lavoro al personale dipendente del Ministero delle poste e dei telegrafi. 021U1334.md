@@ -34,7 +34,7 @@ Tali disposizioni si estenderanno al personale postale viaggiante, quando cesser
 
 ## Art. 3.
 
-Nulla e' innovato a quanto e' stabilito dai [Regi decreti 6 giugno 1907, n. 716](../Regi%20decreti/Concernente%20concessione%20dindennita%20per%20infortuni%20sul%20lavoro%20ad%20agenti%20ed%20operai%20dellAmministrazione%20postale%20e%20telegrafica.%20007U0716.md), [28 novembre 1907, n 823](../Regi%20decreti/Che%20estende%20allAmministrazione%20dei%20telefoni%20dello%20Stato%20gli%20effetti%20della%20legge%20pei%20casi%20dinfortunio%20sul%20lavoro.%20007U0823.md), [16 maggio 1912, n.574](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md), 6 aprile 1913, 462.
+Nulla e' innovato a quanto e' stabilito dai [Regi decreti 6 giugno 1907, n. 716](Concernente%20concessione%20dindennita%20per%20infortuni%20sul%20lavoro%20ad%20agenti%20ed%20operai%20dellAmministrazione%20postale%20e%20telegrafica.%20007U0716.md), [28 novembre 1907, n 823](Che%20estende%20allAmministrazione%20dei%20telefoni%20dello%20Stato%20gli%20effetti%20della%20legge%20pei%20casi%20dinfortunio%20sul%20lavoro.%20007U0823.md), [16 maggio 1912, n.574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md), 6 aprile 1913, 462.
 
 ## Art. 4.
 

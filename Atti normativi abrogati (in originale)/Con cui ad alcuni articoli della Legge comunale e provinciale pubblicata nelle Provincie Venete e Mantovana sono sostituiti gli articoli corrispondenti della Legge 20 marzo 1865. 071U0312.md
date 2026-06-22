@@ -38,7 +38,7 @@ Agli articoli 39, 40, 41, 42, 146 e 147 della Legge comunale e provinciale, pubb
  
  « Art. 42. Se vi e' ricorso in Cassazione, la Corte provvedera' a termini dell'art. 40.» 
  
- « Art. 146. Saranno soggetti alle pene di polizia sancite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) i contravventori ai regolamenti vigenti, o che venissero formati, in esecuzione delle Leggi per l'esazione delle imposte speciali dei Comuni, per regolare il godimento dei beni comunali, per l'ornato e la polizia locale, ed agli ordini e provvedimenti a cio' relativi dati dai Prefetti, dai Sotto-Prefetti e dai Sindaci.» 
+ « Art. 146. Saranno soggetti alle pene di polizia sancite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) i contravventori ai regolamenti vigenti, o che venissero formati, in esecuzione delle Leggi per l'esazione delle imposte speciali dei Comuni, per regolare il godimento dei beni comunali, per l'ornato e la polizia locale, ed agli ordini e provvedimenti a cio' relativi dati dai Prefetti, dai Sotto-Prefetti e dai Sindaci.» 
  
  « Art. 147. Per l'accertamento delle semplici contravvenzioni ai regolamenti locali bastera' sino a prova contraria la deposizione asseverata con giuramento nelle 24 ore, dinanzi al Sindaco, di uno degli agenti del Comune o di uno degli agenti della pubblica forza, contemplati nel [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447).
 

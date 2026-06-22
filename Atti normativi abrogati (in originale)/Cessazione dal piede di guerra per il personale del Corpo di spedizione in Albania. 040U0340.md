@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il R. decreto 7 aprile 1939-XVII, n. 590, concernente la dichiarazione sul piede di guerra del personale del Corpo di spedizione militare in Albania, nonche' del personale della Regia marina a bordo o a terra dislocato in Albania e di quello delle unita' e dei servizi della Regia aeronautica mobilitati per la particolare esigenza;
 
-Visto il [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito e quello penale militare marittimo;
+Visto il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito e quello penale militare marittimo;
 
 Sentito il Consiglio dei Ministri;
 

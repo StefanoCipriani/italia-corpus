@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Veduto il [R. decreto-legge 6 maggio 1926, n. 812](Unificazione%20del%20servizio%20dellemissione%20dei%20biglietti%20di%20banca.%20026U0812.md), per l'unificazione del servizio dell'emissione dei biglietti di banca;
 
-Veduta la Convenzione stipulata il 15 giugno 1926 tra il Governo e la Banca d'Italia ed approvata con [R. decreto 15 giugno 1926, n. 1195](../Regi%20decreti/Approvazione%20della%20Convenzione%20stipulata%20fra%20il%20Governo%20e%20la%20Banca%20dItalia%20per%20lunificazione%20del%20servizio%20di%20emissione%20dei%20biglietti%20di%20banca.%20026U1195.md), per l'esecuzione del Regio decreto-legge predetto;
+Veduta la Convenzione stipulata il 15 giugno 1926 tra il Governo e la Banca d'Italia ed approvata con [R. decreto 15 giugno 1926, n. 1195](Approvazione%20della%20Convenzione%20stipulata%20fra%20il%20Governo%20e%20la%20Banca%20dItalia%20per%20lunificazione%20del%20servizio%20di%20emissione%20dei%20biglietti%20di%20banca.%20026U1195.md), per l'esecuzione del Regio decreto-legge predetto;
 
-Veduta la Convenzione stipulata il 26 giugno 1926 fra il Governo, la Banca d'Italia, il Banco di Napoli ed il Banco di Sicilia ed approvata con [R. decreto del 1° luglio 1926, n. 1192](../Regi%20decreti/Approvazione%20della%20Convenzione%20stipulata%20il%2026%20giugno%201926%20fra%20il%20Governo%20la%20Banca%20dItalia%20il%20Banco%20di%20Napoli%20e%20il%20Banco%20di%20Sicilia%20per%20lunificazione%20del%20servizio%20di%20emissione%20dei%20bigliet_7868c20cc27b.md), pure per l'esecuzione del citato Regio decreto-legge;
+Veduta la Convenzione stipulata il 26 giugno 1926 fra il Governo, la Banca d'Italia, il Banco di Napoli ed il Banco di Sicilia ed approvata con [R. decreto del 1° luglio 1926, n. 1192](Approvazione%20della%20Convenzione%20stipulata%20il%2026%20giugno%201926%20fra%20il%20Governo%20la%20Banca%20dItalia%20il%20Banco%20di%20Napoli%20e%20il%20Banco%20di%20Sicilia%20per%20lunificazione%20del%20servizio%20di%20emissione%20dei%20bigliet_7868c20cc27b.md), pure per l'esecuzione del citato Regio decreto-legge;
 
 Veduto l'[art. 3, comma 2°, della legge 31 gennaio 1926, numero 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

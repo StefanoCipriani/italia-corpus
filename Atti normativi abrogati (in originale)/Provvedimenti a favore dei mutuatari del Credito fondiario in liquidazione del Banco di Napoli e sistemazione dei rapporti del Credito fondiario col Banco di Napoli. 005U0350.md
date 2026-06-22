@@ -84,7 +84,7 @@ Al 1° gennaio 1909, il Banco di Napoli determinera' l'ammontare complessivo del
  
  Il Banco di Napoli provvedera' all'incremento del fondo di quindici milioni con i rinvestimenti semestrali e trimestrali degli interessi a moltiplico, sino a raggiungere l'integrale rimborso della somma predetta di L. 40,355,790.54. 
  
- Tanto questo fondo, quanto quello derivante dall'operazione di cui all'art. 13 del testo unico delle leggi sugli Istituti di emissione, approvato con [R. decreto 9 ottobre 1900, n. 373](../Regi%20decreti/Col%20quale%20si%20approva%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20riguardanti%20glIstituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20banca.%20000U0373.md), saranno considerati come utili a compenso delle immobilizzazioni del Banco di Napoli regolate nell'art. 50 del testo unico medesimo.
+ Tanto questo fondo, quanto quello derivante dall'operazione di cui all'art. 13 del testo unico delle leggi sugli Istituti di emissione, approvato con [R. decreto 9 ottobre 1900, n. 373](Col%20quale%20si%20approva%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20riguardanti%20glIstituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20banca.%20000U0373.md), saranno considerati come utili a compenso delle immobilizzazioni del Banco di Napoli regolate nell'art. 50 del testo unico medesimo.
 
 ## Art. 13.
 

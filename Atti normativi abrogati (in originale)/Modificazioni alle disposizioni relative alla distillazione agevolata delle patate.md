@@ -29,7 +29,7 @@ Il [primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:19
 
 ## Art. 2.
 
-L'[art. 2 del decreto-legge 29 ottobre 1977, n. 798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-10-29;798#art_2), convertito, con modificazioni, nella [legge 23 dicembre 1977, n. 938](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2029%20ottobre%201977%20n.%20797%20recante%20disposizioni%20straordinarie%20per%20la%20commercializzazione%20allestero%20dei%20concentrati%20di%20pomodoro.md), e' sostituito dal seguente:
+L'[art. 2 del decreto-legge 29 ottobre 1977, n. 798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-10-29;798#art_2), convertito, con modificazioni, nella [legge 23 dicembre 1977, n. 938](Conversione%20in%20legge%20del%20decreto-legge%2029%20ottobre%201977%20n.%20797%20recante%20disposizioni%20straordinarie%20per%20la%20commercializzazione%20allestero%20dei%20concentrati%20di%20pomodoro.md), e' sostituito dal seguente:
  "Le distillerie che intendono fruire delle agevolazioni predette devono presentare, al Ministero dell'agricoltura e delle foreste apposita domanda in bollo specificando in essa i quantitativi di patate che intendono acquistare, indicando per ogni singola quantita' di prodotto, le regioni di provenienza.
  Il Ministero dell'agricoltura e delle foreste, sentite le regioni, procedera' ad un piano di riparto tra le regioni interessate del prodotto da distillare, secondo le modalita' che saranno stabilite con apposito decreto ministeriale sulla base delle necessita' esistenti nelle singole regioni, tenuto conto delle situazioni di particolare gravita' in esse determinatesi".
 

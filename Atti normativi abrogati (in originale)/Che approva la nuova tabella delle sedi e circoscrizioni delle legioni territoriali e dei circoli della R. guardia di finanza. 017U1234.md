@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'art. 4 del testo unico delle leggi sull'ordinamento della R. guardia di finanza approvato con [R. decreto 26 novembre 1914, n. 1440](../Regi%20decreti/Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md); 
+ Visto l'art. 4 del testo unico delle leggi sull'ordinamento della R. guardia di finanza approvato con [R. decreto 26 novembre 1914, n. 1440](Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md); 
  
  Visto il [decreto Luogotenenziale 10 giugno 1917, n. 972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-06-10;972); 
  

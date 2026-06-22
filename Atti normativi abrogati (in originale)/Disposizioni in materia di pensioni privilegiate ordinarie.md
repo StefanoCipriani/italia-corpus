@@ -10,17 +10,17 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico sulle pensioni civili e militari, approvato con [regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
+Visto il testo unico sulle pensioni civili e militari, approvato con [regio decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
 
-Visto al [decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](../Decreti%20legislativi%20luogotenenziali/Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md);
+Visto al [decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md);
 
-Visto il [decreto legislativo luogotenenziale 13 marzo 1945, n. 116](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20dei%20dipendenti%20delle%20Amministrazioni%20statali%20degli%20Enti%20locali%20ed%20in%20genere%20degli%20Enti%20di%20diritto%20pubblico%20nonche%20a%20favore%20dei%20pensionati%20statali.%20045U0116.md);
+Visto il [decreto legislativo luogotenenziale 13 marzo 1945, n. 116](Miglioramenti%20economici%20a%20favore%20dei%20dipendenti%20delle%20Amministrazioni%20statali%20degli%20Enti%20locali%20ed%20in%20genere%20degli%20Enti%20di%20diritto%20pubblico%20nonche%20a%20favore%20dei%20pensionati%20statali.%20045U0116.md);
 
 Visto il decreto legislativo luogotenenziale 21 novembre 1945,
 
 n. 722;
 
-Visto il [decreto legislativo luogotenenziale 8 maggio 1946, n. 429](../Decreti%20legislativi%20luogotenenziali/Aumento%20degli%20assegni%20di%20caroviveri%20a%20favore%20dei%20pensionati%20statali.md);
+Visto il [decreto legislativo luogotenenziale 8 maggio 1946, n. 429](Aumento%20degli%20assegni%20di%20caroviveri%20a%20favore%20dei%20pensionati%20statali.md);
 
 Visto il decreto legislativo del Capo provvisorio dello Stato
 
@@ -44,7 +44,7 @@ L'aumento previsto dall'[art. 12 del decreto legislativo del Capo provvisorio de
 
 ## Art. 3.
 
-Gli assegni di caroviveri annessi alle pensioni tabellari dei militari di truppa, previsti dal [terzo comma dell'art. 6 del decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](../Decreti%20legislativi%20luogotenenziali/Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md), e modificati dal [quinto comma dell'art. 11 del decreto legislativo luogotenenziale 13 marzo 1945, n. 116](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20dei%20dipendenti%20delle%20Amministrazioni%20statali%20degli%20Enti%20locali%20ed%20in%20genere%20degli%20Enti%20di%20diritto%20pubblico%20nonche%20a%20favore%20dei%20pensionati%20statali.%20045U0116.md) e dal [secondo comma dell'art. 18 del decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), sono elevati:
+Gli assegni di caroviveri annessi alle pensioni tabellari dei militari di truppa, previsti dal [terzo comma dell'art. 6 del decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md), e modificati dal [quinto comma dell'art. 11 del decreto legislativo luogotenenziale 13 marzo 1945, n. 116](Miglioramenti%20economici%20a%20favore%20dei%20dipendenti%20delle%20Amministrazioni%20statali%20degli%20Enti%20locali%20ed%20in%20genere%20degli%20Enti%20di%20diritto%20pubblico%20nonche%20a%20favore%20dei%20pensionati%20statali.%20045U0116.md) e dal [secondo comma dell'art. 18 del decreto legislativo luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), sono elevati:
  da L. 4800 a L. 30.000 annue lorde per i titolari di pensioni privilegiate dirette di prima e seconda categoria e per i titolari di pensioni dirette, non privilegiate, di eta' non inferiore a 60 anni; da L. 4800 a L. 18.000 annue lorde per i titolari di pensioni dirette, non privilegiate, aventi meno di 60 anni di eta';
  da L. 3600 a L. 20.400 annue lorde per i titolari di pensioni di riversibilita'.
  Resta fermo il caroviveri di L. 4800 annue lorde per i titolari di pensioni tabellari privilegiate dirette dalla terza alla ottava categoria.
@@ -57,11 +57,11 @@ Le disposizioni di legge relative all'acquisto del diritto a pensione privilegia
 
 ## Art. 5.
 
-In tutti i casi in cui per un evento di guerra o attinente alla guerra non si faccia luogo a concessione di trattamento di pensione di guerra per il verificarsi delle condizioni previste dagli [articoli 46](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [47 del regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), o da altre disposizioni in cui comunque si sancisca la decadenza, la prescrizione o la perdita del diritto al suddetto trattamento, non si fa luogo, per qualsiasi ragione, a concessione di pensione privilegiata ordinaria.
+In tutti i casi in cui per un evento di guerra o attinente alla guerra non si faccia luogo a concessione di trattamento di pensione di guerra per il verificarsi delle condizioni previste dagli [articoli 46](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [47 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), o da altre disposizioni in cui comunque si sancisca la decadenza, la prescrizione o la perdita del diritto al suddetto trattamento, non si fa luogo, per qualsiasi ragione, a concessione di pensione privilegiata ordinaria.
 
 ## Art. 6.
 
-La proroga del pagamento degli assegni privilegiati ordinari rinnovabili, consentita dal [decreto legislativo luogotenenziale 22 aprile 1945, n. 204](../Decreti%20legislativi%20luogotenenziali/Norme%20speciali%20in%20materia%20di%20pensioni%20privilegiate%20ordinarle%20per%20la%20durata%20della%20guerra.%20045U0204.md), fino a sei mesi dopo la cessazione dello stato di guerra, successivamente differita con il [decreto legislativo luogotenenziale 8 maggio 1946, n. 354](../Decreti%20legislativi%20luogotenenziali/Proroga%20e%20revoca%20di%20taluni%20provvedimenti%20in%20dipendenza%20della%20cessazione%20dello%20stato%20di%20guerra.md), fino al 14 aprile 1947, e' ulteriormente protratta, per altri sei mesi a, decorrere da quest'ultima data.
+La proroga del pagamento degli assegni privilegiati ordinari rinnovabili, consentita dal [decreto legislativo luogotenenziale 22 aprile 1945, n. 204](Norme%20speciali%20in%20materia%20di%20pensioni%20privilegiate%20ordinarle%20per%20la%20durata%20della%20guerra.%20045U0204.md), fino a sei mesi dopo la cessazione dello stato di guerra, successivamente differita con il [decreto legislativo luogotenenziale 8 maggio 1946, n. 354](Proroga%20e%20revoca%20di%20taluni%20provvedimenti%20in%20dipendenza%20della%20cessazione%20dello%20stato%20di%20guerra.md), fino al 14 aprile 1947, e' ulteriormente protratta, per altri sei mesi a, decorrere da quest'ultima data.
 
 ## Art. 7.
 

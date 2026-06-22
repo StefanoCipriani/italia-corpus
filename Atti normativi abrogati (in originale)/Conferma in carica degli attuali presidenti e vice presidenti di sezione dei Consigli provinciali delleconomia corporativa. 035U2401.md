@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto l'art. 18 del testo unico delle leggi sui Consigli e sugli Uffici provinciale dell'economia corporativa approvato con [R. decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md);
+Visto l'art. 18 del testo unico delle leggi sui Consigli e sugli Uffici provinciale dell'economia corporativa approvato con [R. decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md);
 
 Ritenuta la necessita' urgente ed assoluta di confermare temporaneamente in carica gli attuali presidenti e vice presidenti di sezione dei Consigli provinciali dell'economia corporativa la cui nomina a' termini dell'art. 18 sapracitato e' venuta a scader col 1° dicembre 1935;
 

@@ -18,7 +18,7 @@ RE D'ITALIA
 
 Vedute le [leggi 26 settembre 1920, n. 1322 e 19 dicembre 1920, n. 1778](Che%20approva%20lannesso%20Trattato%20concluso%20fra%20il%20Regno%20dItalia%20e%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20020U1778.md);
 
-Veduti i [Regi decreti 22 luglio 1920, n. 1233](../Regi%20decreti/Che%20reca%20disposizioni%20per%20lamministrazione%20civile%20nella%20Venezia%20Giulia%20e%20nella%20Venezia%20Tridentina.%20020U1233.md), [14 agosto 1920, n. 1234](../Regi%20decreti/Concernente%20il%20funzionamento%20dellufficio%20speciale%20istituito%20presso%20la%20presidenza%20del%20Consiglio%20dei%20ministri%20con%20lart.%205%20del%20R.%20decreto%2022%20luglio%201920%20n.%201233%20per%20lamministrazione%20civile%20n_c8f6990d2b4b.md), [17 dicembre 1920, n. 1788](../Regi%20decreti/Che%20provvede%20alla%20soppressione%20del%20Governatorato%20per%20la%20Dalmazia%20con%20la%20istituzione%20di%20un%20Commissariato%20civile%20in%20Zara.%20020U1788.md), [8 settembre 1921, n. 1319; e il R. decreto-legge](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-09-08;1319) [31 agosto 1921, n. 1269](Relativo%20alla%20sistemazione%20amministrativa%20delle%20nuove%20Provincie.%20021U1269.md);
+Veduti i [Regi decreti 22 luglio 1920, n. 1233](Che%20reca%20disposizioni%20per%20lamministrazione%20civile%20nella%20Venezia%20Giulia%20e%20nella%20Venezia%20Tridentina.%20020U1233.md), [14 agosto 1920, n. 1234](Concernente%20il%20funzionamento%20dellufficio%20speciale%20istituito%20presso%20la%20presidenza%20del%20Consiglio%20dei%20ministri%20con%20lart.%205%20del%20R.%20decreto%2022%20luglio%201920%20n.%201233%20per%20lamministrazione%20civile%20n_c8f6990d2b4b.md), [17 dicembre 1920, n. 1788](Che%20provvede%20alla%20soppressione%20del%20Governatorato%20per%20la%20Dalmazia%20con%20la%20istituzione%20di%20un%20Commissariato%20civile%20in%20Zara.%20020U1788.md), [8 settembre 1921, n. 1319; e il R. decreto-legge](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-09-08;1319) [31 agosto 1921, n. 1269](Relativo%20alla%20sistemazione%20amministrativa%20delle%20nuove%20Provincie.%20021U1269.md);
 
 Udito il Consiglio dei ministri;
 
@@ -38,7 +38,7 @@ I commissari civili per i distretti politici assumono la denominazione di sottop
 
 ## Art. 3.
 
-E' applicabile nei territori annessi la disposizione dell'art. 8 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md).
+E' applicabile nei territori annessi la disposizione dell'art. 8 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md).
 
 ## Art. 4.
 
@@ -66,7 +66,7 @@ Con decreto Reale, promosso dal ministro del tesoro di concerto con il president
 
 ## Art. 8.
 
-Le Commissioni consultive istituite con il [R. decreto 8 settembre 1921, n. 1319](../Regi%20decreti/Che%20istituisce%20le%20Commissioni%20consultive%20per%20la%20sistemazione%20amministrativa%20dei%20territori%20annessi%20al%20Regno.%20021U1319.md), per la sistemazione dei territori annessi continuano a funzionare secondo le norme in vigore. 
+Le Commissioni consultive istituite con il [R. decreto 8 settembre 1921, n. 1319](Che%20istituisce%20le%20Commissioni%20consultive%20per%20la%20sistemazione%20amministrativa%20dei%20territori%20annessi%20al%20Regno.%20021U1319.md), per la sistemazione dei territori annessi continuano a funzionare secondo le norme in vigore. 
  
  Le Commissioni consultive di Trieste, Trento e Zara sono presiedute dai prefetti. 
  

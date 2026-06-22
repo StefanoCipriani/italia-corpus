@@ -70,7 +70,7 @@ Gli atti di liberalita' fatti a favore dell'Ente per il raggiungimento degli sco
 
 ## Art. 9.
 
-Sono abrogate le disposizioni della [legge 11 aprile 1938, n. 612](Istituzione%20dellEnte%20nazionale%20fascista%20per%20la%20protezione%20degli%20animali.%20038U0612.md), e del [regio decreto 2 maggio 1939, n. 1284](../Regi%20decreti/Norme%20per%20lordinamento%20dellEnte%20nazionale%20fascista%20per%20la%20protezione%20degli%20animali.%20039U1284.md), contrarie o incompatibili con quelle della presente legge.
+Sono abrogate le disposizioni della [legge 11 aprile 1938, n. 612](Istituzione%20dellEnte%20nazionale%20fascista%20per%20la%20protezione%20degli%20animali.%20038U0612.md), e del [regio decreto 2 maggio 1939, n. 1284](Norme%20per%20lordinamento%20dellEnte%20nazionale%20fascista%20per%20la%20protezione%20degli%20animali.%20039U1284.md), contrarie o incompatibili con quelle della presente legge.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

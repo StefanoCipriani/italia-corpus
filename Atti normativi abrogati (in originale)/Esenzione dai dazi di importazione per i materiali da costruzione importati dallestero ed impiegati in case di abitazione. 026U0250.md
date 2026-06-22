@@ -20,7 +20,7 @@ Visto l'[art. 4 del R. decreto-legge 8 gennaio 1920, n. 16](Che%20modifica%20il%
 
 Visto il [R. decreto-legge 18 agosto 1920, n. 1340](Che%20apporta%20modificazioni%20a%20quello%2030%20novembre%201919%20n.%202318%20contenente%20disposizioni%20per%20le%20case%20popolari%20ed%20economiche%20e%20per%20lindustria%20edilizia.%20020U1340.md), che ha prorogato i termini indicati nel predetto art. 4 del citato [R. decreto-legge 8 gennaio 1920, n. 16](Che%20modifica%20il%20testo%20unico%2030%20novembre%201919%20n.%202318%20contenente%20provvedimenti%20per%20le%20case%20popolari%20ed%20economiche%20e%20per%20lindustria%20edilizia.%20020U0016.md);
 
-Visto il [R. decreto 12 ottobre 1920, n. 1675](../Regi%20decreti/Che%20stabilisce%20le%20norme%20per%20lapplicazione%20dellart.%204%20del%20Regio%20decreto-legge%208%20gennaio%201920%20numero%2016%20circa%20i%20dazi%20dimportazione%20pei%20materiali%20per%20la%20costruzione%20di%20case%20popolari%20ed%20econo_264eac9208fc.md), che determina i materiali per la costruzione di case popolari, da ammettere in esenzione;
+Visto il [R. decreto 12 ottobre 1920, n. 1675](Che%20stabilisce%20le%20norme%20per%20lapplicazione%20dellart.%204%20del%20Regio%20decreto-legge%208%20gennaio%201920%20numero%2016%20circa%20i%20dazi%20dimportazione%20pei%20materiali%20per%20la%20costruzione%20di%20case%20popolari%20ed%20econo_264eac9208fc.md), che determina i materiali per la costruzione di case popolari, da ammettere in esenzione;
 
 Visto l'[art. 30 della legge 20 agosto 1921, n. 1177](Che%20reca%20provvedimenti%20contro%20la%20disoccupazione.%20021U1177.md), recante provvedimenti contro la disoccupazione;
 

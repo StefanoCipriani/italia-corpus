@@ -23,7 +23,7 @@ Sulla proposta del Ministro per la grazia e giustizia, di concerto con il Minist
 ## Articolo unico.
 
 Il primo comma dell'articolo unico del [decreto legislativo 22 gennaio 1947, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-01-22;91), e' cosi' modificato.
- "La Sezione distaccata di Corte di appello, istituita temporaneamente in Lucera con [regio decreto-legge 31 gennaio 1944, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-31;27), e soppressa con [decreto legislativo luogotenenziale 26 ottobre 1945, n. 782](../Decreti%20legislativi%20luogotenenziali/Soppressione%20della%20Sezione%20di%20Corte%20dappello%20di%20Lucera.%20045U0782.md), cessa definitivamente di funzionare col 30 giugno 1947".
+ "La Sezione distaccata di Corte di appello, istituita temporaneamente in Lucera con [regio decreto-legge 31 gennaio 1944, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-31;27), e soppressa con [decreto legislativo luogotenenziale 26 ottobre 1945, n. 782](Soppressione%20della%20Sezione%20di%20Corte%20dappello%20di%20Lucera.%20045U0782.md), cessa definitivamente di funzionare col 30 giugno 1947".
  Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale e con effetto dal 1° maggio 1947.
 
 Il presente decreto, munito del sigillo dello Stato, sara' incerto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

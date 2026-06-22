@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 3 agosto 1928, n. 2031](../Regi%20decreti/Riparto%20degli%20utili%20netti%20di%20gestione%20dellEnte%20autonomo%20per%20lAcquedotto%20pugliese%20per%20gli%20esercizi%20dal%201924-25%20al%201927-28.%20028U2031.md), concernente il riparto degli utili netti dell'Ente autonomo per l'Acquedotto pugliese per gli esercizi dal 1924-25 al 1927-28;
+Visto il [R. decreto 3 agosto 1928, n. 2031](Riparto%20degli%20utili%20netti%20di%20gestione%20dellEnte%20autonomo%20per%20lAcquedotto%20pugliese%20per%20gli%20esercizi%20dal%201924-25%20al%201927-28.%20028U2031.md), concernente il riparto degli utili netti dell'Ente autonomo per l'Acquedotto pugliese per gli esercizi dal 1924-25 al 1927-28;
 
 Vista la [legge 27 giugno 1929, n. 1273](Anticipazione%20di%20L.%2015000000%20allEnte%20autonomo%20per%20lAcquedotto%20pugliese.%20029U1273.md), con la quale fu disposto che gli utili accertati e da accertare dal predetto Ente in dipendenza della propria gestione non potessero essere ulteriormente impegnati fino alla emanazione dei provvedimenti riguardanti il finanziamento dell'Acquedotto;
 

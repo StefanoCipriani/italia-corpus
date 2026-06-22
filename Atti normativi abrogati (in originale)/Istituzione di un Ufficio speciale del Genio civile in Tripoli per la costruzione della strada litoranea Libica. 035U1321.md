@@ -20,11 +20,11 @@ Visto l'ordinamento organico per l'amministrazione della Libia, approvato con [R
 
 Visto il [R. decreto-legge 14 giugno 1928 n. 1801](Disposizioni%20per%20la%20destinazione%20nelle%20varie%20Colonie%20del%20personale%20civile%20e%20militare%20non%20appartenente%20ai%20ruoli%20coloniali.%20028U1801.md), convertito nella [legge 20 dicembre 1928, n. 3315](Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20giugno%201928%20n.%201801%20recante%20disposizioni%20per%20la%20destinazione%20nelle%20varie%20Colonie%20del%20personale%20civile%20e%20militare%20non%20appartenente%20ai%20ruoli%20col_36734625218b.md), relativo alla destinazione in Colonia di personale civile e militare non appartenente al ruolo coloniale;
 
-Visto il [R. decreto 31 ottobre 1923, n. 2504](../Regi%20decreti/Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md), ed il decreto Ministeriale 1° ottobre 1925, relativi al trattamento economico del personale civile in Colonia ed all'indennita' di trasferta per piccole distanze;
+Visto il [R. decreto 31 ottobre 1923, n. 2504](Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md), ed il decreto Ministeriale 1° ottobre 1925, relativi al trattamento economico del personale civile in Colonia ed all'indennita' di trasferta per piccole distanze;
 
 Visto il [R. decreto-legge 26 febbraio 1928, n. 355](Riordinamento%20del%20personale%20dellAmministrazione%20coloniale.%20028U0355.md), inerente al numero dei funzionari civili e militari delle altre Amministrazioni dello Stato che possono prestar servizio in Colonia;
 
-Viste le norme per l'esecuzione delle opere pubbliche nelle Colonie, approvate con [R. decreto 21 maggio 1934, n. 1397](../Regi%20decreti/Norme%20per%20la%20esecuzione%20delle%20opere%20pubbliche%20nelle%20Colonie.%20034U1397.md);
+Viste le norme per l'esecuzione delle opere pubbliche nelle Colonie, approvate con [R. decreto 21 maggio 1934, n. 1397](Norme%20per%20la%20esecuzione%20delle%20opere%20pubbliche%20nelle%20Colonie.%20034U1397.md);
 
 Ritenuta la necessita' e l'urgenza di istituire un Ufficio speciale del Genio civile con sede in Tripoli, allo scopo provvedere alla piu' rapida costruzione della strada litoranea di congiunzione del confine tunisino con quello egiziano;
 
@@ -50,7 +50,7 @@ Il personale tecnico direttivo da assegnare all'istituendo Ufficio sara' costitu
 
 ## Art. 4.
 
-Al personale anzidetto saranno corrisposte, sui bilanci separati della Libia, oltre al normale trattamento economico, le indennita' previste dal [R. decreto 31 ottobre 1923, n. 2504](../Regi%20decreti/Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md), e dal decreto Ministeriale 1° ottobre 1925, qualora concorrano le circostanze in esso contenute.
+Al personale anzidetto saranno corrisposte, sui bilanci separati della Libia, oltre al normale trattamento economico, le indennita' previste dal [R. decreto 31 ottobre 1923, n. 2504](Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md), e dal decreto Ministeriale 1° ottobre 1925, qualora concorrano le circostanze in esso contenute.
 
 ## Art. 5.
 

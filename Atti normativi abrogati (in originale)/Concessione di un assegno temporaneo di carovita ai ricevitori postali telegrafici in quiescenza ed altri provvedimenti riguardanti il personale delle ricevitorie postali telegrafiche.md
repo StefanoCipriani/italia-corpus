@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Viste le [leggi 18 ottobre 1942, nn. 1407 e 1408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-18;1408), per la costituzione degli istituti "Cauzioni e quiescenza per i ricevitori postali telegrafici" e "Assistenza e previdenza per il personale delle ricevitorie postali e telegrafiche";
 
-Visto il [decreto legislativo luogotenenziale 4 maggio 1946, n. 591](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20concernenti%20le%20ricevitorie%20postali%20e%20telegrafiche%20e%20personale%20relativo.md);
+Visto il [decreto legislativo luogotenenziale 4 maggio 1946, n. 591](Provvedimenti%20concernenti%20le%20ricevitorie%20postali%20e%20telegrafiche%20e%20personale%20relativo.md);
 
 Visto l'art. 330 del Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
@@ -28,23 +28,23 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Art. 1.
 
-Ai ricevitori postali telegrafici in quiescenza, aventi diritto ai sussidi mensili previsti dall'[art. 22 della legge 18 ottobre 1942, n. 1407](Costituzione%20dellIstituto%20cauzioni%20e%20quiescenza%20per%20i%20ricevitori%20postali%20e%20telegrafici.%20042U1407.md), raddoppiati ai sensi del [decreto legislativo luogotenenziale 4 maggio 1946, numero 591](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20concernenti%20le%20ricevitorie%20postali%20e%20telegrafiche%20e%20personale%20relativo.md), l'Istituto "Cauzioni e quiescenza per i ricevitori postali telegrafici" corrisponde, in aggiunta ai sussidi anzidetti, un assegno temporaneo mensile di carovita nella misura di lire milleduecento.
+Ai ricevitori postali telegrafici in quiescenza, aventi diritto ai sussidi mensili previsti dall'[art. 22 della legge 18 ottobre 1942, n. 1407](Costituzione%20dellIstituto%20cauzioni%20e%20quiescenza%20per%20i%20ricevitori%20postali%20e%20telegrafici.%20042U1407.md), raddoppiati ai sensi del [decreto legislativo luogotenenziale 4 maggio 1946, numero 591](Provvedimenti%20concernenti%20le%20ricevitorie%20postali%20e%20telegrafiche%20e%20personale%20relativo.md), l'Istituto "Cauzioni e quiescenza per i ricevitori postali telegrafici" corrisponde, in aggiunta ai sussidi anzidetti, un assegno temporaneo mensile di carovita nella misura di lire milleduecento.
  Nei casi in cui il sussidio mensile e' concesso, ai sensi del citato art. 22, a favore dei ricevitori in misura ridotta, o nei casi in cui il sussidio stesso e' concesso a favore degli aventi diritto dei ricevitori, l'assegno di cui al precedente comma e' attribuito in misura ridotta proporzionalmente all'aliquota adottata nella liquidazione del sussidio.
 
 ## Art. 2.
 
-I contributi mensili da versarsi all'Istituto cauzioni e quiescenza da tutti i ricevitori postali telegrafici a norma dell'[art. 24, lettera a), della legge 18 ottobre 1942, n. 1407](Costituzione%20dellIstituto%20cauzioni%20e%20quiescenza%20per%20i%20ricevitori%20postali%20e%20telegrafici.%20042U1407.md), modificato col [decreto legislativo luogotenenziale 4 maggio 1946, n. 591](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20concernenti%20le%20ricevitorie%20postali%20e%20telegrafiche%20e%20personale%20relativo.md), sono fissati nella misura di lire duecento per i ricevitori di prima classe, di lire centocinquanta per i ricevitori di seconda classe e di lire centotrenta per i ricevitori di terza classe.
+I contributi mensili da versarsi all'Istituto cauzioni e quiescenza da tutti i ricevitori postali telegrafici a norma dell'[art. 24, lettera a), della legge 18 ottobre 1942, n. 1407](Costituzione%20dellIstituto%20cauzioni%20e%20quiescenza%20per%20i%20ricevitori%20postali%20e%20telegrafici.%20042U1407.md), modificato col [decreto legislativo luogotenenziale 4 maggio 1946, n. 591](Provvedimenti%20concernenti%20le%20ricevitorie%20postali%20e%20telegrafiche%20e%20personale%20relativo.md), sono fissati nella misura di lire duecento per i ricevitori di prima classe, di lire centocinquanta per i ricevitori di seconda classe e di lire centotrenta per i ricevitori di terza classe.
  I contributi a carico dell'Amministrazione delle poste e delle telecomunicazioni, di cui alle lettere b) e c) dello stesso art. 24, sono fissati rispettivamente in lire dodici milioni e lire novecentomila.
 
 ## Art. 3.
 
-L'[art. 4 della legge 18 ottobre 1942, n. 1408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-18;1408#art_4), modificato dall'[art. 3 del decreto legislativo luogotenenziale 4 maggio 1946, n. 591](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20concernenti%20le%20ricevitorie%20postali%20e%20telegrafiche%20e%20personale%20relativo.md), e' sostituito dal seguente:
+L'[art. 4 della legge 18 ottobre 1942, n. 1408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-18;1408#art_4), modificato dall'[art. 3 del decreto legislativo luogotenenziale 4 maggio 1946, n. 591](Provvedimenti%20concernenti%20le%20ricevitorie%20postali%20e%20telegrafiche%20e%20personale%20relativo.md), e' sostituito dal seguente:
  "Sono inscritti alle gestioni per l'educazione ed istruzione degli orfani e per le colonie estive tutti i ricevitori e gerenti postali-telegrafici e gli agenti rurali effettivi.
  I contributi mensili da versarsi all'Istituto sono fissati nella misura di lire cinquanta per i ricevitori o gerenti di prima classe; lire quarantacinque per i ricevitori e gerenti di seconda classe; lire trenta per i ricevitori e gerenti di terza classe; lire venticinque per gli agenti rurali effettivi".
 
 ## Art. 4.
 
-L'[art. 5 della legge 18 ottobre 1942, n. 1408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-18;1408#art_5), modificato dal [decreto legislativo luogotenenziale 4 maggio 1946, n. 591](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20concernenti%20le%20ricevitorie%20postali%20e%20telegrafiche%20e%20personale%20relativo.md), e' sostituito dal seguente:
+L'[art. 5 della legge 18 ottobre 1942, n. 1408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-18;1408#art_5), modificato dal [decreto legislativo luogotenenziale 4 maggio 1946, n. 591](Provvedimenti%20concernenti%20le%20ricevitorie%20postali%20e%20telegrafiche%20e%20personale%20relativo.md), e' sostituito dal seguente:
  "Sono inscritti alla gestione sussidi tutti gli agenti rurali effettivi.
  Il contributo mensile da essi dovuto all'Istituto e' fissato il lire venticinque.
  Il contributo annuo dell'Amministrazione delle poste e delle telecomunicazioni, previsto dall'art. 330, comma terzo, del Codice postale e delle telecomunicazioni e' fissato in lire un milione.

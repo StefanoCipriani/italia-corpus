@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convalidato il [Regio decreto 23 agosto 1890, N. 7051](../Regi%20decreti/Che%20autorizza%20il%20ministro%20delle%20finanze%20a%20procedere%20allappalto%20dei%20lavori%20per%20la%20ricostruzione%20di%20parte%20del%20palazzo%20demaniale%20del%20Broletto%20in%20Milano.%20090U7051.md), col quale fu autorizzato il ministro delle finanze a procedere all'appalto dei lavori per la demolizione e la ricostruzione di parte del palazzo demaniale Broletto in Milano.
+E' convalidato il [Regio decreto 23 agosto 1890, N. 7051](Che%20autorizza%20il%20ministro%20delle%20finanze%20a%20procedere%20allappalto%20dei%20lavori%20per%20la%20ricostruzione%20di%20parte%20del%20palazzo%20demaniale%20del%20Broletto%20in%20Milano.%20090U7051.md), col quale fu autorizzato il ministro delle finanze a procedere all'appalto dei lavori per la demolizione e la ricostruzione di parte del palazzo demaniale Broletto in Milano.
 
 ## Art. 2.
 

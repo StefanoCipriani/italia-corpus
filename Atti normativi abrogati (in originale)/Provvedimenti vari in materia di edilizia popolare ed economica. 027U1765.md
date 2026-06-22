@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 30 novembre 1919, n. 2318](Che%20riunisce%20in%20testo%20unico%20le%20leggi%20per%20le%20case%20popolari%20e%20per%20lindustria%20edilizia.%20019U2318.md), che approva il testo unico delle leggi per le case popolari e per l'industria edilizia;
 
-Visto il [R. decreto 2 dicembre 1920, n. 1790](../Regi%20decreti/Concernente%20la%20vigilanza%20tecnica%20sulle%20costruzioni%20di%20case%20popolari%20ed%20economiche%20che%20vengono%20eseguite%20col%20contributo%20governativo%20nel%20pagamento%20degli%20interessi%20o%20con%20mutui%20somministrati%20d_697a5829ce24.md), per la vigilanza sulle costruzioni di case popolari ed economiche eseguite con finanziamento statale;
+Visto il [R. decreto 2 dicembre 1920, n. 1790](Concernente%20la%20vigilanza%20tecnica%20sulle%20costruzioni%20di%20case%20popolari%20ed%20economiche%20che%20vengono%20eseguite%20col%20contributo%20governativo%20nel%20pagamento%20degli%20interessi%20o%20con%20mutui%20somministrati%20d_697a5829ce24.md), per la vigilanza sulle costruzioni di case popolari ed economiche eseguite con finanziamento statale;
 
 Visto il [R. decreto-legge 7 ottobre 1923, n. 2412](Compiti%20della%20Commissione%20di%20vigilanza%20sulla%20edilizia%20popolare%20provvedimenti%20per%20la%20esecutorieta%20delle%20sue%20decisioni%20e%20altre%20norme%20in%20materia%20di%20abitazioni.%20023U2412.md), che reca disposizioni sui compiti della Commissione di vigilanza sull'edilizia popolare, provvedimenti per la esecutorieta' delle sue decisioni ed altre norme in materia di abitazioni;
 
-Visto il [R. decreto 18 novembre 1923, n. 2538](../Regi%20decreti/Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), concernente i provvedimenti per le finanze locali;
+Visto il [R. decreto 18 novembre 1923, n. 2538](Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), concernente i provvedimenti per le finanze locali;
 
 Visto il [R. decreto-legge 28 agosto 1924, n. 1395](Istituzione%20dei%20Circoli%20dispezione%20del%20Genio%20civile%20e%20riforma%20del%20Consiglio%20superiore%20dei%20lavori%20pubblici.%20024U1395.md), concernente la istituzione di circoli di ispezione del Genio civile e la riforma del Consiglio superiore dei lavori pubblici;
 

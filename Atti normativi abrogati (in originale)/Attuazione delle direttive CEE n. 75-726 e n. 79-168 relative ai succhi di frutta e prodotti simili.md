@@ -141,7 +141,7 @@ Salvo che il fatto costituisca reato, chiunque nella preparazione dei prodotti c
 
 ## Art. 15.
 
-E' consentito per un anno dalla data di entrata in vigore del presente decreto preparare i prodotti ivi previsti in conformita' alle norme precedentemente vigenti e confezionarli in conformita' alla [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), o al relativo regolamento approvato con [decreto del Presidente della Repubblica il 26 marzo 1980, n. 327](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md).
+E' consentito per un anno dalla data di entrata in vigore del presente decreto preparare i prodotti ivi previsti in conformita' alle norme precedentemente vigenti e confezionarli in conformita' alla [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), o al relativo regolamento approvato con [decreto del Presidente della Repubblica il 26 marzo 1980, n. 327](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md).
  I prodotti di cui al comma precedente possono essere posti in vendita fino al 31 dicembre 1984.
 
 ## Art. 16.

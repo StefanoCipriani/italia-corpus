@@ -26,7 +26,7 @@ I ruoli organici del personale:
 
 ## Art. 2.
 
-A decorrere dal 1° gennaio 1903, il posto di caposezione amministrativo di 1ª classe presso l'Ufficio centrale d'ispezione per la vigilanza sugli Istituti d'emissione e sui servizi del tesoro, fara' parte del ruolo organico del Ministero del tesoro, in conformita' dell'[articolo 4 del R. decreto 10 dicembre 1894, n. 535](../Regi%20decreti/Sullordinamento%20dellUfficio%20centrale%20dIspezione%20sugli%20Istituti%20demissione%20e%20sui%20servizi%20del%20Tesoro%20094U0535.md).
+A decorrere dal 1° gennaio 1903, il posto di caposezione amministrativo di 1ª classe presso l'Ufficio centrale d'ispezione per la vigilanza sugli Istituti d'emissione e sui servizi del tesoro, fara' parte del ruolo organico del Ministero del tesoro, in conformita' dell'[articolo 4 del R. decreto 10 dicembre 1894, n. 535](Sullordinamento%20dellUfficio%20centrale%20dIspezione%20sugli%20Istituti%20demissione%20e%20sui%20servizi%20del%20Tesoro%20094U0535.md).
 
 ## Art. 3.
 
@@ -38,7 +38,7 @@ Ai nuovi posti di ufficiale d'ordine di classe transitoria nel Ministero del tes
  
  a) gli scrivani straordinari attualmente in servizio nel Ministero; 
  
- b) i commessi fiduciari dell'agente contabile dei titoli del debito pubblico e del tesoriere centrale, che furono abilitati al posto d'ufficiale d'ordine negli esami d'idoneita' indetti con [R. decreto 31 marzo 1898, n. 105](../Regi%20decreti/Portante%20provvedimenti%20a%20favore%20degli%20scrivani%20straordinari%20del%20Ministero%20del%20Tesoro.%20098U0105.md); 
+ b) i commessi fiduciari dell'agente contabile dei titoli del debito pubblico e del tesoriere centrale, che furono abilitati al posto d'ufficiale d'ordine negli esami d'idoneita' indetti con [R. decreto 31 marzo 1898, n. 105](Portante%20provvedimenti%20a%20favore%20degli%20scrivani%20straordinari%20del%20Ministero%20del%20Tesoro.%20098U0105.md); 
  
  Ai funzionari della classe transitoria sara' corrisposto, in aggiunta allo stipendio normale stabilito dal relativo ruolo organico, un assegno personale, non calcolabile agli effetti della pensione, equivalente alla differenza fra lo stipendio stesso e la maggiore retribuzione di cui ora sono provvisti nella qualita' di straordinari.
 

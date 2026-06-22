@@ -22,7 +22,7 @@ Sulla proposta del Ministro per il turismo e lo spettacolo, di concerto con i Mi
 
 ## Art. 1.
 
-Gli Enti provinciali per il turismo, istituiti con il [regio decreto-legge 20 giugno 1935, n. 1425](Nuovo%20ordinamento%20degli%20organi%20provinciali%20per%20il%20turismo.%20035U1425.md), convertito nella [legge 3 febbraio 1936, n. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201425%20concernente%20il%20nuovo%20ordinamento%20degli%20organi%20provinciali%20per%20il%20turismo.%20036U0413.md), sono dotati di autonomia amministrativa ed hanno personalita' giuridica di diritto pubblico.
+Gli Enti provinciali per il turismo, istituiti con il [regio decreto-legge 20 giugno 1935, n. 1425](Nuovo%20ordinamento%20degli%20organi%20provinciali%20per%20il%20turismo.%20035U1425.md), convertito nella [legge 3 febbraio 1936, n. 413](Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201425%20concernente%20il%20nuovo%20ordinamento%20degli%20organi%20provinciali%20per%20il%20turismo.%20036U0413.md), sono dotati di autonomia amministrativa ed hanno personalita' giuridica di diritto pubblico.
  Essi hanno sede in ciascun capoluogo di Provincia e sono sottoposti alla vigilanza del Ministero del turismo e dello spettacolo.
 
 ## Art. 2.

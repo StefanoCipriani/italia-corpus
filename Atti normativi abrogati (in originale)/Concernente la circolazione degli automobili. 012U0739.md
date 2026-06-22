@@ -61,7 +61,7 @@ Il certificato di idoneita' a condurre automobili o motocicli deve essere ritira
 
 ## Art. 7.
 
-Senza pregiudizio delle pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e dalle leggi finanziarie, e' punito: 
+Senza pregiudizio delle pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e dalle leggi finanziarie, e' punito: 
  
  1°con l'ammenda da 300 a 1000 lire o con l'arresto fino a due mesi o con entrambe le pene, chi abbandona senza soccorso la persona da lui investita che ne abbia bisogno; 
  

@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 27 febbraio 1908, n. 106](../Regi%20decreti/Che%20istituisce%20in%20Mantova%20un%20ufficio%20speciale%20del%20genio%20civile%20alla%20dipendenza%20del%20magistrato%20alle%20acque.%20008U0106.md) col quale venne istituito in Mantova un ufficio speciale del genio civile alla dipendenza del Magistrato alle acque in Venezia con l'incarico di provvedere alla trattazione degli affari del territorio mantovano di competenza del Magistrato medesimo ed agli studi relativi alla regolazione del lago di Garda, del fiume Mincio e dei laghi di Mantova in rapporto alla sistemazione idraulica del territorio a sinistra del Mincio; 
+ Visto il [R. decreto 27 febbraio 1908, n. 106](Che%20istituisce%20in%20Mantova%20un%20ufficio%20speciale%20del%20genio%20civile%20alla%20dipendenza%20del%20magistrato%20alle%20acque.%20008U0106.md) col quale venne istituito in Mantova un ufficio speciale del genio civile alla dipendenza del Magistrato alle acque in Venezia con l'incarico di provvedere alla trattazione degli affari del territorio mantovano di competenza del Magistrato medesimo ed agli studi relativi alla regolazione del lago di Garda, del fiume Mincio e dei laghi di Mantova in rapporto alla sistemazione idraulica del territorio a sinistra del Mincio; 
  
  Vista la [legge 5 maggio 1907, n. 257](Concernente%20la%20istituzione%20del%20Magistrato%20alle%20acque%20per%20le%20provincie%20Venete%20e%20di%20Mantova.%20007U0257.md), istitutrice del Magistrato predetto; 
  

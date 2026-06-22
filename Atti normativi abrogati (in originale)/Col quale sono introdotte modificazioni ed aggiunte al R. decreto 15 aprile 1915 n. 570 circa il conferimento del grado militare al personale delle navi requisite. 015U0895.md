@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La tabella approvata con [R. decreto 6 maggio 1915, n. 683](../Regi%20decreti/Relativo%20al%20conferimento%20del%20grado%20militare%20al%20personale%20delle%20navi%20mercantili%20requisite%20quali%20incrociatori%20ausiliari.%20015U0683.md), che regola il conferimento del grado militare al personale nelle navi mercantili requisito, non e' applicabile agli equipaggi dei piroscafi e dei galleggianti in genere azionati a motore con potenza uguale od inferiore ai mille cavalli, ne' a quelli del naviglio a vela, comunque requisiti per servizi di Stato in base alle norme in vigore.
+La tabella approvata con [R. decreto 6 maggio 1915, n. 683](Relativo%20al%20conferimento%20del%20grado%20militare%20al%20personale%20delle%20navi%20mercantili%20requisite%20quali%20incrociatori%20ausiliari.%20015U0683.md), che regola il conferimento del grado militare al personale nelle navi mercantili requisito, non e' applicabile agli equipaggi dei piroscafi e dei galleggianti in genere azionati a motore con potenza uguale od inferiore ai mille cavalli, ne' a quelli del naviglio a vela, comunque requisiti per servizi di Stato in base alle norme in vigore.
 
 ## Art. 2.
 
@@ -28,7 +28,7 @@ I gradi militari che dal 1° Maggio 1915 siano stati o saranno assegnati in base
 
 ## Art. 5.
 
-Alla tabella approvata con [R. decreto 6 maggio 1915, n. 683](../Regi%20decreti/Relativo%20al%20conferimento%20del%20grado%20militare%20al%20personale%20delle%20navi%20mercantili%20requisite%20quali%20incrociatori%20ausiliari.%20015U0683.md), sono fatte le seguenti aggiunte: 
+Alla tabella approvata con [R. decreto 6 maggio 1915, n. 683](Relativo%20al%20conferimento%20del%20grado%20militare%20al%20personale%20delle%20navi%20mercantili%20requisite%20quali%20incrociatori%20ausiliari.%20015U0683.md), sono fatte le seguenti aggiunte: 
  
 
 -----------------¦--------------------------------¦----------------

@@ -33,7 +33,7 @@ Nei casi non contemplati dagli [articoli 2](https://www.normattiva.it/uri-res/N2
 
 ## Art. 4.
 
-Per le opere di importo fino a 30 milioni di lire la concessione, ai sensi dell'[art. 19 della legge 31 maggio 1964, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-31;357#art_19), dei contributi di cui all'[art. 3 della legge 25 luglio 1952, n. 991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991#art_3), e' disposta, in deroga allo [art. 17 del decreto del Presidente della Repubblica 16 novembre 1952, n. 1979](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2025%20luglio%201952%20n.%20991%20recante%20provvedimenti%20in%20favore%20dei%20territori%20montani.md), dai capi degli Ispettorati ripartimentali delle foreste.
+Per le opere di importo fino a 30 milioni di lire la concessione, ai sensi dell'[art. 19 della legge 31 maggio 1964, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-31;357#art_19), dei contributi di cui all'[art. 3 della legge 25 luglio 1952, n. 991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991#art_3), e' disposta, in deroga allo [art. 17 del decreto del Presidente della Repubblica 16 novembre 1952, n. 1979](../DPR/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2025%20luglio%201952%20n.%20991%20recante%20provvedimenti%20in%20favore%20dei%20territori%20montani.md), dai capi degli Ispettorati ripartimentali delle foreste.
 
 ## Art. 5.
 

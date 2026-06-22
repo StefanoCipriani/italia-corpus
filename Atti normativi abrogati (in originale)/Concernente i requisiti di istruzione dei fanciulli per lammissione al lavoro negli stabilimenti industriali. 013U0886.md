@@ -64,7 +64,7 @@ E' esteso l'obbligo dell'osservanza delle disposizioni contenute nella presente 
 
 ## Art. 9.
 
-Il Governo e' autorizzato a coordinare in testo unico le disposizioni della presente legge con quelle del testo unico della legge sul lavoro delle donne e dei fanciulli, approvato con [R. decreto 10 novembre 1907, n. 818](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20di%20legge%20sul%20lavoro%20delle%20donne%20e%20dei%20fanciulli.%20007U0818.md). 
+Il Governo e' autorizzato a coordinare in testo unico le disposizioni della presente legge con quelle del testo unico della legge sul lavoro delle donne e dei fanciulli, approvato con [R. decreto 10 novembre 1907, n. 818](Che%20approva%20lunito%20testo%20unico%20di%20legge%20sul%20lavoro%20delle%20donne%20e%20dei%20fanciulli.%20007U0818.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

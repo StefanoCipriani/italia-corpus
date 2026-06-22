@@ -18,7 +18,7 @@ UMBERTO I
  
  Visto l'art. 8 dello Statuto costituzionale del Regno; 
  
- Visto l'art. 165 del testo unico delle leggi sul reclutamento del Regio esercito e la modificazione apportatavi dalla [legge 8 luglio 1883, n. 14167, e l'art. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1883-07-08;14167#art_139) del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito; 
+ Visto l'art. 165 del testo unico delle leggi sul reclutamento del Regio esercito e la modificazione apportatavi dalla [legge 8 luglio 1883, n. 14167, e l'art. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1883-07-08;14167#art_139) del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito; 
  
  Sulla proposta dei Nostri Ministri di Grazia e Giustizia e dei Culti e della Guerra; 
  

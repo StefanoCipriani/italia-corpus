@@ -20,7 +20,7 @@ L'[art. 3 del R. decreto 5 maggio 1941, n. 370](../Regi%20decreti/Riordinamento%
  
  Un funzionario di gruppo A dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione di grado non inferiore al nono, esercita le funzioni di segretario. 
  
- Immutate permangono le disposizioni di cui ai [Regi decreti 14 ottobre 1932, n. 1516](../Regi%20decreti/Ruoli%20del%20personale%20dellIspettorato%20generale%20delle%20ferrovie%20tramvie%20ed%20automobili.%20032U1516.md), 18 ottobre 1934, 1782, 1° luglio 1937, n. 1393, in quanto non contrastino con quelle del presente decreto».
+ Immutate permangono le disposizioni di cui ai [Regi decreti 14 ottobre 1932, n. 1516](Ruoli%20del%20personale%20dellIspettorato%20generale%20delle%20ferrovie%20tramvie%20ed%20automobili.%20032U1516.md), 18 ottobre 1934, 1782, 1° luglio 1937, n. 1393, in quanto non contrastino con quelle del presente decreto».
 
 ## Art. 2.
 

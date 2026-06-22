@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 17 luglio 1910, n. 514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;514);
 
-Visto il [R. decreto 19 luglio 1923, n. 1857](../Regi%20decreti/Sistemazione%20dei%20servizi%20contabili%20e%20di%20revisione%20dellamministrazione%20della%20Guerra.%20023U1857.md);
+Visto il [R. decreto 19 luglio 1923, n. 1857](Sistemazione%20dei%20servizi%20contabili%20e%20di%20revisione%20dellamministrazione%20della%20Guerra.%20023U1857.md);
 
 Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md);
 
@@ -38,7 +38,7 @@ Presso ciascun Comando di corpo d'armata e presso il Comando dell'arma dei Reali
 
 ## Art. 2.
 
-Gli uffici di contabilita' e di revisione presso i Comandi di corpo d'armata, di cui al [R. decreto n. 1857 del 19 luglio 1923](../Regi%20decreti/Sistemazione%20dei%20servizi%20contabili%20e%20di%20revisione%20dellamministrazione%20della%20Guerra.%20023U1857.md), compiono la revisione delle contabilita' degli Enti militari della circoscrizione per conto anche della ragioneria centrale presso il Ministero della guerra. 
+Gli uffici di contabilita' e di revisione presso i Comandi di corpo d'armata, di cui al [R. decreto n. 1857 del 19 luglio 1923](Sistemazione%20dei%20servizi%20contabili%20e%20di%20revisione%20dellamministrazione%20della%20Guerra.%20023U1857.md), compiono la revisione delle contabilita' degli Enti militari della circoscrizione per conto anche della ragioneria centrale presso il Ministero della guerra. 
  
  Essi devono seguire le norme loro impartite dalla ragioneria predetta per l'esecuzione della revisione, nonche' per la tempestiva comunicazione dei dati e degli elementi dalla medesima richiesti. 
  

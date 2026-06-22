@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace, approvato con [regio decreto 20 febbraio 1941, n. 303](../Codici/Codici%20penali%20militari%20di%20pace%20e%20di%20guerra%20041U0303.md);
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace, approvato con [regio decreto 20 febbraio 1941, n. 303](../Codici/Codici%20penali%20militari%20di%20pace%20e%20di%20guerra%20041U0303.md);
 
 Visto l'ordinamento giudiziario militare, approvato con [regio decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md);
 
@@ -29,7 +29,7 @@ Nel giudizio davanti ai Tribunali militari territoriali per reati contro le legg
 
 ## Art. 2.
 
-L'imputato che non abbia scelto un difensore di fiducia o che abbia scelto un difensore che non conosca, la sua lingua puo' nominare un giurista, anche non avvocato, cittadino del suo Stato, in qualita' di coadiutore del difensore. La nomina deve essere fatta entro il termine di cinque giorni dalla notificazione della sentenza di rinvio a giudizio o della richiesta del decreto di citazione a giudizio, previo invito nei modi stabiliti dal primo, dal terzo e dal [quarto comma dell'art. 354 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace per la scelta del difensore.
+L'imputato che non abbia scelto un difensore di fiducia o che abbia scelto un difensore che non conosca, la sua lingua puo' nominare un giurista, anche non avvocato, cittadino del suo Stato, in qualita' di coadiutore del difensore. La nomina deve essere fatta entro il termine di cinque giorni dalla notificazione della sentenza di rinvio a giudizio o della richiesta del decreto di citazione a giudizio, previo invito nei modi stabiliti dal primo, dal terzo e dal [quarto comma dell'art. 354 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace per la scelta del difensore.
 
 ## Art. 3.
 

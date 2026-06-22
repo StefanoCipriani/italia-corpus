@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 18 dicembre 1913, n. 1453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-12-18;1453), che approva il testo delle disposizioni sulle importazioni temporanee, e le successive modificazioni ed aggiunte;
 
-Visto il [R. decreto 6 aprile 1922, n. 547](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), che approva il regolamento relativo;
+Visto il [R. decreto 6 aprile 1922, n. 547](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), che approva il regolamento relativo;
 
 Visto l'[art. 3, nn. 1](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md) e [2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

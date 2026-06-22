@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 7 ottobre 1923, n. 2460](../Regi%20decreti/Temporaneo%20collocamento%20fuori%20del%20ruolo%20organico%20del%20personale%20del%20Ministero%20delle%20finanze%20di%20un%20direttore%20generale.%20023U2460.md); 
+ Visto il [R. decreto 7 ottobre 1923, n. 2460](Temporaneo%20collocamento%20fuori%20del%20ruolo%20organico%20del%20personale%20del%20Ministero%20delle%20finanze%20di%20un%20direttore%20generale.%20023U2460.md); 
  
  Udito il Consiglio dei Ministri; 
  
@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Il direttore generale collocato fuori del ruolo organico della carriera, amministrativa del Ministero delle finanze, per effetto del [R. decreto 7 ottobre 1923, n. 2460](../Regi%20decreti/Temporaneo%20collocamento%20fuori%20del%20ruolo%20organico%20del%20personale%20del%20Ministero%20delle%20finanze%20di%20un%20direttore%20generale.%20023U2460.md), cessa di appartenere all'Amministrazione ed e' ammesso a far valere titoli per la liquidazione della pensione. 
+ Il direttore generale collocato fuori del ruolo organico della carriera, amministrativa del Ministero delle finanze, per effetto del [R. decreto 7 ottobre 1923, n. 2460](Temporaneo%20collocamento%20fuori%20del%20ruolo%20organico%20del%20personale%20del%20Ministero%20delle%20finanze%20di%20un%20direttore%20generale.%20023U2460.md), cessa di appartenere all'Amministrazione ed e' ammesso a far valere titoli per la liquidazione della pensione. 
  
  In luogo del direttore generale predetto, il Ministro per le finanze e' autorizzato a collocare temporaneamente fuori ruolo altro direttore generale dello stesso Ministero, da mettere a disposizione del Ministero delle colonie per l'adempimento di speciali incarichi. 
  

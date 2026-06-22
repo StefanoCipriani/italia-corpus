@@ -44,7 +44,7 @@ Il comune di Brisighella e' aggregato al distretto dell'Ufficio del registro di 
 
 ## Art. 5.
 
-Ai sensi e per gli effetti del penultimo comma dell'articolo 25 del regolamento per il personale delle tasse sugli affari, approvato col [R. decreto 18 marzo 1909, n. 158](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20lorganizzazione%20degli%20uffici%20esecutivi%20dipendenti%20dallAmministrazione%20delle%20tasse%20sugli%20affari.%20009U0158.md), la media delle riscossioni degli uffici infradescritti viene determinata, in via presuntiva, come segue: 
+Ai sensi e per gli effetti del penultimo comma dell'articolo 25 del regolamento per il personale delle tasse sugli affari, approvato col [R. decreto 18 marzo 1909, n. 158](Che%20approva%20lannesso%20regolamento%20per%20lorganizzazione%20degli%20uffici%20esecutivi%20dipendenti%20dallAmministrazione%20delle%20tasse%20sugli%20affari.%20009U0158.md), la media delle riscossioni degli uffici infradescritti viene determinata, in via presuntiva, come segue: 
  
  a) Ufficio del registro di Ravenna L. 663.265,07. 
  

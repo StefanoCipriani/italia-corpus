@@ -14,7 +14,7 @@ Il contingente di prima categoria, che dovra' essere somministrato dalla leva mi
 
 ## Art. 2.
 
-Per l'esecuzione di quanto prescrive l'art. 10 del testo unico delle leggi sul reclutamento del Regio Esercito, approvato con [R. decreto del 6 agosto 1888, n. 5655](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20088U5655.md) (serie 3ª) il contingente di prima categoria assegnato alle singole provincie della Venezia ed a quella di Mantova, sara' suddiviso fra i distretti amministrativi che lo compongono. 
+Per l'esecuzione di quanto prescrive l'art. 10 del testo unico delle leggi sul reclutamento del Regio Esercito, approvato con [R. decreto del 6 agosto 1888, n. 5655](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20088U5655.md) (serie 3ª) il contingente di prima categoria assegnato alle singole provincie della Venezia ed a quella di Mantova, sara' suddiviso fra i distretti amministrativi che lo compongono. 
  
  Il distretto amministrativo vi rappresenta il mandamento, per gli effetti contemplati nel citato testo unico delle leggi sul reclutamento. 
  

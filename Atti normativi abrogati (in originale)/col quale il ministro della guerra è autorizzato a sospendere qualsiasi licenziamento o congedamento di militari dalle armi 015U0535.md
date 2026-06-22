@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Ritenuta la opportunita' di trattenere in servizio sino al 30 giugno 1915 i militari che per qualsiasi motivo, escluso pur sempre il caso di collocamento a riposo per infermita' o di riforma, acquistino titolo al licenziamento dalle armi;
 
-Visto il testo unico delle leggi sullo stato degli impiegati civili approvato con [R. decreto del 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
+Visto il testo unico delle leggi sullo stato degli impiegati civili approvato con [R. decreto del 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
 
 Sulla proposta del Nostro ministro, segretario di Stato per gli affari della guerra, di concerto col presidente del Consiglio dei ministri, ministro dell'interno e col ministro del tesoro;
 

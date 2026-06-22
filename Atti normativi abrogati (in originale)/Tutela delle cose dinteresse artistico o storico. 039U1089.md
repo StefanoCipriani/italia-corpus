@@ -425,7 +425,7 @@ CAPO VIII.
 
 ### Art. 58.
 
-I rappresentanti delle Provincie, dei Comuni, degli enti ed istituti legalmente riconosciuti, che entro il termine prescritto dal Ministro non presentino senza giustificato motivo l'elenco di cui all'art. 4 o presentino una denuncia inesatta, sono puniti con l'ammenda da lire 500 a lire 10.000 senza pregiudizio delle maggiori pene previste dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+I rappresentanti delle Provincie, dei Comuni, degli enti ed istituti legalmente riconosciuti, che entro il termine prescritto dal Ministro non presentino senza giustificato motivo l'elenco di cui all'art. 4 o presentino una denuncia inesatta, sono puniti con l'ammenda da lire 500 a lire 10.000 senza pregiudizio delle maggiori pene previste dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  Indipendentemente dall'azione penale, il Ministro puo' disporre la compilazione dell'elenco a spese degli inadempienti. La nota delle spese e' resa esecutoria con provvedimento del Ministro e rimessa, a mezzo dell'Intendenza di finanza, all'esattore delle imposte che provvede alla riscossione con le forme e la procedura privilegiata stabilite per l'esazione delle imposte dirette.
 
 ### Art. 59.
@@ -494,9 +494,9 @@ E' punita con la, multa da lire 2.000 a lire 150.000, l'esportazione, anche solt
 
 ### Art. 67.
 
-Chiunque s'impossessa di cose di antichita' e d'arte, rinvenute fortuitamente, ovvero in seguito a ricerche od opere in genere, e' punito ai sensi dell'[art. 624 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Chiunque s'impossessa di cose di antichita' e d'arte, rinvenute fortuitamente, ovvero in seguito a ricerche od opere in genere, e' punito ai sensi dell'[art. 624 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- Quando il reato sia commesso da coloro ai quali venne fatta la concessione o data l'autorizzazione di cui agli articoli 45 e 47, sono applicabili le disposizioni dell'[art. 625 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Quando il reato sia commesso da coloro ai quali venne fatta la concessione o data l'autorizzazione di cui agli articoli 45 e 47, sono applicabili le disposizioni dell'[art. 625 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 68.
 
@@ -510,7 +510,7 @@ Chiunque contravviene alle disposizioni di cui all'art. 51 e' punito con l'ammen
 
 ### Art. 70.
 
-Salvo che non sia prevista una pena piu' grave, chiunque trasgredisce ad un ordine, dato dal Ministro per l'educazione nazionale, in conformita' della presente legge, e' punito con le pene di cui all'[art. 650 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Salvo che non sia prevista una pena piu' grave, chiunque trasgredisce ad un ordine, dato dal Ministro per l'educazione nazionale, in conformita' della presente legge, e' punito con le pene di cui all'[art. 650 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 71.
 
@@ -523,11 +523,11 @@ Conserveranno frattanto efficacia le notifiche di importante interesse fatte per
 
 ### Art. 72.
 
-Nulla e' innovato per quanto riguarda le raccolte artistiche ex-fidecommissarie, regolate con [legge 28 giugno 1871, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1871-06-28;286), [legge 8 luglio 1883, n. 1461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1883-07-08;1461), [R. decreto 23 novembre 1891, n. 653](../Regi%20decreti/Che%20approva%20e%20rende%20esecutorio%20il%20regolamento%20per%20lesecuzione%20dellart.%204%20della%20legge%2028%20giugno%201871%20e%20della%20legge%208%20luglio%201883%20sulle%20gallerie%20biblioteche%20e%20collezioni%20darte%20e%20di%20antichita.%20091U0653.md), e [legge 7 febbraio 1892, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-02-07;31), nonche' le bellezze naturali panoramiche regolate con [legge 11 giugno 1922, n. 778](Per%20la%20tutela%20delle%20bellezze%20naturali%20e%20degli%20immobili%20di%20particolare%20interesse%20storico.%20022U0778.md).
+Nulla e' innovato per quanto riguarda le raccolte artistiche ex-fidecommissarie, regolate con [legge 28 giugno 1871, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1871-06-28;286), [legge 8 luglio 1883, n. 1461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1883-07-08;1461), [R. decreto 23 novembre 1891, n. 653](Che%20approva%20e%20rende%20esecutorio%20il%20regolamento%20per%20lesecuzione%20dellart.%204%20della%20legge%2028%20giugno%201871%20e%20della%20legge%208%20luglio%201883%20sulle%20gallerie%20biblioteche%20e%20collezioni%20darte%20e%20di%20antichita.%20091U0653.md), e [legge 7 febbraio 1892, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-02-07;31), nonche' le bellezze naturali panoramiche regolate con [legge 11 giugno 1922, n. 778](Per%20la%20tutela%20delle%20bellezze%20naturali%20e%20degli%20immobili%20di%20particolare%20interesse%20storico.%20022U0778.md).
 
 ### Art. 73.
 
-Fino a quando non entrera' in vigore il regolamento da emanarsi per la esecuzione della presente legge, varranno, in quanto siano applicabili, le norme del regolamento approvato con [R. decreto 30 gennaio 1913, n. 363](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md). 
+Fino a quando non entrera' in vigore il regolamento da emanarsi per la esecuzione della presente legge, varranno, in quanto siano applicabili, le norme del regolamento approvato con [R. decreto 30 gennaio 1913, n. 363](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

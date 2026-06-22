@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md) ed il relativo regolamento generale approvato con [R. decreto 24 novembre 1908, n. 756](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md);
+Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md) ed il relativo regolamento generale approvato con [R. decreto 24 novembre 1908, n. 756](Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md);
 
 Visti i ruoli organici degli impiegati delle coltivazioni dei tabacchi, delle manifatture dei tabacchi, delle saline e dei magazzini di deposito dei generi di monopolio, approvato con la [legge 5 giugno 1913, numero 541](Che%20approva%20modificazioni%20ai%20ruoli%20organici%20del%20personale%20dellAmministrazione%20esterna%20delle%20gabelle%20degli%20uffici%20tecnici%20di%20finanza%20del%20personale%20tecnico%20ed%20amministrativo%20degli%20stabilime_df0a6fc0f2f8.md), ed i relativi regolamenti e disposizioni speciali;
 

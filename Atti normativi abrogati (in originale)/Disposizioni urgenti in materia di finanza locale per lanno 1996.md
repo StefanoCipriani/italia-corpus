@@ -26,7 +26,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-I contributi erariali spettanti sulla base della legislazione vigente alle province ed ai comuni per l'anno 1996, a valere sul fondo ordinario di cui al [decreto legislativo 30 dicembre 1992, n. 504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, sono incrementati nella misura percentuale dell'1,288 per cento, corrispondente all'importo complessivo di lire 220.400 milioni. L'incremento percentuale e' calcolato con riferimento ai contributi ordinari definitivamente attribuiti per l'anno 1995.
+I contributi erariali spettanti sulla base della legislazione vigente alle province ed ai comuni per l'anno 1996, a valere sul fondo ordinario di cui al [decreto legislativo 30 dicembre 1992, n. 504](../Decreti%20Legislativi/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, sono incrementati nella misura percentuale dell'1,288 per cento, corrispondente all'importo complessivo di lire 220.400 milioni. L'incremento percentuale e' calcolato con riferimento ai contributi ordinari definitivamente attribuiti per l'anno 1995.
 
 2.
 
@@ -54,7 +54,7 @@ Per gli enti interessati alla rideterminazione del gettito dell'ICI e delle risc
 
 8.
 
-Il contributo per gli squilibri della fiscalita' locale e' attribuito per l'anno 1996 per lire 1.515.700 milioni in misura pari all'ammontare dei contributi corrisposti a tale titolo per l'anno 1995, salva la correzione di errori materiali, e per lire 292.200 milioni, di cui lire 64.000 milioni alle province e lire 228.200 milioni ai comuni, con le modalita' di cui all'[articolo 40 del decreto legislativo n. 504 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;504#art_40), come modificato dal [decreto legislativo 1 dicembre 1993, n. 528](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Interventi%20correttivi%20del%20decreto%20legislativo%2030%20dicembre%201992%20n.%20504%20recante%20modalita%20per%20la%20ripartizione%20dei%20contributi%20erariali%20agli%20enti%20locali.md), e, successivamente, dall'[articolo 3, comma 4, del decreto-legge n. 41 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995;41#art_3-com4).
+Il contributo per gli squilibri della fiscalita' locale e' attribuito per l'anno 1996 per lire 1.515.700 milioni in misura pari all'ammontare dei contributi corrisposti a tale titolo per l'anno 1995, salva la correzione di errori materiali, e per lire 292.200 milioni, di cui lire 64.000 milioni alle province e lire 228.200 milioni ai comuni, con le modalita' di cui all'[articolo 40 del decreto legislativo n. 504 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;504#art_40), come modificato dal [decreto legislativo 1 dicembre 1993, n. 528](../Decreti%20Legislativi/Interventi%20correttivi%20del%20decreto%20legislativo%2030%20dicembre%201992%20n.%20504%20recante%20modalita%20per%20la%20ripartizione%20dei%20contributi%20erariali%20agli%20enti%20locali.md), e, successivamente, dall'[articolo 3, comma 4, del decreto-legge n. 41 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995;41#art_3-com4).
 
 9.
 
@@ -76,7 +76,7 @@ Per la concessione dei contributi straordinari conseguenti alla fusione dei comu
 
 1.
 
-Gli enti locali possono provvedere sino al 31 dicembre 1996 al riconoscimento e al finanziamento, ai sensi dell'[articolo 37 del decreto legislativo 25 febbraio 1995, n. 77](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), dei debiti fuori bilancio maturati anteriormente al 13 giugno 1990 la cui conoscenza e' intervenuta dopo il 15 luglio 1991.
+Gli enti locali possono provvedere sino al 31 dicembre 1996 al riconoscimento e al finanziamento, ai sensi dell'[articolo 37 del decreto legislativo 25 febbraio 1995, n. 77](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), dei debiti fuori bilancio maturati anteriormente al 13 giugno 1990 la cui conoscenza e' intervenuta dopo il 15 luglio 1991.
 
 ## Art. 3. — Disposizioni tributarie
 
@@ -86,7 +86,7 @@ Sono esenti dall'imposta di cui all'[articolo 2 del decreto del Presidente della
 
 2.
 
-Nell'articolo 72, comma 1, primo periodo, del [decreto legislativo 15 novembre 1993, n. 507](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20ed%20armonizzazione%20dellimposta%20comunale%20sulla%20pubblicita%20e%20del%20diritto%20sulle%20pubbliche%20affissioni%20della%20tassa%20per%20loccupazione%20di%20spazi%20ed%20aree%20pubbliche%20dei%20comuni%20e%20delle%20provi_687a7e872aee.md), le parole da: "all'intendenza di finanza" fino alla fine del periodo sono sostituite dalle seguenti: "alla Direzione regionale delle entrate, sezione staccata, a pena di decadenza, entro l'anno successivo a quello per il quale e' dovuto il tributo e, in caso di liquidazione in base a denuncia tardiva o ad accertamento, entro l'anno successivo a quello nel corso del quale e' prodotta la predetta denuncia ovvero l'avviso di accertamento e' notificato.".
+Nell'articolo 72, comma 1, primo periodo, del [decreto legislativo 15 novembre 1993, n. 507](../Decreti%20Legislativi/Revisione%20ed%20armonizzazione%20dellimposta%20comunale%20sulla%20pubblicita%20e%20del%20diritto%20sulle%20pubbliche%20affissioni%20della%20tassa%20per%20loccupazione%20di%20spazi%20ed%20aree%20pubbliche%20dei%20comuni%20e%20delle%20provi_687a7e872aee.md), le parole da: "all'intendenza di finanza" fino alla fine del periodo sono sostituite dalle seguenti: "alla Direzione regionale delle entrate, sezione staccata, a pena di decadenza, entro l'anno successivo a quello per il quale e' dovuto il tributo e, in caso di liquidazione in base a denuncia tardiva o ad accertamento, entro l'anno successivo a quello nel corso del quale e' prodotta la predetta denuncia ovvero l'avviso di accertamento e' notificato.".
 
 3.
 

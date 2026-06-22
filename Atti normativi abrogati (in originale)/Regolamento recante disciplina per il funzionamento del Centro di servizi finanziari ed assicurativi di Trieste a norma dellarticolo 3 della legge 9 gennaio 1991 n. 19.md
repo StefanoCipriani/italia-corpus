@@ -59,7 +59,7 @@ Comma non ammesso al "Visto" della Corte dei conti
 In sede di adozione delle norme di organizzazione, funzionamento e gestione il comitato si attiene ai criteri di cui al presente regolamento.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
  Nota al titolo:
@@ -295,7 +295,7 @@ I soggetti di cui all'articolo 10, che svolgono anche attivita' produttive di re
 
 2.
 
-Per l'imputazione degli elementi di ricavo e di costo che si riferiscono indistintamente ad attivita' o beni produttivi di redditi tassati nelle forme ordinarie e ad attivita' o beni non produttivi di redditi tassati nelle forme ordinarie si applicano le disposizioni contenute nell'[articolo 75, comma 5, del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
+Per l'imputazione degli elementi di ricavo e di costo che si riferiscono indistintamente ad attivita' o beni produttivi di redditi tassati nelle forme ordinarie e ad attivita' o beni non produttivi di redditi tassati nelle forme ordinarie si applicano le disposizioni contenute nell'[articolo 75, comma 5, del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
 
 Nota all'art. 15:
  - Il testo dell'art. 75, comma 5, del D.P.R. 22 dicembre 1986 (Approvazione del testo unico delle imposte sui redditi), e' il seguente:

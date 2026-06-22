@@ -22,9 +22,9 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), riflettente il conferimento al Governo del Re dei poteri straordinari in caso di guerra;
 
-Visto il [R. decreto 28 marzo 1915, n. 313](../Regi%20decreti/Che%20vieta%20la%20pubblicazione%20di%20notizie%20concernenti%20la%20forza%20la%20preparazione%20o%20la%20difesa%20militare%20dello%20Stato.%20015U0313.md), prorogato a tutto il periodo della guerra dal Nostro decreto 23 dicembre 1915, n. 1801;
+Visto il [R. decreto 28 marzo 1915, n. 313](Che%20vieta%20la%20pubblicazione%20di%20notizie%20concernenti%20la%20forza%20la%20preparazione%20o%20la%20difesa%20militare%20dello%20Stato.%20015U0313.md), prorogato a tutto il periodo della guerra dal Nostro decreto 23 dicembre 1915, n. 1801;
 
-Visto l'art. 500 del Codice di commercio ed il regolamento approvato col [R. decreto 17 dicembre 1885, n. 3612](../Regi%20decreti/Che%20approva%20il%20regolamento%20contenente%20le%20norme%20per%20luniforme%20tenuta%20del%20Giornale%20nautico%20dei%20bastimenti%20mercantili%20nazionali.%20085U3612.md), per l'uniforme tenuta del giornale nautico sulle navi nazionali;
+Visto l'art. 500 del Codice di commercio ed il regolamento approvato col [R. decreto 17 dicembre 1885, n. 3612](Che%20approva%20il%20regolamento%20contenente%20le%20norme%20per%20luniforme%20tenuta%20del%20Giornale%20nautico%20dei%20bastimenti%20mercantili%20nazionali.%20085U3612.md), per l'uniforme tenuta del giornale nautico sulle navi nazionali;
 
 Sentito il Consiglio dei ministri;
 
@@ -32,11 +32,11 @@ Sulla proposta del ministro per i trasporti marittimi e ferroviari, di concerto 
 
 ## Art. 1.
 
-Al divieto di pubblicazione stabilito dal [R. decreto del 28 marzo 1915, n. 313](../Regi%20decreti/Che%20vieta%20la%20pubblicazione%20di%20notizie%20concernenti%20la%20forza%20la%20preparazione%20o%20la%20difesa%20militare%20dello%20Stato.%20015U0313.md) e dal successivo Nostro decreto 23 dicembre 1915, n. 1801, ed a tutti gli effetti penali previsti dall'[art. 4 della legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md), e' aggiunto il divieto di pubblicare con qualsiasi mezzo le indicazioni relative alle rotte seguite o da seguire dalle navi mercantili nazionali od alleate e di dare comunicazione delle indicazioni stesse a persone che non siano state autorizzate a riceverle.
+Al divieto di pubblicazione stabilito dal [R. decreto del 28 marzo 1915, n. 313](Che%20vieta%20la%20pubblicazione%20di%20notizie%20concernenti%20la%20forza%20la%20preparazione%20o%20la%20difesa%20militare%20dello%20Stato.%20015U0313.md) e dal successivo Nostro decreto 23 dicembre 1915, n. 1801, ed a tutti gli effetti penali previsti dall'[art. 4 della legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md), e' aggiunto il divieto di pubblicare con qualsiasi mezzo le indicazioni relative alle rotte seguite o da seguire dalle navi mercantili nazionali od alleate e di dare comunicazione delle indicazioni stesse a persone che non siano state autorizzate a riceverle.
 
 ## Art. 2.
 
-Durante la guerra, in deroga al disposto degli articoli 500 cap. 3° del Codice di commercio e 3 del regolamento approvato con [R. decreto 17 dicembre 1885, n. 3612](../Regi%20decreti/Che%20approva%20il%20regolamento%20contenente%20le%20norme%20per%20luniforme%20tenuta%20del%20Giornale%20nautico%20dei%20bastimenti%20mercantili%20nazionali.%20085U3612.md) e' vietato di annotare nel giornale nautico la rotta seguita dalla nave.
+Durante la guerra, in deroga al disposto degli articoli 500 cap. 3° del Codice di commercio e 3 del regolamento approvato con [R. decreto 17 dicembre 1885, n. 3612](Che%20approva%20il%20regolamento%20contenente%20le%20norme%20per%20luniforme%20tenuta%20del%20Giornale%20nautico%20dei%20bastimenti%20mercantili%20nazionali.%20085U3612.md) e' vietato di annotare nel giornale nautico la rotta seguita dalla nave.
 
 ## Art. 3.
 

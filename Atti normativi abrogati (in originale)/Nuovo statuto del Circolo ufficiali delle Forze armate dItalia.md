@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 18 ottobre 1934, n. 2111](../Regi%20decreti/Erezione%20in%20ente%20morale%20del%20Circolo%20ufficiali%20delle%20Forze%20armate%20dItalia%20e%20approvazione%20del%20relativo%20statuto.%20034U2111.md), concernente l'erezione in Ente morale del Circolo ufficiali delle Forze armate e l'approvazione del relativo statuto, nonche' i [Regi decreti 27 aprile 1936, n. 1040](../Regi%20decreti/Approvazione%20dello%20statuto%20organico%20del%20Circolo%20ufficiali%20delle%20Forze%20armate%20dItalia.%20036U1040.md) e [22 giugno 1939, n. 1108](../Regi%20decreti/Approvazione%20dello%20statuto%20organico%20del%20Circolo%20ufficiali%20delle%20Forze%20armate%20dItalia.%20039U1108.md), con i quali lo statuto del Circolo venne modificato;
+Visto il [R. decreto 18 ottobre 1934, n. 2111](Erezione%20in%20ente%20morale%20del%20Circolo%20ufficiali%20delle%20Forze%20armate%20dItalia%20e%20approvazione%20del%20relativo%20statuto.%20034U2111.md), concernente l'erezione in Ente morale del Circolo ufficiali delle Forze armate e l'approvazione del relativo statuto, nonche' i [Regi decreti 27 aprile 1936, n. 1040](Approvazione%20dello%20statuto%20organico%20del%20Circolo%20ufficiali%20delle%20Forze%20armate%20dItalia.%20036U1040.md) e [22 giugno 1939, n. 1108](Approvazione%20dello%20statuto%20organico%20del%20Circolo%20ufficiali%20delle%20Forze%20armate%20dItalia.%20039U1108.md), con i quali lo statuto del Circolo venne modificato;
 
 Ritenuta la necessita' di modificare ulteriormente detto statuto per meglio adeguarlo alla situazione ed alle necessita' in atto;
 
@@ -27,7 +27,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 ## Articolo unico.
 
 E' approvato il nuovo testo dello statuto del Circolo ufficiali delle Forze armate d'Italia, composto di 42 articoli, che sara' vistato e sottoscritto dal Ministro per la guerra.
- Il nuovo statuto sostituisce ed abroga lo statuto organico approvato con [R. decreto 22 giugno 1939, n. 1108](../Regi%20decreti/Approvazione%20dello%20statuto%20organico%20del%20Circolo%20ufficiali%20delle%20Forze%20armate%20dItalia.%20039U1108.md).
+ Il nuovo statuto sostituisce ed abroga lo statuto organico approvato con [R. decreto 22 giugno 1939, n. 1108](Approvazione%20dello%20statuto%20organico%20del%20Circolo%20ufficiali%20delle%20Forze%20armate%20dItalia.%20039U1108.md).
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
 

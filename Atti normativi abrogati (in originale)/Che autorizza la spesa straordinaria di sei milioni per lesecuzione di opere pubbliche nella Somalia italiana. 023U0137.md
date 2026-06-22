@@ -44,7 +44,7 @@ Sono opere di pubblica utilita' nella Somalia italiana quelle dichiarate tali pe
  
  Il prezzo dei beni espropriandi non potra' mai superare la base media del valore di essi nel quinquennio precedente al 1° gennaio dell'anno in cui avra' luogo l'espropriazione. 
  
- Contro i decreti del Governatore non e' ammesso altro reclamo che quello previsto dall'[art. 59 del R. decreto 8 giugno 1911, n. 937](../Regi%20decreti/Che%20approva%20lordinamento%20della%20giustizia%20nella%20Somalia%20italiana.%20011U0937.md). 
+ Contro i decreti del Governatore non e' ammesso altro reclamo che quello previsto dall'[art. 59 del R. decreto 8 giugno 1911, n. 937](Che%20approva%20lordinamento%20della%20giustizia%20nella%20Somalia%20italiana.%20011U0937.md). 
  
  E' delegata al Governatore la facolta' di emanare le norme per l'applicazione del presente articolo.
 

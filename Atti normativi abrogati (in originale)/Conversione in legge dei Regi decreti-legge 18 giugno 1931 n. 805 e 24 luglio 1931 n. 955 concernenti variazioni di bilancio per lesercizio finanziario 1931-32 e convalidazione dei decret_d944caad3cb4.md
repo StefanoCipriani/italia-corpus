@@ -14,7 +14,7 @@ Sono convertiti in legge i [Regi decreti-legge 18 giugno 1931, n. 805](Variazion
 
 ## Art. 2.
 
-Sono convalidati i [Regi decreti 9 luglio 1931, n. 936](../Regi%20decreti/1ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201931-32.%20031U0936.md), e [17 luglio 1931, n. 954](../Regi%20decreti/2ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201931-32.%20031U0954.md), coi quali sono state autorizzate prelevazioni dal fondo di riserva per le spese impreviste, inscritto nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1931-32. 
+Sono convalidati i [Regi decreti 9 luglio 1931, n. 936](1ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201931-32.%20031U0936.md), e [17 luglio 1931, n. 954](2ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201931-32.%20031U0954.md), coi quali sono state autorizzate prelevazioni dal fondo di riserva per le spese impreviste, inscritto nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1931-32. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 17 dicembre 1931 - Anno X 
  

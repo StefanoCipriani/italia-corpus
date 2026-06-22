@@ -92,7 +92,7 @@ Il cittadino italiano iscritto nelle liste di leva e valido alle armi diventa so
  
 a) dalla data della leva fascista all'atto della chiamata alle armi, nell'ambito delle organizzazioni del Regime; 
  
-b) dall'atto della chiamata alle armi, fino al compimento della ferma di leva, e, posteriormente, durante gli eventuali richiami per istruzione o per mobilitazione, nel quadro delle Forze armate (per la Milizia volontaria per la sicurezza nazionale, nei limiti di cui agli articoli 14 e 15 del testo unico della legge sul reclutamento del Regio esercito approvato con [R. decreto 8 settembre 1932, n. 1332](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md)); 
+b) dall'atto della chiamata alle armi, fino al compimento della ferma di leva, e, posteriormente, durante gli eventuali richiami per istruzione o per mobilitazione, nel quadro delle Forze armate (per la Milizia volontaria per la sicurezza nazionale, nei limiti di cui agli articoli 14 e 15 del testo unico della legge sul reclutamento del Regio esercito approvato con [R. decreto 8 settembre 1932, n. 1332](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md)); 
  
 c) per il rimanente periodo di tempo in congedo illimitato, salvo gli obblighi derivanti dalle disposizioni di legge sulla istruzione post-militare.
 

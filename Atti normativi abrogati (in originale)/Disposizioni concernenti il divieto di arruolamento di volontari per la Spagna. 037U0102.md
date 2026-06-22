@@ -30,7 +30,7 @@ Chiunque nel territorio dello Stato arruola o compie operazioni dirette ad arruo
  
  E' punito con la reclusione da tre mesi ad un anno chiunque accetta di prestare servizio in forze combattenti nei territori indicati nel comma precedente. 
  
- Per i delitti preveduti in questo articolo si procede senza che occorra l'autorizzazione prescritta nell'[art. 313 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)
+ Per i delitti preveduti in questo articolo si procede senza che occorra l'autorizzazione prescritta nell'[art. 313 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)
 
 ## Art. 2.
 

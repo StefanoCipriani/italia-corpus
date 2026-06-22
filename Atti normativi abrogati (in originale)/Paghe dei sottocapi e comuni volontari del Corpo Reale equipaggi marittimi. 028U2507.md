@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto n. 2395 in data 11 novembre 1923](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), che approva l'ordinamento gerarchico delle Amministrazioni dello Stato, e
+Visto il [R. decreto n. 2395 in data 11 novembre 1923](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), che approva l'ordinamento gerarchico delle Amministrazioni dello Stato, e
 
 successive modificazioni;
 
-Visto il [R. decreto n. 1525 in data 21 agosto 1924](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md) che approva il testo unico delle disposizioni legislative riguardanti l'ordinamento del C.R.E.M. e lo stato giuridico dei sottufficiali della Regia
+Visto il [R. decreto n. 1525 in data 21 agosto 1924](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md) che approva il testo unico delle disposizioni legislative riguardanti l'ordinamento del C.R.E.M. e lo stato giuridico dei sottufficiali della Regia
 
 marina, e successive modificazioni;
 
@@ -34,7 +34,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-A modificazione di quanto dispone l'allegato VI, tabella n. 2, annesso al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, le paghe dei sottocapi e comuni volontari del 
+A modificazione di quanto dispone l'allegato VI, tabella n. 2, annesso al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, le paghe dei sottocapi e comuni volontari del 
 C.R.E.M., sia a terra che a bordo, sono le seguenti: 
  
  

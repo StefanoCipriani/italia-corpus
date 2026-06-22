@@ -16,7 +16,7 @@ Le persone di origine e di lingua tedesca, domiciliate nei comuni dell'Alto Adig
 
 ## Art. 2.
 
-La dichiarazione di rinunzia e' presentata al prefetto della Provincia, alla quale appartiene il Comune nel cui elenco dei cittadini italiani l'interessato o il suo ascendente e' stato iscritto a norma dell'[art. 1 del R. decreto 30 dicembre 1920, n. 1890](../Regi%20decreti/Che%20in%20esecuzione%20dei%20trattati%20di%20pace%20regola%20nei%20territori%20annessi%20al%20Regno%20il%20riconoscimento%20della%20cittadinanza%20di%20pieno%20diritto%20lesercizio%20del%20diritto%20di%20opzione%20e%20gli%20altri%20modi%20di%20ac_e512594be3b6.md), e dell'art. 14 del decreto presidenziale 1° febbraio 1922, pubblicato nella Gazzetta Ufficiale 14 febbraio 1922, n. 37. 
+La dichiarazione di rinunzia e' presentata al prefetto della Provincia, alla quale appartiene il Comune nel cui elenco dei cittadini italiani l'interessato o il suo ascendente e' stato iscritto a norma dell'[art. 1 del R. decreto 30 dicembre 1920, n. 1890](Che%20in%20esecuzione%20dei%20trattati%20di%20pace%20regola%20nei%20territori%20annessi%20al%20Regno%20il%20riconoscimento%20della%20cittadinanza%20di%20pieno%20diritto%20lesercizio%20del%20diritto%20di%20opzione%20e%20gli%20altri%20modi%20di%20ac_e512594be3b6.md), e dell'art. 14 del decreto presidenziale 1° febbraio 1922, pubblicato nella Gazzetta Ufficiale 14 febbraio 1922, n. 37. 
  
  Il prefetto, accertata la sussistenza dei requisiti previsti dall'art. 1, rilascia all'interessato la dichiarazione di presa d'atto della rinuncia e, avuta comunicazione della concessione della cittadinanza germanica, dispone per la cancellazione dell'interessato dagli elenchi e dai registri di cittadinanza italiana.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto l'[art. 1 del R. decreto 19 novembre 1921, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-19;1592#art_1) (alleg. E), e l'[art. 1 del R. decreto 21 ottobre 1923, n. 2335](../Regi%20decreti/Nuovi%20provvedimenti%20per%20le%20imposte%20di%20fabbricazione.%20023U2335.md);
+Visto l'[art. 1 del R. decreto 19 novembre 1921, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-19;1592#art_1) (alleg. E), e l'[art. 1 del R. decreto 21 ottobre 1923, n. 2335](Nuovi%20provvedimenti%20per%20le%20imposte%20di%20fabbricazione.%20023U2335.md);
 
 Ritenuta la urgente necessita' di apportare modificazioni all'attuale regime fiscale del glucosio, del maltosio e delle analoghe materie zuccherine;
 
@@ -28,7 +28,7 @@ Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 Lo zucchero, gli sciroppi e i bassi prodotti della sua fabbricazione, nonche' i melazzi aventi 63 o piu' di quoziente di purezza, che non abbiano assolto il tributo sullo zucchero (saccarosio), possono essere impiegati nella preparazione di zuccheri invertiti, sotto l'osservanza delle norme che saranno stabilite dal Ministro per le finanze. 
  
- In tal caso e' concesso l'esonero dall'imposta sullo zucchero invertito, di cui all'[art. 1 del R. decreto 21 ottobre 1923, n. 2335](../Regi%20decreti/Nuovi%20provvedimenti%20per%20le%20imposte%20di%20fabbricazione.%20023U2335.md), ed il prodotto ottenuto potra' immettersi in consumo previo pagamento dell'imposta gravante sulle materie prime adoperate nella sua preparazione, con la riduzione: 
+ In tal caso e' concesso l'esonero dall'imposta sullo zucchero invertito, di cui all'[art. 1 del R. decreto 21 ottobre 1923, n. 2335](Nuovi%20provvedimenti%20per%20le%20imposte%20di%20fabbricazione.%20023U2335.md), ed il prodotto ottenuto potra' immettersi in consumo previo pagamento dell'imposta gravante sulle materie prime adoperate nella sua preparazione, con la riduzione: 
  
  a) del 15% per lo zucchero di 1ª classe; 
  

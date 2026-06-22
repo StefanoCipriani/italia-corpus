@@ -14,17 +14,17 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 8 febbraio 1923, n. 1067](../Regi%20decreti/Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md), che reca norme per il servizio delle comunicazioni senza filo;
+Visto il [R. decreto 8 febbraio 1923, n. 1067](Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md), che reca norme per il servizio delle comunicazioni senza filo;
 
 Visto il [R. decreto-legge 17 novembre 1927, n. 2207](Nuove%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20delle%20radioaudizioni%20circolari.%20027U2207.md), convertito nella [legge 17 maggio 1928, n. 1350](Conversione%20in%20legge%20del%20R.%20decreto-legge%2017%20novembre%201927%20n.%202207%20che%20reca%20le%20nuove%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20delle%20radioaudizioni%20circolari.%20028U1350.md), contenente norme per il miglioramento e lo sviluppo dei servizi di radiodiffusione, e successive aggiunte e modificazioni;
 
-Visto il [R. decreto 29 dicembre 1927, n. 2526](../Regi%20decreti/Approvazione%20della%20Convenzione%20tra%20il%20Ministero%20delle%20comunicazioni%20e%20la%20Societa%20anonima%20Ente%20Italiano%20per%20le%20Audizioni%20Radiofoniche%20E.I.A.R.%20per%20il%20servizio%20delle%20radioaudizioni%20circolari.%20027U2526.md), che approva la convenzione fra il Ministero delle comunicazioni e l'Ente italiano audizioni radiofoniche, e decreti successivi di aggiunte e modificazioni;
+Visto il [R. decreto 29 dicembre 1927, n. 2526](Approvazione%20della%20Convenzione%20tra%20il%20Ministero%20delle%20comunicazioni%20e%20la%20Societa%20anonima%20Ente%20Italiano%20per%20le%20Audizioni%20Radiofoniche%20E.I.A.R.%20per%20il%20servizio%20delle%20radioaudizioni%20circolari.%20027U2526.md), che approva la convenzione fra il Ministero delle comunicazioni e l'Ente italiano audizioni radiofoniche, e decreti successivi di aggiunte e modificazioni;
 
 Visto la [legge 14 giugno 1928, n. 1352](Norme%20per%20la%20radiodiffusione%20di%20esecuzioni%20artistiche.%20028U1352.md), contenente norme per la radiodiffusione di esecuzioni artistiche, e successivo regolamento;
 
 Visto il [R. decreto-legge 3 dicembre 1934, n. 1989](Istituzione%20di%20una%20Commissione%20di%20quattro%20membri%20in%20sostituzione%20del%20Comitato%20di%20vigilanza%20sulle%20radiodiffusioni.%20034U1989.md), convertito nella [legge 4 aprile 1935, n. 884](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20dicembre%201934%20n.%201989%20riguardante%20listituzione%20di%20una%20Commissione%20di%20quattro%20membri%20in%20sostituzione%20del%20Comitato%20di%20vigilanza%20sulle%20radiodiffus_5b57f8ab7462.md), che istituisce una Commissione di vigilanza sul servizio delle radiodiffusioni;
 
-Visto il [R. decreto 24 giugno 1935, n. 1009](../Regi%20decreti/Istituzione%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda.%20035U1009.md), che istituisce il Ministero per la stampa e la propaganda;
+Visto il [R. decreto 24 giugno 1935, n. 1009](Istituzione%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda.%20035U1009.md), che istituisce il Ministero per la stampa e la propaganda;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

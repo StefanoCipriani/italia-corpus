@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il regolamento organico per l'Amministrazione delle poste e dei telegrafi, approvato con [regio decreto 14 ottobre 1906, n. 546](../Regi%20decreti/Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md) e successive modificazioni;
+Visto il regolamento organico per l'Amministrazione delle poste e dei telegrafi, approvato con [regio decreto 14 ottobre 1906, n. 546](Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md) e successive modificazioni;
 
 Visto il [regio decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1936, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-03-21;597), concernente il nuovo ordinamento dell'Amministrazione postale e telegrafica e successive modificazioni;
 
-Visto il [regio decreto-legge 14 giugno 1925, n. 884](Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), convertito nella [Legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), riguardante la costituzione dell'Azienda per i servizi telefonici, e successive modificazioni;
+Visto il [regio decreto-legge 14 giugno 1925, n. 884](Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), convertito nella [Legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), riguardante la costituzione dell'Azienda per i servizi telefonici, e successive modificazioni;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -35,7 +35,7 @@ Le competenze accessorie al personale di ruolo e non di ruolo dipendente dal Min
 
 ## Art. 2.
 
-Il 2° e 3° comma dell'art. 63 del regolamento delle ricevitorie, delle agenzie e dei servizi rurali nell'Amministrazione postale telegrafica, approvato con [regio decreto 5 novembre 1937, n. 2161](../Regi%20decreti/Approvazione%20del%20regolamento%20delle%20Ricevitorie%20delle%20Agenzie%20e%20dei%20Servizi%20rurali%20dellAmministrazione%20postale%20telegrafica.%20037U2161.md), sono sostituiti con quanto segue:
+Il 2° e 3° comma dell'art. 63 del regolamento delle ricevitorie, delle agenzie e dei servizi rurali nell'Amministrazione postale telegrafica, approvato con [regio decreto 5 novembre 1937, n. 2161](Approvazione%20del%20regolamento%20delle%20Ricevitorie%20delle%20Agenzie%20e%20dei%20Servizi%20rurali%20dellAmministrazione%20postale%20telegrafica.%20037U2161.md), sono sostituiti con quanto segue:
  "I prolungamenti di orario disposti temporaneamente per i servizi al pubblico nelle ricevitorie postali e telegrafiche sono retribuiti nel modo seguente:
  a) compenso per servizio straordinario ragguagliato alle competenze del personale non di ruolo di gruppo C, per retribuire la prestazione del personale che presta il servizio medesimo;
  b) un ventesimo o un decimo del compenso di cui alla lettera a) a seconda che il prolungamento abbia luogo dalle ore 7 alle ore 19, e dopo tale ora, per rimborso spese di servizio.

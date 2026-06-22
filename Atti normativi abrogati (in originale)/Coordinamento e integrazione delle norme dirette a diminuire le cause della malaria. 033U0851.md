@@ -56,7 +56,7 @@ Agli operai ed ai coloni, addetti, in modo permanente od avventizio, a lavori in
  
  Le disposizioni, di cui al precedente comma, si applicano anche a favore degli impiegati e delle loro famiglie nei limiti previsti dalla legge sulle assicurazioni invalidita' e vecchiaia 30 dicembre 1923, n. 3184. 
  
- Quando la bonifica sia dichiarata ultimata, ai sensi delle disposizioni del [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e vi persistano le condizioni di malaricita' locale, la Provincia ha facolta' di integrare i servizi locali di assistenza e di profilassi sanitaria e puo' esservi chiamata obbligatoriamente con decreto del prefetto, ai termini dell'[art. 8 del R. decreto 30 dicembre 1923, n.2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md). 
+ Quando la bonifica sia dichiarata ultimata, ai sensi delle disposizioni del [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e vi persistano le condizioni di malaricita' locale, la Provincia ha facolta' di integrare i servizi locali di assistenza e di profilassi sanitaria e puo' esservi chiamata obbligatoriamente con decreto del prefetto, ai termini dell'[art. 8 del R. decreto 30 dicembre 1923, n.2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md). 
  
  Per la adeguata integrazione di questi servizi il Ministero dell'interno puo' concedere sussidi nei limiti della disponibilita' dello speciale stanziamento del suo bilancio.
 
@@ -96,7 +96,7 @@ Nel caso previsto dall'art. 7, alla Provincia o all'ente designato per il disimp
  
  4° contributo da parte degli assuntori delle altre opere pubbliche, sulla base dell'importo che risultera' dai progetti approvati dalle autorita' competenti; 
  
- 5° eventuale contributo della Provincia, a norma dell'[art. 8 del R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md); 
+ 5° eventuale contributo della Provincia, a norma dell'[art. 8 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md); 
  
  6° eventuali contributi da parte di enti e di privati.
 
@@ -168,7 +168,7 @@ Con Regio decreto, da emanarsi su proposta dal Ministro per l'interno, di concer
 
 ## Art. 19.
 
-Sono abrogate le disposizioni per diminuire la cause della malaria contenute nel [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636 (titolo V, cap. 2°, sezione IV, paragrafo 1°) le disposizioni degli [articoli 69](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), [70](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), [71](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md) e [72 del R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e tutte le altre contrarie e, comunque, incompatibili con le norme contenute nella presente legge.
+Sono abrogate le disposizioni per diminuire la cause della malaria contenute nel [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636 (titolo V, cap. 2°, sezione IV, paragrafo 1°) le disposizioni degli [articoli 69](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), [70](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), [71](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md) e [72 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e tutte le altre contrarie e, comunque, incompatibili con le norme contenute nella presente legge.
 
 ## Art. 20.
 

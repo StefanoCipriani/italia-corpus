@@ -14,7 +14,7 @@ Vista la [legge 24 dicembre 1942, n. 1755](Istituzione%20del%20grado%20di%20aiut
 
 Visto il [decreto legislativo luogotenenziale 18 novembre 1944, n. 328](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md);
 
-Visto il [decreto legislativo luogotenenziale 13 marzo 1945, n. 116](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20dei%20dipendenti%20delle%20Amministrazioni%20statali%20degli%20Enti%20locali%20ed%20in%20genere%20degli%20Enti%20di%20diritto%20pubblico%20nonche%20a%20favore%20dei%20pensionati%20statali.%20045U0116.md);
+Visto il [decreto legislativo luogotenenziale 13 marzo 1945, n. 116](Miglioramenti%20economici%20a%20favore%20dei%20dipendenti%20delle%20Amministrazioni%20statali%20degli%20Enti%20locali%20ed%20in%20genere%20degli%20Enti%20di%20diritto%20pubblico%20nonche%20a%20favore%20dei%20pensionati%20statali.%20045U0116.md);
 
 Visto il decreto legislativo luogotenenziale 21 novembre 1945,
 

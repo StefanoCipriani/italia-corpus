@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e le sue successive modificazioni;
+Veduto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e le sue successive modificazioni;
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -63,7 +63,7 @@ La formula del giuramento per i professori che siano nominati o trasferiti in Re
 
 ## Art. 5.
 
-I professori delle Regie universita' e dei Regi istituti superiori d'istruzione contemplati dai [Regi decreti 13 marzo 1923, n. 736](../Regi%20decreti/Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md), e [30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), ed i personali ad essi assimilati sono dispensati dal servizio quando, per manifestazioni compiute in uffici o fuori di ufficio, non diano piena garanzia di un fedele adempimento dei propri doveri, ovvero si pongano in condizioni d'incompatibilita' con le generali direttive politiche del Governo. 
+I professori delle Regie universita' e dei Regi istituti superiori d'istruzione contemplati dai [Regi decreti 13 marzo 1923, n. 736](Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md), e [30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), ed i personali ad essi assimilati sono dispensati dal servizio quando, per manifestazioni compiute in uffici o fuori di ufficio, non diano piena garanzia di un fedele adempimento dei propri doveri, ovvero si pongano in condizioni d'incompatibilita' con le generali direttive politiche del Governo. 
  
  La dispensa e' deliberata dal Consiglio dei Ministri.
 
@@ -79,17 +79,17 @@ A coloro che siano proposti per la dispensa dal servizio, ai sensi degli articol
 
 ## Art. 8.
 
-All'[art. 3 del R. decreto 13 marzo 1923, n. 736](../Regi%20decreti/Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md), e' aggiunta il comma seguente: 
+All'[art. 3 del R. decreto 13 marzo 1923, n. 736](Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md), e' aggiunta il comma seguente: 
  
  « Spetta al Consiglio direttivo dell'Istituto stabilire a quali insegnamenti debbono essere assegnati i posti di ruolo disponibili, fermo restando il numero dei posti in organico. A tale effetto puo' essere sdoppiato il corso di lingua e letteratura italiana ».
 
 ## Art. 9.
 
-E' abrogato l'[art. 7 del R. decreto 13 marzo 1923, n. 736](../Regi%20decreti/Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md).
+E' abrogato l'[art. 7 del R. decreto 13 marzo 1923, n. 736](Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md).
 
 ## Art. 10.
 
-L'[art. 112 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' costituito dal seguente: 
+L'[art. 112 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' costituito dal seguente: 
  
  « Le Universita' e gli Istituti liberi o alcune loro Facolta' o Scuole possono essere soppresse con decreto Reale, quando sia stata accertata l'insufficienza dei mezzi finanziari o del materiale didattico di cui dispongono, ovvero per ragioni inerenti all'interesse generale degli studi, o alla distribuzione territoriale degli Istituti di istruzione superiore. 
  
@@ -101,7 +101,7 @@ L'[art. 112 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinam
 
 ## Art. 11.
 
-Il termine della decorrenza della nomina a posti di professore universitario per l'anno accademico 1926-27, tanto in seguito a concorso, come in virtu' delle norme di cui all'[articolo 17, comma secondo, del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' prorogato al 16 febbraio 1927.
+Il termine della decorrenza della nomina a posti di professore universitario per l'anno accademico 1926-27, tanto in seguito a concorso, come in virtu' delle norme di cui all'[articolo 17, comma secondo, del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' prorogato al 16 febbraio 1927.
 
 ## Art. 12.
 

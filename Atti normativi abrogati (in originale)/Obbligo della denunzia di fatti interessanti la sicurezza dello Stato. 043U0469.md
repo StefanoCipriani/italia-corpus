@@ -30,7 +30,7 @@ Chiunque, essendo a conoscenza della presenza nel territorio dello Stato di una 
 
 ## Art. 2.
 
-Fuori dei casi preveduti dall'[art. 62 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra, chiunque, avendo fondato motivo di sospettare, per circostanze di tempo o di luogo, ovvero per altre circostanze, che una o piu' persone appartengano alle Forze armate nemiche o siano comunque agenti del nemico, da' o procura ad esse ricovero, aiuto o informazioni, e' punito con la reclusione da uno a dieci anni.
+Fuori dei casi preveduti dall'[art. 62 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra, chiunque, avendo fondato motivo di sospettare, per circostanze di tempo o di luogo, ovvero per altre circostanze, che una o piu' persone appartengano alle Forze armate nemiche o siano comunque agenti del nemico, da' o procura ad esse ricovero, aiuto o informazioni, e' punito con la reclusione da uno a dieci anni.
 
 ## Art. 3.
 

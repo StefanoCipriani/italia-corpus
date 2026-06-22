@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 30 novembre 1944, n. 427](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20ruolo%20per%20gli%20affari%20albanesi%20istituito%20presso%20il%20Ministero%20degli%20affari%20esteri.%20044U0427.md);
+Visto il [decreto legislativo luogotenenziale 30 novembre 1944, n. 427](Soppressione%20del%20ruolo%20per%20gli%20affari%20albanesi%20istituito%20presso%20il%20Ministero%20degli%20affari%20esteri.%20044U0427.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro Segretario di Stato per gli affari esteri, di concer
 
 ## Art. 1.
 
-E' concessa ai funzionari di cittadinanza albanese del soppresso ruolo per gli affari albanesi, a completa tacitazione di qualsiasi diritto o pretesa, un'indennita' integrativa da fissarsi con decreto interministeriale del Ministro per gli affari esteri di concerto con quello per il tesoro, sentita la Commissione di cui al [secondo comma dell'art. 2 del decreto legislativo luogotenenziale 30 novembre 1944, n. 427](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20ruolo%20per%20gli%20affari%20albanesi%20istituito%20presso%20il%20Ministero%20degli%20affari%20esteri.%20044U0427.md). La Commissione proporra' con criteri di equita' l'ammontare della indennita' integrativa di cui sopra per ciascun funzionario, avendo riguardo al grado ed al servizio prestato presso l'Amministrazione italiana.
+E' concessa ai funzionari di cittadinanza albanese del soppresso ruolo per gli affari albanesi, a completa tacitazione di qualsiasi diritto o pretesa, un'indennita' integrativa da fissarsi con decreto interministeriale del Ministro per gli affari esteri di concerto con quello per il tesoro, sentita la Commissione di cui al [secondo comma dell'art. 2 del decreto legislativo luogotenenziale 30 novembre 1944, n. 427](Soppressione%20del%20ruolo%20per%20gli%20affari%20albanesi%20istituito%20presso%20il%20Ministero%20degli%20affari%20esteri.%20044U0427.md). La Commissione proporra' con criteri di equita' l'ammontare della indennita' integrativa di cui sopra per ciascun funzionario, avendo riguardo al grado ed al servizio prestato presso l'Amministrazione italiana.
  Con analoghi criteri sara' determinato l'ammontare delle indennita' da corrispondere in favore della vedova e dei figli minorenni e figlie nubili minorenni dei funzionari di cittadinanza albanese di cui al comma precedente deceduti prima dell'entrata in vigore del presente decreto. L'indennita' di cui al presente capoverso sara' assegnata per meta' alla vedova e per l'altra meta' ai figli minorenni ed alle figlie nubili minorenni in parti uguali.
 
 ## Art. 2.
@@ -31,7 +31,7 @@ Il trattamento di cui al precedente articolo sara' applicato anche ai funzionari
 
 ## Art. 3.
 
-Il personale appartenente alle categorie sopraindicate che sia rimasto all'estero od abbia comunque interrotto unilateralmente i rapporti d'impiego con lo Stato italiano, e' escluso sia dal trattamento economico previsto dal [decreto legislativo luogotenenziale 30 novembre 1944, n. 427](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20ruolo%20per%20gli%20affari%20albanesi%20istituito%20presso%20il%20Ministero%20degli%20affari%20esteri.%20044U0427.md), sia da quello previsto dal presente decreto.
+Il personale appartenente alle categorie sopraindicate che sia rimasto all'estero od abbia comunque interrotto unilateralmente i rapporti d'impiego con lo Stato italiano, e' escluso sia dal trattamento economico previsto dal [decreto legislativo luogotenenziale 30 novembre 1944, n. 427](Soppressione%20del%20ruolo%20per%20gli%20affari%20albanesi%20istituito%20presso%20il%20Ministero%20degli%20affari%20esteri.%20044U0427.md), sia da quello previsto dal presente decreto.
  Le disposizioni del presente decreto entrano in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

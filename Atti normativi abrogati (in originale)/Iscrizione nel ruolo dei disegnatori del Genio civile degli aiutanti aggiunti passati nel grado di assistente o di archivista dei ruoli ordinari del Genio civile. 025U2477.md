@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 21 gennaio 1923, n. 238](../Regi%20decreti/Che%20approva%20le%20nuove%20tabelle%20per%20la%20sistemazione%20del%20personale%20dellAmministrazione%20centrale%20dei%20lavori%20pubblici.%20023U0238.md);
+Visto il [R. decreto 21 gennaio 1923, n. 238](Che%20approva%20le%20nuove%20tabelle%20per%20la%20sistemazione%20del%20personale%20dellAmministrazione%20centrale%20dei%20lavori%20pubblici.%20023U0238.md);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
 Sentito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici di 
 
 ## Articolo unico.
 
-Gli aiutanti aggiunti del Genio civile che per effetto del [R. decreto 21 gennaio 1923, n. 238](../Regi%20decreti/Che%20approva%20le%20nuove%20tabelle%20per%20la%20sistemazione%20del%20personale%20dellAmministrazione%20centrale%20dei%20lavori%20pubblici.%20023U0238.md), fecero passaggio nel grado di assistente o di archivista dei ruoli ordinari del Genio civile potranno, ove ne facciano domanda entro due mesi dalla data di pubblicazione del presente decreto e ne siano riconosciuti meritevoli dal Consiglio di amministrazione, essere inscritti nel grado 11° dei disegnatori del Genio civile prendendo posto nel ruolo di anzianita' dopo l'ultimo nominato alla data di attuazione del presente comma. 
+Gli aiutanti aggiunti del Genio civile che per effetto del [R. decreto 21 gennaio 1923, n. 238](Che%20approva%20le%20nuove%20tabelle%20per%20la%20sistemazione%20del%20personale%20dellAmministrazione%20centrale%20dei%20lavori%20pubblici.%20023U0238.md), fecero passaggio nel grado di assistente o di archivista dei ruoli ordinari del Genio civile potranno, ove ne facciano domanda entro due mesi dalla data di pubblicazione del presente decreto e ne siano riconosciuti meritevoli dal Consiglio di amministrazione, essere inscritti nel grado 11° dei disegnatori del Genio civile prendendo posto nel ruolo di anzianita' dopo l'ultimo nominato alla data di attuazione del presente comma. 
  
  Ai soli effetti della concessione dei successivi aumenti periodici di stipendi nel detto nuovo grado e del computo dei periodi di servizio prescritti per le promozioni ai gradi superiori, la suindicata iscrizione nel grado dei disegnatori si considera avvenuta, con decorrenza dal 16 aprile 1923. Inoltre agli ex aiutanti aggiunti che otterranno tale iscrizione saranno applicabili le disposizioni contenute nell'[art. 7 del R. decreto 25 settembre 1924, n. 1476](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-25;1476#art_7), e nell'[art. 1 del R. decreto 3 agosto 1925, n 1419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-08-03;1419#art_1). 
  

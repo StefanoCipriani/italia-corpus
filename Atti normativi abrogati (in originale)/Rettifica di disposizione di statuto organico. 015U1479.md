@@ -12,4 +12,4 @@ vigente: true
 
 N. 1479 
  
- Decreto Luogotenenziale 26 settembre 1915, col quale sulla proposta del ministro di agricoltura, industria e commercio, viene provveduto alla rettifica di una disposizione dello statuto organico dell'ente morale « Scuola professionale Carlo Menotti in Val Marchirolo » approvato col [R. decreto 13 dicembre 1914, n. 1499](../Regi%20decreti/Erezione%20in%20ente%20morale.%20014U1499.md).
+ Decreto Luogotenenziale 26 settembre 1915, col quale sulla proposta del ministro di agricoltura, industria e commercio, viene provveduto alla rettifica di una disposizione dello statuto organico dell'ente morale « Scuola professionale Carlo Menotti in Val Marchirolo » approvato col [R. decreto 13 dicembre 1914, n. 1499](Erezione%20in%20ente%20morale.%20014U1499.md).

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 26 febbraio 1934, n. 425](Misura%20degli%20assegni%20e%20delle%20relative%20percentuali%20di%20aumento%20al%20personale%20in%20servizio%20nei%20Regi%20uffici%20diplomatici%20e%20consolari%20allestero.%20034U0425.md), convertito nella [legge 14 giugno 1934, n. 1195](Conversione%20in%20legge%20del%20R.%20decreto%20legge%2026%20febbraio%201934%20n.%20425%20che%20fissa%20la%20misura%20degli%20assegni%20e%20delle%20relative%20percentuali%20di%20aumento%20al%20personale%20in%20servizio%20nei%20Regi%20uffici%20diplom_07eab366db94.md);
 
-Visto il [R. decreto 3 febbraio 1921, n. 122](../Regi%20decreti/Che%20stabilisce%20il%20numero%20massimo%20degli%20addetti%20militari%20navali%20ed%20aeronautici%20presso%20le%20Regie%20rappresentanze%20diplomatiche%20e%20determina%20le%20competenze%20loro%20spettanti.%20021U0122.md), e successive modificazioni;
+Visto il [R. decreto 3 febbraio 1921, n. 122](Che%20stabilisce%20il%20numero%20massimo%20degli%20addetti%20militari%20navali%20ed%20aeronautici%20presso%20le%20Regie%20rappresentanze%20diplomatiche%20e%20determina%20le%20competenze%20loro%20spettanti.%20021U0122.md), e successive modificazioni;
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

@@ -30,7 +30,7 @@ E' stabilita in L. 40,000, per l'esercizio finanziario 1925-26, la somma di cui 
 
 ## Art. 6.
 
-E' stabilita in L. 1,000,000, per l'esercizio finanziario 1925-26, la somma da erogarsi in premi ai Carabinieri Reali per importante risultato di servizio, giusta l'[art. 29 del Regio decreto 31 dicembre 1922, n. 1680](../Regi%20decreti/Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md), concernente la riforma ed unificazione dei Corpi armati di polizia.
+E' stabilita in L. 1,000,000, per l'esercizio finanziario 1925-26, la somma da erogarsi in premi ai Carabinieri Reali per importante risultato di servizio, giusta l'[art. 29 del Regio decreto 31 dicembre 1922, n. 1680](Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md), concernente la riforma ed unificazione dei Corpi armati di polizia.
 
 ## Art. 7.
 

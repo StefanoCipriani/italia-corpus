@@ -10,15 +10,15 @@ vigente: true
 
 ## Art. 1.
 
-E' revocato il [R. decreto 13 luglio 1913, n. 895](../Regi%20decreti/Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Novara.%20013U0895.md) in quanto disponeva che gli elettori dei comuni di Corciago, Fosseno, Tapigliano, Cursolo, Spoccia Buttogno, Villanova Biellese, Locarno e Parone fossero, rispettivamente, aggregati alle sezioni elettorali dei comuni di Nebbiuno, Falmenta, Santa Maria Maggiore e Creva, Mottalciata e Varallo Sesia.
+E' revocato il [R. decreto 13 luglio 1913, n. 895](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Novara.%20013U0895.md) in quanto disponeva che gli elettori dei comuni di Corciago, Fosseno, Tapigliano, Cursolo, Spoccia Buttogno, Villanova Biellese, Locarno e Parone fossero, rispettivamente, aggregati alle sezioni elettorali dei comuni di Nebbiuno, Falmenta, Santa Maria Maggiore e Creva, Mottalciata e Varallo Sesia.
 
 ## Art. 2.
 
-Il [R. decreto 13 luglio 1913, n. 895](../Regi%20decreti/Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Novara.%20013U0895.md), e' revocato e modificato come segue: gli elettori del comune di Orasso sono distaccati dalla sezione elettorale del comune di Gurro ed aggregati alla sezione elettorale di Cursolo, di cui all'art. 1 del presente decreto.
+Il [R. decreto 13 luglio 1913, n. 895](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Novara.%20013U0895.md), e' revocato e modificato come segue: gli elettori del comune di Orasso sono distaccati dalla sezione elettorale del comune di Gurro ed aggregati alla sezione elettorale di Cursolo, di cui all'art. 1 del presente decreto.
 
 ## Art. 3.
 
-E' revocato il [R. decreto 13 agosto 1914, n. 975](../Regi%20decreti/Concernente%20variazioni%20nella%20costituzione%20delle%20sezioni%20elettorali%20intercomunali%20in%20diversi%20collegi%20della%20provincia%20di%20Novara.%20014U0975.md), in quanto disponeva che gli elettori del comune di Creola Sesia fossero aggregati alla seconda sezione del comune di Varallo Sesia.
+E' revocato il [R. decreto 13 agosto 1914, n. 975](Concernente%20variazioni%20nella%20costituzione%20delle%20sezioni%20elettorali%20intercomunali%20in%20diversi%20collegi%20della%20provincia%20di%20Novara.%20014U0975.md), in quanto disponeva che gli elettori del comune di Creola Sesia fossero aggregati alla seconda sezione del comune di Varallo Sesia.
 
 ## Art. 4.
 

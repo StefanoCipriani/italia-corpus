@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 22 dicembre 1945, n. 826](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Ministero%20per%20la%20Consulta%20Nazionale%20ed%20istituzione%20presso%20la%20Presidenza%20del%20Consiglio%20dei%20Ministri%20dellUfficio%20per%20le%20relazioni%20con%20la%20Consulta%20Nazionale.md), concernente la soppressione del Ministero della Consulta nazionale l'istituzione presso la Presidenza del Consiglio dei Ministri dell'Ufficio per le relazioni con la Consulta nazionale;
+Visto il [decreto legislativo luogotenenziale 22 dicembre 1945, n. 826](Soppressione%20del%20Ministero%20per%20la%20Consulta%20Nazionale%20ed%20istituzione%20presso%20la%20Presidenza%20del%20Consiglio%20dei%20Ministri%20dellUfficio%20per%20le%20relazioni%20con%20la%20Consulta%20Nazionale.md), concernente la soppressione del Ministero della Consulta nazionale l'istituzione presso la Presidenza del Consiglio dei Ministri dell'Ufficio per le relazioni con la Consulta nazionale;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -22,7 +22,7 @@ Sulla proposta dal Presidente del Consiglio di ministri, Primo Ministro Segretar
 
 ## Art. 1.
 
-L'Ufficio per le relazioni con la Consulta nazionale, istituito dal [decreto legislativo luogotenenziale 22 dicembre 1945, n. 826](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Ministero%20per%20la%20Consulta%20Nazionale%20ed%20istituzione%20presso%20la%20Presidenza%20del%20Consiglio%20dei%20Ministri%20dellUfficio%20per%20le%20relazioni%20con%20la%20Consulta%20Nazionale.md), e' soppresso.
+L'Ufficio per le relazioni con la Consulta nazionale, istituito dal [decreto legislativo luogotenenziale 22 dicembre 1945, n. 826](Soppressione%20del%20Ministero%20per%20la%20Consulta%20Nazionale%20ed%20istituzione%20presso%20la%20Presidenza%20del%20Consiglio%20dei%20Ministri%20dellUfficio%20per%20le%20relazioni%20con%20la%20Consulta%20Nazionale.md), e' soppresso.
  La definizione degli affari tuttora in corso presso detto Ufficio e' devoluta alla Presidenza del Consiglio dei Ministri.
 
 ## Art. 2.

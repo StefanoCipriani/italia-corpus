@@ -18,7 +18,7 @@ Visto il testo unico delle leggi sul risarcimento dei danni di guerra, approvato
 
 Vista la [legge 21 agosto 1922, n. 1233](Che%20reca%20garanzie%20e%20modalita%20per%20anticipazioni%20sui%20risarcimenti%20dei%20danni%20di%20guerra.%20022U1233.md);
 
-Visto l'art. 2 del relativo regolamento approvato con [R. decreto 21 dicembre 1922, n. 1796](../Regi%20decreti/Col%20quale%20si%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%2021%20agosto%201922%20numero%201233%20che%20reca%20garanzie%20e%20modalita%20per%20le%20anticipazioni%20sui%20risarcimenti%20dei%20danni%20di%20guerra.%20022U1796.md);
+Visto l'art. 2 del relativo regolamento approvato con [R. decreto 21 dicembre 1922, n. 1796](Col%20quale%20si%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%2021%20agosto%201922%20numero%201233%20che%20reca%20garanzie%20e%20modalita%20per%20le%20anticipazioni%20sui%20risarcimenti%20dei%20danni%20di%20guerra.%20022U1796.md);
 
 Visto l'[art. 21 del R. decreto-legge 10 gennaio 1926, n. 47](Modificazioni%20varie%20alle%20norme%20vigenti%20pel%20risarcimento%20dei%20danni%20di%20guerra%20ed%20alla%20procedura%20delle%20liquidazioni.%20026U0047.md);
 

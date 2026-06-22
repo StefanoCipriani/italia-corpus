@@ -10,7 +10,7 @@ vigente: true
 
 ### Art. 1.
 
-Le navi mercantili ex jugoslave battenti bandiera italiana hanno l'obbligo di avere il ruolo di equipaggio previsto dal [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md). 
+Le navi mercantili ex jugoslave battenti bandiera italiana hanno l'obbligo di avere il ruolo di equipaggio previsto dal [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md). 
  
 Il Ministro per le comunicazioni ha facolta' di dispensare da tale obbligo le navi o i galleggianti addetti a servizi locali di navigazione o di porto o alla pesca costiera.
 
@@ -52,7 +52,7 @@ Le controversie di cui al titolo VI del R. decreto 17 agosto 1935-XIII, n. 1765,
 
 Ai territori annessi all'Italia col R. decreto-legge 18 maggio 1941-XIX, n. 452, sono estesi a far tempo dal 1° agosto 1941-XIX: 
  
- a) il [R. decreto-legge 26 ottobre 1919, n. 1996](Che%20erige%20in%20ente%20morale%20la%20Cassa%20degli%20invalidi%20della%20marina%20mercantile%20costituita%20ai%20termini%20dellart.%201%20della%20legge%2022%20giugno%201913%20n.%20767%20stabilendone%20gli%20scopi%20e%20lordinamento.%20019U1996.md), convertito nella legge 17 aprile 1926-IV, n. 473, relativo alla erezione in ente morale della Cassa degli invalidi della marina mercantile, ora Cassa nazionale fascista per la previdenza marinara, e successive modificazioni, nonche' il relativo regolamento approvato col [R. decreto 6 luglio 1922, n. 1447](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20Cassa%20degli%20invalidi%20della%20marina%20mercantile.%20022U1447.md); 
+ a) il [R. decreto-legge 26 ottobre 1919, n. 1996](Che%20erige%20in%20ente%20morale%20la%20Cassa%20degli%20invalidi%20della%20marina%20mercantile%20costituita%20ai%20termini%20dellart.%201%20della%20legge%2022%20giugno%201913%20n.%20767%20stabilendone%20gli%20scopi%20e%20lordinamento.%20019U1996.md), convertito nella legge 17 aprile 1926-IV, n. 473, relativo alla erezione in ente morale della Cassa degli invalidi della marina mercantile, ora Cassa nazionale fascista per la previdenza marinara, e successive modificazioni, nonche' il relativo regolamento approvato col [R. decreto 6 luglio 1922, n. 1447](Che%20approva%20il%20regolamento%20per%20la%20Cassa%20degli%20invalidi%20della%20marina%20mercantile.%20022U1447.md); 
  
  b) il R. decreto-legge 19 ottobre 1933-XI, n. 1595, convertito nella legge 22 gennaio 1934-XII, n. 243, che reca norme per il trattamento di riposo del personale delle aziende esercenti servizi marittimi sovvenzionati, e successive modificazioni e integrazioni. 
  

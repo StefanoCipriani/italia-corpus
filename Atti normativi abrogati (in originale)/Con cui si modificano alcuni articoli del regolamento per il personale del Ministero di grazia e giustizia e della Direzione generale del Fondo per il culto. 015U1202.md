@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'[art. 6 del R. decreto 23 maggio 1912, n. 532](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20il%20personale%20del%20Ministero%20di%20grazia%20e%20giustizia%20e%20della%20Direzione%20generale%20del%20Fondo%20per%20il%20culto%20012U0532.md), modificato dal [R. decreto 7 marzo 1915, n. 326](../Regi%20decreti/Che%20modifica%20alcune%20disposizioni%20del%20regolamento%20per%20il%20personale%20del%20Ministero%20di%20grazia%20e%20giustizia%20e%20della%20Direzione%20generale%20del%20fondo%20per%20il%20culto%20approvato%20con%20R.%20decreto%2023%20maggio%20_0ef7ab226c8c.md), e' sostituito dal seguente articolo: 
+L'[art. 6 del R. decreto 23 maggio 1912, n. 532](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20il%20personale%20del%20Ministero%20di%20grazia%20e%20giustizia%20e%20della%20Direzione%20generale%20del%20Fondo%20per%20il%20culto%20012U0532.md), modificato dal [R. decreto 7 marzo 1915, n. 326](Che%20modifica%20alcune%20disposizioni%20del%20regolamento%20per%20il%20personale%20del%20Ministero%20di%20grazia%20e%20giustizia%20e%20della%20Direzione%20generale%20del%20fondo%20per%20il%20culto%20approvato%20con%20R.%20decreto%2023%20maggio%20_0ef7ab226c8c.md), e' sostituito dal seguente articolo: 
  
  Il conferimento dei posti di segretario di 4ª classe nel Ministero di grazia e giustizia ha luogo mediante concorso per titoli, al quale possono essere ammessi: 
  

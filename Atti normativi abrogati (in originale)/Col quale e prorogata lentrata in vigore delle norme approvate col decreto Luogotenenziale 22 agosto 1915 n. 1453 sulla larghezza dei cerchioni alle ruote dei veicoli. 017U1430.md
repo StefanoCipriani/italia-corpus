@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' prorogata, fino a sei mesi dopo la conclusione della pace, l'entrata in vigore delle norme approvate col Nostro decreto 22 agosto 1915, n. 1453, per disciplinare in modo uniforme in tutto il Regno la larghezza dei cerchioni delle ruote dei veicoli di qualunque genere circolanti sulle strade ordinarie di uso pubblico, esclusi quelli aventi cerchioni rivestiti di gomma o di altra sostanza eminentemente elastica, cui provvede il regolamento approvato con [R. decreto 2 luglio 1914, n. 811](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20i%20veicoli%20a%20trazione%20meccanica%20senza%20guida%20di%20rotaie%20014U0811.md). 
+E' prorogata, fino a sei mesi dopo la conclusione della pace, l'entrata in vigore delle norme approvate col Nostro decreto 22 agosto 1915, n. 1453, per disciplinare in modo uniforme in tutto il Regno la larghezza dei cerchioni delle ruote dei veicoli di qualunque genere circolanti sulle strade ordinarie di uso pubblico, esclusi quelli aventi cerchioni rivestiti di gomma o di altra sostanza eminentemente elastica, cui provvede il regolamento approvato con [R. decreto 2 luglio 1914, n. 811](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20i%20veicoli%20a%20trazione%20meccanica%20senza%20guida%20di%20rotaie%20014U0811.md). 
  
  Il periodo di anni sei, durante il quale saranno tollerati i veicoli con cerchioni non conformi alle norme suddette, rimane fermo con decorrenza dal 23 agosto 1917.
 

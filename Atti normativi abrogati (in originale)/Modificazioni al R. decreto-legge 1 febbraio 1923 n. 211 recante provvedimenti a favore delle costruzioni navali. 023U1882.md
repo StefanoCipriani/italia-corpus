@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 1° febbraio 1923, n. 211](../Regi%20decreti/Che%20reca%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20mercantili.%20023U0211.md); 
+ Visto il [R. decreto 1° febbraio 1923, n. 211](Che%20reca%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20mercantili.%20023U0211.md); 
  
  Sentito il Consiglio dei Ministri; 
  

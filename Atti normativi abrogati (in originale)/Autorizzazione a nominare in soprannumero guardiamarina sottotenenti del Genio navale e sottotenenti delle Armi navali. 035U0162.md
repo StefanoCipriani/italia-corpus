@@ -18,7 +18,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Vista la [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), sull'ordinamento della Regia marina, e sue successive modificazioni;
 
-Visto il testo unico delle leggi sull'avanzamento degli ufficiali dei Corpi militari della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e sue successive modificazioni;
+Visto il testo unico delle leggi sull'avanzamento degli ufficiali dei Corpi militari della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e sue successive modificazioni;
 
 Ritenuta la necessita' assoluta ed urgente di provvedere alla nomina a guardiamarina, a sottotenente del Genio navale ed a sottotenente delle Armi navali, in servizio permanente effettivo, di aspiranti della Regia Accademia navale, derogando dalle vigenti disposizioni;
 

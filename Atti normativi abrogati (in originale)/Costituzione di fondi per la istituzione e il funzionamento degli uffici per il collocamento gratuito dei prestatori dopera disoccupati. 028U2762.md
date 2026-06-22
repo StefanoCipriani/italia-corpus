@@ -18,7 +18,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Vista la Carta del Lavoro 21 aprile 1927 ;
 
-Visto il [R. decreto 29 marzo 1928, n. 1003](../Regi%20decreti/Disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U1003.md), sulla disciplina nazionale della domanda e dell'offerta di lavoro ;
+Visto il [R. decreto 29 marzo 1928, n. 1003](Disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U1003.md), sulla disciplina nazionale della domanda e dell'offerta di lavoro ;
 
 Visto il [R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md), sull'assicurazione obbligatoria contro la disoccupazione involontaria;
 
@@ -30,11 +30,11 @@ Sulla proposta del Capo del Governo, Ministro per le corporazioni, di concerto c
 
 ## Art. 1.
 
-Per provvedere alla spesa necessaria alla istituzione ed al funzionamento degli uffici per il collocamento gratuito dei prestatori d'opera disoccupati, a norma del [R. decreto 29 marzo 1928, n. 1003](../Regi%20decreti/Disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U1003.md), e' costituito un apposito fondo, a formare e mantenere il quale contribuiscono : 
+Per provvedere alla spesa necessaria alla istituzione ed al funzionamento degli uffici per il collocamento gratuito dei prestatori d'opera disoccupati, a norma del [R. decreto 29 marzo 1928, n. 1003](Disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U1003.md), e' costituito un apposito fondo, a formare e mantenere il quale contribuiscono : 
  
  a) la gestione speciale per l'assicurazione obbligatoria contro la disoccupazione, di cui al [R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md), per i cinque decimi dell'annuo fabbisogno, fino ad un massimo di lire dieci milioni; 
  
- b) il « Fondo speciale delle corporazioni », di cui all'[art. 26 del R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), per un decimo, fino al massimo di lire un milione; 
+ b) il « Fondo speciale delle corporazioni », di cui all'[art. 26 del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), per un decimo, fino al massimo di lire un milione; 
  
  c) la Confederazione nazionale dei sindacati fascisti, per la meta' della residua somma occorrente; 
  

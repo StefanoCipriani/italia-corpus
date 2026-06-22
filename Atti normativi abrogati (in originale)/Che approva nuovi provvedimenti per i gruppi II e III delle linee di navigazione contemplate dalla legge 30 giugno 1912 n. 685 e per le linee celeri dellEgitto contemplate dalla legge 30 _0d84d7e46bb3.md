@@ -76,7 +76,7 @@ Nel caso che venisse a mancare agli assuntori per qualsiasi causa il diritto all
 
 ## Art. 8.
 
-Sui titoli di obbligazione che risultino garantiti a tenore del precedente art. 6 gli Istituti di emissione potranno fare le anticipazioni previste dall'art. 29, num. 2 del testo unico di legge sugli Istituti di emissione e sulla circolazione dei biglietti di Banca pubblicato con [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md).
+Sui titoli di obbligazione che risultino garantiti a tenore del precedente art. 6 gli Istituti di emissione potranno fare le anticipazioni previste dall'art. 29, num. 2 del testo unico di legge sugli Istituti di emissione e sulla circolazione dei biglietti di Banca pubblicato con [R. decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md).
 
 ## Art. 9.
 

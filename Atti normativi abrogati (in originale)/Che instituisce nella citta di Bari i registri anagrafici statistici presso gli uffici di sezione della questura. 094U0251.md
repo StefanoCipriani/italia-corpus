@@ -20,7 +20,7 @@ IL MINISTRO SEGRETARIO DI STATO
  
  Decreta: 
  
- Nella citta' di Bari sono istituiti i registri anagrafici statistici conforme il disposto dell'[art. 141 della legge 30 giugno 1889 n. 6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-06-30;6144#art_141) e sotto l'osservanza delle norme di cui agli articoli 109 e 113 del regolamento approvato con [R. decreto 8 novembre 1889 n. 6517](../Regi%20decreti/Che%20approva%20lunito%20regolamento%20per%20lesecuzione%20della%20legge%2030%20giugno%20sulla%20pubblica%20sicurezza.%20089U6517.md). 
+ Nella citta' di Bari sono istituiti i registri anagrafici statistici conforme il disposto dell'[art. 141 della legge 30 giugno 1889 n. 6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-06-30;6144#art_141) e sotto l'osservanza delle norme di cui agli articoli 109 e 113 del regolamento approvato con [R. decreto 8 novembre 1889 n. 6517](Che%20approva%20lunito%20regolamento%20per%20lesecuzione%20della%20legge%2030%20giugno%20sulla%20pubblica%20sicurezza.%20089U6517.md). 
  
  Il presente decreto sara' inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia. 
  

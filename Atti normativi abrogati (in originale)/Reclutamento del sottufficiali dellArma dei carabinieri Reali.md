@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 7 marzo 1940, n. 339](../Regi%20decreti/Norme%20concernenti%20lammissione%20ai%20corsi%20allievi%20sottufficiali%20presso%20la%20Scuola%20centrale%20dei%20carabinieri%20Reali.%20040U0339.md), e successive modificazioni;
+Visto il [R. decreto 7 marzo 1940, n. 339](Norme%20concernenti%20lammissione%20ai%20corsi%20allievi%20sottufficiali%20presso%20la%20Scuola%20centrale%20dei%20carabinieri%20Reali.%20040U0339.md), e successive modificazioni;
 
 Visto il [decreto legislativo Luogotenenziale 21 Agosto 1945, n. 518](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20riconoscimento%20delle%20qualifiche%20dei%20partigiani%20e%20lesame%20delle%20proposte%20di%20ricompensa.%20045U0518.md);
 

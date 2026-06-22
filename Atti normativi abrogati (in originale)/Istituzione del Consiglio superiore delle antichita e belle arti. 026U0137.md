@@ -66,9 +66,9 @@ In tutti i casi in cui, a norma delle leggi e dei regolamenti in vigore, e' obbl
 
 ## Art. 6.
 
-Restano in vigore gli [articoli 4](../Regi%20decreti/Che%20sopprime%20il%20Consiglio%20superiore%20delle%20antichita%20e%20belle%20arti%20e%20la%20Commissione%20permanente%20per%20le%20arti%20musicale%20e%20drammatica%20ed%20istituisce%20presso%20il%20Ministero%20dellistruzione%20una%20Commiss_a532ca1f9f1e.md) e [5 del R. decreto 21 dicembre 1922, n. 1726](../Regi%20decreti/Che%20sopprime%20il%20Consiglio%20superiore%20delle%20antichita%20e%20belle%20arti%20e%20la%20Commissione%20permanente%20per%20le%20arti%20musicale%20e%20drammatica%20ed%20istituisce%20presso%20il%20Ministero%20dellistruzione%20una%20Commiss_a532ca1f9f1e.md). 
+Restano in vigore gli [articoli 4](Che%20sopprime%20il%20Consiglio%20superiore%20delle%20antichita%20e%20belle%20arti%20e%20la%20Commissione%20permanente%20per%20le%20arti%20musicale%20e%20drammatica%20ed%20istituisce%20presso%20il%20Ministero%20dellistruzione%20una%20Commiss_a532ca1f9f1e.md) e [5 del R. decreto 21 dicembre 1922, n. 1726](Che%20sopprime%20il%20Consiglio%20superiore%20delle%20antichita%20e%20belle%20arti%20e%20la%20Commissione%20permanente%20per%20le%20arti%20musicale%20e%20drammatica%20ed%20istituisce%20presso%20il%20Ministero%20dellistruzione%20una%20Commiss_a532ca1f9f1e.md). 
  
- I membri del Consiglio superiore, compresi quelli momentaneamente aggregati a norma dell'art. 2, hanno diritto alle indennita' di cui al [R. decreto 10 luglio 1924, n. 1368](../Regi%20decreti/Determinazione%20delle%20indennita%20spettanti%20ai%20componenti%20dei%20corpi%20consultivi%20e%20delle%20Commissioni%20in%20servizio%20dellistruzione%20superiore.%20024U1368.md). 
+ I membri del Consiglio superiore, compresi quelli momentaneamente aggregati a norma dell'art. 2, hanno diritto alle indennita' di cui al [R. decreto 10 luglio 1924, n. 1368](Determinazione%20delle%20indennita%20spettanti%20ai%20componenti%20dei%20corpi%20consultivi%20e%20delle%20Commissioni%20in%20servizio%20dellistruzione%20superiore.%20024U1368.md). 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. 
  

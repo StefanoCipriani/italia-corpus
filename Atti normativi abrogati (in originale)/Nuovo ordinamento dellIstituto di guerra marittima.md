@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 14 della legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), sull'ordinamento della Marina militare, e successive modificazioni;
 
-Visto il [regio decreto 26 luglio 1935, n. 1656](../Regi%20decreti/Nuovo%20ordinamento%20dellIstituto%20di%20Guerra%20Marittima.%20035U1656.md), concernente l'ordinamento dell'Istituto di guerra marittima;
+Visto il [regio decreto 26 luglio 1935, n. 1656](Nuovo%20ordinamento%20dellIstituto%20di%20Guerra%20Marittima.%20035U1656.md), concernente l'ordinamento dell'Istituto di guerra marittima;
 
 Visto il [decreto del Presidente della Repubblica 18 novembre 1965, n. 1477](Ordinamento%20dello%20Stato%20Maggiore%20della%20difesa%20e%20degli%20Stati%20Maggiori%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20in%20tempo%20di%20pace.md), concernente l'ordinamento dello stato maggiore della Difesa e degli stati maggiori dell'Esercito, della Marina e dell'Aeronautica, in tempo di pace;
 
@@ -74,12 +74,12 @@ La valutazione degli ufficiali frequentatori del corso normale e del corso super
 
 ## Art. 7.
 
-I corsi dell'Istituto di guerra marittima in atto alla data di entrata in vigore del presente decreto sono portati a termine secondo le norme dell'ordinamento stabilito con [regio decreto 26 luglio 1935, n. 1656](../Regi%20decreti/Nuovo%20ordinamento%20dellIstituto%20di%20Guerra%20Marittima.%20035U1656.md).
+I corsi dell'Istituto di guerra marittima in atto alla data di entrata in vigore del presente decreto sono portati a termine secondo le norme dell'ordinamento stabilito con [regio decreto 26 luglio 1935, n. 1656](Nuovo%20ordinamento%20dellIstituto%20di%20Guerra%20Marittima.%20035U1656.md).
  Per gli ufficiali superiori del Corpo di stato maggiore che alla data suddetta non abbiano frequentato presso l'istituto di guerra marittima i corsi previsti dal citato ordinamento, il corso superiore di cui alla lettera b) del precedente art. 4 sara' svolto con programmi speciali, contenenti anche riferimenti a quelli del corso normale.
 
 ## Art. 8.
 
-E' abrogato il [regio decreto 26 luglio 1935, n. 1656](../Regi%20decreti/Nuovo%20ordinamento%20dellIstituto%20di%20Guerra%20Marittima.%20035U1656.md).
+E' abrogato il [regio decreto 26 luglio 1935, n. 1656](Nuovo%20ordinamento%20dellIstituto%20di%20Guerra%20Marittima.%20035U1656.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

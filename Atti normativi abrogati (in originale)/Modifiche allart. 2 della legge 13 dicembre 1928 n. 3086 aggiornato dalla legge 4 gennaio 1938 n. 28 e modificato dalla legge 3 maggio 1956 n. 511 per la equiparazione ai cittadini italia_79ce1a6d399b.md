@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md), concernente la delega al Governo ad emanare provvedimenti nelle materie previste dai trattati della Comunita' economica europea (C.E.E.) e della Comunita' europea dell'energia atomica (C.E.E.A.) per la durata della III tappa e stanziamenti di fondi necessari a coprire le spese derivanti dall'applicazione della legge stessa;
+Vista la [legge 13 ottobre 1969, n. 740](Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md), concernente la delega al Governo ad emanare provvedimenti nelle materie previste dai trattati della Comunita' economica europea (C.E.E.) e della Comunita' europea dell'energia atomica (C.E.E.A.) per la durata della III tappa e stanziamenti di fondi necessari a coprire le spese derivanti dall'applicazione della legge stessa;
 
 Vista la direttiva del Consiglio C.E.E. n. 68/363 del 15 ottobre 1968, pubblicata nella "Gazzetta Ufficiale" delle Comunita' europee n. L 260 del 22 ottobre 1968, relativa alla attuazione della liberta' di stabilimento e della libera prestazione dei servizi per le attivita' non salariate attinenti al commercio al minuto;
 
-Sentita la commissione parlamentare di cui all'art. 3 della precitata [legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md);
+Sentita la commissione parlamentare di cui all'art. 3 della precitata [legge 13 ottobre 1969, n. 740](Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md);
 
 Sentito il Consiglio dei Ministri;
 

@@ -26,7 +26,7 @@ Sulla proposta del DUCE del Fascismo, Capo del Governo e del Ministro per le fin
 
 ## Art. 1.
 
-A decorrere dalla data di entrata in vigore del presente decreto, gli atti stipulati per scrittura privata non autenticata, sotto qualsiasi denominazione, aventi per oggetto trasferimenti di beni immobili o di diritti immobiliari, compresi i conferimenti in societa' derivanti da costituzione o fusione di societa', o promessa di vendita dei detti beni o diritti, qualora non siano registrati entro il termine previsto della legge del registro, approvata con [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), sono nulli di pieno diritto. 
+A decorrere dalla data di entrata in vigore del presente decreto, gli atti stipulati per scrittura privata non autenticata, sotto qualsiasi denominazione, aventi per oggetto trasferimenti di beni immobili o di diritti immobiliari, compresi i conferimenti in societa' derivanti da costituzione o fusione di societa', o promessa di vendita dei detti beni o diritti, qualora non siano registrati entro il termine previsto della legge del registro, approvata con [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), sono nulli di pieno diritto. 
  
  Sono del pari nulle di pieno diritto le convenzioni contenenti promessa di vendita di beni immobili o di diritti immobiliari ancorche' registrate tempestivamente senza applicazione dell'imposta proporzionale di trasferimento, ove entro sei mesi dalla data di registrazione non siano seguite da regolare atto di trasferimento debitamente registrato.
 

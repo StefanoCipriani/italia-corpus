@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 dicembre 1922, n. 1783](../Regi%20decreti/Che%20sopprime%20lEnte%20portuale%20di%20Napoli.%20022U1783.md);
+Visto il [R. decreto 31 dicembre 1922, n. 1783](Che%20sopprime%20lEnte%20portuale%20di%20Napoli.%20022U1783.md);
 
-Visto il [R. decreto 25 marzo 1923, n. 1018](../Regi%20decreti/Che%20stabilisce%20le%20attribuzioni%20del%20R.%20commissario%20straordinario%20per%20il%20porto%20di%20Napoli.%20023U1018.md);
+Visto il [R. decreto 25 marzo 1923, n. 1018](Che%20stabilisce%20le%20attribuzioni%20del%20R.%20commissario%20straordinario%20per%20il%20porto%20di%20Napoli.%20023U1018.md);
 
-Visto il [R. decreto 7 febbraio 1926, n. 359](../Regi%20decreti/Passaggio%20di%20alcune%20attribuzioni%20del%20Regio%20commissario%20per%20il%20porto%20di%20Napoli%20allAlto%20Commissario%20per%20la%20provincia%20di%20Napoli.%20026U0359.md);
+Visto il [R. decreto 7 febbraio 1926, n. 359](Passaggio%20di%20alcune%20attribuzioni%20del%20Regio%20commissario%20per%20il%20porto%20di%20Napoli%20allAlto%20Commissario%20per%20la%20provincia%20di%20Napoli.%20026U0359.md);
 
 Visto il R, [decreto-legge 1° febbraio 1925, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1925-02-01;232), convertito in [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 

@@ -31,7 +31,7 @@ n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%2056
  
  Rimane salva la competenza delle speciali Commissioni istituite dalle disposizioni vigenti per la, decisione dei ricorsi contro gli elenchi e le matricole dei contributi sindacali obbligatori. 
  
- Contro il decreto di cui al primo comma e' ammesso il ricorso al Consiglio di Stato ai sensi dell'art. 26 testo unico approvato con [R. decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md). 
+ Contro il decreto di cui al primo comma e' ammesso il ricorso al Consiglio di Stato ai sensi dell'art. 26 testo unico approvato con [R. decreto 26 giugno 1924, n. 1054](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

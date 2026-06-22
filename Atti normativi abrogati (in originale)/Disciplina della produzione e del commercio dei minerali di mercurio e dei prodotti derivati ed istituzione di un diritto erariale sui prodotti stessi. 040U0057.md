@@ -48,7 +48,7 @@ Chiunque sottragga o tenti di sottrarre con qualunque mezzo i prodotti all'accer
  
  I prodotti sottratti o che si tentava di sottrarre ed i mezzi adoperati per commettere la frode cadono in confisca, a termini delle disposizioni della legge doganale. 
  
- La multa e' applicata senza pregiudizio delle altre pene sancite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ La multa e' applicata senza pregiudizio delle altre pene sancite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 7.
 

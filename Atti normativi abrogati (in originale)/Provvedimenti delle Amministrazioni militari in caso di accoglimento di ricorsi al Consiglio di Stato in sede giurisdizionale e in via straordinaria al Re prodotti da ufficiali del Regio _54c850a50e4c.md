@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [articoli 16](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md), [29](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md) e [30 del R. decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md), col quale fu approvato il testo unico delle leggi sul Consiglio di Stato;
+Visti gli [articoli 16](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md), [29](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md) e [30 del R. decreto 26 giugno 1924, n. 1054](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md), col quale fu approvato il testo unico delle leggi sul Consiglio di Stato;
 
-Visto il [R. decreto 26 giugno 1924, n. 1055](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sul%20Consiglio%20di%20Stato.%20024U1055.md), col quale fu approvato il regolamento per l'esecuzione del testo unico suddetto;
+Visto il [R. decreto 26 giugno 1924, n. 1055](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sul%20Consiglio%20di%20Stato.%20024U1055.md), col quale fu approvato il regolamento per l'esecuzione del testo unico suddetto;
 
 Udito il Consiglio dei Ministri;
 

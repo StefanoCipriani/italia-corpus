@@ -22,7 +22,7 @@ La tassa si riscuote mediante la vendita di speciali contrassegni da adattarsi a
 
 ## Art. 3.
 
-Sono mantenute, per le tasse stabilite dalla presente legge, le esenzioni accordate dai [nn. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1866-06-28;3022#art_12-num1) e [2 dell'art. 12 del decreto legislativo 28 giugno 1866, n. 3022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1866-06-28;3022#art_12-num2), e dall'art. 37 del regolamento approvato con [R. decreto 3 febbraio 1867, n. 3612](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20tassa%20sulle%20vetture%20pubbliche%20e%20private%20e%20sui%20domestici.%20067U3612.md), per l'applicazione della tassa sulle vetture. 
+Sono mantenute, per le tasse stabilite dalla presente legge, le esenzioni accordate dai [nn. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1866-06-28;3022#art_12-num1) e [2 dell'art. 12 del decreto legislativo 28 giugno 1866, n. 3022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1866-06-28;3022#art_12-num2), e dall'art. 37 del regolamento approvato con [R. decreto 3 febbraio 1867, n. 3612](Che%20approva%20il%20Regolamento%20per%20la%20tassa%20sulle%20vetture%20pubbliche%20e%20private%20e%20sui%20domestici.%20067U3612.md), per l'applicazione della tassa sulle vetture. 
  
  Sono esenti dal pagamento della tassa i velocipedi, le macchine od apparecchi ad essi assimilabili e gli automobili di ogni specie: 
  
@@ -93,7 +93,7 @@ E' punito con l'ammenda da L. 100 a 500 chiunque venda contrassegni senza licenz
 
 ## Art. 12.
 
-Le disposizioni del libro 2°, titolo 6°, capo 2° del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono estese alla contraffazione dei contrassegni indicati nella presente legge, allo sciente uso e smercio dei contrassegni medesimi, o degli strumenti destinati alla contraffazione.
+Le disposizioni del libro 2°, titolo 6°, capo 2° del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono estese alla contraffazione dei contrassegni indicati nella presente legge, allo sciente uso e smercio dei contrassegni medesimi, o degli strumenti destinati alla contraffazione.
 
 ## Art. 13.
 

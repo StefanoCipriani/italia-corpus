@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il [R. decreto 5 maggio 1916, n. 505](../Regi%20decreti/Riguardante%20lemissione%20di%20buoni%20del%20tesoro%20triennali%20e%20quinquennali.%20016U0505.md), che autorizza il ministro del tesoro ad emettere buoni del tesoro con scadenza di tre e di cinque anni all'interesse del 5%;
+Veduto il [R. decreto 5 maggio 1916, n. 505](Riguardante%20lemissione%20di%20buoni%20del%20tesoro%20triennali%20e%20quinquennali.%20016U0505.md), che autorizza il ministro del tesoro ad emettere buoni del tesoro con scadenza di tre e di cinque anni all'interesse del 5%;
 
 Veduto l'art. 3 del decreto stesso che concede agli acquirenti dei buoni quinquennali l'abbuono di L. 1,50 per ogni cento lire di capitale nominale;
 
@@ -26,7 +26,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro; Abbiamo decretato
 
 ## Articolo unico.
 
-E' data facolta' al ministro del tesoro di fissare con suo decreto la misura dell'abbuono da concedersi agli acquirenti dei buoni triennali e quinquennali 5% creati in virtu' del citato [R. decreto 5 maggio 1916, n. 505](../Regi%20decreti/Riguardante%20lemissione%20di%20buoni%20del%20tesoro%20triennali%20e%20quinquennali.%20016U0505.md). 
+E' data facolta' al ministro del tesoro di fissare con suo decreto la misura dell'abbuono da concedersi agli acquirenti dei buoni triennali e quinquennali 5% creati in virtu' del citato [R. decreto 5 maggio 1916, n. 505](Riguardante%20lemissione%20di%20buoni%20del%20tesoro%20triennali%20e%20quinquennali.%20016U0505.md). 
  
  Il presente decreto che entrera' in vigore dal giorno successivo a quello della sua pubblicazione nella Gazzetta ufficiale del Regno, sara' presentato al Parlamento per essere convertito in legge. 
  

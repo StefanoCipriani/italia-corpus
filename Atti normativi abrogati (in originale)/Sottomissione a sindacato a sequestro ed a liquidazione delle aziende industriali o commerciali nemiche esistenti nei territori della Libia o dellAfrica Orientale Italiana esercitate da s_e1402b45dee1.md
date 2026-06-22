@@ -56,7 +56,7 @@ Il sindacato viene esercitato sotto la vigilanza dell'autorita' che ha emanato i
  
  Il sindacatore controlla l'attivita' dell'azienda e ha diritto di prendere in ogni tempo visione dei libri, degli atti o della corrispondenza dell'azienda e di procedere a qualsiasi accertamento che ritenga necessario. 
  
- Chiunque rifiuti di fornire al sindacatore le informazioni che egli richieda nell'esercizio delle sue funzioni e' punito ai sensi dell'[art. 650 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), fermo restando il disposto dell'art. 351 della legge di guerra approvata con Regio decreto 8 luglio 1938-XVI, n. 1415.
+ Chiunque rifiuti di fornire al sindacatore le informazioni che egli richieda nell'esercizio delle sue funzioni e' punito ai sensi dell'[art. 650 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), fermo restando il disposto dell'art. 351 della legge di guerra approvata con Regio decreto 8 luglio 1938-XVI, n. 1415.
 
 ## Art. 4.
 

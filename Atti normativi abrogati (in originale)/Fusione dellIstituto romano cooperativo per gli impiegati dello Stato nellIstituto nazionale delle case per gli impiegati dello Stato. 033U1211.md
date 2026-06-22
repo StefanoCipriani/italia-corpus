@@ -30,7 +30,7 @@ La sezione per Roma dell'Istituto nazionale per le case degli impiegati dello St
 
 ## Art. 2.
 
-Restano fermi, ai sensi delle disposizioni citate nel precedente art. 1 e dello statuto organico del cessato Istituto romano cooperativo, approvato con [R. decreto 20 maggio 1928, n. 1284](../Regi%20decreti/Cambiamento%20di%20denominazione%20dellIstituto%20cooperativo%20per%20le%20case%20degli%20impiegati%20dello%20Stato%20in%20Roma%20in%20Istituto%20romano%20cooperativo%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20028U1284.md), i diritti dei soci del cessato Istituto romano cooperativo e delle loro famiglie, nei riguardi delle case costruite, in corso di costruzione, o comunque finanziate, ed i diritti di quelli che ai sensi dello statuto succitato hanno ottenuto l'assegnazione di un appartamento e delle loro famiglie, anche per quanto concerne la rinnovazione dei contratti.
+Restano fermi, ai sensi delle disposizioni citate nel precedente art. 1 e dello statuto organico del cessato Istituto romano cooperativo, approvato con [R. decreto 20 maggio 1928, n. 1284](Cambiamento%20di%20denominazione%20dellIstituto%20cooperativo%20per%20le%20case%20degli%20impiegati%20dello%20Stato%20in%20Roma%20in%20Istituto%20romano%20cooperativo%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20028U1284.md), i diritti dei soci del cessato Istituto romano cooperativo e delle loro famiglie, nei riguardi delle case costruite, in corso di costruzione, o comunque finanziate, ed i diritti di quelli che ai sensi dello statuto succitato hanno ottenuto l'assegnazione di un appartamento e delle loro famiglie, anche per quanto concerne la rinnovazione dei contratti.
 
 ## Art. 3.
 

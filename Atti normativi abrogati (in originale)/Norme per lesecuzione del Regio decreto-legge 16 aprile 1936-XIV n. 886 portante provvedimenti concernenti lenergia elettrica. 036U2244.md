@@ -58,7 +58,7 @@ I componenti il Comitato centrale per la mobilitazione dell'energia elettrica so
  
  In relazione ai compiti di cui al precedente articolo, il Comitato puo' dare al presidente ogni piu' ampio mandato, nominare nel proprio seno uno o piu' Sottocomitati, conferire ad essi propri poteri, farsi coadiuvare da esperti di propria fiducia singolarmente o riuniti in Commissione consultiva. 
  
- Ai componenti il Comitato centrale per la mobilitazione dell'energia elettrica viene corrisposta per ogni giornata di seduta una medaglia di presenza nei limiti stabiliti dall'[art. 63 del R. decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md). 
+ Ai componenti il Comitato centrale per la mobilitazione dell'energia elettrica viene corrisposta per ogni giornata di seduta una medaglia di presenza nei limiti stabiliti dall'[art. 63 del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md). 
  
  Inoltre, ai membri estranei all'Amministrazione dello Stato, provenienti da altra sede, sara' fatto il trattamento di missione stabilito per il grado 5° dei funzionari dello Stato.
 

@@ -52,7 +52,7 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occor
 
 1.
 
-Gli stanziamenti iscritti in bilancio nell'anno 1995 in applicazione delle [leggi 26 febbraio 1992, n. 212, 30 settembre 1993, n. 388, 4 ottobre 1994, n. 579, 15 febbraio 1995, n. 51](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20fra%20il%20Governo%20della%20Repubblica%20italiana%20e%20lOrganizzazione%20delle%20Nazioni%20Unite%20per%20lo%20sviluppo%20industriale%20sulle%20disposizioni%20amministrative%20per%20il%20Cent_8817f909db18.md), nonche' quelli iscritti al capitolo 1116 dello stato di previsione del Ministero degli affari esteri non impegnati al termine dell'esercizio finanziario 1995 possono esserlo nell'esercizio 1996.
+Gli stanziamenti iscritti in bilancio nell'anno 1995 in applicazione delle [leggi 26 febbraio 1992, n. 212, 30 settembre 1993, n. 388, 4 ottobre 1994, n. 579, 15 febbraio 1995, n. 51](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20fra%20il%20Governo%20della%20Repubblica%20italiana%20e%20lOrganizzazione%20delle%20Nazioni%20Unite%20per%20lo%20sviluppo%20industriale%20sulle%20disposizioni%20amministrative%20per%20il%20Cent_8817f909db18.md), nonche' quelli iscritti al capitolo 1116 dello stato di previsione del Ministero degli affari esteri non impegnati al termine dell'esercizio finanziario 1995 possono esserlo nell'esercizio 1996.
 
 2.
 

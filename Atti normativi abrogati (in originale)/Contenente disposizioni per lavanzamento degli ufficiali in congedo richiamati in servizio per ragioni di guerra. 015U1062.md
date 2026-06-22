@@ -24,7 +24,7 @@ In virtu' delle facolta' conferite al Governo del Re con la [legge 22 maggio 191
 
 Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel R. esercito e successive modificazioni;
 
-Visto il regolamento approvato con [R. decreto 21 luglio 1907, n. 626](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md), e successive modificazioni;
+Visto il regolamento approvato con [R. decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md), e successive modificazioni;
 
 Visto il [decreto Luogotenenziale del 24 giugno 1915, n. 1018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-24;1018);
 
@@ -34,7 +34,7 @@ Sulla proposta del ministro, segretario di Stato per gli affari della guerra; Ab
 
 ## Art. 1.
 
-Dopo trascorso un mese come richiamato in servizio per ragioni di guerra, l'ufficiale in congedo di qualunque categoria, il quale sia addetto a comandi, corpi o servizi dell'esercito operante o delle piazze dichiarate in stato di resistenza ed abbia le condizioni di anzianita' e di permanenza nel grado richieste per la promovibilita' dei pari grado in servizio attivo permanente, puo' essere proposto per l'avanzamento colla procedura e colle norme stabilite dal § 224 del regolamento approvato con [R. decreto 21 luglio 1907, numero 626](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md).
+Dopo trascorso un mese come richiamato in servizio per ragioni di guerra, l'ufficiale in congedo di qualunque categoria, il quale sia addetto a comandi, corpi o servizi dell'esercito operante o delle piazze dichiarate in stato di resistenza ed abbia le condizioni di anzianita' e di permanenza nel grado richieste per la promovibilita' dei pari grado in servizio attivo permanente, puo' essere proposto per l'avanzamento colla procedura e colle norme stabilite dal § 224 del regolamento approvato con [R. decreto 21 luglio 1907, numero 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md).
 
 ## Art. 2.
 

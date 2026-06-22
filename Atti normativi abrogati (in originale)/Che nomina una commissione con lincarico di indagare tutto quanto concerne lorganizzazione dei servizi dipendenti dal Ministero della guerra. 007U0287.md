@@ -22,7 +22,7 @@ La commissione sara' composta di sei senatori eletti dal Senato, di sei deputati
 
 ## Art. 3.
 
-Per la esecuzione del suo mandato, la commissione potra' citare e sentire testimoni, eseguire ispezioni, ordinare perizie, richiedere e sequestrare documenti, e fare tutte quelle altre indagini che possono condurre all'accertamento della verita', il tutto con i poteri relativi attribuiti al magistrato inquirente dal [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e con le pene corrispondenti stabilite dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), da applicarsi dalla competente autorita' giudiziaria.
+Per la esecuzione del suo mandato, la commissione potra' citare e sentire testimoni, eseguire ispezioni, ordinare perizie, richiedere e sequestrare documenti, e fare tutte quelle altre indagini che possono condurre all'accertamento della verita', il tutto con i poteri relativi attribuiti al magistrato inquirente dal [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e con le pene corrispondenti stabilite dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), da applicarsi dalla competente autorita' giudiziaria.
 
 ## Art. 4.
 

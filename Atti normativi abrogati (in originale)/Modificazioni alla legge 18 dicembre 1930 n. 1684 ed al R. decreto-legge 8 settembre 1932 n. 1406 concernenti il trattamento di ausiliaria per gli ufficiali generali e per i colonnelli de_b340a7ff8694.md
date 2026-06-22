@@ -20,7 +20,7 @@ Vista la [legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%2
 
 Vista la [legge 18 dicembre 1930, n. 1684](Trattamento%20di%20ausiliaria%20per%20gli%20ufficiali%20dei%20gradi%20di%20capitano%20di%20vascello%20ammiragli%20e%20gradi%20corrispondenti%20collocati%20in%20tale%20posizione%20direttamente%20dal%20servizio%20permanente%20effettivo.%20030U1684.md);
 
-Visto il [R. decreto-legge 8 settembre 1932, n. 1406](Trattamento%20da%20usare%20agli%20ufficiali%20generali%20ed%20ai%20colonnelli%20della%20Regia%20aeronautica%20collocati%20in%20posizione%20ausiliaria%20direttamente%20dal%20servizio%20permanente%20effettivo.%20032U1406.md), convertito nella [legge 22 dicembre 1932, n. 1986](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20settembre%201932%20n.%201406%20concernente%20il%20trattamento%20da%20usare%20agli%20ufficiali%20generali%20ed%20ai%20colonnelli%20della%20Regia%20aeronautica%20collocati%20in%20posizi_b5fe62b6289f.md);
+Visto il [R. decreto-legge 8 settembre 1932, n. 1406](Trattamento%20da%20usare%20agli%20ufficiali%20generali%20ed%20ai%20colonnelli%20della%20Regia%20aeronautica%20collocati%20in%20posizione%20ausiliaria%20direttamente%20dal%20servizio%20permanente%20effettivo.%20032U1406.md), convertito nella [legge 22 dicembre 1932, n. 1986](Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20settembre%201932%20n.%201406%20concernente%20il%20trattamento%20da%20usare%20agli%20ufficiali%20generali%20ed%20ai%20colonnelli%20della%20Regia%20aeronautica%20collocati%20in%20posizi_b5fe62b6289f.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

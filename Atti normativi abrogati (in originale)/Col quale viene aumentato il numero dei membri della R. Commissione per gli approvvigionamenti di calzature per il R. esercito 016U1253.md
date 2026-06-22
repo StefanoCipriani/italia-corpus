@@ -11,9 +11,9 @@ vigente: true
 ## Articolo unico.
 
 Il numero dei delegati del Ministero della guerra e degl'industriali per la lavorazione delle calzature della R.
-Commissione per gli approvvigionamenti di calzature, di cui all'[art. 2 del R. decreto 25 aprile 1915, numero 565](../Regi%20decreti/Che%20istituisce%20presso%20il%20Ministero%20della%20guerra%20una%20commissione%20per%20predisporre%20e%20disciplinare%20gli%20approvvigionamenti%20delle%20calzature%20per%20lesercito%20mobilitato.%20015U0565.md), e' aumentato rispettivamente da quattro a cinque quello dei delegati del Ministero della guerra e da cinque a sei quello dei delegati degl'industriali per la lavorazione delle calzature. 
+Commissione per gli approvvigionamenti di calzature, di cui all'[art. 2 del R. decreto 25 aprile 1915, numero 565](Che%20istituisce%20presso%20il%20Ministero%20della%20guerra%20una%20commissione%20per%20predisporre%20e%20disciplinare%20gli%20approvvigionamenti%20delle%20calzature%20per%20lesercito%20mobilitato.%20015U0565.md), e' aumentato rispettivamente da quattro a cinque quello dei delegati del Ministero della guerra e da cinque a sei quello dei delegati degl'industriali per la lavorazione delle calzature. 
  
- La spesa relativa sara' a carico del bilancio del Ministero della guerra (spese di guerra) giusta l'[art. 5 del R. decreto 25 aprile 1915, n. 565](../Regi%20decreti/Che%20istituisce%20presso%20il%20Ministero%20della%20guerra%20una%20commissione%20per%20predisporre%20e%20disciplinare%20gli%20approvvigionamenti%20delle%20calzature%20per%20lesercito%20mobilitato.%20015U0565.md). 
+ La spesa relativa sara' a carico del bilancio del Ministero della guerra (spese di guerra) giusta l'[art. 5 del R. decreto 25 aprile 1915, n. 565](Che%20istituisce%20presso%20il%20Ministero%20della%20guerra%20una%20commissione%20per%20predisporre%20e%20disciplinare%20gli%20approvvigionamenti%20delle%20calzature%20per%20lesercito%20mobilitato.%20015U0565.md). 
  
  Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

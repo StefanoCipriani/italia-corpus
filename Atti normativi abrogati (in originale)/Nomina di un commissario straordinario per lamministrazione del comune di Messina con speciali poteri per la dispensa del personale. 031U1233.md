@@ -18,7 +18,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Ritenuta la necessita' urgente ed assoluta di provvedere;
 
-Visti la legge comunale e provinciale, [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), il relativo regolamento, il [R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), nonche' la [legge 4 febbraio 1926, n. 237](Istituzione%20del%20Podesta%20e%20della%20Consulta%20municipale%20nei%20Comuni%20con%20popolazione%20non%20eccedente%20i%205000%20abitanti.%20026U0237.md), il [R. decreto-legge 3 settembre 1926, n 1910](Estensione%20dellordinamento%20podestarile%20a%20tutti%20i%20Comuni%20del%20Regno.%20026U1910.md), convertito in [legge 2 giugno 1927, n. 957](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20settembre%201926%20n.%201910%20concernente%20lestensione%20dellordinamento%20podestarile%20a%20tutti%20i%20Comuni%20del%20Regno.%20027U0957.md), sulla istituzione dei podesta';
+Visti la legge comunale e provinciale, [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), il relativo regolamento, il [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), nonche' la [legge 4 febbraio 1926, n. 237](Istituzione%20del%20Podesta%20e%20della%20Consulta%20municipale%20nei%20Comuni%20con%20popolazione%20non%20eccedente%20i%205000%20abitanti.%20026U0237.md), il [R. decreto-legge 3 settembre 1926, n 1910](Estensione%20dellordinamento%20podestarile%20a%20tutti%20i%20Comuni%20del%20Regno.%20026U1910.md), convertito in [legge 2 giugno 1927, n. 957](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20settembre%201926%20n.%201910%20concernente%20lestensione%20dellordinamento%20podestarile%20a%20tutti%20i%20Comuni%20del%20Regno.%20027U0957.md), sulla istituzione dei podesta';
 
 Udito il Consiglio dei Ministri;
 
@@ -38,7 +38,7 @@ b) a provvedere in ordine ai posti eventualmente vacanti o che siano per renders
 
 ## Art. 3.
 
-Al personale che in applicazione dell'articolo precedente sara' dispensato dal servizio, e' applicabile il trattamento stabilito dall'[art. 3 del R. decreto 27 maggio 1923, n. 1177](../Regi%20decreti/Che%20stabilisce%20la%20revisione%20delle%20tabelle%20e%20dei%20regolamenti%20organici%20del%20personale%20delle%20Provincie%20dei%20Comuni%20e%20delle%20istituzioni%20pubbliche%20di%20beneficenza.%20023U1177.md).
+Al personale che in applicazione dell'articolo precedente sara' dispensato dal servizio, e' applicabile il trattamento stabilito dall'[art. 3 del R. decreto 27 maggio 1923, n. 1177](Che%20stabilisce%20la%20revisione%20delle%20tabelle%20e%20dei%20regolamenti%20organici%20del%20personale%20delle%20Provincie%20dei%20Comuni%20e%20delle%20istituzioni%20pubbliche%20di%20beneficenza.%20023U1177.md).
 
 ## Art. 4.
 

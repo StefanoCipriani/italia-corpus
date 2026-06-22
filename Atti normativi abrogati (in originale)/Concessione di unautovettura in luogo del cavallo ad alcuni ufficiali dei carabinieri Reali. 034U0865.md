@@ -18,7 +18,7 @@ Visto il decreto Ministeriale 28 maggio 1921, riguardante la riduzione delle raz
 
 Visto il decreto Ministeriale 14 agosto 1925, riguardante le competenze mantenute in vigore per il personale dell'Amministrazione militare, e successive modificazioni;
 
-Visto il testo unico delle disposizioni concernenti gli stipendi ed assegni fissi per il Regio esercito, approvato con [R. decreto 31 dicembre 1928, n. 3458](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md);
+Visto il testo unico delle disposizioni concernenti gli stipendi ed assegni fissi per il Regio esercito, approvato con [R. decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

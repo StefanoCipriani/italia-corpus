@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 29 ottobre 1925, n. 1933](Disposizioni%20per%20regolare%20lo%20stato%20lavanzamento%20ed%20il%20trattamento%20dei%20sottufficiali%20invalidi%20di%20guerra%20riassunti%20in%20servizio%20sedentario.%20025U1933.md), contenente disposizioni per regolare lo stato, l'avanzamento ed il trattamento dei sottufficiali invalidi di guerra, riassunti in servizio sedentario, convertito in legge con la [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
-Visto il testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 15 settembre 1932, n. 1514](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md);
+Visto il testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 15 settembre 1932, n. 1514](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md);
 
 Visto la [legge 21 giugno 1934, n. 1093](Modificazioni%20al%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito%20approvato%20con%20R.%20decreto%2015%20settembre%201932%20n.%201514%20e%20istituzione%20di%20un%20ruolo%20di%20impiegati%20dordine_32db7e4cf939.md), che reca modificazioni al testo unico suddetto ed istituisce un ruolo di impiegati d'ordine di gruppo C per l'Amministrazione centrale della guerra;
 
@@ -40,7 +40,7 @@ Al compimento del 55° anno di eta', i sottufficiali che si trovino alle armi, d
 
 ## Art. 3.
 
-Il terzo comma dell'art. 10 del testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con [Regio decreto 15 settembre 1932, n. 1514](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), e' abrogato e cosi sostituito: 
+Il terzo comma dell'art. 10 del testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con [Regio decreto 15 settembre 1932, n. 1514](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), e' abrogato e cosi sostituito: 
  
  « Al compimento della rafferma di due anni, il sergente maggiore che per qualsiasi motivo, cessa dal servizio, acquista diritto ad un premio di L. 2000. Ai sergenti maggiori, che al termine della rafferma di due anni siano ammessi alla carriera continuativa, viene corrisposto invece un premio di L. 500. 
  

@@ -55,7 +55,7 @@ La tassa sulle concessioni governative stabilita dal n. 35 della suindicata tabe
 
 ### Art. 4.
 
-Le autorizzazioni, le licenze, le dichiarazioni rilasciate ed emesse in dipendenza delle disposizioni contenute nel [testo unico delle leggi sulla pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) piu' volte richiamato e non contemplate negli articoli che precedono, sono soggette alle tasse designate nella seguente tabella: 
+Le autorizzazioni, le licenze, le dichiarazioni rilasciate ed emesse in dipendenza delle disposizioni contenute nel [testo unico delle leggi sulla pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) piu' volte richiamato e non contemplate negli articoli che precedono, sono soggette alle tasse designate nella seguente tabella: 
  
  Parte di provvedimento in formato grafico
 

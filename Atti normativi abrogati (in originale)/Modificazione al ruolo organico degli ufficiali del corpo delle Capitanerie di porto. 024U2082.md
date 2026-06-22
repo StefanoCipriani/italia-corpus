@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il ruolo organico degli ufficiali del corpo delle Capitanerie di porto, risultante dalla tabella n. 68, allegato II, al [Regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' sostituito dal seguente: 
+Il ruolo organico degli ufficiali del corpo delle Capitanerie di porto, risultante dalla tabella n. 68, allegato II, al [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' sostituito dal seguente: 
  
  Grado Numero dei posti  
  4° Generale capo, ispettore delle Capitanerie 
@@ -37,19 +37,19 @@ Gli aumenti nei vari gradi degli ufficiali del corpo delle Capitanerie di porto,
 
 Ferme restando tutte le altre disposizioni che regolano l'avanzamento degli ufficiali del corpo delle Capitanerie di porto: 
  
- a) la disposizione transitoria di cui all'[art. 14 del Regio decreto n. 2068 del 10 settembre 1923](../Regi%20decreti/Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md), e' sospesa fino a quando non sia stato completato il numero dei maggiori previsto dal ruolo organico di cui all'art. 1 del presente decreto-legge; 
+ a) la disposizione transitoria di cui all'[art. 14 del Regio decreto n. 2068 del 10 settembre 1923](Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md), e' sospesa fino a quando non sia stato completato il numero dei maggiori previsto dal ruolo organico di cui all'art. 1 del presente decreto-legge; 
  
- b) il servizio prestato in qualita' di comandante in 1ª o in 2ª delle direzioni marittime e' valido agli effetti dell'[art. 11 del R. decreto n. 2068 del 10 settembre 1923](../Regi%20decreti/Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md).
+ b) il servizio prestato in qualita' di comandante in 1ª o in 2ª delle direzioni marittime e' valido agli effetti dell'[art. 11 del R. decreto n. 2068 del 10 settembre 1923](Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md).
 
 ## Art. 4.
 
-Il ruolo organico dei sottufficiali di porto risultante dalla tabella n. 15, allegato 7° del [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' sostituito dal seguente: 
+Il ruolo organico dei sottufficiali di porto risultante dalla tabella n. 15, allegato 7° del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' sostituito dal seguente: 
  
  Nocchieri di porto di I, II e III classe . . . . . . . . . N. 98  Secondi nocchieri di porto anziani e secondi 
  nocchieri di porto . . . . . . . . . . . . . . . . . . . » 112  ------  Totale . . . N. 210  ------  
  Nella prima applicazione del nuovo ruolo fissato col precedente comma i nocchieri di porto di I, II e III classe che risultassero in eccedenza saranno mantenuti in soprannumero fino a riassorbimento. 
  
- Gli attuali secondi nocchieri di porto anziani conserveranno il diritto ad essere promossi al grado di nocchiere man mano che matureranno i requisiti prescritti per l'avanzamento, entro i limiti dei posti stabiliti dalla tabella numero 15, allegato 7° del [R. decreto 11 novembre 1923, numero 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), o per l'eventuale eccedenza in confronto alla nuova tabella saranno considerati in soprannumero, verso corrispondente diminuzione nel grado di secondo nocchiere.
+ Gli attuali secondi nocchieri di porto anziani conserveranno il diritto ad essere promossi al grado di nocchiere man mano che matureranno i requisiti prescritti per l'avanzamento, entro i limiti dei posti stabiliti dalla tabella numero 15, allegato 7° del [R. decreto 11 novembre 1923, numero 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), o per l'eventuale eccedenza in confronto alla nuova tabella saranno considerati in soprannumero, verso corrispondente diminuzione nel grado di secondo nocchiere.
 
 ## Art. 5.
 

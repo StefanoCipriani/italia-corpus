@@ -87,7 +87,7 @@ Le spese derivanti dall'applicazione delle precedenti disposizioni sono a carico
 
 ## Art. 10.
 
-L'[art. 55 del R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), e' abrogato ed e' sostituito dal seguente: 
+L'[art. 55 del R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), e' abrogato ed e' sostituito dal seguente: 
  
  «Art. 55. Le pensioni, le gratificazioni ed i sussidi ai militari di truppa indigeni dei RR corpi di truppe coloniali della Tripolitania e della Cirenaica, ed alle loro famiglie, sono regolate da apposito decreto da emanarsi dal Governo del Re su proposta del ministro delle colonie».
 

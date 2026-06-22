@@ -14,7 +14,7 @@ L'Amministrazione dei telefoni dello Stato e' autorizzata ad assumere con effett
 
 ## Art. 2.
 
-L'Amministrazione dei telefoni predetta e' altresi' autorizzata ad assumere in qualita' di avventizie le telefoniste addette attualmente al servizio della rete succitata, derogando in quanto occorra alle norme stabilite dall'[art. 82 del regolamento 16 maggio 1912, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1912-05-16;574#art_82); modificato dal [R. decreto 20 dicembre 1914, n. 1449](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2022%20giugno%201913%20n.%20680%20sullabolizione%20dei%20limiti%20per%20il%20matrimonio%20delle%20telefoniste.%20014U1449.md). 
+L'Amministrazione dei telefoni predetta e' altresi' autorizzata ad assumere in qualita' di avventizie le telefoniste addette attualmente al servizio della rete succitata, derogando in quanto occorra alle norme stabilite dall'[art. 82 del regolamento 16 maggio 1912, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1912-05-16;574#art_82); modificato dal [R. decreto 20 dicembre 1914, n. 1449](Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2022%20giugno%201913%20n.%20680%20sullabolizione%20dei%20limiti%20per%20il%20matrimonio%20delle%20telefoniste.%20014U1449.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo o di farlo osservare. 
  

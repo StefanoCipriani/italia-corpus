@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il [Regio decreto 18 gennaio 1895 n. 20](../Regi%20decreti/Che%20stabilisce%20siano%20fatti%20a%20spese%20dello%20Stato%20i%20funerali%20del%20comm.%20Celli.%20095U0020.md), con cui fu stabilito che fossero fatti a spese dello Stato i funerali del comm. avv. Gennaro Celli, gia' procuratore generale della Corte d'appello di Milano e' convertito in legge.
+Il [Regio decreto 18 gennaio 1895 n. 20](Che%20stabilisce%20siano%20fatti%20a%20spese%20dello%20Stato%20i%20funerali%20del%20comm.%20Celli.%20095U0020.md), con cui fu stabilito che fossero fatti a spese dello Stato i funerali del comm. avv. Gennaro Celli, gia' procuratore generale della Corte d'appello di Milano e' convertito in legge.
 
 ## Art. 2.
 

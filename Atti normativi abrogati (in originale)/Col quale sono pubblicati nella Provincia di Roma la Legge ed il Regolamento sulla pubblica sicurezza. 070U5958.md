@@ -52,7 +52,7 @@ Nessuno potra' vendere o smerciare, in luoghi si' pubblici che privati, giornali
 
 ## Art. 7.
 
-Per l'attuazione della Legge di pubblica sicurezza sono pubblicati in detta Provincia, e vi avranno forza di Legge, gli articoli del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), del 20 novembre 1859, 44 prima parte, e 46, e gli altri dal 435 fino al 452 inclusivo, i quali sono del seguente tenore: 
+Per l'attuazione della Legge di pubblica sicurezza sono pubblicati in detta Provincia, e vi avranno forza di Legge, gli articoli del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), del 20 novembre 1859, 44 prima parte, e 46, e gli altri dal 435 fino al 452 inclusivo, i quali sono del seguente tenore: 
  
  «Art. 44. La sorveglianza speciale della Pubblica Sicurezza consiste nell'obbligo imposto al condannato di presentarsi all'Autorita' che gli viene indicata, e render conto di se' nei modi stabiliti dalla Legge di pubblica sicurezza. 
  
@@ -126,7 +126,7 @@ Per l'attuazione della Legge di pubblica sicurezza sono pubblicati in detta Prov
 
 ## Art. 8.
 
-La cognizione e punizione dei reati contemplati sia nella Legge di pubblica sicurezza, sia negli articoli del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) superiormente trascritti, spetta rispettivamente ai Governatori, Vice-Governatori e Assessori locali, i quali ne giudicheranno colle norme del Regolamento organico e di procedura criminale ora vigente pei delitti minori.
+La cognizione e punizione dei reati contemplati sia nella Legge di pubblica sicurezza, sia negli articoli del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) superiormente trascritti, spetta rispettivamente ai Governatori, Vice-Governatori e Assessori locali, i quali ne giudicheranno colle norme del Regolamento organico e di procedura criminale ora vigente pei delitti minori.
 
 ## Art. 9.
 

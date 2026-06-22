@@ -16,7 +16,7 @@ Visto il [regio decreto 7 ottobre 1926, n. 1902](../Regi%20decreti/Approvazione%
 
 Visto il [regio decreto 18 novembre 1920, n. 2022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-18;2022);
 
-Visto il [regio decreto 23 ottobre 1930, n. 1498](../Regi%20decreti/Modifica%20al%20vigente%20regolamento%20di%20pilotaggio.%20030U1498.md);
+Visto il [regio decreto 23 ottobre 1930, n. 1498](Modifica%20al%20vigente%20regolamento%20di%20pilotaggio.%20030U1498.md);
 
 Visto il [regio decreto 1° dicembre 1934, n. 2256](../Regi%20decreti/Aggiunte%20al%20regolamento%20generale%20di%20pilotaggio%20approvato%20con%20R.%20decreto%2029%20aprile%201926%20n.%20778.%20034U2256.md);
 
@@ -29,7 +29,7 @@ Sulla proposta del Ministro per la marina mercantile, di concerto con il Ministr
 ## Articolo unico.
 
 Le disposizioni contenute nella lettera b) dell'art. 17 del regolamento generale di pilotaggio, approvato con [regio decreto 29 aprile 1926, n. 778](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20per%20il%20servizio%20pilotaggio%20nei%20porti%20dello%20Stato.%20026U0778.md), modificato con [regio decreto 23 ottobre 1930, n. 
-1498](../Regi%20decreti/Modifica%20al%20vigente%20regolamento%20di%20pilotaggio.%20030U1498.md), e [regio decreto 1° dicembre 1934, n. 2256](../Regi%20decreti/Aggiunte%20al%20regolamento%20generale%20di%20pilotaggio%20approvato%20con%20R.%20decreto%2029%20aprile%201926%20n.%20778.%20034U2256.md), sono sostituite dalle seguenti: 
+1498](Modifica%20al%20vigente%20regolamento%20di%20pilotaggio.%20030U1498.md), e [regio decreto 1° dicembre 1934, n. 2256](../Regi%20decreti/Aggiunte%20al%20regolamento%20generale%20di%20pilotaggio%20approvato%20con%20R.%20decreto%2029%20aprile%201926%20n.%20778.%20034U2256.md), sono sostituite dalle seguenti: 
  "b) eta' non inferiore ai 28 e non superiore ai 40 anni compiuti. 
  Detto limite massimo di eta' e' elevato: 
  di cinque anni per coloro che abbiano partecipato, nei reparti mobilitati delle Forze armate dello Stato, alle operazioni militari svoltesi in Africa Orientale dal 3 ottobre 1935 al 5 maggio 1936 ovvero, in qualita' di militarizzati o assimilati, alle operazioni della guerra 1940-1943, della guerra di liberazione nonche' per coloro che siano stati partigiani combattenti o cittadini deportati dal nemico o reduci dalla prigionia, per i mutilati e gli invalidi di guerra e per la lotta di liberazione, per i decorati di medaglia al valore militare e per coloro che abbiano conseguito promozioni di guerra. 

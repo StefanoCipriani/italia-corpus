@@ -26,7 +26,7 @@ Nello stato di previsione della spesa del Ministero delle poste e dei telegrafi 
  
  In aumento: 
  
- Cap. n. 2-bis (nuovo). - Premi di operosita' e di rendimento al personale meritevole addetto ai servizi amministrativi centrali e provinciali ([art. 63 del R. decreto 30 settembre 1922, n. 1290](../Regi%20decreti/Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md), e [art. 6 del R. decreto 17 febbraio 1924, n. 182](../Regi%20decreti/Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md)), L. 1,766,000. 
+ Cap. n. 2-bis (nuovo). - Premi di operosita' e di rendimento al personale meritevole addetto ai servizi amministrativi centrali e provinciali ([art. 63 del R. decreto 30 settembre 1922, n. 1290](Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md), e [art. 6 del R. decreto 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md)), L. 1,766,000. 
  
  Cap. n. 55. - Indennita' per servizio in tempo di notte, ecc., L.
 200,000. 

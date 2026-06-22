@@ -34,7 +34,7 @@ Per la gestione dei capitali mutuati sara' istituito, fra l'Amministrazione e la
 
 ## Art. 3.
 
-I mutui non possono essere concessi se non a Societa' cooperative costituite per la costruzione di case popolari o economiche, secondo le norme e le condizioni prescritte dal testo unico di legge approvato con [R. decreto 27 febbraio 1908, n. 89](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sulle%20case%20popolari%20o%20economiche.%20008U0089.md), e costituite esclusivamente fra agenti dell'Amministrazione delle ferrovie dello Stato residenti in citta', dove hanno sede le direzioni dei compartimenti. 
+I mutui non possono essere concessi se non a Societa' cooperative costituite per la costruzione di case popolari o economiche, secondo le norme e le condizioni prescritte dal testo unico di legge approvato con [R. decreto 27 febbraio 1908, n. 89](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sulle%20case%20popolari%20o%20economiche.%20008U0089.md), e costituite esclusivamente fra agenti dell'Amministrazione delle ferrovie dello Stato residenti in citta', dove hanno sede le direzioni dei compartimenti. 
  
  Le domande di concessione dei mutui saranno prese in esame entro un mese dalla data del presente decreto e successivamente ogni mese ed avranno la preferenza le Societa' cooperative costituite nelle citta' piu' popolose, ed aventi il maggior numero dei soci.
 
@@ -42,7 +42,7 @@ I mutui non possono essere concessi se non a Societa' cooperative costituite per
 
 La concessione dei mutui e' approvata dal direttore generale delle ferrovie dello Stato nella somma complessiva occorrente per l'acquisto delle aree e per le costruzioni in relazione ai piani e progetti di massima presentati. 
  
- Le anticipazioni del mutuo potranno essere concesse dal direttore nei modi prescritti dall'art. 4 del testo unico per le case popolari o economiche approvate con [R. decreto 27 febbraio 1908, num. 89](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sulle%20case%20popolari%20o%20economiche.%20008U0089.md). 
+ Le anticipazioni del mutuo potranno essere concesse dal direttore nei modi prescritti dall'art. 4 del testo unico per le case popolari o economiche approvate con [R. decreto 27 febbraio 1908, num. 89](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sulle%20case%20popolari%20o%20economiche.%20008U0089.md). 
  
  A norma del predetto articolo una prima anticipazione potra' essere concessa allo stesso direttore generale, in conto corrente garantito da ipoteca, all'atto dell'acquisto del terreno per il valore del terreno stesso, previa stima eseguita od accettata dall'Amministrazione.
 

@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Nello stato di previsione della spesa del Ministero delle finanze per l'esercizio 1918-919 e' istituito il capitolo n. 319-bis «Indennita' ai componenti il Comitato consultivo per l'applicazione delle disposizioni relative ai divieti di esportazione, importazione e transito, istituito con [R. decreto 24 novembre 1914, n. 1303](../Regi%20decreti/Col%20quale%20viene%20istituito%20un%20Comitato%20consultivo%20per%20lapplicazione%20delle%20disposizioni%20relative%20ai%20divieti%20di%20esportazione%20e%20di%20transito.%20014U1303.md), ed altre spese pel funzionamento del detto Comitato e dell'annessovi ufficio» con lo stanziamento di lire quarantamila (L. 40.000). 
+ Nello stato di previsione della spesa del Ministero delle finanze per l'esercizio 1918-919 e' istituito il capitolo n. 319-bis «Indennita' ai componenti il Comitato consultivo per l'applicazione delle disposizioni relative ai divieti di esportazione, importazione e transito, istituito con [R. decreto 24 novembre 1914, n. 1303](Col%20quale%20viene%20istituito%20un%20Comitato%20consultivo%20per%20lapplicazione%20delle%20disposizioni%20relative%20ai%20divieti%20di%20esportazione%20e%20di%20transito.%20014U1303.md), ed altre spese pel funzionamento del detto Comitato e dell'annessovi ufficio» con lo stanziamento di lire quarantamila (L. 40.000). 
  
  Questo decreto andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta ufficiale del Regno. 
  

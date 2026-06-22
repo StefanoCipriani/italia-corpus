@@ -124,7 +124,7 @@ I funzionari dell'Amministrazione centrale dei lavori pubblici e del genio civil
  
  Detti funzionari continuano a far parte dell'Amministrazione cui appartengono, conservando ogni diritto di anzianita', sessenni, promozioni e collocamento a riposo, escluso lo stipendio, limitatamente al periodo di sei anni dalla data del decreto Ministeriale che dispone il collocamento fuori ruolo. 
  
- Trascorso tale periodo i funzionari predetti, qualora non riprendano servizio nell'Amministrazione cui appartengono, restando a disposizione degli enti presso i quali si trovano, sono considerati in aspettativa per motivi di famiglia a tutti gli effetti, tranne per quanto concerne il termine di cui all'art. 24 del testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md). 
+ Trascorso tale periodo i funzionari predetti, qualora non riprendano servizio nell'Amministrazione cui appartengono, restando a disposizione degli enti presso i quali si trovano, sono considerati in aspettativa per motivi di famiglia a tutti gli effetti, tranne per quanto concerne il termine di cui all'art. 24 del testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md). 
  
  Le norme suddette si applicano anche ai funzionari che gia' sono fuori ruolo alla data di pubblicazione del presente decreto e da tale data decorrono per essi i termini di cui sopra. 
  
@@ -134,7 +134,7 @@ I funzionari dell'Amministrazione centrale dei lavori pubblici e del genio civil
  
  I funzionari che abbiano ripreso servizio nell'Amministrazione non possono essere nuovamente collocati fuori ruolo, che a favore di enti di nuova costituzione e nei limiti e con le condizioni di cui sopra. 
  
- Rimangono abrogati gli articoli 45 e 47 del testo unico delle leggi sul genio civile approvato con [R. decreto 3 settembre 1906, n. 522](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20corpo%20Reale%20del%20genio%20civile.%20006U0522.md).
+ Rimangono abrogati gli articoli 45 e 47 del testo unico delle leggi sul genio civile approvato con [R. decreto 3 settembre 1906, n. 522](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20corpo%20Reale%20del%20genio%20civile.%20006U0522.md).
 
 ## Art. 10.
 

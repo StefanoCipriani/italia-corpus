@@ -363,7 +363,7 @@ Gli ufficiali piloti di aeroplano o di idrovolante, i quali vengano dichiarati i
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 7 giugno 1928, n. 1278](Modificazioni%20alle%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20aeronautica.%20028U1278.md), convertito senza modificazioni dalla [L. 20 dicembre 1928, n. 3095](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20giugno%201928%20n.%201278%20che%20modifica%20le%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20ae_d84aa7ee3499.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 7 giugno 1928, n. 1278](Modificazioni%20alle%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20aeronautica.%20028U1278.md), convertito senza modificazioni dalla [L. 20 dicembre 1928, n. 3095](Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20giugno%201928%20n.%201278%20che%20modifica%20le%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20ae_d84aa7ee3499.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 37.
 
@@ -807,7 +807,7 @@ Gli ufficiali inferiori dell'arma aeronautica muniti del solo brevetto di osserv
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 7 giugno 1928, n. 1278](Modificazioni%20alle%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20aeronautica.%20028U1278.md), convertito senza modificazioni dalla [L. 20 dicembre 1928, n. 3095](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20giugno%201928%20n.%201278%20che%20modifica%20le%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20ae_d84aa7ee3499.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 7 giugno 1928, n. 1278](Modificazioni%20alle%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20aeronautica.%20028U1278.md), convertito senza modificazioni dalla [L. 20 dicembre 1928, n. 3095](Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20giugno%201928%20n.%201278%20che%20modifica%20le%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20ae_d84aa7ee3499.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 100.
 
@@ -827,7 +827,7 @@ Gli attuali ufficiali superiori del ruolo Combattente dell'arma aeronautica prov
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 7 giugno 1928, n. 1278](Modificazioni%20alle%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20aeronautica.%20028U1278.md), convertito senza modificazioni dalla [L. 20 dicembre 1928, n. 3095](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20giugno%201928%20n.%201278%20che%20modifica%20le%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20ae_d84aa7ee3499.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 7 giugno 1928, n. 1278](Modificazioni%20alle%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20aeronautica.%20028U1278.md), convertito senza modificazioni dalla [L. 20 dicembre 1928, n. 3095](Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20giugno%201928%20n.%201278%20che%20modifica%20le%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20ae_d84aa7ee3499.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 102.
 
@@ -839,7 +839,7 @@ Gli ufficiali muniti del salo brevetto da osservatore, che, pur conservando l'at
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 7 giugno 1928, n. 1278](Modificazioni%20alle%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20aeronautica.%20028U1278.md), convertito senza modificazioni dalla [L. 20 dicembre 1928, n. 3095](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20giugno%201928%20n.%201278%20che%20modifica%20le%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20ae_d84aa7ee3499.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 7 giugno 1928, n. 1278](Modificazioni%20alle%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20aeronautica.%20028U1278.md), convertito senza modificazioni dalla [L. 20 dicembre 1928, n. 3095](Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20giugno%201928%20n.%201278%20che%20modifica%20le%20vigenti%20norme%20sul%20reclutamento%20sullavanzamento%20e%20sul%20trattamento%20di%20pensione%20degli%20ufficiali%20della%20Regia%20ae_d84aa7ee3499.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 103.
 

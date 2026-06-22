@@ -16,7 +16,7 @@ RE D'ITALIA.
 
 Visti gli [articoli 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-20;451#art_39) e [44 del R. decreto 20 aprile 1920, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-20;451#art_44), relativo all'ordinamento provvisorio del R. esercito;
 
-Visto il [R. decreto 13 maggio 1920, n. 607](../Regi%20decreti/Che%20determina%20la%20circoscrizione%20territoriale%20militare%20del%20Regno.%20020U0607.md), per la circoscrizione territoriale militare del Regno;
+Visto il [R. decreto 13 maggio 1920, n. 607](Che%20determina%20la%20circoscrizione%20territoriale%20militare%20del%20Regno.%20020U0607.md), per la circoscrizione territoriale militare del Regno;
 
 Visto l'art. 294 del Codice penate per l'esercito;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro ministro segretario di Stato per gli affari della guer
 
 ## Art. 1.
 
-A decorrere dal 15 giugno 1920 la circoscrizione territoriale dei tribunali militari esistenti in ciascun corpo d'armata del Regno e' determinata dalla tabella indicante la circoscrizione territoriale militare per il servizio generale, annessa al [R. decreto 13 maggio 1920, n. 607](../Regi%20decreti/Che%20determina%20la%20circoscrizione%20territoriale%20militare%20del%20Regno.%20020U0607.md), ferma restando la sede attuale dei tribunali conservati.
+A decorrere dal 15 giugno 1920 la circoscrizione territoriale dei tribunali militari esistenti in ciascun corpo d'armata del Regno e' determinata dalla tabella indicante la circoscrizione territoriale militare per il servizio generale, annessa al [R. decreto 13 maggio 1920, n. 607](Che%20determina%20la%20circoscrizione%20territoriale%20militare%20del%20Regno.%20020U0607.md), ferma restando la sede attuale dei tribunali conservati.
 
 ## Art. 2.
 
@@ -40,7 +40,7 @@ Dal 15 giugno 1920 cessa la giurisdizione del tribunale militare territoriale co
 
 ## Art. 4.
 
-Fino a nuova disposizione sono conservati, nelle attuali sedi, i tribunali militari speciali permanenti, restando, a decorrere dal 15 giugno 1920, la relativa circoscrizione modificata in corrispondenza con le modificazioni apportate alla circoscrizione dei rispettivi tribunali militari territoriali, a termini del presente decreto, in relazione al [R. decreto 13 maggio 1920, numero 607 e agli articoli 39](../Regi%20decreti/Che%20determina%20la%20circoscrizione%20territoriale%20militare%20del%20Regno.%20020U0607.md) e [44](../Regi%20decreti/Che%20determina%20la%20circoscrizione%20territoriale%20militare%20del%20Regno.%20020U0607.md) del [R. decreto 20 aprile 1920, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-20;451).
+Fino a nuova disposizione sono conservati, nelle attuali sedi, i tribunali militari speciali permanenti, restando, a decorrere dal 15 giugno 1920, la relativa circoscrizione modificata in corrispondenza con le modificazioni apportate alla circoscrizione dei rispettivi tribunali militari territoriali, a termini del presente decreto, in relazione al [R. decreto 13 maggio 1920, numero 607 e agli articoli 39](Che%20determina%20la%20circoscrizione%20territoriale%20militare%20del%20Regno.%20020U0607.md) e [44](Che%20determina%20la%20circoscrizione%20territoriale%20militare%20del%20Regno.%20020U0607.md) del [R. decreto 20 aprile 1920, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-20;451).
 
 ## Art. 5.
 

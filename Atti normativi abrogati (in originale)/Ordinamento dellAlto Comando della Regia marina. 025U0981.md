@@ -126,7 +126,7 @@ Il Comitato degli ammiragli cessa di funzionare all'atto della mobilitazione e p
 
 ### Art. 18.
 
-Sono abrogati i [Regi decreti 8 febbraio 1916, n. 99](../Regi%20decreti/Relativo%20alle%20attribuzioni%20del%20capo%20di%20stato%20maggiore%20della%20R.%20marina.%20016U0099.md); [4 febbraio 1917, n. 202](../Regi%20decreti/Col%20quale%20sono%20apportate%20aggiunte%20al%20R.%20decreto%208%20febbraio%201916%20n.%2099%20concernente%20le%20attribuzioni%20del%20capo%20di%20stato%20maggiore%20della%20R.%20marina.%20017U0202.md), e [4 febbraio 1923, n. 361](../Regi%20decreti/Riguardante%20lUfficio%20di%20stato%20maggiore%20della%20R.%20marina%20023U0361.md), ed ogni disposizione contraria alla presente legge. 
+Sono abrogati i [Regi decreti 8 febbraio 1916, n. 99](Relativo%20alle%20attribuzioni%20del%20capo%20di%20stato%20maggiore%20della%20R.%20marina.%20016U0099.md); [4 febbraio 1917, n. 202](Col%20quale%20sono%20apportate%20aggiunte%20al%20R.%20decreto%208%20febbraio%201916%20n.%2099%20concernente%20le%20attribuzioni%20del%20capo%20di%20stato%20maggiore%20della%20R.%20marina.%20017U0202.md), e [4 febbraio 1923, n. 361](Riguardante%20lUfficio%20di%20stato%20maggiore%20della%20R.%20marina%20023U0361.md), ed ogni disposizione contraria alla presente legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -24,7 +24,7 @@ Vista la legge 6 luglio 1912 ed il R. decreto 20 novembre 1912 n.
 
 Visto il [R. decreto 2 luglio 1908, n. 325 e il decreto](Concernente%20il%20riordinamento%20giudiziario%20della%20Colonia%20Eritrea.%20008U0325.md) governatoriale 11 luglio 1908, n. 756;
 
-Visti gli [articoli 86](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [87 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e gli [articoli 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_589) e [591 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_591);
+Visti gli [articoli 86](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [87 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e gli [articoli 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_589) e [591 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_591);
 
 Sentito il Consiglio dei ministri;
 

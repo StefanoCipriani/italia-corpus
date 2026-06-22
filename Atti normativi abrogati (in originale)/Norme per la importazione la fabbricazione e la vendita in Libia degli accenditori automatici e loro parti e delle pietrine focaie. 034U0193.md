@@ -18,7 +18,7 @@ Visto il [decreto Luogotenenziale 5 giugno 1917, n. 965](https://www.normattiva.
 
 Visto il [R. decreto-legge 26 febbraio 1930, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;105);
 
-Visto il [R. decreto 14 marzo 1932, n. 381](../Regi%20decreti/Ordinamento%20doganale%20della%20Tripolitania%20e%20della%20Cirenaica.%20032U0381.md);
+Visto il [R. decreto 14 marzo 1932, n. 381](Ordinamento%20doganale%20della%20Tripolitania%20e%20della%20Cirenaica.%20032U0381.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

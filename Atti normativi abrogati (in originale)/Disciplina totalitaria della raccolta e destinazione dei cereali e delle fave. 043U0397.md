@@ -94,7 +94,7 @@ Chiunque non osservi il vincolo di cui all'art. 1 e non conferisca all'ammasso e
  
  Alle stesse penalita' sono soggetti coloro che diano ai prodotti destinazione diversa da quella per cui sono stati trattenuti. 
  
- I prodotti sottratti od occultati sono soggetti a confisca a termini del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ I prodotti sottratti od occultati sono soggetti a confisca a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 9.
 

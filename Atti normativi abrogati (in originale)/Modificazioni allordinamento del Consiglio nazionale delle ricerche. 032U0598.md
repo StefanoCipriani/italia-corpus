@@ -19,7 +19,7 @@ All'[art. 1 del R. decreto 18 novembre 1923, n. 2895](../Regi%20decreti/Istituzi
 
 Il Consiglio nazionale delle ricerche esprime il proprio avviso, tutte le volte che ne e' richiesto dalle Amministrazioni statali, o da altre Amministrazioni pubbliche, su questioni o affari di carattere tecnico e scientifico. 
  Il voto del Consiglio nazionale e' obbligatorio: 
- a) sovra tutte le proposte di regolamenti che per l'[art. 1, n. 7, del R. decreto 14 novembre 1901, n. 466](../Regi%20decreti/Sulle%20attribuzioni%20del%20Consiglio%20dei%20Ministri.%20001U0466.md), sono soggette all'approvazione del Consiglio dei Ministri, quando la materia oggetto di detti regolamenti abbia carattere tecnico-scientifico; 
+ a) sovra tutte le proposte di regolamenti che per l'[art. 1, n. 7, del R. decreto 14 novembre 1901, n. 466](Sulle%20attribuzioni%20del%20Consiglio%20dei%20Ministri.%20001U0466.md), sono soggette all'approvazione del Consiglio dei Ministri, quando la materia oggetto di detti regolamenti abbia carattere tecnico-scientifico; 
  b) in tutti gli altri casi in cui sia richiesto per legge.
 
 ## Art. 3.

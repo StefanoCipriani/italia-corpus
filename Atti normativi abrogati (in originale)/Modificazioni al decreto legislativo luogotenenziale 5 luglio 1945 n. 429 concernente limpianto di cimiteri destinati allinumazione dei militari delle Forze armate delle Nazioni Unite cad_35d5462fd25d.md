@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 5 luglio 1945, n. 429](../Decreti%20legislativi%20luogotenenziali/Impianti%20di%20cimiteri%20destinati%20alla%20inumazione%20dei%20militari%20delle%20FF.%20AA.%20delle%20Nazioni%20Unite%20caduti%20in%20territorio%20italiano%20durante%20lattuale%20guerra.%20045U0429.md), relativo all'impianto di cimiteri destinati alla inumazione dei militari delle Forze armate delle Nazioni Unite, caduti in territorio italiano durante la seconda guerra mondiale;
+Visto il [decreto legislativo luogotenenziale 5 luglio 1945, n. 429](Impianti%20di%20cimiteri%20destinati%20alla%20inumazione%20dei%20militari%20delle%20FF.%20AA.%20delle%20Nazioni%20Unite%20caduti%20in%20territorio%20italiano%20durante%20lattuale%20guerra.%20045U0429.md), relativo all'impianto di cimiteri destinati alla inumazione dei militari delle Forze armate delle Nazioni Unite, caduti in territorio italiano durante la seconda guerra mondiale;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per i lavori pubblici, di concerto con i Ministri pe
 
 ## Articolo unico.
 
-L'[art. 2 del decreto legislativo luogotenenziale 5 luglio 1945, n. 429](../Decreti%20legislativi%20luogotenenziali/Impianti%20di%20cimiteri%20destinati%20alla%20inumazione%20dei%20militari%20delle%20FF.%20AA.%20delle%20Nazioni%20Unite%20caduti%20in%20territorio%20italiano%20durante%20lattuale%20guerra.%20045U0429.md), e sostituito dal seguente:
+L'[art. 2 del decreto legislativo luogotenenziale 5 luglio 1945, n. 429](Impianti%20di%20cimiteri%20destinati%20alla%20inumazione%20dei%20militari%20delle%20FF.%20AA.%20delle%20Nazioni%20Unite%20caduti%20in%20territorio%20italiano%20durante%20lattuale%20guerra.%20045U0429.md), e sostituito dal seguente:
  "Alle opere occorrenti per l'impianto, la sistemazione e la manutenzione dei cimiteri di guerra per i militari delle Forze armate delle nazioni Unite, caduti in territorio italiano durante la seconda guerra mondiale, provvede il Ministero dei lavori pubblici.
  La gestione amministrativa e' demandata alla Direzione generale della urbanistica e delle opere igieniche, e la gestione tecnica agli uffici del Genio civile.
  Alla spesa di lire cento milioni occorrenti per i lavori di cui al precedente comma, si provvede con i fondi autorizzati per l'esecuzione di opere pubbliche straordinarie a pagamento non differito".

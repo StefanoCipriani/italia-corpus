@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 585](../Decreti%20legislativi%20luogotenenziali/Reclutamento%20degli%20ufficiali%20in%20servizio%20permanente%20dellArma%20dei%20carabinieri%20reali.md);
+Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 585](Reclutamento%20degli%20ufficiali%20in%20servizio%20permanente%20dellArma%20dei%20carabinieri%20reali.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la difesa, di concerto con i Ministri per l'inte
 
 ## Art. 1.
 
-Sono apportate al [decreto legislativo luogotenenziale 12 aprile 1946, n. 585](../Decreti%20legislativi%20luogotenenziali/Reclutamento%20degli%20ufficiali%20in%20servizio%20permanente%20dellArma%20dei%20carabinieri%20reali.md), le modifiche di cui ai seguenti articoli.
+Sono apportate al [decreto legislativo luogotenenziale 12 aprile 1946, n. 585](Reclutamento%20degli%20ufficiali%20in%20servizio%20permanente%20dellArma%20dei%20carabinieri%20reali.md), le modifiche di cui ai seguenti articoli.
 
 ## Art. 2. — null
 

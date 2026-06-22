@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Ritenuta la necessita' di abrogare l'ultimo capoverso dell'[art. 158 del R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md);
+Ritenuta la necessita' di abrogare l'ultimo capoverso dell'[art. 158 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la giustizia 
 
 ## Articolo unico.
 
-L'ultimo capoverso dell'[art. 158 del R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), e' abrogato. 
+L'ultimo capoverso dell'[art. 158 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), e' abrogato. 
  
  I magistrati aventi titolo e funzioni di procuratore generale o di primo presidente di Corte di appello, qualora siano collocati fuori ruolo ai termini dell'articolo anzidetto, conservano il titolo ed il rango di cui erano precedentemente investiti. 
  

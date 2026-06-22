@@ -20,7 +20,7 @@ Visto il R. decreto 7 aprile 1939-XVII, n. 590, concernente la dichiarazione sul
 
 Visto il R. decreto 7 marzo 1940-XVIII, n. 340, col quale ha cessato di aver vigore il predetto Regio decreto 7 aprile 1939-XVII, n. 590;
 
-Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e quello penale militare marittimo;
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e quello penale militare marittimo;
 
 Sentito il Consiglio dei Ministri;
 

@@ -35,7 +35,7 @@ Agli [articoli 5](Ordinamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20
 ## Art. 2.
 
 Il [decreto legislativo luogotenenziale 26 ottobre 1944, n. 379](Funzionamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20044U0379.md), sul funzionamento dell'Azienda, di Stato per la foreste demaniali e' abrogato.
- Le funzioni attribuite al comandante della soppressa milizia forestale nella [legge 5 gennaio 1933, n. 30](Ordinamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U0030.md), e nello statuto-regolamento dell'Azienda di Stato per le foreste demaniali, approvato con [regio decreto 5 ottobre 1933, n. 1577](../Regi%20decreti/Approvazione%20dello%20statuto-regolamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U1577.md), sono invece attribuite al direttore generale delle foreste od a chi ne fa le veci.
+ Le funzioni attribuite al comandante della soppressa milizia forestale nella [legge 5 gennaio 1933, n. 30](Ordinamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U0030.md), e nello statuto-regolamento dell'Azienda di Stato per le foreste demaniali, approvato con [regio decreto 5 ottobre 1933, n. 1577](Approvazione%20dello%20statuto-regolamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U1577.md), sono invece attribuite al direttore generale delle foreste od a chi ne fa le veci.
 
 ## Art. 3.
 

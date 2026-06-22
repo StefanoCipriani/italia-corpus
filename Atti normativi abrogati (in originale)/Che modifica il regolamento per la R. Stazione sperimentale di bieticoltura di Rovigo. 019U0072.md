@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'art. 7 del regolamento per la R. Stazione sperimentale di bieticoltura di Rovigo, approvato con [Regio decreto del 23 giugno 1912, n. 1047](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20regolamento%20per%20la%20R.%20stazione%20di%20bieticultura%20di%20Rovigo.%20012U1047.md), e modificato con il [decreto Luogotenenziale del 5 agosto 1917, numero 1310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-05;1310), e' sostituito il seguente: 
+All'art. 7 del regolamento per la R. Stazione sperimentale di bieticoltura di Rovigo, approvato con [Regio decreto del 23 giugno 1912, n. 1047](Col%20quale%20viene%20approvato%20il%20regolamento%20per%20la%20R.%20stazione%20di%20bieticultura%20di%20Rovigo.%20012U1047.md), e modificato con il [decreto Luogotenenziale del 5 agosto 1917, numero 1310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-05;1310), e' sostituito il seguente: 
  
  «Il Comitato amministrativo della Stazione e' composto: 
  

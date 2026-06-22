@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il tratto del canale Primaro, dalla Botte San Niccolo' all'incontro dell'argine sinistro di Reno, a Traghetto, in provincia di Ferrara, e' cancellato dall'elenco delle opere idrauliche di seconda categoria, approvato con [R. decreto 11 febbraio 1867, n. 3598](../Regi%20decreti/Che%20approva%20liscrizione%20delle%20acque%20del%20Regno%20e%20delle%20opere%20relative.%20067U3598.md). 
+ Il tratto del canale Primaro, dalla Botte San Niccolo' all'incontro dell'argine sinistro di Reno, a Traghetto, in provincia di Ferrara, e' cancellato dall'elenco delle opere idrauliche di seconda categoria, approvato con [R. decreto 11 febbraio 1867, n. 3598](Che%20approva%20liscrizione%20delle%20acque%20del%20Regno%20e%20delle%20opere%20relative.%20067U3598.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la [legge 24 maggio 1903, n. 205](Ordinamento%20della%20Colonia%20Eritrea.%20003U0205.md), sull'ordinamento della Colonia eritrea; 
  
- Visti i [Regi decreti 19 settembre 1909, nn. 838](../Regi%20decreti/Concernente%20i%20provvedimenti%20circa%20il%20personale%20per%20lEritrea.%20009U0838.md) e [839](../Regi%20decreti/Che%20approva%20lordinamento%20del%20corpo%20dei%20funzionari%20coloniali%20dellEritrea.%20009U0839.md), sull'ordinamento del personale della predetta Colonia e le modificazioni ad essi apportate col successivo [R. decreto del 10 dicembre 1914, n. 1510](../Regi%20decreti/Col%20quale%20vengono%20approvate%20alcune%20modificazioni%20allordinamento%20del%20Personale%20civile%20della%20Colonia%20eritrea.%20014U1510.md); 
+ Visti i [Regi decreti 19 settembre 1909, nn. 838](Concernente%20i%20provvedimenti%20circa%20il%20personale%20per%20lEritrea.%20009U0838.md) e [839](Che%20approva%20lordinamento%20del%20corpo%20dei%20funzionari%20coloniali%20dellEritrea.%20009U0839.md), sull'ordinamento del personale della predetta Colonia e le modificazioni ad essi apportate col successivo [R. decreto del 10 dicembre 1914, n. 1510](Col%20quale%20vengono%20approvate%20alcune%20modificazioni%20allordinamento%20del%20Personale%20civile%20della%20Colonia%20eritrea.%20014U1510.md); 
  
  Ritenuta la opportunita' di integrare le disposizioni contenute nell'art. 18 delle accennate modificazioni nel senso di dar modo all'Amministrazione di compilare annualmente il prescritto quadro di avanzamento per le promozioni di classe degli agenti coloniali di grado superiore, quando ne' il governatore, ne' il segretario generale possano assentarsi dalla Colonia; 
  
@@ -38,7 +38,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- All'art. 18 delle modificazioni all'ordinamento del personale civile per la Colonia eritrea, approvato col [R. decreto del 10 dicembre 1914, n. 1510](../Regi%20decreti/Col%20quale%20vengono%20approvate%20alcune%20modificazioni%20allordinamento%20del%20Personale%20civile%20della%20Colonia%20eritrea.%20014U1510.md), e' aggiunto il seguente comma: 
+ All'art. 18 delle modificazioni all'ordinamento del personale civile per la Colonia eritrea, approvato col [R. decreto del 10 dicembre 1914, n. 1510](Col%20quale%20vengono%20approvate%20alcune%20modificazioni%20allordinamento%20del%20Personale%20civile%20della%20Colonia%20eritrea.%20014U1510.md), e' aggiunto il seguente comma: 
  
  «Qualora, ne' il governatore, ne' il segretario generale possano assentarsi dalla Colonia o comunque si trovino nella impossibilita' d'intervenire alle sedute della Commissione di avanzamento entro il 30 giugno, funzionera' da Commissione di avanzamento in quell'anno il consueto Consiglio di amministrazione, al quale percio' saranno comunicate le proposte motivate del governatore o di chi per esso, e le note caratteristiche con le classifiche ottenute dai vari funzionari nell'ultimo triennio». 
  

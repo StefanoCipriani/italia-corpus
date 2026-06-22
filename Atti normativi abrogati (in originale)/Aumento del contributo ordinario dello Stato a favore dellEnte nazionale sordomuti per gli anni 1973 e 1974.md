@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Per gli esercizi finanziari 1973 e 1974 il contributo ordinario dello Stato a favore dell'Ente nazionale per la protezione e l'assistenza dei sordomuti e' aumentato di lire 500 milioni per l'assolvimento delle finalita' previste dall'[articolo 2 della legge 21 agosto 1950, n. 698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-21;698#art_2), e dall'[articolo 2 del decreto del Presidente della Repubblica 3 luglio 1957, n. 826](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2021%20agosto%201950%20n.%20698%20recante%20norme%20per%20la%20protezione%20e%20lassistenza%20dei%20sordomuti.md).
+Per gli esercizi finanziari 1973 e 1974 il contributo ordinario dello Stato a favore dell'Ente nazionale per la protezione e l'assistenza dei sordomuti e' aumentato di lire 500 milioni per l'assolvimento delle finalita' previste dall'[articolo 2 della legge 21 agosto 1950, n. 698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-21;698#art_2), e dall'[articolo 2 del decreto del Presidente della Repubblica 3 luglio 1957, n. 826](../DPR/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2021%20agosto%201950%20n.%20698%20recante%20norme%20per%20la%20protezione%20e%20lassistenza%20dei%20sordomuti.md).
 
 ## Art. 2.
 

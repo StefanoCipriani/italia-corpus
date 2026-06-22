@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il testo unico delle leggi sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
+Veduto il testo unico delle leggi sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Veduta la [legge 3 aprile 1926, n. 2247](Istituzione%20dellOpera%20nazionale%20Balilla%20per%20lassistenza%20e%20leducazione%20fisica%20e%20morale%20della%20gioventu.%20026U2247.md), con la quale si provvede all'istituzione dell'Opera nazionale «Balilla» per l'assistenza e l'educazione fisica e morale della gioventu', ed i regolamenti amministrativo e tecnico disciplinare per l'esecuzione della detta legge, approvati con [R. decreto 9 gennaio 1927, n. 6](Approvazione%20dei%20regolamenti%20amministrativo%20e%20tecnico-disciplinare%20per%20lesecuzione%20della%20legge%203%20aprile%201926%20n.%202247%20sullOpera%20nazionale%20Balilla.%20027U0006.md);
 
@@ -48,12 +48,12 @@ Lo statuto del Patronato scolastico e' proposto dal Comitato comunale dell'Opera
 
 ## Art. 4.
 
-Nell'art. 219 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), sono soppresse le seguenti parole del secondo periodo:  
+Nell'art. 219 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), sono soppresse le seguenti parole del secondo periodo:  
  «ed e' amministrato da un Consiglio composto di cinque membri scelti secondo le norme stabilite dal proprio statuto». 
  
  Nel terzo comma dell'articolo stesso, alle parole: «su conforme parere del Consiglio del Patronato scolastico» sono sostituite le seguenti: «su conforme parere del Comitita comunale dell'Opera nazionale «Balilla» o della Giunta istituita nei Comuni capoluogo di Provincia». 
  
- Sono abrogati gli articoli 220 e 224 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md).
+ Sono abrogati gli articoli 220 e 224 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md).
 
 ## Art. 5.
 

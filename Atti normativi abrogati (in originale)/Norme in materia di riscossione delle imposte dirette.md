@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle leggi sulla, riscossione delle imposte dirette, approvato col [regio decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e successive modificazioni;
+Visto il testo unico delle leggi sulla, riscossione delle imposte dirette, approvato col [regio decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e successive modificazioni;
 
 Vista la [legge 16 giugno 1939, n. 942](Modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20R.%20decreto%2017%20ottobre%201922%20n.%201401%20e%20successive%20modificazioni.%20039U0942.md), concernente modifiche al testo unico sulla riscossione delle imposte dirette;
 
@@ -18,11 +18,11 @@ Vista la legge 34 febbraio 1941, n. 141, concernente norme per la conferma in ca
 
 Vista la [legge 2 ottobre 1940, n. 1429](Norme%20per%20la%20nomina%20di%20collettori%20di%20ufficiali%20esattoriali%20e%20di%20messi%20notificatori%20presso%20le%20esattorie%20delle%20imposte%20dirette%20durante%20la%20guerra.%20040U1429.md), concernente nomine di collettori, ufficiali esattoriali e messi notificatori durante la guerra;
 
-Visto il [decreto legislativo luogotenenziale 18 giugno 1945, n. 424](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20imposte%20dirette.%20045U0424.md), concernente provvedimenti in materia di imposte dirette;
+Visto il [decreto legislativo luogotenenziale 18 giugno 1945, n. 424](Provvedimenti%20in%20materia%20di%20imposte%20dirette.%20045U0424.md), concernente provvedimenti in materia di imposte dirette;
 
-Visto il [decreto legislativo luogotenenziale 12 ottobre 1945, n. 689](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20a%20favore%20degli%20esattori%20delle%20imposte%20dirette%20dei%20territori%20liberati%20dopo%20il%2028%20febbraio%201945.%20045U0689.md), concernente provvedimenti a favore degli esattori delle imposte dirette dei territori liberati dopo il 28 febbraio 1945;
+Visto il [decreto legislativo luogotenenziale 12 ottobre 1945, n. 689](Provvedimenti%20a%20favore%20degli%20esattori%20delle%20imposte%20dirette%20dei%20territori%20liberati%20dopo%20il%2028%20febbraio%201945.%20045U0689.md), concernente provvedimenti a favore degli esattori delle imposte dirette dei territori liberati dopo il 28 febbraio 1945;
 
-Visto il [regio decreto legislativo 2 giugno 1946, n. 587](../Regi%20decreti%20legislativi/Norme%20per%20la%20integrazione%20di%20aggio%20a%20favore%20degli%20esattori%20e%20dei%20ricevitori%20provinciali%20delle%20imposte%20dirette.md), concernente norme per la integrazione di aggio a favore degli esattori;
+Visto il [regio decreto legislativo 2 giugno 1946, n. 587](Norme%20per%20la%20integrazione%20di%20aggio%20a%20favore%20degli%20esattori%20e%20dei%20ricevitori%20provinciali%20delle%20imposte%20dirette.md), concernente norme per la integrazione di aggio a favore degli esattori;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -47,7 +47,7 @@ La validita' delle patenti di collettore, ufficiale esattoriale e messo notifica
 
 ## Art. 4.
 
-E' concessa la sanatoria dei termini per la presentazione delle domande di integrazione di aggio per il 1945, a sensi dei [decreti legislativi luogotenenziali 18 giugno 1945, n. 424](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20imposte%20dirette.%20045U0424.md) e [12 ottobre 1945, n. 689](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20a%20favore%20degli%20esattori%20delle%20imposte%20dirette%20dei%20territori%20liberati%20dopo%20il%2028%20febbraio%201945.%20045U0689.md). Tuttavia le domande di integrazione con rendiconto, previste dalle disposizioni suddette e presentate oltre i termini stabiliti, conserveranno efficacia soltanto agli effetti della concessione della integrazione prevista dall'[art. 1 del regio decreto legislativo 2 giugno 1946, n. 587](../Regi%20decreti%20legislativi/Norme%20per%20la%20integrazione%20di%20aggio%20a%20favore%20degli%20esattori%20e%20dei%20ricevitori%20provinciali%20delle%20imposte%20dirette.md).
+E' concessa la sanatoria dei termini per la presentazione delle domande di integrazione di aggio per il 1945, a sensi dei [decreti legislativi luogotenenziali 18 giugno 1945, n. 424](Provvedimenti%20in%20materia%20di%20imposte%20dirette.%20045U0424.md) e [12 ottobre 1945, n. 689](Provvedimenti%20a%20favore%20degli%20esattori%20delle%20imposte%20dirette%20dei%20territori%20liberati%20dopo%20il%2028%20febbraio%201945.%20045U0689.md). Tuttavia le domande di integrazione con rendiconto, previste dalle disposizioni suddette e presentate oltre i termini stabiliti, conserveranno efficacia soltanto agli effetti della concessione della integrazione prevista dall'[art. 1 del regio decreto legislativo 2 giugno 1946, n. 587](Norme%20per%20la%20integrazione%20di%20aggio%20a%20favore%20degli%20esattori%20e%20dei%20ricevitori%20provinciali%20delle%20imposte%20dirette.md).
  Le esattorie, che non abbiano presentato la domanda di integrazione, potranno, entro trenta giorni dall'entrata in vigore del presente decreto, chiedere la integrazione degli aggi nel limite minimo previsto dalle disposizioni citate nel comma precedente.
 
 ## Art. 5.

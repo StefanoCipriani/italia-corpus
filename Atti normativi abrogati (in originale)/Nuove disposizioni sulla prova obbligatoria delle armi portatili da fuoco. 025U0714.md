@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 30 dicembre 1923, n. 3152](Obbligatorieta%20della%20punzonatura%20delle%20armi%20da%20fuoco%20portatili.%20023U3152.md), sulla prova obbligatoria delle armi portatili da fuoco;
 
-Visto il regolamento approvato con [R. decreto 16 ottobre 1924, n. 2121](../Regi%20decreti/Approvazione%20del%20regolamento%20sullobbligatorieta%20della%20prova%20per%20le%20armi%20da%20fuoco%20portatili.%20024U2121.md), contenente le norme per l'esecuzione dell'anzidetto decreto-legge;
+Visto il regolamento approvato con [R. decreto 16 ottobre 1924, n. 2121](Approvazione%20del%20regolamento%20sullobbligatorieta%20della%20prova%20per%20le%20armi%20da%20fuoco%20portatili.%20024U2121.md), contenente le norme per l'esecuzione dell'anzidetto decreto-legge;
 
 Sentito il Consiglio dei Ministri;
 

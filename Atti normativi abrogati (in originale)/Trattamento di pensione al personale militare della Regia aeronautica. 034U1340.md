@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), che approva il testo unico delle leggi sulle pensioni civili e militari;
+Visto il [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), che approva il testo unico delle leggi sulle pensioni civili e militari;
 
 Visto il [decreto Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876), e successive modificazioni;
 
@@ -74,7 +74,7 @@ Capo II
 
 ### Art. 4.
 
-Il quarto comma dell'art. 65 e l'art. 68 del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70, nonche' l'articolo 1](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md) del [decreto-legge Luogotenenziale 13 marzo 1919, n. 565](Concernente%20il%20computo%20agli%20effetti%20della%20liquidazione%20delle%20pensioni%20del%20servizio%20prestato%20in%20Libia%20dal%20personale%20militare%20e%20civile%20dipendente%20dai%20Ministeri%20della%20guerra%20e%20della%20marina.%20019U0565.md), con le limitazioni prescritte dall'[art. 5 del R. decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), e dall'[art. 3 del R. decreto 8 maggio 1924, n. 779](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;779#art_3), sono applicabili ai militari della Regia aeronautica a decorrere dalle rispettive date di entrata in vigore. 
+Il quarto comma dell'art. 65 e l'art. 68 del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70, nonche' l'articolo 1](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md) del [decreto-legge Luogotenenziale 13 marzo 1919, n. 565](Concernente%20il%20computo%20agli%20effetti%20della%20liquidazione%20delle%20pensioni%20del%20servizio%20prestato%20in%20Libia%20dal%20personale%20militare%20e%20civile%20dipendente%20dai%20Ministeri%20della%20guerra%20e%20della%20marina.%20019U0565.md), con le limitazioni prescritte dall'[art. 5 del R. decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), e dall'[art. 3 del R. decreto 8 maggio 1924, n. 779](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;779#art_3), sono applicabili ai militari della Regia aeronautica a decorrere dalle rispettive date di entrata in vigore. 
  
  Agli effetti della determinazione degli anni di servizio richiesti per il collocamento di autorita' in ausiliaria dei personale militare ed a riposo, senza domanda del personale stesso, non si considerano gli aumenti di favore per campagne di guerra ne' quelli per servizio di volo, salvo che concorra il consenso scritto degli interessati. La stessa norma si applica ai fini del raggiungimento del diritto al massimo della pensione di riposo da parte degli ufficiali che, per esclusione dall'avanzamento, siano da collocare in ausiliaria, fermo il periodo massimo di otto anni di cui all'[articolo 39 della legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), modificato dall'[art. 2 del R. decreto 16 agosto 1926, n. 1477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-16;1477#art_2).
 
@@ -84,7 +84,7 @@ Il servizio di volo con effettiva percezione delle relative regolamentari indenn
  
  Il servizio di volo con la percezione delle relative regolamentari indennita' mensili, prestato presso reparti denominati di alta velocita' o di navigazione stratosferica, su apparecchi di alta velocita' o di navigazione stratosferica, e' computato invece con l'aumento della meta' della sua durata effettiva. 
  
- A tali aumenti sono applicabili le limitazioni stabilite dai [commi 2°](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md) e [3° dell'art. 5 del R. decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md).
+ A tali aumenti sono applicabili le limitazioni stabilite dai [commi 2°](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md) e [3° dell'art. 5 del R. decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md).
 
 ## Misura delle pensioni ordinarie
 
@@ -106,7 +106,7 @@ La pensione annua spettante agli ufficiali e' uguale a tanti quarantesimi della 
 
 ### Art. 8.
 
-Agli ufficiali collocati a riposo od in ausiliaria per raggiunti limiti di eta' e che non contino gli anni di servizio richiesti per aver diritto a pensione, si applicano le disposizioni contenute nei commi 2° e 3° dell'art. 95 del testo unico approvato col [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
+Agli ufficiali collocati a riposo od in ausiliaria per raggiunti limiti di eta' e che non contino gli anni di servizio richiesti per aver diritto a pensione, si applicano le disposizioni contenute nei commi 2° e 3° dell'art. 95 del testo unico approvato col [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
 
 ### Art. 9.
 
@@ -147,7 +147,7 @@ Capo IV
 
 ### Art. 14.
 
-Le pensioni privilegiate per ferite od infermita' contratte per causa di servizio, sono liquidate in base alle disposizioni del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e a quelle del [decreto Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876) e successive modificazioni. 
+Le pensioni privilegiate per ferite od infermita' contratte per causa di servizio, sono liquidate in base alle disposizioni del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e a quelle del [decreto Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876) e successive modificazioni. 
  
  Qualora debba applicarsi il [3° comma dell'art. 4 del decreto Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876#art_4-com3), le pensioni stesse vengono calcolate: 
  a) per gli ufficiali a qualsiasi arma o corpo appartengano, in base alle aliquote indicate nelle colonne 2 e 3 della tabella di cui all'art. 7 del presente decreto; 

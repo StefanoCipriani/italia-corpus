@@ -14,7 +14,7 @@ Sono convertiti in legge i [Regi decreti 8 novembre 1928, n. 2528](https://www.n
 
 ## Art. 2.
 
-E' convalidato il [R. decreto 8 novembre 1928, n. 2557](../Regi%20decreti/7ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201928%20-%2029.%20028U2557.md), che autorizza una 7ª prelevazione dal fondo di riserva per le spese impreviste, inscritto nel bilancio del Ministero delle finanze, per l'esercizio finanziario 1928-29. 
+E' convalidato il [R. decreto 8 novembre 1928, n. 2557](7ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201928%20-%2029.%20028U2557.md), che autorizza una 7ª prelevazione dal fondo di riserva per le spese impreviste, inscritto nel bilancio del Ministero delle finanze, per l'esercizio finanziario 1928-29. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

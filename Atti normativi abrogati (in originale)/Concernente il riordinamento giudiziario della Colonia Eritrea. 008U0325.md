@@ -85,7 +85,7 @@ Salve le maggiori facolta' che spettano al Governatore, in base all'[art. 3 del 
  
  tali tribunali a determinate zone o regioni, od anche a tutta la Colonia. 
  
- Essi funzionano secondo le forme ed applicando le pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per il tempo di guerra.
+ Essi funzionano secondo le forme ed applicando le pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per il tempo di guerra.
 
 ## Delle leggi vigenti in Colonia.
 

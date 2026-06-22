@@ -21,7 +21,7 @@ All'atto della promozione ad ordinario, in seguito al compimento, con risultato 
 
 ## Art. 3.
 
-Per gli insegnanti i quali, gia' prima dell'entrata in vigore del testo unico delle norme legislative sulle scuole italiane all'estero, approvato con [R. decreto 12 febbraio 1940, n. 740](../Testi%20Unici/Testo%20unico%20delle%20norme%20legislative%20sulle%20scuole%20italiane%20allestero.%20040U0740.md), avessero posseduto i requisiti richiesti dal [R. decreto 20 maggio 1926, n. 1259](../Regi%20decreti/Norme%20per%20il%20pareggiamento%20delle%20scuole%20italiane%20allestero%20e%20per%20la%20sistemazione%20degli%20insegnanti%20delle%20scuole%20medesime.%20026U1259.md), per l'assunzione in ruolo senza concorso, il periodo di prova e' ridotto ad un anno.
+Per gli insegnanti i quali, gia' prima dell'entrata in vigore del testo unico delle norme legislative sulle scuole italiane all'estero, approvato con [R. decreto 12 febbraio 1940, n. 740](Testo%20unico%20delle%20norme%20legislative%20sulle%20scuole%20italiane%20allestero.%20040U0740.md), avessero posseduto i requisiti richiesti dal [R. decreto 20 maggio 1926, n. 1259](Norme%20per%20il%20pareggiamento%20delle%20scuole%20italiane%20allestero%20e%20per%20la%20sistemazione%20degli%20insegnanti%20delle%20scuole%20medesime.%20026U1259.md), per l'assunzione in ruolo senza concorso, il periodo di prova e' ridotto ad un anno.
 
 ## Art. 4.
 

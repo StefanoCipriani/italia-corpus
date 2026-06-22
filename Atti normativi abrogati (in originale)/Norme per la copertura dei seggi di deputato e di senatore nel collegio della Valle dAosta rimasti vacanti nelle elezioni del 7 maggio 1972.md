@@ -24,7 +24,7 @@ I comizi di cui al precedente articolo sono convocati con decreto del Presidente
 
 ## Art. 3.
 
-Per le elezioni di cui all'articolo 1 si applicano le disposizioni contenute negli articoli 92 e 93 del testo unico delle leggi per la elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e negli articoli 22](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md) e [23](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md) della [legge 6 febbraio 1948, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-06;29), recante norme per la elezione del Senato della Repubblica.
+Per le elezioni di cui all'articolo 1 si applicano le disposizioni contenute negli articoli 92 e 93 del testo unico delle leggi per la elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e negli articoli 22](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md) e [23](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md) della [legge 6 febbraio 1948, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-06;29), recante norme per la elezione del Senato della Repubblica.
 
 ## Art. 4.
 

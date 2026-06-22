@@ -14,7 +14,7 @@ per grazia di Dio e per Volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il testo unico di legge sugli Istituti di emissione e sulla circolazione dei biglietti di Banca, approvato con [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md);
+Veduto il testo unico di legge sugli Istituti di emissione e sulla circolazione dei biglietti di Banca, approvato con [R. decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md);
 
 Veduto il [R. decreto 10 dicembre 1911, n. 1367](Col%20quale%20gli%20istituti%20di%20emissione%20vengono%20autorizzati%20ad%20aprire%20filiali%20in%20Tripolitania%20e%20Cirenaica.%20011U1367.md), convertito nella [legge 23 maggio 1912, n. 511](Che%20converte%20in%20legge%20il%20R.%20decreto%2010%20dicembre%201911%20n.%201367%20col%20quale%20gli%20Istituti%20di%20emissione%20vengono%20autorizzati%20ad%20aprire%20filiali%20in%20Tripolitania%20ed%20in%20Cirenaica.%20012U0511.md);
 

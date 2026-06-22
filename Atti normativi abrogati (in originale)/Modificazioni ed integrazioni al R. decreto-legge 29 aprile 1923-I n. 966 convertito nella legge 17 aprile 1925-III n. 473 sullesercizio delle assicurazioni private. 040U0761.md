@@ -151,7 +151,7 @@ Contro il provvedimento del Ministro per le corporazioni e' ammesso reclamo alla
 
 Il decreto del Ministro per le corporazioni contro il quale non sia proposto appello e quello definitivo della Corte d'appello di Roma sono eseguibili: 
  
- a) nel Regno a cura dell'Intendenza di finanza con l'osservanza del testo unico delle disposizioni di legge relative alla procedura coattiva per la riscossione delle entrate patrimoniali dello Stato e degli enti pubblici, dei proventi di demanio pubblico e di pubblici servizi e delle tasse sugli affari, approvato con [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md); 
+ a) nel Regno a cura dell'Intendenza di finanza con l'osservanza del testo unico delle disposizioni di legge relative alla procedura coattiva per la riscossione delle entrate patrimoniali dello Stato e degli enti pubblici, dei proventi di demanio pubblico e di pubblici servizi e delle tasse sugli affari, approvato con [R. decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md); 
  
  b) in Libia a cura del direttore degli affari di finanza del Governo con l'osservanza delle disposizioni del decreto 17 maggio 1937-XV, n. 1326, relativo alla procedura coattiva per la riscossione delle tasse sugli affari e di altri proventi; 
  

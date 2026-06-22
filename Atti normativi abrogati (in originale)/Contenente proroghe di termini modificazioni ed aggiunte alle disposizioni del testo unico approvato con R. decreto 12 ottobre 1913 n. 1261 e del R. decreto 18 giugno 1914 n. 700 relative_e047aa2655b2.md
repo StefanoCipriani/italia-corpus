@@ -26,7 +26,7 @@ Sulla proposta del Nostro ministro, segretario di Stato per i lavori pubblici, d
 
 Sono prorogati: 
  
- a) al 30 giugno 1916 il termine indicato all'articolo 68 del testo unico approvato con [R. decreto 12 ottobre 1913, n. 1261](Da%20convertirsi%20in%20legge%20che%20approva%20il%20testo%20unico%20delle%20leggi%20emanate%20in%20conseguenza%20del%20terremoto%20del%2028%20dicembre%201908.%20013U1261.md), termine gia' prorogato fino al 30 giugno 1915 con l'[art. 31 del R. decreto 18 giugno 1914, n. 700](../Regi%20decreti/Riguardante%20listituzione%20di%20enti%20edilizi%20a%20Messina%20ed%20a%20Reggio%20Calabria%20ed%20altre%20disposizioni%20dirette%20ad%20agevolare%20il%20risorgimento%20dei%20centri%20abitali%20distrutti%20dal%20terremoto%20del%2028%20dicemb_94afd2536c85.md); 
+ a) al 30 giugno 1916 il termine indicato all'articolo 68 del testo unico approvato con [R. decreto 12 ottobre 1913, n. 1261](Da%20convertirsi%20in%20legge%20che%20approva%20il%20testo%20unico%20delle%20leggi%20emanate%20in%20conseguenza%20del%20terremoto%20del%2028%20dicembre%201908.%20013U1261.md), termine gia' prorogato fino al 30 giugno 1915 con l'[art. 31 del R. decreto 18 giugno 1914, n. 700](Riguardante%20listituzione%20di%20enti%20edilizi%20a%20Messina%20ed%20a%20Reggio%20Calabria%20ed%20altre%20disposizioni%20dirette%20ad%20agevolare%20il%20risorgimento%20dei%20centri%20abitali%20distrutti%20dal%20terremoto%20del%2028%20dicemb_94afd2536c85.md); 
  
  b) al 21 luglio 1916 il termine di cui all'art. 119, comma 1, dello stesso testo unico; 
  
@@ -102,7 +102,7 @@ I Comuni indicati nella tabella n. 1 annessa al testo unico, hanno facolta' di i
 
 ## Art. 14.
 
-La riscossione dei canoni d'uso delle baracche e dei padiglioni nel villaggio Regina Elena in Messina, e' eseguita con le norme e i privilegi di cui all'[art. 23 del R. decreto 18 giugno 1914, n. 700](../Regi%20decreti/Riguardante%20listituzione%20di%20enti%20edilizi%20a%20Messina%20ed%20a%20Reggio%20Calabria%20ed%20altre%20disposizioni%20dirette%20ad%20agevolare%20il%20risorgimento%20dei%20centri%20abitali%20distrutti%20dal%20terremoto%20del%2028%20dicemb_94afd2536c85.md).
+La riscossione dei canoni d'uso delle baracche e dei padiglioni nel villaggio Regina Elena in Messina, e' eseguita con le norme e i privilegi di cui all'[art. 23 del R. decreto 18 giugno 1914, n. 700](Riguardante%20listituzione%20di%20enti%20edilizi%20a%20Messina%20ed%20a%20Reggio%20Calabria%20ed%20altre%20disposizioni%20dirette%20ad%20agevolare%20il%20risorgimento%20dei%20centri%20abitali%20distrutti%20dal%20terremoto%20del%2028%20dicemb_94afd2536c85.md).
 
 ## Art. 15.
 

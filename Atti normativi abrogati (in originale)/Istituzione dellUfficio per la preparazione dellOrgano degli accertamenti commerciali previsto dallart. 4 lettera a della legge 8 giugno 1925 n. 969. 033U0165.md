@@ -58,7 +58,7 @@ Gli impiegati addetti all'Ufficio sono tenuti a tenere il segreto circa le notiz
  
  Il capo dell'Ufficio potra' comunicarle soltanto ai superiori gerarchi diretti e al presidente del Comitato per la mobilitazione civile. 
  
- In caso di infrazione saranno applicate sanzioni disciplinari senza pregiudizio, ove del caso, delle pene comminate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ In caso di infrazione saranno applicate sanzioni disciplinari senza pregiudizio, ove del caso, delle pene comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 6.
 

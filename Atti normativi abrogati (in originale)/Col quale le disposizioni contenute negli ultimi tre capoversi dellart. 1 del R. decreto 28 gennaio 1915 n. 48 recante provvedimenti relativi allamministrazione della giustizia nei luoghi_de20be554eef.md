@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R decreto 28 gennaio 1915, n. 48](../Regi%20decreti/Recante%20provvedimenti%20relativi%20allAmministrazione%20della%20giustizia%20pei%20luoghi%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915.%20015U0048.md), recante provvedimenti relativi all'Amministrazione della giustizia pei luoghi colpiti dal terremoto del 13 gennaio 1915;
+Visto il [R decreto 28 gennaio 1915, n. 48](Recante%20provvedimenti%20relativi%20allAmministrazione%20della%20giustizia%20pei%20luoghi%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915.%20015U0048.md), recante provvedimenti relativi all'Amministrazione della giustizia pei luoghi colpiti dal terremoto del 13 gennaio 1915;
 
 Ritenuto che le condizioni dei luoghi colpiti dal terremoto del 13 gennaio 1915, sebbene notevolmente migliorate, non consentono ancora il normale svolgimento dell'Amministrazione della giustizia e consigliano di prorogare ancora per un anno il regime attualmente in vigore, reso maggiormente necessaria dalle difficolta', fra le quali si svolge nel presente momento in tutto il Regno l'Amministrazione dalla giustizia;
 
@@ -30,7 +30,7 @@ Sulla proposta del guardasigilli, Ministro segretario di Stato per gli affari di
 
 ## Art. 1.
 
-Le disposizioni contenute negli ultimi tre capoversi dell'art. 1° del [R. decreto 28 gennaio 1915, n. 48](../Regi%20decreti/Recante%20provvedimenti%20relativi%20allAmministrazione%20della%20giustizia%20pei%20luoghi%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915.%20015U0048.md), recante provvedimenti relativi all'Amministrazione della giustizia nei luoghi colpiti dal terremoto del 13 gennaio 1915, restano in vigore fino a tutto dicembre 1916.
+Le disposizioni contenute negli ultimi tre capoversi dell'art. 1° del [R. decreto 28 gennaio 1915, n. 48](Recante%20provvedimenti%20relativi%20allAmministrazione%20della%20giustizia%20pei%20luoghi%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915.%20015U0048.md), recante provvedimenti relativi all'Amministrazione della giustizia nei luoghi colpiti dal terremoto del 13 gennaio 1915, restano in vigore fino a tutto dicembre 1916.
 
 ## Art. 2.
 

@@ -62,7 +62,7 @@ Salvo il caso di cui all'articolo precedente, gli attuali primi segretari, in ba
 
 ## Art. 9.
 
-Agli effetti degli aumenti graduali di stipendio stabiliti annesse tabelle il servizio effettivamente prestato in colonia dei funzionari dell'Amministrazione coloniale, e' computato in ragione del doppio per i primi due anni e con l'aumento' di un terzo per gli anni successivi, analogamente a quanto dispongono, agli effetti della pensione, gli articoli 68 del testo unico approvato con [R decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). al 1 del [decreto Luogotenenziale 13 marzo 1919, n. 565](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-03-13;565).
+Agli effetti degli aumenti graduali di stipendio stabiliti annesse tabelle il servizio effettivamente prestato in colonia dei funzionari dell'Amministrazione coloniale, e' computato in ragione del doppio per i primi due anni e con l'aumento' di un terzo per gli anni successivi, analogamente a quanto dispongono, agli effetti della pensione, gli articoli 68 del testo unico approvato con [R decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). al 1 del [decreto Luogotenenziale 13 marzo 1919, n. 565](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-03-13;565).
 
 ## Art. 10.
 

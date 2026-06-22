@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visti gli articoli 3 e 4 del Trattato del Nord-Atlantico, ratificato con [legge 1° agosto 1949, n. 465](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20Trattato%20del%20Nord-Atlantico%20firmato%20a%20Washington%20il%204%20aprile%201949.md);
+Visti gli articoli 3 e 4 del Trattato del Nord-Atlantico, ratificato con [legge 1° agosto 1949, n. 465](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20Trattato%20del%20Nord-Atlantico%20firmato%20a%20Washington%20il%204%20aprile%201949.md);
 
 Visto il [decreto-legge 25 febbraio 2022, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-02-25;14), recante disposizioni urgenti sulla crisi in Ucraina;
 
-Ritenuta la straordinaria necessita' e urgenza, connessa alla grave crisi internazionale in atto in Ucraina, di emanare disposizioni in deroga alla [legge 9 luglio 1990, n. 185 e agli articoli 310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;185#art_310) e [311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;185#art_311) del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) e alle connesse disposizioni attuative per sostenere le autorita' governative ucraine, mediante la cessione di mezzi, materiali ed equipaggiamenti militari, semplificando le procedure vigenti, in coerenza con le esigenze di prontezza operativa che la crisi internazionale in atto richiede;
+Ritenuta la straordinaria necessita' e urgenza, connessa alla grave crisi internazionale in atto in Ucraina, di emanare disposizioni in deroga alla [legge 9 luglio 1990, n. 185 e agli articoli 310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;185#art_310) e [311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;185#art_311) del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) e alle connesse disposizioni attuative per sostenere le autorita' governative ucraine, mediante la cessione di mezzi, materiali ed equipaggiamenti militari, semplificando le procedure vigenti, in coerenza con le esigenze di prontezza operativa che la crisi internazionale in atto richiede;
 
 Considerata la necessita' e l'urgenza di fronteggiare la situazione di eccezionale instabilita' del funzionamento del sistema nazionale di gas naturale derivante dal conflitto russo ucraino, avuto riguardo altresi' all'esigenza di garantire il soddisfacimento della domanda di gas naturale riferita all'anno termico 2022-2023;
 
@@ -34,7 +34,7 @@ Emana il seguente decreto-legge:
 
 1.
 
-Fino al 31 dicembre 2022, previo atto di indirizzo delle Camere, e' autorizzata la cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorita' governative dell'Ucraina, in deroga alle disposizioni di cui alla [legge 9 luglio 1990, n. 185 e agli articoli 310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;185#art_310) e [311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;185#art_311) del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) e alle connesse disposizioni attuative.
+Fino al 31 dicembre 2022, previo atto di indirizzo delle Camere, e' autorizzata la cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorita' governative dell'Ucraina, in deroga alle disposizioni di cui alla [legge 9 luglio 1990, n. 185 e agli articoli 310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;185#art_310) e [311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;185#art_311) del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) e alle connesse disposizioni attuative.
 
 2.
 

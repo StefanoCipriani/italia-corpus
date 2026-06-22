@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Vista la [legge 16 luglio 1884, n. 2518](Sulla%20classificazione%20dei%20porti%20sulle%20spese%20per%20i%20medesimi%20e%20sulla%20designazione%20delle%20opere%20marittime.%20084U2518.md), testo unico, approvato con [R. decreto 2 aprile 1885, n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md), sui porti, spiaggie e fari, e del relativo [regolamento 26 settembre 1904, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1904-09-26;713); 
+ Vista la [legge 16 luglio 1884, n. 2518](Sulla%20classificazione%20dei%20porti%20sulle%20spese%20per%20i%20medesimi%20e%20sulla%20designazione%20delle%20opere%20marittime.%20084U2518.md), testo unico, approvato con [R. decreto 2 aprile 1885, n. 3095](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md), sui porti, spiaggie e fari, e del relativo [regolamento 26 settembre 1904, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1904-09-26;713); 
  
  Considerato che, dalle Amministrazioni dei lavori pubblici, della guerra e della marina, si e' concordemente riconosciuta, nei riguardi della difesa militare e della sicurezza dello Stato, la necessita' di provvedere alla iscrizione in prima categoria del porto di Brindisi nei tratti segnati in rosso e nelle zone di mare tratteggiate, di cui all'annessa planimetria 3 aprile 1911; 
  

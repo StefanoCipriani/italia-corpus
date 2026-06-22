@@ -84,7 +84,7 @@ Dal 1° luglio 1918 la Direzione di Commissariato militare marittimo nella Piazz
 
 ## Art. 12.
 
-Sono applicabili alla predetta Sottodirezione le disposizioni di cui al [R. decreto 12 ottobre 1913, n. 1235](../Regi%20decreti/Col%20quale%20la%20Sottodirezione%20di%20commissariato%20militare%20marittimo%20di%20Maddalena%20e%20elevata%20a%20Direzione.%20013U1235.md), in quanto non siano modificate dagli articoli seguenti.
+Sono applicabili alla predetta Sottodirezione le disposizioni di cui al [R. decreto 12 ottobre 1913, n. 1235](Col%20quale%20la%20Sottodirezione%20di%20commissariato%20militare%20marittimo%20di%20Maddalena%20e%20elevata%20a%20Direzione.%20013U1235.md), in quanto non siano modificate dagli articoli seguenti.
 
 ## Art. 13.
 

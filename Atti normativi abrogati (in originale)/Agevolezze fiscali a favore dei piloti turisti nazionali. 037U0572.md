@@ -20,7 +20,7 @@ Vista la tariffa dei dazi doganali, approvata con [R. decreto-legge 9 giugno 192
 
 Visto il [R. decreto 15 settembre 1915, n. 1373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-09-15;1373), con successive modificazioni ed aggiunte;
 
-Visto il [R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), e successive modificazioni, ed il testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
+Visto il [R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), e successive modificazioni, ed il testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

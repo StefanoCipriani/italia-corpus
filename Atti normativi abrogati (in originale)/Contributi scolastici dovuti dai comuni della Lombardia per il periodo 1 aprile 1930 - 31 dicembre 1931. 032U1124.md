@@ -20,7 +20,7 @@ R. decreto 2 dicembre 1928 che lo modifica:
 
 Veduto l'[art. 19 del R. decreto - legge 4 settembre 1925, numero 1722](Disposizioni%20per%20listruzione%20elementare.%20025U1722.md);
 
-Veduti gli articoli 55 e 56 del testo unico delle leggi sull'istruzione elementare approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
+Veduti gli articoli 55 e 56 del testo unico delle leggi sull'istruzione elementare approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Veduti gli elenchi dei posti d'insegnante di scuole classificate, legalmente istituiti ed esistenti al 1° aprile 1930 nei Comuni delle provincie di Bergamo, Brescia, Como, Cremona, Mantova, Milano, Pavia, Sondrio e Varese, elenchi compilati dal Regio provveditore agli studi di Milano;
 

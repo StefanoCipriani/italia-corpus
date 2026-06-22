@@ -26,7 +26,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto il [decreto Luogotenenziale 9 luglio 1916, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-07-09;848), con il quale sono state stabilite norme per determinare il prezzo del gas durante la guerra; 
  
- Visto il testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, numero 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md); 
+ Visto il testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, numero 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md); 
  
  Ritenuta la necessita', per motivi di ordine pubblico, di promuovere la sollecita od equa composizione delle vertenze relative ai sopra prezzi arretrati che le Societa' concessionarie di illuminazione abbiano titolo a riscuotere dai Comuni e dai privati; 
  

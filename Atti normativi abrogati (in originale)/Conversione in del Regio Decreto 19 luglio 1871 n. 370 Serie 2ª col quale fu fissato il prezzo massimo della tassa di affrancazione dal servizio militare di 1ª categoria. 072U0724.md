@@ -22,7 +22,7 @@ VITTORIO EMANUELE II
  
  Articolo unico. 
  
- E' data forza di Legge al [Regio Decreto del 19 luglio 1871, n. 370](../Regi%20decreti/Che%20stabilisce%20il%20prezzo%20massimo%20per%20laffrancazione%20dal%20servizio%20militare%20di%20prima%20categoria.%20071U0370.md) (Serie 2ª), col quale fu stabilito il prezzo massimo della tassa di affrancazione dal servizio militare di 1ª categoria nella somma di lire duemilaseicento. 
+ E' data forza di Legge al [Regio Decreto del 19 luglio 1871, n. 370](Che%20stabilisce%20il%20prezzo%20massimo%20per%20laffrancazione%20dal%20servizio%20militare%20di%20prima%20categoria.%20071U0370.md) (Serie 2ª), col quale fu stabilito il prezzo massimo della tassa di affrancazione dal servizio militare di 1ª categoria nella somma di lire duemilaseicento. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come Legge dello Stato. 
  

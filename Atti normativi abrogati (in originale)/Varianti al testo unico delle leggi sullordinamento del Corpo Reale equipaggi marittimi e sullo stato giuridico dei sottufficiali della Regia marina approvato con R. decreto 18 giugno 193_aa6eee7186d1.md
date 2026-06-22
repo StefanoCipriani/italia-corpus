@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al testo unico delle leggi sull'ordinamento del Corpo Reale equipaggi marittimi e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), sono apportate le varianti di cui agli articoli seguenti.
+Al testo unico delle leggi sull'ordinamento del Corpo Reale equipaggi marittimi e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), sono apportate le varianti di cui agli articoli seguenti.
 
 ## Art. 2.
 
@@ -329,7 +329,7 @@ Nell'art. 90:
 
 Nell'art. 92, i numeri 2° e 3° relativi alla rimozione sono sostituiti dai seguenti: 
  
- «2°) a qualunque pena prevista dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune nel Libro II, Titolo I - Capo I (esclusi gli articoli 273 e 274) - Capo II - Capo IV - Capo V (articoli da 301 a 307); Titolo II - Capo I (articoli 314, 315, 316 e 334) - Capo II (articoli 349 e 351): - Titolo III - Capo I (articoli 368 e da 371 a 377); Titolo V (articoli da 416 a 419); Titolo VI - Capo I - Capo II (articoli 438, 439, 440, 442, 445, 446 e 447); Titolo VII - Capo I - Capo II (articoli da 467 a 471) -Capo III (esclusi gli articoli 480, 481 e 484); - Titolo IX - Capo I - (articoli 519, 520 e 521) - Capo II (articoli da 530 a 537);
+ «2°) a qualunque pena prevista dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune nel Libro II, Titolo I - Capo I (esclusi gli articoli 273 e 274) - Capo II - Capo IV - Capo V (articoli da 301 a 307); Titolo II - Capo I (articoli 314, 315, 316 e 334) - Capo II (articoli 349 e 351): - Titolo III - Capo I (articoli 368 e da 371 a 377); Titolo V (articoli da 416 a 419); Titolo VI - Capo I - Capo II (articoli 438, 439, 440, 442, 445, 446 e 447); Titolo VII - Capo I - Capo II (articoli da 467 a 471) -Capo III (esclusi gli articoli 480, 481 e 484); - Titolo IX - Capo I - (articoli 519, 520 e 521) - Capo II (articoli da 530 a 537);
 Titolo XI - Capo II (articolo 564); Titolo XIII - Capo I (articoli 624, 625 e da 628 a 634) - Capo II (articoli 640, 645, 646 e 648) nonche' per i delitti preveduti dagli articoli 860 e 861 capoversi secondo e successivi del Codice di commercio; 
  
  3°) per qualsiasi delitto ad una pena restrittiva della liberta' personale di qualsiasi durata, quando siavi congiunta come pena accessoria l'interdizione perpetua o temporanea dai pubblici uffici, ovvero siavi aggiunta, per sanzione di legge o per disposizione del giudice la sottoposizione del condannato alla liberta' vigilata.
@@ -424,7 +424,7 @@ L'art. 103 e' cosi' modificato:
  
  «La disposizione del penultimo comma dell'art. 5 avra' vigore a cominciare dal 1° gennaio 1939. 
  
- Fino al 31 dicembre 1938 le aliquote previste dal precitato comma dell'art. 5 potranno essere superate, senza eccedere quella del 17% fissata per i sottufficiali dall'art. 6 del testo unico approvato con [R. decreto 21 agosto 1924, n. 1525](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), di tanti posti quanti eventualmente potranno occorrere per promuovere al grado di secondo capo i sottocapi reclutati nel 1931 e negli anni precedenti».
+ Fino al 31 dicembre 1938 le aliquote previste dal precitato comma dell'art. 5 potranno essere superate, senza eccedere quella del 17% fissata per i sottufficiali dall'art. 6 del testo unico approvato con [R. decreto 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), di tanti posti quanti eventualmente potranno occorrere per promuovere al grado di secondo capo i sottocapi reclutati nel 1931 e negli anni precedenti».
 
 ## Art. 41.
 
@@ -440,7 +440,7 @@ All'art. 105 e' aggiunto il seguente comma:
 
 ### Art. 43.
 
-I quadri di avanzamento per la promozione a sottotenente del Corpo Reale equipaggi marittimi ora vigenti cesseranno di avere vigore secondo e' disposto dall'art. 62 del testo unico approvato con [R. decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md).
+I quadri di avanzamento per la promozione a sottotenente del Corpo Reale equipaggi marittimi ora vigenti cesseranno di avere vigore secondo e' disposto dall'art. 62 del testo unico approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md).
 
 ### Art. 44.
 

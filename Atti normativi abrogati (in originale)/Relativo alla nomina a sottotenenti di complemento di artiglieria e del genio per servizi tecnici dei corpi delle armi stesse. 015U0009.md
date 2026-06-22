@@ -14,11 +14,11 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sull'ordimento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, approvato con [R. decreto 14 luglio 1898, n. 525](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), modificato con [legge 17 luglio 1910, n. 515](Modificazioni%20al%20testo%20unico%20delle%20leggi%20di%20ordinamento%20del%20R.%20esercito%20e%20dei%20servizi%20dipendenti%20dallAmministrazione%20della%20guerra%20e%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20R.%20esercito.%20010U0515.md);
+Visto il testo unico delle leggi sull'ordimento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, approvato con [R. decreto 14 luglio 1898, n. 525](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), modificato con [legge 17 luglio 1910, n. 515](Modificazioni%20al%20testo%20unico%20delle%20leggi%20di%20ordinamento%20del%20R.%20esercito%20e%20dei%20servizi%20dipendenti%20dallAmministrazione%20della%20guerra%20e%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20R.%20esercito.%20010U0515.md);
 
 Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento del R. esercito, modificata dalla [legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md);
 
-Visto il regolamento per l'esecuzione della predetta legge, approvato con [R decreto 21 luglio 1907, n. 626](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md);
+Visto il regolamento per l'esecuzione della predetta legge, approvato con [R decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md);
 
 Visto il Nostro decreto 3 settembre 1913, n. 1199 per la prima applicazione della [legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md);
 

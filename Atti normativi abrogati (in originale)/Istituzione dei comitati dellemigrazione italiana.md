@@ -93,7 +93,7 @@ Il comitato dell'emigrazione italiana puo' istituire nel suo seno commissioni di
 
 ## Art. 13. — Elettorato attivo
 
-Hanno diritto al voto i cittadini italiani residenti nella circoscrizione territoriale dell'ufficio consolare, purche' in possesso di passaporto valido o di documento equipollente, nonche' di documento attestante la loro residenza nella predetta circoscrizione da almeno dodici mesi, e che dichiarino, a norma dell'[articolo 2 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), di essere elettori ai sensi del testo unico approvato con [decreto del Presidente della Repubblica 20 marzo 1967, n. 223](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md), e successive modificazioni.
+Hanno diritto al voto i cittadini italiani residenti nella circoscrizione territoriale dell'ufficio consolare, purche' in possesso di passaporto valido o di documento equipollente, nonche' di documento attestante la loro residenza nella predetta circoscrizione da almeno dodici mesi, e che dichiarino, a norma dell'[articolo 2 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), di essere elettori ai sensi del testo unico approvato con [decreto del Presidente della Repubblica 20 marzo 1967, n. 223](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md), e successive modificazioni.
 
 NOTE
 
@@ -108,7 +108,7 @@ NOTE
  Si tenga presente anche l'art. 20-bis della stessa [legge 4 gennaio 1968, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;4), aggiunto dall'[art. 5 della legge 11 maggio 1971, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-05-11;390#art_5):
  "Art. 20-bis. - La dichiarazione di chi non sa o non puo' firmare deve essere sottoscritta in presenza del dichiarante da due testimoni idonei ai sensi dell'[articolo 47 della legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_47).
  Il pubblico ufficiale autentica la sottoscrizione dei testimoni, previa menzione della dichiarazione dell'interessato sulla causa dell'impedimento a firmare".
- - Il t.u. approvato con [D.P.R. 20 marzo 1967, n. 223](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md), riunisce le leggi per la disciplina dell'elettorato attivo e per la tenuta e la revisione delle liste elettorali.
+ - Il t.u. approvato con [D.P.R. 20 marzo 1967, n. 223](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md), riunisce le leggi per la disciplina dell'elettorato attivo e per la tenuta e la revisione delle liste elettorali.
 
 ## Art. 14. — Elenco degli elettori
 

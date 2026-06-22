@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 4 gennaio 1923, n. 16](../Regi%20decreti/Concernente%20lapplicazione%20dellimposta%20di%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0016.md);
+Visto il [R. decreto 4 gennaio 1923, n. 16](Concernente%20lapplicazione%20dellimposta%20di%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0016.md);
 
-Visto il [R. decreto 12 marzo 1923, n. 505](../Regi%20decreti/Contenente%20le%20norme%20regolamentari%20per%20lapplicazione%20della%20imposta%20della%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0505.md);
+Visto il [R. decreto 12 marzo 1923, n. 505](Contenente%20le%20norme%20regolamentari%20per%20lapplicazione%20della%20imposta%20della%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0505.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze: Abbiamo d
 
 ## Art. 1.
 
-Le penali per omessa od infedele dichiarazione dei redditi agrari applicate, ai sensi del [R. decreto 4 gennaio 1923, numero 16](../Regi%20decreti/Concernente%20lapplicazione%20dellimposta%20di%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0016.md), per gli anni 1923 e 1924, a carico dei proprietari e dei coloni e non ancora pagate alla data di pubblicazione del presente decreto, sono condonate.
+Le penali per omessa od infedele dichiarazione dei redditi agrari applicate, ai sensi del [R. decreto 4 gennaio 1923, numero 16](Concernente%20lapplicazione%20dellimposta%20di%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0016.md), per gli anni 1923 e 1924, a carico dei proprietari e dei coloni e non ancora pagate alla data di pubblicazione del presente decreto, sono condonate.
 
 ## Art. 2.
 

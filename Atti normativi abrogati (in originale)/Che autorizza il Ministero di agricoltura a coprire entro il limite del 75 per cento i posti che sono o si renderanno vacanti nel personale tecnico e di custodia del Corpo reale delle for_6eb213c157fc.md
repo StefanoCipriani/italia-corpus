@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Viste le leggi 3 marzo e 16 giugno 1912, nn. 134 e 582, con le quali sono stabiliti i ruoli organici del personale del Corpo reale delle foreste;
 
-Visto il regolamento approvato con [R. decreto 5 agosto 1912, n. 944](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%203%20marzo%201212%20n.%20124%20e%2016%20giugno%201912%20n.%20582%20con%20le%20quali%20vengono%20stabiliti%20i%20ruoli%20organici%20del%20corpo%20Reale%20delle%20foreste.%20012U0944.md), per la esecuzione delle su citate leggi;
+Visto il regolamento approvato con [R. decreto 5 agosto 1912, n. 944](Che%20approva%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%203%20marzo%201212%20n.%20124%20e%2016%20giugno%201912%20n.%20582%20con%20le%20quali%20vengono%20stabiliti%20i%20ruoli%20organici%20del%20corpo%20Reale%20delle%20foreste.%20012U0944.md), per la esecuzione delle su citate leggi;
 
 Vista la [legge 14 luglio 1912, n. 834](Concernente%20provvedimenti%20per%20listruzione%20forestale%20012U0834.md), sull'istruzione forestale;
 

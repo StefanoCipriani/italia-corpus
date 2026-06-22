@@ -16,9 +16,9 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
-Visto il [R. decreto 15 agosto 1926, n. 1733](../Regi%20decreti/Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), e successive modificazioni;
+Visto il [R. decreto 15 agosto 1926, n. 1733](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), e successive modificazioni;
 
 Visto il R. decreto 17 settembre 1931-IX, n. 1345;
 
@@ -40,7 +40,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-La Tabella n. 1 dell'allegato 1 al [R. decreto 17 settembre 1931, n. 1345](../Regi%20decreti/Nuove%20tabelle%20organiche%20del%20personale%20postale%20e%20telegrafico.%20031U1345.md), e successive modificazioni, e' sostituita, con effetto dal 16 novembre 1938-XVII, da quella annessa al presente decreto, firmato, d'ordine Nostro, dai Ministri per le comunicazioni e per le finanze.
+La Tabella n. 1 dell'allegato 1 al [R. decreto 17 settembre 1931, n. 1345](Nuove%20tabelle%20organiche%20del%20personale%20postale%20e%20telegrafico.%20031U1345.md), e successive modificazioni, e' sostituita, con effetto dal 16 novembre 1938-XVII, da quella annessa al presente decreto, firmato, d'ordine Nostro, dai Ministri per le comunicazioni e per le finanze.
 
 ## Art. 2.
 

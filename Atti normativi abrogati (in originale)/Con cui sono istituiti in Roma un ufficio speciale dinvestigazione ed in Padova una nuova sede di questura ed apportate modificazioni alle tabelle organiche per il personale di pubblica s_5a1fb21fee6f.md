@@ -41,7 +41,7 @@ Capitani anni 55.
 
 ## Art. 5.
 
-Il disposto dell'ultimo comma della tabella A, annessa al testo unico della legge sull'ordinamento della R. guardia di finanza, approvato con [R. decreto 26 novembre 1914, n. 1440](../Regi%20decreti/Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md), e' applicabile anche alle paghe dei graduati, delle guardie scelte, delle guardie, nonche' degli allievi guardie di citta' e degli agenti sedentari.
+Il disposto dell'ultimo comma della tabella A, annessa al testo unico della legge sull'ordinamento della R. guardia di finanza, approvato con [R. decreto 26 novembre 1914, n. 1440](Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md), e' applicabile anche alle paghe dei graduati, delle guardie scelte, delle guardie, nonche' degli allievi guardie di citta' e degli agenti sedentari.
 
 ## Art. 6.
 

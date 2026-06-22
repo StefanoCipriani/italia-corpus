@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il testo unico di leggi per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), con il relativo regolamento, approvato con [R. decreto 11 luglio 1907, n. 560](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
+Visto il testo unico di leggi per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), con il relativo regolamento, approvato con [R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
 
 Vista la [legge 22 luglio 1894, n. 339](Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md);
 
@@ -114,7 +114,7 @@ Sono accordate le seguenti detrazioni sul rispettivo ammontare del reddito tassa
 
 ## Art. 3.
 
-Tra i redditi di cui al secondo comma dell'art. 8 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), si intendono compresi anche quelli occasionali, comunque prodotti, i quali, pertanto, devono essere specificati nelle dichiarazioni, a mente dell'art. 18, lettera c), del testo unico sopra citato.
+Tra i redditi di cui al secondo comma dell'art. 8 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), si intendono compresi anche quelli occasionali, comunque prodotti, i quali, pertanto, devono essere specificati nelle dichiarazioni, a mente dell'art. 18, lettera c), del testo unico sopra citato.
 
 ## Art. 4.
 
@@ -168,7 +168,7 @@ Negli accertamenti continuativi a carico degli assuntori di appalti e di fornitu
 
 ## Art. 9.
 
-L'art. 59 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e' modificato come appresso: 
+L'art. 59 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e' modificato come appresso: 
  
  L'azione della Finanza per l'accertamento dei redditi di ricchezza mobile e' limitata all'anno in cui l'accertamento e' notificato ed ai quattro anni precedenti, restando prescritta per gli altri anni anteriori. 
  
@@ -196,9 +196,9 @@ L'[art. 3, secondo comma, della legge 2 maggio 1907, n. 222](Abolizione%20delle%
 
 L'[art. 7 del R. decreto-legge 20 settembre 1926, n. 1643](Abolizione%20di%20talune%20tasse%20sugli%20affari%20tra%20cui%20alcune%20speciali%20istituite%20durante%20il%20periodo%20bellico%20e%20post-bellico%20nonche%20sgravi%20e%20riduzioni%20in%20materia%20di%20imposte%20dirette%20e%20nuove%20norme%20p_7c52aec11706.md), convertito nella [legge 2 giugno 1927, n. 833](Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20settembre%201926%20n.%201643%20recante%20abolizione%20di%20talune%20tasse%20sugli%20affari%20tra%20cui%20alcune%20speciali%20istituite%20durante%20il%20periodo%20bellico%20e%20post-bel_53deb8e2d89b.md), e' modificato come segue: 
  
- Le tassazioni eseguite, agli effetti dell'imposta di ricchezza mobile sui redditi propri delle societa' anonime o in accomandita per azioni, degli istituti di credito e delle casse di risparmio, con le norme dell'art. 25 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), hanno carattere provvisorio. 
+ Le tassazioni eseguite, agli effetti dell'imposta di ricchezza mobile sui redditi propri delle societa' anonime o in accomandita per azioni, degli istituti di credito e delle casse di risparmio, con le norme dell'art. 25 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), hanno carattere provvisorio. 
  
- La tassazione definitiva e' eseguita annualmente sui risultati dei bilanci di competenza, provvedendosi, poi, in base ad essa, alla iscrizione del supplemento d'imposta ovvero al rimborso della maggiore imposta non dovuta, secondo le norme contenute nell'art. 109, e, rispettivamente, nell'art. 120, ultimo comma, del regolamento approvato con [R. decreto 11 luglio 1907, n. 560](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md). 
+ La tassazione definitiva e' eseguita annualmente sui risultati dei bilanci di competenza, provvedendosi, poi, in base ad essa, alla iscrizione del supplemento d'imposta ovvero al rimborso della maggiore imposta non dovuta, secondo le norme contenute nell'art. 109, e, rispettivamente, nell'art. 120, ultimo comma, del regolamento approvato con [R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md). 
  
  Per ottenere il rimborso previsto al precedente comma, l'ente interessato dovra' presentare la dichiarazione nei termini prescritti al precedente art. 11. 
  
@@ -272,13 +272,13 @@ La esenzione dall'imposta di ricchezza mobile concessa dal [1° comma dell'art. 
 
 ## Art. 22.
 
-A decorrere dal 1° gennaio 1936, le disposizioni del primo comma dell'art. 15 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), sono estese a chiunque attenda all'esercizio del credito, sia esso anche una societa' in accomandita semplice, o societa' in nome collettivo o di fatto, od un privato contribuente. Tali societa', ditte e persone sono quindi tenute a dichiarare gli interessi passivi sui depositi in conto corrente ed a risparmio ed a pagare direttamente l'imposta relativa, salvo il diritto di rivalsa verso i depositanti. 
+A decorrere dal 1° gennaio 1936, le disposizioni del primo comma dell'art. 15 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), sono estese a chiunque attenda all'esercizio del credito, sia esso anche una societa' in accomandita semplice, o societa' in nome collettivo o di fatto, od un privato contribuente. Tali societa', ditte e persone sono quindi tenute a dichiarare gli interessi passivi sui depositi in conto corrente ed a risparmio ed a pagare direttamente l'imposta relativa, salvo il diritto di rivalsa verso i depositanti. 
  
  Dalla stessa data, le disposizioni dell'art. 60 del testo unico sopra citato, concernenti l'accertamento provvisorio e di conguaglio dell'imposta relativa agli interessi passivi dei libretti di deposito e dei conti correnti presso le casse di risparmio e gli istituti di credito, sono estese a chiunque - enti, societa' di qualsiasi genere, privati - eserciti l'industria del credito.
 
 ## Art. 23.
 
-Il secondo comma dell'art. 15 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e' modificato come appresso: 
+Il secondo comma dell'art. 15 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e' modificato come appresso: 
  
  Le Provincie, i Comuni e qualsiasi altro ente, societa' od individuo dovranno altresi' dichiarare, senza alcuna detrazione e per tutto il loro ammontare, i premi dei prestiti da essi o da altri per loro conto emessi, nonche' i premi delle lotterie di ogni genere che non siano esenti per concessione speciale e pagare direttamente l'imposta relativa, salvo rivalsa verso i creditori.
 
@@ -288,7 +288,7 @@ Le societa' di assicurazione sulla vita e gli altri enti e societa' debbono dich
 
 ## Art. 25.
 
-Fra gli assegni di cui agli articoli 15, 16 e 17 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021 e all'articolo 2](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md) del [R. decreto-legge 30 gennaio 1933, n. 18](Provvedimenti%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C-2%20da%20parte%20degli%20enti%20societa%20e%20privati.%20033U0018.md), convertito nella [legge 5 giugno 1933, n. 683](Conversione%20in%20legge%20del%20R.%20decreto-legge%2030%20gennaio%201933%20n.%2018%20concernente%20provvedimenti%20per%20le%20dichiarazioni%20del%20redditi%20dl%20categoria%20C-2%20da%20parte%20degli%20enti%20societa%20e%20privati.%20033U0683.md), sono comprese le gratificazioni, le doppie mensilita', le provvigioni e cointeressenze, le percentuali di servizio, le panatiche ed i supplementi di ogni genere, anche se eventuali, occasionali e straordinari.
+Fra gli assegni di cui agli articoli 15, 16 e 17 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021 e all'articolo 2](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md) del [R. decreto-legge 30 gennaio 1933, n. 18](Provvedimenti%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C-2%20da%20parte%20degli%20enti%20societa%20e%20privati.%20033U0018.md), convertito nella [legge 5 giugno 1933, n. 683](Conversione%20in%20legge%20del%20R.%20decreto-legge%2030%20gennaio%201933%20n.%2018%20concernente%20provvedimenti%20per%20le%20dichiarazioni%20del%20redditi%20dl%20categoria%20C-2%20da%20parte%20degli%20enti%20societa%20e%20privati.%20033U0683.md), sono comprese le gratificazioni, le doppie mensilita', le provvigioni e cointeressenze, le percentuali di servizio, le panatiche ed i supplementi di ogni genere, anche se eventuali, occasionali e straordinari.
 
 ## Art. 26.
 
@@ -304,7 +304,7 @@ Gli stipendi ed ogni altra competenza del personale addetto alle aziende esercen
 
 ## Art. 28.
 
-All'[art. 5 del R. decreto 30 dicembre 1923, n. 3069](../Regi%20decreti/Rivalutazione%20generale%20del%20reddito%20dei%20fabbricati.%20023U3069.md), per la rivalutazione generale del reddito dei fabbricati, viene sostituito il seguente, con effetto dal 1° gennaio 1936: 
+All'[art. 5 del R. decreto 30 dicembre 1923, n. 3069](Rivalutazione%20generale%20del%20reddito%20dei%20fabbricati.%20023U3069.md), per la rivalutazione generale del reddito dei fabbricati, viene sostituito il seguente, con effetto dal 1° gennaio 1936: 
  
  Il reddito dei fabbricati e delle altre stabili costruzioni che, a termini delle vigenti disposizioni legislative, costituiscono opifici industriali, e' soggetto ad imposta di ricchezza mobile quale elemento del complessivo reddito di categoria B derivante dall'industria esercitata nell'opificio, a condizione che la industria sia esercitata direttamente dal proprietario del fabbricato. 
  
@@ -328,7 +328,7 @@ Le cantine sociali, le latterie sociali e turnarie, i consorzi di produttori e l
 
 ## Art. 30.
 
-All'art. 64 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e' aggiunto il seguente comma: 
+All'art. 64 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e' aggiunto il seguente comma: 
  
  Rimane, inoltre, sospesa la iscrizione a ruolo dei redditi dipendenti da crediti verso debitori dei quali sia stato dichiarato il fallimento, se, all'epoca della formazione del ruolo, sia scaduto il termine fissato dall'art. 691, n. 5, del Codice di commercio, per presentare alla cancelleria del Tribunale le dichiarazioni dei crediti.
 
@@ -346,17 +346,17 @@ Le decisioni della Commissione centrale debbono essere notificate entro il termi
 
 ## Art. 33.
 
-A tenore dell'ultimo comma dell'art. 120 del Regolamento approvato con [R. decreto 11 luglio 1907, n. 560](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md), nel caso di ricorso all'Autorita' giudiziaria da parte della Amministrazione finanziaria contro i deliberati della Commissione centrale per le imposte dirette, non si fara' luogo allo sgravio o rimborso della imposta, se non quando sia intervenuta una sentenza passata in giudicato.
+A tenore dell'ultimo comma dell'art. 120 del Regolamento approvato con [R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md), nel caso di ricorso all'Autorita' giudiziaria da parte della Amministrazione finanziaria contro i deliberati della Commissione centrale per le imposte dirette, non si fara' luogo allo sgravio o rimborso della imposta, se non quando sia intervenuta una sentenza passata in giudicato.
 
 ## Art. 34.
 
-Nei casi di cessione di un esercizio di industria o di commercio, di cui all'art. 63 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), il nuovo esercente e' solidalmente responsabile dell'imposta per i redditi di categoria B e C-2 dovuta, per l'anno in corso e per l'anno anteriore, dai precedenti esercenti, sia per l'imposta che sia gia' stata iscritta nei ruoli, sia per quella che sia ancora da iscrivere in dipendenza di accertamenti gia' notificati prima dell'avvenuta cessione. 
+Nei casi di cessione di un esercizio di industria o di commercio, di cui all'art. 63 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), il nuovo esercente e' solidalmente responsabile dell'imposta per i redditi di categoria B e C-2 dovuta, per l'anno in corso e per l'anno anteriore, dai precedenti esercenti, sia per l'imposta che sia gia' stata iscritta nei ruoli, sia per quella che sia ancora da iscrivere in dipendenza di accertamenti gia' notificati prima dell'avvenuta cessione. 
  
  Le stesse norme si applicano nel caso di cessione o di sostituzione nell'esercizio di mezzi di trasporto in servizio pubblico e di navi mercantili e peschereccie.
 
 ## Art. 35.
 
-Le disposizioni contenute nell'art. 69 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), si applicano anche ai redditi dipendenti da rapporti d'impiego o di lavoro, come stipendi, pensioni, assegni, indennita' di licenziamento e simili.
+Le disposizioni contenute nell'art. 69 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), si applicano anche ai redditi dipendenti da rapporti d'impiego o di lavoro, come stipendi, pensioni, assegni, indennita' di licenziamento e simili.
 
 ## Art. 36.
 

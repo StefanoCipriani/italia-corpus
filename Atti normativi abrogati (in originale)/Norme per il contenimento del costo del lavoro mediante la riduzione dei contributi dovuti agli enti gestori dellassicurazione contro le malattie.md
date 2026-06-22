@@ -20,7 +20,7 @@ Sulla proposta del Ministro del lavoro e della previdenza sociale, di concerto c
 
 ## Art. 1.
 
-Il termine di cui all'[art. 1, secondo comma, del decreto-legge 30 gennaio 1978, n. 15](Proroga%20delle%20norme%20relative%20al%20contenimento%20del%20costo%20del%20lavoro.md), convertito, con modificazioni, nella [legge 22 marzo 1978, n. 75](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20gennaio%201978%20n.%2015%20concernente%20proroga%20delle%20norme%20relative%20al%20contenimento%20del%20costo%20del%20lavoro.md), e' ulteriormente prorogato al 31 dicembre 1978.
+Il termine di cui all'[art. 1, secondo comma, del decreto-legge 30 gennaio 1978, n. 15](Proroga%20delle%20norme%20relative%20al%20contenimento%20del%20costo%20del%20lavoro.md), convertito, con modificazioni, nella [legge 22 marzo 1978, n. 75](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20gennaio%201978%20n.%2015%20concernente%20proroga%20delle%20norme%20relative%20al%20contenimento%20del%20costo%20del%20lavoro.md), e' ulteriormente prorogato al 31 dicembre 1978.
 
 ## Art. 2.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto-legge 13 gennaio 1941, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1941-01-13;33), convertito, con modificazioni, nella [legge 19 luglio 1941, n. 967](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2013%20gennaio%201941-XIX%20n.%2033%20contenente%20nuova%20disciplina%20delle%20importazioni%20e%20delle%20esportazioni.%20041U0967.md), concernente la disciplina delle importazioni e delle esportazioni;
+Visto il [decreto-legge 13 gennaio 1941, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1941-01-13;33), convertito, con modificazioni, nella [legge 19 luglio 1941, n. 967](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2013%20gennaio%201941-XIX%20n.%2033%20contenente%20nuova%20disciplina%20delle%20importazioni%20e%20delle%20esportazioni.%20041U0967.md), concernente la disciplina delle importazioni e delle esportazioni;
 
 Visto il decreto interministeriale 21 dicembre 1941, pubblicato nella Gazzetta Ufficiale del 25 febbraio 1942, n. 46, concernente la devoluzione all'Erario degli utili derivanti dalle operazioni di acquisto delle merci accentrate;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di State per il commercio con l'estero, d
 
 ## Art. 1.
 
-La facolta' attribuita al Ministro per gli scambi e per le valute con il [decreto-legge 13 gennaio 1941, numero 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1941-01-13;33), convertito, con modificazioni, nella [legge 19 luglio 1941, n. 967](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2013%20gennaio%201941-XIX%20n.%2033%20contenente%20nuova%20disciplina%20delle%20importazioni%20e%20delle%20esportazioni.%20041U0967.md), e' devoluta al Ministro per il commercio con l'estero, che a tal fine provvede di concerto con i Ministri per il tesoro, per le finanze, per l'industria e il commercio e per l'agricoltura a le foreste.
+La facolta' attribuita al Ministro per gli scambi e per le valute con il [decreto-legge 13 gennaio 1941, numero 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1941-01-13;33), convertito, con modificazioni, nella [legge 19 luglio 1941, n. 967](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2013%20gennaio%201941-XIX%20n.%2033%20contenente%20nuova%20disciplina%20delle%20importazioni%20e%20delle%20esportazioni.%20041U0967.md), e' devoluta al Ministro per il commercio con l'estero, che a tal fine provvede di concerto con i Ministri per il tesoro, per le finanze, per l'industria e il commercio e per l'agricoltura a le foreste.
 
 ## Art. 2.
 

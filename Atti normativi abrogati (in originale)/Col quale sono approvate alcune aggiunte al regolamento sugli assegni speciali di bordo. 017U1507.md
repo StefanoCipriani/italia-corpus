@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 16 maggio 1907, n. 406](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20sugli%20assegni%20speciali%20di%20bordo.%20007U0406.md), che approva il regolamento sugli assegni speciali di bordo, ed i successivi decreti che lo modificano; 
+ Visto il [R. decreto 16 maggio 1907, n. 406](Che%20approva%20lannesso%20regolamento%20sugli%20assegni%20speciali%20di%20bordo.%20007U0406.md), che approva il regolamento sugli assegni speciali di bordo, ed i successivi decreti che lo modificano; 
  
  Visto il Nastro decreto 17 maggio 1917, n. 858; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Sono approvate le annesse aggiunte al regolamento sugli assegni speciali di bordo approvato con [R. decreto 16 maggio 1907, n. 406](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20sugli%20assegni%20speciali%20di%20bordo.%20007U0406.md), firmate, d'ordine Nostro, dal ministro della marina. 
+ Sono approvate le annesse aggiunte al regolamento sugli assegni speciali di bordo approvato con [R. decreto 16 maggio 1907, n. 406](Che%20approva%20lannesso%20regolamento%20sugli%20assegni%20speciali%20di%20bordo.%20007U0406.md), firmate, d'ordine Nostro, dal ministro della marina. 
  
  Il presente decreto avra' decorrenza dal 1° luglio 1917. 
  

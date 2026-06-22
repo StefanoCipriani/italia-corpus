@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Viste le leggi 25 luglio 189, n. 324, e 19 luglio 1914, n. 694, e il [regio decreto 22 novembre 1914, n. 1289](../Regi%20decreti/Riguardante%20modificazioni%20al%20diritto%20di%20statistica%20in%20dogana.%20014U1289.md), con le successive modificazioni;
+Viste le leggi 25 luglio 189, n. 324, e 19 luglio 1914, n. 694, e il [regio decreto 22 novembre 1914, n. 1289](Riguardante%20modificazioni%20al%20diritto%20di%20statistica%20in%20dogana.%20014U1289.md), con le successive modificazioni;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

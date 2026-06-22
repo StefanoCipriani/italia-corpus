@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto che il trattato di commercio italo-russo, del 15-28, giugno 1907, e' venuto a scadere col 31 dicembre 1917, e non e' stato ulteriormente prorogato;
 
-Visto il testo unico della tariffa dei dazi doganali approvato con [R. decreto 28 luglio 1910, n. 577](../Regi%20decreti/Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md);
+Visto il testo unico della tariffa dei dazi doganali approvato con [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md);
 
 Sentito il Consiglio dei ministri;
 

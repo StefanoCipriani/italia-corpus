@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto 25 ottobre 1924, n. 1944](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-25;1944); 
  
- Visti i [Regi decreti 11 novembre 1924, n. 1932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-11;1932), e [19 marzo 1925, n. 266](../Regi%20decreti/Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md); 
+ Visti i [Regi decreti 11 novembre 1924, n. 1932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-11;1932), e [19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md); 
  
  Vista la [legge 24 maggio 1925, n. 727](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dei%20lavori%20pubblici%20per%20lesercizio%20finanziario%20dal%201%20luglio%201925%20al%2030%20giugno%201926.%20025U0727.md); 
  

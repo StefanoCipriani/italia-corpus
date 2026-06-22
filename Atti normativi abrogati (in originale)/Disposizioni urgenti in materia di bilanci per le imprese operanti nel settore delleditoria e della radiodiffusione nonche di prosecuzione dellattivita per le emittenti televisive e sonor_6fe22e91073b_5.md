@@ -96,7 +96,7 @@ In sede di prima applicazione, i soggetti di cui all'articolo 1 sono tenuti ad o
 
 2.
 
-Ferme restando le sanzioni previste dall'[articolo 15 della legge 10 dicembre 1993, n. 515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-10;515#art_15), e dall'articolo 195 del testo unico delle disposizioni legislative in materia postale, della bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), e successive modificazioni, in caso di violazione delle disposizioni richiamate nel comma 1 dello stesso [articolo 15 della legge 10 dicembre 1993, n. 515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-10;515#art_15), il Garante per la radiodiffusione e l'editoria ordina, per tutto il periodo precedente la data delle votazioni, l'immediata disattivazione degli impianti gestiti da emittenti prive di concessione o di autorizzazione. Rimane salva l'adozione degli ulteriori provvedimenti del Ministero delle poste e delle telecomunicazioni.
+Ferme restando le sanzioni previste dall'[articolo 15 della legge 10 dicembre 1993, n. 515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-10;515#art_15), e dall'articolo 195 del testo unico delle disposizioni legislative in materia postale, della bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), e successive modificazioni, in caso di violazione delle disposizioni richiamate nel comma 1 dello stesso [articolo 15 della legge 10 dicembre 1993, n. 515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-10;515#art_15), il Garante per la radiodiffusione e l'editoria ordina, per tutto il periodo precedente la data delle votazioni, l'immediata disattivazione degli impianti gestiti da emittenti prive di concessione o di autorizzazione. Rimane salva l'adozione degli ulteriori provvedimenti del Ministero delle poste e delle telecomunicazioni.
 
 ## Art. 6. — Norme abrogate
 
@@ -118,7 +118,7 @@ Sono abrogati:
                         g)
                             l'[articolo 6-bis, comma 2, del decreto-legge 27 agosto 1993, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323#art_6bis-com2), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20agosto%201993%20n.%20323%20recante%20provvedimenti%20urgenti%20in%20materia%20radiotelevisiva.md), limitatamente alle parole: "ricevuti i bilanci di cui all'[articolo 14 della legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223#art_14)";
                         h)
-                            l'[articolo 17, comma 1, del decreto del Presidente della Repubblica 27 marzo 1992, n. 255](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%206%20agosto%201990%20n.%20223%20sulla%20disciplina%20del%20sistema%20radiotelevisivo%20pubblico%20e%20privato.md), limitatamente alle disposizioni di cui alla lettera b);
+                            l'[articolo 17, comma 1, del decreto del Presidente della Repubblica 27 marzo 1992, n. 255](../DPR/Regolamento%20di%20attuazione%20della%20legge%206%20agosto%201990%20n.%20223%20sulla%20disciplina%20del%20sistema%20radiotelevisivo%20pubblico%20e%20privato.md), limitatamente alle disposizioni di cui alla lettera b);
                         i)
                             il [comma 3 dell'articolo 3 del decreto-legge 27 agosto 1993, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323#art_3-com3), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20agosto%201993%20n.%20323%20recante%20provvedimenti%20urgenti%20in%20materia%20radiotelevisiva.md).
 
@@ -149,7 +149,7 @@ Il [comma 1 dell'articolo 9 della legge 6 agosto 1990, n. 223](https://www.norma
 
 5.
 
-Entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, l'[articolo 4 del decreto del Presidente della Repubblica 27 marzo 1992, n. 255](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%206%20agosto%201990%20n.%20223%20sulla%20disciplina%20del%20sistema%20radiotelevisivo%20pubblico%20e%20privato.md), deve essere adeguato alle disposizioni del presente decreto.
+Entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, l'[articolo 4 del decreto del Presidente della Repubblica 27 marzo 1992, n. 255](../DPR/Regolamento%20di%20attuazione%20della%20legge%206%20agosto%201990%20n.%20223%20sulla%20disciplina%20del%20sistema%20radiotelevisivo%20pubblico%20e%20privato.md), deve essere adeguato alle disposizioni del presente decreto.
 
 ## Art. 8. — Ulteriori rappresentazioni non considerate pubbliche
 

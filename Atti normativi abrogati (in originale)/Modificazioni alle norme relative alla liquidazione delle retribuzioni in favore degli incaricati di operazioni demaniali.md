@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il regolamento per la liquidazione delle competenze ai delegati tecnici, agli istruttori ed ai periti incaricati delle operazioni di riordinamento degli usi civici nel territorio dello Stato, approvato con [regio decreto 15 novembre 1925, n. 2180](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20liquidazione%20delle%20competenze%20ai%20delegati%20tecnici%20agli%20istruttori%20ed%20ai%20periti%20incaricati%20delle%20operazioni%20di%20riordinamento%20degli%20usi%20civici%20nel%20Regno.%20025U2180.md);
+Visto il regolamento per la liquidazione delle competenze ai delegati tecnici, agli istruttori ed ai periti incaricati delle operazioni di riordinamento degli usi civici nel territorio dello Stato, approvato con [regio decreto 15 novembre 1925, n. 2180](Approvazione%20del%20regolamento%20per%20la%20liquidazione%20delle%20competenze%20ai%20delegati%20tecnici%20agli%20istruttori%20ed%20ai%20periti%20incaricati%20delle%20operazioni%20di%20riordinamento%20degli%20usi%20civici%20nel%20Regno.%20025U2180.md);
 
-Visto il [decreto legislativo luogotenenziale 3 maggio 1945, n. 401](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20norme%20relative%20alla%20liquidazione%20dei%20compensi%20in%20favore%20degli%20incaricati%20di%20operazioni%20demaniali.%20045U0401.md), che modifica le norme predette;
+Visto il [decreto legislativo luogotenenziale 3 maggio 1945, n. 401](Modificazioni%20alle%20norme%20relative%20alla%20liquidazione%20dei%20compensi%20in%20favore%20degli%20incaricati%20di%20operazioni%20demaniali.%20045U0401.md), che modifica le norme predette;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto con 
 
 ## Art. 1.
 
-La competenza per vacazione, la indennita', di soggiorno e la indennita' chilometrica su via ordinaria, dovute, a norma degli articoli 3 e 5 del regolamento approvato con [regio decreto 15 novembre 1925, n. 2180](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20liquidazione%20delle%20competenze%20ai%20delegati%20tecnici%20agli%20istruttori%20ed%20ai%20periti%20incaricati%20delle%20operazioni%20di%20riordinamento%20degli%20usi%20civici%20nel%20Regno.%20025U2180.md), ai delegati tecnici agli istruttori ed ai periti incaricati delle operazioni di riordinamento degli usi civici nel territorio della Repubblica, sono elevate al decuplo.
+La competenza per vacazione, la indennita', di soggiorno e la indennita' chilometrica su via ordinaria, dovute, a norma degli articoli 3 e 5 del regolamento approvato con [regio decreto 15 novembre 1925, n. 2180](Approvazione%20del%20regolamento%20per%20la%20liquidazione%20delle%20competenze%20ai%20delegati%20tecnici%20agli%20istruttori%20ed%20ai%20periti%20incaricati%20delle%20operazioni%20di%20riordinamento%20degli%20usi%20civici%20nel%20Regno.%20025U2180.md), ai delegati tecnici agli istruttori ed ai periti incaricati delle operazioni di riordinamento degli usi civici nel territorio della Repubblica, sono elevate al decuplo.
 
 ## Art. 2.
 

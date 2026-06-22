@@ -12,9 +12,9 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 2 giugno 1927, n. 862](Ordinamento%20della%20carriera%20diplomatico-consolare.%20027U0862.md);
 
-Visto il [regio decreto 24 settembre 1931, n. 1256](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20promulgazione%20e%20pubblicazione%20delle%20leggi%20e%20dei%20Regi%20decreti.%20031U1256.md);
+Visto il [regio decreto 24 settembre 1931, n. 1256](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20promulgazione%20e%20pubblicazione%20delle%20leggi%20e%20dei%20Regi%20decreti.%20031U1256.md);
 
-Visto il [regio decreto 22 aprile 1932, n. 608](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20concorso%20alla%20carriera%20diplomatico%20consolare.%20032U0608.md), e successive modificazioni;
+Visto il [regio decreto 22 aprile 1932, n. 608](Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20concorso%20alla%20carriera%20diplomatico%20consolare.%20032U0608.md), e successive modificazioni;
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro Segretario di Stato per gli affari esteri, di concer
 
 ## Art. 1.
 
-L'[art. 4 del regio decreto 22 aprile 1932, n. 608](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20concorso%20alla%20carriera%20diplomatico%20consolare.%20032U0608.md), e' sostituito dal seguente: 
+L'[art. 4 del regio decreto 22 aprile 1932, n. 608](Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20concorso%20alla%20carriera%20diplomatico%20consolare.%20032U0608.md), e' sostituito dal seguente: 
  "Gli esami consistono in sei prove scritte e una prova orale. 
  Le prove scritte vertono sulle seguenti materie: 
  a) storia moderna e contemporanea (dai Trattati di Westfalia); 
@@ -46,7 +46,7 @@ L'[art. 4 del regio decreto 22 aprile 1932, n. 608](../Regi%20decreti/Approvazio
 
 ## Art. 2.
 
-L'[art. 5 del regio decreto 22 aprile 1932, n. 608](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20concorso%20alla%20carriera%20diplomatico%20consolare.%20032U0608.md), e' sostituito dal seguente: 
+L'[art. 5 del regio decreto 22 aprile 1932, n. 608](Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20concorso%20alla%20carriera%20diplomatico%20consolare.%20032U0608.md), e' sostituito dal seguente: 
  "I candidati hanno quattro ore di tempo per svolgere i temi di lingue e otto per gli altri. 
  Le prove scritte di lingue estere consistono in una traduzione dall'italiano senza l'uso del vocabolario. 
  In aggiunta alle lingue prescelte il concorrente puo' chiedere di essere sottoposto alla prova scritta e orale anche per le altre lingue di cui all'articolo precedente, nonche' ad una prova orale di lingue non comprese fra quelle di cui all'articolo anzidetto. 
@@ -54,7 +54,7 @@ L'[art. 5 del regio decreto 22 aprile 1932, n. 608](../Regi%20decreti/Approvazio
 
 ## Art. 3.
 
-Il [primo comma dell'art. 3 del regio decreto 22 aprile 1932, n. 608](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20concorso%20alla%20carriera%20diplomatico%20consolare.%20032U0608.md), e' sostituito dal seguente: 
+Il [primo comma dell'art. 3 del regio decreto 22 aprile 1932, n. 608](Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20concorso%20alla%20carriera%20diplomatico%20consolare.%20032U0608.md), e' sostituito dal seguente: 
  "La commissione giudicatrice sara' composta di un presidente e di sette membri, dei quali almeno uno magistrato dell'ordine giudiziario o amministrativo di grado non inferiore al quinto, almeno un professore titolare di universita' e non piu' di tre funzionari dell'Amministrazione degli affari esteri, apparteneneti alla carriera diplomarico-consolare".
 
 ## Art. 4.

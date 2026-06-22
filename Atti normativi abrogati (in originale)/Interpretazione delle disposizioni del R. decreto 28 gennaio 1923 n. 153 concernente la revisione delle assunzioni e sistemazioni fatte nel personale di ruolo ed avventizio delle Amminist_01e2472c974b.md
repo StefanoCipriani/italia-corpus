@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 28 gennaio 1923, n. 153](../Regi%20decreti/Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md);
+Visto il [R. decreto 28 gennaio 1923, n. 153](Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,11 +22,11 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per l'interno
 
 ## Articolo unico.
 
-Le disposizioni contenute nel [R. decreto 28 gennaio 1923, n. 153](../Regi%20decreti/Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md), debbono interpretarsi nel senso che alle Amministrazioni dello Stato, compresa quella delle ferrovie, si intende conferita ogni facolta' discrezionale, circa la procedura da seguire per la revisione e la dispensa dal servizio del personale assunto o sistemato in ruolo, dopo il 24 maggio 1915. 
+Le disposizioni contenute nel [R. decreto 28 gennaio 1923, n. 153](Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md), debbono interpretarsi nel senso che alle Amministrazioni dello Stato, compresa quella delle ferrovie, si intende conferita ogni facolta' discrezionale, circa la procedura da seguire per la revisione e la dispensa dal servizio del personale assunto o sistemato in ruolo, dopo il 24 maggio 1915. 
  
  Il concorso delle condizioni previste nel Regio decreto predetto, per la dispensa del personale di cui al precedente comma e' operativo di diritto per il provvedimento di dispensa. 
  
- La comunicazione individuale dell'avvenuta dispensa tiene luogo, ad ogni effetto, della deliberazione di ciascun relativo provvedimento ed importa riconoscimento della inapplicabilita' della facolta' discrezionale di cui all'[art. 3, lettera d) del R. decreto 28 gennaio 1923, n. 153](../Regi%20decreti/Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md). 
+ La comunicazione individuale dell'avvenuta dispensa tiene luogo, ad ogni effetto, della deliberazione di ciascun relativo provvedimento ed importa riconoscimento della inapplicabilita' della facolta' discrezionale di cui all'[art. 3, lettera d) del R. decreto 28 gennaio 1923, n. 153](Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md). 
  
  Questo decreto sara' presentato al Parlamento per la conversione in legge. 
  

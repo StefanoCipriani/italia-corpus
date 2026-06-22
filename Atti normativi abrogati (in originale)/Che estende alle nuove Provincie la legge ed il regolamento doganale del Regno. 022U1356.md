@@ -28,7 +28,7 @@ Fino a quando non sara' istituito nelle nuove Provincie il servizio della Cassa 
 
 Alla disposizione dell'art. 116 della legge doganale, fino a quando continueranno a funzionare nelle nuove Provincie i giudizi di finanza attualmente esistenti, e' sostituita la seguente: 
  
- «Le multe e le altre pene che la legge stabilisce per i contrabbandi e le contravvenzioni doganali sono applicate dalle autorita' competenti secondo le disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) di finanza e secondo le norme di procedura tuttora vigenti nelle nuove Provincie». 
+ «Le multe e le altre pene che la legge stabilisce per i contrabbandi e le contravvenzioni doganali sono applicate dalle autorita' competenti secondo le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) di finanza e secondo le norme di procedura tuttora vigenti nelle nuove Provincie». 
  
  Per la decisione delle contravvenzioni in sede amministrativa saranno osservate le disposizioni estese col presente decreto.
 

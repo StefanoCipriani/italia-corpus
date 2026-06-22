@@ -173,7 +173,7 @@ La nomina dell'ufficiale d'ordine e' devoluta al Ministero della Pubblica Istruz
 
 ## Art. 19.
 
-Agli insegnanti cosi ordinari, come straordinari effettivi, ed al personale amministrativo e di servizio spettera' a carico del bilancio dell'Istituto una indennita' o una pensione continuativa secondo il servizio prestato, in conformita' delle norme contenute nel [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
+Agli insegnanti cosi ordinari, come straordinari effettivi, ed al personale amministrativo e di servizio spettera' a carico del bilancio dell'Istituto una indennita' o una pensione continuativa secondo il servizio prestato, in conformita' delle norme contenute nel [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
 
 ### Art. 20.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il testo unico delle leggi e delle norme giuridiche sull'istruzione elementare, post-elementare e sulle opere di integrazione, approvato col [R. decreto 5 febbraio 1928, numero 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
+Veduto il testo unico delle leggi e delle norme giuridiche sull'istruzione elementare, post-elementare e sulle opere di integrazione, approvato col [R. decreto 5 febbraio 1928, numero 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Veduto il regolamento generale sui servizi dell'istruzione elementare approvato col [R. decreto 26 aprile 1928, n. 1297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1297);
 
@@ -34,7 +34,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Articolo unico.
 
-All'art. 225 del testo unico delle leggi sulla istruzione elementare, post-elementare e sulle opere di integrazione approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e' sostituita la seguente disposizione: 
+All'art. 225 del testo unico delle leggi sulla istruzione elementare, post-elementare e sulle opere di integrazione approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e' sostituita la seguente disposizione: 
  
  «Il presidente del locale Comitato dell'Opera Balilla ha facolta' di istituire presso il Patronato scolastico un Economato avente il compito di facilitare alle famiglie e alle scuole del Comune l'acquisto del materiale, dei libri e dei generi di cancelleria. 
  

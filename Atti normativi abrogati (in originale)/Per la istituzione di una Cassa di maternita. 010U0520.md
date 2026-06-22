@@ -38,7 +38,7 @@ Le entrate della Cassa di maternita' sono costituite:
 
 ## Art. 3.
 
-La Cassa corrisponde ad ogni operaia, in occasione di parto o di aborto, un sussidio di L. 30 alle condizioni che saranno determinate nel regolamento e fatta eccezione per il procurato aborto, preveduto nell'[art. 331 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), per il quale il sussidio non e' dovuto. 
+La Cassa corrisponde ad ogni operaia, in occasione di parto o di aborto, un sussidio di L. 30 alle condizioni che saranno determinate nel regolamento e fatta eccezione per il procurato aborto, preveduto nell'[art. 331 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), per il quale il sussidio non e' dovuto. 
  
  Il sussidio dovra' essere pagato alla operaia-madre, almeno per una meta', nella prima settimana del puerperio, secondo le norme che saranno fissate dal regolamento; questo potra' pure stabilire che il sussidio debba essere, in tutto od in parte, anticipato dall'imprenditore o industriale, salvo rimborso da parte della Cassa di maternita'. 
  

@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto fil [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
 
-Visto il [R. decreto-legge 13 gennaio 1938, n. 12](Nuove%20assegnazioni%20finanziarie%20per%20la%20bonifica%20integrale.%20038U0012.md), convertito nella [legge 31 marzo 1938, n. 543](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2013%20gennaio%201938-XVI%20n.%2012%20recante%20nuove%20assegnazioni%20finanziarie%20per%20la%20bonifica%20integrale.%20038U0543.md);
+Visto il [R. decreto-legge 13 gennaio 1938, n. 12](Nuove%20assegnazioni%20finanziarie%20per%20la%20bonifica%20integrale.%20038U0012.md), convertito nella [legge 31 marzo 1938, n. 543](Conversione%20in%20legge%20del%20Regio%20decreto-legge%2013%20gennaio%201938-XVI%20n.%2012%20recante%20nuove%20assegnazioni%20finanziarie%20per%20la%20bonifica%20integrale.%20038U0543.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto col 
 
 ## Art. 1.
 
-In aggiunta all'autorizzazione di spesa di cui al [R. decreto-legge 13 gennaio 1938, n. 12](Nuove%20assegnazioni%20finanziarie%20per%20la%20bonifica%20integrale.%20038U0012.md), convertito nella [legge 31 marzo 1938, n. 543](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2013%20gennaio%201938-XVI%20n.%2012%20recante%20nuove%20assegnazioni%20finanziarie%20per%20la%20bonifica%20integrale.%20038U0543.md), e successive variazioni, e' autorizzata la maggiore spesa di lire un miliardo per, l'esecuzione di opere pubbliche di bonifica. 
+In aggiunta all'autorizzazione di spesa di cui al [R. decreto-legge 13 gennaio 1938, n. 12](Nuove%20assegnazioni%20finanziarie%20per%20la%20bonifica%20integrale.%20038U0012.md), convertito nella [legge 31 marzo 1938, n. 543](Conversione%20in%20legge%20del%20Regio%20decreto-legge%2013%20gennaio%201938-XVI%20n.%2012%20recante%20nuove%20assegnazioni%20finanziarie%20per%20la%20bonifica%20integrale.%20038U0543.md), e successive variazioni, e' autorizzata la maggiore spesa di lire un miliardo per, l'esecuzione di opere pubbliche di bonifica. 
  
  Il Ministro per il tesoro procedera' con propri decreti alla iscrizione dei fondi occorrenti al cap. 122 dello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste per il corrente esercizio e corrispondenti degli esercizi futuri.
 

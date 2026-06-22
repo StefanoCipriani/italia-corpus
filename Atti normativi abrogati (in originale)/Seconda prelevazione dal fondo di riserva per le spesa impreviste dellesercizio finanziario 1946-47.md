@@ -54,13 +54,13 @@ personale del disciolto Corpo di polizia
 
 
 dell'Africa italiana, sottoposto a giudizio di
-epurazione ([articoli 8](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md), [9](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md) e [10
+epurazione ([articoli 8](Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md), [9](Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md) e [10
 
 
 del decreto legislativo luogotenenziale
 
 
-15 febbraio 1945, n. 43](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md)).....L. 10.000.000
+15 febbraio 1945, n. 43](Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md)).....L. 10.000.000
 
 
 Ministero dell'interno:

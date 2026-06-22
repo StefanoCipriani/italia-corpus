@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il numero dei componenti la «Commissione consultiva per la difesa contro le malattie delle piante», istituita con il [R. decreto 29 ottobre 1911, n. 1208](../Regi%20decreti/Col%20quale%20viene%20istituita%20una%20commissione%20consultiva%20per%20la%20difesa%20contro%20le%20malattie%20delle%20piante.%20011U1208.md), e' ridotto a nove, dei quali: 
+Il numero dei componenti la «Commissione consultiva per la difesa contro le malattie delle piante», istituita con il [R. decreto 29 ottobre 1911, n. 1208](Col%20quale%20viene%20istituita%20una%20commissione%20consultiva%20per%20la%20difesa%20contro%20le%20malattie%20delle%20piante.%20011U1208.md), e' ridotto a nove, dei quali: 
  
  a) sette, da nominarsi con decreto Reale, scelti fra persone versate nella tecnica della materia; 
  

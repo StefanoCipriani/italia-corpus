@@ -42,7 +42,7 @@ VITTORIO EMANUELE III
  
  (1) Pubblicato nella Gazzetta Ufficiale 7 ottobre 1919, n. 238. 
  
- (2) Pubblicato nella Gazzetta Ufficiale 31 gennaio 1920, n. 25 (per il testo del Trattato vedi [R. decreto 22 aprile 1920, n. 680](../Regi%20decreti/Che%20autorizza%20la%20pubblicazione%20del%20testo%20francese%20del%20trattato%20di%20pace%20conchiuso%20fra%20lItalia%20e%20la%20Germania%20a%20Versaglia%20il%2028%20giugno%201919.%20020U0680.md), che autorizza la pubblicazione del testo francese Gazzetta Ufficiale 8 giugno 1920, n. 134). 
+ (2) Pubblicato nella Gazzetta Ufficiale 31 gennaio 1920, n. 25 (per il testo del Trattato vedi [R. decreto 22 aprile 1920, n. 680](Che%20autorizza%20la%20pubblicazione%20del%20testo%20francese%20del%20trattato%20di%20pace%20conchiuso%20fra%20lItalia%20e%20la%20Germania%20a%20Versaglia%20il%2028%20giugno%201919.%20020U0680.md), che autorizza la pubblicazione del testo francese Gazzetta Ufficiale 8 giugno 1920, n. 134). 
  
  (3) Pubblicato nella Gazzetta Ufficiale 9 febbraio 1922, n. 33 (il Trattato nella Gazzetta Ufficiale 29 settembre 1922, n. 229. - Supplemento). 
  

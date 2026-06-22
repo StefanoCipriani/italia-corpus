@@ -10,17 +10,17 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico sulle pensioni civili e militari approvato con [regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md) e successive modificazioni;
+Visto il testo unico sulle pensioni civili e militari approvato con [regio decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md) e successive modificazioni;
 
-Visto il [decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](../Decreti%20legislativi%20luogotenenziali/Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md);
+Visto il [decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md);
 
-Visto il [decreto legislativo luogotenenziale 13 marzo 1945, n. 116](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20dei%20dipendenti%20delle%20Amministrazioni%20statali%20degli%20Enti%20locali%20ed%20in%20genere%20degli%20Enti%20di%20diritto%20pubblico%20nonche%20a%20favore%20dei%20pensionati%20statali.%20045U0116.md);
+Visto il [decreto legislativo luogotenenziale 13 marzo 1945, n. 116](Miglioramenti%20economici%20a%20favore%20dei%20dipendenti%20delle%20Amministrazioni%20statali%20degli%20Enti%20locali%20ed%20in%20genere%20degli%20Enti%20di%20diritto%20pubblico%20nonche%20a%20favore%20dei%20pensionati%20statali.%20045U0116.md);
 
 Visto il decreto legislativo luogotenenziale 21 novembre 1945,
 
 n. 722;
 
-Visto il [decreto legislativo luogotenenziale 8 maggio 1946, n. 429](../Decreti%20legislativi%20luogotenenziali/Aumento%20degli%20assegni%20di%20caroviveri%20a%20favore%20dei%20pensionati%20statali.md);
+Visto il [decreto legislativo luogotenenziale 8 maggio 1946, n. 429](Aumento%20degli%20assegni%20di%20caroviveri%20a%20favore%20dei%20pensionati%20statali.md);
 
 Visto il decreto legislativo del Capo provvisorio dello Stato
 
@@ -36,11 +36,11 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per il t
 
 ## Art. 1.
 
-Le aliquote stabilite per la liquidazione delle pensioni normali agli impiegati civili dall'[art. 8, primo comma, del regio decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), sono elevate ad un quarantesimo sulle prime lire sessantamila della media degli stipendi e degli altri assegni pensionabili effettivamente ed integralmente percepiti nell'ultimo triennio di servizio effettivo e ad un cinquantesimo sopra la rimanente parte della media predetta.
+Le aliquote stabilite per la liquidazione delle pensioni normali agli impiegati civili dall'[art. 8, primo comma, del regio decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), sono elevate ad un quarantesimo sulle prime lire sessantamila della media degli stipendi e degli altri assegni pensionabili effettivamente ed integralmente percepiti nell'ultimo triennio di servizio effettivo e ad un cinquantesimo sopra la rimanente parte della media predetta.
  Uguali aliquote si applicano per le pensioni normali degli ufficiali, tranne per i gradi compresi nelle annesse tabelle A, B, C, D, E e F firmate dal Ministro per il tesoro, per i quali la liquidazione della pensione si fa con le aliquote ivi indicate.
  La pensione, liquidata a norma dei precedenti commi, non puo' in nessun caso superare il massimo stabilito dal seguente art. 2.
  La pensione spettante agli impiegati civili e agli ufficiali che abbiano raggiunto quaranta anni di servizio utile e' pari ai nove decimi della predetta media triennale.
- E' abrogato il [terzo comma dell'art. 8 del regio decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md) ed il [secondo comma dell'art. 14 del regio decreto-legge 27 luglio 1934, numero 1340](Trattamento%20di%20pensione%20al%20personale%20militare%20della%20Regia%20aeronautica.%20034U1340.md), convertito, con modificazioni, nella [legge 16 maggio 1935, n. 834](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20luglio%201934%20n.%201340%20riguardante%20le%20pensioni%20del%20personale%20militare%20della%20Regia%20aeronautica.%20035U0834.md).
+ E' abrogato il [terzo comma dell'art. 8 del regio decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md) ed il [secondo comma dell'art. 14 del regio decreto-legge 27 luglio 1934, numero 1340](Trattamento%20di%20pensione%20al%20personale%20militare%20della%20Regia%20aeronautica.%20034U1340.md), convertito, con modificazioni, nella [legge 16 maggio 1935, n. 834](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20luglio%201934%20n.%201340%20riguardante%20le%20pensioni%20del%20personale%20militare%20della%20Regia%20aeronautica.%20035U0834.md).
 
 ## Art. 2.
 
@@ -101,17 +101,17 @@ La pensione da concedersi a norma del [primo comma dell'art. 186 del testo unico
 
 ## Art. 12.
 
-Il sussidio per una sola volta in luogo di pensione, di cui all'art. 21 del testo unico approvato col [regio decreto 22 aprile 1909, n. 229](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md) e successive modificazioni, e' uguale, tanto per l'impiegato, che per la vedova e gli orfani, a tanti dodicesimi dell'ultimo stipendio o paga ragguagliata ad anno e dei relativi assegni e competenze accessorie utili a pensione quanti sono gli anni di servizio utile.
+Il sussidio per una sola volta in luogo di pensione, di cui all'art. 21 del testo unico approvato col [regio decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md) e successive modificazioni, e' uguale, tanto per l'impiegato, che per la vedova e gli orfani, a tanti dodicesimi dell'ultimo stipendio o paga ragguagliata ad anno e dei relativi assegni e competenze accessorie utili a pensione quanti sono gli anni di servizio utile.
  La norma di cui al presente articolo si applica per le cessazioni dal servizio avvenute a partire dal 1° settembre 1946.
 
 ## Art. 13.
 
-La quota proporzionale di assegno di caroviveri dovuta ai titolari delle pensioni ad onere ripartito va calcolata tenendo conto della ripartizione della pensione originariamente liquidata, fermo restando l'arrotondamento per eccesso a lire 100 previsto dal [secondo comma dell'art. 2 del decreto legislativo luogotenenziale 8 maggio 1946, n. 429](../Decreti%20legislativi%20luogotenenziali/Aumento%20degli%20assegni%20di%20caroviveri%20a%20favore%20dei%20pensionati%20statali.md). La norma di cui al presente comma ha effetto dal 1° ottobre 1946.
- Il [primo comma dell'art. 9 del decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](../Decreti%20legislativi%20luogotenenziali/Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md), deve intendersi applicabile anche nei casi in cui una o piu' pensioni facciano carico agli istituti di previdenza amministrati dalla Cassa depositi e prestiti o ad enti locali, nonche' quando le varie pensioni gravino sui bilanci dei predetti istituti ed enti locali. In tali casi il caroviveri viene corrisposto dall'amministrazione, dall'istituto o dall'ente che paga la pensione cui e' annesso il caroviveri piu' favorevole; se i caroviveri sono uguali l'onere di quello da attribuire e' ripartito in proporzione dell'ammontare delle rispettive pensioni.
+La quota proporzionale di assegno di caroviveri dovuta ai titolari delle pensioni ad onere ripartito va calcolata tenendo conto della ripartizione della pensione originariamente liquidata, fermo restando l'arrotondamento per eccesso a lire 100 previsto dal [secondo comma dell'art. 2 del decreto legislativo luogotenenziale 8 maggio 1946, n. 429](Aumento%20degli%20assegni%20di%20caroviveri%20a%20favore%20dei%20pensionati%20statali.md). La norma di cui al presente comma ha effetto dal 1° ottobre 1946.
+ Il [primo comma dell'art. 9 del decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md), deve intendersi applicabile anche nei casi in cui una o piu' pensioni facciano carico agli istituti di previdenza amministrati dalla Cassa depositi e prestiti o ad enti locali, nonche' quando le varie pensioni gravino sui bilanci dei predetti istituti ed enti locali. In tali casi il caroviveri viene corrisposto dall'amministrazione, dall'istituto o dall'ente che paga la pensione cui e' annesso il caroviveri piu' favorevole; se i caroviveri sono uguali l'onere di quello da attribuire e' ripartito in proporzione dell'ammontare delle rispettive pensioni.
 
 ## Art. 14.
 
-Il limite previsto dall'[art. 10 - primo comma - del decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](../Decreti%20legislativi%20luogotenenziali/Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md), e' elevato dal 1° giugno 1947 dai quattro quinti ai nove decimi.
+Il limite previsto dall'[art. 10 - primo comma - del decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md), e' elevato dal 1° giugno 1947 dai quattro quinti ai nove decimi.
 
 ## Art. 15.
 
@@ -122,15 +122,15 @@ Le pensioni ordinarie - escluse quelle tabellari - dirette e di riversibilita', 
 
 ## Art. 16.
 
-Gli assegni di caroviveri stabiliti dal [primo](../Decreti%20legislativi%20luogotenenziali/Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md) e [secondo comma dell'art. 6 del decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](../Decreti%20legislativi%20luogotenenziali/Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md), e modificati dai [decreti legislativi luogotenenziali 13 marzo 1945, n. 116](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20dei%20dipendenti%20delle%20Amministrazioni%20statali%20degli%20Enti%20locali%20ed%20in%20genere%20degli%20Enti%20di%20diritto%20pubblico%20nonche%20a%20favore%20dei%20pensionati%20statali.%20045U0116.md), [21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md) e [8 maggio 1946, n. 429](../Decreti%20legislativi%20luogotenenziali/Aumento%20degli%20assegni%20di%20caroviveri%20a%20favore%20dei%20pensionati%20statali.md), sono elevati:
+Gli assegni di caroviveri stabiliti dal [primo](Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md) e [secondo comma dell'art. 6 del decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md), e modificati dai [decreti legislativi luogotenenziali 13 marzo 1945, n. 116](Miglioramenti%20economici%20a%20favore%20dei%20dipendenti%20delle%20Amministrazioni%20statali%20degli%20Enti%20locali%20ed%20in%20genere%20degli%20Enti%20di%20diritto%20pubblico%20nonche%20a%20favore%20dei%20pensionati%20statali.%20045U0116.md), [21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md) e [8 maggio 1946, n. 429](Aumento%20degli%20assegni%20di%20caroviveri%20a%20favore%20dei%20pensionati%20statali.md), sono elevati:
  da lire 30.000 a lire 42.000 annue lorde per i titolari di pensioni od assegni diretti di eta' non inferiore a 60 anni e per i titolari di pensioni o assegni privilegiati diretti;
  da lire 18.000 a lire 30.000 annue lorde per i titolari di pensioni od assegni diretti, non privilegiati, aventi meno di 60 anni di eta';
  da lire 20.400 a lire 27.600 annue lorde per i titolari di pensioni od assegni di riversibilita'.
- Alle stesse misure sopraindicate sono elevati gli assegni di caroviveri annessi alle pensioni tabellari dei militari di truppa, previsti dal [terzo comma dell'art. 6 del decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](../Decreti%20legislativi%20luogotenenziali/Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md) e successive modificazioni, fatta eccezione per i titolari di pensioni tabellari privilegiate dirette dalla terza all'ottava, categoria per i quali resta fermo il caroviveri di lire 4800 annue lorde.
+ Alle stesse misure sopraindicate sono elevati gli assegni di caroviveri annessi alle pensioni tabellari dei militari di truppa, previsti dal [terzo comma dell'art. 6 del decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md) e successive modificazioni, fatta eccezione per i titolari di pensioni tabellari privilegiate dirette dalla terza all'ottava, categoria per i quali resta fermo il caroviveri di lire 4800 annue lorde.
 
 ## Art. 17.
 
-Relativamente ai miglioramenti previsti dai precedenti articoli 15 e 16 si osservano, in quanto applicabili, le norme contenute negli articoli 2, terzo comma, 12, [primo comma, e 13](../Decreti%20legislativi%20luogotenenziali/Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md), [primo](../Decreti%20legislativi%20luogotenenziali/Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md) e [secondo comma, del decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](../Decreti%20legislativi%20luogotenenziali/Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md). I ricorsi previsti dall'anzidetto art. 13 devono essere presentati, a pena di decadenza, entro il 30 giugno 1948.
+Relativamente ai miglioramenti previsti dai precedenti articoli 15 e 16 si osservano, in quanto applicabili, le norme contenute negli articoli 2, terzo comma, 12, [primo comma, e 13](Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md), [primo](Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md) e [secondo comma, del decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md). I ricorsi previsti dall'anzidetto art. 13 devono essere presentati, a pena di decadenza, entro il 30 giugno 1948.
 
 ## Art. 18.
 

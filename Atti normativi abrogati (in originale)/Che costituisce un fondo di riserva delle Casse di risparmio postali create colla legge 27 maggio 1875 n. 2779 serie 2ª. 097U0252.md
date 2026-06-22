@@ -65,7 +65,7 @@ L'[art. 3 della legge 17 maggio 1863 n. 1270](Sulle%20Casse%20dei%20depositi%20e
  
  Presso la Cassa dei Depositi e Prestiti e' stabilito un Consiglio permanente di Amministrazione. 
  
- Il Consiglio e' costituito da un presidente e da quattro rappresentanti del Ministero del Tesoro, da due rappresentanti del Ministero dell'Interno, da un rappresentante per ciascuno dei due Ministeri dei Lavori Pubblici e delle Poste e dei Telegrafi. Fa parte del Consiglio un rappresentante del Ministero dell'Istruzione Pubblica secondo il disposto del 2° comma dell'articolo 23 del testo unico delle leggi sul Monte delle Pensioni dai maestri elementari, approvato col [Regio decreto 30 dicembre 1894 n. 597](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sul%20Monte%20pensioni%20per%20gli%20insegnanti%20elementari.%20094U0597.md). 
+ Il Consiglio e' costituito da un presidente e da quattro rappresentanti del Ministero del Tesoro, da due rappresentanti del Ministero dell'Interno, da un rappresentante per ciascuno dei due Ministeri dei Lavori Pubblici e delle Poste e dei Telegrafi. Fa parte del Consiglio un rappresentante del Ministero dell'Istruzione Pubblica secondo il disposto del 2° comma dell'articolo 23 del testo unico delle leggi sul Monte delle Pensioni dai maestri elementari, approvato col [Regio decreto 30 dicembre 1894 n. 597](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sul%20Monte%20pensioni%20per%20gli%20insegnanti%20elementari.%20094U0597.md). 
  
  L'Amministratore della Cassa dei Depositi e Prestiti fa parte di diritto del Consiglio stesso. 
  

@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito;
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito;
 
-Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo;
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo;
 
 Viste le [leggi 24 maggio 1903, n. 205, 5 aprile 1908, n. 161](Per%20lordinamento%20della%20Somalia%20italiana.%20008U0161.md),
 
@@ -30,7 +30,7 @@ Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo e le relative disposizioni complementari nel Regno sono estesi alle Colonie, senza che occorra speciale pubblicazione, salve le modificazioni ad essi apportate con speciali disposizioni legislative emanate per le Colonie.
+Il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo e le relative disposizioni complementari nel Regno sono estesi alle Colonie, senza che occorra speciale pubblicazione, salve le modificazioni ad essi apportate con speciali disposizioni legislative emanate per le Colonie.
 
 ## Art. 2.
 

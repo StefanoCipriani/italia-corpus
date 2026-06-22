@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti il [R. decreto-legge 25 settembre 1921, n. 1373](Relativo%20allesercizio%20dellavvocatura%20nelle%20nuove%20Provincie.%20021U1373.md), relativo all'esercizio dell'avvocatura nelle nuove Provincie e i [Regi decreti-legge 23 giugno 1921, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-06-23;887), e [5 marzo 1922, n. 288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-03-05;288), di estensione e di attuazione nelle Provincie stesse del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e di procedura penale e 6 agosto 1922, n. 1299, per la estensione alle dette Provincie del libro II del Codice di commercio;
+Visti il [R. decreto-legge 25 settembre 1921, n. 1373](Relativo%20allesercizio%20dellavvocatura%20nelle%20nuove%20Provincie.%20021U1373.md), relativo all'esercizio dell'avvocatura nelle nuove Provincie e i [Regi decreti-legge 23 giugno 1921, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-06-23;887), e [5 marzo 1922, n. 288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-03-05;288), di estensione e di attuazione nelle Provincie stesse del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e di procedura penale e 6 agosto 1922, n. 1299, per la estensione alle dette Provincie del libro II del Codice di commercio;
 
 Sentito il Consiglio dei Ministri;
 

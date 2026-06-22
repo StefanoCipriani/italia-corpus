@@ -28,7 +28,7 @@ Titolo I
 
 1.
 
-Il personale supplente delle scuole di istruzione primaria e secondaria e degli istituti professionali e di istruzione artistica, di cui all'articolo 2, primo comma, punto b), del [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md), e' assoggettato, a decorrere dal 1 gennaio 1988, alla ritenuta in conto entrata Tesoro nella misura e con le norme previste per i dipendenti civili e militari dello Stato. Dalla stessa data cessa per il personale medesimo l'iscrizione, ai fini di quiescenza, alla assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti.
+Il personale supplente delle scuole di istruzione primaria e secondaria e degli istituti professionali e di istruzione artistica, di cui all'articolo 2, primo comma, punto b), del [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md), e' assoggettato, a decorrere dal 1 gennaio 1988, alla ritenuta in conto entrata Tesoro nella misura e con le norme previste per i dipendenti civili e militari dello Stato. Dalla stessa data cessa per il personale medesimo l'iscrizione, ai fini di quiescenza, alla assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti.
 
 2.
 
@@ -38,7 +38,7 @@ Nei confronti del personale di cui al comma 1 resta ferma, ai fini dell'indennit
 
 1.
 
-A decorrere dal 1 gennaio 1988, il [secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-16;708#art_6-com2) e [terzo comma dell'articolo 6 del decreto legislativo del Capo provvisorio dello Stato 16 luglio 1947, n. 708](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-16;708#art_6-com3), ratificato, con modificazioni, dalla [legge 29 novembre 1952, n. 2388](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2016%20luglio%201947%20n.%20708%20concernente%20disposizioni%20sullEnte%20nazionale%20di%20previdenza%20ed%20assistenza%20per%20i%20lavoratori%20dello%20spettacolo%20E.N.P.A.L.S.md), sono sostituiti dai seguenti: 
+A decorrere dal 1 gennaio 1988, il [secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-16;708#art_6-com2) e [terzo comma dell'articolo 6 del decreto legislativo del Capo provvisorio dello Stato 16 luglio 1947, n. 708](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-16;708#art_6-com3), ratificato, con modificazioni, dalla [legge 29 novembre 1952, n. 2388](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2016%20luglio%201947%20n.%20708%20concernente%20disposizioni%20sullEnte%20nazionale%20di%20previdenza%20ed%20assistenza%20per%20i%20lavoratori%20dello%20spettacolo%20E.N.P.A.L.S.md), sono sostituiti dai seguenti: 
  "Le imprese dell'esercizio teatrale, cinematografico e circense, i teatri tenda, gli enti, le associazioni, le imprese del pubblico esercizio, gli alberghi, le emittenti radiotelevisive e gli impianti sportivi non possono far agire nei locali di proprieta' o di cui abbiano un diritto personale di godimento i lavoratori dello spettacolo appartenenti alle categorie indicate dal n. 1 al n. 14 dell'articolo 3, che non siano in possesso del certificato di agibilita' previsto dall'articolo 10. 
  In caso di inosservanza delle disposizioni di cui al precedente comma le imprese sono soggette alla sanzione amministrativa di lire 50.000 per ogni lavoratore e per ogni giornata di lavoro da ciascuno prestata".
 
@@ -59,7 +59,7 @@ Per i nuclei familiari che comprendono soggetti che si trovano a causa di inferm
 
 3.
 
-Si osservano, per quanto non previsto dal presente articolo, le norme contenute nel testo unico sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../Testi%20Unici/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e successive modificazioni e integrazioni, nonche' le norme che disciplinano nell'ambito dei rispettivi ordinamenti le materie delle quote di aggiunta di famiglia e di ogni altro trattamento di famiglia comunque denominato.
+Si osservano, per quanto non previsto dal presente articolo, le norme contenute nel testo unico sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../DPR/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e successive modificazioni e integrazioni, nonche' le norme che disciplinano nell'ambito dei rispettivi ordinamenti le materie delle quote di aggiunta di famiglia e di ogni altro trattamento di famiglia comunque denominato.
 
 4.
 
@@ -127,7 +127,7 @@ A decorrere dalla data di entrata in vigore del presente decreto, le misure dell
 
 5.
 
-Il Ministro della marina mercantile, entro trenta giorni dalla data di entrata in vigore del presente decreto, per le navi stazzate in virtu' della [legge 22 ottobre 1973, n. 958](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20per%20la%20stazzatura%20delle%20navi%20con%20annessi%20adottata%20a%20Londra%20il%2023%20giugno%201969.md), determina con proprio decreto i coefficienti di correzione da applicare ai valori di stazza in NT per ottenere i valori corrispettivi di stazza netta, sui quali dovranno essere applicate la tassa di ancoraggio e la soprattassa di ancoraggio per le merci in coperta, di cui ai capi I e II del titolo I della [legge 9 febbraio 1963, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-09;82), nelle misure aggiornate in base al presente decreto.
+Il Ministro della marina mercantile, entro trenta giorni dalla data di entrata in vigore del presente decreto, per le navi stazzate in virtu' della [legge 22 ottobre 1973, n. 958](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20per%20la%20stazzatura%20delle%20navi%20con%20annessi%20adottata%20a%20Londra%20il%2023%20giugno%201969.md), determina con proprio decreto i coefficienti di correzione da applicare ai valori di stazza in NT per ottenere i valori corrispettivi di stazza netta, sui quali dovranno essere applicate la tassa di ancoraggio e la soprattassa di ancoraggio per le merci in coperta, di cui ai capi I e II del titolo I della [legge 9 febbraio 1963, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-09;82), nelle misure aggiornate in base al presente decreto.
 
 6.
 

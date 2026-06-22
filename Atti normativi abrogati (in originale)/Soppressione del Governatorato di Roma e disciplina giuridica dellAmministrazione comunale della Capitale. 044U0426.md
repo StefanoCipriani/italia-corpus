@@ -22,9 +22,9 @@ Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%
 
 Visto il [R. decreto-legge 4 aprile 1944, n. 111](Norme%20transitorie%20per%20lamministrazione%20dei%20comuni%20e%20delle%20provincie.%20044U0111.md), che detta norme transitorie per l'amministrazione dei comuni e delle provincie;
 
-Visto il testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visto il testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
-Visto il testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md);
+Visto il testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -32,9 +32,9 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per l'interno
 
 ## Art. 1.
 
-Il titolo VIII del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), nonche' il titolo VIII del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), relativi al Governatorato di Roma, sono abrogati. 
+Il titolo VIII del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), nonche' il titolo VIII del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), relativi al Governatorato di Roma, sono abrogati. 
  
- Salvo quanto e' disposto dagli articoli seguenti, al comune di Roma si applicano le disposizioni del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), e successive modificazioni e aggiunte.
+ Salvo quanto e' disposto dagli articoli seguenti, al comune di Roma si applicano le disposizioni del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), e successive modificazioni e aggiunte.
 
 ## Art. 2.
 
@@ -50,7 +50,7 @@ Le deliberazioni dell'Amministrazione comunale, escluse quelle relative alla mer
  
  Sono immediatamente esecutive le deliberazioni non soggette a speciali approvazioni, quando la maggioranza dei due terzi dei votanti dichiari che vi e' evidente pericolo o danno nel ritardarne l'esecuzione. 
  
- La trasmissione di cui al primo comma del presente articolo e' fatta entro otto giorni dall'adunanza e in nessun caso prima che le deliberazioni siano state affisse all'albo pretorio, in conformita' dell'art. 128 del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md). 
+ La trasmissione di cui al primo comma del presente articolo e' fatta entro otto giorni dall'adunanza e in nessun caso prima che le deliberazioni siano state affisse all'albo pretorio, in conformita' dell'art. 128 del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md). 
  
  Le deliberazioni dell'Amministrazione comunale che importino spese obbligatorie nei limiti dello stanziamento del bilancio, sono esenti dal visto di esecutivita' del Prefetto.
 
@@ -106,7 +106,7 @@ I contratti del Comune riguardanti alienazioni, locazioni, acquisti, somministra
 
 ## Art. 6.
 
-Il bilancio di previsione del comune di Roma e' deliberato nei modi e termini di cui all'art. 129 del testo unico approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md). 
+Il bilancio di previsione del comune di Roma e' deliberato nei modi e termini di cui all'art. 129 del testo unico approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md). 
  
  Le deliberazioni del Consiglio comunale concernenti il bilancio sono pubblicate in copia nell'albo pretorio per otto giorni. Durante lo stesso termine il bilancio deve essere depositato nella segreteria del Comune a disposizione del pubblico. 
  
@@ -114,7 +114,7 @@ Il bilancio di previsione del comune di Roma e' deliberato nei modi e termini di
  
  Col decreto di approvazione del bilancio si provvede anche sui ricorsi e sulle opposizioni al bilancio stesso. 
  
- Al Ministro per l'interno, di concerto con quello per il tesoro, sono demandate le attribuzioni di cui all'articolo 332 del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e la determinazione della percentuale delle spese facoltative, anche in deroga al disposto dell'art. 314 del cennato [testo unico 3 marzo 1931, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-03-03;383).
+ Al Ministro per l'interno, di concerto con quello per il tesoro, sono demandate le attribuzioni di cui all'articolo 332 del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e la determinazione della percentuale delle spese facoltative, anche in deroga al disposto dell'art. 314 del cennato [testo unico 3 marzo 1931, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-03-03;383).
 
 ## Art. 7.
 

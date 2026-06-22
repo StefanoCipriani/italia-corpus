@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'articolo 15 del testo unico delle leggi sullo stato dei sottufficiali, approvato con [R. decreto 30 novembre 1902, n. 521](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali.%20002U0521.md), e' sostituito il seguente: 
+All'articolo 15 del testo unico delle leggi sullo stato dei sottufficiali, approvato con [R. decreto 30 novembre 1902, n. 521](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali.%20002U0521.md), e' sostituito il seguente: 
  
  Gl'impieghi riservati ai sottufficiali in virtu' dell'articolo 12 sono: 
  

@@ -83,7 +83,7 @@ Il Ministro del tesoro presenta alle competenti commissioni parlamentari, entro 
 
 1.
 
-Il responsabile della dipendenza, dell'ufficio o di altro punto operativo di uno dei soggetti di cui all'articolo 4, indipendentemente dall'abilitazione ad effettuare le operazioni di trasferimento di cui all'articolo 1, ha l'obbligo di segnalare senza ritardo al titolare dell'attivita' o al legale rappresentante o a un suo delegato ogni operazione che, per caratteristiche, entita', natura, o per qualsivoglia altra circostanza conosciuta a ragione delle funzioni esercitate, tenuto conto anche della capacita' economica e dell'attivita' svolta dal soggetto cui e' riferita, induca a ritenere, in base a elementi obiettivi, che il denaro, i beni o le utilita' oggetto delle operazioni medesime possano provenire da taluno dei reati indicati nell'[articolo 648- bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Il responsabile della dipendenza, dell'ufficio o di altro punto operativo di uno dei soggetti di cui all'articolo 4, indipendentemente dall'abilitazione ad effettuare le operazioni di trasferimento di cui all'articolo 1, ha l'obbligo di segnalare senza ritardo al titolare dell'attivita' o al legale rappresentante o a un suo delegato ogni operazione che, per caratteristiche, entita', natura, o per qualsivoglia altra circostanza conosciuta a ragione delle funzioni esercitate, tenuto conto anche della capacita' economica e dell'attivita' svolta dal soggetto cui e' riferita, induca a ritenere, in base a elementi obiettivi, che il denaro, i beni o le utilita' oggetto delle operazioni medesime possano provenire da taluno dei reati indicati nell'[articolo 648- bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 2.
 
@@ -169,7 +169,7 @@ Alle infrazioni delle disposizioni impartite con il decreto previsto dall'artico
 
 8.
 
-All'irrogazione delle sanzioni provvede, con proprio decreto, il Ministro del tesoro, udito il parere della commissione prevista dall'articolo 32 del testo unico delle norme di legge in materia valutaria, approvato con [decreto del Presidente della Repubblica 31 marzo 1988, n. 148](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20norme%20di%20legge%20in%20materia%20valutaria.md). Si applicano le disposizioni della [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), ad esclusione di quelle contenute nell'articolo 16.
+All'irrogazione delle sanzioni provvede, con proprio decreto, il Ministro del tesoro, udito il parere della commissione prevista dall'articolo 32 del testo unico delle norme di legge in materia valutaria, approvato con [decreto del Presidente della Repubblica 31 marzo 1988, n. 148](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20di%20legge%20in%20materia%20valutaria.md). Si applicano le disposizioni della [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), ad esclusione di quelle contenute nell'articolo 16.
 
 9.
 

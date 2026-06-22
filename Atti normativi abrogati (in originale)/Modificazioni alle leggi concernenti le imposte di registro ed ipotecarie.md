@@ -53,7 +53,7 @@ L'aumento di capitale deliberato dalle societa' azionarie e' considerato sottopo
 ## Art. 8.
 
 L'art. 40 della tabella allegato D) alla legge del registro 30 dicembre 1923, n. 3269, e' sostituito dal testo seguente:
- "Contratti di trasporto per terra, per acqua e per aria conclusi con imprenditori di tali trasporti, con o senza l'intervento di spedizionieri, e risultanti da lettere di vettura o duplicati delle stesse, polizza di carico, polizza ricevuta per l'imbarco o lettera, di trasporto aereo, ovvero da altri documenti contenenti le indicazioni di cui agli [articoli 1683 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1683), 460 e 958 del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+ "Contratti di trasporto per terra, per acqua e per aria conclusi con imprenditori di tali trasporti, con o senza l'intervento di spedizionieri, e risultanti da lettere di vettura o duplicati delle stesse, polizza di carico, polizza ricevuta per l'imbarco o lettera, di trasporto aereo, ovvero da altri documenti contenenti le indicazioni di cui agli [articoli 1683 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1683), 460 e 958 del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
  "Cessa l'esenzione quando si faccia uso degli atti sovraindicati a termini dell'art: 2 della legge".
 
 ## Art. 9.
@@ -64,12 +64,12 @@ L'art. 41 della tabella allegato D) alla legge del registro 30 dicembre 1923, n.
 
 ## Art. 10.
 
-All'[art. 48 del regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), viene aggiunto il seguente quinto comma:
+All'[art. 48 del regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), viene aggiunto il seguente quinto comma:
  "Tuttavia qualora si tratti di divisione che abbia per oggetto beni provenienti da una stessa eredita' ed abbia luogo tra ascendenti, discendenti in linea retta, coniuge, fratelli dell'autore della successione, e' dovuta la tassa proporzionale dell'uno per cento quando il conguaglio o maggiore assegno anche per mezzo di accollo di debito comune non sia superiore al quarto della quota di diritto e questa non oltrepassi il valore, accertato ai fini tributari, di L. 4.000.000".
 
 ## Art. 11.
 
-Al testo dell'[art. 58 del regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), viene sostituito il seguente:
+Al testo dell'[art. 58 del regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), viene sostituito il seguente:
  "Le dichiarazioni o nomine pure e semplici della persona per cui si e' fatto un acquisto od altro contratto, sono soggette alla tassa fissa stabilita dall'art. 93 della tariffa allegato A), allorche' la facolta' di fare la nomina o la dichiarazione deriva dalla legge od e' stata riservata nell'atto di acquisto o altro contratto, e la dichiarazione o nomina e' fatta entro tre giorni successivi, mediante atto pubblico, o mediante scrittura privata, purche' presentata al registro nel detto termine. Se la dichiarazione o nomina viene fatta nello stesso atto o contratto che contiene la riserva non 6 dovuta per casa alcuna tassa.
  "In mancanza di qualcuno degli estremi sopra indicati, le dichiarazioni soggiacciono alla tassa proporzionale o graduale, secondo la natura dell'acquisto o contratto cui si riferiscono.
  "Sono parimenti soggette a tassa proporzionale o graduale le dichiarazioni o le nomine che siano fatte per una parte soltanto dell'acquisto o del contratto, o che non siano perfettamente conformi alla precedente riserva, ovvero vengano fatte a favore di un collicitante;

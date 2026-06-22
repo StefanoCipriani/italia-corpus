@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il disposto dall'[art. 291 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare;
+Visto il disposto dall'[art. 291 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare;
 
 Visto il Nostro Regio Decreto in data 6 maggio 1866 per la formazione dei Corpi volontari italiani;
 

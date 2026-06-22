@@ -42,7 +42,7 @@ I posti di ispettore provinciale si conferiscono per merito, a scelta, agli ispe
 
 ## Art. 3.
 
-I posti di primo ispettore sono conferiti a norma dell'art. 5 del testo unico approvato con [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md).
+I posti di primo ispettore sono conferiti a norma dell'art. 5 del testo unico approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md).
 
 ## Art. 4.
 
@@ -58,7 +58,7 @@ La loro formazione sara' stabilita con disposizione regolamentare.
 
 ## Art. 6.
 
-I primi ispettori e gli ispettori che non siano preposti ad una circoscrizione scolastica, saranno assegnati agli uffici scolastici provinciali o all'Amministrazione centrale a norma del [R. decreto 12 marzo 1914, n. 415](../Regi%20decreti/Col%20quale%20viene%20modificato%20lart.%201%20del%20regolamento%20approvato%20con%20R.%20decreto%201%20febbraio%201912%20n.%20180%20riguardante%20la%20nomina%20la%20carriera%20e%20le%20attribuzioni%20degli%20ispettori%20e%20dei%20vice%20ispettori_9b5b13ca07c7.md).
+I primi ispettori e gli ispettori che non siano preposti ad una circoscrizione scolastica, saranno assegnati agli uffici scolastici provinciali o all'Amministrazione centrale a norma del [R. decreto 12 marzo 1914, n. 415](Col%20quale%20viene%20modificato%20lart.%201%20del%20regolamento%20approvato%20con%20R.%20decreto%201%20febbraio%201912%20n.%20180%20riguardante%20la%20nomina%20la%20carriera%20e%20le%20attribuzioni%20degli%20ispettori%20e%20dei%20vice%20ispettori_9b5b13ca07c7.md).
 
 ## Art. 7.
 

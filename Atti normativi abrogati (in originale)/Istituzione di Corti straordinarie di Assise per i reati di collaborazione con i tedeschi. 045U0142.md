@@ -39,7 +39,7 @@ Nei territori italiani, attualmente sottoposti alla occupazione nemica ed in que
  4) direttori di giornali politici; 
  5) ufficiali superiori in formazioni di camicie nere con funzioni politico-militari. 
  
- Coloro che, nelle cariche e funzioni sopra elencate, hanno assunto piu' gravi responsabilita' e, in ogni caso, coloro che hanno ricoperto le cariche o esplicato le funzioni indicate nei numeri 1 e 2 del comma precedente sono puniti con le pene stabilite dagli [articoli 51](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [54 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra; negli altri casi, si applica l'art. 58 del Codice stesso. 
+ Coloro che, nelle cariche e funzioni sopra elencate, hanno assunto piu' gravi responsabilita' e, in ogni caso, coloro che hanno ricoperto le cariche o esplicato le funzioni indicate nei numeri 1 e 2 del comma precedente sono puniti con le pene stabilite dagli [articoli 51](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [54 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra; negli altri casi, si applica l'art. 58 del Codice stesso. 
  
  Quando i fatti commessi integrino altre figure di reato, sono salve le pene relative, a termini del [Codice penale militare di guerra](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:relazione.e.regio.decreto:1941-02-20;303).
 

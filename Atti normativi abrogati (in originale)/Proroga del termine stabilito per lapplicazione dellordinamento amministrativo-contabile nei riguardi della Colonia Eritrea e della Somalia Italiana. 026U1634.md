@@ -14,7 +14,7 @@ PER GRAZIA Dl DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 26 giugno 1925, n. 1271](../Regi%20decreti/Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), che approva l'ordinamento amministrativo contabile per le colonie;
+Visto il [R. decreto 26 giugno 1925, n. 1271](Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), che approva l'ordinamento amministrativo contabile per le colonie;
 
 Visto il [R. decreto-legge 13 dicembre 1925, n. 2343](Proroga%20del%20termine%20stabilito%20per%20lapplicazione%20del%20nuovo%20ordinamento%20amministrativo%20contabile%20per%20le%20Colonie.%20025U2343.md), che proroga al 1° luglio 1926 l'applicazione dell'ordinamento stesso;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le colonie, di concer
 
 ## Art. 1.
 
-Fermo restando per la Tripolitania e la Cirenaica il termine del 1° luglio 1926 stabilito dal [R. decreto-legge 13 dicembre 1925, n. 2343](Proroga%20del%20termine%20stabilito%20per%20lapplicazione%20del%20nuovo%20ordinamento%20amministrativo%20contabile%20per%20le%20Colonie.%20025U2343.md), per l'applicazione dell'ordinamento amministrativo contabile per le Colonie, approvato col [R. decreto 26 giugno 1925, n. 1271](../Regi%20decreti/Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), il termine stesso e' prorogato al 1° gennaio 1927 per la Colonia Eritrea e la Somalia.
+Fermo restando per la Tripolitania e la Cirenaica il termine del 1° luglio 1926 stabilito dal [R. decreto-legge 13 dicembre 1925, n. 2343](Proroga%20del%20termine%20stabilito%20per%20lapplicazione%20del%20nuovo%20ordinamento%20amministrativo%20contabile%20per%20le%20Colonie.%20025U2343.md), per l'applicazione dell'ordinamento amministrativo contabile per le Colonie, approvato col [R. decreto 26 giugno 1925, n. 1271](Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), il termine stesso e' prorogato al 1° gennaio 1927 per la Colonia Eritrea e la Somalia.
 
 ## Art. 2.
 

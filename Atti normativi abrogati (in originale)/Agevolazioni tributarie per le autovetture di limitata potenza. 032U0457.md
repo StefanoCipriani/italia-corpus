@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  RE D'ITALIA 
  
  Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
- Visto il [R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), col quale venne approvata la legge tributaria automobilistica; 
+ Visto il [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), col quale venne approvata la legge tributaria automobilistica; 
  Visto il [R. decreto-legge 29 dicembre 1927, n. 2446](Provvedimenti%20di%20finanza%20per%20lindustria%20automobilistica%20e%20per%20le%20strade.%20027U2446.md), contenente provvedimenti per l'industria automobilistica; 
  Ritenuta la necessita' urgente ed assoluta, nell'interesse dell'industria automobilistica nazionale, di prorogare in via transitoria il periodo di esenzione per le nuove autovetture di limitata potenza, destinate al trasporto di persone; 
  Sentito il Consiglio dei Ministri; 

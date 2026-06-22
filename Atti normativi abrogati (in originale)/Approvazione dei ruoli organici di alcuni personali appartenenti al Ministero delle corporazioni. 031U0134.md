@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato e successive variazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato e successive variazioni;
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato;
 
-Visto il [R. decreto 27 settembre 1929, n. 1663](../Regi%20decreti/Ripartizione%20dei%20servizi%20gia%20di%20competenza%20del%20Ministero%20delleconomia%20nazionale%20fra%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste%20ed%20il%20Ministero%20delle%20corporazioni.%20029U1663.md), concernente la ripartizione dei servizi gia' di competenza del Ministero dell'economia nazionale, fra il Ministero dell'agricoltura e delle foreste e il Ministero delle corporazioni;
+Visto il [R. decreto 27 settembre 1929, n. 1663](Ripartizione%20dei%20servizi%20gia%20di%20competenza%20del%20Ministero%20delleconomia%20nazionale%20fra%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste%20ed%20il%20Ministero%20delle%20corporazioni.%20029U1663.md), concernente la ripartizione dei servizi gia' di competenza del Ministero dell'economia nazionale, fra il Ministero dell'agricoltura e delle foreste e il Ministero delle corporazioni;
 
-Visto il [R. decreto 14 novembre 1929, n. 2183](../Regi%20decreti/Ordinamento%20dei%20servizi%20dei%20Ministeri%20dei%20lavori%20pubblici%20dellagricoltura%20e%20delle%20foreste%20e%20delle%20corporazioni.%20029U2183.md), concernente l'ordinamento dei servizi dei Ministeri dei lavori pubblici, dell'agricoltura e delle foreste, e delle corporazioni;
+Visto il [R. decreto 14 novembre 1929, n. 2183](Ordinamento%20dei%20servizi%20dei%20Ministeri%20dei%20lavori%20pubblici%20dellagricoltura%20e%20delle%20foreste%20e%20delle%20corporazioni.%20029U2183.md), concernente l'ordinamento dei servizi dei Ministeri dei lavori pubblici, dell'agricoltura e delle foreste, e delle corporazioni;
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -40,7 +40,7 @@ I ruoli del personale del Corpo Reale delle miniere, del Regio ufficio geologico
 
 ## Art. 3.
 
-Nei ruoli del Corpo Reale delle miniere e del Regio ufficio geologico le promozioni del personale tecnico superiore (gruppo A) saranno effettuate con l'osservanza delle disposizioni generali vigenti per gli avanzamenti del personale amministrativo di gruppo A, contenute negli [articoli 6 e seguenti del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni.
+Nei ruoli del Corpo Reale delle miniere e del Regio ufficio geologico le promozioni del personale tecnico superiore (gruppo A) saranno effettuate con l'osservanza delle disposizioni generali vigenti per gli avanzamenti del personale amministrativo di gruppo A, contenute negli [articoli 6 e seguenti del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni.
 
 ## Art. 4.
 
@@ -58,7 +58,7 @@ Nella prima attuazione dei ruoli, da effettuarsi nel termine dell'art. 4, ai pos
 
 ## Art. 6.
 
-Nella prima attuazione dei nuovi ruoli organici, il Ministro per le corporazioni ha facolta', su domanda degli interessati, e con le modalita' stabilite dall'[art. 4 del R. decreto 15 agosto 1930, n. 1248](../Regi%20decreti/Norme%20per%20lattuazione%20del%20ruolo%20organico%20del%20personale%20dei%20Servizi%20speciali%20delle%20corporazioni%20approvato%20con%20R.%20decreto%20legislativo%20del%2012%20maggio%201930%20n.%20908.%20030U1248.md), di trasferire, con lo stesso grado, dal ruolo dei servizi speciali delle corporazioni nel ruolo amministrativo e viceversa, funzionari di grado 5° e 6°, che siano in possesso dei titoli di studio prescritti per l'appartenenza ai ruoli a cui fanno passaggio.
+Nella prima attuazione dei nuovi ruoli organici, il Ministro per le corporazioni ha facolta', su domanda degli interessati, e con le modalita' stabilite dall'[art. 4 del R. decreto 15 agosto 1930, n. 1248](Norme%20per%20lattuazione%20del%20ruolo%20organico%20del%20personale%20dei%20Servizi%20speciali%20delle%20corporazioni%20approvato%20con%20R.%20decreto%20legislativo%20del%2012%20maggio%201930%20n.%20908.%20030U1248.md), di trasferire, con lo stesso grado, dal ruolo dei servizi speciali delle corporazioni nel ruolo amministrativo e viceversa, funzionari di grado 5° e 6°, che siano in possesso dei titoli di studio prescritti per l'appartenenza ai ruoli a cui fanno passaggio.
 La presente disposizione potra' essere estesa anche a funzionari di grado 7°, ma non oltre il quinto dei posti vacanti nella prima attuazione.
 
 ## Art. 7.
@@ -67,7 +67,7 @@ Il Ministro per le corporazioni e' autorizzato a bandire i concorsi per coprire 
 
 ## Art. 8.
 
-La maggiore spesa per gli stipendi e per gli assegni spettanti al personale in base ai nuovi ruoli organici, di cui alle unite tabelle, sara' rimborsata all'Erario in ragione di annue L. 370.000 sul fondo speciale delle Corporazioni costituito dalle quote destinate allo Stato sui contributi sindacali, ai termini dell'[art. 26 del R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md).
+La maggiore spesa per gli stipendi e per gli assegni spettanti al personale in base ai nuovi ruoli organici, di cui alle unite tabelle, sara' rimborsata all'Erario in ragione di annue L. 370.000 sul fondo speciale delle Corporazioni costituito dalle quote destinate allo Stato sui contributi sindacali, ai termini dell'[art. 26 del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md).
 
 ## Art. 9.
 

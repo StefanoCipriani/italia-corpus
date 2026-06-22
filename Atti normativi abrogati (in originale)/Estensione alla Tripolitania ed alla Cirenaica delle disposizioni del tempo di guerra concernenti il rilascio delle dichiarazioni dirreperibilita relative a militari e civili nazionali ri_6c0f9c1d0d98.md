@@ -18,13 +18,13 @@ Visto la [legge 2 luglio 1896, n. 256](Sulle%20pensioni%20per%20le%20famiglie%20
 
 Visto la [legge 23 giugno 1912, n. 667](Che%20istituisce%20pensioni%20privilegiate%20di%20guerra%20per%20gli%20ufficiali%20e%20militari%20di%20truppa%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0667.md), che istituisce le pensioni privilegiate di guerra;
 
-Visto il [R. decreto 9 agosto 1912, n. 914](../Regi%20decreti/Riguardante%20le%20pensioni%20per%20le%20famiglie%20dei%20presunti%20morti%20nella%20guerra%20italo-turca.%20012U0914.md), convertito nella [legge 22 maggio 1913, n. 484](Che%20converte%20in%20legge%20il%20R.%20decreto%209%20agosto%201912%20n.%20914%20riguardante%20le%20pensioni%20per%20le%20famiglie%20dei%20presunti%20morti%20nella%20guerra%20italo-turca.%20013U0484.md), riguardante le pensioni alle famiglie dei presunti morti nella guerra Italo-Turca;
+Visto il [R. decreto 9 agosto 1912, n. 914](Riguardante%20le%20pensioni%20per%20le%20famiglie%20dei%20presunti%20morti%20nella%20guerra%20italo-turca.%20012U0914.md), convertito nella [legge 22 maggio 1913, n. 484](Che%20converte%20in%20legge%20il%20R.%20decreto%209%20agosto%201912%20n.%20914%20riguardante%20le%20pensioni%20per%20le%20famiglie%20dei%20presunti%20morti%20nella%20guerra%20italo-turca.%20013U0484.md), riguardante le pensioni alle famiglie dei presunti morti nella guerra Italo-Turca;
 
 Visto il [decreto Luogotenenziale 27 giugno 1915, n. 1103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-27;1103), riguardante gli scomparsi nella guerra Italo-Austriaca;
 
 Visto i [Regi decreti 16 novembre 1922, n. 1784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-11-16;1784), e [22 aprile 1923, n. 1160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-22;1160), circa l'applicazione in Tripolitania ed in Cirenaica delle norme riguardanti le pensioni privilegiate di guerra in determinati periodi di tempo;
 
-Visto il [R. decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), concernente le nuove disposizioni per le pensioni normali;
+Visto il [R. decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), concernente le nuove disposizioni per le pensioni normali;
 
 Visto i Regi decreti 27 aprile e 1° maggio 1924, nn. 812 e 1166, riguardanti la costituzione di reparti di M. V. S. N. per la Libia;
 

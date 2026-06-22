@@ -16,7 +16,7 @@ Vista la [legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%2
 
 Visto il [regio decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md), recante il testo unico delle leggi metriche;
 
-Visto il [regio decreto 9 gennaio 1939, n. 206](../Regi%20decreti/Modificazioni%20al%20ruolo%20organico%20del%20personale%20dellAmministrazione%20metrica%20e%20del%20saggio%20dei%20metalli%20preziosi.%20039U0206.md);
+Visto il [regio decreto 9 gennaio 1939, n. 206](Modificazioni%20al%20ruolo%20organico%20del%20personale%20dellAmministrazione%20metrica%20e%20del%20saggio%20dei%20metalli%20preziosi.%20039U0206.md);
 
 Visto il [decreto legislativo 29 dicembre 1992, n. 517](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2090-384-CEE%20in%20materia%20di%20strumenti%20per%20pesare%20a%20funzionamento%20non%20automatico%20codificata%20nella%20direttiva%202009-23-CE%20e%20della%20direttiva%202014-31-UE%20del%20Parlamento%20e_e58e9e62aa90.md), recante attuazione della [direttiva 90/384/CEE del Consiglio del 20 giugno 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;384);
 
@@ -33,7 +33,7 @@ EMANA il seguente decreto legislativo:
 L'espressione "marchio CE" figurante nel [decreto legislativo 29 dicembre 1992, n. 517](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2090-384-CEE%20in%20materia%20di%20strumenti%20per%20pesare%20a%20funzionamento%20non%20automatico%20codificata%20nella%20direttiva%202009-23-CE%20e%20della%20direttiva%202014-31-UE%20del%20Parlamento%20e_e58e9e62aa90.md), e' sostituita dall'espressione "marcatura CE".
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta ufficiale delle Comunita' europee (GUCE).
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione dei principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
@@ -43,7 +43,7 @@ AVVERTENZA:
  - La [direttiva 93/68/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;68) e' pubblicata in G.U.C.E n. L. 220 del 30 agosto 1993.
  - La [direttiva 90/384/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;384) e pubblicata in G.U.C.E. n. L. 189 del 20 luglio 1990.
  - Il [regio decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) reca approvazione del testo unico delle leggi sui pesi e sulle misure nel regno d'Italia del 20 luglio 1890, n. 6991.
- - Il [regio decreto 9 gennaio 1939, n. 206](../Regi%20decreti/Modificazioni%20al%20ruolo%20organico%20del%20personale%20dellAmministrazione%20metrica%20e%20del%20saggio%20dei%20metalli%20preziosi.%20039U0206.md) reca modificazioni al ruolo organico del personale dell'amministrazione metrica e del saggi e dei metalli preziosi.
+ - Il [regio decreto 9 gennaio 1939, n. 206](Modificazioni%20al%20ruolo%20organico%20del%20personale%20dellAmministrazione%20metrica%20e%20del%20saggio%20dei%20metalli%20preziosi.%20039U0206.md) reca modificazioni al ruolo organico del personale dell'amministrazione metrica e del saggi e dei metalli preziosi.
  - Il [decreto legislativo 29 dicembre 1992, n. 517](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2090-384-CEE%20in%20materia%20di%20strumenti%20per%20pesare%20a%20funzionamento%20non%20automatico%20codificata%20nella%20direttiva%202009-23-CE%20e%20della%20direttiva%202014-31-UE%20del%20Parlamento%20e_e58e9e62aa90.md) reca attuazione della [direttiva n. 90/384/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;384) sull'armonizzazione delle legislazioni degli Stati membri in materia di strumenti per pesare a funzionamento non automatico.
  Nota all'[art. 1:
  - Per il decreto legislativo 29 dicembre 1992, n. 517](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2090-384-CEE%20in%20materia%20di%20strumenti%20per%20pesare%20a%20funzionamento%20non%20automatico%20codificata%20nella%20direttiva%202009-23-CE%20e%20della%20direttiva%202014-31-UE%20del%20Parlamento%20e_e58e9e62aa90.md) vedi note alle premesse.
@@ -320,7 +320,7 @@ Nota all'[art. 14:
 
 1.
 
-L'[articolo 7 del regio decreto 9 gennaio 1939, n. 206](../Regi%20decreti/Modificazioni%20al%20ruolo%20organico%20del%20personale%20dellAmministrazione%20metrica%20e%20del%20saggio%20dei%20metalli%20preziosi.%20039U0206.md), cosi' come modificato dall'[articolo 5 della legge 11 agosto 1991, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-11;273#art_5), istitutivo del Comitato centrale metrico, e' cosi' modificato:
+L'[articolo 7 del regio decreto 9 gennaio 1939, n. 206](Modificazioni%20al%20ruolo%20organico%20del%20personale%20dellAmministrazione%20metrica%20e%20del%20saggio%20dei%20metalli%20preziosi.%20039U0206.md), cosi' come modificato dall'[articolo 5 della legge 11 agosto 1991, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-11;273#art_5), istitutivo del Comitato centrale metrico, e' cosi' modificato:
                         a)
                             dopo la lettera g) del comma 2 e' aggiunta la seguente: 
  "h) da un esperto in metrologia legale, con particolare conoscenza di quella comunitaria;"
@@ -333,7 +333,7 @@ L'[articolo 7 del regio decreto 9 gennaio 1939, n. 206](../Regi%20decreti/Modifi
 Alle spese relative alla partecipazione dell'ulteriore componente di cui al comma 1, lettera a), si fa fronte con le ordinarie risorse di bilancio del Ministero dell'industria, del commercio e dell'artigianato.
 
 Note all'[art. 15:
- - Per il regio decreto 9 gennaio 1939 n. 206](../Regi%20decreti/Modificazioni%20al%20ruolo%20organico%20del%20personale%20dellAmministrazione%20metrica%20e%20del%20saggio%20dei%20metalli%20preziosi.%20039U0206.md) vedi note alte premesse. L'art. 7, come modificato dal presente articolo, recita:
+ - Per il regio decreto 9 gennaio 1939 n. 206](Modificazioni%20al%20ruolo%20organico%20del%20personale%20dellAmministrazione%20metrica%20e%20del%20saggio%20dei%20metalli%20preziosi.%20039U0206.md) vedi note alte premesse. L'art. 7, come modificato dal presente articolo, recita:
  "Art. 7. - E' istituito il Comitato centrale metrico. Il Comitato centrale metrico e' composto:
  a) dal Ministro dell'industria, del commercio e dell'artigianato o da un suo delegato con funzioni di presidente;
  b) dal direttore generale del commercio interno e dei consumi industriali del Ministero dell'industria, del commercio e dell'artigianato;

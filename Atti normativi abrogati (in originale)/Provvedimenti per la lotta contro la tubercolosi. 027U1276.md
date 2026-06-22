@@ -36,7 +36,7 @@ Del Consorzio provinciale antitubercolare fanno parte, obbligatoriamente, la pro
  
  Possono farne parte, su loro domanda, le Congregazioni di carita', le istituzioni pubbliche e le associazioni sindacali legalmente riconosciute a termini della [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), nonche' le associazioni private, gli istituti di previdenza, e quelli di assicurazione, come anche le organizzazioni finanziarie e commerciali che esplicano la loro attivita' nella provincia, purche' versino un contributo finanziario nella misura stabilita dallo statuto stesso. 
  
- Al Consorzio provinciale sono applicabili le disposizioni contenute negli [articoli 16](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), [17](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md) e [20 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), in quanto non siano incompatibili con quelle portate dalla presente legge.
+ Al Consorzio provinciale sono applicabili le disposizioni contenute negli [articoli 16](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), [17](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md) e [20 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), in quanto non siano incompatibili con quelle portate dalla presente legge.
 
 ## Art. 4.
 
@@ -82,11 +82,11 @@ Il ricovero dei tubercolosi, salvo che non sia disposto in via di urgenza a term
 
 ## Art. 9.
 
-I mutui, che la Cassa depositi e prestiti e' autorizzata a concedere ai sensi dell'[art. 1 della legge 24 luglio 1919, numero 1382](Relativa%20alla%20conversione%20del%20decreto-legge%20Luogotenenziale%2026%20luglio%201917%20n.1231%20autorizzante%20la%20Cassa%20dei%20depositi%20e%20prestiti%20a%20concedere%20ai%20Comuni%20e%20alle%20Provincie%20mutui%20senza%20interess_2c750fd6cc05.md), saranno collocati, con le norme di cui al [R. decreto 15 luglio 1926, n. 1282](../Regi%20decreti/Norme%20per%20limpiego%20dei%20fondi%20appartenenti%20agli%20Istituti%20di%20previdenza%20amministrati%20dalla%20Cassa%20depositi%20e%20prestiti.%20026U1282.md), sui fondi degli istituti di previdenza, ai sensi del [R. decreto-legge 13 giugno 1926, numero 1064](Impiego%20di%20fondi%20appartenenti%20agli%20Istituti%20di%20previdenza%20amministrati%20dalla%20Cassa%20depositi%20e%20prestiti%20in%20mutui%20agli%20Enti%20locali%20a%20condizioni%20speciali%20e%20con%20gestione%20separata.%20026U1064.md); ed il termine, stabilito dall'articolo stesso al 30 giugno 1927, per la concessione di detti mutui e' prorogato al 30 giugno 1937.
+I mutui, che la Cassa depositi e prestiti e' autorizzata a concedere ai sensi dell'[art. 1 della legge 24 luglio 1919, numero 1382](Relativa%20alla%20conversione%20del%20decreto-legge%20Luogotenenziale%2026%20luglio%201917%20n.1231%20autorizzante%20la%20Cassa%20dei%20depositi%20e%20prestiti%20a%20concedere%20ai%20Comuni%20e%20alle%20Provincie%20mutui%20senza%20interess_2c750fd6cc05.md), saranno collocati, con le norme di cui al [R. decreto 15 luglio 1926, n. 1282](Norme%20per%20limpiego%20dei%20fondi%20appartenenti%20agli%20Istituti%20di%20previdenza%20amministrati%20dalla%20Cassa%20depositi%20e%20prestiti.%20026U1282.md), sui fondi degli istituti di previdenza, ai sensi del [R. decreto-legge 13 giugno 1926, numero 1064](Impiego%20di%20fondi%20appartenenti%20agli%20Istituti%20di%20previdenza%20amministrati%20dalla%20Cassa%20depositi%20e%20prestiti%20in%20mutui%20agli%20Enti%20locali%20a%20condizioni%20speciali%20e%20con%20gestione%20separata.%20026U1064.md); ed il termine, stabilito dall'articolo stesso al 30 giugno 1927, per la concessione di detti mutui e' prorogato al 30 giugno 1937.
 
 ## Art. 10.
 
-L'[art. 75 del R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' abrogato. 
+L'[art. 75 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' abrogato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

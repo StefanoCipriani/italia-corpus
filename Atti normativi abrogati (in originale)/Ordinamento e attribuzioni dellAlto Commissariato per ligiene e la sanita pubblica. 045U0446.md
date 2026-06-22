@@ -80,7 +80,7 @@ L'Istituto superiore di sanita', nella sua attuale organizzazione, passa alla di
 
 Sono demandate all'Alto Commissariato per l'igiene e la sanita' pubblica i poteri di vigilanza e tutela sull'Associazione italiana della croce rossa attribuiti al Ministero dell'interno ai sensi del [decreto legislativo Luogotenenziale 14 giugno 1945, n. 388](Passaggio%20dellAssociazione%20italiana%20della%20Croce%20Rossa%20alle%20dipendenze%20dei%20Ministeri%20dellinterno%20e%20della%20guerra.%20045U0388.md). 
  
- Sono del pari demandate all'Alto Commissariato per l'igiene e la sanita' pubblica i poteri di vigilanza e di tutela sull'Opera nazionale per la protezione della maternita' e dell'infanzia, attribuiti al [Ministero dell'interno con il R. decreto 24 dicembre 1934, n. 2316](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20protezione%20ed%20assistenza%20della%20maternita%20ed%20infanzia%20034U2316.md) e successive modificazioni, e sull'Istituto di malariologia «E. Marchiafava», gia' attribuiti al Ministero degli affari esteri con R. decreto 7 settembre 1933. n. 1185.
+ Sono del pari demandate all'Alto Commissariato per l'igiene e la sanita' pubblica i poteri di vigilanza e di tutela sull'Opera nazionale per la protezione della maternita' e dell'infanzia, attribuiti al [Ministero dell'interno con il R. decreto 24 dicembre 1934, n. 2316](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20protezione%20ed%20assistenza%20della%20maternita%20ed%20infanzia%20034U2316.md) e successive modificazioni, e sull'Istituto di malariologia «E. Marchiafava», gia' attribuiti al Ministero degli affari esteri con R. decreto 7 settembre 1933. n. 1185.
 
 ## Art. 9.
 

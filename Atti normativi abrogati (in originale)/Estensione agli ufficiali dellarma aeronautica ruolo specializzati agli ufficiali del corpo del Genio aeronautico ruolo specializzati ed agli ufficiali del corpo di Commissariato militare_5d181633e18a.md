@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il decreto Commissariale 22 agosto 1924, che istituisce il corpo ufficiale degli equipaggi della Regia aeronautica;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), relativo all'ordinamento gerarchico delle Amministrazioni dello Stato;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), relativo all'ordinamento gerarchico delle Amministrazioni dello Stato;
 
 Udito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Commissario per l'aero
 
 ## Articolo unico.
 
-Sono applicabili agli ufficiali dell'arma aeronautica (ruolo specializzati), agli ufficiali del corpo del Genio aeronautico (ruolo specializzati) ed agli ufficiali del corpo di Commissariato militare dell'aeronautica (ruolo di amministrazione), le disposizioni previste per gli ufficiali del corpo Reale equipaggi della Regia marina, dall'[art. 157 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), dall'[art. 12 del R. decreto 27 ottobre 1922, n. 1462](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-27;1462#art_12), e dall'[art. 16 del R. decreto 18 dicembre 1922, n. 1637](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-18;1637#art_16). 
+Sono applicabili agli ufficiali dell'arma aeronautica (ruolo specializzati), agli ufficiali del corpo del Genio aeronautico (ruolo specializzati) ed agli ufficiali del corpo di Commissariato militare dell'aeronautica (ruolo di amministrazione), le disposizioni previste per gli ufficiali del corpo Reale equipaggi della Regia marina, dall'[art. 157 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), dall'[art. 12 del R. decreto 27 ottobre 1922, n. 1462](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-27;1462#art_12), e dall'[art. 16 del R. decreto 18 dicembre 1922, n. 1637](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-18;1637#art_16). 
  
  Il presente decreto avra' vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per essere convertito in legge. 
  

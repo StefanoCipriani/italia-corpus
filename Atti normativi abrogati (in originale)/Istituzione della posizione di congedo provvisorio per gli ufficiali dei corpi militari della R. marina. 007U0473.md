@@ -26,7 +26,7 @@ Lo stipendio per gli ufficiali in congedo provvisorio e' ridotto a tre quinti e 
 
 ## Art. 3.
 
-A tutti gli effetti delle leggi sulle pensioni (testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md)) il tempo trascorso nella posizione di congedo provvisorio e' equiparato al tempo trascorso nella posizione di aspettativa per riduzione di corpo. La stessa equiparazione ha luogo per il computo dell'anzianita' di grado.
+A tutti gli effetti delle leggi sulle pensioni (testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md)) il tempo trascorso nella posizione di congedo provvisorio e' equiparato al tempo trascorso nella posizione di aspettativa per riduzione di corpo. La stessa equiparazione ha luogo per il computo dell'anzianita' di grado.
 
 ## Art. 4.
 

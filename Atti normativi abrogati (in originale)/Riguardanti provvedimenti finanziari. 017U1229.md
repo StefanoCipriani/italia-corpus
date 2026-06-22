@@ -14,7 +14,7 @@ Tutti coloro i quali, alla data della pubblicazione del presente decreto, tengon
  
  Per tale rinnovazione i Comuni esigeranno una tassa uguale a quella stabilita al n. 31 della tabella suindicata; la somma cosi' esatta sara' versata all'erario dello Stato con le norme che verranno stabilite dal ministro delle finanze. 
  
- Agli effetti dell'annuale rinnovazione ordinaria preveduta dall'[art. 54 del testo unico della legge di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 30 giugno 1889, n. 6144, gli esercenti pagheranno ai Comuni per l'anno 1918 la tassa in misura uguale ad un quinto di quella corrisposta allo Stato a norma del capoverso precedente, ferma la facolta' concessa ai Comuni dall'[art. 17 del regolamento 24 dicembre 1870, n. 6137](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1870-12-24;6137#art_17).
+ Agli effetti dell'annuale rinnovazione ordinaria preveduta dall'[art. 54 del testo unico della legge di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 30 giugno 1889, n. 6144, gli esercenti pagheranno ai Comuni per l'anno 1918 la tassa in misura uguale ad un quinto di quella corrisposta allo Stato a norma del capoverso precedente, ferma la facolta' concessa ai Comuni dall'[art. 17 del regolamento 24 dicembre 1870, n. 6137](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1870-12-24;6137#art_17).
 
 ## Art. 2.
 

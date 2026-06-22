@@ -12,7 +12,7 @@ IL MINISTRO DELLE FINANZE,
 
 Visto l'[articolo 4 della legge del 20 aprile 1871, n. 192](Concernente%20la%20riscossione%20delle%20imposte%20dirette.%20071U0192.md) (Serie 2ª);
 
-Visto il regolamento approvato con [R. decreto del 23 dicembre 1886, n. 4256](../Regi%20decreti/Che%20approva%20lunito%20Regolamento%20per%20lesecuzione%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%20le%20disposizioni%20del%20quale%20comincieranno%20ad%20aver%20vigore%20per%20lappalto%20e%20per%20lesercizio%20del_ecff06e50fff.md) (Serie 3ª);
+Visto il regolamento approvato con [R. decreto del 23 dicembre 1886, n. 4256](Che%20approva%20lunito%20Regolamento%20per%20lesecuzione%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%20le%20disposizioni%20del%20quale%20comincieranno%20ad%20aver%20vigore%20per%20lappalto%20e%20per%20lesercizio%20del_ecff06e50fff.md) (Serie 3ª);
 
 Di concerto col Ministro dell'Interno e sentito il Consiglio di Stato; Decreta:
 

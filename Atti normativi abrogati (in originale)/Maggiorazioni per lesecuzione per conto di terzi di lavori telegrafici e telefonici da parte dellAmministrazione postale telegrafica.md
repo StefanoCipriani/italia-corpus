@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 12 gennaio 1922, n. 14](../Regi%20decreti/Contenente%20disposizioni%20circa%20la%20esecuzione%20di%20lavori%20telegrafici%20e%20telefonici%20eseguiti%20dallAmministrazione%20per%20conto%20di%20terzi.%20022U0014.md), contenente disposizioni circa l'esecuzione di lavori telegrafici e telefonici eseguiti dall'Amministrazione telegrafica per conto di terzi;
+Visto il [regio decreto 12 gennaio 1922, n. 14](Contenente%20disposizioni%20circa%20la%20esecuzione%20di%20lavori%20telegrafici%20e%20telefonici%20eseguiti%20dallAmministrazione%20per%20conto%20di%20terzi.%20022U0014.md), contenente disposizioni circa l'esecuzione di lavori telegrafici e telefonici eseguiti dall'Amministrazione telegrafica per conto di terzi;
 
 Visto il [regio decreto-legge 8 ottobre 1925, n. 2500](Quota%20a%20carico%20degli%20interessati%20nei%20lavori%20che%20il%20servizio%20telegrafico%20eseguisce%20a%20totale%20rimborso%20di%20spese%20a%20richiesta%20e%20per%20conto%20di%20altre%20Amministrazioni%20statali%20Societa%20Enti%20diversi%20_5f2bda8be08b.md), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md);
 

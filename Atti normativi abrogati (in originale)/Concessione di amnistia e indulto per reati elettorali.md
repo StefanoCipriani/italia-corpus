@@ -18,7 +18,7 @@ Sulla proposta del Ministro Segretario di Stato per la grazia e giustizia; Decre
 
 ## Art. 1. — (Amnistia)
 
-E' concessa amnistia per i reati preveduti dalle disposizioni penali contenute nel testo unico delle leggi per la elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica in data 5 febbraio 1948, n. 26](../Testi%20Unici/Testo%20unico%20delle%20leggi%20per%20la%20elezione%20della%20Camera%20dei%20Deputati.md), per i quali e' comminata una pena detentiva non superiore nel massimo a cinque anni, sola o congiunta a pena pecuniaria non superiore nel massimo a lire ventimila, oppure una pena pecuniaria.
+E' concessa amnistia per i reati preveduti dalle disposizioni penali contenute nel testo unico delle leggi per la elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica in data 5 febbraio 1948, n. 26](../DPR/Testo%20unico%20delle%20leggi%20per%20la%20elezione%20della%20Camera%20dei%20Deputati.md), per i quali e' comminata una pena detentiva non superiore nel massimo a cinque anni, sola o congiunta a pena pecuniaria non superiore nel massimo a lire ventimila, oppure una pena pecuniaria.
 
 ## Art. 2. — (Indulto)
 
@@ -30,7 +30,7 @@ Per il computo delle pene, ai fini dell'applicazione della amnistia, si seguono 
 
 ## Art. 4. — (Cause di esclusione)
 
-Fermo restando, per quanto riguarda l'amnistia, il divieto di cui all'art. 151, ultimo comma, del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il condono non si applica ai delinquenti abituali o professionali o per tendenza, ne' a coloro che, alla data del presente decreto, si trovano in stato di latitanza, se non si costituiscono in carcere entro tre mesi dalla data stessa, salvo che la pena debba essere condonata interamente.
+Fermo restando, per quanto riguarda l'amnistia, il divieto di cui all'art. 151, ultimo comma, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il condono non si applica ai delinquenti abituali o professionali o per tendenza, ne' a coloro che, alla data del presente decreto, si trovano in stato di latitanza, se non si costituiscono in carcere entro tre mesi dalla data stessa, salvo che la pena debba essere condonata interamente.
 
 ## Art. 5. — (Revoca del condono)
 

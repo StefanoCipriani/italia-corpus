@@ -16,7 +16,7 @@ Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%2
 
 Visti gli articoli 142, 143 e 144 dell'ordinamento giudiziario approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12);
 
-Visto l'[art. 6 del decreto legislativo luogotenenziale 30 aprile 1946, n. 352](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20sul%20personale%20della%20Magistratura.md), che abroga gli articoli 256, 257, e 261 del citato ordinamento;
+Visto l'[art. 6 del decreto legislativo luogotenenziale 30 aprile 1946, n. 352](Disposizioni%20sul%20personale%20della%20Magistratura.md), che abroga gli articoli 256, 257, e 261 del citato ordinamento;
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 ## Art. 1.
 
-Il concorso per titoli per il passaggio dei pretori nel ruolo collegiale, previsto dagli articoli 142, 143 e 144 del vigente ordinamento giudiziario e dall'[art. 6 del decreto legislativo luogotenenziale 30 aprile 1946, numero 352](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20sul%20personale%20della%20Magistratura.md), e' regolato dalle norme seguenti.
+Il concorso per titoli per il passaggio dei pretori nel ruolo collegiale, previsto dagli articoli 142, 143 e 144 del vigente ordinamento giudiziario e dall'[art. 6 del decreto legislativo luogotenenziale 30 aprile 1946, numero 352](Disposizioni%20sul%20personale%20della%20Magistratura.md), e' regolato dalle norme seguenti.
 
 ## Art. 2.
 
@@ -46,7 +46,7 @@ Avverso la deliberazione di esclusione dal concorso, emessa dal Consiglio giudiz
 ## Art. 5.
 
 Nella valutazione di ciascun candidato si tiene particolarmente conto dei precedenti di carriera, delle doti di carattere e del comportamento del magistrato nell'esercizio delle funzioni affidategli e nella vita privata, della stima di cui egli e' circondato, e di tutti i servizi prestati ed incarichi assolti.
- Nell'esame dei lavori e dei titoli si tiene prevalentemente conto dei lavori giudiziari Per coloro che, in seguito ad applicazione, o a destinazione ai sensi dell'[art. 2, secondo comma, del decreto legislativo luogotenenziale 3 maggio 1945, n. 232](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20temporanee%20circa%20le%20applicazioni%20e%20supplenze%20di%20magistrati%20con%20funzioni%20del%20grado%20superiore%20e%20circa%20il%20concorso%20per%20uditore.%20045U0232.md), esercitano funzioni istruttorie penali o funzioni requirenti, si tiene prevalentemente conto delle informazioni sulle speciali attitudini alle funzioni stesse e sul modo col quale il candidato le ha esercitate.
+ Nell'esame dei lavori e dei titoli si tiene prevalentemente conto dei lavori giudiziari Per coloro che, in seguito ad applicazione, o a destinazione ai sensi dell'[art. 2, secondo comma, del decreto legislativo luogotenenziale 3 maggio 1945, n. 232](Disposizioni%20temporanee%20circa%20le%20applicazioni%20e%20supplenze%20di%20magistrati%20con%20funzioni%20del%20grado%20superiore%20e%20circa%20il%20concorso%20per%20uditore.%20045U0232.md), esercitano funzioni istruttorie penali o funzioni requirenti, si tiene prevalentemente conto delle informazioni sulle speciali attitudini alle funzioni stesse e sul modo col quale il candidato le ha esercitate.
  Per i magistrati che non prestano servizio presso uffici giudiziari non si applicano le disposizioni dell'art. 2, secondo comma, del presente decreto, ma si tiene principalmente conto della loro attivita' in relazione alle funzioni esercitate e dei precedenti di carriera nonche' dei lavori amministrativi affini a quelli giudiziari ed altri titoli presentati La maggiore anzianita' e presa in considerazione unicamente all'effetto di determinare la precedenza a parita' di voti nella graduatoria del concorso, salve le preferenze stabilite dall'art. 148 e successive modifiche del vigente ordinamento giudiziario.
 
 ## Art. 6.

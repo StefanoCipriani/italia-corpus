@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di imposte sui redditi per l'adeguamento delle detrazioni di imposta e dei limiti di reddito di cui all'articolo 13, comma 2, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), a valere ai fini dell'imposta sul reddito delle persone fisiche per l'anno 1993;
+Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di imposte sui redditi per l'adeguamento delle detrazioni di imposta e dei limiti di reddito di cui all'articolo 13, comma 2, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), a valere ai fini dell'imposta sul reddito delle persone fisiche per l'anno 1993;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 19 novembre 1993;
 
@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Per l'anno 1993 l'ulteriore detrazione di cui all'articolo 13, comma 2, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), compete nelle seguenti misure:
+Per l'anno 1993 l'ulteriore detrazione di cui all'articolo 13, comma 2, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), compete nelle seguenti misure:
                         a)
                             L. 267.000 se il reddito di lavoro dipendente non supera L. 13.900.000;
                         b)
@@ -40,7 +40,7 @@ Per l'anno 1993 l'ulteriore detrazione di cui all'articolo 13, comma 2, del test
 
 2.
 
-Per l'anno 1993 non si applica la disposizione dell'ultimo periodo del comma 2 dell'articolo 13 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
+Per l'anno 1993 non si applica la disposizione dell'ultimo periodo del comma 2 dell'articolo 13 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
 
 3.
 
@@ -54,7 +54,7 @@ Le disposizioni del presente articolo non spiegano efficacia per l'adeguamento, 
 
 1.
 
-Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e succes- sive modificazioni, sono apportate le seguenti modificazioni:
+Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e succes- sive modificazioni, sono apportate le seguenti modificazioni:
                         a)
                             nell'articolo 50, comma 2, le parole: "posseduti a titolo di proprieta', usufrutto o altro diritto reale ovvero" sono soppresse;
                         b)
@@ -73,7 +73,7 @@ Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente 
 
 2.
 
-I proventi accantonati nei fondi del passivo costituiti ai sensi dell'articolo 55, comma 3, lettera b), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), nel testo vigente anteriormente alla data di entrata in vigore del presente decreto, concorrono a formare il reddito nell'esercizio e nella misura in cui i fondi siano utilizzati per scopi diversi dalla copertura di perdite di esercizio o i beni ricevuti siano destinati all'uso personale o familiare dell'imprenditore o siano assegnati ai soci.
+I proventi accantonati nei fondi del passivo costituiti ai sensi dell'articolo 55, comma 3, lettera b), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), nel testo vigente anteriormente alla data di entrata in vigore del presente decreto, concorrono a formare il reddito nell'esercizio e nella misura in cui i fondi siano utilizzati per scopi diversi dalla copertura di perdite di esercizio o i beni ricevuti siano destinati all'uso personale o familiare dell'imprenditore o siano assegnati ai soci.
 
 3.
 

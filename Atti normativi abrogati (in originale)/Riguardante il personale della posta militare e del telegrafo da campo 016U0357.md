@@ -24,9 +24,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), sul conferimento al Governo di poteri straordinari in caso di guerra e durante la guerra medesima; 
  
- Visto il [R. decreto 28 dicembre 1913, n. 1513](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20Servizio%20in%20guerra%20-%20Parte%20II%20-%20Servizio%20postale%20per%20il%20servizio%20postale%20in%20tempo%20di%20guerra.%20013U1513.md), concernente il servizio postale in tempo di guerra; 
+ Visto il [R. decreto 28 dicembre 1913, n. 1513](Col%20quale%20viene%20approvato%20il%20Servizio%20in%20guerra%20-%20Parte%20II%20-%20Servizio%20postale%20per%20il%20servizio%20postale%20in%20tempo%20di%20guerra.%20013U1513.md), concernente il servizio postale in tempo di guerra; 
  
- Visto il [R. decreto in data 5 marzo 1899, n. 114](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20il%20servizio%20telegrafico%20in%20guerra%20099U0114.md), col quale venne approvato il regolamento sul servizio telegrafico da campo; 
+ Visto il [R. decreto in data 5 marzo 1899, n. 114](Che%20approva%20il%20Regolamento%20per%20il%20servizio%20telegrafico%20in%20guerra%20099U0114.md), col quale venne approvato il regolamento sul servizio telegrafico da campo; 
  
  Ritenuta la necessita' di prorogare la permanenza del personale postale-telegrafico presso le forze operanti del R. esercito, e per conseguenza anche la validita' della iscrizione nei rispettivi ruoli; 
  

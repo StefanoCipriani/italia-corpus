@@ -22,7 +22,7 @@ Visti i [Regi decreti-legge 4 settembre 1925, n. 1723](Esenzione%20dalla%20tassa
 
 Visto il [R. decreto-legge 19 ottobre 1933, n. 1379](Acquisto%20della%20piena%20cittadinanza%20italiana%20da%20parte%20degli%20abitanti%20delle%20Isole%20italiane%20dellEgeo.%20033U1379.md), convertito in legge con la [legge 4 gennaio 1934, n. 31](Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20ottobre%201933%20n.%201379%20relativo%20allacquisto%20della%20piena%20cittadinanza%20italiana%20da%20parte%20degli%20abitanti%20delle%20Isole%20italiane%20dellEgeo.%20034U0031.md);
 
-Visto il [R. decreto 20 giugno 1935, n. 1435](../Regi%20decreti/Applicazione%20della%20legge%204%20gennaio%201934%20n.%2031%20concernente%20lacquisto%20della%20piena%20cittadinanza%20italiana%20da%20parte%20dei%20cittadini%20delle%20Isole%20italiane%20dellEgeo.%20035U1435.md);
+Visto il [R. decreto 20 giugno 1935, n. 1435](Applicazione%20della%20legge%204%20gennaio%201934%20n.%2031%20concernente%20lacquisto%20della%20piena%20cittadinanza%20italiana%20da%20parte%20dei%20cittadini%20delle%20Isole%20italiane%20dellEgeo.%20035U1435.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

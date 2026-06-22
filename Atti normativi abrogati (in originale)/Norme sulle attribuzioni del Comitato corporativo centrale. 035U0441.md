@@ -20,7 +20,7 @@ Visto l'[art. 12 della legge 9 dicembre 1928, n. 2693](Ordinamento%20e%20attribu
 
 Vista la [legge 20 marzo 1930, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-03-20;206);
 
-Visto il [R. decreto 12 maggio 1930, n. 908](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%2020%20marzo%201930%20n.%20206%20sul%20Consiglio%20nazionale%20delle%20corporazioni.%20030U0908.md);
+Visto il [R. decreto 12 maggio 1930, n. 908](Norme%20per%20lattuazione%20della%20legge%2020%20marzo%201930%20n.%20206%20sul%20Consiglio%20nazionale%20delle%20corporazioni.%20030U0908.md);
 
 Vista la [legge 5 febbraio 1934, n. 163](Costituzione%20e%20funzioni%20delle%20Corporazioni.%20034U0163.md);
 
@@ -34,7 +34,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Oltre le attribuzioni previste dalla [legge 20 marzo 1930, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-03-20;206), dal [R. decreto 12 maggio 1930, n. 908](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%2020%20marzo%201930%20n.%20206%20sul%20Consiglio%20nazionale%20delle%20corporazioni.%20030U0908.md), e dalla [legge 5 febbraio 1934, n. 163](Costituzione%20e%20funzioni%20delle%20Corporazioni.%20034U0163.md), il Comitato corporativo centrale esercita, previa autorizzazione del Capo del Governo, tutte le funzioni assegnate agli altri organi del Consiglio nazionale delle corporazioni. 
+Oltre le attribuzioni previste dalla [legge 20 marzo 1930, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-03-20;206), dal [R. decreto 12 maggio 1930, n. 908](Norme%20per%20lattuazione%20della%20legge%2020%20marzo%201930%20n.%20206%20sul%20Consiglio%20nazionale%20delle%20corporazioni.%20030U0908.md), e dalla [legge 5 febbraio 1934, n. 163](Costituzione%20e%20funzioni%20delle%20Corporazioni.%20034U0163.md), il Comitato corporativo centrale esercita, previa autorizzazione del Capo del Governo, tutte le funzioni assegnate agli altri organi del Consiglio nazionale delle corporazioni. 
  
  L'assemblea generale, le sezioni del Consiglio e il Comitato corporativo centrale hanno facolta' di apportare emendamenti alle norme ed alle tariffe che vengono sottoposte alla loro approvazione e di subordinare all'accoglimento delle modificazioni che ritengano necessarie l'approvazione degli accordi stipulati dalle Associazioni sindacali interessate.
 

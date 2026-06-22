@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-L'art. 3 del testo unico delle disposizioni, concernenti gli stipendi e assegni fissi per l'Esercito, approvato con [regio decreto 31 dicembre 1928, n. 3458](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), quale risulta modificato dall'articolo
+L'art. 3 del testo unico delle disposizioni, concernenti gli stipendi e assegni fissi per l'Esercito, approvato con [regio decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), quale risulta modificato dall'articolo
  unico della [legge 18 aprile 1938, n. 622](Decentramento%20del%20servizio%20della%20determinazione%20degli%20stipendi%20degli%20ufficiali%20di%20complemento%20e%20di%20quelli%20della%20riserva%20provenienti%20dal%20complemento.%20038U0622.md), e' sostituito dal seguente:
 "Art. 3. - L'attribuzione degli stipendi agli ufficiali generali e'
 fatta con decreto Ministeriale, da registrarsi alla Corte dei conti.

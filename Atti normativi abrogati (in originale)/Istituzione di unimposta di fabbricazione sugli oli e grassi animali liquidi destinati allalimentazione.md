@@ -108,7 +108,7 @@ Le controversie sulla qualificazione dei prodotti agli effetti del presente decr
 
 ## Art. 15.
 
-Le somme dovute per effetto dell'applicazione del presente decreto e non pagate, sono riscosse dal Ricevitore doganale con le norme del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
+Le somme dovute per effetto dell'applicazione del presente decreto e non pagate, sono riscosse dal Ricevitore doganale con le norme del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
  L'atto di opposizione all'ingiunzione di pagamento non e' valido se non e' preceduto dal versamento delle somme richieste.
 
 ## Art. 16.
@@ -150,7 +150,7 @@ Chiunque omette di presentare la denuncia prescritta dall'art. 2 del presente de
 
 ## Art. 23.
 
-Chiunque manomette od altera in qualsiasi modo i congegni, i bolli ed i sigilli posti dall'Amministrazione, e' punito a termine dell'[art. 349 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Chiunque manomette od altera in qualsiasi modo i congegni, i bolli ed i sigilli posti dall'Amministrazione, e' punito a termine dell'[art. 349 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 24.
 

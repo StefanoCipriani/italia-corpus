@@ -27,7 +27,7 @@ In separato capitolo del bilancio della Pubblica Istruzione sara' iscritta la so
  
  Questo concorso dello Stato non potra' superare mai i due terzi della spesa portata dal prescritto aumento di stipendio. 
  
- Il concorso dello Stato sara' dato per l'intera somma ai comuni considerati nell'[articolo 1 del Regio decreto in data 19 aprile 1885, n. 3099](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%209%20luglio%201876%20n.3250%20e%201%20marzo%201885%20n.2986%20sull%20aumento%20degli%20stipendii%20ai%20maestri%20elementari.%20085U3099.md), serie 3ª, che approva il testo delle leggi 9 luglio 1876 e 1° marzo 1885. 
+ Il concorso dello Stato sara' dato per l'intera somma ai comuni considerati nell'[articolo 1 del Regio decreto in data 19 aprile 1885, n. 3099](Che%20approva%20il%20testo%20unico%20delle%20leggi%209%20luglio%201876%20n.3250%20e%201%20marzo%201885%20n.2986%20sull%20aumento%20degli%20stipendii%20ai%20maestri%20elementari.%20085U3099.md), serie 3ª, che approva il testo delle leggi 9 luglio 1876 e 1° marzo 1885. 
  
  Saranno preferiti per il concorso dello Stato fino ai due terzi: 
  

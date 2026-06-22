@@ -22,11 +22,11 @@ Visto il decreto del Presidente della Repubblica del 15 ottobre 1966 col quale s
 
 Vista la [legge 13 maggio 1966, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-05-13;303), con la quale viene istituita l'Azienda di Stato per gli interventi sul mercato agricolo (A.I.M.A.);
 
-Visto il [decreto-legge 30 ottobre 1952, n. 1323](Nuovo%20sistema%20di%20accertamento%20dellimposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md), convertito, con modificazioni, nella [legge 20 dicembre 1952, n. 2385](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2030%20ottobre%201952%20n.%201323%20concernente%20un%20nuovo%20sistema%20di%20accertamento%20della%20imposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md);
+Visto il [decreto-legge 30 ottobre 1952, n. 1323](Nuovo%20sistema%20di%20accertamento%20dellimposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md), convertito, con modificazioni, nella [legge 20 dicembre 1952, n. 2385](Conversione%20in%20legge%20del%20decreto-legge%2030%20ottobre%201952%20n.%201323%20concernente%20un%20nuovo%20sistema%20di%20accertamento%20della%20imposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md);
 
 Visto il [decreto del Presidente della Repubblica 11 luglio 1953, n. 495](Norme%20complementari%20ed%20integrative%20delle%20disposizioni%20concernenti%20la%20disciplina%20fiscale%20della%20lavorazione%20dei%20semi%20oleosi%20e%20degli%20oli%20da%20essi%20ottenuti.md);
 
-Visto il [decreto-legge 24 giugno 1961, n. 510](Modificazioni%20al%20regime%20fiscale%20degli%20oli%20di%20semi.md), convertito, con modificazioni, nella [legge 28 luglio 1961, n. 769](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20giugno%201961%20n.%20510%20recante%20modificazioni%20al%20regime%20fiscale%20degli%20oli%20di%20semi.md);
+Visto il [decreto-legge 24 giugno 1961, n. 510](Modificazioni%20al%20regime%20fiscale%20degli%20oli%20di%20semi.md), convertito, con modificazioni, nella [legge 28 luglio 1961, n. 769](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20giugno%201961%20n.%20510%20recante%20modificazioni%20al%20regime%20fiscale%20degli%20oli%20di%20semi.md);
 
 Vista la [legge 13 novembre 1960, n. 1407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-11-13;1407);
 
@@ -125,7 +125,7 @@ verranno stabilite dal Ministero dell'agricoltura e delle foreste, d'intesa con 
 
 Chiunque nelle denunce, dichiarazioni o atti equipollenti previsti dagli articoli 3, primo comma, 4, 11 e 14 del presente decreto, espone scientemente dati o notizie inesatti relativi ai prodotti per i quali il presente decreto prevede integrazione di prezzo o indennizzi, e' punito, ove il fatto non costituisca piu' grave reato, con la reclusione da un mese a quattro anni e con la multa da lire cinquantamila a lire tre milioni.
  La stessa pena si applica a chiunque faccia scientemente uso delle denunce, dichiarazioni o atti contenenti i dati o notizie inesatti, di cui al comma precedente, sempre che il fatto non costituisca piu' grave reato.
- Le pene previste per il reato di cui all'[art. 640 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono aumentate di un terzo quando il reato e' commesso al fine di ottenere integrazioni o indennizzi di cui al presente decreto non dovuti o in misura superiore a quella dovuta.
+ Le pene previste per il reato di cui all'[art. 640 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono aumentate di un terzo quando il reato e' commesso al fine di ottenere integrazioni o indennizzi di cui al presente decreto non dovuti o in misura superiore a quella dovuta.
 
 ## Art. 13.
 
@@ -247,7 +247,7 @@ Le modalita' che si renderanno necessarie per l'applicazione delle norme fiscali
 
 L'accertamento delle violazioni delle norme del premente decreto, oltre che agli ufficiali ed agenti indicati nel titolo II, capo 2°, della [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4), spetta, nei limiti delle attribuzioni stabilite nella predetta legge, anche:
  a) al personale dell'amministrazione finanziaria e ai dipendenti pubblici all'uopo incaricati dal Ministro per l'agricoltura e foreste, muniti della speciale tessera di riconoscimento;
- b) agli ufficiali ed agenti di cui agli [articoli 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033#art_41) e [46 del regio decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033#art_46), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), contenente norme per la repressione delle frodi nella preparazione e nel commercio di sostanze di uso agrario e di prodotti agrari;
+ b) agli ufficiali ed agenti di cui agli [articoli 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033#art_41) e [46 del regio decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033#art_46), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), contenente norme per la repressione delle frodi nella preparazione e nel commercio di sostanze di uso agrario e di prodotti agrari;
  c) al personale sanitario di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283#art_1) e [3 della legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283#art_3), concernente la disciplina igienica della
  produzione e della vendita delle sostanze alimentari e delle bevande.
 I processi verbali di accertamento dei reati di natura fiscale sono
@@ -265,7 +265,7 @@ Le controversie sulla qualificazione dei prodotti, agli effetti del presente dec
 
 ## Art. 31.
 
-Le somme dovute per effetto dell'applicazione del presente decreto e non pagate, sono riscosse dal Ricevitore doganale con la procedura esecutiva del testo unico, approvato con [regio decreto 14 aprile 1910, numero 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
+Le somme dovute per effetto dell'applicazione del presente decreto e non pagate, sono riscosse dal Ricevitore doganale con la procedura esecutiva del testo unico, approvato con [regio decreto 14 aprile 1910, numero 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 ## Art. 32.
 
@@ -282,7 +282,7 @@ Chiunque trasporta o fa trasportare i prodotti di cui ai precedenti articoli 17,
 
 ## Art. 35.
 
-Chiunque manomette o altera in qualsiasi modo i congegni, i bolli o i sigilli posti dall'Amministrazione finanziaria e' punito a termine dell'[articolo 349 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Chiunque manomette o altera in qualsiasi modo i congegni, i bolli o i sigilli posti dall'Amministrazione finanziaria e' punito a termine dell'[articolo 349 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 36.
 
@@ -302,7 +302,7 @@ L'omessa o irregolare tenuta dei registri di cui allo articolo 5 e' punita con l
 
 ## Art. 39.
 
-Le disposizioni di cui agli articoli 12, 34, 36, 37, 38 e 47 del presente decreto per quanto concerne la misura delle pene della multa e dell'ammenda, sono adottate in deroga agli [articoli 24](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [26 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle sue successive modificazioni.
+Le disposizioni di cui agli articoli 12, 34, 36, 37, 38 e 47 del presente decreto per quanto concerne la misura delle pene della multa e dell'ammenda, sono adottate in deroga agli [articoli 24](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [26 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle sue successive modificazioni.
 
 ## Art. 40.
 
@@ -310,7 +310,7 @@ Per le violazioni alle leggi d'imposta di fabbricazione sugli oli di semi e sugl
 
 ## Art. 41.
 
-Le riduzioni previste per le seconde, terze e successive ore, nelle aliquote orarie stabilite per tutti i servizi svolti dagli uffici tecnici delle imposte di fabbricazione e contemplate nella tabella citata dall'[articolo 6 del decreto-legge 23 ottobre 1964, n. 987](Modificazioni%20al%20regime%20fiscale%20dei%20filati%20delle%20fibre%20tessili%20artificiali%20e%20sintetiche.md), convertito nella [legge 13 dicembre 1964, n. 1349](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2023%20ottobre%201964%20n.%20987%20adottato%20ai%20sensi%20dellarticolo%2077%20comma%20secondo%20della%20Costituzione%20recante%20modificazioni%20al%20regime%20fiscale%20dei%20filati%20delle%20f_b36e3705824d.md), sono soppresse.
+Le riduzioni previste per le seconde, terze e successive ore, nelle aliquote orarie stabilite per tutti i servizi svolti dagli uffici tecnici delle imposte di fabbricazione e contemplate nella tabella citata dall'[articolo 6 del decreto-legge 23 ottobre 1964, n. 987](Modificazioni%20al%20regime%20fiscale%20dei%20filati%20delle%20fibre%20tessili%20artificiali%20e%20sintetiche.md), convertito nella [legge 13 dicembre 1964, n. 1349](Conversione%20in%20legge%20del%20decreto-legge%2023%20ottobre%201964%20n.%20987%20adottato%20ai%20sensi%20dellarticolo%2077%20comma%20secondo%20della%20Costituzione%20recante%20modificazioni%20al%20regime%20fiscale%20dei%20filati%20delle%20f_b36e3705824d.md), sono soppresse.
 
 ## Art. 42.
 
@@ -329,7 +329,7 @@ L'Imposta di fabbricazione e la corrispondente sovrimposta di confine sulla marg
 ## Art. 45.
 
 I semi oleosi di qualsiasi provenienza che, alla data di entrata in vigore del presente decreto, si trovino nelle fabbriche di disoleazione o nelle raffinerie, o che a qualsiasi titolo e in qualsiasi luogo siano detenuti dai fabbricanti o raffinatori di oli di semi, anche se in recinti, spazi o locali nei quali viene esercitata la vigilanza finanziaria e anche se viaggianti, debbono essere denunciati dai fabbricanti, dai raffinatori o da qualsiasi altro detentore diverso dai produttori, distintamente per qualita', per quantita' e provenienza entro il 14 novembre 1966 all'ufficio tecnico delle imposte di fabbricazione o alla dogana, secondo la rispettiva competenza.
- Analoga denuncia, entro lo stesso termine, deve essere presentata per l'olio greggio di semi di qualsiasi provenienza, per quello raffinato importato o prodotto nel territorio dello Stato, per gli acidi grassi e oleine di oli di semi qualunque sia la loro acidita', per gli oli di semi parzialmente idrogenati nonche' per l'olio non combinato contenuto, in quantita' superiore al dieci per cento, nelle paste di raffinazione, che, alla data di entrata in vigore del presente decreto, si trovino in quantita' superiore a 5 quintali per ciascun prodotto e comunque o dovunque in possesso dei fabbricanti o dei raffinatori ovvero dei gestori i depositi previsti dall'[articolo 13 del decreto-legge 24 giugno 1961, n. 510](Modificazioni%20al%20regime%20fiscale%20degli%20oli%20di%20semi.md), convertito con modificazioni nella [legge 28 luglio 1961, numero 769](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20giugno%201961%20n.%20510%20recante%20modificazioni%20al%20regime%20fiscale%20degli%20oli%20di%20semi.md).
+ Analoga denuncia, entro lo stesso termine, deve essere presentata per l'olio greggio di semi di qualsiasi provenienza, per quello raffinato importato o prodotto nel territorio dello Stato, per gli acidi grassi e oleine di oli di semi qualunque sia la loro acidita', per gli oli di semi parzialmente idrogenati nonche' per l'olio non combinato contenuto, in quantita' superiore al dieci per cento, nelle paste di raffinazione, che, alla data di entrata in vigore del presente decreto, si trovino in quantita' superiore a 5 quintali per ciascun prodotto e comunque o dovunque in possesso dei fabbricanti o dei raffinatori ovvero dei gestori i depositi previsti dall'[articolo 13 del decreto-legge 24 giugno 1961, n. 510](Modificazioni%20al%20regime%20fiscale%20degli%20oli%20di%20semi.md), convertito con modificazioni nella [legge 28 luglio 1961, numero 769](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20giugno%201961%20n.%20510%20recante%20modificazioni%20al%20regime%20fiscale%20degli%20oli%20di%20semi.md).
  L'ufficio tecnico o la dogana, ricevute le denunce di cui ai precedenti commi procede, entro il 16 novembre 1966, ai necessari accertamenti.
 
 ## Art. 46.
@@ -360,7 +360,7 @@ E' istituito presso la Tesoreria centrale dello Stato un fondo denominato "Fondo
 
 ## Art. 50.
 
-Le disponibilita' esistenti sulle annualita' versate dal Tesoro al fondo di cui all'[art. 7 del decreto-legge 23 gennaio 1958, n. 8](Facolta%20di%20rinnovo%20dei%20buoni%20del%20Tesoro%20novennali%205%20con%20scadenza%201%20aprile%201959%20e%20costituzione%20di%20un%20Fondo%20destinato%20al%20graduale%20acquisto%20sul%20mercato%20di%20buoni%20del%20Tesoro%20novennali.md), convertito nella [legge 23 febbraio 1958, n. 84](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2023%20gennaio%201958%20n.%208%20concernente%20la%20facolta%20di%20rinnovo%20dei%20buoni%20del%20Tesoro%20novennali%205%20per%20cento%20con%20scadenza%20al%201%20aprile%201959%20e%20costituzione%20di%20un_237e0a9666c0.md), sono ridotte di milioni 20.100.
+Le disponibilita' esistenti sulle annualita' versate dal Tesoro al fondo di cui all'[art. 7 del decreto-legge 23 gennaio 1958, n. 8](Facolta%20di%20rinnovo%20dei%20buoni%20del%20Tesoro%20novennali%205%20con%20scadenza%201%20aprile%201959%20e%20costituzione%20di%20un%20Fondo%20destinato%20al%20graduale%20acquisto%20sul%20mercato%20di%20buoni%20del%20Tesoro%20novennali.md), convertito nella [legge 23 febbraio 1958, n. 84](Conversione%20in%20legge%20del%20decreto-legge%2023%20gennaio%201958%20n.%208%20concernente%20la%20facolta%20di%20rinnovo%20dei%20buoni%20del%20Tesoro%20novennali%205%20per%20cento%20con%20scadenza%20al%201%20aprile%201959%20e%20costituzione%20di%20un_237e0a9666c0.md), sono ridotte di milioni 20.100.
  La somma di milioni 20.100 sara' versata dal fondo allo stato di previsione dell'entrata per l'anno finanziario 1966.
  L'annualita' da versare al fondo di cui al precedente primo comma e' determinata per l'anno finanziaria 1967, in milioni 5.000.
  All'onere derivante dall'applicazione dell'art. 49 si provvede nell'anno finanziario 1966 con l'entrata di cui al secondo comma del presente articolo e, per l'anno finanziario 1967, con le disponibilita' derivanti dall'applicazione del precedente terzo comma, nonche' con la riduzione per milioni 28.000 del fondo inscritto al capitolo 3523 dello stato di previsione del Ministero del tesoro per l'anno medesimo riguardante il finanziamento di provvedimenti legislativi in corso.

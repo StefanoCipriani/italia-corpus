@@ -28,7 +28,7 @@ Il Consiglio di amministrazione del Ministero dell'economia nazionale e composto
 
 ## Art. 2.
 
-Restano in vigore le disposizioni contenute nel 2° e 3° capoverso dell'[art. 26 del R. decreto 6 settembre 1923, n. 2125](../Regi%20decreti/Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), relative alla composizione dei Consigli di amministrazione dei personali provinciali del Ministero predetto. 
+Restano in vigore le disposizioni contenute nel 2° e 3° capoverso dell'[art. 26 del R. decreto 6 settembre 1923, n. 2125](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), relative alla composizione dei Consigli di amministrazione dei personali provinciali del Ministero predetto. 
  
  Il presente decreto entrera' in vigore da oggi e sara' presentato al Parlamento per la sua conversione in legge. 
  

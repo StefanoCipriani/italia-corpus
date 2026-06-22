@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 14 giugno 1923, n. 1396](../Regi%20decreti/Riforme%20alla%20legge%204%20maggio%201898%20sui%20Monti%20di%20Pieta.%20023U1396.md), e il [R. decreto 19 luglio 1924, n. 1305](../Regi%20decreti/Approvazione%20del%20regolamento%20sui%20Monti%20di%20pieta.%20024U1305.md), che modifica la [legge 4 maggio 1898, n. 169](Concernente%20disposizioni%20sui%20Monti%20di%20Pieta.%20098U0169.md), sui Monti di pieta', ed il regolamento per la sua applicazione;
+Veduto il [R. decreto 14 giugno 1923, n. 1396](Riforme%20alla%20legge%204%20maggio%201898%20sui%20Monti%20di%20Pieta.%20023U1396.md), e il [R. decreto 19 luglio 1924, n. 1305](Approvazione%20del%20regolamento%20sui%20Monti%20di%20pieta.%20024U1305.md), che modifica la [legge 4 maggio 1898, n. 169](Concernente%20disposizioni%20sui%20Monti%20di%20Pieta.%20098U0169.md), sui Monti di pieta', ed il regolamento per la sua applicazione;
 
 Veduta la legge 15 luglio 1888, serie 3ª, n. 5546, sull'ordinamento delle Casse ordinarie di risparmio;
 

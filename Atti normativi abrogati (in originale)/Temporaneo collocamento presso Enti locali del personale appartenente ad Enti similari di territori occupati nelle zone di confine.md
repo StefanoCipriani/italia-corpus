@@ -14,7 +14,7 @@ PRINCIPE DI PIEMONTE
 
 LUOGOTENENTE GENERALE DEL REGNO
 
-In virtu' dell'autorita' a Noi delegata Visto il testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+In virtu' dell'autorita' a Noi delegata Visto il testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Visto il decreto-legge Luogotenenziale 25 giugno 144 n. 151;
 

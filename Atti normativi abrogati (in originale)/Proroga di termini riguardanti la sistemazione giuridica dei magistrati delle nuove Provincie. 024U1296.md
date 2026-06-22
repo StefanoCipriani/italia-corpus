@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 14 settembre 1923, n. 1921](../Regi%20decreti/Modificazioni%20allordinamento%20giudiziario%20e%20sistemazione%20del%20personale%20della%20magistratura%20delle%20nuove%20provincie.%20023U1921.md);
+Visto il [R. decreto 14 settembre 1923, n. 1921](Modificazioni%20allordinamento%20giudiziario%20e%20sistemazione%20del%20personale%20della%20magistratura%20delle%20nuove%20provincie.%20023U1921.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,9 +22,9 @@ Sulla proposta del Nostro Guardasigilli Ministro Segretario di Stato per la gius
 
 ## Art. 1.
 
-Il termine stabilito nel [terzo comma dell'art. 68 del R. decreto 14 settembre 1923, n. 1921](../Regi%20decreti/Modificazioni%20allordinamento%20giudiziario%20e%20sistemazione%20del%20personale%20della%20magistratura%20delle%20nuove%20provincie.%20023U1921.md), per la fusione del ruolo transitorio dei magistrati provenienti dalla cessata amministrazione austriaca nel ruolo generale e' prorogato al 31 dicembre 1924. 
+Il termine stabilito nel [terzo comma dell'art. 68 del R. decreto 14 settembre 1923, n. 1921](Modificazioni%20allordinamento%20giudiziario%20e%20sistemazione%20del%20personale%20della%20magistratura%20delle%20nuove%20provincie.%20023U1921.md), per la fusione del ruolo transitorio dei magistrati provenienti dalla cessata amministrazione austriaca nel ruolo generale e' prorogato al 31 dicembre 1924. 
  
- E' del pari prorogato al 31 dicembre 1925, il termine stabilito nell'art. 75 dello stesso [R. decreto 14 settembre 1923, n. 1921](../Regi%20decreti/Modificazioni%20allordinamento%20giudiziario%20e%20sistemazione%20del%20personale%20della%20magistratura%20delle%20nuove%20provincie.%20023U1921.md).
+ E' del pari prorogato al 31 dicembre 1925, il termine stabilito nell'art. 75 dello stesso [R. decreto 14 settembre 1923, n. 1921](Modificazioni%20allordinamento%20giudiziario%20e%20sistemazione%20del%20personale%20della%20magistratura%20delle%20nuove%20provincie.%20023U1921.md).
 
 ## Art. 2.
 

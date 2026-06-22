@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione media tecnica;
- Visto il [regio decreto 23 febbraio 1942, n. 411](../Regi%20decreti/Modificazioni%20alla%20tabella%20organica%20del%20Regio%20istituto%20tecnico%20industriale%20di%20Vicenza.%20042U0411.md), con il quale viene approvata la tabella organica dell'Istituto tecnico industriale di Vicenza;
+ Visto il [regio decreto 23 febbraio 1942, n. 411](Modificazioni%20alla%20tabella%20organica%20del%20Regio%20istituto%20tecnico%20industriale%20di%20Vicenza.%20042U0411.md), con il quale viene approvata la tabella organica dell'Istituto tecnico industriale di Vicenza;
  Visto l'[art. 10 del decreto legislativo Presidenziale 27 giugno 1946, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;107#art_10);
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;
 

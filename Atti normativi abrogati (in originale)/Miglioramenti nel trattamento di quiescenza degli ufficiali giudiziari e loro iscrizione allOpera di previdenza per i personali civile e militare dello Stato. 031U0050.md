@@ -160,7 +160,7 @@ A decorrere dal 1° gennaio 1930 sono iscritti all'Opera di previdenza dei perso
 
 ## Art. 6.
 
-L'accertamento o la riscossione dei contributi dovuti all'Opera di previdenza, di cui all'articolo precedente, avranno luogo con le norme fissate per i contributi personali dovuti alla Cassa di previdenza degli ufficiali giudiziari dal titolo III del [R. decreto-legge 19 aprile 1925, n. 561](Ordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20025U0561.md), e dal titolo III del [R. decreto 25 giugno 1926, n. 1149](../Regi%20decreti/Disposizioni%20complementari%20integrative%20e%20regolamentari%20per%20lesecuzione%20del%20Regio%20decreto-legge%2019%20aprile%201925%20n.%20561%20concernente%20lordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20agl_b1db50cd3f58.md). 
+L'accertamento o la riscossione dei contributi dovuti all'Opera di previdenza, di cui all'articolo precedente, avranno luogo con le norme fissate per i contributi personali dovuti alla Cassa di previdenza degli ufficiali giudiziari dal titolo III del [R. decreto-legge 19 aprile 1925, n. 561](Ordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20025U0561.md), e dal titolo III del [R. decreto 25 giugno 1926, n. 1149](Disposizioni%20complementari%20integrative%20e%20regolamentari%20per%20lesecuzione%20del%20Regio%20decreto-legge%2019%20aprile%201925%20n.%20561%20concernente%20lordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20agl_b1db50cd3f58.md). 
  
  L'ammontare del contributo dovuto da ciascun ufficiale giudiziario a favore dell'Opera sara' indicato a parte negli elenchi generali e nei ruoli di riscossione relativi alla Cassa di previdenza predetta.
 

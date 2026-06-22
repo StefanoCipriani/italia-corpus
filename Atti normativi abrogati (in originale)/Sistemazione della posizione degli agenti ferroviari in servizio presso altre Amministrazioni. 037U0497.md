@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), sulla posizione dei funzionari fuori ruolo;
+Visto il [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), sulla posizione dei funzionari fuori ruolo;
 
 Visto l'[art. 17 del R. decreto-legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46#art_17), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md);
 
@@ -32,9 +32,9 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Articolo unico.
 
-Le disposizioni del [R. decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), riguardanti la posizione dei funzionari fuori ruolo, sono estese all'Amministrazione delle ferrovie dello Stato. 
+Le disposizioni del [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), riguardanti la posizione dei funzionari fuori ruolo, sono estese all'Amministrazione delle ferrovie dello Stato. 
  
- I limiti numerici dei funzionari di detta Amministrazione che per i singoli gradi potranno essere tenuti nella posizione di fuori ruolo, verranno fissati con decreti da emanarsi ai sensi dell'art. 1 del citato [R. decreto 30 dicembre 1923, numero 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md). 
+ I limiti numerici dei funzionari di detta Amministrazione che per i singoli gradi potranno essere tenuti nella posizione di fuori ruolo, verranno fissati con decreti da emanarsi ai sensi dell'art. 1 del citato [R. decreto 30 dicembre 1923, numero 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md). 
  
  Ai fini di quiescenza restano ferme per i funzionari anzidetti le disposizioni stabilite dagli ordinamenti dell'Amministrazione ferroviaria. 
  

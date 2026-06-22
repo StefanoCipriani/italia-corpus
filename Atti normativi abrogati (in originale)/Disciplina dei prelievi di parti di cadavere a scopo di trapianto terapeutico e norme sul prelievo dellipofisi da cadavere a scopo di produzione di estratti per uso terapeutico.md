@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 E' consentito il prelievo di parti di cadavere a scopo di trapianto terapeutico.
- Il prelievo puo' essere effettuato anche in deroga alle disposizioni vigenti concernenti il periodo di osservazione previsto dagli articoli 7, 8 e 9 del regolamento di polizia mortuaria approvato con [regio decreto 21 dicembre 1942, n. 1880](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.%20042U1880.md), previo accertamento della morte nei casi e con le modalita' di cui agli articoli seguenti.
+ Il prelievo puo' essere effettuato anche in deroga alle disposizioni vigenti concernenti il periodo di osservazione previsto dagli articoli 7, 8 e 9 del regolamento di polizia mortuaria approvato con [regio decreto 21 dicembre 1942, n. 1880](Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.%20042U1880.md), previo accertamento della morte nei casi e con le modalita' di cui agli articoli seguenti.
  Salvo quanto disposto nel successivo articolo 2 e' vietato il prelievo dal cadavere dello encefalo e delle ghiandole della sfera genitale e della procreazione.
 
 ## Art. 2.

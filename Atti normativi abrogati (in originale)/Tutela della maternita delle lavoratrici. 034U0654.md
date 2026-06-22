@@ -253,13 +253,13 @@ c) con l'ammenda da L. 100 a L. 2000, per le contravvenzioni agli articoli 18 e 
 
 Dall'entrata in vigore del presente decreto sono abrogati: 
  
- 1° il [R. decreto 24 settembre 1923, n. 2157](../Testi%20Unici/Approvazione%20del%20testo%20unico%20di%20legge%20sulla%20Cassa%20di%20maternita.%20023U2157.md), che approva il testo unico di legge sulla Cassa nazionale di maternita'; 
+ 1° il [R. decreto 24 settembre 1923, n. 2157](Approvazione%20del%20testo%20unico%20di%20legge%20sulla%20Cassa%20di%20maternita.%20023U2157.md), che approva il testo unico di legge sulla Cassa nazionale di maternita'; 
  
  2° il [R. decreto-legge 13 maggio 1929, n. 850](Disposizioni%20per%20la%20tutela%20delle%20operaie%20ed%20impiegate%20durante%20lo%20stato%20di%20gravidanza%20e%20di%20puerperio.%20029U0850.md), convertito in [legge 2 luglio 1929, n. 1289](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20maggio%201929%20n.%20850%20concernente%20disposizioni%20per%20la%20tutela%20delle%20operaie%20ed%20impiegate%20durante%20lo%20stato%20di%20gravidanza%20e%20di%20puerperio.%20029U1289.md), contenente disposizioni per la tutela delle operaie ed impiegate durante lo stato di gravidanza e di puerperio;  
- 3° il [R. decreto 28 agosto 1930, n. 1358](../Regi%20decreti/Norme%20di%20attuazione%20del%20R.%20decreto-legge%2013%20maggio%201929%20n.%20850%20per%20la%20tutela%20delle%20operaie%20ed%20impiegate%20durante%20lo%20stato%20di%20gravidanza%20e%20di%20puerperio.%20030U1358.md), contenente le norme di attuazione del Regio decreto-legge suddetto per la tutela delle operaie ed impiegate durante lo stato di gravidanza e di puerperio;  
- 4° il decreto Ministeriale 22 novembre 1930, che approva i moduli per i certificati prescritti dagli articoli 7, 11, 14 e 17 del suddetto [R. decreto 28 agosto 1930, n. 1358](../Regi%20decreti/Norme%20di%20attuazione%20del%20R.%20decreto-legge%2013%20maggio%201929%20n.%20850%20per%20la%20tutela%20delle%20operaie%20ed%20impiegate%20durante%20lo%20stato%20di%20gravidanza%20e%20di%20puerperio.%20030U1358.md); 
+ 3° il [R. decreto 28 agosto 1930, n. 1358](Norme%20di%20attuazione%20del%20R.%20decreto-legge%2013%20maggio%201929%20n.%20850%20per%20la%20tutela%20delle%20operaie%20ed%20impiegate%20durante%20lo%20stato%20di%20gravidanza%20e%20di%20puerperio.%20030U1358.md), contenente le norme di attuazione del Regio decreto-legge suddetto per la tutela delle operaie ed impiegate durante lo stato di gravidanza e di puerperio;  
+ 4° il decreto Ministeriale 22 novembre 1930, che approva i moduli per i certificati prescritti dagli articoli 7, 11, 14 e 17 del suddetto [R. decreto 28 agosto 1930, n. 1358](Norme%20di%20attuazione%20del%20R.%20decreto-legge%2013%20maggio%201929%20n.%20850%20per%20la%20tutela%20delle%20operaie%20ed%20impiegate%20durante%20lo%20stato%20di%20gravidanza%20e%20di%20puerperio.%20030U1358.md); 
  
- 5° l'art. 34 e l'art. 39 ultimo comma, del regolamento approvato con [R. decreto 14 aprile 1927, n. 530](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20per%20ligiene%20del%20lavoro.%20027U0530.md), sull'igiene del lavoro.
+ 5° l'art. 34 e l'art. 39 ultimo comma, del regolamento approvato con [R. decreto 14 aprile 1927, n. 530](Approvazione%20del%20regolamento%20generale%20per%20ligiene%20del%20lavoro.%20027U0530.md), sull'igiene del lavoro.
 
 ### Art. 31.
 

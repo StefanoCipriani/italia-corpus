@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-All'art. 24 del regolamento speciale delle scuole di farmacia, approvato con [R. decreto 9 agosto 1910, numero 808](../Regi%20decreti/Che%20approva%20gli%20annessi%20regolamenti%20speciali%20per%20le%20Facolta%20di%20giurisprudenza%20di%20medicina%20e%20chirurgia%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20lettere%20e%20filosofia%20e%20per%20le%20scuole%20di_ce454a6b881c.md), e' sostituito il seguente: 
+All'art. 24 del regolamento speciale delle scuole di farmacia, approvato con [R. decreto 9 agosto 1910, numero 808](Che%20approva%20gli%20annessi%20regolamenti%20speciali%20per%20le%20Facolta%20di%20giurisprudenza%20di%20medicina%20e%20chirurgia%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20lettere%20e%20filosofia%20e%20per%20le%20scuole%20di_ce454a6b881c.md), e' sostituito il seguente: 
  
  «Art. 24. - I laureati in chimica aspiranti al diploma professionale, possono essere ammessi al quarto anno, purche' frequentino od abbiano frequentato per un anno il corso biennale di chimica farmaceutica e tossicologica con i relativi esercizi, e purche' frequentino od abbiano frequentato gli altri corsi obbligatori e relativi esercizi prescritti per il diploma e ne superino o ne abbiano superato gli esami. 
  

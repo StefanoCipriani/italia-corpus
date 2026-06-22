@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convalidato il [R. decreto 27 maggio 1929, n. 878](../Regi%20decreti/Prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellAmministrazione%20del%20Fondo%20per%20il%20culto%20per%20lesercizio%20finanziario%201928%20-%2029.%20029U0878.md), riguardante prelevazione dal fondo di riserva per le spese impreviste dell'Amministrazione del Fondo per il culto per l'esercizio 1928-29. 
+ E' convalidato il [R. decreto 27 maggio 1929, n. 878](Prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellAmministrazione%20del%20Fondo%20per%20il%20culto%20per%20lesercizio%20finanziario%201928%20-%2029.%20029U0878.md), riguardante prelevazione dal fondo di riserva per le spese impreviste dell'Amministrazione del Fondo per il culto per l'esercizio 1928-29. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

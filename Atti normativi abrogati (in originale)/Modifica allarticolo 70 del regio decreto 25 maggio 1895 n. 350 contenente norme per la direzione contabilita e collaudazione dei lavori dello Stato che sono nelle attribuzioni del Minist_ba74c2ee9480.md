@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il limite di spesa previsto dal [secondo comma dell'articolo 70 del regio decreto 25 maggio 1895, n. 350](../Regi%20decreti/Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md), modificato dall'[articolo 2 del decreto legislativo 25 luglio 1947, n. 1095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-07-25;1095#art_2), e dalla legge di ratifica 23 febbraio 1952, n. 133, e' stabilito in lire 10 milioni.
+Il limite di spesa previsto dal [secondo comma dell'articolo 70 del regio decreto 25 maggio 1895, n. 350](Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md), modificato dall'[articolo 2 del decreto legislativo 25 luglio 1947, n. 1095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-07-25;1095#art_2), e dalla legge di ratifica 23 febbraio 1952, n. 133, e' stabilito in lire 10 milioni.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

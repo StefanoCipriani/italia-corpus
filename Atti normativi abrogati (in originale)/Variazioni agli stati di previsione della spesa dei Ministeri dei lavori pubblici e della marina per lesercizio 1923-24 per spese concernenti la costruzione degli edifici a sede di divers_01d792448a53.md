@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 1 del R. decreto 31 dicembre 1922, n. 1809](../Regi%20decreti/Concernente%20la%20riforma%20dei%20servizi%20nel%20Ministero%20dei%20lavori%20pubblici.%20022U1809.md);
+Visto l'[art. 1 del R. decreto 31 dicembre 1922, n. 1809](Concernente%20la%20riforma%20dei%20servizi%20nel%20Ministero%20dei%20lavori%20pubblici.%20022U1809.md);
 
 Ritenuta la necessita' di assegnare le somme occorrenti per il completamento della costruzione degli edifici destinati a sede dei Ministeri della giustizia, dell'istruzione e della marina;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-In aggiunta alle somme finora autorizzate e' concessi una nuova assegnazione di L. 26,050.000 da inscriversi al capitolo di nuova istituzione n. 119-bis «Spese per gli edifici pubblici di cui all'[art. 1 del R. decreto 31 dicembre 1922 n. 1809](../Regi%20decreti/Concernente%20la%20riforma%20dei%20servizi%20nel%20Ministero%20dei%20lavori%20pubblici.%20022U1809.md)» dello stato di previsione della spesa del Ministero dei lavori pubblici, per l'esercizio finanziario 1923-24, per il completamento dei lavori concernenti la costruzione degli edifici da destinare a sede dei Ministeri della giustizia, della marina e dell'istruzione.
+In aggiunta alle somme finora autorizzate e' concessi una nuova assegnazione di L. 26,050.000 da inscriversi al capitolo di nuova istituzione n. 119-bis «Spese per gli edifici pubblici di cui all'[art. 1 del R. decreto 31 dicembre 1922 n. 1809](Concernente%20la%20riforma%20dei%20servizi%20nel%20Ministero%20dei%20lavori%20pubblici.%20022U1809.md)» dello stato di previsione della spesa del Ministero dei lavori pubblici, per l'esercizio finanziario 1923-24, per il completamento dei lavori concernenti la costruzione degli edifici da destinare a sede dei Ministeri della giustizia, della marina e dell'istruzione.
 
 ## Art. 2.
 

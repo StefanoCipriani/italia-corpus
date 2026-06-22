@@ -54,7 +54,7 @@ Fuori dei casi preveduti nei precedenti articoli, sono condonate le pene restrit
  
  Sono condonate le pene pecuniarie. Il limite suddetto, per quello che riguarda le pene restrittive della liberta' personale, e' doppio per le donne, per coloro che al tempo del commesso reato non avevano compiuto gli anni 18 o avevano superato gli anni 70, e inoltre per i reati determinati da movente politico o che abbiano comunque connessione con fini politici, di cui all'art. 1 del presente decreto. 
  
- L'indulto si ha come non concesso, quando chi ne ha beneficiato commetta un delitto entro il termine di anni 5 dalla data del provvedimento che lo applica. Nel caso di nuova condanna, si procede al cumulo delle pene a norma del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ L'indulto si ha come non concesso, quando chi ne ha beneficiato commetta un delitto entro il termine di anni 5 dalla data del provvedimento che lo applica. Nel caso di nuova condanna, si procede al cumulo delle pene a norma del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 
@@ -68,11 +68,11 @@ Il presente decreto non si applica:
  
  a) ai reati di tradimento, spionaggio, diserzione, abbandono di posto, codardia, mutilazione, rivolta, previsti dalle leggi penali militari; 
  
- b) ai delitti contro la Patria previsti dal capo 1°, titolo 1°, libro 2°, del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ b) ai delitti contro la Patria previsti dal capo 1°, titolo 1°, libro 2°, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- c) ai delitti previsti dal capo 1° e dal capo 3° del titolo 8°, libro 2°, del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ c) ai delitti previsti dal capo 1° e dal capo 3° del titolo 8°, libro 2°, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- d) ai reati di falso in monete e in carte di pubblico credito previsti dal capo 1°, titolo 6°, libro 2°, del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ d) ai reati di falso in monete e in carte di pubblico credito previsti dal capo 1°, titolo 6°, libro 2°, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  e) ai reati previsti dalla [legge 18 febbraio 1923, n. 396](Recante%20provvedimenti%20per%20la%20repressione%20dellabusivo%20commercio%20di%20sostanze%20velenose%20aventi%20azione%20stupefacente.%20023U0396.md), recante provvedimenti per la repressione dell'abusivo commercio di sostanze velenose aventi azione stupefacente, e dal relativo regolamento approvato con [R. decreto 9 novembre 1923, n. 2534](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2018%20febbraio%201923%20n.%20396%20per%20la%20repressione%20dellabusivo%20commercio%20di%20sostanze%20velenose%20aventi%20azione%20stupefacente.%20023U2534.md); 
  
@@ -86,7 +86,7 @@ Il presente decreto si applica anche alle Colonie, per i reati commessi da citta
 
 ## Art. 8.
 
-L'applicazione e gli effetti dei benefici conceduti col presente decreto sono regolati dalle disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447). 
+L'applicazione e gli effetti dei benefici conceduti col presente decreto sono regolati dalle disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447). 
  
  Qualora il giudizio sia gia' stato definito con sentenza divenuta irrevocabile, e dalla motivazione di questa o dagli atti del procedimento non apparisca sufficientemente stabilito se il fatto sia compreso fra quelli a cui si applica il presente decreto, il giudice competente ad emettere la relativa declaratoria potra' disporre gli accertamenti opportuni. Per i procedimenti, nei quali sia pendente il ricorso per cassazione, la Corte di cassazione ove non ritenga sufficienti, per l'applicazione del presente decreto, gli elementi di fatto, risultanti dalla sentenza impugnata o dagli atti del giudizio, potra' disporre gli accertamenti necessari.
 

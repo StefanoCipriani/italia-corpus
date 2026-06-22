@@ -30,7 +30,7 @@ Le disposizioni dell'[art. 1 del R. decreto 8 ottobre 1922, n. 1310](https://www
 
 ## Art. 2.
 
-Il [R. decreto 29 ottobre 1922, n. 1379](../Regi%20decreti/Che%20estende%20alla%20magistratura%20del%20Consiglio%20di%20Stato%20le%20disposizioni%20del%20R.%20decreto-legge%208%20ottobre%201922%20n.%201310%20relativo%20alla%20concessione%20al%20personale%20della%20magistratura%20giudiziaria%20degl_03b912e44ab7.md), e' revocato e considerato privo di ogni effetto.
+Il [R. decreto 29 ottobre 1922, n. 1379](Che%20estende%20alla%20magistratura%20del%20Consiglio%20di%20Stato%20le%20disposizioni%20del%20R.%20decreto-legge%208%20ottobre%201922%20n.%201310%20relativo%20alla%20concessione%20al%20personale%20della%20magistratura%20giudiziaria%20degl_03b912e44ab7.md), e' revocato e considerato privo di ogni effetto.
 
 ## Art. 3.
 

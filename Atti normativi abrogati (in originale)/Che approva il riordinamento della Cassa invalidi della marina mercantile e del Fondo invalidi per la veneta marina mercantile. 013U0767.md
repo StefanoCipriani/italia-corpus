@@ -180,7 +180,7 @@ E' assegnato per intero alla Cassa degli invalidi della marina mercantile il pro
  
  Sono pure assegnati alla Cassa degli invalidi della marina mercantile: 
  
- a) l'importo delle eredita' giacenti di individui della gente di mare morti in navigazione, le quali a tenore dell'art 9, lettera c) delle leggi sulla Cassa nazionale di previdenza (testo unico approvato con [Regio decreto 30 maggio 1907, n. 376](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sulla%20Cassa%20nazionale%20di%20previdenza%20per%20la%20invalidita%20e%20per%20la%20vecchiaia%20degli%20operai.%20007U0376.md)), dovrebbero devolversi a favore di quello Istituto; 
+ a) l'importo delle eredita' giacenti di individui della gente di mare morti in navigazione, le quali a tenore dell'art 9, lettera c) delle leggi sulla Cassa nazionale di previdenza (testo unico approvato con [Regio decreto 30 maggio 1907, n. 376](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sulla%20Cassa%20nazionale%20di%20previdenza%20per%20la%20invalidita%20e%20per%20la%20vecchiaia%20degli%20operai.%20007U0376.md)), dovrebbero devolversi a favore di quello Istituto; 
  
  b) le altre somme fra quelle indicate nell'art. 151 del Codice della marina mercantile, le quali, passate alla Cassa dei depositi e prestiti, dovrebbero, per compiuta prescrizione, essere devolute a favore dello Stato; 
  
@@ -298,7 +298,7 @@ Nel caso di passaggio di un ufficiale della marina sovvenzionata alla marina lib
  
  La Cassa degli invalidi versera' alla Cassa pensioni per il personale delle aziende sovvenzionate le riserve come sopra spettanti al 1° gennaio 1914 agli ufficiali che a quel giorno si troveranno inscritti a questa seconda Cassa, i quali perderanno ogni diritto verso la Cassa invalidi. 
  
- Il regolamente provvedera' a coordinare le disposizioni per la Cassa pensioni del personale delle aziende esercenti i servigi marittimi sovvenzionati, approvato con [R. decreto 2 settembre 1912, n. 1058](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20Cassa%20pensioni%20del%20personale%20delle%20aziende%20esercenti%20i%20servizi%20marittimi%20sovvenzionati%20012U1058.md), con quello contenuto nel presente articolo.
+ Il regolamente provvedera' a coordinare le disposizioni per la Cassa pensioni del personale delle aziende esercenti i servigi marittimi sovvenzionati, approvato con [R. decreto 2 settembre 1912, n. 1058](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20Cassa%20pensioni%20del%20personale%20delle%20aziende%20esercenti%20i%20servizi%20marittimi%20sovvenzionati%20012U1058.md), con quello contenuto nel presente articolo.
 
 ## Art. 35.
 
@@ -477,7 +477,7 @@ Le somme che si renderanno disponibili dopo aver provveduto ai sussidi annuali d
 
 Il personale che si trova addetto all'amministrazione e ai servizi delle Casse e del Fondo invalidi della marina mercantile al 22 aprile 1913, purche' sia riconosciuto idoneo, sara' conservato in servizio nelle attuali sedi, con gli stipendi o le indennita' a ciascuno attribuiti alla data suindicata e con tutti i diritti acquisiti a seconda del regolamento in vigore. 
  
- Esso sara' ammesso alla liquidazione della pensione con le norme stabilite per ogni Cassa, in conformita' dell'art. 60 del regolamento generale per l'Amministrazione ed il servizio delle Casse degli invalidi, approvato con il [R. decreto 8 novembre 1868, n. 4701](../Regi%20decreti/Che%20approva%20il%20Regolamento%20generale%20per%20lamministrazione%20ed%20il%20servizio%20delle%20Casse%20degli%20Invalidi%20della%20Marina%20mercantile.%20068U4701.md), dal proprio regolamento speciale, in vigore alla data predetta. 
+ Esso sara' ammesso alla liquidazione della pensione con le norme stabilite per ogni Cassa, in conformita' dell'art. 60 del regolamento generale per l'Amministrazione ed il servizio delle Casse degli invalidi, approvato con il [R. decreto 8 novembre 1868, n. 4701](Che%20approva%20il%20Regolamento%20generale%20per%20lamministrazione%20ed%20il%20servizio%20delle%20Casse%20degli%20Invalidi%20della%20Marina%20mercantile.%20068U4701.md), dal proprio regolamento speciale, in vigore alla data predetta. 
  
  Nel regolamento per la esecuzione della presente legge saranno stabiliti provvedimenti speciali di favore per il collocamento a riposo degli impiegati attuali delle Casse, avuto riguardo all'eta' ed all'anzianita' di essi.
 

@@ -180,7 +180,7 @@ La istruzione occorrente nelle procedure disciplinari e' compiuta con il concors
  
  Il commissario istruttore puo' richiedere per gli atti d'istruzione da eseguirsi fuori della sua residenza un magistrato del luogo. 
  
- I testi e i periti sono sentiti con giuramento. Si applicano ad essi le disposizioni degli [articoli 210](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [214](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [215](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [216](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [217 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ed a chi li suborni o tenti di subornarli si applicano le disposizioni degli articoli 218, 219, 220 dello stesso Codice.
+ I testi e i periti sono sentiti con giuramento. Si applicano ad essi le disposizioni degli [articoli 210](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [214](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [215](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [216](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [217 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ed a chi li suborni o tenti di subornarli si applicano le disposizioni degli articoli 218, 219, 220 dello stesso Codice.
 
 ### Art. 22.
 

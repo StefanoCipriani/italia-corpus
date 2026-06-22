@@ -58,7 +58,7 @@ Le domande presentate agli uffici di leva di terra, agli uffici di leva di mare 
 
 I distretti militari e le capitanerie di porto trasmettono le domande al Ministero della difesa - Direzione generale della leva, del reclutamento obbligatorio, della militarizzazione, della mobilitazione civile e dei corpi ausiliari. I distretti militari e le capitanerie di porto corredano le domande di:
  certificato generale del casellario giudiziario, da richiedere d'ufficio;
- certificato rilasciato dalla competente autorita' comprovante che l'istante non e' titolare di licenza o autorizzazioni relative alle armi indicate rispettivamente negli [articoli 28](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [30 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
+ certificato rilasciato dalla competente autorita' comprovante che l'istante non e' titolare di licenza o autorizzazioni relative alle armi indicate rispettivamente negli [articoli 28](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [30 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
 
 ### Art. 6.
 

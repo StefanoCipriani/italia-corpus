@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 24 dicembre 1911, n. 1497](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md);
+Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 24 dicembre 1911, n. 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md);
 
-Visto il [R. decreto 7 gennaio 1923, n. 3](../Regi%20decreti/Che%20apporta%20modificazioni%20alle%20vigenti%20disposizioni%20legislative%20sul%20reclutamento%20del%20R.%20esercito.%20023U0003.md);
+Visto il [R. decreto 7 gennaio 1923, n. 3](Che%20apporta%20modificazioni%20alle%20vigenti%20disposizioni%20legislative%20sul%20reclutamento%20del%20R.%20esercito.%20023U0003.md);
 
 Visto il decreto Commissariale 24 agosto 1924, relativo alla costituzione del Corpo equipaggi della Regia aeronautica, e successive modificazioni;
 
@@ -176,7 +176,7 @@ I militari del Regio esercito e della Regia Marina, nella posizione di congedo, 
 
 ## Art. 8.
 
-I militari piloti di aeroplano o di idrovolante inscritti nella riserva aeronautica a mente dell'[art. 2 del R. decreto 21 giugno 1925, n. 1943](../Regi%20decreti/Disposizioni%20per%20lallenamento%20periodico%20del%20personale%20navigante%20o%20specializzato%20della%20Regia%20aeronautica%20in%20congedo.%20025U1943.md), i quali non rivestano il grado di sergente, sono, per il tempo in cui vengono richiamati in servizio per compiere l'allenamento periodico stabilito dagli articoli 3 e seguenti del medesimo Regio decreto, equiparati nei riguardi disciplinari e amministrativi, al grado stesso, al quale vengono nominati al termine del periodo di allenamento sempreche' dimostrino, con le apposite prove, di possedere le qualita' necessarie per continuare nella carica aeronautica di pilota militare di aeroplano o di idrovolante
+I militari piloti di aeroplano o di idrovolante inscritti nella riserva aeronautica a mente dell'[art. 2 del R. decreto 21 giugno 1925, n. 1943](Disposizioni%20per%20lallenamento%20periodico%20del%20personale%20navigante%20o%20specializzato%20della%20Regia%20aeronautica%20in%20congedo.%20025U1943.md), i quali non rivestano il grado di sergente, sono, per il tempo in cui vengono richiamati in servizio per compiere l'allenamento periodico stabilito dagli articoli 3 e seguenti del medesimo Regio decreto, equiparati nei riguardi disciplinari e amministrativi, al grado stesso, al quale vengono nominati al termine del periodo di allenamento sempreche' dimostrino, con le apposite prove, di possedere le qualita' necessarie per continuare nella carica aeronautica di pilota militare di aeroplano o di idrovolante
 
 ## Art. 9.
 

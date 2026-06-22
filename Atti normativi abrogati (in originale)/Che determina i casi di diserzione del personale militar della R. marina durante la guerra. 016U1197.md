@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 In virtu' delle facolta' conferite al R. Governo con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Vista la [legge 28 novembre 1869, n. 5366](Che%20approva%20e%20manda%20pubblicarsi%20il%20Codice%20penale%20militare%20marittimo.%20069U5366.md), che approva il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo e segnatamente gli articoli dal 160 al 187;
+Vista la [legge 28 novembre 1869, n. 5366](Che%20approva%20e%20manda%20pubblicarsi%20il%20Codice%20penale%20militare%20marittimo.%20069U5366.md), che approva il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo e segnatamente gli articoli dal 160 al 187;
 
 Udito il Consiglio dei ministri;
 

@@ -12,7 +12,7 @@ vigente: true
 
 Al personale civile di ruolo ed agli operai pure di ruolo, a qualunque Amministrazione appartengano, comprese le ferrovie di Stato, assegnati a servizi presso le forze operanti del R. esercito, spetta una indennita' solamente quando prestano servizio fuori della loro ordinaria residenza. 
  
- Per la misura della indennita' stessa sono applicabili le disposizioni del [R. decreto 14 settembre 1862, n. 840](../Regi%20decreti/Che%20stabilisce%20le%20indennita%20da%20corrispondersi%20agli%20Impiegati%20di%20vari%20Dicasteri%20in%20missione%20per%20affari%20amministrativi.%20062U0840.md), eccettuata quella contenuta nell'ultimo comma dell'art. 5. 
+ Per la misura della indennita' stessa sono applicabili le disposizioni del [R. decreto 14 settembre 1862, n. 840](Che%20stabilisce%20le%20indennita%20da%20corrispondersi%20agli%20Impiegati%20di%20vari%20Dicasteri%20in%20missione%20per%20affari%20amministrativi.%20062U0840.md), eccettuata quella contenuta nell'ultimo comma dell'art. 5. 
  
  Eguale trattamento e' fatto al personale predetto dipendente dall'Amministrazione della R. marina che si trovi nelle condizioni di cui alle lettere b, c, d, dell'art. 1° del Nostro decreto 24 giugno 1915, n. 999. 
  

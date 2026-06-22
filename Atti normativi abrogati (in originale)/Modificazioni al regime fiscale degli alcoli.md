@@ -96,7 +96,7 @@ I fabbricanti di prodotti di cui all'[articolo 1 del regio decreto-legge 2 febbr
 
 ## Art. 14.
 
-Il fabbricante che prepara i prodotti di cui all'[articolo 1 del regio decreto-legge 2 febbraio 1933, n. 23](Nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U0023.md), in quantita' superiore o qualita' diversa da quelle indicate nella dichiarazione di lavoro di cui all'[articolo 5 del regio decreto 27 novembre 1933, n. 1604](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto-legge%202%20febbraio%201933%20n.%2023%20che%20stabilisce%20nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U1604.md), od omette di presentare la dichiarazione stessa e' punito con l'ammenda da lire 100.000 a lire 500.000.
+Il fabbricante che prepara i prodotti di cui all'[articolo 1 del regio decreto-legge 2 febbraio 1933, n. 23](Nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U0023.md), in quantita' superiore o qualita' diversa da quelle indicate nella dichiarazione di lavoro di cui all'[articolo 5 del regio decreto 27 novembre 1933, n. 1604](Norme%20per%20lattuazione%20del%20R.%20decreto-legge%202%20febbraio%201933%20n.%2023%20che%20stabilisce%20nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U1604.md), od omette di presentare la dichiarazione stessa e' punito con l'ammenda da lire 100.000 a lire 500.000.
 
 ## Art. 15.
 

@@ -28,7 +28,7 @@ Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 E' prorogata fino al 30 giugno 1925 la temporanea abolizione del dazio doganale sul frumento, sull'avena, sul granturco (escluso quello bianco) e sulla segala. 
  
- Fermo restando quanto e' stato stabilito dal citato decreto 20 ottobre 1924, n. 1649, per la farina e pasta di frumento, e pel semolino, sono pure prorogate fino al 30 giugno 1925 le temporanee riduzioni daziarie previste dall'[art. 1 del R. decreto 18 gennaio 1923, n. 49](../Regi%20decreti/Che%20riduce%20i%20dazi%20doganali%20relativi%20ai%20prodotti%20e%20derivati%20della%20macinazione%20del%20frumento%20e%20dei%20cereali%20minori.%20023U0049.md).
+ Fermo restando quanto e' stato stabilito dal citato decreto 20 ottobre 1924, n. 1649, per la farina e pasta di frumento, e pel semolino, sono pure prorogate fino al 30 giugno 1925 le temporanee riduzioni daziarie previste dall'[art. 1 del R. decreto 18 gennaio 1923, n. 49](Che%20riduce%20i%20dazi%20doganali%20relativi%20ai%20prodotti%20e%20derivati%20della%20macinazione%20del%20frumento%20e%20dei%20cereali%20minori.%20023U0049.md).
 
 ## Art. 2.
 

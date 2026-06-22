@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 34 del R. decreto-legge 7 novembre 1925, n. 1950](Disposizioni%20sul%20diritto%20di%20autore.%20025U1950.md);
 
-Visti gli [articoli 6](../Regi%20decreti/Regolamento%20per%20la%20esecuzione%20del%20R.%20decreto-legge%207%20novembre%201925%20n.%201950%20sul%20diritto%20di%20autore.%20026U1369.md), [7](../Regi%20decreti/Regolamento%20per%20la%20esecuzione%20del%20R.%20decreto-legge%207%20novembre%201925%20n.%201950%20sul%20diritto%20di%20autore.%20026U1369.md), [8](../Regi%20decreti/Regolamento%20per%20la%20esecuzione%20del%20R.%20decreto-legge%207%20novembre%201925%20n.%201950%20sul%20diritto%20di%20autore.%20026U1369.md) e [9 del R. decreto 15 luglio 1926, n. 1369](../Regi%20decreti/Regolamento%20per%20la%20esecuzione%20del%20R.%20decreto-legge%207%20novembre%201925%20n.%201950%20sul%20diritto%20di%20autore.%20026U1369.md);
+Visti gli [articoli 6](Regolamento%20per%20la%20esecuzione%20del%20R.%20decreto-legge%207%20novembre%201925%20n.%201950%20sul%20diritto%20di%20autore.%20026U1369.md), [7](Regolamento%20per%20la%20esecuzione%20del%20R.%20decreto-legge%207%20novembre%201925%20n.%201950%20sul%20diritto%20di%20autore.%20026U1369.md), [8](Regolamento%20per%20la%20esecuzione%20del%20R.%20decreto-legge%207%20novembre%201925%20n.%201950%20sul%20diritto%20di%20autore.%20026U1369.md) e [9 del R. decreto 15 luglio 1926, n. 1369](Regolamento%20per%20la%20esecuzione%20del%20R.%20decreto-legge%207%20novembre%201925%20n.%201950%20sul%20diritto%20di%20autore.%20026U1369.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

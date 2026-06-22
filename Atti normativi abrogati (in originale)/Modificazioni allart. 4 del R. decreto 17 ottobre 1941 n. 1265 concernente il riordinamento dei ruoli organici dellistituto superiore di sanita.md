@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'[art. 4 del del R. decreto 17 ottobre 1941, n. 1265](../Regi%20decreti/Nuova%20denominazione%20dellIstituto%20di%20sanita%20pubblica%20e%20riordinamento%20dei%20ruoli%20del%20relativo%20personale.%20041U1265.md), concernente il riordinamento dei ruoli dell'istituito superiore di sanita' e' sostituito dal seguente: 
+L'[art. 4 del del R. decreto 17 ottobre 1941, n. 1265](Nuova%20denominazione%20dellIstituto%20di%20sanita%20pubblica%20e%20riordinamento%20dei%20ruoli%20del%20relativo%20personale.%20041U1265.md), concernente il riordinamento dei ruoli dell'istituito superiore di sanita' e' sostituito dal seguente: 
  "Per le promozioni ai gradi superiori all'8ª la designazione del Consiglio di amministrazione deve essere preceduta dal parere sui titoli scientifici degli scrutinandi dato da una Commissione nominata dall'Alto Commissario per l'igiene e la sanita' pubblica e composta dal direttore generale dell'istituto superiore di sanita' che la presiede e da quattro professori di universita'".
 
 ## Art. 2.

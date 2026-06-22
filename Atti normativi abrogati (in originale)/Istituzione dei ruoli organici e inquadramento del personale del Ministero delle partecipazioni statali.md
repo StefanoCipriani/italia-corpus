@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto l'[art. 7 della legge 22 dicembre 1956, n. 1589](Istituzione%20del%20Ministero%20delle%20partecipazioni%20statali.md), concernente delega al Governo per l'emanazione delle norme relative alla istituzione dei ruoli organici ed allo inquadramento del personale del Ministero delle partecipazioni statali;
 
-Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
+Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
 
 Sentito il Consiglio dei Ministri;.
 
@@ -39,7 +39,7 @@ I posti che rimangono vacanti dopo l'inquadramento di cui all'art. 2 sono confer
 
 ## Art. 4.
 
-La riduzione di anzianita' di cui ai precedenti articoli 2 e 3 non si applica al personale che nel ruolo di provenienza abbia fruito di analogo beneficio ai fini della promozione alla qualifica ricoperta all'atto dell'inquadramento nei ruoli del Ministero delle partecipazioni statali, fatta eccezione della speciale riduzione dei periodi di permanenza per l'accesso alle qualifiche di direttore di sezione, segretario principale e primo archivista prevista dall'[art. 11 del decreto del Presidente della Repubblica 11 gennaio 1956, n. 4](Avanzamento%20del%20personale%20delle%20Amministrazioni%20dello%20Stato%20in%20particolari%20situazioni.md) e dall'art. 372 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+La riduzione di anzianita' di cui ai precedenti articoli 2 e 3 non si applica al personale che nel ruolo di provenienza abbia fruito di analogo beneficio ai fini della promozione alla qualifica ricoperta all'atto dell'inquadramento nei ruoli del Ministero delle partecipazioni statali, fatta eccezione della speciale riduzione dei periodi di permanenza per l'accesso alle qualifiche di direttore di sezione, segretario principale e primo archivista prevista dall'[art. 11 del decreto del Presidente della Repubblica 11 gennaio 1956, n. 4](Avanzamento%20del%20personale%20delle%20Amministrazioni%20dello%20Stato%20in%20particolari%20situazioni.md) e dall'art. 372 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ## Art. 5.
 

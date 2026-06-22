@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), col quale venne approvato il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, e successive modificazioni ed integrazioni;
+Visto il [regio decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), col quale venne approvato il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, e successive modificazioni ed integrazioni;
 
 Visti i [decreti del Presidente della Repubblica 11 gennaio 1956, n. 16](Ordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md) e [n. 17](Statuto%20degli%20impiegati%20civili%20dello%20Stato.md), concernenti rispettivamente l'ordinamento delle carriere e lo statuto degli impiegati civili dello Stato;
 
-Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), che approva il testo unico concernente le leggi sullo statuto degli impiegati civili dello Stato;
+Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), che approva il testo unico concernente le leggi sullo statuto degli impiegati civili dello Stato;
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 ## Articolo unico.
 
-L'art. 8 del regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento e per gli uffici direttivi finanziari, approvato con il [regio decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), e' abrogato. 
+L'art. 8 del regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento e per gli uffici direttivi finanziari, approvato con il [regio decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), e' abrogato. 
  I successivi articoli 10 e 12 sono sostituiti dai seguenti: 
  "Art. 10. - Dell'ammissione al concorso come dell'esclusione deve essere data, in tempo utile, comunicazione a ciascun aspirante. 
  Art. 12. - Il decreto con il quale si stabilisce il diario delle prove scritte deve essere pubblicato nella Gazzetta Ufficiale e deve essere comunicato ai candidati ammessi al concorso non meno di quindici giorni prima dell'inizio delle prove stesse. 

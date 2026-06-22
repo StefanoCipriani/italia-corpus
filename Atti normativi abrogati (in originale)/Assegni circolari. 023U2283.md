@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduti gli articoli 32 e 170 della tariffa generale di bollo, allegato A, al [testo unico 6 gennaio 1918, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1918-01-06;135);
 
-Veduto il [R. decreto 28 settembre 1919, n. 1922](../Regi%20decreti/Che%20detta%20norme%20circa%20lemissione%20degli%20assegni%20circolari%20da%20parte%20degli%20Istituti%20ordinari%20e%20cooperativi%20di%20credito%20delle%20Casse%20di%20risparmio%20e%20dei%20Monti%20di%20pieta%20stabilendo%20le%20penalita%20per_b5a5c20849f2.md);
+Veduto il [R. decreto 28 settembre 1919, n. 1922](Che%20detta%20norme%20circa%20lemissione%20degli%20assegni%20circolari%20da%20parte%20degli%20Istituti%20ordinari%20e%20cooperativi%20di%20credito%20delle%20Casse%20di%20risparmio%20e%20dei%20Monti%20di%20pieta%20stabilendo%20le%20penalita%20per_b5a5c20849f2.md);
 
 Veduto il [R. decreto-legge 29 febbraio 1920, n. 278](Che%20estende%20alla%20Venezia%20Giulia%20ed%20alla%20Venezia%20Tridentina%20le%20disposizioni%20delle%20leggi%20del%20Regno%20per%20lapplicazione%20di%20determinate%20tasse.%20020U0278.md);
 

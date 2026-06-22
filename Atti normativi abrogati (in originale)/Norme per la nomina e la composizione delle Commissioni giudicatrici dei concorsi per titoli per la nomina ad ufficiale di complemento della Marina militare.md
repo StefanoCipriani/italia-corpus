@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'art. 3 del testo unico delle disposizioni legislative riguardanti gli ufficiali di complemento della Marina militare, approvato con [regio decreto 16 maggio 1932, n. 819](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20032U0819.md), quale risulta sostituito dall'[art. 1 della legge 31 maggio 1943, n. 614](Modificazioni%20al%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20043U0614.md);
+Visto l'art. 3 del testo unico delle disposizioni legislative riguardanti gli ufficiali di complemento della Marina militare, approvato con [regio decreto 16 maggio 1932, n. 819](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20032U0819.md), quale risulta sostituito dall'[art. 1 della legge 31 maggio 1943, n. 614](Modificazioni%20al%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20043U0614.md);
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 

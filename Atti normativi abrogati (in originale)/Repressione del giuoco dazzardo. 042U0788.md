@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le pene per i reati contemplati dagli [articoli 718](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [719](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [720 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono triplicate. 
+Le pene per i reati contemplati dagli [articoli 718](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [719](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [720 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono triplicate. 
  
  Agli effetti degli articoli succitati, fra le case da giuoco previste dai successivo art. 721 sono comprese le abitazioni private e qualsiasi altro luogo in cui piu' persone convengono per praticare giuochi d'azzardo, anche se cio' non costituisca lo scopo esclusivo o prevalente del convegno. 
  

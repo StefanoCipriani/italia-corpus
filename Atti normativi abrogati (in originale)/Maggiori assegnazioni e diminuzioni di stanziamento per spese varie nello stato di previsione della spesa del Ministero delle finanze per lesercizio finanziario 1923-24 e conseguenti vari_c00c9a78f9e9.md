@@ -64,7 +64,7 @@ per l'esercizio finanziario 1923-24, sono apportate le seguenti variazioni:
 
 La somma iscritta all'apposito capitolo dello stato di previsione della spesa del Ministero delle finanze per le spese della Commissione centrale delle imposte dirette sara' somministrata, mediante mandati di anticipazione o aperture di credito, al presidente di detta Commissione, per il pagamento, in base a norme da emanarsi dal Ministro per le finanze, sentito lo stesso presidente, delle competenze ai componenti della Commissione e dei premi di operosita' e di rendimento al personale addetto alla segreteria, compreso quello subalterno. 
  
- Si applicano a tali premi le limitazioni di cui all'[art. 4 del R. decreto 17 febbraio 1924, n. 182](../Regi%20decreti/Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md). 
+ Si applicano a tali premi le limitazioni di cui all'[art. 4 del R. decreto 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md). 
  
  Il presidente della Commissione presentera' alla fine di ogni semestre i rendiconti delle spese effettuate. 
  

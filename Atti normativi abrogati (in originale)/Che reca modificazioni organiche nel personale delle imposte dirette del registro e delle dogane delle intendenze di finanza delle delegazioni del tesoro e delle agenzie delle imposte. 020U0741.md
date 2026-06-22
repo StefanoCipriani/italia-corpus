@@ -14,7 +14,7 @@ Nei ruoli organici del personale amministrativo e d'ordine delle Intendenze di f
 
 ## Art. 2.
 
-Con decreto Reale, su proposta del ministro delle finanze, di concerto con quello del tesoro, saranno emanate le disposizioni normali e transitorie, anche in deroga, occorrendo, al [R. decreto 12 febbraio 1920, n. 342](../Regi%20decreti/Che%20estende%20alle%20Intendenze%20di%20finanza%20ed%20agli%20Uffici%20del%20lotto%20le%20disposizioni%20del%20decreto%20Luogotenenziale%2023%20ottobre%201919%20n.%201971%20che%20stabilisce%20le%20norme%20per%20lapplicazione%20delle%20tabelle_9c5cab8e8fc1.md), per l'applicazione delle nuove tabelle di cui all'articolo precedente e per il conferimento dei posti in conseguenza delle aggiunte e variazioni introdotte nei relativi gradi e stipendi. 
+Con decreto Reale, su proposta del ministro delle finanze, di concerto con quello del tesoro, saranno emanate le disposizioni normali e transitorie, anche in deroga, occorrendo, al [R. decreto 12 febbraio 1920, n. 342](Che%20estende%20alle%20Intendenze%20di%20finanza%20ed%20agli%20Uffici%20del%20lotto%20le%20disposizioni%20del%20decreto%20Luogotenenziale%2023%20ottobre%201919%20n.%201971%20che%20stabilisce%20le%20norme%20per%20lapplicazione%20delle%20tabelle_9c5cab8e8fc1.md), per l'applicazione delle nuove tabelle di cui all'articolo precedente e per il conferimento dei posti in conseguenza delle aggiunte e variazioni introdotte nei relativi gradi e stipendi. 
  
  Con lo stesso decreto Reale sara' stabilito il reparto dei posti di intendente aggiunto fra le Intendenze del Regno e di quelli di «segretario capo» tra gli uffici del lotto. 
  

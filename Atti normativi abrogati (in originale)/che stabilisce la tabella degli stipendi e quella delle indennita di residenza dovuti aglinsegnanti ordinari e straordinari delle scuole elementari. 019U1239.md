@@ -28,13 +28,13 @@ Sulla proposta del ministro segretario di Stato per l'istruzione pubblica, di co
 
 ## Art. 1.
 
-Gl'insegnanti delle scuole elementari amministrate dai Consigli scolastici o dai Comuni sono assunti nel ruolo col grado di straordinari; sono promossi ordinari dopo un triennio alle condizioni prescritte dall'art. 10 del testo unico approvato col [R. decreto 21 ottobre 1903, n. 431](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20nomina%20e%20il%20licenziamento%20dei%20maestri.%20003U0431.md). 
+Gl'insegnanti delle scuole elementari amministrate dai Consigli scolastici o dai Comuni sono assunti nel ruolo col grado di straordinari; sono promossi ordinari dopo un triennio alle condizioni prescritte dall'art. 10 del testo unico approvato col [R. decreto 21 ottobre 1903, n. 431](Che%20approva%20il%20regolamento%20per%20la%20nomina%20e%20il%20licenziamento%20dei%20maestri.%20003U0431.md). 
  
  Gli stipendi degl'insegnanti straordinari o ordinari sono stabiliti dalla tabella A, annessa al presente decreto.
 
 ## Art. 2.
 
-Gl'insegnanti dei ruoli provinciali e comunali, e quelli di cui all'art. 25 del testo unico approvato col [R. decreto 21 ottobre 1903, n. 431](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20nomina%20e%20il%20licenziamento%20dei%20maestri.%20003U0431.md), hanno diritto, oltre allo stipendio, a una indennita' di residenza nella misura indicata dalla tabella B, annessa al presente decreto. 
+Gl'insegnanti dei ruoli provinciali e comunali, e quelli di cui all'art. 25 del testo unico approvato col [R. decreto 21 ottobre 1903, n. 431](Che%20approva%20il%20regolamento%20per%20la%20nomina%20e%20il%20licenziamento%20dei%20maestri.%20003U0431.md), hanno diritto, oltre allo stipendio, a una indennita' di residenza nella misura indicata dalla tabella B, annessa al presente decreto. 
  
  L'indennita' si considera come parte integrante dello stipendio attribuito all'insegnante anche agli effetti della pensione.
 

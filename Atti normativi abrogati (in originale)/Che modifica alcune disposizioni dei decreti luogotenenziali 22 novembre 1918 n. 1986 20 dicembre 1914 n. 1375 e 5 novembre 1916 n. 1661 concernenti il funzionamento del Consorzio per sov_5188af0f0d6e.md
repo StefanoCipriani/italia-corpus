@@ -14,7 +14,7 @@ I termini assegnati dall'[art. 1 del decreto Luogotenenziale 22 novembre 1916, n
 
 ## Art. 2.
 
-Alle citta' indicate nell'[art. 2 del R. decreto 20 dicembre 1914, n. 1375](../Regi%20decreti/Che%20autorizza%20la%20costituzione%20di%20un%20Consorzio%20fra%20Istituti%20di%20emissione%20ed%20altri%20enti%20per%20sovvenzioni%20su%20valori%20industriali.%20014U1375.md), sono aggiunte quella di Trieste e quelle altre che il Comitato centrale amministrativo del Consorzio riterra' di prescegliere.
+Alle citta' indicate nell'[art. 2 del R. decreto 20 dicembre 1914, n. 1375](Che%20autorizza%20la%20costituzione%20di%20un%20Consorzio%20fra%20Istituti%20di%20emissione%20ed%20altri%20enti%20per%20sovvenzioni%20su%20valori%20industriali.%20014U1375.md), sono aggiunte quella di Trieste e quelle altre che il Comitato centrale amministrativo del Consorzio riterra' di prescegliere.
 
 ## Art. 3.
 

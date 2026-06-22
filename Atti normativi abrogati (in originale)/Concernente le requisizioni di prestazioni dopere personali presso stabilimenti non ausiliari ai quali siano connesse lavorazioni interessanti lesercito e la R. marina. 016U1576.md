@@ -18,7 +18,7 @@ L'ordine di requisizione, oltre le indicazioni di cui all'art. 4 del R. decreto 
 
 ## Art. 3.
 
-Le persone che saranno assoggettate all'ordine di requisizione, di cui ai precedenti articoli, saranno soggette alla giurisdizione militare a termini dell'[art. 8 del R. decreto n. 993 del 26 giugno 1915](../Regi%20decreti/Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md).
+Le persone che saranno assoggettate all'ordine di requisizione, di cui ai precedenti articoli, saranno soggette alla giurisdizione militare a termini dell'[art. 8 del R. decreto n. 993 del 26 giugno 1915](Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md).
 
 ## Art. 4.
 

@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle disposizioni legislative sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni;
 
 Visto il [R. decreto-legge 3 gennaio 1944, n. 5](Reclutamento%20degli%20ufficiali%20in%20servizio%20permanente%20dellArma%20dei%20C.C.R.R.%20044U0005.md), sul reclutamento degli ufficiali in servizio permanente dell'Arma dei carabinieri reali;
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro per la guerra, d'intesa con i Ministri per l'interno
 
 Gli ufficiali in servizio permanente dell'Arma dei carabinieri reali sono reclutati:
  1) con il grado di tenente, mediante concorso per titoli e dopo aver superato il corso tecnico professionale di cui al successivo art. 2, dai tenenti in servizio permanente delle armi di fanteria, cavalleria, artiglieria e genio che non abbiano la carriera limitata al grado di capitano;
- 2) con il grado di sottotenente, dai sottufficiali in servizio dell'Arma dei carabinieri reali, in possesso di uno dei titoli di studio prescritti per la nomina a sottotenente in servizio permanente dal testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, numero 596](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni, che abbiano almeno due anni di servizio da sottufficiali e che, ammessi all'accademia come allievi, in seguito a concorso per esami, abbiano compiuto con esito favorevole apposito corso biennale presso l'accademia stessa ed altro corso di applicazione presso la scuola centrale dei carabinieri reali.
+ 2) con il grado di sottotenente, dai sottufficiali in servizio dell'Arma dei carabinieri reali, in possesso di uno dei titoli di studio prescritti per la nomina a sottotenente in servizio permanente dal testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, numero 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni, che abbiano almeno due anni di servizio da sottufficiali e che, ammessi all'accademia come allievi, in seguito a concorso per esami, abbiano compiuto con esito favorevole apposito corso biennale presso l'accademia stessa ed altro corso di applicazione presso la scuola centrale dei carabinieri reali.
  Dei posti vacanti in ciascun anno nei gradi di subalterno, due terzi sono riservati ai tenenti di cui al n. 1) e un terzo ai sottufficiali di cui al n. 2).
 
 ## Art. 2.
@@ -46,7 +46,7 @@ I tenenti in servizio permanente delle armi di fanteria, cavalleria, artiglieria
 ## Art. 3.
 
 I posti eventualmente rimasti scoperti in una delle aliquote di cui all'art. 1 del presente decreto, per deficienza di elementi idonei, potranno essere ricolmati in seguito a concorsi per titoli ed esami, con modalita' da stabilirsi dal Ministro per la guerra:
- a) fra sottotenenti, tenenti e capitani di complemento dell'Arma dei carabinieri reali, che siano in possesso di uno dei titoli di studio prescritti per la nomina a sottotenente in servizio permanente dal testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni;
+ a) fra sottotenenti, tenenti e capitani di complemento dell'Arma dei carabinieri reali, che siano in possesso di uno dei titoli di studio prescritti per la nomina a sottotenente in servizio permanente dal testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni;
  b) fra sottotenenti e tenenti di complemento delle armi di fanteria, cavalleria, artiglieria e genio, che siano in possesso di laurea in giurisprudenza o in economia e commercio, ovvero di laurea equipollente.
  Alla fonte di reclutamento di cui alla lettera b), si potra' far ricorso soltanto quando non sia possibile colmare tutte le vacanze attraverso la fonte di reclutamento di cui alla lettera a).
 
@@ -59,7 +59,7 @@ Per poter essere ammessi ai concorsi di cui al precedente art. 3, i concorrenti 
 
 ## Art. 5.
 
-Nella parte non regolata dal presente decreto ai osservano, in quanto applicabile disposizioni del testo unico sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni.
+Nella parte non regolata dal presente decreto ai osservano, in quanto applicabile disposizioni del testo unico sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni.
 
 ## Art. 6.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELL'INTERNO
 
-Visto il [decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), recante "Ordinamento del personale del Corpo nazionale dei vigili del fuoco a norma dell'[articolo 2 della legge 30 settembre 2004, n. 252](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20disciplina%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md)";
+Visto il [decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), recante "Ordinamento del personale del Corpo nazionale dei vigili del fuoco a norma dell'[articolo 2 della legge 30 settembre 2004, n. 252](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20disciplina%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md)";
 
 Visto in particolare l'articolo 12 recante disposizioni per l'accesso al ruolo dei capo squadra e dei capo reparto;
 
@@ -24,7 +24,7 @@ Ritenuto in particolare che, in relazione alle suesposte esigenze, costituisca i
 
 Considerato altresi' che, a norma del comma 7 del medesimo articolo 12, con regolamento del Ministro dell'interno, da adottare ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), sono stabilite le modalita' di svolgimento dei concorsi di cui al comma 1, le materie oggetto dell'esame scritto di cui al comma 1, lettera b), le categorie dei titoli da ammettere a valutazione e i punteggi da attribuire a ciascuna di esse, la composizione delle commissioni esaminatrici, nonche' le modalita' di svolgimento dei corsi di formazione professionale successivi ai concorsi e i criteri per la formazione delle graduatorie di fine corso;
 
-Visto il protocollo di intesa, sottoscritto con le organizzazioni sindacali del Corpo nazionale dei vigili del fuoco in data 26 settembre 2006, nel quale si e' convenuto che, nelle more della individuazione degli istituti di partecipazione sindacale, da effettuarsi in sede di negoziazione ai sensi del [decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), sarebbero state, comunque, garantite forme di partecipazione sindacale;
+Visto il protocollo di intesa, sottoscritto con le organizzazioni sindacali del Corpo nazionale dei vigili del fuoco in data 26 settembre 2006, nel quale si e' convenuto che, nelle more della individuazione degli istituti di partecipazione sindacale, da effettuarsi in sede di negoziazione ai sensi del [decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), sarebbero state, comunque, garantite forme di partecipazione sindacale;
 
 Visto il verbale sottoscritto dalle organizzazioni sindacali in data 2 aprile 2007;
 
@@ -42,7 +42,7 @@ Capo I
 
 1.
 
-Il concorso interno di cui all'[articolo 12, comma 1, lettera a) del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), avviene per titoli e superamento di un successivo corso di formazione professionale.
+Il concorso interno di cui all'[articolo 12, comma 1, lettera a) del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), avviene per titoli e superamento di un successivo corso di formazione professionale.
 
 2.
 
@@ -58,7 +58,7 @@ Non e' ammesso al concorso il personale che, nel biennio precedente la data di s
 
 5.
 
-Sulla base del punteggio riportato nei titoli indicati all'articolo 2, viene formata la graduatoria per la successiva ammissione al corso di formazione professionale. A parita' di punteggio si applicano i criteri di cui all'articolo 12, comma 3, prima parte, del [decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
+Sulla base del punteggio riportato nei titoli indicati all'articolo 2, viene formata la graduatoria per la successiva ammissione al corso di formazione professionale. A parita' di punteggio si applicano i criteri di cui all'articolo 12, comma 3, prima parte, del [decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
 
 6.
 
@@ -66,15 +66,15 @@ Il personale collocato in posizione utile viene ammesso al corso, previa scelta 
 
 7.
 
-In prima applicazione, per il conferimento dei posti con decorrenza 1° gennaio 2006, al concorso interno viene ammesso il personale inquadrato nella qualifica di vigile coordinatore ai sensi dell'[articolo 149, comma 4 del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), purche' in possesso degli altri requisiti previsti.
+In prima applicazione, per il conferimento dei posti con decorrenza 1° gennaio 2006, al concorso interno viene ammesso il personale inquadrato nella qualifica di vigile coordinatore ai sensi dell'[articolo 149, comma 4 del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), purche' in possesso degli altri requisiti previsti.
 
 Avvertenza:
 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
  Note alle premesse:
 
- - Il testo dell'[art. 12 del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), recante "Ordinamento del personale del Corpo nazionale dei vigili del fuoco a norma dell'[art. 2 della legge 30 settembre 2004, n. 252](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20disciplina%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md)", pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 25 ottobre 2005, n. 249, e' il seguente:
+ - Il testo dell'[art. 12 del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), recante "Ordinamento del personale del Corpo nazionale dei vigili del fuoco a norma dell'[art. 2 della legge 30 settembre 2004, n. 252](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20disciplina%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md)", pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 25 ottobre 2005, n. 249, e' il seguente:
  "Art. 12 (Immissione nel ruolo dei capi squadra e dei capi reparto). - 1. L'accesso alla qualifica iniziale del ruolo dei capi squadra e dei capi reparto avviene:
  a) nel limite del sessanta per cento dei posti disponibili al 31 dicembre di ogni anno, mediante concorso interno per titoli e superamento di un successivo corso di formazione professionale, della durata non inferiore a tre mesi, riservato al personale che, alla predetta data, rivesta la qualifica di vigile del fuoco coordinatore;
  b) nel limite del restante quaranta per cento dei posti disponibili al 31 dicembre di ogni anno, mediante concorso interno per titoli, esame scritto a contenuto tecnico-pratico e successivo corso di formazione professionale, della durata non inferiore a tre mesi, riservato al personale del ruolo dei vigili del fuoco che, alla predetta data, abbia compiuto sei anni di effettivo servizio nel ruolo medesimo e che, nei sei anni medesimi, abbia frequentato con profitto i corsi di aggiornamento professionale individuati nella durata, nei contenuti, nelle modalita' di svolgimento e nel criteri di ammissione alla frequenza con decreto del Ministro dell'interno.
@@ -103,8 +103,8 @@ Avvertenza:
  d) indicazione e revisione periodica della consistenza delle piante organiche;
  e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali.".
  Note all'art. 1:
- - Per il testo dell'[art. 12 del decreto legislativo n. 217 del 13 ottobre 2005](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si vedano le note alle premesse.
- - Il testo del [comma 4, dell'art. 149, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), recante "Ordinamento del personale del Corpo nazionale dei vigili del fuoco a norma dell'[art. 2 della legge 30 settembre 2004, n. 252](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20disciplina%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md)", pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 25 ottobre 2005, n. 249, e' il seguente:
+ - Per il testo dell'[art. 12 del decreto legislativo n. 217 del 13 ottobre 2005](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si vedano le note alle premesse.
+ - Il testo del [comma 4, dell'art. 149, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), recante "Ordinamento del personale del Corpo nazionale dei vigili del fuoco a norma dell'[art. 2 della legge 30 settembre 2004, n. 252](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20disciplina%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md)", pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 25 ottobre 2005, n. 249, e' il seguente:
  "4. Il personale appartenente al profilo professionale di vigile del fuoco, in servizio alla data di entrata in vigore del presente decreto, che abbia compiuto quindici anni di effettivo servizio nel profilo medesimo, e' inquadrato nell'istituita qualifica di vigile del fuoco coordinatore.".
 
 ### Art. 2. — Titoli valutabili
@@ -141,7 +141,7 @@ Capo II
 
 1.
 
-Il concorso interno di cui all'[articolo 12, comma 1, lettera b) del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), avviene per titoli, esame scritto a contenuto tecnico-pratico e superamento di un successivo corso di formazione professionale.
+Il concorso interno di cui all'[articolo 12, comma 1, lettera b) del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), avviene per titoli, esame scritto a contenuto tecnico-pratico e superamento di un successivo corso di formazione professionale.
 
 2.
 
@@ -153,7 +153,7 @@ Sono ammessi i dipendenti che, alla data del 31 dicembre dell'anno in cui si son
 
 4.
 
-Per le promozioni a decorrere dal 1° gennaio 2009, saranno ammessi al concorso interno i candidati che abbiano frequentato con profitto i corsi di aggiornamento professionale individuati tra quelli indicati nel decreto ministeriale di cui all'articolo 12, comma 1, lettera b) ultima parte, del [decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
+Per le promozioni a decorrere dal 1° gennaio 2009, saranno ammessi al concorso interno i candidati che abbiano frequentato con profitto i corsi di aggiornamento professionale individuati tra quelli indicati nel decreto ministeriale di cui all'articolo 12, comma 1, lettera b) ultima parte, del [decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
 
 5.
 
@@ -173,19 +173,19 @@ La valutazione dei titoli viene effettuata, sulla base dei criteri indicati all'
 
 9.
 
-Ai sensi dell'[articolo 8 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), ai titoli non puo' essere attribuito un punteggio complessivo superiore a punti 10.
+Ai sensi dell'[articolo 8 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), ai titoli non puo' essere attribuito un punteggio complessivo superiore a punti 10.
 
 10.
 
-La graduatoria viene formata sommando i punteggi riportati nell'esame scritto e nella valutazione dei titoli. A parita' di punteggio si applicano i criteri di cui all'articolo 12, comma 3, seconda parte, del [decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
+La graduatoria viene formata sommando i punteggi riportati nell'esame scritto e nella valutazione dei titoli. A parita' di punteggio si applicano i criteri di cui all'articolo 12, comma 3, seconda parte, del [decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
 
 11.
 
 Il personale che, nell'ambito dei posti messi a concorso, risulta collocato utilmente in graduatoria, viene ammesso al corso di formazione professionale, previa scelta della sede di servizio, secondo le procedure indicate all'articolo 6.
 
 Note all'art. 3:
- - Per il testo dell'[art. 12 del decreto legislativo n. 217 del 13 ottobre 2005](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si vedano le note alle premesse.
- - Il testo dell'[art. 8 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), concernente "Regolamento recante norme sull'accesso agli impieghi nelle pubbliche amministrazioni e le modalita' di svolgimento dei concorsi, dei concorsi unici e delle altre forme di assunzione nei pubblici impieghi", e' il seguente:
+ - Per il testo dell'[art. 12 del decreto legislativo n. 217 del 13 ottobre 2005](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si vedano le note alle premesse.
+ - Il testo dell'[art. 8 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), concernente "Regolamento recante norme sull'accesso agli impieghi nelle pubbliche amministrazioni e le modalita' di svolgimento dei concorsi, dei concorsi unici e delle altre forme di assunzione nei pubblici impieghi", e' il seguente:
  "Art. 8 (Concorso per titoli ed esami). - 1. Nei casi in cui l'assunzione a determinati profili avvenga mediante concorso per titoli e per esami, la valutazione dei titoli, previa individuazione dei criteri, e' effettuata dopo le prove scritte e prima che si proceda alla correzione dei relativi elaborati.
  2. Per i titoli non puo' essere attribuito un punteggio complessivo superiore a 10/30 o equivalente; il bando indica i titoli valutabili ed il punteggio massimo agli stessi attribuibile singolarmente e per categorie di titoli.
  3. Le prove di esame si svolgono secondo le modalita' previste dagli articoli 6 e 7 del presente regolamento.
@@ -208,7 +208,7 @@ i punteggi dei titoli non sono fra loro cumulabili ma si considera esclusivament
                                 corsi di aggiornamento professionale: 
  1) la frequenza con profitto di corsi di aggiornamento professionale organizzati dall'amministrazione in materie attinenti l'attivita' istituzionale, e' valutata 0,25 punti per ogni settimana o periodo di 36 ore. I punteggi dei corsi di aggiornamento professionale sono cumulabili fra loro fino al punteggio massimo di punti 3,00; 
  2) nei limiti di cui al punto 1), vengono valutati anche i corsi per l'acquisizione delle qualificazioni risultanti da appositi brevetti o patenti ovvero da certificazioni dell'Amministrazione; 
- 3) per i partecipanti al concorso di cui all'[articolo 12, comma 1, lettera b), del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), i corsi di aggiornamento gia' valutati come requisito di ammissione ai sensi dell'articolo 3 del presente regolamento vengono considerati solo per la parte eccedente quella necessaria per l'ammissione al concorso; 
+ 3) per i partecipanti al concorso di cui all'[articolo 12, comma 1, lettera b), del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), i corsi di aggiornamento gia' valutati come requisito di ammissione ai sensi dell'articolo 3 del presente regolamento vengono considerati solo per la parte eccedente quella necessaria per l'ammissione al concorso; 
  e' escluso il corso basico;
                             c)
                                 anzianita': 
@@ -221,11 +221,11 @@ I predetti titoli devono essere posseduti alla data di scadenza della presentazi
 
 3.
 
-Ai sensi dell'[articolo 8 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), ai titoli non puo' essere attribuito un punteggio complessivo superiore a punti 10.
+Ai sensi dell'[articolo 8 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), ai titoli non puo' essere attribuito un punteggio complessivo superiore a punti 10.
 
 Note all'art. 4:
- - Per il testo dell'[art. 12 del decreto legislativo n. 217 del 13 ottobre 2005](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si vedano le note alle premesse.
- - Per il testo dell'[art. 8 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), si veda la nota all'art. 3.
+ - Per il testo dell'[art. 12 del decreto legislativo n. 217 del 13 ottobre 2005](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si vedano le note alle premesse.
+ - Per il testo dell'[art. 8 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), si veda la nota all'art. 3.
 
 ## Norme comuni
 
@@ -249,7 +249,7 @@ Sulla base delle graduatorie di cui all'articolo 1, comma 5 e all'articolo 3, co
 
 2.
 
-I concorrenti utilmente collocati nell'ambito dei posti messi a concorso scelgono, secondo l'ordine della graduatoria, la sede di assegnazione tra quelle disponibili all'atto del bando. A norma dell'articolo 12, comma 6, ultima parte, del [decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), hanno la precedenza nella scelta della sede i candidati del concorso di cui al comma 1, lettera a) del medesimo articolo 12.
+I concorrenti utilmente collocati nell'ambito dei posti messi a concorso scelgono, secondo l'ordine della graduatoria, la sede di assegnazione tra quelle disponibili all'atto del bando. A norma dell'articolo 12, comma 6, ultima parte, del [decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), hanno la precedenza nella scelta della sede i candidati del concorso di cui al comma 1, lettera a) del medesimo articolo 12.
 
 3.
 
@@ -257,14 +257,14 @@ Nell'ambito di ciascuna graduatoria, hanno la precedenza i candidati che scelgon
 
 4.
 
-Nel caso di rinunce prima dell'inizio del corso, si procede allo scorrimento della graduatoria fino alla copertura dei posti disponibili. I posti rimasti comunque scoperti sono devoluti, fino alla data d'inizio dei rispettivi corsi di formazione professionale, secondo quanto previsto dall'[articolo 12, comma 5, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
+Nel caso di rinunce prima dell'inizio del corso, si procede allo scorrimento della graduatoria fino alla copertura dei posti disponibili. I posti rimasti comunque scoperti sono devoluti, fino alla data d'inizio dei rispettivi corsi di formazione professionale, secondo quanto previsto dall'[articolo 12, comma 5, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
 
 5.
 
-In ogni caso, i posti non coperti, compresi quelli destinati al personale specialista, verranno considerati disponibili e saranno attribuiti con le successive procedure concorsuali secondo quanto previsto dall'[articolo 12, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
+In ogni caso, i posti non coperti, compresi quelli destinati al personale specialista, verranno considerati disponibili e saranno attribuiti con le successive procedure concorsuali secondo quanto previsto dall'[articolo 12, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
 
 Nota all'art. 6:
- - Per il testo dell'[art. 12 del decreto legislativo n. 217 del 13 ottobre 2005](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si vedano le note alle premesse.
+ - Per il testo dell'[art. 12 del decreto legislativo n. 217 del 13 ottobre 2005](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si vedano le note alle premesse.
 
 ### Art. 7. — Corso di formazione professionale
 
@@ -278,10 +278,10 @@ Il programma didattico, le materie e l'articolazione delle verifiche intermedie,
 
 3.
 
-Durante la frequenza dei corsi, l'eventuale dimissione dei candidati ammessi avviene secondo le disposizioni dell'[articolo 13 del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
+Durante la frequenza dei corsi, l'eventuale dimissione dei candidati ammessi avviene secondo le disposizioni dell'[articolo 13 del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
 
 Nota all'art. 7:
- - Il testo dell'art. 13 del citato [decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), e' il seguente:
+ - Il testo dell'art. 13 del citato [decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), e' il seguente:
  "Art. 13 (Dimissioni dai corsi). - 1. E' dimesso dai corsi di formazione di cui all'art. 12, il personale che:
  a) dichiara di rinunciare al corso;
  b) non supera gli esami di fine corso;
@@ -301,20 +301,20 @@ Le procedure concorsuali si concludono con l'esame finale dei corsi di formazion
 
 2.
 
-La graduatoria finale di merito dei corsi di formazione professionale e' stilata sulla base del punteggio riportato nell'esame di fine corso e determina la posizione di ruolo dei vincitori nella nuova qualifica. A parita' di punteggio si applicano i criteri di cui all'articolo 12, comma 3, rispettivamente prima e seconda parte, del [decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md). A parita' di decorrenza giuridica, i vincitori del concorso di cui al citato articolo 12, comma 1, lettera a), precedono nel ruolo i vincitori del concorso di cui alla lettera b) del medesimo comma.
+La graduatoria finale di merito dei corsi di formazione professionale e' stilata sulla base del punteggio riportato nell'esame di fine corso e determina la posizione di ruolo dei vincitori nella nuova qualifica. A parita' di punteggio si applicano i criteri di cui all'articolo 12, comma 3, rispettivamente prima e seconda parte, del [decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md). A parita' di decorrenza giuridica, i vincitori del concorso di cui al citato articolo 12, comma 1, lettera a), precedono nel ruolo i vincitori del concorso di cui alla lettera b) del medesimo comma.
 
 Nota all'art. 8:
- - Per il testo dell'[art. 12 del decreto legislativo n. 217 del 13 ottobre 2005](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si vedano le note alle premesse.
+ - Per il testo dell'[art. 12 del decreto legislativo n. 217 del 13 ottobre 2005](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si vedano le note alle premesse.
 
 ### Art. 9. — Norma di rinvio
 
 1.
 
-Per quanto non previsto dal presente decreto, si applicano le disposizioni del [decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) e, in quanto compatibili, quelle del [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), e successive modificazioni.
+Per quanto non previsto dal presente decreto, si applicano le disposizioni del [decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) e, in quanto compatibili, quelle del [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), e successive modificazioni.
 
 Note all'art. 9:
- - Per i riferimenti al [decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si vedano le note alle premesse.
- - Il citato [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 9 agosto 1994, n. 185.
+ - Per i riferimenti al [decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si vedano le note alle premesse.
+ - Il citato [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 9 agosto 1994, n. 185.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

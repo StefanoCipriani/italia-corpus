@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'art. 7, lettera c), del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md);
+Visto l'art. 7, lettera c), del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md);
 
 Visto l'art. 31 del regolamento per la carriera e la disciplina del personale della Corte dei conti, approvato con [regio decreto 12 ottobre 1933, n. 1364](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20carriera%20e%20la%20disciplina%20del%20personale%20della%20Corte%20dei%20conti.%20033U1364.md);
 
-Visto l'[art. 3 del regio decreto 11 dicembre 1941, n. 1404](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto-legge%2028%20giugno%201941-XIX%20n.%20856%20concernente%20il%20riassetto%20del%20servizi%20della%20Corte%20dei%20conti.%20041U1404.md), che detta norme per l'applicazione del [regio decreto-legge 28 giugno 1941, n. 856](Riassetto%20dei%20servizi%20della%20Corte%20dei%20conti.%20041U0856.md) concernente il riassetto dei servizi della Corte dei conti;
+Visto l'[art. 3 del regio decreto 11 dicembre 1941, n. 1404](Norme%20per%20lapplicazione%20del%20R.%20decreto-legge%2028%20giugno%201941-XIX%20n.%20856%20concernente%20il%20riassetto%20del%20servizi%20della%20Corte%20dei%20conti.%20041U1404.md), che detta norme per l'applicazione del [regio decreto-legge 28 giugno 1941, n. 856](Riassetto%20dei%20servizi%20della%20Corte%20dei%20conti.%20041U0856.md) concernente il riassetto dei servizi della Corte dei conti;
 
 Vista la proposta della Corte dei conti;
 
@@ -30,7 +30,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 L'art. 31, comma 1°, lettera a), del regolamento per la carriera e la disciplina del personale della Corte dei conti, approvato con [regio decreto 12 ottobre 1933, n. 1364](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20carriera%20e%20la%20disciplina%20del%20personale%20della%20Corte%20dei%20conti.%20033U1364.md), e' cosi' modificato:
  "La promozione:
- a) a vice referendario di 1ª classe e' conferita per merito comparativo ai vice referendari di 2° classe che nel loro grado e in quello di aiuto referendario abbiano prestato complessivamente almeno quattro anni di effettivo servizio nella Corte dei conti, non comprendendo in tale periodo gli aumenti di anzianita' e le abbreviazioni riconosciuti dall'[art. 3 del regio decreto 11 dicembre 1941, n 1404](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto-legge%2028%20giugno%201941-XIX%20n.%20856%20concernente%20il%20riassetto%20del%20servizi%20della%20Corte%20dei%20conti.%20041U1404.md), all'effetto della promozione al grado 8°".
+ a) a vice referendario di 1ª classe e' conferita per merito comparativo ai vice referendari di 2° classe che nel loro grado e in quello di aiuto referendario abbiano prestato complessivamente almeno quattro anni di effettivo servizio nella Corte dei conti, non comprendendo in tale periodo gli aumenti di anzianita' e le abbreviazioni riconosciuti dall'[art. 3 del regio decreto 11 dicembre 1941, n 1404](Norme%20per%20lapplicazione%20del%20R.%20decreto-legge%2028%20giugno%201941-XIX%20n.%20856%20concernente%20il%20riassetto%20del%20servizi%20della%20Corte%20dei%20conti.%20041U1404.md), all'effetto della promozione al grado 8°".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque aspetti di osservarlo e di farlo osservare.
 

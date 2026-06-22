@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md);
+Visto il [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per il t
 
 ## Art. 1.
 
-E' elevato a 25 miliardi di lire l'ammontare delle anticipazioni autorizzate con [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md) e successive modificazioni ed aggiunte, a favore di imprese industriale da parte di istituti di credito di diritto pubblico e di enti di diritto pubblico esercenti il credito mobiliare.
+E' elevato a 25 miliardi di lire l'ammontare delle anticipazioni autorizzate con [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md) e successive modificazioni ed aggiunte, a favore di imprese industriale da parte di istituti di credito di diritto pubblico e di enti di diritto pubblico esercenti il credito mobiliare.
 
 ## Art. 2.
 

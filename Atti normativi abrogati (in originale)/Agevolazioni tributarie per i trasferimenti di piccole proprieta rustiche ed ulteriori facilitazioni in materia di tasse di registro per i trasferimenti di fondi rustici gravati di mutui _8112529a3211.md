@@ -14,15 +14,15 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), che approva il testo
+Visto il [R. decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), che approva il testo
 
 di legge del bollo;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che approva il testo
+Visto il [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che approva il testo
 
 di legge del registro;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3272](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ipotecarie.%20023U3272.md), che approva il testo
+Visto il [R. decreto 30 dicembre 1923, n. 3272](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ipotecarie.%20023U3272.md), che approva il testo
 
 di legge sulle tasse ipotecarie;
 

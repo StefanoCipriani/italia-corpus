@@ -110,7 +110,7 @@ Nota all'art. 7:
  Chiunque violi le disposizioni di cui agli articoli 5, primo e secondo comma, 6, 7 e 9 e' punito con ammenda fino a L. 5.000.000 o con l'arresto fino a tre mesi.
  Chiunque violi le disposizioni di cui all'articolo 5, quarto comma, e' punito con ammenda fino a L. 1.000.000.
  La condanna importa sospensione della concessione o della autorizzazione di vendita per un periodo da due a sei mesi e la pubblicazione della sentenza.
- Il Ministro per l'industria, il commercio e l'artigianato, il prefetto, il sindaco, ai quali deve essere trasmessa copia del verbale o del rapporto, possono sospendere, secondo la loro competenza, la concessione o l'autorizzazione sino all'esito del giudizio penale, salvo quanto disposto dall'[articolo 140 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)".
+ Il Ministro per l'industria, il commercio e l'artigianato, il prefetto, il sindaco, ai quali deve essere trasmessa copia del verbale o del rapporto, possono sospendere, secondo la loro competenza, la concessione o l'autorizzazione sino all'esito del giudizio penale, salvo quanto disposto dall'[articolo 140 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)".
 
 ## Art. 8.
 

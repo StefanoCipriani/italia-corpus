@@ -39,7 +39,7 @@ Nello stato di previsione della spesa del Ministero dell'interno, per l'esercizi
  namento, manutenzione e noleggio di vetture, carri automobili 
  e natanti in genere - Spese accessorie - Indennita' giornaliera 
  fissa al personale addetto alla conduzione degli autoveicoli e 
- dei natanti. ([R. decreto 13 luglio 1922, numero 1136](../Regi%20decreti/Che%20approva%20il%20regolamento%20sul%20servizio%20automobilistico%20per%20le%20Amministrazioni%20dello%20Stato.%20022U1136.md), e decreto 
+ dei natanti. ([R. decreto 13 luglio 1922, numero 1136](Che%20approva%20il%20regolamento%20sul%20servizio%20automobilistico%20per%20le%20Amministrazioni%20dello%20Stato.%20022U1136.md), e decreto 
  del Ministro per l'interno 17 aprile 1925). 
  
  Cap. n. 85 (modificata la denominazione). - Casermaggio per i 

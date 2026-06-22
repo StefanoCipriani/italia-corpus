@@ -56,7 +56,7 @@ Sono stabiliti nella somma di lire quarantasei milioni ottocentunmilacinquecento
  
  a) L. 302,007 38 per casi di forza maggiore in seguito a decreti Ministeriali emessi in base all'art. 215 del regolamento di Contabilita' generale 4 settembre 1870, n. 5852; 
  
- b) L. 46,499,426 98 in seguito all'attuazione della legge di riscatto delle Ferrovie Romane, per effetto della quale resto' eliminato il credito di Tesoreria pei Buoni del Tesoro in circolazione per conto della Societa' di dette Ferrovie, giusta il [Regio decreto 16 febbraio 1882, n. 646](../Regi%20decreti/Concernente%20lannullamento%20di%20260000%20obbligazioni%20della%20cessata%20Societa%20delle%20ferrovie%20romane.%20082U0646.md).
+ b) L. 46,499,426 98 in seguito all'attuazione della legge di riscatto delle Ferrovie Romane, per effetto della quale resto' eliminato il credito di Tesoreria pei Buoni del Tesoro in circolazione per conto della Societa' di dette Ferrovie, giusta il [Regio decreto 16 febbraio 1882, n. 646](Concernente%20lannullamento%20di%20260000%20obbligazioni%20della%20cessata%20Societa%20delle%20ferrovie%20romane.%20082U0646.md).
 
 ## Entrate e spese residue del 1881 ed anni precedenti.
 

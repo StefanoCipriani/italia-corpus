@@ -14,7 +14,7 @@ Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'[articolo 8, comma 1, della legge 27 ottobre 1988, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-27;470#art_8-com1), relativo alla data dell'espletamento della rilevazione degli italiani residenti all'estero;
 
-Visto l'[articolo 1 del decreto del Presidente della Repubblica 22 maggio 2001, n. 276](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20del%2014o%20censimento%20della%20popolazione%20del%20censimento%20generale%20delle%20abitazioni%20e%20dell8o%20censimento%20dellindustria%20e%20dei%20servizi%20a%20norma%20dellarticolo%2037%20della%20legge_855d59a544ed.md);
+Visto l'[articolo 1 del decreto del Presidente della Repubblica 22 maggio 2001, n. 276](../DPR/Regolamento%20di%20esecuzione%20del%2014o%20censimento%20della%20popolazione%20del%20censimento%20generale%20delle%20abitazioni%20e%20dell8o%20censimento%20dellindustria%20e%20dei%20servizi%20a%20norma%20dellarticolo%2037%20della%20legge_855d59a544ed.md);
 
 Ritenuta la straordinaria necessita' ed urgenza di fissare una nuova data per la rilevazione dei cittadini residenti all'estero, al fine di consentire la definizione delle operazioni di aggiornamento e perfezionamento dei dati degli schedari consolari;
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 5 aprile 1946, n. 226](../Decreti%20legislativi%20luogotenenziali/Revisione%20dei%20prezzi%20contrattuali%20per%20le%20opere%20dipendenti%20dal%20Ministero%20dei%20lavori%20pubblici.md);
+Visto il [decreto legislativo luogotenenziale 5 aprile 1946, n. 226](Revisione%20dei%20prezzi%20contrattuali%20per%20le%20opere%20dipendenti%20dal%20Ministero%20dei%20lavori%20pubblici_2.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per l'aeronautica, di concerto con il Ministro per i
 
 ## Art. 1.
 
-Le disposizioni contenute nel [decreto legislativo luogotenenziale 5 aprile 1946, n. 226](../Decreti%20legislativi%20luogotenenziali/Revisione%20dei%20prezzi%20contrattuali%20per%20le%20opere%20dipendenti%20dal%20Ministero%20dei%20lavori%20pubblici.md), contenente norme per la revisione dei prezzi contrattuali per le opere dipendenti dal Ministero dei lavori pubblici, sono estese anche ai lavori di pertinenza dell'Amministrazione aeronautica e gia' eseguiti o in corso di esecuzione alla data del 6 maggio 1946, con le seguenti aggiunte e varianti L'art. 3 e' sostituito dal seguente: 
+Le disposizioni contenute nel [decreto legislativo luogotenenziale 5 aprile 1946, n. 226](Revisione%20dei%20prezzi%20contrattuali%20per%20le%20opere%20dipendenti%20dal%20Ministero%20dei%20lavori%20pubblici_2.md), contenente norme per la revisione dei prezzi contrattuali per le opere dipendenti dal Ministero dei lavori pubblici, sono estese anche ai lavori di pertinenza dell'Amministrazione aeronautica e gia' eseguiti o in corso di esecuzione alla data del 6 maggio 1946, con le seguenti aggiunte e varianti L'art. 3 e' sostituito dal seguente: 
  "Le domande di revisione sono presentate alla Direzione del demanio competente per territorio e da questa inoltrate al Ministero dell'aeronautica, corredate della relativa istruttoria". 
  L'art. 4 e' sostituito dal seguente: 
  "Il Ministero dell'aeronautica decide sulle domande di revisione. 

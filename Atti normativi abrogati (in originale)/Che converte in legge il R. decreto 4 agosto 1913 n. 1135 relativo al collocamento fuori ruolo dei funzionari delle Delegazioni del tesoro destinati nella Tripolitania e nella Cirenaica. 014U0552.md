@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 4 agosto 1913, n. 1135](../Regi%20decreti/Col%20quale%20viene%20autorizzato%20il%20collocamento%20fuori%20ruolo%20dei%20funzionari%20delle%20Delegazioni%20del%20tesoro%20inviati%20in%20Libia%20013U1135.md), relativo al collocamento fuori del corrispondente ruolo organico dei funzionari delle Delegazioni del tesoro e di gestione e controllo destinati nella Tripolitania e nella Cirenaica. 
+ E' convertito in legge il [R. decreto 4 agosto 1913, n. 1135](Col%20quale%20viene%20autorizzato%20il%20collocamento%20fuori%20ruolo%20dei%20funzionari%20delle%20Delegazioni%20del%20tesoro%20inviati%20in%20Libia%20013U1135.md), relativo al collocamento fuori del corrispondente ruolo organico dei funzionari delle Delegazioni del tesoro e di gestione e controllo destinati nella Tripolitania e nella Cirenaica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

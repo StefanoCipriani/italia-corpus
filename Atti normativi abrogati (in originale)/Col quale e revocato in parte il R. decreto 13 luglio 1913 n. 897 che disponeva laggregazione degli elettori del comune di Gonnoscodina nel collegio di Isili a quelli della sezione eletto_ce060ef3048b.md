@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Veduta la tabella delle circoscrizioni annesse al testo unico suddetto; 
  
- Visto ii [R. decreto 13 luglio 1913, n. 897](../Regi%20decreti/Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Cagliari.%20013U0897.md), col quale disponevasi, fra l'altro, che gli elettori politici del comune di Gonnoscodina, nel collegio di Isili, fossero aggregati alla sezione elettorale di Baressa; 
+ Visto ii [R. decreto 13 luglio 1913, n. 897](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Cagliari.%20013U0897.md), col quale disponevasi, fra l'altro, che gli elettori politici del comune di Gonnoscodina, nel collegio di Isili, fossero aggregati alla sezione elettorale di Baressa; 
  
  Vista la deliberazione 30 aprile 1917 della Commissione elettorale provinciale di Cagliari, che avendo constatato, nella revisione delle liste per il 1917, che il comune di Gonnoscodina ha oltrepassato il numero di 100 elettori, propone di costituirlo in sezione autonoma; 
  

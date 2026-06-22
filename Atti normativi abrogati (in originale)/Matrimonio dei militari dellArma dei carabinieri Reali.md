@@ -14,9 +14,9 @@ PRINCIPE DI PIEMONTE
 
 LUOGOTENENTE GENERALE DEL REGNO
 
-In virtu' dell'autorita' a Noi delegata Visto il [R. decreto-legge 7 giugno 1938, n. 1201](Abrogazione%20delle%20norme%20limitatrici%20in%20materia%20di%20matrimonio%20dei%20sottufficiali%20e%20militari%20di%20truppa%20delle%20Forze%20armate%20dello%20Stato.%20038U1201.md), convertito, cui modificazioni, nella [legge 22 dicembre 1938, n. 2214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%207%20ghigno%201938-XVI%20n.%201201%20riguardante%20labrogazione%20delle%20norme%20limitatrici%20in%20materia%20di%20matrimonio%20dei%20sottufficiali%20e%20militar_ce5c6a895a81.md);
+In virtu' dell'autorita' a Noi delegata Visto il [R. decreto-legge 7 giugno 1938, n. 1201](Abrogazione%20delle%20norme%20limitatrici%20in%20materia%20di%20matrimonio%20dei%20sottufficiali%20e%20militari%20di%20truppa%20delle%20Forze%20armate%20dello%20Stato.%20038U1201.md), convertito, cui modificazioni, nella [legge 22 dicembre 1938, n. 2214](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%207%20ghigno%201938-XVI%20n.%201201%20riguardante%20labrogazione%20delle%20norme%20limitatrici%20in%20materia%20di%20matrimonio%20dei%20sottufficiali%20e%20militar_ce5c6a895a81.md);
 
-Visto il [R. decreto 2 maggio 1940, n. 902](../Regi%20decreti/Regolamento%20per%20il%20matrimonio%20dei%20sottufficiali%20e%20militari%20di%20truppa%20delle%20Forze%20armate%20dello%20Stato.%20040U0902.md), che approva il regolamento alla legge suddetta;
+Visto il [R. decreto 2 maggio 1940, n. 902](Regolamento%20per%20il%20matrimonio%20dei%20sottufficiali%20e%20militari%20di%20truppa%20delle%20Forze%20armate%20dello%20Stato.%20040U0902.md), che approva il regolamento alla legge suddetta;
 
 Visto il [R. decreto-legge 11 maggio 1944, n. 178](Modificazioni%20alle%20norme%20concernenti%20il%20matrimonio%20dei%20sottufficiali%20e%20militari%20di%20truppa%20dei%20carabinieri%20Reali.%20044U0178.md);
 

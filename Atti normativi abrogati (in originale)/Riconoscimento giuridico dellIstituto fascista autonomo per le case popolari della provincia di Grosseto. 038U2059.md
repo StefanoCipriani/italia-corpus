@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [testo unico delle disposizioni sull'edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con R. decreto 28 aprile 1938-XVI, numero 1165;
+Visto il [testo unico delle disposizioni sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con R. decreto 28 aprile 1938-XVI, numero 1165;
 
 Visto lo statuto-tipo approvato con [R. decreto 25 maggio 1936, n. 1049](Approvazione%20dello%20statuto-tipo%20contenente%20le%20norme%20fondamentali%20che%20dovranno%20essere%20riportate%20negli%20statuti%20organici%20dei%20singoli%20Istituti%20autonomi%20provinciali%20per%20le%20case%20popolari.%20036U1049.md);
 

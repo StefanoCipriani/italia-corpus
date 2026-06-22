@@ -24,7 +24,7 @@ Emana il seguente decreto-legge:
 
 1.
 
-Il versamento di venti punti percentuali dell'acconto dell'imposta sul reddito delle persone fisiche dovuto per il periodo d'imposta 2009 e' differito, nei limiti di quanto dovuto a saldo, alla data di versamento, per il medesimo periodo di imposta, del saldo di cui al [comma 1 dell'articolo 17 del decreto del Presidente della Repubblica 7 dicembre 2001, n. 435](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md).
+Il versamento di venti punti percentuali dell'acconto dell'imposta sul reddito delle persone fisiche dovuto per il periodo d'imposta 2009 e' differito, nei limiti di quanto dovuto a saldo, alla data di versamento, per il medesimo periodo di imposta, del saldo di cui al [comma 1 dell'articolo 17 del decreto del Presidente della Repubblica 7 dicembre 2001, n. 435](../DPR/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md).
 
 2.
 
@@ -36,7 +36,7 @@ Per i soggetti che si sono avvalsi dell'assistenza fiscale, i sostituti d'impost
 
 4.
 
-I sostituti d'imposta che non hanno tenuto conto del differimento di cui al comma 1 restituiscono le maggiori somme trattenute nell'ambito della retribuzione del mese di dicembre. Le somme restituite possono essere scomputate dal sostituto d'imposta ai sensi del [decreto del Presidente della Repubblica 10 novembre 1997, n. 445](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullo%20scomputo%20dei%20versamenti%20delle%20ritenute%20alla%20fonte%20effettuati%20a%20fronte%20dei%20versamenti%20successivi%20e%20sulla%20semplificazione%20degli%20adempimenti%20dei%20sostituti%20di%20_0de1fac572bd.md).
+I sostituti d'imposta che non hanno tenuto conto del differimento di cui al comma 1 restituiscono le maggiori somme trattenute nell'ambito della retribuzione del mese di dicembre. Le somme restituite possono essere scomputate dal sostituto d'imposta ai sensi del [decreto del Presidente della Repubblica 10 novembre 1997, n. 445](../DPR/Regolamento%20recante%20norme%20sullo%20scomputo%20dei%20versamenti%20delle%20ritenute%20alla%20fonte%20effettuati%20a%20fronte%20dei%20versamenti%20successivi%20e%20sulla%20semplificazione%20degli%20adempimenti%20dei%20sostituti%20di%20_0de1fac572bd.md).
 
 5.
 

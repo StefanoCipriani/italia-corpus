@@ -12,7 +12,7 @@ IL MINISTRO DELLE POSTE
 
 E DELLE TELECOMUNICAZIONI
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Vista la convenzione stipulata in data 1 agosto 1984 tra il Ministero delle poste e delle telecomunicazioni e la concessionaria SIP, approvata con [decreto del Presidente della Repubblica 13 agosto 1984, n. 523](../DPR/Approvazione%20ed%20esecuzione%20delle%20convenzioni%20per%20la%20concessione%20dei%20servizi%20di%20telecomunicazioni%20ad%20uso%20pubblico%20alle%20societa%20SIP%20Italcable%20e%20Telespazio.md), che disciplina la concessione di servizi di telecomunicazioni ad uso pubblico;
 

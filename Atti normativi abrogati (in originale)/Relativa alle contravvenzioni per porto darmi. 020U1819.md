@@ -12,11 +12,11 @@ vigente: true
 
 Le pene stabilite dagli [articoli 2](Sulle%20lesioni%20commesse%20con%20armi%20e%20sulle%20contravvenzioni%20per%20porto%20darmi.%20008U0319.md), [3](Sulle%20lesioni%20commesse%20con%20armi%20e%20sulle%20contravvenzioni%20per%20porto%20darmi.%20008U0319.md) e [4 della legge 2 luglio 1908, n. 319](Sulle%20lesioni%20commesse%20con%20armi%20e%20sulle%20contravvenzioni%20per%20porto%20darmi.%20008U0319.md), sulle lesioni commesse con armi e sulle contravvenzioni per porto d'armi sono estese a chiunque, senza licenza dell'autorita' competente e fuori della propria abitazione o delle appartenenze di essa, porta armi lunghe da fuoco, ovvero pistole o rivoltelle. 
  
- Se l'arma e' insidiosa rimangono le maggiori pene previste dagli [articoli 464](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [465 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Se l'arma e' insidiosa rimangono le maggiori pene previste dagli [articoli 464](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [465 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 
-Le disposizioni della [legge 30 giugno 1889, n. 6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-06-30;6144), sulla pubblica sicurezza e quelle del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) contrarie alla presente legge sono abrogate. 
+Le disposizioni della [legge 30 giugno 1889, n. 6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-06-30;6144), sulla pubblica sicurezza e quelle del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) contrarie alla presente legge sono abrogate. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

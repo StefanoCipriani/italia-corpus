@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 9 febbraio 1919, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-02-09;261), ed i [Regi decreti-legge 25 gennaio 1920, n. 112](Concernente%20il%20trasferimento%20di%20ufficiali%20commissari%20di%20complemento%20della%20R.%20marina%20nei%20ruoli%20del%20servizio%20attivo%20permanente.%20020U0112.md), e [18 aprile 1920, n.537](Concernente%20il%20trasferimento%20di%20ufficiali%20commissari%20di%20complemento%20della%20R.%20marina%20nel%20ruolo%20di%20quelli%20in%20servizio%20attivo%20permanente.%20020U0537.md);
 
-Visto il [R. decreto 10 agosto 1919, n. 1457](../Regi%20decreti/Che%20autorizza%20il%20trasferimento%20dei%20capitani%20e%20tenenti%20di%20complemento%20del%20genio%20navale%20nel%20ruolo%20degli%20ufficiali%20in%20servizio%20effettivo.%20019U1457.md);
+Visto il [R. decreto 10 agosto 1919, n. 1457](Che%20autorizza%20il%20trasferimento%20dei%20capitani%20e%20tenenti%20di%20complemento%20del%20genio%20navale%20nel%20ruolo%20degli%20ufficiali%20in%20servizio%20effettivo.%20019U1457.md);
 
 Visto il [R. decreto-legge 14 novembre 1919, n. 2267](Che%20autorizza%20il%20trasferimento%20nel%20ruolo%20del%20servizio%20attivo%20permanente%20di%20ufficiali%20medici%20di%20complemento%20in%20seguito%20a%20concorso%20per%20titoli.%20019U2267.md);
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro per la marina di concerto con quello per le f
 
 ## Art. 1.
 
-Gli ufficiali di vascello del Corpo dello Stato Maggiore generale, gli ufficiali del Corpo del Genio navale e del Corpo di Commissariato militare marittimo trasferiti dai ruoli di complemento in quelli del S. A. P, in base rispettivamente ai [Regi decreti 10 agosto 1919, n. 1475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-10;1475), [10 agosto 1919, n. 1457](../Regi%20decreti/Che%20autorizza%20il%20trasferimento%20dei%20capitani%20e%20tenenti%20di%20complemento%20del%20genio%20navale%20nel%20ruolo%20degli%20ufficiali%20in%20servizio%20effettivo.%20019U1457.md) per i primi due Corpi e [Regi decreti 9 febbraio 1919, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-02-09;261); [25 gennaio 1920, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-25;112), e [18 aprile 1920, n.537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-18;537), per il Corpo di Commissariato militare marittimo saranno promossi fino al grado di capitano di corvetta o di maggiore in soprannumero al ruolo organico.
+Gli ufficiali di vascello del Corpo dello Stato Maggiore generale, gli ufficiali del Corpo del Genio navale e del Corpo di Commissariato militare marittimo trasferiti dai ruoli di complemento in quelli del S. A. P, in base rispettivamente ai [Regi decreti 10 agosto 1919, n. 1475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-10;1475), [10 agosto 1919, n. 1457](Che%20autorizza%20il%20trasferimento%20dei%20capitani%20e%20tenenti%20di%20complemento%20del%20genio%20navale%20nel%20ruolo%20degli%20ufficiali%20in%20servizio%20effettivo.%20019U1457.md) per i primi due Corpi e [Regi decreti 9 febbraio 1919, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-02-09;261); [25 gennaio 1920, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-25;112), e [18 aprile 1920, n.537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-18;537), per il Corpo di Commissariato militare marittimo saranno promossi fino al grado di capitano di corvetta o di maggiore in soprannumero al ruolo organico.
 
 ## Art. 2.
 
@@ -73,7 +73,7 @@ A. P e godranno del trattamento disposto dall'art. 6 del R. decreto 11 gennaio 1
 
 ## Art. 7.
 
-Le disposizioni contenute negli articoli 1 a 5 compreso del presente decreto saranno inserite nel testo unico delle leggi sull'avanzamento dei Corpi militari della Regia Marina, da emanarsi in base al [R. decreto 30 dicembre 1923, n. 2991](../Regi%20decreti/Compilazione%20e%20pubblicazione%20di%20testi%20unici%20coordinati%20riguardanti%20i%20personali%20e%20i%20servizi%20della%20Regia%20marina.%20023U2991.md). 
+Le disposizioni contenute negli articoli 1 a 5 compreso del presente decreto saranno inserite nel testo unico delle leggi sull'avanzamento dei Corpi militari della Regia Marina, da emanarsi in base al [R. decreto 30 dicembre 1923, n. 2991](Compilazione%20e%20pubblicazione%20di%20testi%20unici%20coordinati%20riguardanti%20i%20personali%20e%20i%20servizi%20della%20Regia%20marina.%20023U2991.md). 
  
  E' abrogata qualunque disposizione contraria al presente decreto, che andra' in vigore dalla data della sua pubblicazione e sara' presentato al Parlamento per la conversione in legge. 
  

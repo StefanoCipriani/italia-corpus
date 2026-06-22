@@ -22,7 +22,7 @@ Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%2
 
 Visto il decreto 20 novembre 1930, n. 1482;
 
-Visto il [R. decreto 22 novembre 1937, n. 1933](../Regi%20decreti/Modificazioni%20alle%20norme%20riguardanti%20la%20promozione%20al%20grado%20ottavo%20nei%20ruoli%20di%20personali%20civili%20di%20gruppo%20A%20delle%20Amministrazioni%20statali.%20037U1933.md);
+Visto il [R. decreto 22 novembre 1937, n. 1933](Modificazioni%20alle%20norme%20riguardanti%20la%20promozione%20al%20grado%20ottavo%20nei%20ruoli%20di%20personali%20civili%20di%20gruppo%20A%20delle%20Amministrazioni%20statali.%20037U1933.md);
 
 Vista la [legge 26 gennaio 1942, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-26;39);
 

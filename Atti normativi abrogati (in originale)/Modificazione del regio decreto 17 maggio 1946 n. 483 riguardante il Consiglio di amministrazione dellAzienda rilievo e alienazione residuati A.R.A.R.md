@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 29 ottobre 1945, n. 683](../Decreti%20legislativi%20luogotenenziali/Creazione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20residuati%20di%20guerra.%20045U0683.md);
+Visto il [decreto legislativo luogotenenziale 29 ottobre 1945, n. 683](Creazione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20residuati%20di%20guerra.%20045U0683.md);
 
 Visto il [decreto luogotenenziale 23 novembre 1945, n. 793](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-23;793);
 
-Visto il [decreto legislativo luogotenenziale 22 dicembre 1945, n. 824](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Ministero%20della%20ricostruzione%20e%20devoluzione%20delle%20sue%20attribuzioni%20al%20Ministero%20dellindustria%20e%20del%20commercio%20ad%20eccezione%20di%20quelle%20che%20si%20riferiscono%20alla%20Presidenza%20de_e16756662f42.md);
+Visto il [decreto legislativo luogotenenziale 22 dicembre 1945, n. 824](Soppressione%20del%20Ministero%20della%20ricostruzione%20e%20devoluzione%20delle%20sue%20attribuzioni%20al%20Ministero%20dellindustria%20e%20del%20commercio%20ad%20eccezione%20di%20quelle%20che%20si%20riferiscono%20alla%20Presidenza%20de_e16756662f42.md);
 
-Visto il [regio decreto 17 maggio 1946, n. 483](../Regi%20decreti/Modificazione%20dellart.%203%20del%20decreto%20Luogotenenziale%2023%20novembre%201945%20n.%20793%20riguardante%20il%20Consiglio%20di%20amministrazione%20dellAzienda%20Rilievo%20Alienazione%20Residuati%20A.R.A.R.md);
+Visto il [regio decreto 17 maggio 1946, n. 483](Modificazione%20dellart.%203%20del%20decreto%20Luogotenenziale%2023%20novembre%201945%20n.%20793%20riguardante%20il%20Consiglio%20di%20amministrazione%20dellAzienda%20Rilievo%20Alienazione%20Residuati%20A.R.A.R.md);
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, numero 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per i trasporti, di concerto con i Ministri per il t
 
 ## Articolo unico
 
-L'articolo unico dell [regio decreto 17 maggio 1946, n. 483](../Regi%20decreti/Modificazione%20dellart.%203%20del%20decreto%20Luogotenenziale%2023%20novembre%201945%20n.%20793%20riguardante%20il%20Consiglio%20di%20amministrazione%20dellAzienda%20Rilievo%20Alienazione%20Residuati%20A.R.A.R.md), e' sostituito dal seguente:
+L'articolo unico dell [regio decreto 17 maggio 1946, n. 483](Modificazione%20dellart.%203%20del%20decreto%20Luogotenenziale%2023%20novembre%201945%20n.%20793%20riguardante%20il%20Consiglio%20di%20amministrazione%20dellAzienda%20Rilievo%20Alienazione%20Residuati%20A.R.A.R.md), e' sostituito dal seguente:
  "Con decreto del Ministro per i trasporti, di concerto con i Ministri per il tesoro e per l'industria e commercio, sentito il Consiglio dei Ministri, e' nominato il Consiglio di amministrazione, composto di non piu' di 15 membri fra i quali sono compresi, come membri di diritto, il direttore generale delle Ferrovie dello Stato e il ragioniere generale dello Stato.
 
  Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.

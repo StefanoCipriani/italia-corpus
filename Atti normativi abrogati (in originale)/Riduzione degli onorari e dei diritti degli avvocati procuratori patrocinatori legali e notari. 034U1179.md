@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti il [decreto-legge Luogotenenziale 27 ottobre 1918, n. 1774](Concernente%20gli%20onorari%20e%20gli%20altri%20diritti%20dei%20procuratori%20legali.%20018U1774.md), ed il [R. decreto-legge 22 dicembre 1921, n. 1887](Che%20aumenta%20gli%20onorari%20e%20gli%20altri%20diritti%20dei%20procuratori%20legali%20stabiliti%20dal%20decreto-legge%20Luogotenenziale%2027%20ottobre%201919%20N.%201774.%20021U1887.md), convertiti nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visto il [R. decreto 20 settembre 1922, n. 1316](../Regi%20decreti/In%20esecuzione%20dellart.%205%20della%20legge%2015%20settembre%201922%20n.%201237%20che%20modifica%20la%20competenza%20dei%20pretori%20e%20dei%20conciliatori.%20022U1316.md);
+Visto il [R. decreto 20 settembre 1922, n. 1316](In%20esecuzione%20dellart.%205%20della%20legge%2015%20settembre%201922%20n.%201237%20che%20modifica%20la%20competenza%20dei%20pretori%20e%20dei%20conciliatori.%20022U1316.md);
 
 Visto il [R. decreto-legge 29 dicembre 1930, n. 1740](Riduzione%20degli%20onorari%20e%20dei%20diritti%20degli%20avvocati%20dei%20procuratori%20e%20dei%20patrocinatori%20legali.%20030U1740.md), convertito nella [legge 26 marzo 1931, n. 373](Conversione%20in%20legge%20del%20R.%20decreto-legge%2029%20dicembre%201930%20n.%201740%20che%20riduce%20del%2012%20per%20cento%20gli%20onorari%20ed%20i%20diritti%20degli%20avvocati%20dei%20procuratori%20e%20dei%20patrocinatori%20legali.%20031U0373.md);
 

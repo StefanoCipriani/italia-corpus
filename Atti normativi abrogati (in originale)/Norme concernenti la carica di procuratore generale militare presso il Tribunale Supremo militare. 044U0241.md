@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 28 novembre 1935, n. 2397](Istituzione%20di%20un%20corpo%20di%20ufficiali%20in%20congedo%20della%20giustizia%20militare.%20035U2397.md), istitutivo del Corpo ufficiali in congedo della giustizia militare, convertito nella [legge 6 aprile 1936, n. 818](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20novembre%201935-XIV%20n.%202397%20concernente%20listituzione%20di%20un%20Corpo%20di%20ufficiali%20in%20congedo%20della%20giustizia%20militare.%20036U0818.md), e successive modificazioni;
+Visto il [R. decreto-legge 28 novembre 1935, n. 2397](Istituzione%20di%20un%20corpo%20di%20ufficiali%20in%20congedo%20della%20giustizia%20militare.%20035U2397.md), istitutivo del Corpo ufficiali in congedo della giustizia militare, convertito nella [legge 6 aprile 1936, n. 818](Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20novembre%201935-XIV%20n.%202397%20concernente%20listituzione%20di%20un%20Corpo%20di%20ufficiali%20in%20congedo%20della%20giustizia%20militare.%20036U0818.md), e successive modificazioni;
 
-Visto il [R. decreto 8 luglio 1937, n. 1826](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20R.%20decreto-legge%2028%20novembre%201935-XIV%20n.%202397%20istitutivo%20del%20Corpo%20degli%20ufficiali%20in%20congedo%20della%20giustizia%20militare.%20037U1826.md), che approva il regolamento per la esecuzione del predetto [R. decreto-legge 28 novembre 1935, n. 2397](Istituzione%20di%20un%20corpo%20di%20ufficiali%20in%20congedo%20della%20giustizia%20militare.%20035U2397.md);
+Visto il [R. decreto 8 luglio 1937, n. 1826](Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20R.%20decreto-legge%2028%20novembre%201935-XIV%20n.%202397%20istitutivo%20del%20Corpo%20degli%20ufficiali%20in%20congedo%20della%20giustizia%20militare.%20037U1826.md), che approva il regolamento per la esecuzione del predetto [R. decreto-legge 28 novembre 1935, n. 2397](Istituzione%20di%20un%20corpo%20di%20ufficiali%20in%20congedo%20della%20giustizia%20militare.%20035U2397.md);
 
 Visto l'ordinamento giudiziario militare, approvato col [R. decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md);
 

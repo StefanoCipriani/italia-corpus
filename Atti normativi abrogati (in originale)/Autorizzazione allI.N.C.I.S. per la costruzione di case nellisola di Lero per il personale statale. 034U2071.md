@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-L'Istituto nazionale per le case degli impiegati dello Stato e' autorizzato, in deroga alle norme che lo regolano, a costruire case nell'isola di Lero, nel limite di spesa di non oltre L. 1.500.000, avvalendosi della somma assegnata all' Istituto medesimo col [R. decreto 27 gennaio 1927, n. 90](../Regi%20decreti/Assegnazione%20di%20somme%20prelevate%20dallavanzo%20effettivo%20dellesercizio%20finanziario%201925-26.%20027U0090.md). 
+L'Istituto nazionale per le case degli impiegati dello Stato e' autorizzato, in deroga alle norme che lo regolano, a costruire case nell'isola di Lero, nel limite di spesa di non oltre L. 1.500.000, avvalendosi della somma assegnata all' Istituto medesimo col [R. decreto 27 gennaio 1927, n. 90](Assegnazione%20di%20somme%20prelevate%20dallavanzo%20effettivo%20dellesercizio%20finanziario%201925-26.%20027U0090.md). 
  
  Il Governatore delle Isole Egee ha la rappresentanza in Lero, a tutti gli effetti, dell'istitito nazionale per le case degli impiegati dello Stato. 
  

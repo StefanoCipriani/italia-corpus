@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La Cassa depositi e prestiti e' autorizzata a dichiarare, con la procedura di cui all'[art. 3 del R. decreto 8 febbraio 1923, n. 287](../Regi%20decreti/Col%20quale%20vengono%20apportate%20modificazioni%20alle%20norme%20vigenti%20per%20la%20concessione%20di%20mutui%20da%20parte%20della%20Cassa%20depositi%20e%20prestiti.%20023U0287.md), la decadenza dei prestiti dopo trascorsi tre anni dalla data del provvedimento di concessione senza che le siano stati prodotti i documenti richiesti per porre i mutui in ammortamento. 
+La Cassa depositi e prestiti e' autorizzata a dichiarare, con la procedura di cui all'[art. 3 del R. decreto 8 febbraio 1923, n. 287](Col%20quale%20vengono%20apportate%20modificazioni%20alle%20norme%20vigenti%20per%20la%20concessione%20di%20mutui%20da%20parte%20della%20Cassa%20depositi%20e%20prestiti.%20023U0287.md), la decadenza dei prestiti dopo trascorsi tre anni dalla data del provvedimento di concessione senza che le siano stati prodotti i documenti richiesti per porre i mutui in ammortamento. 
  
  Per i prestiti gia' concessi, i tre anni decorrono dalla data della presente legge, salvo che trattisi di mutui che beneficiarono delle eccezionali agevolezze portate dal [R. decreto-legge 2 dicembre 1934, n. 1998](Riduzione%20al%20450%20per%20cento%20del%20tasso%20dinteresse%20sui%20mutui%20concessi%20dalla%20Cassa%20depositi%20e%20prestiti%20a%20Provincie%20e%20Comuni.%20034U1998.md), per i quali le dichiarazioni di cui al precedente comma potranno aver luogo dal 1° giugno 1938-XVI.
 

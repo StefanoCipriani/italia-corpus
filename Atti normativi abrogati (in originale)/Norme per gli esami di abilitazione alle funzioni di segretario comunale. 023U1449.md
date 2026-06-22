@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduti il testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), ed i [decreti Luogotenenziali 27 maggio 1915, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-05-27;744), e 21 maggio 682, nonche' il [R. decreto-legge 2 ottobre 1919, n.1853](Che%20proroga%20la%20validita%20delle%20patenti%20provvisorie%20per%20labilitazione%20alle%20funzioni%20di%20segretario%20comunale%20e%20stabilisce%20norme%20per%20la%20loro%20conversione%20in%20definitive.%20019U1853.md);
+Veduti il testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), ed i [decreti Luogotenenziali 27 maggio 1915, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-05-27;744), e 21 maggio 682, nonche' il [R. decreto-legge 2 ottobre 1919, n.1853](Che%20proroga%20la%20validita%20delle%20patenti%20provvisorie%20per%20labilitazione%20alle%20funzioni%20di%20segretario%20comunale%20e%20stabilisce%20norme%20per%20la%20loro%20conversione%20in%20definitive.%20019U1853.md);
 
 Sentito il Consiglio dei Ministri;
 

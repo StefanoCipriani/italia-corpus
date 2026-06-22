@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono apportate le seguenti modificazioni:
+Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono apportate le seguenti modificazioni:
                         a)
                             nel comma 1, lettera b), dell'articolo 10 sono aggiunte, in fine, le seguenti parole: "; sono in ogni caso esclusi i contributi agricoli unificati;";
                         b)
@@ -41,13 +41,13 @@ nella ipotesi di beni gia' utilizzati da parte di altri soggetti, le quote di am
 
 2.
 
-Le costruzioni indicate nella lettera a) del comma 1 dell'articolo 39 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), nonche' le altre costruzioni o porzioni di costruzioni destinate ad abitazione di persone devono essere iscritte al catasto edilizio urbano entro il 31 dicembre 1990. Con decreto del Ministro delle finanze, da pubblicare nella Gazzetta Ufficiale entro novanta giorni dalla data di entrata in vigore del presente decreto, saranno emanate le norme per l'attuazione della disciplina dettata dalla lettera d) del comma 1 e per le procedure di iscrizione al catasto.
+Le costruzioni indicate nella lettera a) del comma 1 dell'articolo 39 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), nonche' le altre costruzioni o porzioni di costruzioni destinate ad abitazione di persone devono essere iscritte al catasto edilizio urbano entro il 31 dicembre 1990. Con decreto del Ministro delle finanze, da pubblicare nella Gazzetta Ufficiale entro novanta giorni dalla data di entrata in vigore del presente decreto, saranno emanate le norme per l'attuazione della disciplina dettata dalla lettera d) del comma 1 e per le procedure di iscrizione al catasto.
 
 ## Art. 2.
 
 1.
 
-Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono apportate le seguenti modificazioni:
+Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono apportate le seguenti modificazioni:
                         a)
                             nel comma 2 dell'articolo 51 e' aggiunta la seguente lettera: " c) i redditi dei terreni, per la parte derivante dall'esercizio delle attivita' agricole di cui all'articolo 29, pur se nei limiti ivi stabiliti, ove spettino ai soggetti indicati nelle lettere a) e b) del comma 1 dell'articolo 87.";
                         b)
@@ -57,7 +57,7 @@ Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente 
 
 2.
 
-I soggetti indicati nell'articolo 51, comma 2, lettera c), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), che svolgono attivita' di allevamento, sono obbligati a tenere anche le scritture contabili previste dall'[articolo 18- bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md).
+I soggetti indicati nell'articolo 51, comma 2, lettera c), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), che svolgono attivita' di allevamento, sono obbligati a tenere anche le scritture contabili previste dall'[articolo 18- bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md).
 
 3.
 
@@ -83,7 +83,7 @@ Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Isti
                             il primo, secondo, terzo e quarto comma dell'articolo 38- bis sono sostituiti dai seguenti: 
  "I rimborsi previsti nell'articolo 30 sono eseguiti, su richiesta fatta in sede di dichiarazione annuale, entro tre mesi dalla scadenza del termine di presentazione della dichiarazione prestando, prima dell'esecuzione del rimborso e per la durata di due anni dallo stesso, cauzione in titoli di Stato o garantiti dallo Stato, al valore di borsa, ovvero fideiussione rilasciata da un'azienda o istituto di credito, comprese le casse rurali e artigiane indicate nel primo comma dell'articolo 38, o da una impresa commerciale che a giudizio dell'Amministrazione finanziaria offra adeguate garanzie di solvibilita' o mediante polizza fideiussoria rilasciata da un istituto o impresa di assicurazione. Sulle somme rimborsate si applicano gli interessi in ragione del 9 per cento annuo, con decorrenza dal novantesimo giorno successivo a quello in cui e' stata presentata la dichiarazione, non computando il periodo intercorrente tra la data di notifica della richiesta di documenti e la data della loro consegna, quando superi quindici giorni. 
  Il contribuente puo' ottenere il rimborso in relazione a periodi inferiori all'anno, prestando le garanzie indicate nel comma precedente, nelle ipotesi di cui alle lettere a) e b) del terzo comma dell'articolo 30. 
- Quando sia stato constatato nel relativo periodo di imposta uno dei reati di cui all'[articolo 4, primo comma, n. 5), del decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_4-com1-num5), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20429%20recante%20norme%20per%20la%20repressione%20dellevasione%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20e%20per%20_832c3a3ade70.md), l'esecuzione dei rimborsi prevista nei commi precedenti e' sospesa, fino a concorrenza dell'ammontare dell'imposta sul valore aggiunto indicata nelle fatture o in altri documenti illecitamente emessi od utilizzati, fino alla definizione del relativo procedimento penale. 
+ Quando sia stato constatato nel relativo periodo di imposta uno dei reati di cui all'[articolo 4, primo comma, n. 5), del decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_4-com1-num5), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20429%20recante%20norme%20per%20la%20repressione%20dellevasione%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20e%20per%20_832c3a3ade70.md), l'esecuzione dei rimborsi prevista nei commi precedenti e' sospesa, fino a concorrenza dell'ammontare dell'imposta sul valore aggiunto indicata nelle fatture o in altri documenti illecitamente emessi od utilizzati, fino alla definizione del relativo procedimento penale. 
  Ai riborsi previsti nei commi precedenti e al pagamento degli interessi provvede il competente ufficio utilizzando i fondi della riscossione, eventualmente aumentati delle somme riscosse da altri uffici dell'imposta sul valore aggiunto. Ai fini della formazione della giacenza occorrente per l'effettuazione dei rimborsi e' autorizzata dilazione per il versamento all'erario dell'imposta riscossa. Ai rimborsi puo' in ogni caso provvedersi con i normali stanziamenti di bilancio.".
 
 ## Art. 4.
@@ -281,7 +281,7 @@ Una quota pari al 40 per cento dei versamenti risultanti in sede consuntiva e' a
 
 1.
 
-Le modificazioni al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), disposte con l'articolo 1 hanno effetto dal periodo di imposta in corso alla data del 31 dicembre 1989, tuttavia, per tale periodo e per quello successivo, il limite di cui alla lettera c) dell'articolo 10 del predetto testo unico e' elevato rispettivamente della meta' e di un terzo se gli oneri indicati nella predetta lettera c) dipendono da mutui agrari di miglioramento a tasso non agevolato. Le disposizioni dell'articolo 2, commi 1 e 2, hanno effetto dal primo periodo di imposta che ha inizio dopo il 31 dicembre 1989; quelle dell'articolo 3, salvo quanto disposto nel comma 2 del presente articolo, e quelle dell'articolo 4, commi 5, 6 e 7, e degli articoli 5, commi 1 e 2, e 8 hanno effetto dal 1 gennaio 1990.
+Le modificazioni al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), disposte con l'articolo 1 hanno effetto dal periodo di imposta in corso alla data del 31 dicembre 1989, tuttavia, per tale periodo e per quello successivo, il limite di cui alla lettera c) dell'articolo 10 del predetto testo unico e' elevato rispettivamente della meta' e di un terzo se gli oneri indicati nella predetta lettera c) dipendono da mutui agrari di miglioramento a tasso non agevolato. Le disposizioni dell'articolo 2, commi 1 e 2, hanno effetto dal primo periodo di imposta che ha inizio dopo il 31 dicembre 1989; quelle dell'articolo 3, salvo quanto disposto nel comma 2 del presente articolo, e quelle dell'articolo 4, commi 5, 6 e 7, e degli articoli 5, commi 1 e 2, e 8 hanno effetto dal 1 gennaio 1990.
 
 2.
 

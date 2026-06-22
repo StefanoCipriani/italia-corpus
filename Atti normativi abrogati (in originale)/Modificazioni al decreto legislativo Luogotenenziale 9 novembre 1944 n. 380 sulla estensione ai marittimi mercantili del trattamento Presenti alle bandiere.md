@@ -18,11 +18,11 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto-legge 15 marzo 1943, n. 121](Norme%20intese%20a%20considerare%20presenti%20alle%20bandiere%20i%20militari%20e%20i%20militarizzati%20deceduti%20per%20ferite%20lesioni%20od%20infermita%20riportate%20o%20contratte%20per%20servizio%20di%20guerra%20o%20che%20siano%20nelle%20stes_c24e6980d7de.md);
 
-Visto il [R. decreto 5 aprile 1943, n. 681](../Regi%20decreti/Norme%20integrative%20del%20R.%20decreto-legge%2015%20marzo%201943%20n.%20121%20recante%20norme%20intese%20a%20considerare%20Presenti%20alle%20bandiere%20i%20militari%20e%20i%20militarizzati%20deceduti%20per%20ferite%20lesioni%20od%20infermita_50e95ef6b864.md);
+Visto il [R. decreto 5 aprile 1943, n. 681](Norme%20integrative%20del%20R.%20decreto-legge%2015%20marzo%201943%20n.%20121%20recante%20norme%20intese%20a%20considerare%20Presenti%20alle%20bandiere%20i%20militari%20e%20i%20militarizzati%20deceduti%20per%20ferite%20lesioni%20od%20infermita_50e95ef6b864.md);
 
 Visto il [R. decreto-legge 6 aprile 1944, n. 108](Modifica%20delle%20norme%20integrative%20del%20R.%20decreto%20legge%2015%20marzo%201943%20n.%20121%20sulla%20concessione%20del%20trattamento%20di%20Presenti%20alle%20Bandiere%20ai%20militari%20ed%20ai%20militarizzati%20deceduti%20per%20ferite%20_54e72c452b48.md);
 
-Visto il [R. decreto 22 novembre 1937, n. 2629](../Regi%20decreti/Tabella%20dei%20gradi%20militari%20da%20conferire%20al%20personale%20delle%20navi%20mercantili%20inscritte%20nel%20naviglio%20ausiliario%20dello%20Stato.%20037U2629.md);
+Visto il [R. decreto 22 novembre 1937, n. 2629](Tabella%20dei%20gradi%20militari%20da%20conferire%20al%20personale%20delle%20navi%20mercantili%20inscritte%20nel%20naviglio%20ausiliario%20dello%20Stato.%20037U2629.md);
 
 Visto il [R. decreto 1° settembre 1940, n. 1361](../Regi%20decreti/Modificazioni%20alla%20tabella%20dei%20gradi%20militari%20da%20conferire%20al%20personale%20delle%20navi%20mercantili%20iscritte%20nel%20naviglio%20ausiliario%20dello%20Stato.%20040U1361.md);
 

@@ -41,7 +41,7 @@ Il Ministro dell'interno, sentita la commissione di cui all'art. 4, determina co
 
 ## Art. 3.
 
-Per l'attuazione dei piani di cui al precedente articolo, il Ministro dell'interno e' autorizzato ad avvalersi di enti ed imprese, eventualmente in deroga al disposto degli [articoli 107](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md) e [113 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), che abbiano particolare competenza ed idonei mezzi tecnici. 
+Per l'attuazione dei piani di cui al precedente articolo, il Ministro dell'interno e' autorizzato ad avvalersi di enti ed imprese, eventualmente in deroga al disposto degli [articoli 107](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md) e [113 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), che abbiano particolare competenza ed idonei mezzi tecnici. 
  Per i progetti, i contratti e le convenzioni per la esecuzione dei lavori, provviste e forniture inerenti alla attuazione dei piani medesimi, si deroga all'obbligo dei preventivi pareri prescritti dalle norme vigenti 
  Il Ministro dell'interno riferisce alle competenti commissioni della Camera e del Senato entro il 31 marzo 1980 sull'attuazione del presente decreto-legge.
 

@@ -789,13 +789,13 @@ TITOLO VII.
 
 ### Art. 95.
 
-Quando la serrata, lo sciopero e l'irregolare prestazione del lavoro avvengano per scopi diversi da quello indicati nell'art. 18 della legge 3 aprile 1926, si applicano le pene stabilite negli articoli 235 primo comma e 236 [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e si procede d'ufficio.
+Quando la serrata, lo sciopero e l'irregolare prestazione del lavoro avvengano per scopi diversi da quello indicati nell'art. 18 della legge 3 aprile 1926, si applicano le pene stabilite negli articoli 235 primo comma e 236 [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e si procede d'ufficio.
 
 ### Art. 96.
 
-Quando la serrata, lo sciopero e l'irregolare prestazione del lavoro siano accompagnati da violenza o minaccia, si applicano le pene stabilite negli [articoli 166](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [167 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Quando la serrata, lo sciopero e l'irregolare prestazione del lavoro siano accompagnati da violenza o minaccia, si applicano le pene stabilite negli [articoli 166](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [167 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- Se la violenza o minaccia sia esercitata nei modi previsti dall'art. 154 primo capoverso del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applicano le pene stabilite in detto articolo, ovvero quelle della legge 3 aprile 1926, se queste siano piu' gravi.
+ Se la violenza o minaccia sia esercitata nei modi previsti dall'art. 154 primo capoverso del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applicano le pene stabilite in detto articolo, ovvero quelle della legge 3 aprile 1926, se queste siano piu' gravi.
 
 ### Art. 97.
 

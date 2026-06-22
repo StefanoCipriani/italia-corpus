@@ -21,7 +21,7 @@ E' autorizzata la spesa di cinque miliardi, da iscriversi, in ragione di un mili
 
 ## Art. 2.
 
-Ai fini della presente legge si considerano coltivatori diretti quelli indicati nell'art. 5, terzo comma, lettera a), del regolamento approvato con [decreto del Presidente della Repubblica 17 ottobre 1952, n. 1317](../Regolamenti%20governativi/Regolamento%20per%20lesecuzione%20delle%20norme%20di%20cui%20al%20capo%20III%20della%20legge%2025%20luglio%201952%20n.%20949%20recante%20provvedimenti%20per%20lo%20sviluppo%20delleconomia%20e%20lincremento%20delloccupazione.md). Si considerano piccole e medie aziende agricole quelle indicate rispettivamente nelle lettere b) e c) del citato art. 5, terzo comma.
+Ai fini della presente legge si considerano coltivatori diretti quelli indicati nell'art. 5, terzo comma, lettera a), del regolamento approvato con [decreto del Presidente della Repubblica 17 ottobre 1952, n. 1317](../DPR/Regolamento%20per%20lesecuzione%20delle%20norme%20di%20cui%20al%20capo%20III%20della%20legge%2025%20luglio%201952%20n.%20949%20recante%20provvedimenti%20per%20lo%20sviluppo%20delleconomia%20e%20lincremento%20delloccupazione.md). Si considerano piccole e medie aziende agricole quelle indicate rispettivamente nelle lettere b) e c) del citato art. 5, terzo comma.
  La determinazione delle zone con agricoltura arretrata, ai fini della presente legge, e' fatta con decreto del Ministro per l'agricoltura e per le foreste.
 
 ## Art. 3.

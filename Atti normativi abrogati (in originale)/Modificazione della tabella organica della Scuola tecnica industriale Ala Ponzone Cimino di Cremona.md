@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista il [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
- Visto il [regio decreto 31 agosto 1933, n. 2029](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20industriale%20Ala%20Ponzone%20Cimino%20di%20Cremona%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2029.md), con il quale viene approvata la tabella organica della Scuola tecnica industriale "Ala Ponzone Cimino" di Cremona;
+ Visto il [regio decreto 31 agosto 1933, n. 2029](Trasformazione%20della%20Regia%20scuola%20industriale%20Ala%20Ponzone%20Cimino%20di%20Cremona%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2029.md), con il quale viene approvata la tabella organica della Scuola tecnica industriale "Ala Ponzone Cimino" di Cremona;
  Visto l'[art. 10 del decreto legislativo Presidenziale 27 giugno 1946, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;107#art_10);
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;
 

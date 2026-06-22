@@ -20,9 +20,9 @@ Visto il [decreto Luogotenenziale 27 marzo 1919, n. 573](https://www.normattiva.
 
 Visto il [decreto Luogotenenziale 14 giugno 1917, n. 1032](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-06-14;1032), riguardante il mantenimento e la riassunzione in servizio dei militari invalidi di guerra;
 
-Visto il [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md);
+Visto il [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md);
 
-Visto il testo unico delle leggi sugli stipendi ed assegni fissi per il Regio esercito, approvato con [R. decreto 14 luglio 1898, n. 380](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e successive modificazioni;
+Visto il testo unico delle leggi sugli stipendi ed assegni fissi per il Regio esercito, approvato con [R. decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e successive modificazioni;
 
 Sentito il Consiglio dei Ministri;
 
@@ -54,7 +54,7 @@ Qualora la domanda di mantenimento in servizio sia stata presentata dall'ufficia
 
 Il Ministro per la guerra ha sempre facolta' di disporre, a suo insindacabile giudizio, il collocamento a riposo degli ufficiali comunque mantenuti in servizio, che, previo parere del Collegio medico superiore, siano riconosciuti non piu' idonei ad esercitare tutte le funzioni inerenti al proprio grado nell'arma o nel corpo, cui essi appartengono. 
  
- All'atto del collocamento a riposo gli ufficiali predetti avranno diritto al trattamento stabilito dall'[art. 22 del Regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
+ All'atto del collocamento a riposo gli ufficiali predetti avranno diritto al trattamento stabilito dall'[art. 22 del Regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
  
  Il presente decreto entrera' in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per essere convertito in legge. 
  

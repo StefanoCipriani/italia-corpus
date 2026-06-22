@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 31 agosto 1945, n. 640](../Decreti%20legislativi%20luogotenenziali/Soppressione%20dellIstituto%20di%20antropologia%20sociale%20presso%20la%20Regia%20universita%20di%20Palermo.%20045U0640.md);
+Visto il [decreto legislativo luogotenenziale 31 agosto 1945, n. 640](Soppressione%20dellIstituto%20di%20antropologia%20sociale%20presso%20la%20Regia%20universita%20di%20Palermo.%20045U0640.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto col Ministro
 
 ## Articolo unico.
 
-Gli studenti provenienti dal soppresso Istituto di antropologia sociale di Palermo e successivamente iscritti al corso di diploma di abilitazione alla vigilanza nelle scuole elementari in base all'[art. 3 del decreto legislativo luogotenenziale 31 agosto 1945, n. 640](../Decreti%20legislativi%20luogotenenziali/Soppressione%20dellIstituto%20di%20antropologia%20sociale%20presso%20la%20Regia%20universita%20di%20Palermo.%20045U0640.md), possono, a loro domanda, ottenere il passaggio, o la iscrizione, se gia' diplomati, al corso di laurea in pedagogia con le abbreviazioni di corso che possano essere accordate dalle autorita' accademiche in base agli insegnamenti precedentemente frequentati ed agli esami superati.
+Gli studenti provenienti dal soppresso Istituto di antropologia sociale di Palermo e successivamente iscritti al corso di diploma di abilitazione alla vigilanza nelle scuole elementari in base all'[art. 3 del decreto legislativo luogotenenziale 31 agosto 1945, n. 640](Soppressione%20dellIstituto%20di%20antropologia%20sociale%20presso%20la%20Regia%20universita%20di%20Palermo.%20045U0640.md), possono, a loro domanda, ottenere il passaggio, o la iscrizione, se gia' diplomati, al corso di laurea in pedagogia con le abbreviazioni di corso che possano essere accordate dalle autorita' accademiche in base agli insegnamenti precedentemente frequentati ed agli esami superati.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

@@ -18,9 +18,9 @@ VITTORIO EMANUELE II
  
  Atteso che la Legge di Pubblica Sicurezza, allegato B della Legge di unificazione del 20 marzo ultimo scorso, contenga disposizioni risguardanti gli oziosi e vagabondi; 
  
- Atteso che importi che in Toscana sia dichiarato legalmente chi s'intenda sotto la designazione di oziosi, di cui e' parola nella citata Legge di Pubblica Sicurezza e negli articoli 437 e 441, ed ai quali pure riguarda l'[art. 438 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) italiano, la di cui pubblicazione in Toscana venne ordinata coll'art. 123 della stessa Legge di Pubblica Sicurezza; 
+ Atteso che importi che in Toscana sia dichiarato legalmente chi s'intenda sotto la designazione di oziosi, di cui e' parola nella citata Legge di Pubblica Sicurezza e negli articoli 437 e 441, ed ai quali pure riguarda l'[art. 438 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) italiano, la di cui pubblicazione in Toscana venne ordinata coll'art. 123 della stessa Legge di Pubblica Sicurezza; 
  
- Atteso che l'uniformita' della legislazione richiegga che la definizione delle persone reputate oziose sia identica in Toscana a quella adottata per le altre Provincie del Regno dall'[art. 435 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) italiano; 
+ Atteso che l'uniformita' della legislazione richiegga che la definizione delle persone reputate oziose sia identica in Toscana a quella adottata per le altre Provincie del Regno dall'[art. 435 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) italiano; 
  
  Sulla proposta dei Ministri dell'Interno e di Grazia e Giustizia e dei Culti; 
  
@@ -28,7 +28,7 @@ VITTORIO EMANUELE II
  
  Articolo unico. 
  
- Sara' pubblicato in Toscana l'[art. 435 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) italiano del tenore seguente: 
+ Sara' pubblicato in Toscana l'[art. 435 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) italiano del tenore seguente: 
  
  Art. 435. «Si avranno per oziosi coloro i quali, sani e robusti e non provveduti di sufficienti mezzi di sussistenza, vivono senza esercitare professione, arte o mestiere, o senza darsi a stabile lavoro.» 
  

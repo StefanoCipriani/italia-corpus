@@ -16,7 +16,7 @@ E' approvato l'annesso regolamento legislativo per l'ordinamento e le funzioni d
 
 ## Art. 2.
 
-Salvo quanto e' disposto con le norme transitorie del regolamento legislativo predetto, sono abrogate le disposizioni del regolamento legislativo approvato con [R. decreto 31 dicembre 1923, n. 3258](../Regi%20decreti/Regolamenti%20concernenti%20lOpera%20nazionale%20per%20i%20combattenti.%20023U3258.md), e modificato con [R. decreto-legge 16 aprile 1925 n. 853](Modificazioni%20al%20regolamento%20per%20lordinamento%20e%20le%20funzioni%20dellOpera%20nazionale%20per%20i%20combattenti%20approvato%20con%20R.%20decreto%2031%20dicembre%201923%20n.%203258.%20025U0853.md). 
+Salvo quanto e' disposto con le norme transitorie del regolamento legislativo predetto, sono abrogate le disposizioni del regolamento legislativo approvato con [R. decreto 31 dicembre 1923, n. 3258](Regolamenti%20concernenti%20lOpera%20nazionale%20per%20i%20combattenti.%20023U3258.md), e modificato con [R. decreto-legge 16 aprile 1925 n. 853](Modificazioni%20al%20regolamento%20per%20lordinamento%20e%20le%20funzioni%20dellOpera%20nazionale%20per%20i%20combattenti%20approvato%20con%20R.%20decreto%2031%20dicembre%201923%20n.%203258.%20025U0853.md). 
  
  Il presente decreto che andra' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno, sara' presentato al Parlamento per la conversione in legge. 
  

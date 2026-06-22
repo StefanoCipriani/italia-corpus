@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 21 maggio 1934, n. 1073](../Regi%20decreti/Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20034U1073.md);
+Visto il [R. decreto 21 maggio 1934, n. 1073](Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20034U1073.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944 n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 
 ## Art. 1.
 
-Il limite di L. 2000 stabilito dall'art. 27, 5° comma, del [R. decreto 21 maggio 1934, n. 1073](../Regi%20decreti/Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20034U1073.md), per l'esenzione dal qualsiasi diritto o tassa riguardante i giudizi e gli atti relativi nelle controversie individuali di lavoro, e' elevato a L. 10.000.
+Il limite di L. 2000 stabilito dall'art. 27, 5° comma, del [R. decreto 21 maggio 1934, n. 1073](Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20034U1073.md), per l'esenzione dal qualsiasi diritto o tassa riguardante i giudizi e gli atti relativi nelle controversie individuali di lavoro, e' elevato a L. 10.000.
 
 ## Art. 2.
 

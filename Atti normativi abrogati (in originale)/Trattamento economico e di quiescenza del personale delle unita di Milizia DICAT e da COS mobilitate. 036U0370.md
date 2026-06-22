@@ -28,7 +28,7 @@ Visto il R. decreto-legge 21 gennaio 1935-XIII, n. 181, sulle variazioni all'ord
 
 Visto il testo unico delle disposizioni concernenti gli stipendi ed assegni fissi per il Regio esercito, approvato con R. decreto 31 dicembre 1928-VII, n. 3458;
 
-Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
+Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
 
 Vista la legge 22 gennaio 1934-XII, n. 115, relativa ai soccorsi giornaliere alle famiglie bisognose dei militari richiamati o trattenuti alle armi, e successive modificazioni;
 

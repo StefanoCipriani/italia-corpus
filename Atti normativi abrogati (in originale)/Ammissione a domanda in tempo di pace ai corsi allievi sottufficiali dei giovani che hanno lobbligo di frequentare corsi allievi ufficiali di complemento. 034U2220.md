@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- I giovani, che hanno l'obbligo di frequentare i corsi allievi ufficiali di complemento perche' in possesso dei titoli stabiliti dall'[art. 1 del R. decreto 31 dicembre 1923, n. 3224](../Regi%20decreti/Obbligatorieta%20di%20frequenza%20dei%20corsi%20allievi%20ufficiali%20di%20complemento.%20023U3224.md), e che abbiano i prescritti requisiti fisici e morali, possono, a domanda, essere ammessi, in tempo di pace, a frequentare i corsi allievi sottufficiali per compiere, poi, come sottufficiali, i rispettivi obblighi di ferma o per continuare nella carriera. 
+ I giovani, che hanno l'obbligo di frequentare i corsi allievi ufficiali di complemento perche' in possesso dei titoli stabiliti dall'[art. 1 del R. decreto 31 dicembre 1923, n. 3224](Obbligatorieta%20di%20frequenza%20dei%20corsi%20allievi%20ufficiali%20di%20complemento.%20023U3224.md), e che abbiano i prescritti requisiti fisici e morali, possono, a domanda, essere ammessi, in tempo di pace, a frequentare i corsi allievi sottufficiali per compiere, poi, come sottufficiali, i rispettivi obblighi di ferma o per continuare nella carriera. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare conte legge dello Stato. 
  

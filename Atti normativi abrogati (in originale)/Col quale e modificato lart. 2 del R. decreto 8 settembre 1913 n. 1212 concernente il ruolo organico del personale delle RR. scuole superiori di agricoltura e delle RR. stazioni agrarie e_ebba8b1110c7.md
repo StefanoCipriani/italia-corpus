@@ -26,7 +26,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Veduta la [legge 11 luglio 1904, n. 372](Disposizioni%20relative%20ai%20ruoli%20organici.%20004U0372.md); 
  
- Veduto il [R. decreto 8 settembre 1913, n. 1212](../Regi%20decreti/Concernente%20lorganico%20del%20personale%20tecnico%20e%20di%20servizio%20delle%20RR.%20scuole%20superiori%20di%20agricoltura%20e%20RR.%20stazioni%20agrarie.%20013U1212.md); 
+ Veduto il [R. decreto 8 settembre 1913, n. 1212](Concernente%20lorganico%20del%20personale%20tecnico%20e%20di%20servizio%20delle%20RR.%20scuole%20superiori%20di%20agricoltura%20e%20RR.%20stazioni%20agrarie.%20013U1212.md); 
  
  Sentito il Consiglio dei ministri; 
  

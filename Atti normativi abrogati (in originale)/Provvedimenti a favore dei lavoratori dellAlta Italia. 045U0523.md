@@ -124,7 +124,7 @@ L'Istituto nazionale della previdenza sociale e' autorizzato ad anticipare, alle
  
  Le somme anticipate non possono essere impiegate per effettuare pagamenti diversi da quelli per i quali esse sono destinate. 
  
- Per il ricupero delle somme anticipate che non siano assorbite dalle erogazioni poste a carico della Cassa di integrazione, l'Istituto nazionale della previdenza sociale puo', in caso di mancata restituzione, emettere ingiunzione di pagamento contro l'impresa inadempiente, con l'osservanza delle norme stabilite dal [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md). 
+ Per il ricupero delle somme anticipate che non siano assorbite dalle erogazioni poste a carico della Cassa di integrazione, l'Istituto nazionale della previdenza sociale puo', in caso di mancata restituzione, emettere ingiunzione di pagamento contro l'impresa inadempiente, con l'osservanza delle norme stabilite dal [R. decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md). 
  
  I crediti della Cassa sono privilegiati nello stesso grado dei crediti dello Stato.
 

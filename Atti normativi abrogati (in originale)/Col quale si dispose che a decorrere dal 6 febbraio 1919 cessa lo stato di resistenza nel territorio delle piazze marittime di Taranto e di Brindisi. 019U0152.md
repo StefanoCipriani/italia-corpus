@@ -12,7 +12,7 @@ vigente: true
 
 A decorrere dal 6 febbraio 1919 cessa lo stato di resistenza nel territorio delle piazze marittime di Taranto e di Brindisi. 
  
- Cessano in conseguenza, colla stessa data, i pieni poteri conferiti ai comandanti delle dette piazze col [R. decreto 20 maggio 1915, n. 795](../Regi%20decreti/Col%20quale%20sono%20concessi%20pieni%20poteri%20ai%20comandanti%20delle%20piazze%20forti%20marittime%20ed%20ai%20comandanti%20delle%20fortezze%20costiere.%20015U0795.md). 
+ Cessano in conseguenza, colla stessa data, i pieni poteri conferiti ai comandanti delle dette piazze col [R. decreto 20 maggio 1915, n. 795](Col%20quale%20sono%20concessi%20pieni%20poteri%20ai%20comandanti%20delle%20piazze%20forti%20marittime%20ed%20ai%20comandanti%20delle%20fortezze%20costiere.%20015U0795.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

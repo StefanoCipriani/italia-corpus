@@ -18,7 +18,7 @@ Vista la [legge 25 giugno 1906, n. 255](Provvedimenti%20a%20favore%20della%20Cal
 
 Vista la [legge 15 luglio 1906, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383), concernente provvedimenti per le Provincie meridionali, per la Sicilia e la Sardegna;
 
-Visto il [R. decreto 7 gennaio 1923, n. 17](../Regi%20decreti/Che%20dispone%20la%20revisione%20generale%20degli%20estimi%20catastali.%20023U0017.md), per la revisione generale degli estimi catastali;
+Visto il [R. decreto 7 gennaio 1923, n. 17](Che%20dispone%20la%20revisione%20generale%20degli%20estimi%20catastali.%20023U0017.md), per la revisione generale degli estimi catastali;
 
 Visto il [R. decreto-legge 16 ottobre 1924, n. 1613](Riordinamento%20delle%20aliquote%20dellimposta%20sui%20redditi%20di%20ricchezza%20mobile.%20024U1613.md), per il riordinamento delle aliquote delle imposte dirette;
 

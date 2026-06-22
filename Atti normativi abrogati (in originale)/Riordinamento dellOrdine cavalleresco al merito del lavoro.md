@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'ordine cavalleresco "al merito del lavoro", istituito con [regio decreto 9 maggio 1901, n. 168](../Regi%20decreti/che%20istituisce%20lOrdine%20cavalleresco%20al%20merito%20agrario%20industriale%20e%20commerciale.%20001U0168.md), e' regolato dalle seguenti disposizioni.
+L'ordine cavalleresco "al merito del lavoro", istituito con [regio decreto 9 maggio 1901, n. 168](che%20istituisce%20lOrdine%20cavalleresco%20al%20merito%20agrario%20industriale%20e%20commerciale.%20001U0168.md), e' regolato dalle seguenti disposizioni.
 
 ## Art. 2.
 

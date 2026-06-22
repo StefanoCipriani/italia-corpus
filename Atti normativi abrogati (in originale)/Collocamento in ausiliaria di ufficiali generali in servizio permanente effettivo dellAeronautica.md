@@ -12,11 +12,11 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), sullo stato degli ufficiali della Marina e dell'Aeronautica, e le successive modificazioni;
 
-Visto il [regio decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md), convertito nella [legge 13 giugno 1935, n. 1297](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20gennaio%201935-XIII%20n.%20314%20che%20approva%20le%20norme%20riguardanti%20il%20reclutamento%20e%20lavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U1297.md), che approva le norme relative al reclutamento e all'avanzamento degli ufficiali dell'Aeronautica, e le successive modificazioni;
+Visto il [regio decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md), convertito nella [legge 13 giugno 1935, n. 1297](Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20gennaio%201935-XIII%20n.%20314%20che%20approva%20le%20norme%20riguardanti%20il%20reclutamento%20e%20lavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U1297.md), che approva le norme relative al reclutamento e all'avanzamento degli ufficiali dell'Aeronautica, e le successive modificazioni;
 
 Visto il [regio decreto-legge 27 luglio 1934, n. 1340](Trattamento%20di%20pensione%20al%20personale%20militare%20della%20Regia%20aeronautica.%20034U1340.md), convertito, con modificazioni, nella [legge 16 marzo 1935, n. 834](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-03-16;834);
 
-Visto il [regio decreto legislativo 14 maggio 1946, n. 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
+Visto il [regio decreto legislativo 14 maggio 1946, n. 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Articolo unico.
 
-Ai soli effetti dell'applicazione delle norme contenute nell'[art. 5, lettera c), del regio decreto legislativo 14 maggio 1946, n. 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), per i generali dell'Aeronautica, ruolo naviganti, si applicano i seguenti limiti di eta':
+Ai soli effetti dell'applicazione delle norme contenute nell'[art. 5, lettera c), del regio decreto legislativo 14 maggio 1946, n. 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), per i generali dell'Aeronautica, ruolo naviganti, si applicano i seguenti limiti di eta':
 
 generali di brigata aerea . . . . . . . . . . . . . . . . . . anni 58 generali di divisione aerea . . . . . . . . . . . . . . . . . anni 60 generali di squadra aerea . . . . . . . . . . . . . . . . . . anni 63 
  Il presente decreto ha effetto dal 16 giugno 1946.

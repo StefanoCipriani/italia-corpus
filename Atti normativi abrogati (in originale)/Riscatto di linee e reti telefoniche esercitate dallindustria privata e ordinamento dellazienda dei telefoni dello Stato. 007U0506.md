@@ -197,7 +197,7 @@ La Direzione generale dei telefoni dello Stato ha una ragioneria centrale propri
  
  Il capo ragioniere e' nominato per decreto Reale su proposta del ministro del tesoro d'accordo col ministro delle poste e dei telegrafi. 
  
- Lo stipendio del capo ragioniere e' fissato in L. 7000 annue, oltre alla indennita' annua di L. 1000 stabilita' dal [R. decreto 25 dicembre 1881, n. 581](../Regi%20decreti/Col%20quale%20ai%20direttori%20cani%20di%20ragioneria%20dellamministrazione%20centrale%20con%20uno%20stipendio%20inferiore%20alle%20lire%207000%20viene%20assegnata%20una%20indennita%20di%20funzioni%20invece%20del%20soprassoldo%20avanti%20g_a7676716de23.md).
+ Lo stipendio del capo ragioniere e' fissato in L. 7000 annue, oltre alla indennita' annua di L. 1000 stabilita' dal [R. decreto 25 dicembre 1881, n. 581](Col%20quale%20ai%20direttori%20cani%20di%20ragioneria%20dellamministrazione%20centrale%20con%20uno%20stipendio%20inferiore%20alle%20lire%207000%20viene%20assegnata%20una%20indennita%20di%20funzioni%20invece%20del%20soprassoldo%20avanti%20g_a7676716de23.md).
 
 ## Art. 19.
 

@@ -12,7 +12,7 @@ vigente: true
 
 Per le ricevitorie postali e telegrafiche di terza classe e per le agenzie ad esse equiparate, il limite massimo per i servizi postali e telegrafici a danaro e' elevato a lire cinquemila. 
  
- Per tutte le ricevitorie e' del pari elevato a lire cinquemila il limite massimo di lire mille stabilito per i vaglia di servizio nell'[art. 55 del R. decreto 30 maggio 1940, n. 775](../Regi%20decreti/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md).
+ Per tutte le ricevitorie e' del pari elevato a lire cinquemila il limite massimo di lire mille stabilito per i vaglia di servizio nell'[art. 55 del R. decreto 30 maggio 1940, n. 775](Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md).
 
 ## Art. 2.
 

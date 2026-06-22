@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo Luogotenenziale 1° marzo 1945, n. 177](../Decreti%20legislativi%20luogotenenziali/Corresponsione%20di%20assegni%20integrativi%20delle%20pensioni%20di%20invalidita%20e%20vecchiaia%20e%20per%20i%20superstiti%20e%20delle%20altre%20prestazioni%20delle%20assicurazioni%20sociali.%20045U0177.md), concernente la corresponsione di assegni integrativi delle pensioni di invalidita' e vecchiaia e per i superstiti e delle altre prestazioni delle assicurazioni sociali;
+Visto il [decreto legislativo Luogotenenziale 1° marzo 1945, n. 177](Corresponsione%20di%20assegni%20integrativi%20delle%20pensioni%20di%20invalidita%20e%20vecchiaia%20per%20i%20superstiti%20e%20delle%20altre%20prestazioni%20delle%20assicurazioni%20sociali.%20045U0177.md), concernente la corresponsione di assegni integrativi delle pensioni di invalidita' e vecchiaia e per i superstiti e delle altre prestazioni delle assicurazioni sociali;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

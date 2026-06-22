@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](../Decreti%20legislativi%20luogotenenziali/Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md);
+Visto il [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md);
 
 Visto il [decreto legislativo 6 dicembre 1946, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-12-06;428) Visto il [decreto legislativo 27 febbraio 1947, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-02-27;39);
 

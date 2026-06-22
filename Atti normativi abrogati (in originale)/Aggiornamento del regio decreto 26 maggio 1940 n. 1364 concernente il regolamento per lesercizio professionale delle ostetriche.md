@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visti gli [articoli 62](../Regi%20decreti/Che%20approva%20il%20regolamento%20sulla%20assistenza%20sanitaria%20sulla%20vigilanza%20igienica%20e%20sulla%20igiene%20degli%20abitanti%20nei%20comuni%20del%20Regno.%20006U0466.md) e [63 del regio decreto 19 luglio 1906, n. 466](../Regi%20decreti/Che%20approva%20il%20regolamento%20sulla%20assistenza%20sanitaria%20sulla%20vigilanza%20igienica%20e%20sulla%20igiene%20degli%20abitanti%20nei%20comuni%20del%20Regno.%20006U0466.md);
+Visti gli [articoli 62](Che%20approva%20il%20regolamento%20sulla%20assistenza%20sanitaria%20sulla%20vigilanza%20igienica%20e%20sulla%20igiene%20degli%20abitanti%20nei%20comuni%20del%20Regno.%20006U0466.md) e [63 del regio decreto 19 luglio 1906, n. 466](Che%20approva%20il%20regolamento%20sulla%20assistenza%20sanitaria%20sulla%20vigilanza%20igienica%20e%20sulla%20igiene%20degli%20abitanti%20nei%20comuni%20del%20Regno.%20006U0466.md);
 
 Visto il [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
 
@@ -20,7 +20,7 @@ Visto il [regio decreto-legge 15 ottobre 1936, n. 2128](Ordinamento%20delle%20Sc
 
 Visto il [regio decreto-legge 1 luglio 1937, n. 1520](Disposizioni%20sullordinamento%20delle%20Scuole%20di%20ostetricia%20e%20sulla%20disciplina%20giuridica%20della%20professione%20di%20levatrice.%20037U1520.md);
 
-Visto il [regio decreto 26 maggio 1940, n. 1364](../Regi%20decreti/Regolamento%20per%20lesercizio%20professionale%20delle%20ostetriche.%20040U1364.md);
+Visto il [regio decreto 26 maggio 1940, n. 1364](Regolamento%20per%20lesercizio%20professionale%20delle%20ostetriche.%20040U1364.md);
 
 Vista la [legge 31 gennaio 1953, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-01-31;44);
 
@@ -28,7 +28,7 @@ Visto l'[art. 6 del decreto del Presidente della Repubblica 14 gennaio 1972, n. 
 
 Visto il [decreto del Presidente della Repubblica 14 marzo 1974, n. 225](../DPR/Modifiche%20al%20regio%20decreto%202%20maggio%201940%20n.%201310%20sulle%20mansioni%20degli%20infermieri%20professionali%20e%20infermieri%20generici.md);
 
-Riconosciuta l'opportunita' di aggiornare la normativa di cui al [regio decreto 26 maggio 1940, n. 1364](../Regi%20decreti/Regolamento%20per%20lesercizio%20professionale%20delle%20ostetriche.%20040U1364.md), concernente il regolamento per l'esercizio professionale delle ostetriche;
+Riconosciuta l'opportunita' di aggiornare la normativa di cui al [regio decreto 26 maggio 1940, n. 1364](Regolamento%20per%20lesercizio%20professionale%20delle%20ostetriche.%20040U1364.md), concernente il regolamento per l'esercizio professionale delle ostetriche;
 
 Sentito il Consiglio superiore di sanita';
 
@@ -102,7 +102,7 @@ L'ostetrica deve essere provvista della busta ostetrica il cui contenuto e' dete
 
 ## Art. 11.
 
-E' abrogato il regolamento per l'esercizio professionale delle ostetriche approvato con [regio decreto 26 maggio 1940, n. 1364](../Regi%20decreti/Regolamento%20per%20lesercizio%20professionale%20delle%20ostetriche.%20040U1364.md), e ogni altra disposizione regolamentare contraria o comunque incompatibile con quelle del presente decreto.
+E' abrogato il regolamento per l'esercizio professionale delle ostetriche approvato con [regio decreto 26 maggio 1940, n. 1364](Regolamento%20per%20lesercizio%20professionale%20delle%20ostetriche.%20040U1364.md), e ogni altra disposizione regolamentare contraria o comunque incompatibile con quelle del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

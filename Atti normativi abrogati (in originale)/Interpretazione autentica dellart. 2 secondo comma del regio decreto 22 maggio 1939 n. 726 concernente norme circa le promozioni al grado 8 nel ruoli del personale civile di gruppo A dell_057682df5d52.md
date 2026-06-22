@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 22 maggio 1939, n. 726](../Regi%20decreti/Norme%20circa%20le%20promozioni%20al%20grado%208%20nei%20ruoli%20del%20persosale%20civile%20di%20gruppo%20A%20delle%20Amministrazioni%20dello%20Stato.%20039U0726.md);
+Visto il [regio decreto 22 maggio 1939, n. 726](Norme%20circa%20le%20promozioni%20al%20grado%208%20nei%20ruoli%20del%20persosale%20civile%20di%20gruppo%20A%20delle%20Amministrazioni%20dello%20Stato.%20039U0726.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -22,11 +22,11 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 ## Art. 1.
 
-Nel computo dell'aliquota di un terzo prevista dall'[art. 2, secondo comma, del regio decreto 22 maggio 1939, n. 726](../Regi%20decreti/Norme%20circa%20le%20promozioni%20al%20grado%208%20nei%20ruoli%20del%20persosale%20civile%20di%20gruppo%20A%20delle%20Amministrazioni%20dello%20Stato.%20039U0726.md), si intendono comprese le eliminazioni dei soprannumeri nel grado 8° derivanti sia da promozioni al grado superiore dei funzionari in soprannumero nel grado stesso, sia da qualsiasi altra causa.
+Nel computo dell'aliquota di un terzo prevista dall'[art. 2, secondo comma, del regio decreto 22 maggio 1939, n. 726](Norme%20circa%20le%20promozioni%20al%20grado%208%20nei%20ruoli%20del%20persosale%20civile%20di%20gruppo%20A%20delle%20Amministrazioni%20dello%20Stato.%20039U0726.md), si intendono comprese le eliminazioni dei soprannumeri nel grado 8° derivanti sia da promozioni al grado superiore dei funzionari in soprannumero nel grado stesso, sia da qualsiasi altra causa.
 
 ## Art. 2.
 
-L'aliquota delle vacanze nel grado 8° da devolversi, ai sensi dell'[art. 2, secondo comma, del regio decreto 22 maggio 1939, n. 726](../Regi%20decreti/Norme%20circa%20le%20promozioni%20al%20grado%208%20nei%20ruoli%20del%20persosale%20civile%20di%20gruppo%20A%20delle%20Amministrazioni%20dello%20Stato.%20039U0726.md), al riassorbimento dei soprannumeri nel medesimo grado 8° e' stabilita, a decorrere dall'entrata in vigore del presente decreto, in un quinto.
+L'aliquota delle vacanze nel grado 8° da devolversi, ai sensi dell'[art. 2, secondo comma, del regio decreto 22 maggio 1939, n. 726](Norme%20circa%20le%20promozioni%20al%20grado%208%20nei%20ruoli%20del%20persosale%20civile%20di%20gruppo%20A%20delle%20Amministrazioni%20dello%20Stato.%20039U0726.md), al riassorbimento dei soprannumeri nel medesimo grado 8° e' stabilita, a decorrere dall'entrata in vigore del presente decreto, in un quinto.
 
 ## Art. 3.
 

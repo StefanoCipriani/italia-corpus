@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le misure delle indennita' stabilite con l'[art. 108 del R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), vengono aumentate del 200% (duecento per cento).
+Le misure delle indennita' stabilite con l'[art. 108 del R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), vengono aumentate del 200% (duecento per cento).
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto [R. decreto-legge 10 febbraio 1942, n. 75](Norme%20per%20la%20denuncia%20degli%20autoveicoli%20immatricolati%20anteriormente%20al%201%20gennaio%201930-VIII.%20042U0075.md), convertito nella [legge 27 giugno 1942, n. 789](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2010%20febbraio%201942-XX%20n.%2075%20concernente%20norme%20per%20la%20denuncia%20degli%20autoveicoli%20immatricolati%20anteriormente%20al%201%20gennaio%201930-VIII.%20042U0789.md), contenente le norme per la denuncia degli autoveicoli immatricolati anteriormente al 1° gennaio 1930, e le successive disposizioni di attuazione;
+Visto [R. decreto-legge 10 febbraio 1942, n. 75](Norme%20per%20la%20denuncia%20degli%20autoveicoli%20immatricolati%20anteriormente%20al%201%20gennaio%201930-VIII.%20042U0075.md), convertito nella [legge 27 giugno 1942, n. 789](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2010%20febbraio%201942-XX%20n.%2075%20concernente%20norme%20per%20la%20denuncia%20degli%20autoveicoli%20immatricolati%20anteriormente%20al%201%20gennaio%201930-VIII.%20042U0789.md), contenente le norme per la denuncia degli autoveicoli immatricolati anteriormente al 1° gennaio 1930, e le successive disposizioni di attuazione;
 
 Visto il [R. decreto-legge 10 marzo 1944, n. 83](Denunzia%20obbligatoria%20di%20tutti%20gli%20autoveicoli%20immatricolati%20anteriormente%20al%201%20gennaio%201930.%20044U0083.md), che concerne la denuncia obbligatoria di tutti gli autoveicoli immatricolati anteriormente al 1° gennaio 1930;
 

@@ -26,19 +26,19 @@ VITTORIO EMANUELE III
  
  Anno 1911. 
  
- [R.D. 9 marzo 1911, n. 293](../Regi%20decreti/Che%20approva%20talune%20modificazioni%20da%20apportarsi%20alle%20tariffe%20e%20condizioni%20pei%20trasporti%20sulle%20ferrovie%20dello%20Stato.%20011U0293.md), v. disegno di legge n. 29 
- [R.D. 25 giugno 1911, n. 729](../Regi%20decreti/Riguardante%20la%20tariffa%20per%20i%20trasporti%20degli%20areoplani%20sulle%20ferrovie%20dello%20Stato.%20011U0729.md), id. n. 29 
+ [R.D. 9 marzo 1911, n. 293](Che%20approva%20talune%20modificazioni%20da%20apportarsi%20alle%20tariffe%20e%20condizioni%20pei%20trasporti%20sulle%20ferrovie%20dello%20Stato.%20011U0293.md), v. disegno di legge n. 29 
+ [R.D. 25 giugno 1911, n. 729](Riguardante%20la%20tariffa%20per%20i%20trasporti%20degli%20areoplani%20sulle%20ferrovie%20dello%20Stato.%20011U0729.md), id. n. 29 
  Anno 1913. 
- [R.D. 6 settembre 1913, n. 1175](../Regi%20decreti/Concernente%20i%20ruoli%20organici%20della%20Colonia%20eritrea%20e%20della%20Somalia%20italiana.%20013U1175.md), v. [disegno di legge n. 641 
+ [R.D. 6 settembre 1913, n. 1175](Concernente%20i%20ruoli%20organici%20della%20Colonia%20eritrea%20e%20della%20Somalia%20italiana.%20013U1175.md), v. [disegno di legge n. 641 
  Anno 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir::disegno.legge:1915;641). 
- [R.D. 9 marzo 1911, n. 293](../Regi%20decreti/Che%20approva%20talune%20modificazioni%20da%20apportarsi%20alle%20tariffe%20e%20condizioni%20pei%20trasporti%20sulle%20ferrovie%20dello%20Stato.%20011U0293.md), v. disegno di legge n. 29 
- [R.D. 25 giugno 1911, n. 729](../Regi%20decreti/Riguardante%20la%20tariffa%20per%20i%20trasporti%20degli%20areoplani%20sulle%20ferrovie%20dello%20Stato.%20011U0729.md), id. n. 894 
+ [R.D. 9 marzo 1911, n. 293](Che%20approva%20talune%20modificazioni%20da%20apportarsi%20alle%20tariffe%20e%20condizioni%20pei%20trasporti%20sulle%20ferrovie%20dello%20Stato.%20011U0293.md), v. disegno di legge n. 29 
+ [R.D. 25 giugno 1911, n. 729](Riguardante%20la%20tariffa%20per%20i%20trasporti%20degli%20areoplani%20sulle%20ferrovie%20dello%20Stato.%20011U0729.md), id. n. 894 
  [R.D. 22 aprile 1915, n. 497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-22;497), id. n. 267 
- [R.D. 2 maggio 1915, n. 566](../Regi%20decreti/Recante%20modificazioni%20al%20R.%20decreto%2022%20aprile%201915%20n.%20497%20sulla%20macellazione%20dei%20vitelli.%20015U0566.md), id. n. 267 
+ [R.D. 2 maggio 1915, n. 566](Recante%20modificazioni%20al%20R.%20decreto%2022%20aprile%201915%20n.%20497%20sulla%20macellazione%20dei%20vitelli.%20015U0566.md), id. n. 267 
  [R.D. 29 aprile 1915, n. 567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-29;567), id. n. 642 
  Id. n. 573, id. n. 894 
  Id. n. 582, id. n. 894 
- [R.D. 6 maggio 1915, n. 588](../Regi%20decreti/Relativo%20alla%20ricostituzione%20del%20patrimonio%20zootecnico%20nei%20paesi%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915.%20015U0588.md), id. n. 269 e 894 
+ [R.D. 6 maggio 1915, n. 588](Relativo%20alla%20ricostituzione%20del%20patrimonio%20zootecnico%20nei%20paesi%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915.%20015U0588.md), id. n. 269 e 894 
  [R.D. 25 aprile 1915, n. 650](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-25;650), id. n. 446 e 894 
  [R.D. 9 maggio 1915, n. 654](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-09;654), id. n. 894 
  Id. n. 696, id. n. 894 
@@ -748,7 +748,7 @@ VITTORIO EMANUELE III
  [R.D. 6 luglio 1919, n. 1386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-07-06;1386), id. n. 405 
  [R.D. 8 luglio 1919, n. 1388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-07-08;1388), id. n. 405 
  [R.D. 27 luglio 1919, n. 1389](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-07-27;1389), id. n. 736 
- [R.D. 10 agosto 1919, n. 1402](../Regi%20decreti/Che%20aumenta%20lo%20stanziamento%20del%20cap.%2033%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellinterno%20per%20lesercizio%20finanziario%201919-920.%20019U1402.md), id. n. 407 
+ [R.D. 10 agosto 1919, n. 1402](Che%20aumenta%20lo%20stanziamento%20del%20cap.%2033%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellinterno%20per%20lesercizio%20finanziario%201919-920.%20019U1402.md), id. n. 407 
  [R.D. 8 luglio 1919, n. 1423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-07-08;1423), id. n. 405 
  Id. n. 1424, id. n. 405 
  Id. n. 1428, id. n. 134 
@@ -791,7 +791,7 @@ VITTORIO EMANUELE III
  Id. n. 1594, id. n. 407 
  Id. n. 1596, id. n. 407 
  [R.D. 25 agosto 1919, n. 1597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-25;1597), v. disegno di legge n. 407 
- [R.D. 17 agosto 1919, n. 1605](../Regi%20decreti/Che%20autorizza%20a%20favore%20del%20cap.%20116%20del%20Ministero%20dellistruzione%20pubblica%20una%20quarta%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20al%20capitolo%20132%20dello%20stato%20di%20pre_1abe98a1b088.md), id. n. 408 
+ [R.D. 17 agosto 1919, n. 1605](Che%20autorizza%20a%20favore%20del%20cap.%20116%20del%20Ministero%20dellistruzione%20pubblica%20una%20quarta%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20al%20capitolo%20132%20dello%20stato%20di%20pre_1abe98a1b088.md), id. n. 408 
  Id. n. 1606, id. n. 408 
  Id. n. 1607, id. n. 408 
  [R.D. 25 agosto 1919, n. 1621](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-25;1621), id. n. 407 
@@ -890,7 +890,7 @@ VITTORIO EMANUELE III
  [R.D. 31 ottobre 1919, n. 2067](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-31;2067), id. n. 410 
  [R.D. 23 ottobre 1919, n. 2068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-23;2068), id. n. 410 
  [R.D. 31 ottobre 1919, n. 2069](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-31;2069), id. n. 410 
- [R.D. 9 ottobre 1919, n. 2077](../Regi%20decreti/Che%20da%20piena%20ed%20intera%20esecuzione%20alla%20convenzione%20tra%20lItalia%20e%20la%20Francia%20per%20le%20pensioni%20operaie%20firmata%20a%20Parigi%20il%209%20agosto%201910.%20019U2077.md), id. n. 410 
+ [R.D. 9 ottobre 1919, n. 2077](Che%20da%20piena%20ed%20intera%20esecuzione%20alla%20convenzione%20tra%20lItalia%20e%20la%20Francia%20per%20le%20pensioni%20operaie%20firmata%20a%20Parigi%20il%209%20agosto%201910.%20019U2077.md), id. n. 410 
  [D.L. 6 novembre 1919, n. 2096](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-11-06;2096), id. n. 908 
  [R.D. 16 ottobre 1919, n. 2097](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-16;2097), id. n. 184 
  [R.D. 23 ottobre 1919, n. 2103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-23;2103), id. n. 410 
@@ -942,7 +942,7 @@ VITTORIO EMANUELE III
  [R.D. 27 novembre 1919, n. 2291](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-27;2291), id. n. 410 
  Id. n. 2293, id. n. 410 
  Id. n. 2294, id. n. 410 
- [R.D. 11 novembre 1919, n. 2313](../Regi%20decreti/Che%20autorizza%20lassunzione%20di%20personale%20maschile%20a%20cottimo%20presso%20lAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20per%20il%20servizio%20dei%20vaglia%20e%20risparmi.%20019U2313.md), id. n. 410 
+ [R.D. 11 novembre 1919, n. 2313](Che%20autorizza%20lassunzione%20di%20personale%20maschile%20a%20cottimo%20presso%20lAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20per%20il%20servizio%20dei%20vaglia%20e%20risparmi.%20019U2313.md), id. n. 410 
  [R.D. 27 novembre 1919, n. 2323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-27;2323), id. n. 1042 
  Id. n. 2331, id. n. 410 
  Id. n. 2332, id. n. 410 
@@ -969,11 +969,11 @@ VITTORIO EMANUELE III
  [R.D. 30 novembre 1919, n. 2383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-30;2383), id. n. 111 
  [R.D. 27 novembre 1919, n. 2385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-27;2385), id. n. 410 
  Id. n. 2399, id. n. 870 
- [R.D. 9 ottobre 1919, n. 2433](../Regi%20decreti/Che%20estende%20il%20beneficio%20della%20dispensa%20dalle%20tasse%20a%20favore%20di%20studenti%20universitari%20relative%20agli%20anni%20accademici%20fatti%20sotto%20le%20armi%20di%20cui%20al%20decreto%20Luogotenenziale%2025%20maggio%201919%20n._44f7f08b3183.md), id. n. 446 
+ [R.D. 9 ottobre 1919, n. 2433](Che%20estende%20il%20beneficio%20della%20dispensa%20dalle%20tasse%20a%20favore%20di%20studenti%20universitari%20relative%20agli%20anni%20accademici%20fatti%20sotto%20le%20armi%20di%20cui%20al%20decreto%20Luogotenenziale%2025%20maggio%201919%20n._44f7f08b3183.md), id. n. 446 
  [R.D. 27 novembre 1919, n. 2437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-27;2437), id. n. 410 
  Id. n. 2438, id. n. 410 
  [R.D. 30 novembre 1919, n. 2443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-30;2443), id. n. 180 
- [R.D. 27 novembre 1919, n. 2449](../Regi%20decreti/Che%20autorizza%20una%207ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201919-920.%20019U2449.md), id. n. 409 
+ [R.D. 27 novembre 1919, n. 2449](Che%20autorizza%20una%207ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201919-920.%20019U2449.md), id. n. 409 
  [R.D. 26 dicembre 1919, n. 2467](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-12-26;2467), id. n. 1067 
  [R.D. 28 dicembre 1919, n. 2484](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-12-28;2484), id. n. 1069 
  [R.D. 27 novembre 1919, n. 2495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-27;2495), id. n. 795 
@@ -991,8 +991,8 @@ VITTORIO EMANUELE III
  Id. n. 22, id. n. 411 
  Id. n. 36, id. n. 286 
  [R.D. 18 gennaio 1920, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-18;58), id. n. 804 
- [R.D. 22 gennaio 1920, n. 79](../Regi%20decreti/Che%20autorizza%20una%2011ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201919-920.%20020U0079.md), id. n. 411 
- [R.D. 29 gennaio 1920, n. 132](../Regi%20decreti/Che%20autorizza%20una%2012ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201919-920.%20020U0132.md) id. n. 411 
+ [R.D. 22 gennaio 1920, n. 79](Che%20autorizza%20una%2011ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201919-920.%20020U0079.md), id. n. 411 
+ [R.D. 29 gennaio 1920, n. 132](Che%20autorizza%20una%2012ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201919-920.%20020U0132.md) id. n. 411 
  Id. n. 133, id. n. 411 
  Id. n. 134, id. n. 411 
  [R.D. 1 febbraio 1920, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;168), id. n. 885 
@@ -1026,62 +1026,62 @@ VITTORIO EMANUELE III
  [R.D. 2 maggio 1920, n. 628](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-05-02;628), id. n. 416 
  [R.D. 11 maggio 1920, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-05-11;633), id. n. 122 
  [R.D. 2 maggio 1920, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-05-02;662), id. n. 416 
- [R.D. 13 maggio 1920, n. 719](../Regi%20decreti/Che%20autorizza%20una%2018ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201919-920.%20020U0719.md), id. n. 417 
+ [R.D. 13 maggio 1920, n. 719](Che%20autorizza%20una%2018ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201919-920.%20020U0719.md), id. n. 417 
  [R.D. 7 giugno 1920, n. 774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-07;774), id. n. 263 
  [R.D. 3 giugno 1920, n. 794](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-03;794), id. n. 169 
  [R.D. 5 giugno 1920, n. 810](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-05;810), id. n. 1067 
- [R.D. 30 maggio 1920, n. 827](../Regi%20decreti/Che%20autorizza%20una%2019ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20per%20lesercizio%20finanziario%201919-920.%20020U0827.md), id. n. 417 
+ [R.D. 30 maggio 1920, n. 827](Che%20autorizza%20una%2019ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20per%20lesercizio%20finanziario%201919-920.%20020U0827.md), id. n. 417 
  [R.D. 5 giugno 1920, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-05;856), id. n. 1029 
  Id. n. 857, id. n. 1069 
  [D.L. 5 giugno 1920, n. 858](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1920-06-05;858), id. n. 1061 
  [R.D. 30 maggio 1920, n. 909](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-05-30;909), id. n. 134 
- [R.D. 22 giugno 1920, n. 957](../Regi%20decreti/Che%20autorizza%20una%2020ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20nello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201919-920.%20020U0957.md), id. n. 417 
+ [R.D. 22 giugno 1920, n. 957](Che%20autorizza%20una%2020ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20nello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201919-920.%20020U0957.md), id. n. 417 
  [R.D. 25 agosto 1920, n. 1184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-08-25;1184), id. n. 165 
- [R D. 14 agosto 1920, n. 1237](../Regi%20decreti/Che%20autorizza%20una%20prima%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20Tesoro%20per%20lesercizio%20finanziario%201920-921.%20020U1237.md), id. n. 421 
- [R.D. 1 settembre 1920, n. 1280](../Regi%20decreti/Che%20autorizza%20una%203ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201920%20-%20921.%20020U1280.md), v. disegno di legge n. 421 
+ [R D. 14 agosto 1920, n. 1237](Che%20autorizza%20una%20prima%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20Tesoro%20per%20lesercizio%20finanziario%201920-921.%20020U1237.md), id. n. 421 
+ [R.D. 1 settembre 1920, n. 1280](Che%20autorizza%20una%203ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201920%20-%20921.%20020U1280.md), v. disegno di legge n. 421 
  Id. n. 1325, id. n. 421 
- [R.D. 11 settembre 1920, n. 1326](../Regi%20decreti/Che%20autorizza%20una%205ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201920-921.%20020U1326.md), id. n. 421 
- [R.D. 19 settembre 1920, n. 1327](../Regi%20decreti/Che%20autorizza%20una%206ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201920-921.%20020U1327.md), id. n. 421 
+ [R.D. 11 settembre 1920, n. 1326](Che%20autorizza%20una%205ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201920-921.%20020U1326.md), id. n. 421 
+ [R.D. 19 settembre 1920, n. 1327](Che%20autorizza%20una%206ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201920-921.%20020U1327.md), id. n. 421 
  Id. n. 1328, id. n. 421 
  Id. n. 1329, id. n. 421 
  [R.D. 1 settembre 1920, n. 1339](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-09-01;1339), id. n. 129 
  [R.D. 26 settembre 1920, n. 1343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-09-26;1343), id. n. 1067 
- [R.D. 19 settembre 1920, n. 1393](../Regi%20decreti/Che%20autorizza%20una%204ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201920-921.%20020U1393.md), id. n. 421 
+ [R.D. 19 settembre 1920, n. 1393](Che%20autorizza%20una%204ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201920-921.%20020U1393.md), id. n. 421 
  Id. n. 1394, id. n. 421 
  Id. n. 1395, id. n. 421 
- [R.D. 30 settembre 1920, n. 1429](../Regi%20decreti/Che%20autorizza%20una%2012ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201920-921.%20020U1429.md), id. n. 421 
+ [R.D. 30 settembre 1920, n. 1429](Che%20autorizza%20una%2012ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201920-921.%20020U1429.md), id. n. 421 
  Id. n. 1440, id. n. 871 
- [R.D. 5 ottobre 1920, n. 1490](../Regi%20decreti/Che%20autorizza%20una%2014ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201920-921.%20020U1490.md), id. n. 421 
- [R D. 30 settembre 1920, n. 1499](../Regi%20decreti/Che%20autorizza%20una%2011ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201920-921.%20020U1499.md), id. n. 421 
+ [R.D. 5 ottobre 1920, n. 1490](Che%20autorizza%20una%2014ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201920-921.%20020U1490.md), id. n. 421 
+ [R D. 30 settembre 1920, n. 1499](Che%20autorizza%20una%2011ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201920-921.%20020U1499.md), id. n. 421 
  Id. n. 1500, id. n. 421 
  [R.D. 29 ottobre 1920, n. 1560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-10-29;1560), id. n. 492 
- [R.D. 8 ottobre 1920, n. 1575](../Regi%20decreti/Col%20quale%20e%20autorizzata%20una%2016ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20al%20capitolo%20140%20dello%20stato%20di%20previsione%20del%20Ministero%20del%20tesoro%20per%20lesercizio%201920_d078ac00422c.md), id. n. 421 
+ [R.D. 8 ottobre 1920, n. 1575](Col%20quale%20e%20autorizzata%20una%2016ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20al%20capitolo%20140%20dello%20stato%20di%20previsione%20del%20Ministero%20del%20tesoro%20per%20lesercizio%201920_d078ac00422c.md), id. n. 421 
  Id. n. 1576, id. n. 421 
- [R.D. 12 ottobre 1920, n. 1577](../Regi%20decreti/Col%20quale%20e%20autorizzata%20una%2018ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20al%20capitolo%20n.%20140%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20_fb1643ac5fb5.md), id. n. 421 
- [R.D. 19 ottobre 1920, n. 1578](../Regi%20decreti/Col%20quale%20e%20autorizzata%20una%2020ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20al%20capitolo%20140%20dello%20stato%20di%20previsione%20del%20Ministero%20del%20tesoro%20per%20lesercizio%201920_9f260f944806.md), id. n. 421 
+ [R.D. 12 ottobre 1920, n. 1577](Col%20quale%20e%20autorizzata%20una%2018ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20al%20capitolo%20n.%20140%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20_fb1643ac5fb5.md), id. n. 421 
+ [R.D. 19 ottobre 1920, n. 1578](Col%20quale%20e%20autorizzata%20una%2020ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20al%20capitolo%20140%20dello%20stato%20di%20previsione%20del%20Ministero%20del%20tesoro%20per%20lesercizio%201920_9f260f944806.md), id. n. 421 
  Id. n. 1579, id. n. 421 
- [R.D. 29 ottobre 1920, n. 1580](../Regi%20decreti/Col%20quale%20e%20autorizzata%20una%2015ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20al%20capitolo%20n.%20140%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20_2f147956108b.md), id. n. 421 
- [R.D. 26 ottobre 1920, n. 1592](../Regi%20decreti/Col%20quale%20e%20autorizzata%20una%2021ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20al%20capitolo%20140%20dello%20stato%20di%20previsione%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20fina_d033365ab644.md), id. n. 421 
+ [R.D. 29 ottobre 1920, n. 1580](Col%20quale%20e%20autorizzata%20una%2015ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20al%20capitolo%20n.%20140%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20_2f147956108b.md), id. n. 421 
+ [R.D. 26 ottobre 1920, n. 1592](Col%20quale%20e%20autorizzata%20una%2021ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20al%20capitolo%20140%20dello%20stato%20di%20previsione%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20fina_d033365ab644.md), id. n. 421 
  [R.D. 29 settembre 1920, n. 1593](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-09-29;1593), id. n. 421 
- [R.D. 29 ottobre 1920, n. 1624](../Regi%20decreti/Che%20proroga%20di%20sei%20mesi%20la%20durata%20in%20vigore%20dei%20decreti%20Luogotenenziali%2023%20luglio%201916%20n.%20895%20e%2022%20febbraio%201917%20n.%20433%20circa%20lentrata%20e%20luscita%20dal%20Regno%20dei%20cittadini%20e%20degli%20stranieri.%20020U1624.md), id. n. 11 
+ [R.D. 29 ottobre 1920, n. 1624](Che%20proroga%20di%20sei%20mesi%20la%20durata%20in%20vigore%20dei%20decreti%20Luogotenenziali%2023%20luglio%201916%20n.%20895%20e%2022%20febbraio%201917%20n.%20433%20circa%20lentrata%20e%20luscita%20dal%20Regno%20dei%20cittadini%20e%20degli%20stranieri.%20020U1624.md), id. n. 11 
  [R.D. 7 novembre 1920, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-07;1643), id. n. 1124 
  [R.D. 14 novembre 1920, n. 1686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-14;1686), id. n. 617 
- [R.D. 7 novembre 1920, n. 1694](../Regi%20decreti/Che%20autorizza%20una%2025ª%20prelevazione%20di%20L.%2015.000%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20al%20cap.%20n.%20140%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20l_2623ab37234c.md), id. n. 421 
+ [R.D. 7 novembre 1920, n. 1694](Che%20autorizza%20una%2025ª%20prelevazione%20di%20L.%2015.000%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20al%20cap.%20n.%20140%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20l_2623ab37234c.md), id. n. 421 
  Id. n. 1695, id. n. 421 
  Id. n. 1696, id. n. 421 
  Id. n. 1705, id. n. 421 
  Id. n. 1717, id. n. 422 
  [R.D. 26 ottobre 1920, n. 1728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-10-26;1728), id. n. 266 
- [R.D. 18 novembre 1920, n. 1739](../Regi%20decreti/Che%20proroga%20sino%20al%2030%20aprile%201921%20la%20efficacia%20delle%20disposizioni%20concernenti%20la%20facolta%20di%20mantenere%20in%20servizio%20gli%20avventizi%20presso%20le%20varie%20Amministrazioni%20dello%20Stato.%20020U1739.md), id. n. 422 
- [R.D. 7 novembre 1920, n. 1740](../Regi%20decreti/Che%20proroga%20fino%20al%2030%20aprile%201921%20la%20disposizione%20di%20cui%20al%20prima%20comma%20dellart.%204%20del%20decreto%20Luogotenenziale%201%20agosto%201915%20n.%201267%20che%20modifica%20le%20disposizioni%20per%20la%20contrattazione%20di_7d0ce912f741.md), id. n. 422 
- [R.D. 21 novembre 1920, n. 1741](../Regi%20decreti/Che%20proroga%20al%20giorno%2030%20aprile%201921%20la%20durata%20dei%20provvedimenti%20autorizzati%20dal%20decreto%20Luogotenenziale%2013%20aprile%201919%20n.%20563%20per%20lerogazione%20di%20sussidi%20a%20favore%20dei%20mutilati%20invalidi%20ve_40df08e62fa0.md), id. n. 422 
- [R.D. 7 novembre 1920, n. 1745](../Regi%20decreti/Che%20autorizza%20una%2023ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20al%20capitolo%20n.%20140%20dello%20Stato%20di%20previsione%20della%20spesa%20del%20Ministro%20del%20tesoro%20per%20lesercizio%20_31b396256a30.md), id. n. 421 
+ [R.D. 18 novembre 1920, n. 1739](Che%20proroga%20sino%20al%2030%20aprile%201921%20la%20efficacia%20delle%20disposizioni%20concernenti%20la%20facolta%20di%20mantenere%20in%20servizio%20gli%20avventizi%20presso%20le%20varie%20Amministrazioni%20dello%20Stato.%20020U1739.md), id. n. 422 
+ [R.D. 7 novembre 1920, n. 1740](Che%20proroga%20fino%20al%2030%20aprile%201921%20la%20disposizione%20di%20cui%20al%20prima%20comma%20dellart.%204%20del%20decreto%20Luogotenenziale%201%20agosto%201915%20n.%201267%20che%20modifica%20le%20disposizioni%20per%20la%20contrattazione%20di_7d0ce912f741.md), id. n. 422 
+ [R.D. 21 novembre 1920, n. 1741](Che%20proroga%20al%20giorno%2030%20aprile%201921%20la%20durata%20dei%20provvedimenti%20autorizzati%20dal%20decreto%20Luogotenenziale%2013%20aprile%201919%20n.%20563%20per%20lerogazione%20di%20sussidi%20a%20favore%20dei%20mutilati%20invalidi%20ve_40df08e62fa0.md), id. n. 422 
+ [R.D. 7 novembre 1920, n. 1745](Che%20autorizza%20una%2023ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20al%20capitolo%20n.%20140%20dello%20Stato%20di%20previsione%20della%20spesa%20del%20Ministro%20del%20tesoro%20per%20lesercizio%20_31b396256a30.md), id. n. 421 
  Id. n. 1746, id. n. 421 
  Id. n. 1747, id. n. 422 
  [R.D. 12 novembre 1920, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-12;1765), id. n. 446 
  [R.D. 26 ottobre 1920, n. 1771](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-10-26;1771), id. n. 615 
  [R.D. 19 dicembre 1920, n. 1780](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-12-19;1780), id. n. 617 
- [R.D. 29 ottobre 1920, n. 1783](../Regi%20decreti/Che%20proroga%20a%20tutto%20il%2030%20aprile%201921%20gli%20effetti%20del%20decreto%20Luogotenenziale%20n.%201459%20del%2012%20ottobre%201916%20col%20quale%20furono%20confermati%20in%20carica%20per%20tutta%20la%20durata%20della%20guerra%20i%20componen_787f66b8ed6a.md), id. n. 640 
+ [R.D. 29 ottobre 1920, n. 1783](Che%20proroga%20a%20tutto%20il%2030%20aprile%201921%20gli%20effetti%20del%20decreto%20Luogotenenziale%20n.%201459%20del%2012%20ottobre%201916%20col%20quale%20furono%20confermati%20in%20carica%20per%20tutta%20la%20durata%20della%20guerra%20i%20componen_787f66b8ed6a.md), id. n. 640 
  [R.D. 18 novembre 1920, n. 1816](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-18;1816), id. n. 264 
  [R.D. 23 dicembre 1920, n. 1835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-12-23;1835), id. n. 670 
  [R.D. 26 dicembre 1920, n. 1866](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-12-26;1866), id. n. 735 
@@ -1091,24 +1091,24 @@ VITTORIO EMANUELE III
  Id. n. 1870, id. n. 1067 
  Anno 1921. 
  [R.D. 6 gennaio 1921, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-01-06;2), v. disegno di legge n. 1068 
- [R.D. 2 gennaio 1921, n. 17](../Regi%20decreti/Che%20modifica%20quello%2021%20novembre%201920%20n.%201741%20relativamente%20alla%20erogazione%20di%20sussidi%20per%20provvisoria%20liquidazione%20di%20pensione%20diretta%20o%20indiretta%20a%20favore%20di%20mutilati%20invalidi%20vedove%20ed%20_b387a1eb6d1e.md), id. n. 425 
- [R.D. 16 gennaio 1921, n. 19](../Regi%20decreti/Che%20autorizza%20una%2029ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0019.md), id. n. 424 
+ [R.D. 2 gennaio 1921, n. 17](Che%20modifica%20quello%2021%20novembre%201920%20n.%201741%20relativamente%20alla%20erogazione%20di%20sussidi%20per%20provvisoria%20liquidazione%20di%20pensione%20diretta%20o%20indiretta%20a%20favore%20di%20mutilati%20invalidi%20vedove%20ed%20_b387a1eb6d1e.md), id. n. 425 
+ [R.D. 16 gennaio 1921, n. 19](Che%20autorizza%20una%2029ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0019.md), id. n. 424 
  [R.D. 27 gennaio 1921, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-01-27;38), id. n. 1439 
- [R.D. 16 gennaio 1921, n. 49](../Regi%20decreti/Che%20autorizza%20una%2031ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0049.md), id. n. 424 
- [R.D. 23 gennaio 1921, n. 51](../Regi%20decreti/Che%20autorizza%20una%2033ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0051.md), id. n. 424 
- [R.D. 16 gennaio 1921, n. 62](../Regi%20decreti/Che%20autorizza%20una%2030ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0062.md), id. n. 424 
- [R.D. 23 gennaio 1921, n. 71](../Regi%20decreti/Che%20autorizza%20una%2032ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0071.md), id. n. 424 
- [R.D. 24 febbraio 1921, n. 245](../Regi%20decreti/Che%20autorizza%20la%20spesa%20di%20L.%205.300.000%20per%20riparazione%20di%20danni%20prodotti%20da%20alluvioni%20e%20frane%20ad%20opere%20stradali%20ed%20idrauliche.%20021U0245.md), id. n. 942 
+ [R.D. 16 gennaio 1921, n. 49](Che%20autorizza%20una%2031ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0049.md), id. n. 424 
+ [R.D. 23 gennaio 1921, n. 51](Che%20autorizza%20una%2033ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0051.md), id. n. 424 
+ [R.D. 16 gennaio 1921, n. 62](Che%20autorizza%20una%2030ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0062.md), id. n. 424 
+ [R.D. 23 gennaio 1921, n. 71](Che%20autorizza%20una%2032ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0071.md), id. n. 424 
+ [R.D. 24 febbraio 1921, n. 245](Che%20autorizza%20la%20spesa%20di%20L.%205.300.000%20per%20riparazione%20di%20danni%20prodotti%20da%20alluvioni%20e%20frane%20ad%20opere%20stradali%20ed%20idrauliche.%20021U0245.md), id. n. 942 
  [R.D. 3 aprile 1921, n. 430](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-04-03;430), id. n. 1067 
  Id. n. 472, id. n. 1054 
- [R.D. 7 aprile 1921, n. 523](../Regi%20decreti/Che%20autorizza%20una%2034ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritte%20nello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0523.md), id. n. 326 
+ [R.D. 7 aprile 1921, n. 523](Che%20autorizza%20una%2034ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritte%20nello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0523.md), id. n. 326 
  Id. n. 524, id. n. 326 
- [R.D. 10 aprile 1921, n. 531](../Regi%20decreti/Che%20autorizza%20una%2036a%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20nello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0531.md), id. n. 326 
- [R.D. 24 aprile 1921, n. 604](../Regi%20decreti/Che%20autorizza%20una%2038ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20nello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0604.md), v. disegno di legge n. 326 
+ [R.D. 10 aprile 1921, n. 531](Che%20autorizza%20una%2036a%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20nello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0531.md), id. n. 326 
+ [R.D. 24 aprile 1921, n. 604](Che%20autorizza%20una%2038ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20nello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0604.md), v. disegno di legge n. 326 
  Id. n. 607, id. n. 326 
- [R.D. 1 maggio 1921, n. 635](../Regi%20decreti/Che%20autorizza%20una%2039ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20nello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20da%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0635.md), id. n. 326 
+ [R.D. 1 maggio 1921, n. 635](Che%20autorizza%20una%2039ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20nello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20da%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0635.md), id. n. 326 
  Id. n. 636, id. n. 326 
- [R.D. 8 maggio 1921, n. 654](../Regi%20decreti/Che%20autorizza%20una%2041ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20nello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0654.md), id. n. 326 
+ [R.D. 8 maggio 1921, n. 654](Che%20autorizza%20una%2041ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20nello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201920-921.%20021U0654.md), id. n. 326 
  Id. n. 793, id. n. 1208 
  [R.D. 9 giugno 1921, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-06-09;740), id. n. 1122 
  [R.D. 30 giugno 1921, n. 962](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-06-30;962), id. n. 1174 

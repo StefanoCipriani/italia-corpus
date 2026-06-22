@@ -54,7 +54,7 @@ L'Ente nazionale industrie turistiche continua a svolgere i propri compiti istit
 ### Art. 8.
 
 I criteri che le leggi dello Stato prescrivono per la determinazione delle classifiche alberghiere e le disposizioni a carattere nazionale in materia di tariffe alberghiere valgono anche per la Regione.
- Le deliberazioni della Giunta regionale sui provvedimenti amministrativi in materia di classifica e tariffe alberghiere sono impugnabili con ricorso al Commissariato per il turismo nei modi e termini previsti dal [decreto-legge 18 gennaio 1937, n. 975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1937-01-18;975), convertito nella [legge 30 dicembre 1937, n. 2651](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2018%20gennaio%201937-XV%20n.%20975%20contenente%20norme%20per%20la%20classificazione%20degli%20alberghi%20e%20delle%20pensioni.%20037U2651.md).
+ Le deliberazioni della Giunta regionale sui provvedimenti amministrativi in materia di classifica e tariffe alberghiere sono impugnabili con ricorso al Commissariato per il turismo nei modi e termini previsti dal [decreto-legge 18 gennaio 1937, n. 975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1937-01-18;975), convertito nella [legge 30 dicembre 1937, n. 2651](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2018%20gennaio%201937-XV%20n.%20975%20contenente%20norme%20per%20la%20classificazione%20degli%20alberghi%20e%20delle%20pensioni.%20037U2651.md).
 
 ### Art. 9.
 

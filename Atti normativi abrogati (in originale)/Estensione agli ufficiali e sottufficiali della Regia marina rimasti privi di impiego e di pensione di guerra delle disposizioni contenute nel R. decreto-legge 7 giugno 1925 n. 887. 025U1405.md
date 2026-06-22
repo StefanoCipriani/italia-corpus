@@ -18,7 +18,7 @@ Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20uffic
 
 Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 1° febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-01;70), e successive modificazioni;
 
-Visto il [R. decreto 12 luglio 1923, n.1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sulla riforma tecnico-giuridica delle norme vigenti sulle pensioni di guerra, e successive modificazioni;
+Visto il [R. decreto 12 luglio 1923, n.1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sulla riforma tecnico-giuridica delle norme vigenti sulle pensioni di guerra, e successive modificazioni;
 
 Visto il decreto Luogotenenziale 2 aprile 1916, col quale viene disposto che la dichiarazione di congedo assoluto tiene luogo del decreto di collocamento a riposo per gli ufficiali di complemento di milizia territoriale e per i militari di truppa di terra e di mare e della Regia guardia di finanza, resi permanentemente inabili al servizio;
 
@@ -26,9 +26,9 @@ Vista la [legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20
 
 Visto il [R. decreto 20 aprile 1920, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-20;453), relativo alla sistemazione degli ufficiali esuberanti per riduzioni di ruoli organici, e successive modificazioni, esteso agli ufficiali della Regia marina con [R. decreto 22 aprile 1920, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-22;472), e successive modificazioni;
 
-Visto il testo unico delle disposizioni legislative approvate con [R. decreto 21 agosto 1924, n. 1525](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), sullo state dei sottufficiali della Regia marina, e successive modificazioni;
+Visto il testo unico delle disposizioni legislative approvate con [R. decreto 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), sullo state dei sottufficiali della Regia marina, e successive modificazioni;
 
-Visto il testo unico delle leggi sulla leva marittima, approvato con [R. decreto 16 dicembre 1888, n. 5860](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), e successive modificazioni;
+Visto il testo unico delle leggi sulla leva marittima, approvato con [R. decreto 16 dicembre 1888, n. 5860](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), e successive modificazioni;
 
 Udito il Consiglio dei Ministri;
 

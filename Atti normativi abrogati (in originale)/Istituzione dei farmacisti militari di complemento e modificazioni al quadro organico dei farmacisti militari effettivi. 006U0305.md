@@ -84,7 +84,7 @@ I concorsi, per l'ammissione nel personale dei farmacisti militari effettivi, ve
 
 ## Art. 12.
 
-E' approvata la seguente modificazione alla legge sull'ordinamento del regio esercito e dei servizi dipendenti dall'amministrazione della guerra - testo unico approvato con [regio decreto n. 525 del 14 luglio 1898](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md) - modificato con [leggi n. 285 del 7 luglio 1901, n. 303 del 21 luglio 1902, n. 216 del 2 giugno 1904, n. 300 del 3 luglio 1904 e numero 347 del 9 luglio 1905](Modificazione%20alla%20tabella%20n.%2014%20degli%20ufficiali%20del%20corpo%20veterinario%20militare%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20R.%20esercito%20e%20dei%20servizi%20dipendenti%20dallAmministrazione%20de_d18d0c6cd3f2.md). 
+E' approvata la seguente modificazione alla legge sull'ordinamento del regio esercito e dei servizi dipendenti dall'amministrazione della guerra - testo unico approvato con [regio decreto n. 525 del 14 luglio 1898](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md) - modificato con [leggi n. 285 del 7 luglio 1901, n. 303 del 21 luglio 1902, n. 216 del 2 giugno 1904, n. 300 del 3 luglio 1904 e numero 347 del 9 luglio 1905](Modificazione%20alla%20tabella%20n.%2014%20degli%20ufficiali%20del%20corpo%20veterinario%20militare%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20R.%20esercito%20e%20dei%20servizi%20dipendenti%20dallAmministrazione%20de_d18d0c6cd3f2.md). 
  
  Alla tabella n. XIX dei farmacisti militari sostituire la seguente: 
  

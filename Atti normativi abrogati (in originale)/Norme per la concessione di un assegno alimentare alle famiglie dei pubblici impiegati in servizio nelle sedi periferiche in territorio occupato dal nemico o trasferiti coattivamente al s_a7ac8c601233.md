@@ -22,7 +22,7 @@ Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20dispos
 
 Visto il regolamento approvato con [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 
-Visto il [R. decreto 15 maggio 1941, n. 584](../Regi%20decreti/Modificazioni%20alle%20norme%20che%20regolano%20il%20trattamento%20del%20personale%20statale%20e%20degli%20enti%20pubblici%20richiamato%20alle%20armi.%20041U0584.md);
+Visto il [R. decreto 15 maggio 1941, n. 584](Modificazioni%20alle%20norme%20che%20regolano%20il%20trattamento%20del%20personale%20statale%20e%20degli%20enti%20pubblici%20richiamato%20alle%20armi.%20041U0584.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

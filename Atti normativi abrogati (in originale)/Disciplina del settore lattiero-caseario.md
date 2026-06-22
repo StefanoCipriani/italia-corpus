@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto legislativo del Capo provvisorio dello stato 5 ottobre 1946, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-05;193), recante sanzioni relative alla disciplina dei consumi, del commercio e del conferimento di prodotti agricoli soggetti a vincolo;
 
-Visto il [decreto legislativo luogotenenziale 22 dicembre 1945, n. 838](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Ministero%20dellalimentazione%20e%20istituzione%20di%20un%20Alto%20Commissariato%20per%20lalimentazione.md), concernente la soppressione del Mistero dell' alimentazione e l'istituzione di un Alto Commissariato dell'alimentazione;
+Visto il [decreto legislativo luogotenenziale 22 dicembre 1945, n. 838](Soppressione%20del%20Ministero%20dellalimentazione%20e%20istituzione%20di%20un%20Alto%20Commissariato%20per%20lalimentazione.md), concernente la soppressione del Mistero dell' alimentazione e l'istituzione di un Alto Commissariato dell'alimentazione;
 
 Visto il decreto-legge luogotenenziale 25 giugno 1944 a. 151;
 

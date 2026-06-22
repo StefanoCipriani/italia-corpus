@@ -72,7 +72,7 @@ Il numero del personale specializzato arruolato in base al presente decreto sara
 
 ## Art. 4.
 
-E' abrogato l'art. 145 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md). 
+E' abrogato l'art. 145 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md). 
  
  Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la sua conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

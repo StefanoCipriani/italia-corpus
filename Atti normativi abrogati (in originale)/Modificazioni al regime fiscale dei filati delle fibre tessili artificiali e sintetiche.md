@@ -18,7 +18,7 @@ gennaio 1947, n. 1, e successive modificazioni;
 
 Visto il [decreto-legge 20 dicembre 1948, n. 1427](Modificazioni%20al%20regime%20fiscale%20di%20taluni%20prodotti%20soggetti%20ad%20imposta%20di%20fabbricazione_2.md), convertito, con
 
-modificazioni, nella [legge 18 febbraio 1949, n. 27](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20dicembre%201948%20n.%201427%20adottato%20ai%20sensi%20dellart.%2077%20comma%2020%20della%20Costituzione%20e%20concernente%20modificazioni%20al%20regime%20fiscale%20d_ec2fa99452cc.md);
+modificazioni, nella [legge 18 febbraio 1949, n. 27](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20dicembre%201948%20n.%201427%20adottato%20ai%20sensi%20dellart.%2077%20comma%2020%20della%20Costituzione%20e%20concernente%20modificazioni%20al%20regime%20fiscale%20d_ec2fa99452cc.md);
 
 Vista la [legge 22 marzo 1951, n. 205](Regime%20fiscale%20dei%20filati%20delle%20varie%20fibre%20tessili%20naturali%20ed%20artificiali.md);
 
@@ -28,7 +28,7 @@ Visto il [decreto-legge 18 marzo 1952, n. 117](Modificazioni%20al%20regime%20fis
 
 Visto il [decreto-legge 19 dicembre 1953 n. 946](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1953-12-19;946), convertito con
 
-modificazioni, nella [legge 14 febbraio 1954, n. 5](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201953%20n.%20916%20concernente%20modificazioni%20al%20regime%20fiscale%20di%20taluni%20filati%20di%20fibre%20tessili%20naturali%20ed%20artificiali.md);
+modificazioni, nella [legge 14 febbraio 1954, n. 5](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201953%20n.%20916%20concernente%20modificazioni%20al%20regime%20fiscale%20di%20taluni%20filati%20di%20fibre%20tessili%20naturali%20ed%20artificiali.md);
 
 Visto il [decreto-legge 7 ottobre 1964, n. 1029](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1964-10-07;1029), convertito nella
 
@@ -75,11 +75,11 @@ L'imposta di fabbricazione per i filati di fibre tessili artificiali e sintetich
 
 ## Art. 3. — Infrazioni ai decreti ministeriali
 
-Le infrazioni alle disposizioni contenute nei decreti del Ministro per le finanze che saranno emanati in forza del [decreto-legge 7 ottobre 1961, n. 1029](Modificazioni%20dellimposta%20di%20fabbricazione%20sul%20filati%20di%20fibre%20tessili.md), convertito nella [legge 8 dicembre 1961, n. 1266](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto%20legge%207%20ottobre%201961%20n.%201029%20recante%20modificazioni%20dellimposta%20di%20fabbricazione%20sui%20filati%20di%20fibre%20tessili.md), nonche' del presente decreto sono punite con l'ammenda da lire centomila a lire un milione.
+Le infrazioni alle disposizioni contenute nei decreti del Ministro per le finanze che saranno emanati in forza del [decreto-legge 7 ottobre 1961, n. 1029](Modificazioni%20dellimposta%20di%20fabbricazione%20sul%20filati%20di%20fibre%20tessili.md), convertito nella [legge 8 dicembre 1961, n. 1266](Conversione%20in%20legge%20del%20decreto%20legge%207%20ottobre%201961%20n.%201029%20recante%20modificazioni%20dellimposta%20di%20fabbricazione%20sui%20filati%20di%20fibre%20tessili.md), nonche' del presente decreto sono punite con l'ammenda da lire centomila a lire un milione.
 
 ## Art. 4. — Deroga al Codice penale per la misura dell'ammenda
 
-Le disposizioni di cui al precedente art. 3 del presente decreto per quanto concerne la misura dell'ammenda, sono adottate in deroga all'[art. 26 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle sue successive modificazioni.
+Le disposizioni di cui al precedente art. 3 del presente decreto per quanto concerne la misura dell'ammenda, sono adottate in deroga all'[art. 26 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle sue successive modificazioni.
 
 ## Art. 5. — Spese a carico delle ditte
 
@@ -92,9 +92,9 @@ Le spese relative ai servizi svolti dagli Uffici tecnici delle imposte di fabbri
 ## Art. 7. — Abrogazione di norme
 
 Sono abrogati, dalla data di entrata in vigore del presente decreto:
- a) il n. 8 dell'articolo unico della [legge 18 febbraio 1949, n. 27](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20dicembre%201948%20n.%201427%20adottato%20ai%20sensi%20dellart.%2077%20comma%2020%20della%20Costituzione%20e%20concernente%20modificazioni%20al%20regime%20fiscale%20d_ec2fa99452cc.md), sostituito dall'[art. 2 del decreto-legge 19 dicembre 1953, n. 916](Modificazione%20al%20regime%20fiscale%20di%20taluni%20filati%20di%20fibre%20tessili%20naturali%20ed%20artificiali.md), convertito, con modificazioni, nella [legge 14 febbraio 1954, n. 5](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201953%20n.%20916%20concernente%20modificazioni%20al%20regime%20fiscale%20di%20taluni%20filati%20di%20fibre%20tessili%20naturali%20ed%20artificiali.md);
- b) l'[art. 6 del decreto-legge 18 marzo 1952, n. 117](Modificazioni%20al%20regime%20fiscale%20dellimposta%20di%20fabbricazione%20per%20taluni%20filati.md), convertito nella [legge 15 maggio 1952, n. 456](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2018%20marzo%201952%20n.%20117%20concernente%20modificazioni%20al%20regime%20fiscale%20dellimposta%20di%20fabbricazione%20per%20taluni%20filati.md);
- c) il [secondo comma dell'art. 1 del decreto-legge 19 dicembre 1953, n. 916](Modificazione%20al%20regime%20fiscale%20di%20taluni%20filati%20di%20fibre%20tessili%20naturali%20ed%20artificiali.md), convertito, con modificazioni, nella [legge 14 febbraio 1954, n. 5](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201953%20n.%20916%20concernente%20modificazioni%20al%20regime%20fiscale%20di%20taluni%20filati%20di%20fibre%20tessili%20naturali%20ed%20artificiali.md).
+ a) il n. 8 dell'articolo unico della [legge 18 febbraio 1949, n. 27](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20dicembre%201948%20n.%201427%20adottato%20ai%20sensi%20dellart.%2077%20comma%2020%20della%20Costituzione%20e%20concernente%20modificazioni%20al%20regime%20fiscale%20d_ec2fa99452cc.md), sostituito dall'[art. 2 del decreto-legge 19 dicembre 1953, n. 916](Modificazione%20al%20regime%20fiscale%20di%20taluni%20filati%20di%20fibre%20tessili%20naturali%20ed%20artificiali.md), convertito, con modificazioni, nella [legge 14 febbraio 1954, n. 5](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201953%20n.%20916%20concernente%20modificazioni%20al%20regime%20fiscale%20di%20taluni%20filati%20di%20fibre%20tessili%20naturali%20ed%20artificiali.md);
+ b) l'[art. 6 del decreto-legge 18 marzo 1952, n. 117](Modificazioni%20al%20regime%20fiscale%20dellimposta%20di%20fabbricazione%20per%20taluni%20filati.md), convertito nella [legge 15 maggio 1952, n. 456](Conversione%20in%20legge%20del%20decreto-legge%2018%20marzo%201952%20n.%20117%20concernente%20modificazioni%20al%20regime%20fiscale%20dellimposta%20di%20fabbricazione%20per%20taluni%20filati.md);
+ c) il [secondo comma dell'art. 1 del decreto-legge 19 dicembre 1953, n. 916](Modificazione%20al%20regime%20fiscale%20di%20taluni%20filati%20di%20fibre%20tessili%20naturali%20ed%20artificiali.md), convertito, con modificazioni, nella [legge 14 febbraio 1954, n. 5](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201953%20n.%20916%20concernente%20modificazioni%20al%20regime%20fiscale%20di%20taluni%20filati%20di%20fibre%20tessili%20naturali%20ed%20artificiali.md).
 
 ## Art. 8. — Validita' dei canoni
 

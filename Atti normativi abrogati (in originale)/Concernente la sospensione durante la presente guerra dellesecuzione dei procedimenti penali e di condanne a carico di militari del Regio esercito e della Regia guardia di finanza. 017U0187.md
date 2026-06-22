@@ -18,7 +18,7 @@ Durante la presente guerra, i militari del R. esercito e della Regia guardia di 
 
 ## Art. 2.
 
-Pei militari che disertano la seconda volta, il giudizio avra' luogo di regola con precedenza sugli altri e gl'imputati saranno giudicati anche per la prima diserzione e puniti a norma dell'art. 145 cap. del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, nel caso che siano riconosciuti colpevoli di entrambi i reati. Saranno quindi inviati al fronte, restando sospesa l'esecuzione della pena. 
+Pei militari che disertano la seconda volta, il giudizio avra' luogo di regola con precedenza sugli altri e gl'imputati saranno giudicati anche per la prima diserzione e puniti a norma dell'art. 145 cap. del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, nel caso che siano riconosciuti colpevoli di entrambi i reati. Saranno quindi inviati al fronte, restando sospesa l'esecuzione della pena. 
  
  Il presidente del tribunale, nel pronunciare la condanna avvertira' il colpevole che, incorrendo per la terza volta nello stesso reato, sara' punito a norma dell'articolo seguente. 
  
@@ -26,7 +26,7 @@ Pei militari che disertano la seconda volta, il giudizio avra' luogo di regola c
 
 ## Art. 3.
 
-Il militare che, dopo la condanna e l'ammonimento, di cui all'articolo precedente, si renda responsabile di altro reato di diserzione, sara' considerato come disertore in presenza del nemico e punito a norma dell'[art. 137 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per l'esercito.
+Il militare che, dopo la condanna e l'ammonimento, di cui all'articolo precedente, si renda responsabile di altro reato di diserzione, sara' considerato come disertore in presenza del nemico e punito a norma dell'[art. 137 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per l'esercito.
 
 ## Art. 4.
 

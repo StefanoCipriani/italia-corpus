@@ -28,9 +28,9 @@ Sulla proposta del DUCE del Fascismo, Capo del Governo e Ministro Segretario di 
 
 Chiunque, appartenendo al personale di uno stabilimento statale od ausiliario di produzione per la guerra, si assenta senza autorizzazione dallo stabilimento per oltre un giorno, ovvero, essendone legittimamente assente, non vi rientra, senza giusto motivo, nel giorno successivo a quello prefissogli, e' punito son la reclusione militare fino a sei mesi. 
  
- La richiesta di procedimento ai sensi del [2° comma dell'art. 260 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e' fatta dall'ufficiale che ha la direzione dello stabilimento statale a cui il colpevole appartiene, ovvero, se il colpevole appartiene a uno stabilimento privato dichiarato ausiliario, dal capo della Delegazione interprovinciale del Ministero della produzione bellica, da cui dipende lo stabilimento stesso. 
+ La richiesta di procedimento ai sensi del [2° comma dell'art. 260 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e' fatta dall'ufficiale che ha la direzione dello stabilimento statale a cui il colpevole appartiene, ovvero, se il colpevole appartiene a uno stabilimento privato dichiarato ausiliario, dal capo della Delegazione interprovinciale del Ministero della produzione bellica, da cui dipende lo stabilimento stesso. 
  
- Le disposizioni di questo articolo non si applicano quando il fatto costituisce il reato preveduto dall'[articolo 243 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
+ Le disposizioni di questo articolo non si applicano quando il fatto costituisce il reato preveduto dall'[articolo 243 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
 
 ## Art. 2.
 

@@ -52,7 +52,7 @@ Per le categorie per le quali siano stabiliti salari medi e convenzionali questi
 
 ## Art. 6.
 
-E' abrogato l'[art. 14 del R. decreto-legge 17 giugno 1937, n. 1048](Disposizioni%20per%20il%20perfezionamento%20e%20generalizzazione%20degli%20assegni%20familiari%20ai%20prestatori%20dopera.%20037U1048.md), convertito in legge, con modificazioni, con la [legge 25 ottobre 1938, n. 2233](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20contenente%20disposizioni%20per%20il%20perfezionamento%20e%20la%20generalizzazione%20degli%20assegni%20familiari%20ai%20prest_b75c670e8a1f.md).
+E' abrogato l'[art. 14 del R. decreto-legge 17 giugno 1937, n. 1048](Disposizioni%20per%20il%20perfezionamento%20e%20generalizzazione%20degli%20assegni%20familiari%20ai%20prestatori%20dopera.%20037U1048.md), convertito in legge, con modificazioni, con la [legge 25 ottobre 1938, n. 2233](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20contenente%20disposizioni%20per%20il%20perfezionamento%20e%20la%20generalizzazione%20degli%20assegni%20familiari%20ai%20prest_b75c670e8a1f.md).
 
 ## Art. 7.
 

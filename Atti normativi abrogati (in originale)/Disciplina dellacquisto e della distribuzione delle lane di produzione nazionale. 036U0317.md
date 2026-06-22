@@ -96,7 +96,7 @@ Nota redazionale
 
 ## Art. 10.
 
-Coloro che contravvengono agli obblighi imposti dalle disposizioni degli articoli 2 e 3 del presente decreto, sono puniti con l'arresto fino a tre mesi ovvero con l'ammenda fino a lire duemila, salva, ove del caso, l'applicazione della confisca a termini del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Coloro che contravvengono agli obblighi imposti dalle disposizioni degli articoli 2 e 3 del presente decreto, sono puniti con l'arresto fino a tre mesi ovvero con l'ammenda fino a lire duemila, salva, ove del caso, l'applicazione della confisca a termini del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 11.
 

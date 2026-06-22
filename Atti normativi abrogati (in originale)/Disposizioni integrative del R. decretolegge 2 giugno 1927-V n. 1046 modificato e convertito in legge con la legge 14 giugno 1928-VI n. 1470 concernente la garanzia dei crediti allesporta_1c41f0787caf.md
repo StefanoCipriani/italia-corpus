@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il [R. decreto-legge 2 giugno 1927, n. 1046](Autorizzazione%20allIstituto%20nazionale%20delle%20assicurazioni%20ad%20assumere%20la%20garanzia%20dei%20crediti%20allesportazione%20soggetti%20a%20rischi%20speciali.%20027U1046.md), modificato e convertito in legge con la [legge 14 giugno 1928, n. 1470](Conversione%20in%20legge%20con%20modificazioni%20ed%20aggiunte%20del%20R.%20decreto-legge%202%20giugno%201927%20n.%201046%20concernente%20lautorizzazione%20allIstituto%20nazionale%20delle%20assicurazioni%20ad%20assumere%20la%20garanzia_6746cd4759bc.md), concernente la garanzia dei crediti all'esportazione soggetti a rischi speciali;
 
-Visto il [R. decreto 8 luglio 1929, n. 1435](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto-legge%202%20giugno%201927%20n.%201046%20modificato%20e%20convertito%20in%20legge%20con%20la%20legge%2014%20giugno%201928%20n.%201470%20concernente%20la%20garanzia%20dei%20_61da076670dc.md), che approva il regolamento per l'applicazione del Regio decreto-legge predetto;
+Visto il [R. decreto 8 luglio 1929, n. 1435](Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto-legge%202%20giugno%201927%20n.%201046%20modificato%20e%20convertito%20in%20legge%20con%20la%20legge%2014%20giugno%201928%20n.%201470%20concernente%20la%20garanzia%20dei%20_61da076670dc.md), che approva il regolamento per l'applicazione del Regio decreto-legge predetto;
 
 Ritenuta l'assoluta ed urgente necessita', nell'interesse dell'economia nazionale, di estendere la garanzia statale anche al periodo di lavorazione per le forniture assunte verso l'estero;
 

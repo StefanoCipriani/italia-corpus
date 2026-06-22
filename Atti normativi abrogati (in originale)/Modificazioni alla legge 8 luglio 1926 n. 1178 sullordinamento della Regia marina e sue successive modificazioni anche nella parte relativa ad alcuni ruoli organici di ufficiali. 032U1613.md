@@ -140,11 +140,11 @@ Nell'art. 39 l'eta' di anni "30" e' ridotta ad anni "27".
 
 Nell'art. 40 l'eta' di anni "28" e' ridotta ad anni "25". 
  Inoltre, nel 2° comma, le parole che seguono a "sono promossi tenenti" sono abrogate e sostituite come appresso: 
- "secondo e' stabilito dall'art. 39 del testo unico delle leggi sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md)".
+ "secondo e' stabilito dall'art. 39 del testo unico delle leggi sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md)".
 
 ## Art. 14.
 
-Nell'art. 41, ultimo alinea del comma A), le parole che seguono a "presso le capitanerie di porto" sono abrogate e sostituite dalle seguenti: "per la durata complessiva di 12 mesi, dopo di che sono promossi tenenti, secondo e' stabilita dall'art. 39 del testo unico delle leggi sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md)". 
+Nell'art. 41, ultimo alinea del comma A), le parole che seguono a "presso le capitanerie di porto" sono abrogate e sostituite dalle seguenti: "per la durata complessiva di 12 mesi, dopo di che sono promossi tenenti, secondo e' stabilita dall'art. 39 del testo unico delle leggi sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md)". 
  Inoltre, nel comma B) sono soppresse le parole "di idoneita'" dopo la parola "esame".
 
 ## Art. 15.
@@ -169,7 +169,7 @@ L'art. 47 e' cosi' modificato:
 ## Art. 17.
 
 L'art. 48 e' cosi' modificato: 
- "Gli ufficiali del soppresso Corpo degli ufficiali per la direzione macchine che, dal ruolo transitorio, fanno passaggio nel Genio navale sono classificati secondo le norme dell'art. 92 del testo unico delle leggi sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md)".
+ "Gli ufficiali del soppresso Corpo degli ufficiali per la direzione macchine che, dal ruolo transitorio, fanno passaggio nel Genio navale sono classificati secondo le norme dell'art. 92 del testo unico delle leggi sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md)".
 
 ## Art. 18.
 
@@ -181,7 +181,7 @@ All'art. 56 sono apportate le seguenti modificazioni:
  B) L'ultimo comma e' cosi' modificato: 
  "Gli ufficiali del Corpo di Stato Maggiore che saranno passati nel Corpo delle Armi navali fino al 1° gennaio 1933 conserveranno ad personam le denominazioni di grado degli ufficiali di Stato Maggiore; quelli che passeranno nel Corpo degli ufficiali delle Armi navali dopo tale data assumeranno la denominazione di grado di quest'ultimo Corpo". 
  C) Dopo l'ultimo comma e' aggiunto il seguente: 
- "Gli ufficiali di Stato Maggiore trasferiti nel Corpo delle Armi navali in base all'[art. 11 del R. decreto-legge 8 novembre 1928, n. 2482](Modificazioni%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullo%20stato%20ed%20avanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20028U2482.md) o, comunque, dopo l'entrata in vigore di tale R. decreto-legge, conservano l'anzianita' assoluta che possedevano all'atto del trasferimento. La Commissione di avanzamento stabilira' l'anzianita' nel nuovo Corpo tenuto conto del posto che essi avevano nel ruolo di provenienza, nonche' di tutti gli elementi di giudizio prescritti dal testo unico delle leggi sull'avanzamento, approvato con [R. decreto 7 novembre 1929, n. 2007](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md)".
+ "Gli ufficiali di Stato Maggiore trasferiti nel Corpo delle Armi navali in base all'[art. 11 del R. decreto-legge 8 novembre 1928, n. 2482](Modificazioni%20alle%20leggi%20sullordinamento%20della%20Regia%20marina%20e%20sullo%20stato%20ed%20avanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20028U2482.md) o, comunque, dopo l'entrata in vigore di tale R. decreto-legge, conservano l'anzianita' assoluta che possedevano all'atto del trasferimento. La Commissione di avanzamento stabilira' l'anzianita' nel nuovo Corpo tenuto conto del posto che essi avevano nel ruolo di provenienza, nonche' di tutti gli elementi di giudizio prescritti dal testo unico delle leggi sull'avanzamento, approvato con [R. decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md)".
 
 ## Art. 19.
 

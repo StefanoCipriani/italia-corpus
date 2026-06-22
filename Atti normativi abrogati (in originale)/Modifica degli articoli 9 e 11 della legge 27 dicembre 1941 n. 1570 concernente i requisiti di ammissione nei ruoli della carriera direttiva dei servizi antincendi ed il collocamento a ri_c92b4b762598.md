@@ -20,7 +20,7 @@ PROMULGA la seguente legge:
 
 L'[art. 9 della legge 27 dicembre 1941, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-27;1570#art_9), e' sostituito dal seguente: 
  "L'ammissione nel ruolo della carriera direttiva dei servizi antincendi avviene mediante pubblico concorso per esami. 
- Gli aspiranti a posti di ispettore in prova, oltre a possedere i requisiti generali di cui all'art. 2 del testo unico delle disposizioni concernenti lo statuito degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica, 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), devono, altresi', essere in possesso dei seguenti requisiti: 
+ Gli aspiranti a posti di ispettore in prova, oltre a possedere i requisiti generali di cui all'art. 2 del testo unico delle disposizioni concernenti lo statuito degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica, 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), devono, altresi', essere in possesso dei seguenti requisiti: 
  1) diploma di laurea in ingegneria conseguita in una Universita' italiana; 
  2) eta' che, alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione, non deve essere superiore agli anni 30, salve le elevazioni previste dalle vigenti disposizioni; tale limite non potra' in nessun caso eccedere gli anni 35; 
  3) avere assolto agli obblighi di leva; 

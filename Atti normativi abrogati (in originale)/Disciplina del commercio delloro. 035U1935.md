@@ -50,7 +50,7 @@ Tutti coloro che comunque esercitano nel Regno il commercio dell'oro, sia greggi
  
  c) la qualita' e le caratteristiche dell'oggetto venduto o comprato 
  
- All'uopo potra' essere utilizzato, con le necessarie integrazioni, registro prescritto dall'[art. 128 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [R. decreto 18 giugno 1931, n. 773 e dall'articolo 262](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) del Regolamento approvato con [R. decreto 21 gennaio 1929, numero 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-21;62).
+ All'uopo potra' essere utilizzato, con le necessarie integrazioni, registro prescritto dall'[art. 128 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [R. decreto 18 giugno 1931, n. 773 e dall'articolo 262](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) del Regolamento approvato con [R. decreto 21 gennaio 1929, numero 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-21;62).
 
 ## Art. 5.
 
@@ -74,7 +74,7 @@ L'Istituto nazionale per i cambi con l'estero per l'acquisto ed il deposito di o
 
 ## Art. 9.
 
-Per gli oggetti d'oro compresi tra le cose confiscate ai sensi dell'[art. 240 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o fra quelle sequestrate nei casi contemplati dall'[art. 625 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_625), il giudice dovra' disporre la consegna all'Istituto nazionale per i cambi con l'estero per conto del Tesoro dello Stato. 
+Per gli oggetti d'oro compresi tra le cose confiscate ai sensi dell'[art. 240 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o fra quelle sequestrate nei casi contemplati dall'[art. 625 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_625), il giudice dovra' disporre la consegna all'Istituto nazionale per i cambi con l'estero per conto del Tesoro dello Stato. 
  
  Tale consegna dovra' avvenire entro un mese dalla data in cui e' divenuta irrevocabile la sentenza di condanna nel caso di confisca, oppure dalla scadenza del termine previsto dal citato [art. 625 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_625) nei casi di sequestro. 
  

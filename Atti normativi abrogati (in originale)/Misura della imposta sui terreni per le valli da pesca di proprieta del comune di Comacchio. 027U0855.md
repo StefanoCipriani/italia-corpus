@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 7 luglio 1868, n. 4478](E%20approvata%20la%20Convenzione%20intesa%20fra%20le%20Finanze%20dello%20Stato%20ed%20il%20Municipio%20di%20Comacchio%20per%20la%20cessione%20a%20quel%20Comune%20del%20possesso%20e%20dellamministrazione%20delle%20Valli%20di%20Comacchio.%20068U4478.md), che approva la convenzione tra le Finanze dello Stato ed il municipio di Comacchio per la cessione a quel Comune del possesso e dell'amministrazione delle Valli di Comacchio;
 
-Visto il [R. decreto 7 gennaio 1923, n. 17](../Regi%20decreti/Che%20dispone%20la%20revisione%20generale%20degli%20estimi%20catastali.%20023U0017.md), che dispose la revisione generale degli estimi catastali;
+Visto il [R. decreto 7 gennaio 1923, n. 17](Che%20dispone%20la%20revisione%20generale%20degli%20estimi%20catastali.%20023U0017.md), che dispose la revisione generale degli estimi catastali;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

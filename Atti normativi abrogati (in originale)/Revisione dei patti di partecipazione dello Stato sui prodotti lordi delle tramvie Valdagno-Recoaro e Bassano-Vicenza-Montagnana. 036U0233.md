@@ -24,9 +24,9 @@ VITTORIO EMANUELE III
  
  E' approvata e resa esecutoria la convenzione stipulata il 10 giugno 1935-XIII, fra i delegati dei Ministeri delle comunicazioni e delle finanze, in rappresentanza dello Stato, ed il legale rappresentante della «Societa' Tramvie Vicentine» e per la quale la medesima viene esonerata: 
  
- a) per il periodo 1° gennaio 1925-31 dicembre 1929 dalla partecipazione governativa sui prodotti lordi della tramvia Valdagno-Recoaro, prevista dalla Convenzione 11 giugno 1909, approvata con il [R. decreto 6 gennaio 1910, n. 21](../Regi%20decreti/Che%20approva%20lannessa%20Convezione%20per%20la%20concessione%20e%20lesercizio%20della%20tramvia%20Valdagno-Recoaro.%201000021R.md); 
+ a) per il periodo 1° gennaio 1925-31 dicembre 1929 dalla partecipazione governativa sui prodotti lordi della tramvia Valdagno-Recoaro, prevista dalla Convenzione 11 giugno 1909, approvata con il [R. decreto 6 gennaio 1910, n. 21](Che%20approva%20lannessa%20Convezione%20per%20la%20concessione%20e%20lesercizio%20della%20tramvia%20Valdagno-Recoaro.%201000021R.md); 
  
- b) per il periodo 1° gennaio 1925-31 dicembre 1933 dalla partecipazione governativa sui prodotti lordi della tramvia Bassano-Vicenza-Montagnana, prevista dalla convenzione in data 22 gennaio 1910, approvata con [R. decreto 24 febbraio 1910, n. 90](../Regi%20decreti/Relativo%20alla%20composizione%20del%20Comitato%20geologico.%20010U0090.md). 
+ b) per il periodo 1° gennaio 1925-31 dicembre 1933 dalla partecipazione governativa sui prodotti lordi della tramvia Bassano-Vicenza-Montagnana, prevista dalla convenzione in data 22 gennaio 1910, approvata con [R. decreto 24 febbraio 1910, n. 90](Relativo%20alla%20composizione%20del%20Comitato%20geologico.%20010U0090.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

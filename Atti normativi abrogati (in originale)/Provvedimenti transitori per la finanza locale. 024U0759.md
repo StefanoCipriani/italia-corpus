@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 18 novembre 1923, n. 2538](../Regi%20decreti/Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), contenente provvedimenti per la finanza locale;
+Visto il [R. decreto 18 novembre 1923, n. 2538](Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), contenente provvedimenti per la finanza locale;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3063](../Regi%20decreti/Abolizione%20della%20tassa%20di%20famiglia%20e%20del%20valore%20locativo%20ed%20istituzione%20dellimposta%20sul%20reddito%20consumato.%20023U3063.md), che ha abolito la tassa di famiglia e quella sul valore locativo ed ha istituita una addizionale alla imposta complementare di Stato e la imposta sul reddito consumato;
+Visto il [R. decreto 30 dicembre 1923, n. 3063](Abolizione%20della%20tassa%20di%20famiglia%20e%20del%20valore%20locativo%20ed%20istituzione%20dellimposta%20sul%20reddito%20consumato.%20023U3063.md), che ha abolito la tassa di famiglia e quella sul valore locativo ed ha istituita una addizionale alla imposta complementare di Stato e la imposta sul reddito consumato;
 
 Udito il Consiglio dei Ministri;
 
@@ -24,11 +24,11 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-Ai Comuni, che non ritengano sufficiente alle esigenze del proprio bilancio l'applicazione dell'addizionale alla imposta complementare di Stato, istituita col [R. decreto 30 dicembre 1923, n. 3063](../Regi%20decreti/Abolizione%20della%20tassa%20di%20famiglia%20e%20del%20valore%20locativo%20ed%20istituzione%20dellimposta%20sul%20reddito%20consumato.%20023U3063.md), e che intendano istituire - previa autorizzazione Ministeriale - la imposta sul reddito consumato, potra' dal Ministro per le finanze ed in base a loro domanda, essere concessa la facolta' di riscuotere, in via transitoria, per l'anno 1925, la tassa di famiglia o quella sul valore locativo, limitatamente pero' ad un massimo di tre quarti della quota d'imposta dovuta dai singoli contribuenti, secondo le risultanze dei ruoli 1924 o di accertamenti divenuti definitivi dopo la pubblicazione dei ruoli stessi.
+Ai Comuni, che non ritengano sufficiente alle esigenze del proprio bilancio l'applicazione dell'addizionale alla imposta complementare di Stato, istituita col [R. decreto 30 dicembre 1923, n. 3063](Abolizione%20della%20tassa%20di%20famiglia%20e%20del%20valore%20locativo%20ed%20istituzione%20dellimposta%20sul%20reddito%20consumato.%20023U3063.md), e che intendano istituire - previa autorizzazione Ministeriale - la imposta sul reddito consumato, potra' dal Ministro per le finanze ed in base a loro domanda, essere concessa la facolta' di riscuotere, in via transitoria, per l'anno 1925, la tassa di famiglia o quella sul valore locativo, limitatamente pero' ad un massimo di tre quarti della quota d'imposta dovuta dai singoli contribuenti, secondo le risultanze dei ruoli 1924 o di accertamenti divenuti definitivi dopo la pubblicazione dei ruoli stessi.
 
 ## Art. 2.
 
-E' data facolta' al Ministro per le finanze di consentire ai Comuni che non intendono provvedere, per il 1925, all'applicazione della imposta sulle industrie e di quella di patente di cui al [R. decreto 18 novembre 1923, n. 2538](../Regi%20decreti/Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), di riscuotere, in via transitoria, per l'anno stesso, la tassa di esercizio e rivendita che essi abbiano istituita in conformita' delle norme legislative vigenti. 
+E' data facolta' al Ministro per le finanze di consentire ai Comuni che non intendono provvedere, per il 1925, all'applicazione della imposta sulle industrie e di quella di patente di cui al [R. decreto 18 novembre 1923, n. 2538](Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), di riscuotere, in via transitoria, per l'anno stesso, la tassa di esercizio e rivendita che essi abbiano istituita in conformita' delle norme legislative vigenti. 
  
  Ai Comuni che istituiscano col 1 gennaio 1925 la imposta sulle industrie e quella di patente, puo' essere consentito dal Ministro per le finanze per constatate esigenze di bilancio, di applicare, limitatamente all'anno 1925, la imposta predetta con aliquota che giunga fino al limite massimo del 3 per cento se trattasi di redditi di categoria B, e del 2.40 per cento se trattasi di categoria C, e la imposta di patente con tariffa che giunga fino al seguente limite massimo: 
  

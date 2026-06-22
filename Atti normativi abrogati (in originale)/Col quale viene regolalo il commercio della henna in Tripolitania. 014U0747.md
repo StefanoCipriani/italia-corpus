@@ -60,7 +60,7 @@ Chiunque esporta o tenta di esportare henna senza l'osservanza delle norme presc
 
 ## Art. 7.
 
-Chiunque sofistica o altera in qualsiasi modo la henna, prepara a scopo di vendita, vende, pone in vendita o mette altrimenti in commercio henna riconosciuta sofisticata o, in qualsiasi modo alterata, e' passibile dell'ammenda da L. 200 a L. 500, oltre la confisca della merce e senza pregiudizio delle maggiori penalita' stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pei reati di frode in commercio. In caso di recidiva l'ammenda viene estesa fino a L. 1000.
+Chiunque sofistica o altera in qualsiasi modo la henna, prepara a scopo di vendita, vende, pone in vendita o mette altrimenti in commercio henna riconosciuta sofisticata o, in qualsiasi modo alterata, e' passibile dell'ammenda da L. 200 a L. 500, oltre la confisca della merce e senza pregiudizio delle maggiori penalita' stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pei reati di frode in commercio. In caso di recidiva l'ammenda viene estesa fino a L. 1000.
 
 ## Art. 8.
 

@@ -40,11 +40,11 @@ E' costituito presso il Ministero dell'industria, commercio e lavoro un Comitato
 
 ## Art. 4.
 
-Le anticipazioni, i pagamenti e gli incassi dipendenti dall'applicazione del presente decreto affluiranno a un conto corrente speciale che sara' aperto dal Banco di Sicilia, con le modalita' stabilite dai [Regi decreti 18 agosto 1914, n. 827](../Regi%20decreti/Che%20autorizza%20il%20Governo%20a%20chiedere%20ai%20tre%20Istituti%20di%20credito%20una%20somministrazione%20di%20300%20milioni%20di%20lire.%20014U0827.md) e [23 maggio 1915, n. 711](../Regi%20decreti/Che%20aumenta%20il%20fondo%20di%20300%20milioni%20di%20cui%20al%20R.%20decreto%2018%20agosto%201914%20n.%20827%20per%20anticipazioni%20da%20patre%20degli%20istituti%20di%20emissione%20e%20si%20danno%20disposizioni%20per%20lerogazione%20del%20fondo%20anz_1599d009fa7a.md).
+Le anticipazioni, i pagamenti e gli incassi dipendenti dall'applicazione del presente decreto affluiranno a un conto corrente speciale che sara' aperto dal Banco di Sicilia, con le modalita' stabilite dai [Regi decreti 18 agosto 1914, n. 827](Che%20autorizza%20il%20Governo%20a%20chiedere%20ai%20tre%20Istituti%20di%20credito%20una%20somministrazione%20di%20300%20milioni%20di%20lire.%20014U0827.md) e [23 maggio 1915, n. 711](Che%20aumenta%20il%20fondo%20di%20300%20milioni%20di%20cui%20al%20R.%20decreto%2018%20agosto%201914%20n.%20827%20per%20anticipazioni%20da%20patre%20degli%20istituti%20di%20emissione%20e%20si%20danno%20disposizioni%20per%20lerogazione%20del%20fondo%20anz_1599d009fa7a.md).
 
 ## Art. 5.
 
-Senza pregiudizio delle maggiori pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito con la reclusione fino ad un anno e con la multa fino a lire 10.000 chiunque si rifiuti di adempiere agli ordini dati dall'autorita' per la esecuzione del presente decreto, o comunque impedisca od ostacoli tale esecuzione. Sara' pure ordinata in danno del colpevole la confisca dello zolfo.
+Senza pregiudizio delle maggiori pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito con la reclusione fino ad un anno e con la multa fino a lire 10.000 chiunque si rifiuti di adempiere agli ordini dati dall'autorita' per la esecuzione del presente decreto, o comunque impedisca od ostacoli tale esecuzione. Sara' pure ordinata in danno del colpevole la confisca dello zolfo.
 
 ## Art. 6.
 

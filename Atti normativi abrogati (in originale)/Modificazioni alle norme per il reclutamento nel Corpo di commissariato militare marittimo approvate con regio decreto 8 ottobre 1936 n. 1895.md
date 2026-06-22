@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), sull'ordinamento della Marina militare, e successive modificazioni;
 
-Visto il [regio decreto 8 ottobre 1936, n. 1895](../Regi%20decreti/Approvazione%20delle%20norme%20per%20il%20reclutamento%20nel%20Corpo%20di%20commissariato%20militare%20marittimo%20e%20per%20lavanzamento%20ai%20gradi%20di%20capitano%20e%20di%20maggiore%20nel%20Corpo%20stesso.%20036U1895.md), che approva le norme relative al reclutamento nel Corpo di commissariato militare marittimo e per l'avanzamento ai gradi di capitano e di maggiore nel Corpo stesso;
+Visto il [regio decreto 8 ottobre 1936, n. 1895](Approvazione%20delle%20norme%20per%20il%20reclutamento%20nel%20Corpo%20di%20commissariato%20militare%20marittimo%20e%20per%20lavanzamento%20ai%20gradi%20di%20capitano%20e%20di%20maggiore%20nel%20Corpo%20stesso.%20036U1895.md), che approva le norme relative al reclutamento nel Corpo di commissariato militare marittimo e per l'avanzamento ai gradi di capitano e di maggiore nel Corpo stesso;
 
 Vista la [legge 19 ottobre 1959, n. 946](Modificazioni%20alle%20norme%20sul%20reclutamento%20degli%20ufficiali%20dei%20ruoli%20normali%20dei%20Corpi%20di%20commissariato%20militare%20marittimo%20e%20delle%20capitanerie%20di%20porto%20e%20sullavanzamento%20dei%20tenenti%20del%20ru_dc2fcb625578.md), concernente modificazioni alle norme sul reclutamento degli ufficiali dei ruoli normali dei Corpi di commissariato militare marittimo e delle capitanerie di porto e sull'avanzamento dei tenenti del ruolo normale del Corpo di commissariato militare marittimo;
 
-Considerata la necessita' di modificare l'art. 2 delle norme per il reclutamento nel Corpo di commissariato militare marittimo, approvato con il [regio decreto 8 ottobre 1936, n. 1895](../Regi%20decreti/Approvazione%20delle%20norme%20per%20il%20reclutamento%20nel%20Corpo%20di%20commissariato%20militare%20marittimo%20e%20per%20lavanzamento%20ai%20gradi%20di%20capitano%20e%20di%20maggiore%20nel%20Corpo%20stesso.%20036U1895.md);
+Considerata la necessita' di modificare l'art. 2 delle norme per il reclutamento nel Corpo di commissariato militare marittimo, approvato con il [regio decreto 8 ottobre 1936, n. 1895](Approvazione%20delle%20norme%20per%20il%20reclutamento%20nel%20Corpo%20di%20commissariato%20militare%20marittimo%20e%20per%20lavanzamento%20ai%20gradi%20di%20capitano%20e%20di%20maggiore%20nel%20Corpo%20stesso.%20036U1895.md);
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 

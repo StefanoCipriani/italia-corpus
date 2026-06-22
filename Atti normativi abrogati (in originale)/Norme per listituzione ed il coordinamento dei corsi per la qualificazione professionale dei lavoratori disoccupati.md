@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto luogotenenziale 10 agosto 1945, n. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-10;474);
 
-Visto il [regio decreto-legge 21 giugno 1938, n. 1380](Istituzione%20dei%20corsi%20per%20la%20formazione%20ed%20il%20perfezionamento%20dei%20lavoratori.%20038U1380.md), convertito nella [legge 16 gennaio 1939, n. 290](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20giugno%201938-XVI%20n.%201380%20concernente%20listituzione%20dei%20corsi%20per%20la%20formazione%20ed%20il%20perfezionamento%20dei%20lavoratori.%20039U0290.md);
+Visto il [regio decreto-legge 21 giugno 1938, n. 1380](Istituzione%20dei%20corsi%20per%20la%20formazione%20ed%20il%20perfezionamento%20dei%20lavoratori.%20038U1380.md), convertito nella [legge 16 gennaio 1939, n. 290](Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20giugno%201938-XVI%20n.%201380%20concernente%20listituzione%20dei%20corsi%20per%20la%20formazione%20ed%20il%20perfezionamento%20dei%20lavoratori.%20039U0290.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -55,7 +55,7 @@ e uno dei dirigenti di azienda designati dalle rispettive organizzazioni sindaca
 
 ## Art. 4.
 
-Il fondo per l'addestramento dei lavoratori dell'industria di cui al [regio decreto 24 aprile 1939, n. 1059](../Regi%20decreti/Costituzione%20del%20Fondo%20per%20laddestramento%20professionale%20dei%20lavoratori%20dellindustria.%20039U1059.md), assume la denominazione di "Fondo per la qualificazione, il perfezionamento e la rieducazione dei lavoratori italiani" e costituisce una gestione autonoma presso la Cassa depositi e prestiti amministrata dal Ministero del lavoro e della previdenza sociale con le norme di cui al decreto previsto dall'ultimo comma del presente articolo. 
+Il fondo per l'addestramento dei lavoratori dell'industria di cui al [regio decreto 24 aprile 1939, n. 1059](Costituzione%20del%20Fondo%20per%20laddestramento%20professionale%20dei%20lavoratori%20dellindustria.%20039U1059.md), assume la denominazione di "Fondo per la qualificazione, il perfezionamento e la rieducazione dei lavoratori italiani" e costituisce una gestione autonoma presso la Cassa depositi e prestiti amministrata dal Ministero del lavoro e della previdenza sociale con le norme di cui al decreto previsto dall'ultimo comma del presente articolo. 
  Il Fondo e' alimentato: 
  a) da contributi straordinari, da stabilirsi sulle gestioni dell'assicurazione contro la disoccupazione, dei relativi assegni integrativi e dei sussidi straordinari di disoccupazione, con decreto del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per il tesoro; 
  b) da un contributo straordinario di due miliardi di lire versati dal Tesoro dello Stato una volta tanto, da iscrivere nello stato di previsione della spesa del Ministero del lavoro e della previdenza, sociale per l'esercizio 1947-48; 
@@ -77,7 +77,7 @@ Il Ministro per il lavoro e la previdenza sociale puo', con proprio decreto, sen
 
 ## Art. 8.
 
-Nella localita' e per quelle categorie per le quali sono istituiti i corsi per la qualificazione, il perfezionamento e la rieducazione professionale, e' obbligatoria la frequenza da parte dei lavoratori delle categorie stesse per poter percepire l'assegno integrativo di disoccupazione e il sussidio straordinario di disoccupazione, di cui al [regio decreto legislativo 20 maggio 1946, n. 373](../Regi%20decreti%20legislativi/Aumenta%20degli%20assegni%20integrativi%20della%20indennita%20di%20disoccupazione%20concessione%20di%20sussidi%20straordinari%20ai%20lavoratori%20involontariamente%20disoccupati%20non%20aventi%20diritto%20alla%20indennita%20predetta.md), e successive modificazioni.
+Nella localita' e per quelle categorie per le quali sono istituiti i corsi per la qualificazione, il perfezionamento e la rieducazione professionale, e' obbligatoria la frequenza da parte dei lavoratori delle categorie stesse per poter percepire l'assegno integrativo di disoccupazione e il sussidio straordinario di disoccupazione, di cui al [regio decreto legislativo 20 maggio 1946, n. 373](Aumenta%20degli%20assegni%20integrativi%20della%20indennita%20di%20disoccupazione%20concessione%20di%20sussidi%20straordinari%20ai%20lavoratori%20involontariamente%20disoccupati%20non%20aventi%20diritto%20alla%20indennita%20predetta.md), e successive modificazioni.
  Coloro che avranno superato i corsi con esito favorevole, potranno pretendere il titolo di priorita' nel collocamento e nella emigrazione.
  Gli istituti, gli enti, le associazioni e gli organismi che promuovono corsi per il perfezionamento professionale, sono tenuti a comunicare alle sedi provinciali dell'Istituto della previdenza sociale, agli Uffici del lavoro e alle locali associazioni sindacali la istituzione dei corsi ed a segnalare i nominativi degli iscritti.
 

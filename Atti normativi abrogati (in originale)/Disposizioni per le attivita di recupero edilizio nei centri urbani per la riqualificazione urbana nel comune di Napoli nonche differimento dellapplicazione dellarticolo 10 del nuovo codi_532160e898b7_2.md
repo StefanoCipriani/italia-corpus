@@ -14,7 +14,7 @@ Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per le attivita' di recupero edilizio nei centri urbani, nonche' per la riqualificazione urbana nel comune di Napoli;
 
-Ritenuta, altresi', la straordinaria necessita' ed urgenza di differire ulteriormente l'applicazione della normativa prevista dal nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) in materia di veicoli eccezionali e di trasporti in condizioni di eccezionalita';
+Ritenuta, altresi', la straordinaria necessita' ed urgenza di differire ulteriormente l'applicazione della normativa prevista dal nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) in materia di veicoli eccezionali e di trasporti in condizioni di eccezionalita';
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1 aprile 1996;
 
@@ -47,7 +47,7 @@ Ai fini del finanziamento degli interventi di recupero degli edifici ricadenti n
 1.
 
 L'[articolo 4 del decreto-legge 28 giugno 1995, n. 251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-28;251#art_4), convertito, con modificazioni, dalla [legge 3 agosto 1995, n. 351](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201995%20n.%20251%20recante%20disposizioni%20urgenti%20in%20materia%20di%20gestioni%20aeroportuali%20di%20trasporti%20eccezionali%20e%20di%20veicoli%20adibi_8d109f92f861.md), e' sostituito dal seguente:
- "Art. 4. - 1. Le disposizioni contenute nell'[articolo 10 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come modificato dall'[articolo 7 del decreto legislativo 10 settembre 1993, n. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md), si applicano a decorrere dal 1 luglio 1996. E' comunque consentita l'approvazione e l'omologazione dei mezzi d'opera secondo i limiti di massa previsti dal comma 8 dello stesso articolo 1.".
+ "Art. 4. - 1. Le disposizioni contenute nell'[articolo 10 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), come modificato dall'[articolo 7 del decreto legislativo 10 settembre 1993, n. 360](../Decreti%20Legislativi/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md), si applicano a decorrere dal 1 luglio 1996. E' comunque consentita l'approvazione e l'omologazione dei mezzi d'opera secondo i limiti di massa previsti dal comma 8 dello stesso articolo 1.".
 
 ## Art. 4.
 

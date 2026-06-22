@@ -57,7 +57,7 @@ L'[art. 2 del decreto legislativo 7 maggio 1948, n. 1058](../Decreti%20Legislati
 
 L'[art. 7, della legge 17 gennaio 1949, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-01-17;6#art_7), e' sostituito dal seguente:
  "La tassa fissa per la circolazione di prova stabilita dall'[art. 2 del regio decreto-legge 19 dicembre 1936, n. 2168](Agevolazioni%20in%20materia%20di%20tassa%20di%20circolazione%20sugli%20autoveicoli.%20036U2168.md), e successive modificazioni, e' elevata a lire 40.000 per le autovetture, gli autocarri e rimorchi; ai lire 6000 per i motocicli, le motocarrozzette, i motocarri, i motocicli leggeri, le motocarrozzette leggere ed i motofurgoncini leggeri; a lire 3000 per gli autoscafi.
- Per i velocipedi provvisti di motore ausiliario, avente cilindrata fino a centimetri cubi 50, la predetta tassa e' stabilita nella misura di lire 3000, non suscettibile dell'abbuono del 60 per cento, previsto dall'[art. 19 del regio decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e successive modificazioni".
+ Per i velocipedi provvisti di motore ausiliario, avente cilindrata fino a centimetri cubi 50, la predetta tassa e' stabilita nella misura di lire 3000, non suscettibile dell'abbuono del 60 per cento, previsto dall'[art. 19 del regio decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e successive modificazioni".
 
 ## Art. 5.
 
@@ -85,13 +85,13 @@ Per i trasporti di cui all'art. 5 della presente legge deve essere corrisposta, 
 
 ## Art. 9.
 
-Chiunque, senza la prescritta autorizzazione, effettua trasporto di persone su autocarri e' punito con l'ammenda stabilita nell'[art. 114 del regio decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), e successive modificazioni, oltre le sanzioni fiscali previste dall'[art. 9 del decreto legislativo 1 marzo 1945, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1945-03-01;88#art_9).
- La suddetta infrazione importa il ritiro della licenza di circolazione dell'autocarro e della patente di guida del conducente ai sensi degli articoli 81 e 94 del citato [regio decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md).
+Chiunque, senza la prescritta autorizzazione, effettua trasporto di persone su autocarri e' punito con l'ammenda stabilita nell'[art. 114 del regio decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), e successive modificazioni, oltre le sanzioni fiscali previste dall'[art. 9 del decreto legislativo 1 marzo 1945, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1945-03-01;88#art_9).
+ La suddetta infrazione importa il ritiro della licenza di circolazione dell'autocarro e della patente di guida del conducente ai sensi degli articoli 81 e 94 del citato [regio decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md).
  Le disposizioni del presente articolo si applicano anche a chi, sebbene munito dell'autorizzazione, non osservi le prescrizioni di cui al precedente art. 7 o trasporti personale non dipendente dall'azienda proprietaria dell'autocarro.
 
 ## Art. 10.
 
-Il [1° comma dell'art. 29 del regio decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e' sostituito dal seguente:
+Il [1° comma dell'art. 29 del regio decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e' sostituito dal seguente:
  "Le domande per effettuare corse per trasporto viaggiatori fuori linea con gli autoveicoli adibiti ai servizi pubblici regolarmente concessi in via definitiva o autorizzati in via provvisoria, con o senza l'onere del servizio postale, vanno inoltrate all'ispettorato compartimentale della motorizzazione civile e dei trasporti in concessione competente nella circoscrizione".
 
 ## Art. 11.
@@ -119,7 +119,7 @@ La circolazione di rimorchi alternativamente accodati alla stessa motrice e' sog
 ## Art. 15.
 
 L'[art. 9 della legge 17 gennaio 1949, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-01-17;6#art_9), e' sostituito dal seguente:
- "Il trasporto di autovetture, motocicli, motocarrozzette, motocicli leggeri e motocarrozzette leggere nuovi di fabbrica e di parti di ricambio su autocarri e motocarri, pure, nuovi di fabbrica, muniti di regolare foglio di via rilasciato dagli Ispettorati compartimentali della motorizzazione civile e dei trasporti in concessione ai sensi dell'[art. 74 del regio decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), e' soggetto ad una tassa fissa di lire 2000 da corrispondersi presso il competente ufficio esattore dell'Automobile Club d'Italia, per ogni singolo trasporto, dietro esibizione del relativo foglio di via, sul quale debbono essere sommariamente elencate le parti di ricambio trasportate".
+ "Il trasporto di autovetture, motocicli, motocarrozzette, motocicli leggeri e motocarrozzette leggere nuovi di fabbrica e di parti di ricambio su autocarri e motocarri, pure, nuovi di fabbrica, muniti di regolare foglio di via rilasciato dagli Ispettorati compartimentali della motorizzazione civile e dei trasporti in concessione ai sensi dell'[art. 74 del regio decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), e' soggetto ad una tassa fissa di lire 2000 da corrispondersi presso il competente ufficio esattore dell'Automobile Club d'Italia, per ogni singolo trasporto, dietro esibizione del relativo foglio di via, sul quale debbono essere sommariamente elencate le parti di ricambio trasportate".
 
 ## Art. 16.
 

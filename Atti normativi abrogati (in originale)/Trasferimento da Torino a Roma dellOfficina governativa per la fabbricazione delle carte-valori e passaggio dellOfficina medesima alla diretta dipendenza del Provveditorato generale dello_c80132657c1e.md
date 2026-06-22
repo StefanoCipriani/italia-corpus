@@ -18,13 +18,13 @@ Vista la [legge 11 maggio 1865, n. 2285](Che%20autorizza%20una%20spesa%20straord
 
 Vista la [legge 3 aprile 1881, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-04-03;133);
 
-Visto il [R. decreto 16 giugno 1881, n. 253](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20provvedimenti%20per%20labolizione%20del%20corso%20forzoso.%20081U0253.md);
+Visto il [R. decreto 16 giugno 1881, n. 253](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20provvedimenti%20per%20labolizione%20del%20corso%20forzoso.%20081U0253.md);
 
-Visto il [R. decreto 14 maggio 1882, n. 862](../Regi%20decreti/Che%20riordina%20lofficina%20governativa%20delle%20carte%20valori%20e%20gli%20annessi%20servizi%20del%20magazzino%20centrale%20e%20del%20controllo.%20082U0862.md):
+Visto il [R. decreto 14 maggio 1882, n. 862](Che%20riordina%20lofficina%20governativa%20delle%20carte%20valori%20e%20gli%20annessi%20servizi%20del%20magazzino%20centrale%20e%20del%20controllo.%20082U0862.md):
 
-Visto il [R. decreto 8 luglio 1904, n. 346](../Regi%20decreti/Che%20fa%20obbligo%20al%20capo%20ragioniere%20di%20ciascun%20Ministero%20di%20compilare%20la%20situazione%20dei%20capitoli%20di%20spesa%20entro%20i%20primi%20venti%20giorni%20dogni%20mese.%20004U0346.md);
+Visto il [R. decreto 8 luglio 1904, n. 346](Che%20fa%20obbligo%20al%20capo%20ragioniere%20di%20ciascun%20Ministero%20di%20compilare%20la%20situazione%20dei%20capitoli%20di%20spesa%20entro%20i%20primi%20venti%20giorni%20dogni%20mese.%20004U0346.md);
 
-Visto il [R. decreto 26 aprile 1906, n. 167](../Regi%20decreti/Estensione%20del%20sindacato%20della%20Corte%20dei%20conti%20alla%20fabbricazione%20delle%20carte-valori%20del%20Debito%20pubblico%20del%20Demanio%20e%20delle%20Gabelle.%20006U0167.md);
+Visto il [R. decreto 26 aprile 1906, n. 167](Estensione%20del%20sindacato%20della%20Corte%20dei%20conti%20alla%20fabbricazione%20delle%20carte-valori%20del%20Debito%20pubblico%20del%20Demanio%20e%20delle%20Gabelle.%20006U0167.md);
 
 Visto il [decreto-legge Luogotenenziale 30 gennaio 1916, n. 125](Col%20quale%20viene%20soppresso%20lufficio%20di%20delegazione%20della%20Corte%20dei%20conti%20presso%20lofficina%20governativa%20delle%20carte%20valori%20016U0125.md);
 

@@ -44,7 +44,7 @@ E' confermata la sospensione della esazione della sesta rata 1894, per le tre im
 
 ## Art. 7.
 
-E' convalidato il [R. decreto 11 febbraio 1895, n. 35](../Regi%20decreti/Che%20accorda%20ai%20contribuenti%20colpiti%20dai%20terremoti%20del%20novembre%201894%20il%20diritto%20di%20chiedere%20una%20revisione%20straordinaria%20sui%20redditi%20di%20ricchezza%20mobile.%20095U0035.md), col quale fu ammessa una revisione straordinaria dei redditi mobiliari di categoria B e C spettanti a contribuenti privati dei Comuni danneggiati dal terremoto, descritti nell'annessa tabella A con la contemporanea sospensione della prima rata d'imposta 1895, fino al 10 aprile 1895.
+E' convalidato il [R. decreto 11 febbraio 1895, n. 35](Che%20accorda%20ai%20contribuenti%20colpiti%20dai%20terremoti%20del%20novembre%201894%20il%20diritto%20di%20chiedere%20una%20revisione%20straordinaria%20sui%20redditi%20di%20ricchezza%20mobile.%20095U0035.md), col quale fu ammessa una revisione straordinaria dei redditi mobiliari di categoria B e C spettanti a contribuenti privati dei Comuni danneggiati dal terremoto, descritti nell'annessa tabella A con la contemporanea sospensione della prima rata d'imposta 1895, fino al 10 aprile 1895.
 
 ## Art. 8.
 

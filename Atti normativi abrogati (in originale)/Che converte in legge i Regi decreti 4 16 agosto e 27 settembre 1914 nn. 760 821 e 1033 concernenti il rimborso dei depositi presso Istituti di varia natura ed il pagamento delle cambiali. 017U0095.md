@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- Sono convertiti in legge i [Regi decreti 4 agosto 1914, n. 760](../Regi%20decreti/Concernente%20il%20rimborso%20dei%20depositi%20presto%20Istituti%20di%20varia%20natura%20e%20il%20pagamento%20delle%20cambiali.%20014U0760.md), [16 agosto 1914, n. 821](../Regi%20decreti/Concernente%20il%20rimborso%20dei%20depositi%20presso%20Istituti%20di%20varia%20natura%20e%20il%20pagamento%20delle%20cambiali.%20014U0821.md), e [27 settembre 1914, n. 1033](../Regi%20decreti/Concernente%20il%20rimborso%20dei%20depositi%20presso%20Istituti%20di%20varia%20natura%20e%20il%20pagamento%20delle%20cambiali.%20014U1033.md), concernenti il rimborso dei depositi presso Istituti di varia natura e il pagamento delle cambiali. 
+ Sono convertiti in legge i [Regi decreti 4 agosto 1914, n. 760](Concernente%20il%20rimborso%20dei%20depositi%20presto%20Istituti%20di%20varia%20natura%20e%20il%20pagamento%20delle%20cambiali.%20014U0760.md), [16 agosto 1914, n. 821](Concernente%20il%20rimborso%20dei%20depositi%20presso%20Istituti%20di%20varia%20natura%20e%20il%20pagamento%20delle%20cambiali.%20014U0821.md), e [27 settembre 1914, n. 1033](Concernente%20il%20rimborso%20dei%20depositi%20presso%20Istituti%20di%20varia%20natura%20e%20il%20pagamento%20delle%20cambiali.%20014U1033.md), concernenti il rimborso dei depositi presso Istituti di varia natura e il pagamento delle cambiali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

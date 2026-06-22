@@ -50,7 +50,7 @@ I depositi attualmente esistenti, effettuati a norma dell'art. 145 del Codice di
 
 ## Art. 6.
 
-E' data facolta' al Governo del Re di riunire e coordinare in testo unico le disposizioni del presente decreto con quelle dei [decreti-legge 29 aprile 1923, n. 966, 24 settembre 1923, n. 2272, e 5 aprile 1925, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1925-04-05;440), nonche' di modificare il regolamento approvato con [R. decreto 4 gennaio 1925, n. 63](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md). 
+E' data facolta' al Governo del Re di riunire e coordinare in testo unico le disposizioni del presente decreto con quelle dei [decreti-legge 29 aprile 1923, n. 966, 24 settembre 1923, n. 2272, e 5 aprile 1925, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1925-04-05;440), nonche' di modificare il regolamento approvato con [R. decreto 4 gennaio 1925, n. 63](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md). 
  
  Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per essere convertito in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

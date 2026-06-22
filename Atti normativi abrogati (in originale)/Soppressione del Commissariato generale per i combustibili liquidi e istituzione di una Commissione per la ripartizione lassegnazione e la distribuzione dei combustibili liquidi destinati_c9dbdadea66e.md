@@ -18,11 +18,11 @@ Visto l'[art. 18 della legge 19 gennaio 1939, n. 129](Istituzione%20della%20Came
 
 Visto il [R. decreto-legge 24 ottobre 1935, n. 1880](Istituzione%20dellUfficio%20speciale%20per%20lapprovvigionamento%20dei%20combustibili%20liquidi%20esteri%20e%20nazionali%20sotto%20la%20denominazione%20di%20Ufficio%20speciale%20dei%20combustibili%20liquidi.%20035U1880.md), convertito nella [legge 16 gennaio 1936, n. 387](Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20ottobre%201935-XIII%20n.%201880%20concernente%20la%20istituzione%20dellUfficio%20speciale%20per%20lapprovvigionamento%20dei%20combustibili%20liquidi%20esteri%20e%20nazionali%20_148108948eb9.md), col quale veniva istituito, alle dipendenze del Ministero delle Corporazioni, l'Ufficio Speciale dei Combustibili liquidi;
 
-Visto il [R. decreto 30 gennaio 1941, n. 271](../Regi%20decreti/Istituzione%20presso%20il%20Ministero%20delle%20corporazioni%20di%20uno%20speciale%20organo%20denominato%20Ufficio%20combustibili%20liquidi.%20041U0271.md), concernente la istituzione presso il Ministero delle Corporazioni di uno speciale organo denominato «Ufficio combustibili liquidi»;
+Visto il [R. decreto 30 gennaio 1941, n. 271](Istituzione%20presso%20il%20Ministero%20delle%20corporazioni%20di%20uno%20speciale%20organo%20denominato%20Ufficio%20combustibili%20liquidi.%20041U0271.md), concernente la istituzione presso il Ministero delle Corporazioni di uno speciale organo denominato «Ufficio combustibili liquidi»;
 
-Visto il [R. decreto 7 settembre 1942, n. 975](../Regi%20decreti/Istituzione%20di%20un%20Commissariato%20generale%20per%20i%20combustibili%20liquidi%20carburanti%20e%20lubrificanti.%20042U0975.md), concernente la istituzione di un Commissariato Generale per i combustibili liquidi, carburanti e lubrificanti;
+Visto il [R. decreto 7 settembre 1942, n. 975](Istituzione%20di%20un%20Commissariato%20generale%20per%20i%20combustibili%20liquidi%20carburanti%20e%20lubrificanti.%20042U0975.md), concernente la istituzione di un Commissariato Generale per i combustibili liquidi, carburanti e lubrificanti;
 
-Visto il [R. decreto 9 agosto 1943, n. 718](../Regi%20decreti/Mutamento%20della%20denominazione%20del%20Ministero%20delle%20corporazioni.%20043U0718.md), sul mutamento della denominazione del Ministero delle Corporazioni;
+Visto il [R. decreto 9 agosto 1943, n. 718](Mutamento%20della%20denominazione%20del%20Ministero%20delle%20corporazioni.%20043U0718.md), sul mutamento della denominazione del Ministero delle Corporazioni;
 
 Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
@@ -34,9 +34,9 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, d'intes
 
 ## Art. 1.
 
-Il Commissariato Generale per i Combustibili liquidi, carburanti e lubrificanti, istituito con [R. decreto 7 settembre 1942, n. 975](../Regi%20decreti/Istituzione%20di%20un%20Commissariato%20generale%20per%20i%20combustibili%20liquidi%20carburanti%20e%20lubrificanti.%20042U0975.md), e' soppresso. 
+Il Commissariato Generale per i Combustibili liquidi, carburanti e lubrificanti, istituito con [R. decreto 7 settembre 1942, n. 975](Istituzione%20di%20un%20Commissariato%20generale%20per%20i%20combustibili%20liquidi%20carburanti%20e%20lubrificanti.%20042U0975.md), e' soppresso. 
  
- Le funzioni e le attribuzioni allo stesso rimesse sono demandate allo Ufficio Combustibili liquidi istituito con [R. decreto 30 gennaio 1941, n. 271](../Regi%20decreti/Istituzione%20presso%20il%20Ministero%20delle%20corporazioni%20di%20uno%20speciale%20organo%20denominato%20Ufficio%20combustibili%20liquidi.%20041U0271.md).
+ Le funzioni e le attribuzioni allo stesso rimesse sono demandate allo Ufficio Combustibili liquidi istituito con [R. decreto 30 gennaio 1941, n. 271](Istituzione%20presso%20il%20Ministero%20delle%20corporazioni%20di%20uno%20speciale%20organo%20denominato%20Ufficio%20combustibili%20liquidi.%20041U0271.md).
 
 ## Art. 2.
 

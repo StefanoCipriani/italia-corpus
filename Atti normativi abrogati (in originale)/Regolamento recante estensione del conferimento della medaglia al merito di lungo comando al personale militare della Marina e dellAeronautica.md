@@ -12,15 +12,15 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [regio decreto 13 maggio 1935, n. 908](../Regi%20decreti/Istituzione%20della%20Medaglia%20militare%20al%20merito%20di%20lungo%20comando.%20035U0908.md), riguardante l'istituzione della "Medaglia al merito di lungo comando", come modificato dal [decreto del Presidente della Repubblica 14 settembre 1957, n. 1110](Modifiche%20al%20regio%20decreto%2013%20maggio%201935%20n.%20908%20istitutivo%20della%20medagia%20militare%20al%20merito%20di%20lungo%20comando%20e%20al%20decreto%20luogotenenziale%201%20marzo%201945%20n.%20127%20istitutivo%20della%20medaglia%20do_3af51b2e7e38.md);
+Visto il [regio decreto 13 maggio 1935, n. 908](Istituzione%20della%20Medaglia%20militare%20al%20merito%20di%20lungo%20comando.%20035U0908.md), riguardante l'istituzione della "Medaglia al merito di lungo comando", come modificato dal [decreto del Presidente della Repubblica 14 settembre 1957, n. 1110](Modifiche%20al%20regio%20decreto%2013%20maggio%201935%20n.%20908%20istitutivo%20della%20medagia%20militare%20al%20merito%20di%20lungo%20comando%20e%20al%20decreto%20luogotenenziale%201%20marzo%201945%20n.%20127%20istitutivo%20della%20medaglia%20do_3af51b2e7e38.md);
 
-Visto il [regio decreto 10 ottobre 1935, n. 1919](../Regi%20decreti/Estensione%20ai%20sottufficiali%20del%20Regio%20esercito%20del%20conferimento%20della%20medaglia%20al%20merito%20di%20lungo%20comando.%20035U1919.md), concernente l'estensione ai sottufficiali del Regio Esercito del conferimento della medaglia al merito di lungo comando;
+Visto il [regio decreto 10 ottobre 1935, n. 1919](Estensione%20ai%20sottufficiali%20del%20Regio%20esercito%20del%20conferimento%20della%20medaglia%20al%20merito%20di%20lungo%20comando.%20035U1919.md), concernente l'estensione ai sottufficiali del Regio Esercito del conferimento della medaglia al merito di lungo comando;
 
 Visto il [decreto del Presidente della Repubblica 10 febbraio 1953, n. 331](Modificazione%20dei%20modelli%20del%20distintivo%20di%20onore%20per%20i%20mutilati%20di%20guerra%20della%20croce%20per%20anzianita%20di%20servizio%20della%20medaglia%20militare%20al%20merito%20di%20lungo%20comando%20della%20medaglia%20al%20valor_aca9f14f93e1.md), recante la modificazione dei modelli del distintivo di onore per i mutilati di guerra, della croce per l'anzianita' di servizio, della medaglia militare al merito di lungo comando, della medaglia al valore aeronautico e della medaglia militare aeronautica di lunga navigazione;
 
 Visto l'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), recante la disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Mimistri;
 
-Considerata l'opportunita' di estendere il conferimento della medaglia, con le medesime prescrizioni e modalita' di cui ai [regi decreti 13 maggio 1935, n. 908](../Regi%20decreti/Istituzione%20della%20Medaglia%20militare%20al%20merito%20di%20lungo%20comando.%20035U0908.md), e [10 ottobre 1935, n. 1919](../Regi%20decreti/Estensione%20ai%20sottufficiali%20del%20Regio%20esercito%20del%20conferimento%20della%20medaglia%20al%20merito%20di%20lungo%20comando.%20035U1919.md), anche al personale militare della Marina e dell'Aeronautica;
+Considerata l'opportunita' di estendere il conferimento della medaglia, con le medesime prescrizioni e modalita' di cui ai [regi decreti 13 maggio 1935, n. 908](Istituzione%20della%20Medaglia%20militare%20al%20merito%20di%20lungo%20comando.%20035U0908.md), e [10 ottobre 1935, n. 1919](Estensione%20ai%20sottufficiali%20del%20Regio%20esercito%20del%20conferimento%20della%20medaglia%20al%20merito%20di%20lungo%20comando.%20035U1919.md), anche al personale militare della Marina e dell'Aeronautica;
 
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 4 luglio 1996;
 
@@ -34,7 +34,7 @@ EMANA il seguente regolamento:
 
 1.
 
-La "Medaglia militare al merito di lungo comando", di cui ai [regi decreti 13 maggio 1935, n. 908](../Regi%20decreti/Istituzione%20della%20Medaglia%20militare%20al%20merito%20di%20lungo%20comando.%20035U0908.md), e [10 ottobre 1935, n. 1919](../Regi%20decreti/Estensione%20ai%20sottufficiali%20del%20Regio%20esercito%20del%20conferimento%20della%20medaglia%20al%20merito%20di%20lungo%20comando.%20035U1919.md), e' conferita, con le medesime prescrizioni e modalita', anche agli ufficiali e sottufficiali della Marina militare e dell'Aeronautica militare in attivita' di servizio che abbiano raggiunto globalmente, anche in piu' riprese, i previsti periodi minimi di comando di reparto o incarichi equivalenti.
+La "Medaglia militare al merito di lungo comando", di cui ai [regi decreti 13 maggio 1935, n. 908](Istituzione%20della%20Medaglia%20militare%20al%20merito%20di%20lungo%20comando.%20035U0908.md), e [10 ottobre 1935, n. 1919](Estensione%20ai%20sottufficiali%20del%20Regio%20esercito%20del%20conferimento%20della%20medaglia%20al%20merito%20di%20lungo%20comando.%20035U1919.md), e' conferita, con le medesime prescrizioni e modalita', anche agli ufficiali e sottufficiali della Marina militare e dell'Aeronautica militare in attivita' di servizio che abbiano raggiunto globalmente, anche in piu' riprese, i previsti periodi minimi di comando di reparto o incarichi equivalenti.
 
 2.
 

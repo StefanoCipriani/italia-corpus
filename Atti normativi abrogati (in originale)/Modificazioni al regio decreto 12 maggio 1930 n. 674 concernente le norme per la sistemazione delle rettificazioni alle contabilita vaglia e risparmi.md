@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), e successive modificazioni;
 
-Visto il [regio decreto 12 maggio 1930, n. 674](../Regi%20decreti/Norme%20per%20la%20sistemazione%20delle%20rettificazioni%20alle%20contabilita%20vaglia%20e%20risparmi.%20030U0674.md);
+Visto il [regio decreto 12 maggio 1930, n. 674](Norme%20per%20la%20sistemazione%20delle%20rettificazioni%20alle%20contabilita%20vaglia%20e%20risparmi.%20030U0674.md);
 
 Riconosciuta la necessita' di elevare da lire cinque a lire trenta il limite fissato dal citato regio decreto n. 674 per rendere meno dispendiosa e piu' spedita la sistemazione dei rilievi alle contabilita' vaglia e risparmi e gestioni annesse;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro Segretario di Stato per le poste e le telecomunicazi
 
 ## Articolo unico.
 
-Le facolta' concesse all'Amministrazione delle poste e dei telegrafi con l'[art. 1 del regio decreto 12 maggio 1930, n. 674](../Regi%20decreti/Norme%20per%20la%20sistemazione%20delle%20rettificazioni%20alle%20contabilita%20vaglia%20e%20risparmi.%20030U0674.md), per la sistemazione delle rettificazioni alle contabilita' vaglia e risparmi sono estese alle rettificazioni di importo inferiore a lire trenta ciascuna. 
+Le facolta' concesse all'Amministrazione delle poste e dei telegrafi con l'[art. 1 del regio decreto 12 maggio 1930, n. 674](Norme%20per%20la%20sistemazione%20delle%20rettificazioni%20alle%20contabilita%20vaglia%20e%20risparmi.%20030U0674.md), per la sistemazione delle rettificazioni alle contabilita' vaglia e risparmi sono estese alle rettificazioni di importo inferiore a lire trenta ciascuna. 
  Entro il limite di lire trenta, l'Amministrazione si regolera' nel modo stabilito dall'art. 2 dello stesso regio decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare,

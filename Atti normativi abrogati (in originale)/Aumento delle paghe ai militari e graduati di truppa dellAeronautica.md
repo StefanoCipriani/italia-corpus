@@ -18,9 +18,9 @@ Visto il [regio decreto-legge 3 febbraio 1938, n. 744](Norme%20sul%20reclutament
 
 Visto il [regio decreto-legge 23 marzo 1944, n. 103](Paghe%20ordinarie%20dei%20Militari%20di%20truppa%20del%20R.%20Esercito%20della%20R.%20Marina%20e%20della%20R.%20Aeronautica.%20044U0103.md), che stabilisce le paghe ordinarie dei militari di truppa dell'Esercito, della Marina e dell' Aeronautica, e successive modificazioni;
 
-Visto il [decreto legislativo luogotenenziale 31 agosto 1945, n. 650](../Decreti%20legislativi%20luogotenenziali/Aumento%20delle%20paghe%20dei%20graduati%20e%20militari%20di%20truppa%20delle%20Forze%20armate.%20045U0650.md);
+Visto il [decreto legislativo luogotenenziale 31 agosto 1945, n. 650](Aumento%20delle%20paghe%20dei%20graduati%20e%20militari%20di%20truppa%20delle%20Forze%20armate.%20045U0650.md);
 
-Visto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 574](../Decreti%20legislativi%20luogotenenziali/Aumento%20temporaneo%20della%20indennita%20militare%20per%20gli%20ufficiali%20e%20sottufficiali%20in%20servizio%20permanente%20effettivo%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20_fd707601dbac.md);
+Visto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 574](Aumento%20temporaneo%20della%20indennita%20militare%20per%20gli%20ufficiali%20e%20sottufficiali%20in%20servizio%20permanente%20effettivo%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20_fd707601dbac.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -44,8 +44,8 @@ Le paghe ordinarie giornaliere dei graduati e militari di truppa della Aeronauti
  del 7° anno di servizio.............................. L. 80 e) dopo 7 anni di servizio e fino ai compimento
  dell'11° anno di servizio............................ L. 100 f) dopo 11 anni di servizio............................. L. 110 
  A decorrere dalla stessa data sono soppressi:
- l'indennita' di L. 120 nette, istituita con il [decreto legislativo luogotenenziale 7 settembre 1945, n. 574](../Decreti%20legislativi%20luogotenenziali/Aumento%20temporaneo%20della%20indennita%20militare%20per%20gli%20ufficiali%20e%20sottufficiali%20in%20servizio%20permanente%20effettivo%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20_fd707601dbac.md);
- l'integrazione temporanea e l'aumento dell'integrazione stessa, di cui al [decreto legislativo luogotenenziale 31 agosto 1945, n. 650](../Decreti%20legislativi%20luogotenenziali/Aumento%20delle%20paghe%20dei%20graduati%20e%20militari%20di%20truppa%20delle%20Forze%20armate.%20045U0650.md).
+ l'indennita' di L. 120 nette, istituita con il [decreto legislativo luogotenenziale 7 settembre 1945, n. 574](Aumento%20temporaneo%20della%20indennita%20militare%20per%20gli%20ufficiali%20e%20sottufficiali%20in%20servizio%20permanente%20effettivo%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20_fd707601dbac.md);
+ l'integrazione temporanea e l'aumento dell'integrazione stessa, di cui al [decreto legislativo luogotenenziale 31 agosto 1945, n. 650](Aumento%20delle%20paghe%20dei%20graduati%20e%20militari%20di%20truppa%20delle%20Forze%20armate.%20045U0650.md).
 
 ## Art. 2.
 

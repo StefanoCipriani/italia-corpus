@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il [R. decreto 15 agosto 1913, n. 1107](../Regi%20decreti/Modifiche%20al%20ruolo%20organico%20del%20personale%20della%20R.%20scuola%20normale%20superiore%20di%20Pisa.%20013U1107.md);
+Veduto il [R. decreto 15 agosto 1913, n. 1107](Modifiche%20al%20ruolo%20organico%20del%20personale%20della%20R.%20scuola%20normale%20superiore%20di%20Pisa.%20013U1107.md);
 
 Sentito il Consiglio dei ministri;
 

@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- E' approvata l'eccedenza di impegni in L. 11.780,60 risultante in sede di consuntivo al cap. 35 «Inchieste di cui agli articoli 79 e seguenti del regolamento approvato col [R. decreto 13 marzo 1904, n. 141](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%20sugli%20infortuni%20degli%20operai%20sul%20lavoro.%20004U0141.md), ecc.», dello stato di previsione della spesa del Ministero dell'industria, commercio e lavoro, per l'esercizio finanziario 1917-918. 
+ E' approvata l'eccedenza di impegni in L. 11.780,60 risultante in sede di consuntivo al cap. 35 «Inchieste di cui agli articoli 79 e seguenti del regolamento approvato col [R. decreto 13 marzo 1904, n. 141](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%20sugli%20infortuni%20degli%20operai%20sul%20lavoro.%20004U0141.md), ecc.», dello stato di previsione della spesa del Ministero dell'industria, commercio e lavoro, per l'esercizio finanziario 1917-918. 
  
  Questo decreto andra' in vigore il giorno della sua pubblicazione nella Gazzetta ufficiale e sara' presentato al Parlamento per la conversione in legge. 
  

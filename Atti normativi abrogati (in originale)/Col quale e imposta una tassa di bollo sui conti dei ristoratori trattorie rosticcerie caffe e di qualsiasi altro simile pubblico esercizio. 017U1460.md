@@ -85,7 +85,7 @@ Salvo il disposto dell'art. 3 (penultimo comma), per ogni infrazione alle dispos
 
 ## Art. 8.
 
-Per la riscossione delle somme in dipendenza delle contravvenzioni previste dagli articoli precedenti sono applicabili le disposizioni di cui all'art. 63 del testo unico delle leggi d'imposta sui redditi della ricchezza mobile, approvato con [R. decreto 24 agosto 1877, numero 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), concernenti la responsabilita' solidale del cessionario o del successore. 
+Per la riscossione delle somme in dipendenza delle contravvenzioni previste dagli articoli precedenti sono applicabili le disposizioni di cui all'art. 63 del testo unico delle leggi d'imposta sui redditi della ricchezza mobile, approvato con [R. decreto 24 agosto 1877, numero 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), concernenti la responsabilita' solidale del cessionario o del successore. 
  
  Nei casi di chiusura del locale promossa dall'intendente di finanza a termini del precedente articolo, nessuno puo', neanche dopo scaduto il periodo di chiusura, riaprire lo stesso locale o parte di esso per alcuno degli esercizi menzionati nell'art. 1 se prima non sia stato versato all'ufficio del registro l'importo delle pene pecuniarie liquidate in base al verbale di contravvenzione.
 

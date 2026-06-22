@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il Codice di commercio approvato con [R. decreto 31 ottobre 1882, n. 1062](../Regi%20decreti/Per%20lapprovazione%20e%20pubblicazione%20del%20codice%20di%20commercio.%20082U1062.md), serie 3ª;
+Visto il Codice di commercio approvato con [R. decreto 31 ottobre 1882, n. 1062](Per%20lapprovazione%20e%20pubblicazione%20del%20codice%20di%20commercio.%20082U1062.md), serie 3ª;
 
-Visto il testo unico del Codice per la marina mercantile approvato con [R. decreto 24 ottobre 1877, n. 4146](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20del%20Codice%20della%20marina%20mercantile.%20077U4146.md), serie 2ª;
+Visto il testo unico del Codice per la marina mercantile approvato con [R. decreto 24 ottobre 1877, n. 4146](Che%20approva%20il%20testo%20unico%20del%20Codice%20della%20marina%20mercantile.%20077U4146.md), serie 2ª;
 
 Ritenuta la necessita' e l'urgenza di trasformare l'istituto del pegno navale in quello dell'ipoteca e di variare le disposizioni relative ai privilegi marittimi allo scopo di consentire all'esercizio del credito navale il pieno sviluppo che esige l'incremento della marina mercantile nazionale;
 
@@ -245,7 +245,7 @@ Sono abrogati gli articoli 485, 486, 487, 488, 673, 674, 675, 677, 678 e 903 del
 
 Il Governo del Re e' autorizzato ad emanare, sentito il Consiglio di Stato, tutte le disposizioni complementari e di esecuzione occorrenti per l'attuazione del presente decreto. 
  
- Fino a che tali disposizioni non saranno emanate continueranno ad applicarsi le disposizioni dei regolamenti approvati coi [Regi decreti 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md), e [27 dicembre 1882, n. 1139](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20regolamento%20per%20lesecuzione%20del%20codice%20di%20commercio.%20082U1139.md), in quanto compatibili con quelle del presente decreto. 
+ Fino a che tali disposizioni non saranno emanate continueranno ad applicarsi le disposizioni dei regolamenti approvati coi [Regi decreti 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md), e [27 dicembre 1882, n. 1139](Col%20quale%20viene%20approvato%20il%20regolamento%20per%20lesecuzione%20del%20codice%20di%20commercio.%20082U1139.md), in quanto compatibili con quelle del presente decreto. 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. 
  

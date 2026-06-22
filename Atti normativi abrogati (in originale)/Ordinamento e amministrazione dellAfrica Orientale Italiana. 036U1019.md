@@ -106,7 +106,7 @@ Il Governatore generale, Vice Re, dipende direttamente ed esclusivamente dal Min
 
 ### Art. 6.
 
-Per gravi motivi d'ordine pubblico o di sicurezza - il Governatore generale Vice Re puo', previa autorizzazione del Ministro per le colonie, istituire tribunali speciali con giurisdizione sull'intiero territorio dell'Africa Orientale Italiana o su parte di esso. Puo' inoltre decretare che alcuni reati siano giudicati dai tribunali speciali secondo le norme ed applicando le pene fissate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito per il tempo di guerra.
+Per gravi motivi d'ordine pubblico o di sicurezza - il Governatore generale Vice Re puo', previa autorizzazione del Ministro per le colonie, istituire tribunali speciali con giurisdizione sull'intiero territorio dell'Africa Orientale Italiana o su parte di esso. Puo' inoltre decretare che alcuni reati siano giudicati dai tribunali speciali secondo le norme ed applicando le pene fissate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito per il tempo di guerra.
 
 ### Art. 7.
 
@@ -623,7 +623,7 @@ I regolamenti municipali e quelli comunque relativi ai servizi urbani sono delib
 
 ### Art. 58.
 
-Per la trasgressione ai provvedimenti di cui all'art. 56 secondo e terzo comma ed all'articolo 57 le autorita' da cui i provvedimenti stessi sono emanati hanno facolta' di comminare l'arresto fino ad un mese o l'ammenda fino a lire cinquecento, quando non sia applicabile l'[articolo 650 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Per la trasgressione ai provvedimenti di cui all'art. 56 secondo e terzo comma ed all'articolo 57 le autorita' da cui i provvedimenti stessi sono emanati hanno facolta' di comminare l'arresto fino ad un mese o l'ammenda fino a lire cinquecento, quando non sia applicabile l'[articolo 650 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 59.
 

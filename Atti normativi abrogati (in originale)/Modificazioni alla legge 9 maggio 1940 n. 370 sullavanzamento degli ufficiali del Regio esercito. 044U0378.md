@@ -20,7 +20,7 @@ Vista la [legge 9 maggio 1940, n. 369](Stato%20degli%20ufficiali%20del%20Regio%2
 
 Vistai la [legge 9 maggio 1940, n. 370](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0370.md), sull'avanzamento degli ufficiali del Regio esercito, e successive modificazioni;
 
-Visto il [R. decreto-legge 23 settembre 1942, n. 1069](Avanzamento%20degli%20ufficiali%20generali%20del%20Regio%20esercito%20durante%20lattuale%20stato%20di%20guerra.%20042U1069.md), sull'avanzamento degli ufficiali generali del Regio esercito, convertito nella [legge 14 dicembre 1942, n. 1706](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2023%20settembre%201942-XX%20n.%201069%20concernente%20lavanzamento%20degli%20ufficiali%20generali%20del%20Regio%20esercito%20durante%20lattuale%20stato%20di%20guerra.%20042U1706.md);
+Visto il [R. decreto-legge 23 settembre 1942, n. 1069](Avanzamento%20degli%20ufficiali%20generali%20del%20Regio%20esercito%20durante%20lattuale%20stato%20di%20guerra.%20042U1069.md), sull'avanzamento degli ufficiali generali del Regio esercito, convertito nella [legge 14 dicembre 1942, n. 1706](Conversione%20in%20legge%20del%20Regio%20decreto-legge%2023%20settembre%201942-XX%20n.%201069%20concernente%20lavanzamento%20degli%20ufficiali%20generali%20del%20Regio%20esercito%20durante%20lattuale%20stato%20di%20guerra.%20042U1706.md);
 
 Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro per la guerra, d'intesa col Ministro per il tesoro; 
 
 ## Art. 1.
 
-E' abrogato il [R. decreto-legge 23 settembre 1942, n. 1069](Avanzamento%20degli%20ufficiali%20generali%20del%20Regio%20esercito%20durante%20lattuale%20stato%20di%20guerra.%20042U1069.md), convertito nella [legge 14 dicembre 1942, n. 1706](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2023%20settembre%201942-XX%20n.%201069%20concernente%20lavanzamento%20degli%20ufficiali%20generali%20del%20Regio%20esercito%20durante%20lattuale%20stato%20di%20guerra.%20042U1706.md), recante norme sull'avanzamento degli ufficiali generali del Regio esercito durante l'attuale stato di guerra.
+E' abrogato il [R. decreto-legge 23 settembre 1942, n. 1069](Avanzamento%20degli%20ufficiali%20generali%20del%20Regio%20esercito%20durante%20lattuale%20stato%20di%20guerra.%20042U1069.md), convertito nella [legge 14 dicembre 1942, n. 1706](Conversione%20in%20legge%20del%20Regio%20decreto-legge%2023%20settembre%201942-XX%20n.%201069%20concernente%20lavanzamento%20degli%20ufficiali%20generali%20del%20Regio%20esercito%20durante%20lattuale%20stato%20di%20guerra.%20042U1706.md), recante norme sull'avanzamento degli ufficiali generali del Regio esercito durante l'attuale stato di guerra.
 
 ## Art. 2.
 

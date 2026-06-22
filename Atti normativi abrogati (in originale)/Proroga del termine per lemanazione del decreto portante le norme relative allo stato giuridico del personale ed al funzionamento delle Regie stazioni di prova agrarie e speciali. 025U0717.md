@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3203](../Regi%20decreti/Provvedimenti%20per%20le%20stazioni%20e%20gli%20istituti%20sperimentali%20agrari%20e%20per%20la%20creazione%20di%20un%20istituto%20di%20economia%20e%20statistica%20agraria.%20023U3203.md);
+Visto il [R. decreto 30 dicembre 1923, n. 3203](Provvedimenti%20per%20le%20stazioni%20e%20gli%20istituti%20sperimentali%20agrari%20e%20per%20la%20creazione%20di%20un%20istituto%20di%20economia%20e%20statistica%20agraria.%20023U3203.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale 
 
 ## Art. 1.
 
-Il termine per la emanazione del decreto Reale portante le norme relative allo stato giuridico del personale ed al funzionamento delle Regie stazioni di prova agrarie e speciali, prescritto dall'[art. 11 del R. decreto 30 dicembre 1923, n. 3203](../Regi%20decreti/Provvedimenti%20per%20le%20stazioni%20e%20gli%20istituti%20sperimentali%20agrari%20e%20per%20la%20creazione%20di%20un%20istituto%20di%20economia%20e%20statistica%20agraria.%20023U3203.md), e' prorogato a tutto il mese di giugno 1925.
+Il termine per la emanazione del decreto Reale portante le norme relative allo stato giuridico del personale ed al funzionamento delle Regie stazioni di prova agrarie e speciali, prescritto dall'[art. 11 del R. decreto 30 dicembre 1923, n. 3203](Provvedimenti%20per%20le%20stazioni%20e%20gli%20istituti%20sperimentali%20agrari%20e%20per%20la%20creazione%20di%20un%20istituto%20di%20economia%20e%20statistica%20agraria.%20023U3203.md), e' prorogato a tutto il mese di giugno 1925.
 
 ## Art. 2.
 

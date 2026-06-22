@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Nella ripartizione dei servizi dell'Amministrazione centrale della guerra di cui all'[art. 1 del R. decreto 9 marzo 1942, n. 335](../Regi%20decreti/Riordinamento%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20042U0335.md), sono soppresse la Direzione generale stato ed avanzamento degli ufficiali e la Direzione generale reclutamento, disciplina e matricola degli ufficiali ed e' costituita la Direzione generale personale ufficiali.
+Nella ripartizione dei servizi dell'Amministrazione centrale della guerra di cui all'[art. 1 del R. decreto 9 marzo 1942, n. 335](Riordinamento%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20042U0335.md), sono soppresse la Direzione generale stato ed avanzamento degli ufficiali e la Direzione generale reclutamento, disciplina e matricola degli ufficiali ed e' costituita la Direzione generale personale ufficiali.
 
 ## Art. 2.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sull'ordinamento dell'istruzione superiore;
+Veduto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sull'ordinamento dell'istruzione superiore;
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-A datare dall'anno accademico 1925-26 l'Universita' libera di Perugia e' compresa fra le Universita' Regie di cui alla tabella B annessa al [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
+A datare dall'anno accademico 1925-26 l'Universita' libera di Perugia e' compresa fra le Universita' Regie di cui alla tabella B annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
 
 ## Art. 2.
 
@@ -42,7 +42,7 @@ Il contributo annuo a carico dello Stato per il mantenimento della Regia univers
 
 I professori, che alla data di approvazione della convenzione appartengano ai ruoli della Universita' libera di Perugia e dell'annessa Scuola di medicina veterinaria, rimarranno in servizio quali professori di ruolo nella Regia universita' e nel Regio istituto superiore di medicina veterinaria. La loro condizione giuridica, il trattamento di quiescenza e la ripartizione di essi tra i due Enti di cui ai precedenti articoli, saranno determinati con decreto Reale, da emanarsi di concerto tra i Ministri per la pubblica istruzione, per l'economia nazionale e per le finanze. 
  
- In ogni caso la loro trasferibilita' rispettivamente a cattedre di altre universita' o altri istituti superiori o di altri istituti superiori di medicina veterinaria, ai sensi dell'[articolo 20 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e degli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-30;2172#art_12) e [17 del R. decreto-legge 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-30;2172#art_17), si intendera' riconosciuta soltanto a coloro, che si trovino nelle condizioni previste dall'[art. 52 del R. decreto-legge 4 settembre 1925, n. 1604](Disposizioni%20per%20listruzione%20superiore.%20025U1604.md).
+ In ogni caso la loro trasferibilita' rispettivamente a cattedre di altre universita' o altri istituti superiori o di altri istituti superiori di medicina veterinaria, ai sensi dell'[articolo 20 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e degli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-30;2172#art_12) e [17 del R. decreto-legge 30 novembre 1924, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-11-30;2172#art_17), si intendera' riconosciuta soltanto a coloro, che si trovino nelle condizioni previste dall'[art. 52 del R. decreto-legge 4 settembre 1925, n. 1604](Disposizioni%20per%20listruzione%20superiore.%20025U1604.md).
 
 ## Art. 6.
 
@@ -50,7 +50,7 @@ I professori, che saranno nominati nella Universita' di Perugia in base ai conco
 
 ## Art. 7.
 
-Per provvedere, nei limiti dei ruoli organici previsti dalla convenzione, a posti di professori nella Regia universita' di Perugia, il Ministro potra', entro un mese dalla approvazione della convenzione, trasferirvi, su domanda, prescindendo dalle disposizioni dell'[art. 20 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), i professori di qualsiasi universita' o istituto superiore per l'insegnamento della Materia di cui sono titolari o di altra materia, purche' trattasi di professori che per le vigenti disposizioni siano trasferibili a cattedre di Universita' Regie.
+Per provvedere, nei limiti dei ruoli organici previsti dalla convenzione, a posti di professori nella Regia universita' di Perugia, il Ministro potra', entro un mese dalla approvazione della convenzione, trasferirvi, su domanda, prescindendo dalle disposizioni dell'[art. 20 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), i professori di qualsiasi universita' o istituto superiore per l'insegnamento della Materia di cui sono titolari o di altra materia, purche' trattasi di professori che per le vigenti disposizioni siano trasferibili a cattedre di Universita' Regie.
 
 ## Art. 8.
 

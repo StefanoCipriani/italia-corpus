@@ -490,7 +490,7 @@ All'articolo 89 della legge elettorale politica ed all'art. 92 della legge comun
  
  Art. (d). Chiunque, con qualsiasi mezzo atto ad ingannare o a sorprendere l'altrui buona fede, ottiene indebitamente per se' o per altri la iscrizione negli elenchi, nelle liste o nelle note degli elettori, o la cancellazione di uno o piu' elettori, e' punito con la detenzione sino ad un anno, con la multa sino a L. 2000, con la interdizione dal diritto di elettore e di eleggibile da tre a sei anni. 
  
- Tali pene sono aumentate di un sesto se il colpevole sia un componente della Commissione comunale o provinciale, salvo sempre le maggiori pene comminate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i reati di falso. 
+ Tali pene sono aumentate di un sesto se il colpevole sia un componente della Commissione comunale o provinciale, salvo sempre le maggiori pene comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i reati di falso. 
  
  Art. (e). Chiunque, essendo legalmente obbligato ad eseguire la iscrizione o la cancellazione del nome di un elettore, nelle liste e negli elenchi, omette di farlo, e' punito con un'ammenda da lire cinquanta a trecento. 
  

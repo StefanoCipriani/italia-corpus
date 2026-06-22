@@ -16,7 +16,7 @@ Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.norm
 
 Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 66](../Decreti%20legislativi%20luogotenenziali/Determinazione%20delle%20misure%20del%20contributi%20dovuti%20per%20lanno%201946%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20a%20norma%20del%20R.%20Decreto%20legge%2028%20novembre%201938%20n.%202138.md);
+Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 66](Determinazione%20delle%20misure%20del%20contributi%20dovuti%20per%20lanno%201946%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20a%20norma%20del%20R.%20Decreto%20legge%2028%20novembre%201938%20n.%202138.md);
 
 Visto il [decreto legislativo luogotenenziale 2 aprile 1946, n. 142](../Decreti%20legislativi%20luogotenenziali/Disciplina%20provvisoria%20del%20carico%20contributivo%20per%20le%20varie%20forme%20di%20previdenza%20e%20di%20assistenza%20sociale.md);
 

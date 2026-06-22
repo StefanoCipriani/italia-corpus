@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-A decorrere dalla data di pubblicazione del presente decreto e per la durata della guerra e' sospesa, nei riguardi dei militari che assumono o gia' rivestono la qualita' di volontari d'un anno, l'applicazione dell'articolo 100 del testo unico delle leggi sul reclutamento del R. esercito, approvato con [R. decreto 24 dicembre 1911, n. 1497](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md). 
+A decorrere dalla data di pubblicazione del presente decreto e per la durata della guerra e' sospesa, nei riguardi dei militari che assumono o gia' rivestono la qualita' di volontari d'un anno, l'applicazione dell'articolo 100 del testo unico delle leggi sul reclutamento del R. esercito, approvato con [R. decreto 24 dicembre 1911, n. 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -14,7 +14,7 @@ Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio
 
 Visto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) - modifiche ed aggiornamento al testo unico delle leggi sull'istruzione superiore - convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Visto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) - disposizioni sull'ordinamento didattico universitario - e successive modificazioni;
+Visto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) - disposizioni sull'ordinamento didattico universitario - e successive modificazioni;
 
 Vista la [legge 11 aprile 1953, n. 312](Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
@@ -32,9 +32,9 @@ Sulla proposta del Ministro della pubblica istruzione; Decreta:
 
 ## Articolo unico
 
-All'elenco delle lauree e dei diplomi di cui alla tabella I, annessa al [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), citato nelle premesse, e' aggiunta la laurea in scienze ambientali.
- La tabella II, annessa al [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), citato nelle premesse, e' integrata nel senso che le facolta' di scienze matematiche, fisiche e naturali, di chimica industriale, di ingegneria e di agraria possono rilasciare anche la laurea in scienze ambientali.
- Dopo la tabella XXXIV, annessa al citato [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e' aggiunta la tabella allegata al presente decreto che assume il numero XXXV.
+All'elenco delle lauree e dei diplomi di cui alla tabella I, annessa al [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), citato nelle premesse, e' aggiunta la laurea in scienze ambientali.
+ La tabella II, annessa al [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), citato nelle premesse, e' integrata nel senso che le facolta' di scienze matematiche, fisiche e naturali, di chimica industriale, di ingegneria e di agraria possono rilasciare anche la laurea in scienze ambientali.
+ Dopo la tabella XXXIV, annessa al citato [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e' aggiunta la tabella allegata al presente decreto che assume il numero XXXV.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

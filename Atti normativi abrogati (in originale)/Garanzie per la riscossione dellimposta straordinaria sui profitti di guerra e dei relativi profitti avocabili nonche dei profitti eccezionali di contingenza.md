@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 3 giugno 1943, n. 598](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md), che approva il testo unico delle leggi in materia di profitti di guerra;
+Visto il [regio decreto 3 giugno 1943, n. 598](Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md), che approva il testo unico delle leggi in materia di profitti di guerra;
 
-Visto il [decreto legislativo luogotenenziale 10 agosto 1944, n. 199](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20norme%20concernenti%20limposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20044U0199.md), che modifica le norme concernenti l'imposta straordinaria sui profitti di guerra;
+Visto il [decreto legislativo luogotenenziale 10 agosto 1944, n. 199](Modificazioni%20alle%20norme%20concernenti%20limposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20044U0199.md), che modifica le norme concernenti l'imposta straordinaria sui profitti di guerra;
 
-Visto il [regio decreto legislativo 27 maggio 1946, numero 436](../Regi%20decreti%20legislativi/Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), concernente l'avocazione allo Stato dei profitti di guerra e dei profitti eccezionali di speculazione;
+Visto il [regio decreto legislativo 27 maggio 1946, numero 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), concernente l'avocazione allo Stato dei profitti di guerra e dei profitti eccezionali di speculazione;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 22 dicembre 1946, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-22;598), recante modificazioni alle norme sull'avocazione dei profitti eccezionali di speculazione;
 
-Visto il [decreto legislativo del Capo provvisorio dello Stato 22 dicembre 1946, n. 626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-22;626), portante modificazioni ed aggiunte al [regio decreto legislativo 27 maggio 1946, n. 436](../Regi%20decreti%20legislativi/Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), e al [decreto legislativo luogotenenziale 10 agosto 1944, n. 199](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20norme%20concernenti%20limposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20044U0199.md);
+Visto il [decreto legislativo del Capo provvisorio dello Stato 22 dicembre 1946, n. 626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-22;626), portante modificazioni ed aggiunte al [regio decreto legislativo 27 maggio 1946, n. 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), e al [decreto legislativo luogotenenziale 10 agosto 1944, n. 199](Modificazioni%20alle%20norme%20concernenti%20limposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20044U0199.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 28 aprile 1947, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-04-28;330), concernente il riordinamento dell'avocazione dei profitti eccezionali di speculazione;
 
@@ -36,7 +36,7 @@ Sulla proposta del Ministro per le finanze, di concerto con il Ministro per la g
 
 ## Art. 1.
 
-All'art. 19, nono comma, del testo unico approvato col [regio decreto 3 giugno 1943, n. 598](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md), sono soppresse le seguenti parole:
+All'art. 19, nono comma, del testo unico approvato col [regio decreto 3 giugno 1943, n. 598](Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md), sono soppresse le seguenti parole:
  "per l'anno in corso e per i due anni anteriori".
 
 ## Art. 2.
@@ -47,7 +47,7 @@ L'Intendente di finanza, su proposta dell'Ufficio distrettuale delle imposte dir
 
 ## Art. 3.
 
-Ferme le disposizioni contenute nell'art. 19 del testo unico approvato con [regio decreto 3 giugno 1943, n. 598](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md), e successive modificazioni, e nell'art. 18, ultimo comma, del [regio decreto-legge 27 maggio 1946, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1946-05-27;436), i crediti dello Stato per l'imposta straordinaria sui profitti di guerra e relativa avocazione e per l'avocazione dei profitti eccezionali di contingenza hanno privilegio sui beni mobili ed immobili facenti parte del patrimonio del contribuente alla data di trascrizione dell'avviso di accertamento.
+Ferme le disposizioni contenute nell'art. 19 del testo unico approvato con [regio decreto 3 giugno 1943, n. 598](Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md), e successive modificazioni, e nell'art. 18, ultimo comma, del [regio decreto-legge 27 maggio 1946, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1946-05-27;436), i crediti dello Stato per l'imposta straordinaria sui profitti di guerra e relativa avocazione e per l'avocazione dei profitti eccezionali di contingenza hanno privilegio sui beni mobili ed immobili facenti parte del patrimonio del contribuente alla data di trascrizione dell'avviso di accertamento.
  Tale privilegio prende posto subito dopo quello indicato nel [n. 1 dell'art. 2778 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2778-num1) se si tratta di mobili e subito dopo quello indicato nel n. 1 del successivo art. 2780 se si tratta di immobili. Esso puo' essere esercitato anche in pregiudizio del creditore pignoratizio e dei diritti acquistati dai terzi
  posteriormente alla data di trascrizione dell'avviso di accertamento.
 E' in facolta' dell'intendente di finanza di rinunciare, in tutto o
@@ -67,12 +67,12 @@ In caso di morosita' al pagamento anche di una rata d'imposta straordinaria sui 
 
 ## Art. 5.
 
-L'ultimo comma dell'[art. 19 del regio decreto legislativo 27 maggio 1946, n. 436](../Regi%20decreti%20legislativi/Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), e' sostituito dal seguente:
+L'ultimo comma dell'[art. 19 del regio decreto legislativo 27 maggio 1946, n. 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), e' sostituito dal seguente:
  "La disposizione del comma precedente non si applica quando il contribuente dimostri che il mancato pagamento dipenda da cause a lui non imputabili che hanno portato alla perdita dei profitti definitivamente accertati e di ogni altro suo avere".
 
 ## Art. 6.
 
-La risoluzione, in via amministrativa, delle controversie tra l'Amministrazione finanziaria ed i contribuenti relative all'accertamento dei profitti eccezionali di contingenza, previsti nell'[art. 18 del regio decreto legislativo 27 maggio 1946, n. 436](../Regi%20decreti%20legislativi/Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), e successive modificazioni, e' demandata, in grado di appello, alle Sezioni speciali costituite presso le Commissioni provinciali delle imposte a norma dell'art. 21 del decreto legislativo: luogotenenziale 26 marzo 1946, n. 134, e successive modificazioni, per la risoluzione delle vertenze relative all'avocazione dei profitti di regime.
+La risoluzione, in via amministrativa, delle controversie tra l'Amministrazione finanziaria ed i contribuenti relative all'accertamento dei profitti eccezionali di contingenza, previsti nell'[art. 18 del regio decreto legislativo 27 maggio 1946, n. 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), e successive modificazioni, e' demandata, in grado di appello, alle Sezioni speciali costituite presso le Commissioni provinciali delle imposte a norma dell'art. 21 del decreto legislativo: luogotenenziale 26 marzo 1946, n. 134, e successive modificazioni, per la risoluzione delle vertenze relative all'avocazione dei profitti di regime.
  Le controversie pendenti davanti l'ordinaria Commissione provinciale sono deferite, nello stato in cui si trovano, alla Sezione speciale per l'avocazione dei profitti di regime.
 
 ## Art. 7.

@@ -16,4 +16,4 @@ N.
 
 Decreto Luogotenenziale 4 ottobre 1917, col quale, sulla proposta del ministro dell'interno, si modifica il comma
                         a)
-                            dell'art. 3 del regolamento per l'applicazione della tassa di soggiorno del comune di Laigueglia, approvato con [R. decreto 29 gennaio 1914, n. 139](../Regi%20decreti/Applicazione%20di%20tassa%20di%20soggiorno.%20014U0139.md).
+                            dell'art. 3 del regolamento per l'applicazione della tassa di soggiorno del comune di Laigueglia, approvato con [R. decreto 29 gennaio 1914, n. 139](Applicazione%20di%20tassa%20di%20soggiorno.%20014U0139.md).

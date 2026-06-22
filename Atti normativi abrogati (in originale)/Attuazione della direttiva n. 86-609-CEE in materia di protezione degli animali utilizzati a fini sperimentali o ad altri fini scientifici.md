@@ -83,7 +83,7 @@ Gli esperimenti possono essere eseguiti soltanto su animali da allevamento appar
 
 3.
 
-Gli esperimenti sono vietati sugli animali appartenenti a specie in estinzione, ai sensi della [legge 19 dicembre 1975, n. 874](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sul%20commercio%20internazionale%20delle%20specie%20animali%20e%20vegetali%20in%20via%20di%20estinzione%20firmata%20a%20Washington%20il%203%20marzo%201973.md), che ratifica la Convenzione di Washington, nonche' sugli animali appartenenti a specie minacciate ai sensi dell'allegato C1 del regolamento CEE 3626/82.
+Gli esperimenti sono vietati sugli animali appartenenti a specie in estinzione, ai sensi della [legge 19 dicembre 1975, n. 874](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20sul%20commercio%20internazionale%20delle%20specie%20animali%20e%20vegetali%20in%20via%20di%20estinzione%20firmata%20a%20Washington%20il%203%20marzo%201973.md), che ratifica la Convenzione di Washington, nonche' sugli animali appartenenti a specie minacciate ai sensi dell'allegato C1 del regolamento CEE 3626/82.
 
 4.
 
@@ -129,7 +129,7 @@ La persona che esegue l'esperimento o ne ha la supervisione deve inoltre avere u
 
 8.
 
-Le violazioni di cui al comma 3, sono punite ai sensi dell'[art. 727 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), oltre che con la sanzione amministrativa da lire 10 milioni a lire 100 milioni; in caso di violazione continuata o di recidiva, la sanzione amministrativa e' aumentata di un terzo e, indipendentemente dal procedimento penale, il responsabile viene sospeso per un massimo di cinque anni da ogni autorizzazione ad effettuare esperimenti su animali.
+Le violazioni di cui al comma 3, sono punite ai sensi dell'[art. 727 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), oltre che con la sanzione amministrativa da lire 10 milioni a lire 100 milioni; in caso di violazione continuata o di recidiva, la sanzione amministrativa e' aumentata di un terzo e, indipendentemente dal procedimento penale, il responsabile viene sospeso per un massimo di cinque anni da ogni autorizzazione ad effettuare esperimenti su animali.
 
 9.
 

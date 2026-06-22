@@ -78,7 +78,7 @@ Se l'Amministrazione del Comune e della Provincia non ha eseguito entro il mese 
  
  In tal caso essi dovranno anticipare le somme necessarie e ne percepiranno a carico del Comune o della Provincia l'interesse del 5 per cento dalla data dei pagamenti. 
  
- Nel caso che l'esattore od il ricevitore provinciale non facessero la ritenuta o ritardassero il versamento, si applicheranno le disposizioni dell'articolo 81 del testo unico approvato con [Regio decreto 23 giugno 1897, n. 236](../Regi%20decreti/Che%20approva%20rispettivamente%20il%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20097U0236.md), e si potra' procedere contro di loro all'esecuzione per mezzo dell'Intendenza di finanza. 
+ Nel caso che l'esattore od il ricevitore provinciale non facessero la ritenuta o ritardassero il versamento, si applicheranno le disposizioni dell'articolo 81 del testo unico approvato con [Regio decreto 23 giugno 1897, n. 236](Che%20approva%20rispettivamente%20il%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20097U0236.md), e si potra' procedere contro di loro all'esecuzione per mezzo dell'Intendenza di finanza. 
  
  Le multe a carico degli esattori o dei ricevitori provinciali andranno a beneficio della Cassa. 
  
@@ -176,7 +176,7 @@ Il diritto a conseguire l'indennita' o la pensione, ed il godimento della pensio
  
  4. per la perdita della nazionalita' italiana. 
  
- I condannati recidivi per ubbriachezza a termini del capo 2°, libro 3° del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), perdono il diritto alla pensione per due anni. 
+ I condannati recidivi per ubbriachezza a termini del capo 2°, libro 3° del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), perdono il diritto alla pensione per due anni. 
  
  I diritti perduti vengono reintegrati nei casi di riabilitazione legale.
 

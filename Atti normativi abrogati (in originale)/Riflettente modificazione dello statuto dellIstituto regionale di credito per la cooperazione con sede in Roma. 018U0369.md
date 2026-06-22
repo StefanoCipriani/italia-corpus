@@ -14,4 +14,4 @@ N.
 
 369.
 
-Decreto Luogotenenziale 7 marzo 1918, col quale, sulla proposta del ministro dell'industria, il commercio e il lavoro, sono approvate alcune modificazioni allo statuto organico dell'Istituto nazionale di credito per la cooperazione, con sede in Roma, approvato con [R. decreto 15 agosto 1913, n. 1140](../Regi%20decreti/Erezione%20in%20ente%20morale%20e%20approvazione%20di%20statuto%20013U1140.md).
+Decreto Luogotenenziale 7 marzo 1918, col quale, sulla proposta del ministro dell'industria, il commercio e il lavoro, sono approvate alcune modificazioni allo statuto organico dell'Istituto nazionale di credito per la cooperazione, con sede in Roma, approvato con [R. decreto 15 agosto 1913, n. 1140](Erezione%20in%20ente%20morale%20e%20approvazione%20di%20statuto%20013U1140.md).

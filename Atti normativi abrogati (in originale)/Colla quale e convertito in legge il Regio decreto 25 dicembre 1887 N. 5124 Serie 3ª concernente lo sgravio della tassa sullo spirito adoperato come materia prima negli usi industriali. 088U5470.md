@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [Regio decreto 25 dicembre 1887, N. 5124](../Regi%20decreti/Per%20lapplicazione%20dellart.%2017%20della%20legge%2014%20luglio%201887%20n.%204703%20Serie%203ª.%20087U5124.md) (Serie 3ª), concernente lo sgravio della tassa sullo spirito adoperato come materia prima negli usi industriali.
+E' convertito in legge il [Regio decreto 25 dicembre 1887, N. 5124](Per%20lapplicazione%20dellart.%2017%20della%20legge%2014%20luglio%201887%20n.%204703%20Serie%203ª.%20087U5124.md) (Serie 3ª), concernente lo sgravio della tassa sullo spirito adoperato come materia prima negli usi industriali.
 
 ## Art. 2.
 

@@ -257,7 +257,7 @@ Ai fini della repressione delle frodi, la vigilanza per l'applicazione della pre
 
 ## Art. 12. — (Sanzioni)
 
-Chiunque vende, pone in vendita o mette altrimenti in commercio o fornisce per obbligo contrattuale o societario fertilizzanti non conformi alle norme della presente legge e dei suoi allegati e' punito, salvo che il fatto sia previsto come reato dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), con la sanzione amministrativa del pagamento di una somma di denaro: 
+Chiunque vende, pone in vendita o mette altrimenti in commercio o fornisce per obbligo contrattuale o societario fertilizzanti non conformi alle norme della presente legge e dei suoi allegati e' punito, salvo che il fatto sia previsto come reato dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), con la sanzione amministrativa del pagamento di una somma di denaro: 
  a) da L. 3.500.000 a L. 10.000.000 qualora siano posti in vendita o messi altrimenti in commercio o forniti per obbligo contrattuale o societario fertilizzanti non compresi negli allegati alla presente legge; 
  b) da L. 3.000.000 a L. 8.000.000 qualora le indicazioni obbligatorie previste dalla presente legge e dai suoi allegati, in tutto o in parte, manchino o non siano conformi a quanto prescritto; 
  c) da L. 2.500.000 a L. 6.000.000 qualora le indicazioni obbligatorie o facoltative non corrispondano alla composizione del fertilizzante prevista dalla presente legge e dai suoi allegati; 

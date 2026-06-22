@@ -81,7 +81,7 @@ La commissione esaminatrice, sulla base di criteri preventivamente determinati e
 
 ## Art. 7.
 
-A parita' di merito saranno osservate le norme di cui all'[art. 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive disposizioni in materia.
+A parita' di merito saranno osservate le norme di cui all'[art. 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive disposizioni in materia.
  Il [decreto del Presidente della Repubblica 18 ottobre 1957, n. 1220](../DPR/Approvazione%20dei%20programmi%20delle%20modalita%20nelle%20prove%20di%20esame%20dei%20criteri%20di%20valutazione%20dei%20titoli%20e%20della%20composizione%20della%20Commissione%20giudicatrice%20dei%20concorsi%20per%20la%20nomina%20a%20sotto_e36c8d090a20.md), e' abrogato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

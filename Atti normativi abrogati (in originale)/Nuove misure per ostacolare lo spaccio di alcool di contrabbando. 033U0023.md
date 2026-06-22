@@ -36,7 +36,7 @@ Chiunque produca o comunque prepari a scopo di commercio o importi dall'estero, 
 
 ## Art. 2.
 
-La licenza annuale per la vendita di liquori o bevande alcooliche, di cui agli [articoli 86](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [89 del testo unico delle leggi di P.S.](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 18 giugno 1931, n. 773, non puo' essere rilasciata o rinnovata se non su conforme parere dell'Intendenza di finanza. 
+La licenza annuale per la vendita di liquori o bevande alcooliche, di cui agli [articoli 86](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [89 del testo unico delle leggi di P.S.](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 18 giugno 1931, n. 773, non puo' essere rilasciata o rinnovata se non su conforme parere dell'Intendenza di finanza. 
  
  Chiunque venda estratti od essenze, anche non contenenti alcool, per la preparazione dei liquori, ovvero profumerie alcooliche, deve essere fornito di apposita licenza annuale rilasciata dall'Ufficio tecnico di finanza e soggetta al solo diritto di bollo.
 
@@ -113,7 +113,7 @@ L'art. 57 e' sostituito dal seguente:
  
  Le pene della multa e, dell'ammenda, non eseguite per insolvenza del condannato, si convertono rispettivamente nella reclusione o nell'arresto per non oltre sei mesi, o per non oltre un anno se si tratta di recidivi. 
  
- La norma del comma precedette e' stabilita in deroga a quanto dispone l'[art. 136 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), osservato peraltro, in ordine al ragguaglio, l'art. 135 dello stesso Codice.
+ La norma del comma precedette e' stabilita in deroga a quanto dispone l'[art. 136 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), osservato peraltro, in ordine al ragguaglio, l'art. 135 dello stesso Codice.
 
 ## Art. 9.
 

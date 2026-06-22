@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 31 dicembre 1923, n. 3126](../Regi%20decreti/Disposizione%20sullobbligo%20dellistruzione.%20023U3126.md);
+Veduto il [R. decreto 31 dicembre 1923, n. 3126](Disposizione%20sullobbligo%20dellistruzione.%20023U3126.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Articolo unico.
 
-Il contributo a favore del Patronato scolastico, di cui all'[art. 22 del R. decreto 31 dicembre 1923, n. 3126](../Regi%20decreti/Disposizione%20sullobbligo%20dellistruzione.%20023U3126.md), e' fissato nella misura del 5 per cento. 
+Il contributo a favore del Patronato scolastico, di cui all'[art. 22 del R. decreto 31 dicembre 1923, n. 3126](Disposizione%20sullobbligo%20dellistruzione.%20023U3126.md), e' fissato nella misura del 5 per cento. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. 
  

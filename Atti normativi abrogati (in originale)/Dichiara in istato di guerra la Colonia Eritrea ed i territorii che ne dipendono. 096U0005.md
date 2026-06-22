@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Sulla proposta del Presidente del Consiglio Ministro dell'Interno, e dei Ministri Segretari di Stato della Guerra, della Marina, degli Affari Esteri e di Grazia e Giustizia;
 
-Visti gli articoli 5 dello Statuto fondamentale del Regno e 243 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito;
+Visti gli articoli 5 dello Statuto fondamentale del Regno e 243 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito;
 
 Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 

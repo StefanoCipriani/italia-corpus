@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' ratificato il [R. decreto 5 giugno 1921, n. 755](../Regi%20decreti/Che%20da%20la%20denominazione%20di%20Basi%20navali%20agli%20arsenali%20della%20R.%20marina%20di%20Napoli%20e%20di%20Venezia%20nonche%20al%20cantiere%20navale%20di%20La%20Maddalena.%20021U0755.md), relativo agli arsenali della Regia marina ed ai servizi a terra in genere, con la soppressione all'art. 3 delle parole «con il Ministero dell'industria e commercio (Sottosegretariato di Stato marina mercantile)» e con l'aggiunta all'art. 5 del seguente comma: «le concessioni ad Enti privati di cui all'art. 2 dovranno essere approvate per legge dal Parlamento». 
+ E' ratificato il [R. decreto 5 giugno 1921, n. 755](Che%20da%20la%20denominazione%20di%20Basi%20navali%20agli%20arsenali%20della%20R.%20marina%20di%20Napoli%20e%20di%20Venezia%20nonche%20al%20cantiere%20navale%20di%20La%20Maddalena.%20021U0755.md), relativo agli arsenali della Regia marina ed ai servizi a terra in genere, con la soppressione all'art. 3 delle parole «con il Ministero dell'industria e commercio (Sottosegretariato di Stato marina mercantile)» e con l'aggiunta all'art. 5 del seguente comma: «le concessioni ad Enti privati di cui all'art. 2 dovranno essere approvate per legge dal Parlamento». 
  
  E' pero' fatta all'art. 2 del decreto stesso la seguente aggiunta:  
  «In entrambi i casi (a parita' di condizioni) verra' usata preferenza agli enti di carattere cooperativo con particolare riguardo a quelli costituiti da parte del personale gia' addetto agli arsenali ed officine medesime». 

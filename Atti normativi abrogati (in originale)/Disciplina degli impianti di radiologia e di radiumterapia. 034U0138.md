@@ -34,7 +34,7 @@ L'autorizzazione prefettizia prevista dai precedenti articoli 1 e 3 e' subordina
 
 ## Art. 5.
 
-E' vietato l'impiego dei raggi Rontgen e del radio a scopo terapeutico ai sanitari che non siano provvisti di diploma di specializzazione in materia o non abbiano ottenuto il riconoscimento della qualifica di specialista ai sensi dei [Regi decreti 29 agosto 1929, n. 1823](../Regi%20decreti/Disposizioni%20per%20il%20riconoscimento%20della%20qualifica%20di%20specialista%20agli%20effetti%20dellesercizio%20professionale.%20029U1823.md), e [15 maggio 1930, n. 861](../Regi%20decreti/Riconoscimento%20della%20qualifica%20di%20specialista%20nei%20vari%20rami%20dellesercizio%20professionale.%20030U0861.md). 
+E' vietato l'impiego dei raggi Rontgen e del radio a scopo terapeutico ai sanitari che non siano provvisti di diploma di specializzazione in materia o non abbiano ottenuto il riconoscimento della qualifica di specialista ai sensi dei [Regi decreti 29 agosto 1929, n. 1823](Disposizioni%20per%20il%20riconoscimento%20della%20qualifica%20di%20specialista%20agli%20effetti%20dellesercizio%20professionale.%20029U1823.md), e [15 maggio 1930, n. 861](../Regi%20decreti/Riconoscimento%20della%20qualifica%20di%20specialista%20nei%20vari%20rami%20dellesercizio%20professionale.%20030U0861.md). 
  
  La disposizione del precedente comma non si applica per l'impiego dei raggi Rontgen e del radio a scopo terapeutico nelle Cliniche universitarie e negli Istituti per la cura del cancro, dipendenti dallo Stato, o che siano stati giuridicamente riconosciuti.
 
@@ -52,7 +52,7 @@ I contravventori alle disposizioni dell'art. 1 della presente legge sono puniti 
  
  I sanitari che attendono all'impiego dei raggi Rontgen e del radio a scopo terapeutico, senza essere provvisti del diploma di specializzazione, o della autorizzazione prevista dal precedente art. 6, sono puniti con l'ammenda da lire 500 a lire 1000. 
  
- Sono fatte salve in ogni caso le maggiori pene sancite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i reati da esso previsti. 
+ Sono fatte salve in ogni caso le maggiori pene sancite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i reati da esso previsti. 
  
  Sono esclusi dall'applicazione del 2° e del 3° comma i sanitari che nelle cliniche e negli istituti per la cura del cancro attendono all'impiego dei raggi Rontgen e del radio a scopi terapeutici.
 
@@ -66,7 +66,7 @@ Con decreto del Ministro per le finanze sara' provveduto, nello stato di previsi
 
 ## Art. 10.
 
-La tabella A allegata al [R. decreto 29 luglio 1931, n. 1131](../Regi%20decreti/Approvazione%20di%20nuovi%20ruoli%20organici%20del%20personale%20dellAmministrazione%20della%20sanita%20pubblica.%20031U1131.md), e' modificata nel senso che nel ruolo del laboratorio di fisica (ufficio del radio), viene istituito un posto di grado 8° (gruppo A) con la qualifica di « primo assistente di fisica » e vengono aumentati a due i posti di grado 9° (gruppo A) con la qualifica di « assistente di fisica » e nel ruolo dei medici i posti di grado 8° (gruppo A) con la qualifica di « primo medico provinciale aggiunto » vengono ridotti da 33 a 32.
+La tabella A allegata al [R. decreto 29 luglio 1931, n. 1131](Approvazione%20di%20nuovi%20ruoli%20organici%20del%20personale%20dellAmministrazione%20della%20sanita%20pubblica.%20031U1131.md), e' modificata nel senso che nel ruolo del laboratorio di fisica (ufficio del radio), viene istituito un posto di grado 8° (gruppo A) con la qualifica di « primo assistente di fisica » e vengono aumentati a due i posti di grado 9° (gruppo A) con la qualifica di « assistente di fisica » e nel ruolo dei medici i posti di grado 8° (gruppo A) con la qualifica di « primo medico provinciale aggiunto » vengono ridotti da 33 a 32.
 
 ## Art. 11.
 

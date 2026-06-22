@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), Visto il regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md);
+Visto il testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), Visto il regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md);
 
-Visto il [regio decreto 19 dicembre 1926, n. 2360](../Regi%20decreti/Determinazione%20dellinteresse%20di%20mora%20dovuto%20agli%20Istituti%20di%20credito%20fondiario.%20026U2360.md);
+Visto il [regio decreto 19 dicembre 1926, n. 2360](Determinazione%20dellinteresse%20di%20mora%20dovuto%20agli%20Istituti%20di%20credito%20fondiario.%20026U2360.md);
 
 Viste le [leggi 29 luglio 1949, n. 474 e 4 agosto 1955, n. 683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-08-04;683);
 
-Visti il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e successive modificazioni ed integrazioni, nonche' i [decreti legislativi 17 luglio 1947, n. 691 e 20 gennaio 1948, n. 10](../Decreti%20Legislativi/Composizione%20del%20Comitato%20interministeriale%20dei%20prezzi%20del%20Comitato%20interministeriale%20del%20credito%20e%20risparmio%20e%20di%20alcuni%20Comitati%20interministeriali%20per%20i%20finanziamenti.md) e la [legge 22 dicembre 1956, n. 1589](Istituzione%20del%20Ministero%20delle%20partecipazioni%20statali.md);
+Visti il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e successive modificazioni ed integrazioni, nonche' i [decreti legislativi 17 luglio 1947, n. 691 e 20 gennaio 1948, n. 10](Composizione%20del%20Comitato%20interministeriale%20dei%20prezzi%20del%20Comitato%20interministeriale%20del%20credito%20e%20risparmio%20e%20di%20alcuni%20Comitati%20interministeriali%20per%20i%20finanziamenti.md) e la [legge 22 dicembre 1956, n. 1589](Istituzione%20del%20Ministero%20delle%20partecipazioni%20statali.md);
 
 Sentito il Comitato interministeriale per il credito ed il risparmio;
 

@@ -22,7 +22,7 @@ Visto il [R. decreto-legge 29 ottobre 1936, n. 2216](Disposizioni%20fondamentali
 
 Visto il [R. decreto 23 ottobre 1925, n. 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md), in applicazione della [legge 24 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-24;1395);
 
-Visto il [R. decreto 5 maggio 1941, n. 410](../Regi%20decreti/Norme%20per%20la%20organizzazione%20dei%20servizi%20di%20protezione%20antiaerea%20e%20di%20taluni%20altri%20servizi%20connessi%20con%20lattuale%20stato%20di%20guerra%20di%20pertinenza%20del%20Ministero%20dellInterno.%20041U0410.md);
+Visto il [R. decreto 5 maggio 1941, n. 410](Norme%20per%20la%20organizzazione%20dei%20servizi%20di%20protezione%20antiaerea%20e%20di%20taluni%20altri%20servizi%20connessi%20con%20lattuale%20stato%20di%20guerra%20di%20pertinenza%20del%20Ministero%20dellInterno.%20041U0410.md);
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
@@ -92,7 +92,7 @@ Per le progettazioni dovranno osservarsi le norme prescritte dal regolamento per
 
 1895.
 
-Per la direzione dei lavori dovranno osservarsi le norme prescritte dal regolamento per la direzione contabilita', collaudazione dei lavori dello Stato approvato con [R. decreto 25 maggio 1895, n. 350](../Regi%20decreti/Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md), assumendo il professionista la speciale responsabilita' e tutti gli obblighi stabiliti dal regolamento medesimo in riguardo al direttore dei lavori.
+Per la direzione dei lavori dovranno osservarsi le norme prescritte dal regolamento per la direzione contabilita', collaudazione dei lavori dello Stato approvato con [R. decreto 25 maggio 1895, n. 350](Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md), assumendo il professionista la speciale responsabilita' e tutti gli obblighi stabiliti dal regolamento medesimo in riguardo al direttore dei lavori.
 
 ## Art. 11.
 

@@ -20,7 +20,7 @@ Visto l'art. 18 della legge 19 gennaio 1939-XVII, n. 129;
 
 Visto il R. decreto-legge 20 maggio 1935-XIII, n. 874, convertito nella legge 23 dicembre 1935-XIV, n. 2393, per la fabbricazione dei biglietti di Stato;
 
-Visto il regolamento approvato con [R. decreto 30 ottobre 1896, n. 508](../Regi%20decreti/Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md), per la fabbricazione dei biglietti di banca;
+Visto il regolamento approvato con [R. decreto 30 ottobre 1896, n. 508](Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md), per la fabbricazione dei biglietti di banca;
 
 Ritenuta la necessita' e l'urgenza a causa dello stato di guerra;
 
@@ -30,9 +30,9 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, d'intesa 
 
 ## Art. 1.
 
-Fino alla cessazione dello stato di guerra e' in facolta' del Ministro per le finanze, di stabilire, con propri provvedimenti, i metodi e le procedure della vigilanza sulla fabbricazione dei biglietti di Stato, di cui all'art. 8, comma primo, del regolamento allegato al R. decreto-legge 20 maggio 1935-XIII, n. 874, convertito nella legge 23 dicembre 1935-XIV, n. 2393, e del controllo sulla fabbricazione dei biglietti di banca, di cui al regolamento approvato con [R. decreto 30 ottobre 1896, n. 508](../Regi%20decreti/Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md). 
+Fino alla cessazione dello stato di guerra e' in facolta' del Ministro per le finanze, di stabilire, con propri provvedimenti, i metodi e le procedure della vigilanza sulla fabbricazione dei biglietti di Stato, di cui all'art. 8, comma primo, del regolamento allegato al R. decreto-legge 20 maggio 1935-XIII, n. 874, convertito nella legge 23 dicembre 1935-XIV, n. 2393, e del controllo sulla fabbricazione dei biglietti di banca, di cui al regolamento approvato con [R. decreto 30 ottobre 1896, n. 508](Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md). 
  
- In ogni caso rimangono ferme, per quanto concerne l'apposizione sui biglietti di banca del contrassegno di Stato e per l'intervento dell'Ufficio centrale di ispezione del Tesoro nella fabbricazione e nella distruzione dei biglietti medesimi, le disposizioni contenute nel regolamento approvato con [R. decreto 30 ottobre 1896, n. 508](../Regi%20decreti/Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md).
+ In ogni caso rimangono ferme, per quanto concerne l'apposizione sui biglietti di banca del contrassegno di Stato e per l'intervento dell'Ufficio centrale di ispezione del Tesoro nella fabbricazione e nella distruzione dei biglietti medesimi, le disposizioni contenute nel regolamento approvato con [R. decreto 30 ottobre 1896, n. 508](Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md).
 
 ## Art. 2.
 

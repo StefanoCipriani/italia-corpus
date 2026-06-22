@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto 29 settembre 1931, n. 1207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-29;1207), che autorizza il Ministro per le finanze ad emanare norme per la disciplina del commercio dei cambi;
 
-Visto il [R. decreto 14 marzo 1938, n. 643](../Regi%20decreti/Disposizioni%20circa%20la%20competenza%20del%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20038U0643.md), riguardante la competenza del Ministero per gli scambi e per le valute;
+Visto il [R. decreto 14 marzo 1938, n. 643](Disposizioni%20circa%20la%20competenza%20del%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20038U0643.md), riguardante la competenza del Ministero per gli scambi e per le valute;
 
 Visto il [decreto legislativo Luogotenenziale 5 ottobre 1944, n. 310](Ripartizione%20dei%20servizi%20e%20del%20personale%20del%20soppresso%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20044U0310.md), riguardante la ripartizione dei servizi e del personale del soppresso Ministero per gli scambi e per le valute;
 

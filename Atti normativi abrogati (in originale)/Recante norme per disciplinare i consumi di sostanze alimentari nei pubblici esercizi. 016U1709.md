@@ -90,7 +90,7 @@ Una copia del presente decreto dovra' essere tenuta costantemente affissa nei pu
 
 Ai conduttori di pubblici esercizi, che contravvengono alle disposizioni di cui agli articoli 2, 3, 4, 6, 7 e 8 del presente decreto, sara' sospesa la licenza di esercizio, da tre a quindici giorni. In caso di recidiva, la licenza sara' revocata e non potra' essere rinnovata se non sia trascorso un anno. 
  
- Resta sempre salva l'applicazione delle pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), o da disposizioni speciali. 
+ Resta sempre salva l'applicazione delle pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), o da disposizioni speciali. 
  
  La sospensione o la revoca della licenza sono ordinate dal prefetto, in base al verbale di accertamento degli ufficiali ed agenti di polizia giudiziaria. Contro il provvedimento del prefetto non e' ammesso ricorso. 
  

@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge 19 dicembre 1936, n. 2170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1936-12-19;2170);
 
-Vista la [legge 8 aprile 1937, n. 631](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20dicembre%201936-XV.%20n.%202170%20concernente%20agevolazioni%20in%20materia%20di%20tasse%20sugli%20affari%20circa%20finanziamento%20mediante%20cessione%20di%20credito.%20037U0631.md);
+Vista la [legge 8 aprile 1937, n. 631](Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20dicembre%201936-XV.%20n.%202170%20concernente%20agevolazioni%20in%20materia%20di%20tasse%20sugli%20affari%20circa%20finanziamento%20mediante%20cessione%20di%20credito.%20037U0631.md);
 
 Visto il [decreto-legge 3 gennaio 1939, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1939-01-03;27);
 

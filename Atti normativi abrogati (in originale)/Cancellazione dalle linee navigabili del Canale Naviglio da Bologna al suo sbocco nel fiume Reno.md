@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il Canale Naviglio di cui al [regio decreto 8 giugno 1911, n. 823](../Regi%20decreti/Che%20approva%20lelenco%20delle%20linee%20navigabili%20dichiarate%20di%20seconda%20classe.%20011U0823.md), ed al [decreto luogotenenziale 31 maggio 1917, n. 1536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-31;1536), cessa di fare parte delle linee navigabili.
+Il Canale Naviglio di cui al [regio decreto 8 giugno 1911, n. 823](Che%20approva%20lelenco%20delle%20linee%20navigabili%20dichiarate%20di%20seconda%20classe.%20011U0823.md), ed al [decreto luogotenenziale 31 maggio 1917, n. 1536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-31;1536), cessa di fare parte delle linee navigabili.
 
  La presente legge, munita, del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

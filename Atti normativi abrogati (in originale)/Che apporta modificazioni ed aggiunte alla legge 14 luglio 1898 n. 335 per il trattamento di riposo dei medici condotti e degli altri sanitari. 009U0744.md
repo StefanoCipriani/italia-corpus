@@ -58,7 +58,7 @@ Gli articoli 1, 2, 4, 5, 7, 8, 10 a 12, 14 a 20, 22 a 24, 28 a 30, 32 a 39 della
  
  In tale caso, essi dovranno anticipare le somme necessarie e ne percepiranno a carico del Comune o della provincia l'interesse al saggio legale dalla data dei pagamenti. 
  
- Nel caso che l'esattore od il ricevitore provinciale non facciano la ritenuta o ritardino il versamento, si applicheranno le disposizioni dell'art. 81 del testo unico approvato con [Regio decreto 29 giugno 1902, n. 281](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0281.md), sulla riscossione delle imposte dirette, e si potra' procedere contro di essi alla esecuzione, per mezzo dell'Intendenza di finanza. 
+ Nel caso che l'esattore od il ricevitore provinciale non facciano la ritenuta o ritardino il versamento, si applicheranno le disposizioni dell'art. 81 del testo unico approvato con [Regio decreto 29 giugno 1902, n. 281](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0281.md), sulla riscossione delle imposte dirette, e si potra' procedere contro di essi alla esecuzione, per mezzo dell'Intendenza di finanza. 
  
  Le multe a carico degli esattori o dei ricevitori provinciali andranno a beneficio della Cassa. 
  

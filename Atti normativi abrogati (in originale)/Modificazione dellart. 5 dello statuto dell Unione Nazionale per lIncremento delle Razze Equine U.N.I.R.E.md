@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 14 agosto 1936, n. 1761](../Regi%20decreti/Modificazioni%20ai%20Regi%20decreti%2024%20maggio%201932%20n.%20624%20e%207%20settembre%201933%20n.%201778%20relativi%20allUnione%20nazionale%20per%20lincremento%20delle%20razze%20equine%20U.N.I.R.E..%20036U1761.md), con il quale, fra l'altro, fu stabilito lo statuto della Unione Nazionale per l'Incremento delle Razze Equine (U.N.I.R.E.);
+Visto il [regio decreto 14 agosto 1936, n. 1761](Modificazioni%20ai%20Regi%20decreti%2024%20maggio%201932%20n.%20624%20e%207%20settembre%201933%20n.%201778%20relativi%20allUnione%20nazionale%20per%20lincremento%20delle%20razze%20equine%20U.N.I.R.E..%20036U1761.md), con il quale, fra l'altro, fu stabilito lo statuto della Unione Nazionale per l'Incremento delle Razze Equine (U.N.I.R.E.);
 
 Udito il parere del Consiglio di Stato;
 
@@ -24,7 +24,7 @@ L'art. 5 dello statuto dell'Unione Nazionale per l'Incremento delle Razze Equine
  "L'U.N.I.R.E. e' retta da un Consiglio direttivo costituito con decreto del Ministro per l'agricoltura e per le foreste e composto come segue:
 
  Due rappresentanti del Ministero dell'agricoltura e delle foreste, di cui uno con funzioni di presidente e l'altro di vice presidente.
- I presidenti dei quattro Enti interessati, di cui all'[art. 2, del regio decreto 14 agosto 1936, n. 1761](../Regi%20decreti/Modificazioni%20ai%20Regi%20decreti%2024%20maggio%201932%20n.%20624%20e%207%20settembre%201933%20n.%201778%20relativi%20allUnione%20nazionale%20per%20lincremento%20delle%20razze%20equine%20U.N.I.R.E..%20036U1761.md).
+ I presidenti dei quattro Enti interessati, di cui all'[art. 2, del regio decreto 14 agosto 1936, n. 1761](Modificazioni%20ai%20Regi%20decreti%2024%20maggio%201932%20n.%20624%20e%207%20settembre%201933%20n.%201778%20relativi%20allUnione%20nazionale%20per%20lincremento%20delle%20razze%20equine%20U.N.I.R.E..%20036U1761.md).
  Un rappresentante degli allevatori o proprietari di cavalli per le corse al trotto ed uno degli allevatori o proprietari di cavalli per le corse al galoppo.
  Un rappresentante della Confederazione generale italiana del lavoro il quale dovra' essere designato con riferimento alle categorie dei lavoratori i cui interessi si tratta di tutelare.
  Alle riunioni del Consiglio direttivo prendono parte, con funzioni consultive, un funzionario del Ministero dell'agricoltura e delle foreste, uno del Ministero dell'interno, uno del Ministero delle finanze ed uno del Ministero della difesa (Esercito). A tali riunioni partecipa anche il segretario generale dell'U.N.I.R.E. con funzioni di segretario.

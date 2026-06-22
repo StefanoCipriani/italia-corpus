@@ -50,7 +50,7 @@ L'[art. 10 del regio decreto-legge 1 marzo 1937, numero 226](Modificazioni%20al%
 
 ### Art. 6.
 
-L'[art. 1 del decreto-legge 20 dicembre 1948, n. 1427](Modificazioni%20al%20regime%20fiscale%20di%20taluni%20prodotti%20soggetti%20ad%20imposta%20di%20fabbricazione_2.md), convertito in legge con la [legge 18 febbraio 1949, n. 27](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20dicembre%201948%20n.%201427%20adottato%20ai%20sensi%20dellart.%2077%20comma%2020%20della%20Costituzione%20e%20concernente%20modificazioni%20al%20regime%20fiscale%20d_ec2fa99452cc.md), e' sostituito dal seguente:
+L'[art. 1 del decreto-legge 20 dicembre 1948, n. 1427](Modificazioni%20al%20regime%20fiscale%20di%20taluni%20prodotti%20soggetti%20ad%20imposta%20di%20fabbricazione_2.md), convertito in legge con la [legge 18 febbraio 1949, n. 27](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20dicembre%201948%20n.%201427%20adottato%20ai%20sensi%20dellart.%2077%20comma%2020%20della%20Costituzione%20e%20concernente%20modificazioni%20al%20regime%20fiscale%20d_ec2fa99452cc.md), e' sostituito dal seguente:
  "La imposta di fabbricazione sulla birra e' stabilita nella misura di L. 300 per ettolitro e per ogni grado saccarometrico del mosto, misurato col saccarometro ufficiale alla temperatura di gradi 17,50 del termometro centesimale.
  La ricchezza saccarometrica del mosto, come sopra misurata, viene arrotondata, agli effetti dell'accertamento della imposta, a un decimo di grado.
  Le frazioni di grado superiori ai 5 centesimi sono computate per un decimo di grado.

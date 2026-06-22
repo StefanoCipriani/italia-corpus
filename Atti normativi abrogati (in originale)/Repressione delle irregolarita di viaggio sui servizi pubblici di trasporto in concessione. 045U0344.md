@@ -24,7 +24,7 @@ Visto il [R. decreto-legge 17 luglio 1921, n. 1127](Che%20stabilisce%20la%20resp
 
 Visto il [R. decreto-legge 29 gennaio 1922, n. 40](Che%20reca%20provvedimenti%20a%20favore%20delle%20aziende%20esercenti%20servizi%20pubblici%20di%20trasporto.%20022U0040.md); con provvedimenti a favore delle aziende esercenti servizi pubblici di trasporto;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3275](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20di%20bollo%20sul%20trasporti.%20023U3275.md), che approva il testo unico delle leggi delle tasse di bollo sui trasporti;
+Visto il [R. decreto 30 dicembre 1923, n. 3275](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20di%20bollo%20sul%20trasporti.%20023U3275.md), che approva il testo unico delle leggi delle tasse di bollo sui trasporti;
 
 Visto l'[art. 4 del decreto-Legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -40,7 +40,7 @@ Chi e' trovato a viaggiare su pubblici servizi di trasporto extraurbani in conce
  
  Chi e' trovato a viaggiare sui pubblici servizi di trasporto extraurbani in concessione munito di documento di viaggio per classe inferiore a quella occupata, senza averne dato preavviso al personale di scorta, e' assoggettato al pagamento della differenza di prezzo per tutto il percorso irregolarmente compiuto e di una sopratassa di pari importo con un minimo di L. 70 per le linee ferroviarie e di navigazione interna e di L. 40 per tramvie e per gli autoservizi di linea. 
  
- L'importo della sopratassa, detratto quanto dovuto all'Erario ai sensi dell'[art. 37 del R. decreto 30 dicembre 1923, n. 3275](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20di%20bollo%20sul%20trasporti.%20023U3275.md), e' devoluto per i due terzi all'azienda esercente e per un terzo alla Cassa soccorso del personale da essa dipendente. 
+ L'importo della sopratassa, detratto quanto dovuto all'Erario ai sensi dell'[art. 37 del R. decreto 30 dicembre 1923, n. 3275](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20di%20bollo%20sul%20trasporti.%20023U3275.md), e' devoluto per i due terzi all'azienda esercente e per un terzo alla Cassa soccorso del personale da essa dipendente. 
  
  In tutti i casi in cui, per fatto dei viaggiatori, ha luogo una esenzione durante il viaggio, e' dovuto un diritto pari al dieci per cento dell'importo della esazione, con un minimo di L. 10.
 
@@ -52,7 +52,7 @@ Chi viaggia sui pubblici servizi di trasporto urbani sprovvisto di documento di 
 
 L'importo della sopratassa e' devoluto per i due terzi all'azienda esercente e per un terzo alla Cassa soccorso del personale da essa dipendente. 
  
- E' abolita per i servizi di trasporto urbani la penalita' di' cui all'art. 37 del. [R. decreto 30 dicembre 1923, n. 3275](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20di%20bollo%20sul%20trasporti.%20023U3275.md).
+ E' abolita per i servizi di trasporto urbani la penalita' di' cui all'art. 37 del. [R. decreto 30 dicembre 1923, n. 3275](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20di%20bollo%20sul%20trasporti.%20023U3275.md).
 
 ## Art. 3.
 

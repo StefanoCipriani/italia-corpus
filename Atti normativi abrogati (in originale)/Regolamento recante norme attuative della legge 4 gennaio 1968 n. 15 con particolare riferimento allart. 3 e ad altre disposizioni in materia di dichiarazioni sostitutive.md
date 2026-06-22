@@ -37,7 +37,7 @@ sensi dell'art. 10, comma 3, del testo unico delle
 disposizioni sulla promulgazione delle leggi, 
 sull'emanazione dei decreti del Presidente della Repubblica 
 e sulle pubblicazioni ufficiali della Repubblica italiana, 
-approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo 
+approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo 
 fine di facilitare le lettura delle disposizioni di legge 
 alle quali e' operativo il rinvio. Restano invariati il 
 valore e l'efficacia degli atti legislativi qui trascritti.
@@ -48,7 +48,7 @@ Note al titolo:
  I regolamenti di cui al primo comma stabiliscono altresi' i casi, le modalita' ed eventualmente il termine per la regolarizzazione o la rettifica della documentazione irregolare o non conforme alla dichiarazione, nonche', ove occorre, per la rettifica della dichiarazione la cui irregolarita' attenga ad elementi non essenziali".
  Note alle premesse:
  - Per i riferimenti alla [legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15), vedi nota al titolo.
- - Si trascrive il testo dell'[art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), come modificato dall'[art. 74 del D.Lgs. 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md):
+ - Si trascrive il testo dell'[art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), come modificato dall'[art. 74 del D.Lgs. 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md):
  "Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronuziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare:
  a) l'esecuzione delle leggi e dei decreti legislativi;
  b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;
@@ -180,7 +180,7 @@ In tal caso, e' obbligo del responsabile del procedimento a cui la dichiarazione
 
 Nota all'art. 5:
  - Si trascrive il testo dell'[art. 26 della legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15#art_26) gia' citata.
- "Art. 26 (Sanzioni penali). - Le dichiarazioni mendaci, la falsita' negli atti e l'uso di atti falsi nei casi previsti dalla presente legge sono puniti ai sensi del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle leggi speciali in materia.
+ "Art. 26 (Sanzioni penali). - Le dichiarazioni mendaci, la falsita' negli atti e l'uso di atti falsi nei casi previsti dalla presente legge sono puniti ai sensi del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle leggi speciali in materia.
  A tali effetti, l'esibizione di un atto contenente dati non piu' rispondenti a verita' equivale a uso di atto falso e le dichiarazioni rese ai sensi dei precedenti articoli 2, 3, 4, 8 e autenticate a norma dell'art. 20 sono considerate come fatte a pubblico ufficiale.
  Inoltre, ove i reati indicati nei precedenti commi siano commessi per ottenere la nomina ad un pubblico ufficio o l'autorizzazione all'esercizio di una professione o arte, il giudice, nei casi piu' gravi puo' applicare l'interdizione temporanea dai pubblici uffici o dalla professione o arte.
  Il pubblico ufficiale che autentica le sottoscrizioni o al quale sono esibiti gli atti ammonisce chi sottoscrive la dichiarazione o esibisce l'atto sulla responsabilita' penale cui puo' andare incontro in caso di dichiarazione mendace o di esibizione di atto falso o contenente dati non piu' rispondenti a verita'.

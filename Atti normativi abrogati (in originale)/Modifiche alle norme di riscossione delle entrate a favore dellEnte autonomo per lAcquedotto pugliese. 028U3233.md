@@ -24,7 +24,7 @@ All'[art. 11 della legge 23 settembre 1920, n. 1365](Che%20converte%20in%20legge
  
  Art. 11-bis. - Sono riscossi mediante ruoli: 
  
- a) i canoni dovuti dalle Provincie, dai Comuni, dagli enti morali e da qualsiasi altro utente, ad eccezione delle Amministrazioni dello Stato, per le quali si provvede a riscossione diretta, in base a fatture ed ai contratti, non esclusi quelli emergenti dagli articoli 123 e 124 del regolamento generale, approvato con [R. decreto 16 gennaio 1921, n. 195](../Regi%20decreti/Che%20approva%20il%20regolamento%20generale%20pel%20funzionamento%20dellEnte%20autonomo%20per%20lAcquedotto%20Pugliese.%20021U0195.md); 
+ a) i canoni dovuti dalle Provincie, dai Comuni, dagli enti morali e da qualsiasi altro utente, ad eccezione delle Amministrazioni dello Stato, per le quali si provvede a riscossione diretta, in base a fatture ed ai contratti, non esclusi quelli emergenti dagli articoli 123 e 124 del regolamento generale, approvato con [R. decreto 16 gennaio 1921, n. 195](Che%20approva%20il%20regolamento%20generale%20pel%20funzionamento%20dellEnte%20autonomo%20per%20lAcquedotto%20Pugliese.%20021U0195.md); 
  
  b) le somme dovute per eccedenze di consumo oltre i minimi impegnativi contrattuali; 
  
@@ -58,7 +58,7 @@ All'[art. 11 della legge 23 settembre 1920, n. 1365](Che%20converte%20in%20legge
 
 Alla [legge 23 settembre 1920, n. 1365](Che%20converte%20in%20legge%20il%20R.%20decreto%2018%20ottobre%201919%20n.%202060%20relativo%20alla%20istituzione%20dellEnte%20autonomo%20dellAcquedotto%20pugliese.%20020U1365.md), che modifica e convalida il [R. decreto-legge 19 ottobre 1919, n. 2060](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-19;2060), e' aggiunto il seguente: 
  
- Art. 21. - Ai contravventori alle norme del regolamento di distribuzione dell'acqua, di cui all'art. 125 del regolamento approvato con [R. decreto 16 gennaio 1921, n. 195](../Regi%20decreti/Che%20approva%20il%20regolamento%20generale%20pel%20funzionamento%20dellEnte%20autonomo%20per%20lAcquedotto%20Pugliese.%20021U0195.md), ed a tutte le altre disposizioni del regolamento stesso e' applicabile una penale da L. 5 a L. 500. 
+ Art. 21. - Ai contravventori alle norme del regolamento di distribuzione dell'acqua, di cui all'art. 125 del regolamento approvato con [R. decreto 16 gennaio 1921, n. 195](Che%20approva%20il%20regolamento%20generale%20pel%20funzionamento%20dellEnte%20autonomo%20per%20lAcquedotto%20Pugliese.%20021U0195.md), ed a tutte le altre disposizioni del regolamento stesso e' applicabile una penale da L. 5 a L. 500. 
  
  Spetta al Consiglio di amministrazione di determinare la misura della penale applicabile a ciascuna infrazione. 
  

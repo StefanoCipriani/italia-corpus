@@ -40,7 +40,7 @@ Gli articoli 7, 9 e 14 del R. decreto-legge 27 luglio 1934-XII, n. 1340, convert
  
  Per gli ufficiali dell'Arma aeronautica, ruolo servizi (ex naviganti) l'aumento non potra', pero', superare una aliquota corrispondente a venti annualita', siano esse calcolate in base a trentunesimi, a trentatreesimi od a quarantacinquesimi. 
  
- Art. 14. - Le pensioni privilegiate per ferite od infermita' contratte per causa di servizio, sono liquidate in base alle disposizioni del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e a quelle del decreto Luogotenenziale 20 maggio 1917, n, 876, e successive modificazioni. 
+ Art. 14. - Le pensioni privilegiate per ferite od infermita' contratte per causa di servizio, sono liquidate in base alle disposizioni del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e a quelle del decreto Luogotenenziale 20 maggio 1917, n, 876, e successive modificazioni. 
  
  Qualora debba applicarsi il [3° comma dell'art. 4 del decreto Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876#art_4-com3), le pensioni stesse vengono calcolate: 
  

@@ -26,7 +26,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto l'art. 2 della legge stessa, col quale furono dichiarate esenti dalla conversione suddetta le rendite 4,50 % possedute dalle pubbliche istituzioni di beneficenza, in quanto non vengano successivamente, per effetto di qualsiasi operazione, trasferite ad altri intestatari, ovvero tramutate al portatore; 
  
- Visto il regolamento approvato col [R. decreto 21 dicembre 1903, n. 486](../Regi%20decreti/Che%20disciplina%20la%20conversione%20del%20consolidato%20450%20in%20consolidato%20350%20per%20cento.%20003U0486.md), per l'esecuzione della legge suddetta; 
+ Visto il regolamento approvato col [R. decreto 21 dicembre 1903, n. 486](Che%20disciplina%20la%20conversione%20del%20consolidato%20450%20in%20consolidato%20350%20per%20cento.%20003U0486.md), per l'esecuzione della legge suddetta; 
  
  Visto il [decreto Luogotenenziale 17 marzo 1918, numero 456](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-03-17;456), relativo a variazioni nel bilancio della spesa del Ministero del tesoro per l'esercizio 1917-918, dipendenti da conversioni di rendite del consolidato 4,50 % netto in altre del consolidato 3,50 % netto e viceversa eseguite nell'esercizio 1916-917, e nel secondo semestre 1917; 
  

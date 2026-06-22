@@ -28,7 +28,7 @@ Il Ministero dei lavori pubblici e' autorizzato a destinare la somma di lire sei
 
 L'[art. 2 del decreto legislativo 10 dicembre 1946, n. 565](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-12-10;565#art_2), e' sostituito dal seguente:
  "E' in facolta' del Ministero dei lavori pubblici di consentire che l'esecuzione di lavori di competenza dell'Amministrazione comunale di Roma sia affidata al Comune medesimo.
- In tal caso il Comune provvedera' alla gestione dei lavori sotto la vigilanza del competente Ufficio del genio civile, uniformandosi alle disposizioni vigenti per le opere pubbliche di conto dello Stato; i pagamenti saranno effettuati dall'Amministrazione dei lavori pubblici, in base a stati di avanzamento riconosciuti regolari dall'Ufficio del genio civile, ed il collaudo delle opere sara' eseguito da funzionari statali con le norme dei regolamento approvato con [regio decreto 25 maggio 1895, n. 350](../Regi%20decreti/Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md)".
+ In tal caso il Comune provvedera' alla gestione dei lavori sotto la vigilanza del competente Ufficio del genio civile, uniformandosi alle disposizioni vigenti per le opere pubbliche di conto dello Stato; i pagamenti saranno effettuati dall'Amministrazione dei lavori pubblici, in base a stati di avanzamento riconosciuti regolari dall'Ufficio del genio civile, ed il collaudo delle opere sara' eseguito da funzionari statali con le norme dei regolamento approvato con [regio decreto 25 maggio 1895, n. 350](Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md)".
 
 ## Art. 3.
 

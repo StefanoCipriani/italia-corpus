@@ -22,7 +22,7 @@ Chiunque, fuori dei casi preveduti nell'art. 1, comunicando con piu' persone riu
 
 ## Art. 3.
 
-Le disposizioni degli articoli precedenti non riguardano le notizie contenute nelle pubblicazioni periodiche, in quanto per queste siano state osservate le norme del [R. decreto 23 maggio 1915, n. 675](../Regi%20decreti/Recante%20disposizioni%20per%20la%20stampa%20015U0675.md), recante disposizioni per la stampa, e l'autorita' politica non si sia avvalsa della facolta' di sequestro, ferme per altro restando le disposizioni del detto R. decreto nonche' di quello 28 marzo 1915, n. 313, e della [legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md), sulla difesa economica e militare dello Stato.
+Le disposizioni degli articoli precedenti non riguardano le notizie contenute nelle pubblicazioni periodiche, in quanto per queste siano state osservate le norme del [R. decreto 23 maggio 1915, n. 675](Recante%20disposizioni%20per%20la%20stampa%20015U0675.md), recante disposizioni per la stampa, e l'autorita' politica non si sia avvalsa della facolta' di sequestro, ferme per altro restando le disposizioni del detto R. decreto nonche' di quello 28 marzo 1915, n. 313, e della [legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md), sulla difesa economica e militare dello Stato.
 
 ## Art. 4.
 

@@ -16,7 +16,7 @@ Vista la risoluzione del Consiglio di sicurezza dell'Organizzazione delle Nazion
 
 Vista la risoluzione delle Nazioni Unite n. 1088 del 12 dicembre 1996, che auspica l'incremento del numero dei componenti della citata Forza e ne ribadisce finalita' e compiti;
 
-Visto il [decreto-legge 31 gennaio 1997, n. 12](Partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron_3.md), convertito, con modificazioni, dalla [legge 25 marzo 1997, n. 72](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20gennaio%201997%20n.%2012%20recante%20partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron.%20Proroga%20della%20partecipazione%20it_4d11556c690c.md), recante, tra l'altro proroga della partecipazione italiana alla missione in Bosnia-Erzegovina;
+Visto il [decreto-legge 31 gennaio 1997, n. 12](Partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron_3.md), convertito, con modificazioni, dalla [legge 25 marzo 1997, n. 72](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20gennaio%201997%20n.%2012%20recante%20partecipazione%20italiana%20alla%20missione%20di%20pace%20nella%20citta%20di%20Hebron.%20Proroga%20della%20partecipazione%20it_4d11556c690c.md), recante, tra l'altro proroga della partecipazione italiana alla missione in Bosnia-Erzegovina;
 
 Vista la risoluzione delle Nazioni Unite n. 1103 del 31 marzo 1997, che autorizza l'incremento del numero dei componenti della predetta Forza;
 

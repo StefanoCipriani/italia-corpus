@@ -38,7 +38,7 @@ Dal Consiglio di amministrazione delle ferrovie dello Stato sara' stabilito in q
  
  Esso non ha diritto al trattamento di cui all'ultimo comma dell'[art. 8 della legge 13 aprile 1911, n. 310](Che%20approva%20le%20modificazioni%20allordinamento%20delle%20ferrovie%20dello%20Stato%20ed%20il%20miglioramento%20economico%20del%20personale.%20011U0310.md). 
  
- E' lasciata facolta' agli agenti, che alla data del passaggio contano non piu' di 30 anni di eta', di optare, entro il termine di tre mesi dalla data stessa, per l'iscrizione al fondo pensioni del personale delle ferrovie dello Stato di cui al testo unico approvato col [R. decreto 22 aprile 1909, n. 229](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md).
+ E' lasciata facolta' agli agenti, che alla data del passaggio contano non piu' di 30 anni di eta', di optare, entro il termine di tre mesi dalla data stessa, per l'iscrizione al fondo pensioni del personale delle ferrovie dello Stato di cui al testo unico approvato col [R. decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md).
 
 ## Art. 3.
 

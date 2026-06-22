@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Visto l'articolo 123 del regolamento sulle privative approvato con il [R. decreto 15 giugno 1865, n. 2398](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20Legge%20sulla%20privativa%20dei%20sali%20e%20tabacchi.%20065U2398.md);
+Visto l'articolo 123 del regolamento sulle privative approvato con il [R. decreto 15 giugno 1865, n. 2398](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20Legge%20sulla%20privativa%20dei%20sali%20e%20tabacchi.%20065U2398.md);
 
 Vista la tabella B annessa al decreto legislativo 28 giugno 1866, Determina:
 

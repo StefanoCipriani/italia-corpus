@@ -18,7 +18,7 @@ Visto l'[art. 4 del decreto legislativo Presidenziale 19 giugno 1946, n. 1](http
 
 Visto il [regio decreto-legge 9 febbraio 1939, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-09;273), e sentita la Corte dei conti;
 
-Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 172](../Decreti%20legislativi%20luogotenenziali/Abrogazione%20del%20R.%20decreto-legge%2021%20giugno%201940%20n.%20856%20e%20temporaneo%20aumento%20dei%20limiti%20di%20Spesa%20previsti%20dalla%20legge%20e%20dal%20regolamento%20di%20contabilita%20generale%20dello%20Stato%20e%20dallart.%2018%20de_b480d758d3e6.md), che modifica tra l'altro l'[art. 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), concernente disposizioni sull'amministrazione del patrimonio e la contabilita' generale dello Stato;
+Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 172](Abrogazione%20del%20R.%20decreto-legge%2021%20giugno%201940%20n.%20856%20e%20temporaneo%20aumento%20dei%20limiti%20di%20Spesa%20previsti%20dalla%20legge%20e%20dal%20regolamento%20di%20contabilita%20generale%20dello%20Stato%20e%20dallart.%2018%20de_b480d758d3e6.md), che modifica tra l'altro l'[art. 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), concernente disposizioni sull'amministrazione del patrimonio e la contabilita' generale dello Stato;
 
 Vista la deliberazione del Consiglio dei Ministri;
 

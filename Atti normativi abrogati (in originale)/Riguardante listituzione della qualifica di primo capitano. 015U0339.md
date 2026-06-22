@@ -14,13 +14,13 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sull'ordinamento del R. esercito e dei servizi dipendenti dal Ministero della guerra approvato con [R. decreto 14 luglio 1898, n. 525](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e successive modificazioni;
+Visto il testo unico delle leggi sull'ordinamento del R. esercito e dei servizi dipendenti dal Ministero della guerra approvato con [R. decreto 14 luglio 1898, n. 525](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e successive modificazioni;
 
 Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel Regio esercito, modificata colla [legge 2 giugno 1913, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-02;601), e successive modificazioni;
 
 Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md) sullo stato degli ufficiali del R. esercito e della R. marina;
 
-Visto il testo unico delle leggi sugli stipendi ed assegni fissi pel R. esercito approvato con [R. decreto 14 luglio 1898, n. 380](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), modificato con le [leggi 6 luglio 1908, n. 362, 17 luglio 1910, n. 515, e 28 giugno 1912, n. 641](Che%20apporta%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20per%20il%20R.%20esercito.%20012U0641.md);
+Visto il testo unico delle leggi sugli stipendi ed assegni fissi pel R. esercito approvato con [R. decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), modificato con le [leggi 6 luglio 1908, n. 362, 17 luglio 1910, n. 515, e 28 giugno 1912, n. 641](Che%20apporta%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20per%20il%20R.%20esercito.%20012U0641.md);
 
 Considerata l'opportunita' di istituire, per riparare a sperequazioni di carriera, e in vista della lunga permanenza nei gradi di ufficiali inferiori, una speciale categoria di capitani anziani;
 

@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduto il regolamento approvato con [R. decreto 16 febbraio 1913, n. 202](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20che%20stabilisce%20le%20norme%20per%20il%20pareggiamento%20di%20scuole%20classiche%20tecniche%20e%20normali.%20013U0202.md); 
+ Veduto il regolamento approvato con [R. decreto 16 febbraio 1913, n. 202](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20che%20stabilisce%20le%20norme%20per%20il%20pareggiamento%20di%20scuole%20classiche%20tecniche%20e%20normali.%20013U0202.md); 
  
  Veduto il Nostro decreto in data 31 agosto 1915, n. 1420 con cui per tutta la durata della guerra fu sospeso ogni pubblico concorso a posti compresi nelle piante organiche per impiegati e salariati dei Comuni, delle Provincie ed altri enti pubblici; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Finche' il Nostro decreto 31 agosto 1915, n. 1420, avra' vigore, gli enti che invocano il pareggiamento di loro scuole medie e normali sono dispensati dall'osservanza dell'art. 7 del regolamento approvato con [R. decreto 16 febbraio 1913, n. 202](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20che%20stabilisce%20le%20norme%20per%20il%20pareggiamento%20di%20scuole%20classiche%20tecniche%20e%20normali.%20013U0202.md), con l'obbligo pero' di indire i concorsi appena la revoca del citato Nostro decreto lo permetta. 
+ Finche' il Nostro decreto 31 agosto 1915, n. 1420, avra' vigore, gli enti che invocano il pareggiamento di loro scuole medie e normali sono dispensati dall'osservanza dell'art. 7 del regolamento approvato con [R. decreto 16 febbraio 1913, n. 202](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20che%20stabilisce%20le%20norme%20per%20il%20pareggiamento%20di%20scuole%20classiche%20tecniche%20e%20normali.%20013U0202.md), con l'obbligo pero' di indire i concorsi appena la revoca del citato Nostro decreto lo permetta. 
  
  Nel frattempo l'insegnamento delle varie materie deve essere affidato, con l'approvazione dell'autorita' scolastica locale, ad insegnanti debitamente abilitati e retribuiti nella misura legale. 
  

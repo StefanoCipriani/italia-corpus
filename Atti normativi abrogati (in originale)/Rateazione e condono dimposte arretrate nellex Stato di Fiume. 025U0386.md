@@ -16,13 +16,13 @@ RE D'ITALIA
 
 Visto il [R. decreto 22 febbraio 1924, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-22;211), che annette la citta' di Fiume al Regno d'Italia;
 
-Visto il [R. decreto 22 maggio 1924, n. 800](../Regi%20decreti/Estensione%20al%20territorio%20di%20Fiume%20del%20regime%20tributario%20nazionale%20in%20materia%20di%20sovrimposte%20e%20di%20tributi%20locali.%20024U0800.md);
+Visto il [R. decreto 22 maggio 1924, n. 800](Estensione%20al%20territorio%20di%20Fiume%20del%20regime%20tributario%20nazionale%20in%20materia%20di%20sovrimposte%20e%20di%20tributi%20locali.%20024U0800.md);
 
-Visto il [R. decreto 22 maggio 1924, n. 801](../Regi%20decreti/Estensione%20al%20territorio%20di%20Fiume%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20024U0801.md);
+Visto il [R. decreto 22 maggio 1924, n. 801](Estensione%20al%20territorio%20di%20Fiume%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20024U0801.md);
 
-Visto il [R. decreto 22 maggio 1924, n. 802](../Regi%20decreti/Istituzione%20a%20Fiume%20della%20Regia%20agenzia%20delle%20imposte.%20024U0802.md);
+Visto il [R. decreto 22 maggio 1924, n. 802](Istituzione%20a%20Fiume%20della%20Regia%20agenzia%20delle%20imposte.%20024U0802.md);
 
-Visto il [R. decreto 22 maggio 1924, n. 804](../Regi%20decreti/Estensione%20al%20territorio%20di%20Fiume%20del%20regime%20tributario%20nazionale%20in%20materia%20dimposte%20dirette.%20024U0804.md);
+Visto il [R. decreto 22 maggio 1924, n. 804](Estensione%20al%20territorio%20di%20Fiume%20del%20regime%20tributario%20nazionale%20in%20materia%20dimposte%20dirette.%20024U0804.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -56,9 +56,9 @@ I residui d'imposta del cessato regime, inscritti o non ancora inscritti nei lib
 
 ## Art. 3.
 
-La riscossione dei residui, o di parte di essi, dovuti ai sensi dell'articolo precedente, risultanti a tutto il 31 dicembre 1924 dai libri mastri e registri tenuti dal cessato ufficio di esazione imposte nel territorio di Fiume annesso al Regno col [R. decreto 22 febbraio 1924, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-22;211), sara' effettuata, nei modi prescritti dal testo unico sulla riscossione delle imposte dirette, approvato con [R. decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), mediante elenchi, non soggetti a pubblicazione, da compilarsi dall'Ufficio distrettuale delle imposte di Fiume e da consegnarsi in qualunque epoca all'esattore. 
+La riscossione dei residui, o di parte di essi, dovuti ai sensi dell'articolo precedente, risultanti a tutto il 31 dicembre 1924 dai libri mastri e registri tenuti dal cessato ufficio di esazione imposte nel territorio di Fiume annesso al Regno col [R. decreto 22 febbraio 1924, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-22;211), sara' effettuata, nei modi prescritti dal testo unico sulla riscossione delle imposte dirette, approvato con [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), mediante elenchi, non soggetti a pubblicazione, da compilarsi dall'Ufficio distrettuale delle imposte di Fiume e da consegnarsi in qualunque epoca all'esattore. 
  
- Il debito inscritto nei detti elenchi sara' esigibile, in deroga all'[art. 9 del R. decreto 11 gennaio 1923, n. 117](../Regi%20decreti/Che%20estende%20ai%20territori%20annessi%20le%20disposizioni%20sulla%20riscossione%20delle%20imposte%20dirette.%20023U0117.md), in un numero di rate bimestrali che dia luogo al completo pagamento entro il 31 dicembre 1929.
+ Il debito inscritto nei detti elenchi sara' esigibile, in deroga all'[art. 9 del R. decreto 11 gennaio 1923, n. 117](Che%20estende%20ai%20territori%20annessi%20le%20disposizioni%20sulla%20riscossione%20delle%20imposte%20dirette.%20023U0117.md), in un numero di rate bimestrali che dia luogo al completo pagamento entro il 31 dicembre 1929.
 
 ## Art. 4.
 

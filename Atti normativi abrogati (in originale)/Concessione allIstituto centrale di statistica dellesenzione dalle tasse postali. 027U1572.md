@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 16 novembre 1921, n. 1825](../Regi%20decreti/Che%20reca%20norme%20per%20la%20franchigia%20postale%20e%20telegrafica.%20021U1825.md), e [26 marzo 1922, n. 424](../Regi%20decreti/Che%20reca%20modificazioni%20ed%20aggiunte%20a%20quello%2016%20novembre%201921%20contenente%20norme%20per%20la%20franchigia%20postale%20e%20telegrafica.%20022U0424.md), contenenti norme per l'esenzione dalle tasse postali della corrispondenza ufficiale;
+Visti i [Regi decreti 16 novembre 1921, n. 1825](Che%20reca%20norme%20per%20la%20franchigia%20postale%20e%20telegrafica.%20021U1825.md), e [26 marzo 1922, n. 424](Che%20reca%20modificazioni%20ed%20aggiunte%20a%20quello%2016%20novembre%201921%20contenente%20norme%20per%20la%20franchigia%20postale%20e%20telegrafica.%20022U0424.md), contenenti norme per l'esenzione dalle tasse postali della corrispondenza ufficiale;
 
 Vista la [legge 9 luglio 1926, n. 1162](Riordinamento%20del%20servizio%20statistico.%20026U1162.md), che, in sostituzione della soppressa Direzione generale della statistica, ha creato un Istituto centrale di statistica del Regno, che e' istituto di Stato a tutti gli effetti, salvo quanto sia diversamente disposto dalla legge stessa;
 

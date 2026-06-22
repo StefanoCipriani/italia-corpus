@@ -74,7 +74,7 @@ E' approvata la maggiore assegnazione di lire 154,637,26, inscritta al capitolo 
 
 ## Art. 17.
 
-E' approvata la maggiore assegnazione di lire 1,384,23, inscritta al capitolo n. 120 Q-bis «Eccedenza d'impegni verificatasi al capitolo n. 36 - Fondo a calcolo per le anticipazioni delle spese occorrenti al mantenimento degli inabili al lavoro, fatti ricoverare negli appositi stabilimenti (legge sulla sicurezza pubblica del 30 giugno 1889, n. 6144, serie 3ª, [articolo 81 e R. decreto 19 novembre 1889, n. 6535](../Regi%20decreti/Che%20stabilisce%20le%20norme%20per%20lapplicazione%20dellarticolo%2082%20della%20legge%2030%20giugno%201889%20sulla%20pubblica%20sicurezza.%20089U6535.md), articolo 24 (Spesa d'ordine) - dello stato di previsione della spesa per l'esercizio 1898-99 e retro» per provvedere al saldo delle eccedenze d'impegni verificatesi nel conto consuntivo della spesa del Ministero dell'Interno per l'esercizio finanziario 1899-900.
+E' approvata la maggiore assegnazione di lire 1,384,23, inscritta al capitolo n. 120 Q-bis «Eccedenza d'impegni verificatasi al capitolo n. 36 - Fondo a calcolo per le anticipazioni delle spese occorrenti al mantenimento degli inabili al lavoro, fatti ricoverare negli appositi stabilimenti (legge sulla sicurezza pubblica del 30 giugno 1889, n. 6144, serie 3ª, [articolo 81 e R. decreto 19 novembre 1889, n. 6535](Che%20stabilisce%20le%20norme%20per%20lapplicazione%20dellarticolo%2082%20della%20legge%2030%20giugno%201889%20sulla%20pubblica%20sicurezza.%20089U6535.md), articolo 24 (Spesa d'ordine) - dello stato di previsione della spesa per l'esercizio 1898-99 e retro» per provvedere al saldo delle eccedenze d'impegni verificatesi nel conto consuntivo della spesa del Ministero dell'Interno per l'esercizio finanziario 1899-900.
 
 ## Art. 18.
 
@@ -182,7 +182,7 @@ approvata la maggiore assegnazione di lire 5,199, inscritta al capitolo n. 120 S
 
 ## Art. 44.
 
-E' approvata la maggiora assegnazione di lire 131,088,09, inscritta al capitolo n. 120 T-1-bis «Eccedenza d'impegni verificatasi al capitolo n. 93 - Carceri - Spese pei domiciliati coatti e per gli assegnati al domicilio obbligatorio ([R. decreto 17 febbraio 1881, n. 74](../Regi%20decreti/Che%20modifica%20le%20disposizioni%20sul%20domicilio%20coatto.%20081U0074.md), e relativo Regolamento approvato con decreto Ministeriale 10 dicembre 1881) - dello stato di previsione della spesa per l'esercizio 1898-99 e retro» per provvedere al saldo delle eccedenze d'impegni verificatesi nel conto consuntivo della spesa del Ministero dell'Interno per l'esercizio finanziario 1899-900.
+E' approvata la maggiora assegnazione di lire 131,088,09, inscritta al capitolo n. 120 T-1-bis «Eccedenza d'impegni verificatasi al capitolo n. 93 - Carceri - Spese pei domiciliati coatti e per gli assegnati al domicilio obbligatorio ([R. decreto 17 febbraio 1881, n. 74](Che%20modifica%20le%20disposizioni%20sul%20domicilio%20coatto.%20081U0074.md), e relativo Regolamento approvato con decreto Ministeriale 10 dicembre 1881) - dello stato di previsione della spesa per l'esercizio 1898-99 e retro» per provvedere al saldo delle eccedenze d'impegni verificatesi nel conto consuntivo della spesa del Ministero dell'Interno per l'esercizio finanziario 1899-900.
 
 ## Art. 45.
 

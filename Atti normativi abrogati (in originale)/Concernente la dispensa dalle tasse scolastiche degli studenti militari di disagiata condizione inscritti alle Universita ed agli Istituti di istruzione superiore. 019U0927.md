@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto il regolamento generale universitario approvato con [R. decreto 9 agosto 1910, n. 796](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md);
+Veduto il regolamento generale universitario approvato con [R. decreto 9 agosto 1910, n. 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md);
 
 Veduti i Nostri decreti 17 febbraio 1916, n. 238, 1° ottobre 1916, n. 1402, 2 settembre 1917, n. 1523, 6 ottobre 1918, n. 1662;
 
@@ -42,7 +42,7 @@ Le disposizioni predette si applicano anche agli studenti militari, i quali abbi
 
 Le domande per ottenere la dispensa dovranno essere presentate ai rettori delle Universita' e ai direttori degli Istituti di istruzione superiore. 
  
- A corredo di esse dovranno essere unite le dichiarazioni delle autorita' militari, da cui risulti che i giovani hanno prestato effettivo servizio militare per gli anni accademici, per i quali chiedono la dispensa, e i documenti prescritti dal regolamento generale universitario, approvato con [R. decreto 9 agosto 1910, numero 796](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), successivamente modificato con [R. decreto 21 settembre 1911, n. 1194](../Regi%20decreti/Col%20quale%20vengono%20modificati%20alcuni%20articoli%20del%20regolamento%20generale%20universitario%20approvato%20con%20R.%20decreto%209%20agosto%201910%20n.%20796%20011U1194.md), che comprovino la disagiata condizione economica dei richiedenti e delle rispettive famiglie.
+ A corredo di esse dovranno essere unite le dichiarazioni delle autorita' militari, da cui risulti che i giovani hanno prestato effettivo servizio militare per gli anni accademici, per i quali chiedono la dispensa, e i documenti prescritti dal regolamento generale universitario, approvato con [R. decreto 9 agosto 1910, numero 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), successivamente modificato con [R. decreto 21 settembre 1911, n. 1194](Col%20quale%20vengono%20modificati%20alcuni%20articoli%20del%20regolamento%20generale%20universitario%20approvato%20con%20R.%20decreto%209%20agosto%201910%20n.%20796%20011U1194.md), che comprovino la disagiata condizione economica dei richiedenti e delle rispettive famiglie.
 
 ## Art. 4.
 

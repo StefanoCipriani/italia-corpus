@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sono abrogati gli articoli 175, 182, 203, 204, 205 e 206 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md).
+Sono abrogati gli articoli 175, 182, 203, 204, 205 e 206 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md).
 
 ## Art. 2.
 

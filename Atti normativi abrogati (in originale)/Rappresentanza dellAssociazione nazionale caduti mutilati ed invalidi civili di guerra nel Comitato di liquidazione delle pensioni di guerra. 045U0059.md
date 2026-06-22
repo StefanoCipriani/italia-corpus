@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti l'[art. 51 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), col quale fu istituito il Comitato di liquidazione delle pensioni di guerra, e le successive modifiche e integrazioni;
+Visti l'[art. 51 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), col quale fu istituito il Comitato di liquidazione delle pensioni di guerra, e le successive modifiche e integrazioni;
 
 Visto l'articolo unico della [legge 25 aprile 1938, n. 501](Modificazione%20della%20composizione%20del%20Comitato%20di%20liquidazione%20delle%20pensioni%20di%20guerra.%20038U0501.md), col quale venne chiamato a far parte del Comitato di liquidazione predetto, un rappresentante del disciolto partito nazionale fascista;
 

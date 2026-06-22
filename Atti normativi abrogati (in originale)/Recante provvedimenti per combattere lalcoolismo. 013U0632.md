@@ -84,7 +84,7 @@ Capo II.
 
 Con decreto Reale, a proposta dei ministri dell'interno e delle finanze ed inteso il voto del Consiglio superiore di sanita', sara' provveduto alla formazione e pubblicazione dell'elenco delle sostanze ed essenze nocive alla salute, che e' vietato di adoperare, o per cui si stabilisca che non possano eccedere determinate proporzioni, nella fabbricazione delle bevande alcooliche. 
  
- Tale elenco sara' riveduto ogni biennio. La infrazione al divieto e' punita coll'ammenda da L. 100 a 500, oltre alla confisca e distruzione delle bevande, senza pregiudizio delle disposizioni dell'art. 42 della legge sanitaria, e delle maggiori penalita' prevista dal libro II, titolo VII, capo III del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ove siano applicabili.
+ Tale elenco sara' riveduto ogni biennio. La infrazione al divieto e' punita coll'ammenda da L. 100 a 500, oltre alla confisca e distruzione delle bevande, senza pregiudizio delle disposizioni dell'art. 42 della legge sanitaria, e delle maggiori penalita' prevista dal libro II, titolo VII, capo III del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ove siano applicabili.
 
 ### Art. 9.
 
@@ -92,7 +92,7 @@ I fabbricanti e gli importatori di essenze per la confezione delle bevande alcoo
 
 ### Art. 10.
 
-I contravventori al disposto degli articoli 1 e 4 sono puniti con le pene previste dall'[art. 489 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+I contravventori al disposto degli articoli 1 e 4 sono puniti con le pene previste dall'[art. 489 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  In ogni caso di recidiva il giudice aggiunge la revoca della licenza. Ove sia prodotto appello, opposizione o ricorso, la sentenza deve nondimeno essere comunicata all'autorita' di pubblica sicurezza, la quale ordinera' la sospensione della licenza. 
  
@@ -100,9 +100,9 @@ I contravventori al disposto degli articoli 1 e 4 sono puniti con le pene previs
  
  I contravventori al divieto degli articoli 3 e 5 sono puniti con l'ammenda da L. 30 a 100. La stessa pena si applica ai contravventori all'art. 6, oltre al sequestro ed alla confisca della merce. 
  
- Le trasgressioni al disposto del secondo e terzo capoverso dell'articolo 2 sono punite a termini dell'[art. 449 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ Le trasgressioni al disposto del secondo e terzo capoverso dell'articolo 2 sono punite a termini dell'[art. 449 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- Per i reati commessi a danno dei conduttori di pubblici esercizi o persone da loro dipendenti, a causa o in occasione della osservanza degli obblighi ad essi imposti dalla presente legge, si procede di ufficio ancorche' i reati siano di tal natura per cui a norma del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sarebbe necessaria l'istanza privata.
+ Per i reati commessi a danno dei conduttori di pubblici esercizi o persone da loro dipendenti, a causa o in occasione della osservanza degli obblighi ad essi imposti dalla presente legge, si procede di ufficio ancorche' i reati siano di tal natura per cui a norma del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sarebbe necessaria l'istanza privata.
 
 ### Art. 11.
 

@@ -28,7 +28,7 @@ Il Comitato avra' a sua disposizione tutti quanti gli atti della inchiesta compi
 
 ## Art. 3.
 
-Il Comitato presentera' al ministro, tutte insieme o gradatamente, le proposte nominative e concrete, di cui all'articolo precedente, non oltre quattro mesi dal giorno della convocazione. Approvate che esse siano dal Consiglio dei ministri, diverranno definitive, e saranno rese esecutive mediante decreto Reale; ne' saranno soggette ad alcun gravame, azione o ricorso, anche straordinari, salvo il ricorso per violazione della legge presente a norma dell'art. 22 del testo unico sul Consiglio di Stato, approvato con [Regio decreto 17 agosto 1907, n. 638](../Regi%20decreti/Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0638.md).
+Il Comitato presentera' al ministro, tutte insieme o gradatamente, le proposte nominative e concrete, di cui all'articolo precedente, non oltre quattro mesi dal giorno della convocazione. Approvate che esse siano dal Consiglio dei ministri, diverranno definitive, e saranno rese esecutive mediante decreto Reale; ne' saranno soggette ad alcun gravame, azione o ricorso, anche straordinari, salvo il ricorso per violazione della legge presente a norma dell'art. 22 del testo unico sul Consiglio di Stato, approvato con [Regio decreto 17 agosto 1907, n. 638](Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0638.md).
 
 ## Art. 4.
 
@@ -44,7 +44,7 @@ Qualora nel periodo di quattro mesi dalla data della pubblicazione della present
  
  In questi casi la pensione, udito il Consiglio dei ministri, potra', con lo stesso decreto di collocamento a riposo, essere aumentata di una somma fino a L. 500, a seconda del servizio prestato o di particolari circostanze che consiglino uno speciale riguardo. 
  
- Gli anni di servizio di cui al presente ed al precedente articolo si computano a norma dell'art. 176, testo unico della legge sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
+ Gli anni di servizio di cui al presente ed al precedente articolo si computano a norma dell'art. 176, testo unico della legge sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
 
 ## Art. 6.
 

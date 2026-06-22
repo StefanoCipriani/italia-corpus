@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), concernente disposizioni in materia di tasse sui contratti di Borsa;
+Visto il [regio decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), concernente disposizioni in materia di tasse sui contratti di Borsa;
 
 Vista la [legge 10 novembre 1954, n. 1079](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-10;1079), recante modificazioni in materia di tasse sui contratti di Borsa;
 
-Visto il [decreto-legge 30 giugno 1960, n. 589](Modificazioni%20alle%20aliquote%20di%20tasse%20speciali%20per%20contratti%20di%20Borsa%20su%20titoli%20e%20valori%20stabilite%20dalla%20tabella%20A%20allegata%20alla%20legge%2010%20novembre%201954%20n.%201079.md), convertito, con modificazioni, nella [legge 14 agosto 1960, n. 826](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%201960%20n.%20589%20portante%20modificazioni%20alle%20aliquote%20di%20tasse%20speciali%20per%20contratti%20di%20Borsa%20su%20titoli%20e%20valori%20stabilite%20d_d4d75a2e8676.md), con il quale sono stati apportati aumenti alle aliquote delle tasse speciali per contratti di Borsa su titoli e valori;
+Visto il [decreto-legge 30 giugno 1960, n. 589](Modificazioni%20alle%20aliquote%20di%20tasse%20speciali%20per%20contratti%20di%20Borsa%20su%20titoli%20e%20valori%20stabilite%20dalla%20tabella%20A%20allegata%20alla%20legge%2010%20novembre%201954%20n.%201079.md), convertito, con modificazioni, nella [legge 14 agosto 1960, n. 826](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%201960%20n.%20589%20portante%20modificazioni%20alle%20aliquote%20di%20tasse%20speciali%20per%20contratti%20di%20Borsa%20su%20titoli%20e%20valori%20stabilite%20d_d4d75a2e8676.md), con il quale sono stati apportati aumenti alle aliquote delle tasse speciali per contratti di Borsa su titoli e valori;
 
 Visto il [decreto del Presidente della Repubblica 26 dicembre 1960, n. 1825](../DPR/Determinazione%20della%20forma%20e%20delle%20caratteristiche%20dei%20nuovi%20valori%20di%20foglietti%20bollati%20a%20due%20sezioni%20e%20di%20marche%20per%20contratti%20di%20Borsa.md), con il quale e' stata determinata la forma e le caratteristiche di nuovi valori dei foglietti bollati a due sezioni e delle marche per contratti di Borsa;
 

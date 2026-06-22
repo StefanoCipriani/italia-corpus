@@ -92,7 +92,7 @@ Per essere iscritti negli elenchi speciali e necessario:
 
 Non possono conseguire, l'iscrizione negli elenchi speciali «coloro che abbiano riportato condanna per delitto non colposo per il quale la legge commini la pena' della reclusione, non inferiore nel minimo a due anni e nel massimo a cinque o, comunque, condanna che importi la radiazione o cancellazione dagli albi professionali. 
  
- Non possono, parimenti, conseguire l'iscrizione coloro che siano stati o si trovino sottoposti ad una delle misure di polizia previste dal [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con R. decreto 18 giugno 1931-IX, n. 773.
+ Non possono, parimenti, conseguire l'iscrizione coloro che siano stati o si trovino sottoposti ad una delle misure di polizia previste dal [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con R. decreto 18 giugno 1931-IX, n. 773.
 
 ### Art. 11.
 
@@ -108,7 +108,7 @@ Le domande per l'iscrizione devono essere corredate dai seguenti documenti;
  
  e) certificato generale del casellario giudiziario di data non anteriore a mesi 3 dalla presentazione della domanda e certificato dei Procedimenti a carico; 
  
- f) certificato dell'Autorita' di pubblica sicurezza del luogo di residenza del richiedente, attestante che questi non e' stato sottoposto ad alcuna delle misure previste dal [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con Regio decreto 18 giugno 1931-IX, n. 773; 
+ f) certificato dell'Autorita' di pubblica sicurezza del luogo di residenza del richiedente, attestante che questi non e' stato sottoposto ad alcuna delle misure previste dal [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con Regio decreto 18 giugno 1931-IX, n. 773; 
  
  g) titoli di abilitazione richiesti per la iscrizione nell'albo professionale.
 
@@ -192,7 +192,7 @@ La cancellazione dall'elenco speciale, oltre che per motivi disciplinari, puo' e
 
 ### Art. 20.
 
-La condanna o l'applicazione di una delle misure previste dal [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato col R. decreto 18 giugno 1931-IX, n. 773, importano la cancellazione dall'elenco speciale. 
+La condanna o l'applicazione di una delle misure previste dal [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato col R. decreto 18 giugno 1931-IX, n. 773, importano la cancellazione dall'elenco speciale. 
  
  L'iscritto che si trovi sottoposto a procedimento penale, ovvero deferito per l'applicazione di una delle misure di cui al comma precedente, puo' essere sospeso dall'esercizio della professione. 
  
@@ -232,7 +232,7 @@ E' vietata qualsiasi forma di associazione e collaborazione professionale tra i 
 
 ### Art. 26.
 
-L'esercizio delle attivita' professionali vietate dall'art. 21 punito ai sensi dell'[art. 348 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+L'esercizio delle attivita' professionali vietate dall'art. 21 punito ai sensi dell'[art. 348 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  La trasgressione alle disposizioni di cui all'art. 25 importa la cancellazione, secondo i casi, dagli albi professionali, dagli elenchi aggiunti, ovvero dagli elenchi speciali.
 

@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D' ITALIA
 
-Visto l'art. 38 del testo unico di legge sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, approvato col [R. decreto 17 febbraio 1884, n. 2016](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md);
+Visto l'art. 38 del testo unico di legge sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, approvato col [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md);
 
 Visto che il fondo di riserva per le spese impreviste, inscritto in L. 30,000 nello stato di previsione della spesa dell'Amministrazione del fondo per il culto per l'esercizio finanziario 1920-921, e' disponibile per l'intero importo;
 

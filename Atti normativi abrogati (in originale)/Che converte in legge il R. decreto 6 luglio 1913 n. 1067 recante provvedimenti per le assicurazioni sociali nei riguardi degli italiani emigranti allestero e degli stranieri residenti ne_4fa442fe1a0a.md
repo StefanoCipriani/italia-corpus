@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il [R. decreto 6 luglio 1912, n. 1067](../Regi%20decreti/Col%20quale%20il%20Governo%20del%20Re%20viene%20autorizzato%20a%20stipulare%20convenzioni%20internazionali%20relative%20alle%20assicurazioni%20sociali%20012U1067.md), col quale si adottano provvedimenti per le assicurazioni sociali nei riguardi degli italiani emigrati all'estero e degli stranieri residenti nel Regno, e' convertito in legge dello Stato. 
+ Il [R. decreto 6 luglio 1912, n. 1067](Col%20quale%20il%20Governo%20del%20Re%20viene%20autorizzato%20a%20stipulare%20convenzioni%20internazionali%20relative%20alle%20assicurazioni%20sociali%20012U1067.md), col quale si adottano provvedimenti per le assicurazioni sociali nei riguardi degli italiani emigrati all'estero e degli stranieri residenti nel Regno, e' convertito in legge dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

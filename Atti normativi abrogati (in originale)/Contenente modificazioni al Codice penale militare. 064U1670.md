@@ -20,7 +20,7 @@ I Comandanti generali delle Divisioni e Sotto-Divisioni militari sono autorizzat
  
  La lista e' rettificata secondo i mutamenti che sopravvengono. 
  
- La designazione del Comandante generale tiene luogo della nomina finora fatta per Decreto Reale, giusta l'[art. 284 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, ed ha i medesimi effetti.
+ La designazione del Comandante generale tiene luogo della nomina finora fatta per Decreto Reale, giusta l'[art. 284 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, ed ha i medesimi effetti.
 
 ## Art. 2.
 
@@ -34,7 +34,7 @@ E' in facolta' del Governo di riunire due ed anche tre Divisioni sotto uno stess
 
 ## Art. 4.
 
-Il Tribunale militare per giudicare un Uffiziale, continuando ad essere composto giusta l'[art. 292 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare e l'annessa tabella, puo' sedere in qualunque Capoluogo di Dipartimento. 
+Il Tribunale militare per giudicare un Uffiziale, continuando ad essere composto giusta l'[art. 292 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare e l'annessa tabella, puo' sedere in qualunque Capoluogo di Dipartimento. 
  
  Allorche' trattisi di giudicare alcuno degli Uffiziali indicati dal n.° 1 al n.° 5 inclusivamente di detta tabella, il Tribunale e' composto di giudici estratti a sorte tra gli Uffiziali residenti nella Divisione. 
  
@@ -42,13 +42,13 @@ Il Tribunale militare per giudicare un Uffiziale, continuando ad essere composto
  
  L'estrazione a sorte si fa dal Capo dello Stato Maggiore in presenza del Generale Comandante la Divisione, e dei Comandanti le Brigate stanziate nel Capoluogo dove sedera' il Tribunale. 
  
- Se debbasi invece giudicare alcuno fra gli Uffiziali Generali designati nei numeri 6 e 7 della tabella suddetta, i giudici sono scelti nel modo indicato dall'[articolo 293 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare. 
+ Se debbasi invece giudicare alcuno fra gli Uffiziali Generali designati nei numeri 6 e 7 della tabella suddetta, i giudici sono scelti nel modo indicato dall'[articolo 293 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare. 
  
  L'Uffiziale istruttore, l'Avvocato fiscale militare, la Commissione d'inchiesta ed il Segretario del Tribunale militare sedente nel Capoluogo del Dipartimento, ove dovra' costituirsi il Tribunale militare speciale, eserciteranno presso di esso le rispettive loro funzioni.
 
 ## Art. 5.
 
-Per determinare il Capoluogo dove il Tribunale dovra' sedere e per quanto altro concerne la competenza, saranno applicate le norme stabilite dal capo II, titolo II, libro I, parte II del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare.
+Per determinare il Capoluogo dove il Tribunale dovra' sedere e per quanto altro concerne la competenza, saranno applicate le norme stabilite dal capo II, titolo II, libro I, parte II del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare.
 
 ## Art. 6.
 

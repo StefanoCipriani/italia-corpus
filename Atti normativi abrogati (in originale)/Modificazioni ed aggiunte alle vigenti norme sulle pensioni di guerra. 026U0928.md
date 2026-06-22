@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), concernente la riforma tecnico-giuridica delle pensioni di guerra;
+Visto il [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), concernente la riforma tecnico-giuridica delle pensioni di guerra;
 
 Visto il [R. decreto-legge 28 agosto 1924, n. 1383](Norme%20transitorie%20per%20lattuazione%20della%20riforma%20tecnico-giuridica%20delle%20pensioni%20di%20guerra%20approvata%20col%20R.%20decreto%2012%20luglio%201923%20n.%201491.%20024U1383.md), convalidato con la [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), col quale furono approvate norme transitorie per l'attuazione della riforma predetta;
 
-Visti i [Regi decreti 30 dicembre 1923, n. 3072](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%2012%20luglio%201923%20numero%201491%20che%20approva%20la%20riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20pensioni%20di%20guerra.%20023U3072.md); [27 gennaio 1924, n. 150](../Regi%20decreti/Modificazione%20nella%20composizione%20del%20Comitato%20di%20liquidazione%20delle%20pensioni%20di%20guerra%20istituito%20con%20lart.%2051%20del%20R.%20decreto%2012%20luglio%201923%20n.%201491.%20024U0150.md), e la [legge 24 dicembre 1925, n. 2275](Pensioni%20alle%20famiglie%20dei%20caduti%20per%20la%20causa%20nazionale%20dal%2023%20luglio%201919%20al%201%20novembre%201922%20ed%20ai%20mutilati%20per%20la%20stessa%20causa%20nello%20stesso%20periodo%20nonche%20ai%20militi%20della%20M.V.S.N.%20muti_27dd77e61ec3.md);
+Visti i [Regi decreti 30 dicembre 1923, n. 3072](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%2012%20luglio%201923%20numero%201491%20che%20approva%20la%20riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20pensioni%20di%20guerra.%20023U3072.md); [27 gennaio 1924, n. 150](Modificazione%20nella%20composizione%20del%20Comitato%20di%20liquidazione%20delle%20pensioni%20di%20guerra%20istituito%20con%20lart.%2051%20del%20R.%20decreto%2012%20luglio%201923%20n.%201491.%20024U0150.md), e la [legge 24 dicembre 1925, n. 2275](Pensioni%20alle%20famiglie%20dei%20caduti%20per%20la%20causa%20nazionale%20dal%2023%20luglio%201919%20al%201%20novembre%201922%20ed%20ai%20mutilati%20per%20la%20stessa%20causa%20nello%20stesso%20periodo%20nonche%20ai%20militi%20della%20M.V.S.N.%20muti_27dd77e61ec3.md);
 
 Ritenuta la necessita' urgente ed assoluta di apportare taluni ritocchi ed aggiunte alle disposizioni dei precitati decreti;
 
@@ -30,7 +30,7 @@ Sulla proposta del Capo del Governo Primo Ministro Segretario di Stato e Ministr
 
 ## Art. 1.
 
-Alla tabella E annessa al [R. decreto 12 luglio 1923, numero 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sono aggiunte le seguenti voci: 
+Alla tabella E annessa al [R. decreto 12 luglio 1923, numero 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sono aggiunte le seguenti voci: 
  
  Lettera E, n. 5. «Perdita di ambo gli arti inferiori, di cui uno al terzo superiore della coscia e l'altro al terzo superiore della gamba». 
  
@@ -40,7 +40,7 @@ Alla tabella E annessa al [R. decreto 12 luglio 1923, numero 1491](../Regi%20dec
 
 ## Art. 2.
 
-Gli assegni di superinvalidita' di cui alla tabella E, allegata al [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sono elevati alle seguenti misure: 
+Gli assegni di superinvalidita' di cui alla tabella E, allegata al [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sono elevati alle seguenti misure: 
  
 
  Lettera A annue L. 14,400;
@@ -59,11 +59,11 @@ Gli assegni di superinvalidita' di cui alla tabella E, allegata al [R. decreto 1
 
 ## Art. 3.
 
-L'assegno supplementare di cura, di cui al [2° comma dell'art. 17 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), ed all'[articolo 12 del R. decreto-legge 28 agosto 1924, n. 1383](Norme%20transitorie%20per%20lattuazione%20della%20riforma%20tecnico-giuridica%20delle%20pensioni%20di%20guerra%20approvata%20col%20R.%20decreto%2012%20luglio%201923%20n.%201491.%20024U1383.md), e' elevato ad annue L. 1120 a favore degli invalidi affetti da infermita' tubercolare ascrivibile alle categorie dalla 2ª alla 5ª incluse.
+L'assegno supplementare di cura, di cui al [2° comma dell'art. 17 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), ed all'[articolo 12 del R. decreto-legge 28 agosto 1924, n. 1383](Norme%20transitorie%20per%20lattuazione%20della%20riforma%20tecnico-giuridica%20delle%20pensioni%20di%20guerra%20approvata%20col%20R.%20decreto%2012%20luglio%201923%20n.%201491.%20024U1383.md), e' elevato ad annue L. 1120 a favore degli invalidi affetti da infermita' tubercolare ascrivibile alle categorie dalla 2ª alla 5ª incluse.
 
 ## Art. 4.
 
-Alla prima categoria d'infermita', di cui alla tabella A, annessa al [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e' aggiunta la seguente voce:
+Alla prima categoria d'infermita', di cui alla tabella A, annessa al [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e' aggiunta la seguente voce:
 n.
 
 19.
@@ -82,19 +82,19 @@ Questo assegno e quelli di cui ai precedenti articoli 2 e 3 sono diminuiti di un
 
 ## Art. 6.
 
-L'ultimo comma dell'[art. 19 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e' sostituito come segue: 
+L'ultimo comma dell'[art. 19 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e' sostituito come segue: 
  
- «All'invalido cessato o che venga a cessare da qualsiasi servizio utile per la pensione a causa della invalidita' derivata dal servizio di guerra, dopo avere raggiunto il limite di anzianita' per conseguire trattamento normale di quiescenza, spetta il trattamento medesimo, secondo le norme sulle pensioni ordinarie, con gli aumenti di cui ai [Regi decreti 21 novembre 1923, n. 2477](../Regi%20decreti/Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md), e [31 marzo 1925, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-31;486), e gli assegni di caro-viveri consentiti dalle disposizioni in vigore, ed inoltre un assegno di minorazione pari all'intera pensione od assegno di guerra, se si tratta di infermita' ascrivibile alla prima categoria di cui alla tabella A annessa al R. decreto n. 12 luglio 1923, n. 1491, e, rispettivamente, ad 80, 75, 70, 60, 50, 40 e 30 centesimi della pensione o dell'assegno di guerra dovuto, se si tratta di invalidita' ascrivibile alla seconda, terza, quarta, quinta, sesta, settima, ottava categoria della tabella predetta. 
+ «All'invalido cessato o che venga a cessare da qualsiasi servizio utile per la pensione a causa della invalidita' derivata dal servizio di guerra, dopo avere raggiunto il limite di anzianita' per conseguire trattamento normale di quiescenza, spetta il trattamento medesimo, secondo le norme sulle pensioni ordinarie, con gli aumenti di cui ai [Regi decreti 21 novembre 1923, n. 2477](Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md), e [31 marzo 1925, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-31;486), e gli assegni di caro-viveri consentiti dalle disposizioni in vigore, ed inoltre un assegno di minorazione pari all'intera pensione od assegno di guerra, se si tratta di infermita' ascrivibile alla prima categoria di cui alla tabella A annessa al R. decreto n. 12 luglio 1923, n. 1491, e, rispettivamente, ad 80, 75, 70, 60, 50, 40 e 30 centesimi della pensione o dell'assegno di guerra dovuto, se si tratta di invalidita' ascrivibile alla seconda, terza, quarta, quinta, sesta, settima, ottava categoria della tabella predetta. 
  
- «Gli assegni di superinvalidita', di cumulo e di cura, di cui all'[art. 17 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), integrato dai precedenti articoli 2, 3 e 5, e l'aumento di cui all'art. 18 del decreto stesso si aggiungono per intero all'assegno di minorazione, quando siano dovuti. 
+ «Gli assegni di superinvalidita', di cumulo e di cura, di cui all'[art. 17 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), integrato dai precedenti articoli 2, 3 e 5, e l'aumento di cui all'art. 18 del decreto stesso si aggiungono per intero all'assegno di minorazione, quando siano dovuti. 
  
  «Il trattamento normale di quiescenza continuera' ad essere liquidato dalla Corte dei conti o dagli altri organi competenti secondo le norme sulle pensioni ordinarie, e l'assegno di minorazione sara' liquidato dal Ministro per le finanze. 
  
- «Le disposizioni del presente articolo si applicano anche a favore dell'invalido il quale abbia acquistato o venga ad acquistare il diritto a pensione od assegno di guerra dopo avere liquidato trattamento vitalizio di quiescenza in relazione agli anni del servizio prestato. Ai soli fini dell'applicazione di questo comma, i termini di cui agli [articoli 55](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [59 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), pei casi in cui fossero scaduti, sono riaperti e prorogati al 31 dicembre 1926».
+ «Le disposizioni del presente articolo si applicano anche a favore dell'invalido il quale abbia acquistato o venga ad acquistare il diritto a pensione od assegno di guerra dopo avere liquidato trattamento vitalizio di quiescenza in relazione agli anni del servizio prestato. Ai soli fini dell'applicazione di questo comma, i termini di cui agli [articoli 55](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [59 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), pei casi in cui fossero scaduti, sono riaperti e prorogati al 31 dicembre 1926».
 
 ## Art. 7.
 
-Quando il militare, appartenente ad uno dei personali contemplati negli [articoli 9](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [10 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), abbia acquistato diritto a trattamento normale di «quiescenza, la vedova e gli orfani, in aggiunta al trattamento normale di riversibilita' loro spettante, conseguono l'intera pensione di guerra se il militare e' deceduto per causa del servizio di guerra od attinente alla guerra, ovvero la riversibilita' dell'assegno di minorazione, di cui al precedente articolo, gia' conferito o che sarebbe spettato al militare, se la morte e' avvenuta per cause diverse. La riversibilita' dell'assegno di minorazione ha luogo con le norme dell'[art. 35 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
+Quando il militare, appartenente ad uno dei personali contemplati negli [articoli 9](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [10 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), abbia acquistato diritto a trattamento normale di «quiescenza, la vedova e gli orfani, in aggiunta al trattamento normale di riversibilita' loro spettante, conseguono l'intera pensione di guerra se il militare e' deceduto per causa del servizio di guerra od attinente alla guerra, ovvero la riversibilita' dell'assegno di minorazione, di cui al precedente articolo, gia' conferito o che sarebbe spettato al militare, se la morte e' avvenuta per cause diverse. La riversibilita' dell'assegno di minorazione ha luogo con le norme dell'[art. 35 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
  
  Quando l'invalido sia deceduto per cause diverse da quelle che hanno determinato l'invalidita' e per la intempestivita' del matrimonio agli effetti della riversibilita' della pensione ordinaria, spetti soltanto la riversibilita' della pensione o dell'assegno di guerra, essa avra' luogo con le norme del precitato articolo 35, sulla base della intera pensione od assegno di guerra di cui l'invalido godeva o che gli sarebbe spettato.
 
@@ -102,35 +102,35 @@ Quando il militare, appartenente ad uno dei personali contemplati negli [articol
 
 L'assegno integratore per anzianita' di servizio, di cui agli articoli 19, 1° comma, e 23, 3° comma, del R. decreto 12 luglio 1923, u. 1491, e' elevato a tanti quarantesimi della pensione o dell'assegno quanti sono gli anni di servizio prestati oltre i cinque, fino al massimo, rispettivamente, di L. 6000 e di L.3000. 
  
- L'invalido di cui al precedente art. 6 e la vedova e gli orfani del militare morto per causa di servizio di guerra od attinente alla guerra hanno sempre facolta' di optare per il trattamento stabilito dagli [articoli 19](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [23 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), modificati col 1° comma del presente articolo. 
+ L'invalido di cui al precedente art. 6 e la vedova e gli orfani del militare morto per causa di servizio di guerra od attinente alla guerra hanno sempre facolta' di optare per il trattamento stabilito dagli [articoli 19](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [23 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), modificati col 1° comma del presente articolo. 
  
- Nulla e' innovato circa il diritto di opzione per la pensione privilegiata normale contemplato dagli [articoli 9](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [10 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). Parimenti nulla e' innovato alle disposizioni dell'art. 22 del Regio decreto precitato ed a quelle del [R. decreto 28 dicembre 1924, n. 2163](../Regi%20decreti/Regolamento%20per%20la%20valutazione%20dei%20servizi%20militari%20e%20delle%20campagne%20di%20guerra%20agli%20effetti%20della%20liquidazione%20della%20pensione%20ordinaria%20cui%20gli%20invalidi%20acquistano%20diritto%20dopo%20la%20liquida_4984c20e5f3f.md).
+ Nulla e' innovato circa il diritto di opzione per la pensione privilegiata normale contemplato dagli [articoli 9](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [10 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). Parimenti nulla e' innovato alle disposizioni dell'art. 22 del Regio decreto precitato ed a quelle del [R. decreto 28 dicembre 1924, n. 2163](../Regi%20decreti/Regolamento%20per%20la%20valutazione%20dei%20servizi%20militari%20e%20delle%20campagne%20di%20guerra%20agli%20effetti%20della%20liquidazione%20della%20pensione%20ordinaria%20cui%20gli%20invalidi%20acquistano%20diritto%20dopo%20la%20liquida_4984c20e5f3f.md).
 
 ## Art. 9.
 
-Quando l'infermita', ferita o lesione per cui e' concessa la pensione o l'assegno sia stata riportata durante la prigionia presso il nemico, spetta la pensione o l'assegno nella misura stabilita per l'invalido dalla tabella C, e per la vedova, gli orfani, i genitori ed i collaterali dalle tabelle G ed I, annesse al [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), oltre il caso previsto nel terzo comma dell'art. 15 del decreto predetto, anche quando il militare sia stato ferito in combattimento o decorato al valore in guerra.
+Quando l'infermita', ferita o lesione per cui e' concessa la pensione o l'assegno sia stata riportata durante la prigionia presso il nemico, spetta la pensione o l'assegno nella misura stabilita per l'invalido dalla tabella C, e per la vedova, gli orfani, i genitori ed i collaterali dalle tabelle G ed I, annesse al [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), oltre il caso previsto nel terzo comma dell'art. 15 del decreto predetto, anche quando il militare sia stato ferito in combattimento o decorato al valore in guerra.
 
 ## Art. 10.
 
 L'invalido, che dopo aver liquidato pensione di guerra per cecita' assoluta e permanente di un occhio o per la perdita di un arto superiore od inferiore fino al limite, rispettivamente, della perdita totale della mano o del piede, venga a perdere, per causa estranea al servizio prestato, l'altro occhio od un altro arto fino al limite predetto, consegue, in aggiunta alla pensione di cui e' fornito, un assegno supplementare non riversibile uguale alla meta' dell'assegno di superinvalidita' che gli sarebbe spettato per il complesso delle lesioni se tutte fossero derivate dall'evento di servizio per cui e' pensionato. 
  
- Le indennita' dovute all'invalido da Enti pubblici, da istituti o da privati per le lesioni di cui al comma precedente, riportate dopo la liquidazione della pensione di guerra, sono detratte dall'importo dell'assegno supplementare nei modi stabiliti dall'[art. 71 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
+ Le indennita' dovute all'invalido da Enti pubblici, da istituti o da privati per le lesioni di cui al comma precedente, riportate dopo la liquidazione della pensione di guerra, sono detratte dall'importo dell'assegno supplementare nei modi stabiliti dall'[art. 71 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
  
  L'assegno supplementare avra' decorrenza dal primo giorno del mese successivo alla presentazione della domanda ed in ogni caso da giorno non anteriore alla entrata in vigore del presente decreto.
 
 ## Art. 11.
 
-Le disposizioni di cui agli articoli 46, 2° e [3° comma, e 47](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), [2° comma, del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sono estese ai militari colpevoli di codardia, di abbandono di posto in presenza del nemico, o di rivolta commessa in tempo di guerra.
+Le disposizioni di cui agli articoli 46, 2° e [3° comma, e 47](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), [2° comma, del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sono estese ai militari colpevoli di codardia, di abbandono di posto in presenza del nemico, o di rivolta commessa in tempo di guerra.
 
 ## Art. 12.
 
-Il [primo comma dell'art. 20 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e' sostituito dal seguente: 
+Il [primo comma dell'art. 20 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e' sostituito dal seguente: 
  
  «La pensione o l'assegno rinnovabile decorre dalla data della visita medica collegiale di cui all'art. 56, o dal giorno in cui il militare e' stato inviato in congedo per riforma o collocato a riposo per invalidita' che dia luogo a liquidazione di pensione od assegno di guerra, se detto giorno e' anteriore alla visita».
 
 ## Art. 13.
 
-I militari in servizio permanente anche se non provvisti di impiego, non ancora collocati a riposo, od in posizione ausiliaria, od in riforma, o non dispensati dal servizio, alla data di entrata in vigore del presente decreto, i quali ritengano di aver contratto, per eventi di servizio verificatisi durante le guerre dal 1911 al 1918, una invalidita' prima non constatata, devono chiederne la constatazione amministrativa e sanitaria entro il termine perentorio di sei mesi dalla data di pubblicazione del presente decreto, sotto pena di decadenza da ogni diritto a pensione od assegno di guerra per la stessa infermita'. Tale termine vale anche per il caso che la menomazione fisica non sia ascrivibile ad alcuna delle categorie di invalidita' contemplate dal [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
+I militari in servizio permanente anche se non provvisti di impiego, non ancora collocati a riposo, od in posizione ausiliaria, od in riforma, o non dispensati dal servizio, alla data di entrata in vigore del presente decreto, i quali ritengano di aver contratto, per eventi di servizio verificatisi durante le guerre dal 1911 al 1918, una invalidita' prima non constatata, devono chiederne la constatazione amministrativa e sanitaria entro il termine perentorio di sei mesi dalla data di pubblicazione del presente decreto, sotto pena di decadenza da ogni diritto a pensione od assegno di guerra per la stessa infermita'. Tale termine vale anche per il caso che la menomazione fisica non sia ascrivibile ad alcuna delle categorie di invalidita' contemplate dal [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
  
  Per il militare che allo scadere del termine stabilito con il precedente comma, si trovi all'estero od in Colonia, il termine stesso e' prorogato di sei mesi. 
  
@@ -138,23 +138,23 @@ I militari in servizio permanente anche se non provvisti di impiego, non ancora 
 
 ## Art. 14.
 
-Per l'assegnazione della pensione a favore della vedova del militare morto per causa del servizio di guerra od attinente alla guerra, ma non provvisto di pensione o di assegno rinnovabile, si considera tempestivo il matrimonio contratto non oltre i cinque anni dalla data in cui il militare fu inviato in congedo o collocato a riposo, purche', inoltre, non sia durato meno di due anni, ovvero sia nata prole ancorche' postuma. Il predetto termine di cinque anni decorre dalla data di pubblicazione del [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), per gli eventi di servizio verificatisi anteriormente alla data stessa.
+Per l'assegnazione della pensione a favore della vedova del militare morto per causa del servizio di guerra od attinente alla guerra, ma non provvisto di pensione o di assegno rinnovabile, si considera tempestivo il matrimonio contratto non oltre i cinque anni dalla data in cui il militare fu inviato in congedo o collocato a riposo, purche', inoltre, non sia durato meno di due anni, ovvero sia nata prole ancorche' postuma. Il predetto termine di cinque anni decorre dalla data di pubblicazione del [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), per gli eventi di servizio verificatisi anteriormente alla data stessa.
 
 ## Art. 15.
 
-Il termine di cui al [secondo comma dell'art. 25 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e' portato ad anni 15 per le vedove, con o senza prole, che passino ad altre nozze dopo l'entrata in vigore del presente decreto.
+Il termine di cui al [secondo comma dell'art. 25 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e' portato ad anni 15 per le vedove, con o senza prole, che passino ad altre nozze dopo l'entrata in vigore del presente decreto.
 
 ## Art. 16.
 
-Le riduzioni di cui al terz'ultimo comma dell'[art. 37 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), modificato dall'[art. 9 del R. decreto-legge 28 agosto 1924, n. 1383](Norme%20transitorie%20per%20lattuazione%20della%20riforma%20tecnico-giuridica%20delle%20pensioni%20di%20guerra%20approvata%20col%20R.%20decreto%2012%20luglio%201923%20n.%201491.%20024U1383.md), sono abolite. Le quote non trattenute sono condonate. 
+Le riduzioni di cui al terz'ultimo comma dell'[art. 37 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), modificato dall'[art. 9 del R. decreto-legge 28 agosto 1924, n. 1383](Norme%20transitorie%20per%20lattuazione%20della%20riforma%20tecnico-giuridica%20delle%20pensioni%20di%20guerra%20approvata%20col%20R.%20decreto%2012%20luglio%201923%20n.%201491.%20024U1383.md), sono abolite. Le quote non trattenute sono condonate. 
  
- La disposizione del [primo comma dell'art. 43 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e' applicabile anche al genitore che abbia perduto piu' figli per fatti di guerra o per eventi, i quali, in virtu' di successive disposizioni, diano diritto ai benefici del Regio decreto medesimo. 
+ La disposizione del [primo comma dell'art. 43 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e' applicabile anche al genitore che abbia perduto piu' figli per fatti di guerra o per eventi, i quali, in virtu' di successive disposizioni, diano diritto ai benefici del Regio decreto medesimo. 
  
- Il genitore che si trovi nelle condizioni del precitato articolo 43 consegue l'assegno alimentare nella misura di cui alle tabelle G ed II del [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), a prescindere dall'eta' e dall'accertamento della incapacita' a proficuo lavoro.
+ Il genitore che si trovi nelle condizioni del precitato articolo 43 consegue l'assegno alimentare nella misura di cui alle tabelle G ed II del [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), a prescindere dall'eta' e dall'accertamento della incapacita' a proficuo lavoro.
 
 ## Art. 17.
 
-I benefici del [terzo comma dell'art. 69 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sono estesi ai casi di morte e di invalidita' per malattie derivanti da privazioni, sevizie o maltrattamenti subiti durante l'internamento in paese nemico. 
+I benefici del [terzo comma dell'art. 69 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sono estesi ai casi di morte e di invalidita' per malattie derivanti da privazioni, sevizie o maltrattamenti subiti durante l'internamento in paese nemico. 
  
  Le domande per il conseguimento della pensione e degli assegni a norma di questo articolo dovranno essere prodotte non oltre il sesto mese dalla pubblicazione del presente decreto. Per i minori ed i dementi detto termine rimane aperto fino al sesto mese dalla cessazione della incapacita' giuridica.
 
@@ -168,13 +168,13 @@ L'azione per conseguire le indennita' di infortunio stabilite dalla [legge 31 ge
 
 ## Art. 19.
 
-Quando venga a cessare il godimento di una pensione o di un assegno di guerra e sia da far luogo ad ulteriore liquidazione a favore dello stesso titolare o di successivi aventi diritto, ma si riscontri taluno dei motivi di perdita della pensione previsti negli articoli 50, 1° comma, e [61, 2° comma, del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), il Comitato di liquidazione decidera' con la procedura stabilita dal predetto art. 61 modificato dall'[art.1 del R. decreto 30 dicembre 1923, n. 3072](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%2012%20luglio%201923%20numero%201491%20che%20approva%20la%20riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20pensioni%20di%20guerra.%20023U3072.md). 
+Quando venga a cessare il godimento di una pensione o di un assegno di guerra e sia da far luogo ad ulteriore liquidazione a favore dello stesso titolare o di successivi aventi diritto, ma si riscontri taluno dei motivi di perdita della pensione previsti negli articoli 50, 1° comma, e [61, 2° comma, del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), il Comitato di liquidazione decidera' con la procedura stabilita dal predetto art. 61 modificato dall'[art.1 del R. decreto 30 dicembre 1923, n. 3072](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%2012%20luglio%201923%20numero%201491%20che%20approva%20la%20riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20pensioni%20di%20guerra.%20023U3072.md). 
  
  Pei casi che abbiano formato oggetto di provvedimenti ministeriali contro i quali, alla data di entrata in vigore del presente decreto, sia, stato interposto ricorso tempestivo, non ancora deciso, alla Corte dei conti, o poi quali non sia ancora scaduto il termine per il ricorso alla Corte stessa, e' in facolta' degli interessati di adire invece il Comitato di liquidazione. La relativa istanza, in carta libera, dovra' essere presentata al Comitato nel termine perentorio di giorni novanta dalla data predetta. La presentazione dell'istanza importa rinuncia al ricorso alla Corte dei conti.
 
 ## Art. 20.
 
-I membri del Comitato di liquidazione delle pensioni di guerra, da nominare a designazione del Ministro per le finanze, ed un quinto degli ufficiali medici componenti la Commissione medica superiore di cui all'[art. 57 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), saranno scelti tra quelli proposti dalla Associazione nazionale dei mutilati ed invalidi della guerra. 
+I membri del Comitato di liquidazione delle pensioni di guerra, da nominare a designazione del Ministro per le finanze, ed un quinto degli ufficiali medici componenti la Commissione medica superiore di cui all'[art. 57 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), saranno scelti tra quelli proposti dalla Associazione nazionale dei mutilati ed invalidi della guerra. 
  
  I turni nei quali il Comitato di liquidazione e la Commissione medica superiore hanno facolta' di dividersi saranno stabiliti in modo che almeno uno dei membri nominati a proposta dell'Associazione vi possa intervenire. 
  
@@ -202,7 +202,7 @@ Gli addebiti eventualmente in corso per recupero di stipendi od assegni militari
 
 Il presente decreto si applica a tutti i casi avvenuti dal 29 settembre 1911 in poi. 
  
- Le disposizioni degli articoli 1, 2, 3, 4, 5, 6, 7, 8, 1° comma, 9, 10, 16, 21, 22 e 23 hanno effetto dal primo giorno del mese successivo alla pubblicazione del presente decreto; quelle degli articoli 12 e 14 dalla data di entrata in vigore del [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e quella dell'art. 17 dal 1° gennaio 1925.
+ Le disposizioni degli articoli 1, 2, 3, 4, 5, 6, 7, 8, 1° comma, 9, 10, 16, 21, 22 e 23 hanno effetto dal primo giorno del mese successivo alla pubblicazione del presente decreto; quelle degli articoli 12 e 14 dalla data di entrata in vigore del [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e quella dell'art. 17 dal 1° gennaio 1925.
 
 ## Art. 25.
 
@@ -216,7 +216,7 @@ Se, in dipendenza di un medesimo evento attribuito a causa di servizio, siano ne
 
 ## Art. 27.
 
-Il termine di cui al [primo](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [terzo comma dell'art. 73 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e' prorogato al 31 dicembre
+Il termine di cui al [primo](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [terzo comma dell'art. 73 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e' prorogato al 31 dicembre
 
 1928.
 

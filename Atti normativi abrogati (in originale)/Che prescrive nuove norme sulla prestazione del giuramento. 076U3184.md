@@ -26,15 +26,15 @@ VITTORIO EMANUELE II
  
  299, 487 e 730 del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447); 
  
- 382 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito; 
+ 382 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito; 
  
- 428 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo; 
+ 428 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo; 
  
  226 e 242 del [Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443); e sono sostituiti ai medesimi gli articoli seguenti: 
  
  [Art. 299 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_299): 
  
- «Il giuramento sara' prestato dai testimoni o periti, stando in piedi, alla presenza dei giudici, previa seria ammonizione che ad essi dal presidente o dal pretore sara' fatta sull'importanza morale di un tal atto, sul vincolo religioso che i credenti con esso contraggono dinanzi a Dio, e sulle pene stabilite contro i colpevoli di falsa testimonianza o perizia, o di reticenza negli [articoli 365](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [366](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [367](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [369 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ «Il giuramento sara' prestato dai testimoni o periti, stando in piedi, alla presenza dei giudici, previa seria ammonizione che ad essi dal presidente o dal pretore sara' fatta sull'importanza morale di un tal atto, sul vincolo religioso che i credenti con esso contraggono dinanzi a Dio, e sulle pene stabilite contro i colpevoli di falsa testimonianza o perizia, o di reticenza negli [articoli 365](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [366](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [367](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [369 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  «Ai testimoni o periti, che dovessero essere sentiti senza giuramento, si fara' l'ammonizione prescritta dal primo alinea dell'articolo 172.» 
  
@@ -44,11 +44,11 @@ VITTORIO EMANUELE II
  
  «Chiama quindi ad uno ad uno i giurati secondo l'ordine dell'estrazione loro; e ciascuno di essi, toccata colla destra la formola del giuramento, risponde: lo giuro.» 
  
- [Art. 382 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito: 
+ [Art. 382 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito: 
  
  «Il giuramento, quando ne sia il caso, sara' prestato dal testimonio stando in piedi, alla presenza dell'ufficiale d'istruzione, previa seria ammonizione che da quest'ultimo sara' fatta sull'importanza morale di tale atto, sul vincolo religioso che i credenti con esso contraggono dinanzi a Dio e sulla gravita' delle pene contro i testimoni falsi o reticenti.» 
  
- [Art. 428 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo: 
+ [Art. 428 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo: 
  
  «Trattandosi di testimoni chiamati a deporre con giuramento, esso sara' prestato stando il testimonio in piedi, alla presenza dell'istruttore, previa seria ammonizione che da quest'ultimo sara' fatta sulla importanza morale di tale atto, sul vincolo religioso che i credenti con esso contraggono dinanzi a Dio e sulla gravita' delle pene contro i testimoni falsi o reticenti. Se dovessero essere riesaminati, presteranno un nuovo giuramento.» 
  

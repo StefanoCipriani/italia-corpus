@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico delle leggi sul lotto approvato con R. decreto 29 luglio 1925, n, 1456, ed il relativo regolamento approvato con [R. decreto 9 agosto 1926, n. 1601](../Regi%20decreti/Approvazione%20del%20regolamento%20sul%20servizio%20del%20lotto%20e%20sul%20personale%20dei%20banchi.%20026U1601.md);
+Visto il testo unico delle leggi sul lotto approvato con R. decreto 29 luglio 1925, n, 1456, ed il relativo regolamento approvato con [R. decreto 9 agosto 1926, n. 1601](Approvazione%20del%20regolamento%20sul%20servizio%20del%20lotto%20e%20sul%20personale%20dei%20banchi.%20026U1601.md);
 
 Vista la [legge 8 gennaio 1929, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-08;151);
 

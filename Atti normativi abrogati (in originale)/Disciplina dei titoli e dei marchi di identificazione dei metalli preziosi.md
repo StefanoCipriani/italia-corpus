@@ -85,7 +85,7 @@ I marchi tradizionali di fabbrica, o sigle particolari, sono ammessi, in aggiunt
 Presso le camere di commercio, industria, artigianato ed agricoltura e' istituito un registro al quale sono tenuti a iscriversi:
  a) coloro che vendono platino, palladio, oro e argento in lingotti, verghe, laminati, profilati e semilavorati in genere;
  b) coloro che fabbricano od importano oggetti contenenti i metalli di cui alla precedente lettera a).
- Per ottenere l'iscrizione al registro di cui al primo comma del presente articolo gli interessati devono presentare domanda alla camera di commercio competente per territorio in cui hanno la residenza ed unire alla domanda stessa copia della licenza rilasciata dall'autorita' di pubblica sicurezza, ai sensi dell'[articolo 127 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
+ Per ottenere l'iscrizione al registro di cui al primo comma del presente articolo gli interessati devono presentare domanda alla camera di commercio competente per territorio in cui hanno la residenza ed unire alla domanda stessa copia della licenza rilasciata dall'autorita' di pubblica sicurezza, ai sensi dell'[articolo 127 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
  L'iscrizione nel registro delle camere di commercio, Industria, artigianato ed agricoltura e' soggetta alla tassa di concessione governativa, prevista dal n. 204 della tabella allegato A del testo unico approvato con [decreto del Presidente della Repubblica 1 marzo 1961, n. 121](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20tasse%20sulle%20concessioni%20governative.md).
  A cura del Ministero dell'industria, del commercio e dell'artigianato verra' pubblicato ogni anno il registro nazionale dei fabbricanti ed importatori, con l'indicazione del loro marchio di identificazione, ricavato dai registri provinciali delle camere di commercio, industria, artigianato ed agricoltura.
 
@@ -128,7 +128,7 @@ Non sono soggetti all'obbligo del marchio di identificazione e dell'indicazione 
  h) gli oggetti usati che verranno in possesso delle aziende commerciali dopo l'entrata in vigore della presente legge;
  i) i residui di lavorazione;
  l) le leghe saldanti a base argento, platino o palladio.
- La prova di oggetto usato deve essere data dalla descrizione dell'oggetto riportata nel registro delle operazioni, previsto dall'[articolo 128 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e dalla corrispondente fattura redatta dal commerciante acquirente.
+ La prova di oggetto usato deve essere data dalla descrizione dell'oggetto riportata nel registro delle operazioni, previsto dall'[articolo 128 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e dalla corrispondente fattura redatta dal commerciante acquirente.
  L'autenticita' degli oggetti di antiquariato di cui al punto c) deve essere riconosciuta da esperti, iscritti nei ruoli dei periti e degli esperti, presso le camere di commercio, industria, artigianato ed agricoltura.
 
 ### Art. 15.
@@ -222,8 +222,8 @@ prime od oggetti di metallo prezioso il cui titolo risulti inferiore a quello le
 
 ### Art. 27.
 
-Salvo i casi di particolare tenuita', alla condanna penale per ciascuno dei reati previsti dal precedente articolo consegue la pubblicazione della sentenza a norma dell'[articolo 36 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
- In caso di recidiva, ferme restando le disposizioni di cui agli [articoli 99 e seguenti del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), alla condanna consegue la sospensione dall'esercizio della attivita' di produzione o di commercio di materie prime od oggetti di metalli preziosi per un periodo da un minimo di 15 giorni ad un massimo di 6 mesi.
+Salvo i casi di particolare tenuita', alla condanna penale per ciascuno dei reati previsti dal precedente articolo consegue la pubblicazione della sentenza a norma dell'[articolo 36 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ In caso di recidiva, ferme restando le disposizioni di cui agli [articoli 99 e seguenti del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), alla condanna consegue la sospensione dall'esercizio della attivita' di produzione o di commercio di materie prime od oggetti di metalli preziosi per un periodo da un minimo di 15 giorni ad un massimo di 6 mesi.
 
 ## DISPOSIZIONI FINALI E TRANSITORIE
 

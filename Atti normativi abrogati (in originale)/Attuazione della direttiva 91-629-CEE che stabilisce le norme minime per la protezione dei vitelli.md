@@ -119,11 +119,11 @@ Le regioni a statuto ordinario ed a statuto speciale e le prov- ince autonome di
 
 3.
 
-Ferma restando la competenza generale del Comune a vigilare sul rispetto delle norme di protezione degli animali anche tramite le guardie zoofile delle associazioni di volontariato, fatte salve le competenze per la vigilanza sulle violazioni all'[art. 727 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le Unita' sanitarie locali nell'ambito della vigilanza di cui all'[art. 6, lettera u), della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_6-letu), controllano l'applicazione delle disposizioni del presente decreto.
+Ferma restando la competenza generale del Comune a vigilare sul rispetto delle norme di protezione degli animali anche tramite le guardie zoofile delle associazioni di volontariato, fatte salve le competenze per la vigilanza sulle violazioni all'[art. 727 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le Unita' sanitarie locali nell'ambito della vigilanza di cui all'[art. 6, lettera u), della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_6-letu), controllano l'applicazione delle disposizioni del presente decreto.
 
 4.
 
-Il Ministero della sanita' comunica alla Commissione le disposizioni piu' severe adottate anche in applicazione delle raccomandazioni del Consiglio d'Europa e delle disposizioni della [legge 14 ottobre 1985, n. 623](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20sulla%20protezione%20degli%20animali%20negli%20allevamenti%20e%20sulla%20protezione%20degli%20animali%20da%20macello%20adottate%20a%20Strasburgo%20rispettivamente%20il%2010%20marzo%20197_266dde09f045.md).
+Il Ministero della sanita' comunica alla Commissione le disposizioni piu' severe adottate anche in applicazione delle raccomandazioni del Consiglio d'Europa e delle disposizioni della [legge 14 ottobre 1985, n. 623](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20sulla%20protezione%20degli%20animali%20negli%20allevamenti%20e%20sulla%20protezione%20degli%20animali%20da%20macello%20adottate%20a%20Strasburgo%20rispettivamente%20il%2010%20marzo%20197_266dde09f045.md).
 
 ## Art. 10.
 

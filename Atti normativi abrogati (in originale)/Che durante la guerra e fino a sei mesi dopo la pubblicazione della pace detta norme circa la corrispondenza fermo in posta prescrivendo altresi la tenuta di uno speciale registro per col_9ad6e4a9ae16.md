@@ -16,7 +16,7 @@ La corrispondenza con l'indicazione «fermo in posta» deve recare il nome e cog
 
 ## Art. 2.
 
-La corrispondenza ferma in posta e' consegnata soltanto a chi fa risultare la propria identita' personale nei modi indicati dall'art. 172 del regolamento generale sul servizio postale approvato con [R. decreto del 10 febbraio 1901, n. 120](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md).
+La corrispondenza ferma in posta e' consegnata soltanto a chi fa risultare la propria identita' personale nei modi indicati dall'art. 172 del regolamento generale sul servizio postale approvato con [R. decreto del 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md).
 
 ## Art. 3.
 
@@ -24,7 +24,7 @@ La corrispondenza ferma in posta non puo' essere in alcun caso consegnata, che a
 
 ## Art. 4.
 
-Sono soggette al trattamento di cui negli articoli 11 e 12 del testo unico delle leggi postali, approvato con [R. decreto 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), le corrispondenze con l'indicazione «fermo in posta»: 
+Sono soggette al trattamento di cui negli articoli 11 e 12 del testo unico delle leggi postali, approvato con [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), le corrispondenze con l'indicazione «fermo in posta»: 
  
  a) non consegnate perche' indirizzate a persona di eta' inferiore a 18 anni; 
  
@@ -40,7 +40,7 @@ Chi assume in qualunque modo l'incarico di ricevere corrispondenze dalla posta, 
  
  Il registro previamente vistato dall'autorita' di Pubblica Sicurezza dev'essere tenuto a disposizione della medesima. 
  
- I contravventori alle norme di cui nel presente articolo sono passibili di ammenda da L. 50 a L. 500 e dell'arresto fino a 10 giorni e, in caso di recidiva, di ammenda fino a L. 1000 e di arresto fino a un mese, senza pregiudizio delle maggiori pene stabilite dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ I contravventori alle norme di cui nel presente articolo sono passibili di ammenda da L. 50 a L. 500 e dell'arresto fino a 10 giorni e, in caso di recidiva, di ammenda fino a L. 1000 e di arresto fino a un mese, senza pregiudizio delle maggiori pene stabilite dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 6.
 

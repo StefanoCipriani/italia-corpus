@@ -20,7 +20,7 @@ Visto il [R. decreto-legge 18 agosto 1920, n. 1183](Contenente%20le%20norme%20pe
 
 Vista la [legge 27 febbraio 1921, n. 145](Contenente%20disposizioni%20per%20la%20sistemazione%20della%20gestione%20statale%20dei%20cereali.%20021U0145.md), e successivo [regolamento 17 luglio 1921, n. 975](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1921-07-17;975);
 
-Visto il [R. decreto 12 luglio 1923, n. 1510](../Regi%20decreti/Riordinamento%20dellimposta%20generale%20sul%20consumo%20del%20vino.%20023U1510.md);
+Visto il [R. decreto 12 luglio 1923, n. 1510](Riordinamento%20dellimposta%20generale%20sul%20consumo%20del%20vino.%20023U1510.md);
 
 Visto il [R. decreto-legge 23 maggio 1924, n. 851](Modificazione%20dellaliquota%20dellimposta%20generale%20sul%20consumo%20del%20vino.%20024U0851.md), convertito nella [legge 29 ottobre 1925, n. 2503](Conversione%20in%20legge%20del%20R.%20decreto%2023%20maggio%201924%20n.%20851%20portante%20modificazioni%20dellaliquota%20della%20imposta%20generale%20sul%20consumo%20del%20vino.%20025U2503.md);
 

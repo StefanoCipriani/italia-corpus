@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-E' abrogato il [secondo comma dell'art. 11 del regio decreto 4 agosto 1932, n. 1296](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20costituzione%20ed%20il%20funzionamento%20dei%20Regi%20istituti%20fisioterapici%20ospitalieri%20in%20Roma.%20032U1296.md).
+E' abrogato il [secondo comma dell'art. 11 del regio decreto 4 agosto 1932, n. 1296](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20costituzione%20ed%20il%20funzionamento%20dei%20Regi%20istituti%20fisioterapici%20ospitalieri%20in%20Roma.%20032U1296.md).
 
  La presente legge, munita del sigillo dello stato, sara' inserita nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla; osservare come legge dello Stato.
 

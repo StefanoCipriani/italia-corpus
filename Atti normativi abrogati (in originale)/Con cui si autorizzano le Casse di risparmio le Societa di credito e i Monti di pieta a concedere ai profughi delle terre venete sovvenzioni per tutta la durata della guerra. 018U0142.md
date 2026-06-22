@@ -18,7 +18,7 @@ Le Casse di Risparmio, le Societa' di credito ordinarie e cooperative e i Monti 
 
 Gli Istituti di emissione hanno facolta' di riscontare le cambiali rappresentanti le sovvenzioni di cui all'articolo precedente, a una ragione di sconto inferiore di uno e mezzo per cento al saggio normale. 
  
- La Circolazione dei biglietti di Banca dipendente da siffatte operazioni non sara', in verun caso, soggetta a tassa in misura superiore a dieci centesimi per ogni cento lire, come e' disposto dall'art. 20, penultimo capoverso del testo unico di legge sugli Istituti di emissione, approvato con [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md).
+ La Circolazione dei biglietti di Banca dipendente da siffatte operazioni non sara', in verun caso, soggetta a tassa in misura superiore a dieci centesimi per ogni cento lire, come e' disposto dall'art. 20, penultimo capoverso del testo unico di legge sugli Istituti di emissione, approvato con [R. decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md).
 
 ## Art. 3.
 

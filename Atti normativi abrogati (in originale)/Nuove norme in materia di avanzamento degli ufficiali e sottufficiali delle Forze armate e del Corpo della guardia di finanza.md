@@ -90,7 +90,7 @@ Note all'art. 2:
 
 1.
 
-E' abrogato il [comma 5 dell'articolo 3 del decreto legislativo 26 aprile 1990, n. 105](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Organizzazione%20centrale%20e%20periferica%20dellAmministrazione%20delle%20dogane%20e%20delle%20imposte%20indirette%20e%20ordinamento%20del%20relativo%20personale%20in%20attuazione%20della%20legge%2010%20ottobre%201989%20n.%20349.md).
+E' abrogato il [comma 5 dell'articolo 3 del decreto legislativo 26 aprile 1990, n. 105](../Decreti%20Legislativi/Organizzazione%20centrale%20e%20periferica%20dellAmministrazione%20delle%20dogane%20e%20delle%20imposte%20indirette%20e%20ordinamento%20del%20relativo%20personale%20in%20attuazione%20della%20legge%2010%20ottobre%201989%20n.%20349.md).
 
 2.
 

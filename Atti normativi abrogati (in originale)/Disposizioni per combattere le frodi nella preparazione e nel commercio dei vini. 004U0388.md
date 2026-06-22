@@ -18,7 +18,7 @@ Sono considerati vini genuini soltanto quelli ottenuti dalla fermentazione alcoo
 
 ## Art. 2.
 
-La preparazione a scopo di vendita ed il commercio dei vini non genuini sono vietati; e chiunque prepara a scopo di vendita, pone in vendita o mette altrimenti in commercio o somministra come compenso ai propri dipendenti vini non genuini e' soggetto, fuori dei casi previsti dagli [articoli 295](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [319](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [322 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), alla multa fissa di L. 100, oltre alla multa proporzionale di L. 5 per ogni ettolitro o frazione di ettolitro. 
+La preparazione a scopo di vendita ed il commercio dei vini non genuini sono vietati; e chiunque prepara a scopo di vendita, pone in vendita o mette altrimenti in commercio o somministra come compenso ai propri dipendenti vini non genuini e' soggetto, fuori dei casi previsti dagli [articoli 295](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [319](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [322 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), alla multa fissa di L. 100, oltre alla multa proporzionale di L. 5 per ogni ettolitro o frazione di ettolitro. 
  
  Nel caso di recidiva, ferma la multa proporzionale, la multa fissa potra' estendersi fino a L. 1000 ed in caso di seconda recidiva vi sara' aggiunta la sospensione dal commercio o dall'esercizio per un periodo di tempo da tre a sei mesi. 
  
@@ -76,7 +76,7 @@ Quando agli effetti giudiziali od amministrativi portati dalla presente legge, o
 
 ## Art. 10.
 
-Qualora le infrazioni riguardino vini presentati per essere spediti fuori del Regno, la multa proporzionale sara' elevata a L. 10 per ogni ettolitro e le pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o dalla presente legge saranno applicate al massimo.
+Qualora le infrazioni riguardino vini presentati per essere spediti fuori del Regno, la multa proporzionale sara' elevata a L. 10 per ogni ettolitro e le pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o dalla presente legge saranno applicate al massimo.
 
 ## Art. 11.
 

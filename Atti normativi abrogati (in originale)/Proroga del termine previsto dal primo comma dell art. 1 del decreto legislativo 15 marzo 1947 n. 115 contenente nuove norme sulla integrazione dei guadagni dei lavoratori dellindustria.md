@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 21 agosto 1945, n. 523](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20a%20favore%20dei%20lavoratori%20dellAlta%20Italia.%20045U0523.md);
+Visto il [decreto legislativo luogotenenziale 21 agosto 1945, n. 523](Provvedimenti%20a%20favore%20dei%20lavoratori%20dellAlta%20Italia.%20045U0523.md);
 
-Visto il [decreto legislativo luogotenenziale 9 novembre 1945, n. 788](../Decreti%20legislativi%20luogotenenziali/Istituzione%20della%20Cassa%20per%20lintegrazione%20dei%20guadagni%20degli%20operai%20dellindustria%20e%20disposizioni%20transitorie%20a%20favore%20dei%20lavoratori%20dellindustria%20dellAlta%20Italia.%20045U0788.md);
+Visto il [decreto legislativo luogotenenziale 9 novembre 1945, n. 788](Istituzione%20della%20Cassa%20per%20lintegrazione%20dei%20guadagni%20degli%20operai%20dellindustria%20e%20disposizioni%20transitorie%20a%20favore%20dei%20lavoratori%20dellindustria%20dellAlta%20Italia.%20045U0788.md);
 
-Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 50](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20per%20i%20lavoratori%20dellindustria%20dellAlta%20Italia.md);
+Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 50](Disposizioni%20per%20i%20lavoratori%20dellindustria%20dellAlta%20Italia_2.md);
 
 Visto il [regio decreto legislativo 20 maggio 1946, n. 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-20;371);
 

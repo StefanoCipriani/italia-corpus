@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti la [legge 3 dicembre 1922, n. 1636](Che%20reca%20provvedimenti%20per%20la%20ricerca%20e%20la%20utilizzazione%20delle%20sostanze%20radioattive.%20022U1636.md), ed il [R. decreto 31 ottobre 1923, n. 2449](../Regi%20decreti/Modificazioni%20alla%20legge%203%20dicembre%201922%20n.%201636%20sulla%20ricerca%20ed%20utilizzazione%20delle%20sostanze%20radioattive.%20023U2449.md);
+Visti la [legge 3 dicembre 1922, n. 1636](Che%20reca%20provvedimenti%20per%20la%20ricerca%20e%20la%20utilizzazione%20delle%20sostanze%20radioattive.%20022U1636.md), ed il [R. decreto 31 ottobre 1923, n. 2449](Modificazioni%20alla%20legge%203%20dicembre%201922%20n.%201636%20sulla%20ricerca%20ed%20utilizzazione%20delle%20sostanze%20radioattive.%20023U2449.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno, di concerto coi Ministri Segretari di Stato per l'economia nazionale e per le finanze;
 

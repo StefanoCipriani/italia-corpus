@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sino a che non sara' diversamente provveduto, e' sospesa l'applicazione delle [leggi 24 giugno 1888, n. 5489 e 2 luglio 1891, n. 381](Che%20sostituisce%20con%20altri%20gli%20articoli%208%20e%209%20della%20legge%2024%20giugno%201889%20n.%205489.%20091U0381.md), riunite in testo unico con [R. decreto 3 agosto 1891, n. 510](../Regi%20decreti/Che%20abolisce%20nellestensione%20e%20misura%20dellultimo%20possesso%20di%20fatto%20le%20servitu%20di%20pascolo%20di%20seminare%20di%20legnatico%20di%20vendere%20erbe%20di%20fidare%20o%20dimporre%20tassa%20a%20titolo%20di%20pascolo%20in%20alcuni%20c_e26ee4d2e86f.md), tranne nelle parti che riguardano i giudizi di cognizione sull'esistenza, sulla natura e sui limiti degli usi civici indicati nell'art. 1 del testo unico.
+Sino a che non sara' diversamente provveduto, e' sospesa l'applicazione delle [leggi 24 giugno 1888, n. 5489 e 2 luglio 1891, n. 381](Che%20sostituisce%20con%20altri%20gli%20articoli%208%20e%209%20della%20legge%2024%20giugno%201889%20n.%205489.%20091U0381.md), riunite in testo unico con [R. decreto 3 agosto 1891, n. 510](Che%20abolisce%20nellestensione%20e%20misura%20dellultimo%20possesso%20di%20fatto%20le%20servitu%20di%20pascolo%20di%20seminare%20di%20legnatico%20di%20vendere%20erbe%20di%20fidare%20o%20dimporre%20tassa%20a%20titolo%20di%20pascolo%20in%20alcuni%20c_e26ee4d2e86f.md), tranne nelle parti che riguardano i giudizi di cognizione sull'esistenza, sulla natura e sui limiti degli usi civici indicati nell'art. 1 del testo unico.
 
 ## Art. 2.
 

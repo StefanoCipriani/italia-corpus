@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo organico dell'ordinamento del personale degli ufficiali giudiziari approvato col [R. decreto 28 dicembre 1924, n. 2271](../Regi%20decreti/Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md);
+Visto il testo organico dell'ordinamento del personale degli ufficiali giudiziari approvato col [R. decreto 28 dicembre 1924, n. 2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md);
 
 Vista la [legge 25 giugno 1940, n. 828](Provvedimenti%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi.%20040U0828.md);
 

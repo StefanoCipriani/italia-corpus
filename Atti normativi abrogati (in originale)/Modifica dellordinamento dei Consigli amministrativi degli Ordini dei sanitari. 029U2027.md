@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 26 aprile 1928, n. 1313](../Testi%20Unici/Testo%20unico%20delle%20norme%20di%20coordinamento%20della%20legge%20sugli%20Ordini%20sanitari%20con%20la%20legge%203%20aprile%201926%20n.%20563.%20028U1313.md), che approva il testo unico delle norme di coordinamento della legge sugli Ordini dei sanitari con la [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md);
+Visto il [R. decreto 26 aprile 1928, n. 1313](Testo%20unico%20delle%20norme%20di%20coordinamento%20della%20legge%20sugli%20Ordini%20sanitari%20con%20la%20legge%203%20aprile%201926%20n.%20563.%20028U1313.md), che approva il testo unico delle norme di coordinamento della legge sugli Ordini dei sanitari con la [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -44,7 +44,7 @@ I componenti il Consiglio amministrativo debbono essere inscritti nell'albo prof
 
 ## Art. 3.
 
-Lo scioglimento del Consiglio, nei casi previsti dall'art. 9 del testo unico approvato con [R. decreto 26 aprile 1928, n. 1313](../Testi%20Unici/Testo%20unico%20delle%20norme%20di%20coordinamento%20della%20legge%20sugli%20Ordini%20sanitari%20con%20la%20legge%203%20aprile%201926%20n.%20563.%20028U1313.md), e' disposto con decreto del Ministro per l'interno. Con lo stesso decreto si provvede alla nomina del commissario straordinario per l'Ordine. 
+Lo scioglimento del Consiglio, nei casi previsti dall'art. 9 del testo unico approvato con [R. decreto 26 aprile 1928, n. 1313](Testo%20unico%20delle%20norme%20di%20coordinamento%20della%20legge%20sugli%20Ordini%20sanitari%20con%20la%20legge%203%20aprile%201926%20n.%20563.%20028U1313.md), e' disposto con decreto del Ministro per l'interno. Con lo stesso decreto si provvede alla nomina del commissario straordinario per l'Ordine. 
  
  La nomina del nuovo Consiglio amministrativo deve aver luogo entro sei mesi dalla data del decreto di scioglimento. 
  

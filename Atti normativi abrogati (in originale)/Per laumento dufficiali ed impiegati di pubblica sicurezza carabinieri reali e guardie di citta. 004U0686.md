@@ -50,7 +50,7 @@ Nel Corpo delle guardie di citta' e' istituita una categoria di agenti in serviz
 
 ## Art. 9.
 
-L'art. 49 della legge sugli ufficiali ed agenti di pubblica sicurezza approvata con [R. decreto 21 agosto 1901, n. 409](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%20sugli%20ufficiali%20ed%20agenti%20di%20pubblica%20sicurezza.%20001U0409.md), e' modificato come segue: 
+L'art. 49 della legge sugli ufficiali ed agenti di pubblica sicurezza approvata con [R. decreto 21 agosto 1901, n. 409](Che%20approva%20il%20testo%20unico%20della%20legge%20sugli%20ufficiali%20ed%20agenti%20di%20pubblica%20sicurezza.%20001U0409.md), e' modificato come segue: 
  
  Con R. decreto saranno stabilite le indennita' di carica, d'alloggio e di servizio da corrispondersi ai funzionari di pubblica sicurezza, agli ufficiali, ai graduati e alle guardie di citta'. 
  

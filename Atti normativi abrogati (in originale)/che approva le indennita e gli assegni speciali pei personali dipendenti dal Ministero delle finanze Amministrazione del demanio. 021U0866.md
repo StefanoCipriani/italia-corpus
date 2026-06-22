@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il [R. decreto 14 settembre 1862, n. 840](../Regi%20decreti/Che%20stabilisce%20le%20indennita%20da%20corrispondersi%20agli%20Impiegati%20di%20vari%20Dicasteri%20in%20missione%20per%20affari%20amministrativi.%20062U0840.md);
+Veduto il [R. decreto 14 settembre 1862, n. 840](Che%20stabilisce%20le%20indennita%20da%20corrispondersi%20agli%20Impiegati%20di%20vari%20Dicasteri%20in%20missione%20per%20affari%20amministrativi.%20062U0840.md);
 
 Veduto il [decreto Luogotenenziale 14 settembre 1918, n. 1311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-14;1311);
 
@@ -22,7 +22,7 @@ Veduto il [decreto Luogotenenziale 15 maggio 1919, n. 857](https://www.normattiv
 
 Veduto il [Regio decreto 20 febbraio 1921, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-02-20;221);
 
-Veduto l'art. 17 del testo unico delle leggi sullo stato degli impiegati civili, approvato col [Regio decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
+Veduto l'art. 17 del testo unico delle leggi sullo stato degli impiegati civili, approvato col [Regio decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
 
 Udito il Consiglio dei ministri;
 

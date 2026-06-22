@@ -397,7 +397,7 @@ Fermo restando l'obbligo dell'autorizzazione ministeriale di cui  all'articolo 3
  Il parere della Commissione e' dato per iscritto e deve essere 
  adottato con l'intervento di tutti i componenti. 
  Nei locali indicati nel primo comma non sono obbligatori 
- l'impianto della cabina e il dispositivo di sicurezza prescritti dall'articolo 117 del regolamento di esecuzione del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635). 
+ l'impianto della cabina e il dispositivo di sicurezza prescritti dall'articolo 117 del regolamento di esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635). 
  La verifica dell'idoneita' e della sicurezza delle arene estive e 
  le successive ispezioni annuali sono demandate alla Commissione di cui al primo comma, del presente articolo.
 
@@ -433,7 +433,7 @@ Nel caso in cui il film nazionale a lungometraggio ammesso alla programmazione o
 ### Art. 39. — Agevolazioni fiscali
 
 L'energia elettrica consumata bell'arco voltaico e con altri sistemi per le macchine di proiezione dei film nelle sale cinematografiche e' considerata, ad ogni effetto tributario, energia industriale. 
- I materiali impiegati nelle riparazioni, rifacimenti, ampliamenti e trasformazioni delle sale cinematografiche, nonche' nella costruzione di sale cinematografiche situate in Comuni dove non esistano esercizi cinematografici, sono esenti dall'imposta di consumo di cui all'articolo 20 del testo unico per la finanza locale approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md). 
+ I materiali impiegati nelle riparazioni, rifacimenti, ampliamenti e trasformazioni delle sale cinematografiche, nonche' nella costruzione di sale cinematografiche situate in Comuni dove non esistano esercizi cinematografici, sono esenti dall'imposta di consumo di cui all'articolo 20 del testo unico per la finanza locale approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md). 
  La esenzione prevista dall'[articolo 3, primo comma del decreto legislativo del Capo provvisorio dello Stato 8 novembre 1947, n. 1417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-11-08;1417#art_3-com1), e dall'articolo 1, ultimo comma, della [legge 5 luglio 1961, n. 641](Disposizioni%20sulle%20pubbliche%20affissioni%20e%20sulla%20pubblicita%20affine.md), si intende applicabile ai mezzi pubblicitari comunque collocati, o affissi, sulle facciate dei locali di pubblico spettacolo. 
  Per i locali che non abbiano diretto accesso dalle vie o piazze pubbliche, la esenzione si intende applicabile ai mezzi pubblicitari collocati o affissi sui muri o ad altre recinzioni dei locali medesimi, confinanti con le vie o piazze pubbliche.
 

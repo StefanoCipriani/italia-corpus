@@ -66,7 +66,7 @@ E' approvata la maggiore assegnazione di L. 307.20 inscritta al capitolo n. 170 
 
 ## Art. 15.
 
-E' approvata la maggiore assegnazione di L. 5,417.88 inscritta al capitolo n. 170-ter-Q: Eccedenza d'impegni verificatasi al capitolo n. 132 «Spese per i domiciliati coatti e per gli assegnati a domicilio obbligatorio e pel personale aggregata ([R. decreto 17 febbraio 1881, n. 74](../Regi%20decreti/Che%20modifica%20le%20disposizioni%20sul%20domicilio%20coatto.%20081U0074.md), e relativo regolamento approvato con decreto Ministeriale 10 dicembre 1881)» dello stato di previsione della spesa per l'esercizio finanziario: 1907-908 e retro, per provvedere al saldo delle eccedenze di impegni verificatesi nel conto consuntivo della spesa del Ministero dell'interno per l'esercizio finanziario 1908-909.
+E' approvata la maggiore assegnazione di L. 5,417.88 inscritta al capitolo n. 170-ter-Q: Eccedenza d'impegni verificatasi al capitolo n. 132 «Spese per i domiciliati coatti e per gli assegnati a domicilio obbligatorio e pel personale aggregata ([R. decreto 17 febbraio 1881, n. 74](Che%20modifica%20le%20disposizioni%20sul%20domicilio%20coatto.%20081U0074.md), e relativo regolamento approvato con decreto Ministeriale 10 dicembre 1881)» dello stato di previsione della spesa per l'esercizio finanziario: 1907-908 e retro, per provvedere al saldo delle eccedenze di impegni verificatesi nel conto consuntivo della spesa del Ministero dell'interno per l'esercizio finanziario 1908-909.
 
 ## Art. 16.
 

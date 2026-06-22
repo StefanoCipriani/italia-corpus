@@ -53,7 +53,7 @@ Tale accertamento, per le cooperative tra ferrovieri, sara' effettuato dal colla
 
 ## Art. 4.
 
-Gli atti di assegnazione di appartamenti e di mutui edilizi individuali ai soci delle cooperative che abbiano costruito o che costruiscano col solo contributo dello Stato nel pagamento di una parte degli interessi, nonche' gli atti di riscatto, oltre ad essere registrati con la tassa fissa a termini dell'[art. 65 del R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), sono soggetti a tassa fissa per le formalita' ipotecarie e per la voltura catastale, salvo gli emolumenti ai conservatori delle ipoteche.
+Gli atti di assegnazione di appartamenti e di mutui edilizi individuali ai soci delle cooperative che abbiano costruito o che costruiscano col solo contributo dello Stato nel pagamento di una parte degli interessi, nonche' gli atti di riscatto, oltre ad essere registrati con la tassa fissa a termini dell'[art. 65 del R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), sono soggetti a tassa fissa per le formalita' ipotecarie e per la voltura catastale, salvo gli emolumenti ai conservatori delle ipoteche.
 
 ## Art. 5.
 

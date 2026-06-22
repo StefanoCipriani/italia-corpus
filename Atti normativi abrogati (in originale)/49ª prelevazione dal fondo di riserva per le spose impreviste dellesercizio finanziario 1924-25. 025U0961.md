@@ -34,7 +34,7 @@ vendita di saccarina, in sostituzione dello zucchero . . . L. 10,000
 
  Cap. n. 56-bis (nuovo) - Spese per i servizi
 delle Commissioni incaricate degli studi
-legislativi per la riforma del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md),
+legislativi per la riforma del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md),
 del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e della
 legge sull'ordinamento giudiziario; diarie,
 viaggi, stampe, pubblicazioni, copie, amanuensi

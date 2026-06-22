@@ -14,7 +14,7 @@ E' approvata la maggiore assegnazione di lire 16,953,43, per provvedere al saldo
 
 ## Art. 2.
 
-E' approvata la maggiore assegnazione di lire 30,117,12, per provvedere al saldo della spesa residua inscritta al capitolo n. 180 ter: «Eccedenza d'impegni verificatasi sul capitolo n. 44 - Restituzioni di tasse sul pubblico insegnamento e di quote di tasse universitarie di inscrizione da versarsi nelle Casse dell'Universita' per essere corrisposte ai privati insegnanti, giusta l'[articolo 13 del R. decreto 22 ottobre 1885, n. 3443](../Regi%20decreti/Stabilisce%20le%20norme%20e%20le%20disposizioni%20sulle%20tasse%20e%20sugli%20esami%20nelle%20Universita%20del%20Regno.%20085U3443.md), dello stato di previsione della spesa per l'esercizio finanziario 1896-97 e retro» del conto consuntivo della spesa del Ministero delle finanze per l'esercizio finanziario 1897-98.
+E' approvata la maggiore assegnazione di lire 30,117,12, per provvedere al saldo della spesa residua inscritta al capitolo n. 180 ter: «Eccedenza d'impegni verificatasi sul capitolo n. 44 - Restituzioni di tasse sul pubblico insegnamento e di quote di tasse universitarie di inscrizione da versarsi nelle Casse dell'Universita' per essere corrisposte ai privati insegnanti, giusta l'[articolo 13 del R. decreto 22 ottobre 1885, n. 3443](Stabilisce%20le%20norme%20e%20le%20disposizioni%20sulle%20tasse%20e%20sugli%20esami%20nelle%20Universita%20del%20Regno.%20085U3443.md), dello stato di previsione della spesa per l'esercizio finanziario 1896-97 e retro» del conto consuntivo della spesa del Ministero delle finanze per l'esercizio finanziario 1897-98.
 
 ## Art. 3.
 

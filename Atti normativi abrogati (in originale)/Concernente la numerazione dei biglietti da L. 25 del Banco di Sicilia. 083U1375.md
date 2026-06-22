@@ -16,13 +16,13 @@ IL MINISTRO DEL TESORO
  
  Veduto il R. decreto 1° marzo 1883, n. DCCCLXVIII (Serie 3ª), che autorizza gli Istituti di emissione ad emettere biglietti da lire 25, pagabili al portatore ed a vista, e ne stabilisce il riparto; 
  
- Veduto il [R. decreto 17 maggio 1883, n. 1341](../Regi%20decreti/Concernente%20i%20distintivi%20dei%20biglietti%20da%20L.%2025%20del%20banco%20di%20Sicilia.%20083U1341.md) (Serie 3ª), che rende di pubblica ragione i segni ed i distintivi caratteristici dei biglietti da lire 25, che il Banco di Sicilia e' autorizzato ad emettere nel limite indicato dal predetto R. decreto 1° marzo 1883; 
+ Veduto il [R. decreto 17 maggio 1883, n. 1341](Concernente%20i%20distintivi%20dei%20biglietti%20da%20L.%2025%20del%20banco%20di%20Sicilia.%20083U1341.md) (Serie 3ª), che rende di pubblica ragione i segni ed i distintivi caratteristici dei biglietti da lire 25, che il Banco di Sicilia e' autorizzato ad emettere nel limite indicato dal predetto R. decreto 1° marzo 1883; 
  
  Di accordo col Ministro di Agricoltura, Industria e Commercio, 
  
  Determina: 
  
- I biglietti da lire 25, pagabili al portatore ed a vista, che il Banco di Sicilia fu autorizzato ad emettere per il valore complessivo di lire 4,000,000, giusta il R. decreto 1° marzo 1883, n. DCCCLXVIII (Serie 3ª), ed i cui segni e distintivi caratteristici furono resi di pubblica ragione con l'altro [R. decreto 17 maggio 1883, n. 1341](../Regi%20decreti/Concernente%20i%20distintivi%20dei%20biglietti%20da%20L.%2025%20del%20banco%20di%20Sicilia.%20083U1341.md) (Serie 3ª), saranno distinti col numero progressivo in doppio, dal n. 000,001 al n. 160,000, senza distinzione di serie. 
+ I biglietti da lire 25, pagabili al portatore ed a vista, che il Banco di Sicilia fu autorizzato ad emettere per il valore complessivo di lire 4,000,000, giusta il R. decreto 1° marzo 1883, n. DCCCLXVIII (Serie 3ª), ed i cui segni e distintivi caratteristici furono resi di pubblica ragione con l'altro [R. decreto 17 maggio 1883, n. 1341](Concernente%20i%20distintivi%20dei%20biglietti%20da%20L.%2025%20del%20banco%20di%20Sicilia.%20083U1341.md) (Serie 3ª), saranno distinti col numero progressivo in doppio, dal n. 000,001 al n. 160,000, senza distinzione di serie. 
  
  Il presente decreto sara' inserto nella Raccolta delle leggi e dei decreti del Regno d'Italia. 
  

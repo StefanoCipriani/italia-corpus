@@ -24,7 +24,7 @@ Sulla proposta del Capo del Governo, Primo Ministro, e del Ministro Segretario d
 
 E' concessa amnistia per i reati commessi nell'Isola di Calimno dal 1° dicembre 1934 fino a tutto il 30 aprile 1935 in occasione o a causa dell'agitazione religiosa locale e per i quali e' prevista dalla legge, esclusa ogni aggravante e la recidiva, una pena detentiva, sola o congiunta a pene pecuniarie o accessorie, non superiore, nel massimo, a cinque anni, oppure una pena pecuniaria. 
  
- Il beneficio si applica anche a coloro che, all'epoca del commesso reato, fossero recidivi nei casi preveduti dall'art. 99, capoverso, del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nonche' alle persone dichiarate delinquenti abituali, professionali o per tendenza.
+ Il beneficio si applica anche a coloro che, all'epoca del commesso reato, fossero recidivi nei casi preveduti dall'art. 99, capoverso, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nonche' alle persone dichiarate delinquenti abituali, professionali o per tendenza.
 
 ## Art. 2.
 

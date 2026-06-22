@@ -30,7 +30,7 @@ L'art. 6 della legge comunale e provinciale, [testo unico 4 febbraio 1915, n. 14
 
 ## Art. 2.
 
-L'[art. 99 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), e' sostituito dal seguente: 
+L'[art. 99 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), e' sostituito dal seguente: 
  
  «L'art. 317 della legge e' abrogato e sostituito dal seguente: 
  
@@ -38,7 +38,7 @@ L'[art. 99 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%2
  
  «Qualora i conti non siano presentati entro tale termine, il Prefetto o il Sottoprefetto, secondo la rispettiva competenza, li fa compilare di ufficio a spese dei tesorieri i quali incorrono, inoltre, in una multa da L. 1000 a L. 10,000, da stabilirsi dal Prefetto o Sottoprefetto e che viene devoluta a favore della Cassa di previdenza per i segretari ed altri impiegati degli Enti locali. 
  
- «I Consigli comunali e provinciali devono deliberare i conti nella prima sessione dopo la presentazione, purche' dal giorno di questa sia decorso un mese; se la deliberazione non avviene entro tale termine, l'esame dei conti e' deferito, rispettivamente, al Prefetto o al Sottoprefetto che lo fa eseguire da un Commissario in sostituzione del Consiglio. Il Commissario accerta anche le ragioni della mancata deliberazione del conto da parte del Consiglio e ne riferisce al Prefetto o al Sottoprefetto per i provvedimenti disciplinari da adottarsi, a norma degli [articoli 42](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md) [43](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md) e [49 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), a carico del segretario o del ragioniere, qualora la mancata deliberazione del conto sia ad essi da imputarsi. 
+ «I Consigli comunali e provinciali devono deliberare i conti nella prima sessione dopo la presentazione, purche' dal giorno di questa sia decorso un mese; se la deliberazione non avviene entro tale termine, l'esame dei conti e' deferito, rispettivamente, al Prefetto o al Sottoprefetto che lo fa eseguire da un Commissario in sostituzione del Consiglio. Il Commissario accerta anche le ragioni della mancata deliberazione del conto da parte del Consiglio e ne riferisce al Prefetto o al Sottoprefetto per i provvedimenti disciplinari da adottarsi, a norma degli [articoli 42](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md) [43](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md) e [49 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), a carico del segretario o del ragioniere, qualora la mancata deliberazione del conto sia ad essi da imputarsi. 
  
  «Della deliberazione del Consiglio comunale o provinciale o del Commissario sul conto e' data notizia al contabile, in quanto porti variazioni nel carico e discarico, ed agli amministratori che fossero stati designati responsabili, con notifica per mezzo del messo comunale, contenente l'invito a prenderne cognizione entro 30 giorni, nella segreteria del Comune o della Provincia, insieme col conto, con la relativa deliberazione, con il rapporto dei revisori e con tutti gli atti e documenti che ne fanno parte. 
  
@@ -54,9 +54,9 @@ L'[art. 99 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%2
 
 ## Art. 3.
 
-L'[art. 100 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), e' sostituito dal seguente: 
+L'[art. 100 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), e' sostituito dal seguente: 
  
- «Gli amministratori che ordinano spese non autorizzate in bilancio o non deliberate dai rispettivi Consigli, e, nei casi degli [articoli 26](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md) e [90 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), dalla Giunta municipale o dalla Deputazione provinciale, o ne contraggano l'impegno, ovvero diano esecuzione a provvedimenti comunque non adottati ed approvati nei modi di legge, ne rispondono in proprio ed in solido. 
+ «Gli amministratori che ordinano spese non autorizzate in bilancio o non deliberate dai rispettivi Consigli, e, nei casi degli [articoli 26](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md) e [90 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), dalla Giunta municipale o dalla Deputazione provinciale, o ne contraggano l'impegno, ovvero diano esecuzione a provvedimenti comunque non adottati ed approvati nei modi di legge, ne rispondono in proprio ed in solido. 
  
  «Gli amministratori incorrono ugualmente nella responsabilita' di cui al comma precedente: 
  
@@ -70,9 +70,9 @@ L'[art. 100 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%
 
 ## Art. 4.
 
-L'[art. 101 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), e' sostituito dal seguente: 
+L'[art. 101 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), e' sostituito dal seguente: 
  
- «Le cause di responsabilita' dei contabili di fatto e degli amministratori, ai sensi rispettivamente degli articoli 209 della legge comunale e provinciale, [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), e 100 del [R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), possono essere iniziate di ufficio, o sopra richiesta dell'autorita' di vigilanza, o su istanza di qualsiasi contribuente e decise anche separatamente dall'esame e dal giudizio sul conto».
+ «Le cause di responsabilita' dei contabili di fatto e degli amministratori, ai sensi rispettivamente degli articoli 209 della legge comunale e provinciale, [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), e 100 del [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), possono essere iniziate di ufficio, o sopra richiesta dell'autorita' di vigilanza, o su istanza di qualsiasi contribuente e decise anche separatamente dall'esame e dal giudizio sul conto».
 
 ## Art. 5.
 

@@ -44,7 +44,7 @@ Chi fa di un veicolo un uso colpito da tassa maggiore di quella relativa all'uso
 
 Le quote fisse di compartecipazione alle tasse, di cui alle annesse tariffe, in favore dei Comuni e delle Provincie, restano determinate in conformita' alla tabella allegato C, alla [legge 6 gennaio 1918, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-01-06;135) (testo unico), per le tasse sui velocipedi, motocicli, automobili e autoscafi. 
  
- Tutte le disposizioni e le sanzioni della legge ora citata o disposizioni successive e quelle del regolamento approvato con [Regio decreto 31 agosto 1910, n. 642](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20relativo%20alle%20tasse%20sui%20velocipedi%20sui%20motocicli%20e%20sugli%20automobili.%20010U0642.md), restano in vigore, in quanto non sia diversamente stabilito colla presente legge. 
+ Tutte le disposizioni e le sanzioni della legge ora citata o disposizioni successive e quelle del regolamento approvato con [Regio decreto 31 agosto 1910, n. 642](Che%20approva%20lannesso%20regolamento%20relativo%20alle%20tasse%20sui%20velocipedi%20sui%20motocicli%20e%20sugli%20automobili.%20010U0642.md), restano in vigore, in quanto non sia diversamente stabilito colla presente legge. 
  
  Il Governo e' autorizzato ad emanare le norme necessarie per l'applicazione della presente legge. 
  

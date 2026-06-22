@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 Il numero degli addetti alle gestioni delle imposte comunali di consumo, tanto di nomina comunale, quanto di nomina, privata, in servizio alla data del 31 dicembre 1962, non puo' essere ridotto fino al 31 dicembre 1963.
- Per lo stesso periodo il personale di nomina privata e quello disciplinato dal [decreto legislativo 31 gennaio 1947, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-01-31;135), non puo' essere licenziato se non per fondati motivi o per conseguimento del diritto a pensione ai sensi dell'[articolo 11 del regio decreto 20 ottobre 1939, n. 1863](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20previdenza%20del%20personale%20addetto%20alle%20gestioni%20delle%20imposte%20di%20consumo.%20039U1863.md).
+ Per lo stesso periodo il personale di nomina privata e quello disciplinato dal [decreto legislativo 31 gennaio 1947, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-01-31;135), non puo' essere licenziato se non per fondati motivi o per conseguimento del diritto a pensione ai sensi dell'[articolo 11 del regio decreto 20 ottobre 1939, n. 1863](Approvazione%20del%20regolamento%20per%20la%20previdenza%20del%20personale%20addetto%20alle%20gestioni%20delle%20imposte%20di%20consumo.%20039U1863.md).
 
 ## Art. 2.
 

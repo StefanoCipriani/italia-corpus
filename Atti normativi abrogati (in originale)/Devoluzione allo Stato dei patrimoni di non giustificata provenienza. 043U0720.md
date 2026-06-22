@@ -41,7 +41,7 @@ E' istituita una speciale commissione con il compito di procedere, d'ufficio o a
 
 La commissione procede ai necessari accertamenti anche a mezzo del presidente o, per incarico di questo, dei singoli componenti. A tal fine la commissione e i suoi componenti hanno i poteri spettanti al giudice istruttore in materia penale e possono richiedere l'autorita' giudiziaria per sentire testimoni o per compiere altri atti istruttori. 
  Le notizie e i documenti di cui la commissione viene in possesso hanno carattere riservato e di essi non puo' essere fatto uso diverso da quello necessario ai compiti della commissione. 
- Si applicano le disposizioni degli [articoli 366](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [372 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) alle persone chiamate ad adempiere innanzi alla commissione o ai singoli componenti di essa alcuno degli uffici indicati nei detti articoli.
+ Si applicano le disposizioni degli [articoli 366](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [372 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) alle persone chiamate ad adempiere innanzi alla commissione o ai singoli componenti di essa alcuno degli uffici indicati nei detti articoli.
 
 ## Art. 4.
 

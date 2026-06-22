@@ -177,7 +177,7 @@ La commissione regionale per l'impiego, qualora esistano fondati motivi per rite
 
 8.
 
-E' abrogato l'[articolo 1 del decreto-legge 12 febbraio 1981, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-02-12;24#art_1), convertito, con modificazioni, nella [legge 16 aprile 1981, n. 140](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20febbraio%201981%20n.%2024%20recante%20misure%20eccezionali%20per%20la%20tutela%20e%20lo%20sviluppo%20delloccupazione%20nelle%20zone%20terremotate%20della%20Campani_2ec851ab4c60.md).
+E' abrogato l'[articolo 1 del decreto-legge 12 febbraio 1981, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-02-12;24#art_1), convertito, con modificazioni, nella [legge 16 aprile 1981, n. 140](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20febbraio%201981%20n.%2024%20recante%20misure%20eccezionali%20per%20la%20tutela%20e%20lo%20sviluppo%20delloccupazione%20nelle%20zone%20terremotate%20della%20Campani_2ec851ab4c60.md).
 
 9.
 
@@ -218,11 +218,11 @@ In caso contrario spettano tanti assegni giornalieri quante sono le giornate di 
 
 7.
 
-Qualora non si possa individuare l'attivita' principale per gli effetti dell'articolo 20 del testo unico delle norme sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../Testi%20Unici/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e successive modificazioni ed integrazioni, gli assegni familiari sono corrisposti direttamente dall'Istituto nazionale della previdenza sociale.
+Qualora non si possa individuare l'attivita' principale per gli effetti dell'articolo 20 del testo unico delle norme sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../DPR/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e successive modificazioni ed integrazioni, gli assegni familiari sono corrisposti direttamente dall'Istituto nazionale della previdenza sociale.
 
 8.
 
-Il secondo comma dell'articolo 26 del testo unico delle norme sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../Testi%20Unici/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e' sostituito dal seguente:
+Il secondo comma dell'articolo 26 del testo unico delle norme sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../DPR/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e' sostituito dal seguente:
  "Il contributo non e' dovuto per i lavoratori cui non spettano gli assegni a norma dell'articolo 2".
 
 9.

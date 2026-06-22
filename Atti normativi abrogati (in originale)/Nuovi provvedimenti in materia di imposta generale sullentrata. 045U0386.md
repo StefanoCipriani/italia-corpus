@@ -22,7 +22,7 @@ Per le vendite degli oggetti d'arte di cui all'[art. 6 del decreto-legge 3 giugn
 
 ## Art. 3.
 
-Non costituiscono entrata imponibile ai sensi della [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), le somme introitate in dipendenza della vendita di giornali quotidiani di ogni genere e di giornali periodici aventi carattere prevalentemente politico. 
+Non costituiscono entrata imponibile ai sensi della [legge 19 giugno 1940, n. 762](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), le somme introitate in dipendenza della vendita di giornali quotidiani di ogni genere e di giornali periodici aventi carattere prevalentemente politico. 
  
  E' abrogata la disposizione dell'art. 1, lettera m), della legge suddetta.
 
@@ -44,7 +44,7 @@ Nel caso di editori che abbiano magazzini o depositi per la vendita all'ingrosso
  
  Per le vendite di giornali, riviste ed altre pubblicazioni effettuate in abbonamento l'imposta e' dovuta all'atto del pagamento da parte dell'abbonato del prezzo totale o parziale dell'abbonamento, e si corrisponde in base ad apposito « registro delle vendite in abbonamento » con le stesse modalita' e negli stessi termini di cui al precedente comma. 
  
- I registri prescritti dai precedenti commi, prima dell'uso, debbono essere presentati al competente Ufficio del registro per l'espletamento delle formalita' chieste dall'art. 112 del regolamento approvato col [R. decreto 26 gennaio 1940 n. 10](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md).
+ I registri prescritti dai precedenti commi, prima dell'uso, debbono essere presentati al competente Ufficio del registro per l'espletamento delle formalita' chieste dall'art. 112 del regolamento approvato col [R. decreto 26 gennaio 1940 n. 10](Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md).
 
 ## Art. 6.
 
@@ -54,7 +54,7 @@ Per la importazione di pubblicazioni dall'estero l'imposta, nella misura del 2 %
 
 L'imposta sull'entrata del 2 % pagata a norma dei precedenti articoli 4 a 6 per la vendita o consegna delle pubblicazioni da parte dell'editore ovvero all'atto della importazione delle medesime, e' comprensiva di quella che sarebbe dovuta per i passaggi successivi delle pubblicazioni stesse, compresa la vendita al pubblico, ed assorbe altresi' il tributo relativo alte spese di imballaggio e di trasporto, limitatamente all'addebito fattone all'acquirente nello stesso documento di vendita o consegna delle pubblicazioni. 
  
- Le note o fatture che siano rilasciate per i detti passaggi successivi, sono soggette alla tassa di bollo stabilita dall'[art. 24 della legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e successive modificazioni.
+ Le note o fatture che siano rilasciate per i detti passaggi successivi, sono soggette alla tassa di bollo stabilita dall'[art. 24 della legge 19 giugno 1940, n. 762](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e successive modificazioni.
 
 ## Art. 8.
 
@@ -63,7 +63,7 @@ L'acquisto, presso editori, di pubblicazioni destinate alla esportazione da part
  b) le case editrici, nelle fatture che debbono emettere in dipendenza di tali commissioni, indicheranno il prezzo di copertina delle pubblicazioni vendute, tanto unitario che globale, e faranno sulle fatture stesse espressamente constare che non e' stata assolta l'imposta sull'entrata, perche' le pubblicazioni vendute sono «destinate dall'acquirente all'esportazione»; 
  c) le aziende librarie sono tenute ad istituire un registro di carico e scarico: nella parte del carico debbono essere annotati, in ordine cronologico, gli estremi delle fatture relative all'acquisto delle pubblicazioni destinate all'esportazione ed il relativo ammontare con riferimento al prezzo di copertina; nella parte dello scarico debbono, pure in ordine cronologico, essere riportati gli estremi delle fatture emesse nei confronti degli acquirenti esteri ed il relativo ammontare con riferimento al prezzo di copertina, con indicazione, in corrispondenza di ciascuna fattura, degli estremi del documento comprovante l'avvenuta esportazione delle pubblicazioni. 
  
- Il registro di cui sopra, prima dell'uso, deve essere presentato al competente Ufficio del registro per le formalita' prescritte dall'art. 112 del regolamento approvato col [R. decreto 26 gennaio 1940, n. 10](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md).
+ Il registro di cui sopra, prima dell'uso, deve essere presentato al competente Ufficio del registro per le formalita' prescritte dall'art. 112 del regolamento approvato col [R. decreto 26 gennaio 1940, n. 10](Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md).
 
 ## Art. 9.
 
@@ -75,13 +75,13 @@ Per le vendite, fornitore e prestazioni in genere fatte a corpi, comandi ed uffi
 
 ## Art. 11.
 
-E' attribuita alla Intendenza di finanza la facolta' conferita al Ministero delle finanze dall'ultimo comma dell'art. 114 del regolamento approvato col [R. decreto 26 gennaio 1940, n. 10](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md), intesa ad autorizzare, quando la particolare organizzazione contabile amministrativa della ditta lo richieda, sistemi e modalita' di numerazione delle fatture in deroga al disposto del penultimo comma dell'[art. 26 della legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md). 
+E' attribuita alla Intendenza di finanza la facolta' conferita al Ministero delle finanze dall'ultimo comma dell'art. 114 del regolamento approvato col [R. decreto 26 gennaio 1940, n. 10](Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md), intesa ad autorizzare, quando la particolare organizzazione contabile amministrativa della ditta lo richieda, sistemi e modalita' di numerazione delle fatture in deroga al disposto del penultimo comma dell'[art. 26 della legge 19 giugno 1940, n. 762](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md). 
  
  Le Intendenze di finanza decidono sulle relative richieste delle ditte interessate, sentiti gli organi di vigilanza tributaria.
 
 ## Art. 12.
 
-Per le violazioni delle disposizioni stabilite dal presente decreto e dai decreti emanati dal Ministro per le finanze a norma dell'art. 9 si applicano le sanzioni previste dalla [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), dal [R. decreto legge 3 giugno 1943, n. 452](Addizionale%20straordinaria%20di%20guerra%20allimposta%20generale%20sullentrata.%20043U0452.md), e dal [decreto legislativo Luogotenenziale 19 ottobre 1944, n. 348](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20imposta%20generale%20sullentrata%20e%20di%20addizionale%20straordinaria%20di%20guerra.%20044U0348.md).
+Per le violazioni delle disposizioni stabilite dal presente decreto e dai decreti emanati dal Ministro per le finanze a norma dell'art. 9 si applicano le sanzioni previste dalla [legge 19 giugno 1940, n. 762](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), dal [R. decreto legge 3 giugno 1943, n. 452](Addizionale%20straordinaria%20di%20guerra%20allimposta%20generale%20sullentrata.%20043U0452.md), e dal [decreto legislativo Luogotenenziale 19 ottobre 1944, n. 348](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20imposta%20generale%20sullentrata%20e%20di%20addizionale%20straordinaria%20di%20guerra.%20044U0348.md).
 
 ## Art. 13.
 

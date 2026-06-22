@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Gli articoli 5, 6, 7, 8 e le tabelle A e B del regolamento approvato col [R. decreto 6 maggio 1911, n. 388](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20lammissione%20lavanzamento%20e%20il%20servizio%20alternato%20fra%20linterno%20e%20lestero%20nelle%20carriere%20diplomatica%20e%20consolare.%20011U0388.md), sono modificati come segue: 
+Gli articoli 5, 6, 7, 8 e le tabelle A e B del regolamento approvato col [R. decreto 6 maggio 1911, n. 388](Che%20approva%20lannesso%20regolamento%20per%20lammissione%20lavanzamento%20e%20il%20servizio%20alternato%20fra%20linterno%20e%20lestero%20nelle%20carriere%20diplomatica%20e%20consolare.%20011U0388.md), sono modificati come segue: 
  
  Art. 5. - Gli esami verseranno sulle seguenti materie: 
  

@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 28 gennaio 1923, n. 153](../Regi%20decreti/Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md);
+Visto il [R. decreto 28 gennaio 1923, n. 153](Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md);
 
-Visto il [R. decreto 10 agosto 1923, n. 1824](../Regi%20decreti/Proroga%20fino%20al%2031%20dicembre%201923%20delle%20disposizioni%20del%20Regio%20decreto%2028%20gennaio%201923%20n.%20153%20che%20autorizza%20la%20revisione%20delle%20assunzioni%20delle%20sistemazioni%20e%20dei%20passaggi%20del%20personale%20di_078a58bb07fa.md);
+Visto il [R. decreto 10 agosto 1923, n. 1824](Proroga%20fino%20al%2031%20dicembre%201923%20delle%20disposizioni%20del%20Regio%20decreto%2028%20gennaio%201923%20n.%20153%20che%20autorizza%20la%20revisione%20delle%20assunzioni%20delle%20sistemazioni%20e%20dei%20passaggi%20del%20personale%20di_078a58bb07fa.md);
 
-Visto il [R. decreto 7 dicembre 1923, n. 2590](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md);
+Visto il [R. decreto 7 dicembre 1923, n. 2590](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md);
 
 Udito il Commissario straordinario per le Ferrovie dello Stato;
 
@@ -28,11 +28,11 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici di 
 
 ## Art. 1.
 
-L'Amministrazione delle ferrovie delle Stato, per quanto la riguarda, potra' applicare fino al 30 aprile 1924 i provvedimenti contemplati nei [Regi decreti 28 gennaio 1923, numero 153](../Regi%20decreti/Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md), e [10 agosto 1923, n. 1824](../Regi%20decreti/Proroga%20fino%20al%2031%20dicembre%201923%20delle%20disposizioni%20del%20Regio%20decreto%2028%20gennaio%201923%20n.%20153%20che%20autorizza%20la%20revisione%20delle%20assunzioni%20delle%20sistemazioni%20e%20dei%20passaggi%20del%20personale%20di_078a58bb07fa.md).
+L'Amministrazione delle ferrovie delle Stato, per quanto la riguarda, potra' applicare fino al 30 aprile 1924 i provvedimenti contemplati nei [Regi decreti 28 gennaio 1923, numero 153](Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md), e [10 agosto 1923, n. 1824](Proroga%20fino%20al%2031%20dicembre%201923%20delle%20disposizioni%20del%20Regio%20decreto%2028%20gennaio%201923%20n.%20153%20che%20autorizza%20la%20revisione%20delle%20assunzioni%20delle%20sistemazioni%20e%20dei%20passaggi%20del%20personale%20di_078a58bb07fa.md).
 
 ## Art. 2.
 
-Per gli agenti delle Ferrovie dello Stato che posteriormente all'attivazione del riordinamento delle pensioni di cui al [R. decreto 7 dicembre 1923, n. 2590](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md), saranno dispensati in base al citato decreto n. 153, sara' conservato in tutta la sua integrita' il trattamento stabilito da quest'ultimo decreto, salvo applicazione, in caso di liquidazione di pensione, dell'[art. 4 del R. decreto 7 dicembre 1923, n. 2590](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md).
+Per gli agenti delle Ferrovie dello Stato che posteriormente all'attivazione del riordinamento delle pensioni di cui al [R. decreto 7 dicembre 1923, n. 2590](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md), saranno dispensati in base al citato decreto n. 153, sara' conservato in tutta la sua integrita' il trattamento stabilito da quest'ultimo decreto, salvo applicazione, in caso di liquidazione di pensione, dell'[art. 4 del R. decreto 7 dicembre 1923, n. 2590](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md).
 
 ## Art. 3.
 

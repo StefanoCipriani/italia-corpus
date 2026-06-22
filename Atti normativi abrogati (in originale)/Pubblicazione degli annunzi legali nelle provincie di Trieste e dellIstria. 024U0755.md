@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduta la [legge 19 dicembre 1920, n. 1778](Che%20approva%20lannesso%20Trattato%20concluso%20fra%20il%20Regno%20dItalia%20e%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20020U1778.md);
 
-Veduto il [R. decreto 24 settembre 1923, n. 2240](../Regi%20decreti/Estensione%20nei%20territori%20annessi%20delle%20disposizioni%20per%20la%20pubblicazione%20degli%20annunzi%20legali%20nonche%20per%20laumento%20del%20prezzo%20delle%20inserzioni%20degli%20annunzi%20stessi.%20023U2240.md);
+Veduto il [R. decreto 24 settembre 1923, n. 2240](Estensione%20nei%20territori%20annessi%20delle%20disposizioni%20per%20la%20pubblicazione%20degli%20annunzi%20legali%20nonche%20per%20laumento%20del%20prezzo%20delle%20inserzioni%20degli%20annunzi%20stessi.%20023U2240.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'inter
 
 ## Art. 1.
 
-Il termine stabilito nell'[art. 2 del R. decreto 24 settembre 1923, n. 2240](../Regi%20decreti/Estensione%20nei%20territori%20annessi%20delle%20disposizioni%20per%20la%20pubblicazione%20degli%20annunzi%20legali%20nonche%20per%20laumento%20del%20prezzo%20delle%20inserzioni%20degli%20annunzi%20stessi.%20023U2240.md), per l'applicazione nelle provincie di Trieste e dell'Istria della [legge 30 giugno 1876, n. 3195](Sulla%20pubblicazione%20degli%20annunzi%20legali.%20076U3195.md), sulla pubblicazione degli annunzi legali, e della tariffa, annessa alla legge stessa, modificata col [R. decreto 11 gennaio 1923, n. 254](../Regi%20decreti/Che%20aumenta%20il%20prezzo%20delle%20inserzioni%20nel%20Foglio%20degli%20annunci%20legali%20delle%20Provincie%20stabilito%20dalla%20tariffa%20annessa%20alla%20legge%2030%20giugno%201876%20n.%203195.%20023U0254.md), e' prorogato al giorno in cui sara' attuata la completa modificazione legislativa fra le vecchie e le nuove Provincie del Regno. 
+Il termine stabilito nell'[art. 2 del R. decreto 24 settembre 1923, n. 2240](Estensione%20nei%20territori%20annessi%20delle%20disposizioni%20per%20la%20pubblicazione%20degli%20annunzi%20legali%20nonche%20per%20laumento%20del%20prezzo%20delle%20inserzioni%20degli%20annunzi%20stessi.%20023U2240.md), per l'applicazione nelle provincie di Trieste e dell'Istria della [legge 30 giugno 1876, n. 3195](Sulla%20pubblicazione%20degli%20annunzi%20legali.%20076U3195.md), sulla pubblicazione degli annunzi legali, e della tariffa, annessa alla legge stessa, modificata col [R. decreto 11 gennaio 1923, n. 254](Che%20aumenta%20il%20prezzo%20delle%20inserzioni%20nel%20Foglio%20degli%20annunci%20legali%20delle%20Provincie%20stabilito%20dalla%20tariffa%20annessa%20alla%20legge%2030%20giugno%201876%20n.%203195.%20023U0254.md), e' prorogato al giorno in cui sara' attuata la completa modificazione legislativa fra le vecchie e le nuove Provincie del Regno. 
  
  Nel frattempo l'Osservatore Triestino continuera' a funzionare da Foglio degli annunzi legali per le Provincie suddette.
 

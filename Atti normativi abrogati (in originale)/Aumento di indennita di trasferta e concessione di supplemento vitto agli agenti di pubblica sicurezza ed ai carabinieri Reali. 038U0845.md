@@ -20,7 +20,7 @@ Visto il [R. decreto-legge 2 aprile 1925, n. 382](Aumento%20di%205000%20uomini%2
 
 Visto il [R. decreto-legge 2 aprile 1925, n. 383](Costituzione%20di%20un%20corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20025U0383.md), circa la costituzione del Corpo degli agenti di P. S.;
 
-Visto il [R. decreto 19 gennaio 1911, n. 69](../Regi%20decreti/Che%20apporta%20modificazioni%20al%20capo%20II%20del%20regolamento%20per%20le%20indennita%20alle%20truppe%20in%20servizio%20di%20pubblica%20sicurezza.%20011U0069.md), riguardante le indennita' di P. S. spettanti ai CC. RR. in servizio collettivo d'ordine pubblico;
+Visto il [R. decreto 19 gennaio 1911, n. 69](Che%20apporta%20modificazioni%20al%20capo%20II%20del%20regolamento%20per%20le%20indennita%20alle%20truppe%20in%20servizio%20di%20pubblica%20sicurezza.%20011U0069.md), riguardante le indennita' di P. S. spettanti ai CC. RR. in servizio collettivo d'ordine pubblico;
 
 Visto il regolamento del Corpo agenti di P. S. approvato con [R. decreto 30 novembre 1930, n. 1629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-30;1629);
 

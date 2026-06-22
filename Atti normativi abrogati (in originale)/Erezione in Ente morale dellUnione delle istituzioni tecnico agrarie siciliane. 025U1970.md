@@ -20,7 +20,7 @@ Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-L'Unione delle istituzioni tecnico agrarie siciliane di cui all'art. 143 del regolamento approvato col [R. decreto 29 ottobre 1922, n. 1825](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U1825.md), ed al decreto Ministeriale 20 gennaio 1923, registrato alla Corte dei conti il 21 febbraio 1923, e' eretta in Ente morale.
+L'Unione delle istituzioni tecnico agrarie siciliane di cui all'art. 143 del regolamento approvato col [R. decreto 29 ottobre 1922, n. 1825](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U1825.md), ed al decreto Ministeriale 20 gennaio 1923, registrato alla Corte dei conti il 21 febbraio 1923, e' eretta in Ente morale.
 
 ## Art. 2.
 
@@ -28,7 +28,7 @@ Le spese pel funzionamento dell'Unione sono a carico della sezione di credito ag
 
 ## Art. 3.
 
-Qualora a coprire l'ufficio di Commissario governativo presso la sezione di credito agrario del Banco di Sicilia, sia scelto un impiegato dello Stato, questi e' collocato fuori ruolo nell'Amministrazione dalla quale dipende e alla sua posizione di carriera si applicano le disposizioni del [R. decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md).
+Qualora a coprire l'ufficio di Commissario governativo presso la sezione di credito agrario del Banco di Sicilia, sia scelto un impiegato dello Stato, questi e' collocato fuori ruolo nell'Amministrazione dalla quale dipende e alla sua posizione di carriera si applicano le disposizioni del [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md).
 
 ## Art. 4.
 

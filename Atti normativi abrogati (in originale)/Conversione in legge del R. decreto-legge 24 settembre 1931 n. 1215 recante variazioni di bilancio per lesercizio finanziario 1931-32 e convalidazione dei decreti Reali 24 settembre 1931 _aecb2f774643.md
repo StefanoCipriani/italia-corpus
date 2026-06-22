@@ -14,7 +14,7 @@ E' convertito in legge il [R. decreto-legge 24 settembre 1931, n. 1215](Variazio
 
 ## Art. 2.
 
-Sono convalidati i [Regi decreti 24 settembre 1931, numeri 1221](../Regi%20decreti/3ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201931-32.%20031U1221.md) e [1222](../Regi%20decreti/4ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201931-32.%20031U1222.md), coi quali sono state autorizzate prelevazioni dal fondo di riserva per le spese impreviste, inscritto nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1931-32. 
+Sono convalidati i [Regi decreti 24 settembre 1931, numeri 1221](3ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201931-32.%20031U1221.md) e [1222](4ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201931-32.%20031U1222.md), coi quali sono state autorizzate prelevazioni dal fondo di riserva per le spese impreviste, inscritto nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1931-32. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 17 dicembre 1931 - Anno X 
  

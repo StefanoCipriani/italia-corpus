@@ -22,13 +22,13 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- I contratti per la riscossione dei dazi interni di consumo in corso nei Comuni unificati con disposizioni emanate anche anteriormente all'entrata in vigore della presente legge, possono essere dichiarati cessati con decreto del Ministro per le finanze di concerto con quello per l'interno, sentita la Commissione istituita con l'[art. 87 del R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md). 
+ I contratti per la riscossione dei dazi interni di consumo in corso nei Comuni unificati con disposizioni emanate anche anteriormente all'entrata in vigore della presente legge, possono essere dichiarati cessati con decreto del Ministro per le finanze di concerto con quello per l'interno, sentita la Commissione istituita con l'[art. 87 del R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md). 
  
  La cessazione avra' effetto dal giorno in cui il prefetto della Provincia avra' stabilito l'inizio dei corrispondenti servizi nella nuova circoscrizione comunale. 
  
  Ogni eventuale controversia, dipendente dall'applicazione del primo comma del presente articolo, e' deferita, nonostante qualsiasi patto in contrario, ad un Collegio di tre arbitri che giudicheranno come amichevoli compositori e che saranno designati, uno dall'Amministrazione comunale, l'altro dall'appaltatore uscente, e, qualora questo non vi provveda, dal presidente del Tribunale, ed il terzo dal prefetto della Provincia. 
  
- La gestione daziaria dei Comuni unificati potra' essere conferita all'appaltatore di uno dei Comuni preesistenti, alle condizioni stabilite dal contratto in corso, salvo l'applicazione, ove necessario, dell'art. 306 del regolamento per la riscossione dei dazi interni di consumo, approvato con [R. decreto 25 febbraio 1924, n. 540](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20riscossione%20dei%20dazi%20Interni%20di%20consumo.%20024U0540.md). 
+ La gestione daziaria dei Comuni unificati potra' essere conferita all'appaltatore di uno dei Comuni preesistenti, alle condizioni stabilite dal contratto in corso, salvo l'applicazione, ove necessario, dell'art. 306 del regolamento per la riscossione dei dazi interni di consumo, approvato con [R. decreto 25 febbraio 1924, n. 540](Approvazione%20del%20regolamento%20per%20la%20riscossione%20dei%20dazi%20Interni%20di%20consumo.%20024U0540.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 26 febbraio 1928, n. 355](Riordinamento%20del%20personale%20dellAmministrazione%20coloniale.%20028U0355.md), modificato dal [R decreto-legge 21 dicembre 1933, n. 1992](Modifiche%20al%20R.%20decreto-legge%2026%20febbraio%201928%20n.%20355%20sullordinamento%20del%20personale%20coloniale.%20033U1992.md);
 
-Visto il R. decreto 25 giugno 1925, che fissa le norme per l'ammissione nel ruolo amministrativo coloniale, modificato dal [R. decreto 23 dicembre 1926, n. 2367](../Regi%20decreti/Modifica%20dellart.%207%20del%20R.%20decreto%2025%20giugno%201925%20che%20regola%20lammissione%20nel%20ruolo%20amministrativo%20coloniale.%20026U2367.md) e dal [R. decreto-legge 11 maggio 1931, n. 667](Tirocinio%20dei%20volontari%20coloniali.%20031U0667.md), convertito nella [legge 17 dicembre 1931, n. 1698](Conversione%20in%20legge%20del%20R.%20decreto-legge%2011%20maggio%201931%20n.%20667%20riflettente%20il%20tirocinio%20dei%20volontari%20coloniali.%20031U1698.md);
+Visto il R. decreto 25 giugno 1925, che fissa le norme per l'ammissione nel ruolo amministrativo coloniale, modificato dal [R. decreto 23 dicembre 1926, n. 2367](Modifica%20dellart.%207%20del%20R.%20decreto%2025%20giugno%201925%20che%20regola%20lammissione%20nel%20ruolo%20amministrativo%20coloniale.%20026U2367.md) e dal [R. decreto-legge 11 maggio 1931, n. 667](Tirocinio%20dei%20volontari%20coloniali.%20031U0667.md), convertito nella [legge 17 dicembre 1931, n. 1698](Conversione%20in%20legge%20del%20R.%20decreto-legge%2011%20maggio%201931%20n.%20667%20riflettente%20il%20tirocinio%20dei%20volontari%20coloniali.%20031U1698.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -34,7 +34,7 @@ All'art. 5 del R. decreto 25 giugno 1925 e' aggiunto il seguente comma:
 
 ## Art. 2.
 
-E' sospesa fino al 31 dicembre 1938 l'applicazione dell'art. 7 del R. decreto 25 giugno 1925, modificato dal [R. decreto 23 dicembre 1926, n. 2367](../Regi%20decreti/Modifica%20dellart.%207%20del%20R.%20decreto%2025%20giugno%201925%20che%20regola%20lammissione%20nel%20ruolo%20amministrativo%20coloniale.%20026U2367.md) e dal [R. decreto-legge 11 maggio 1931, n. 667](Tirocinio%20dei%20volontari%20coloniali.%20031U0667.md). 
+E' sospesa fino al 31 dicembre 1938 l'applicazione dell'art. 7 del R. decreto 25 giugno 1925, modificato dal [R. decreto 23 dicembre 1926, n. 2367](Modifica%20dellart.%207%20del%20R.%20decreto%2025%20giugno%201925%20che%20regola%20lammissione%20nel%20ruolo%20amministrativo%20coloniale.%20026U2367.md) e dal [R. decreto-legge 11 maggio 1931, n. 667](Tirocinio%20dei%20volontari%20coloniali.%20031U0667.md). 
  
  Durante la sospensione stabilita dal comma precedente, i vincitori dei concorsi per la carriera direttiva coloniale, nominati volontari coloniali, presteranno servizio di prova e di tirocinio per sei mesi presso gli uffici del Ministero o presso gli uffici dei Governi coloniali. 
  

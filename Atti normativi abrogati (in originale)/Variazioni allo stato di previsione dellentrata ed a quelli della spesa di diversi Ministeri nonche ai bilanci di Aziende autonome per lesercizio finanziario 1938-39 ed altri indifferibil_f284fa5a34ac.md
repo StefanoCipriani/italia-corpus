@@ -98,7 +98,7 @@ La retribuzione oraria del servizio straordinario prestato negli uffici esecutiv
 
 ## Art. 15.
 
-Le disposizioni contenute nel [R. decreto 21 gennaio 1935, n. 13](../Regi%20decreti/Istituzione%20di%20posti%20di%20commesso%20capo%20e%20di%20capo%20agente%20tecnico%20nel%20ruolo%20del%20personale%20subalterno%20dellAmministrazione%20centrale%20di%20Ciascun%20Ministero.%20035U0013.md), riguardante l'istituzione di un posto di commesso capo nel ruolo del personale subalterno dell'Amministrazione centrale di ciascun Ministero, con le modifiche di cui all'[art. 9 del R. decreto-legge 4 marzo 1937, n. 304](Riordinamento%20dei%20ruoli%20del%20personale%20dellAmministrazione%20finanziaria.%20037U0304.md), si applicano anche al ruolo del personale subalterno della Presidenza del Consiglio dei Ministri. 
+Le disposizioni contenute nel [R. decreto 21 gennaio 1935, n. 13](Istituzione%20di%20posti%20di%20commesso%20capo%20e%20di%20capo%20agente%20tecnico%20nel%20ruolo%20del%20personale%20subalterno%20dellAmministrazione%20centrale%20di%20Ciascun%20Ministero.%20035U0013.md), riguardante l'istituzione di un posto di commesso capo nel ruolo del personale subalterno dell'Amministrazione centrale di ciascun Ministero, con le modifiche di cui all'[art. 9 del R. decreto-legge 4 marzo 1937, n. 304](Riordinamento%20dei%20ruoli%20del%20personale%20dellAmministrazione%20finanziaria.%20037U0304.md), si applicano anche al ruolo del personale subalterno della Presidenza del Consiglio dei Ministri. 
  
  Questo articolo ha vigore dal primo giorno del mese successivo a quello della pubblicazione del presente decreto nella Gazzetta Ufficiale del Regno.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle disposizioni legislative riguardanti l'ordinamento del corpo Reale equipaggi e lo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 21 agosto 1924, n. 1525](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md);
+Visto il testo unico delle disposizioni legislative riguardanti l'ordinamento del corpo Reale equipaggi e lo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md);
 
 Visto il [R. decreto legge 9 novembre 1924, n. 1992](Varianti%20allordinamento%20del%20corpo%20Reale%20equipaggi%20e%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1992.md), che apporta modificazioni al predetto testo unico;
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro ad interim pe
 
 ## Art. 1.
 
-L'art. 3 del testo unico delle leggi sull'ordinamento del corpo Reale equipaggi e stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 21 agosto 1924, n. 1525](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), modificato con l'[art. 2 del R. decreto-legge 9 novembre 1924, n. 1992](Varianti%20allordinamento%20del%20corpo%20Reale%20equipaggi%20e%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1992.md), e' abrogato e sostituito dal seguente: 
+L'art. 3 del testo unico delle leggi sull'ordinamento del corpo Reale equipaggi e stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), modificato con l'[art. 2 del R. decreto-legge 9 novembre 1924, n. 1992](Varianti%20allordinamento%20del%20corpo%20Reale%20equipaggi%20e%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1992.md), e' abrogato e sostituito dal seguente: 
  
  «Art. 3. - Il Ministero della marina ha facolta' di ordinare arruolamenti volontari per qualunque categoria e specialita' del corpo Reale equipaggi in relazione ai prevedibili bisogni. 
  

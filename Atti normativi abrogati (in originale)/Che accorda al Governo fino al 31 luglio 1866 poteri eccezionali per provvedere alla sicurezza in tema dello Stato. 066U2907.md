@@ -22,7 +22,7 @@ Il reato di cui all'articolo precedente, sara' punito col carcere da sei giorni 
 
 ## Art. 3.
 
-Il Governo del Re avra' la facolta' di assegnare per un tempo non maggiore di un anno il domicilio coatto agli oziosi, ai vagabondi, ai camorristi ed a tutte le persone ritenute sospette secondo le designazioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 20 novembre 1859, le quali saranno pubblicate ed avranno forza di Legge nelle Provincie Toscane. 
+Il Governo del Re avra' la facolta' di assegnare per un tempo non maggiore di un anno il domicilio coatto agli oziosi, ai vagabondi, ai camorristi ed a tutte le persone ritenute sospette secondo le designazioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 20 novembre 1859, le quali saranno pubblicate ed avranno forza di Legge nelle Provincie Toscane. 
  
  Le stesse disposizioni saranno applicabili alle persone per cui ci sia fondato motivo di giudicare che si adoprino per restituire l'antico stato di cose, o per nuocere in qualunque modo all'unita' d'Italia e alle sue libere istituzioni.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 5 ottobre 1944, n. 249](../Decreti%20legislativi%20luogotenenziali/Assetto%20della%20legislazione%20nei%20territori%20liberati.%20044U0249.md);
+Visto il [decreto legislativo luogotenenziale 5 ottobre 1944, n. 249](Assetto%20della%20legislazione%20nei%20territori%20liberati.%20044U0249.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 23 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-23;151#art_4);
 

@@ -18,7 +18,7 @@ Visto il [regio decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%
 
 Vista la [legge 10 giugno 1939, n. 1012](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-10;1012), che apporta modifiche ai predetto regio decreto;
 
-Visto il [decreto legislativo luogotenenziale 19 aprile 1946, n. 238](../Decreti%20legislativi%20luogotenenziali/Determinazione%20degli%20elementi%20della%20retribuzione%20da%20considerare%20ai%20fini%20del%20calcolo%20dei%20presi%20e%20delle%20indennita%20per%20inabilita%20temporanea%20nellassicurazione%20obbligatoria%20contro%20gli%20infortun_c735d39c1f7d.md), circa la determinazione degli elementi della retribuzione da considerare ai fini del calcolo dei premi e delle indennita' per inabilita' temporanea nell'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali;
+Visto il [decreto legislativo luogotenenziale 19 aprile 1946, n. 238](Determinazione%20degli%20elementi%20della%20retribuzione%20da%20considerare%20ai%20fini%20del%20calcolo%20dei%20presi%20e%20delle%20indennita%20per%20inabilita%20temporanea%20nellassicurazione%20obbligatoria%20contro%20gli%20infortun_c735d39c1f7d.md), circa la determinazione degli elementi della retribuzione da considerare ai fini del calcolo dei premi e delle indennita' per inabilita' temporanea nell'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali;
 
 Visto il [decreto legislativo 23 agosto 1946, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-08-23;202), concernente la traduzione in legge di norme adottate in via amministrativa per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali;
 

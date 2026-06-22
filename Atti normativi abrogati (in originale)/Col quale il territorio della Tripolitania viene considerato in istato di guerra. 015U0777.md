@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'[art. 243 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito; 
+ Visto l'[art. 243 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito; 
  
  Ritenuto che in tutto il territorio della Tripolitania, per la sicurezza della colonia, si rende necessaria l'osservanza delle leggi relative allo stato di guerra; 
  

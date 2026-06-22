@@ -98,7 +98,7 @@ Il versamento alla Regione per gli anni 1951, 1952, 1953 e 1954 delle quote di t
 
 ### Art. 14.
 
-Il recupero della spesa di lire un miliardo da sostenersi dallo Stato per conto della Valle d'Aosta ai sensi dell'[art. 5 della legge 1 agosto 1954, n. 846](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20tra%20lItalia%20e%20la%20Francia%20per%20il%20traforo%20del%20Monte%20Bianco%20conclusa%20a%20Parigi%20il%2014%20marzo%201953.md) per l'esecuzione della Convenzione sul traforo del Monte Bianco, sara' effettuato in dieci rate annuali dell'ammontare degli effettivi versamenti da parte dello Stato, a partire dall'esercizio successivo a quello dei versamenti medesimi.
+Il recupero della spesa di lire un miliardo da sostenersi dallo Stato per conto della Valle d'Aosta ai sensi dell'[art. 5 della legge 1 agosto 1954, n. 846](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20tra%20lItalia%20e%20la%20Francia%20per%20il%20traforo%20del%20Monte%20Bianco%20conclusa%20a%20Parigi%20il%2014%20marzo%201953.md) per l'esecuzione della Convenzione sul traforo del Monte Bianco, sara' effettuato in dieci rate annuali dell'ammontare degli effettivi versamenti da parte dello Stato, a partire dall'esercizio successivo a quello dei versamenti medesimi.
 
 ### Art. 15.
 

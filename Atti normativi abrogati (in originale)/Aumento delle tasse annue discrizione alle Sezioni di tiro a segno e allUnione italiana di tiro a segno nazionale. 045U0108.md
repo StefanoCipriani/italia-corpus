@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 4 giugno 1936, n. 1143](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2016%20dicembre%201935-XIV%20n.%202430%20che%20apporta%20modificazioni%20alle%20vigenti%20norme%20sul%20tiro%20a%20segno%20nazionale.%20036U1143.md):
+Vista la [legge 4 giugno 1936, n. 1143](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2016%20dicembre%201935-XIV%20n.%202430%20che%20apporta%20modificazioni%20alle%20vigenti%20norme%20sul%20tiro%20a%20segno%20nazionale.%20036U1143.md):
 
 Visto il [decreto legislativo Luogotenenziale 8 luglio 1944, n. 286](Passaggio%20del%20tiro%20a%20segno%20nazionale%20alle%20dipendenze%20del%20Ministero%20della%20guerra%20e%20nomina%20di%20un%20commissario%20straordinario%20dellUnione%20italiana%20di%20tiro%20a%20segno.%20nazionale%20o%20delle%20Sezioni%20di%20_b1e3fb84a38c.md);
 

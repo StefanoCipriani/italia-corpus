@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico di legge sugli istituti di emissione approvato con [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md);
+Visto il testo unico di legge sugli istituti di emissione approvato con [R. decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md);
 
 Visto il [R. decreto-legge 2 gennaio 1923, n. 5](Che%20proroga%20fino%20al%201925%20la%20facolta%20di%20emissione%20dei%20biglietti%20di%20Banca%20e%20del%20loro%20corso%20legale%20e%20reca%20norme%20relative%20alla%20tassa%20di%20circolazione.%20023U0005.md);
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 27 dicembre 1940, n. 1728](Disciplina%20della%20distribuzione%20e%20dei%20consumi%20dei%20prodotti%20industriali%20in%20periodo%20di%20guerra.%20040U1728.md), sulla disciplina della distribuzione e dei consumi dei prodotti industriali, convertito nella [legge 20 marzo 1941, n. 384](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20dicembre%201940-XIX%20n.%201728%20contenente%20norme%20per%20la%20disciplina%20della%20distribuzione%20e%20dei%20consumi%20dei%20prodotti%20industriali%20in%20p_d3a41bb595d6.md);
+Visto il [regio decreto-legge 27 dicembre 1940, n. 1728](Disciplina%20della%20distribuzione%20e%20dei%20consumi%20dei%20prodotti%20industriali%20in%20periodo%20di%20guerra.%20040U1728.md), sulla disciplina della distribuzione e dei consumi dei prodotti industriali, convertito nella [legge 20 marzo 1941, n. 384](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20dicembre%201940-XIX%20n.%201728%20contenente%20norme%20per%20la%20disciplina%20della%20distribuzione%20e%20dei%20consumi%20dei%20prodotti%20industriali%20in%20p_d3a41bb595d6.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 28 dicembre 1946, n. 566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-28;566), col quale e' stata prorogata al 30 giugno 1947 la validita' delle disposizioni contenute nel citato [regio decreto-legge 27 dicembre 1940, n. 1728](Disciplina%20della%20distribuzione%20e%20dei%20consumi%20dei%20prodotti%20industriali%20in%20periodo%20di%20guerra.%20040U1728.md);
 

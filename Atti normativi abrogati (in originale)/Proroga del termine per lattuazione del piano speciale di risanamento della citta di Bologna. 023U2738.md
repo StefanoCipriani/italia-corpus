@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Ritenuta la necessita' di prorogare il termine per l'attuazione del piano speciale di risanamento della citta' di Bologna, approvato con [R. decreto 22 luglio 1887, n. 4794](../Regi%20decreti/Che%20autorizza%20il%20Comune%20di%20Bologna%20ad%20applicare%20le%20disposizioni%20della%20legge%20per%20il%20miglioramento%20delle%20condizioni%20igieniche%20della%20citta.%20087U4794.md), e successivamente protratto con le [leggi 11 aprile 1889, numero 6020; 29 giugno 1902, n. 256; 11 luglio 1907, n. 459; 4 giugno 1914, n. 539](Che%20proroga%20il%20termine%20per%20lattuazione%20del%20piano%20di%20risanamento%20della%20citta%20di%20Bologna.%20014U0539.md), e col [R. decreto-legge 16 marzo 1919, n. 1521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-03-16;1521);
+Ritenuta la necessita' di prorogare il termine per l'attuazione del piano speciale di risanamento della citta' di Bologna, approvato con [R. decreto 22 luglio 1887, n. 4794](Che%20autorizza%20il%20Comune%20di%20Bologna%20ad%20applicare%20le%20disposizioni%20della%20legge%20per%20il%20miglioramento%20delle%20condizioni%20igieniche%20della%20citta.%20087U4794.md), e successivamente protratto con le [leggi 11 aprile 1889, numero 6020; 29 giugno 1902, n. 256; 11 luglio 1907, n. 459; 4 giugno 1914, n. 539](Che%20proroga%20il%20termine%20per%20lattuazione%20del%20piano%20di%20risanamento%20della%20citta%20di%20Bologna.%20014U0539.md), e col [R. decreto-legge 16 marzo 1919, n. 1521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-03-16;1521);
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro, Segretario di Stato per gli affari dell'inte
 
 ## Art. 1.
 
-Il termine per l'attuazione del piano speciale di risanamento della citta' di Bologna, approvato con [R. decreto 22 luglio 1887, n. 4794](../Regi%20decreti/Che%20autorizza%20il%20Comune%20di%20Bologna%20ad%20applicare%20le%20disposizioni%20della%20legge%20per%20il%20miglioramento%20delle%20condizioni%20igieniche%20della%20citta.%20087U4794.md), e successivamente prorogato fino al 23 aprile 1923, e' ulteriormente prorogato fino al 23 aprile 1929. 
+Il termine per l'attuazione del piano speciale di risanamento della citta' di Bologna, approvato con [R. decreto 22 luglio 1887, n. 4794](Che%20autorizza%20il%20Comune%20di%20Bologna%20ad%20applicare%20le%20disposizioni%20della%20legge%20per%20il%20miglioramento%20delle%20condizioni%20igieniche%20della%20citta.%20087U4794.md), e successivamente prorogato fino al 23 aprile 1923, e' ulteriormente prorogato fino al 23 aprile 1929. 
  
  Nel compimento delle opere del predetto risanamento il comune di Bologna, potra' continuare ad avvalersi delle disposizioni speciali degli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_12), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_13), [15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_15), [16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_16) e [17 della legge 15 gennaio 1885, n. 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_17).
 

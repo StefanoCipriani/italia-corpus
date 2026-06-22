@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto il Nostro decreto 18 novembre 1915; 
  
- Visto il [R. decreto 1° luglio 1909, n. 569](../Regi%20decreti/Che%20istituisce%20una%20Commissione%20consultiva%20incaricata%20di%20attendere%20ai%20lavori%20preparatori%20delle%20Conferenze%20di%20diritto%20internazionale%20privato.%20009U0569.md); 
+ Visto il [R. decreto 1° luglio 1909, n. 569](Che%20istituisce%20una%20Commissione%20consultiva%20incaricata%20di%20attendere%20ai%20lavori%20preparatori%20delle%20Conferenze%20di%20diritto%20internazionale%20privato.%20009U0569.md); 
  
  Sulla proposta dei ministri segretari di Stato per gli affari esteri e della grazia e giustizia; 
  

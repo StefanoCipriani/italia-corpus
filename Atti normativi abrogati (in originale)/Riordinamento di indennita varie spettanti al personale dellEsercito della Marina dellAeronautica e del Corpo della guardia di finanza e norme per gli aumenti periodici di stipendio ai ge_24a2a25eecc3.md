@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La tabella V annessa al [regio decreto 2 giugno 1924, n. 931](../Regi%20decreti/Applicazione%20dellart.%20189%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20relativo%20agli%20assegni%20a%20terra%20da%20corrispondersi%20ai%20personali%20civili%20e%20militari%20della%20Regia%20marina.%20024U0931.md), quale risulta successivamente modificata, concernente assegni ai palombari e sommozzatori della Marina e loro guide, e' sostituita dalla tabella annessa alla presente legge. 
+La tabella V annessa al [regio decreto 2 giugno 1924, n. 931](Applicazione%20dellart.%20189%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20relativo%20agli%20assegni%20a%20terra%20da%20corrispondersi%20ai%20personali%20civili%20e%20militari%20della%20Regia%20marina.%20024U0931.md), quale risulta successivamente modificata, concernente assegni ai palombari e sommozzatori della Marina e loro guide, e' sostituita dalla tabella annessa alla presente legge. 
  Gli assegni di cui alla suddetta tabella e, in quanto applicabili, le relative norme di corresponsione sono estesi agli altri militari della Marina e ai militari dell'Esercito, dell'Aeronautica e del Corpo della guardia di finanza che si trovino nelle condizioni di impiego di cui alla tabella stessa.
 
 ## Art. 2.
@@ -40,7 +40,7 @@ sottufficiali..................................... " 60
 
 ## Art. 4.
 
-Le detrazioni contemplate dalle [lettere a)](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [b) dell'art. 156 del regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificato dall'[art. 1 della legge 26 ottobre 1949, n. 915](Modificazioni%20dellarticolo%20156%20del%20regio%20decreto%2011%20novembre%201923%20n.%202395%20relativo%20allordinamento%20gerarchico%20dellAmministrazione%20dello%20Stato.md), sono stabilite, per i generali di corpo d'armata in anni 30, per gli ammiragli di squadra e generali ispettori della Marina in anni 29, per i generali di squadra aerea e generali ispettori dell'Aeronautica in anni 27.
+Le detrazioni contemplate dalle [lettere a)](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [b) dell'art. 156 del regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificato dall'[art. 1 della legge 26 ottobre 1949, n. 915](Modificazioni%20dellarticolo%20156%20del%20regio%20decreto%2011%20novembre%201923%20n.%202395%20relativo%20allordinamento%20gerarchico%20dellAmministrazione%20dello%20Stato.md), sono stabilite, per i generali di corpo d'armata in anni 30, per gli ammiragli di squadra e generali ispettori della Marina in anni 29, per i generali di squadra aerea e generali ispettori dell'Aeronautica in anni 27.
  Le suddette detrazioni si applicano, se piu' favorevoli, anche ai fini della riliquidazione delle pensioni prevista dagli [articoli 24 e seguenti del decreto del Presidente della Repubblica 11 gennaio 1956, n. 20](../DPR/Disposizioni%20sul%20trattamento%20di%20quiescenza%20del%20personale%20statale.md).
 
 ## Art. 5.

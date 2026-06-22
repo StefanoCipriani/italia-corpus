@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 ottobre 1923, n. 2492](../Regi%20decreti/Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md);
+Visto il [R. decreto 31 ottobre 1923, n. 2492](Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md);
 
-Visto il [R. decreto 9 dicembre 1923, n. 2892](../Regi%20decreti/Trasferimenti%20di%20professori%20di%20ruolo%20dalluniversita%20e%20dagli%20istituti%20superiori%20dipendenti%20dal%20Ministero%20dellistruzione%20ai%20Regi%20istituti%20superiori%20di%20grado%20universitario%20dipendenti%20dal%20Min_fbd279dc28cc.md);
+Visto il [R. decreto 9 dicembre 1923, n. 2892](Trasferimenti%20di%20professori%20di%20ruolo%20dalluniversita%20e%20dagli%20istituti%20superiori%20dipendenti%20dal%20Ministero%20dellistruzione%20ai%20Regi%20istituti%20superiori%20di%20grado%20universitario%20dipendenti%20dal%20Min_fbd279dc28cc.md);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
 Sentito il Consiglio dei Ministri;
 
@@ -30,7 +30,7 @@ Capo I.
 
 ### Art. 1.
 
-Le disposizioni dei [commi 2°](../Regi%20decreti/Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md), [3°](../Regi%20decreti/Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md) e [4° dell'art. 1 del R. decreto 31 ottobre 1923, n. 2492](../Regi%20decreti/Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md), sono abrogate.
+Le disposizioni dei [commi 2°](Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md), [3°](Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md) e [4° dell'art. 1 del R. decreto 31 ottobre 1923, n. 2492](Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md), sono abrogate.
 
 ### Art. 2.
 
@@ -40,7 +40,7 @@ L'Istituto superiore forestale nazionale di Firenze e' trasformato, a partire da
 
 ### Art. 3.
 
-Al ruolo del personale insegnante ed assistente, di cui alla tabella n. 86 dell'allegato II del [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono aggiunti, rispettivamente, 2 posti di professore e 2 posti di assistente. 
+Al ruolo del personale insegnante ed assistente, di cui alla tabella n. 86 dell'allegato II del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono aggiunti, rispettivamente, 2 posti di professore e 2 posti di assistente. 
  
  Il riparto dei posti fra i Regi istituti superiori agrari di Bologna, di Milano, di Perugia, di Pisa e di Portici, ed il Regio istituto superiore agrario forestale di Firenze, sara' determinato con decreto Reale promosso dal Ministro per l'economia nazionale.
 
@@ -112,13 +112,13 @@ Capo III.
 
 ### Art. 15.
 
-All'[art. 3 del R. decreto 9 dicembre 1923, n. 2892](../Regi%20decreti/Trasferimenti%20di%20professori%20di%20ruolo%20dalluniversita%20e%20dagli%20istituti%20superiori%20dipendenti%20dal%20Ministero%20dellistruzione%20ai%20Regi%20istituti%20superiori%20di%20grado%20universitario%20dipendenti%20dal%20Min_fbd279dc28cc.md), e' sostituito il seguente: 
+All'[art. 3 del R. decreto 9 dicembre 1923, n. 2892](Trasferimenti%20di%20professori%20di%20ruolo%20dalluniversita%20e%20dagli%20istituti%20superiori%20dipendenti%20dal%20Ministero%20dellistruzione%20ai%20Regi%20istituti%20superiori%20di%20grado%20universitario%20dipendenti%20dal%20Min_fbd279dc28cc.md), e' sostituito il seguente: 
  
  «Non potranno costituirsi presso altri Istituti d'istruzione superiore di qualsiasi natura, facolta' o scuole dirette agli stessi fini o a fini analoghi a quelli degli Istituti superiori dipendenti dal Ministero dell'economia nazionale se non di concerto tra i Ministri interessati sentito il parere della sezione 1ª del Consiglio superiore dell'istruzione agraria, commerciale ed industriale».
 
 ### Art. 16.
 
-In attesa degli accordi di cui all'[art. 1 del R. decreto 9 dicembre 1923, n. 2892](../Regi%20decreti/Trasferimenti%20di%20professori%20di%20ruolo%20dalluniversita%20e%20dagli%20istituti%20superiori%20dipendenti%20dal%20Ministero%20dellistruzione%20ai%20Regi%20istituti%20superiori%20di%20grado%20universitario%20dipendenti%20dal%20Min_fbd279dc28cc.md), per gli insegnamenti di determinate materie tra l'Istituto superiore agrario e forestale e l'Universita' di Firenze, per gli iscritti nell'anno scolastico 1924-25 al primo anno di corso dell'Istituto superiore predetto verra' trasferita d'ufficio a cura dell'Istituto stesso, ad ogni effetto di legge la iscrizione per la frequenza e per gli esami delle materie generali, alla facolta' di scienze dell'Universita'.
+In attesa degli accordi di cui all'[art. 1 del R. decreto 9 dicembre 1923, n. 2892](Trasferimenti%20di%20professori%20di%20ruolo%20dalluniversita%20e%20dagli%20istituti%20superiori%20dipendenti%20dal%20Ministero%20dellistruzione%20ai%20Regi%20istituti%20superiori%20di%20grado%20universitario%20dipendenti%20dal%20Min_fbd279dc28cc.md), per gli insegnamenti di determinate materie tra l'Istituto superiore agrario e forestale e l'Universita' di Firenze, per gli iscritti nell'anno scolastico 1924-25 al primo anno di corso dell'Istituto superiore predetto verra' trasferita d'ufficio a cura dell'Istituto stesso, ad ogni effetto di legge la iscrizione per la frequenza e per gli esami delle materie generali, alla facolta' di scienze dell'Universita'.
 
 ### Art. 17.
 

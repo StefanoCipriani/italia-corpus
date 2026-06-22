@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli articoli 107, 108 e 109 del regolamento sulla privativa dei sali e dei tabacchi, approvato con [R. decreto 1° agosto 1901, n. 399](../Regi%20decreti/Che%20approva%20il%20nuovo%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20privativa%20dei%20sali%20e%20tabacchi.%20001U0399.md), sono sostituiti i seguenti: 
+Agli articoli 107, 108 e 109 del regolamento sulla privativa dei sali e dei tabacchi, approvato con [R. decreto 1° agosto 1901, n. 399](Che%20approva%20il%20nuovo%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20privativa%20dei%20sali%20e%20tabacchi.%20001U0399.md), sono sostituiti i seguenti: 
  
  Art. 107. - La istituzione delle rivendite e' decretata dalla Intendenza di finanza, sentita la Giunta municipale e avuto parere della guardia di finanza e dell'ispettore compartimentale delle privative. 
  

@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Oltre che per le spese di cui al [R. decreto 17 settembre 1910, n. 859](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20gestioni%20affidate%20agli%20economi-cassieri%20delle%20Amministrazioni%20centrali.%20010U0859.md) (minute spese d'ufficio, di cancelleria, riparazioni e manutenzioni di mobili e locali, spedizioni di telegrammi all'estero, spese casuali e sussidi urgenti, e spese attinenti ai servizi ad economia) potranno essere tratti mandati di anticipazione a favore degli economi-cassieri dei Ministeri per spese di viaggio e per indennita' da corrispondersi a funzionari dell'Amministrazione o a persone comunque munite di incarichi per conto dell'Amministrazione dello Stato.
+Oltre che per le spese di cui al [R. decreto 17 settembre 1910, n. 859](Che%20approva%20lannesso%20regolamento%20per%20le%20gestioni%20affidate%20agli%20economi-cassieri%20delle%20Amministrazioni%20centrali.%20010U0859.md) (minute spese d'ufficio, di cancelleria, riparazioni e manutenzioni di mobili e locali, spedizioni di telegrammi all'estero, spese casuali e sussidi urgenti, e spese attinenti ai servizi ad economia) potranno essere tratti mandati di anticipazione a favore degli economi-cassieri dei Ministeri per spese di viaggio e per indennita' da corrispondersi a funzionari dell'Amministrazione o a persone comunque munite di incarichi per conto dell'Amministrazione dello Stato.
 
 ## Art. 2.
 
-Alle anticipazioni, di cui nel precedente articolo, sono applicabili le procedure e le cautele speciali prescritte nel citato [R. decreto 17 settembre 1910, n. 859](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20gestioni%20affidate%20agli%20economi-cassieri%20delle%20Amministrazioni%20centrali.%20010U0859.md), per le gestioni affidate agli economi-cassieri dei Ministeri.
+Alle anticipazioni, di cui nel precedente articolo, sono applicabili le procedure e le cautele speciali prescritte nel citato [R. decreto 17 settembre 1910, n. 859](Che%20approva%20lannesso%20regolamento%20per%20le%20gestioni%20affidate%20agli%20economi-cassieri%20delle%20Amministrazioni%20centrali.%20010U0859.md), per le gestioni affidate agli economi-cassieri dei Ministeri.
 
 ## Art. 3.
 

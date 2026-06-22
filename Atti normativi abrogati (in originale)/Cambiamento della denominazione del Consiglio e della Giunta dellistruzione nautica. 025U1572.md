@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 7 ottobre 1923, n. 2197](../Regi%20decreti/Riordinamento%20del%20Consiglio%20e%20della%20Giunta%20della%20istruzione%20nautica.%20023U2197.md), riguardante il riordinamento del Consiglio e della Giunta dell'istruzione nautica; 
+ Visto il [R. decreto 7 ottobre 1923, n. 2197](Riordinamento%20del%20Consiglio%20e%20della%20Giunta%20della%20istruzione%20nautica.%20023U2197.md), riguardante il riordinamento del Consiglio e della Giunta dell'istruzione nautica; 
  
  Visto il voto formulato dal Consiglio dell'istruzione nautica; 
  

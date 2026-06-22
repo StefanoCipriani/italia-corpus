@@ -40,11 +40,11 @@ L'ammontare complessivo dei mutui che l'Ente Acquedotti Siciliani e' autorizzato
 ## Art. 4.
 
 Per le spese di manutenzione ordinaria, di esercizio e di ammortamento dei mutui, e per le spese generali dell'Ente, si provvede con il gettito dei canoni di utenza e con il rimborso, da parte dei Comuni, delle quote, di loro spettanza, delle spese di manutenzione e di esercizio degli acquedotti promiscui, ove i Comuni non trasferiscano la gestione delle corrispondenti utenze.
- Ai fini di tale rimborso e' applicabile, a favore dell'Ente, la procedura di cui all'art. 104 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
+ Ai fini di tale rimborso e' applicabile, a favore dell'Ente, la procedura di cui all'art. 104 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
 
 ## Art. 5.
 
-L'ammortamento dei mutui che l'Ente e' autorizzato a contrarre a norma del precedente art. 3 e per la parte alla quale non possa provvedersi con le entrate di cui all'art. 4 del presente decreto, e' garantito per capitale ed interessi dallo Stato, con le modalita' stabilite dal [regio decreto 23 febbraio 1942, n. 369](../Regi%20decreti/Norme%20per%20la%20esecuzione%20della%20legge%2019%20gennaio%201942-XX%20n.%2024%20riguardante%20la%20istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0369.md).
+L'ammortamento dei mutui che l'Ente e' autorizzato a contrarre a norma del precedente art. 3 e per la parte alla quale non possa provvedersi con le entrate di cui all'art. 4 del presente decreto, e' garantito per capitale ed interessi dallo Stato, con le modalita' stabilite dal [regio decreto 23 febbraio 1942, n. 369](Norme%20per%20la%20esecuzione%20della%20legge%2019%20gennaio%201942-XX%20n.%2024%20riguardante%20la%20istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0369.md).
  L'ultimo comma dell'[art. 4 della legge 19 gennaio 1942, n. 24](Istituzione%20dellEnte%20acquedotti%20siciliani%20E.a.s..%20042U0024.md), e' abrogato.
 
 ## Art. 6.

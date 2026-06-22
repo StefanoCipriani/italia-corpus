@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 25 marzo 1923, n. 913](../Regi%20decreti/Che%20estende%20ai%20territori%20annessi%20al%20Regno%20le%20disposizioni%20legislative%20e%20regolamentari%20sui%20lavori%20pubblici.%20023U0913.md), col quale sono state estese le disposizioni legislative in materia di bonificamento alle nuove Provincie;
+Visto il [R. decreto 25 marzo 1923, n. 913](Che%20estende%20ai%20territori%20annessi%20al%20Regno%20le%20disposizioni%20legislative%20e%20regolamentari%20sui%20lavori%20pubblici.%20023U0913.md), col quale sono state estese le disposizioni legislative in materia di bonificamento alle nuove Provincie;
 
 Visti gli articoli 2 e 3 del testo unico di leggi sulle bonificazioni 30 dicembre 1923, n. 3256;
 

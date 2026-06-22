@@ -36,7 +36,7 @@ Il Tribunale speciale della Libia, istituito con il R. decreto 2 giugno 1927-V, 
 
 ## Art. 2.
 
-Il Tribunale speciale della Libia, su richiesta del pubblico ministero, o per iniziativa del presidente, quando sia intervenuta la sentenza di rinvio o la richiesta di citazione a giudizio, puo' rimettere gli atti al giudice competente, secondo le norme ordinarie, ove ne ravvisi la convenienza e si verifichi taluna delle circostanze indicate nell'[art. 311 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Il Tribunale speciale della Libia, su richiesta del pubblico ministero, o per iniziativa del presidente, quando sia intervenuta la sentenza di rinvio o la richiesta di citazione a giudizio, puo' rimettere gli atti al giudice competente, secondo le norme ordinarie, ove ne ravvisi la convenienza e si verifichi taluna delle circostanze indicate nell'[art. 311 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  La decisione e' presa dal Tribunale speciale con sentenza in Camera di consiglio. 
  

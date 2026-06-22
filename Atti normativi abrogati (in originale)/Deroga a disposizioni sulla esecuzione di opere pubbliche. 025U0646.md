@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Visti la legge e il regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato;
 
-Visto il testo unico delle leggi sul Consiglio di Stato, approvato col [R. decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md);
+Visto il testo unico delle leggi sul Consiglio di Stato, approvato col [R. decreto 26 giugno 1924, n. 1054](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md);
 
 Visto il [R. decreto 28 agosto 1924, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1395), riguardante l'istituzione dei circoli d'ispezione del Genio civile e la riforma del Consiglio superiore dei lavori pubblici;
 
-Visti i [Regi decreti 8 febbraio 1923, n. 422](../Regi%20decreti/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), e [28 agosto 1924, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396), contenenti norme per l'esecuzione delle opere pubbliche;
+Visti i [Regi decreti 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), e [28 agosto 1924, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396), contenenti norme per l'esecuzione delle opere pubbliche;
 
 Sentito il Consiglio dei Ministri;
 
@@ -56,7 +56,7 @@ All'[art. 9 del R. decreto 28 agosto 1924, n. 1396](https://www.normattiva.it/ur
 
 ## Art. 4.
 
-Il [primo comma dell'art. 24 del R. decreto 8 febbraio 1923, n. 422](../Regi%20decreti/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), e' sostituito dal seguente: 
+Il [primo comma dell'art. 24 del R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), e' sostituito dal seguente: 
  
  «Nei casi di somma urgenza preveduti dall'[art. 70 del regolamento 25 maggio 1895, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1895-05-25;350#art_70), per la direzione, contabilita' e collaudazione dei lavori dello Stato, l'ingegnere capo potra' disporre l'immediata esecuzione dei lavori sino alla concorrenza di L. 50,000». 
  

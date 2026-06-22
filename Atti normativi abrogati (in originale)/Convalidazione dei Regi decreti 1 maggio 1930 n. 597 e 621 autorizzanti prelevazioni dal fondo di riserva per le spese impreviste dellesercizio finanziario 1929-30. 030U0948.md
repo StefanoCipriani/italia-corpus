@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Sono convalidati i [Regi decreti 1 maggio 1930, nn. 597](../Regi%20decreti/18ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201929-30.%20030U0597.md) e [621](../Regi%20decreti/17ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201929-1930.%20030U0621.md), autorizzanti prelevazioni dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1929-30. 
+ Sono convalidati i [Regi decreti 1 maggio 1930, nn. 597](18ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201929-30.%20030U0597.md) e [621](17ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201929-1930.%20030U0621.md), autorizzanti prelevazioni dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1929-30. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,9 +16,9 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico delle leggi sulla pesca, approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md);
+Visto il testo unico delle leggi sulla pesca, approvato con [R. decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md);
 
-Visto il [R. decreto 26 marzo 1936, n. 1418](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md), che apporta modificazioni alle disposizioni tributarie sulle concessioni governative;
+Visto il [R. decreto 26 marzo 1936, n. 1418](Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md), che apporta modificazioni alle disposizioni tributarie sulle concessioni governative;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e le fo
 
 ## Art. 1.
 
-All'art. 4 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e' aggiunto il seguente comma: 
+All'art. 4 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e' aggiunto il seguente comma: 
  
  «E' data facolta' al Ministero dell'agricoltura e delle foreste, di concerto con quello delle comunicazioni, sentita la locale Commissione per la pesca, di stabilire, limitatamente al litorale delle provincie ex austriache, che la pesca su determinati tratti del litorale, sino ad un miglio dalla costa, sia riservata ai rivieraschi». 
  
@@ -46,7 +46,7 @@ All'art. 4 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 o
 
 ## Art. 2.
 
-All'art. 8 del testo unico delle leggi sulla pesca approvato col [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md) e' sostituito l'articolo che segue:  
+All'art. 8 del testo unico delle leggi sulla pesca approvato col [R. decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md) e' sostituito l'articolo che segue:  
  «I divieti di pesca, compresi quelli concernenti l'uso degli attrezzi, i divieti di commercio e di trasporto dei prodotti della pesca e le norme riflettenti la licenza di pesca, di cui all'art. 22, non si applicano nei confronti del personale del Regio Laboratorio centrale di idrobiologia applicata alla pesca, dei Regi stabilimenti ittiogenici e degli Osservatori di pesca nell'esercizio delle loro funzioni. 
  
  «Il Ministero dell'agricoltura e delle foreste ha facolta' di consentire deroghe alle norme vigenti circa il disciplinamento della pesca in occasione dell'esecuzione di operazioni scientifiche o di esperimenti di pesca». 
@@ -65,7 +65,7 @@ All'art. 8 del testo unico delle leggi sulla pesca approvato col [R. decreto 8 o
 
 ## Art. 3.
 
-L'art. 22 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e' sostituito dall'articolo di cui appresso: 
+L'art. 22 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e' sostituito dall'articolo di cui appresso: 
  
  «Chiunque eserciti la pesca nelle acque dolci pubbliche o private del Regno a scopo di lucro e per trarne, in tutto od in parte, i mezzi del proprio sostentamento, e' considerato pescatore di mestiere. 
  
@@ -93,7 +93,7 @@ L'art. 22 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ot
 
 ## Art. 4.
 
-Ai commi 3, 4 e 5 dell'art. 33 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e' sostituito il comma di cui appresso: 
+Ai commi 3, 4 e 5 dell'art. 33 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e' sostituito il comma di cui appresso: 
  
  «Per le infrazioni all'art. 5 si applica l'ammenda da L. 200 a L. 1000, per quelle all'art. 6, primo comma, si applicano, congiuntamente od alternativamente, l'arresto da 10 giorni a 6 mesi e l'ammenda da L. 500 a L. 2000, per quella all'articolo 6, secondo comma, l'ammenda da L. 200 a L. 1000, infine per quelle all'articolo 7 l'ammenda da L. 500 a L. 1000». 
  
@@ -105,7 +105,7 @@ Ai commi 3, 4 e 5 dell'art. 33 del testo unico delle leggi sulla pesca approvato
  
  Al secondo comma dell'art. 37 dello stesso testo unico sono sostituiti i commi che seguono: 
  
- «Chiunque venga trovato a pescare nelle acque dolci senza il documento di licenza all'uopo prescritto e' punito, salvo il disposto dell'[art. 6 del R. decreto 26 marzo 1936, n. 1418](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md): 
+ «Chiunque venga trovato a pescare nelle acque dolci senza il documento di licenza all'uopo prescritto e' punito, salvo il disposto dell'[art. 6 del R. decreto 26 marzo 1936, n. 1418](Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md): 
  
  a) se abbia conseguita la licenza, con l'ammenda da L. 20 a L. 40; 
  
@@ -116,7 +116,7 @@ Ai commi 3, 4 e 5 dell'art. 33 del testo unico delle leggi sulla pesca approvato
 
 ## Art. 5.
 
-L'[art. 6 del R. decreto 26 marzo 1936, n. 1418](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md), e' modificato come segue: 
+L'[art. 6 del R. decreto 26 marzo 1936, n. 1418](Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md), e' modificato come segue: 
  
  «Art. 6. - Il comma terzo della nota apposta al n. 20 della tabella A annessa alla legge tributaria sulle concessioni governative 30 dicembre 1923, n. 3279, e' sostituito dal seguente: 
  
@@ -124,17 +124,17 @@ L'[art. 6 del R. decreto 26 marzo 1936, n. 1418](../Regi%20decreti/Modificazioni
 
 ## Art. 6.
 
-Alla prima riga dell'art. 38 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), sono soppresse le parole in parentesi: «parte prima», ed alla terza riga alle parole: «portate da altre leggi» sono sostituite quelle: «stabilite dalla presente e da altre leggi». 
+Alla prima riga dell'art. 38 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), sono soppresse le parole in parentesi: «parte prima», ed alla terza riga alle parole: «portate da altre leggi» sono sostituite quelle: «stabilite dalla presente e da altre leggi». 
  
  Nel terzo comma del medesimo articolo alle parole: «materie velenose» sono aggiunte quelle: «o con la corrente elettrica». 
  
  Il primo comma dell'art. 40 del testo unico accennato e' completato come segue: 
  
- «Le infrazioni alle norme circa la licenza di pesca in acque dolci, che importano pena pecuniaria ai sensi dell'[art. 6 del R. decreto 26 marzo 1936, n. 1418](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md), sono denunciate anche all'intendenza di finanza».
+ «Le infrazioni alle norme circa la licenza di pesca in acque dolci, che importano pena pecuniaria ai sensi dell'[art. 6 del R. decreto 26 marzo 1936, n. 1418](Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md), sono denunciate anche all'intendenza di finanza».
 
 ## Art. 7.
 
-All'art. 41 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e' sostituito il seguente: 
+All'art. 41 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e' sostituito il seguente: 
  
  «Per le infrazioni alla presente legge ed ai relativi regolamenti per le quali e' comminata la sola pena dell'ammenda, prima che il decreto di condanna sia divenuto esecutivo, o quando sia stata fatta opposizione, prima dell'apertura del dibattimento innanzi all'Autorita' giudiziaria di primo grado, il contravventore, qualora non sia recidivo, puo' far domanda di oblazione, previo deposito di somma pari a meta' tra il massimo ed il minimo dell'ammenda stabilita per l'infrazione commessa. 
  
@@ -148,11 +148,11 @@ All'art. 41 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 
 
 ## Art. 8.
 
-Al comma lettera e) dell'art. 48 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e' sostituito quello seguente: 
+Al comma lettera e) dell'art. 48 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e' sostituito quello seguente: 
  
  «e) della concessione per l'esercizio delle proprie attivita' di aree e fabbricati del Demanio marittimo, col pagamento del solo annuo canone di L. 20, a titolo ricognitorio, e con l'esonero delle domande e degli atti relativi alla concessione dalle tasse di registro e bollo, a condizione che le Societa' cooperative assumano l'obbligo di rimborsare o pagare le imposte e sovrimposte ed ogni altro tributo o contributo fondiario o consorziale in quanto dovuti, nonche' l'obbligo della manutenzione ordinaria e straordinaria dei fabbricati». 
  
- Agli articoli 53, 54, 55 e 56 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), sono sostituiti i seguenti: 
+ Agli articoli 53, 54, 55 e 56 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), sono sostituiti i seguenti: 
  
  «Art. 53. - Per il raggiungimento di finalita' di pubblico interesse nel campo della tutela e dell'incremento del patrimonio ittico nelle acque interne possono costituirsi associazioni esclusivamente in forma di Consorzi per la tutela della pesca. Tali enti sono soggetti al riconoscimento ed alla vigilanza da parte del Ministero dell'agricoltura e delle foreste. Essi hanno personalita' giuridica e sono ammessi al gratuito patrocinio». 
  
@@ -181,15 +181,15 @@ Nell'esercizio delle sue funzioni il presidente e' coadiuvato da un Ufficio di p
 
 ## Art. 9.
 
-All'articolo 58 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931 n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e' sostituito il seguente: 
+All'articolo 58 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931 n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e' sostituito il seguente: 
  
- «Le guardie giurate dipendenti dai Consorzi per la tutela della pesca, nominate ai sensi dell'[art. 133 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 18 giugno 1931, n. 773, e degli articoli 265 e seguenti](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) del regolamento di esecuzione delle leggi stesse, ([R. decreto 21 gennaio 1929, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-21;62)) quando l'attivita' del Consorzio dal quale dipendono si svolga in piu' di una Provincia, possono essere autorizzate dal Prefetto competente, previo nulla osta degli altri Prefetti interessati, ad esercitare le proprie funzioni su tutto il territorio costituente la circoscrizione del Consorzio stesso». 
+ «Le guardie giurate dipendenti dai Consorzi per la tutela della pesca, nominate ai sensi dell'[art. 133 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 18 giugno 1931, n. 773, e degli articoli 265 e seguenti](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) del regolamento di esecuzione delle leggi stesse, ([R. decreto 21 gennaio 1929, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-21;62)) quando l'attivita' del Consorzio dal quale dipendono si svolga in piu' di una Provincia, possono essere autorizzate dal Prefetto competente, previo nulla osta degli altri Prefetti interessati, ad esercitare le proprie funzioni su tutto il territorio costituente la circoscrizione del Consorzio stesso». 
  
  Nell'art. 61 del testo unico medesimo alle parole: «di sciogliere il relativo Consiglio di amministrazione» sono sostituite quelle: «di far cessare dalle loro funzioni gli ordinari organi direttivi, amministrativi e consultivi dell'ente».
 
 ## Art. 10.
 
-Il Governo del Re e' autorizzato a riunire e coordinare, in un nuovo testo unico, le presenti disposizioni legislative con quelle contenute nel testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e nei provvedimenti successivamente emanati ad integrazione del detto testo unico o riguardanti materia in esso disciplinata. 
+Il Governo del Re e' autorizzato a riunire e coordinare, in un nuovo testo unico, le presenti disposizioni legislative con quelle contenute nel testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e nei provvedimenti successivamente emanati ad integrazione del detto testo unico o riguardanti materia in esso disciplinata. 
  
  Il presente decreto sara', presentato al Parlamento per la sua conversione in legge. 
  

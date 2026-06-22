@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle disposizioni sugli stipendi, sulle paghe giornaliere e sugli assegni fissi del Regio esercito, approvato con [R. decreto 31 dicembre 1928, n. 3458](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md);
+Visto il testo unico delle disposizioni sugli stipendi, sulle paghe giornaliere e sugli assegni fissi del Regio esercito, approvato con [R. decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Agli articoli 39 e 41 del testo unico delle disposizioni sugli stipendi, sulle paghe giornaliere e sugli assegni fissi per il Regio esercito, approvato con [R. decreto 31 dicembre 1928, n. 3458](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), sono sostituiti rispettivamente i seguenti: 
+Agli articoli 39 e 41 del testo unico delle disposizioni sugli stipendi, sulle paghe giornaliere e sugli assegni fissi per il Regio esercito, approvato con [R. decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), sono sostituiti rispettivamente i seguenti: 
  
  «Art. 39. - La cessazione o la riduzione del numero delle razioni foraggio incomincia dopo il sessantesimo giorno successivo a quello della pubblicazione o partecipazione del provvedimento per effetto del quale si perde, e' sospeso o ridotto, ai termini degli articoli precedenti, il diritto alle razioni di foraggio». 
  

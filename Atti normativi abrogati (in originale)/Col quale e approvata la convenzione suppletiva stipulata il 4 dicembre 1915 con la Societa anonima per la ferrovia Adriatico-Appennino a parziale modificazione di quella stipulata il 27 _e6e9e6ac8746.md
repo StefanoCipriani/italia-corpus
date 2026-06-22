@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 11 agosto 1909, n. 669](../Regi%20decreti/Che%20approva%20la%20convenzione%20per%20la%20concessione%20e%20lesercizio%20della%20ferrovia%20Adriatico-Sangritana.%20009U0669.md), col quale venne approvata e resa esecutoria la convenzione stipulata il 27 febbraio 1909 con la «Societa' anonima per le ferrovie Adriatico-Appennino» per la concessione della costruzione e dell'esercizio della ferrovia Adriatico-Sangritana; 
+ Visto il [R. decreto 11 agosto 1909, n. 669](Che%20approva%20la%20convenzione%20per%20la%20concessione%20e%20lesercizio%20della%20ferrovia%20Adriatico-Sangritana.%20009U0669.md), col quale venne approvata e resa esecutoria la convenzione stipulata il 27 febbraio 1909 con la «Societa' anonima per le ferrovie Adriatico-Appennino» per la concessione della costruzione e dell'esercizio della ferrovia Adriatico-Sangritana; 
  
  Vista la domanda presentata dalla Societa' in data 10 marzo 1915; 
  

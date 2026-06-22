@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduto il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
+Veduto il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Veduto l'[art. 3 del R. decreto-legge 18 maggio 1924, n. 849](Concorso%20speciale%20per%20maestri%20ex%20combattenti.%20024U0849.md);
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 I maestri e le maestre compresi nelle graduatorie dei concorsi magistrali regionali banditi nel 1927 ancora in vigore o nelle graduatorie dei concorsi magistrali anteriormente banditi, le quali siano state comunque prorogate, saranno dai Regi provveditori agli studi classificati in due distinte graduatorie, secondo l'ordine di merito, una di soli maestri vincitori e l'altra di sole maestre vincitrici. 
  
- La efficacia delle graduatorie in tal modo compilate, o di una sola di esse, agli effetti dell'assegnazione dei posti di cui all'art. 124, comma 3°, del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), potra' essere prorogata dal Ministro al 31 luglio 1931, su richiesta del provveditore, intendendosi riservati: 
+ La efficacia delle graduatorie in tal modo compilate, o di una sola di esse, agli effetti dell'assegnazione dei posti di cui all'art. 124, comma 3°, del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), potra' essere prorogata dal Ministro al 31 luglio 1931, su richiesta del provveditore, intendendosi riservati: 
  
  a) alle graduatorie maschili, un quarto dei posti misti e la meta' di quelli maschili che risultino disponibili, dedotti i posti per precedenti disposizioni di legge riservati ad altre graduatorie o categorie di insegnanti; 
  
@@ -40,7 +40,7 @@ I maestri e le maestre compresi nelle graduatorie dei concorsi magistrali region
 
 ## Art. 2.
 
-Laddove le graduatorie maschili di concorsi regionali risultino esaurite o se ne preveda prossimo l'esaurimento, e non siano in vigore graduatorie di maestri ex combattenti, sara' bandito, entro i giorni quindici dalla data di pubblicazione del presente decreto, con scadenza di un mese e con l'osservanza delle norme generali di cui al capo I, titolo IV, del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), un concorso fra soli maestri, e i vincitori saranno nominati ai posti di scuola mista e a quelli di scuola maschile nella proporzione indicata nella lettera a) del precedente articolo. 
+Laddove le graduatorie maschili di concorsi regionali risultino esaurite o se ne preveda prossimo l'esaurimento, e non siano in vigore graduatorie di maestri ex combattenti, sara' bandito, entro i giorni quindici dalla data di pubblicazione del presente decreto, con scadenza di un mese e con l'osservanza delle norme generali di cui al capo I, titolo IV, del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), un concorso fra soli maestri, e i vincitori saranno nominati ai posti di scuola mista e a quelli di scuola maschile nella proporzione indicata nella lettera a) del precedente articolo. 
  
  Parimenti, ove siano esaurite le graduatorie femminili o se ne preveda prossimo l'esaurimento, uguale concorso, alle stesse condizioni, sara' bandito fra sole maestre, e le vincitrici saranno nominate ai posti di scuola mista e a quelli di scuola femminile nella proporzione indicata nella lettera b) del precedente articolo.
 
@@ -58,13 +58,13 @@ Le graduatorie dei concorsi speciali saranno valide, fino alla nomina di tutti c
  
  Alla graduatoria per ex combattenti, cosi' integrata, sara' riservata la totalita' dei posti di scuola maschile disponibili e la meta' dei posti di scuola mista disponibili, quando non abbiano avuta applicazione i precedenti articoli 1 e 2 nei riguardi delle graduatorie maschili dei concorsi generali. 
  
- Anche pel concorso di cui al precedente articolo avra' applicazione, per i maestri mutilati ed invalidi di guerra, la disposizione di cui all'art. 128 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md).
+ Anche pel concorso di cui al precedente articolo avra' applicazione, per i maestri mutilati ed invalidi di guerra, la disposizione di cui all'art. 128 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md).
 
 ## Art. 5.
 
 I maestri, di cui all'art. 3 del presente decreto, potranno partecipare ad un solo dei concorsi speciali: ove preferiscano partecipare al concorso generale, non potranno partecipare al concorso speciale. 
  
- Per i concorsi, sia generali che speciali, da bandirsi dai Regi provveditori agli studi della Venezia Giulia e della Venezia Tridentina, avra' vigore la norma di cui all'art. 118 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md).
+ Per i concorsi, sia generali che speciali, da bandirsi dai Regi provveditori agli studi della Venezia Giulia e della Venezia Tridentina, avra' vigore la norma di cui all'art. 118 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md).
 
 ## Art. 6.
 

@@ -16,7 +16,7 @@ Visto il regolamento del Corpo degli agenti di pubblica sicurezza, approvato con
 
 Visto il [decreto legislativo luogotenenziale 2 novembre 1944, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-02;385), relativo alla costituzione del Corpo delle guardie di pubblica sicurezza;
 
-Visti i [regi decreti 9 marzo 1936, n. 450](../Regi%20decreti/Modificazioni%20alle%20norme%20che%20regolano%20il%20matrimonio%20del%20personale%20del%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza.%20036U0450.md) e [13 giugno 1940, n. 866 ed il decreto luogotenenziale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1940-06-13;866) [1° febbraio 1915, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-02-01;112);
+Visti i [regi decreti 9 marzo 1936, n. 450](Modificazioni%20alle%20norme%20che%20regolano%20il%20matrimonio%20del%20personale%20del%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza.%20036U0450.md) e [13 giugno 1940, n. 866 ed il decreto luogotenenziale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1940-06-13;866) [1° febbraio 1915, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-02-01;112);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

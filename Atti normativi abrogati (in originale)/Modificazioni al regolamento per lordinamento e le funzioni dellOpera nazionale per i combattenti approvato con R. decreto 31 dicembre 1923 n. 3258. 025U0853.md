@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il regolamento legislativo per l'ordinamento e le funzioni dell'Opera nazionale per i combattenti, approvato con [R. decreto 31 dicembre 1923, n. 3258](../Regi%20decreti/Regolamenti%20concernenti%20lOpera%20nazionale%20per%20i%20combattenti.%20023U3258.md);
+Visto il regolamento legislativo per l'ordinamento e le funzioni dell'Opera nazionale per i combattenti, approvato con [R. decreto 31 dicembre 1923, n. 3258](Regolamenti%20concernenti%20lOpera%20nazionale%20per%20i%20combattenti.%20023U3258.md);
 
-Visto il [R. decreto 19 aprile 1923, n. 850](../Regi%20decreti/Concernente%20la%20sistemazione%20dei%20servizi%20di%20vigilanza%20protezione%20ed%20assistenza%20dei%20reduci%20validi%20ed%20invalidi%20della%20guerra%20nazionale%20e%20delle%20famiglie%20dei%20caduti.%20023U0850.md);
+Visto il [R. decreto 19 aprile 1923, n. 850](Concernente%20la%20sistemazione%20dei%20servizi%20di%20vigilanza%20protezione%20ed%20assistenza%20dei%20reduci%20validi%20ed%20invalidi%20della%20guerra%20nazionale%20e%20delle%20famiglie%20dei%20caduti.%20023U0850.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri; Abbiamo decretato e de
 
 ## Art. 1.
 
-L'art. 26 del regolamento legislativo per l'ordinamento e le funzioni dell'Opera nazionale per i combattenti, approvato con [R. decreto 31 dicembre 1923, n. 3258](../Regi%20decreti/Regolamenti%20concernenti%20lOpera%20nazionale%20per%20i%20combattenti.%20023U3258.md), e' cosi' modificato: 
+L'art. 26 del regolamento legislativo per l'ordinamento e le funzioni dell'Opera nazionale per i combattenti, approvato con [R. decreto 31 dicembre 1923, n. 3258](Regolamenti%20concernenti%20lOpera%20nazionale%20per%20i%20combattenti.%20023U3258.md), e' cosi' modificato: 
  
  «E' istituito in Roma, per l'esercizio delle funzioni amministrative e giurisdizionali, menzionate nelle presenti disposizioni legislative, un Collegio centrale arbitrale, composto di un presidente di sezione della Corte di cassazione che lo presiede, designato dal primo presidente, di un consigliere della Corte di cassazione, di un consigliere di Stato, di un direttore generale del Ministero dell'economia nazionale, di un titolare di cattedra universitaria di economia ed estimo rurale, tutti membri effettivi.  
  «Fanno, inoltre, parte del Collegio, quali membri supplenti un consigliere della Corte di cassazione, un consigliere di Stato, ed un funzionario del Ministero dell'economia nazionale di grado non inferiore a capo sezione o ad ispettore superiore. 

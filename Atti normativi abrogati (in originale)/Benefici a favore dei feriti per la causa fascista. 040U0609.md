@@ -18,7 +18,7 @@ E' riaperto per il periodo di due anni dalla data della pubblicazione della pres
 
 ## Art. 2.
 
-I benefici previsti dagli [articoli 44, lettera b), del R. decreto 30 settembre 1922, n. 1290](../Regi%20decreti/Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md), e 104 del R. decreto 30 dicembre 1923-II, n. 3084, e successive modificazioni ed estensioni a favore dei dipendenti statali di ruolo che hanno riportato ferite di guerra, sono estesi a coloro che abbiano conseguito il brevetto di ferito per la causa fascista per eventi verificatesi in Patria o all'estero dopo il 23 marzo 1919 e risultino iscritti ininterrottamente al Partito Nazionale Fascista almeno dalla data dell'evento che fu causa della ferita.
+I benefici previsti dagli [articoli 44, lettera b), del R. decreto 30 settembre 1922, n. 1290](Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md), e 104 del R. decreto 30 dicembre 1923-II, n. 3084, e successive modificazioni ed estensioni a favore dei dipendenti statali di ruolo che hanno riportato ferite di guerra, sono estesi a coloro che abbiano conseguito il brevetto di ferito per la causa fascista per eventi verificatesi in Patria o all'estero dopo il 23 marzo 1919 e risultino iscritti ininterrottamente al Partito Nazionale Fascista almeno dalla data dell'evento che fu causa della ferita.
 
 ## Art. 3.
 

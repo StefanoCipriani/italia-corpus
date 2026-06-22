@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo : 
  
- E' approvato il seguente articolo aggiuntivo al regolamento sull'avanzamento dei corpi militari della R. marina approvato con [R. decreto 4 settembre 1898, n. 444](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%206%20marzo%201898%20n.%2059%20sullavanzamento%20nei%20Corpi%20militari%20della%20R.%20Marina.%20098U0444.md): 
+ E' approvato il seguente articolo aggiuntivo al regolamento sull'avanzamento dei corpi militari della R. marina approvato con [R. decreto 4 settembre 1898, n. 444](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%206%20marzo%201898%20n.%2059%20sullavanzamento%20nei%20Corpi%20militari%20della%20R.%20Marina.%20098U0444.md): 
  
  « Art. 135-bis. - Durante il tempo di guerra, le promozioni nei gradi militari del corpo R. equipaggi potranno essere fatte a prescindere dalle prescritte condizioni di aver seguiti determinati corsi o sostenuti determinati esami ». 
  

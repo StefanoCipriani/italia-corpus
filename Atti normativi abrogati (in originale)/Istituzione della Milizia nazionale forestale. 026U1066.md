@@ -82,7 +82,7 @@ Ai sottufficiali e militi della M. N. F. sono riconosciute le qualifiche rispett
 
 ## Art. 4.
 
-Per i servizi della M. N. F. il ruolo del personale di ragioneria delle Amministrazioni centrali (gruppo A) di cui alla tabella n. 2 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificato col [R. decreto 23 aprile 1925, n. 520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-23;520), e' aumentato dei seguenti posti: 
+Per i servizi della M. N. F. il ruolo del personale di ragioneria delle Amministrazioni centrali (gruppo A) di cui alla tabella n. 2 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificato col [R. decreto 23 aprile 1925, n. 520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-23;520), e' aumentato dei seguenti posti: 
  
 
  Grado 6° - Direttore capo divisione . . . . . . 1
@@ -111,11 +111,11 @@ N. F. in modo pero' che tale organico nei gradi 6°, 7°, 8°, non giunga a supe
 
 ## Art. 6.
 
-I posti dei ruoli organici di cui alla tabella II allegata al [R. decreto 9 aprile 1925, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-09;583), a quella n. 82 (gruppo B) dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e alla tabella A (gruppi A e B) allegata al [R. decreto 24 maggio 1925, n. 926](../Regi%20decreti/Norme%20per%20lestensione%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20al%20personale%20forestale%20proveniente%20dai%20ruoli%20della%20cessata%20Amministrazione%20austro-ungarica.%20025U0926.md), che si renderanno vacanti per il passaggio dei funzionari nel ruolo degli ufficiali della M. N. F. a norma del precedente art. 5 restano soppressi.
+I posti dei ruoli organici di cui alla tabella II allegata al [R. decreto 9 aprile 1925, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-09;583), a quella n. 82 (gruppo B) dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e alla tabella A (gruppi A e B) allegata al [R. decreto 24 maggio 1925, n. 926](Norme%20per%20lestensione%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20al%20personale%20forestale%20proveniente%20dai%20ruoli%20della%20cessata%20Amministrazione%20austro-ungarica.%20025U0926.md), che si renderanno vacanti per il passaggio dei funzionari nel ruolo degli ufficiali della M. N. F. a norma del precedente art. 5 restano soppressi.
 
 ## Art. 7.
 
-Sono soppressi i ruoli del personale di custodia dei Regi tratturi e del Real corpo delle foreste e di quello di vigilanza della pesca, stabiliti rispettivamente con le tabelle n. 8, n. 39 e n. 50 dell'allegato IV al [R. decreto 11 novembre 1923, numero 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
+Sono soppressi i ruoli del personale di custodia dei Regi tratturi e del Real corpo delle foreste e di quello di vigilanza della pesca, stabiliti rispettivamente con le tabelle n. 8, n. 39 e n. 50 dell'allegato IV al [R. decreto 11 novembre 1923, numero 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  I graduati e gli agenti appartenenti a detto ruolo possono far passaggio nella M. N. F. colle modalita' che saranno determinate con successivo provvedimento ai termini dell'articolo 11 del presente decreto.
 

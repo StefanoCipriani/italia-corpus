@@ -26,7 +26,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giu
 
 ## Art. 1.
 
-In conseguenza della soppressione delle preture di Ala, Cembra, Condino, Glorenza, Lana, Marebbe, Ortisei, Stenico, Strigno, Tarvisio, Vezzano e della istituzione della pretura di Pontebba, di cui all'[art. 1 del R. decreto-legge 23 aprile 1931, n. 484](Modificazioni%20allordinamento%20giudiziario.%20031U0484.md), alla circoscrizione giudiziaria territoriale di cui alle tabelle A e B annesse al [R. decreto 24 marzo 1923, n. 601](../Regi%20decreti/Riguardante%20la%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0601.md), e varianti successive, sono apportate le modificazioni di cui alle corrispondenti tabelle A e B annesse al presente decreto, viste, d'ordine Nostro, dal Ministro Segretario di Stato per la giustizia e gli affari di culto.
+In conseguenza della soppressione delle preture di Ala, Cembra, Condino, Glorenza, Lana, Marebbe, Ortisei, Stenico, Strigno, Tarvisio, Vezzano e della istituzione della pretura di Pontebba, di cui all'[art. 1 del R. decreto-legge 23 aprile 1931, n. 484](Modificazioni%20allordinamento%20giudiziario.%20031U0484.md), alla circoscrizione giudiziaria territoriale di cui alle tabelle A e B annesse al [R. decreto 24 marzo 1923, n. 601](Riguardante%20la%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0601.md), e varianti successive, sono apportate le modificazioni di cui alle corrispondenti tabelle A e B annesse al presente decreto, viste, d'ordine Nostro, dal Ministro Segretario di Stato per la giustizia e gli affari di culto.
 
 ## Art. 2.
 
@@ -37,7 +37,7 @@ La trattazione degli affari in corso alla data 1° luglio 1931 sara' proseguita,
 Gli affari nuovi saranno trattati davanti le preture competenti secondo la circoscrizione modificata ai sensi dell'articolo 1, tranne quelli che sarebbero di competenza della pretura di nuova istituzione di Pontebba i quali saranno trattati, sino al 31 agosto 1931, davanti le preture competenti secondo la circoscrizione in vigore al 30 giugno 1931. 
  Col 1° settembre 1931 avra' piena attuazione la nuova circoscrizione stabilita dall'art. 1, intendendosi soppresse, dalla stessa data, le sedi distaccate di pretura istituite nei comuni di:
 Grumes, Moerna, Curon, Stelvio, Ultimo, Badia, Castelrotto, Castel Tesino. 
- Sono richiamate in vigore, per quanto applicabili, le norme contenute nel [R. decreto 24 marzo 1923, n. 602](../Regi%20decreti/Contenente%20norme%20processuali%20per%20lattuazione%20della%20nuova%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0602.md), intendendosi sostituite alle date 1° luglio-30 settembre 1923, quelle di 1° luglio-31 agosto 1931, e, in corrispondenza, modificati tutti gli altri termini menzionati nel cennato Regio decreto.
+ Sono richiamate in vigore, per quanto applicabili, le norme contenute nel [R. decreto 24 marzo 1923, n. 602](Contenente%20norme%20processuali%20per%20lattuazione%20della%20nuova%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0602.md), intendendosi sostituite alle date 1° luglio-30 settembre 1923, quelle di 1° luglio-31 agosto 1931, e, in corrispondenza, modificati tutti gli altri termini menzionati nel cennato Regio decreto.
 
 ## Art. 3.
 

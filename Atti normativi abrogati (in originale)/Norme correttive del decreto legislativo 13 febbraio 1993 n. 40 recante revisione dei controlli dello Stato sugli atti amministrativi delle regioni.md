@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'art. 2, commi 1, lettera h), e 5, della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md);
 
-Visto il [decreto legislativo 13 febbraio 1993, n. 40](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20dei%20controlli%20dello%20Stato%20sugli%20atti%20amministrativi%20delle%20regioni%20ai%20sensi%20dellart.%202%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), sulla revisione dei controlli dello Stato sugli atti amministrativi delle regioni;
+Visto il [decreto legislativo 13 febbraio 1993, n. 40](../Decreti%20Legislativi/Revisione%20dei%20controlli%20dello%20Stato%20sugli%20atti%20amministrativi%20delle%20regioni%20ai%20sensi%20dellart.%202%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), sulla revisione dei controlli dello Stato sugli atti amministrativi delle regioni;
 
 Ritenuto di dover introdurre nel predetto decreto alcune disposizioni correttive, nel rispetto dei principi e dei criteri direttivi indicati dalla citata [legge n. 421 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;421);
 
@@ -32,11 +32,11 @@ E M A N A il seguente decreto legislativo:
 
 1.
 
-Al [comma 1 dell'art. 1 del decreto legislativo 13 febbraio 1993, n. 40](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20dei%20controlli%20dello%20Stato%20sugli%20atti%20amministrativi%20delle%20regioni%20ai%20sensi%20dellart.%202%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), le parole: "esclusa ogni diversa valutazione dell'interesse pubblico perseguito" sono sostituite dalle seguenti: "esclusa ogni valutazione di merito".
+Al [comma 1 dell'art. 1 del decreto legislativo 13 febbraio 1993, n. 40](../Decreti%20Legislativi/Revisione%20dei%20controlli%20dello%20Stato%20sugli%20atti%20amministrativi%20delle%20regioni%20ai%20sensi%20dellart.%202%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), le parole: "esclusa ogni diversa valutazione dell'interesse pubblico perseguito" sono sostituite dalle seguenti: "esclusa ogni valutazione di merito".
 
 2.
 
-Nel [comma 1 dell'art. 1 del decreto legislativo 13 febbraio 1993, n. 40](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20dei%20controlli%20dello%20Stato%20sugli%20atti%20amministrativi%20delle%20regioni%20ai%20sensi%20dellart.%202%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), la lettera b) e' sostituita dalla seguente:
+Nel [comma 1 dell'art. 1 del decreto legislativo 13 febbraio 1993, n. 40](../Decreti%20Legislativi/Revisione%20dei%20controlli%20dello%20Stato%20sugli%20atti%20amministrativi%20delle%20regioni%20ai%20sensi%20dellart.%202%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), la lettera b) e' sostituita dalla seguente:
  " b) atti generali di indirizzo o di direttiva, piani anche territoriali, programmi e altri atti integrativi o modificativi dei contenuti dei predetti provvedimenti ovvero che ne tengano luogo;".
 
 Note alle premesse:
@@ -68,11 +68,11 @@ Note alle premesse:
 
 1.
 
-Al [comma 1 dell'art. 2 del decreto legislativo 13 febbraio 1993, n. 40](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20dei%20controlli%20dello%20Stato%20sugli%20atti%20amministrativi%20delle%20regioni%20ai%20sensi%20dellart.%202%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), le parole "emana direttive alle" sono sostituite dalle seguenti: "determina criteri procedurali per le".
+Al [comma 1 dell'art. 2 del decreto legislativo 13 febbraio 1993, n. 40](../Decreti%20Legislativi/Revisione%20dei%20controlli%20dello%20Stato%20sugli%20atti%20amministrativi%20delle%20regioni%20ai%20sensi%20dellart.%202%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), le parole "emana direttive alle" sono sostituite dalle seguenti: "determina criteri procedurali per le".
 
 2.
 
-Al [comma 3 dell'art. 2 del decreto legislativo 13 febbraio 1993, n. 40](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20dei%20controlli%20dello%20Stato%20sugli%20atti%20amministrativi%20delle%20regioni%20ai%20sensi%20dellart.%202%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), le parole "l'adozione delle direttive" sono sostituite dalle seguenti: "l'adozione dei criteri procedurali".
+Al [comma 3 dell'art. 2 del decreto legislativo 13 febbraio 1993, n. 40](../Decreti%20Legislativi/Revisione%20dei%20controlli%20dello%20Stato%20sugli%20atti%20amministrativi%20delle%20regioni%20ai%20sensi%20dellart.%202%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), le parole "l'adozione delle direttive" sono sostituite dalle seguenti: "l'adozione dei criteri procedurali".
 
 Nota all'art. 2:
  - Il testo dell'[art. 2 del D.Lgs. n. 40/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;40#art_2), come modificato dal decreto qui pubblicato, e' il seguente:
@@ -90,7 +90,7 @@ Nota all'art. 2:
 
 1.
 
-Dopo l'[art. 2 del decreto legislativo 13 febbraio 1993, n. 40](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20dei%20controlli%20dello%20Stato%20sugli%20atti%20amministrativi%20delle%20regioni%20ai%20sensi%20dellart.%202%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' aggiunto il seguente:
+Dopo l'[art. 2 del decreto legislativo 13 febbraio 1993, n. 40](../Decreti%20Legislativi/Revisione%20dei%20controlli%20dello%20Stato%20sugli%20atti%20amministrativi%20delle%20regioni%20ai%20sensi%20dellart.%202%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' aggiunto il seguente:
  "Art. 3. - 1. Per l'esercizio del controllo di legittimita' previsto dall'[art. 125 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_125) e' istituita, in ciascun capoluogo di regione, la commissione statale di controllo.
  2. La commissione, nominata con decreto del Presidente del Consiglio dei Ministri, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro per gli affari regionali, di concerto con il Ministro dell'interno, e' rinnovata ogni tre anni.
  3. La proposta di cui al comma 2 e' previamente comunicata al presidente della regione interessata che, entro dieci giorni, puo' comunicare l'eventuale esistenza di cause di incompatibilita'.
@@ -114,9 +114,9 @@ Note all'art. 3:
 
 1.
 
-Dopo l'[art. 3 del decreto legislativo 13 febbraio 1993, n. 40](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20dei%20controlli%20dello%20Stato%20sugli%20atti%20amministrativi%20delle%20regioni%20ai%20sensi%20dellart.%202%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' aggiunto il seguente:
+Dopo l'[art. 3 del decreto legislativo 13 febbraio 1993, n. 40](../Decreti%20Legislativi/Revisione%20dei%20controlli%20dello%20Stato%20sugli%20atti%20amministrativi%20delle%20regioni%20ai%20sensi%20dellart.%202%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' aggiunto il seguente:
  "Art. 4. - 1. Gli [articoli 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-10;62#art_41), [46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-10;62#art_46), [47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-10;62#art_47) e [48 della legge 10 febbraio 1953, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-10;62#art_48), sono abrogati.
- 2. L'[art. 42 della legge 10 febbraio 1953, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-10;62#art_42), come sostituito dall'[art. 1, comma 10, del decreto-legge 14 settembre 1993, n. 359](../DL%20decaduti/Disposizioni%20in%20materia%20di%20legittimita%20dellazione%20amministrativa_3.md), e' abrogato.
+ 2. L'[art. 42 della legge 10 febbraio 1953, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-10;62#art_42), come sostituito dall'[art. 1, comma 10, del decreto-legge 14 settembre 1993, n. 359](Disposizioni%20in%20materia%20di%20legittimita%20dellazione%20amministrativa_3.md), e' abrogato.
  3. Al [primo comma dell'art. 45 della legge 10 febbraio 1953, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-10;62#art_45-com1), sono abrogate le parole: "non soggette a controllo di merito, eccettuate quelle relative alla mera esecuzione di provvedimenti gia' adottati e perfezionati ai sensi di legge".
  4. Al [comma 1 dell'art. 49 della legge 10 febbraio 1953, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-10;62#art_49-com1), sono abrogate le parole: "escluse quelle contemplate dall'art. 46".
 

@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto l'[art. 3 della legge 5 luglio 1882, n. 853](Riflettente%20gli%20stipendi%20ed%20assegni%20fissi%20per%20gli%20ufficiali%20ed%20impiegati%20della%20regia%20marina.%20082U0853.md); 
  
- Visto il [R. decreto n. 616, in data 29 aprile 1915](../Regi%20decreti/Col%20quale%20viene%20stabilito%20il%20soprassoldo%20annuo%20per%20il%20capo%20del%20laboratorio%20chimico%20degli%20esplosivi%20a%20San%20Bartolomeo%20Spezia.%20015U0616.md), riguardante la tabella dei soprassoldi annui concessi agli specialisti laureati, capi dei laboratori chimici della R. marina; 
+ Visto il [R. decreto n. 616, in data 29 aprile 1915](Col%20quale%20viene%20stabilito%20il%20soprassoldo%20annuo%20per%20il%20capo%20del%20laboratorio%20chimico%20degli%20esplosivi%20a%20San%20Bartolomeo%20Spezia.%20015U0616.md), riguardante la tabella dei soprassoldi annui concessi agli specialisti laureati, capi dei laboratori chimici della R. marina; 
  
  Sentito il parere del Consiglio superiore di marina; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Alla tabella dei soprassoldi annui concessi agli specialisti laureati capi dei laboratori chimici della R. marina, stabilita dal [R. decreto 29 aprile 1915, n. 616](../Regi%20decreti/Col%20quale%20viene%20stabilito%20il%20soprassoldo%20annuo%20per%20il%20capo%20del%20laboratorio%20chimico%20degli%20esplosivi%20a%20San%20Bartolomeo%20Spezia.%20015U0616.md), e' sostituita la seguente: 
+ Alla tabella dei soprassoldi annui concessi agli specialisti laureati capi dei laboratori chimici della R. marina, stabilita dal [R. decreto 29 aprile 1915, n. 616](Col%20quale%20viene%20stabilito%20il%20soprassoldo%20annuo%20per%20il%20capo%20del%20laboratorio%20chimico%20degli%20esplosivi%20a%20San%20Bartolomeo%20Spezia.%20015U0616.md), e' sostituita la seguente: 
  
  Soprassoldo 
  annuo 

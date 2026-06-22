@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 3 luglio 1930, n. 987](../Regi%20decreti/Riduzione%20dellindennita%20di%20alloggio%20ai%20dipendenti%20statali%20assegnatari%20di%20appartamenti%20cooperativi%20a%20proprieta%20individuale%20costruiti%20col%20contributo%20dello%20Stato.%20030U0987.md), relativo alla riduzione dell'indennita' di alloggio ai dipendenti statali assegnatari di appartamenti cooperativi a proprieta' individuale costruiti col contributo dello Stato;
+Visto il [R. decreto 3 luglio 1930, n. 987](Riduzione%20dellindennita%20di%20alloggio%20ai%20dipendenti%20statali%20assegnatari%20di%20appartamenti%20cooperativi%20a%20proprieta%20individuale%20costruiti%20col%20contributo%20dello%20Stato.%20030U0987.md), relativo alla riduzione dell'indennita' di alloggio ai dipendenti statali assegnatari di appartamenti cooperativi a proprieta' individuale costruiti col contributo dello Stato;
 
 Riconosciuta la necessita' urgente ed assoluta di disciplinare con nuove norme tali riduzioni nonche' gli accertamenti dei redditi degli alloggi cooperativi stessi agli effetti della imposta complementare;
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, di conc
 
 ## Art. 1.
 
-Pei personali indicati nell'[art. 1 del Regio decreto 3 luglio 1930, n. 987](../Regi%20decreti/Riduzione%20dellindennita%20di%20alloggio%20ai%20dipendenti%20statali%20assegnatari%20di%20appartamenti%20cooperativi%20a%20proprieta%20individuale%20costruiti%20col%20contributo%20dello%20Stato.%20030U0987.md), i quali, alla data di entrata in vigore del presente decreto, non siano ancora addivenuti, quale ne sia la causa, alla stipulazione del contratto di mutuo individuale, sono applicabili le disposizioni contenute nello stesso [R. decreto 3 luglio 1930, n. 987](../Regi%20decreti/Riduzione%20dellindennita%20di%20alloggio%20ai%20dipendenti%20statali%20assegnatari%20di%20appartamenti%20cooperativi%20a%20proprieta%20individuale%20costruiti%20col%20contributo%20dello%20Stato.%20030U0987.md), mediante determinazione provvisoria della quota individuale di contributo statale fatta dalla pubblica Amministrazione in rapporto alla quota provvisoria di ammortamento. 
+Pei personali indicati nell'[art. 1 del Regio decreto 3 luglio 1930, n. 987](Riduzione%20dellindennita%20di%20alloggio%20ai%20dipendenti%20statali%20assegnatari%20di%20appartamenti%20cooperativi%20a%20proprieta%20individuale%20costruiti%20col%20contributo%20dello%20Stato.%20030U0987.md), i quali, alla data di entrata in vigore del presente decreto, non siano ancora addivenuti, quale ne sia la causa, alla stipulazione del contratto di mutuo individuale, sono applicabili le disposizioni contenute nello stesso [R. decreto 3 luglio 1930, n. 987](Riduzione%20dellindennita%20di%20alloggio%20ai%20dipendenti%20statali%20assegnatari%20di%20appartamenti%20cooperativi%20a%20proprieta%20individuale%20costruiti%20col%20contributo%20dello%20Stato.%20030U0987.md), mediante determinazione provvisoria della quota individuale di contributo statale fatta dalla pubblica Amministrazione in rapporto alla quota provvisoria di ammortamento. 
  
  La determinazione provvisoria di cui al comma precedente sara' fatta dal Ministero dei lavori pubblici e, per le Cooperative tra ferrovieri, dal Ministero delle comunicazioni. 
  
@@ -36,13 +36,13 @@ Pei personali indicati nell'[art. 1 del Regio decreto 3 luglio 1930, n. 987](../
 
 ## Art. 2.
 
-L'indennita' di alloggio, o alloggio gratuito o di servizio, che in concorso con l'alloggio cooperativo sovvenzionato dallo Stato danno causa alle trattenute o riduzioni previste dal [R. decreto 9 luglio 1930, n. 987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-07-09;987), sono quelli concessi dallo Stato, dalle Amministrazioni autonome statali, o da altri enti che siano tenuti a fornire l'alloggio ai sensi del [R. decreto 5 luglio 1923, n. 1773](../Regi%20decreti/Passaggio%20alle%20Provincie%20del%20servizio%20di%20accasermamento%20ed%20alloggio%20dei%20Reali%20carabinieri.%20023U1773.md), o che abbiano comunque assunta la somministrazione in luogo e vece dello Stato.
+L'indennita' di alloggio, o alloggio gratuito o di servizio, che in concorso con l'alloggio cooperativo sovvenzionato dallo Stato danno causa alle trattenute o riduzioni previste dal [R. decreto 9 luglio 1930, n. 987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-07-09;987), sono quelli concessi dallo Stato, dalle Amministrazioni autonome statali, o da altri enti che siano tenuti a fornire l'alloggio ai sensi del [R. decreto 5 luglio 1923, n. 1773](Passaggio%20alle%20Provincie%20del%20servizio%20di%20accasermamento%20ed%20alloggio%20dei%20Reali%20carabinieri.%20023U1773.md), o che abbiano comunque assunta la somministrazione in luogo e vece dello Stato.
 
 ## Art. 3.
 
 Per alloggio gratuito o di servizio, concesso o assegnato ai sensi del precedente art. 2, e' da intendersi l'alloggio di cui il dipendente statale fruisce senza corrispondere per esso allo Stato, alle Amministrazioni autonome statali, o ad altri enti diversi dallo Stato, un pattuito e adeguato canone di affitto, ancorche' il godimento dell'alloggio stesso comporti a carico del dipendente una riduzione di emolumenti ed oneri speciali a norma delle vigenti disposizioni. 
  
- Tali riduzioni ed oneri sono, pero', detratti dalla quota di trattenuta operabile ai sensi del [R. decreto 3 luglio 1930, n. 987](../Regi%20decreti/Riduzione%20dellindennita%20di%20alloggio%20ai%20dipendenti%20statali%20assegnatari%20di%20appartamenti%20cooperativi%20a%20proprieta%20individuale%20costruiti%20col%20contributo%20dello%20Stato.%20030U0987.md).
+ Tali riduzioni ed oneri sono, pero', detratti dalla quota di trattenuta operabile ai sensi del [R. decreto 3 luglio 1930, n. 987](Riduzione%20dellindennita%20di%20alloggio%20ai%20dipendenti%20statali%20assegnatari%20di%20appartamenti%20cooperativi%20a%20proprieta%20individuale%20costruiti%20col%20contributo%20dello%20Stato.%20030U0987.md).
 
 ## Art. 4.
 
@@ -58,7 +58,7 @@ Nei riguardi degli assegnatari di alloggi cooperativi a proprieta' individuale c
 
 ## Art. 6.
 
-Il presente decreto, anche per quanto concerne l'accertamento dell'imposta complementare di cui al precedente art. 5 e per tale tributo con le particolari norme stabilite col [R. decreto 7 giugno 1928, n. 1696](../Regi%20decreti/Imposta%20complementare%20sul%20reddito%20nelle%20Colonie%20di%20diretto%20dominio.%20028U1696.md), si applica pure al personale in servizio in colonia, quando il medesimo fruisca di indennita' di alloggio o alloggio gratuito o di servizio e sia nel contempo assegnatario di appartamento cooperativo a proprieta' individuale costruito nel Regno od in colonia, col contributo statale.
+Il presente decreto, anche per quanto concerne l'accertamento dell'imposta complementare di cui al precedente art. 5 e per tale tributo con le particolari norme stabilite col [R. decreto 7 giugno 1928, n. 1696](Imposta%20complementare%20sul%20reddito%20nelle%20Colonie%20di%20diretto%20dominio.%20028U1696.md), si applica pure al personale in servizio in colonia, quando il medesimo fruisca di indennita' di alloggio o alloggio gratuito o di servizio e sia nel contempo assegnatario di appartamento cooperativo a proprieta' individuale costruito nel Regno od in colonia, col contributo statale.
 
 ## Art. 7.
 

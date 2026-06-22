@@ -14,27 +14,27 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 4 luglio 1910, n. 562](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20amministrativo%20per%20la%20Somalia%20italiana.%20010U0562.md), che approva l'ordinamento amministrativo per la Somalia Italiana, e le successive modificazioni;
+Visto il [R. decreto 4 luglio 1910, n. 562](Che%20approva%20lannesso%20regolamento%20amministrativo%20per%20la%20Somalia%20italiana.%20010U0562.md), che approva l'ordinamento amministrativo per la Somalia Italiana, e le successive modificazioni;
 
-Visto il [R. decreto 22 novembre 1921, n. 1874](../Regi%20decreti/Contenente%20disposizioni%20circa%20la%20destinazione%20ed%20il%20trattamento%20economico%20dei%20sottufficiali%20di%20porto%20in%20Tripolitania%20e%20in%20Cirenaica.%20021U1874.md), che stabilisce il trattamento economico dei sottufficiali di porto in Tripolitania e in Cirenaica;
+Visto il [R. decreto 22 novembre 1921, n. 1874](Contenente%20disposizioni%20circa%20la%20destinazione%20ed%20il%20trattamento%20economico%20dei%20sottufficiali%20di%20porto%20in%20Tripolitania%20e%20in%20Cirenaica.%20021U1874.md), che stabilisce il trattamento economico dei sottufficiali di porto in Tripolitania e in Cirenaica;
 
-Visto il [R. decreto 31 ottobre 1923, n. 2504](../Regi%20decreti/Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md), che stabilisce il trattamento del personale in servizio civile in Colonia;
+Visto il [R. decreto 31 ottobre 1923, n. 2504](Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md), che stabilisce il trattamento del personale in servizio civile in Colonia;
 
-Visto il [R. decreto 31 ottobre 1923, n. 2505](../Regi%20decreti/Trattamento%20degli%20ufficiali%20del%20Regio%20esercito%20che%20prestano%20in%20colonia%20servizio%20di%20carattere%20militare.%20023U2505.md), che stabilisce il trattamento degli ufficiali del Regio esercito che prestano in Colonia servizio di carattere militare;
+Visto il [R. decreto 31 ottobre 1923, n. 2505](Trattamento%20degli%20ufficiali%20del%20Regio%20esercito%20che%20prestano%20in%20colonia%20servizio%20di%20carattere%20militare.%20023U2505.md), che stabilisce il trattamento degli ufficiali del Regio esercito che prestano in Colonia servizio di carattere militare;
 
 Visto il [R. decreto-legge 15 agosto 1924, n. 1646](Trattamento%20economico%20al%20personale%20militare%20della%20Regia%20marina%20destinato%20a%20terra%20nelle%20Colonie.%20024U1646.md), circa il trattamento economico del personale della Regia marina destinato a terra nelle Colonie;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 3 settembre 1926, n. 1608](../Regi%20decreti/Nuovo%20ordinamento%20militare%20pei%20Regi%20corpi%20di%20truppe%20coloniali%20della%20Tripolitania%20e%20della%20Cirenaica.%20026U1608.md), relativo all'ordinamento militare per i Regi corpi di truppe coloniali della Tripolitania e della Cirenaica, e successive modificazioni;
+Visto il [R. decreto 3 settembre 1926, n. 1608](Nuovo%20ordinamento%20militare%20pei%20Regi%20corpi%20di%20truppe%20coloniali%20della%20Tripolitania%20e%20della%20Cirenaica.%20026U1608.md), relativo all'ordinamento militare per i Regi corpi di truppe coloniali della Tripolitania e della Cirenaica, e successive modificazioni;
 
-Visto il [R. decreto 13 gennaio 1931, n. 724](../Regi%20decreti/Ordinamento%20della%20categoria%20Servizi%20portuali%20del%20Corpo%20Reale%20equipaggi%20marittimi.%20031U0724.md), relativo all'ordinamento della categoria «Servizi portuali» del Corpo Reale Equipaggi Marittimi;
+Visto il [R. decreto 13 gennaio 1931, n. 724](Ordinamento%20della%20categoria%20Servizi%20portuali%20del%20Corpo%20Reale%20equipaggi%20marittimi.%20031U0724.md), relativo all'ordinamento della categoria «Servizi portuali» del Corpo Reale Equipaggi Marittimi;
 
-Visto il testo unico delle leggi sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni;
+Visto il testo unico delle leggi sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni;
 
-Visto il [R. decreto 17 dicembre 1931, n. 1786](../Regi%20decreti/Ordinamento%20militare%20per%20il%20Regio%20corpo%20di%20truppe%20coloniali%20dellEritrea.%20031U1786.md), relativo all'ordinamento militare per il Regio corpo di truppe coloniali dell'Eritrea, e successive modificazioni;
+Visto il [R. decreto 17 dicembre 1931, n. 1786](Ordinamento%20militare%20per%20il%20Regio%20corpo%20di%20truppe%20coloniali%20dellEritrea.%20031U1786.md), relativo all'ordinamento militare per il Regio corpo di truppe coloniali dell'Eritrea, e successive modificazioni;
 
-Visto il [R. decreto 24 aprile 1935, n. 767](../Regi%20decreti/Vestiario%20dei%20militari%20del%20Corpo%20Reale%20equipaggi%20marittimi.%20035U0767.md), relativo al vestiario dei militari del C.R.E.M.;
+Visto il [R. decreto 24 aprile 1935, n. 767](Vestiario%20dei%20militari%20del%20Corpo%20Reale%20equipaggi%20marittimi.%20035U0767.md), relativo al vestiario dei militari del C.R.E.M.;
 
 Riconosciuta la necessita' assoluta ed urgente di parificare il trattamento coloniale per il personale della Regia marina nelle Colonie a quello dei Regi corpi truppe coloniali;
 
@@ -48,7 +48,7 @@ Gli ufficiali della Regia marina destinati a terra in Colonia continuano a perce
 
 ## Art. 2.
 
-Agli ufficiali della Regia marina destinati a terra in Colonia spetta il trattamento di cui ai [Regi decreti 31 ottobre 1923, nn. 2504](../Regi%20decreti/Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md) e [2505](../Regi%20decreti/Trattamento%20degli%20ufficiali%20del%20Regio%20esercito%20che%20prestano%20in%20colonia%20servizio%20di%20carattere%20militare.%20023U2505.md), ed alle disposizioni relative ai singoli ordinamenti coloniali, dovuto ai pari grado del Regio corpo truppe coloniali, per quanto riguarda: 
+Agli ufficiali della Regia marina destinati a terra in Colonia spetta il trattamento di cui ai [Regi decreti 31 ottobre 1923, nn. 2504](Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md) e [2505](Trattamento%20degli%20ufficiali%20del%20Regio%20esercito%20che%20prestano%20in%20colonia%20servizio%20di%20carattere%20militare.%20023U2505.md), ed alle disposizioni relative ai singoli ordinamenti coloniali, dovuto ai pari grado del Regio corpo truppe coloniali, per quanto riguarda: 
  
  a) la indennita' di equipaggiamento che e' pero' ridotta di un terzo per coloro che non abbiano l'obbligo d'indossare la divisa coloniale; 
  

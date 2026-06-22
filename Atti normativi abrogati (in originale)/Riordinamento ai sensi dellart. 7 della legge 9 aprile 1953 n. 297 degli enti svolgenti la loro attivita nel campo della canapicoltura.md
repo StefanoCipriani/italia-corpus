@@ -20,7 +20,7 @@ Sulla proposta del Ministro per l'agricoltura e per le foreste, d'intesa con i M
 
 ## Art. 1.
 
-Il Consorzio nazionale canapa, istituito con il [decreto legislativo luogotenenziale 17 settembre 1944, n. 213](../Decreti%20legislativi%20luogotenenziali/Istituzione%20del%20Consorzio%20nazionale%20canapa%20e%20soppressione%20del%20Consorzio%20nazionale%20esportazione%20canapa.%20044U0213.md), assume la denominazione di Consorzio nazionale produttori canapa, ed e' riordinato a norma degli articoli seguenti.
+Il Consorzio nazionale canapa, istituito con il [decreto legislativo luogotenenziale 17 settembre 1944, n. 213](Istituzione%20del%20Consorzio%20nazionale%20canapa%20e%20soppressione%20del%20Consorzio%20nazionale%20esportazione%20canapa.%20044U0213.md), assume la denominazione di Consorzio nazionale produttori canapa, ed e' riordinato a norma degli articoli seguenti.
 
 ## Art. 2.
 

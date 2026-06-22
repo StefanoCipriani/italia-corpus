@@ -28,7 +28,7 @@ I decreti Reali di concessione di cittadinanza ai sensi del R. decreto-legge 10 
 
 ## Art. 5.
 
-Per quanto non e' innovato dal presente decreto restano ferme le disposizioni del [R. decreto-legge 10 settembre 1922, n. 1387](Che%20reca%20disposizioni%20per%20la%20concessione%20della%20cittadinanza%20italiana%20a%20talune%20categorie%20di%20persone.%20022U1387.md), e per tutto cio' che non e' previsto nei decreti medesimi si applicheranno, in quanto sara' possibile, le disposizioni della [legge 13 giugno 1912, n. 555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-13;555) e quelle del [R. decreto 2 agosto 1912, n. 949](../Regi%20decreti/Col%20quale%20vengono%20approvate%20le%20norme%20per%20la%20esecuzione%20della%20legge%2013%20giugno%201912%20n.%20555%20sulla%20cittadinanza%20italiana.%20012U0949.md).
+Per quanto non e' innovato dal presente decreto restano ferme le disposizioni del [R. decreto-legge 10 settembre 1922, n. 1387](Che%20reca%20disposizioni%20per%20la%20concessione%20della%20cittadinanza%20italiana%20a%20talune%20categorie%20di%20persone.%20022U1387.md), e per tutto cio' che non e' previsto nei decreti medesimi si applicheranno, in quanto sara' possibile, le disposizioni della [legge 13 giugno 1912, n. 555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-13;555) e quelle del [R. decreto 2 agosto 1912, n. 949](Col%20quale%20vengono%20approvate%20le%20norme%20per%20la%20esecuzione%20della%20legge%2013%20giugno%201912%20n.%20555%20sulla%20cittadinanza%20italiana.%20012U0949.md).
 
 ## Art. 6.
 

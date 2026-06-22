@@ -36,7 +36,7 @@ Il ruolo organico del personale del R. collegio «Regina Margherita» in Anagni,
 
 ## Art. 2.
 
-In aumento ai posti stabiliti con le tabelle annesse alla [legge 9 luglio 1908, n. 412](Sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20dei%20convitti%20nazionali.%20008U0412.md), al [R. decreto 27 marzo 1910, n. 176](../Regi%20decreti/Che%20istituisce%20un%20posto%20di%20istitutore%20di%203ª%20classe%20nel%20ruolo%20organico%20dei%20Convitti%20nazionali.%20010U0176.md), e alla [legge 6 luglio 1912, n. 784](Che%20istituisce%20un%20Convitto%20nazionale%20femminile%20in%20Roma.%20012U0784.md), per il personale dei convitti nazionali sono istituiti: un posto di direttrice, a L. 3700, uno di vice direttrice, a L. 2700, uno di economo, a L. 2700, uno di istitutrice, a L. 2200, quattro di istitutrice, a L. 1800, e sei di istitutrice, a L. 1500.
+In aumento ai posti stabiliti con le tabelle annesse alla [legge 9 luglio 1908, n. 412](Sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20dei%20convitti%20nazionali.%20008U0412.md), al [R. decreto 27 marzo 1910, n. 176](Che%20istituisce%20un%20posto%20di%20istitutore%20di%203ª%20classe%20nel%20ruolo%20organico%20dei%20Convitti%20nazionali.%20010U0176.md), e alla [legge 6 luglio 1912, n. 784](Che%20istituisce%20un%20Convitto%20nazionale%20femminile%20in%20Roma.%20012U0784.md), per il personale dei convitti nazionali sono istituiti: un posto di direttrice, a L. 3700, uno di vice direttrice, a L. 2700, uno di economo, a L. 2700, uno di istitutrice, a L. 2200, quattro di istitutrice, a L. 1800, e sei di istitutrice, a L. 1500.
 
 ## Art. 3.
 

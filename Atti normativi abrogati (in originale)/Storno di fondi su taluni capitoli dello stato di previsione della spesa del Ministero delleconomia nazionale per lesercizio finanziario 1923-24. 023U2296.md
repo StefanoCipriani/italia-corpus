@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 10 settembre 1923, n. 2050](../Regi%20decreti/Approvazione%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delleconomia%20nazionale%20per%20lesercizio%201923-24.%20023U2050.md), che approva lo stato di previsione della spesa del Ministero dell'economia nazionale; 
+ Visto il [R. decreto 10 settembre 1923, n. 2050](Approvazione%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delleconomia%20nazionale%20per%20lesercizio%201923-24.%20023U2050.md), che approva lo stato di previsione della spesa del Ministero dell'economia nazionale; 
  
  Sentito il Consiglio dei Ministri; 
  

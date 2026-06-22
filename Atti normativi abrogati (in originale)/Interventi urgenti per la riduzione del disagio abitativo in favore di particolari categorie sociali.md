@@ -86,7 +86,7 @@ Al tavolo nazionale partecipano il Ministro delle infrastrutture, titolare della
 
 1.
 
-Per i contratti di locazione stipulati ai sensi dell'[articolo 2, comma 1, della legge 9 dicembre 1998, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-09;431#art_2-com1), il reddito dell'unita' immobiliare e' determinato ai sensi dell'articolo 37, comma 4-bis, del testo unico delle imposte sui redditi di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, assumendo quale riduzione forfetaria del canone di locazione la percentuale del 14 per cento.
+Per i contratti di locazione stipulati ai sensi dell'[articolo 2, comma 1, della legge 9 dicembre 1998, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-09;431#art_2-com1), il reddito dell'unita' immobiliare e' determinato ai sensi dell'articolo 37, comma 4-bis, del testo unico delle imposte sui redditi di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, assumendo quale riduzione forfetaria del canone di locazione la percentuale del 14 per cento.
 
 ## Art. 6. — Copertura finanziaria
 

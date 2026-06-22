@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il Ministro per il tesoro e' autorizzato a prelevare la somma di lire 11.250 milioni dal conto speciale di cui all'[art. 2 della legge 4 agosto 1948, n. 1108](../Leggi%20di%20ratifica/Ratifica%20ed%20esecutorieta%20dellAccordo%20di%20cooperazione%20economica%20tra%20lItalia%20e%20gli%20Stati%20Uniti%20dAmerica%20concluso%20a%20Roma%20il%2028%20giugno%201948.md).
+Il Ministro per il tesoro e' autorizzato a prelevare la somma di lire 11.250 milioni dal conto speciale di cui all'[art. 2 della legge 4 agosto 1948, n. 1108](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecutorieta%20dellAccordo%20di%20cooperazione%20economica%20tra%20lItalia%20e%20gli%20Stati%20Uniti%20dAmerica%20concluso%20a%20Roma%20il%2028%20giugno%201948.md).
  La somma predetta sara' assegnata all'Istituto per lo sviluppo economico nell'Italia meridionale (I. SV. E. I. MER.), all'Istituto regionale per il finanziamento delle medie e piccole imprese in Sicilia (I.R.F.I.S.) e al Credito industriale sardo (C. I. S.) rispettivamente nelle proporzioni del 61 per cento, del 29 per cento e del 10 per cento.
 
 ## Art. 2.

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il [secondo comma dell'art. 6 del R. decreto 8 febbraio 1923, n. 1067](../Regi%20decreti/Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md), sulle comunicazioni senza filo e' abrogato e sostituito dal seguente; 
+Il [secondo comma dell'art. 6 del R. decreto 8 febbraio 1923, n. 1067](Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md), sulle comunicazioni senza filo e' abrogato e sostituito dal seguente; 
  
  L'autorizzazione invece di impiantare e di esercitare stazioni semplicemente riceventi ad uso degli uffici governativi, dei Regi istituti di istruzione media e superiore e dei Regi osservatori astronomici, meteorologici e geodinamici, viene conferita mediante licenza gratuita rilasciata dal Ministero delle poste e dei telegrafi. 
  
@@ -32,7 +32,7 @@ I concessionari di stazioni trasmittenti per servizio di radioaudizione o di rad
 
 ## Art. 3.
 
-L'[art. 8 del R. decreto 8 febbraio 1923, n. 1067](../Regi%20decreti/Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md), e l'[art. 2 del R. decreto 27 settembre 1923, n. 2351](../Regi%20decreti/Modificazioni%20ai%20Regi%20decreti%208%20febbraio%201923%20n.%201067%20e%2014%20giugno%201923%20n.%201488%20relativi%20alle%20concessioni%20delle%20comunicazioni%20senza%20filo.%20023U2351.md), sono soppressi e sostituiti dal seguente: 
+L'[art. 8 del R. decreto 8 febbraio 1923, n. 1067](Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md), e l'[art. 2 del R. decreto 27 settembre 1923, n. 2351](Modificazioni%20ai%20Regi%20decreti%208%20febbraio%201923%20n.%201067%20e%2014%20giugno%201923%20n.%201488%20relativi%20alle%20concessioni%20delle%20comunicazioni%20senza%20filo.%20023U2351.md), sono soppressi e sostituiti dal seguente: 
  
  I concessionari di stazioni soltanto riceventi di comunicazioni senza filo destinate ai servizi di radioaudizione circolare pagano anticipatamente per ogni stazione concessa una tassa di licenza di L. 25 allo Stato e un diritto di L. 50 a favore del concessionario dei servizi radioauditivi circolari. 
  
@@ -40,7 +40,7 @@ L'[art. 8 del R. decreto 8 febbraio 1923, n. 1067](../Regi%20decreti/Che%20reca%
  
  I costruttori e i rivenditori di apparecchi radioelettrici riceventi per i servizi di radioaudizione circolare, devono inviare al Ministero delle poste e dei telegrafi, per l'approvazione, un campione degli apparecchi da mettere in commercio. 
  
- E' fatto assoluto divieto ai commercianti di vendere apparecchi radioelettrici riceventi per servizi radioauditivi circolari di tipi diversi da quelli approvati dal Ministero delle poste e dei telegrafi ed a persone che non siano provviste di regolare licenza. In caso di infrazione a tale obbligo si applicano a carico dei contravventori le sanzioni di cui all'[art. 18 del R. decreto 8 febbraio 1923, n. 1067](../Regi%20decreti/Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md). 
+ E' fatto assoluto divieto ai commercianti di vendere apparecchi radioelettrici riceventi per servizi radioauditivi circolari di tipi diversi da quelli approvati dal Ministero delle poste e dei telegrafi ed a persone che non siano provviste di regolare licenza. In caso di infrazione a tale obbligo si applicano a carico dei contravventori le sanzioni di cui all'[art. 18 del R. decreto 8 febbraio 1923, n. 1067](Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md). 
  
  Gli apparecchi riceventi non potranno essere successivamente trasmessi se non a persone munite di licenza. 
  
@@ -68,7 +68,7 @@ I concessionari di impianti ad onde guidate per uso privato su linee non adibite
 
 ## Art. 6.
 
-Sono abrogate le disposizioni del [decreto Luogotenenziale n. 810 del 6 giugno 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-06;810), ed il [R. decreto 20 febbraio 1921, n. 255](../Regi%20decreti/Che%20apporta%20modificazioni%20al%20decreto%20Luogotenenziale%206%20giugno%201915%20n.%20810%20relativo%20al%20divieto%20di%20concessioni%20per%20impianti%20di%20stazioni%20radiotelegrafiche%20e%20radiotelefoniche.%20021U0255.md).
+Sono abrogate le disposizioni del [decreto Luogotenenziale n. 810 del 6 giugno 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-06;810), ed il [R. decreto 20 febbraio 1921, n. 255](Che%20apporta%20modificazioni%20al%20decreto%20Luogotenenziale%206%20giugno%201915%20n.%20810%20relativo%20al%20divieto%20di%20concessioni%20per%20impianti%20di%20stazioni%20radiotelegrafiche%20e%20radiotelefoniche.%20021U0255.md).
 
 ## Art. 7.
 

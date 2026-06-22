@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 9 agosto 1914, n. 804](../Regi%20decreti/Col%20quale%20son%20trasferiti%20alla%20R.%20marina%20i%20sottufficiali%20del%20R.%20esercito%20provenienti%20dalla%20riserva%20navale.%20014U0804.md), che modifica l'[articolo 4 della legge 1° febbraio 1900, n. 26](Sul%20passaggio%20dalla%20Regia%20Marina%20al%20Regio%20Esercito%20di%20talune%20categorie%20di%20militari%20in%20congedo.%20000U0026.md), e stabilisce il trasferimento nella R. marina di sottufficiali della milizia territoriale del R. esercito, provenienti dalla riserva navale. 
+ E' convertito in legge il [R. decreto 9 agosto 1914, n. 804](Col%20quale%20son%20trasferiti%20alla%20R.%20marina%20i%20sottufficiali%20del%20R.%20esercito%20provenienti%20dalla%20riserva%20navale.%20014U0804.md), che modifica l'[articolo 4 della legge 1° febbraio 1900, n. 26](Sul%20passaggio%20dalla%20Regia%20Marina%20al%20Regio%20Esercito%20di%20talune%20categorie%20di%20militari%20in%20congedo.%20000U0026.md), e stabilisce il trasferimento nella R. marina di sottufficiali della milizia territoriale del R. esercito, provenienti dalla riserva navale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

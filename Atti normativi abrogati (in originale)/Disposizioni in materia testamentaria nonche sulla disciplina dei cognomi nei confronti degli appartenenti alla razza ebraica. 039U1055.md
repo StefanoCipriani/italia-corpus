@@ -29,7 +29,7 @@ I cittadini italiani non appartenenti alla razza ebraica, che abbiano cognomi no
 
 ## Art. 5.
 
-I cambiamenti di cognome, previsti dagli articoli 2, 3 e 4, sono disposti dal Ministro per l'interno, di concerto con quello per la grazia e giustizia, prescindendo dalla procedura stabilita dal [R. decreto 15 novembre 1865, n. 2602](../Regi%20decreti/Per%20lOrdinamento%20dello%20Stato%20Civile.%20065U2602.md), sull'ordinamento dello stato civile e con esenzione, in ogni caso, dalla tassa di concessione governativa. 
+I cambiamenti di cognome, previsti dagli articoli 2, 3 e 4, sono disposti dal Ministro per l'interno, di concerto con quello per la grazia e giustizia, prescindendo dalla procedura stabilita dal [R. decreto 15 novembre 1865, n. 2602](Per%20lOrdinamento%20dello%20Stato%20Civile.%20065U2602.md), sull'ordinamento dello stato civile e con esenzione, in ogni caso, dalla tassa di concessione governativa. 
  
  I provvedimenti adottati nei casi di cui agli articoli 2, 3 e 4 sono pubblicati per estratto nella Gazzetta Ufficiale del Regno e nel Foglio annunzi della provincia di residenza del richiedente; contro di essi e' ammessa opposizione, da chiunque vi abbia interesse, nel termine di trenta giorni dalla data dell'ultima pubblicazione. 
  

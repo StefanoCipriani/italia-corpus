@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico di leggi sulla riscossione delle imposte dirette, approvato con [regio decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e le successive modificazioni;
+Visto il testo unico di leggi sulla riscossione delle imposte dirette, approvato con [regio decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e le successive modificazioni;
 
 Visto il [regio decreto-legge 16 febbraio 1931, n. 210](Disposizioni%20per%20il%20conferimento%20delle%20esattorie%20delle%20imposte%20dirette%20agli%20effetti%20del%20decennio%201933-1942.%20031U0210.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per le finanze, di concerto col Ministro per il teso
 
 ## Art. 1.
 
-Il limite del cinquanta per cento stabilito dall'art. del [regio decreto-legge 16 febbraio 1931, n. 210](Disposizioni%20per%20il%20conferimento%20delle%20esattorie%20delle%20imposte%20dirette%20agli%20effetti%20del%20decennio%201933-1942.%20031U0210.md), convertito nella [legge 18 maggio 1931, n. 802](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20dei%20Regi%20decreti-legge%206%20novembre%201930%20n.%201465%20e%2016%20febbraio%201931%20n.%20210%20contenenti%20modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%2017%20o_3919d9eb2f18.md), per la prestazione mediante polizze fideiussorie delle cauzioni per appalti esattoriali e' elevato al settantacinque per cento.
+Il limite del cinquanta per cento stabilito dall'art. del [regio decreto-legge 16 febbraio 1931, n. 210](Disposizioni%20per%20il%20conferimento%20delle%20esattorie%20delle%20imposte%20dirette%20agli%20effetti%20del%20decennio%201933-1942.%20031U0210.md), convertito nella [legge 18 maggio 1931, n. 802](Conversione%20in%20legge%20dei%20Regi%20decreti-legge%206%20novembre%201930%20n.%201465%20e%2016%20febbraio%201931%20n.%20210%20contenenti%20modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%2017%20o_3919d9eb2f18.md), per la prestazione mediante polizze fideiussorie delle cauzioni per appalti esattoriali e' elevato al settantacinque per cento.
 
 ## Art. 2.
 

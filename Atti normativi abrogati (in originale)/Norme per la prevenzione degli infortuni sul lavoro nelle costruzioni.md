@@ -603,7 +603,7 @@ Il Ministro per il lavoro e la previdenza sociale, sentita la Commissione di cui
 ### Art. 81. — Decorrenza
 
 Il presente decreto entra in vigore il 10 aprile 1956.
- A decorrere da tale data sono abrogate le disposizioni dei regolamento approvato con [regio decreto 27 maggio 1900, n. 205](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20prevenzione%20degli%20infortuni%20nelle%20costruzioni%20contemplate%20dalla%20legge%2017%20marzo%201898%20n.%2080.%20000U0205.md), che concernono i lavori di costruzione disciplinati dal presente decreto.
+ A decorrere da tale data sono abrogate le disposizioni dei regolamento approvato con [regio decreto 27 maggio 1900, n. 205](Che%20approva%20il%20Regolamento%20per%20la%20prevenzione%20degli%20infortuni%20nelle%20costruzioni%20contemplate%20dalla%20legge%2017%20marzo%201898%20n.%2080.%20000U0205.md), che concernono i lavori di costruzione disciplinati dal presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

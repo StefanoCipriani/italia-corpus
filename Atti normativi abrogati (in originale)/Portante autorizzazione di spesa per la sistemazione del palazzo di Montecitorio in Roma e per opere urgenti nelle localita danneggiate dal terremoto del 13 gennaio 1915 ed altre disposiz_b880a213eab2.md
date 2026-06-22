@@ -80,7 +80,7 @@ Le disposizioni dell'art. 9 del Nostro decreto 19 agosto 1915, n. 1371, sono est
  
  Le anticipazioni sono fatte all'ingegnere capo del genio civile in relazione all'importo dei lavori da eseguire. L' ingegnere capo provvede ai pagamenti sotto la sua personale responsabilita' dopo essersi accertato della buona esecuzione dei lavori e della regolarita' della spesa. 
  
- In questi casi e' consentita l'esecuzione dei lavori in economia od a trattativa privata sino all'importo di L. 50.000, restando ferma per importi superiori la necessita' dell'autorizzazione governativa a norma dell'[art. 1 del R. decreto 1° settembre 1914, n. 920](../Regi%20decreti/Che%20dichiara%20applicabili%20ai%20lavori%20pubblici%20appaltati%20dallo%20Stato%20dalle%20Provincie%20e%20dai%20Comuni%20entro%20il%2031%20dicembre%201914%20le%20disposizioni%20del%20R.%20decreto%2018%20settembre%201910%20n.%20684%20convertito_6e5a4a81599d.md), la cui validita' e' stata prorogata con Nostro decreto 18 maggio 1916, n. 660.
+ In questi casi e' consentita l'esecuzione dei lavori in economia od a trattativa privata sino all'importo di L. 50.000, restando ferma per importi superiori la necessita' dell'autorizzazione governativa a norma dell'[art. 1 del R. decreto 1° settembre 1914, n. 920](Che%20dichiara%20applicabili%20ai%20lavori%20pubblici%20appaltati%20dallo%20Stato%20dalle%20Provincie%20e%20dai%20Comuni%20entro%20il%2031%20dicembre%201914%20le%20disposizioni%20del%20R.%20decreto%2018%20settembre%201910%20n.%20684%20convertito_6e5a4a81599d.md), la cui validita' e' stata prorogata con Nostro decreto 18 maggio 1916, n. 660.
 
 ## Art. 9.
 

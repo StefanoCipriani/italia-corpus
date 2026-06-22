@@ -26,7 +26,7 @@ Veduto il regolamento della Cassa di previdenza del personale di ruolo, approvat
 
 Veduto il decreto 13 marzo 1910 del Ministro per l'agricoltura, industria e commercio che approva il regolamento interno per la disciplina dei servizi dei posti di soccorso istituiti in esecuzione della [legge 14 luglio 1907, n. 527](Disposizioni%20speciali%20per%20glinfortuni%20del%20lavoro%20nelle%20zolfare%20della%20Sicilia.%20007U0527.md), e con le norme fissate dal [regolamento 3 dicembre 1908, n. 787](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1908-12-03;787);
 
-Veduto il [R. decreto 3 luglio 1921, n. 1190](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20il%20servizio%20di%20salvataggio%20degli%20operai%20addetti%20alle%20miniere%20di%20solfo%20della%20Sicilia.%20021U1190.md), che approva il regolamento per il servizio di salvataggio degli operai addetti alla miniere di zolfo della Sicilia;
+Veduto il [R. decreto 3 luglio 1921, n. 1190](Che%20approva%20il%20regolamento%20per%20il%20servizio%20di%20salvataggio%20degli%20operai%20addetti%20alle%20miniere%20di%20solfo%20della%20Sicilia.%20021U1190.md), che approva il regolamento per il servizio di salvataggio degli operai addetti alla miniere di zolfo della Sicilia;
 
 Veduto lo statuto del Sindacato obbligatorio siciliano di mutua assicurazione per gli infortuni sul lavoro nelle miniere di zolfo approvato con R. decreto 27 marzo 1930-VII, n. 560;
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 19 maggio 1941, n. 583](Trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20dei%20comandi%20enti%20reparti%20e%20servizi%20costituenti%20le%20Forze%20armate%20operanti%20nonche%20al%20personale%20militare%20_fcebed3f36e5.md), convertito in legge con la [legge 10 maggio 1943, n. 507](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20maggio%201941-XIX%20n.%20583%20relativo%20al%20trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20di%20_c00e94ef3697.md);
+Visto il [regio decreto-legge 19 maggio 1941, n. 583](Trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20dei%20comandi%20enti%20reparti%20e%20servizi%20costituenti%20le%20Forze%20armate%20operanti%20nonche%20al%20personale%20militare%20_fcebed3f36e5.md), convertito in legge con la [legge 10 maggio 1943, n. 507](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20maggio%201941-XIX%20n.%20583%20relativo%20al%20trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20di%20_c00e94ef3697.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1941, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1941-06-25;151);
 

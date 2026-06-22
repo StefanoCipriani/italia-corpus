@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 14 dicembre 1919, n. 2549](../Regi%20decreti/Erezione%20in%20ente%20morale.%20019U2549.md), che ha eretto in Ente morale l'Istituto per il lavoro per le piccole industrie delle Venezie con sede in Venezia;
+Veduto il [R. decreto 14 dicembre 1919, n. 2549](Erezione%20in%20ente%20morale.%20019U2549.md), che ha eretto in Ente morale l'Istituto per il lavoro per le piccole industrie delle Venezie con sede in Venezia;
 
-Veduto il [R. decreto 8 marzo 1923, n. 537](../Regi%20decreti/Abrogazione%20sostituzione%20e%20approvazione%20di%20statuto.%20023U0537.md), che ha approvato lo statuto organico dell'Istituto suddetto;
+Veduto il [R. decreto 8 marzo 1923, n. 537](Abrogazione%20sostituzione%20e%20approvazione%20di%20statuto.%20023U0537.md), che ha approvato lo statuto organico dell'Istituto suddetto;
 
 Sentito il Consiglio dei Ministri;
 

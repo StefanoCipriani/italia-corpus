@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 7 dicembre 1923, n. 2590](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md);
+Visto il [R. decreto 7 dicembre 1923, n. 2590](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2917](../Regi%20decreti/Norme%20interpretative%20e%20integrative%20per%20lapplicazione%20del%20R.%20decreto%207%20dicembre%201923%20n.%202590%20concernente%20le%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2917.md);
+Visto il [R. decreto 30 dicembre 1923, n. 2917](Norme%20interpretative%20e%20integrative%20per%20lapplicazione%20del%20R.%20decreto%207%20dicembre%201923%20n.%202590%20concernente%20le%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2917.md);
 
-Visto il [R. decreto 30 settembre 1920, n. 1538](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md);
+Visto il [R. decreto 30 settembre 1920, n. 1538](Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md);
 
-Visto il [R. decreto 21 ottobre 1923, n. 2529](../Regi%20decreti/Trattamento%20di%20previdenza%20da%20usarsi%20al%20personale%20delle%20ferrovie%20dello%20Stato%20non%20iscritto%20al%20fondo%20pensioni%20e%20proveniente%20da%20ferrovie%20secondarie.%20023U2529.md);
+Visto il [R. decreto 21 ottobre 1923, n. 2529](Trattamento%20di%20previdenza%20da%20usarsi%20al%20personale%20delle%20ferrovie%20dello%20Stato%20non%20iscritto%20al%20fondo%20pensioni%20e%20proveniente%20da%20ferrovie%20secondarie.%20023U2529.md);
 
 Udito il Consiglio dei Ministri;
 

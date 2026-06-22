@@ -37,7 +37,7 @@ VITTORIO EMANUELE III
  
  All'articolo 3 e' aggiunto il seguente comma: 
  
- « I limiti di esenzione stabiliti dall'art. 42, allegato D, del [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), vengono elevati rispettivamente da lire centoventi a lire quattrocento all'anno per le locazioni di beni immobili e da lire centosessanta a lire seicento all'anno nel caso che trattisi di pigione per abitazione ». 
+ « I limiti di esenzione stabiliti dall'art. 42, allegato D, del [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), vengono elevati rispettivamente da lire centoventi a lire quattrocento all'anno per le locazioni di beni immobili e da lire centosessanta a lire seicento all'anno nel caso che trattisi di pigione per abitazione ». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

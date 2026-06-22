@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 6 luglio 1931, n. 981](Approvazione%20del%20piano%20regolatore%20della%20citta%20di%20Roma%20e%20delle%20norme%20per%20la%20sua%20attuazione.%20031U0981.md), convertito, con modificazioni, nella [legge 24 marzo 1932, n. 355](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%206%20luglio%201931%20n.%20981%20con%20il%20quale%20sono%20stati%20approvati%20il%20piano%20regolatore%20di%20Roma%20e%20le%20norme%20generali%20e%20le%20prescrizioni%20tecnic_3c08f30e6e0a.md), che approva il piano regolatore di Roma e detta norme per la sua esecuzione;
+Visto il [regio decreto-legge 6 luglio 1931, n. 981](Approvazione%20del%20piano%20regolatore%20della%20citta%20di%20Roma%20e%20delle%20norme%20per%20la%20sua%20attuazione.%20031U0981.md), convertito, con modificazioni, nella [legge 24 marzo 1932, n. 355](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%206%20luglio%201931%20n.%20981%20con%20il%20quale%20sono%20stati%20approvati%20il%20piano%20regolatore%20di%20Roma%20e%20le%20norme%20generali%20e%20le%20prescrizioni%20tecnic_3c08f30e6e0a.md), che approva il piano regolatore di Roma e detta norme per la sua esecuzione;
 
 Visto l'[art. 13 del regio decreto-legge 17 ottobre 1935, n. 1987](Norme%20integrative%20della%20legge%20sul%20piano%20regolatore%20di%20Roma%2024%20marzo%201932%20n.%20355.%20035U1987.md), contenente norme integrative della legge suddetta;
 

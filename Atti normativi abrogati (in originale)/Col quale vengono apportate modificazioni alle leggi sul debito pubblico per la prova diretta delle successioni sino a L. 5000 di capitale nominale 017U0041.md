@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti gli [articoli 27](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) e [59 del testo unico delle leggi sul debito pubblico](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) 17 luglio 1910, n. 536;
+Visti gli [articoli 27](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) e [59 del testo unico delle leggi sul debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) 17 luglio 1910, n. 536;
 
 Visto il Nostro decreto 10 agosto 1916, n. 1054;
 
@@ -30,7 +30,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro, di concerto col g
 
 ## Articolo unico.
 
-Agli [articoli 27](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) e [59 del testo unico delle leggi sul debito pubblico](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) 17 luglio 1910, n. 536, sono sostituiti i seguenti: 
+Agli [articoli 27](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) e [59 del testo unico delle leggi sul debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) 17 luglio 1910, n. 536, sono sostituiti i seguenti: 
  
  «Art. 27. - Quando si tratti di rendite nominative o miste, il cui valore nominale non sia superiore a L. 5000, in luogo del titolo legale a possedere, quale e' richiesto dai precedenti articoli 25 e 26, e' ammessa la prova diretta della successione, col deposito presso l'Amministrazione del debito pubblico dell'atto di morte, del testamento, se esista, e di un atto giudiziale o notarile di notorieta', nella forma che sara' stabilita dal regolamento. 
  

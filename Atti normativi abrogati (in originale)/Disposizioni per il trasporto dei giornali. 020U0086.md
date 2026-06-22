@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [Regio decreto 9 ottobre 1919, n. 2159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-09;2159);
 
-Visto l'art. 39 e l'ultimo comma dell'[art. 62 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificati col [Regio decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
+Visto l'art. 39 e l'ultimo comma dell'[art. 62 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificati col [Regio decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
 
 Sentito il Consiglio dei ministri;
 

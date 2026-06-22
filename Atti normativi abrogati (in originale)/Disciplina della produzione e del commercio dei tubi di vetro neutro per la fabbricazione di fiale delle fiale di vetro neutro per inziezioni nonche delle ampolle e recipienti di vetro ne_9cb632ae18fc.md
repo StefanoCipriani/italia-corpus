@@ -86,7 +86,7 @@ Le spese per il prelevamento dei campioni e per l'esecuzione delle analisi, quan
 
 ### Art. 10.
 
-Chiunque usi la denominazione di « vetro neutro » per contraddistinguere vetro o prodotti di vetro che non corrispondano a quanto e' stabilito dal presente decreto e' punito con l'ammenda da L. 50 a L. 1000, senza pregiudizio delle altre pene previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o dalle leggi speciali nei casi in cui tali pene siano applicabili. 
+Chiunque usi la denominazione di « vetro neutro » per contraddistinguere vetro o prodotti di vetro che non corrispondano a quanto e' stabilito dal presente decreto e' punito con l'ammenda da L. 50 a L. 1000, senza pregiudizio delle altre pene previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o dalle leggi speciali nei casi in cui tali pene siano applicabili. 
  
  Chiunque nei documenti o atti di commercio o di trasporto, nella corrispondenza, negli involucri ed imballaggi, nel materiale di propaganda, o in qualsiasi altro modo faccia uso della denominazione di « vetro neutro » per contraddistinguere vetro o prodotti che non siano di vetro neutro, come e' precisato dall'art. 1°, e' punito con l'ammenda da L. 50 a L. 500.
 

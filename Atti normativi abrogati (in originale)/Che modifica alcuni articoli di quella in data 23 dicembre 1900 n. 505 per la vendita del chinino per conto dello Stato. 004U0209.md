@@ -74,7 +74,7 @@ Agli [articoli 2](Disposizioni%20per%20le%20zone%20di%20malaria%20esistenti%20ne
  
  Le somme riscosse a tale titolo saranno devolute al fondo «Sussidi per diminuire le cause della malaria» stabilito dall'[articolo 5 della legge 23 dicembre 1900, n. 505](Sulla%20vendita%20del%20chinino%20al%20pubblico.%20000U0505.md), sulla vendita del chinino. 
  
- I casi di morte per febbre perniciosa contratta in pubblici lavori, per constatata mancanza di somministrazione del chinino, ove cio' avvenga per colpa della pubblica amministrazione o dell'impresa, daranno luogo ad indennita' nella stessa misura stabilita dal testo unico della legge per gli infortuni degli operai sul lavoro, approvato con [R. decreto 31 gennaio 1904, n. 51](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20di%20legge%20per%20glinfortuni%20degli%20operai%20sul%20lavoro.%20004U0051.md). 
+ I casi di morte per febbre perniciosa contratta in pubblici lavori, per constatata mancanza di somministrazione del chinino, ove cio' avvenga per colpa della pubblica amministrazione o dell'impresa, daranno luogo ad indennita' nella stessa misura stabilita dal testo unico della legge per gli infortuni degli operai sul lavoro, approvato con [R. decreto 31 gennaio 1904, n. 51](Che%20approva%20il%20testo%20unico%20di%20legge%20per%20glinfortuni%20degli%20operai%20sul%20lavoro.%20004U0051.md). 
  
  Art. 5. - In aperta campagna, entro i limiti delle zone malariche, di cui all'articolo 1 della presente legge, i locali di ricovero delle guardie di finanza, del personale addetto alle strade nazionali, provinciali e comunali, alle ferrovie, ai Consorzi di bonifica, agli appalti dei pubblici lavori, dovranno essere difesi dalla penetrazione degli insetti aerei nei mesi da giugno a dicembre. 
  
@@ -90,7 +90,7 @@ All'articolo unico della [legge 22 giugno 1902, n. 224](Distribuzione%20del%20ch
  
  a) alle istituzioni pubbliche di beneficienza, esistenti oltre la Congregazione di carita', per il chinino da distribuirsi ai loro beneficati, ed alle Cooperative di lavoro pel chinino ad uso dei loro soci; 
  
- b) alle altre pubbliche amministrazioni ed istituzioni, Enti morali, imprese di lavori pubblici, stabilimenti industriali, Consorzi agrari e aziende rurali, cave e miniere, e altre imprese contemplate nell'articolo l° del testo unico della legge per gli infortuni, approvato con [R. decreto 31 gennaio 1904, n. 51](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20di%20legge%20per%20glinfortuni%20degli%20operai%20sul%20lavoro.%20004U0051.md), nonche' ai proprietari e conduttori di risaie, purche' si obblighino a farne direttamente la gratuita somministrazione ai propri coloni, operai, impiegati, salariati e dipendenti. 
+ b) alle altre pubbliche amministrazioni ed istituzioni, Enti morali, imprese di lavori pubblici, stabilimenti industriali, Consorzi agrari e aziende rurali, cave e miniere, e altre imprese contemplate nell'articolo l° del testo unico della legge per gli infortuni, approvato con [R. decreto 31 gennaio 1904, n. 51](Che%20approva%20il%20testo%20unico%20di%20legge%20per%20glinfortuni%20degli%20operai%20sul%20lavoro.%20004U0051.md), nonche' ai proprietari e conduttori di risaie, purche' si obblighino a farne direttamente la gratuita somministrazione ai propri coloni, operai, impiegati, salariati e dipendenti. 
  
  Le norme ed i limiti di tali concessioni saranno fissati dal regolamento. La composizione e forma dei preparati chinacei e i modi della distribuzione si stabiliranno con R. decreto, udito il Consiglio superiore di sanita'. 
  

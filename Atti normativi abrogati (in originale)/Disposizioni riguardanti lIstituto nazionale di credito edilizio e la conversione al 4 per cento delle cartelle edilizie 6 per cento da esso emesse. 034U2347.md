@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 4 maggio 1924, n. 993](Provvedimenti%20a%20favore%20degli%20Istituti%20e%20Societa%20di%20credito%20edilizio.%20024U0993.md), recante provvedimenti a favore degli Istituti e Societa' di credito edilizio;
 
-Visto il [R. decreto 23 ottobre 1925, n. 2063](../Regi%20decreti/Autorizzazione%20alla%20Societa%20anonima%20Istituto%20nazionale%20di%20credito%20edilizio%20con%20sede%20in%20Roma%20ad%20esercitare%20il%20credito%20edilizio.%20025U2063.md), che autorizza la Societa' anonima «Istituto nazionale di credito edilizio» con sede in Roma ad esercitare il credito edilizio;
+Visto il [R. decreto 23 ottobre 1925, n. 2063](Autorizzazione%20alla%20Societa%20anonima%20Istituto%20nazionale%20di%20credito%20edilizio%20con%20sede%20in%20Roma%20ad%20esercitare%20il%20credito%20edilizio.%20025U2063.md), che autorizza la Societa' anonima «Istituto nazionale di credito edilizio» con sede in Roma ad esercitare il credito edilizio;
 
 Visto il [R. decreto-legge 18 settembre 1934, n. 1463](Provvedimenti%20in%20materia%20di%20credito%20fondiario.%20034U1463.md), portante provvedimenti in materia di credito fondiario;
 

@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 14 ottobre 1926, n. 1835](../Regi%20decreti/Ordinamento%20del%20Consiglio%20superiore%20delle%20miniere.%20026U1835.md);
+Visto il [R. decreto 14 ottobre 1926, n. 1835](Ordinamento%20del%20Consiglio%20superiore%20delle%20miniere.%20026U1835.md);
 
 Vista la [legge 3 dicembre 1922, n. 1636](Che%20reca%20provvedimenti%20per%20la%20ricerca%20e%20la%20utilizzazione%20delle%20sostanze%20radioattive.%20022U1636.md);
 
-Visto il [R. decreto 31 ottobre 1923, n. 2449](../Regi%20decreti/Modificazioni%20alla%20legge%203%20dicembre%201922%20n.%201636%20sulla%20ricerca%20ed%20utilizzazione%20delle%20sostanze%20radioattive.%20023U2449.md);
+Visto il [R. decreto 31 ottobre 1923, n. 2449](Modificazioni%20alla%20legge%203%20dicembre%201922%20n.%201636%20sulla%20ricerca%20ed%20utilizzazione%20delle%20sostanze%20radioattive.%20023U2449.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

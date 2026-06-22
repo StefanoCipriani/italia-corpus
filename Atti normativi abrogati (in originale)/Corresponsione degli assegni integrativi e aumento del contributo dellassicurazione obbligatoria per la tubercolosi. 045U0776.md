@@ -46,7 +46,7 @@ L'assegno integrativo previsto dall'art. 1 e' corrisposto unitamente alla indenn
 
 ## Art. 3.
 
-Il periodo massimo di corresponsione dell'indennita' temporanea previsto in sei mesi nell'art. 25 del regolamento approvato con [R. decreto 7 giugno 1928, n. 1343, e nell'art. 3](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2027%20ottobre%201927%20n.%202055%20che%20istituisce%20lassicurazione%20obbligatoria%20contro%20la%20tubercolosi.%20028U1343.md) del [R. decreto-legge 21 dicembre 1938, n. 2202](Estensione%20dellassicurazione%20obbligatoria%20contro%20la%20tubercolosi%20ai%20maestri%20elementari%20ed%20ai%20direttori%20didattici.%20038U2202.md), e' elevato a due anni. 
+Il periodo massimo di corresponsione dell'indennita' temporanea previsto in sei mesi nell'art. 25 del regolamento approvato con [R. decreto 7 giugno 1928, n. 1343, e nell'art. 3](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2027%20ottobre%201927%20n.%202055%20che%20istituisce%20lassicurazione%20obbligatoria%20contro%20la%20tubercolosi.%20028U1343.md) del [R. decreto-legge 21 dicembre 1938, n. 2202](Estensione%20dellassicurazione%20obbligatoria%20contro%20la%20tubercolosi%20ai%20maestri%20elementari%20ed%20ai%20direttori%20didattici.%20038U2202.md), e' elevato a due anni. 
  
  Per coloro che abbiano gia' usufruito della indennita' in base alle disposizioni preesistenti anche di carattere amministrativo sara' ripresa la corresponsione di essa fino al raggiungimento del periodo massimo stabilito dal comma precedente.
 

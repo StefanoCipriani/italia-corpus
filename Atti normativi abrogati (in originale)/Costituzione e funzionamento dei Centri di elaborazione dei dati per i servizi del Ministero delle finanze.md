@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'art. 12, ultimo comma, del [regio decreto-legge 7 agosto 1936, n. 1639](Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), convertito nella [legge 7 giugno 1937, n. 1016](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%207%20agosto%201936-XIV%20n.%201639%20concernente%20riforma%20degli%20ordinamenti%20tributari.%20037U1016.md), con il quale il Ministro per le finanze venne autorizzato ad emanare le disposizioni occorrenti per la formazione ed il funzionamento dell'anagrafe tributaria;
+Visto l'art. 12, ultimo comma, del [regio decreto-legge 7 agosto 1936, n. 1639](Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), convertito nella [legge 7 giugno 1937, n. 1016](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%207%20agosto%201936-XIV%20n.%201639%20concernente%20riforma%20degli%20ordinamenti%20tributari.%20037U1016.md), con il quale il Ministro per le finanze venne autorizzato ad emanare le disposizioni occorrenti per la formazione ed il funzionamento dell'anagrafe tributaria;
 
 Vista la [legge 15 giugno 1965, n. 703](Istituzione%20dei%20ruoli%20organici%20del%20personale%20per%20i%20servizi%20meccanografici%20del%20Ministero%20delle%20finanze.md), concernente la istituzione del ruolo organico del personale per i servizi meccanografici del Ministero delle finanze da impiegare presso Centri di elaborazione dei dati;
 

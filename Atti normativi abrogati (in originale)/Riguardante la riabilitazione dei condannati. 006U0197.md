@@ -14,7 +14,7 @@ Alle disposizioni degli [articoli dall'837](https://www.normattiva.it/uri-res/N2
 
 ## Art. 2.
 
-L'istanza di riabilitazione e' diretta al primo presidente della Corte d'appello del distretto in cui fu pronunziata la condanna o emessa la dichiarazione di cui nell'art. 7, capoverso del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+L'istanza di riabilitazione e' diretta al primo presidente della Corte d'appello del distretto in cui fu pronunziata la condanna o emessa la dichiarazione di cui nell'art. 7, capoverso del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Alla domanda e' allegata copia della sentenza di condanna e sono uniti i documenti comprovanti che l'istante: 
  

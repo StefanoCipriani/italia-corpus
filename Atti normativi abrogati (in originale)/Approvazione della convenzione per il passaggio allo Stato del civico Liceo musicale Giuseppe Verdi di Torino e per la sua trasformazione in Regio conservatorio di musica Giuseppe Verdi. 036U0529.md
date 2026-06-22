@@ -104,7 +104,7 @@ Al personale direttivo, insegnante e di custodia contemplato nei precedenti arti
 
 ## Art. 10.
 
-Il trattamento di quiescenza del direttore, degli insegnanti, degli impiegati e dei subalterni provenienti dal civico Liceo musicale «Giuseppe Verdi» di Torino e' regolato dall'art. 48 del testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
+Il trattamento di quiescenza del direttore, degli insegnanti, degli impiegati e dei subalterni provenienti dal civico Liceo musicale «Giuseppe Verdi» di Torino e' regolato dall'art. 48 del testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
  
  Nel caso che l'assegno di riposo debba ripartirsi tra lo Stato e gli Istituti di previdenza amministrati dalla Direzione generale della Cassa depositi e prestiti, questa determinera' e corrispondera' la quota a carico degli Istituti stessi secondo le leggi che li regolano.
 

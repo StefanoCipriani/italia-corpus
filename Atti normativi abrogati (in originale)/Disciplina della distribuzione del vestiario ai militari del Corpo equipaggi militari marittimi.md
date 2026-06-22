@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'art. 40 del testo unico delle leggi sull'ordinamento del Corpo equipaggi militari marittimi e sullo stato giuridico dei sottufficiali della Marina militare, approvato con [regio decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni;
+Visto l'art. 40 del testo unico delle leggi sull'ordinamento del Corpo equipaggi militari marittimi e sullo stato giuridico dei sottufficiali della Marina militare, approvato con [regio decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni;
 
-Visto il [regio decreto 24 aprile 1935, n. 767](../Regi%20decreti/Vestiario%20dei%20militari%20del%20Corpo%20Reale%20equipaggi%20marittimi.%20035U0767.md), relativo al vestiario dei militari del Corpo equipaggi militari marittimi, e successive modificazioni;
+Visto il [regio decreto 24 aprile 1935, n. 767](Vestiario%20dei%20militari%20del%20Corpo%20Reale%20equipaggi%20marittimi.%20035U0767.md), relativo al vestiario dei militari del Corpo equipaggi militari marittimi, e successive modificazioni;
 
 Visto l'[art. 3, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), e successive modificazioni;
 
@@ -89,7 +89,7 @@ E' ratificata la concessione gratuita, del vestiario per rinnovamento corredo ai
 
 ## Art. 14.
 
-E' abrogato il [regio decreto 24 aprile 1935, n. 767](../Regi%20decreti/Vestiario%20dei%20militari%20del%20Corpo%20Reale%20equipaggi%20marittimi.%20035U0767.md).
+E' abrogato il [regio decreto 24 aprile 1935, n. 767](Vestiario%20dei%20militari%20del%20Corpo%20Reale%20equipaggi%20marittimi.%20035U0767.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

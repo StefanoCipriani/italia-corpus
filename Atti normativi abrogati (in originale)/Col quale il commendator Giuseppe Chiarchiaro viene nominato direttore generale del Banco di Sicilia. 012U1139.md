@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto l'art. 134 del testo unico di legge sugli Istituti di emissione e sulla circolazione dei biglietti di banca, approvato con [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md); 
+ Veduto l'art. 134 del testo unico di legge sugli Istituti di emissione e sulla circolazione dei biglietti di banca, approvato con [R. decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md); 
  
  Veduto l'art. 28 della statuto del Banco di Sicilia, approvato con [R. decreto 2 agosto 1908, n. 584](Che%20approva%20lannesso%20statuto%20del%20Banco%20di%20Sicilia.%20008U0584.md); 
  

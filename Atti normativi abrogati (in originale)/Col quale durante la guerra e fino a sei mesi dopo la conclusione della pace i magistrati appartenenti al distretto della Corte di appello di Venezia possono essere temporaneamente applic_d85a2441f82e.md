@@ -14,7 +14,7 @@ Durante la guerra e fino a sei mesi dopo la conclusione della pace, i magistrati
  
  Tale applicazione non e' subordinata pei magistrati giudicanti alla condizione del loro consenso e del parere prescritto dall'[art. 36, n. 2, della legge 14 luglio 1907, n. 511](Modificazioni%20allordinamento%20giudiziario.%20007U0511.md); ne' per gli uffici del pubblico ministero, alle condizioni e limitazioni stabilite dal [R. decreto 13 maggio 1915, n. 758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-13;758), e dal [decreto Luogotenenziale 21 ottobre 1915, n. 1566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-10-21;1566). 
  
- Ai magistrati cosi' applicati compete la sola indennita' ordinaria di trasferimento, a norma del [R. decreto 1° novembre 1876, n. 3450](../Regi%20decreti/Concernente%20le%20indennita%20di%20trasferimento%20agli%20impiegati%20civili.%20076U3450.md).
+ Ai magistrati cosi' applicati compete la sola indennita' ordinaria di trasferimento, a norma del [R. decreto 1° novembre 1876, n. 3450](Concernente%20le%20indennita%20di%20trasferimento%20agli%20impiegati%20civili.%20076U3450.md).
 
 ## Art. 2.
 

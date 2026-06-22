@@ -32,11 +32,11 @@ All'obbligo della rinnovazione straordinaria stabilita dall'art. 1, primo comma,
 
 ## Art. 5.
 
-Sono dispensati dall'obbligo della rinnovazione straordinaria delle licenze i titolari degli esercizi che, in seguito a richiamo sotto le armi, hanno dato all'autorita' locale di pubblica sicurezza l'avviso di chiusura, a norma dell'[art. 55 dal testo unico della legge di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 30 giugno 1889, n. 6144.
+Sono dispensati dall'obbligo della rinnovazione straordinaria delle licenze i titolari degli esercizi che, in seguito a richiamo sotto le armi, hanno dato all'autorita' locale di pubblica sicurezza l'avviso di chiusura, a norma dell'[art. 55 dal testo unico della legge di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 30 giugno 1889, n. 6144.
 
 ## Art. 6.
 
-Per la inosservanza delle disposizioni del decreto 5 agosto 1917, n. 1229, e del presente, sono applicabili le sanzioni comminate, oltreche' dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dalle vigenti disposizioni in materia di pubblica sicurezza, di provvedimenti contro l'alcoolismo e di tasse sulle concessioni governative.
+Per la inosservanza delle disposizioni del decreto 5 agosto 1917, n. 1229, e del presente, sono applicabili le sanzioni comminate, oltreche' dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dalle vigenti disposizioni in materia di pubblica sicurezza, di provvedimenti contro l'alcoolismo e di tasse sulle concessioni governative.
 
 ## Art. 7.
 

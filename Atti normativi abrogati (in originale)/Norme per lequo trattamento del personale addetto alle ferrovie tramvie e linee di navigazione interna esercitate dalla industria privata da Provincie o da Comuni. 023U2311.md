@@ -80,7 +80,7 @@ Per la prima applicazione del presente decreto, i termini indicati ai precedenti
 
 ## Art. 6.
 
-E' approvato secondo lo schema annesso (allegato B) al presente decreto, lo statuto per le casse di soccorso a favore del personale addetto ai pubblici servizi di trasporto, di cui al precedente art. 1, in sostituzione dello schema di statuto tipo approvato col [R. decreto 30 gennaio 1921, n. 215](../Regi%20decreti/Approvazione%20di%20schema%20di%20statuto.%20021U0215.md). Tale schema e' visto, d'ordine Nostro, dal Ministro per i lavori pubblici.
+E' approvato secondo lo schema annesso (allegato B) al presente decreto, lo statuto per le casse di soccorso a favore del personale addetto ai pubblici servizi di trasporto, di cui al precedente art. 1, in sostituzione dello schema di statuto tipo approvato col [R. decreto 30 gennaio 1921, n. 215](Approvazione%20di%20schema%20di%20statuto.%20021U0215.md). Tale schema e' visto, d'ordine Nostro, dal Ministro per i lavori pubblici.
 
 ## Art. 7.
 

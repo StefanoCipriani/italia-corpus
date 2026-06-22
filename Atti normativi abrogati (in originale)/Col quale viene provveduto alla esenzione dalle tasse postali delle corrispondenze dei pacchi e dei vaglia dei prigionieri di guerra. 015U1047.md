@@ -18,7 +18,7 @@ Le corrispondenze spedite in esenzione di tassa dalla Commissione dovranno porta
 
 ## Art. 3.
 
-La esenzione dalle tasse postali che compete ai prigionieri di guerra e' limitata alle corrispondenze in partenza dall'Italia, alle lettere ordinarie non eccedenti il peso di grammi 15, alle cartoline spedite in via ordinaria non eccedenti le dimensioni ed il peso fissati dall'art. 56 del regolamento generale intorno al servizio postale approvato con [R. decreto 10 febbraio 1901, n. 120](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md), alle carte manoscritte fino al peso di grammi 500 spedite egualmente in via ordinaria, ed ai vaglia postali ordinari.
+La esenzione dalle tasse postali che compete ai prigionieri di guerra e' limitata alle corrispondenze in partenza dall'Italia, alle lettere ordinarie non eccedenti il peso di grammi 15, alle cartoline spedite in via ordinaria non eccedenti le dimensioni ed il peso fissati dall'art. 56 del regolamento generale intorno al servizio postale approvato con [R. decreto 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md), alle carte manoscritte fino al peso di grammi 500 spedite egualmente in via ordinaria, ed ai vaglia postali ordinari.
 
 ## Art. 4.
 

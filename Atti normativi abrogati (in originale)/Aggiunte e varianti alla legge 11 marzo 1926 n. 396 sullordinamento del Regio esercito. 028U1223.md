@@ -70,7 +70,7 @@ Ai giovani di cui all'articolo precedente e' fatto divieto, per un periodo di se
 
 ## Art. 5.
 
-Nel ruolo del personale civile insegnante negli istituti Militari, da conservarsi fino ad eliminazione, a termini dell'art. 27 del testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti, approvato con [R. decreto 23 febbraio 1928, n. 327](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), e' incluso l'attuale insegnante di meccanica razionale presso la R. Accademia di artiglieria e genio. 
+Nel ruolo del personale civile insegnante negli istituti Militari, da conservarsi fino ad eliminazione, a termini dell'art. 27 del testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti, approvato con [R. decreto 23 febbraio 1928, n. 327](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), e' incluso l'attuale insegnante di meccanica razionale presso la R. Accademia di artiglieria e genio. 
  
  All'anzidetto insegnante sara', a tutti gli effetti, attribuito il grado 6° dell'ordinamento gerarchico in vigore.
 

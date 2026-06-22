@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Sono classificate fra le strade nazionali ed aggiunte all'elenco approvato col [R. decreto 23 marzo 1884, n. 2197](../Regi%20decreti/Che%20approva%20lannessovi%20elenco%20generale%20delle%20strade%20nazionali%20del%20Regno.%20084U2197.md), le seguenti strade provinciali: 
+ Sono classificate fra le strade nazionali ed aggiunte all'elenco approvato col [R. decreto 23 marzo 1884, n. 2197](Che%20approva%20lannessovi%20elenco%20generale%20delle%20strade%20nazionali%20del%20Regno.%20084U2197.md), le seguenti strade provinciali: 
  
  1° strada Salaria, dalla strada nazionale, n. 47, presso Antrodoco, in provincia d'Aquila, fino alla stazione ferroviaria di Ascoli Piceno; 
  

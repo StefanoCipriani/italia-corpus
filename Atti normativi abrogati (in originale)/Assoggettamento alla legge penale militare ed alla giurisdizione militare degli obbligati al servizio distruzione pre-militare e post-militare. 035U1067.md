@@ -54,7 +54,7 @@ Fuori dei casi preveduti dai precedenti articoli l e 2, le persone ivi indicate 
 
 Per i reati preveduti dai precedenti articoli 1, 2 e 3 e per quelli commessi nelle circostanze di cui all'art. 4, i colpevoli sono soggetti alla giurisdizione militare. 
  
- Per i reati preveduti dai medesimi articoli 1, 2 e 3 e per i reati per i quali il [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito stabilisce la pena del carcere militare, commessi dalle persone indicate nei precedenti articoli 1 e 2, si procede a richiesta dei comandanti di legione o di coorte autonoma della Milizia volontaria per la sicurezza nazionale o dei Fasci giovanili di combattimento o degli altri comandanti militari competenti a norma del regolamento. 
+ Per i reati preveduti dai medesimi articoli 1, 2 e 3 e per i reati per i quali il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito stabilisce la pena del carcere militare, commessi dalle persone indicate nei precedenti articoli 1 e 2, si procede a richiesta dei comandanti di legione o di coorte autonoma della Milizia volontaria per la sicurezza nazionale o dei Fasci giovanili di combattimento o degli altri comandanti militari competenti a norma del regolamento. 
  
  Per i reati preveduti dai menzionati articoli 1, 2 e 3 punibili con l'ammenda, il giudice militare puo', senza procedere al dibattimento, pronunciare condanna con decreto, osservate le disposizioni del [R. decreto 5 ottobre 1920, numero 1417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-10-05;1417).
 

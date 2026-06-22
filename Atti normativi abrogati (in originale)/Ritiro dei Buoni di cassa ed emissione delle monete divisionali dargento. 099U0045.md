@@ -14,7 +14,7 @@ Il Governo del Re ha facolta' di provvedere per decreti Reali, in seguito a deli
  
  1° alla proibizione dell'esportazione all'estero delle monete divisionali d'argento, da lire una e due e da 50 centesimi, di conio italiano, in conformita' al protocollo addizionalo di Parigi del 15 marzo 1898; 
  
- 2° al ritiro dalla circolazione ed al successivo annullamento dei Buoni di cassa da lire una e due emessi a tenore dei [Regi decreti 4 agosto 1893, n. 452](../Regi%20decreti/Che%20autorizza%20lemissione%20di%20Buoni%20di%20Cassa%20a%20corso%20legale.%20093U0452.md), e [21 febbraio 1894, n. 49](../Regi%20decreti/Concernente%20lemissione%20di%20Boni%20di%20Cassa%20da%20due%20lire%20e%20la%20coniazione%20di%20monete%20di%20nichelio.%20094U0049.md), e a norma dell'[articolo 14 della legge 22 luglio 1894, n. 339](Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md); 
+ 2° al ritiro dalla circolazione ed al successivo annullamento dei Buoni di cassa da lire una e due emessi a tenore dei [Regi decreti 4 agosto 1893, n. 452](Che%20autorizza%20lemissione%20di%20Buoni%20di%20Cassa%20a%20corso%20legale.%20093U0452.md), e [21 febbraio 1894, n. 49](Concernente%20lemissione%20di%20Boni%20di%20Cassa%20da%20due%20lire%20e%20la%20coniazione%20di%20monete%20di%20nichelio.%20094U0049.md), e a norma dell'[articolo 14 della legge 22 luglio 1894, n. 339](Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md); 
  
  3° alla determinazione del limite utile all'impiego delle monete divisionali di conio italiano nel pagamento dei dazi d'importazione.
 

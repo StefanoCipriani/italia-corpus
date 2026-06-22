@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le finanze, di concerto con il Ministro per i la
 
 Per l'acquisto del Palazzo Paolucci in Forli', di proprieta' del comune di Forli', da adibire a Palazzo del Governo, e' autorizzata la spesa di L. 4.000.000 da inscrivere nel bilancio del Ministero delle finanze. 
  
- In relazione all'art. 144, lettera b, n. 10, del [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale, saranno regolati, con apposita convenzione, i rapporti tra il Demanio e l'Amministrazione della provincia di Forli', derivanti dalla destinazione del Palazzo Paolucci a Palazzo del Governo.
+ In relazione all'art. 144, lettera b, n. 10, del [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale, saranno regolati, con apposita convenzione, i rapporti tra il Demanio e l'Amministrazione della provincia di Forli', derivanti dalla destinazione del Palazzo Paolucci a Palazzo del Governo.
 
 ## Art. 2.
 

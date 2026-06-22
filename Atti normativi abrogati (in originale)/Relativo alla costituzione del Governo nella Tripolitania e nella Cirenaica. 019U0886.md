@@ -74,13 +74,13 @@ Un ufficio di ragioneria esegue il riscontro delle spese civili e militari, seco
 
 ## Art. 10.
 
-Quando eccezionali contingenze lo reclamino, le funzioni di governatore possono essere temporaneamente affidate ad un ufficiale generale del R. esercito, il quale assume anche il comando delle truppe. In tale sua qualita' egli esercita tutte le attribuzioni spettanti ai comandanti di Corpo d'armata isolato, e quando sia dichiarato lo stato di guerra o lo stato di assedio ha le facolta' che in simili casi sono conferite ai comandanti di Corpo d'armata dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, dalle leggi e dai regolamenti militari.
+Quando eccezionali contingenze lo reclamino, le funzioni di governatore possono essere temporaneamente affidate ad un ufficiale generale del R. esercito, il quale assume anche il comando delle truppe. In tale sua qualita' egli esercita tutte le attribuzioni spettanti ai comandanti di Corpo d'armata isolato, e quando sia dichiarato lo stato di guerra o lo stato di assedio ha le facolta' che in simili casi sono conferite ai comandanti di Corpo d'armata dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, dalle leggi e dai regolamenti militari.
 
 ## Art. 11.
 
 Per ragioni gravi di ordine pubblico o di sicurezza il governatore puo' proclamare lo stato di assedio in tutto il territorio di sua giurisdizione o in parte di esso. 
  
- Potra' inoltre istituire tribunali speciali, stabilire che alcuni reati che vengano commessi dagli abitanti siano giudicati secondo le forme ed applicando le pene fissate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per il tempo di guerra, e adottare quegli altri provvedimenti che reputi necessario a seconda delle circostanze. 
+ Potra' inoltre istituire tribunali speciali, stabilire che alcuni reati che vengano commessi dagli abitanti siano giudicati secondo le forme ed applicando le pene fissate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per il tempo di guerra, e adottare quegli altri provvedimenti che reputi necessario a seconda delle circostanze. 
  
  I provvedimenti suddetti saranno presi con decreto motivato dal governatore, previa autorizzazione del ministro delle colonie, e in caso di urgenza, anche senza tale autorizzazione, salva pero' la immediata loro comunicazione al ministro. 
  

@@ -26,7 +26,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto il testo unico delle leggi sugli ufficiali ed agenti di pubblica sicurezza 21 agosto 1907, n. 666; 
  
- Visto il testo unico del regolamento pel corpo delle guardie di citta', approvato con [R. decreto 27 giugno 1907, n. 367](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20del%20regolamento%20pel%20Corpo%20delle%20guardie%20di%20citta.%20007U0367.md); 
+ Visto il testo unico del regolamento pel corpo delle guardie di citta', approvato con [R. decreto 27 giugno 1907, n. 367](Che%20approva%20lunito%20testo%20unico%20del%20regolamento%20pel%20Corpo%20delle%20guardie%20di%20citta.%20007U0367.md); 
  
  Udito il Consiglio dei ministri; 
  

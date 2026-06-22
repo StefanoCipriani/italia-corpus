@@ -30,7 +30,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, di conc
 
 L'art. 3 del decreto del Capo del Governo 20 aprile 1931 e' sostituito dal seguente: 
  
- « Tutte le attribuzioni assegnate alla Presidenza, al Consiglio d'amministrazione ed al Comitato esecutivo dell'E.N.I.T., dallo statuto dell'Ente - approvato con [R. decreto 6 maggio 1929, n. 881](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20dellEnte%20nazionale%20per%20le%20industrie%20turistiche.%20029U0881.md) - sono deferite ad un presidente dell'E.N.I.T., nominato con decreto del Capo del Governo ». 
+ « Tutte le attribuzioni assegnate alla Presidenza, al Consiglio d'amministrazione ed al Comitato esecutivo dell'E.N.I.T., dallo statuto dell'Ente - approvato con [R. decreto 6 maggio 1929, n. 881](Approvazione%20del%20nuovo%20statuto%20dellEnte%20nazionale%20per%20le%20industrie%20turistiche.%20029U0881.md) - sono deferite ad un presidente dell'E.N.I.T., nominato con decreto del Capo del Governo ». 
  
  L'E.N.I.T. svolge la propria attivita' secondo le direttive del Commissario per il turismo, dal quale direttamente dipende. 
  

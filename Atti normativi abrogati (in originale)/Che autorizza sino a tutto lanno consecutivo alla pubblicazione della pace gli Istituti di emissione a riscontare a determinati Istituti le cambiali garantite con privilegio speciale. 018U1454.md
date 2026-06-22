@@ -20,7 +20,7 @@ Le cambiali onde trattasi debbono portare l'indicazione degli estremi degli atti
 
 ## Art. 3.
 
-La circolazione dei biglietti dipendenti dalle accennate operazioni sara' soggetta al contributo speciale stabilito con [R. decreto 23 novembre 1914, n. 1284](../Regi%20decreti/Da%20convertirsi%20in%20legge%20col%20quale%20viene%20concesso%20un%20nuovo%20aumento%20della%20circolazione%20dei%20biglietti%20di%20banca%20degli%20Istituti%20di%20emissione.%20014U1284.md), convertito nella [legge 30 aprile 1916, n. 528](Che%20converte%20in%20legge%20i%20Regi%20decreti%20concernenti%20provvedimenti%20sulla%20circolazione%20cartacea%20dello%20Stato%20sulla%20circolazione%20bancaria%20e%20sullistituzione%20di%20un%20conto%20corrente%20speciale%20fra%20Teso_47e479033f03.md) - oltre la tassa ordinaria.
+La circolazione dei biglietti dipendenti dalle accennate operazioni sara' soggetta al contributo speciale stabilito con [R. decreto 23 novembre 1914, n. 1284](Da%20convertirsi%20in%20legge%20col%20quale%20viene%20concesso%20un%20nuovo%20aumento%20della%20circolazione%20dei%20biglietti%20di%20banca%20degli%20Istituti%20di%20emissione.%20014U1284.md), convertito nella [legge 30 aprile 1916, n. 528](Che%20converte%20in%20legge%20i%20Regi%20decreti%20concernenti%20provvedimenti%20sulla%20circolazione%20cartacea%20dello%20Stato%20sulla%20circolazione%20bancaria%20e%20sullistituzione%20di%20un%20conto%20corrente%20speciale%20fra%20Teso_47e479033f03.md) - oltre la tassa ordinaria.
 
 ## Art. 4.
 

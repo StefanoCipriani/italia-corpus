@@ -14,9 +14,9 @@ IL MINISTRO DEL TESORO
  
  Veduta la [legge 7 aprile 1881, n. 133](Che%20provvede%20per%20labolizione%20del%20corso%20forzoso%20081U0133.md) (Serie 3ª) che provvede per l'abolizione del corso forzoso; 
  
- Veduto il regolamento approvato con [R. decreto 16 giugno 1881, n. 253](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20provvedimenti%20per%20labolizione%20del%20corso%20forzoso.%20081U0253.md) (Serie 3ª); 
+ Veduto il regolamento approvato con [R. decreto 16 giugno 1881, n. 253](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20provvedimenti%20per%20labolizione%20del%20corso%20forzoso.%20081U0253.md) (Serie 3ª); 
  
- Veduto il [R. decreto 11 marzo 1883, n. 1231](../Regi%20decreti/Che%20stabilisce%20i%20distintivi%20dei%20biglietti%20di%20nuova%20forma%20da%20lire%2010.%20083U1231.md) (Serie 3ª), col quale furono pubblicati i distintivi ed i segni caratteristici dei biglietti di nuova forma (di Stato) da lire Dieci da emettersi in sostituzione di quelli consorziali e gia' consorziali, a termini e per gli effetti della legge 7 aprile 1881 sovramenzionata; 
+ Veduto il [R. decreto 11 marzo 1883, n. 1231](Che%20stabilisce%20i%20distintivi%20dei%20biglietti%20di%20nuova%20forma%20da%20lire%2010.%20083U1231.md) (Serie 3ª), col quale furono pubblicati i distintivi ed i segni caratteristici dei biglietti di nuova forma (di Stato) da lire Dieci da emettersi in sostituzione di quelli consorziali e gia' consorziali, a termini e per gli effetti della legge 7 aprile 1881 sovramenzionata; 
  
  Veduto il [decreto Ministeriale 16 luglio 1883, n. 1500](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1883-07-16;1500) (Serie 3ª); 
  

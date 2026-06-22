@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 2 del R. decreto 18 novembre 1920, n. 1626](../Regi%20decreti/Che%20estende%20il%20nuovo%20regime%20delle%20pensioni%20ai%20militari%20del%20Regio%20esercito%20e%20della%20Regia%20marina.%20020U1626.md);
+Visto l'[art. 2 del R. decreto 18 novembre 1920, n. 1626](Che%20estende%20il%20nuovo%20regime%20delle%20pensioni%20ai%20militari%20del%20Regio%20esercito%20e%20della%20Regia%20marina.%20020U1626.md);
 
-Visto l'[art. 5 del R. decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md);
+Visto l'[art. 5 del R. decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md);
 
 Ritenuta la necessita' urgente ed assoluta di interpretare autenticamente le disposizioni degli [articoli 38](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md) e [39 della legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di Stato per le finanze, di concerto con 
 
 ## Art. 1.
 
-Agli effetti del [primo comma dell'art. 38 della legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), il limite minimo di servizio richiesto per il collocamento a riposo deve intendersi stabilito in 20 anni, in conformita' del disposto dell'[art. 2 del R. decreto 18 novembre 1920, n. 1626](../Regi%20decreti/Che%20estende%20il%20nuovo%20regime%20delle%20pensioni%20ai%20militari%20del%20Regio%20esercito%20e%20della%20Regia%20marina.%20020U1626.md), e dell'[art. 5 del R. decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md). 
+Agli effetti del [primo comma dell'art. 38 della legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), il limite minimo di servizio richiesto per il collocamento a riposo deve intendersi stabilito in 20 anni, in conformita' del disposto dell'[art. 2 del R. decreto 18 novembre 1920, n. 1626](Che%20estende%20il%20nuovo%20regime%20delle%20pensioni%20ai%20militari%20del%20Regio%20esercito%20e%20della%20Regia%20marina.%20020U1626.md), e dell'[art. 5 del R. decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md). 
  
  Tale limite deve intendersi valevole anche per il collocamento in ausiliaria direttamente o pel tramite del congedo provvisorio, previsto dal successivo art. 39 della predetta [legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), modificato dall'art, 2 del [R. decreto 16 agosto 1926, n. 1477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-16;1477).
 

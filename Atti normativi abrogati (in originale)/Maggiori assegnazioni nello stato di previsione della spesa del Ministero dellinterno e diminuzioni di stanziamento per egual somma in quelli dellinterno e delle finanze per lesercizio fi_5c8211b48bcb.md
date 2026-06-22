@@ -36,7 +36,7 @@ VITTORIO EMANUELE III
  funzionamento del laboratorio fisico della Direzione 
  generale della sanita' pubblica - Ufficio del Radio 
  ([R. decreto 16 luglio 1925, n. 1421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-16;1421); [R. decreto 23 
- ottobre 1925, n. 2118](../Regi%20decreti/Modalita%20pel%20passaggio%20dellUfficio%20delle%20sostanze%20radioattive%20dalla%20dipendenza%20del%20Ministero%20delleconomia%20nazionale%20a%20quella%20del%20Ministero%20dellinterno.%20025U2118.md) e decreto Ministeriale 
+ ottobre 1925, n. 2118](Modalita%20pel%20passaggio%20dellUfficio%20delle%20sostanze%20radioattive%20dalla%20dipendenza%20del%20Ministero%20delleconomia%20nazionale%20a%20quella%20del%20Ministero%20dellinterno.%20025U2118.md) e decreto Ministeriale 
  1° novembre 1925). 
  Cap. n. 64 (variata la denominazione) - Spesa per 
  l'esecuzione del [decreto Luogotenenziale 12 aprile 1917, 

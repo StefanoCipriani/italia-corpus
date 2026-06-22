@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Viste le [leggi 27 marzo 1930, n. 258, 1° maggio 1930, numero 477, 2 giugno 1930, nn. 712 e 714, e 26 giugno 1930, n. 850](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20finanze%20e%20stato%20di%20previsione%20dellentrata%20per%20lesercizio%20finanziario%20dal%201%20luglio%201930%20al%2030%20giugno%201931.%20030U0850.md);
 
-Visto il decreto del Capo del Governo 3 luglio 1930, che detta le norme per l'attuazione del [R. decreto 26 giugno 1930, n. 870](../Regi%20decreti/Trasferimento%20al%20Capo%20del%20Governo%20delle%20attribuzioni%20spettanti%20al%20Ministro%20per%20i%20lavori%20pubblici%20in%20materia%20di%20migrazioni%20interne.%20030U0870.md), in materia di migrazioni interne;
+Visto il decreto del Capo del Governo 3 luglio 1930, che detta le norme per l'attuazione del [R. decreto 26 giugno 1930, n. 870](Trasferimento%20al%20Capo%20del%20Governo%20delle%20attribuzioni%20spettanti%20al%20Ministro%20per%20i%20lavori%20pubblici%20in%20materia%20di%20migrazioni%20interne.%20030U0870.md), in materia di migrazioni interne;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

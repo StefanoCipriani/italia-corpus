@@ -14,7 +14,7 @@ E' autorizzata la maggiore spesa di lire 2,035,645 47 per la sistemazione della 
 
 ## Art. 2.
 
-E' convalidato il [R. decreto 3 marzo 1878, n. 4315](../Regi%20decreti/Che%20autorizza%20una%20prima%20prelevazione%20dal%20fondo%20per%20le%20spese%20impreviste%20a%20favore%20del%20Ministero%20dei%20lavori%20pubblici.%20078U4315.md), col quale venne autorizzata la prelevazione dal fondo per le spese impreviste, inscritto al capitolo 145 dello stato di prima previsione della spesa del Ministero delle Finanze per l'anno 1878, nella somma di lire 200,000, per iscriverla al capitolo 269, Trasferimento della Capitale da Firenze a Roma (Lavori), aggiunto allo stato di prima previsione della spesa del Ministero dei Lavori Pubblici per l'anno predetto. 
+E' convalidato il [R. decreto 3 marzo 1878, n. 4315](Che%20autorizza%20una%20prima%20prelevazione%20dal%20fondo%20per%20le%20spese%20impreviste%20a%20favore%20del%20Ministero%20dei%20lavori%20pubblici.%20078U4315.md), col quale venne autorizzata la prelevazione dal fondo per le spese impreviste, inscritto al capitolo 145 dello stato di prima previsione della spesa del Ministero delle Finanze per l'anno 1878, nella somma di lire 200,000, per iscriverla al capitolo 269, Trasferimento della Capitale da Firenze a Roma (Lavori), aggiunto allo stato di prima previsione della spesa del Ministero dei Lavori Pubblici per l'anno predetto. 
  
  La detta somma di lire 200,000 costituisce una parte delle lire 2,035,645 47, indicate all'articolo 1, e sara' portata in diminuzione del fondo da inscriversi nel bilancio 1878 al capitolo 269.
 

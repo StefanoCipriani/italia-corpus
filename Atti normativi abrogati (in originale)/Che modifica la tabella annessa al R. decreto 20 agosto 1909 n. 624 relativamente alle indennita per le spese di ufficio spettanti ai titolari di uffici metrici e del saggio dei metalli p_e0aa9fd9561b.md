@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le indennita' stabilite dal [R. decreto 20 agosto 1909, n. 624](../Regi%20decreti/Che%20fissa%20la%20circoscrizione%20dei%20Regi%20uffici%20metrici%20e%20del%20saggio%20dei%20metalli%20preziosi%20ed%20il%20riparto%20delle%20indennita%20assegnate%20ai%20titolari%20per%20le%20spese%20dufficio.%20009U0624.md), che approva la circoscrizione dei RR. uffici metrici e del saggio e la tabella delle indennita' assegnate ai titolari degli uffici stessi, per le spese d'ufficio, sono sostituite da quelle indicate nella unita tabella che fa parte integrante del presente decreto, firmata, d'ordine Nostro, dal ministro proponente e da quello del tesoro.
+Le indennita' stabilite dal [R. decreto 20 agosto 1909, n. 624](Che%20fissa%20la%20circoscrizione%20dei%20Regi%20uffici%20metrici%20e%20del%20saggio%20dei%20metalli%20preziosi%20ed%20il%20riparto%20delle%20indennita%20assegnate%20ai%20titolari%20per%20le%20spese%20dufficio.%20009U0624.md), che approva la circoscrizione dei RR. uffici metrici e del saggio e la tabella delle indennita' assegnate ai titolari degli uffici stessi, per le spese d'ufficio, sono sostituite da quelle indicate nella unita tabella che fa parte integrante del presente decreto, firmata, d'ordine Nostro, dal ministro proponente e da quello del tesoro.
 
 ## Art. 2.
 

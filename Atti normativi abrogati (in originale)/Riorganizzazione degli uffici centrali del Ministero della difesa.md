@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 2 della legge 12 dicembre 1962, n. 1862](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20Maggiori%20e%20per%20la%20revisione%20delle%20leggi%20sul%20reclutamento%20e%20della%20circoscrizione%20dei%20tribunali%20militari%20territoriali.md), concernente delega al Governo per il riordinamento del Ministero della difesa;
+Visto l'[art. 2 della legge 12 dicembre 1962, n. 1862](Delega%20al%20Governo%20per%20il%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20Maggiori%20e%20per%20la%20revisione%20delle%20leggi%20sul%20reclutamento%20e%20della%20circoscrizione%20dei%20tribunali%20militari%20territoriali.md), concernente delega al Governo per il riordinamento del Ministero della difesa;
 
-Vista la [legge 9 ottobre 1964, n. 1058](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Rinnovo%20della%20delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20al%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20maggiori%20e%20delega%20per%20il%20riordinamento%20delle%20carriere%20e%20delle%20c_90e4698fc918.md), concernente il rinnovo della delega predetta;
+Vista la [legge 9 ottobre 1964, n. 1058](Rinnovo%20della%20delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20al%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20maggiori%20e%20delega%20per%20il%20riordinamento%20delle%20carriere%20e%20delle%20c_90e4698fc918.md), concernente il rinnovo della delega predetta;
 
 Udito il parere del Consiglio superiore delle forze armate;
 
-Udito il parere della Commissione parlamentare di cui all'[art. 6 della legge 12 dicembre 1962, n. 1862](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20Maggiori%20e%20per%20la%20revisione%20delle%20leggi%20sul%20reclutamento%20e%20della%20circoscrizione%20dei%20tribunali%20militari%20territoriali.md);
+Udito il parere della Commissione parlamentare di cui all'[art. 6 della legge 12 dicembre 1962, n. 1862](Delega%20al%20Governo%20per%20il%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20Maggiori%20e%20per%20la%20revisione%20delle%20leggi%20sul%20reclutamento%20e%20della%20circoscrizione%20dei%20tribunali%20militari%20territoriali.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -411,7 +411,7 @@ Nel periodo intercorrente tra la data di cui al precedente art. 38 e la data pre
 
 ### Art. 43.
 
-Alla data in cui sara' costituita la Direzione generale per gli impiegati civili, i Consigli di amministrazione per il personale ausiliario, operanti presso le direzioni generali personali civili e affari generali di ciascuna forza armata, saranno sostituiti da un unico Consiglio di amministrazione con la composizione e le attribuzioni stabilite dall'art. 146 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+Alla data in cui sara' costituita la Direzione generale per gli impiegati civili, i Consigli di amministrazione per il personale ausiliario, operanti presso le direzioni generali personali civili e affari generali di ciascuna forza armata, saranno sostituiti da un unico Consiglio di amministrazione con la composizione e le attribuzioni stabilite dall'art. 146 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ### Art. 44.
 

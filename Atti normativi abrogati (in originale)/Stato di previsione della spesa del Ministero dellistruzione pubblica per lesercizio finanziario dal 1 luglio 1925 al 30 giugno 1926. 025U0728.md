@@ -18,7 +18,7 @@ In aggiunta al fondo di L. 80,000 di cui al [R. decreto 30 dicembre 1923, n. 293
 
 ## Art. 3.
 
-Le entrate e le spese del Regio istituto orientale di Napoli, per l'esercizio finanziario dal 1° luglio 1925 al 30 giugno 1926, sono stabilite in conformita' del bilancio allegato al presente stato di previsione della spesa del Ministero della pubblica istruzione, ai sensi del [Regio decreto 14 gennaio 1923, n. 449](../Regi%20decreti/Concernente%20il%20passaggio%20del%20R.%20Istituto%20orientale%20di%20Napoli%20alla%20dipendenza%20del%20Ministro%20della%20istruzione%20pubblica.%20023U0449.md). 
+Le entrate e le spese del Regio istituto orientale di Napoli, per l'esercizio finanziario dal 1° luglio 1925 al 30 giugno 1926, sono stabilite in conformita' del bilancio allegato al presente stato di previsione della spesa del Ministero della pubblica istruzione, ai sensi del [Regio decreto 14 gennaio 1923, n. 449](Concernente%20il%20passaggio%20del%20R.%20Istituto%20orientale%20di%20Napoli%20alla%20dipendenza%20del%20Ministro%20della%20istruzione%20pubblica.%20023U0449.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

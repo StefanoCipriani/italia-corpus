@@ -20,9 +20,9 @@ Vista la [legge 2 aprile 1885, n. 3095](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto il [R. decreto 26 settembre 1904, n. 713](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%202%20aprile%201885%20testo%20unico%20n.%203095%20sui%20porti%20spiaggie%20e%20fari.%20004U0713.md), col quale e' stato approvato il regolamento per la esecuzione della predetta legge;
 
-Visto il [R. decreto 16 gennaio 1936, n. 801](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20di%20un%20Consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20036U0801.md), col quale e' stato approvato il testo unico delle disposizioni legislative riguardanti la costituzione di un Consorzio autonomo per l'esecuzione delle opere e per l'esercizio del porto di Genova;
+Visto il [R. decreto 16 gennaio 1936, n. 801](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20di%20un%20Consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20036U0801.md), col quale e' stato approvato il testo unico delle disposizioni legislative riguardanti la costituzione di un Consorzio autonomo per l'esecuzione delle opere e per l'esercizio del porto di Genova;
 
-Visto il [R. decreto 11 aprile 1926, n. 736](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2012%20febbraio%201903%20n.%2050%20relativa%20allistituzione%20del%20Consorzio%20autonomo%20del%20porto%20di%20Genova.%20026U0736.md), di approvazione del regolamento per la esecuzione della legge istitutiva del Consorzio autonomo del porto di Genova;
+Visto il [R. decreto 11 aprile 1926, n. 736](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2012%20febbraio%201903%20n.%2050%20relativa%20allistituzione%20del%20Consorzio%20autonomo%20del%20porto%20di%20Genova.%20026U0736.md), di approvazione del regolamento per la esecuzione della legge istitutiva del Consorzio autonomo del porto di Genova;
 
 Ritenuta la necessita' urgente ed assoluta di regolare i debiti e i crediti del detto Consorzio in dipendenza del riparto delle spese del porto stabilito col R. decreto 3 giugno 1935;
 
@@ -52,7 +52,7 @@ I contributi nelle spese del porto di Genova, per il periodo dal l° luglio 1935
 
 ## Art. 4.
 
-Gli interessi di cui agli articoli precedenti usufruiranno dell'esenzione dall'imposta di ricchezza mobile ai sensi del secondo alinea dell'art. 38 del testo unico delle leggi sul Consorzio autonomo del porto, approvato con [R. decreto 16 gennaio 1936, n. 801](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20di%20un%20Consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20036U0801.md).
+Gli interessi di cui agli articoli precedenti usufruiranno dell'esenzione dall'imposta di ricchezza mobile ai sensi del secondo alinea dell'art. 38 del testo unico delle leggi sul Consorzio autonomo del porto, approvato con [R. decreto 16 gennaio 1936, n. 801](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20di%20un%20Consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20036U0801.md).
 
 ## Art. 5.
 

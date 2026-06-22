@@ -16,7 +16,7 @@ Luogotenente del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 5 gennaio 1928, n. 1](../Regi%20decreti/Norme%20per%20la%20disciplina%20della%20contrattazione%20di%20operazioni%20di%20mutuo%20allestero.%20028U0001.md);
+Visto il [R. decreto 5 gennaio 1928, n. 1](Norme%20per%20la%20disciplina%20della%20contrattazione%20di%20operazioni%20di%20mutuo%20allestero.%20028U0001.md);
 
 Visto il [R. decreto-legge 9 maggio 1944, n. 132](Passaggio%20dellAssociazione%20Italiana%20della%20Croce%20Rossa%20alle%20dipendenze%20del%20Capo%20del%20Governo.%20044U0132.md);
 

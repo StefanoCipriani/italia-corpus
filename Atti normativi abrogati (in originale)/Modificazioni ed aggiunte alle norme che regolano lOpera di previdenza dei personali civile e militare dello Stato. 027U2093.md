@@ -16,19 +16,19 @@ RE D'ITALIA
 
 Visto il [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md);
 
-Visto il [R. decreto 27 gennaio 1924, n. 510](../Regi%20decreti/Approvazione%20della%20Convenzione%20tra%20il%20Governo%20e%20lAmministrazione%20della%20Cassa%20depositi%20e%20prestiti%20per%20il%20trattamento%20di%20riposo%20al%20personale%20direttivo%20insegnante%20tecnico%20e%20di%20amministrazion_15f222c941b8.md);
+Visto il [R. decreto 27 gennaio 1924, n. 510](Approvazione%20della%20Convenzione%20tra%20il%20Governo%20e%20lAmministrazione%20della%20Cassa%20depositi%20e%20prestiti%20per%20il%20trattamento%20di%20riposo%20al%20personale%20direttivo%20insegnante%20tecnico%20e%20di%20amministrazion_15f222c941b8.md);
 
 Visto il [R. decreto-legge 15 maggio 1924, n. 749](Ordinamento%20dellistruzione%20media%20commerciale.%20024U0749.md);
 
-Visto il [R. decreto 4 giugno 1925, n. 1036](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md);
+Visto il [R. decreto 4 giugno 1925, n. 1036](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md);
 
 Visto il [R. decreto-legge 3 gennaio 1926, n. 34](Nuovi%20benefici%20a%20favore%20degli%20iscritti%20allOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato.%20026U0034.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 9 maggio 1926, n. 1277](../Regi%20decreti/Norme%20per%20il%20trattamento%20di%20quiescenza%20del%20personale%20delle%20Regie%20scuole%20professionali%20industriali%20e%20commerciali%20e%20artistiche.%20026U1277.md);
+Visto il [R. decreto 9 maggio 1926, n. 1277](Norme%20per%20il%20trattamento%20di%20quiescenza%20del%20personale%20delle%20Regie%20scuole%20professionali%20industriali%20e%20commerciali%20e%20artistiche.%20026U1277.md);
 
-Visto il [R. decreto 12 dicembre 1926, n. 2206](../Regi%20decreti/Norme%20per%20il%20trattamento%20di%20quiescenza%20del%20personale%20del%20catasto%20e%20dei%20servizi%20tecnici%20di%20finanza.%20026U2206.md);
+Visto il [R. decreto 12 dicembre 1926, n. 2206](Norme%20per%20il%20trattamento%20di%20quiescenza%20del%20personale%20del%20catasto%20e%20dei%20servizi%20tecnici%20di%20finanza.%20026U2206.md);
 
 Vista la [legge 16 giugno 1927, n. 969](Modificazioni%20ed%20aggiunte%20alle%20norme%20in%20vigore%20per%20lOpera%20di%20previdenza%20a%20favore%20dei%20personali%20civili%20e%20militari%20dello%20Stato.%20027U0969.md);
 
@@ -40,7 +40,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-A decorrere dal 1° luglio 1927, il personale titolare (stabile e in prova) direttivo, insegnante, di amministrazione, e di laboratorio delle Regie scuole professionali, industriali e commerciali, dipendenti dal Ministero dell'economia nazionale, di quelle passate al Ministero dell'istruzione per effetto dei [Regi decreti 31 dicembre 1923, n. 3127](../Regi%20decreti/Passaggio%20alla%20dipendenza%20del%20Ministero%20della%20pubblica%20istruzione%20delle%20Regie%20scuole%20professionali%20con%20prevalenti%20finalita%20artistiche.%20023U3127.md), e [21 maggio 1924, n. 1200](../Regi%20decreti/Passaggio%20di%20scuole%20per%20industrie%20artistiche%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20della%20pubblica%20istruzione.%20024U1200.md), delle scuole ed istituti d'arte, degli istituti superiori per le industrie artistiche, di cui agli [articoli 4 e seguenti del R. decreto 31 dicembre 1923, n. 3123](../Regi%20decreti/Ordinamento%20dellistruzione%20artistica.%20023U3123.md), delle scuole superiori di architettura di cui all'[art. 15 del R. decreto 7 gennaio 1926, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-07;214#art_15), nonche' il personale titolare delle Regie stazioni sperimentali, e' iscritto all'Opera di previdenza dei personali civile e militare dello Stato ed e' soggetto al contributo dell'1.40 per cento sul solo stipendio.
+A decorrere dal 1° luglio 1927, il personale titolare (stabile e in prova) direttivo, insegnante, di amministrazione, e di laboratorio delle Regie scuole professionali, industriali e commerciali, dipendenti dal Ministero dell'economia nazionale, di quelle passate al Ministero dell'istruzione per effetto dei [Regi decreti 31 dicembre 1923, n. 3127](Passaggio%20alla%20dipendenza%20del%20Ministero%20della%20pubblica%20istruzione%20delle%20Regie%20scuole%20professionali%20con%20prevalenti%20finalita%20artistiche.%20023U3127.md), e [21 maggio 1924, n. 1200](Passaggio%20di%20scuole%20per%20industrie%20artistiche%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20della%20pubblica%20istruzione.%20024U1200.md), delle scuole ed istituti d'arte, degli istituti superiori per le industrie artistiche, di cui agli [articoli 4 e seguenti del R. decreto 31 dicembre 1923, n. 3123](Ordinamento%20dellistruzione%20artistica.%20023U3123.md), delle scuole superiori di architettura di cui all'[art. 15 del R. decreto 7 gennaio 1926, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-07;214#art_15), nonche' il personale titolare delle Regie stazioni sperimentali, e' iscritto all'Opera di previdenza dei personali civile e militare dello Stato ed e' soggetto al contributo dell'1.40 per cento sul solo stipendio.
 
 ## Art. 2.
 
@@ -62,7 +62,7 @@ Del personale menzionato agli articoli 2 e 3 del presente decreto saranno compil
 
 ## Art. 6.
 
-Gli impiegati del catasto e dei servizi tecnici di finanza ed i loro aventi causa, i quali, avvalendosi della facolta' di cui all'[art. 16 del R. decreto 12 dicembre 1926, n. 2206](../Regi%20decreti/Norme%20per%20il%20trattamento%20di%20quiescenza%20del%20personale%20del%20catasto%20e%20dei%20servizi%20tecnici%20di%20finanza.%20026U2206.md), richiedano la indennita' stabilita dall'[art. 15 della legge 14 luglio 1907, n. 543](Modificazioni%20ai%20ruoli%20organici%20del%20personale%20delle%20intendenze%20di%20finanza%20delle%20agenzie%20delle%20imposte%20dirette%20del%20dazio%20consumo%20di%20Napoli%20e%20Roma%20e%20provvedimenti%20riguardanti%20il%20personale%20d_437fa5e6bcbb.md), perdono il diritto ai benefici dell'Opera di previdenza, e, qualora abbiano conseguito durante il servizio alcuno dei benefici che l'Opera concede agli iscritti ed alle loro famiglie, non potranno ottenere la restituzione dei contributi versati.
+Gli impiegati del catasto e dei servizi tecnici di finanza ed i loro aventi causa, i quali, avvalendosi della facolta' di cui all'[art. 16 del R. decreto 12 dicembre 1926, n. 2206](Norme%20per%20il%20trattamento%20di%20quiescenza%20del%20personale%20del%20catasto%20e%20dei%20servizi%20tecnici%20di%20finanza.%20026U2206.md), richiedano la indennita' stabilita dall'[art. 15 della legge 14 luglio 1907, n. 543](Modificazioni%20ai%20ruoli%20organici%20del%20personale%20delle%20intendenze%20di%20finanza%20delle%20agenzie%20delle%20imposte%20dirette%20del%20dazio%20consumo%20di%20Napoli%20e%20Roma%20e%20provvedimenti%20riguardanti%20il%20personale%20d_437fa5e6bcbb.md), perdono il diritto ai benefici dell'Opera di previdenza, e, qualora abbiano conseguito durante il servizio alcuno dei benefici che l'Opera concede agli iscritti ed alle loro famiglie, non potranno ottenere la restituzione dei contributi versati.
 
 ## Art. 7.
 
@@ -80,7 +80,7 @@ Ai concorsi annuali che l'Opera di previdenza bandisce per borse di studio, sono
 
 ## Art. 9.
 
-L'art. 2 (lettere a, b, c, d) del [R. decreto 4 giugno 1925, n. 1036](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md) (testo unico), e' modificato nel modo seguente: 
+L'art. 2 (lettere a, b, c, d) del [R. decreto 4 giugno 1925, n. 1036](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civili%20e%20militari%20dello%20Stato%20e%20dei%20loro%20superstiti.%20025U1036.md) (testo unico), e' modificato nel modo seguente: 
  
  « Sono iscritti all'Opera di previdenza: 
  

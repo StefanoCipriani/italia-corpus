@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA.
 
-Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
+Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
 
 Visto il [decreto Luogotenenziale 22 gennaio 1916, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-01-22;81);
 
@@ -48,7 +48,7 @@ Gli impiegati, i militari e i salariati comunque incorsi nella perdita del dirit
 
 La [lettera b) dell'art. 183 del testo unico 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-02-21;70#art_183-letb), e' sostituita dalla seguente: 
  
- «b) per condanna a qualunque pena, per i reati di peculato, malversazione a danno di privati, peculato mediante profitto dell'errore altrui, concussione, corruzione per un atto d'ufficio, corruzione per un atto contrario ai doveri d'ufficio, corruzione di persona incaricata di un pubblico servizio, istigazione alla corruzione e per il reato di prevaricazione previsto dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito e dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo».
+ «b) per condanna a qualunque pena, per i reati di peculato, malversazione a danno di privati, peculato mediante profitto dell'errore altrui, concussione, corruzione per un atto d'ufficio, corruzione per un atto contrario ai doveri d'ufficio, corruzione di persona incaricata di un pubblico servizio, istigazione alla corruzione e per il reato di prevaricazione previsto dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito e dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo».
 
 ## Art. 4.
 

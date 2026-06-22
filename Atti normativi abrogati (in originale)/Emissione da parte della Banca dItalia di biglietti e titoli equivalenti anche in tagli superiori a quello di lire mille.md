@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-E' data facolta' al Ministro per il tesoro di autorizzare con suo decreto la Banca d'Italia ad emettere biglietti e titoli equivalenti in tagli da lire 65000 e 10.000 in deroga a quanto indicato nell'art. 3 del testo unico di legge sugli istituti di emissione e sulla circolazione dei biglietti di banca approvato con [regio decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md).
+E' data facolta' al Ministro per il tesoro di autorizzare con suo decreto la Banca d'Italia ad emettere biglietti e titoli equivalenti in tagli da lire 65000 e 10.000 in deroga a quanto indicato nell'art. 3 del testo unico di legge sugli istituti di emissione e sulla circolazione dei biglietti di banca approvato con [regio decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

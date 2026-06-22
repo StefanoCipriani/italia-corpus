@@ -18,9 +18,9 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto-legge 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-06-14;1281), e successive modificazioni;
 
-Visto il [R. decreto 10 settembre 1923, n. 2115](../Regi%20decreti/Trattamento%20di%20rafferma%20per%20la%20R.%20guardia%20di%20finanza.%20023U2115.md);
+Visto il [R. decreto 10 settembre 1923, n. 2115](Trattamento%20di%20rafferma%20per%20la%20R.%20guardia%20di%20finanza.%20023U2115.md);
 
-Visto il [R. decreto-legge 13 febbraio 1927, n. 282](Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20027U0282.md), convertito nella [legge 15 dicembre 1927, n. 2329](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20282%20riguardante%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20027U2329.md);
+Visto il [R. decreto-legge 13 febbraio 1927, n. 282](Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20027U0282.md), convertito nella [legge 15 dicembre 1927, n. 2329](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20282%20riguardante%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20027U2329.md);
 
 Visto il [R. decreto-legge 5 luglio 1934, n. 1187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1187), convertito nella [legge 4 aprile 1935, n. 568](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decretolegge%205%20luglio%201934%20n.%201187%20che%20reca%20provvedimenti%20per%20la%20Regia%20guardia%20di%20finanza.%20035U0568.md);
 
@@ -70,7 +70,7 @@ Ai sottufficiali e militari di truppa della Regia guardia di finanza e' corrispo
  
  La spesa per la somministrazione del vestiario ai sottufficiali e ai militari di truppa verra' effettuata con prelevamenti dal Fondo massa della Regia guardia di finanza. 
  
- Restano pertanto abrogati l'[art. 3 del R. decreto-legge 13 febbraio 1927, n. 282](Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20027U0282.md), convertito nella [legge 15 dicembre 1927, n. 2329](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20282%20riguardante%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20027U2329.md), e la [legge 26 marzo 1942, n. 307](Aumento%20di%20contributo%20vestiario%20per%20i%20militari%20della%20Regia%20guardia%20di%20finanza%20e%20concessione%20di%20un%20contributo%20straordinario%20al%20fondo%20massa%20del%20Corpo.%20042U0307.md). 
+ Restano pertanto abrogati l'[art. 3 del R. decreto-legge 13 febbraio 1927, n. 282](Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20027U0282.md), convertito nella [legge 15 dicembre 1927, n. 2329](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20282%20riguardante%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20027U2329.md), e la [legge 26 marzo 1942, n. 307](Aumento%20di%20contributo%20vestiario%20per%20i%20militari%20della%20Regia%20guardia%20di%20finanza%20e%20concessione%20di%20un%20contributo%20straordinario%20al%20fondo%20massa%20del%20Corpo.%20042U0307.md). 
  
  Con decreto del Ministro per il tesoro sara' annualmente determinata la somma che lo Stato deve rimborsare al Fondo massa della Regia guardia di finanza per la fornitura ai militari del Corpo degli oggetti di vestiario e di corredo in conformita' a quanto disposto col presente articolo.
 

@@ -67,7 +67,7 @@ Gli atti del commissario sono inviati, entro dieci giorni dall'adozione, per con
 
 Non possono essere nominati membri del comitato di garanti o commissari delle unita' sanitarie locali e delle unita' socio-sanitarie locali:
                         a)
-                            coloro che hanno riportato condanna, anche non definitiva, a pena detentiva non inferiore ad un anno per delitto non colposo ovvero a pena detentiva non inferiore a sei mesi per delitto non colposo commesso nella qualita' di pubblico ufficiale o con abuso dei poteri o violazione dei doveri inerenti ad una pubblica funzione, salvo quanto disposto dal [secondo comma dell'articolo 166 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+                            coloro che hanno riportato condanna, anche non definitiva, a pena detentiva non inferiore ad un anno per delitto non colposo ovvero a pena detentiva non inferiore a sei mesi per delitto non colposo commesso nella qualita' di pubblico ufficiale o con abuso dei poteri o violazione dei doveri inerenti ad una pubblica funzione, salvo quanto disposto dal [secondo comma dell'articolo 166 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                         b)
                             coloro che sono sottoposti a procedimento penale per delitto per il quale e' previsto l'arresto obbligatorio in flagranza;
                         c)

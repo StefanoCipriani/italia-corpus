@@ -65,7 +65,7 @@ Restano ferme al riguardo le disposizioni piu' restrittive risultanti da partico
 
 ## Art. 3.
 
-All'eventuale revisione delle indennita' o quote d'indennita' assegnate per le gite di servizio previste dall'[art. 5 del decreto Luogotenenziale 14 settembre 1918, n. 1311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-14;1311#art_5), modificato con l'[art. 1 del R. decreto 23 ottobre 1921, n. 1555](../Regi%20decreti/Che%20modifica%20il%20comma%202%20dellart.%205%20del%20decreto%20Luogotenenziale%2014%20settembre%201918%20n.%201311%20sulle%20indennita%20di%20soggiorno%20e%20trasferimento.%20021U1555.md), si provvede con le modalita' prescritte dal medesimo art. 1.
+All'eventuale revisione delle indennita' o quote d'indennita' assegnate per le gite di servizio previste dall'[art. 5 del decreto Luogotenenziale 14 settembre 1918, n. 1311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-14;1311#art_5), modificato con l'[art. 1 del R. decreto 23 ottobre 1921, n. 1555](Che%20modifica%20il%20comma%202%20dellart.%205%20del%20decreto%20Luogotenenziale%2014%20settembre%201918%20n.%201311%20sulle%20indennita%20di%20soggiorno%20e%20trasferimento.%20021U1555.md), si provvede con le modalita' prescritte dal medesimo art. 1.
 
 ## Art. 4.
 

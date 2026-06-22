@@ -18,11 +18,11 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md);
 
-Visto il [R. decreto 4 maggio 1925, n. 653](../Regi%20decreti/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md);
+Visto il [R. decreto 4 maggio 1925, n. 653](Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md);
 
 Vista 4a [legge 15 giugno 1931,n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
 
-Visto il [R. decreto-legge 23 settembre 1937, n. 1881](Ripristino%20dei%20limiti%20di%20eta%20e%20degli%20intervalli%20di%20tempo%20per%20accesso%20ad%20esami%20negli%20Istituti%20medi%20di%20istruzione.%20037U1881.md), convertito, con modificazioni, nella [legge 20 dicembre 1937, n. 2187](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2023%20settembre%201937-XV%20n.%201881%20concernente%20il%20ripristino%20dei%20limiti%20di%20eta%20e%20degli%20intervalli%20di%20tempo%20per%20accesso%20ad%20esami%20negli_c98724951f1f.md);
+Visto il [R. decreto-legge 23 settembre 1937, n. 1881](Ripristino%20dei%20limiti%20di%20eta%20e%20degli%20intervalli%20di%20tempo%20per%20accesso%20ad%20esami%20negli%20Istituti%20medi%20di%20istruzione.%20037U1881.md), convertito, con modificazioni, nella [legge 20 dicembre 1937, n. 2187](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2023%20settembre%201937-XV%20n.%201881%20concernente%20il%20ripristino%20dei%20limiti%20di%20eta%20e%20degli%20intervalli%20di%20tempo%20per%20accesso%20ad%20esami%20negli_c98724951f1f.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1941, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1941-06-25;151);
 

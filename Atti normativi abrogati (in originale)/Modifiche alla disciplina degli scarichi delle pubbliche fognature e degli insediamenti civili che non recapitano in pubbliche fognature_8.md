@@ -127,7 +127,7 @@ Le disposizioni del presente articolo non si applicano inoltre, nei confronti de
 
 1.
 
-Al fine di consentire alle regioni, interessate dalla disposizione di cui all'[articolo 3 del decreto-legge 15 giugno 1994, n. 377](Disposizioni%20urgenti%20per%20fronteggiare%20gli%20incendi%20boschivi%20sul%20territorio%20nazionale.md), convertito, con modificazioni, dalla [legge 8 agosto 1994, n. 497](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20giugno%201994%20n.%20377%20recante%20disposizioni%20urgenti%20per%20fronteggiare%20gli%20incendi%20boschivi%20sul%20territorio%20nazionale.md), di completare le procedure per la consegna dei lavori per la realizzazione degli impianti di monitoraggio, il termine previsto dal citato articolo 3 e' prorogato di centottanta giorni.
+Al fine di consentire alle regioni, interessate dalla disposizione di cui all'[articolo 3 del decreto-legge 15 giugno 1994, n. 377](Disposizioni%20urgenti%20per%20fronteggiare%20gli%20incendi%20boschivi%20sul%20territorio%20nazionale.md), convertito, con modificazioni, dalla [legge 8 agosto 1994, n. 497](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20giugno%201994%20n.%20377%20recante%20disposizioni%20urgenti%20per%20fronteggiare%20gli%20incendi%20boschivi%20sul%20territorio%20nazionale.md), di completare le procedure per la consegna dei lavori per la realizzazione degli impianti di monitoraggio, il termine previsto dal citato articolo 3 e' prorogato di centottanta giorni.
 
 ## Art. 9.
 

@@ -25,7 +25,7 @@ PROMULGA Il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 ## Art. 1.
 
 E' istituita, senza aumento di posti, una terza Sezione del Consiglio di Stato in sede giurisdizionale, che assume la denominazione di Sezione sesta.
- Gli affari attualmente devoluti alla Sezione dell'Africa italiana, istituita con [regio decreto-legge 6 febbraio 1939, n. 478](Istituzione%20di%20una%20nuova%20Sezione%20presso%20il%20Consiglio%20di%20Stato%20per%20gii%20affari%20dellAfrica%20Italiana.%20039U0478.md), sono assegnati alle altre Sezioni consultive, con le modalita' previste dai primo comma dell'art. 9 del testo unico delle leggi sul Consiglio di Stato, approvato con [regio decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md).
+ Gli affari attualmente devoluti alla Sezione dell'Africa italiana, istituita con [regio decreto-legge 6 febbraio 1939, n. 478](Istituzione%20di%20una%20nuova%20Sezione%20presso%20il%20Consiglio%20di%20Stato%20per%20gii%20affari%20dellAfrica%20Italiana.%20039U0478.md), sono assegnati alle altre Sezioni consultive, con le modalita' previste dai primo comma dell'art. 9 del testo unico delle leggi sul Consiglio di Stato, approvato con [regio decreto 26 giugno 1924, n. 1054](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md).
  I componenti della sesta Sezione giurisdizionale concorrono a costituire l'Adunanza plenaria secondo le disposizioni del terzo comma dell'art. 45 del testo unico predetto.
 
 ## Art. 2.

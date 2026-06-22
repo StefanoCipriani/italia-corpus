@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le nuove marche per concessioni governative da lire 5 e da lire 10 avranno, in via provvisoria, la forma ed i distintivi delle attuali marche doppie per la esazione dei diritti metrici da lire 5 e da lire 10 istituite col [Regio decreto 28 ottobre 1909, n. 736](../Regi%20decreti/Che%20approva%20le%20nuove%20marche%20da%20bollo%20per%20lesazione%20dei%20diritti%20metrici%20e%20del%20saggio%20e%20marchio%20dei%20metalli%20preziosi.%20009U0736.md), e porteranno sovra impressa in nero su ciascuna parte della marca la leggenda « Atti amministrativi ».
+Le nuove marche per concessioni governative da lire 5 e da lire 10 avranno, in via provvisoria, la forma ed i distintivi delle attuali marche doppie per la esazione dei diritti metrici da lire 5 e da lire 10 istituite col [Regio decreto 28 ottobre 1909, n. 736](Che%20approva%20le%20nuove%20marche%20da%20bollo%20per%20lesazione%20dei%20diritti%20metrici%20e%20del%20saggio%20e%20marchio%20dei%20metalli%20preziosi.%20009U0736.md), e porteranno sovra impressa in nero su ciascuna parte della marca la leggenda « Atti amministrativi ».
 
 ## Art. 2.
 

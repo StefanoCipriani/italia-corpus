@@ -30,7 +30,7 @@ L'[art. 3 del decreto legislativo luogotenenziale 1 febbraio 1946, n. 122](../De
 
 ## Art. 4.
 
-Il primo comma dell'art. 252 del testo organico approvato con [regio decreto 28 dicembre 1924, n. 2271](../Regi%20decreti/Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md), e sostituito dal seguente: 
+Il primo comma dell'art. 252 del testo organico approvato con [regio decreto 28 dicembre 1924, n. 2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md), e sostituito dal seguente: 
  "Il messo di conciliazione deve tenere un registro cronologico per gli atti di notificazione conforme al modello stabilito con decreto del Ministro per la grazia e giustizia".
 
 La presente legge, munita del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

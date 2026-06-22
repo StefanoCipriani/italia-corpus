@@ -187,7 +187,7 @@ L'indennita' dovuta nei casi previsti dalla lettera b) dell'art. 11, e' vincolat
 
 ## Art. 21.
 
-Non possono chiedere il risarcimento coloro i quali siano stati condannati per alcuno dei reati previsti dagli articoli 104, 105, 106, 107, 108, 110 prima parte, 111, 112, 114 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune; 71, 72, 73, 77 prima parte, 78, 79, 80 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito; 71, 72, 73, 74, 78 prima parte, 79, 80, 81, 82 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
+Non possono chiedere il risarcimento coloro i quali siano stati condannati per alcuno dei reati previsti dagli articoli 104, 105, 106, 107, 108, 110 prima parte, 111, 112, 114 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune; 71, 72, 73, 77 prima parte, 78, 79, 80 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito; 71, 72, 73, 74, 78 prima parte, 79, 80, 81, 82 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
  
  La Commissione di cui all'art. 25 potra' altresi' dichiarare deceduto dal diritto medesimo il danneggiato, qualora sia provato che egli abbia commesso frode, diretta a ottenere il risarcimento in misura superiore alla entita' reale del danno.
 

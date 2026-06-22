@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Agli articoli dal 124 al 130 del regolamento approvato col [R. decreto 13 marzo 1904, n. 141](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%20sugli%20infortuni%20degli%20operai%20sul%20lavoro.%20004U0141.md), per l'esecuzione della legge ([testo unico) 31 gennaio 1904, numero 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1904-01-31;51), per gli infortuni degli operai sul lavoro, sono apportate le seguenti modificazioni; 
+Agli articoli dal 124 al 130 del regolamento approvato col [R. decreto 13 marzo 1904, n. 141](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%20sugli%20infortuni%20degli%20operai%20sul%20lavoro.%20004U0141.md), per l'esecuzione della legge ([testo unico) 31 gennaio 1904, numero 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1904-01-31;51), per gli infortuni degli operai sul lavoro, sono apportate le seguenti modificazioni; 
  
  1. All'art. 124 e' sostituito il seguente: 
  

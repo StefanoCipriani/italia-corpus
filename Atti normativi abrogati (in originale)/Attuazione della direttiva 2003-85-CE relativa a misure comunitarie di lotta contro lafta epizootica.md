@@ -20,7 +20,7 @@ Vista la [direttiva 2003/85/CE del Consiglio, del 29 settembre 2003](https://www
 
 Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1938, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-07-27;1265);
 
-Visto il regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md);
+Visto il regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md);
 
 Vista la [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833);
 
@@ -55,7 +55,7 @@ Il presente decreto stabilisce:
 Il Ministero della salute, anche su richiesta del Centro nazionale di lotta di cui all'articolo 69, puo' disporre misure piu' restrittive rispetto a quelle del presente decreto mediante l'adozione di decreti di natura non regolamentare e, nei casi di emergenza, di ordinanze contingibili e urgenti, che costituiscono misure strumentali di profilassi internazionale, inderogabili dalle regioni, province autonome e dagli altri enti territoriali, tenuti a conformarvisi.
 
 Avvertenza: 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE). 
  Note alle premesse: 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
@@ -143,7 +143,7 @@ Avvertenza:
  - La [direttiva 92/46/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;46) e' pubblicata nella G.U.C.E.
  n. L. 268 del 14 settembre 1992. 
  - Il [regio decreto 27 luglio 1938, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-07-27;1265) reca: «Approvazione del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md)». 
- - Il [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), reca: «Regolamento di polizia veterinaria». 
+ - Il [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), reca: «Regolamento di polizia veterinaria». 
  - La [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), reca: «Istituzione del servizio sanitario nazionale». 
  - La [legge 2 giugno 1988, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-06-02;218), reca: «Misure per la lotta contro l'afta epizootica ed altre malattie epizootiche degli animali». 
  - Il [decreto del Presidente della Repubblica 1° marzo 1992, n. 229](Regolamento%20di%20attuazione%20della%20direttiva%2085-511-CEE%20che%20stabilisce%20misure%20di%20lotta%20contro%20lafta%20epizootica%20tenuto%20conto%20delle%20modifiche%20apportate%20dalla%20direttiva%2090-423-CEE.md), abrogato dal presente decreto recava: «Regolamento di attuazione della [direttiva 85/511/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;511) che stabilisce misure di lotta contro l'afta epizootica, tenuto conto delle modifiche apportate dalla [direttiva 90/423/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;423)». 
@@ -227,7 +227,7 @@ Note all'art. 2:
 
 1.
 
-Ai sensi e per gli effetti del [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), e successive modifiche, il sospetto o l'accertamento dell'afta epizootica deve essere denunciato immediatamente.
+Ai sensi e per gli effetti del [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e successive modifiche, il sospetto o l'accertamento dell'afta epizootica deve essere denunciato immediatamente.
 
 2.
 
@@ -247,7 +247,7 @@ Nel caso di conferma della presenza di un focolaio di afta epizootica e ogni cas
 Le regioni e province autonome assicurano la tempestiva trasmissione al Ministero della salute dei dati relativi ai focolai della malattia nonche' di ogni altra informazione da esso richiesta in merito.
 
 Nota all'[art. 3: 
- - Per il decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), vedi note alle premesse.
+ - Per il decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), vedi note alle premesse.
 
 ## Art. 4. — Misure in caso di sospetto di malattia
 
@@ -2229,7 +2229,7 @@ Note all'[art. 80:
  - L'[art. 6, comma 3, del decreto legislativo 27 maggio 2005, n. 117](Attuazione%20della%20direttiva%202002-99-CE%20che%20stabilisce%20norme%20di%20polizia%20sanitaria%20per%20la%20produzione%20la%20trasformazione%20la%20distribuzione%20e%20lintroduzione%20di%20prodotti%20di%20origine%20animale%20destina_864a140a89b2.md), citato all'art. 25, cosi' recita: 
  «Art. 6 (Controlli veterinari ufficiali). - 1. - 2. (Omissis). 
  3. Se si constata un rischio per la sanita' animale o per la salute pubblica, fermi restando i provvedimenti immediati adottati dall'autorita' sanitaria territorialmente competente, ogni provvedimento d'urgenza o misura cautelare e' adottato dallo Stato ai sensi dell'[art. 
- 117 del decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni, anche nel caso di provvedimenti emanati dallo Stato in correlazione a misure di salvaguardia adottate, in dette materie, in sede comunitaria. Le competenti autorita' assicurano una conforme applicazione dei provvedimenti in questione nei rispettivi territori.».
+ 117 del decreto legislativo 31 marzo 1998, n. 112](../Decreti%20Legislativi/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni, anche nel caso di provvedimenti emanati dallo Stato in correlazione a misure di salvaguardia adottate, in dette materie, in sede comunitaria. Le competenti autorita' assicurano una conforme applicazione dei provvedimenti in questione nei rispettivi territori.».
 
 ## Art. 81. — Clausola di invarianza finanziaria
 

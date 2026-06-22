@@ -46,7 +46,7 @@ I funzionari di gruppo C, gia' appartenenti al Ministero della giustizia e trasf
 
 ## Art. 4.
 
-In tutte le Commissioni d'esame relative al personale delle cancellerie e segreterie giudiziarie, e' applicabile il disposto dell'[art. 1 del R. decreto 21 gennaio 1929, n. 643](../Regi%20decreti/Modificazioni%20e%20completamento%20di%20alcune%20disposizioni%20del%20R.%20decreto-legge%208%20maggio%201924%20n.%20745%20concernenti%20lordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20029U0643.md). 
+In tutte le Commissioni d'esame relative al personale delle cancellerie e segreterie giudiziarie, e' applicabile il disposto dell'[art. 1 del R. decreto 21 gennaio 1929, n. 643](Modificazioni%20e%20completamento%20di%20alcune%20disposizioni%20del%20R.%20decreto-legge%208%20maggio%201924%20n.%20745%20concernenti%20lordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20029U0643.md). 
  
  I supplenti, in numero non superiore a quello dei commissari effettivi, possono intervenire nelle Commissioni stesse in sostituzione di qualunque di costoro.
 

@@ -120,7 +120,7 @@ La tabella delle circoscrizioni ispettive annessa al presente decreto andra' in 
 
 1920.
 
-Fino alla detta data resta in vigore la tabella annessa al [R. decreto 8 dicembre 1907, numero 775](../Regi%20decreti/Che%20approva%20le%20annesse%20disposizioni%20concernenti%20il%20servizio%20dispezione%20sugli%20Economati%20generali%20e%20Subeconomati%20dei%20benefizi%20vacanti%20archivi%20uffici%20e%20Consigli%20notarili%20e%20sulle%20cancellerie%20_d9920d3844f5.md), il quale in ogni altra parte rimane abrogato. 
+Fino alla detta data resta in vigore la tabella annessa al [R. decreto 8 dicembre 1907, numero 775](Che%20approva%20le%20annesse%20disposizioni%20concernenti%20il%20servizio%20dispezione%20sugli%20Economati%20generali%20e%20Subeconomati%20dei%20benefizi%20vacanti%20archivi%20uffici%20e%20Consigli%20notarili%20e%20sulle%20cancellerie%20_d9920d3844f5.md), il quale in ogni altra parte rimane abrogato. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

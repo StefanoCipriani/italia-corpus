@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto-legge 19 settembre 1935, numero 1836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-19;1836), convertito nella legge 9 gennaio 19:36, n. 147, riguardante l'organizzazione della Marina mercanti le in tempo di guerra, prorogato, ai fini del dragaggio delle mine, con l'art. 1 del regio decreto legislativo.
 
-Visto il [regio decreto 22 novembre 1937, n. 2629](../Regi%20decreti/Tabella%20dei%20gradi%20militari%20da%20conferire%20al%20personale%20delle%20navi%20mercantili%20inscritte%20nel%20naviglio%20ausiliario%20dello%20Stato.%20037U2629.md), che approva la tabella dei gradi militari da conferire al personale delle navi mercantili iscritte nel naviglio ausiliario dello Stato;
+Visto il [regio decreto 22 novembre 1937, n. 2629](Tabella%20dei%20gradi%20militari%20da%20conferire%20al%20personale%20delle%20navi%20mercantili%20inscritte%20nel%20naviglio%20ausiliario%20dello%20Stato.%20037U2629.md), che approva la tabella dei gradi militari da conferire al personale delle navi mercantili iscritte nel naviglio ausiliario dello Stato;
 
 Udito il parere del Consiglio superiore di marina;
 

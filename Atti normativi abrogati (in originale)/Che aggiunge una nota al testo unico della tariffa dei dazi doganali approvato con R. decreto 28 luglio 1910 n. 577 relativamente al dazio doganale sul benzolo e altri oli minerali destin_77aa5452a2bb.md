@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visti il testo unico della tariffa dai dazi doganali, approvato con [R. decreto 28 luglio 1910, n. 577](../Regi%20decreti/Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md) e le modificazioni successivamente ad esso apportate;
+Visti il testo unico della tariffa dai dazi doganali, approvato con [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md) e le modificazioni successivamente ad esso apportate;
 
-Visto il [R. decreto 26 settembre 1920, n. 1344](../Regi%20decreti/Che%20revoca%20le%20disposizioni%20del%20trattato%20di%20commercio%20con%20lAustria-Ungheria%20per%20le%20merci%20provenienti%20da%20paesi%20ammessi%20al%20trattamento%20della%20nazione%20piu%20favorita.%20020U1344.md), che revoca le disposizioni del trattato di commercio con l'Austria-Ungheria per le merci provenienti da Paesi ammessi al trattamento della nazione piu' favorita;
+Visto il [R. decreto 26 settembre 1920, n. 1344](Che%20revoca%20le%20disposizioni%20del%20trattato%20di%20commercio%20con%20lAustria-Ungheria%20per%20le%20merci%20provenienti%20da%20paesi%20ammessi%20al%20trattamento%20della%20nazione%20piu%20favorita.%20020U1344.md), che revoca le disposizioni del trattato di commercio con l'Austria-Ungheria per le merci provenienti da Paesi ammessi al trattamento della nazione piu' favorita;
 
 Sentito il Consiglio dei ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro ministro segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-Alla voce n. 9 del testo unico delle tariffe dei dazi doganali, approvato con [R. decreto 28 luglio 1910, n. 577](../Regi%20decreti/Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md), e' aggiunta la seguente nota: 
+Alla voce n. 9 del testo unico delle tariffe dei dazi doganali, approvato con [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md), e' aggiunta la seguente nota: 
  
  «Il benzolo e altri oli di catrame minerale, leggeri e limpidi, destinati a servire come materia prima per la fabbricazione dei colori organici artificiali o delle vernici, lacche e prodotti simili, sono ammessi al dazio ridotto di L. 2 al quintale, a condizione che siano adulterati, a spese dell'interessato, nei modi che saranno stabiliti, per le differenti industrie dal Ministro delle finanze».
 

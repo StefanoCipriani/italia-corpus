@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 16 maggio 1945, n. 287](../Decreti%20legislativi%20luogotenenziali/Costituzione%20provvisoria%20degli%20organi%20per%20il%20funzionamento%20dellIstituto%20centrale%20di%20statistica.%20045U0287.md), contenente norme transitorie per il funzionamento dell'Istituto centrale di statistica;
+Visto il [decreto legislativo luogotenenziale 16 maggio 1945, n. 287](Costituzione%20provvisoria%20degli%20organi%20per%20il%20funzionamento%20dellIstituto%20centrale%20di%20statistica.%20045U0287.md), contenente norme transitorie per il funzionamento dell'Istituto centrale di statistica;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 688](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-17;688), che ha prorogato il termine per la cessazione degli organi straordinari per il funzionamento dell'Istituto;
 

@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il [R. decreto 27 aprile 1923, n. 915](../Regi%20decreti/Che%20sopprime%20il%20Ministero%20del%20lavoro%20e%20della%20previdenza%20sociale.%20023U0915.md), che sopprime il Ministero del lavoro o della Previdenza sociale;
+Veduto il [R. decreto 27 aprile 1923, n. 915](Che%20sopprime%20il%20Ministero%20del%20lavoro%20e%20della%20previdenza%20sociale.%20023U0915.md), che sopprime il Ministero del lavoro o della Previdenza sociale;
 
 Visto il [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), concernente l'esercizio delle assicurazioni private;
 

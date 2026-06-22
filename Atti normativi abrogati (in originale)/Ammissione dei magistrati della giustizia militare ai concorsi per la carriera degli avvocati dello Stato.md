@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md), e successive modificazioni;
+Visto il testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md), e successive modificazioni;
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-L'art. 27 del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md), e' sostituito dal seguente:
+L'art. 27 del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md), e' sostituito dal seguente:
  "I posti di sostituto avvocato dello Stato di seconda classe sono conferiti in seguito a concorso per esame teorico e pratico, al quale possono essere ammessi: i magistrati dell'ordine giudiziario che abbiano almeno quattro anni di servizio, compreso l'uditorato, od abbiano conseguito la nomina ad aggiunto giudiziario o a pretore; i magistrati della giustizia militare i quali, avendo compiuto quattro anni di servizio, compreso il periodo di tirocinio, abbiano conseguito la nomina a sostituto procuratore militare di seconda classe; gli avvocati che siano iscritti nell'albo da almeno due anni; i funzionari del ruolo dei procuratori dell'Avvocatura dello Stato dopo almeno tre anni di servizio.
  Per l'ammissione al concorso occorre non aver oltrepassato l'eta' di trentacinque anni, fatta eccezione per i magistrati e per i funzionari del ruolo dei procuratori dell'Avvocatura dello Stato, e salve le altre eccezioni stabilite dalle disposizioni vigenti".
 

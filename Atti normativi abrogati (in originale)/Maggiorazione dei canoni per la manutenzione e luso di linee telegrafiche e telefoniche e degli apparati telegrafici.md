@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 28 giugno 1885, n. 3200](Che%20approva%20limpianto%20graduale%20del%20servizio%20telegrafico%20nei%20comuni%20capiluoghi%20di%20mandamento%20e%20nei%20comuni%20di%20frontiera%20che%20ne%20difettano%20085U3200.md);
 
-Visto il [R. decreto 21 ottobre 1923, n. 2367](../Regi%20decreti/Revisione%20delle%20entrate%20minori.%20023U2367.md);
+Visto il [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md);
 
 Visto il [R. decreto-legge 13 marzo 1927, n. 397](Interpretazione%20dellart.%203%20del%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20nei%20riguardi%20dellapplicazione%20dei%20canoni%20annui%20di%20manutenzione%20per%20le%20linee%20telegrafiche%20a%20servizio%20di%20enti%20diversi%20o%20di%20_e71cb0fdf8e9.md);
 

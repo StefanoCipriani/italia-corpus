@@ -188,7 +188,7 @@ Chiunque pone in commercio con una delle denominazioni di cui alla presente legg
 
 ## Art. 27.
 
-E' abrogata la [legge 9 aprile 1931, n. 916](Norme%20concernenti%20la%20fabbricazione%20e%20la%20vendita%20del%20cacao%20e%20del%20cioccolato.%20031U0916.md), relativo regolamento approvato con [regio decreto 26 maggio 1932, n. 1174](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lattuazione%20della%20legge%209%20aprile%201931%20n.%20916%20sulla%20fabbricazione%20e%20vendita%20del%20cacao%20e%20del%20cioccolato.%20032U1174.md), e successive modifiche.
+E' abrogata la [legge 9 aprile 1931, n. 916](Norme%20concernenti%20la%20fabbricazione%20e%20la%20vendita%20del%20cacao%20e%20del%20cioccolato.%20031U0916.md), relativo regolamento approvato con [regio decreto 26 maggio 1932, n. 1174](Approvazione%20del%20regolamento%20per%20lattuazione%20della%20legge%209%20aprile%201931%20n.%20916%20sulla%20fabbricazione%20e%20vendita%20del%20cacao%20e%20del%20cioccolato.%20032U1174.md), e successive modifiche.
 
 ## Art. 28.
 

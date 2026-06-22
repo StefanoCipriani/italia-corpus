@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Gli articoli 194 e 195 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono modificati come segue:
+Gli articoli 194 e 195 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono modificati come segue:
 
  Art. 194. - "Le occupazioni sono permanenti o temporanee.
  Le occupazioni di durata non inferiore all'anno, comportino o meno l'esistenza di manufatti o impianti, sono permanenti; tutte le altre sono temporanee.
@@ -55,7 +55,7 @@ Sono, comunque esenti dalla tassa i balconi di superficie non superiore ai 4 met
 
 ## Art. 2.
 
-Tra l'articolo 195 e l'articolo 196 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono inseriti i seguenti articoli 195-bis e 195-ter:
+Tra l'articolo 195 e l'articolo 196 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono inseriti i seguenti articoli 195-bis e 195-ter:
 
  Art. 195-bis. - "Per le occupazioni temporanee la tassa e' commisurata alla effettiva, superficie occupata e si applica a giorno in base alla seguente tariffa:
  a) occupazioni del suolo di pertinenza dei Comuni:
@@ -80,22 +80,22 @@ Classi di Comuni quadrato in lire
  Le tariffe, di cui ai precedenti commi, possono essere ridotte fino al 50 per cento per le occupazioni di suolo pubblico effettuate da parte di venditori ambulanti, di produttori agricoli che vendano direttamente loro prodotti, nonche' per le occupazioni di suolo pubblico effettuate con installazioni di attrazioni, giuochi e divertimenti dello spettacolo viaggiante.
  Per occupazioni temporanee di durata non inferiore ad un mese o che si verifichino con carattere ricorrente e' in facolta' dei Comuni e delle Province disporre la riscossione della tassa mediante convenzione a tariffa ridotta sino al massimo del 50 per cento".
 
- Art. 195-ter. - "Agli appalti, stipulati dai Comuni e dalle Province per la riscossione della tassa per le occupazioni temporanee di spazi ed aree pubbliche ai sensi dell'articolo unico della [legge 6 marzo 1958, numero 177](Disciplina%20della%20riscossione%20delle%20tasse%20per%20loccupazione%20temporanea%20di%20spazi%20ed%20aree%20pubbliche%20di%20cui%20allart.%20195%20del%20testo%20unico%20per%20la%20finanza%20locale%20approvato%20con%20regio%20decreto%2014%20set_755cfa959604.md), si applicano, in quanto compatibili, le disposizioni di cui agli articoli da 80 a 88, 91 e 92 del testo% unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md).
+ Art. 195-ter. - "Agli appalti, stipulati dai Comuni e dalle Province per la riscossione della tassa per le occupazioni temporanee di spazi ed aree pubbliche ai sensi dell'articolo unico della [legge 6 marzo 1958, numero 177](Disciplina%20della%20riscossione%20delle%20tasse%20per%20loccupazione%20temporanea%20di%20spazi%20ed%20aree%20pubbliche%20di%20cui%20allart.%20195%20del%20testo%20unico%20per%20la%20finanza%20locale%20approvato%20con%20regio%20decreto%2014%20set_755cfa959604.md), si applicano, in quanto compatibili, le disposizioni di cui agli articoli da 80 a 88, 91 e 92 del testo% unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md).
  In caso di gestione diretta del servizio sono applicabili le norme dell'articolo 93 del predetto testo unico".
 
 ## Art. 3.
 
-L'articolo 196 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' modificato come segue:
+L'articolo 196 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' modificato come segue:
  "La tassa puo' colpire anche le autovetture da piazza che stazionano nelle aree a cio' destinate dall'autorita' comunale, ma non puo' superare i due terzi della tassa annua di circolazione, per i Comuni delle classi A, B, C; la meta per i Comuni delle classi D, E, F; un terzo per i Comuni delle classi G, H, I".
 
 ## Art. 4.
 
-L'ultimo comma dell'articolo 198 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' modificato come segue:
+L'ultimo comma dell'articolo 198 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' modificato come segue:
  "I Comuni o le Province, che provvedano alla costruzione di gallerie sotterranee per il passaggio delle condutture, dei cavi e degli impianti, hanno diritto di imporre, oltre alla tassa annua di cui al primo comma, un contributo una volta tanto nelle spese di costruzione delle gallerie, che non puo' superare complessivamente nel massimo il 50 per cento delle spese medesime. La deliberazione del Consiglio comunale o del Consiglio provinciale, che determina la misura, del contributo, e' soggetta all'approvazione della Giunta provinciale amministrativa".
 
 ## Art. 5.
 
-All'articolo 200 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, sono aggiunte le seguenti esenzioni:
+All'articolo 200 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, sono aggiunte le seguenti esenzioni:
  "h) i passi carrabili unici ed indispensabili per l'accesso alle case rurali ed ai fondi rustici;
  i) le occupazioni determinate dalle soste dei veicoli per il tempo normalmente necessario al carico ed allo scarico delle merci;
  l) le occupazioni con vetture a trazione animale da piazza nei posteggi ad esse assegnati".
@@ -108,7 +108,7 @@ Agli effetti dell'applicazione, per l'anno 1962, della tassa relativa alle occup
 
 ## Art. 7.
 
-Ferma restando la prescrizione stabilita dagli articoli 48, terzo comma, e 290 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, per le occupazioni di spazi ed aree pubbliche effettuate prima e dopo il 4 febbraio 1962 e per le quali non sia stato pagata alcuna tassa, come previsto dalle norme precedentemente vigenti, i Comuni e le Province avranno diritto di chiedere gli arretrati in base alle tariffe vigenti alla data del 3 febbraio 1962.
+Ferma restando la prescrizione stabilita dagli articoli 48, terzo comma, e 290 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, per le occupazioni di spazi ed aree pubbliche effettuate prima e dopo il 4 febbraio 1962 e per le quali non sia stato pagata alcuna tassa, come previsto dalle norme precedentemente vigenti, i Comuni e le Province avranno diritto di chiedere gli arretrati in base alle tariffe vigenti alla data del 3 febbraio 1962.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

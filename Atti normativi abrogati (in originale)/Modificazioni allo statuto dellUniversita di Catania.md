@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Catania.%20039U1073.md) e modificato con [regi decreti 16 ottobre 1940, n. 1527](../Regi%20decreti/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Catania.%20040U1527.md), [15 aprile 1942, n. 424](../Regi%20decreti/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Catania.%20042U0424.md), [5 settembre 1942, n. 1235](../Regi%20decreti/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Catania.%20042U1235.md), [24 ottobre 1942, n. 1596](../Regi%20decreti/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Catania.%20042U1596.md);
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Catania.%20039U1073.md) e modificato con [regi decreti 16 ottobre 1940, n. 1527](Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Catania.%20040U1527.md), [15 aprile 1942, n. 424](Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Catania.%20042U0424.md), [5 settembre 1942, n. 1235](Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Catania.%20042U1235.md), [24 ottobre 1942, n. 1596](Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Catania.%20042U1596.md);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
 
 Vedute le proposte relative allo statuto dell'Universita' anzidetta;
 
@@ -54,10 +54,10 @@ Registrato alla Corte dei conti, addi' 16 dicembre 1946 Atti del, Governo, regis
 
 IL CAPO PROVVISORIO DELLO STATO
 
- Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Catania.%20039U1073.md) e modificato con [regi decreti 16 ottobre 1940, n. 1527](../Regi%20decreti/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Catania.%20040U1527.md), [15 aprile 1942, n. 424](../Regi%20decreti/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Catania.%20042U0424.md), [5 settembre 1942, n. 1235](../Regi%20decreti/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Catania.%20042U1235.md), [24 ottobre 1942, n. 1596](../Regi%20decreti/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Catania.%20042U1596.md);
+ Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Catania.%20039U1073.md) e modificato con [regi decreti 16 ottobre 1940, n. 1527](Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Catania.%20040U1527.md), [15 aprile 1942, n. 424](Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Catania.%20042U0424.md), [5 settembre 1942, n. 1235](Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Catania.%20042U1235.md), [24 ottobre 1942, n. 1596](Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Catania.%20042U1596.md);
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);
- Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
  Vedute le proposte relative allo statuto dell'Universita' anzidetta;
  Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
  Sentito il parere del Consiglio superiore della pubblica istruzione;

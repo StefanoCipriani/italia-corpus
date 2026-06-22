@@ -38,7 +38,7 @@ I contravventori alle disposizioni della presente legge e del Regolamento, di cu
  
  Per i recidivi, oltre la pena pecuniaria, si applichera' quella degli arresti fino a giorni venti. 
  
- L'applicazione delle peno suddetto si fara' senza pregiudizio dei provvedimenti riservati all'Autorita' amministrativa a tutela della Sanita' pubblica, e delle pene sancite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pei reati da essa previsti. 
+ L'applicazione delle peno suddetto si fara' senza pregiudizio dei provvedimenti riservati all'Autorita' amministrativa a tutela della Sanita' pubblica, e delle pene sancite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pei reati da essa previsti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

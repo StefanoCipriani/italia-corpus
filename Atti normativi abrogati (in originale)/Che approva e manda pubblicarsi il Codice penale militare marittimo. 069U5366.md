@@ -10,9 +10,9 @@ vigente: true
 
 ## Art. 1.
 
-Il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, annesso alla presente, e' approvato colla soppressione dell'articolo 361, e con incarico al Governo del Re di coordinarlo, entro l'anno corrente e prima della promulgazione della Legge, col [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare dell'Esercito e colla [Legge dell'11 febbraio 1864, n. 1670](Contenente%20modificazioni%20al%20Codice%20penale%20militare.%20064U1670.md), all'effetto di rendere uniforme, in quanto sia possibile, il diritto ed il procedimento penale delle due Armate di terra e di mare. 
+Il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, annesso alla presente, e' approvato colla soppressione dell'articolo 361, e con incarico al Governo del Re di coordinarlo, entro l'anno corrente e prima della promulgazione della Legge, col [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare dell'Esercito e colla [Legge dell'11 febbraio 1864, n. 1670](Contenente%20modificazioni%20al%20Codice%20penale%20militare.%20064U1670.md), all'effetto di rendere uniforme, in quanto sia possibile, il diritto ed il procedimento penale delle due Armate di terra e di mare. 
  
- Il detto [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo avra' esecuzione due mesi dopo la sua promulgazione.
+ Il detto [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo avra' esecuzione due mesi dopo la sua promulgazione.
 
 ## Art. 2.
 

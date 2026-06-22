@@ -14,7 +14,7 @@ Gli stipendi dei medici, che i Comuni hanno obbligo di mantenere in forza degli 
 
 ## Art. 2.
 
-Quando il pagamento non segua esattamente alla scadenza, i medici interessati potranno rivolgersi al Prefetto, il quale, udito il Comune, provochera', ove ne sia il caso, i provvedimenti d'ufficio a' sensi dello articolo 171 della legge comunale e provinciale (testo unico approvato col [Regio decreto 10 febbraio 1889, n. 5921](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20089U5921.md)).
+Quando il pagamento non segua esattamente alla scadenza, i medici interessati potranno rivolgersi al Prefetto, il quale, udito il Comune, provochera', ove ne sia il caso, i provvedimenti d'ufficio a' sensi dello articolo 171 della legge comunale e provinciale (testo unico approvato col [Regio decreto 10 febbraio 1889, n. 5921](Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20089U5921.md)).
 
 ## Art. 3.
 

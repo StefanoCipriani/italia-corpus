@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 4 ottobre 1935, n. 1899](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20delle%20Corti%20di%20assise.%20035U1899.md);
+Visto il [regio decreto 4 ottobre 1935, n. 1899](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20delle%20Corti%20di%20assise.%20035U1899.md);
 
-Visto il [decreto legislativo luogotenenziale 12 ottobre 1945, n. 715](../Decreti%20legislativi%20luogotenenziali/Aumento%20dellindennita%20giornaliera%20dovuta%20ai%20giudici%20popolari.%20045U0715.md);
+Visto il [decreto legislativo luogotenenziale 12 ottobre 1945, n. 715](Aumento%20dellindennita%20giornaliera%20dovuta%20ai%20giudici%20popolari.%20045U0715.md);
 
 Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro Segretario di Stato per la grazia e giustizia, di co
 
 ## Art. 1.
 
-L'[art. 1 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 715](../Decreti%20legislativi%20luogotenenziali/Aumento%20dellindennita%20giornaliera%20dovuta%20ai%20giudici%20popolari.%20045U0715.md), e' cosi' modificato:
+L'[art. 1 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 715](Aumento%20dellindennita%20giornaliera%20dovuta%20ai%20giudici%20popolari.%20045U0715.md), e' cosi' modificato:
  "Ai giudici popolari per ogni giorno in cui esercitano le loro funzioni e' dovuta una indennita' di L. 500, la quale e' ridotta alla meta' per gli impiegati dello Stato, delle Provincie, dei Comuni e degli altri Enti pubblici.
  Tale indennita' non e' soggetta alla riduzione del 12%, stabilita dai [regio decreto-legge 14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561).
  Ai giudici popolari che prestano servizio fuori della loro residenza spettano inoltre, le indennita' di soggiorno e il rimborso delle spese di viaggio nella misura stabilita per i giudici di grado 6°.

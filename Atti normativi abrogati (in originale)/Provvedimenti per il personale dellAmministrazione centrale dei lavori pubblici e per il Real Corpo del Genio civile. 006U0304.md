@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al ruolo organico dell'Amministrazione centrale dei lavori pubblici, approvato, in virtu' dell'[art. 2 della legge 25 giugno 1905, n. 270](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dei%20lavori%20pubblici%20per%20lesercizio%20finanziario%201904-905.%20005U0270.md), con [regio decreto 22 ottobre 1905, n. 532](../Regi%20decreti/Che%20autorizza%20il%20trasporto%20di%20taluni%20stanziamenti%20da%20un%20capitolo%20allaltro%20dello%20stato%20di%20previsione%20della%20spesa%20per%20il%20Ministero%20dei%20lavori%20pubblici%20nellesercizio%20finanziario%201905-906%20e%20m_baecc38511c6.md), sono aggiunti, dal 1 luglio 1906, i posti indicati nella tabella A annessa alla presente legge. 
+Al ruolo organico dell'Amministrazione centrale dei lavori pubblici, approvato, in virtu' dell'[art. 2 della legge 25 giugno 1905, n. 270](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dei%20lavori%20pubblici%20per%20lesercizio%20finanziario%201904-905.%20005U0270.md), con [regio decreto 22 ottobre 1905, n. 532](Che%20autorizza%20il%20trasporto%20di%20taluni%20stanziamenti%20da%20un%20capitolo%20allaltro%20dello%20stato%20di%20previsione%20della%20spesa%20per%20il%20Ministero%20dei%20lavori%20pubblici%20nellesercizio%20finanziario%201905-906%20e%20m_baecc38511c6.md), sono aggiunti, dal 1 luglio 1906, i posti indicati nella tabella A annessa alla presente legge. 
  
  Con la stessa decorrenza il ruolo organico del personale del corpo Reale del genio civile e' stabilito in conformita' alla tabella B, pure annessa alla presente legge. 
  
@@ -64,7 +64,7 @@ Il secondo capoverso dell'[art. 7 della legge 5 luglio 1882, n. 874](Sul%20riord
  
  Possono pure essere ordinate ispezioni speciali. 
  
- Art. 6 (1° comma). - Presso il Ministero dei lavori pubblici e' costituito un Consiglio superiore dei lavori pubblici con un presidente, tre presidenti di sezione, gli ispettori superiori del genio civile in servizio attivo, gli ispettori superiori tecnici del ruolo di vigilanza dell'ufficio speciale delle ferrovie presso il Ministero (istituto con [R. decreto 25 giugno 1905, n. 275](../Regi%20decreti/Relativo%20allordinamento%20e%20alle%20attribuzioni%20del%20Comitato%20superiore%20delle%20strade%20ferrate.%20005U0275.md)) e quattro funzionari tecnici superiori dell'Amministrazione delle ferrovie dello Stato, due dei quali in servizio 
+ Art. 6 (1° comma). - Presso il Ministero dei lavori pubblici e' costituito un Consiglio superiore dei lavori pubblici con un presidente, tre presidenti di sezione, gli ispettori superiori del genio civile in servizio attivo, gli ispettori superiori tecnici del ruolo di vigilanza dell'ufficio speciale delle ferrovie presso il Ministero (istituto con [R. decreto 25 giugno 1905, n. 275](Relativo%20allordinamento%20e%20alle%20attribuzioni%20del%20Comitato%20superiore%20delle%20strade%20ferrate.%20005U0275.md)) e quattro funzionari tecnici superiori dell'Amministrazione delle ferrovie dello Stato, due dei quali in servizio 
  
  attivo dell'ispettorato centrale nominati con decreto Reale, ogni biennio, in seguito a proposta del comitato d'Amministrazione delle ferrovie stesse. 
  
@@ -97,7 +97,7 @@ E' abrogato l'[art. 8 della legge 22 agosto 1895, n. 547](Che%20stabilisce%20il%
  III. Delle strade ferrate e dalle tramvie. 
  
  Alle rispettive sezioni sono aggregati con voto deliberativo, i direttori generali dell'Amministrazione centrale dei lavori pubblici.
-Alla terza sezione sono pure aggregati gli ispettori superiori amministrativi dell'ufficio speciale delle ferrovie, istituito con [R. decreto 25 giugno 1905, n. 275](../Regi%20decreti/Relativo%20allordinamento%20e%20alle%20attribuzioni%20del%20Comitato%20superiore%20delle%20strade%20ferrate.%20005U0275.md), ed un funzionario superiore amministrativo dell'Amministrazione delle ferrovie dello Stato, nominato per un biennio per decreto Reale, quest'ultimo, in seguito a proposta del comitato di Amministrazione delle ferrovie stesse. 
+Alla terza sezione sono pure aggregati gli ispettori superiori amministrativi dell'ufficio speciale delle ferrovie, istituito con [R. decreto 25 giugno 1905, n. 275](Relativo%20allordinamento%20e%20alle%20attribuzioni%20del%20Comitato%20superiore%20delle%20strade%20ferrate.%20005U0275.md), ed un funzionario superiore amministrativo dell'Amministrazione delle ferrovie dello Stato, nominato per un biennio per decreto Reale, quest'ultimo, in seguito a proposta del comitato di Amministrazione delle ferrovie stesse. 
  
  I membri aggregati che intervengono anche, con voto deliberativo, alle adunanze generali del Consiglio, quando si tratta di affari concernenti i servizi cui sono addetti. 
  

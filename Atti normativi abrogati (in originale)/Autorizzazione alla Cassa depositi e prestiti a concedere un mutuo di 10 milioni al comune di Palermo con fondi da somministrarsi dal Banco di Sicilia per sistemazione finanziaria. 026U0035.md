@@ -26,7 +26,7 @@ La Cassa depositi e prestiti e' autorizzata a ricevete in conto corrente dalla C
  
  All'operazione e' applicabile il [2° comma dell'art. 16 della legge 11 dicembre 1910, n. 855](Concernente%20disposizioni%20varie%20per%20la%20Cassa%20dei%20depositi%20e%20prestiti%20e%20le%20gestioni%20annesse.%20010U0855.md). 
  
- Nei riguardi del conto corrente predetto, la Cassa di risparmio del Banco di Sicilia e' autorizzata a derogare dalle disposizioni e dalle limitazioni stabilite dagli articoli 32 e 33 dello statuto approvato con [R. decreto 1° febbraio 1925, n. 326](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20della%20Cassa%20di%20risparmio%20del%20Banco%20di%20Sicilia%20in%20Palermo.%20025U0326.md).
+ Nei riguardi del conto corrente predetto, la Cassa di risparmio del Banco di Sicilia e' autorizzata a derogare dalle disposizioni e dalle limitazioni stabilite dagli articoli 32 e 33 dello statuto approvato con [R. decreto 1° febbraio 1925, n. 326](Approvazione%20del%20nuovo%20statuto%20della%20Cassa%20di%20risparmio%20del%20Banco%20di%20Sicilia%20in%20Palermo.%20025U0326.md).
 
 ## Art. 2.
 

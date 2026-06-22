@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione media tecnica;
- Visto il [regio decreto 17 maggio 1937, n. 1694](../Regi%20decreti/Riconoscimento%20della%20personalita%20giuridica%20della%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20di%20Cento%20ed%20approvazione%20del%20relativo%20statuto.%20037U1694.md), con il quale viene approvata la tabella organica della Scuola tecnica industriale di Cento;
+ Visto il [regio decreto 17 maggio 1937, n. 1694](Riconoscimento%20della%20personalita%20giuridica%20della%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20di%20Cento%20ed%20approvazione%20del%20relativo%20statuto.%20037U1694.md), con il quale viene approvata la tabella organica della Scuola tecnica industriale di Cento;
  Considerata l'opportunita' di trasformare, per esigenze di servizio, il posto di segretario economo incaricato previsto dalla suddetta tabella organica in posto di segretario economo di ruolo;
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;
 

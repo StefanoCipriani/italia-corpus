@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Vista la [legge 6 giugno 1935, n. 1129](Norme%20per%20la%20riforma%20degli%20Istituti%20per%20le%20case%20popolari%20e%20per%20la%20costituzione%20di%20un%20Consorzio%20nazionale%20fra%20gli%20Istituti%20predetti.%20035U1129.md); 
  
- Visto il [R. decreto 2 luglio 1936, n. 1413](../Regi%20decreti/Costituzione%20con%20sede%20in%20Roma%20del%20Consorzio%20nazionale%20fra%20gli%20Istituti%20fascisti%20autonomi%20per%20le%20case%20popolari.%20036U1413.md), relativo alla costituzione, con sede in Roma, del Consorzio nazionale fra gli Istituti fascisti autonomi per le case popolari; 
+ Visto il [R. decreto 2 luglio 1936, n. 1413](Costituzione%20con%20sede%20in%20Roma%20del%20Consorzio%20nazionale%20fra%20gli%20Istituti%20fascisti%20autonomi%20per%20le%20case%20popolari.%20036U1413.md), relativo alla costituzione, con sede in Roma, del Consorzio nazionale fra gli Istituti fascisti autonomi per le case popolari; 
  
  Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  
@@ -34,7 +34,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- L'[art. 4 del R. decreto 2 luglio 1936, n. 1413](../Regi%20decreti/Costituzione%20con%20sede%20in%20Roma%20del%20Consorzio%20nazionale%20fra%20gli%20Istituti%20fascisti%20autonomi%20per%20le%20case%20popolari.%20036U1413.md), viene sostituito dalla seguente disposizione: 
+ L'[art. 4 del R. decreto 2 luglio 1936, n. 1413](Costituzione%20con%20sede%20in%20Roma%20del%20Consorzio%20nazionale%20fra%20gli%20Istituti%20fascisti%20autonomi%20per%20le%20case%20popolari.%20036U1413.md), viene sostituito dalla seguente disposizione: 
  
  Sono organi del Consorzio la Presidenza ed il Consiglio. 
  

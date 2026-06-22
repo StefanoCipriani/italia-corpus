@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Ferme restando le disposizioni del [decreto Luogotenenziale 11 luglio 1915, n. 1074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-11;1074), relativo alla riabilitazione per merito di guerra, ai militari che abbiano conseguito piu' di una delle attestazioni di merito o di valore, indicate nell'art. 1 del predetto decreto, puo' essere conceduta la riabilitazione, anche fuori dei casi e dei termini preveduti negli [articoli 100 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e 629 del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447). 
+Ferme restando le disposizioni del [decreto Luogotenenziale 11 luglio 1915, n. 1074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-11;1074), relativo alla riabilitazione per merito di guerra, ai militari che abbiano conseguito piu' di una delle attestazioni di merito o di valore, indicate nell'art. 1 del predetto decreto, puo' essere conceduta la riabilitazione, anche fuori dei casi e dei termini preveduti negli [articoli 100 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e 629 del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447). 
  
  Tele riabilitazione avra' luogo per mezzo di decreto Reale, su proposta del ministro di grazia e giustizia, udito il Consiglio dei ministri. Essa varra' e tutti gli effetti di legge.
 

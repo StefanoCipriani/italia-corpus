@@ -12,7 +12,7 @@ vigente: true
 
 L'anno giudiziario comincia il 29 ottobre. 
  
- Entro il quinto giorno successivo tutti i membri delle Corti si riuniranno in assemblea generale e pubblica per udire la lettura del Regio decreto che compone le sezioni e della relazione di cui all'[art. 95 del R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md).
+ Entro il quinto giorno successivo tutti i membri delle Corti si riuniranno in assemblea generale e pubblica per udire la lettura del Regio decreto che compone le sezioni e della relazione di cui all'[art. 95 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md).
 
 ## Art. 2.
 

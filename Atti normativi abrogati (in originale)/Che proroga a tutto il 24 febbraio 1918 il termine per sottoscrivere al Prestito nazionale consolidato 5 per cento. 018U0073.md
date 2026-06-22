@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' prorogato a tutto il 24 febbraio 1918 il termine per sottoscrivere al prestito nazionale consolidato 5 per cento, autorizzato con [R. decreto 6 dicembre 1917, n. 1860](../Regi%20decreti/Che%20autorizza%20lemissione%20di%20un%20quinto%20prestito%20nazionale%20mediante%20inscrizione%20nel%20gran%20libro%20del%20Debito%20pubblico%20di%20rendita%20consolidata%20allinteresse%20annuo%20del%205%20esente%20da%20ogni%20imposta%20pre_f4ea8035be30.md), nel Regno, nella Tripolitania e nella Cirenaica e sino al 6 maggio 1918 nella Eritrea e nella Somalia. 
+E' prorogato a tutto il 24 febbraio 1918 il termine per sottoscrivere al prestito nazionale consolidato 5 per cento, autorizzato con [R. decreto 6 dicembre 1917, n. 1860](Che%20autorizza%20lemissione%20di%20un%20quinto%20prestito%20nazionale%20mediante%20inscrizione%20nel%20gran%20libro%20del%20Debito%20pubblico%20di%20rendita%20consolidata%20allinteresse%20annuo%20del%205%20esente%20da%20ogni%20imposta%20pre_f4ea8035be30.md), nel Regno, nella Tripolitania e nella Cirenaica e sino al 6 maggio 1918 nella Eritrea e nella Somalia. 
  
  Sino al 24 febbraio 1918 e' pure protratto il termine per l'acquisto al prezzo di emissione dei titoli del prestito stesso in Europa e nei paesi del bacino mediterraneo, e sino a tutto il giorno 6 maggio 1918 il termine per l'acquisto in altri paesi esteri.
 

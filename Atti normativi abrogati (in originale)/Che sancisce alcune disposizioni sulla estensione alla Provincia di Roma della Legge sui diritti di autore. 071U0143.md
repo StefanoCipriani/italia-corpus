@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il termine stabilito nell'[articolo 1 del Regio Decreto 13 novembre 1870, n. 6045](../Regi%20decreti/Che%20manda%20pubblicare%20nella%20Provincia%20di%20Roma%20le%20Leggi%20ed%20i%20Decreti%20sui%20diritti%20agli%20autori%20delle%20opere%20dellingegno%20sulle%20Camere%20di%20commercio%20e%20sulle%20fiere%20e%20mercati.%20070U6045.md), e' prorogata fino al 30 giugno
+Il termine stabilito nell'[articolo 1 del Regio Decreto 13 novembre 1870, n. 6045](Che%20manda%20pubblicare%20nella%20Provincia%20di%20Roma%20le%20Leggi%20ed%20i%20Decreti%20sui%20diritti%20agli%20autori%20delle%20opere%20dellingegno%20sulle%20Camere%20di%20commercio%20e%20sulle%20fiere%20e%20mercati.%20070U6045.md), e' prorogata fino al 30 giugno
 
 1871.
 

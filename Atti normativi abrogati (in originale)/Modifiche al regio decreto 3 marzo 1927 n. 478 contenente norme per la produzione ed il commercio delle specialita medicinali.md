@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) Visto l'[art. 20 del regio decreto-legge 7 agosto 1925, n. 1732](Norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20025U1732.md), convertito in legge con [legge 9 gennaio 1927, n. 58](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%207%20agosto%201925%20n.%201732%20col%20quale%20vennero%20pubblicate%20le%20norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20027U0058.md), contenente norme per la produzione ed il commercio delle specialita' medicinali;
+Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) Visto l'[art. 20 del regio decreto-legge 7 agosto 1925, n. 1732](Norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20025U1732.md), convertito in legge con [legge 9 gennaio 1927, n. 58](Conversione%20in%20legge%20del%20R.%20decreto%207%20agosto%201925%20n.%201732%20col%20quale%20vennero%20pubblicate%20le%20norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20027U0058.md), contenente norme per la produzione ed il commercio delle specialita' medicinali;
 
 Visto il regolamento contenente norme per la produzione ed il commercio delle specialita' medicinali, approvato con [regio decreto 3 marzo 1927, n. 478](../Regi%20decreti/Approvazione%20del%20regolamento%20contenente%20norme%20per%20la%20produzione%20ed%20il%20commercio%20delle%20specialita%20medicinali.%20027U0478.md);
 

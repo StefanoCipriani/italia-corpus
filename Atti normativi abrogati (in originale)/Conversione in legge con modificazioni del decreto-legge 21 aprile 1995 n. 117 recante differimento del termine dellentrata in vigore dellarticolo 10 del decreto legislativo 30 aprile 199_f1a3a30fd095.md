@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 1.
 
-Il [decreto-legge 21 aprile 1995, n. 117](Differimento%20del%20termine%20dellentrata%20in%20vigore%20dellarticolo%2010%20del%20decreto%20legislativo%2030%20aprile%201992%20n.%20285%20in%20materia%20di%20mezzi%20e%20trasporti%20eccezionali%20nonche%20disposizioni%20per%20assicurare_c116d77b4469.md), recante differimento del termine dell'entrata in vigore dell'[articolo 10 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), in materia di mezzi e trasporti eccezionali, nonche' disposizioni per assicurare la funzionalita' del Consorzio del canale navigabile Milano-Cremona-Po e la manutenzione stradale del settore appenninico, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 21 aprile 1995, n. 117](Differimento%20del%20termine%20dellentrata%20in%20vigore%20dellarticolo%2010%20del%20decreto%20legislativo%2030%20aprile%201992%20n.%20285%20in%20materia%20di%20mezzi%20e%20trasporti%20eccezionali%20nonche%20disposizioni%20per%20assicurare_c116d77b4469.md), recante differimento del termine dell'entrata in vigore dell'[articolo 10 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), in materia di mezzi e trasporti eccezionali, nonche' disposizioni per assicurare la funzionalita' del Consorzio del canale navigabile Milano-Cremona-Po e la manutenzione stradale del settore appenninico, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
 2.
 

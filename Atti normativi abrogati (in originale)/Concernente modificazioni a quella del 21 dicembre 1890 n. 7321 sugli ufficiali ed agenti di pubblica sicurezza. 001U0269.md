@@ -49,7 +49,7 @@ Nell'attuale categoria degli agenti in borghese nel Corpo speciale della Capital
 
 ## Art. 8.
 
-Rimangono in vigore le disposizioni del [R. decreto 29 marzo 1900, n. 133](../Regi%20decreti/Che%20apporta%20modificazioni%20a%20quelli%20in%20data%202%20dicembre%201897%20n.%20500%20e%2029%20settembre%201898%20n.%20423%20relativi%20al%20riordinamento%20degli%20Uffici%20di%20Pubblica%20Sicurezza.%20000U0133.md), circa l'indennita' di carica ai funzionari di pubblica sicurezza che prestano servizio a Roma. 
+Rimangono in vigore le disposizioni del [R. decreto 29 marzo 1900, n. 133](Che%20apporta%20modificazioni%20a%20quelli%20in%20data%202%20dicembre%201897%20n.%20500%20e%2029%20settembre%201898%20n.%20423%20relativi%20al%20riordinamento%20degli%20Uffici%20di%20Pubblica%20Sicurezza.%20000U0133.md), circa l'indennita' di carica ai funzionari di pubblica sicurezza che prestano servizio a Roma. 
  
  Continueranno a far parte dell'Ufficio di pubblica sicurezza della Capitale due ragionieri.
 

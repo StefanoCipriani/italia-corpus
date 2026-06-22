@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), sulla istruzione elementare e popolare;
 
-Visto il [R. decreto 31 dicembre 1922, n. 1679](../Regi%20decreti/Che%20stabilisce%20le%20nuove%20tabelle%20organiche%20dellAmministrazione%20centrale%20e%20regionale%20del%20Ministero%20della%20pubblica%20istruzione%20e%20del%20personale%20ispettivo%20e%20didattico%20delle%20scuole%20elementari.%20022U1679.md);
+Visto il [R. decreto 31 dicembre 1922, n. 1679](Che%20stabilisce%20le%20nuove%20tabelle%20organiche%20dellAmministrazione%20centrale%20e%20regionale%20del%20Ministero%20della%20pubblica%20istruzione%20e%20del%20personale%20ispettivo%20e%20didattico%20delle%20scuole%20elementari.%20022U1679.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

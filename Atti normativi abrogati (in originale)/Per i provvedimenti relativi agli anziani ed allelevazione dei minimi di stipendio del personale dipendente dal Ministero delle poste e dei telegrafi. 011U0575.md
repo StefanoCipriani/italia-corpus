@@ -86,7 +86,7 @@ Nella prima applicazione della presente legge qualora non fossero sufficienti a 
 
 ### Art. 11.
 
-I posti di segretario vacanti nel ruolo postale telegrafico al 1° luglio 1911 saranno messi a concorso esclusivamente fra gl'impiegati della seconda categoria (provvisti dei requisiti regolamentari), ed i ricevitori in possesso dei requisiti indicati nell'[art. 8 del R. decreto 16 maggio 1909, n. 341](../Regi%20decreti/Approvazione%20del%20regolamento%20speciale%20per%20il%20personale%20di%20prima%20e%20seconda%20categoria%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20009U0341.md). 
+I posti di segretario vacanti nel ruolo postale telegrafico al 1° luglio 1911 saranno messi a concorso esclusivamente fra gl'impiegati della seconda categoria (provvisti dei requisiti regolamentari), ed i ricevitori in possesso dei requisiti indicati nell'[art. 8 del R. decreto 16 maggio 1909, n. 341](Approvazione%20del%20regolamento%20speciale%20per%20il%20personale%20di%20prima%20e%20seconda%20categoria%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20009U0341.md). 
  
  Un quarto di tali posti e' riservato ai vincitori del concorso muniti di laurea in giurisprudenza od in scienze fisico-matematiche, e la nomina al grado di segretario avra' luogo per tutti secondo la graduatoria dell'esame.
 

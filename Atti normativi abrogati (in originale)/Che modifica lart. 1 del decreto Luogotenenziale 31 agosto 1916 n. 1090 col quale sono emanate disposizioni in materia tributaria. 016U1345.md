@@ -12,7 +12,7 @@ vigente: true
 
 Il testo dell'art. 1° del Nostro decreto 31 agosto 1916, n. 1090, allegato D, e' sostituito ad ogni effetto dal seguente: 
  
- « La sovrimposta straordinaria di guerra di cui all'art. 1° dell'allegato B al [R. decreto 21 novembre 1915, n. 1643](../Regi%20decreti/Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), e' stabilita nella seguente misura per tutti i redditi accertati dal 1° agosto 1914 in poi in base al R. decreto stesso: 
+ « La sovrimposta straordinaria di guerra di cui all'art. 1° dell'allegato B al [R. decreto 21 novembre 1915, n. 1643](Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), e' stabilita nella seguente misura per tutti i redditi accertati dal 1° agosto 1914 in poi in base al R. decreto stesso: 
  
  Per i commercianti e gli industriali: 
  
@@ -36,7 +36,7 @@ Il testo dell'art. 1° del Nostro decreto 31 agosto 1916, n. 1090, allegato D, e
  
  del 35 % sulla eccedenza di oltre 30 decimi. 
  
- La sovrimposta rimane pero' ferma nella misura stabilita dall'art. 1° dell'allegato B al [R. decreto 21 novembre 1915, n. 1643](../Regi%20decreti/Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), per i redditi che siano accertati per l'applicazione dell'imposta di ricchezza mobile in virtu' dell'art. 9, primo comma, del testo unico di [legge 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1877-08-24;4021) ». 
+ La sovrimposta rimane pero' ferma nella misura stabilita dall'art. 1° dell'allegato B al [R. decreto 21 novembre 1915, n. 1643](Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), per i redditi che siano accertati per l'applicazione dell'imposta di ricchezza mobile in virtu' dell'art. 9, primo comma, del testo unico di [legge 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1877-08-24;4021) ». 
  
  Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

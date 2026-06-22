@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 16 dicembre 1922, n. 1634](../Regi%20decreti/Concernente%20la%20esenzione%20dallimposta%20di%20ricchezza%20mobile%20per%20gli%20interessi%20dei%20mutui%20contratti%20e%20delle%20obbligazioni%20collettive%20allEstero%20da%20Societa%20Provincie%20Comuni%20ed%20altri%20Enti.%20022U1634.md);
+Visto il [R. decreto 16 dicembre 1922, n. 1634](Concernente%20la%20esenzione%20dallimposta%20di%20ricchezza%20mobile%20per%20gli%20interessi%20dei%20mutui%20contratti%20e%20delle%20obbligazioni%20collettive%20allEstero%20da%20Societa%20Provincie%20Comuni%20ed%20altri%20Enti.%20022U1634.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-Il termine stabilito dall'[art. 2 del R. decreto 16 dicembre 1922, n. 1634](../Regi%20decreti/Concernente%20la%20esenzione%20dallimposta%20di%20ricchezza%20mobile%20per%20gli%20interessi%20dei%20mutui%20contratti%20e%20delle%20obbligazioni%20collettive%20allEstero%20da%20Societa%20Provincie%20Comuni%20ed%20altri%20Enti.%20022U1634.md), entro il quale possono compiersi operazioni di mutuo e collocamento di obbligazioni all'Estero, con esenzione dei relativi interessi dalla imposta di ricchezza mobile, e' prorogato fino a tutto il 31 dicembre 1928.
+Il termine stabilito dall'[art. 2 del R. decreto 16 dicembre 1922, n. 1634](Concernente%20la%20esenzione%20dallimposta%20di%20ricchezza%20mobile%20per%20gli%20interessi%20dei%20mutui%20contratti%20e%20delle%20obbligazioni%20collettive%20allEstero%20da%20Societa%20Provincie%20Comuni%20ed%20altri%20Enti.%20022U1634.md), entro il quale possono compiersi operazioni di mutuo e collocamento di obbligazioni all'Estero, con esenzione dei relativi interessi dalla imposta di ricchezza mobile, e' prorogato fino a tutto il 31 dicembre 1928.
 
 ## Art. 2.
 

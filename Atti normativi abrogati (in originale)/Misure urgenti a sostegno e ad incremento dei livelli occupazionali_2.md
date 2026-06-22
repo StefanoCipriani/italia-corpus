@@ -208,11 +208,11 @@ In caso contrario spettano tanti assegni giornalieri quante sono le giornate di 
 
 7.
 
-Qualora non si possa individuare l'attivita' principale per gli effetti dell'articolo 20 del testo unico delle norme sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../Testi%20Unici/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e successive modificazioni ed integrazioni, gli assegni familiari sono corrisposti direttamente dall'Istituto nazionale della previdenza sociale.
+Qualora non si possa individuare l'attivita' principale per gli effetti dell'articolo 20 del testo unico delle norme sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../DPR/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e successive modificazioni ed integrazioni, gli assegni familiari sono corrisposti direttamente dall'Istituto nazionale della previdenza sociale.
 
 8.
 
-Il secondo comma dell'articolo 26 del testo unico delle norme sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../Testi%20Unici/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e' sostituito dal seguente:
+Il secondo comma dell'articolo 26 del testo unico delle norme sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../DPR/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e' sostituito dal seguente:
  "Il contributo non e' dovuto per i lavoratori cui non spettano gli assegni a norma dell'articolo 2".
 
 9.

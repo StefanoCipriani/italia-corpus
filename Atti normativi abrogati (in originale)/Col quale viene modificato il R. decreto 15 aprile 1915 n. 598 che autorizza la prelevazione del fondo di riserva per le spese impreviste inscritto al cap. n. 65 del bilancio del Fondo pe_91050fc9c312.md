@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-A modificazione del [R. decreto 15 aprile 1915, n. 598](../Regi%20decreti/Col%20quale%20e%20autorizzata%20la%20prelevazione%20dellintero%20fondo%20di%20riserva%20di%20L.%2030.000%20per%20le%20spese%20impreviste%20inscritte%20al%20capitolo%2065%20del%20bilancio%20della%20Amministrazione%20del%20fondo%20per%20il%20culto_b3eb15d47b8e.md), la somma di lire trentamila (L. 30.000) prelevata dal capitolo n. 65: «Fondo di riserva per le spese impreviste» dello stato di previsione della spesa dell'Amministrazione del Fondo per il culto per l'esercizio finanziario 1914-915, rimane assegnata come appresso: 
+A modificazione del [R. decreto 15 aprile 1915, n. 598](Col%20quale%20e%20autorizzata%20la%20prelevazione%20dellintero%20fondo%20di%20riserva%20di%20L.%2030.000%20per%20le%20spese%20impreviste%20inscritte%20al%20capitolo%2065%20del%20bilancio%20della%20Amministrazione%20del%20fondo%20per%20il%20culto_b3eb15d47b8e.md), la somma di lire trentamila (L. 30.000) prelevata dal capitolo n. 65: «Fondo di riserva per le spese impreviste» dello stato di previsione della spesa dell'Amministrazione del Fondo per il culto per l'esercizio finanziario 1914-915, rimane assegnata come appresso: 
  
  a) in aumento del cap. n. 5 « Indennita' pel 
  Consiglio d'amministrazione » . . . . . . . . . . . . 650 -- 

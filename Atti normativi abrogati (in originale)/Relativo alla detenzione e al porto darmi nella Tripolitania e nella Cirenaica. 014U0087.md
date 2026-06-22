@@ -48,7 +48,7 @@ E' data facolta' al governatore, concorrendo speciali ragioni di sicurezza pubbl
 
 Il primo comma dell'art. 10 della legge di pubblica sicurezza, [testo unico 30 giugno 1889, n. 6144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1889-06-30;6144), e' cosi' modificato: 
  
- «Oltre i casi previsti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' proibita la raccolta delle armi di qualsiasi specie, o di parti di esse, di munizioni, uniformi militari o altri oggetti destinati all'armamento o allo equipaggiamento di truppe».
+ «Oltre i casi previsti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' proibita la raccolta delle armi di qualsiasi specie, o di parti di esse, di munizioni, uniformi militari o altri oggetti destinati all'armamento o allo equipaggiamento di truppe».
 
 ## Art. 4.
 

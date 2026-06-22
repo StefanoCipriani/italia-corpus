@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al testo unico delle leggi sugli stipendi ed assegni fissi per il R. esercito, approvato con [R. decreto 14 luglio 1898, n. 380](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e modificato colle [leggi 7 luglio 1901, n. 286, e 2 giugno 1904, n. 216, 3 luglio 1904, nn. 300, 301 e 302, 8 luglio 1906, n. 305, 19 luglio 1906, n. 372, e 30 dicembre 1906, n. 647](Provvedimenti%20per%20larma%20dei%20RR.%20carabinieri.%20006U0647.md), sono apportate le seguenti modificazioni: 
+Al testo unico delle leggi sugli stipendi ed assegni fissi per il R. esercito, approvato con [R. decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e modificato colle [leggi 7 luglio 1901, n. 286, e 2 giugno 1904, n. 216, 3 luglio 1904, nn. 300, 301 e 302, 8 luglio 1906, n. 305, 19 luglio 1906, n. 372, e 30 dicembre 1906, n. 647](Provvedimenti%20per%20larma%20dei%20RR.%20carabinieri.%20006U0647.md), sono apportate le seguenti modificazioni: 
  
  TABELLA VI. 
  
@@ -29,7 +29,7 @@ Al testo unico delle leggi sugli stipendi ed assegni fissi per il R. esercito, a
 
 ## Art. 2.
 
-Al testo unico delle leggi sull'ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, approvato con [R. decreto n. 525 del 14 luglio 1898](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), modificato colle [leggi n. 285 del 7 luglio 1901, n. 303 del 21 luglio 1902, n. 216 del 2 giugno 1904, n. 300 del 3 luglio 1904, n. 347 del 9 luglio 1905, n. 305 dell'8 luglio 1906, n. 343 del 12 luglio 1906, n. 372 del 19 luglio 1906 e n. 647 del 30 dicembre 1906](Provvedimenti%20per%20larma%20dei%20RR.%20carabinieri.%20006U0647.md), aggiungere le seguenti tabelle: 
+Al testo unico delle leggi sull'ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, approvato con [R. decreto n. 525 del 14 luglio 1898](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), modificato colle [leggi n. 285 del 7 luglio 1901, n. 303 del 21 luglio 1902, n. 216 del 2 giugno 1904, n. 300 del 3 luglio 1904, n. 347 del 9 luglio 1905, n. 305 dell'8 luglio 1906, n. 343 del 12 luglio 1906, n. 372 del 19 luglio 1906 e n. 647 del 30 dicembre 1906](Provvedimenti%20per%20larma%20dei%20RR.%20carabinieri.%20006U0647.md), aggiungere le seguenti tabelle: 
  
  TABELLA XXIV. 
  

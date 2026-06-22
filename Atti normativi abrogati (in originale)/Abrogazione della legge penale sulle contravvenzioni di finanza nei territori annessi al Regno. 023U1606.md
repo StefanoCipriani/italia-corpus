@@ -30,11 +30,11 @@ Nei territori annessi con le [leggi 26 settembre 1920, n. 1322 e 19](https://www
 
 ## Art. 2.
 
-Per i reati compresi in leggi penali di finanza, relativi norme di carattere finanziario non ancora estese ai territori anzidetti o non accora entrate in vigore, Continueranno ad essere applicate temporaneamente le sanzioni e, le garanzie personali per le pene nelle leggi stesse stabilite, osservandosi, pel resto le disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno.
+Per i reati compresi in leggi penali di finanza, relativi norme di carattere finanziario non ancora estese ai territori anzidetti o non accora entrate in vigore, Continueranno ad essere applicate temporaneamente le sanzioni e, le garanzie personali per le pene nelle leggi stesse stabilite, osservandosi, pel resto le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno.
 
 ## Art. 3.
 
-Ove occorra, ai fini dell'articolo precedente, saranno applicate le norme transitorie contenute nel titolo I; capo II, del [R. decreto 5 marzo 1922, n.288](Contenente%20norme%20di%20attuazione%20coordinamento%20e%20transitorie%20per%20lentrata%20in%20vigore%20nelle%20nuove%20Provincie%20dei%20codici%20penali%20e%20di%20procedura%20penale%20del%20Regno.%20022U0288.md), emanato per l'estensione del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del regno.
+Ove occorra, ai fini dell'articolo precedente, saranno applicate le norme transitorie contenute nel titolo I; capo II, del [R. decreto 5 marzo 1922, n.288](Contenente%20norme%20di%20attuazione%20coordinamento%20e%20transitorie%20per%20lentrata%20in%20vigore%20nelle%20nuove%20Provincie%20dei%20codici%20penali%20e%20di%20procedura%20penale%20del%20Regno.%20022U0288.md), emanato per l'estensione del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del regno.
 
 ## Art. 4.
 

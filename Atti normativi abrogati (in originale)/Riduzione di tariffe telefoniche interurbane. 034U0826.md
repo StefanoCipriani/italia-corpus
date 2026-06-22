@@ -24,7 +24,7 @@ Visto il [R. decreto-legge 20 agosto 1926, n. 1433](Variazioni%20alle%20tariffe%
 
 Visto il decreto Ministeriale 20 giugno 1928;
 
-Visto il [R. decreto 9 aprile 1931, n. 399](../Regi%20decreti/Giorni%20festivi%20agli%20effetti%20della%20riduzione%20delle%20tariffe%20telefoniche.%20031U0399.md);
+Visto il [R. decreto 9 aprile 1931, n. 399](Giorni%20festivi%20agli%20effetti%20della%20riduzione%20delle%20tariffe%20telefoniche.%20031U0399.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

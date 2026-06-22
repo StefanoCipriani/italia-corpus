@@ -92,7 +92,7 @@ Il saldo del 15 per cento di cui all'[articolo 15, primo comma, lettera c), dell
 
 2.
 
-I controlli sulla regolarita' degli atti contabili e sulla documentazione giustificativa delle spese sono effettuati anche successivamente all'erogazione del saldo. In caso di accertate irregolarita' che diano luogo al recupero di somme, questo e' disposto con le modalita' di cui all'[articolo 2 del regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
+I controlli sulla regolarita' degli atti contabili e sulla documentazione giustificativa delle spese sono effettuati anche successivamente all'erogazione del saldo. In caso di accertate irregolarita' che diano luogo al recupero di somme, questo e' disposto con le modalita' di cui all'[articolo 2 del regio decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 ## Art. 5.
 

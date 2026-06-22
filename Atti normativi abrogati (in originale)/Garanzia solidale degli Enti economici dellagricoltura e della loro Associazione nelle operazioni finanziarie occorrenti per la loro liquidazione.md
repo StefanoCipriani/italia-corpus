@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 18 maggio 1942, n. 566](Riordinamento%20degli%20Enti%20economici%20dellagricoltura%20e%20dei%20Consorzi%20agrari.%20042U0566.md), concernente il riordinamento degli Enti economici dell'agricoltura e dei Consorzi agrari;
 
-Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 367](../Decreti%20legislativi%20luogotenenziali/Istituzione%20dellUfficio%20nazionale%20statistico%20economico%20dellagricoltura%20e%20soppressione%20degli%20Enti%20economici%20dellagricoltura%20e%20della%20loro%20associazione.%20045U0367.md), relativo all'istituzione dell'Ufficio nazionale statistico economico dell'agricoltura (U.N.S.E.A.) e soppressione degli Enti economici dell'agricoltura e della loro Associazione;
+Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 367](Istituzione%20dellUfficio%20nazionale%20statistico%20economico%20dellagricoltura%20e%20soppressione%20degli%20Enti%20economici%20dellagricoltura%20e%20della%20loro%20associazione.%20045U0367.md), relativo all'istituzione dell'Ufficio nazionale statistico economico dell'agricoltura (U.N.S.E.A.) e soppressione degli Enti economici dell'agricoltura e della loro Associazione;
 
 Visto l'[articolo 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

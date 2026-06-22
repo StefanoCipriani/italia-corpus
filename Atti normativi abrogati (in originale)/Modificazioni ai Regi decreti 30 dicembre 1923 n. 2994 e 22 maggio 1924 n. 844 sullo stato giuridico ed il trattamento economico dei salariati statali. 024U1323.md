@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 30 dicembre 1923, n. 2994](../Regi%20decreti/Disposizioni%20relative%20allo%20stato%20giuridico%20ed%20al%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.%20023U2994.md), e [22 maggio 1924, n. 844](../Regi%20decreti/Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), sullo stato giuridico ed il trattamento economico dei salariati statali;
+Visti i [Regi decreti 30 dicembre 1923, n. 2994](Disposizioni%20relative%20allo%20stato%20giuridico%20ed%20al%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.%20023U2994.md), e [22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), sullo stato giuridico ed il trattamento economico dei salariati statali;
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di
 
 ## Art. 1.
 
-Al [R. decreto 22 maggio 1924, n. 844](../Regi%20decreti/Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), sono apportate le seguenti variazioni: 
+Al [R. decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), sono apportate le seguenti variazioni: 
  
  A) Nell'art. 1: 
  
@@ -44,11 +44,11 @@ Al [R. decreto 22 maggio 1924, n. 844](../Regi%20decreti/Norme%20integrative%20a
 
 ## Art. 2.
 
-Nell'[art. 53 del R. decreto 30 dicembre 1923, n. 2994](../Regi%20decreti/Disposizioni%20relative%20allo%20stato%20giuridico%20ed%20al%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.%20023U2994.md), alle parole: «dal giorno dell'infortunio», sono sostituite le seguenti: «dal giorno successivo a quello dell'infortunio».
+Nell'[art. 53 del R. decreto 30 dicembre 1923, n. 2994](Disposizioni%20relative%20allo%20stato%20giuridico%20ed%20al%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.%20023U2994.md), alle parole: «dal giorno dell'infortunio», sono sostituite le seguenti: «dal giorno successivo a quello dell'infortunio».
 
 ## Art. 3.
 
-L'[art. 91 del R. decreto 30 dicembre 1923, n. 2994](../Regi%20decreti/Disposizioni%20relative%20allo%20stato%20giuridico%20ed%20al%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.%20023U2994.md), anche agli effetti del disposto dell'[art. 17, lett. a), del R. decreto 22 maggio 1924, n. 844](../Regi%20decreti/Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' modificato come segue: 
+L'[art. 91 del R. decreto 30 dicembre 1923, n. 2994](Disposizioni%20relative%20allo%20stato%20giuridico%20ed%20al%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.%20023U2994.md), anche agli effetti del disposto dell'[art. 17, lett. a), del R. decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), e' modificato come segue: 
  
  «Eccettuate le disposizioni per le quali e' stabilita una esplicita diversa decorrenza, il presente decreto si applica: 
  

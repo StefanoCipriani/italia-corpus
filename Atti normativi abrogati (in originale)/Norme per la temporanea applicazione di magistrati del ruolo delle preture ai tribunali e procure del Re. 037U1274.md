@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visti gli articoli 24, prima parte, della [legge 5 giugno 1933, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1933-06-05;577), e 2 del [R. decreto-legge 3 dicembre 1934, n. 1995](Norme%20transitorie%20sulle%20destinazioni%20degli%20uditori%20giudiziari%20e%20sulle%20applicazioni%20dei%20giudici%20e%20sostituti%20procuratori%20del%20Re.%20034U1995.md), convertito in legge con la [legge 4 aprile 1935, n. 512](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20dicembre%201934%20n.%201995%20recante%20norme%20transitorie%20sulle%20destinazioni%20degli%20uditori%20giudiziari%20e%20sulle%20applicazioni%20dei%20giudici%20e%20sostituti%20procur_7a0e52b5cacb.md);
 
-Visto l'[art. 38 del R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md);
+Visto l'[art. 38 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -34,7 +34,7 @@ Per un triennio dal giorno dell'entrata in vigore del presente decreto, e' conse
 
 ## Art. 2.
 
-Le applicazioni temporanee consentite in vista di eccezionali esigenze dall'[art. 38 del R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), potranno esser disposte con le stesse norme, per un triennio dal giorno di entrata in vigore del presente decreto, anche nei riguardi di magistrati del distretto aventi grado di pretore, o, da almeno un anno, di pretore aggiunto, scelti dal primo presidente, sentito il procuratore generale, fra quelli che diano sicuro affidamento di saper convenientemente adempiere le funzioni collegiali.
+Le applicazioni temporanee consentite in vista di eccezionali esigenze dall'[art. 38 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), potranno esser disposte con le stesse norme, per un triennio dal giorno di entrata in vigore del presente decreto, anche nei riguardi di magistrati del distretto aventi grado di pretore, o, da almeno un anno, di pretore aggiunto, scelti dal primo presidente, sentito il procuratore generale, fra quelli che diano sicuro affidamento di saper convenientemente adempiere le funzioni collegiali.
 
 ## Art. 3.
 

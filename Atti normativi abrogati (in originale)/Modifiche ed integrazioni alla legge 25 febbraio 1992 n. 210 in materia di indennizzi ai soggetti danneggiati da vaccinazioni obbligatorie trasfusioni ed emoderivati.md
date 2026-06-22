@@ -74,7 +74,7 @@ Al [comma 1 dell'articolo 6 della legge 25 febbraio 1992, n. 210](https://www.no
 
 13.
 
-Ai fini dell'attuazione delle disposizioni di cui al presente articolo, le commissioni medico-ospedaliere di cui all'[articolo 4 della legge 25 febbraio 1992, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;210#art_4), sono integrate con medici esperti nelle materie attinenti alle richieste di indennizzo, ai sensi dell'ultimo comma dell'articolo 165 del testo unico approvato con [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md).
+Ai fini dell'attuazione delle disposizioni di cui al presente articolo, le commissioni medico-ospedaliere di cui all'[articolo 4 della legge 25 febbraio 1992, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;210#art_4), sono integrate con medici esperti nelle materie attinenti alle richieste di indennizzo, ai sensi dell'ultimo comma dell'articolo 165 del testo unico approvato con [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md).
 
 ## Art. 2.
 

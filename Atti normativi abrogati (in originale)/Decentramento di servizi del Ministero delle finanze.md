@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Viste le [leggi 11 marzo 1953, n. 150 e 18 giugno 1954, n. 343](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20del%20termine%20previsto%20dagli%20articoli%201%20e%208%20della%20legge%2011%20marzo%201953%20n.%20150%20per%20la%20delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20di%20interesse%20esclusivamente%20l_8fb8bdc361e6.md), concernenti delega legislativa al Governo per l'attribuzione di funzioni statali di interesse esclusivamente locale alle Province, ai Comuni e ad altri Enti locali per l'attuazione del decentramento amministrativo;
+Viste le [leggi 11 marzo 1953, n. 150 e 18 giugno 1954, n. 343](Proroga%20del%20termine%20previsto%20dagli%20articoli%201%20e%208%20della%20legge%2011%20marzo%201953%20n.%20150%20per%20la%20delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20di%20interesse%20esclusivamente%20l_8fb8bdc361e6.md), concernenti delega legislativa al Governo per l'attribuzione di funzioni statali di interesse esclusivamente locale alle Province, ai Comuni e ad altri Enti locali per l'attuazione del decentramento amministrativo;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Udito il parere della Commissione consultiva istituita con l'[art. 2 della legge 11 marzo 1953, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20dinteresse%20esclusivamente%20locale%20alle%20Province%20ai%20Comuni%20e%20ad%20altri%20Enti%20locali%20e%20per%20lattuazione%20del%20decentramento%20amministrativo.md);
+Udito il parere della Commissione consultiva istituita con l'[art. 2 della legge 11 marzo 1953, n. 150](Delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20dinteresse%20esclusivamente%20locale%20alle%20Province%20ai%20Comuni%20e%20ad%20altri%20Enti%20locali%20e%20per%20lattuazione%20del%20decentramento%20amministrativo.md);
 
 Udito il parere della Corte dei conti a sezioni riunite;
 
@@ -56,7 +56,7 @@ All'intendente di finanza e' deferita la competenza a provvedere ai lavori di or
 
 ### Art. 6.
 
-La nomina della Commissione per lo scarto degli atti di archivio degli uffici amministrativi, di cui all'[art. 69 del regio decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md), modificato dal [regio decreto 31 agosto 1933, n. 1313](../Regi%20decreti/Modifiche%20agli%20articoli%2069%2070%2072%20e%2074%20del%20regolamento%20per%20gli%20Archivi%20di%20Stato%20approvato%20con%20R.%20decreto%202%20ottobre%201911%20n.%201163.%20033U1313.md), e' deferita, per gli uffici finanziari periferici, all'intendente di finanza competente per territorio.
+La nomina della Commissione per lo scarto degli atti di archivio degli uffici amministrativi, di cui all'[art. 69 del regio decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md), modificato dal [regio decreto 31 agosto 1933, n. 1313](Modifiche%20agli%20articoli%2069%2070%2072%20e%2074%20del%20regolamento%20per%20gli%20Archivi%20di%20Stato%20approvato%20con%20R.%20decreto%202%20ottobre%201911%20n.%201163.%20033U1313.md), e' deferita, per gli uffici finanziari periferici, all'intendente di finanza competente per territorio.
 
 ### Art. 7.
 
@@ -74,7 +74,7 @@ L'autorizzazione per la vendita al pubblico dei valori bollati, richiesta dall'[
 
 ### Art. 10.
 
-Il primo comma dell'art. 39 del testo unico delle leggi sulle tasse automobilistiche approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), e' modificato come segue:
+Il primo comma dell'art. 39 del testo unico delle leggi sulle tasse automobilistiche approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), e' modificato come segue:
  "I ricorsi in via amministrativa sulle questioni relative all'applicazione della tassa di di circolazione sono decisi dall'intendente di finanza. Contro tali decisioni se l'ammontare controverso della tassa superi le L. 50.000, e' ammesso ricorso al Ministro per le finanze nel termine di giorni trenta dalla loro notificazione"
 
 ### Art. 11.
@@ -84,13 +84,13 @@ Il secondo comma dell'art. 14 del testo unico delle leggi vigenti in materia di 
 
 ### Art. 12.
 
-Il secondo comma dell'art. 39 della legge tributaria sulle assicurazioni, approvato con [regio decreto 30 dicembre 1923, n. 3281](../Regi%20decreti/Approvazione%20del%20testo%20della%20legge%20tributaria%20sulle%20assicurazioni.%20023U3281.md), e' modificato come segue:
+Il secondo comma dell'art. 39 della legge tributaria sulle assicurazioni, approvato con [regio decreto 30 dicembre 1923, n. 3281](Approvazione%20del%20testo%20della%20legge%20tributaria%20sulle%20assicurazioni.%20023U3281.md), e' modificato come segue:
  "Contro la decisione dell'intendente e' ammesso, nei modi e termini stabiliti dal regolamento, il ricorso al Ministro per le finanze, soltanto se l'ammontare delle tasse e sopratasse in contestazione superi le L. 50.000".
 
 ### Art. 13.
 
 L'[art. 10 del decreto legislativo del Capo provvisorio dello Stato 27 dicembre 1946, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-27;469#art_10), e' sostituito come segue:
- La competenza in via amministrativa a pronunciarsi circa l'ammissione del rimborso dell'imposta sull'entrata nei casi previsti dall'[art. 47 dal regio decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e' deferita all'intendente di finanza, quando l'importo dell'imposta non superi la somma di L. 1.000.000; al Ministro per le finanze, negli altri casi".
+ La competenza in via amministrativa a pronunciarsi circa l'ammissione del rimborso dell'imposta sull'entrata nei casi previsti dall'[art. 47 dal regio decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito nella [legge 19 giugno 1940, n. 762](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e' deferita all'intendente di finanza, quando l'importo dell'imposta non superi la somma di L. 1.000.000; al Ministro per le finanze, negli altri casi".
 
 ### Art. 14.
 
@@ -100,12 +100,12 @@ L'ultimo comma dell'[art. 56 della legge 7 gennaio 1929, n. 4](https://www.norma
 ### Art. 15.
 
 L'[art. 11 del decreto legislativo del Capo provvisorio dello Stato 27 dicembre 1946, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-27;469#art_11), e' modificato come segue:
- "Per le violazioni delle disposizioni in materia d'imposta sull'entrata il ricorso al Ministro per le finanze avverso le ordinanze emesse dall'intendente di finanza a norma dell'[art. 55 della legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4#art_55), e' ammesso, in deroga dell'art. 56 della stessa legge, modificato dall'[art. 52 del regio decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), quando la pena pecuniaria prevista dalla legge sia superiore nel massimo a lire seicentomila".
+ "Per le violazioni delle disposizioni in materia d'imposta sull'entrata il ricorso al Ministro per le finanze avverso le ordinanze emesse dall'intendente di finanza a norma dell'[art. 55 della legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4#art_55), e' ammesso, in deroga dell'art. 56 della stessa legge, modificato dall'[art. 52 del regio decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito nella [legge 19 giugno 1940, n. 762](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), quando la pena pecuniaria prevista dalla legge sia superiore nel massimo a lire seicentomila".
 
 ### Art. 16.
 
-L'[art. 8 del decreto legislativo 3 maggio 1948, n. 799](../Decreti%20Legislativi/Nuovi%20provvedimenti%20in%20materia%20dimposta%20generale%20sullentrata.md), che reca nuovi provvedimenti in materia di imposta generale sull'entrata, e' sostituito dal seguente:
- "La competenza a consentire dilazioni a norma dell'[art. 46 del regio decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito nella [legge 19 giugno 1940, n. 762, e del l'art. 117](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md) del regolamento approvato con [regio decreto 26 gennaio 1940, n. 10](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md), e' devoluta, senza limiti di somma, all'intendente di finanza".
+L'[art. 8 del decreto legislativo 3 maggio 1948, n. 799](Nuovi%20provvedimenti%20in%20materia%20dimposta%20generale%20sullentrata.md), che reca nuovi provvedimenti in materia di imposta generale sull'entrata, e' sostituito dal seguente:
+ "La competenza a consentire dilazioni a norma dell'[art. 46 del regio decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito nella [legge 19 giugno 1940, n. 762, e del l'art. 117](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md) del regolamento approvato con [regio decreto 26 gennaio 1940, n. 10](Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md), e' devoluta, senza limiti di somma, all'intendente di finanza".
 
 ### Art. 17.
 
@@ -128,7 +128,7 @@ L'ultimo comma dell'[art. 26 della legge 25 settembre 1940, n. 1424](Legge%20dog
 
 ### Art. 21.
 
-Il controllo preventivo sui provvedimenti degli intendenti di finanza nelle materie loro attribuite, ai sensi del presente decreto, verra' esercitato dagli uffici speciali di ragioneria e dagli uffici distaccati della Corte dei conti presso i Provveditorati regionali alle opere pubbliche secondo le rispettive competenze e nei modi previsti dai [decreti legislativi 18 gennaio 1945, n. 16, 14 giugno 1945, n. 355 e 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-06-27;37), ratificato con modificazioni con la [legge 3 febbraio 1951, n. 164](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20dei%20decreti%20legislativi%2027%20giugno%201946%20n.%2037%20e%2025%20luglio%201947%20n.%20937%20concernenti%20norme%20sulla%20costituzione%20ed%20il%20funzionamento%20dei%20Provveditorati%20regionali%20alle%20_2629b2dc4357.md), fino a quando agli uffici decentrati di controllo non sara' data una definitiva sistemazione nel quadro del decentramento burocratico.
+Il controllo preventivo sui provvedimenti degli intendenti di finanza nelle materie loro attribuite, ai sensi del presente decreto, verra' esercitato dagli uffici speciali di ragioneria e dagli uffici distaccati della Corte dei conti presso i Provveditorati regionali alle opere pubbliche secondo le rispettive competenze e nei modi previsti dai [decreti legislativi 18 gennaio 1945, n. 16, 14 giugno 1945, n. 355 e 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-06-27;37), ratificato con modificazioni con la [legge 3 febbraio 1951, n. 164](Ratifica%20con%20modificazioni%20dei%20decreti%20legislativi%2027%20giugno%201946%20n.%2037%20e%2025%20luglio%201947%20n.%20937%20concernenti%20norme%20sulla%20costituzione%20ed%20il%20funzionamento%20dei%20Provveditorati%20regionali%20alle%20_2629b2dc4357.md), fino a quando agli uffici decentrati di controllo non sara' data una definitiva sistemazione nel quadro del decentramento burocratico.
 
 ## Decentramento di attribuzioni agli uffici periferici della Amministrazione delle dogane e delle imposta indirette.
 
@@ -136,7 +136,7 @@ TITOLO III
 
 ### Art. 22.
 
-Il penultimo comma dell'[art. 10 del regio decreto-legge 16 giugno 1938, n. 954](Modificazione%20del%20regime%20fiscale%20degli%20organi%20di%20illuminazione%20elettrica.%20038U0954.md), convertito nella [legge 19 gennaio 1939, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20giugno%201938-XVI%20n.%20954%20che%20modifica%20il%20regime%20fiscale%20degli%20organi%20di%20illuminazione%20elettrica.%20039U0214.md), e' sostituito dal seguente:
+Il penultimo comma dell'[art. 10 del regio decreto-legge 16 giugno 1938, n. 954](Modificazione%20del%20regime%20fiscale%20degli%20organi%20di%20illuminazione%20elettrica.%20038U0954.md), convertito nella [legge 19 gennaio 1939, n. 214](Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20giugno%201938-XVI%20n.%20954%20che%20modifica%20il%20regime%20fiscale%20degli%20organi%20di%20illuminazione%20elettrica.%20039U0214.md), e' sostituito dal seguente:
  "E' in facolta' dell'Amministrazione di autorizzare i fabbricanti e gli importatori, che ne facciano domanda, a sostituire, per le lampade che abbiano almeno una delle dimensioni superiori ai 50 mm., al contrassegno applicato sull'involucro un contrassegno di altro sistema ritenuto tecnicamente idoneo. L'autorizzazione e' concessa dall'Ufficio tecnico delle imposte di fabbricazione o dalla dogana competente per territorio, a seconda che la richiesta sia stata inoltrata da un fabbricante o da un importatore".
 
 ### Art. 23.
@@ -153,11 +153,11 @@ La facolta' attribuita al Ministero delle finanze dall'art. 217, primo comma, de
 
 ### Art. 26.
 
-La facolta' spettante al Ministro per le finanze in base al comma aggiunto dal [regio decreto 6 novembre 1930, n. 1512, all'art. 220](../Regi%20decreti/Modificazione%20dellart.%20220%20del%20regolamento%20per%20lesecuzione%20della%20legge%20doganale.%20030U1512.md) del regolamento per la esecuzione della legge doganale, approvato con [regio decreto 13 febbraio 1896, n. 65](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20doganali.%20096U0065.md), e' esercitata dal competente direttore superiore della circoscrizione doganale.
+La facolta' spettante al Ministro per le finanze in base al comma aggiunto dal [regio decreto 6 novembre 1930, n. 1512, all'art. 220](Modificazione%20dellart.%20220%20del%20regolamento%20per%20lesecuzione%20della%20legge%20doganale.%20030U1512.md) del regolamento per la esecuzione della legge doganale, approvato con [regio decreto 13 febbraio 1896, n. 65](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20doganali.%20096U0065.md), e' esercitata dal competente direttore superiore della circoscrizione doganale.
 
 ### Art. 27.
 
-Le facolta' attribuite al Ministero delle finanze dagli articoli 3, ultimo comma e 4, ultimo comma, del regolamento sulle importazioni ed esportazioni temporanee, approvato con [regio decreto 6 aprile 1922, n. 547](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), sono deferite al competente direttore superiore della circoscrizione doganale.
+Le facolta' attribuite al Ministero delle finanze dagli articoli 3, ultimo comma e 4, ultimo comma, del regolamento sulle importazioni ed esportazioni temporanee, approvato con [regio decreto 6 aprile 1922, n. 547](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), sono deferite al competente direttore superiore della circoscrizione doganale.
 
 ### Art. 28.
 
@@ -165,17 +165,17 @@ Per le merci non munite di contrassegno, le quali possano essere riesportate da 
 
 ### Art. 29.
 
-Il secondo comma dell'art. 96 dei regolamento sulle importazioni temporanee, approvato con [regio decreto 6 aprile 1922, n. 547](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), e' sostituito dal seguente:
+Il secondo comma dell'art. 96 dei regolamento sulle importazioni temporanee, approvato con [regio decreto 6 aprile 1922, n. 547](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), e' sostituito dal seguente:
  L'importazione, quando in proposito non creda di rimettersi al giudizio della dogana, puo' ricorrere ai direttore superiore della circoscrizione doganale se questi non e' lo stesso capo della dogana, ovvero al capo del compartimento doganale d'ispezione, negli altri casi, i quali decidono sentita la Camera di commercio, industria e agricoltura della Provincia nella quale e' stato chiesto di effettuare l'operazione".
 
 ### Art. 30.
 
-Il rilascio delle autorizzazioni alla temporanea importazione e l'emanazione delle relative norme di concessione che, ai sensi degli articoli 109, 113, 118, 119, 122, 123, 128, 129, 139, 140, 149, 156, 165, 166, 173 e 199 del regolamento sulle importazioni ed esportazioni temporanee, approvato con [regio decreto 6 aprile 1922, n. 547](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), sono attribuiti al Ministero delle finanze, sono devoluti al competente direttore superiore della circoscrizione doganale, cui vanno indirizzate le domande di concessione, con le formalita' sancite nelle rispettive disposizioni.
+Il rilascio delle autorizzazioni alla temporanea importazione e l'emanazione delle relative norme di concessione che, ai sensi degli articoli 109, 113, 118, 119, 122, 123, 128, 129, 139, 140, 149, 156, 165, 166, 173 e 199 del regolamento sulle importazioni ed esportazioni temporanee, approvato con [regio decreto 6 aprile 1922, n. 547](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), sono attribuiti al Ministero delle finanze, sono devoluti al competente direttore superiore della circoscrizione doganale, cui vanno indirizzate le domande di concessione, con le formalita' sancite nelle rispettive disposizioni.
  La, facolta' di cui al secondo comma dell'art. 140 resta tuttavia attribuito al Ministro, allorche' le operazioni ivi previste avvengano fra dogane appartenenti a circoscrizioni diverse.
 
 ### Art. 31.
 
-L'autorizzazione di cui al primo comma dell'art. 189 del regolamento sulle importazioni ed esportazioni temporanee, approvato con [regio decreto 6 aprile 1922, n. 547](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), e' devoluta al direttore superiore della circoscrizione doganale, allorche' le operazioni ivi indicate si effettuino fra dogane appartenenti alla medesima circoscrizione.
+L'autorizzazione di cui al primo comma dell'art. 189 del regolamento sulle importazioni ed esportazioni temporanee, approvato con [regio decreto 6 aprile 1922, n. 547](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), e' devoluta al direttore superiore della circoscrizione doganale, allorche' le operazioni ivi indicate si effettuino fra dogane appartenenti alla medesima circoscrizione.
 
 ## Decentramento di attribuzioni alle prefetture
 
@@ -183,7 +183,7 @@ TITOLO IV
 
 ### Art. 32.
 
-La facolta' di concedere il benestare di cui al primo comma dell'art. 94 del testo unico delle leggi sulla finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' devoluta al prefetto.
+La facolta' di concedere il benestare di cui al primo comma dell'art. 94 del testo unico delle leggi sulla finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' devoluta al prefetto.
 
 ### Art. 33.
 

@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
- Visto il [regio decreto 28 maggio 1936, n. 1326](../Regi%20decreti/Sostituzione%20della%20tabella%20organica%20della%20Regia%20scuola%20tecnica%20industriale%20di%20Gallipoli.%20036U1326.md), con il quale viene approvata la tabella organica della Scuola tecnica industriale di Gallipoli;
+ Visto il [regio decreto 28 maggio 1936, n. 1326](Sostituzione%20della%20tabella%20organica%20della%20Regia%20scuola%20tecnica%20industriale%20di%20Gallipoli.%20036U1326.md), con il quale viene approvata la tabella organica della Scuola tecnica industriale di Gallipoli;
  Visto l'[art. 10 del decreto legislativo Presidenziale 27 giugno 1946, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;107#art_10);
  Considerata l'opportunita' di trasformare per esigenze di servizio il posto di segretario economo incaricato previsto dalla suddetta tabella organica in posto di segretario economo di ruolo;
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;

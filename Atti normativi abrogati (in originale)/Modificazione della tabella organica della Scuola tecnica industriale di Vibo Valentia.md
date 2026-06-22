@@ -13,13 +13,13 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione media tecnica;
- Visto il [regio decreto 11 aprile 1940, n. 777](../Regi%20decreti/Modificazione%20alla%20pianta%20organica%20della%20Regia%20scuola%20tecnica%20Industriale%20di%20Vibo%20Valentia.%20040U0777.md), con il quale, dal 16 ottobre 1940, venne soppresso il posto di vice segretario incaricato presso la Scuola tecnica industriale di Vibo Valentia e venne istituito, in sua sostituzione, un posto di segretario economo incaricato;
+ Visto il [regio decreto 11 aprile 1940, n. 777](Modificazione%20alla%20pianta%20organica%20della%20Regia%20scuola%20tecnica%20Industriale%20di%20Vibo%20Valentia.%20040U0777.md), con il quale, dal 16 ottobre 1940, venne soppresso il posto di vice segretario incaricato presso la Scuola tecnica industriale di Vibo Valentia e venne istituito, in sua sostituzione, un posto di segretario economo incaricato;
  Considerata l'opportunita' di trasformare, per esigenze di servizio, il suddetto posto di segretario economo incaricato in posto di segretario economo di ruolo;
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;
 
  Decreta:
 
- A decorrere dal 1 ottobre 1947 il posto di segretario economo incaricato, previsto dal [regio decreto 11 aprile 1940, n. 777](../Regi%20decreti/Modificazione%20alla%20pianta%20organica%20della%20Regia%20scuola%20tecnica%20Industriale%20di%20Vibo%20Valentia.%20040U0777.md), relativo alla Scuola tecnica industriale di Vibo Valentia, e' trasformato in posto di segretario economo di ruolo.
+ A decorrere dal 1 ottobre 1947 il posto di segretario economo incaricato, previsto dal [regio decreto 11 aprile 1940, n. 777](Modificazione%20alla%20pianta%20organica%20della%20Regia%20scuola%20tecnica%20Industriale%20di%20Vibo%20Valentia.%20040U0777.md), relativo alla Scuola tecnica industriale di Vibo Valentia, e' trasformato in posto di segretario economo di ruolo.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

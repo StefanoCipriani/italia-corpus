@@ -16,7 +16,7 @@ RE D'ITALIA
 
 In virtu' dei poteri conferiti al Governo con la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
-Visto il Testo Unico delle Leggi sulle Pensioni Civili e Militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md) e successive disposizioni;
+Visto il Testo Unico delle Leggi sulle Pensioni Civili e Militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md) e successive disposizioni;
 
 Vista la [legge 23 giugno 1912 n. 667](Che%20istituisce%20pensioni%20privilegiate%20di%20guerra%20per%20gli%20ufficiali%20e%20militari%20di%20truppa%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0667.md) che istituisce pensioni privilegiate di guerra per gli ufficiali e militari di truppa del R.
 

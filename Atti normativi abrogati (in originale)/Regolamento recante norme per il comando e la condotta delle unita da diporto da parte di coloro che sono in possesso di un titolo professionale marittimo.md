@@ -16,7 +16,7 @@ Visti gli [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:leg
 
 Ritenuta la necessita' di stabilire i limiti entro i quali coloro che sono in possesso di un titolo professionale marittimo, sia per il traffico sia per la pesca, o per la navigazione interna, possono comandare o condurre imbarcazioni e navi da diporto;
 
-Visti gli [articoli 90](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [123](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [134 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visti gli [articoli 90](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [123](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [134 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Visti gli articoli 248, 249, 250, 252, 255 e 258 del regolamento
 
@@ -53,7 +53,7 @@ Coloro che sono in possesso di un titolo professionale marittimo o della navigaz
  8) pilota motorista della navigazione interna.
 
 AVVERTENZA:
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
 - Il testo degli [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971;50#art_19) e [20 della legge n. 50/1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971;50#art_20) e' il seguente:
 "Art. 19 (come modificato dall'[art. 16 della legge 26 aprile 1986, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-04-26;193#art_16), e dall'[art. 2 del D.L. 16 giugno 1994, n. 378](Modifiche%20alla%20legge%2011%20febbraio%201971%20n.%2050%20e%20successive%20modificazioni%20sulla%20nautica%20da%20diporto.md), convertito, con modificazioni, dalla [legge 8 agosto 1994, n. 498](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20giugno%201994%20n.%20378%20recante%20modifiche%20alla%20legge%2011%20febbraio%201971%20n.%2050%20e%20successive%20modificazioni%20sulla%20nautica%20da%20diporto.md)). - Al di fuori dei casi previsti dall'art. 18, non si possono comandare o condurre natanti o imbarcazioni dotati di motori aventi caratteristiche analoghe a quelle indicate al primo comma dell'art. 18 o navi da diporto senza aver conseguito la prescritta abilitazione.
@@ -71,7 +71,7 @@ Per il comando delle navi da diporto e per la condotta dei motori delle imbarcaz
 L'abilitazione per il comando delle imbarcazioni a vela e quella per il comando di imbarcazioni a motore possono essere conseguite, congiuntamente, qualora riguardino lo stesso tipo di navigazione, a seguito di un solo esame sostenuto sulla base dei programmi relativi alla vela e al motore.
 La composizione delle commissioni, nonche' i programmi e le modalita' di svolgimento degli esami per il conseguimento delle abilitazioni previste dalle lettere b) e d) del primo comma del presente articolo sono stabiliti dal Ministro della marina mercantile.
 I programmi e le modalita' di svolgimento degli esami per il conseguimento delle abilitazioni previste dalle lettere a) e c) del primo comma del presente articolo sono stabiliti dal Ministro della marina mercantile, di concerto con il Ministro dei trasporti".
-- Si riporta il testo degli [articoli 90](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [123](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [134 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
+- Si riporta il testo degli [articoli 90](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [123](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [134 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
 "Art. 90 (Licenze e registro dei piloti). - I piloti sono provvisti di una licenza rilasciata dal capo del compartimento e sono iscritti in uno speciale registro".
 "Art. 123 (Titoli professionali del personale marittimo). - Per i servizi di coperta i titoli professionali sono:
  a) capitano superiore di lungo corso;
@@ -110,7 +110,7 @@ I programmi e le modalita' di svolgimento degli esami per il conseguimento delle
  I requisiti per il conseguimento dei titoli, i limiti dell'abilitazione professionale propria a ciascun titolo e le modalita' del rilascio sono stabiliti dal regolamento.
  Il Ministro per le comunicazioni in relazione alle caratteristiche e alle esigenze dei trasporti, puo' determinare altre qualifiche relative all'esercizio della navigazione interna, stabilendo le condizioni e le modalita' per il conseguimento dei relativi titoli professionali.
  I limiti per le abilitazioni professionali del personale addetto ai servizi portuali sono stabiliti da leggi o regolamenti speciali".
- - Il testo degli articoli 248, 249, 250, 252, 255 e 258 del regolamento per la navigazione marittima, approvato con [D.P.R. 15 febbraio 1952, n. 328](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e' il seguente:
+ - Il testo degli articoli 248, 249, 250, 252, 255 e 258 del regolamento per la navigazione marittima, approvato con [D.P.R. 15 febbraio 1952, n. 328](../Codici/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e' il seguente:
  "Art. 248 (Capitano di lungo corso). - Il capitano di lungo corso puo' assumere il comando di navi di qualsiasi stazza e velocita' e per qualsiasi destinazione salvo quanto dispone il secondo comma del seguente articolo.
  Per conseguire il titolo di capitano di lungo corso occorrono i seguenti requisiti:
  1) avere compiuto i ventiquattro anni di eta';
@@ -146,7 +146,7 @@ I programmi e le modalita' di svolgimento degli esami per il conseguimento delle
 autorizzato al traffico e marinaio autorizzato alla pesca".
 "Art. 258 (Capo barca). - Il titolo di capo barca e' di
  tre specie: capo barca per il traffico nello Stato, capo barca per il traffico locale e capo barca per la pesca costiera".
- - Si trascrive il testo dell'art. 41 del regolamento per la navigazione interna, approvato con [D.P.R. 28 giugno 1949, n. 631](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20navigazione%20interna.md):
+ - Si trascrive il testo dell'art. 41 del regolamento per la navigazione interna, approvato con [D.P.R. 28 giugno 1949, n. 631](../DPR/Approvazione%20del%20regolamento%20per%20la%20navigazione%20interna.md):
  "Art. 41 (Matricole). - Le matricole nelle quali a termini dell'art. 132 del codice e' iscritto il personale navigante della navigazione interna, sono conformi al modello approvato dal Ministro per i trasporti.
  Per le tre categorie del personale navigante di cui all'art. 130 del codice le matricole sono tenute separatamente.
  Le matricole del personale navigante sono tenute dagli ispettorati di porto; le matricole della terza categoria sono tenute anche dalle delegazioni di approdo, dagli uffici comunali e da quelli consolari, autorizzati dal Ministro per i trasporti".
@@ -172,10 +172,10 @@ Nota all'art. 3:
 
 1.
 
-Coloro che sono iscritti nello speciale registro di cui all'[art. 90 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) possono conseguire, senza esami, le abilitazioni previste dall'[art. 20 della legge 11 febbraio 1971, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-02-11;50#art_20), nei limiti indicati dall'art. 1 e con le modalita' stabilite dal successivo art. 5.
+Coloro che sono iscritti nello speciale registro di cui all'[art. 90 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) possono conseguire, senza esami, le abilitazioni previste dall'[art. 20 della legge 11 febbraio 1971, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-02-11;50#art_20), nei limiti indicati dall'art. 1 e con le modalita' stabilite dal successivo art. 5.
 
 Note all'art. 4:
- - Per il testo dell'[art. 90 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si veda in nota alle premesse.
+ - Per il testo dell'[art. 90 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si veda in nota alle premesse.
  - Per il testo dell'[art. 20 della legge n. 50/1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971;50#art_20) si veda in nota alle premesse.
 
 ## Art. 5.

@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visti il [regio decreto in data 24 maggio 1932, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-05-24;112), e il [regio decreto in data 25 marzo 1937, n. 553](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-03-25;553), con i quali fu accordato il riconoscimento giuridico rispettivamente alla Associazione nazionale dei bieticoltori e dell'Ente seme bietole zuccherine, approvandosi anche i relativi statuti;
 
-Visto il [decreto luogotenenziale 21 giugno 1945, numero 377](../Decreti%20legislativi%20luogotenenziali/Ripartizione%20del%20Ministero%20dellindustria%20commercio%20e%20lavoro%20in%20due%20distinti%20Ministeri%20rispettivamente%20denominati%20Ministero%20dellindustria%20e%20commercio%20e%20Ministero%20del%20lavoro%20e%20previdenza%20so_9ea7713417c7.md), relativo all'istituzione del Ministero dell'industria e del commercio;
+Visto il [decreto luogotenenziale 21 giugno 1945, numero 377](Ripartizione%20del%20Ministero%20dellindustria%20commercio%20e%20lavoro%20in%20due%20distinti%20Ministeri%20rispettivamente%20denominati%20Ministero%20dellindustria%20e%20commercio%20e%20Ministero%20del%20lavoro%20e%20previdenza%20so_9ea7713417c7.md), relativo all'istituzione del Ministero dell'industria e del commercio;
 
 Considerata l'opportunita' di trasferire i predetti Enti ora dipendenti dal Ministero dell'industria e del commercio alla dipendenza del Ministero dell'agricoltura;
 

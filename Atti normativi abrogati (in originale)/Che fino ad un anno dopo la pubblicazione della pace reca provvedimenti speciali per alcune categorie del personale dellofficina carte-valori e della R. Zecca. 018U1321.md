@@ -22,7 +22,7 @@ Gli attuali computisti di ruolo e gli operai della R. zecca aventi mansioni di s
 
 ## Art. 4.
 
-Gli assistenti controllori, gli incisori e gli scrivani dell'Officina governativa delle carte valori nonche' gli operai della R. zecca, considerati nei precedenti articoli, sono ammessi al diritto a pensione stabilito dal testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
+Gli assistenti controllori, gli incisori e gli scrivani dell'Officina governativa delle carte valori nonche' gli operai della R. zecca, considerati nei precedenti articoli, sono ammessi al diritto a pensione stabilito dal testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
  
  Sono di conseguenza abrogate le disposizioni della [legge 7 luglio 1905, n. 354](Pensioni%20agli%20operai%20dellOfficina%20governativa%20delle%20carte-valori.%20005U0354.md), nei riguardi degli assistenti controllori, degli incisori e degli scrivani dell'officina. 
  

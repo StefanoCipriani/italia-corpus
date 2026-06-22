@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Visto il [regio decreto-legge 1 marzo 1937, n. 226](Modificazioni%20al%20regime%20fiscale%20dellalcool%20impiegato%20nella%20preparazione%20del%20marsala%20del%20vermut%20dei%20liquori%20del%20cognac%20e%20di%20altri%20prodotti%20alcoolici.%20037U0226.md), convertito, con modificazioni, nella [legge 17 giugno 1937, n. 1004](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%201%20marzo%201937-XV%20n.%20226%20che%20reca%20modificazioni%20al%20regime%20fiscale%20dellalcool%20impiegato%20nella%20preparazione%20del%20marsala%20del%20vermut%20_6eefba14dd1a.md);
+Visto il [regio decreto-legge 1 marzo 1937, n. 226](Modificazioni%20al%20regime%20fiscale%20dellalcool%20impiegato%20nella%20preparazione%20del%20marsala%20del%20vermut%20dei%20liquori%20del%20cognac%20e%20di%20altri%20prodotti%20alcoolici.%20037U0226.md), convertito, con modificazioni, nella [legge 17 giugno 1937, n. 1004](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%201%20marzo%201937-XV%20n.%20226%20che%20reca%20modificazioni%20al%20regime%20fiscale%20dellalcool%20impiegato%20nella%20preparazione%20del%20marsala%20del%20vermut%20_6eefba14dd1a.md);
 
 Visto l'[art. 14, secondo comma, del decreto-legge 16 settembre 1955, n. 836](Proroga%20e%20modifica%20del%20regime%20fiscale%20degli%20alcoli.md), convertito, con modificazioni, nella [legge 15 novembre 1955, n. 1037](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20settembre%201955%20n.%20836%20concernente%20proroga%20e%20modifica%20del%20regime%20fiscale%20degli%20alcoli.md);
 
@@ -31,7 +31,7 @@ Nella produzione per il consumo interno di bevande alcoliche con alcole gravato 
 
 NOTE
  AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico aprovato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico aprovato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  
  Nota al titolo:

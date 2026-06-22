@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 5 gennaio 1933, n. 30](Ordinamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U0030.md), sull'ordinamento dell'Azienda di Stato per le foreste demaniali;
 
-Visto il [R. decreto 5 ottobre 1933, n. 1577](../Regi%20decreti/Approvazione%20dello%20statuto-regolamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U1577.md), che approva lo statuto-regolamento per l'Azienda di Stato per le foreste demaniali;
+Visto il [R. decreto 5 ottobre 1933, n. 1577](Approvazione%20dello%20statuto-regolamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U1577.md), che approva lo statuto-regolamento per l'Azienda di Stato per le foreste demaniali;
 
 Vieto il [R. decreto-legge 6 dicembre 1943, n. 16/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-06;16):
 

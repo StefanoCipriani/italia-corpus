@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata e dei poteri conferiti al Governo dalla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Visto il [R. decreto 5 maggio 1916, n. 505](../Regi%20decreti/Riguardante%20lemissione%20di%20buoni%20del%20tesoro%20triennali%20e%20quinquennali.%20016U0505.md) che da' facolta' al ministro del tesoro di emettere buoni del tesoro con scadenza di 3 e 5 anni fruttanti l'interesse annuo del 5 %;
+Visto il [R. decreto 5 maggio 1916, n. 505](Riguardante%20lemissione%20di%20buoni%20del%20tesoro%20triennali%20e%20quinquennali.%20016U0505.md) che da' facolta' al ministro del tesoro di emettere buoni del tesoro con scadenza di 3 e 5 anni fruttanti l'interesse annuo del 5 %;
 
 Visto il [decreto Luogotenenziale 18 maggio 1916, n. 568](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-05-18;568), relativo alla emissione dei buoni ordinari del tesoro;
 

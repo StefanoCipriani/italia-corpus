@@ -32,7 +32,7 @@ Visto il [R. decreto 12 marzo 1920, n. 503](https://www.normattiva.it/uri-res/N2
 
 Visto il [R. decreto 9 maggio 1920, n. 665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-05-09;665);
 
-Visto il [R. decreto 20 gennaio 1921, n. 143](../Regi%20decreti/Che%20estende%20ai%20Comuni%20colpiti%20dal%20terremoto%20del%20settembre%201920%20le%20norme%20tecniche%20ed%20igieniche%20stabilite%20dal%20R.%20decreto%2029%20aprile%201915%20n.%20573%20relativamente%20alla%20riparazione%20ricostruzione%20e_26613d536810.md);
+Visto il [R. decreto 20 gennaio 1921, n. 143](Che%20estende%20ai%20Comuni%20colpiti%20dal%20terremoto%20del%20settembre%201920%20le%20norme%20tecniche%20ed%20igieniche%20stabilite%20dal%20R.%20decreto%2029%20aprile%201915%20n.%20573%20relativamente%20alla%20riparazione%20ricostruzione%20e_26613d536810.md);
 
 Visto il [R. decreto 16 novembre 1921, n. 1705](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-16;1705);
 
@@ -468,7 +468,7 @@ Nelle costruzioni, ricostruzioni e, possibilmente, nelle riparazioni organiche d
 
 ### Art. 43. — Edifici scolastici.
 
-Nella costruzione di edifici scolastici dovranno osservarsi, oltre le presenti norme, anche quelle tecniche ed igieniche approvate col [R. decreto 11 gennaio 1912, n. 12](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20regolamento%20per%20lapplicazione%20delle%20leggi%2015%20luglio%201906%20n.%20363%20e%204%20giugno%201911%20n.%20487%20nelle%20parli%20relative%20alle%20disposizioni%20per%20gli%20edifici%20scolastici.%20012U0012.md).
+Nella costruzione di edifici scolastici dovranno osservarsi, oltre le presenti norme, anche quelle tecniche ed igieniche approvate col [R. decreto 11 gennaio 1912, n. 12](Col%20quale%20viene%20approvato%20il%20regolamento%20per%20lapplicazione%20delle%20leggi%2015%20luglio%201906%20n.%20363%20e%204%20giugno%201911%20n.%20487%20nelle%20parli%20relative%20alle%20disposizioni%20per%20gli%20edifici%20scolastici.%20012U0012.md).
 
 ## Sanzioni - Azioni - Procedimenti.
 

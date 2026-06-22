@@ -18,9 +18,9 @@ VITTORIO EMANUELE III
  
  Visto l'art. 15 del testo unico della legge sull'emigrazione approvato con [R. decreto 15 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-15;2205); 
  
- Visto il [R. decreto 31 gennaio 1901, n. 36](../Regi%20decreti/Circa%20il%20rilascio%20dei%20passaporti%20per%20lestero.%20001U0036.md), portante norme per il rilascio dei passaporti; 
+ Visto il [R. decreto 31 gennaio 1901, n. 36](Circa%20il%20rilascio%20dei%20passaporti%20per%20lestero.%20001U0036.md), portante norme per il rilascio dei passaporti; 
  
- Visto il regolamento della legge sull'emigrazione approvato con [R. decreto 10 luglio 1901, n. 375](../Regi%20decreti/Che%20manda%20in%20vigore%20la%20legge%20n.%2023%20del%2031%20gennaio%201901%20sullemigrazione%20ed%20approva%20il%20relativo%20Regolamento.%20001U0375.md); 
+ Visto il regolamento della legge sull'emigrazione approvato con [R. decreto 10 luglio 1901, n. 375](Che%20manda%20in%20vigore%20la%20legge%20n.%2023%20del%2031%20gennaio%201901%20sullemigrazione%20ed%20approva%20il%20relativo%20Regolamento.%20001U0375.md); 
  
  Riconosciuta la impossibilita' materiale di avere per qualche tempo una sufficiente quantita' di libretti per passaporti da distribuirsi alle autorita' del Regno; 
  
@@ -32,7 +32,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Il Commissariato generale dell'emigrazione e' autorizzato, fino al 30 giugno 1920, a fornire alle Autorita' del Regno competenti i moduli necessari per il rilascio del passaporto per l'estero ai cittadini che sono considerati o si presumono emigranti, in deroga al modello stabilito dal [Regio decreto 31 gennaio 1901, numero 36](../Regi%20decreti/Circa%20il%20rilascio%20dei%20passaporti%20per%20lestero.%20001U0036.md). 
+ Il Commissariato generale dell'emigrazione e' autorizzato, fino al 30 giugno 1920, a fornire alle Autorita' del Regno competenti i moduli necessari per il rilascio del passaporto per l'estero ai cittadini che sono considerati o si presumono emigranti, in deroga al modello stabilito dal [Regio decreto 31 gennaio 1901, numero 36](Circa%20il%20rilascio%20dei%20passaporti%20per%20lestero.%20001U0036.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

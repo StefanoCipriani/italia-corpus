@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto il Nostro decreto 10 febbraio 1918, n. 107; 
  
- Visto il regolamento approvato con [R. decreto 25 febbraio 1915, n. 412](../Regi%20decreti/Che%20approva%20il%20nuovo%20regolamento%20relativo%20alle%20case%20economiche%20per%20i%20ferrovieri.%20015U0412.md); 
+ Visto il regolamento approvato con [R. decreto 25 febbraio 1915, n. 412](Che%20approva%20il%20nuovo%20regolamento%20relativo%20alle%20case%20economiche%20per%20i%20ferrovieri.%20015U0412.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -40,7 +40,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  a L. 5780 il limite massimo di stipendio o salario stabilito nel primo comma dell'art. 8 della legge 14 1uglio 1907, n. 553, modificato dall'[art. 10 del decreto-legge 13 agosto 1917, n. 1393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1917-08-13;1393#art_10); 
  
- a L. 4440, per quanto riguarda gli impiegati dello Stato, il limite massimo di stipendio stabilito nel secondo comma dell'art. 15 del regolamento approvato con [R. decreto 25 febbraio 1915, n. 412](../Regi%20decreti/Che%20approva%20il%20nuovo%20regolamento%20relativo%20alle%20case%20economiche%20per%20i%20ferrovieri.%20015U0412.md); 
+ a L. 4440, per quanto riguarda gli impiegati dello Stato, il limite massimo di stipendio stabilito nel secondo comma dell'art. 15 del regolamento approvato con [R. decreto 25 febbraio 1915, n. 412](Che%20approva%20il%20nuovo%20regolamento%20relativo%20alle%20case%20economiche%20per%20i%20ferrovieri.%20015U0412.md); 
  
  a L. 5780 e a L. 4440, rispettivamente, per quanto riguarda i ferrovieri in attivita' di servizio e gli altri impiegati dello Stato, il limite massimo di stipendio o paga stabilito nel secondo comma dell'art. 22 del regolamento anzidetto. 
  

@@ -77,7 +77,7 @@ I pagamenti gia' disposti nel corrente esercizio finanziario in conto residui, s
 
 ## Art. 10.
 
-La facolta' stabilita dall'[art. 5 del decreto legislativo luogotenenziale 21 agosto 1945, n. 524](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20un%20Ufficio%20amministrativo-contabile%20nel%20Nord%20Italia%20per%20il%20collegamento%20con%20le%20Amministrazioni%20centrali.%20045U0524.md), per l'emissione di ordini di accreditamento senza limiti di materia e di somma, per i pagamenti da effettuare nei territori di cui all'art. 1 del decreto medesimo, e' prorogata fino al 30 giugno 1947 per le aperture di credito da disporre ai fini della regolazione degli scoperti esistenti sulle contabilita' speciali istituite in applicazione dell'art. 9 dello stesso decreto.
+La facolta' stabilita dall'[art. 5 del decreto legislativo luogotenenziale 21 agosto 1945, n. 524](Istituzione%20di%20un%20Ufficio%20amministrativo-contabile%20nel%20Nord%20Italia%20per%20il%20collegamento%20con%20le%20Amministrazioni%20centrali.%20045U0524.md), per l'emissione di ordini di accreditamento senza limiti di materia e di somma, per i pagamenti da effettuare nei territori di cui all'art. 1 del decreto medesimo, e' prorogata fino al 30 giugno 1947 per le aperture di credito da disporre ai fini della regolazione degli scoperti esistenti sulle contabilita' speciali istituite in applicazione dell'art. 9 dello stesso decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque di osservarlo e di farlo osservare come legge dello Stato.
 

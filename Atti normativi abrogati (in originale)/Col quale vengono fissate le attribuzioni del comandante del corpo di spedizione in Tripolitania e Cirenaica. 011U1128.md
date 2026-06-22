@@ -32,7 +32,7 @@ Il comandante del corpo di spedizione avra' la suprema direzione di tutti i serv
 
 ## Art. 3.
 
-Nei territori dichiarati in istato di guerra, il comandante del corpo di spedizione ha gli attributi e le facolta' determinate per lo stato di guerra dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e dalle leggi e regolamenti del R. esercito.
+Nei territori dichiarati in istato di guerra, il comandante del corpo di spedizione ha gli attributi e le facolta' determinate per lo stato di guerra dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e dalle leggi e regolamenti del R. esercito.
 
 ## Art. 4.
 

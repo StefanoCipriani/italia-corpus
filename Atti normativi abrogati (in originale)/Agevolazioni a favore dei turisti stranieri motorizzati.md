@@ -133,7 +133,7 @@ I gestori di impianti di distribuzione automatica di carburante sono tenuti ad a
 
 2.
 
-In caso di inosservanza dell'obbligo di cui al precedente comma si applica la sanzione amministrativa da L. 50.000 a L. 500.000 salvo che il fatto costituisca reato punibile ai sensi del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+In caso di inosservanza dell'obbligo di cui al precedente comma si applica la sanzione amministrativa da L. 50.000 a L. 500.000 salvo che il fatto costituisca reato punibile ai sensi del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 6.
 

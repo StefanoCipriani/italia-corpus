@@ -329,7 +329,7 @@ La conferenza emette le proprie definitive determinazioni entro trenta giorni da
 
 9.
 
-Le opere approvate dal comitato di coordinamento sono dichiarate di preminente interesse nazionale, di pubblica utilita' e vengono realizzate secondo un piano di avanzamento coordinato. Si applicano gli [articoli 8](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md) e [9 del decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md). L'inosservanza dei termini previsti nei progetti comporta l'intervento sostitutivo del prefetto.
+Le opere approvate dal comitato di coordinamento sono dichiarate di preminente interesse nazionale, di pubblica utilita' e vengono realizzate secondo un piano di avanzamento coordinato. Si applicano gli [articoli 8](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md) e [9 del decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md). L'inosservanza dei termini previsti nei progetti comporta l'intervento sostitutivo del prefetto.
 
 10.
 

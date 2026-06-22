@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 9 luglio 1908, n. 406](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2031%20dicembre%201905%20n%20632%20per%20la%20concessione%20di%20carte%20di%20libera%20circolazione%20e%20di%20biglietti%20per%20un%20solo%20viaggio%20gratuito%20od%20a%20prezzo%20ridotto%20per%20talune%20ca_153a5f4f158f.md);
+Vista la [legge 9 luglio 1908, n. 406](Conversione%20in%20legge%20del%20R.%20decreto%2031%20dicembre%201905%20n%20632%20per%20la%20concessione%20di%20carte%20di%20libera%20circolazione%20e%20di%20biglietti%20per%20un%20solo%20viaggio%20gratuito%20od%20a%20prezzo%20ridotto%20per%20talune%20ca_153a5f4f158f.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro dei trasporti marittimi e ferroviari, di concerto co
 
 ## Art. 1.
 
-Il [primo comma dell'art. 4 della legge 9 luglio 1908, n. 406](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2031%20dicembre%201905%20n%20632%20per%20la%20concessione%20di%20carte%20di%20libera%20circolazione%20e%20di%20biglietti%20per%20un%20solo%20viaggio%20gratuito%20od%20a%20prezzo%20ridotto%20per%20talune%20ca_153a5f4f158f.md), e' modificato come segue: 
+Il [primo comma dell'art. 4 della legge 9 luglio 1908, n. 406](Conversione%20in%20legge%20del%20R.%20decreto%2031%20dicembre%201905%20n%20632%20per%20la%20concessione%20di%20carte%20di%20libera%20circolazione%20e%20di%20biglietti%20per%20un%20solo%20viaggio%20gratuito%20od%20a%20prezzo%20ridotto%20per%20talune%20ca_153a5f4f158f.md), e' modificato come segue: 
  
  «Ai giornalisti italiani ed ai corrispondenti residenti in Italia dei principali giornali esteri, che facciano del giornalismo la loro professione esclusiva, abituale e retribuita, potranno essere concessi annualmente dodici biglietti di andata e ritorno a tariffa militare col bollo ed un biglietto di andata e ritorno per la famiglia con le riduzioni di cui all'art. 6 della presente legge. 
  

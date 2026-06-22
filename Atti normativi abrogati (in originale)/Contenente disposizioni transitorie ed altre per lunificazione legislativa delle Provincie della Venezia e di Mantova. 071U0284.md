@@ -38,7 +38,7 @@ Coloro che secondo le leggi anteriori sono incorsi, indipendentemente da condann
 
 ### Art. 3.
 
-Fino alla promulgazione di un [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per tutte le provincie del Regno, le condanne alle pene di morte, dell'ergastolo, dei lavori forzati a vita, e del carcere duro a vita, pronunciate dopo l'attuazione del nuovo [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), traggono seco la perdita dei diritti politici, e della potesta' patria e maritale, e la interdizione legale del condannato. 
+Fino alla promulgazione di un [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per tutte le provincie del Regno, le condanne alle pene di morte, dell'ergastolo, dei lavori forzati a vita, e del carcere duro a vita, pronunciate dopo l'attuazione del nuovo [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), traggono seco la perdita dei diritti politici, e della potesta' patria e maritale, e la interdizione legale del condannato. 
  
  L'interdizione legale toglie al condannato la capacita' di amministrare i suoi beni, di alienarli, ipotecarli, o disporne altrimenti che per testamento. Al condannato interdetto legalmente e' nominato un tutore per rappresentarlo ed amministrare i suoi beni nel modo stabilito dal nuovo codice per gli interdetti giudizialmente. Le disposizioni riguardanti i beni degli interdetti giudizialmente sono applicabili ai beni del condannato interdetto legalmente: a questo non puo' essere assegnato che un tenue sussidio a titolo di alimenti. 
  
@@ -627,7 +627,7 @@ Le cause penali, pendenti ai 1º settembre 1871 davanti le preture ed i tribunal
 
 ### Art. 93.
 
-L'istruzione delle cause penali, incominciata prima dell'attuazione del nuovo [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), nelle quali non sia stato per anco pronunciato il decreto di aprimento di speciale inquisizione ([cod. pen.](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 1803), o il conchiuso di accusa (reg. di proc. pen. 1853), sara' proseguita e condotta a termine in conformita' del nuovo codice. 
+L'istruzione delle cause penali, incominciata prima dell'attuazione del nuovo [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), nelle quali non sia stato per anco pronunciato il decreto di aprimento di speciale inquisizione ([cod. pen.](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 1803), o il conchiuso di accusa (reg. di proc. pen. 1853), sara' proseguita e condotta a termine in conformita' del nuovo codice. 
  
  Entro dieci giorni dall'attuazione delle nuove leggi, le cause nelle quali l'imputato si trovi detenuto saranno riferite alla camera di consiglio, perche' deliberi sulla legittimazione dell'arresto, a norma di quanto e' prescritto nell'[articolo 199 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_199); salvi, del resto, gli effetti degli articoli 205 e seguenti relativi alla liberta' provvisoria.
 
@@ -639,13 +639,13 @@ Le cause penali, nelle quali gia' si trovi pronunciato il decreto di aprimento d
 
 ### Art. 95.
 
-Per determinare la competenza secondo gli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_9), [10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_10), [11 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_11), salvi gli effetti dell'articolo 3 del nuovo [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), devono considerarsi come corrispondenti: 
+Per determinare la competenza secondo gli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_9), [10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_10), [11 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_11), salvi gli effetti dell'articolo 3 del nuovo [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), devono considerarsi come corrispondenti: 
  
- a) Ai crimini, i reati che secondo il [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 27 maggio 1852 sono punibili colla morte e col carcere duro; 
+ a) Ai crimini, i reati che secondo il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 27 maggio 1852 sono punibili colla morte e col carcere duro; 
  
- b) Ai delitti di competenza dei tribunali correzionali, i reati che secondo il detto [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 1852, od altre leggi anteriori al 1° settembre 1871, sono punibili col carcere semplice superiore a tre mesi, o coll'arresto semplice o rigoroso superiore a tre mesi, o con multa superiore a lire trecento, o colla confisca di generi di un valore superiore a lire trecento inflitta come pena principale; 
+ b) Ai delitti di competenza dei tribunali correzionali, i reati che secondo il detto [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 1852, od altre leggi anteriori al 1° settembre 1871, sono punibili col carcere semplice superiore a tre mesi, o coll'arresto semplice o rigoroso superiore a tre mesi, o con multa superiore a lire trecento, o colla confisca di generi di un valore superiore a lire trecento inflitta come pena principale; 
  
- c) Ai delitti ed alle contravvenzioni di competenza dei pretori, tutti gli altri reati che secondo il detto [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 1852, o le altre leggi anteriori al 1º settembre 1871, sono punibili con una pena inferiore o diversa da quelle indicate nella precedente lettera b.
+ c) Ai delitti ed alle contravvenzioni di competenza dei pretori, tutti gli altri reati che secondo il detto [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 1852, o le altre leggi anteriori al 1º settembre 1871, sono punibili con una pena inferiore o diversa da quelle indicate nella precedente lettera b.
 
 ### Art. 96.
 

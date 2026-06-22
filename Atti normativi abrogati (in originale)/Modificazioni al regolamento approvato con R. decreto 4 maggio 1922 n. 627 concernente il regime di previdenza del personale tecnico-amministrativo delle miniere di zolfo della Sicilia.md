@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sono approvate le seguenti modifiche al regolamento di cui al [R. decreto 4 maggio 1922, n. 627](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20il%20regime%20di%20previdenza%20del%20personale%20tecnico-amministrativo%20delle%20miniere%20di%20zolfo%20della%20Sicilia.%20022U0627.md), concernente il regime di previdenza del personale tecnico amministrativo delle miniere di zolfo della sicilia:
+Sono approvate le seguenti modifiche al regolamento di cui al [R. decreto 4 maggio 1922, n. 627](Che%20approva%20il%20regolamento%20per%20il%20regime%20di%20previdenza%20del%20personale%20tecnico-amministrativo%20delle%20miniere%20di%20zolfo%20della%20Sicilia.%20022U0627.md), concernente il regime di previdenza del personale tecnico amministrativo delle miniere di zolfo della sicilia:
  I. - Il secondo ed il terzo capoverso dell'art. 2 sono modificati come segue:
  "2) dal direttore della sede provinciale di Caltanissetta dell'Istituto nazionale infortuni;
  "3) da un rappresentante dell'Ente zolfi siciliani".
@@ -38,17 +38,17 @@ Sono approvate le seguenti modifiche al regolamento di cui al [R. decreto 4 magg
 
 ## Art. 2.
 
-Per tutti coloro che alla data del 1° gennaio 1941 risultavano ammessi al trattamento di previdenza di cui al regolamento approvato con [R. decreto 4 maggio 1922, n. 627](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20il%20regime%20di%20previdenza%20del%20personale%20tecnico-amministrativo%20delle%20miniere%20di%20zolfo%20della%20Sicilia.%20022U0627.md), e per i gia' pensionati, sempreche' abbiano rivestito la qualifica di impiegati tecnici e amministrativi delle miniere di zolfo fino all'atto del pensionamento, i contratti di assicurazione in corso verranno trasformati con effetto dalla data medesima.
+Per tutti coloro che alla data del 1° gennaio 1941 risultavano ammessi al trattamento di previdenza di cui al regolamento approvato con [R. decreto 4 maggio 1922, n. 627](Che%20approva%20il%20regolamento%20per%20il%20regime%20di%20previdenza%20del%20personale%20tecnico-amministrativo%20delle%20miniere%20di%20zolfo%20della%20Sicilia.%20022U0627.md), e per i gia' pensionati, sempreche' abbiano rivestito la qualifica di impiegati tecnici e amministrativi delle miniere di zolfo fino all'atto del pensionamento, i contratti di assicurazione in corso verranno trasformati con effetto dalla data medesima.
  La forma d'assicurazione sara' quella di cui all'articolo 4 del regolamento stesso nel testo modificato dal presente decreto per tutti coloro che al 31 dicembre 1940 non risultavano entrati in godimento della rendita; per i gia' pensionati a tale data, invece, il capi tale alla morte sara' commisurato a 4, 3, 2, 1, annualita' di rendita secondo che l'entrata in godimento della rendita sia avvenuta rispettivamente nel 1940, nel 1939, nel 1938, ovvero negli anni 1937 e precedenti.
- I nuovi importi delle rendite vitalizie saranno stabiliti in base ai rapporti fissati negli articoli 5 e 10 del regolamento approvato con [R. decreto 4 maggio 1922, n. 627](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20il%20regime%20di%20previdenza%20del%20personale%20tecnico-amministrativo%20delle%20miniere%20di%20zolfo%20della%20Sicilia.%20022U0627.md).
+ I nuovi importi delle rendite vitalizie saranno stabiliti in base ai rapporti fissati negli articoli 5 e 10 del regolamento approvato con [R. decreto 4 maggio 1922, n. 627](Che%20approva%20il%20regolamento%20per%20il%20regime%20di%20previdenza%20del%20personale%20tecnico-amministrativo%20delle%20miniere%20di%20zolfo%20della%20Sicilia.%20022U0627.md).
  L'ammontare delle rendite sara' determinato:
  1) in base a un premio annuo complessivo iniziale pari ai tre quarti del contribuito medio annuo versato all'Istituto nazionale delle assicurazioni durante il triennio 1938-1940, in base al [R. decreto-legge 27 marzo 1933, n. 299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-27;299);
- 2) in base ad un premio unico pari ai tre quarti del fondo di riserva accantonato presso l'istituto nazionale delle assicurazioni al 31 dicembre 1940, in conformita' del penultimo capoverso dell'art. 8 del regolamento approvato con [R. decreto 4 maggio 1922, n. 627](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20il%20regime%20di%20previdenza%20del%20personale%20tecnico-amministrativo%20delle%20miniere%20di%20zolfo%20della%20Sicilia.%20022U0627.md).
+ 2) in base ad un premio unico pari ai tre quarti del fondo di riserva accantonato presso l'istituto nazionale delle assicurazioni al 31 dicembre 1940, in conformita' del penultimo capoverso dell'art. 8 del regolamento approvato con [R. decreto 4 maggio 1922, n. 627](Che%20approva%20il%20regolamento%20per%20il%20regime%20di%20previdenza%20del%20personale%20tecnico-amministrativo%20delle%20miniere%20di%20zolfo%20della%20Sicilia.%20022U0627.md).
  Le polizze di assicurazione emesse in esecuzione del presente decreto dovranno rimanere depositate presso la Commissione di cui all'art. 2 del regolamento succitato e non potranno essere consegnate ai titolari se non in seguito a deliberazione della Commissione stessa.
 
 ## Art. 3.
 
-E' abrogato l'art. 11 del regolamento approvato con [R. decreto 4 maggio 1922, n. 627](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20il%20regime%20di%20previdenza%20del%20personale%20tecnico-amministrativo%20delle%20miniere%20di%20zolfo%20della%20Sicilia.%20022U0627.md).
+E' abrogato l'art. 11 del regolamento approvato con [R. decreto 4 maggio 1922, n. 627](Che%20approva%20il%20regolamento%20per%20il%20regime%20di%20previdenza%20del%20personale%20tecnico-amministrativo%20delle%20miniere%20di%20zolfo%20della%20Sicilia.%20022U0627.md).
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
 

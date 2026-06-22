@@ -26,7 +26,7 @@ Gli «ufficiali macchinisti» della Regia marina assumono la denominazione di «
 
 ## Art. 2.
 
-L'[art. 1 della legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md), abrogato e sostituito dall'[art. 1 del R. decreto 10 settembre 1923, n. 2068](../Regi%20decreti/Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md), e' modificato come segue: 
+L'[art. 1 della legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md), abrogato e sostituito dall'[art. 1 del R. decreto 10 settembre 1923, n. 2068](Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md), e' modificato come segue: 
  
  «Sono corpi militari della Regia marina: 
  
@@ -52,7 +52,7 @@ L'[art. 1 della legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%2
 
 ## Art. 3.
 
-Per effetto delle disposizioni di cui all'art. 2 lettere a) e b) rimane altresi' modificata la tabella A annessa alla [legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md), modificata dal [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), restando pero' ferme per il corpo degli ufficiali per la direzione delle macchine, l'attuale composizione gerarchica e la corrispondenza dei gradi con gli altri corpi militari della Regia marina.
+Per effetto delle disposizioni di cui all'art. 2 lettere a) e b) rimane altresi' modificata la tabella A annessa alla [legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md), modificata dal [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), restando pero' ferme per il corpo degli ufficiali per la direzione delle macchine, l'attuale composizione gerarchica e la corrispondenza dei gradi con gli altri corpi militari della Regia marina.
 
 ## Art. 4.
 
@@ -62,7 +62,7 @@ Il [2º comma dell'art. 11 della legge 29 giugno 1913, n. 797](Riguardante%20lor
 
 ## Art. 5.
 
-Le disposizioni di cui agli articoli precedenti saranno comprese nel testo unico delle disposizioni legislative riguardanti l'ordinamento dei corpi militari della Regia marina autorizzato con il [R. decreto 30 dicembre 1923, n. 2991](../Regi%20decreti/Compilazione%20e%20pubblicazione%20di%20testi%20unici%20coordinati%20riguardanti%20i%20personali%20e%20i%20servizi%20della%20Regia%20marina.%20023U2991.md). 
+Le disposizioni di cui agli articoli precedenti saranno comprese nel testo unico delle disposizioni legislative riguardanti l'ordinamento dei corpi militari della Regia marina autorizzato con il [R. decreto 30 dicembre 1923, n. 2991](Compilazione%20e%20pubblicazione%20di%20testi%20unici%20coordinati%20riguardanti%20i%20personali%20e%20i%20servizi%20della%20Regia%20marina.%20023U2991.md). 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge e andra' in vigore dal giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

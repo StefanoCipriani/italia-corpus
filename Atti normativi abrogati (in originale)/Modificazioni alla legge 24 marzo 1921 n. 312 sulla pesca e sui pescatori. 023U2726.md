@@ -18,7 +18,7 @@ Vista la [legge 24 marzo 1921, n. 312](Che%20reca%20provvedimenti%20in%20favore%
 
 Visti i [Regi decreti-legge 16 ottobre 1921, n. 1604](Che%20proroga%20di%20un%20anno%20i%20termini%20di%20cui%20allart.%2042%20della%20legge%2024%20marzo%201921%20n.%20312%20per%20la%20compilazione%20del%20testo%20unico%20dalle%20leggi%20sulla%20pesca%20e%20dei%20regolamenti%20relativi.%20021U1604.md), [25 aprile 1922, n. 557](Che%20proroga%20il%20termine%20stabilito%20dagli%20articoli%2016%20e%2022%20della%20legge%2024%20marzo%201921%20n.%20312%20per%20la%20revisione%20dei%20decreti%20di%20riconoscimento%20del%20possesso%20dei%20diritti%20esclusivi%20di%20pesca.%20022U0557.md), e [7 giugno 1923, n. 1450](Proroga%20dei%20termini%20stabiliti%20dagli%20articoli%2016%20e%2022%20della%20legge%2024%20marzo%201921%20n.%20312%20per%20la%20revisione%20dei%20decreti%20di%20riconoscimento%20del%20possesso%20dei%20diritti%20esclusivi%20di%20pesca%20e%20dallarti_c889c74563a4.md);
 
-Visto il [R. decreto 11 gennaio 1923, n. 25](../Regi%20decreti/Col%20quale%20si%20provvede%20nei%20riguardi%20delle%20funzioni%20consultive%20del%20Ministero%20per%20lagricoltura.%20023U0025.md);
+Visto il [R. decreto 11 gennaio 1923, n. 25](Col%20quale%20si%20provvede%20nei%20riguardi%20delle%20funzioni%20consultive%20del%20Ministero%20per%20lagricoltura.%20023U0025.md);
 
 Udito il Consiglio dei Ministri;
 

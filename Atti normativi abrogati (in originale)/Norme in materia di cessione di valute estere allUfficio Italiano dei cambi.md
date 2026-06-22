@@ -16,9 +16,9 @@ Visto il decreto Ministeriale 8 dicembre 1934, pubblicato nella Gazzetta Ufficia
 
 Visto il decreto Ministeriale 14 luglio 1943, pubblicato nella Gazzetta Ufficiale del 22 luglio 1943, n. 168, relativo alla cessione obbligatoria della valuta estera;
 
-Visto il [decreto legislativo luogotenenziale 17 maggio 1945, n. 331](../Decreti%20legislativi%20luogotenenziali/Costituzione%20dellUfficio%20italiano%20dei%20cambi%20e%20passaggio%20a%20questultimo%20delle%20funzioni%20dellistituto%20nazionale%20per%20i%20cambi%20con%20lestero.%20045U0331.md), concernente la costituzione dell'Ufficio italiano dei cambi;
+Visto il [decreto legislativo luogotenenziale 17 maggio 1945, n. 331](Costituzione%20dellUfficio%20italiano%20dei%20cambi%20e%20passaggio%20a%20questultimo%20delle%20funzioni%20dellistituto%20nazionale%20per%20i%20cambi%20con%20lestero.%20045U0331.md), concernente la costituzione dell'Ufficio italiano dei cambi;
 
-Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 139](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md), concernente nuove norme sulla cessione delle valute estere allo Stato;
+Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 139](Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md), concernente nuove norme sulla cessione delle valute estere allo Stato;
 
 Visto il decreto Ministeriale 20 agosto 1946, pubblicato nella Gazzetta Ufficiale del 31 agosto 1946, n. 196, relativo alle agevolazioni valutarie ad armatori e noleggiatori italiani di navi mercantili circa la cessione della valuta proveniente dai noli ricavati dall'esercizio della navigazione;
 
@@ -34,12 +34,12 @@ Sulla proposta del Ministro per il tesoro e del Ministro per il commercio con l'
 
 ## Art. 1.
 
-L'Ufficio italiano dei cambi acquista il cinquanta per cento delle valute estere che accetta in cessione in rapporto al prezzo delle merci esportate, al cambio in lire italiane risultante dalla media mensile delle quotazioni di ciascuna valuta risultanti dalle libere negoziazioni previste dal punto 2 dell'[art. 1 del decreto legislativo luogotenenziale 26 marzo 1946, n. 139](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md).
+L'Ufficio italiano dei cambi acquista il cinquanta per cento delle valute estere che accetta in cessione in rapporto al prezzo delle merci esportate, al cambio in lire italiane risultante dalla media mensile delle quotazioni di ciascuna valuta risultanti dalle libere negoziazioni previste dal punto 2 dell'[art. 1 del decreto legislativo luogotenenziale 26 marzo 1946, n. 139](Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md).
 
 ## Art. 2.
 
-La media mensile prevista nell'articolo precedente e' determinata dall'Ufficio italiano dei cambi l'ultimo giorno di ogni mese ed e' valevole per tutto il mese successivo. Essa e' calcolata, per ciascuna delle valute estere negoziate ai sensi del [decreto legislativo luogotenenziale 26 marzo 1946, n. 139](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md), sulla base delle quotazioni giornaliere di chiusura verificatesi durante il mese presso le Borse di Roma e di Milano.
- Dal calcolo delle medie sono escluse, per il dollaro degli Stati Uniti d'America, le quotazioni di chiusura inferiori a lire trecentocinquanta o superiori a lire seicentocinquanta e, per le altre valute negoziate ai sensi del predetto [decreto legislativo luogotenenziale 26 marzo 1946, n. 139](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md), le quotazioni di chiusura che, in rapporto alle parita' ufficiali esistenti tra il dollaro degli Stati Uniti d'America e le valute in questione, risultino inferiori o superiori agli importi precedentemente indicati per il dollaro.
+La media mensile prevista nell'articolo precedente e' determinata dall'Ufficio italiano dei cambi l'ultimo giorno di ogni mese ed e' valevole per tutto il mese successivo. Essa e' calcolata, per ciascuna delle valute estere negoziate ai sensi del [decreto legislativo luogotenenziale 26 marzo 1946, n. 139](Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md), sulla base delle quotazioni giornaliere di chiusura verificatesi durante il mese presso le Borse di Roma e di Milano.
+ Dal calcolo delle medie sono escluse, per il dollaro degli Stati Uniti d'America, le quotazioni di chiusura inferiori a lire trecentocinquanta o superiori a lire seicentocinquanta e, per le altre valute negoziate ai sensi del predetto [decreto legislativo luogotenenziale 26 marzo 1946, n. 139](Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md), le quotazioni di chiusura che, in rapporto alle parita' ufficiali esistenti tra il dollaro degli Stati Uniti d'America e le valute in questione, risultino inferiori o superiori agli importi precedentemente indicati per il dollaro.
  Per le divise estere non quotate presso le Borse di Roma e di Milano ed accettate in cessione dall'Ufficio italiano dei cambi, il computo delle medie delle valute stesse e' fatto tenendo conto della parita' ufficiale stabilita tra le valute in questione ed il dollaro degli Stati Uniti di America e della media di quest'ultima moneta calcolata in conformita' ai precedenti comma del presente articolo.
 Per le valute dell'area della sterlina, si fa riferimento alla sterlina.
  I cambi medi cosi' fissati sono pubblicati nella Gazzetta Ufficiale della Repubblica, all'inizio di ogni mese.
@@ -55,17 +55,17 @@ Il presente decreto si applica anche al cinquanta per cento delle valute estere 
 
 ## Art. 5.
 
-I cambi medi fissati in conformita' a quanto previsto al precedente art. 2 si applicano, con lo scarto del venti per cento, anche all'acquisto da parte dell'Ufficio italiano dei cambi delle valute estere che, trascorso il termine stabilito dal Ministero del commercio con l'estero, devono essere offerte in cessione all'Ufficio stesso ai sensi del [quarto comma dell'art. 1 del decreto legislativo luogotenenziale 26 marzo 1946, n. 139](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md).
+I cambi medi fissati in conformita' a quanto previsto al precedente art. 2 si applicano, con lo scarto del venti per cento, anche all'acquisto da parte dell'Ufficio italiano dei cambi delle valute estere che, trascorso il termine stabilito dal Ministero del commercio con l'estero, devono essere offerte in cessione all'Ufficio stesso ai sensi del [quarto comma dell'art. 1 del decreto legislativo luogotenenziale 26 marzo 1946, n. 139](Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md).
 
 ## Art. 6.
 
 L'Ufficio italiano dei cambi non puo', in nessun caso, fare cessioni di valute estere a cambi inferiori a quelli medi fissati in applicazione dei precedente art. 2.
- L'Ufficio italiano dei cambi non puo' del pari, in nessun caso, mettere a disposizione di coloro che cedono divise estere, in conti presso la Banca d'Italia o presso una delle banche autorizzate a fungere da agenzie di quest'ultima, aliquote di divise estere superiori alla percentuale del cinquanta per cento fissata dal [decreto legislativo luogotenenziale 26 marzo 1946, n. 139](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md), dal decreto Ministeriale 20 agosto 1946 e dal decreto Ministeriale 20 gennaio 1947.
+ L'Ufficio italiano dei cambi non puo' del pari, in nessun caso, mettere a disposizione di coloro che cedono divise estere, in conti presso la Banca d'Italia o presso una delle banche autorizzate a fungere da agenzie di quest'ultima, aliquote di divise estere superiori alla percentuale del cinquanta per cento fissata dal [decreto legislativo luogotenenziale 26 marzo 1946, n. 139](Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md), dal decreto Ministeriale 20 agosto 1946 e dal decreto Ministeriale 20 gennaio 1947.
 
 ## Art. 7.
 
 Nel caso di contratti tra ditte in Italia e ditte all'estero, regolarmente approvati dai Ministero del commercio con l'estero, che prevedono la fornitura da parte delle ditte all'estero di materie prime da importare in Italia per la trasformazione in prodotti lavorati o semilavorati da esportare all'estero, il compenso dovuto alle ditte in Italia, per tali lavorazioni per conto dell'estero, deve essere fissato sotto forma di pagamento di un determinato importo espresso in una delle valute estere che sono accettate in cessione dall'Ufficio italiano dei cambi.
- Tale importo deve essere interamente ceduto all'Ufficio italiano dei cambi, sino a concorrenza del 50% del valore del prodotto esportato; la quota eventualmente eccedente potra' invece essere accreditata in uno dei conti previsti dal [decreto legislativo luogotenenziale 26 marzo 1946, n. 139](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md).
+ Tale importo deve essere interamente ceduto all'Ufficio italiano dei cambi, sino a concorrenza del 50% del valore del prodotto esportato; la quota eventualmente eccedente potra' invece essere accreditata in uno dei conti previsti dal [decreto legislativo luogotenenziale 26 marzo 1946, n. 139](Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md).
 
 ## Art. 8.
 

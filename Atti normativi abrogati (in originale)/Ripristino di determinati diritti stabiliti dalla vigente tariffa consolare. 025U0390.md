@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 10 agosto 1890, n. 7086](Che%20autorizza%20il%20governo%20del%20Re%20a%20pubblicare%20e%20far%20osservare%20una%20nuova%20tariffa%20di%20diritti%20da%20percepirsi%20dai%20regi%20uffici%20diplomatici%20e%20consolari%20come%20dallannessa%20tabella.%20090U7086.md) (serie 3ª);
 
-Visto il [R. decreto 10 agosto 1890, n. 7087](../Regi%20decreti/Che%20determina%20i%20diritti%20da%20riscuotersi%20nei%20regi%20uffici%20diplomatici%20e%20consolari%20allestero%20secondo%20lannessa%20tabella.%20090U7087.md) (serie 3ª), l'[articolo 7 della, legge 13 giugno 1910, n. 306](Per%20le%20convenzioni%20provvisorie%20e%20definitive%20pei%20servizi%20postali%20e%20commerciali%20marittimi%20ed%20altri%20provvedimenti%20a%20favore%20delle%20industrie%20marittime.%20010U0306.md), e il [R. decreto-legge 2 ottobre 1919, n. 1908](Che%20modifica%20la%20tariffa%20consolare.%20019U1908.md);
+Visto il [R. decreto 10 agosto 1890, n. 7087](Che%20determina%20i%20diritti%20da%20riscuotersi%20nei%20regi%20uffici%20diplomatici%20e%20consolari%20allestero%20secondo%20lannessa%20tabella.%20090U7087.md) (serie 3ª), l'[articolo 7 della, legge 13 giugno 1910, n. 306](Per%20le%20convenzioni%20provvisorie%20e%20definitive%20pei%20servizi%20postali%20e%20commerciali%20marittimi%20ed%20altri%20provvedimenti%20a%20favore%20delle%20industrie%20marittime.%20010U0306.md), e il [R. decreto-legge 2 ottobre 1919, n. 1908](Che%20modifica%20la%20tariffa%20consolare.%20019U1908.md);
 
 Sentito il Consiglio dei Ministri;
 

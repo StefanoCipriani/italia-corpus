@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 30 agosto 1919, n. 1712](Che%20istituisce%20una%20azi
 
 Visto il [R. decreto-legge 29 luglio 1920, n. 1136](Modifica%20dellart.%203%20di%20quello%2030%20agosto%201919%20n.%201712%20relativo%20alla%20istituzione%20dellAzienda%20autonoma%20per%20il%20porto%20di%20Venezia.%20020U1136.md);
 
-Visto il [R. decreto 29 luglio 1920, n. 1149](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20il%20funzionamento%20del%20Provveditorato%20al%20porto%20di%20Venezia%20istituito%20con%20decreto-legge%2030%20agosto%201919%20n.%201712.%20020U1149.md);
+Visto il [R. decreto 29 luglio 1920, n. 1149](Che%20approva%20il%20regolamento%20per%20il%20funzionamento%20del%20Provveditorato%20al%20porto%20di%20Venezia%20istituito%20con%20decreto-legge%2030%20agosto%201919%20n.%201712.%20020U1149.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -32,11 +32,11 @@ Lo Stato concorre per 5 anni, a datare dal 1° luglio 1925, alle spese occorrent
  
  Per la parte delle spese non coperta dalla predetta assegnazione si provvede con gli introiti diretti o indiretti dell'esercizio. 
  
- Resta fermo quanto e' stabilito dall'art. 22 del regolamento approvato con [R. decreto 29 luglio 1920, n. 1149](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20il%20funzionamento%20del%20Provveditorato%20al%20porto%20di%20Venezia%20istituito%20con%20decreto-legge%2030%20agosto%201919%20n.%201712.%20020U1149.md), per quanto riguarda il rimborso delle anticipazioni fatte in forza del [R. decreto-legge 30 agosto 1919, n. 1712](Che%20istituisce%20una%20azienda%20autonoma%20per%20lesercizio%20del%20porto%20di%20Venezia%20sotto%20la%20denominazione%20di%20Provveditorato%20al%20porto%20determinandone%20lordinamento.%20019U1712.md), la costituzione di un fondo di riserva e l'impiego degli ulteriori utili netti.
+ Resta fermo quanto e' stabilito dall'art. 22 del regolamento approvato con [R. decreto 29 luglio 1920, n. 1149](Che%20approva%20il%20regolamento%20per%20il%20funzionamento%20del%20Provveditorato%20al%20porto%20di%20Venezia%20istituito%20con%20decreto-legge%2030%20agosto%201919%20n.%201712.%20020U1149.md), per quanto riguarda il rimborso delle anticipazioni fatte in forza del [R. decreto-legge 30 agosto 1919, n. 1712](Che%20istituisce%20una%20azienda%20autonoma%20per%20lesercizio%20del%20porto%20di%20Venezia%20sotto%20la%20denominazione%20di%20Provveditorato%20al%20porto%20determinandone%20lordinamento.%20019U1712.md), la costituzione di un fondo di riserva e l'impiego degli ulteriori utili netti.
 
 ## Art. 2.
 
-Il Provveditorato al porto, in deroga a quanto prescrive il regolamento approvato con [R. decreto 29 luglio 1920, n. 1149](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20il%20funzionamento%20del%20Provveditorato%20al%20porto%20di%20Venezia%20istituito%20con%20decreto-legge%2030%20agosto%201919%20n.%201712.%20020U1149.md), ha facolta' di disciplinare l'andamento contabile dell'Azienda con norme speciali, che, rispondendo al carattere commerciale dell'Istituto, garentiscono il regolare funzionamento amministrativo. 
+Il Provveditorato al porto, in deroga a quanto prescrive il regolamento approvato con [R. decreto 29 luglio 1920, n. 1149](Che%20approva%20il%20regolamento%20per%20il%20funzionamento%20del%20Provveditorato%20al%20porto%20di%20Venezia%20istituito%20con%20decreto-legge%2030%20agosto%201919%20n.%201712.%20020U1149.md), ha facolta' di disciplinare l'andamento contabile dell'Azienda con norme speciali, che, rispondendo al carattere commerciale dell'Istituto, garentiscono il regolare funzionamento amministrativo. 
  
  Tali norme dovranno essere preventivamente approvate dal Ministro per le comunicazioni, sentito il Ministro per le finanze.
 

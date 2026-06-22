@@ -58,7 +58,7 @@ Le classi sono chiamate alla leva nell'anno in cui i giovani che vi appartengono
 
 ### Art. 5. — (Art. 5 testo unico 24 dicembre 1911).
 
-Sono esclusi dal servizio militare e non possono far parte del Regio esercito i condannati, in applicazione del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune, alla pena dell'ergastolo o alla pena della reclusione che abbia per effetto o alla quale sia aggiunta l'interdizione perpetua dai pubblici uffici. 
+Sono esclusi dal servizio militare e non possono far parte del Regio esercito i condannati, in applicazione del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune, alla pena dell'ergastolo o alla pena della reclusione che abbia per effetto o alla quale sia aggiunta l'interdizione perpetua dai pubblici uffici. 
  
  I condannati da giudici stranieri a pene che corrispondano a quelle suindicate e per gli stessi reati ai quali stesse pene sono applicabili secondo le leggi del Regno, possono essere esclusi dal far parte del Regio esercito per decisione del Ministro per la guerra. 
  
@@ -1031,7 +1031,7 @@ CAPO XII.
  
  3° gli inscritti ce abbiano simulato infermita' od imperfezioni al fine di conseguire la riforma; 
  
- 4° i militari che,a termini del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, siano incorsi nel reato di diserzione.
+ 4° i militari che,a termini del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, siano incorsi nel reato di diserzione.
 
 ### Art. 150.
 
@@ -1133,13 +1133,13 @@ CAPO XII.
 
 (Art. 149 testo unic 24 dicembre 1911). 
  
- Ogni pubblico ufficile che sotto qualsiasi pretesto abbia autorizzato od ammesso iscrizioni alla ferma riducibile o alla ferma minima, riforme od esclusioni in opposizione al disposto della legge, ovvero abbia data arbitraria estensione sia alla durata, sia alle regole e condizioni della chiamata alla leva e degli arruolamenti volontari, e' punito come reo di abuso di autorita' colle pene previste dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle maggiori pene prescritte dallo stesso codice nel caso che altre circostanze aggravino la sua colpa.
+ Ogni pubblico ufficile che sotto qualsiasi pretesto abbia autorizzato od ammesso iscrizioni alla ferma riducibile o alla ferma minima, riforme od esclusioni in opposizione al disposto della legge, ovvero abbia data arbitraria estensione sia alla durata, sia alle regole e condizioni della chiamata alla leva e degli arruolamenti volontari, e' punito come reo di abuso di autorita' colle pene previste dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle maggiori pene prescritte dallo stesso codice nel caso che altre circostanze aggravino la sua colpa.
 
 ### Art. 161.
 
 (Art. 150 testo unic 24 dicembre 1911). 
  
- L'inscritto, che, pe sottrarsi all'obbligo del servizio militare, commette in territorio estero reati preveduti nella legge sul reclutamento dell'Esercito o nel [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito secondo la legge italiana ancorche' non si trovi nel Regno. 
+ L'inscritto, che, pe sottrarsi all'obbligo del servizio militare, commette in territorio estero reati preveduti nella legge sul reclutamento dell'Esercito o nel [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito secondo la legge italiana ancorche' non si trovi nel Regno. 
  
  Il cittadino o lo staniero, che in territorio estero concorra in qualsiasi modo nel reato commesso dall'inscritto, soggiace alle pene stabilite dalla legge italiana ancorche' non si trovi nel territorio del Regno. Se sia stato giudicato all'estero pel medesimo fatto, puo' essere giudicato nel Regno se il Ministro per la giustizia ne faccia richiesta.
 
@@ -1181,7 +1181,7 @@ CAPO XII.
 
 (Art. 157 testo unic 24 dicembre 1911). 
  
- Alle contravvenzionipreviste dai precedenti articoli 165 e 166 sono applicabili le disposizioni degli [articoli 24](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [101 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Alle contravvenzionipreviste dai precedenti articoli 165 e 166 sono applicabili le disposizioni degli [articoli 24](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [101 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 168. — (Art. 158 testo unico 24 dicembre 1911).
 

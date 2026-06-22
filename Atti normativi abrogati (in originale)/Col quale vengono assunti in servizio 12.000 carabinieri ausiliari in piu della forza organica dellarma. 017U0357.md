@@ -52,7 +52,7 @@ Le norme particolari relative al passaggio dei caporali e soldati delle varie ar
 
 ## Art. 8.
 
-Sono abrogate le disposizioni contenute nel [R. decreto n. 577 del 28 ottobre 1904](../Regi%20decreti/Che%20stabilisce%20carabinieri%20aggiunti%20per%20completare%20la%20forza%20bilanciata%20dellarma%20dei%20carabinieri%20reali.%20004U0577.md), relative ai carabinieri aggiunti.
+Sono abrogate le disposizioni contenute nel [R. decreto n. 577 del 28 ottobre 1904](Che%20stabilisce%20carabinieri%20aggiunti%20per%20completare%20la%20forza%20bilanciata%20dellarma%20dei%20carabinieri%20reali.%20004U0577.md), relative ai carabinieri aggiunti.
 
 ## Art. 9.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con Nostro decreto 9 agosto 1910, n. 795 e modificato con [decreto Luogotenenziale 31 dicembre 1915, n. 1958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1958);
 
-Veduto il regolamento generale universitario approvato con [R. decreto 9 agosto 1910, n. 796](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md) e modificato con [decreto Luogotenenziale 31 dicembre 1915, n. 1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1959);
+Veduto il regolamento generale universitario approvato con [R. decreto 9 agosto 1910, n. 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md) e modificato con [decreto Luogotenenziale 31 dicembre 1915, n. 1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1959);
 
 Veduta la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 

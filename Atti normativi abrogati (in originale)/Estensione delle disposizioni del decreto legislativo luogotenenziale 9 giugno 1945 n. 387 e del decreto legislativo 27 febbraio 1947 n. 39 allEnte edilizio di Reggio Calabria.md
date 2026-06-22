@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [testo unico delle leggi sull'edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con [regio decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md);
+Visto il [testo unico delle leggi sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con [regio decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md);
 
-Visto il [decreto legislativo luogotenenziale 9 giugno 1945, n. 387](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20al%20testo%20unico%2028%20aprile%201938%20n.%201165%20sulledilizia%20popolare%20ed%20economica%20per%20quanto%20concerne%20le%20assegnazioni%20di%20alloggi%20dellI.N.C.I.S.%20e%20degli%20Istituti%20autonomi%20per%20le%20case%20_459efb4b9410.md);
+Visto il [decreto legislativo luogotenenziale 9 giugno 1945, n. 387](Modificazioni%20al%20testo%20unico%2028%20aprile%201938%20n.%201165%20sulledilizia%20popolare%20ed%20economica%20per%20quanto%20concerne%20le%20assegnazioni%20di%20alloggi%20dellI.N.C.I.S.%20e%20degli%20Istituti%20autonomi%20per%20le%20case%20_459efb4b9410.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 27 febbraio 1947, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-02-27;33);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per i lavori pubblici, di concerto con i Ministri pe
 
 ## Art. 1.
 
-Le disposizioni del [decreto legislativo luogotenenziale 9 giugno 1945, n. 387](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20al%20testo%20unico%2028%20aprile%201938%20n.%201165%20sulledilizia%20popolare%20ed%20economica%20per%20quanto%20concerne%20le%20assegnazioni%20di%20alloggi%20dellI.N.C.I.S.%20e%20degli%20Istituti%20autonomi%20per%20le%20case%20_459efb4b9410.md), concernenti la revoca delle assegnazioni irregolari degli alloggi dell'Istituto nazionale per le case degli impiegati dello Stato (I.N.C.I.S.) e degli Istituti autonomi per le case popolari, sono applicabili per un periodo di sei mesi dall'entrata in vigore del presente decreto, all'Ente edilizio di Reggio Calabria nei casi che le assegnazioni degli alloggi da esso gestiti risultino fatte in contravvenzione al disposto degli articoli 276 lettera d) e 287 del [testo unico 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1938-04-28;1165), sull'edilizia popolare ed economica e alle norme del regolamento dell'Ente stesso.
+Le disposizioni del [decreto legislativo luogotenenziale 9 giugno 1945, n. 387](Modificazioni%20al%20testo%20unico%2028%20aprile%201938%20n.%201165%20sulledilizia%20popolare%20ed%20economica%20per%20quanto%20concerne%20le%20assegnazioni%20di%20alloggi%20dellI.N.C.I.S.%20e%20degli%20Istituti%20autonomi%20per%20le%20case%20_459efb4b9410.md), concernenti la revoca delle assegnazioni irregolari degli alloggi dell'Istituto nazionale per le case degli impiegati dello Stato (I.N.C.I.S.) e degli Istituti autonomi per le case popolari, sono applicabili per un periodo di sei mesi dall'entrata in vigore del presente decreto, all'Ente edilizio di Reggio Calabria nei casi che le assegnazioni degli alloggi da esso gestiti risultino fatte in contravvenzione al disposto degli articoli 276 lettera d) e 287 del [testo unico 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1938-04-28;1165), sull'edilizia popolare ed economica e alle norme del regolamento dell'Ente stesso.
 
 ## Art. 2.
 

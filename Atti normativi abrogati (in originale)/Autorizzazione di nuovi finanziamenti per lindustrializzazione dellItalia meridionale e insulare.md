@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il Ministro per il tesoro e' autorizzato a prelevare la somma di lire 10 miliardi dal conto speciale (Fondo-lire 1948-49) di cui all'[art. 2 della legge 4 agosto 1948, n. 1108](../Leggi%20di%20ratifica/Ratifica%20ed%20esecutorieta%20dellAccordo%20di%20cooperazione%20economica%20tra%20lItalia%20e%20gli%20Stati%20Uniti%20dAmerica%20concluso%20a%20Roma%20il%2028%20giugno%201948.md), per la concessione di prestiti decennali rinnovabili di 6,1 miliardi alla Sezione di credito industriale del Banco di Napoli, di 2,9 miliardi alla Sezione di credito industriale del Banco di Sicilia e di un miliardo alla Sezione di credito industriale del Banco di Sardegna.
+Il Ministro per il tesoro e' autorizzato a prelevare la somma di lire 10 miliardi dal conto speciale (Fondo-lire 1948-49) di cui all'[art. 2 della legge 4 agosto 1948, n. 1108](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecutorieta%20dellAccordo%20di%20cooperazione%20economica%20tra%20lItalia%20e%20gli%20Stati%20Uniti%20dAmerica%20concluso%20a%20Roma%20il%2028%20giugno%201948.md), per la concessione di prestiti decennali rinnovabili di 6,1 miliardi alla Sezione di credito industriale del Banco di Napoli, di 2,9 miliardi alla Sezione di credito industriale del Banco di Sicilia e di un miliardo alla Sezione di credito industriale del Banco di Sardegna.
  Dette somme verranno utilizzate dalle predette Sezioni di credito per concedere finanziamenti ai fini dell'industrializzazione dell'Italia meridionale ed insulare di cui al [decreto legislativo 14 dicembre 1947, n. 1598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-12-14;1598), e successive modificazioni ed integrazioni.
 
 ## Art. 2.

@@ -20,7 +20,7 @@ All'art. 24 della legge comunale e provinciale, [testo unico 4 febbraio 1915, n.
  
  3° che siano madri di caduti in guerra; 
  
- 4° che siano vedove di caduti purche' non siano state private del diritto alla pensione a termini e per effetto dell'[art. 23 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md); 
+ 4° che siano vedove di caduti purche' non siano state private del diritto alla pensione a termini e per effetto dell'[art. 23 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md); 
  
  5° che abbiano l'effettivo esercizio della patria potesta' o della tutela e sappiano leggere e scrivere; 
  

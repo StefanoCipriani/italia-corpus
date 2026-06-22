@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato e le sue successive modificazioni;
+Veduto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato e le sue successive modificazioni;
 
 Veduto il [R. decreto-legge 2 luglio 1925, n. 1304](Disposizioni%20a%20favore%20di%20alcuni%20personali%20della%20Regia%20marina.%20025U1304.md);
 
@@ -24,9 +24,9 @@ Sulla proposta del Nostro Ministro ad interim per la marina, Presidente del Cons
 
 ## Art. 1.
 
-I ruoli organici del personale direttivo ed insegnante dei Regi istituti nautici, di cui alla tabella n. 78 dell'allegato secondo al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono sostituiti da quelli di cui alla tabella annessa al presente decreto, vista, d'ordine Nostro, dai Ministri proponenti. 
+I ruoli organici del personale direttivo ed insegnante dei Regi istituti nautici, di cui alla tabella n. 78 dell'allegato secondo al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono sostituiti da quelli di cui alla tabella annessa al presente decreto, vista, d'ordine Nostro, dai Ministri proponenti. 
  
- Resta modificata in conformita' la tabella di classificazione per gradi del personale medesimo, stabilita con l'allegato I al predetto [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+ Resta modificata in conformita' la tabella di classificazione per gradi del personale medesimo, stabilita con l'allegato I al predetto [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 2.
 

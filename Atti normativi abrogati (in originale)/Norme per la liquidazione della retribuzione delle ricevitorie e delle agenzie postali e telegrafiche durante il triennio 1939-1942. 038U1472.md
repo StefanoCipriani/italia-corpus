@@ -20,7 +20,7 @@ Visto il [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmm
 
 Visto il [R. decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md); che approva il Codice postale e delle telecomunicazioni, e successive modificazioni:
 
-Visto il [R. decreto 5 novembre 1937, n. 2161](../Regi%20decreti/Approvazione%20del%20regolamento%20delle%20Ricevitorie%20delle%20Agenzie%20e%20dei%20Servizi%20rurali%20dellAmministrazione%20postale%20telegrafica.%20037U2161.md), che approva il regolamento delle ricevitorie, delle agenzie e dei servizi rurali, e successive modificazioni;
+Visto il [R. decreto 5 novembre 1937, n. 2161](Approvazione%20del%20regolamento%20delle%20Ricevitorie%20delle%20Agenzie%20e%20dei%20Servizi%20rurali%20dellAmministrazione%20postale%20telegrafica.%20037U2161.md), che approva il regolamento delle ricevitorie, delle agenzie e dei servizi rurali, e successive modificazioni;
 
 Visto il R. il [decreto-legge 6 febbraio 1936, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1936-02-06;281), convertito nella [legge 14 maggio 1936, n. 992](Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20febbraio%201936-XIV%20n.%20281%20recante%20modificazioni%20alle%20norme%20stabilite%20dal%20R.%20decreto-legge%2029%20aprile%201925%20n.%20988%20e%20dal%20R.%20decreto%2016%20dicembre%20192_ff27d1a300c3.md), col quale la liquidazione delle retribuzioni delle ricevitorie postali e telegrafiche, che doveva eseguirsi per il quinquennio 1937-1942, e' stata rinviata di due anni, e cioe' al 1° luglio 1939;
 

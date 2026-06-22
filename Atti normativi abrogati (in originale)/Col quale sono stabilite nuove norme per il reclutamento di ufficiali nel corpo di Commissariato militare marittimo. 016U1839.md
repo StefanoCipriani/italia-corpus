@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge n. 797, in data 29 giugno 1913](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md), circa l'ordinamento dei Corpi militari della R. marina;
 
-Vista la [legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md), sull'avanzamento dei Corpi militari della R. marina e le successive varianti ed il regolamento per l'applicazione della legge medesima, approvato con [R. decreto 4 settembre 1898, n. 444](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%206%20marzo%201898%20n.%2059%20sullavanzamento%20nei%20Corpi%20militari%20della%20R.%20Marina.%20098U0444.md);
+Vista la [legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md), sull'avanzamento dei Corpi militari della R. marina e le successive varianti ed il regolamento per l'applicazione della legge medesima, approvato con [R. decreto 4 settembre 1898, n. 444](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%206%20marzo%201898%20n.%2059%20sullavanzamento%20nei%20Corpi%20militari%20della%20R.%20Marina.%20098U0444.md);
 
 Udito il Consiglio dei ministri;
 

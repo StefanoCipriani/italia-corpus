@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto luogotenenziale 14 settembre 1918, n. 1311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-14;1311);
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+Visto il [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Visto il [regio decreto-legge 19 agosto 1938, n. 1518](Modificazioni%20alle%20norme%20che%20regolano%20il%20trattamento%20economico%20del%20dipendenti%20dallo%20Stato%20in%20occasione%20di%20missioni%20e%20trasferimenti.%20038U1518.md);
 
@@ -76,7 +76,7 @@ e diurnisti dell'Amministrazione
 PP.TT. nonche' commessi del quadro 
 speciale allegato II al 
 [regio decreto 19 luglio 1941, 
- n. 943](../Regi%20decreti/Modificazioni%20allordinamento%20degli%20uffici%20e%20del%20personale%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.%20041U0943.md) del-........... 370 180 550 
+ n. 943](Modificazioni%20allordinamento%20degli%20uffici%20e%20del%20personale%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.%20041U0943.md) del-........... 370 180 550 
 l'Azienda di Stato per i 
 servizi telefonici, ed agenti 
 diurnisti 

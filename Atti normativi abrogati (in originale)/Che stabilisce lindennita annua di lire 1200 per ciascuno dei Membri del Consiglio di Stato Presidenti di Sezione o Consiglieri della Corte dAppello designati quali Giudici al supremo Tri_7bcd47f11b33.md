@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'articolo 1 della Legge 28 novembre 1869, approvativa del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito e penale militare marittimo;
+Visto l'articolo 1 della Legge 28 novembre 1869, approvativa del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito e penale militare marittimo;
 
-Visti gli [articoli 293](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [317](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [318 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito, 317 e 338 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, che prescrivono l'istituzione di un Tribunale supremo di Guerra e Marina, e che una parte dei Giudici del medesimo e dei loro Supplenti sia tratta dai Consiglieri di Stato, dai Presidenti di Sezione o Consiglieri di Corte d'Appello;
+Visti gli [articoli 293](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [317](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [318 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito, 317 e 338 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, che prescrivono l'istituzione di un Tribunale supremo di Guerra e Marina, e che una parte dei Giudici del medesimo e dei loro Supplenti sia tratta dai Consiglieri di Stato, dai Presidenti di Sezione o Consiglieri di Corte d'Appello;
 
 Ritenuta la convenienza che l'opera dei Giudici civili e dei loro Supplenti presso il Tribunale supremo di Guerra e Marina sia rimeritata con un'annua indennita';
 

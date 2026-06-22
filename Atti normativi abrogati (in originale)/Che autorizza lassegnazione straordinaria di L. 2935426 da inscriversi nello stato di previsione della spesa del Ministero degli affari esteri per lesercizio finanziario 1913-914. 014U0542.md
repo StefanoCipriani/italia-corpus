@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' autorizzata l'assegnazione straordinaria di lire 29.354,26, occorrente per corrispondere a taluni funzionari diplomatici le indennita' loro spettanti in virtu' dell'[art. 44 del R. decreto 29 novembre 1870, n. 6090](../Regi%20decreti/Concernente%20le%20Legazioni%20allestero%20ed%20il%20personale%20alle%20medesime%20addetto.%20070U6090.md), e maturate anteriormente al 1° luglio 1912 e non colpite dalla prescrizione sancita dall'[art. 1 della legge 9 marzo 1871, n. 102](Concernente%20la%20prescrizione%20degli%20stipendi%20ed%20assegni%20personali.%20071U0102.md). 
+ E' autorizzata l'assegnazione straordinaria di lire 29.354,26, occorrente per corrispondere a taluni funzionari diplomatici le indennita' loro spettanti in virtu' dell'[art. 44 del R. decreto 29 novembre 1870, n. 6090](Concernente%20le%20Legazioni%20allestero%20ed%20il%20personale%20alle%20medesime%20addetto.%20070U6090.md), e maturate anteriormente al 1° luglio 1912 e non colpite dalla prescrizione sancita dall'[art. 1 della legge 9 marzo 1871, n. 102](Concernente%20la%20prescrizione%20degli%20stipendi%20ed%20assegni%20personali.%20071U0102.md). 
  
  Detta somma sara', con decreto del ministro del tesoro, inscritta in apposito capitolo della parte straordinaria dello stato di previsione della sposa del Ministero degli affari esteri per l'esercizio finanziario 1913-914. 
  

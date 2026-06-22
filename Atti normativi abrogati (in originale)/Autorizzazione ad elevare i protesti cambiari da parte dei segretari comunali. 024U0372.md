@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 24 marzo 1923, n. 601](../Regi%20decreti/Riguardante%20la%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0601.md), riguardante la circoscrizione giudiziaria del Regno;
+Visto il [R. decreto 24 marzo 1923, n. 601](Riguardante%20la%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0601.md), riguardante la circoscrizione giudiziaria del Regno;
 
 Ritenuto opportuno di ovviare a talune difficolta' che si verificano nella elevazione dei protesti cambiari in conseguenza della soppressione di uffici giudiziari o dello spostamento delle sedi di essi in esecuzione della riforma della detta circoscrizione;
 
@@ -24,7 +24,7 @@ Sulla proposta del Guardasigilli Ministro Segretario di Stato per la giustizia e
 
 ## Art. 1.
 
-Nei Comuni che siano sede di pretura soppressa o compresi nella circoscrizione di una pretura soppressa in forza del [R. decreto 24 marzo 1923, n. 601](../Regi%20decreti/Riguardante%20la%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0601.md), i protesti cambiari, a norma degli articoli 303 e seguenti del Codice di commercio, possono essere fatti dai segretari comunali, purche' nel Comune non vi sia un notaio, o il notaio sia assente o impedito, ovvero sia autorizzato a risiedere in altro Comune. 
+Nei Comuni che siano sede di pretura soppressa o compresi nella circoscrizione di una pretura soppressa in forza del [R. decreto 24 marzo 1923, n. 601](Riguardante%20la%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0601.md), i protesti cambiari, a norma degli articoli 303 e seguenti del Codice di commercio, possono essere fatti dai segretari comunali, purche' nel Comune non vi sia un notaio, o il notaio sia assente o impedito, ovvero sia autorizzato a risiedere in altro Comune. 
  
  Ai segretari comunali spettano, per gli atti di protesto, i diritti che sono dovuti agli ufficiali gudiziari presso le preture.
 

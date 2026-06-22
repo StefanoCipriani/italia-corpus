@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 30 maggio 1946, n. 459](../Regi%20decreti/Ordinamento%20del%20Ministero%20del%20commercio%20con%20lestero.md), concernente l'ordinamento del Ministero del commercio con l'estero e successive modificazioni;
+Visto il [regio decreto 30 maggio 1946, n. 459](Ordinamento%20del%20Ministero%20del%20commercio%20con%20lestero.md), concernente l'ordinamento del Ministero del commercio con l'estero e successive modificazioni;
 
 Visti il [decreto del Capo provvisorio dello Stato 10 luglio 1947, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-10;675) e il [decreto del Presidente della Repubblica 19 ottobre 1956, n. 1285](Ruoli%20organici%20del%20personale%20del%20Ministero%20del%20commercio%20con%20lestero.md), concernenti i ruoli organici del personale del Ministero del commercio con l'estero;
 

@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Vista la [legge 14 luglio 1912, n. 834](Concernente%20provvedimenti%20per%20listruzione%20forestale%20012U0834.md), per l'istruzione forestale;
 
-Visto il regolamento approvato con [R. decreto 6 febbraio 1913, n. 212](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lapplicazione%20del%20titolo%20I%20della%20legge%2014%20luglio%201912%20n.%20834%20sulla%20istruzione%20forestale.%20013U0212.md), per l'applicazione dei titoli I e IV della legge suddetta;
+Visto il regolamento approvato con [R. decreto 6 febbraio 1913, n. 212](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lapplicazione%20del%20titolo%20I%20della%20legge%2014%20luglio%201912%20n.%20834%20sulla%20istruzione%20forestale.%20013U0212.md), per l'applicazione dei titoli I e IV della legge suddetta;
 
-Visto il [R. decreto 7 giugno 1920, n. 922](../Regi%20decreti/Che%20estende%20i%20ruoli%20aperti%20al%20personale%20tecnico%20del%20Reale%20corpo%20delle%20foreste.%20020U0922.md), che estende i ruoli aperti al personale tecnico forestale;
+Visto il [R. decreto 7 giugno 1920, n. 922](Che%20estende%20i%20ruoli%20aperti%20al%20personale%20tecnico%20del%20Reale%20corpo%20delle%20foreste.%20020U0922.md), che estende i ruoli aperti al personale tecnico forestale;
 
 Visto il decreto Ministeriale 25 ottobre 1919, registrato alla Corte dei conti il 14 novembre successivo con cui fu bandito un concorso per 20 posti di sottispettore aggiunto nel corpo Reale delle foreste;
 

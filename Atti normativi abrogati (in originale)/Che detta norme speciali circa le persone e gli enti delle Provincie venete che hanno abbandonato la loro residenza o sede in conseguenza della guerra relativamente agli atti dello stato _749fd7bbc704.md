@@ -227,7 +227,7 @@ Gli Istituti di credito fondiario sono autorizzati a sospendere nei comuni compr
 
 ### Art. 30.
 
-Agli Istituti di credito fondiario potranno essere anticipate dallo Stato, sui fondi e con le norme di cui ai [regi decreti 18 agosto 1914, n. 827](../Regi%20decreti/Che%20autorizza%20il%20Governo%20a%20chiedere%20ai%20tre%20Istituti%20di%20credito%20una%20somministrazione%20di%20300%20milioni%20di%20lire.%20014U0827.md) e 23 maggio 1915, n, 711, le somme occorrenti per corrispondere gli interessi su una massa di cartelle corrispondente all'importo residuo al 31 dicembre 1917 dei mutui contemplati dal presente decreto e per provvedere al rimborso delle cartelle che saranno sorteggiate durante il periodo di proroga, in proporzione del detto importo.
+Agli Istituti di credito fondiario potranno essere anticipate dallo Stato, sui fondi e con le norme di cui ai [regi decreti 18 agosto 1914, n. 827](Che%20autorizza%20il%20Governo%20a%20chiedere%20ai%20tre%20Istituti%20di%20credito%20una%20somministrazione%20di%20300%20milioni%20di%20lire.%20014U0827.md) e 23 maggio 1915, n, 711, le somme occorrenti per corrispondere gli interessi su una massa di cartelle corrispondente all'importo residuo al 31 dicembre 1917 dei mutui contemplati dal presente decreto e per provvedere al rimborso delle cartelle che saranno sorteggiate durante il periodo di proroga, in proporzione del detto importo.
 
 ### Art. 31.
 
@@ -329,7 +329,7 @@ I depositanti, i quali non siano in grado di produrre libretti o gli altri titol
  
  In questi casi l'Istituto ha facolta' di limitare l'ammontare complessivo dal rimborso a una meta' della somma che risulterebbe a termine del 1° comma dell'art. 38. 
  
- Le false attestazioni commesse dai depositanti e dalle altre persone indicate nel presente articolo sono punite con le penalita' stabilite dell'[art. 278 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Le false attestazioni commesse dai depositanti e dalle altre persone indicate nel presente articolo sono punite con le penalita' stabilite dell'[art. 278 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 41.
 
@@ -511,7 +511,7 @@ Gli ispettori di circolo e permanenti delle tasse sugli affari nelle accennate p
 
 ### Art. 66.
 
-Ai conservatori delle ipoteche, ai titolari degli uffici misti del registro e delle ipoteche dei distretti ipotecari sgombrati ed ai ricevitori del registro ed agli ispettori sopraindicati compete l'indennita' ordinaria di trasferimento a norma del [R. decreto 1° novembre 1876, n. 3450](../Regi%20decreti/Concernente%20le%20indennita%20di%20trasferimento%20agli%20impiegati%20civili.%20076U3450.md), tenuto conto dell'itinerario effettivamente percorso in forza degli ordini straordinari emanati dalle competenti autorita'. Il pagamento delle indennita' avra' luogo in base a semplice attestazione dell'Intendenza di finanza relativa al viaggio effettuato. 
+Ai conservatori delle ipoteche, ai titolari degli uffici misti del registro e delle ipoteche dei distretti ipotecari sgombrati ed ai ricevitori del registro ed agli ispettori sopraindicati compete l'indennita' ordinaria di trasferimento a norma del [R. decreto 1° novembre 1876, n. 3450](Concernente%20le%20indennita%20di%20trasferimento%20agli%20impiegati%20civili.%20076U3450.md), tenuto conto dell'itinerario effettivamente percorso in forza degli ordini straordinari emanati dalle competenti autorita'. Il pagamento delle indennita' avra' luogo in base a semplice attestazione dell'Intendenza di finanza relativa al viaggio effettuato. 
  
  Gli ispettori, i conservatori delle ipoteche e i titolari degli uffici misti continueranno a percepire anche l'indennita' per spese d'ufficio e di giro di cui erano in precedenza rispettivamente provvisti nei circoli ed uffici abbandonati.
 

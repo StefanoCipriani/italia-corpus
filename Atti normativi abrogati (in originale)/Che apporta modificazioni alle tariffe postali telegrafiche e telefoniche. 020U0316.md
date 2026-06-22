@@ -40,7 +40,7 @@ La tassa delle ricevute di ritorno, tanto per il distretto che fuori distretto, 
 
 ## Art. 8.
 
-La tassa per i reclami di cui all'art. 244 del regolamento generale intorno al servizio postale, approvato col [R. decreto 10 febbraio 1901, n. 120](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md), e' stabilita in centesimi 25.
+La tassa per i reclami di cui all'art. 244 del regolamento generale intorno al servizio postale, approvato col [R. decreto 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md), e' stabilita in centesimi 25.
 
 ## Art. 9.
 
@@ -110,7 +110,7 @@ E' in facolta' del Governo di stabilire con decreto Reale che i pacchi con asseg
 
 ## Art. 20.
 
-Sono abrogati gli ultimi commi degli articoli 32, 56, 62 e 218 del regolamento per la esecuzione della legge postale, approvato con [R. decreto del 10 febbraio 1901, n. 120](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md), per quanto concerne il cambio delle carte valori sciupate.
+Sono abrogati gli ultimi commi degli articoli 32, 56, 62 e 218 del regolamento per la esecuzione della legge postale, approvato con [R. decreto del 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md), per quanto concerne il cambio delle carte valori sciupate.
 
 ## Art. 21.
 
@@ -142,7 +142,7 @@ I vaglia per l'interno del Regno sono pagabili all'atto della presentazione all'
  
  Questo termine di validita' e' di quattro mesi oltre quello di emissione per i vaglia emessi pagabili nelle colonie italiane e negli uffici postali italiani all'estero. 
  
- E' abolita la rinnovazione d'ufficio dei vaglia non riscossi di cui al 4° comma dell'articolo 52 del testo unico delle leggi postali, approvato col [R. decreto 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md).
+ E' abolita la rinnovazione d'ufficio dei vaglia non riscossi di cui al 4° comma dell'articolo 52 del testo unico delle leggi postali, approvato col [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md).
 
 ## Art. 24.
 
@@ -203,7 +203,7 @@ L'[art. 10 del decreto Luogotenenziale 6 settembre 1917, n. 1451](https://www.no
 
 ## Art. 29.
 
-Sono abrogati gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1875-05-27;2729#art_13) e [14 della legge 27 maggio 1875, numero 2729](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1875-05-27;2729#art_14) (serie 2ª) che istituisce le Casse di risparmio postali, l'art. 2 dell'allegato E della [legge 19 luglio 1880, n. 5536](Che%20approva%20labolizione%20graduale%20della%20tassa%20di%20macinazione%20del%20grano%20ed%20altri%20provvedimenti%20finanziari.%20080U5536.md) sul riordinamento dell'amministrazione del lotto e gli [articoli 47](../Regi%20decreti/Che%20approva%20il%20regolamento%20pel%20servizio%20del%20lotto.%20081U0179.md), [48](../Regi%20decreti/Che%20approva%20il%20regolamento%20pel%20servizio%20del%20lotto.%20081U0179.md) e [49 del R. decreto 10 aprile 1881, n. 179](../Regi%20decreti/Che%20approva%20il%20regolamento%20pel%20servizio%20del%20lotto.%20081U0179.md).
+Sono abrogati gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1875-05-27;2729#art_13) e [14 della legge 27 maggio 1875, numero 2729](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1875-05-27;2729#art_14) (serie 2ª) che istituisce le Casse di risparmio postali, l'art. 2 dell'allegato E della [legge 19 luglio 1880, n. 5536](Che%20approva%20labolizione%20graduale%20della%20tassa%20di%20macinazione%20del%20grano%20ed%20altri%20provvedimenti%20finanziari.%20080U5536.md) sul riordinamento dell'amministrazione del lotto e gli [articoli 47](Che%20approva%20il%20regolamento%20pel%20servizio%20del%20lotto.%20081U0179.md), [48](Che%20approva%20il%20regolamento%20pel%20servizio%20del%20lotto.%20081U0179.md) e [49 del R. decreto 10 aprile 1881, n. 179](Che%20approva%20il%20regolamento%20pel%20servizio%20del%20lotto.%20081U0179.md).
 
 ## Art. 30.
 
@@ -223,7 +223,7 @@ Se il proprietario nega il consenso di cui all'articolo precedente, il prefetto,
 
 ## Art. 32.
 
-Il Governo del Re provvedera' a coordinare in un nuovo testo unico la legge sul servizio postale approvata mediante [Regio decreto 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md) con le leggi modificative che successivamente sono state o saranno promulgate fino alla pubblicazione del nuovo testo.
+Il Governo del Re provvedera' a coordinare in un nuovo testo unico la legge sul servizio postale approvata mediante [Regio decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md) con le leggi modificative che successivamente sono state o saranno promulgate fino alla pubblicazione del nuovo testo.
 
 ## Art. 33.
 
@@ -337,7 +337,7 @@ Le reti telefoniche urbane vengono suddivise agli effetti dell'applicazione dell
 
 ## Art. 38.
 
-L'art. 8 del testo unico di legge sui telefoni, approvato con [R. decreto del 3 maggio 1903, n. 196](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20sui%20telefoni.%20003U0196.md), e' modificato come segue: 
+L'art. 8 del testo unico di legge sui telefoni, approvato con [R. decreto del 3 maggio 1903, n. 196](Approvazione%20del%20testo%20unico%20della%20legge%20sui%20telefoni.%20003U0196.md), e' modificato come segue: 
  
  «Ciascun concessionario di linee telefoniche ad uso privato paga ogni anno allo Stato un canone fisso di L. 100 per ogni circuito di comunicazione, e di L. 15 per ogni stazione in piu' di due, aggiungendo inoltre un solo diritto proporzionale di L. 9 per kilometro o frazione, oltre i primi tre km. di linea. 
  
@@ -357,7 +357,7 @@ L'art. 30 del testo unico sopra citato, primo capoverso, e' modificato come appr
 
 ## Art. 41.
 
-L'art. 78 del regolamento, approvato con [R. decreto del 21 maggio 1903, n. 253](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20di%20legge%20sui%20telefoni%20del%203%20maggio%201903%20n.%20196.%20003U0253.md) per l'applicazione del testo unico piu' volte sopra citato, e' abolito, in dipendenza del disposto dal precedente art. 39 del presente decreto.
+L'art. 78 del regolamento, approvato con [R. decreto del 21 maggio 1903, n. 253](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20di%20legge%20sui%20telefoni%20del%203%20maggio%201903%20n.%20196.%20003U0253.md) per l'applicazione del testo unico piu' volte sopra citato, e' abolito, in dipendenza del disposto dal precedente art. 39 del presente decreto.
 
 ## Art. 42.
 

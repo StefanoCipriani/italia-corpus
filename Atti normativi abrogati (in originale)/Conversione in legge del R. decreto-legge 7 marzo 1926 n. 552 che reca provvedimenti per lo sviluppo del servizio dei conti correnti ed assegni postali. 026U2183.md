@@ -31,7 +31,7 @@ VITTORIO EMANUELE III
  «A richiesta dei correntisti mittenti, o dei loro aventi causa, l'importo dei mandati comunque non pagati puo' essere riaccreditato sui conti dei correntisti stessi, purche' non siano incorsi nei termini di prescrizione di cui al primo comma del presente articolo.  
  «L'operazione di riaccreditamento e' gratuita». 
  
- «Art. 9. - L'[art. 1 del R. decreto 15 luglio 1923, n. 1693](../Regi%20decreti/Aggiunte%20e%20modificazioni%20al%20decreto-legge%20Luogotenenziale%206%20settembre%201917%20n.%201451%20e%20al%20regolamento%20approvato%20con%20decreto%20Luogotenenziale%209%20maggio%201918%20n.%20622%20sul%20servizio%20dei%20conti%20corre_7018d99da5b7.md), e' sostituito dal seguente: 
+ «Art. 9. - L'[art. 1 del R. decreto 15 luglio 1923, n. 1693](Aggiunte%20e%20modificazioni%20al%20decreto-legge%20Luogotenenziale%206%20settembre%201917%20n.%201451%20e%20al%20regolamento%20approvato%20con%20decreto%20Luogotenenziale%209%20maggio%201918%20n.%20622%20sul%20servizio%20dei%20conti%20corre_7018d99da5b7.md), e' sostituito dal seguente: 
  
  «Per la rinnovazione dei mandati di pagamento scaduti sono dovute le seguenti tasse: 
  

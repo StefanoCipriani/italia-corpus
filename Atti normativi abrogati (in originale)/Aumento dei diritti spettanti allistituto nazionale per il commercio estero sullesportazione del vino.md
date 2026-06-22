@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vistoli [regio decreto-legge 26 ottobre 1933, n. 1443](Estensione%20del%20marchio%20nazionale%20istituito%20con%20legge%2023%20giugno%201927%20n.%201272%20alla%20esportazione%20dei%20vini.%20033U1443.md), convertito nella [legge 29 gennaio 1934, n. 332](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2026%20ottobre%201933%20n.%201443%20per%20la%20estensione%20del%20marchio%20nazionale%20istituito%20con%20legge%2023%20giugno%201927%20n.%201272.%20034U0332.md), con il quale fu estesa all' esportazione del vino l'applicazione del marchio nazionale;
+Vistoli [regio decreto-legge 26 ottobre 1933, n. 1443](Estensione%20del%20marchio%20nazionale%20istituito%20con%20legge%2023%20giugno%201927%20n.%201272%20alla%20esportazione%20dei%20vini.%20033U1443.md), convertito nella [legge 29 gennaio 1934, n. 332](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2026%20ottobre%201933%20n.%201443%20per%20la%20estensione%20del%20marchio%20nazionale%20istituito%20con%20legge%2023%20giugno%201927%20n.%201272.%20034U0332.md), con il quale fu estesa all' esportazione del vino l'applicazione del marchio nazionale;
 
 Visto il [decreto legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per il commercio con l'estero, di concerto con i Min
 
 ## Art. 1.
 
-Il diritto di L. 0,02 per bottiglia o fiasco e di L. 0,20 per ettolitro di vino in damigiane, fusti o carri serbatoio, da applicarsi sulla complessiva esportazione vinicola, trattisi o meno di esportazione coperta dal marchio nazionale, stabilito a favore dell'Istituto nazionale per il commercio estero dall'[art. 8 del regio decreto legge 26 ottobre 1933, n. 1443](Estensione%20del%20marchio%20nazionale%20istituito%20con%20legge%2023%20giugno%201927%20n.%201272%20alla%20esportazione%20dei%20vini.%20033U1443.md), convertito nella [legge 29 gennaio 1934, n. 332](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2026%20ottobre%201933%20n.%201443%20per%20la%20estensione%20del%20marchio%20nazionale%20istituito%20con%20legge%2023%20giugno%201927%20n.%201272.%20034U0332.md), e' aumentato a L. 0.20 per bottiglia o fiasco e a L. 2 per ettolitro di vino in damigiane, fusti o carri serbatoio.
+Il diritto di L. 0,02 per bottiglia o fiasco e di L. 0,20 per ettolitro di vino in damigiane, fusti o carri serbatoio, da applicarsi sulla complessiva esportazione vinicola, trattisi o meno di esportazione coperta dal marchio nazionale, stabilito a favore dell'Istituto nazionale per il commercio estero dall'[art. 8 del regio decreto legge 26 ottobre 1933, n. 1443](Estensione%20del%20marchio%20nazionale%20istituito%20con%20legge%2023%20giugno%201927%20n.%201272%20alla%20esportazione%20dei%20vini.%20033U1443.md), convertito nella [legge 29 gennaio 1934, n. 332](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2026%20ottobre%201933%20n.%201443%20per%20la%20estensione%20del%20marchio%20nazionale%20istituito%20con%20legge%2023%20giugno%201927%20n.%201272.%20034U0332.md), e' aumentato a L. 0.20 per bottiglia o fiasco e a L. 2 per ettolitro di vino in damigiane, fusti o carri serbatoio.
 
 ## Art. 2.
 

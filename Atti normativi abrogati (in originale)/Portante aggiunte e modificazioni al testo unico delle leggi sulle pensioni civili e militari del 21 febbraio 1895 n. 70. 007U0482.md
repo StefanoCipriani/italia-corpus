@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'art. 74 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), aggiungere: 
+All'art. 74 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), aggiungere: 
  
  Pero' per gli ufficiali dell'esercito attivo permanente sottoindicati, e pei farmacisti militari, la pensione sara' liquidata secondo la seguente tabella: 
  
@@ -52,7 +52,7 @@ All'art. 9 del citato testo unico, aggiungere:
 
 ## Art. 5.
 
-Per gli ufficiali del corpo invalidi e veterani la pensione sara' liquidata in base alle aliquote stabilite per la rispettiva arma di provenienza, dalla tabella dell'art. 1, ferme restando le disposizioni dell'art. 59 del testo unico delle leggi sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
+Per gli ufficiali del corpo invalidi e veterani la pensione sara' liquidata in base alle aliquote stabilite per la rispettiva arma di provenienza, dalla tabella dell'art. 1, ferme restando le disposizioni dell'art. 59 del testo unico delle leggi sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
 
 ## Art. 6.
 

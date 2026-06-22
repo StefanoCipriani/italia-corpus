@@ -34,7 +34,7 @@ Capo I
 
 1.
 
-L'[art. 1 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 1 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 1. - 1. I diritti del titolare del marchio d'impresa registrato consistono nella facolta' di far uso esclusivo del marchio. Il titolare ha il diritto di vietare ai terzi, salvo proprio consenso, di usare: 
  a) un segno identico o simile al marchio registrato, per prodotti o servizi identici o affini, se a causa dell'identita' o somiglianza fra i segni e dell'identita' o affinita' fra i prodotti o servizi, possa determinarsi un rischio di confusione per il pubblico, che puo' consistere anche in un rischio di associazione fra i due segni; 
  b) un segno identico o simile al marchio registrato per prodotti o servizi non affini, se il marchio registrato goda nello Stato di rinomanza e se l'uso del segno senza giusto motivo consente di trarre indebitamente vantaggio dal carattere distintivo o dalla rinomanza del marchio o reca pregiudizio agli stessi. 
@@ -44,7 +44,7 @@ il segno nella corrispondenza commerciale e nella pubblicita'.".
 
 N O T E
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente delle Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente delle Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti.
@@ -71,8 +71,8 @@ AVVERTENZA:
  r) disporre la pubblicita' delle domande e delle 
  registrazioni;
  s) disciplinare la rappresentanza a mezzo di mandatario abilitato nelle procedure di fronte all'Ufficio centrale brevetti.
- 2. Ai fini dell'attuazione della direttiva di cui al comma 1, saranno apportate le necessarie modifiche alle norme del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), alle disposizioni di cui al [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), alle disposizioni approvate con [decreto del Presidente della Repubblica 8 maggio 1948, n. 795](Approvazione%20del%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20di%20impresa.md), nonche' ad ogni altra disposizione incompatibile.
- 3. Le disposizioni transitorie dovranno tener conto, oltreche' dei criteri fissati nella direttiva, di quelli derivanti dagli [articoli 81 e seguenti del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), in quanto applicabili".
+ 2. Ai fini dell'attuazione della direttiva di cui al comma 1, saranno apportate le necessarie modifiche alle norme del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), alle disposizioni di cui al [regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), alle disposizioni approvate con [decreto del Presidente della Repubblica 8 maggio 1948, n. 795](Approvazione%20del%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20di%20impresa.md), nonche' ad ogni altra disposizione incompatibile.
+ 3. Le disposizioni transitorie dovranno tener conto, oltreche' dei criteri fissati nella direttiva, di quelli derivanti dagli [articoli 81 e seguenti del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), in quanto applicabili".
  Nota al capo I ([articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929#art_1)-[71):
  - Il R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929#art_71) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
 
@@ -80,7 +80,7 @@ AVVERTENZA:
 
 1.
 
-Nel [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' aggiunto il seguente articolo: 
+Nel [regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' aggiunto il seguente articolo: 
  "Art. 1- bis . - 1. I diritti sul marchio d'impresa registrato non permettono al titolare di esso di vietare ai terzi l'uso nell'attivita' economica: 
  a) del loro nome e indirizzo; 
  b) di indicazioni relative alla specie, alla qualita', alla quantita', alla destinazione, al valore, alla provenienza geografica, all'epoca di fabbricazione del prodotto o di prestazione del servizio o ad altre caratteristiche del prodotto o del servizio; 
@@ -91,7 +91,7 @@ Nel [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20dis
 
 1.
 
-L'[art. 2 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 2 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 2. - 1. I soggetti che svolgono la funzione di garantire l'origine, la natura o la qualita' di determinati prodotti o servizi, possono ottenere la registrazione per appositi marchi come marchi collettivi, ed hanno la facolta' di concedere l'uso dei marchi stessi a produttori o commercianti. 
  2. I regolamenti concernenti l'uso dei marchi collettivi, i controlli e le relative sanzioni, debbono essere allegati alla domanda di registrazione; le modificazioni regolamentari debbono essere comunicate a cura dei titolari all'Ufficio italiano brevetti e marchi di cui al successivo art. 52, per essere incluse tra i documenti allegati alla domanda. 
  3. Le disposizioni dei commi 1 e 2 sono applicabili anche ai marchi collettivi stranieri registrati nel paese d'origine, purche' in esso sia accordata all'Italia reciprocita' di trattamento. 
@@ -104,7 +104,7 @@ L'[art. 2 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20de
 
 1.
 
-L'[art. 3 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 3 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 3. - 1. La rinnovazione del marchio di prima registrazione o comunque di un marchio registrato spettante allo stesso titolare o al suo avente causa, ai sensi dell'art. 5, ha luogo mediante una registrazione di rinnovazione.".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
@@ -113,7 +113,7 @@ L'[art. 3 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20de
 
 1.
 
-L'[art. 4 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 4 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 4. - 1. I diritti esclusivi considerati da questo decreto sono conferiti con la registrazione. 
  2. Gli effetti della prima registrazione decorrono dalla data di deposito della domanda. Trattandosi di rinnovazione, gli effetti di essa decorrono dalla scadenza della registrazione precedente. 
  3. Salvo il disposto dell'art. 1, comma 1, lettera b), la registrazione esplica effetto limitatamente ai prodotti o servizi indicati nella registrazione stessa ed ai prodotti o servizi affini. 
@@ -126,7 +126,7 @@ L'[art. 4 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20de
 
 1.
 
-L'[art. 5 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 5 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 5. - 1. La registrazione puo' essere rinnovata per lo stesso marchio precedente, con riguardo allo stesso genere di prodotti o di servizi secondo la classificazione internazionale dei prodotti e dei servizi risultante dall'Accordo di Nizza 15 giugno 1957, e successive modificazioni. 
  2. Sono tuttavia consentite modifiche nei caratteri non distintivi che non alterino sostanzialmente la identita' del marchio inizialmente registrato. 
  3. La rinnovazione si effettua per periodi di dieci anni. 
@@ -139,7 +139,7 @@ L'[art. 5 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20de
 
 1.
 
-Nell'[art. 6 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), le parole: "o merci" sono sostituite dalle seguenti: "o sui materiali inerenti alla prestazione dei servizi".
+Nell'[art. 6 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), le parole: "o merci" sono sostituite dalle seguenti: "o sui materiali inerenti alla prestazione dei servizi".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
 
@@ -147,7 +147,7 @@ Nell'[art. 6 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%2
 
 1.
 
-L'[art. 7 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 7 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 7. - 1. La protezione temporanea fa risalire la priorita' della registrazione a favore del titolare o del suo avente causa, al giorno della consegna del prodotto o del materiale inerente alla prestazione del servizio per l'esposizione, ed ha effetto sempre che la domanda di registrazione sia depositata entro sei mesi dalla data della consegna ed in ogni caso non oltre sei mesi dall'apertura dell'esposizione. 
  2. Nel caso di esposizione tenuta in uno Stato estero, se ivi e' stabilito un termine piu' breve, la domanda di registrazione deve essere depositata entro questo termine. 
  3. Tra piu' marchi per prodotti o servizi consegnati per l'esposizione nello stesso giorno, la priorita' spetta al marchio per il quale e' stata depositata prima la domanda di registrazione. 
@@ -159,7 +159,7 @@ L'[art. 7 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20de
 
 1.
 
-Nell'[art. 8, commi primo](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md) e [secondo, del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), l'espressione: "Ufficio internazionale di Berna" e' sostituita dalla seguente: "Organizzazione mondiale della proprieta' intellettuale di Ginevra - OMPI".
+Nell'[art. 8, commi primo](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md) e [secondo, del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), l'espressione: "Ufficio internazionale di Berna" e' sostituita dalla seguente: "Organizzazione mondiale della proprieta' intellettuale di Ginevra - OMPI".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
 
@@ -167,7 +167,7 @@ Nell'[art. 8, commi primo](../Regi%20decreti/Testo%20delle%20disposizioni%20legi
 
 1.
 
-L'[art. 9 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 9 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 9. - 1. In caso di uso precedente, da parte di terzi, di un marchio non registrato, che non importi notorieta' di esso o importi notorieta' puramente locale, i terzi medesimi hanno diritto di continuare nell'uso del marchio, anche ai fini della pubblicita', nei limiti della diffusione locale, nonostante la registrazione del marchio stesso.".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
@@ -180,7 +180,7 @@ L'[art. 9 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20de
 
 1.
 
-L'[art. 11 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 11 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 11. - 1. Non e' consentito usare il marchio in modo contrario alla legge, ne', in ispecie, in modo da ingenerare un rischio di confusione sul mercato con altri segni conosciuti come distintivi di imprese, prodotti o servizi altrui, o da indurre comunque in inganno il pubblico, in particolare circa la natura, qualita' o provenienza dei prodotti o servizi, a causa del modo e del contesto in cui viene utilizzato, o da ledere un altrui diritto di autore, di proprieta' industriale, o altro diritto esclusivo di terzi.".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
@@ -189,7 +189,7 @@ L'[art. 11 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 13 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 13 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 13. - 1. E' vietato adottare come ditta, denominazione o ragione sociale e insegna un segno uguale o simile all'altrui marchio se a causa dell'identita' o dell'affinita' tra l'attivita' d'impresa dei titolari di quei segni ed i prodotti o servizi per i quali il marchio e' adottato possa determinarsi un rischio di confusione per il pubblico che puo' consistere anche in un rischio di associazione fra i due segni. 
  2. Il divieto di cui al comma 1 si estende all'adozione come ditta, denominazione o ragione sociale e insegna di un segno uguale o simile ad un marchio registrato per prodotti o servizi non affini, che goda nello Stato di rinomanza se l'uso del segno senza giusto motivo consente di trarre indebitamente vantaggio dal carattere distintivo o dalla rinomanza del marchio o reca pregiudizio agli stessi.".
 
@@ -199,7 +199,7 @@ L'[art. 13 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 14 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' abrogato.
+L'[art. 14 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' abrogato.
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
 
@@ -207,7 +207,7 @@ L'[art. 14 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 15 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 15 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 15. - 1. Il marchio puo' essere trasferito per la totalita' o per una parte dei prodotti o servizi per i quali e' stato registrato. 
  2. Il marchio puo' essere oggetto di licenza anche non esclusiva per la totalita' o per parte dei prodotti o dei servizi per i quali e' stato registrato e per la totalita' o per parte del territorio dello Stato, a condizione che, in caso di licenza non esclusiva, il licenziatario si obblighi espressamente ad usare il marchio per contraddistinguere prodotti o servizi eguali a quelli corrispondenti messi in commercio o prestati nel territorio dello Stato con lo stesso marchio dal titolare o da altri licenziatari. 
  3. Il titolare del marchio di impresa puo' fare valere il diritto all'uso esclusivo del marchio stesso contro il licenziatario che violi le disposizioni del contratto di licenza relativamente alla durata, al modo di utilizzazione del marchio, alla natura dei prodotti o servizi per i quali la licenza e' concessa, al territorio in cui il marchio puo' essere usato o alla qualita' dei prodotti fabbricati e dei servizi prestati dal licenziatario. 
@@ -219,7 +219,7 @@ L'[art. 15 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 16 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 16 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 16. - 1. Possono costituire oggetto di registrazione come marchio d'impresa tutti i nuovi segni suscettibili di essere rappresentati graficamente, in particolare le parole, compresi i nomi di persone, i disegni, le lettere, le cifre, i suoni, la forma del prodotto o della confezione di esso, le combinazioni o le tonalita' cromatiche, purche' siano atti a distinguere i prodotti o i servizi di un'impresa da quelli di altre imprese e salvo il disposto degli articoli 18 e 21.".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
@@ -228,7 +228,7 @@ L'[art. 16 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 17 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 17 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 17. - 1. Non sono nuovi, ai sensi del precedente articolo, i segni che alla data del deposito della domanda: 
  a) consistano esclusivamente in segni divenuti di uso comune nel linguaggio corrente o negli usi costanti del commercio; 
  b) siano identici o simili ad un segno gia' noto come marchio o segno distintivo di prodotti o servizi fabbricati, messi in commercio o prestati da altri per prodotti o servizi identici o affini, se a causa dell'identita' o somiglianza tra i segni e dell'identita' o affinita' fra i prodotti o servizi possa determinarsi un rischio di confusione per il pubblico, che puo' consistere anche in un rischio di associazione fra i due segni. Si considera altresi' noto il marchio "notoriamente conosciuto" ai sensi dell'art. 6- bis della Convenzione di Parigi. L'uso precedente del segno, quando non importi notorieta' di esso, o importi notorieta' puramente locale, non toglie la novita'. L'uso precedente del segno da parte del richiedente o del suo dante causa non e' di ostacolo alla registrazione; 
@@ -243,7 +243,7 @@ L'[art. 17 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 18 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 18 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 18. - 1. Non possono costituire oggetto di registrazione come marchio d'impresa, oltre ai segni diversi da quelli indicati all'art. 
 16: 
  a) i segni contrari alla legge all'ordine pubblico o al buon cos- tume; 
@@ -260,7 +260,7 @@ nonche' i segni contenenti simboli, emblemi e stemmi che rivestano un interesse 
 
 1.
 
-L'[art. 19 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 19 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 19. - 1. In deroga agli articoli 17, comma 1, lettera a), e 18, comma 1, lettera b), possono costituire oggetto di registrazione come marchio d'impresa i segni che prima della domanda di registrazione, a seguito dell'uso che ne sia stato fatto, abbiano acquistato carattere distintivo.".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
@@ -269,7 +269,7 @@ L'[art. 19 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 20 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' abrogato.
+L'[art. 20 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' abrogato.
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
 
@@ -277,7 +277,7 @@ L'[art. 20 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 21 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 21 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 21. - 1. I ritratti di persone non possono essere registrati come marchi, senza il consenso delle medesime e, dopo la loro morte, senza il consenso del coniuge e dei figli, in loro mancanza, o dopo la loro morte, dei genitori e degli altri ascendenti; e, in mancanza, o dopo la morte anche di questi ultimi, dei parenti fino al quarto grado incluso. 
  2. I nomi di persona diversi da quello di chi chiede la registrazione possono essere registrati come marchi, purche' il loro uso non sia tale da ledere la fama, il credito o il decoro di chi ha diritto di portare tali nomi. L'Ufficio italiano brevetti e marchi ha tuttavia la facolta' di subordinare la registrazione al consenso stabilito al comma 1 del presente articolo. In ogni caso, la registrazione non impedira', a chi abbia diritto al nome, 
 di farne uso nella ditta da lui prescelta. 
@@ -289,7 +289,7 @@ di farne uso nella ditta da lui prescelta.
 
 1.
 
-L'[art. 22 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 22 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 22. - 1. Puo' ottenere una registrazione per marchio d'impresa chi lo utilizzi, o si proponga di utilizzarlo, nella fabbricazione o commercio di prodotti o nella prestazione di servizi della propria impresa o di imprese di cui abbia il controllo o che ne facciano uso con il suo consenso. 
  2. Non puo' ottenere una registrazione per marchio d'impresa chi abbia fatto la domanda in malafede. 
  3. Anche le amministrazioni dello Stato, delle regioni, delle province e dei comuni possono ottenere registrazioni di marchio.".
@@ -300,7 +300,7 @@ L'[art. 22 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 23 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 23 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 23. - 1. La registrazione di marchio, a favore di stranieri che non abbiano nel territorio dello Stato le imprese da cui provengono i prodotti o i servizi contraddistinti dal marchio stesso, puo' essere concessa se gli Stati ai quali appartengono i richiedenti accordano ai cittadini italiani reciprocita' di trattamento. 
  2. Tutti i benefici che le convenzioni internazionali riconoscono, abbiano riconosciuto o riconosceranno agli stranieri nel territorio dello Stato, in materia di marchi, si intendono estesi ai cittadini italiani.".
 
@@ -310,7 +310,7 @@ L'[art. 23 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 24 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 24 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 24. - 1. Il diritto di ottenere ai sensi delle Convenzioni internazionali la registrazione di un marchio registrato precedentemente all'estero, al quale si fa riferimento nella domanda, spetta al titolare del marchio all'estero, o al suo avente causa.".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
@@ -319,7 +319,7 @@ L'[art. 24 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 25 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 25 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 25. - 1. La domanda di registrazione del marchio d'impresa deve essere fatta da chi ha diritto di ottenerla ai sensi di questo decreto e delle convenzioni internazionali, o dal suo avente causa. 
  2. Qualora con sentenza passata in giudicato si accerti che il diritto alla registrazione del marchio spetta a una persona diversa da chi abbia depositato la domanda, tale persona puo', se la registrazione non sia stata ancora effettuata ed entro tre mesi dal passaggio in giudicato della sentenza, a sua scelta: 
  a) assumere a proprio nome la domanda di registrazione rivestendo a tutti gli effetti la qualita' di richiedente; 
@@ -335,7 +335,7 @@ L'[art. 25 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-Nel [comma primo dell'art. 26 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), la parola: "merci" e' sostituita dalla parola: "servizi".
+Nel [comma primo dell'art. 26 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), la parola: "merci" e' sostituita dalla parola: "servizi".
 
 2.
 
@@ -345,7 +345,7 @@ Nel comma terzo le parole: "o merce" sono sostituite con le parole: "o del mater
 
 1.
 
-Nel [comma 1 dell'art. 27 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), le parole: "centrale dei brevetti" sono sostituite dalle parole: 
+Nel [comma 1 dell'art. 27 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), le parole: "centrale dei brevetti" sono sostituite dalle parole: 
 "italiano brevetti e marchi.".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
@@ -354,7 +354,7 @@ Nel [comma 1 dell'art. 27 del regio decreto 21 giugno 1942, n. 929](../Regi%20de
 
 1.
 
-L'[art. 28 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 28 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 28. - 1. Se la rinnovazione sia chiesta per un marchio costituente modificazione, nei suoi caratteri distintivi, del marchio precedente, l'Ufficio italiano brevetti e marchi invitera' l'interessato, assegnandogli un termine, a trasformare la domanda di rinnovazione in domanda di primo deposito, che avra' effetto dalla data di tale domanda di rinnovazione. 
  2. Si applicano, nel caso di ricorso alla commissione, le disposizioni del precedente articolo.".
 
@@ -364,7 +364,7 @@ L'[art. 28 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-Nell'[art. 29 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), il [n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-06-21;2)) e' sostituito dal seguente: 
+Nell'[art. 29 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), il [n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-06-21;2)) e' sostituito dal seguente: 
  "2) se la parola, figura o segno possono essere registrati come marchio a norma degli articoli 16, 17, comma 1, lettera a), 18, comma 1, lettere a), b), c), d), e) e 21.".
 
 2.
@@ -376,15 +376,15 @@ Il comma secondo e' sostituito dal seguente:
 
 1.
 
-Nell'[art. 30 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), le parole del comma primo: "prima di concedere il brevetto" sono sostituite con le parole: "prima della registrazione".
+Nell'[art. 30 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), le parole del comma primo: "prima di concedere il brevetto" sono sostituite con le parole: "prima della registrazione".
 
 2.
 
-Nell'[art. 31 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), le parole: "alla concessione del brevetto" sono sostituite con le parole: "alla registrazione del marchio".
+Nell'[art. 31 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), le parole: "alla concessione del brevetto" sono sostituite con le parole: "alla registrazione del marchio".
 
 3.
 
-Nell'[art. 33 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), le parole: "centrale dei brevetti" sono sostituite dalle parole: "italiano brevetti e marchi".
+Nell'[art. 33 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), le parole: "centrale dei brevetti" sono sostituite dalle parole: "italiano brevetti e marchi".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
 
@@ -392,7 +392,7 @@ Nell'[art. 33 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%
 
 1.
 
-L'[art. 34 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md) e' sostituito dal seguente: 
+L'[art. 34 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md) e' sostituito dal seguente: 
  "Art. 34. - 1. La registrazione non pregiudica l'esercizio delle azioni giudiziarie circa la validita' e l'appartenenza del marchio.".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
@@ -401,7 +401,7 @@ L'[art. 34 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 35 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 35 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 35. - 1. L'Ufficio pubblica la notizia delle domande e delle registrazioni effettuate e l'esemplare dei marchi nel Bollettino di cui all'art. 80 del presente decreto. 
  2. Avvenuta la presentazione della domanda, gli esemplari del marchio e in genere i documenti relativi sono posti a disposizione del pubblico.".
 
@@ -411,7 +411,7 @@ L'[art. 35 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 36 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 36 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 36. - 1. La registrazione del marchio d'impresa e' soggetta alle segunti tasse: 
  a) tassa di domanda di prima registrazione; 
  b) tassa di prima registrazione, da commisurarsi in ragione delle classi di cui alla classificazione internazionale dei prodotti e dei servizi risultante dall'accordo di Nizza 15 giugno 1957, e successive modificazioni; 
@@ -424,7 +424,7 @@ L'[art. 36 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 37 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' abrogato.
+L'[art. 37 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' abrogato.
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
 
@@ -432,7 +432,7 @@ L'[art. 37 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 38 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 38 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 38. - 1. La tassa di domanda e la tassa di prima registrazione devono essere pagate prima del deposito della domanda. 
  2. Del pari, la tassa di rinnovazione deve essere pagata prima del deposito della relativa domanda. 
  3. In caso di rigetto della domanda o di rinuncia alla medesima, prima che la registrazione sia stata effettuata, sono rimborsate le somme versate, ad eccezione della tassa di domanda.".
@@ -443,7 +443,7 @@ L'[art. 38 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 39 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' abrogato.
+L'[art. 39 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' abrogato.
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
 
@@ -458,7 +458,7 @@ L'art. 40 del regio deceto 21 giugno 1942, n. 929, e' sostituito dal seguente:
 
 1.
 
-L'[art. 41 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 41 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 41. - 1. Il marchio d'impresa decade nei casi seguenti: 
  a) se il marchio sia divenuto nel commercio, per il fatto dell'attivita' o dell'inattivita' del suo titolare, denominazione generica del prodotto o servizio; 
  b) se il marchio diviene idoneo a indurre in inganno il pubblico, in particolare circa la natura, qualita' o provenienza dei prodotti o servizi, a causa del modo o del contesto in cui viene utilizzato dal titolare o con il suo consenso, per i prodotti o servizi per i quali e' registrato; 
@@ -468,7 +468,7 @@ L'[art. 41 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 42 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 42 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 42. - 1. Il marchio decade altresi' se non e' stato oggetto di uso effettivo da parte del titolare o con il suo consenso, per i prodotti o servizi per i quali e' stato registrato, entro cinque anni dalla registrazione, o se tale uso e' stato sospeso per un periodo ininterrotto di cinque anni, salvo che il mancato uso sia giustificato da un motivo legittimo. 
  2. Ai fini di cui al presente articolo sono equiparati all'uso del marchio l'uso dello stesso in una forma modificata che non ne alteri il carattere distintivo, nonche' l'apposizione nello Stato del marchio sui prodotti o sulle loro confezioni ai fini dell'esportazione di essi. 
  3. Salvo il caso di diritti acquistati sul marchio da terzi con il deposito o con l'uso, la decadenza non puo' essere fatta valere qualora fra la scadenza del quinquennio di non uso e la proposizione della domanda principale o riconvenzionale di decadenza sia iniziato o ripreso l'uso effettivo del marchio. Tuttavia se il titolare effettua i preparativi per l'inizio o per la ripresa dell'uso del marchio solo dopo aver saputo che sta per essere proposta la domanda principale o riconvenzionale di decadenza, tali inizio o ripresa non vengono presi in considerazione se non effettuati almeno tre mesi prima della proposizione della domanda principale o riconvenzionale di decadenza; tale periodo assume peraltro rilievo solo se decorso successivamente alla scadenza del quinquennio di mancato uso. 
@@ -478,7 +478,7 @@ L'[art. 42 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 43 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 43 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 43. - 1. Il marchio decade altresi' per omissione da parte del titolare dei controlli previsti dalle disposizioni regolamentari sull'uso del marchio collettivo.".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
@@ -487,7 +487,7 @@ L'[art. 43 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-Gli [articoli 44](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), [45](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md) e [46 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), sono abrogati.
+Gli [articoli 44](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), [45](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md) e [46 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), sono abrogati.
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
 
@@ -510,7 +510,7 @@ a) se manca di uno dei requisiti previsti nell'art. 16 o se sussista uno degli i
 
 1.
 
-L'[art. 48 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 48 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 48. - 1. Il titolare di un marchio d'impresa anteriore ai sensi dell'art. 17, comma 1, lettere d) ed e), e il titolare di un diritto di preuso che importi notorieta' non puramente locale, i quali abbiano, durante cinque anni consecutivi, tollerato, essendone a conoscenza, l'uso di un marchio posteriore registrato uguale o simile, non possono domandare la dichiarazione di nullita' del marchio posteriore ne' opporsi all'uso dello stesso per i prodotti o servizi in relazione ai quali il detto marchio e' stato usato sulla base del proprio marchio anteriore o del proprio preuso, salvo il caso in cui il marchio posteriore sia stato domandato in malafede. Il titolare del marchio posteriore non puo' opporsi all'uso di quello anteriore o alla continuazione del preuso. 
  2. La preclusione all'azione di nullita' di cui al comma 1 si estende anche ai terzi. 
  3. La disciplina del comma 1 si applica anche al caso di marchio registrato in violazione dell'art. 18, comma 1, lettera f), e dell'art. 21.".
@@ -521,7 +521,7 @@ L'[art. 48 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-Nel [comma primo dell'art. 49 del regio decreto 21 giugno 1942,  n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), le parole: "centrale dei brevetti" sono sostituite dalle seguenti: "italiano brevetti e marchi".
+Nel [comma primo dell'art. 49 del regio decreto 21 giugno 1942,  n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), le parole: "centrale dei brevetti" sono sostituite dalle seguenti: "italiano brevetti e marchi".
 
 2.
 
@@ -534,7 +534,7 @@ Il n. 1) dello stesso comma e' sostituito dal seguente:
 
 1.
 
-Nel [comma secondo dell'art. 50 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), le parole: "centrale dei brevetti" sono sostituite dalle parole: "italiano brevetti e marchi".
+Nel [comma secondo dell'art. 50 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), le parole: "centrale dei brevetti" sono sostituite dalle parole: "italiano brevetti e marchi".
 
 2.
 
@@ -546,7 +546,7 @@ Nel comma sesto dello stesso articolo le parole: "sul brevetto" sono sostituite 
 
 1.
 
-Nel [comma primo dell'art. 51 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), le parole: "sul brevetto" sono sostituite dalle parole: "sul marchio".
+Nel [comma primo dell'art. 51 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), le parole: "sul brevetto" sono sostituite dalle parole: "sul marchio".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
 
@@ -554,7 +554,7 @@ Nel [comma primo dell'art. 51 del regio decreto 21 giugno 1942, n. 929](../Regi%
 
 1.
 
-Nel [comma primo dell'art. 52 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), l'espressione: "dell'Ufficio centrale dei brevetti per invenzioni, modelli e marchi" e' sostituita dalla seguente: "dell'Ufficio italiano brevetti e marchi".
+Nel [comma primo dell'art. 52 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), l'espressione: "dell'Ufficio centrale dei brevetti per invenzioni, modelli e marchi" e' sostituita dalla seguente: "dell'Ufficio italiano brevetti e marchi".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
 
@@ -562,7 +562,7 @@ Nel [comma primo dell'art. 52 del regio decreto 21 giugno 1942, n. 929](../Regi%
 
 1.
 
-Nel [comma primo dell'art. 53 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), le parole: "centrale dei brevetti" sono sostituite dalle parole: "italiano brevetti e marchi".
+Nel [comma primo dell'art. 53 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), le parole: "centrale dei brevetti" sono sostituite dalle parole: "italiano brevetti e marchi".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
 
@@ -570,7 +570,7 @@ Nel [comma primo dell'art. 53 del regio decreto 21 giugno 1942, n. 929](../Regi%
 
 1.
 
-Nell'[art. 54 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), le parole: "dei brevetti per marchi d'impresa" sono sostituite dalle parole: "dei marchi d'impresa".
+Nell'[art. 54 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), le parole: "dei brevetti per marchi d'impresa" sono sostituite dalle parole: "dei marchi d'impresa".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
 
@@ -578,7 +578,7 @@ Nell'[art. 54 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%
 
 1.
 
-Nell'[art. 55 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), le parole: "brevetti per" sono soppresse.
+Nell'[art. 55 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), le parole: "brevetti per" sono soppresse.
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi 
  d'impresa.
@@ -587,7 +587,7 @@ Nell'[art. 55 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%
 
 1.
 
-Nell'[art. 56 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), il comma primo e' sostituito dal seguente: 
+Nell'[art. 56 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), il comma primo e' sostituito dal seguente: 
  "Le azioni in materia di marchi gia' registrati o in corso di registrazione e le azioni in materia di marchi registrati presso l'Organizzazione mondiale della proprieta' intellettuale di Ginevra, relativamente a quanto si riferisce ai loro effetti nel territorio dello Stato, si propongono davanti all'autorita' giudiziaria dello Stato, qualunque sia la cittadinanza, il domicilio, o la residenza delle parti.".
 
 2.
@@ -614,7 +614,7 @@ Nel comma terzo le parole: "nel Registro dei brevetti" sono sostituite dalle par
 
 1.
 
-L'[art. 60 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 60 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 60. - 1. Una copia dell'atto introduttivo di ogni giudizio civile in materia di marchi registrati deve essere comunicata all'Ufficio italiano brevetti e marchi a cura di chi promuove il giudizio. 
  2. Ove alla comunicazione anzidetta non si sia provveduto, l'autorita' giudiziaria, in qualunque grado del giudizio, prima di decidere nel merito, dispone che tale comunicazione venga effettuata. 
  3. Il cancelliere deve trasmettere all'Ufficio suddetto copia delle relative sentenze.".
@@ -625,7 +625,7 @@ L'[art. 60 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-Nel [comma 1 dell'art. 61 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), le parole: "Il titolare dei diritti di brevetto per marchio" sono sostituite dalle seguenti: "Il titolare dei diritti sul marchio registrato o in corso di registrazione".
+Nel [comma 1 dell'art. 61 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), le parole: "Il titolare dei diritti di brevetto per marchio" sono sostituite dalle seguenti: "Il titolare dei diritti sul marchio registrato o in corso di registrazione".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
 
@@ -633,7 +633,7 @@ Nel [comma 1 dell'art. 61 del regio decreto 21 giugno 1942, n. 929](../Regi%20de
 
 1.
 
-Nel [comma 1 dell'art. 63 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), le parole: "Nel corso del giudizio per violazione dei diritti di brevetto per marchio" sono sostituite dalle seguenti: "Nel corso del giudizio per violazione dei diritti sul marchio registrato o in corso di registrazione".
+Nel [comma 1 dell'art. 63 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), le parole: "Nel corso del giudizio per violazione dei diritti di brevetto per marchio" sono sostituite dalle seguenti: "Nel corso del giudizio per violazione dei diritti sul marchio registrato o in corso di registrazione".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
 
@@ -641,7 +641,7 @@ Nel [comma 1 dell'art. 63 del regio decreto 21 giugno 1942, n. 929](../Regi%20de
 
 1.
 
-L'[art. 64 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 64 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 64. - 1. In deroga a quanto e' disposto negli articoli 61 e 62 e salve le esigenze della giustizia penale, non possono essere sequestrati, ma soltanto descritti, gli oggetti nei quali si ravvisi una violazione di marchio registrato, finche' figurino nel recinto di un'esposizione, ufficiale o ufficialmente riconosciuta, tenuta nel territorio dello Stato, o siano in transito da o per la medesima. 
  2. Quando gli oggetti provengono dall'estero, l'istante, per ottenere la descrizione, deve dimostrare di essere titolare del marchio in Italia e nel Paese di provenienza degli oggetti.".
 
@@ -651,7 +651,7 @@ L'[art. 64 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-Nell'[art. 65 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), le parole: "di brevetto per marchio" sono sostituite dalle parole: "sul marchio registrato".
+Nell'[art. 65 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), le parole: "di brevetto per marchio" sono sostituite dalle parole: "sul marchio registrato".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
 
@@ -659,7 +659,7 @@ Nell'[art. 65 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%
 
 1.
 
-Nel [comma 1 dell'art. 66 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), le parole: "o la merce" sono sostituite dalle seguenti: "o il materiale inerente alla prestazione del servizio".
+Nel [comma 1 dell'art. 66 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), le parole: "o la merce" sono sostituite dalle seguenti: "o il materiale inerente alla prestazione del servizio".
 
 2.
 
@@ -671,7 +671,7 @@ Nel comma terzo le parole "brevetto per" sono soppresse.
 
 1.
 
-L'[art. 67 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 67 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 67. - 1. Chiunque appone su un oggetto parole o indicazioni non corrispondenti al vero, tendenti a far credere che il marchio che lo contraddistingue sia stato registrato, oppure tendenti a far credere che l'oggetto contraddistinto sia brevettato, e' punito con la sanzione amministrativa da lire centomila a lire un milione. 
  2. Salvo che il fatto costituisca reato, e' punito con la sanzione amministrativa estensibile fino a lire quattro milioni, anche quando non vi sia danno al terzo, chiunque contravviene al disposto degli articoli 10 e 12.".
 
@@ -681,7 +681,7 @@ L'[art. 67 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 74, comma primo, del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 74, comma primo, del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Le domande previste nel presente decreto debbono essere dirette all'Ufficio italiano brevetti e marchi".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
@@ -690,7 +690,7 @@ L'[art. 74, comma primo, del regio decreto 21 giugno 1942, n. 929](../Regi%20dec
 
 1.
 
-L'[art. 76, del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 76, del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 76. - 1. Il richiedente o il mandatario, se vi sia, deve in ciascuna domanda indicare o eleggere il suo domicilio nello Stato per tutte le comunicazioni e notificazioni da farsi a norma del presente decreto. I mutamenti del domicilio debbono essere portati a conoscenza dell'Ufficio, che li annota nell'attestato originale di registrazione. 
  2. Ove manchi l'indicazione o l'elezione del domicilio, ovvero nel caso in cui sia comunicata all'Ufficio la cessazione del domicilio eletto ai termini del comma primo e finche' non sia comunicata nuova elezione di domicilio, nello Stato le comunicazioni e notificazioni anzidette si eseguono mediante affissione di copia dell'atto, o avviso del contenuto di esso, nell'albo dell'Ufficio italiano brevetti e marchi. 
  3. I mutamenti del nome del titolare del marchio debbono essere portati a conoscenza dell'Ufficio, con i documenti giustificativi, per l'annotazione nell'attestato originale di registrazione.".
@@ -701,7 +701,7 @@ L'[art. 76, del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20
 
 1.
 
-L'[art. 77, del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 77, del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 77. - 1. Nessuno e' tenuto a farsi rappresentare da un mandatario abilitato nelle procedure di fronte all'Ufficio italiano brevetti e marchi; le persone fisiche e giuridiche possono agire per mezzo di un loro dipendente anche se non abilitato, o per mezzo di un dipendente di altra societa' collegata. 
  2. La nomina di uno o piu' mandatari, qualora non sia fatta con separato atto, autentico od autenticato, puo' farsi con apposita lettera d'incarico, soggetta al pagamento della tassa prescritta. 
  3. Il mandato conferito con la lettera d'incarico vale soltanto per l'oggetto in essa specificato e limitatamente ai rapporti con l'Ufficio italiano brevetti e marchi. 
@@ -714,7 +714,7 @@ L'[art. 77, del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20
 
 1.
 
-L'[art. 78, del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 78, del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 78. - 1. La domanda diretta ad ottenere un provvedimento, per cui e' prescritto il pagamento di una tassa, non e' ricevibile qualora non sia corredata dal documento che ne comprovi l'effettuato pagamento. 
  2. I pagamenti possono essere effettuati anche da persona diversa dal titolare del marchio.".
 
@@ -724,7 +724,7 @@ L'[art. 78, del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20
 
 1.
 
-Nel [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' aggiunto il seguente articolo: 
+Nel [regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' aggiunto il seguente articolo: 
  "Art. 78- bis . - 1. Il richiedente o il titolare di un marchio che, pur avendo usato la massima diligenza esigibile, non abbia potuto osservare un termine nei confronti dell'Ufficio italiano brevetti e marchi o della commissione dei ricorsi e' reintegrato nei suoi diritti se l'impedimento ha per conseguenza diretta il rigetto della domanda di registrazione o di una istanza ad essa relativa, ovvero la decadenza della registrazione o la perdita di qualsiasi altro diritto o di una facolta' di ricorso. 
  2. Nel termine di due mesi dalla cessazione dell'impedimento deve essere compiuto l'atto omesso e deve essere presentata l'istanza di reintegrazione, con l'indicazione dei fatti e delle giustificazioni e con la documentazione idonea. L'istanza non e' ricevibile se sia trascorso un anno dalla scadenza del termine non osservato. 
  3. Contro i provvedimenti di rigetto dell'istanza di reintegrazione da parte dell'Ufficio e' ammesso il ricorso, entro trenta giorni dalla comunicazione, alla commissione dei ricorsi.
@@ -737,7 +737,7 @@ Sull'istanza di reintegrazione del diritto di presentare ricorso de- cide la com
 
 1.
 
-Nel [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' aggiunto il seguente articolo: 
+Nel [regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' aggiunto il seguente articolo: 
  "Art. 78- ter . - 1. Chiunque abbia fatto preparativi seri ed effettivi o abbia iniziato ad utilizzare il marchio nel periodo compreso fra la perdita dell'esclusiva o del diritto di acquistarla e la reintegrazione ai sensi dell'art. 78- bis puo' chiedere di essere reintegrato delle spese sostenute, salvo il caso in cui tali preparativi o uso siano avvenuti in malafede.".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
@@ -746,7 +746,7 @@ Nel [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20dis
 
 1.
 
-L'[art. 79 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
+L'[art. 79 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
  "Art. 79. - 1. La raccolta delle domande, quella degli attestati originali e i relativi documenti sono accessibili al pubblico. 
  2. Chiunque puo' prendere visione ed ottenere, per certificato o per estratto, notizia delle registrazioni, delle trascrizioni e delle annotazioni, nonche' copia delle domande e dei relativi documenti. 
  3. Tali certificati o estratti, nonche' l'autenticazione di copie di atti e documenti, sono soggetti al pagamento delle tasse prescritte.".
@@ -757,8 +757,8 @@ L'[art. 79 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-L'[art. 80 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: 
- "Art. 80. - 1. Le pubblicazioni previste nel presente decreto si effettuano nel 'Bollettino dei brevetti per invenzioni e modelli e dei marchi' di cui all'[art. 97 del regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), sui brevetti per invenzioni industriali.".
+L'[art. 80 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: 
+ "Art. 80. - 1. Le pubblicazioni previste nel presente decreto si effettuano nel 'Bollettino dei brevetti per invenzioni e modelli e dei marchi' di cui all'[art. 97 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), sui brevetti per invenzioni industriali.".
 
 - Il [R.D. n. 929/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;929) approva il testo delle disposizioni legislative in materia di brevetti e marchi d'impresa.
 
@@ -766,7 +766,7 @@ L'[art. 80 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20d
 
 1.
 
-Il titolo del [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituito dal seguente: "Testo delle disposizioni legislative in materia di marchi registrati".
+Il titolo del [regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituito dal seguente: "Testo delle disposizioni legislative in materia di marchi registrati".
 
 2.
 
@@ -775,7 +775,7 @@ La rubrica del titolo I e' sostituita dalla seguente: "Diritto e uso del marchio
 
 3.
 
-Le tabelle A, B e C allegate al [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), sono soppresse.
+Le tabelle A, B e C allegate al [regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), sono soppresse.
 
 ## MODIFICHE AL DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 GIUGNO 1972, N. 540, E SUCCESSIVE MODIFICAZIONI
 
@@ -888,8 +888,8 @@ Nel titolo VIII e IX sulla proprieta' industriale e intellettuale, ogniqualvolta
 
 ### Art. 80.
 
-1) Registrazione per marchi d'impresa ([articoli da 36](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md) [a 40 del 
-regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md)): 
+1) Registrazione per marchi d'impresa ([articoli da 36](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md) [a 40 del 
+regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md)): 
  
  a) per la domanda di primo deposito . . . . . . . . . . L. 50.000  
  b) per il rilascio dell'attestato di primo deposito o di quello 
@@ -968,7 +968,7 @@ Capo V
 
 1.
 
-L'[art. 70 del regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), e succes- sive modificazioni, e' sostituito dal seguente: 
+L'[art. 70 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), e succes- sive modificazioni, e' sostituito dal seguente: 
  "Art. 70. - Ai servizi attinenti alla materia regolata dal presente decreto provvede, presso il Ministero dell'industria, del commercio e dell'artigianato, l'Ufficio italiano brevetti e marchi.".
 
 Nota al capo V ([articoli 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939;1127#art_84)-[86):
@@ -978,7 +978,7 @@ Nota al capo V ([articoli 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 1.
 
-L'[art. 97 del regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), e succes- sive modificazioni, e' sostituito dal seguente: 
+L'[art. 97 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), e succes- sive modificazioni, e' sostituito dal seguente: 
  "Art. 97. - Le pubblicazioni previste nel presente decreto si effettuano nel Bollettino dei brevetti per invenzioni e modelli e dei marchi, edito a cura dell'Ufficio italiano brevetti e marchi.".
 
 Nota al capo V ([articoli 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939;1127#art_84)-[86):
@@ -1014,7 +1014,7 @@ Il diritto di far uso esclusivo di un marchio concesso prima della data di entra
 
 2. Non puo' essere dichiarata la nullita' del marchio se, anteriormente alla proposizione della domanda principale o riconvenzionale di nullita', il segno, a seguito dell'uso che ne sia stato fatto, abbia acquistato carattere distintivo. 
  3. Non puo' essere dichiarata la nullita' del marchio se il marchio anteriore sia scaduto da oltre due anni, ovvero tre se si tratta di marchio collettivo, o possa considerarsi decaduto per non uso anteriormente alla proposizione della domanda principale o riconvenzionale di nullita'. 
- 4. Ai fini dell'applicazione dell'[art. 48 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), come sostituito dal presente decreto, il termine di cinque anni decorre dalla data di entrata in vigore dello stesso.
+ 4. Ai fini dell'applicazione dell'[art. 48 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), come sostituito dal presente decreto, il termine di cinque anni decorre dalla data di entrata in vigore dello stesso.
 
 ### Art. 90.
 

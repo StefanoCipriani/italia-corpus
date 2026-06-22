@@ -18,9 +18,9 @@ Visto il [regio decreto-legge 3 gennaio 1926, n. 60](Modificazione%20al%20R.%20d
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 17 novembre 1944, n. 335](../Decreti%20legislativi%20luogotenenziali/Norme%20sulla%20costituzione%20dei%20Gabinetti%20dei%20Ministri%20e%20delle%20Segreterie%20particolari%20dei%20Ministri%20e%20dei%20Sottosegretari%20di%20Stato%20e%20sul%20trattamento%20economico%20del%20relativo%20personale.%20044U0335.md);
+Visto il [decreto legislativo luogotenenziale 17 novembre 1944, n. 335](Norme%20sulla%20costituzione%20dei%20Gabinetti%20dei%20Ministri%20e%20delle%20Segreterie%20particolari%20dei%20Ministri%20e%20dei%20Sottosegretari%20di%20Stato%20e%20sul%20trattamento%20economico%20del%20relativo%20personale.%20044U0335.md);
 
-Visto il [decreto legislativo luogotenenziale 23 maggio 1945, n. 260](../Decreti%20legislativi%20luogotenenziali/Revisione%20del%20trattamento%20economico%20del%20personale%20estraneo%20allAmministrazione%20statale%20addetto%20al%20Gabinetto%20dei%20Ministri%20ed%20alle%20Segreterie%20particolari%20dei%20Ministri%20e%20Sottosegretari%20di%20Stato.%20045U0260.md);
+Visto il [decreto legislativo luogotenenziale 23 maggio 1945, n. 260](Revisione%20del%20trattamento%20economico%20del%20personale%20estraneo%20allAmministrazione%20statale%20addetto%20al%20Gabinetto%20dei%20Ministri%20ed%20alle%20Segreterie%20particolari%20dei%20Ministri%20e%20Sottosegretari%20di%20Stato.%20045U0260.md);
 
 Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
@@ -59,7 +59,7 @@ Salvo quanto stabilito dalle disposizioni vigenti per i Capi di Gabinetto e per 
 
 ## Art. 5.
 
-Le disposizioni di cui agli articoli 1 e 2 del presente decreto non sono applicabili ai Gabinetti e alle Segreterie particolari dei Ministri senza portafoglio, il cui organico rimane confermato secondo le norme previste dal [decreto legislativo luogotenenziale 17 novembre 1944, n. 335](../Decreti%20legislativi%20luogotenenziali/Norme%20sulla%20costituzione%20dei%20Gabinetti%20dei%20Ministri%20e%20delle%20Segreterie%20particolari%20dei%20Ministri%20e%20dei%20Sottosegretari%20di%20Stato%20e%20sul%20trattamento%20economico%20del%20relativo%20personale.%20044U0335.md).
+Le disposizioni di cui agli articoli 1 e 2 del presente decreto non sono applicabili ai Gabinetti e alle Segreterie particolari dei Ministri senza portafoglio, il cui organico rimane confermato secondo le norme previste dal [decreto legislativo luogotenenziale 17 novembre 1944, n. 335](Norme%20sulla%20costituzione%20dei%20Gabinetti%20dei%20Ministri%20e%20delle%20Segreterie%20particolari%20dei%20Ministri%20e%20dei%20Sottosegretari%20di%20Stato%20e%20sul%20trattamento%20economico%20del%20relativo%20personale.%20044U0335.md).
 
 ## Art. 6.
 
@@ -74,11 +74,11 @@ Ai componenti i Gabinetti dei Ministri e le Segreterie particolari dei Sottosegr
 
 ## Art. 8.
 
-Le disposizioni di cui ai precedenti articoli 6 e 7, si applicano anche al personale al quale in base alle disposizioni vigenti, compete l'indennita' di Gabinetto di cui all'[art. 1 del decreto legislativo luogotenenziale 17 novembre 1944, n. 335](../Decreti%20legislativi%20luogotenenziali/Norme%20sulla%20costituzione%20dei%20Gabinetti%20dei%20Ministri%20e%20delle%20Segreterie%20particolari%20dei%20Ministri%20e%20dei%20Sottosegretari%20di%20Stato%20e%20sul%20trattamento%20economico%20del%20relativo%20personale.%20044U0335.md).
+Le disposizioni di cui ai precedenti articoli 6 e 7, si applicano anche al personale al quale in base alle disposizioni vigenti, compete l'indennita' di Gabinetto di cui all'[art. 1 del decreto legislativo luogotenenziale 17 novembre 1944, n. 335](Norme%20sulla%20costituzione%20dei%20Gabinetti%20dei%20Ministri%20e%20delle%20Segreterie%20particolari%20dei%20Ministri%20e%20dei%20Sottosegretari%20di%20Stato%20e%20sul%20trattamento%20economico%20del%20relativo%20personale.%20044U0335.md).
 
 ## Art. 9.
 
-Col 1° ottobre 1946 cessano di avere vigore le disposizioni di cui all'[art. 4 del decreto legislativo luogotenenziale 17 novembre 1944, n. 335](../Decreti%20legislativi%20luogotenenziali/Norme%20sulla%20costituzione%20dei%20Gabinetti%20dei%20Ministri%20e%20delle%20Segreterie%20particolari%20dei%20Ministri%20e%20dei%20Sottosegretari%20di%20Stato%20e%20sul%20trattamento%20economico%20del%20relativo%20personale.%20044U0335.md).
+Col 1° ottobre 1946 cessano di avere vigore le disposizioni di cui all'[art. 4 del decreto legislativo luogotenenziale 17 novembre 1944, n. 335](Norme%20sulla%20costituzione%20dei%20Gabinetti%20dei%20Ministri%20e%20delle%20Segreterie%20particolari%20dei%20Ministri%20e%20dei%20Sottosegretari%20di%20Stato%20e%20sul%20trattamento%20economico%20del%20relativo%20personale.%20044U0335.md).
 
 ## Art. 10.
 

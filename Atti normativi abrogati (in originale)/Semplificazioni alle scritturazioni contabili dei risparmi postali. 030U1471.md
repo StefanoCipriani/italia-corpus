@@ -20,13 +20,13 @@ Vista la [legge 8 luglio 1897, n. 252](Che%20costituisce%20un%20fondo%20di%20ris
 
 Vista la [legge 3 luglio 1902, n. 280](Che%20prescrive%20a%20vantaggio%20della%20Cassa%20Nazionale%20di%20previdenza%20per%20la%20vecchiaia%20e%20la%20invalidita%20degli%20operai%20il%20libretto%20della%20Cassa%20postale%20di%20risparmio%20portante%20credito%20non%20superiore%20ad%20_d604a32326be.md);
 
-Visto il [R. decreto 11 giugno 1903, n. 394](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20il%20servizio%20delle%20casse%20di%20risparmio%20postali.%20003U0394.md);
+Visto il [R. decreto 11 giugno 1903, n. 394](Che%20approva%20il%20regolamento%20per%20il%20servizio%20delle%20casse%20di%20risparmio%20postali.%20003U0394.md);
 
-Visto il [R. decreto 20 dicembre 1914, n. 1378](../Regi%20decreti/Col%20quale%20e%20autorizzata%20listituzione%20dei%20libretti%20al%20portatore%20per%20depositi%20a%20risparmio%20presso%20le%20Casse%20postali.%20014U1378.md);
+Visto il [R. decreto 20 dicembre 1914, n. 1378](Col%20quale%20e%20autorizzata%20listituzione%20dei%20libretti%20al%20portatore%20per%20depositi%20a%20risparmio%20presso%20le%20Casse%20postali.%20014U1378.md);
 
-Visto il [R. decreto 16 maggio 1915, n. 763](../Regi%20decreti/Col%20quale%20e%20approvato%20lunito%20regolamento%20per%20lesecuzione%20del%20servizio%20dei%20libretti%20al%20portatore%20per%20i%20depositi%20a%20risparmio%20presso%20le%20casse%20postali.%20015U0763.md);
+Visto il [R. decreto 16 maggio 1915, n. 763](Col%20quale%20e%20approvato%20lunito%20regolamento%20per%20lesecuzione%20del%20servizio%20dei%20libretti%20al%20portatore%20per%20i%20depositi%20a%20risparmio%20presso%20le%20casse%20postali.%20015U0763.md);
 
-Visto il [R. decreto 24 dicembre 1922, n. 1677](../Regi%20decreti/Concernente%20la%20prescrizione%20dei%20depositi%20ed%20altre%20modificazioni%20alla%20legge%20sulle%20Casse%20di%20risparmio%20postali.%20022U1677.md);
+Visto il [R. decreto 24 dicembre 1922, n. 1677](Concernente%20la%20prescrizione%20dei%20depositi%20ed%20altre%20modificazioni%20alla%20legge%20sulle%20Casse%20di%20risparmio%20postali.%20022U1677.md);
 
 Visto il [R. decreto-legge 16 maggio 1926, n. 902](Cespiti%20di%20spettanza%20dellAmministrazione%20postale%20telegrafica%20Prescrizione%20dei%20piccoli%20crediti%20infruttiferi%20sui%20libretti%20dl%20risparmio%20postale.%20026U0902.md), convertito nella [legge 7 aprile 1927, n. 491](Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20maggio%201926%20n.%20902%20riguardante%20la%20devoluzione%20al%20bilancio%20autonomo%20dellAmministrazione%20postale-telegrafica%20di%20alcuni%20cespiti%20di%20entrata%20relati_cebf35ead443.md);
 
@@ -40,7 +40,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-L'[art. 3 del R. decreto 24 dicembre 1922, n. 1677](../Regi%20decreti/Concernente%20la%20prescrizione%20dei%20depositi%20ed%20altre%20modificazioni%20alla%20legge%20sulle%20Casse%20di%20risparmio%20postali.%20022U1677.md), e' modificato come appresso: 
+L'[art. 3 del R. decreto 24 dicembre 1922, n. 1677](Concernente%20la%20prescrizione%20dei%20depositi%20ed%20altre%20modificazioni%20alla%20legge%20sulle%20Casse%20di%20risparmio%20postali.%20022U1677.md), e' modificato come appresso: 
  
  «All'[art. 29 della legge 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-01-02;453#art_29), libro II, parte prima, e' sostituito l'articolo seguente: 
  

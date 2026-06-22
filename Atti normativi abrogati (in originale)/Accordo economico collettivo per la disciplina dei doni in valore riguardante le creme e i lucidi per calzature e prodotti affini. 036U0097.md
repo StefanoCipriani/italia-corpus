@@ -18,7 +18,7 @@ IL CAPO DEL GOVERNO
  
  Visto il parere espresso dalla Corporazione della chimica, nella seduta del 4 dicembre 1935-XIV, ai sensi dell'[art. 9 della legge 5 febbraio 1934, n. 163](Costituzione%20e%20funzioni%20delle%20Corporazioni.%20034U0163.md); 
  
- Vista l'approvazione data dal Comitato corporativo centrale nella seduta del 21 gennaio 1936-XIV ai sensi dell'[art. 1 del R. decreto-legge 18 aprile 1935, n. 441](Norme%20sulle%20attribuzioni%20del%20Comitato%20corporativo%20centrale.%20035U0441.md), convertito in legge con la [legge 12 settembre 1935, n. 1745](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2018%20aprile%201935-XIII%20n.%20441%20contenente%20norme%20sulle%20attribuzioni%20del%20Comitato%20corporativo%20centrale.%20035U1745.md); 
+ Vista l'approvazione data dal Comitato corporativo centrale nella seduta del 21 gennaio 1936-XIV ai sensi dell'[art. 1 del R. decreto-legge 18 aprile 1935, n. 441](Norme%20sulle%20attribuzioni%20del%20Comitato%20corporativo%20centrale.%20035U0441.md), convertito in legge con la [legge 12 settembre 1935, n. 1745](Conversione%20in%20legge%20del%20R.%20decreto-legge%2018%20aprile%201935-XIII%20n.%20441%20contenente%20norme%20sulle%20attribuzioni%20del%20Comitato%20corporativo%20centrale.%20035U1745.md); 
  
  Visto l'[art. 11 della legge 5 febbraio 1934, n. 163](Costituzione%20e%20funzioni%20delle%20Corporazioni.%20034U0163.md); 
  

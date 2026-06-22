@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 194 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), che da' facolta' al Governo, quando ne riconosca la possibilita', di disporre la riduzione degli assegni attribuiti al personale, a cominciare da quelli corrisposti a titolo di caro-viveri, e stabilisce che la riduzione debba avere applicazione generale e contemporanea per tutte le categorie di personale civile e militare;
+Visto l'[art. 194 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), che da' facolta' al Governo, quando ne riconosca la possibilita', di disporre la riduzione degli assegni attribuiti al personale, a cominciare da quelli corrisposti a titolo di caro-viveri, e stabilisce che la riduzione debba avere applicazione generale e contemporanea per tutte le categorie di personale civile e militare;
 
 Visto l'[art. 19 del R. decreto 7 aprile 1925, n. 405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-07;405#art_19), di approvazione del regolamento ferroviario, che reca disposizione analoga a quella suindicata nei riguardi del personale medesimo;
 
@@ -70,10 +70,10 @@ Gli assegni di caro-viveri stabiliti con la [legge 26 dicembre 1920, n. 1827](Re
  
  b) di L. 30 mensili per i titolari di pensioni od assegni di riversibilita'. 
  
- Ai limiti di L. 9560 e L. 8960, previsti, per la corresponsione degli indicati assegni, dall'[art. 15 del R. decreto 21 novembre 1923, n. 2477](../Regi%20decreti/Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md), sono sostituiti rispettivamente quelli di L. 8960 e di L.
+ Ai limiti di L. 9560 e L. 8960, previsti, per la corresponsione degli indicati assegni, dall'[art. 15 del R. decreto 21 novembre 1923, n. 2477](Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md), sono sostituiti rispettivamente quelli di L. 8960 e di L.
 8600. 
  
- Gli assegni di caro-viveri concessi ai pensionati del cessato regime col [R. decreto 14 maggio 1922, n. 743](../Regi%20decreti/Che%20estende%20ai%20pensionati%20del%20cessato%20regime%20i%20provvedimenti%20contenuti%20nel%20R.%20decreto-legge%2029%20dicembre%201921%20n.%201964.%20022U0743.md), sono ridotti della meta'. 
+ Gli assegni di caro-viveri concessi ai pensionati del cessato regime col [R. decreto 14 maggio 1922, n. 743](Che%20estende%20ai%20pensionati%20del%20cessato%20regime%20i%20provvedimenti%20contenuti%20nel%20R.%20decreto-legge%2029%20dicembre%201921%20n.%201964.%20022U0743.md), sono ridotti della meta'. 
  
  Le disposizioni del presente articolo valgono anche ai fini dell'attuazione del [R. decreto 13 agosto 1926, n. 1431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-13;1431), concernente la revisione del trattamento dei pensionati, e la conseguente variazione del trattamento stesso si applica, con effetto dall'entrata in vigore del presente decreto, sugli assegni di caro-viveri, o, nei casi di cui all'art. 12 del medesimo decreto, sull'aumento ivi previsto.
 

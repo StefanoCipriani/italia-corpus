@@ -24,7 +24,7 @@ Nell'articolo 32 del testo unico delle leggi sulle imposte dirette, approvato co
 ## Art. 2.
 
 I termini di decadenza previsti dall'articolo 32 del testo unico approvato con [decreto del Presidente della Repubblica 29 gennaio 1958, n. 645](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulle%20imposte%20dirette.md), modificato dall'articolo 1 della presente legge, si applicano anche per l'accertamento dei redditi da assoggettare all'imposta sulle industrie, i commerci, le arti e le professioni.
-Per le iscrizioni a ruolo si applicano, in deroga all'articolo 290 del testo unico per la finanza locale approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), le disposizioni previste per le imposte dirette.
+Per le iscrizioni a ruolo si applicano, in deroga all'articolo 290 del testo unico per la finanza locale approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), le disposizioni previste per le imposte dirette.
 
 ## Art. 3.
 

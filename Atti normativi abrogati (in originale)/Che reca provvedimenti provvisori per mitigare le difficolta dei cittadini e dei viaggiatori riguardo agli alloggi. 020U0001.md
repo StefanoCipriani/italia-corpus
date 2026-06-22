@@ -64,7 +64,7 @@ La nomina dei commissari del Governo, la durata delle loro funzioni e la loro so
 
 ## Art. 9.
 
-Gli atti di violenza sulle proprieta' pubbliche o private, o contro le persone, per procurare coattivamente a se' o ad altri l'abitazione, commessi nelle forme prevedute nell'[art. 248 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono puniti in conformita' dello stesso articolo e dei successivi. Si applicano, in relazione a questo delitto, le disposizioni degli articoli 246 e 247 dello stesso Codice per i delitti di istigazione o di apologia. 
+Gli atti di violenza sulle proprieta' pubbliche o private, o contro le persone, per procurare coattivamente a se' o ad altri l'abitazione, commessi nelle forme prevedute nell'[art. 248 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono puniti in conformita' dello stesso articolo e dei successivi. Si applicano, in relazione a questo delitto, le disposizioni degli articoli 246 e 247 dello stesso Codice per i delitti di istigazione o di apologia. 
  
  Contro i colpevoli deve essere sempre spedito il mandato di cattura.
 

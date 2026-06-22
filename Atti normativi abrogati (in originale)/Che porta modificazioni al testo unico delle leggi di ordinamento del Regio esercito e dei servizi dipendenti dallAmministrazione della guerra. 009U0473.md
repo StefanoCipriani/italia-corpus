@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sono approvate le seguenti varianti alla legge di ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra: testo unico approvato con [R. decreto n. 525 del 14 luglio 1898](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), modificato con [leggi n. 285 del 7 luglio 1901, n. 303 del 21 luglio 1902, n. 216 del 2 giugno 1904, n. 300 del 3 luglio 1904, n. 347 del 9 luglio 1905, n. 305 dell'8 luglio 1906, n. 343 del 12 luglio 1906, n. 372 del 19 luglio 1906, n. 647 del 30 dicembre 1906, n. 84 del 21 marzo 1907, n. 327 del 13 giugno 1907, nn. 479 e 484 del 14 luglio 1907, n. 7 del 5 gennaio 1908, n. 328 del 2 luglio 1908](Concernente%20modificazioni%20alla%20legge%2019%20luglio%201906%20n.%20372%20recante%20provvedimenti%20per%20i%20sottufficiali.%20008U0328.md). 
+Sono approvate le seguenti varianti alla legge di ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra: testo unico approvato con [R. decreto n. 525 del 14 luglio 1898](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), modificato con [leggi n. 285 del 7 luglio 1901, n. 303 del 21 luglio 1902, n. 216 del 2 giugno 1904, n. 300 del 3 luglio 1904, n. 347 del 9 luglio 1905, n. 305 dell'8 luglio 1906, n. 343 del 12 luglio 1906, n. 372 del 19 luglio 1906, n. 647 del 30 dicembre 1906, n. 84 del 21 marzo 1907, n. 327 del 13 giugno 1907, nn. 479 e 484 del 14 luglio 1907, n. 7 del 5 gennaio 1908, n. 328 del 2 luglio 1908](Concernente%20modificazioni%20alla%20legge%2019%20luglio%201906%20n.%20372%20recante%20provvedimenti%20per%20i%20sottufficiali.%20008U0328.md). 
  
  Capo I. 
  Generalita' 
@@ -32,19 +32,19 @@ Sono approvate le seguenti varianti alla legge di ordinamento del R. esercito e 
  e) otto reggimenti alpini. 
  
  Art. 19. 
- ([Art. 3 del R. decreto 22 luglio 1897, n. 354](../Regi%20decreti/Sullordinamento%20del%20R.%20Esercito.%20097U0354.md)). 
+ ([Art. 3 del R. decreto 22 luglio 1897, n. 354](Sullordinamento%20del%20R.%20Esercito.%20097U0354.md)). 
  
  Ciascun reggimento alpini si compone di uno stato maggiore, tre o quattro battaglioni e un deposito. In totale si hanno ventisei battaglioni formati complessivamente di settantotto compagnie. 
  
  E) Arma di cavalleria. 
  
  Art. 24. 
-([Art. 1 R. decreto 22 luglio 1897, n. 355](../Regi%20decreti/Sullordinamento%20del%20R.%20Esercito.%20097U0355.md), soppresse le parole «dell'esercito permanente» e col richiamo alla tabella VI della legge del 1897). 
+([Art. 1 R. decreto 22 luglio 1897, n. 355](Sullordinamento%20del%20R.%20Esercito.%20097U0355.md), soppresse le parole «dell'esercito permanente» e col richiamo alla tabella VI della legge del 1897). 
  
  c) ventinove reggimenti di cavalleria. 
  
  Art. 25. 
- ([Art. 2 R. decreto 22 luglio 1897, n. 355](../Regi%20decreti/Sullordinamento%20del%20R.%20Esercito.%20097U0355.md)). 
+ ([Art. 2 R. decreto 22 luglio 1897, n. 355](Sullordinamento%20del%20R.%20Esercito.%20097U0355.md)). 
  
  Ogni reggimento di cavalleria si compone di uno stato maggiore, cinque squadroni e un deposito. 
  

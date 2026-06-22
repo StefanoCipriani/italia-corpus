@@ -18,7 +18,7 @@ Vista la tariffa generale dei dazi doganali, approvata col [R. decreto-legge 9 g
 
 Visto il [R. decreto-legge 24 settembre 1931, n. 1187](Imposizione%20di%20uno%20speciale%20dazio%20sul%20valore%20alla%20importazione%20di%20talune%20merci%20e%20modificazione%20del%20regime%20della%20tassa%20di%20vendita%20sugli%20olii%20minerali.%20031U1187.md), istitutivo del dazio del 15 per cento sul valore, convertito nella [legge 18 gennaio 1932, n. 21](Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20settembre%201931%20n.%201187%20che%20impone%20uno%20speciale%20dazio%20sul%20valore%20alla%20importazione%20di%20talune%20merci%20e%20modifica%20il%20regime%20fiscale%20degli%20olii%20mine_574aba9f8321.md);
 
-Visto il [R. decreto 24 novembre 1932, n. 1578](../Regi%20decreti/Modificazioni%20alla%20nomenclatura%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20032U1578.md), col quale fu modificata la nomenclatura doganale dei prodotti serici;
+Visto il [R. decreto 24 novembre 1932, n. 1578](Modificazioni%20alla%20nomenclatura%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20032U1578.md), col quale fu modificata la nomenclatura doganale dei prodotti serici;
 
 Ritenuta la necessita' urgente ed assoluta di modificare il trattamento doganale dei filati di fibre artificiali;
 

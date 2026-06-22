@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto-legge 11 gennaio 1937, n. 3](Approvazione%20dei%20ruoli%20organici%20del%20personale%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda.%20037U0003.md), che approva i ruoli organici del Ministero della stampa e la propaganda, la cui denominazione e' stata modificata, con [R. decreto 27 maggio 1937, n. 752](../Regi%20decreti/Modificazione%20della%20denominazione%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda.%20037U0752.md), in quella di Ministero della cultura popolare;
+Visto il [R. decreto-legge 11 gennaio 1937, n. 3](Approvazione%20dei%20ruoli%20organici%20del%20personale%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda.%20037U0003.md), che approva i ruoli organici del Ministero della stampa e la propaganda, la cui denominazione e' stata modificata, con [R. decreto 27 maggio 1937, n. 752](Modificazione%20della%20denominazione%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda.%20037U0752.md), in quella di Ministero della cultura popolare;
 
 Visto il [R. decreto-legge 22 aprile 1937, n. 571](Istituzione%20presso%20il%20Ministero%20per%20la%20stampa%20e%20la%20propaganda%20di%20un%20Ispettorato%20per%20la%20radiodiffusione%20e%20la%20televisione.%20037U0571.md), col quale e' stato istituito, presso il Ministero predetto, l'Ispettorato per la radiodiffusione e la televisione;
 

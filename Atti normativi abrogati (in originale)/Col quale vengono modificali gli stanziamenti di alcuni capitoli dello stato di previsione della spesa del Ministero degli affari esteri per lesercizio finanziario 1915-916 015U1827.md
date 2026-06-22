@@ -40,7 +40,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Cap. n. 3. « Ministero - Indennita' fissate 
  dal [R. decreto 29 novembre 1870, 
- n. 6090](../Regi%20decreti/Concernente%20le%20Legazioni%20allestero%20ed%20il%20personale%20alle%20medesime%20addetto.%20070U6090.md), ecc.» . . . . . . . . . . . . . . . . . 18.000 -- 
+ n. 6090](Concernente%20le%20Legazioni%20allestero%20ed%20il%20personale%20alle%20medesime%20addetto.%20070U6090.md), ecc.» . . . . . . . . . . . . . . . . . 18.000 -- 
  
  » 4. « Ministero - Spese d'ufficio » . . . . . . . 30.000 -- 
  

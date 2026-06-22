@@ -34,7 +34,7 @@ Nel computo dei mesi di servizio presso i corpi o reparti operanti, utili per co
 
 ## Art. 6.
 
-Nell'[art. 3 del R. decreto 31 dicembre 1914, n. 1431](../Regi%20decreti/Da%20convertirsi%20in%20legge%20concernente%20ulteriori%20provvedimenti%20per%20i%20quadri%20degli%20ufficiali%20del%20R.%20esercito.%20014U1431.md), alle parole: «Per l'applicazione degli articoli 7, 23 e 35, ecc.» debbono intendersi sostituite le parole: «Per l'applicazione degli articoli 23 e 35, ecc.» e debbono intendersi abolite le parole: «eccetto che per i subalterni».
+Nell'[art. 3 del R. decreto 31 dicembre 1914, n. 1431](Da%20convertirsi%20in%20legge%20concernente%20ulteriori%20provvedimenti%20per%20i%20quadri%20degli%20ufficiali%20del%20R.%20esercito.%20014U1431.md), alle parole: «Per l'applicazione degli articoli 7, 23 e 35, ecc.» debbono intendersi sostituite le parole: «Per l'applicazione degli articoli 23 e 35, ecc.» e debbono intendersi abolite le parole: «eccetto che per i subalterni».
 
 ## Art. 7.
 
@@ -48,7 +48,7 @@ Durante il periodo della guerra non fa ostacolo all'esercizio delle facolta', di
 
 ## Art. 9.
 
-Le disposizioni dell'[art. 2 del R. decreto n. 507 del 4 dicembre 1898](../Regi%20decreti/Relativo%20alla%20nomina%20a%20sottotenenti%20nella%20milizia%20territoriale.%20098U0507.md), relative alla nomina a sottotenente di milizia territoriale dei sottufficiali in congedo, sono estese ai sottufficiali richiamati in servizio per ragioni di guerra, ed a quelli di essi che, avendo chiesto il congedamento, fossero stati trattenuti alle armi in conseguenza della mobilitazione.
+Le disposizioni dell'[art. 2 del R. decreto n. 507 del 4 dicembre 1898](Relativo%20alla%20nomina%20a%20sottotenenti%20nella%20milizia%20territoriale.%20098U0507.md), relative alla nomina a sottotenente di milizia territoriale dei sottufficiali in congedo, sono estese ai sottufficiali richiamati in servizio per ragioni di guerra, ed a quelli di essi che, avendo chiesto il congedamento, fossero stati trattenuti alle armi in conseguenza della mobilitazione.
 
 ## Art. 10.
 

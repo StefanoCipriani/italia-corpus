@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il Governo e' autorizzato a sciogliere la convenzione 18 ottobre 1913 approvata con [R. decreto 9 novembre 1913, numero 1475](../Regi%20decreti/Col%20quale%20e%20approvata%20la%20convenzione%20stipulala%20con%20la%20Societa%20Veneta%20per%20costruzione%20ed%20esercizio%20di%20ferrovie%20secondarie%20italiane%20per%20la%20costruzione%20e%20lesercizio%20della%20ferrovia%20da%20Faenza%20_8733c24867c4.md), per la concessione alla «Societa' veneta per costruzione ed esercizio di ferrovie secondarie italiane» della costruzione e dell'esercizio della ferrovia a scartamento ordinario con trazione a vapore Faenza-Russi con diramazione Granarolo-Lugo e a provvedere al completamento della linea e all'esercizio diretto di essa a mezzo della Direzione generale delle ferrovie dello Stato.
+Il Governo e' autorizzato a sciogliere la convenzione 18 ottobre 1913 approvata con [R. decreto 9 novembre 1913, numero 1475](Col%20quale%20e%20approvata%20la%20convenzione%20stipulala%20con%20la%20Societa%20Veneta%20per%20costruzione%20ed%20esercizio%20di%20ferrovie%20secondarie%20italiane%20per%20la%20costruzione%20e%20lesercizio%20della%20ferrovia%20da%20Faenza%20_8733c24867c4.md), per la concessione alla «Societa' veneta per costruzione ed esercizio di ferrovie secondarie italiane» della costruzione e dell'esercizio della ferrovia a scartamento ordinario con trazione a vapore Faenza-Russi con diramazione Granarolo-Lugo e a provvedere al completamento della linea e all'esercizio diretto di essa a mezzo della Direzione generale delle ferrovie dello Stato.
 
 ## Art. 2.
 

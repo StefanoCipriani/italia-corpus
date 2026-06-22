@@ -22,7 +22,7 @@ Per l'esercizio finanziario 1925-26 gli stanziamenti dei capitoli nn. 30, 58, 11
 
 ## Art. 4.
 
-Per l'esercizio finanziario 1925-26 l'assegnazione prevista all'[art. 2 della legge 5 gennaio 1922, n. 54](Che%20reca%20provvedimenti%20diretti%20a%20promuovere%20e%20sussidiare%20le%20opere%20di%20irrigazione%20022U0054.md), per l'applicazione della legge stessa e del testo unico delle leggi sul concorso dello Stato nelle spese per opere di irrigazione, approvato con [R. decreto 22 luglio 1920, n. 1154](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20pel%20concorso%20dello%20Stato%20nelle%20spese%20per%20opere%20di%20irrigazione.%20020U1154.md), e' ridotta a L. 3,000,000.
+Per l'esercizio finanziario 1925-26 l'assegnazione prevista all'[art. 2 della legge 5 gennaio 1922, n. 54](Che%20reca%20provvedimenti%20diretti%20a%20promuovere%20e%20sussidiare%20le%20opere%20di%20irrigazione%20022U0054.md), per l'applicazione della legge stessa e del testo unico delle leggi sul concorso dello Stato nelle spese per opere di irrigazione, approvato con [R. decreto 22 luglio 1920, n. 1154](Che%20approva%20il%20testo%20unico%20delle%20leggi%20pel%20concorso%20dello%20Stato%20nelle%20spese%20per%20opere%20di%20irrigazione.%20020U1154.md), e' ridotta a L. 3,000,000.
 
 ## Art. 5.
 

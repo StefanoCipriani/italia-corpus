@@ -20,7 +20,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 
 ## Art. 1.
 
-Il termine del 31 marzo 1978 di cui al primo ed al [secondo comma dell'art. 1 del decreto-legge 30 gennaio 1978, n. 15](Proroga%20delle%20norme%20relative%20al%20contenimento%20del%20costo%20del%20lavoro.md), convertito, con modificazioni, in [legge 22 marzo 1978, n. 75](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20gennaio%201978%20n.%2015%20concernente%20proroga%20delle%20norme%20relative%20al%20contenimento%20del%20costo%20del%20lavoro.md), concernente proroga delle norme relative al contenimento del costo del lavoro, e' ulteriormente prorogato al 31 maggio 1978.
+Il termine del 31 marzo 1978 di cui al primo ed al [secondo comma dell'art. 1 del decreto-legge 30 gennaio 1978, n. 15](Proroga%20delle%20norme%20relative%20al%20contenimento%20del%20costo%20del%20lavoro.md), convertito, con modificazioni, in [legge 22 marzo 1978, n. 75](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20gennaio%201978%20n.%2015%20concernente%20proroga%20delle%20norme%20relative%20al%20contenimento%20del%20costo%20del%20lavoro.md), concernente proroga delle norme relative al contenimento del costo del lavoro, e' ulteriormente prorogato al 31 maggio 1978.
  All'onere derivante dall'applicazione del presente decreto, valutato in lire 250 miliardi, si provvede mediante corrispondente riduzione del fondo speciale iscritto al cap. 6856 dello stato di previsione della spesa del Ministero del tesoro per l'anno finanziario 1978.
  Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

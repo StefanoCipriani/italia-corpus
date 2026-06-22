@@ -24,7 +24,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visti i Reali Decreti in data 19 del volgente mese di giugno con cui le Truppe del R. Esercito sono state dichiarate sul piede di guerra;
 
-Visto l'[art. 515 del Codice Penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) Militare in forza del quale, a far tempo dalla dichiarazione dello stato di guerra, l'Esercito in campagna, o nei luoghi che trovansi in istato di guerra, e' sottoposto a Tribunali militari pel tempo di guerra;
+Visto l'[art. 515 del Codice Penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) Militare in forza del quale, a far tempo dalla dichiarazione dello stato di guerra, l'Esercito in campagna, o nei luoghi che trovansi in istato di guerra, e' sottoposto a Tribunali militari pel tempo di guerra;
 
 Sulla proposizione del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
 

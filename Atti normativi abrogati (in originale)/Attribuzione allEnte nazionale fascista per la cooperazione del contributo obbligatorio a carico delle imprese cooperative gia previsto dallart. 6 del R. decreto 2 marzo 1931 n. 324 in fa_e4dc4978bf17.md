@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 28 agosto 1931, n. 1302](../Regi%20decreti/Approvazione%20dello%20statuto%20dellEnte%20nazionale%20fascista%20della%20Cooperazione.%20031U1302.md), che approva lo statuto dell'Ente nazionale fascista della cooperazione;
+Visto il [R. decreto 28 agosto 1931, n. 1302](Approvazione%20dello%20statuto%20dellEnte%20nazionale%20fascista%20della%20Cooperazione.%20031U1302.md), che approva lo statuto dell'Ente nazionale fascista della cooperazione;
 
 Riconosciuta la necessita' e l'urgenza di concedere i mezzi necessari per il funzionamento del predetto Ente e delle Federazioni nazionali di categoria delle imprese cooperative in attesa del riconoscimento giuridico delle medesime;
 

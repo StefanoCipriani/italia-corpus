@@ -10,8 +10,8 @@ vigente: true
 
 ## Articolo unico.
 
-L'Ordine cavalleresco dell'Aquila Romana, istituito col [R. decreto 14 marzo 1942, n. 172](../Regi%20decreti/Istituzione%20dellOrdine%20cavalleresco%20dellAquila%20Romana.%20042U0172.md), e' soppresso. 
- I [Regi decreti 14 marzo 1942, n. 172](../Regi%20decreti/Istituzione%20dellOrdine%20cavalleresco%20dellAquila%20Romana.%20042U0172.md), e [24 agosto 1942, n. 1071](../Regi%20decreti/Integrazione%20e%20modifica%20di%20alcune%20disposizioni%20del%20R.%20decreto%2014%20marzo%201942-XX%20n.%20172%20sullistituzione%20dellOrdine%20cavalleresco%20dellAquila%20Romana.%20042U1071.md), relativi all'istituzione dell'Ordine cavalleresco predetto sono abrogati. 
+L'Ordine cavalleresco dell'Aquila Romana, istituito col [R. decreto 14 marzo 1942, n. 172](Istituzione%20dellOrdine%20cavalleresco%20dellAquila%20Romana.%20042U0172.md), e' soppresso. 
+ I [Regi decreti 14 marzo 1942, n. 172](Istituzione%20dellOrdine%20cavalleresco%20dellAquila%20Romana.%20042U0172.md), e [24 agosto 1942, n. 1071](Integrazione%20e%20modifica%20di%20alcune%20disposizioni%20del%20R.%20decreto%2014%20marzo%201942-XX%20n.%20172%20sullistituzione%20dellOrdine%20cavalleresco%20dellAquila%20Romana.%20042U1071.md), relativi all'istituzione dell'Ordine cavalleresco predetto sono abrogati. 
  Ordiniamo, a chiunque spetti, di osservare il presente decreto e di farlo osservare. 
  Dato a Roma, addi' 5 ottobre 1944 
  

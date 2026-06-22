@@ -354,7 +354,7 @@ Quando il credito di un conto corrente debba essere, per effetto della prescrizi
 
 Per il recupero delle somme eventualmente pagate a vuoto e per ogni altro credito verso il correntista, dipendente dal servizio dei conti correnti, l'Amministrazione delle poste puo' rivalersi sui fondi inscritti sul conto del correntista stesso, secondo le norme che regolano la compensazione legale. 
  
- Qualora la somma inscritta in conto non sia sufficiente a coprire il credito dell'Amministrazione, questa potra' valersi della procedura coattiva di cui al [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), per il recupero del suo credito.
+ Qualora la somma inscritta in conto non sia sufficiente a coprire il credito dell'Amministrazione, questa potra' valersi della procedura coattiva di cui al [R. decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), per il recupero del suo credito.
 
 ### Art. 39.
 
@@ -748,7 +748,7 @@ Fino a che il rapporto di conto corrente non sia risoluto e la somma residuale n
 
 L'ufficio dei conti puo' con effetto immediato, e indipendentemente dalle sanzioni penali previste dalle leggi vigenti, escludere dal servizio il correntista che emetta piu' di una volta assegni di pagamento per somme maggiori di quelle disponibili, o in altro modo contravvenga alle disposizioni del presente decreto, in guisa da intralciare il regolare andamento del servizio. 
  
- Tale esclusione puo' anche essere deliberata contro colui che si valga del conto per fini contrari all'interesse nazionale o contro chi fosse condannato per un reato di cui al titolo VI, capo 1° e 4°, e titolo X, capo 1° e 5°, del libro II [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ Tale esclusione puo' anche essere deliberata contro colui che si valga del conto per fini contrari all'interesse nazionale o contro chi fosse condannato per un reato di cui al titolo VI, capo 1° e 4°, e titolo X, capo 1° e 5°, del libro II [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Puo' altresi' essere escluso dal servizio, a giudizio insindacabile dell'Amministrazione, il correntista che si serve del conto corrente postale per fini diversi da quelli inerenti al servizio stesso. 
  

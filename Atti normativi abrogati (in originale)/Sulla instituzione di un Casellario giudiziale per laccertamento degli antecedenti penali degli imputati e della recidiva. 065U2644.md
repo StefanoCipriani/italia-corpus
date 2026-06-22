@@ -20,7 +20,7 @@ Sulla proposta del Nostro Ministro Guardasigilli Segretario di Stato per gli aff
 
 E' instituito in ogni Tribunale correzionale un Casellario giudiziale, in cui saranno conservate in estratto per le occorrenti ispezioni e certificazioni tutte le seguenti decisioni divenute irrevocabili, concernenti persone nate nel territorio soggetto alla giurisdizione del Tribunale medesimo: 
  
- 1.° Le sentenze colle quali un imputato e' dichiarato colpevole di reato criminale o correzionale o di furto di campagna, senza distinzione se siano proferite da giudizi penali ordinari, militari o marittimi, purche' il reato sia preveduto dai [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune; e senza distinzione se siano proferite in contraddittorio od in contumacia, eccettuate solo, in quest'ultimo caso, quelle de' Tribunali o de' Pretori, alle quali si fosse fatta opposizione; 
+ 1.° Le sentenze colle quali un imputato e' dichiarato colpevole di reato criminale o correzionale o di furto di campagna, senza distinzione se siano proferite da giudizi penali ordinari, militari o marittimi, purche' il reato sia preveduto dai [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune; e senza distinzione se siano proferite in contraddittorio od in contumacia, eccettuate solo, in quest'ultimo caso, quelle de' Tribunali o de' Pretori, alle quali si fosse fatta opposizione; 
  
  2.° Le ordinanze e sentenze di non farsi luogo a procedimento, tranne quelle che furono proferite perche' il fatto non e' provato o non costituisce un reato, e quelle per le quali e' stato pronunziato il provvedimento accennato nell'[art. 604 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_604); 
  
@@ -44,7 +44,7 @@ La spesa occorrente per la formazione e per l'esercizio del Casellario giudizial
 
 ## Art. 5. — Disposizione speciale per la Toscana.
 
-Per l'applicazione dell'art. 1, in quanto si tratti di decisioni proferite secondo il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano del 20 giugno 1853, varranno le norme di ragguaglio portate dall'art. 12 del R. Decreto 30 novembre decorso, N. 2607.
+Per l'applicazione dell'art. 1, in quanto si tratti di decisioni proferite secondo il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano del 20 giugno 1853, varranno le norme di ragguaglio portate dall'art. 12 del R. Decreto 30 novembre decorso, N. 2607.
 
 ## Art. 6.
 

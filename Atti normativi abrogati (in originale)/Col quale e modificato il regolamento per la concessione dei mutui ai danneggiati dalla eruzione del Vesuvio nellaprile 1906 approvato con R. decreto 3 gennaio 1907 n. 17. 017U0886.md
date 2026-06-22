@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-In fine dell'art. 13 del regolamento per la concessione dei mutui ai danneggiati dall'eruzione del Vesuvio nell'aprile 1916, approvato con [R. decreto 3 gennaio 1907, n. 17](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20concessione%20dei%20mutui%20ai%20danneggiati%20dalla%20eruzione%20del%20Vesuvio%20nellaprile%201906.%20007U0017.md) e' aggiunto il capoverso seguente: 
+In fine dell'art. 13 del regolamento per la concessione dei mutui ai danneggiati dall'eruzione del Vesuvio nell'aprile 1916, approvato con [R. decreto 3 gennaio 1907, n. 17](Che%20approva%20il%20regolamento%20per%20la%20concessione%20dei%20mutui%20ai%20danneggiati%20dalla%20eruzione%20del%20Vesuvio%20nellaprile%201906.%20007U0017.md) e' aggiunto il capoverso seguente: 
  
  «La Commissione amministratrice puo' delegare alla presidenza le attribuzioni di cui alla lettera f)». 
  

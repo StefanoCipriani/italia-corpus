@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 3 gennaio 1915, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-03;17), che proroga al 31 marzo 1915 la concessione di una speciale indennita' giornaliera agli ufficiali della riserva navale e di complemento della R. marina, richiamati in servizio d'autorita' accordata con [R. decreto 26 novembre 1914, n. 1311](../Regi%20decreti/Da%20convertirsi%20in%20legge%20col%20quale%20e%20concessa%20una%20indennita%20giornaliera%20agli%20Ufficiali%20della%20riserva%20navale%20e%20di%20complemento%20richiamati%20alle%20armi%20dautorita%20014U1311.md). 
+ E' convertito in legge il [R. decreto 3 gennaio 1915, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-03;17), che proroga al 31 marzo 1915 la concessione di una speciale indennita' giornaliera agli ufficiali della riserva navale e di complemento della R. marina, richiamati in servizio d'autorita' accordata con [R. decreto 26 novembre 1914, n. 1311](Da%20convertirsi%20in%20legge%20col%20quale%20e%20concessa%20una%20indennita%20giornaliera%20agli%20Ufficiali%20della%20riserva%20navale%20e%20di%20complemento%20richiamati%20alle%20armi%20dautorita%20014U1311.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

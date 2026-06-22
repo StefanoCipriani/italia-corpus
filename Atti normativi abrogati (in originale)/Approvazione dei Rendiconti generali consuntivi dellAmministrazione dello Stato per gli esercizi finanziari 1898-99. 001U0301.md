@@ -35,7 +35,7 @@ Sono convalidate nella somma di lire dodicimilioni quattrocentotredicimila seice
 
 ### Art. 5.
 
-E' convalidato il [R. decreto 19 luglio 1899, n. 306](../Regi%20decreti/Circa%20approvazione%20di%20trasporti%20di%20fondi%20tra%20alcuni%20capitoli%20del%20bilancio%20per%20lesercizio%20finanziario%201898-99.%20099U0306.md), che autorizzo' i trasporti di fondi tra vari capitoli del bilancio per l'esercizio 1898-99 nella somma di lire un milione duecentoquattordicimila settecentottantanove (L. 1,214,789).
+E' convalidato il [R. decreto 19 luglio 1899, n. 306](Circa%20approvazione%20di%20trasporti%20di%20fondi%20tra%20alcuni%20capitoli%20del%20bilancio%20per%20lesercizio%20finanziario%201898-99.%20099U0306.md), che autorizzo' i trasporti di fondi tra vari capitoli del bilancio per l'esercizio 1898-99 nella somma di lire un milione duecentoquattordicimila settecentottantanove (L. 1,214,789).
 
 ### Art. 6.
 

@@ -24,7 +24,7 @@ Vista la deliberazione del Consiglio dei Ministri; Sulla proposta del presidente
 
 ## Art. 1.
 
-Il diritto di voto esteso alle donne che si trovino nelle condizioni previste dagli articoli 1 e 2 del testo unico della legge elettorale politica, approvato con [R. decreto 2 settembre 1919, n. 1495](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%20elettorale%20politica%20in%20sostituzione%20di%20quello%20approvato%20con%20R.%20decreto%2026%20giugno%201913%20n.%20821.%20019U1495.md).
+Il diritto di voto esteso alle donne che si trovino nelle condizioni previste dagli articoli 1 e 2 del testo unico della legge elettorale politica, approvato con [R. decreto 2 settembre 1919, n. 1495](Che%20approva%20il%20testo%20unico%20della%20legge%20elettorale%20politica%20in%20sostituzione%20di%20quello%20approvato%20con%20R.%20decreto%2026%20giugno%201913%20n.%20821.%20019U1495.md).
 
 ## Art. 2.
 
@@ -34,7 +34,7 @@ E' ordinata la compilazione delle liste elettorali femminili in tutti i Comuni.
 
 ## Art. 3.
 
-Oltre quanto stabilito dall'art. 2 del decreto del Ministro per l'interno in data 24 ottobre 1944, non possono essere iscritti nelle liste elettorali le donne indicate nell'art. 354 del Regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635).
+Oltre quanto stabilito dall'art. 2 del decreto del Ministro per l'interno in data 24 ottobre 1944, non possono essere iscritti nelle liste elettorali le donne indicate nell'art. 354 del Regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635).
 
 ## Art. 4.
 

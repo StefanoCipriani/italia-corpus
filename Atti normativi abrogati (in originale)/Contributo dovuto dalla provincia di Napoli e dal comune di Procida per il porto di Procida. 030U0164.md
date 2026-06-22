@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Ab
 
 ## Articolo unico.
 
-La provincia di Napoli ed il comune di Procida sono chiamati a contribuire nelle spese da erogare per il porto di Procida nella misura per ciascuno stabilita dall'[art. 7 del Regio decreto 2 aprile 1885, n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md). 
+La provincia di Napoli ed il comune di Procida sono chiamati a contribuire nelle spese da erogare per il porto di Procida nella misura per ciascuno stabilita dall'[art. 7 del Regio decreto 2 aprile 1885, n. 3095](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

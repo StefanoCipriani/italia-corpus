@@ -18,7 +18,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Vista la [legge 8 giugno 1925, n. 969](Organizzazione%20della%20Nazione%20per%20la%20guerra.%20025U0969.md);
 
-Visto il [R. decreto 1° aprile 1935, n. 412](../Regi%20decreti/Disposizioni%20circa%20la%20istituzione%20di%20uffici%20speciali%20di%20mobilitazione%20civile.%20035U0412.md);
+Visto il [R. decreto 1° aprile 1935, n. 412](Disposizioni%20circa%20la%20istituzione%20di%20uffici%20speciali%20di%20mobilitazione%20civile.%20035U0412.md);
 
 Riconosciuta la necessita' urgente ed assoluta di istituire, alla dipendenza del Ministero delle corporazioni, l'Ufficio speciale dei combustibili liquidi;
 

@@ -12,11 +12,11 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il decreto Ministeriale 5 luglio 1928 sull'ordinamento culturale e periferico dell'Amministrazione dei monopoli di Stato;
 
-Visto il [regio decreto 9 maggio 1935, n. 1580](../Regi%20decreti/Modificazioni%20al%20vigente%20ordinamento%20per%20il%20personale%20ed%20i%20servizi%20dellAmministrazione%20dei%20monopoli%20di%20Stato.%20035U1580.md), recante modifiche al detto ordinamento Visto il decreto Ministeriale 21 ottobre 1925 sullo stato giuridico e sul trattamento economico dei salariati dell'Amministrazione dei monopoli di Stato;
+Visto il [regio decreto 9 maggio 1935, n. 1580](Modificazioni%20al%20vigente%20ordinamento%20per%20il%20personale%20ed%20i%20servizi%20dellAmministrazione%20dei%20monopoli%20di%20Stato.%20035U1580.md), recante modifiche al detto ordinamento Visto il decreto Ministeriale 21 ottobre 1925 sullo stato giuridico e sul trattamento economico dei salariati dell'Amministrazione dei monopoli di Stato;
 
 Ritenuta la necessita' di apportare alcune modifiche ed aggiunte alle disposizioni in essi decreti contenute;
 
-Visto l'[art. 2 del decreto legislativo luogotenenziale 18 febbraio 1946, n. 113](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20concernenti%20lAmministrazione%20dei%20monopoli%20di%20Stato.md);
+Visto l'[art. 2 del decreto legislativo luogotenenziale 18 febbraio 1946, n. 113](Provvedimenti%20concernenti%20lAmministrazione%20dei%20monopoli%20di%20Stato.md);
 
 Visto l'[art 1, n. 3, della legge 31 gennaio 1926, numero 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

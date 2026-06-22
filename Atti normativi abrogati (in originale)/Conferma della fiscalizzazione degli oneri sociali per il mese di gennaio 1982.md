@@ -22,7 +22,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-A favore dei soggetti destinatari del [decreto-legge 16 novembre 1981, n. 646](Differimento%20del%20termine%20di%20validita%20delle%20norme%20sulla%20fiscalizzazione%20degli%20oneri%20sociali.md), convertito, con modificazioni, nella [legge 15 gennaio 1982, n. 3](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20novembre%201981%20n.%20646%20concernente%20differimento%20del%20termine%20di%20validita%20delle%20norme%20sulla%20fiscalizzazione%20degli%20oneri%20sociali.md), sono confermate, fino a tutto il periodo di paga in corso alla data del 31 gennaio 1982, le misure degli sgravi contributivi vigenti ai 31 dicembre 1981.
+A favore dei soggetti destinatari del [decreto-legge 16 novembre 1981, n. 646](Differimento%20del%20termine%20di%20validita%20delle%20norme%20sulla%20fiscalizzazione%20degli%20oneri%20sociali.md), convertito, con modificazioni, nella [legge 15 gennaio 1982, n. 3](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20novembre%201981%20n.%20646%20concernente%20differimento%20del%20termine%20di%20validita%20delle%20norme%20sulla%20fiscalizzazione%20degli%20oneri%20sociali.md), sono confermate, fino a tutto il periodo di paga in corso alla data del 31 gennaio 1982, le misure degli sgravi contributivi vigenti ai 31 dicembre 1981.
 
 ## Art. 2.
 

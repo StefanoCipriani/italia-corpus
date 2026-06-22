@@ -170,7 +170,7 @@ XVII ) spese per il reclutamento, l'avviamento e la
  n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-25;244);
 XVIII) spese per accertamenti sanitari di cui al
  testo unico approvato con [decreto del Presidente della
- Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e alla [legge 15 febbraio
+ Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e alla [legge 15 febbraio
  1958, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-15;46).
 
 ## Art. 24.

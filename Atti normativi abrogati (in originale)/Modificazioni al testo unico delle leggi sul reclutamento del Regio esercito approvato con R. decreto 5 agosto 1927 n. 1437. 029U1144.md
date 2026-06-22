@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'art. 9, primo comma, del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 5 agosto 1927, n. 1437](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20027U1437.md), e' sostituito il seguente: 
+All'art. 9, primo comma, del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 5 agosto 1927, n. 1437](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20027U1437.md), e' sostituito il seguente: 
  
  «Gli inscritti di leva arruolati sono personalmente obbligati al servizio militare dal giorno dell'arruolamento sino al 31 dicembre dell'anno in cui compiono il cinquantacinquesimo anno di loro eta', salvo per gli ufficiali e sottufficiali e per i militari di truppa vincolati ad obblighi speciali il disposto delle leggi che particolarmente li riguardano».
 

@@ -48,7 +48,7 @@ Le regioni favoriranno, anche con la collaborazione degli enti di sviluppo, enti
 
 In tutto il territorio nazionale e' vietato macellare i vitelli per i quali sia stato assunto impegno di allevamento o di ingrasso.
  Le infrazioni alle disposizioni di cui al precedente comma sono punite con l'ammenda da L. 100.000 a lire 500.000 per ciascun capo, in relazione alla gravita' del fatto e all'eventuale carattere di recidivita'. E' disposta in ogni caso la restituzione delle somme indebitamente percepite.
- Restano comunque salve le sanzioni previste dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e da altre leggi speciali.
+ Restano comunque salve le sanzioni previste dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e da altre leggi speciali.
 
 ## Art. 5.
 

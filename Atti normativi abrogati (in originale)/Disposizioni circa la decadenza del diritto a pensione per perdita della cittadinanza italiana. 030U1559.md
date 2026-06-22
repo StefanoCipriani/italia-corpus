@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduta la legge sulle pensioni civili e militari, testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
+Veduta la legge sulle pensioni civili e militari, testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
 
 Veduta la [legge 13 giugno 1912, n. 555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-13;555), sulla cittadinanza italiana e successive modificazioni;
 

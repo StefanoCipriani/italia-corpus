@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'art. 44 della legge sulla privativa postale in data 5 maggio 1862, n.° 604, il quale dispone che saranno pubblicati in Toscana gli [articoli 237](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [296](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [335](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [336 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) vigente nelle altre Provincie del Regno e che il Governo del Re col mezzo di Reale Decreto dara' le opportune disposizioni per la loro applicazione;
+Visto l'art. 44 della legge sulla privativa postale in data 5 maggio 1862, n.° 604, il quale dispone che saranno pubblicati in Toscana gli [articoli 237](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [296](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [335](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [336 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) vigente nelle altre Provincie del Regno e che il Governo del Re col mezzo di Reale Decreto dara' le opportune disposizioni per la loro applicazione;
 
 Sulla proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti, di concerto con quello dei Lavori pubblici; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Sono col presente Decreto pubblicati in Toscana gli [articoli 237](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [296](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [335](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [336 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) vigente nelle altre Provincie del Regno. 
+Sono col presente Decreto pubblicati in Toscana gli [articoli 237](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [296](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [335](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [336 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) vigente nelle altre Provincie del Regno. 
  
  Per l'applicazione delle pene sancite nei succitati articoli, saranno altresi' pubblicati in Toscana gli articoli 54, 56 e 60 del suddetto Codice.
 

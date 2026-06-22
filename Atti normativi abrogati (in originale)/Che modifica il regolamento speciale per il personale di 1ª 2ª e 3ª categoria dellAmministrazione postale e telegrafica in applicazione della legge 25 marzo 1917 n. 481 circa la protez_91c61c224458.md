@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I sottoindicati articoli del regolamento speciale per il personale di lª e 2ª categoria dell'Amministrazione delle poste e dei telegrafi, approvato con [R. decreto 16 maggio 1909, n. 341](../Regi%20decreti/Approvazione%20del%20regolamento%20speciale%20per%20il%20personale%20di%20prima%20e%20seconda%20categoria%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20009U0341.md), sono modificati come segue: 
+I sottoindicati articoli del regolamento speciale per il personale di lª e 2ª categoria dell'Amministrazione delle poste e dei telegrafi, approvato con [R. decreto 16 maggio 1909, n. 341](Approvazione%20del%20regolamento%20speciale%20per%20il%20personale%20di%20prima%20e%20seconda%20categoria%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20009U0341.md), sono modificati come segue: 
  
  Art. 2. - Il n. 1 e' modificato come appresso: 
  
@@ -46,7 +46,7 @@ I sottoindicati articoli del regolamento speciale per il personale di lª e 2ª 
 
 ## Art. 2.
 
-I sottoindicati articoli del regolamento speciale per il personale di 3ª categoria e per il personale subalterno fuori ruolo, approvato con [R. decreto 12 maggio 1910, n. 680](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20di%203ª%20categoria%20e%20per%20quello%20subalterno%20fuori%20ruolo%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20010U0680.md), sono modificati come segue: 
+I sottoindicati articoli del regolamento speciale per il personale di 3ª categoria e per il personale subalterno fuori ruolo, approvato con [R. decreto 12 maggio 1910, n. 680](Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20di%203ª%20categoria%20e%20per%20quello%20subalterno%20fuori%20ruolo%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20010U0680.md), sono modificati come segue: 
  
  Art. 5. - E' modificato come segue: 
  
@@ -132,7 +132,7 @@ I sottoindicati articoli del regolamento speciale per il personale di 3ª catego
 
 ## Art. 3.
 
-I sottoindicati articoli del regolamento speciale per il personale degli, uffici di 2ª e 3ª classe e per gli agenti rurali approvato, con [R. decreto 22 dicembre 1910, n. 936](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20il%20personale%20degli%20uffici%20postali%20telegrafici%20e%20fonotelegrafici%20di%202ª%20e%203ª%20classe%20e%20per%20gli%20agenti%20rurali.%20010U0936.md), modificato coi RR. decreti del 30 giugno 1912, n. 857, o dell'11 luglio 1913, n. 1317, sono modificati come appresso: 
+I sottoindicati articoli del regolamento speciale per il personale degli, uffici di 2ª e 3ª classe e per gli agenti rurali approvato, con [R. decreto 22 dicembre 1910, n. 936](Che%20approva%20lannesso%20regolamento%20speciale%20per%20il%20personale%20degli%20uffici%20postali%20telegrafici%20e%20fonotelegrafici%20di%202ª%20e%203ª%20classe%20e%20per%20gli%20agenti%20rurali.%20010U0936.md), modificato coi RR. decreti del 30 giugno 1912, n. 857, o dell'11 luglio 1913, n. 1317, sono modificati come appresso: 
  
  Art. 4. - I numeri 1 e 4, comma a), sono modificati come segue: 
  

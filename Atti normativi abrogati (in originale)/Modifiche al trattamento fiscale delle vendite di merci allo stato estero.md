@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, secondo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visto il [decreto-legge 9 gennaio 1940, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1940-01-09;2), convertito con modificazioni nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e successive modificazioni ed integrazioni;
+Visto il [decreto-legge 9 gennaio 1940, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1940-01-09;2), convertito con modificazioni nella [legge 19 giugno 1940, n. 762](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e successive modificazioni ed integrazioni;
 
 Vista la [legge 24 marzo 1959, n. 112](Modificazione%20del%20penultimo%20ed%20ultimo%20comma%20dellart.%2017%20del%20decreto-legge%20istitutivo%20dellimposta%20generale%20sullentrata%209%20maggio%201940%20n.%202%20convertito%20con%20modificazioni%20nella%20legge%2019%20giugno%201940%20n.%20762.md);
 

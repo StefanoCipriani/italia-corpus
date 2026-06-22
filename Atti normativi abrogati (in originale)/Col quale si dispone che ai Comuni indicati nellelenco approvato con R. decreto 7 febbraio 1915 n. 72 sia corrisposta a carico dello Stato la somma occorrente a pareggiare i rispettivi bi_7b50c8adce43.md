@@ -20,7 +20,7 @@ Sulla proposta del presidente del Consiglio dei ministri, ministro dell'interno,
 
 ## Art. 1.
 
-Ai Comuni indicati nell'elenco approvato con [R. decreto 7 febbraio 1915, n. 72](../Regi%20decreti/Col%20quale%20e%20approvato%20lelenco%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915%20ai%20quali%20sono%20applicate%20tutte%20le%20disposizioni%20del%20R.%20decreto%2021%20gennaio%201915%20n.%2027.%20015U0072.md), sara' corrisposta a carico dello Stato la somma occorrente a pareggiare i rispettivi bilanci degli anni dal 1915 al 1920 per la parte delle spese obbligatorie, in quanto non basti all'uopo il rimborso delle sovrimposte come e' stabilito dall'articolo 6, penultimo comma, del [R. decreto 21 gennaio 1915, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-21;27). 
+Ai Comuni indicati nell'elenco approvato con [R. decreto 7 febbraio 1915, n. 72](Col%20quale%20e%20approvato%20lelenco%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915%20ai%20quali%20sono%20applicate%20tutte%20le%20disposizioni%20del%20R.%20decreto%2021%20gennaio%201915%20n.%2027.%20015U0072.md), sara' corrisposta a carico dello Stato la somma occorrente a pareggiare i rispettivi bilanci degli anni dal 1915 al 1920 per la parte delle spese obbligatorie, in quanto non basti all'uopo il rimborso delle sovrimposte come e' stabilito dall'articolo 6, penultimo comma, del [R. decreto 21 gennaio 1915, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-21;27). 
  
  Per tale spesa si faranno, con decreto del ministro del tesoro, le occorrenti variazioni nel bilancio del Ministero dell'interno. 
  

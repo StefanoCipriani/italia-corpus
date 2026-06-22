@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Allorche' l'imputato di violazione al [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo ha grado di ufficiale, l'ufficiale istruttore sara' un ufficiale di vascello superiore di un grado all'imputato, oppure dello stesso grado, ma piu' anziano. 
+Allorche' l'imputato di violazione al [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo ha grado di ufficiale, l'ufficiale istruttore sara' un ufficiale di vascello superiore di un grado all'imputato, oppure dello stesso grado, ma piu' anziano. 
  
  Se in servizio attivo permanente o temporaneo non vi sia uri ufficiale di vascello superiore di un grado, o di pari grado, ma piu' anziano dell'imputato, il ministro della marina richiamera' dalla posizione ausiliaria un ufficiale che corrisponda alle richieste condizioni di grado e di anzianita'. 
  

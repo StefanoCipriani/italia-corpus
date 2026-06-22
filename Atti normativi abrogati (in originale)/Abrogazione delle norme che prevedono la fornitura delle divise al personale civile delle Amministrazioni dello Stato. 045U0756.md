@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' abrogato il [R. decreto-legge 5 settembre 1938, n. 1524](Istituzione%20di%20una%20uniforme%20di%20servizio%20per%20il%20personale%20maschile%20dei%20ruoli%20civili%20dello%20Stato.%20038U1524.md), convertito in legge con la [legge 5 gennaio 1939,n. 87](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%205%20settembre%201938-XVI%20n.%201524%20concernente%20listituzione%20di%20una%20uniforme%20di%20servizio%20per%20il%20personale%20maschile%20dei%20ruoli%20civili%20dello%20Stato.%20039U0087.md), concernente l'istituzione di una uniforme di servizio per il personale maschile dei ruoli civili dello Stato e successive modificazioni ed aggiunte.
+E' abrogato il [R. decreto-legge 5 settembre 1938, n. 1524](Istituzione%20di%20una%20uniforme%20di%20servizio%20per%20il%20personale%20maschile%20dei%20ruoli%20civili%20dello%20Stato.%20038U1524.md), convertito in legge con la [legge 5 gennaio 1939,n. 87](Conversione%20in%20legge%20del%20Regio%20decreto-legge%205%20settembre%201938-XVI%20n.%201524%20concernente%20listituzione%20di%20una%20uniforme%20di%20servizio%20per%20il%20personale%20maschile%20dei%20ruoli%20civili%20dello%20Stato.%20039U0087.md), concernente l'istituzione di una uniforme di servizio per il personale maschile dei ruoli civili dello Stato e successive modificazioni ed aggiunte.
 
 ## Art. 2.
 

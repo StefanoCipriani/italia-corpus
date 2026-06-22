@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la [legge 2 gennaio 1910, n. 2](Concernente%20lunificazione%20dei%20servizi%20marittimi.%20010U0002.md); 
  
- Visti i [Regi decreti 27 novembre 1910, n. 871](../Regi%20decreti/Che%20istituisce%20la%20Commissione%20permanente%20per%20la%20illuminazione%20e%20il%20segnalamento%20delle%20coste.%20010U0871.md), e [5 marzo 1914, n. 247](../Regi%20decreti/Riguardante%20il%20servizio%20dei%20fari%20e%20del%20segnalamento%20marittimo.%20014U0247.md); 
+ Visti i [Regi decreti 27 novembre 1910, n. 871](Che%20istituisce%20la%20Commissione%20permanente%20per%20la%20illuminazione%20e%20il%20segnalamento%20delle%20coste.%20010U0871.md), e [5 marzo 1914, n. 247](Riguardante%20il%20servizio%20dei%20fari%20e%20del%20segnalamento%20marittimo.%20014U0247.md); 
  
  Udito il Consiglio superiore di marina; 
  

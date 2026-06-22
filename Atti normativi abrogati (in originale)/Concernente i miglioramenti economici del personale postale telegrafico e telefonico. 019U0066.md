@@ -22,7 +22,7 @@ Le indennita' per servizio notturno stabilite all'[art. 1 dei decreti Luogotenen
 
 ## Art. 3.
 
-L'indennita' per servizio ordinario prestato dal personale adibito agli Uffici postali presso le stazioni ferroviarie e gli scali marittimi, prevista dall'[art. 97 del R. decreto 14 ottobre 1906, n. 546](../Regi%20decreti/Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md), e' raddoppiata.
+L'indennita' per servizio ordinario prestato dal personale adibito agli Uffici postali presso le stazioni ferroviarie e gli scali marittimi, prevista dall'[art. 97 del R. decreto 14 ottobre 1906, n. 546](Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md), e' raddoppiata.
 
 ## Art. 4.
 

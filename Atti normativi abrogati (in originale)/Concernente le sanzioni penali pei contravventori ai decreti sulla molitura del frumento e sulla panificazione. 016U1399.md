@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Senza pregiudizio delle maggiori pene previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dal [decreto Luogotenenziale 22 agosto 1915, n. 1288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-22;1288), e indipendentemente dall'azione penale, i contravventori ai decreti sulla molitura del frumento e sulla panificazione, saranno puniti con l'ammenda di L. 100, per ogni quintale o frazione di quintale di farina o di pane, diverso dal tipo prescritto e con la confisca della merce. 
+Senza pregiudizio delle maggiori pene previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dal [decreto Luogotenenziale 22 agosto 1915, n. 1288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-08-22;1288), e indipendentemente dall'azione penale, i contravventori ai decreti sulla molitura del frumento e sulla panificazione, saranno puniti con l'ammenda di L. 100, per ogni quintale o frazione di quintale di farina o di pane, diverso dal tipo prescritto e con la confisca della merce. 
  
  Tali sanzioni saranno applicate dall'intendente di finanza.
 
@@ -68,7 +68,7 @@ Il prefetto vigila sulla osservanza delle norme relative all'abburattamento dell
  
  c) delle Commissioni provinciali di requisizione dei cereali; 
  
- d) di Commissioni speciali di vigilanza, presiedute dal prefetto e composte di quattro mugnai e pastai della Provincia, scelti dal prefetto, i quali, nell'esercizio delle loro funzioni, assumono la veste e la responsabilita' di pubblici funzionari. Essi dovranno accettare l'ufficio ed adempiere agli incarichi ricevuti. Ai contravventori saranno applicate le penalita' di cui all'[art. 210 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ d) di Commissioni speciali di vigilanza, presiedute dal prefetto e composte di quattro mugnai e pastai della Provincia, scelti dal prefetto, i quali, nell'esercizio delle loro funzioni, assumono la veste e la responsabilita' di pubblici funzionari. Essi dovranno accettare l'ufficio ed adempiere agli incarichi ricevuti. Ai contravventori saranno applicate le penalita' di cui all'[art. 210 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 10.
 

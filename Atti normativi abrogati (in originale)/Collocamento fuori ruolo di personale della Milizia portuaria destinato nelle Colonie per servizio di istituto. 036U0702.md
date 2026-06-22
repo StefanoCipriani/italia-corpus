@@ -22,7 +22,7 @@ Visto il regolamento per la Milizia portuaria approvato con [R. decreto 1° dice
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 16 dicembre 1935, n. 2498](../Regi%20decreti/Trattamento%20economico%20del%20personale%20della%20Milizia%20portuaria%20destinato%20nelle%20Colonie%20dellAfrica%20Orientale.%20035U2498.md), sul trattamento economico della Milizia portuaria in Colonia;
+Visto il [R. decreto 16 dicembre 1935, n. 2498](Trattamento%20economico%20del%20personale%20della%20Milizia%20portuaria%20destinato%20nelle%20Colonie%20dellAfrica%20Orientale.%20035U2498.md), sul trattamento economico della Milizia portuaria in Colonia;
 
 Ritenuta la necessita' urgente ed assoluta di apportare alcune modifiche all'ordinamento della Milizia portuaria ed al suddetto Regio decreto n. 2498;
 

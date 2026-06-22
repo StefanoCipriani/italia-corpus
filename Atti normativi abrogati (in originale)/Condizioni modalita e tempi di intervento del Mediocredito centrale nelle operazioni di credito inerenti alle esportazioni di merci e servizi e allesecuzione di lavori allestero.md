@@ -40,7 +40,7 @@ Ai sensi e per gli effetti degli articoli 18, quarto comma, 19, secondo comma, e
  Il testo delle note qui pubblicato e' stato redatto ai 
  sensi dell'art. 10, commi 2 e 3, del testo unico approvato 
  con [decreto del Presidente della Repubblica 28 dicembre 
- 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
+ 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
  disposizioni di legge modificate o alle quali e' operato il 
  rinvio. Restano invariati il valore e l'efficacia degli 
  atti normativi qui trascritti.
@@ -184,7 +184,7 @@ I tassi minimi di interesse da assumere a base dell'intervento del Mediocredito 
  In attuazione di decisioni e direttive comunitarie il Ministero del tesoro comunica disposizioni di applicazione ed eventuali variazioni.
 
 Nota all'art. 3:
- Si ritiene utile riportare il testo dell'art. 92 del trattato che istituisce la Comunita' economica europea, ratificato con [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md):
+ Si ritiene utile riportare il testo dell'art. 92 del trattato che istituisce la Comunita' economica europea, ratificato con [legge 14 ottobre 1957, n. 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md):
  "Art. 92. - 1. Salvo deroghe contemplate dal presente trattato, sono incompatibili con il mercato comune, nella misura in cui incidono sugli scambi fra gli Stati membri, gli aiuti concessi dagli Stati, ovvero mediante risorse statali, sotto qualsiasi forma, che, favorendo talune imprese o talune produzioni, falsino o minaccino di falsare la concorrenza.
  2. Sono compatibili con il mercato comune:
  a) gli aiuti a carattere sociale concessi ai singoli consumatori, a condizione che siano accordati senza discriminazioni determinate dall'origine dei prodotti;

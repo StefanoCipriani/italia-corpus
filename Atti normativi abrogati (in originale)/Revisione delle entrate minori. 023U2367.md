@@ -33,7 +33,7 @@ Entro la stessa data del 31 dicembre 1923 sara' proceduto, colle norme e le caut
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](../Regi%20decreti/Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 
@@ -61,7 +61,7 @@ Entro l'anno 1923 sara' proceduto ad una completa revisione di tutte le tasse e 
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](../Regi%20decreti/Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 5.
 
@@ -70,7 +70,7 @@ Entro il termine indicato nell'articolo precedente, sara', effettuata la revisio
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](../Regi%20decreti/Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 6.
 
@@ -85,7 +85,7 @@ I diritti da corrispondersi dagli utenti metrici, fissati dall'articolo 20 del T
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](../Regi%20decreti/Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 7.
 
@@ -128,7 +128,7 @@ I diritti degli archivi di Stato stabiliti dal [R. decreto 2 ottobre 1911, n. 11
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](../Regi%20decreti/Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 13.
 
@@ -156,4 +156,4 @@ Le disposizioni del presente decreto, entrano in vigore col 1° gennaio 1924, sa
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](../Regi%20decreti/Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.

@@ -30,7 +30,7 @@ Vista la [legge 30 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?
 
 Ritenuta la necessita' di provvedere alla istruzione scientifica, tecnica e militare degli allievi ufficiali della Milizia nazionale forestale;
 
-Visto l'ordinamento degli studi ed i programmi della Sezione forestale del Regio istituto superiore agrario forestale di Firenze, approvati con [R. decreto 22 ottobre 1931, n. 1512](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20del%20Regio%20istituto%20superiore%20agrario%20e%20forestale%20di%20Firenze.%20031U1512.md);
+Visto l'ordinamento degli studi ed i programmi della Sezione forestale del Regio istituto superiore agrario forestale di Firenze, approvati con [R. decreto 22 ottobre 1931, n. 1512](Approvazione%20del%20nuovo%20statuto%20del%20Regio%20istituto%20superiore%20agrario%20e%20forestale%20di%20Firenze.%20031U1512.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e foreste, di concerto coi Ministri Segretari di Stato per le finanze e per l'educazione nazionale;
 

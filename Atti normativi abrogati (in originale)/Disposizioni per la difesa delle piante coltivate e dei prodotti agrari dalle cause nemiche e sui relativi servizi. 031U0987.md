@@ -215,7 +215,7 @@ Ai membri del Consiglio di amministrazione ed ai commissari straordinari residen
 
 ### Art. 27.
 
-La direzione tecnica dei Consorzi obbligatori di cui ai precedenti articoli 15, 16 e 17, sara' affidata a personale specializzato, retribuito dal Consorzio e nominato dalla Commissione amministratrice in seguito a concorso da bandirsi con le norme che saranno dettate dal regolamento di cui all'art. 4, o mediante chiamata di funzionari appartenenti al ruolo dei delegati tecnici antifillosserici, di cui alla tabella n. 91, dell'allegato A al [R. decreto 11 novembre 1923, numero 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). Il trattamento economico del detto personale sara' stabilito col regolamento stesso. 
+La direzione tecnica dei Consorzi obbligatori di cui ai precedenti articoli 15, 16 e 17, sara' affidata a personale specializzato, retribuito dal Consorzio e nominato dalla Commissione amministratrice in seguito a concorso da bandirsi con le norme che saranno dettate dal regolamento di cui all'art. 4, o mediante chiamata di funzionari appartenenti al ruolo dei delegati tecnici antifillosserici, di cui alla tabella n. 91, dell'allegato A al [R. decreto 11 novembre 1923, numero 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). Il trattamento economico del detto personale sara' stabilito col regolamento stesso. 
  Fino a quando i Consorzi non abbiano provveduto alla nomina del personale specializzato di cui sopra, la direzione tecnica di essi sara' mantenuta gratuitamente dal direttore della Cattedra ambulante di agricoltura.
 
 ### Art. 28.
@@ -251,7 +251,7 @@ In caso di cessazione del Consorzio, i residui della gestione ed ogni altra atti
 
 ### Art. 34.
 
-Le violazioni delle norme relative alla importazione, esportazione e circolazione delle piante, parti di piante e semi, sono punite con l'ammenda da L. 100 a L. 2000 senza pregiudizio delle maggiori pene stabilite dalle leggi doganali per il contrabbando e dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i reati in esso previsti. 
+Le violazioni delle norme relative alla importazione, esportazione e circolazione delle piante, parti di piante e semi, sono punite con l'ammenda da L. 100 a L. 2000 senza pregiudizio delle maggiori pene stabilite dalle leggi doganali per il contrabbando e dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i reati in esso previsti. 
  Nel caso di commercio ambulante di talee e barbatelle di viti americane si procede, inoltre, alla confisca e alla distruzione immediata del materiale. 
  E' data facolta' al Governo del Re di stabilire, nel regolamento di cui all'articolo 4, sanzioni penali limitate all'ammenda fino a L.
 1000.

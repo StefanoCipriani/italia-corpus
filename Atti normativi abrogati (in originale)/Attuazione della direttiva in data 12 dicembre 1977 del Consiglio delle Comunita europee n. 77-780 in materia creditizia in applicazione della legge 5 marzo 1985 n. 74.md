@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 5 marzo 1985, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lattuazione%20della%20direttiva%20comunitaria%20n.%2077-780%20in%20materia%20creditizia.md);
+Vista la [legge 5 marzo 1985, n. 74](Delega%20al%20Governo%20per%20lattuazione%20della%20direttiva%20comunitaria%20n.%2077-780%20in%20materia%20creditizia.md);
 
 Sentito il parere delle commissioni permanenti delle due Camere competenti per materia sullo schema di decreto trasmesso dal Governo della Repubblica;
 
@@ -250,7 +250,7 @@ Nota all'art. 13, comma 1:
 
 ## Art. 14.
 
-Le regioni a statuto speciale alle quali sono riconosciuti, in base alle norme di attuazione dei rispettivi statuti, poteri in materia di autorizzazione all'esercizio dell'attivita' degli enti creditizi nel territorio regionale, provvedono ad emanare, entro centottanta giorni dall'entrata in vigore del presente decreto, norme di recepimento della direttiva del Consiglio delle Comunita' europee del 12 dicembre 1977, n. 780, nei limiti dei principi fondamentali risultanti dalla [legge 5 marzo 1985, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lattuazione%20della%20direttiva%20comunitaria%20n.%2077-780%20in%20materia%20creditizia.md), e dalle norme previste nel decreto stesso.
+Le regioni a statuto speciale alle quali sono riconosciuti, in base alle norme di attuazione dei rispettivi statuti, poteri in materia di autorizzazione all'esercizio dell'attivita' degli enti creditizi nel territorio regionale, provvedono ad emanare, entro centottanta giorni dall'entrata in vigore del presente decreto, norme di recepimento della direttiva del Consiglio delle Comunita' europee del 12 dicembre 1977, n. 780, nei limiti dei principi fondamentali risultanti dalla [legge 5 marzo 1985, n. 74](Delega%20al%20Governo%20per%20lattuazione%20della%20direttiva%20comunitaria%20n.%2077-780%20in%20materia%20creditizia.md), e dalle norme previste nel decreto stesso.
 
 Nota all'art. 14: 
  V. la nota al titolo.

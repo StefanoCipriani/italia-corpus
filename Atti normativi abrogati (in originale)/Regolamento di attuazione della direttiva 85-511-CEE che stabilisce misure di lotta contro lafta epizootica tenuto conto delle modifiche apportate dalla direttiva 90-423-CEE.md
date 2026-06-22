@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto l'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Vista la [legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md);
+Vista la [legge 9 marzo 1989, n. 86](Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md);
 
 Vista la [legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), ed in particolare l'allegato C;
 
@@ -22,7 +22,7 @@ Ritenuto di dover emanare le disposizioni occorrenti per assicurare l'attuazione
 
 Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1938, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-07-27;1265);
 
-Visto il regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md);
+Visto il regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md);
 
 Vista la [legge 23 gennaio 1968, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-23;34);
 
@@ -70,7 +70,7 @@ Per la definizione di azienda e, ove necessario, per le altre definizioni, si ap
 
 1.
 
-La denuncia del sospetto o dell'accertamento negli animali dell'esistenza di afta epizootica e' obbligatoria ai sensi del [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), e per gli effetti di cui alla [legge 30 aprile 1976, n. 397](../Atti%20di%20recepimento%20direttive%20UE/Norme%20sanitarie%20sugli%20scambi%20di%20animali%20tra%20lItalia%20e%20gli%20altri%20Stati%20membri%20della%20Comunita%20economica%20europea.md), e succes- sive modificazioni.
+La denuncia del sospetto o dell'accertamento negli animali dell'esistenza di afta epizootica e' obbligatoria ai sensi del [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e per gli effetti di cui alla [legge 30 aprile 1976, n. 397](../Atti%20di%20recepimento%20direttive%20UE/Norme%20sanitarie%20sugli%20scambi%20di%20animali%20tra%20lItalia%20e%20gli%20altri%20Stati%20membri%20della%20Comunita%20economica%20europea.md), e succes- sive modificazioni.
 
 2.
 
@@ -242,7 +242,7 @@ La vigilanza ufficiale ha lo scopo di individuare immediatamente qualsiasi sospe
 
 1.
 
-Appena la diagnosi di afta epizootica sia stata ufficialmente confermata, l'autorita' sanitaria competente emana l'ordinanza con cui stabilisce intorno all'azienda infetta la zona di protezione del raggio minimo di 3 km e la zona di sorveglianza del raggio minimo di 10 km. Cio' in sostituzione delle ordinanze di zona infetta e di zona di protezione di cui agli articoli 11 e 13 del regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md). La delimitazione delle zone deve tener conto delle barriere naturali, degli strumenti di controllo e dei progressi tecnologici che consentono di prevedere l'eventuale dispersione del virus aftoso nell'aria o con qualsiasi altro mezzo, e dovra' essere adeguata, se necessario, sulla base degli eventuali elementi in tal modo acquisiti.
+Appena la diagnosi di afta epizootica sia stata ufficialmente confermata, l'autorita' sanitaria competente emana l'ordinanza con cui stabilisce intorno all'azienda infetta la zona di protezione del raggio minimo di 3 km e la zona di sorveglianza del raggio minimo di 10 km. Cio' in sostituzione delle ordinanze di zona infetta e di zona di protezione di cui agli articoli 11 e 13 del regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md). La delimitazione delle zone deve tener conto delle barriere naturali, degli strumenti di controllo e dei progressi tecnologici che consentono di prevedere l'eventuale dispersione del virus aftoso nell'aria o con qualsiasi altro mezzo, e dovra' essere adeguata, se necessario, sulla base degli eventuali elementi in tal modo acquisiti.
 
 2.
 
@@ -429,7 +429,7 @@ Il proprietario, o il detentore a qualsiasi titolo di animali delle specie sensi
 
 3.
 
-Gli esercenti attivita' di trasporto o di commercio di animali delle specie sensibili devono essere in grado di fornire alle autorita' competenti ogni informazione concernente gli spostamenti degli animali che trasportano o commercializzano, nonche' la documentazione prescritta dal regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md); a tal fine il Ministro della sanita', con proprio decreto, approva apposito modello in sostituzione del modello n. 4 allegato al citato decreto presidenziale.
+Gli esercenti attivita' di trasporto o di commercio di animali delle specie sensibili devono essere in grado di fornire alle autorita' competenti ogni informazione concernente gli spostamenti degli animali che trasportano o commercializzano, nonche' la documentazione prescritta dal regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md); a tal fine il Ministro della sanita', con proprio decreto, approva apposito modello in sostituzione del modello n. 4 allegato al citato decreto presidenziale.
 
 ## Art. 14.
 
@@ -510,7 +510,7 @@ Le regioni destinano parte della quota del fondo sanitario nazionale loro spetta
 
 1.
 
-Sono abrogati gli articoli 71, 72, 73 e 74 del regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320, l'ordinanza](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md) [27 giugno 1987, n. 288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-06-27;288), nonche' tutte le altre disposizioni in contrasto o incompatibili con il presente regolamento.
+Sono abrogati gli articoli 71, 72, 73 e 74 del regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320, l'ordinanza](../DPR/Regolamento%20di%20polizia%20veterinaria.md) [27 giugno 1987, n. 288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-06-27;288), nonche' tutte le altre disposizioni in contrasto o incompatibili con il presente regolamento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

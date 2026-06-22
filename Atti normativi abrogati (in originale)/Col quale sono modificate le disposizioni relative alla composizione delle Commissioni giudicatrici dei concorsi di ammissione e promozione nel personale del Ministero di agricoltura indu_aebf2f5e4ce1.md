@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il secondo comma dell'art. 11 del regolamento per il personale dell'Amministrazione centrale dell'agricoltura, industria e commercio, approvato col [R. decreto 11 gennaio 1912, n. 138](../Regi%20decreti/Col%20quale%20viene%20approvato%20annesso%20regolamento%20per%20il%20personale%20dellAmministrazione%20centrale%20dellagricoltura%20industria%20e%20commercio.%20012U0138.md), e' modificato come appresso: 
+Il secondo comma dell'art. 11 del regolamento per il personale dell'Amministrazione centrale dell'agricoltura, industria e commercio, approvato col [R. decreto 11 gennaio 1912, n. 138](Col%20quale%20viene%20approvato%20annesso%20regolamento%20per%20il%20personale%20dellAmministrazione%20centrale%20dellagricoltura%20industria%20e%20commercio.%20012U0138.md), e' modificato come appresso: 
  
  «La Commissione e' composta di cinque membri per gli esami di ammissione nella prima e seconda categoria, e di tre membri per gli esami di ammissione nella terza categoria ed ai posti di disegnatore.
 Ad essa sono aggregati professori di lingue estere. Negli esami per segretario amministrativo, la Commissione e' presieduta da un membro del Consiglio di Stato; negli altri esami dal Commissario di maggior grado».

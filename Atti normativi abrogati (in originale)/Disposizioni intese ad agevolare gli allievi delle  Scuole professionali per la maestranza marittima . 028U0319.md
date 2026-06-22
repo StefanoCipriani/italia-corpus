@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il Codice per la marina mercantile ed il relativo regolamento;
 
-Visto il [R. decreto 18 aprile 1920, n. 744](../Regi%20decreti/Erezione%20in%20ente%20morale.%20020U0744.md);
+Visto il [R. decreto 18 aprile 1920, n. 744](Erezione%20in%20ente%20morale.%20020U0744.md);
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

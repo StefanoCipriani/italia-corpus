@@ -68,7 +68,7 @@ VITTORIO EMANUELE III
  
  Il comma 3° dell'art. 40 del R. decreto-legge 12 marzo 1936-XIV, n. 375, e' sostituito dal seguente: 
  
- «In deroga a quanto dispongono gli articoli 8 e 9 del testo unico approvato con [R. decreto 25 aprile 1929, n. 967](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulle%20Casse%20di%20risparmio%20e%20sui%20Monti%20di%20pieta%20di%20prima%20categoria.%20029U0967.md), la istituzione delle Casse di risparmio e dei Monti di pegni di 1° categoria e l'approvazione dei relativi statuti, nonche' l'approvazione delle modificazioni statutarie, regolarmente deliberate, hanno luogo mediante decreto del Capo del Governo, sentito il Comitato dei Ministri, in seguito a proposta del Capo dell'Ispettorato». 
+ «In deroga a quanto dispongono gli articoli 8 e 9 del testo unico approvato con [R. decreto 25 aprile 1929, n. 967](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulle%20Casse%20di%20risparmio%20e%20sui%20Monti%20di%20pieta%20di%20prima%20categoria.%20029U0967.md), la istituzione delle Casse di risparmio e dei Monti di pegni di 1° categoria e l'approvazione dei relativi statuti, nonche' l'approvazione delle modificazioni statutarie, regolarmente deliberate, hanno luogo mediante decreto del Capo del Governo, sentito il Comitato dei Ministri, in seguito a proposta del Capo dell'Ispettorato». 
  
  Gli articoli 41, 42 e 43 sono soppressi. 
  

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la legge [testo unico 31 gennaio 1904, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1904-01-31;51), e successive modificazioni, per gli infortuni degli operai sul lavoro;
 
-Veduto il [R. decreto 25 aprile 1897, n. 145](../Regi%20decreti/Che%20erige%20in%20ente%20morale%20lassociazione%20degli%20industriali%20d%20Italia%20per%20prevenire%20gli%20infortuni%20sul%20lavoro%20in%20Milano%20e%20ne%20approva%20lo%20statuto.%209700145R.md), col quale la «Associazione degli industriali d'Italia per prevenire gli infortuni sul lavoro» era eretta in Ente morale;
+Veduto il [R. decreto 25 aprile 1897, n. 145](Che%20erige%20in%20ente%20morale%20lassociazione%20degli%20industriali%20d%20Italia%20per%20prevenire%20gli%20infortuni%20sul%20lavoro%20in%20Milano%20e%20ne%20approva%20lo%20statuto.%209700145R.md), col quale la «Associazione degli industriali d'Italia per prevenire gli infortuni sul lavoro» era eretta in Ente morale;
 
 Udito il Consiglio dei Ministri;
 

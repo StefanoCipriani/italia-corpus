@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 31 luglio 1945, n. 446](../Decreti%20legislativi%20luogotenenziali/Ordinamento%20e%20attribuzioni%20dellAlto%20Commissariato%20per%20ligiene%20e%20la%20sanita%20pubblica.%20045U0446.md);
+Visto il [decreto legislativo luogotenenziale 31 luglio 1945, n. 446](Ordinamento%20e%20attribuzioni%20dellAlto%20Commissariato%20per%20ligiene%20e%20la%20sanita%20pubblica.%20045U0446.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

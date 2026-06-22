@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le sanzioni portate dal [decreto-legge Luogotenenziale 12 aprile 1917, n. 729](Concernente%20la%20preparazione%20la%20vendita%20e%20il%20commercio%20dei%20vini.%20017U0729.md), sono applicate dagli intendenti di finanza, con proprio decreto penale e con le norme di cui al [Regio decreto 25 marzo 1923, n. 796](../Regi%20decreti/Riguardante%20la%20competenza%20dellintendente%20di%20finanza%20a%20riconoscere%20la%20esistenza%20delle%20trasgressioni%20alle%20disposizioni%20tributarie%20e%20in%20genere%20a%20qualsiasi%20legge%20o%20decreto%20interessanti%20i%20trib_92c5af07dc8d.md), ad esclusione di quelle del titolo II. 
+Le sanzioni portate dal [decreto-legge Luogotenenziale 12 aprile 1917, n. 729](Concernente%20la%20preparazione%20la%20vendita%20e%20il%20commercio%20dei%20vini.%20017U0729.md), sono applicate dagli intendenti di finanza, con proprio decreto penale e con le norme di cui al [Regio decreto 25 marzo 1923, n. 796](Riguardante%20la%20competenza%20dellintendente%20di%20finanza%20a%20riconoscere%20la%20esistenza%20delle%20trasgressioni%20alle%20disposizioni%20tributarie%20e%20in%20genere%20a%20qualsiasi%20legge%20o%20decreto%20interessanti%20i%20trib_92c5af07dc8d.md), ad esclusione di quelle del titolo II. 
  
  I decreti penali, se non impugnati, od in ogni caso le sentenze di condanna, saranno pubblicate in almeno due giornali a cura ed a scelta dell'intendente, e le spese relative saranno a carico del condannato. 
  

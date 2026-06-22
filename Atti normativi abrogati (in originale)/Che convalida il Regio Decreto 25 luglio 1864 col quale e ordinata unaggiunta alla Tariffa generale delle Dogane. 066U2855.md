@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convalidato il [R. Decreto 25 luglio 1864, n° 1872](../Regi%20decreti/E%20ordinata%20unaggiunta%20alla%20tariffa%20generale%20delle%20Dogane.%20064U1872.md), col quale si e' disposto che nella Tariffa generale delle Dogane alla categoria 2ª siano da aggiungersi le seguenti voci e dazi: 
+E' convalidato il [R. Decreto 25 luglio 1864, n° 1872](E%20ordinata%20unaggiunta%20alla%20tariffa%20generale%20delle%20Dogane.%20064U1872.md), col quale si e' disposto che nella Tariffa generale delle Dogane alla categoria 2ª siano da aggiungersi le seguenti voci e dazi: 
  
  Petrolio ed olio di schisto bituminoso ed asfalto grezzi per 100 chilogrammi esenti; 
  

@@ -229,7 +229,7 @@ Agli articoli 133 e 134 del testo della legge del Registro, approvato con [R. de
  
  «Il funzionario procedente accerta la violazione mediante processo verbale anche col concorso, qualora lo ritenga opportuno, del podesta' ovvero di un ufficiale di polizia giudiziaria, da lui all'uopo richiesto. 
  
- «I trasgressori agli obblighi prescritti nella prima parte di questo articolo sono soggetti alla pena pecuniaria da L. 100 a L. 200, senza pregiudizio delle sanzioni stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), qualora il fatto costituisca reato ed indipendentemente dall'applicazione delle pene disciplinari prescritte dai relativi ordinamenti».
+ «I trasgressori agli obblighi prescritti nella prima parte di questo articolo sono soggetti alla pena pecuniaria da L. 100 a L. 200, senza pregiudizio delle sanzioni stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), qualora il fatto costituisca reato ed indipendentemente dall'applicazione delle pene disciplinari prescritte dai relativi ordinamenti».
 
 ## Art. 5.
 

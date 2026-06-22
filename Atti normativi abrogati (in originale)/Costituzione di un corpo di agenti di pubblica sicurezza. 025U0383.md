@@ -53,7 +53,7 @@ Grado
 
 ## Art. 3.
 
-Ferme restando le disposizioni degli [articoli 1](../Regi%20decreti/Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md) e [2 del R. decreto 2 ottobre 1919, n. 1802](../Regi%20decreti/Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), l'arma dei carabinieri Reali provvedera' inoltre a fornire i nuclei permanenti di forza per esigenze straordinarie di ordine pubblico. La forza e le sedi di detti nuclei saranno stabiliti dal Ministero dell'interno, d'accordo con quello della guerra.
+Ferme restando le disposizioni degli [articoli 1](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md) e [2 del R. decreto 2 ottobre 1919, n. 1802](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), l'arma dei carabinieri Reali provvedera' inoltre a fornire i nuclei permanenti di forza per esigenze straordinarie di ordine pubblico. La forza e le sedi di detti nuclei saranno stabiliti dal Ministero dell'interno, d'accordo con quello della guerra.
 
 ## Art. 4.
 
@@ -71,7 +71,7 @@ Con apposito regolamento sara' provveduto alla emanazione delle norme per il ser
 
 ## Art. 6.
 
-Gli appartenenti al corpo degli agenti di pubblica sicurezza sono sottoposti alle disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per i seguenti reati: 
+Gli appartenenti al corpo degli agenti di pubblica sicurezza sono sottoposti alle disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per i seguenti reati: 
  
  1° ammutinamento; 
  
@@ -140,7 +140,7 @@ Il Ministero dell'interno ha facolta' di collocare a riposo, con provvedimento d
 
 Il trattamento economico e di quiescenza degli appartenenti al corpo degli agenti di pubblica sicurezza, anche nei casi di diritto a pensione privilegiata, sara' regolato con le norme stabilite per i militari dell'arma dei carabinieri Reali. 
  
- Il supplemento all'indennita' militare speciale, di cui godevano i militari del ruolo specializzato, giusta l'[art. 176 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), viene mantenuto a favore degli agenti di pubblica sicurezza, sotto il nome di indennita' supplementare speciale di pubblica sicurezza.
+ Il supplemento all'indennita' militare speciale, di cui godevano i militari del ruolo specializzato, giusta l'[art. 176 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), viene mantenuto a favore degli agenti di pubblica sicurezza, sotto il nome di indennita' supplementare speciale di pubblica sicurezza.
 
 ## Art. 14.
 
@@ -169,7 +169,7 @@ Per il trattamento di quiescenza ordinario e privilegiato degli ufficiali valgon
 
 I sottufficiali e gli agenti del corpo di pubblica sicurezza che vengono dalle competenti autorita' politiche e di pubblica sicurezza comandati in servizio nel Regno, fuori della loro ordinaria residenza ed a distanza eccedente i cinque chilometri dalla medesima, per servizi isolati o speciali, sono considerati in trasferta ed oltre ai mezzi di viaggio spettanti ai pari grado dell'arma dei carabinieri Reali, hanno diritto ad una diaria di L. 20 se marescialli, di L. 14 se brigadieri e vicebrigadieri e di L. 8 se agenti. 
  
- Agli ispettori ed ai comandanti compete, secondo il grado, la indennita' di cui agli [articoli 180](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [181 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
+ Agli ispettori ed ai comandanti compete, secondo il grado, la indennita' di cui agli [articoli 180](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [181 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  Le suddette indennita' e diaria saranno ridotte ai due terzi, quando non siasi reso necessario il pernottamento fuori residenza, quando gli agenti, pernottando fuori residenza, fruiscano di alloggio gratuito o quando sia trascorso il primo mese di missione; sono ridotte alla meta' dopo il secondo mese e ad un terzo dopo il terzo mese. 
  
@@ -211,13 +211,13 @@ Nota redazionale
 
 ## Art. 22.
 
-Gli agenti dei cessati corpi di polizia dell'ex regime austro-ungarico, gia' parificati al personale del ruolo specializzato dei carabinieri Reali, ai sensi degli [articoli 7](../Regi%20decreti/Assimilazione%20economica%20del%20personale%20di%20polizia%20dellex%20regime%20austro-ungarico.%20023U2014.md) e [9 del R. decreto 15 luglio 1923, n 2014](../Regi%20decreti/Assimilazione%20economica%20del%20personale%20di%20polizia%20dellex%20regime%20austro-ungarico.%20023U2014.md), sono di diritto parificati al personale del corpo degli agenti di pubblica sicurezza e formeranno un elenco distinto dall'organico del corpo stesso, ai sensi e per gli effetti del [1°](../Regi%20decreti/Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md) e [2° comma dell'art. 9 del Regio decreto 18 febbraio 1923, n. 440](../Regi%20decreti/Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md), salvo le norme particolari che saranno per essi stabilite.
+Gli agenti dei cessati corpi di polizia dell'ex regime austro-ungarico, gia' parificati al personale del ruolo specializzato dei carabinieri Reali, ai sensi degli [articoli 7](Assimilazione%20economica%20del%20personale%20di%20polizia%20dellex%20regime%20austro-ungarico.%20023U2014.md) e [9 del R. decreto 15 luglio 1923, n 2014](Assimilazione%20economica%20del%20personale%20di%20polizia%20dellex%20regime%20austro-ungarico.%20023U2014.md), sono di diritto parificati al personale del corpo degli agenti di pubblica sicurezza e formeranno un elenco distinto dall'organico del corpo stesso, ai sensi e per gli effetti del [1°](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md) e [2° comma dell'art. 9 del Regio decreto 18 febbraio 1923, n. 440](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md), salvo le norme particolari che saranno per essi stabilite.
 
 ## Art. 23.
 
 Col 1° luglio 1925 passeranno in consegna al Ministero dell'interno, per l'accasermamento degli agenti del Corpo di pubblica sicurezza, tutte le caserme e i locali attualmente occupati dai carabinieri Reali specializzati, nonche' quelli della Scuola tecnica di polizia, col rispettivo arredamento di pertinenza dello Stato. 
  
- Per il servizio di accasermamento e di alloggio degli agenti di pubblica sicurezza, vigeranno le norme di cui al [R. decreto 5 luglio 1923, n. 1773](../Regi%20decreti/Passaggio%20alle%20Provincie%20del%20servizio%20di%20accasermamento%20ed%20alloggio%20dei%20Reali%20carabinieri.%20023U1773.md). 
+ Per il servizio di accasermamento e di alloggio degli agenti di pubblica sicurezza, vigeranno le norme di cui al [R. decreto 5 luglio 1923, n. 1773](Passaggio%20alle%20Provincie%20del%20servizio%20di%20accasermamento%20ed%20alloggio%20dei%20Reali%20carabinieri.%20023U1773.md). 
  
  Il Ministero dell'interno prendera' pure in carico per il detto corpo, tutto il materiale di armamento attualmente in distribuzione ai militari del ruolo specializzato.
 

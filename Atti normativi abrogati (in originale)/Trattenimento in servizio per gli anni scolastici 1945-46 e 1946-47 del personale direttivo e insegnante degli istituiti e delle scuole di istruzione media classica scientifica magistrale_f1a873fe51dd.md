@@ -14,7 +14,7 @@ Visto il [regio decreto-legge 24 aprile 1935, n. 565](Limiti%20di%20eta%20pel%20
 
 Vista la [legge 10 dicembre 1942, n. 1704](Norme%20transitorie%20sul%20collocamento%20a%20riposo%20del%20personale%20direttivo%20ed%20insegnante%20delle%20scuole%20governative%20e%20sullesonero%20dalle%20tasse%20in%20relazione%20allo%20stato%20di%20guerra.%20042U1704.md);
 
-Visto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 816](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allordinamento%20della%20scuola%20media%20Istituzione%20di%20classi%20di%20collegamento%20col%20liceo%20scientifico%20con%20listituito%20magistrale%20e%20con%20gli%20istituti%20tecnici%20e%20disposizioni%20per%20il%20pers_9814349c1e47.md);
+Visto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 816](Modificazioni%20allordinamento%20della%20scuola%20media%20Istituzione%20di%20classi%20di%20collegamento%20col%20liceo%20scientifico%20con%20listituito%20magistrale%20e%20con%20gli%20istituti%20tecnici%20e%20disposizioni%20per%20il%20pers_9814349c1e47.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

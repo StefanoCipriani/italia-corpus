@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico approvato con il [R. decreto 9 aprile 1922, n. 932](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md), ed i successivi provvedimenti in materia di credito agrario;
+Visto il testo unico approvato con il [R. decreto 9 aprile 1922, n. 932](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md), ed i successivi provvedimenti in materia di credito agrario;
 
-Visto il testo unico approvato con il [R. decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), ed i successivi provvedimenti in materia di credito fondiario;
+Visto il testo unico approvato con il [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), ed i successivi provvedimenti in materia di credito fondiario;
 
 Visto il [R. decreto-legge 22 marzo 1923, n. 771](Che%20reca%20provvedimenti%20per%20il%20rimborso%20delle%20sovvenzioni%20accordate%20con%20i%20fondi%20dello%20Stato%20ai%20cerealicultori%20delle%20provincie%20di%20Bari%20Campobasso%20Foggia%20e%20Potenza.%20023U0771.md), che reca provvedimenti per il rimborso delle sovvenzioni accordate con i fondi dello Stato ai cerealicultori delle provincie di Bari, Campobasso, Foggia e Potenza;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3139](../Regi%20decreti/Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), che reca provvedimenti in materia di credito agrario ed agrario-fondiario;
+Visto il [R. decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), che reca provvedimenti in materia di credito agrario ed agrario-fondiario;
 
 Udito il Consiglio dei Ministri;
 
@@ -28,17 +28,17 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Art. 1.
 
-All'[articolo 3 del R. decreto 30 dicembre 1923, n. 3139](../Regi%20decreti/Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), e' aggiunto il seguente comma: 
+All'[articolo 3 del R. decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), e' aggiunto il seguente comma: 
  
  «Nel primo triennio dall'applicazione del presente decreto, uguale concorso potra' pure essere concesso dallo Stato alle ordinarie operazioni degli istituti di credito fondiario quando esse siano rivolte agli scopi di cui agli [articoli 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1922-04-09;932#art_17) e [19 del testo unico 9 aprile 1922, n. 932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1922-04-09;932#art_19), secondo le norme che saranno emanate col regolamento».
 
 ## Art. 2.
 
-Il Governo del Re e' autorizzato mediante Reale decreto promosso dal Ministro per l'economia nazionale, di concerto col Ministro per le finanze, udito il Consiglio dei Ministri, ad apportare nelle leggi e nei regolamenti sul credito fondiario e in quelli sul credito agrario le modificazioni necessarie a disciplinare ed agevolare il coordinato esercizio del credito fondiario e del credito agrario nel Regno, nonche' la coesistenza sul mercato delle cartelle fondiarie e delle cartelle agrarie di cui all'[art. 1 del R. decreto 30 dicembre 1923, n. 3139](../Regi%20decreti/Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md).
+Il Governo del Re e' autorizzato mediante Reale decreto promosso dal Ministro per l'economia nazionale, di concerto col Ministro per le finanze, udito il Consiglio dei Ministri, ad apportare nelle leggi e nei regolamenti sul credito fondiario e in quelli sul credito agrario le modificazioni necessarie a disciplinare ed agevolare il coordinato esercizio del credito fondiario e del credito agrario nel Regno, nonche' la coesistenza sul mercato delle cartelle fondiarie e delle cartelle agrarie di cui all'[art. 1 del R. decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md).
 
 ## Art. 3.
 
-Ai mutui e alle cartelle di cui al [R. decreto 30 dicembre 1923, n. 3139](../Regi%20decreti/Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), si applicano, anche agli effetti fiscali, le disposizioni delle leggi sul credito fondiario in quanto non contrastino con le disposizioni contenute nel [testo unico 9 aprile 1922, n. 932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1922-04-09;932), e nei successivi provvedimenti sul credito agrario.
+Ai mutui e alle cartelle di cui al [R. decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), si applicano, anche agli effetti fiscali, le disposizioni delle leggi sul credito fondiario in quanto non contrastino con le disposizioni contenute nel [testo unico 9 aprile 1922, n. 932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1922-04-09;932), e nei successivi provvedimenti sul credito agrario.
 
 ## Art. 4.
 
@@ -46,7 +46,7 @@ Il capitale delle sezioni autonome degli istituti di credito fondiario esercenti
 
 ## Art. 5.
 
-Gli istituti autorizzati a concedere i mutui di cui al [R. decreto 30 dicembre 1923, n. 3139](../Regi%20decreti/Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), potranno scontare le quote di concorso governativo di cui all'art. 3 del citato decreto versando il capitale corrispondente a chi esegua le migliorie con mezzi propri.
+Gli istituti autorizzati a concedere i mutui di cui al [R. decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), potranno scontare le quote di concorso governativo di cui all'art. 3 del citato decreto versando il capitale corrispondente a chi esegua le migliorie con mezzi propri.
 
 ## Art. 6.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 2 della legge 18 giugno 1954, n. 343](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20del%20termine%20previsto%20dagli%20articoli%201%20e%208%20della%20legge%2011%20marzo%201953%20n.%20150%20per%20la%20delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20di%20interesse%20esclusivamente%20l_8fb8bdc361e6.md);
+Visto l'[art. 2 della legge 18 giugno 1954, n. 343](Proroga%20del%20termine%20previsto%20dagli%20articoli%201%20e%208%20della%20legge%2011%20marzo%201953%20n.%20150%20per%20la%20delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20di%20interesse%20esclusivamente%20l_8fb8bdc361e6.md);
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 

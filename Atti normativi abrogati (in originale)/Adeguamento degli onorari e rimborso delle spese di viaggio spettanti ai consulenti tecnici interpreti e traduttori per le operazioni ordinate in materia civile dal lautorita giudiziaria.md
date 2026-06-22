@@ -18,7 +18,7 @@ Sulla proposta dal Ministro per la; grazia e giustizia, di concerto col Ministro
 
 ## Art. 1.
 
-La misura degli onorari, dei diritti di vacazione e della indennita' giornaliera di missione, spettanti ai consulenti tecnici, interpreti e traduttori per le operazioni ordinate in materia civile dall'autorita' giudiziaria, ai sensi dell'[art. 1 del decreto legislativo luogotenenziale 23 novembre 1944, n. 405](../Decreti%20legislativi%20luogotenenziali/Onorari%20diritti%20ed%20indennita%20spettanti%20ai%20periti%20consulenti%20tecnici%20interpreti%20e%20traduttori%20incaricati%20di%20perizie%20dallautorita%20giudiziaria.%20044U0405.md), quadruplicata.
+La misura degli onorari, dei diritti di vacazione e della indennita' giornaliera di missione, spettanti ai consulenti tecnici, interpreti e traduttori per le operazioni ordinate in materia civile dall'autorita' giudiziaria, ai sensi dell'[art. 1 del decreto legislativo luogotenenziale 23 novembre 1944, n. 405](Onorari%20diritti%20ed%20indennita%20spettanti%20ai%20periti%20consulenti%20tecnici%20interpreti%20e%20traduttori%20incaricati%20di%20perizie%20dallautorita%20giudiziaria.%20044U0405.md), quadruplicata.
 
 ## Art. 2.
 

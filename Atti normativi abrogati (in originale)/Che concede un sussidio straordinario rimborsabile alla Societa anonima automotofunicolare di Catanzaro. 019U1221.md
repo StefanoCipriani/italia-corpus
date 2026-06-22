@@ -18,7 +18,7 @@ Alla Societa' anonima «Tramvia automotofunicolare di Catanzaro» viene concesso
 
 Le somme che verranno corrisposte alla Societa' a titolo di sussidio straordinario, cumulate con gli interessi 5 % decorrenti dal giorno del pagamento delle singole rate di anticipazione sino ad un anno dopo la pubblicazione della pace, dovranno essere rimborsate allo Stato mediante quindici annualita' posticipate, comprensive di capitale e di interesse 5 % con decorrenza dal predetto termine di un anno dopo la pubblicazione della pace. 
  
- Decorso un mese dalla data in cui la concessionaria dovra' versare allo Stato ciascuna annualita', il tesoro, in caso di mancato versamento, si rivarra' sui proventi dell'esercizio con il procedimento stabilito dal testo unico approvato con [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md) per la riscossione delle entrate patrimoniali dello Stato e dei proventi dei servizi pubblici.
+ Decorso un mese dalla data in cui la concessionaria dovra' versare allo Stato ciascuna annualita', il tesoro, in caso di mancato versamento, si rivarra' sui proventi dell'esercizio con il procedimento stabilito dal testo unico approvato con [R. decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md) per la riscossione delle entrate patrimoniali dello Stato e dei proventi dei servizi pubblici.
 
 ## Art. 3.
 

@@ -16,15 +16,15 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato, e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato, e successive modificazioni;
 
-Visto il [R. decreto 31 dicembre 1924, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), sullo stato giuridico ed economico dei salariati statali;
+Visto il [R. decreto 31 dicembre 1924, n. 2262](Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), sullo stato giuridico ed economico dei salariati statali;
 
-Visto il [R. decreto 31 dicembre 1925, n. 2398](../Regi%20decreti/Modifiche%20al%20regolamento%20sullo%20stato%20giuridico%20e%20il%20trattamento%20economico%20dei%20salariati%20statali.%20025U2398.md), che apporta modificazioni al predetto R. decreto n. 2262;
+Visto il [R. decreto 31 dicembre 1925, n. 2398](Modifiche%20al%20regolamento%20sullo%20stato%20giuridico%20e%20il%20trattamento%20economico%20dei%20salariati%20statali.%20025U2398.md), che apporta modificazioni al predetto R. decreto n. 2262;
 
-Visto il [R. decreto 12 giugno 1931, n. 915](../Regi%20decreti/Approvazione%20dei%20ruoli%20del%20personale%20dellAmministrazione%20dei%20lavori%20pubblici%20in%20applicazione%20dei%20Regi%20decreti%209%20agosto%201929%20n.%201457%20e%2024%20luglio%201930%20n.%201088.%20031U0915.md), che approva i ruoli del personale dell'Amministrazione dei lavori pubblici;
+Visto il [R. decreto 12 giugno 1931, n. 915](Approvazione%20dei%20ruoli%20del%20personale%20dellAmministrazione%20dei%20lavori%20pubblici%20in%20applicazione%20dei%20Regi%20decreti%209%20agosto%201929%20n.%201457%20e%2024%20luglio%201930%20n.%201088.%20031U0915.md), che approva i ruoli del personale dell'Amministrazione dei lavori pubblici;
 
-Visto il [R. decreto 9 maggio 1926, n. 1181](../Regi%20decreti/Nomina%20in%20ruolo%20al%20gruppo%20C%20delle%20impiegate%20in%20servizio%20nellAmministrazione%20centrale%20dei%20lavori%20pubblici.%20026U1181.md), concernente la nomina in ruolo al gruppo C delle impiegate avventizie in servizio al Ministero dei lavori pubblici;
+Visto il [R. decreto 9 maggio 1926, n. 1181](Nomina%20in%20ruolo%20al%20gruppo%20C%20delle%20impiegate%20in%20servizio%20nellAmministrazione%20centrale%20dei%20lavori%20pubblici.%20026U1181.md), concernente la nomina in ruolo al gruppo C delle impiegate avventizie in servizio al Ministero dei lavori pubblici;
 
 Visto il R. decreto-legge 14 dicembre 1936-XV, n. 2374, relativo all'ordinamento del personale per i servizi tecnici e speciali dell'Amministrazione coloniale;
 
@@ -89,7 +89,7 @@ I ruoli organici del personale della carriera amministrativa (gruppo A) del Mini
 ## Art. 2.
 
 Alla maggiore spesa conseguente al riordinamento dei ruoli organici di cui al precedente articolo sara' provveduto in parte mediante la soppressione di 86 posti nei ruoli dei guardiani idraulici e per il rimanente con nuovo stanziamento di fondi. 
- Il ruolo dei guardiani idraulici, stabilito dalla tabella annessa al [R. decreto 20 giugno 1935, n. 1650](../Regi%20decreti/Fusione%20dei%20ruoli%20degli%20ufficiali%20e%20guardiani%20idraulici%20e%20di%20bonifica.%20035U1650.md), e' sostituito dal seguente: 
+ Il ruolo dei guardiani idraulici, stabilito dalla tabella annessa al [R. decreto 20 giugno 1935, n. 1650](Fusione%20dei%20ruoli%20degli%20ufficiali%20e%20guardiani%20idraulici%20e%20di%20bonifica.%20035U1650.md), e' sostituito dal seguente: 
  Guardiani idraulici posti n. 951
 
 ## Art. 3.
@@ -98,7 +98,7 @@ Ai soli effetti della promozione al grado VIII nel ruolo amministrativo dell'Amm
 
 ## Art. 4.
 
-E' abrogato l'[art. 4 del R. decreto 9 maggio 1926, n. 1181](../Regi%20decreti/Nomina%20in%20ruolo%20al%20gruppo%20C%20delle%20impiegate%20in%20servizio%20nellAmministrazione%20centrale%20dei%20lavori%20pubblici.%20026U1181.md).
+E' abrogato l'[art. 4 del R. decreto 9 maggio 1926, n. 1181](Nomina%20in%20ruolo%20al%20gruppo%20C%20delle%20impiegate%20in%20servizio%20nellAmministrazione%20centrale%20dei%20lavori%20pubblici.%20026U1181.md).
 
 ## Art. 5.
 

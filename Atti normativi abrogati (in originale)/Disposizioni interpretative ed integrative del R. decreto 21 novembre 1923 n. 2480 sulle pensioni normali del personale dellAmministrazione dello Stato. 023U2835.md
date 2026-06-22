@@ -52,7 +52,7 @@ Il secondo e il [terzo comma dell'art. 3 del Regio decreto 21 novembre 1923, n. 
 
 All'[art. 5 del Regio decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), sono aggiunti i seguenti commi: 
  
- «Il limite di servizio indicato nel primo comma articolo 52 del testo unico di legge, approvato con [Regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e' ridotto a venti anni. Le disposizioni di detto art. 52, nonche' quelle dell'art. 6 del testo unico medesimo, si applicano nel solo caso del collocamento a riposo per ragioni di servizio».
+ «Il limite di servizio indicato nel primo comma articolo 52 del testo unico di legge, approvato con [Regio decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e' ridotto a venti anni. Le disposizioni di detto art. 52, nonche' quelle dell'art. 6 del testo unico medesimo, si applicano nel solo caso del collocamento a riposo per ragioni di servizio».
 
 ## Art. 5.
 
@@ -81,7 +81,7 @@ Al [quinto comma dell'art. 8 del Regio decreto 21 novembre 1923, n. 2480](Nuove%
 
 L'[art. 15 del Regio decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), e' sostituito dal seguente: 
  
- «Il diritto a pensione privilegiata normale dei genitori, fratelli e sorelle dei militari, di cui all'art. 123 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni, e' limitato ai soli casi di morte avvenuta per causa di servizio dipendente dagli obblighi di leva, a norma dell'art. 3 del testo unico approvato con [Regio decreto 24 dicembre 1911, n. 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md), o di servizio valido agli effetti dell'adempimento di tali obblighi».
+ «Il diritto a pensione privilegiata normale dei genitori, fratelli e sorelle dei militari, di cui all'art. 123 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni, e' limitato ai soli casi di morte avvenuta per causa di servizio dipendente dagli obblighi di leva, a norma dell'art. 3 del testo unico approvato con [Regio decreto 24 dicembre 1911, n. 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md), o di servizio valido agli effetti dell'adempimento di tali obblighi».
 
 ## Art. 8.
 
@@ -108,7 +108,7 @@ Il [terzo comma dell'art. 23 del Regio decreto 21 novembre 1923, n. 2480](Nuove%
 
 L'[art. 27 del Regio decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), e' sostituito dal seguente: 
  
- «Il procedimento per la liquidazione degli assegni diretti di quiescenza e', dalla Corte dei conti, iniziato d'ufficio appena avvenuta la registrazione dell'atto che dispone la cessazione dal servizio, ovvero la produzione di qualsiasi altro provvedimento che possa tenerne luogo, ai sensi dell'art. 174 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md)».
+ «Il procedimento per la liquidazione degli assegni diretti di quiescenza e', dalla Corte dei conti, iniziato d'ufficio appena avvenuta la registrazione dell'atto che dispone la cessazione dal servizio, ovvero la produzione di qualsiasi altro provvedimento che possa tenerne luogo, ai sensi dell'art. 174 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md)».
 
 ## Art. 11.
 

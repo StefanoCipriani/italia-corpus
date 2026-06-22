@@ -18,7 +18,7 @@ Veduta la [legge 3 aprile 1926, n. 2247](Istituzione%20dellOpera%20nazionale%20B
 
 Veduti i [Regi decreti-legge 9 gennaio 1927, n. 5](Modificazioni%20alla%20legge%203%20aprile%201926%20n.%202247%20concernente%20la%20istituzione%20dellOpera%20nazionale%20Balilla%20per%20lassistenza%20e%20leducazione%20fisica%20e%20morale%20della%20gioventu.%20027U0005.md), e [9 aprile 1928, n. 696](Modificazioni%20al%20R.%20decreto-legge%209%20gennaio%201927%20n.%205%20concernente%20la%20istituzione%20dellOpera%20nazionale%20Balilla%20per%20lassistenza%20e%20leducazione%20fisica%20e%20morale%20della%20gioventu.%20028U0696.md), con i quali sono state apportate modificazioni alla legge anzidetta;
 
-Veduto il [decreto-legge Luogotenenziale 8 giugno 1919, n. 1085](Portante%20provvedimenti%20per%20le%20navi-asilo.%20019U1085.md), concernente provvedimenti per le navi-scuola marinaretti, e le modificazioni successivamente apportatevi, nonche' il relativo regolamento approvato con [R. decreto 15 gennaio 1925, n. 159](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20navi%20asilo.%20025U0159.md);
+Veduto il [decreto-legge Luogotenenziale 8 giugno 1919, n. 1085](Portante%20provvedimenti%20per%20le%20navi-asilo.%20019U1085.md), concernente provvedimenti per le navi-scuola marinaretti, e le modificazioni successivamente apportatevi, nonche' il relativo regolamento approvato con [R. decreto 15 gennaio 1925, n. 159](Approvazione%20del%20regolamento%20per%20le%20navi%20asilo.%20025U0159.md);
 
 Ritenuta la necessita' urgente ed assoluta di provvedere;
 
@@ -40,7 +40,7 @@ L'Opera nazionale di patronato per le navi-scuola marinaretti, di cui all'[art. 
 
 ## Art. 3.
 
-Le attribuzioni di vigilanza sulle navi-scuola marinaretti, deferite al [Ministero della marina dal decreto-legge Luogotenenziale 8 giugno 1919, n. 1085](Portante%20provvedimenti%20per%20le%20navi-asilo.%20019U1085.md), e dal regolamento per la sua esecuzione approvato con [R. decreto 15 gennaio 1925, n. 159](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20navi%20asilo.%20025U0159.md), sono devolute al Capo del Governo, Primo Ministro Segretario di Stato, il quale le esercita in conformita' della [legge 3 aprile 1926, n. 2247](Istituzione%20dellOpera%20nazionale%20Balilla%20per%20lassistenza%20e%20leducazione%20fisica%20e%20morale%20della%20gioventu.%20026U2247.md), e del regolamento di cui al successivo art. 6.
+Le attribuzioni di vigilanza sulle navi-scuola marinaretti, deferite al [Ministero della marina dal decreto-legge Luogotenenziale 8 giugno 1919, n. 1085](Portante%20provvedimenti%20per%20le%20navi-asilo.%20019U1085.md), e dal regolamento per la sua esecuzione approvato con [R. decreto 15 gennaio 1925, n. 159](Approvazione%20del%20regolamento%20per%20le%20navi%20asilo.%20025U0159.md), sono devolute al Capo del Governo, Primo Ministro Segretario di Stato, il quale le esercita in conformita' della [legge 3 aprile 1926, n. 2247](Istituzione%20dellOpera%20nazionale%20Balilla%20per%20lassistenza%20e%20leducazione%20fisica%20e%20morale%20della%20gioventu.%20026U2247.md), e del regolamento di cui al successivo art. 6.
 
 ## Art. 4.
 
@@ -56,7 +56,7 @@ Con decreto Reale, su proposta del Capo del Governo, Primo Ministro Segretario d
 
 ## Art. 7.
 
-Fino a quando non sara' emanato il regolamento di cui all'articolo precedente, i Consigli di amministrazione delle singole navi-scuola marinaretti resterAnno in carica, e continueranno ad assolvere le attribuzioni loro affidate, in conformita' delle disposizioni del regolamento approvato con [R. decreto 15 gennaio 1925, n. 159](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20navi%20asilo.%20025U0159.md). 
+Fino a quando non sara' emanato il regolamento di cui all'articolo precedente, i Consigli di amministrazione delle singole navi-scuola marinaretti resterAnno in carica, e continueranno ad assolvere le attribuzioni loro affidate, in conformita' delle disposizioni del regolamento approvato con [R. decreto 15 gennaio 1925, n. 159](Approvazione%20del%20regolamento%20per%20le%20navi%20asilo.%20025U0159.md). 
  
  Per lo stesso periodo di tempo le funzioni di tutela demandate all'Opera nazionale di patronato dal [decreto-legge Luogotenenziale 8 giugno 1919, n. 1085](Portante%20provvedimenti%20per%20le%20navi-asilo.%20019U1085.md), e dal citato regolamento, saranno esercitate dal commissario straordinario dell'Opera nazionale Balilla.
 

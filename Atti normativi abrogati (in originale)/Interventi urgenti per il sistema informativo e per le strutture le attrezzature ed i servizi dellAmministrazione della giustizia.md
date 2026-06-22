@@ -38,7 +38,7 @@ Per il sistema informativo e di elaborazione dati, per la conservazione e docume
 
 2.
 
-Per attuare le disposizioni di cui all'[articolo 15 del decreto legislativo 28 luglio 1989, n. 273](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20decreto%20del%20Presidente%20della%20Repubblica%2022%20settembre%201988%20n.%20449%20recante%20norme%20per%20ladeguamento%20dellordinamento%20giudiziario%20al%20nuovo_65e6f1b0944a.md), e per effettuare una analisi organizzativa del lavoro giudiziario penale ai fini del relativo monitoraggio, il Ministero di grazia e giustizia e' autorizzato ad avvalersi anche di figure professionali esterne all'amministrazione da assumere a contratto. A tal fine e' autorizzata la spesa di lire 200 milioni per l'anno 1991, di lire 1.000 milioni per l'anno 1992 e di lire 1.000 milioni per l'anno 1993.
+Per attuare le disposizioni di cui all'[articolo 15 del decreto legislativo 28 luglio 1989, n. 273](../Decreti%20Legislativi/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20decreto%20del%20Presidente%20della%20Repubblica%2022%20settembre%201988%20n.%20449%20recante%20norme%20per%20ladeguamento%20dellordinamento%20giudiziario%20al%20nuovo_65e6f1b0944a.md), e per effettuare una analisi organizzativa del lavoro giudiziario penale ai fini del relativo monitoraggio, il Ministero di grazia e giustizia e' autorizzato ad avvalersi anche di figure professionali esterne all'amministrazione da assumere a contratto. A tal fine e' autorizzata la spesa di lire 200 milioni per l'anno 1991, di lire 1.000 milioni per l'anno 1992 e di lire 1.000 milioni per l'anno 1993.
 
 ## Art. 3.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al capitano di vascello, comandante del R. cantiere di Castellammare di Stabia, sono dovute tutte le attribuzioni stabilite per i direttori generali degli arsenali dal regolamento per il servizio dei lavori e per le contabilita' del materiale dei Regi arsenali e cantieri marittimi, approvato con [R. decreto 20 giugno 1895, n 431](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20il%20servizio%20delle%20direzioni%20dei%20lavori%20e%20per%20la%20contabilita%20del%20materiale%20nei%20regi%20arsenali%20e%20cantieri%20marittimi.%20095U0431.md). 
+Al capitano di vascello, comandante del R. cantiere di Castellammare di Stabia, sono dovute tutte le attribuzioni stabilite per i direttori generali degli arsenali dal regolamento per il servizio dei lavori e per le contabilita' del materiale dei Regi arsenali e cantieri marittimi, approvato con [R. decreto 20 giugno 1895, n 431](Che%20approva%20il%20regolamento%20per%20il%20servizio%20delle%20direzioni%20dei%20lavori%20e%20per%20la%20contabilita%20del%20materiale%20nei%20regi%20arsenali%20e%20cantieri%20marittimi.%20095U0431.md). 
  
  Dal predetto comandante dipendono quindi direttamente ed esclusivamente le direzioni e sottodirezioni costituite nel cantiere.
 

@@ -42,7 +42,7 @@ Il fondo speciale di beneficenza e religione per la citta' di Roma sara' amminis
 
 ## Articolo 5.
 
-E' convalidato il [R. decreto del 1° settembre 1885, numero 3341](../Regi%20decreti/Concernenti%20il%20Fondo%20speciale%20di%20beneficenza%20e%20di%20religione%20nella%20citta%20di%20Roma.%20085U3341.md) (Serie 3ª), in quanto non contraddice alle disposizioni della presente legge.
+E' convalidato il [R. decreto del 1° settembre 1885, numero 3341](Concernenti%20il%20Fondo%20speciale%20di%20beneficenza%20e%20di%20religione%20nella%20citta%20di%20Roma.%20085U3341.md) (Serie 3ª), in quanto non contraddice alle disposizioni della presente legge.
 
 ## Articolo 6.
 

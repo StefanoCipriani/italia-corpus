@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 8 giugno 1913, n. 602](../Regi%20decreti/Da%20convertirsi%20in%20legge%20relativo%20allimpiego%20di%20capitali%20delle%20Casse%20degli%20invalidi%20della%20marina%20mercantile.%20013U0602.md), relativo all'impiego dei capitali delle Casse degli invalidi della marina mercantile. 
+ E' convertito in legge il [R. decreto 8 giugno 1913, n. 602](Da%20convertirsi%20in%20legge%20relativo%20allimpiego%20di%20capitali%20delle%20Casse%20degli%20invalidi%20della%20marina%20mercantile.%20013U0602.md), relativo all'impiego dei capitali delle Casse degli invalidi della marina mercantile. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

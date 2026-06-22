@@ -67,7 +67,7 @@ In ogni Comune a cura del sindaco sara' costituita una Commissione comunale di v
 
 ## Art. 9.
 
-I capi delle famiglie e convivenze, i proprietari, i conduttori, i dirigenti delle ditte, delle aziende e degli esercizi sottoposti ai censimenti e in generale coloro che essendovi obbligati non forniscono le notizie richieste, ovvero le forniscono incomplete o scientemente errate, sono soggetti ad una ammenda fino a lire 20.000, che potra' essere aumentata fino a lire 200.000 in caso di recidiva, senza pregiudizio delle sanzioni fissate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+I capi delle famiglie e convivenze, i proprietari, i conduttori, i dirigenti delle ditte, delle aziende e degli esercizi sottoposti ai censimenti e in generale coloro che essendovi obbligati non forniscono le notizie richieste, ovvero le forniscono incomplete o scientemente errate, sono soggetti ad una ammenda fino a lire 20.000, che potra' essere aumentata fino a lire 200.000 in caso di recidiva, senza pregiudizio delle sanzioni fissate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 10.
 
@@ -92,7 +92,7 @@ Dal 1 maggio al 31 dicembre 1951 non potranno essere attuate variazioni delle ci
 
 ## Art. 15.
 
-I prefetti, sentita la Commissione di vigilanza di cui all'art. 7, faranno eseguire di ufficio, ai sensi dell'articolo 91 del testo unico della legge comunale e provinciale, approvata con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), le operazioni che risultassero omesse o irregolarmente eseguite, ponendo a carico dei Comuni le spese inerenti alle nuove operazioni resesi necessarie.
+I prefetti, sentita la Commissione di vigilanza di cui all'art. 7, faranno eseguire di ufficio, ai sensi dell'articolo 91 del testo unico della legge comunale e provinciale, approvata con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), le operazioni che risultassero omesse o irregolarmente eseguite, ponendo a carico dei Comuni le spese inerenti alle nuove operazioni resesi necessarie.
 
 ## Art. 16.
 
@@ -100,7 +100,7 @@ L'onere relativo al censimento generale della popolazione, sara' coperto:
  per 500 milioni, con le maggiori entrate recate dal primo provvedimento legislativo di variazioni allo stato di previsione dell'entrata del Ministero del tesoro per l'esercizio finanziario 1950-51;
  per 1500 milioni, mediante stanziamento da effettuare nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1951-52;
  per 720 milioni, mediante stanziamento da effettuare nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1952-53.
- Per l'attuazione del censimento generale dell'industria e commercio, e' autorizzata, sul conto speciale di cui all'[art. 2 della legge 4 agosto 1948, n. 1108](../Leggi%20di%20ratifica/Ratifica%20ed%20esecutorieta%20dellAccordo%20di%20cooperazione%20economica%20tra%20lItalia%20e%20gli%20Stati%20Uniti%20dAmerica%20concluso%20a%20Roma%20il%2028%20giugno%201948.md), l'assegnazione all'Istituto centrale di statistica della somma di lire 773 milioni sul Fondo lire.
+ Per l'attuazione del censimento generale dell'industria e commercio, e' autorizzata, sul conto speciale di cui all'[art. 2 della legge 4 agosto 1948, n. 1108](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecutorieta%20dellAccordo%20di%20cooperazione%20economica%20tra%20lItalia%20e%20gli%20Stati%20Uniti%20dAmerica%20concluso%20a%20Roma%20il%2028%20giugno%201948.md), l'assegnazione all'Istituto centrale di statistica della somma di lire 773 milioni sul Fondo lire.
  Per la particolare elaborazione dei dati relativi al vari settori delle industrie artigiane e' autorizzata la spesa di lire 150 milioni mediante stanziamento da effettuare nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1952-53.
  Il Ministro per il tesoro e' autorizzato ad apportare con propri decreti le occorrenti variazioni di bilancio.
 

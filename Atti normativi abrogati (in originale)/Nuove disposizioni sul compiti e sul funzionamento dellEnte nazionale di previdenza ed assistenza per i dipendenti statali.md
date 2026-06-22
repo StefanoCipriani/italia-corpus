@@ -128,7 +128,7 @@ Le norme contenute nel presente decreto entrano in vigore dal 1° gennaio 1948.
 
 ## Art. 17.
 
-Sono abrogati gli articoli 2, 3, 4, 5, 7, 8, 9 e 11 del regolamento approvato con [regio decreto 26 luglio 1942, n. 917](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2019%20gennaio%201942-XX%20n.%2022%20concernente%20listituzione%20dellEnte%20nazionale%20fascista%20di%20previdenza%20ed%20assistenza%20per%20i%20dipendenti%20statali.%20042U0917.md).
+Sono abrogati gli articoli 2, 3, 4, 5, 7, 8, 9 e 11 del regolamento approvato con [regio decreto 26 luglio 1942, n. 917](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2019%20gennaio%201942-XX%20n.%2022%20concernente%20listituzione%20dellEnte%20nazionale%20fascista%20di%20previdenza%20ed%20assistenza%20per%20i%20dipendenti%20statali.%20042U0917.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

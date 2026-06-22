@@ -24,15 +24,15 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Veduto il Nostro [decreto-legge 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1915-11-18;1625); 
  
- Veduto il Nostro decreto 31 dicembre 1915, col quale vengono modificate alcune disposizioni del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md); 
+ Veduto il Nostro decreto 31 dicembre 1915, col quale vengono modificate alcune disposizioni del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md); 
  
- Veduto il regolamento generale universitario approvato con [R. decreto 9 agosto 1910, n. 796](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md); 
+ Veduto il regolamento generale universitario approvato con [R. decreto 9 agosto 1910, n. 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md); 
  
  Sulla proposta del ministro segretario di Stato per la pubblica istruzione; 
  
  Abbiamo decretato e decretiamo: 
  
- Agli articoli 35, 38, 40, 67, 74, 75, 80, 82, 112, 156 del regolamento generale universitario approvato con [R. decreto 9 agosto 1910, n. 796](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), sono sostituiti i seguenti: 
+ Agli articoli 35, 38, 40, 67, 74, 75, 80, 82, 112, 156 del regolamento generale universitario approvato con [R. decreto 9 agosto 1910, n. 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), sono sostituiti i seguenti: 
  
  Art. 35. - Ove in seguito al risultato di un concorso, bandito per una determinata Universita' e disciplina, un'altra Facolta' o scuola intenda di valersi della disposizione sancita dall'art. 21 del testo unico delle leggi sull'istruzione superiore, proponendo la nomina a straordinario del 2° e del 3° graduato, il Ministero, prima di provvedere in merito alla domanda, sentira' il parere della Giunta del Consiglio superiore, la quale dara' il suo avviso circa l'accoglimento della domanda in base ai criteri fissati nell'art. 33 del presente regolamento. 
  

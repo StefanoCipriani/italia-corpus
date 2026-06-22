@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 27 maggio 1929, n. 1285](Modifiche%20allordinamento%20dellIstituto%20centrale%20di%20statistica%20del%20Regno.%20029U1285.md), convertito nella [legge 21 dicembre 1929, n. 2238](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20maggio%201929%20n.%201285%20concernente%20modificazioni%20allordinamento%20dellIstituto%20centrale%20di%20statistica.%20029U2238.md);
+Visto il [regio decreto-legge 27 maggio 1929, n. 1285](Modifiche%20allordinamento%20dellIstituto%20centrale%20di%20statistica%20del%20Regno.%20029U1285.md), convertito nella [legge 21 dicembre 1929, n. 2238](Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20maggio%201929%20n.%201285%20concernente%20modificazioni%20allordinamento%20dellIstituto%20centrale%20di%20statistica.%20029U2238.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

@@ -28,13 +28,13 @@ VITTORIO EMANUELE III
  
  All'art. 10, dopo il 4° comma, sono inseriti i seguenti: 
  
- «Sono soppressi i posti di grado sesto, settimo ed ottavo di gruppo A previsti, per il direttore, il vice-direttore e per il chimico della Regia zecca, dalla tabella n. 5 annessa al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). Sono correlativamente aumentati: 
+ «Sono soppressi i posti di grado sesto, settimo ed ottavo di gruppo A previsti, per il direttore, il vice-direttore e per il chimico della Regia zecca, dalla tabella n. 5 annessa al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). Sono correlativamente aumentati: 
  
  un posto di capo divisione nel ruolo della carriera amministrativa dell'Amministrazione centrale delle finanze, di cui all'annessa tabella A; 
  
  un posto di grado settimo nel ruolo degli ingegneri del catasto e dei servizi tecnici erariali, di cui all'annessa tabella N; 
  
- un posto di grado ottavo nel ruolo del personale dei laboratori chimici delle dogane, di cui alla tabella annessa al [R. decreto 20 maggio 1935, n. 716](../Regi%20decreti/Variazioni%20ai%20ruoli%20del%20personale%20delle%20Dogane%20e%20dei%20Laboratori%20chimici%20delle%20Dogane.%20035U0716.md). 
+ un posto di grado ottavo nel ruolo del personale dei laboratori chimici delle dogane, di cui alla tabella annessa al [R. decreto 20 maggio 1935, n. 716](Variazioni%20ai%20ruoli%20del%20personale%20delle%20Dogane%20e%20dei%20Laboratori%20chimici%20delle%20Dogane.%20035U0716.md). 
  
  «I funzionari che attualmente ricoprono i posti come sopra soppressi sono trasferiti, rispettivamente, nei ruoli suindicati, con collocamento tra i funzionari di ugual grado, in base all'anzianita' di grado. 
  

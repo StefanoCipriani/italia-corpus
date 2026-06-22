@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 18 dicembre 1913, n. 1453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-12-18;1453);
 
-Visto il [R. decreto 14 giugno 1923, n. 1313](../Regi%20decreti/Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md);
+Visto il [R. decreto 14 giugno 1923, n. 1313](Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto con quello per l'economia nazionale;
 
@@ -24,7 +24,7 @@ Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 ## Articolo unico.
 
-Il capo dell'Ispettorato generale dell'industria nazionale e' chiamato a far parte del Comitato istituito dall'art. 1 del citato [R. decreto 14 giugno 1923, n. 1313](../Regi%20decreti/Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), per l'esame delle concessioni di importazioni ed esportazioni temporanee. 
+Il capo dell'Ispettorato generale dell'industria nazionale e' chiamato a far parte del Comitato istituito dall'art. 1 del citato [R. decreto 14 giugno 1923, n. 1313](Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), per l'esame delle concessioni di importazioni ed esportazioni temporanee. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

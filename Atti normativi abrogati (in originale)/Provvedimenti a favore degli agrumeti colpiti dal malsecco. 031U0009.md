@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Le disposizioni degli [articoli 3](../Regi%20decreti/Esenzioni%20temporanee%20dimposta%20alle%20nuove%20piantagioni%20fruttifere.%20023U3071.md) e [4 del R. decreto 31 dicembre 1923, n. 3071](../Regi%20decreti/Esenzioni%20temporanee%20dimposta%20alle%20nuove%20piantagioni%20fruttifere.%20023U3071.md), relative alla revisione dell'estimo degli agrumeti colpiti dal «marciume radicale», sono estese agli agrumeti danneggiati o distrutti dal «malsecco». 
+ Le disposizioni degli [articoli 3](Esenzioni%20temporanee%20dimposta%20alle%20nuove%20piantagioni%20fruttifere.%20023U3071.md) e [4 del R. decreto 31 dicembre 1923, n. 3071](Esenzioni%20temporanee%20dimposta%20alle%20nuove%20piantagioni%20fruttifere.%20023U3071.md), relative alla revisione dell'estimo degli agrumeti colpiti dal «marciume radicale», sono estese agli agrumeti danneggiati o distrutti dal «malsecco». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiuque spetti di osservarla e di farla osservare come legge dello Stato. 
  

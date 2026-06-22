@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 11 ottobre 1914, n. 1089](../Regi%20decreti/Riguardante%20provvedimenti%20straordinari%20per%20il%20credito%20agrario.%20014U1089.md), riguardante provvedimenti straordinari per il credito agrario. 
+ E' convertito in legge il [R. decreto 11 ottobre 1914, n. 1089](Riguardante%20provvedimenti%20straordinari%20per%20il%20credito%20agrario.%20014U1089.md), riguardante provvedimenti straordinari per il credito agrario. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

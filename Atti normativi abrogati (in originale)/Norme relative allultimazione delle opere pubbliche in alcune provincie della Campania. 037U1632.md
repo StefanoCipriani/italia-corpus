@@ -58,7 +58,7 @@ In via transitoria, all'Ispettorato predetto potra' essere preposto un funzionar
 
 ## Art. 4.
 
-Il personale amministrativo e quello tecnico e' tratto esclusivamente dall'Amministrazione dei lavori pubblici, quello di ragioneria dall'Amministrazione delle finanze. Agli effetti dell'applicazione del [R. decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), integrato dall'[art. 17 del R. decreto 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-10;46#art_17), resteranno collocati fuori ruolo, fino a quando prestino senza interruzione servizio presso il predetto Ufficio stralcio, i funzionari che si trovavano in detta posizione al 30 giugno 1937-XV, e che da tale data hanno avuto destinazione continuativa presso l'ufficio medesimo.
+Il personale amministrativo e quello tecnico e' tratto esclusivamente dall'Amministrazione dei lavori pubblici, quello di ragioneria dall'Amministrazione delle finanze. Agli effetti dell'applicazione del [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), integrato dall'[art. 17 del R. decreto 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-10;46#art_17), resteranno collocati fuori ruolo, fino a quando prestino senza interruzione servizio presso il predetto Ufficio stralcio, i funzionari che si trovavano in detta posizione al 30 giugno 1937-XV, e che da tale data hanno avuto destinazione continuativa presso l'ufficio medesimo.
 
 ## Art. 5.
 

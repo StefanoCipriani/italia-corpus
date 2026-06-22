@@ -48,7 +48,7 @@ L'esecuzione delle opere indicato negli articoli precedenti potra' essere appalt
 
 Ai comuni di Rieti e di Greccio in provincia di Roma, potranno essere corrisposti sui fondi stanziati al capitolo 112, art. 7, del bilancio del Ministero dei lavori pubblici per l'esercizio 1925-26 ed ai corrispondenti dell'esercizio 1926-27 sussidi straordinari nella misura del 75 per cento della spesa ch'essi incontreranno rispettivamente per la sistemazione delle strade di accesso ai Santuari francescani di Fonte Colombo e di Greccio. 
  
- Questi sussidi saranno concessi e pagati con le norme del [R. decreto 16 giugno 1904, n. 445](../Regi%20decreti/Norme%20che%20stabiliscono%20i%20sussidi%20da%20concedersi%20ai%20comuni%20e%20ai%20consorzi%20per%20la%20esecuzione%20delle%20opere%20pubbliche.%20004U0445.md).
+ Questi sussidi saranno concessi e pagati con le norme del [R. decreto 16 giugno 1904, n. 445](Norme%20che%20stabiliscono%20i%20sussidi%20da%20concedersi%20ai%20comuni%20e%20ai%20consorzi%20per%20la%20esecuzione%20delle%20opere%20pubbliche.%20004U0445.md).
 
 ## Art. 7.
 

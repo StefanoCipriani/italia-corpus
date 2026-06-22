@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
+Veduto il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Veduto il regolamento generale sulla istruzione elementare, approvato con [R. decreto 26 aprile 1928, n. 1297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1297);
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-La disposizione contenuta nella lettera c) dell'art. 122 del testo unico delle leggi e delle norme giuridiche sull'istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e' sostituita dalla seguente: 
+La disposizione contenuta nella lettera c) dell'art. 122 del testo unico delle leggi e delle norme giuridiche sull'istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e' sostituita dalla seguente: 
  
  «c) coloro che alla data del bando di concorso abbiano compiuta l'eta' di 35 anni. Questa disposizione non si applica ai maestri delle scuole rurali, ai concorrenti di cui all'art. 248, a coloro che facciano gia' parte del personale di ruolo dipendente dallo Stato, da Comuni e da Amministrazioni scolastiche, ai maestri ex combattenti ed alle maestre parenti di caduti, mutilati ed invalidi di guerra, a quelli che abbiano conseguito l'approvazione in precedenti concorsi magistrali per titoli ed esami e a quelli compresi nelle graduatorie, la cui efficacia fu dichiarata cessata dall'[art. 6, comma 2°, del R. decreto 11 marzo 1923, n. 635](Che%20detta%20norme%20per%20i%20concorsi%20le%20nomine%20e%20la%20conferma%20degli%20insegnanti%20elementari.%20023U0635.md).
 

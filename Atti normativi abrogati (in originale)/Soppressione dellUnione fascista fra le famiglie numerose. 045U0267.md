@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto il [R. decreto-legge 3 giugno 1937, n. 805](Provvedimenti%20in%20favore%20dellUnione%20fascista%20fra%20le%20famiglie%20numerose.%20037U0805.md), convertito in legge con la [legge 30 dicembre 1937, n. 2529](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20giugno%201937-XV%20n.%20805%20recante%20provvedimenti%20in%20favore%20dellUnione%20fascista%20fra%20le%20famiglie%20numerose.%20037U2529.md);
+Veduto il [R. decreto-legge 3 giugno 1937, n. 805](Provvedimenti%20in%20favore%20dellUnione%20fascista%20fra%20le%20famiglie%20numerose.%20037U0805.md), convertito in legge con la [legge 30 dicembre 1937, n. 2529](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20giugno%201937-XV%20n.%20805%20recante%20provvedimenti%20in%20favore%20dellUnione%20fascista%20fra%20le%20famiglie%20numerose.%20037U2529.md);
 
-Veduto il [R. decreto 22 novembre 1937, n. 2032](../Regi%20decreti/Statuto%20dellUnione%20fascista%20fra%20le%20famiglie%20numerose.%20037U2032.md);
+Veduto il [R. decreto 22 novembre 1937, n. 2032](Statuto%20dellUnione%20fascista%20fra%20le%20famiglie%20numerose.%20037U2032.md);
 
 Veduto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

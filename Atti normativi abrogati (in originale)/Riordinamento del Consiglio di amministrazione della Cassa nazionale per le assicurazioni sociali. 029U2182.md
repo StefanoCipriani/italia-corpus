@@ -62,7 +62,7 @@ Gli articoli 15, primo comma, 16, [terzo comma, 18](../Regi%20decreti/Assicurazi
  
  16° da un funzionario del Ministero delle comunicazioni ». 
  
- « Art. 16 (3° comma). - Ai consiglieri di cui al n. 14 dell'articolo precedente si applicano le disposizioni del [R. decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), ferma restando, peraltro, l'osservanza del disposto dell'[art. 3 del R. decreto 16 agosto 1926, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-16;1387#art_3) ». 
+ « Art. 16 (3° comma). - Ai consiglieri di cui al n. 14 dell'articolo precedente si applicano le disposizioni del [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), ferma restando, peraltro, l'osservanza del disposto dell'[art. 3 del R. decreto 16 agosto 1926, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-16;1387#art_3) ». 
  
  « Art. 18 (1° comma). - Nel seno del Consiglio di amministrazione della Cassa nazionale per le assicurazioni sociali e' istituito un Comitato esecutivo del quale fanno parte il presidente, i due vice presidenti, i tre consiglieri di cui all'art. 15, nn. 14 e 15, quattro consiglieri eletti dal Consiglio, due tra i rappresentanti dei datori di lavoro e due tra i rappresentanti degli assicurati, ed il direttore generale ».
 

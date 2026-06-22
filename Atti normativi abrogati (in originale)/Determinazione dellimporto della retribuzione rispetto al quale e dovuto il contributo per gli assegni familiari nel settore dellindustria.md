@@ -14,9 +14,9 @@ Visto il [regio decreto-legge 17 giugno 1937, n. 1048](Disposizioni%20per%20il%2
 
 Vista la [legge 6 agosto 1940, n. 1278](Istituzione%20di%20una%20Cassa%20unica%20per%20gli%20assegni%20familiari%20ai%20lavoratori%20e%20disciplina%20della%20corresponsione%20degli%20assegni%20stessi%20al%20personale%20non%20usufruente%20di%20un%20trattamento%20di%20famiglia%20del_350b7c47914c.md);
 
-Visto il [decreto legislativo luogotenenziale 9 novembre 1944, n. 307](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20assegni%20familiari%20supplementari%20di%20carovita%20e%20normalizzazione%20di%20quelli%20ordinari.%20044U0307.md);
+Visto il [decreto legislativo luogotenenziale 9 novembre 1944, n. 307](Istituzione%20di%20assegni%20familiari%20supplementari%20di%20carovita%20e%20normalizzazione%20di%20quelli%20ordinari.%20044U0307.md);
 
-Visto il [decreto legislativo luogotenenziale 1° agosto 1945, n. 697](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20la%20determinazione%20dellimporto%20della%20retribuzione%20rispetto%20al%20quale%20e%20dovuto%20il%20contributo%20per%20gli%20assegni%20familiari.%20045U0697.md);
+Visto il [decreto legislativo luogotenenziale 1° agosto 1945, n. 697](Norme%20per%20la%20determinazione%20dellimporto%20della%20retribuzione%20rispetto%20al%20quale%20e%20dovuto%20il%20contributo%20per%20gli%20assegni%20familiari.%20045U0697.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 16 settembre 1946, n. 479](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-16;479);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 
 ## Articolo unico.
 
-A modifica di quanto e' disposto dall'[art. 1, comma 3°, del decreto legislativo luogotenenziale 1° agosto 1945, n. 697](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20la%20determinazione%20dellimporto%20della%20retribuzione%20rispetto%20al%20quale%20e%20dovuto%20il%20contributo%20per%20gli%20assegni%20familiari.%20045U0697.md), e limitatamente al settore dell'industria, l'importo fino alla concorrenza, del quale e' dovuto il contributo per gli assegni familiari e' fissato sulla base della retribuzione giornaliera. 
+A modifica di quanto e' disposto dall'[art. 1, comma 3°, del decreto legislativo luogotenenziale 1° agosto 1945, n. 697](Norme%20per%20la%20determinazione%20dellimporto%20della%20retribuzione%20rispetto%20al%20quale%20e%20dovuto%20il%20contributo%20per%20gli%20assegni%20familiari.%20045U0697.md), e limitatamente al settore dell'industria, l'importo fino alla concorrenza, del quale e' dovuto il contributo per gli assegni familiari e' fissato sulla base della retribuzione giornaliera. 
  La retribuzione giornaliera, per coloro che sono retribuiti a settimana, quattordicina, quindicina o mese si ottiene dividendo la retribuzione complessiva rispettivamente per 6, 12, 13, 26 nel caso che la retribuzione stessa si riferisca a tutte le giornate lavorative comprese nei detti periodi di paga; e per il numero delle giornate effettivamente retribuite se esso e' inferiore a quello delle giornate lavorative comprese nel periodo di paga. 
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dall'inizio del periodo di paga successivo alla sua pubblicazione.
 

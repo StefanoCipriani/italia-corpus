@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 27 luglio 1924, n. 1268](../Regi%20decreti/Approvazione%20delle%20tariffe%20dei%20diritti%20di%20borsa%20per%20la%20borsa%20di%20commercio%20di%20Firenze.%20024U1268.md), col quale venne approvata la tariffa dei diritti di borsa spettanti alla Camera di commercio, industria e agricoltura di Firenze;
+Visto il [regio decreto 27 luglio 1924, n. 1268](Approvazione%20delle%20tariffe%20dei%20diritti%20di%20borsa%20per%20la%20borsa%20di%20commercio%20di%20Firenze.%20024U1268.md), col quale venne approvata la tariffa dei diritti di borsa spettanti alla Camera di commercio, industria e agricoltura di Firenze;
 
-Visti i [regi decreti 7 giugno 1926, n. 1137](../Regi%20decreti/Tariffa%20dei%20diritti%20per%20la%20Borsa%20di%20Firenze.%20026U1137.md), e [29 dicembre 1932, n. 1900](../Regi%20decreti/Modifica%20dei%20diritti%20di%20Borsa%20spettanti%20al%20Consiglio%20provinciale%20delleconomia%20corporativa%20di%20Firenze.%20032U1900.md), con i quali vennero apportate variazioni alla tariffa predetta;
+Visti i [regi decreti 7 giugno 1926, n. 1137](Tariffa%20dei%20diritti%20per%20la%20Borsa%20di%20Firenze.%20026U1137.md), e [29 dicembre 1932, n. 1900](Modifica%20dei%20diritti%20di%20Borsa%20spettanti%20al%20Consiglio%20provinciale%20delleconomia%20corporativa%20di%20Firenze.%20032U1900.md), con i quali vennero apportate variazioni alla tariffa predetta;
 
 Vista la [deliberazione in data 11 marzo 1947, n 6, della Camera di commercio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:camera.commercio:delibera:1947-03-11;6) predetta, con la quale sono state proposte ulteriori modifiche alla tariffa suddetta;
 
-Visto l'[art. 53 del regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), col quale si stabilisce la forma e l'organo competente per la emanazione dei provvedimenti riguardauti i diritti di borsa;
+Visto l'[art. 53 del regio decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), col quale si stabilisce la forma e l'organo competente per la emanazione dei provvedimenti riguardauti i diritti di borsa;
 
 Sulla proposta del Ministro Segretario di Stato per le finanze e il tesoro; Decreta:
 

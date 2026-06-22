@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [regio decreto 27 dicembre 1903, n. 525](../Regi%20decreti/Che%20da%20piena%20esecuzione%20allaccordo%20stipulato%20fra%20lItalia%20e%20il%20Montenegro.%20003U0525.md), per la esecuzione dell'accordo commerciale provvisorio concluso fra l'Italia e il Montenegro il 22 dicembre 1903. 
+ E' convertito in legge il [regio decreto 27 dicembre 1903, n. 525](Che%20da%20piena%20esecuzione%20allaccordo%20stipulato%20fra%20lItalia%20e%20il%20Montenegro.%20003U0525.md), per la esecuzione dell'accordo commerciale provvisorio concluso fra l'Italia e il Montenegro il 22 dicembre 1903. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

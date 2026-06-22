@@ -14,7 +14,7 @@ IL MINISTRO DELLE FINANZE
  
  Vista la [Legge 4 aprile 1873, n. 1342](Che%20accorda%20la%20facolta%20alla%20Banca%20Nazionale%20Toscana%20e%20alla%20Banca%20Toscana%20di%20credito%20per%20le%20industrie%20ed%20il%20commercio%20dItalia%20di%20emettere%20previa%20autorizzazione%20governativa%20biglietti%20da%20lir_aade80d22825.md), per la quale la Banca Nazionale Toscana puo' essere autorizzata con Decreto Reale ad emettere biglietti da lire 10 e 5, ed anche di minor valore; 
  
- Visto il [R. Decreto 16 aprile 1873, n. 1343](../Regi%20decreti/Che%20autorizza%20la%20Banca%20Nazionale%20Toscana%20ad%20emettere%20biglietti%20da%20lire%2010%205%202%201%20e%20centesimi%2050%20colla%20leggenda%20Creazione%201873.%20073U1343.md), che autorizza la Banca summenzionata, contro ritiro di egual somma in biglietti di maggior valore, ad emettere biglietti da lire 10 fino alla somma di lire 2,000,000 - da lire 5 fino a lire 1,500,000 - da lire 2 fino a 2,000,000 - da lire 1 fino a lire 3,000,000 - e da centesimi 50 fino a lire 1,500,000; 
+ Visto il [R. Decreto 16 aprile 1873, n. 1343](Che%20autorizza%20la%20Banca%20Nazionale%20Toscana%20ad%20emettere%20biglietti%20da%20lire%2010%205%202%201%20e%20centesimi%2050%20colla%20leggenda%20Creazione%201873.%20073U1343.md), che autorizza la Banca summenzionata, contro ritiro di egual somma in biglietti di maggior valore, ad emettere biglietti da lire 10 fino alla somma di lire 2,000,000 - da lire 5 fino a lire 1,500,000 - da lire 2 fino a 2,000,000 - da lire 1 fino a lire 3,000,000 - e da centesimi 50 fino a lire 1,500,000; 
  
  Determina: 
  

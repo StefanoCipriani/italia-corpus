@@ -18,7 +18,7 @@ PROROGA la seguente legge:
 
 ## Art. 1.
 
-L'[articolo 3 del regio decreto 4 agosto 1932, n. 1296](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20costituzione%20ed%20il%20funzionamento%20dei%20Regi%20istituti%20fisioterapici%20ospitalieri%20in%20Roma.%20032U1296.md), e' sostituito dal seguente: 
+L'[articolo 3 del regio decreto 4 agosto 1932, n. 1296](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20costituzione%20ed%20il%20funzionamento%20dei%20Regi%20istituti%20fisioterapici%20ospitalieri%20in%20Roma.%20032U1296.md), e' sostituito dal seguente: 
  "Sono organi amministrativi degli Istituti fisioterapici ospitalieri di Roma: 
  a) il presidente; 
  b) il Consiglio di amministrazione. 
@@ -28,7 +28,7 @@ L'[articolo 3 del regio decreto 4 agosto 1932, n. 1296](../Testi%20Unici/Approva
 
 ## Art. 2.
 
-L'[articolo 4 del regio decreto 4 agosto 1932, n. 1296](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20costituzione%20ed%20il%20funzionamento%20dei%20Regi%20istituti%20fisioterapici%20ospitalieri%20in%20Roma.%20032U1296.md), e' sostituito dal seguente:
+L'[articolo 4 del regio decreto 4 agosto 1932, n. 1296](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20costituzione%20ed%20il%20funzionamento%20dei%20Regi%20istituti%20fisioterapici%20ospitalieri%20in%20Roma.%20032U1296.md), e' sostituito dal seguente:
  "Il Consiglio di amministrazione e' nominato con decreto del Ministro per la sanita' ed e' composto, oltre che dal presidente, da sei membri da designarsi:
  a) due dal Ministro per la sanita';
  b) uno dal Ministro per il tesoro;

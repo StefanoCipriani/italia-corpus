@@ -36,7 +36,7 @@ La Sezione autonoma di credito fondiario della Banca nazionale del Lavoro e' aut
 
 ## Art. 2.
 
-I mutui di cui sopra dovranno essere garantiti con rilascio da parte dei Comuni interessati di delegazioni sulla sovraimposta fondiaria o sulla imposta di consumo entro i limiti di legge oppure, quando occorra, con delegazione sulla sovraimposta fondiaria ovvero sulla imposta di consumo ai sensi dell'art. 94 del testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), congiuntamente ad ipoteca di primo grado su immobili di proprieta' comunale non destinati ad uso pubblico. 
+I mutui di cui sopra dovranno essere garantiti con rilascio da parte dei Comuni interessati di delegazioni sulla sovraimposta fondiaria o sulla imposta di consumo entro i limiti di legge oppure, quando occorra, con delegazione sulla sovraimposta fondiaria ovvero sulla imposta di consumo ai sensi dell'art. 94 del testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), congiuntamente ad ipoteca di primo grado su immobili di proprieta' comunale non destinati ad uso pubblico. 
  
  Ai predetti mutui sono applicabili tutte le vigenti disposizioni di legge e di regolamento che disciplinano il credito fondiario e quindi anche quelle che riguardano i benefici e le agevolazioni fiscali nonche' le riduzioni dei diritti notarili, sempre che le disposizioni stesse non siano incompatibili con quanto disposto col presente decreto.
 
@@ -134,7 +134,7 @@ Per l'assunzione dei mutui, l'approvazione dei progetti, la stipulazione dei con
 
 ## Art. 15.
 
-Rimangono ferme per l'approvazione dei progetti dei teatri comunali le disposizioni di cui all'[art. 80 del testo unico della legge di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con R. decreto 18 giugno 1931-IX, n. 773. 
+Rimangono ferme per l'approvazione dei progetti dei teatri comunali le disposizioni di cui all'[art. 80 del testo unico della legge di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con R. decreto 18 giugno 1931-IX, n. 773. 
  
  Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale e sara' presentato al Parlamento per la sua conversione in legge. 
  

@@ -72,7 +72,7 @@ Il 2° e 3° comma dell'art. 10 del testo unico approvato con R. decreto 1° ago
 
 ## Art. 9.
 
-Nel testo unico approvato con [R. decreto 1° agosto 1936, n. 1493](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni, dopo l'art. 55 e' aggiunto il seguente: 
+Nel testo unico approvato con [R. decreto 1° agosto 1936, n. 1493](Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni, dopo l'art. 55 e' aggiunto il seguente: 
  
  «Art. 55-bis. - I sottotenenti delle armi navali reclutati in base all'art. 37-bis della legge 8 luglio 1926-IV, n. 1178, e successive modificazioni, debbono completare gli studi di applicazione, per conseguire la laurea in ingegneria industriale, normalmente in due anni, decorrenti dalla loro iscrizione al Politecnico ai sensi del secondo comma dello stesso art. 37-bis, compresa in questi la sessione autunnale di esami dell'ultimo anno. 
  
@@ -98,7 +98,7 @@ Nella lettera g) del 1° comma dell'art. 66 del testo unico approvato con R. dec
 
 ## Art. 11.
 
-Nel testo unico approvato con [R. decreto 1° agosto 1936, n. 1493](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni, dopo l'art. 85 e' aggiunto il seguente: 
+Nel testo unico approvato con [R. decreto 1° agosto 1936, n. 1493](Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni, dopo l'art. 85 e' aggiunto il seguente: 
  
  «Art. 85-bis. - Agli ammiragli di squadra collocati a disposizione» per aver raggiunto il limite di permanenza massima di grado, puo' essere conferito il rango di ammiraglio di squadra designato di Armata ai soli effetti del R. decreto 16 dicembre 1927-VI, n. 2210, e successive modificazioni, qualora essi abbiano comandato per almeno un anno una squadra navale e sia stata conferita la carica di ammiraglio di squadra designato d'Armata ad un pari grado meno anziano del servizio permanente effettivo. 
  
@@ -108,7 +108,7 @@ Nel testo unico approvato con [R. decreto 1° agosto 1936, n. 1493](../Testi%20U
 
 ## Art. 12.
 
-Nel testo unico approvato con [R. decreto 1° agosto 1936, n. 1493](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni, dopo l'art. 99 e' aggiunto il seguente: 
+Nel testo unico approvato con [R. decreto 1° agosto 1936, n. 1493](Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni, dopo l'art. 99 e' aggiunto il seguente: 
  
  «Art. 99-bis. - Agli ammiragli di squadra in ausiliaria o nella riserva, i quali durante il servizio permanente effettivo hanno rivestito la carica di designato d'Armata, di cui al precedente art. 71, puo' essere conferito il rango di ammiraglio d'Armata in ausiliaria o nella riserva, ai soli effetti del R. decreto 16 dicembre 1927-VI, n. 2210, e successive modificazioni. 
  

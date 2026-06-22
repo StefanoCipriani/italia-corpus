@@ -15,7 +15,7 @@ La prima parte dell'ultimo comma dell'[art. 24 della legge 11 marzo 1926, n. 396
 
 ## Art. 2.
 
-All'art. 2 del testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti approvato con [R. decreto 23 febbraio 1928, n. 327](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), nella tabella degli « ufficiali che non ricoprono posti del ruolo amministrativo » il primo alinea e' sostituito dal seguente: 
+All'art. 2 del testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti approvato con [R. decreto 23 febbraio 1928, n. 327](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), nella tabella degli « ufficiali che non ricoprono posti del ruolo amministrativo » il primo alinea e' sostituito dal seguente: 
  
 
  Numero
@@ -30,7 +30,7 @@ Grado dei posti
 
 ## Art. 3.
 
-Il primo comma dell'art. 75 del testo unico delle leggi o disposizioni sull'avanzamento degli ufficiali del Regio esercito, approvato con [R. decreto 8 maggio 1933, n. 651](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20disposizioni%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20033U0651.md), e' sostituito dal seguente: 
+Il primo comma dell'art. 75 del testo unico delle leggi o disposizioni sull'avanzamento degli ufficiali del Regio esercito, approvato con [R. decreto 8 maggio 1933, n. 651](Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20disposizioni%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20033U0651.md), e' sostituito dal seguente: 
  « Possono essere promossi al grado superiore i generali di brigata in servizio permanente effettivo, che ricoprano una delle seguenti cariche: direttore generale del Genio nel Ministero della guerra, direttore centrale del Genio militare nel Ministero della marina, direttore dell'Istituto geografico militare, membro del Consiglio superiore dei lavori pubblici, capo del Servizio ippico e veterinario, capo del Centro chimico militare; e che - pure non venendo designati per il grado superiore a norma del precedente art. 74 - siano conosciuti, sentita la Commissione centrale d'avanzamento, in possesso di una eccezionale competenza tecnica per la carica ricoperta ».
 
 ## Art. 4.

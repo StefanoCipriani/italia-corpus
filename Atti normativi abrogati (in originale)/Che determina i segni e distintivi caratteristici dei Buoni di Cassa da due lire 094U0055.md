@@ -10,13 +10,13 @@ vigente: true
 
 IL MINISTRO DEL TESORO
 
-Veduto il [R. decreto 21 febbraio 1894, n. 49](../Regi%20decreti/Concernente%20lemissione%20di%20Boni%20di%20Cassa%20da%20due%20lire%20e%20la%20coniazione%20di%20monete%20di%20nichelio.%20094U0049.md), che autorizza l'emissione temporanea do buoni di cassa a corso legale, del valore nominale di L. 2 da non eccedere complessivamente il valor nominale di 60 milioni di lire;
+Veduto il [R. decreto 21 febbraio 1894, n. 49](Concernente%20lemissione%20di%20Boni%20di%20Cassa%20da%20due%20lire%20e%20la%20coniazione%20di%20monete%20di%20nichelio.%20094U0049.md), che autorizza l'emissione temporanea do buoni di cassa a corso legale, del valore nominale di L. 2 da non eccedere complessivamente il valor nominale di 60 milioni di lire;
 
 Veduta la proposta del Direttore ff. della Officina delle Carte-valori in Torino, Presidente della Commissione tecnica, di cui all'articolo 33 del regolamento approvato con R. decreto 16 giugno 1881, n. 253 (serie 3ª); Determina:
 
 ## Art. 1.
 
-I buoni di cassa da lire due, la cui emissione temporanea, a corso legale, fu autorizzata con [R. decreto 21 febbraio 1894, n. 49](../Regi%20decreti/Concernente%20lemissione%20di%20Boni%20di%20Cassa%20da%20due%20lire%20e%20la%20coniazione%20di%20monete%20di%20nichelio.%20094U0049.md), da non eccedere complessivamente il valore nominale di 60 milioni di lire, saranno impressi a diversi colori su carta bianca filigranata, ed avranno i segni e distintivi caratteristici seguenti e cioe': 
+I buoni di cassa da lire due, la cui emissione temporanea, a corso legale, fu autorizzata con [R. decreto 21 febbraio 1894, n. 49](Concernente%20lemissione%20di%20Boni%20di%20Cassa%20da%20due%20lire%20e%20la%20coniazione%20di%20monete%20di%20nichelio.%20094U0049.md), da non eccedere complessivamente il valore nominale di 60 milioni di lire, saranno impressi a diversi colori su carta bianca filigranata, ed avranno i segni e distintivi caratteristici seguenti e cioe': 
  
  La filigrana della carta, esaminata contro luce, si manifesta sotto forma di parecchie linee ondulate correnti nel senso della larghezza del buono ed equidistanti fra di loro di otto millimetri circa. 
  
@@ -44,7 +44,7 @@ I buoni di cassa da lire due, la cui emissione temporanea, a corso legale, fu au
  
  Sotto il testo stesso sonvi le firme del cassiere speciale Dell'Ara e del delegato della Corte dei conti Righelli. 
  
- A sinistra poi del riguardante e parallelamente all'altezza del recto scorgesi stampata, in carattere minuscolo a bastoncino, la dicitura: [R. decreto 21 febbraio 1894, n. 49](../Regi%20decreti/Concernente%20lemissione%20di%20Boni%20di%20Cassa%20da%20due%20lire%20e%20la%20coniazione%20di%20monete%20di%20nichelio.%20094U0049.md). 
+ A sinistra poi del riguardante e parallelamente all'altezza del recto scorgesi stampata, in carattere minuscolo a bastoncino, la dicitura: [R. decreto 21 febbraio 1894, n. 49](Concernente%20lemissione%20di%20Boni%20di%20Cassa%20da%20due%20lire%20e%20la%20coniazione%20di%20monete%20di%20nichelio.%20094U0049.md). 
  
  Il verso di ciascun buono e' un rettangolo, in color bruno rosso, avente le precise dimensioni del recto e limitato da una cornice composta da listelli e da un duplice nastro serpeggiante attorno ad una assicella rettilinea. Nei singoli quattro angoli del rettangolo anzidetto trovasi disposta secondo la diagonale una targhetta elittica racchiudente la cifra 2 in bianco su fondo pieno. La parte mediana del rettangolo stesso risulta occupata dallo stemma ufficiale dello Stato, in campo lineato, entro cornice ottagonale fregiata da perle oblunghe e da gemme doppiamente coniche. 
  
@@ -68,7 +68,7 @@ I buoni di cassa da emettersi, nella misura come sopra autorizzata, pel valore n
 
 ## Art. 3.
 
-Le disposizioni del regolamento approvato col [decreto ministeriale 16 settembre 1893, num. 548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1893-09-16;548), per l'emissione ed il servizio dei buoni di cassa da lire una, sono applicabili anche per l'emissione ed il servizio dei buoni di cassa da lire due, autorizzati temporaneamente col [R. decreto 21 febbraio 1894, n. 49](../Regi%20decreti/Concernente%20lemissione%20di%20Boni%20di%20Cassa%20da%20due%20lire%20e%20la%20coniazione%20di%20monete%20di%20nichelio.%20094U0049.md). 
+Le disposizioni del regolamento approvato col [decreto ministeriale 16 settembre 1893, num. 548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1893-09-16;548), per l'emissione ed il servizio dei buoni di cassa da lire una, sono applicabili anche per l'emissione ed il servizio dei buoni di cassa da lire due, autorizzati temporaneamente col [R. decreto 21 febbraio 1894, n. 49](Concernente%20lemissione%20di%20Boni%20di%20Cassa%20da%20due%20lire%20e%20la%20coniazione%20di%20monete%20di%20nichelio.%20094U0049.md). 
  
  Il presente decreto sara' inserto nella Raccolta ufficiale delle leggi e decreti del Regno d'Italia. 
  

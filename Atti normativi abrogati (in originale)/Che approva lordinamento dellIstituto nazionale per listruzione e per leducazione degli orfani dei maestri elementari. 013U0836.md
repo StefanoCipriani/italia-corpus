@@ -58,7 +58,7 @@ Nel bilancio del Ministero della pubblica istruzione per il mantenimento dei pos
 
 ## Art. 6.
 
-La riscossione della giornata di stipendio e' fatta con le norme e condizioni di cui agli articoli 11 e 12 del testo unico delle leggi sul Monte pensioni, approvato con [R. decreto 31 gennaio 1909, n. 97](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20Monte-pensioni%20per%20glinsegnanti%20nelle%20scuole%20pubbliche%20elementari%20negli%20asili%20d%20infanzia%20e%20nei%20RR.%20educatori%20femminili%20a%20patrimonio%20sorveg_aa735f9be188.md), che per questa parte si estendono anche a Comuni che hanno regolamento speciale per le pensioni. 
+La riscossione della giornata di stipendio e' fatta con le norme e condizioni di cui agli articoli 11 e 12 del testo unico delle leggi sul Monte pensioni, approvato con [R. decreto 31 gennaio 1909, n. 97](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20Monte-pensioni%20per%20glinsegnanti%20nelle%20scuole%20pubbliche%20elementari%20negli%20asili%20d%20infanzia%20e%20nei%20RR.%20educatori%20femminili%20a%20patrimonio%20sorveg_aa735f9be188.md), che per questa parte si estendono anche a Comuni che hanno regolamento speciale per le pensioni. 
  
  Le relative multe e gli interessi di mora vanno pure a beneficio dell'Istituto.
 

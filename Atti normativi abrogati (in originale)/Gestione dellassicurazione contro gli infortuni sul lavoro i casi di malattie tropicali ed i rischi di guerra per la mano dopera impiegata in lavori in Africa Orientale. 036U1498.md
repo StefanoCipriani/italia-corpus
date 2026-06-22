@@ -18,9 +18,9 @@ Visto l'art. 3, n. 2, della legge 31 gennaio 1926-IV, n. 100;
 
 Vista la legge 6 luglio 1933-XI, n. 999, sull'ordinamento organico dell'Eritrea e Somalia;
 
-Visto il testo unico della legge per gli infortuni degli operai sul lavoro, approvato con [R. decreto 31 gennaio 1904, n. 51](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20di%20legge%20per%20glinfortuni%20degli%20operai%20sul%20lavoro.%20004U0051.md), e le successive modificazioni;
+Visto il testo unico della legge per gli infortuni degli operai sul lavoro, approvato con [R. decreto 31 gennaio 1904, n. 51](Che%20approva%20il%20testo%20unico%20di%20legge%20per%20glinfortuni%20degli%20operai%20sul%20lavoro.%20004U0051.md), e le successive modificazioni;
 
-Visti il [R. decreto 23 ottobre 1922, n. 1573](../Regi%20decreti/Che%20approva%20le%20norme%20relative%20agli%20infortuni%20sul%20lavoro%20nella%20Colonia%20Eritrea.%20022U1573.md), ed il R. decreto 27 giugno 1935-XIII, n. 1472, relativi all'applicazione, rispettivamente in Eritrea ed in Somalia, delle norme per l'assicurazione contro gli infortuni sul lavoro;
+Visti il [R. decreto 23 ottobre 1922, n. 1573](Che%20approva%20le%20norme%20relative%20agli%20infortuni%20sul%20lavoro%20nella%20Colonia%20Eritrea.%20022U1573.md), ed il R. decreto 27 giugno 1935-XIII, n. 1472, relativi all'applicazione, rispettivamente in Eritrea ed in Somalia, delle norme per l'assicurazione contro gli infortuni sul lavoro;
 
 Visto il decreto-legge 8 marzo 1923-I, n. 633, contenente le norme per l'assicurazione contro gli infortuni sul lavoro degli operai che prestano opera alla dipendenza dello Stato;
 
@@ -34,7 +34,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-Nei territori dell'Eritrea e della Somalia Italiana e nelle zone occupate dell'Africa Orientale, l'assicurazione contro gli infortuni sul lavoro e per i casi di morte per febbre perniciosa o malattia tropicale di cui, rispettivamente, al [R. decreto 23 ottobre 1922, n. 1573](../Regi%20decreti/Che%20approva%20le%20norme%20relative%20agli%20infortuni%20sul%20lavoro%20nella%20Colonia%20Eritrea.%20022U1573.md), al R. decreto 27 giugno 1935-XIII, n. 1472, ed al R. decreto-legge 26 luglio 1935-XIII, n. 1447, nei riguardi degli operai cittadini italiani metropolitani e stranieri equiparati adibiti, nei territori suddetti, a lavori direttamente eseguiti o concessi in appalto dall'Amministrazione coloniale o da altre Amministrazioni statali, e' esercitata con le norme stabilite dal presente decreto. 
+Nei territori dell'Eritrea e della Somalia Italiana e nelle zone occupate dell'Africa Orientale, l'assicurazione contro gli infortuni sul lavoro e per i casi di morte per febbre perniciosa o malattia tropicale di cui, rispettivamente, al [R. decreto 23 ottobre 1922, n. 1573](Che%20approva%20le%20norme%20relative%20agli%20infortuni%20sul%20lavoro%20nella%20Colonia%20Eritrea.%20022U1573.md), al R. decreto 27 giugno 1935-XIII, n. 1472, ed al R. decreto-legge 26 luglio 1935-XIII, n. 1447, nei riguardi degli operai cittadini italiani metropolitani e stranieri equiparati adibiti, nei territori suddetti, a lavori direttamente eseguiti o concessi in appalto dall'Amministrazione coloniale o da altre Amministrazioni statali, e' esercitata con le norme stabilite dal presente decreto. 
  
  Sono compresi tra i rischi di infortunio indennizzabile ai sensi dei precitati decreti, quelli derivanti da azioni militari. Sono altresi' compresi tra i rischi d'infortunio indennizzabile a sensi dei citati decreti, per quanto concerne gli operai direttamente dipendenti dalle Amministrazioni statali o dalle ditte appaltatrici per i lavori di cui al primo comma del presente articolo, quelli relativi al viaggio di andata e di ritorno tra il porto di imbarco e quello di sbarco.
 

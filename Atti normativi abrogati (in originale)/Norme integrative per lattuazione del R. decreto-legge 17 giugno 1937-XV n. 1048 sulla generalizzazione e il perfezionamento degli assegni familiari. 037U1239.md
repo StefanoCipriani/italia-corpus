@@ -188,7 +188,7 @@ I datori di lavoro e i lavoratori devono fornire all'Istituto nazionale fascista
 
 ### Art. 27.
 
-Contro i morosi al pagamento dei contributi l'Istituto nazionale fascista della previdenza sociale puo' emettere ingiunzione di pagamento, comprensiva della quota dovuta, degli interessi di mora e delle eventuali spese. L'ingiunzione sara' resa esecutiva dal pretore del capoluogo della provincia ove e' la sede dell'azienda, osservate per il procedimento le norme stabilite dal [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), che approva il testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato.
+Contro i morosi al pagamento dei contributi l'Istituto nazionale fascista della previdenza sociale puo' emettere ingiunzione di pagamento, comprensiva della quota dovuta, degli interessi di mora e delle eventuali spese. L'ingiunzione sara' resa esecutiva dal pretore del capoluogo della provincia ove e' la sede dell'azienda, osservate per il procedimento le norme stabilite dal [R. decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), che approva il testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato.
 L'ingiunzione costituisce titolo valido per l'iscrizione della ipoteca sugli immobili del datore di lavoro moroso, dopo la scadenza del termine per l'opposizione.
 
 ### Art. 28.

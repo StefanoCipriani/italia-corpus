@@ -49,9 +49,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- 1. E' revocato il [R. decreto 13 luglio 1913, n. 896](../Regi%20decreti/Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Bergamo.%20013U0896.md), in quanto esso disponeva che gli elettori dei comuni di Sombreno Barzizza, Zorzino, Stabello, Grumello dei Zonchi, Somendenna, fossero rispettivamente aggregati ai comuni di Bergamo, Gandino, Sotto, Zogno ed Endenna. 
+ 1. E' revocato il [R. decreto 13 luglio 1913, n. 896](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Bergamo.%20013U0896.md), in quanto esso disponeva che gli elettori dei comuni di Sombreno Barzizza, Zorzino, Stabello, Grumello dei Zonchi, Somendenna, fossero rispettivamente aggregati ai comuni di Bergamo, Gandino, Sotto, Zogno ed Endenna. 
  
- 2. E' revocato il [R. decreto 13 agosto 1914, n. 938](../Regi%20decreti/Concernente%20variazioni%20nella%20costituzione%20delle%20sezioni%20elettorali%20intercomunali%20nel%20collegio%20di%20Zogno%20014U0938.md), in quanto esso disponeva che gli elettori del comune di Rota Dentro, fossero aggregati al comune di Rota Fuori. 
+ 2. E' revocato il [R. decreto 13 agosto 1914, n. 938](Concernente%20variazioni%20nella%20costituzione%20delle%20sezioni%20elettorali%20intercomunali%20nel%20collegio%20di%20Zogno%20014U0938.md), in quanto esso disponeva che gli elettori del comune di Rota Dentro, fossero aggregati al comune di Rota Fuori. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

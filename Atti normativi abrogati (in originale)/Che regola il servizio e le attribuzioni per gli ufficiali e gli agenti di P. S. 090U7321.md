@@ -229,7 +229,7 @@ Il Consiglio pronunzia sentito l'imputato nelle sue discolpe, e le deliberazioni
 
 ### Art. 28.
 
-Son punite con l'arresto in camera di disciplina da 30 a 60 giorni, che potra' essere seguito dalla espulsione dal corpo e dalla perdita dei diritti alla paga non ancora scaduta, al fondo di massa ed altri diritti inerenti alla condizione di guardia, la diserzione o l'abbandono del servizio e, ove non costituisca un reato preveduto dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), la grave insubordinazione al superiore.
+Son punite con l'arresto in camera di disciplina da 30 a 60 giorni, che potra' essere seguito dalla espulsione dal corpo e dalla perdita dei diritti alla paga non ancora scaduta, al fondo di massa ed altri diritti inerenti alla condizione di guardia, la diserzione o l'abbandono del servizio e, ove non costituisca un reato preveduto dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), la grave insubordinazione al superiore.
 
 ### Art. 29.
 

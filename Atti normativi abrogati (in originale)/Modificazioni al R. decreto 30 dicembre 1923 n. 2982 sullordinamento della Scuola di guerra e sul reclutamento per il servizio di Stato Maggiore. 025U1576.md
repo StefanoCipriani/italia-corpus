@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro ad int
 
 ## Art. 1.
 
-All'[art. 4 del R. decreto 30 dicembre 1923, n. 2982](../Regi%20decreti/Ordinamento%20della%20Scuola%20di%20guerra%20e%20reclutamento%20degli%20ufficiali%20per%20il%20servizio%20di%20stato%20maggiore.%20023U2982.md), e' sostituito il seguente: 
+All'[art. 4 del R. decreto 30 dicembre 1923, n. 2982](Ordinamento%20della%20Scuola%20di%20guerra%20e%20reclutamento%20degli%20ufficiali%20per%20il%20servizio%20di%20stato%20maggiore.%20023U2982.md), e' sostituito il seguente: 
  
  «Sono esclusi definitivamente dall'ammissione alla Scuola di guerra gli ufficiali non riusciti in tre concorsi, nonche' quelli che, pur essendovi gia' ammessi, cessino per ragioni disciplinari, previo giudizio di apposita Commissione, dalla loro qualita' di allievi, frequentatori o non, del 1º, 2° o 3° anno di corso, e quelli che non superino i relativi esami di passaggio o finali».
 
@@ -46,7 +46,7 @@ All'art. 6 dello stesso decreto 2982 e' sostituito il seguente:
 
 ### Art. 4.
 
-Nei riguardi degli ufficiali che conseguiranno nel corrente anno il titolo della Scuola di guerra, restano invariate, ai fini della loro ammissione all'esperimento di cui al precedente articolo, le disposizioni contemplate nel [R. decreto 30 dicembre 1923, n. 2982](../Regi%20decreti/Ordinamento%20della%20Scuola%20di%20guerra%20e%20reclutamento%20degli%20ufficiali%20per%20il%20servizio%20di%20stato%20maggiore.%20023U2982.md).
+Nei riguardi degli ufficiali che conseguiranno nel corrente anno il titolo della Scuola di guerra, restano invariate, ai fini della loro ammissione all'esperimento di cui al precedente articolo, le disposizioni contemplate nel [R. decreto 30 dicembre 1923, n. 2982](Ordinamento%20della%20Scuola%20di%20guerra%20e%20reclutamento%20degli%20ufficiali%20per%20il%20servizio%20di%20stato%20maggiore.%20023U2982.md).
 
 ### Art. 5.
 

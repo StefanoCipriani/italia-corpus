@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti i [decreti-legge 2 ottobre 1919, n. 2049, 2 ottobre 1919, n. 2074, 23 ottobre 1919, n. 1971, 7 giugno 1920, n. 739, 16 gennaio 1921, n. 10, 24 agosto 1921, n. 1184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1921-08-24;1184);
 
-Veduto il [R. decreto 13 maggio 1920, n. 712](../Regi%20decreti/Che%20approva%20il%20quadro%20organico%20del%20personale%20della%20R.%20Accademia%20della%20Crusca%20per%20la%20lingua%20dItalia%20in%20Firenze.%20020U0712.md);
+Veduto il [R. decreto 13 maggio 1920, n. 712](Che%20approva%20il%20quadro%20organico%20del%20personale%20della%20R.%20Accademia%20della%20Crusca%20per%20la%20lingua%20dItalia%20in%20Firenze.%20020U0712.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro ministro segretario di Stato per l'istruzione pubblica
 
 ## Art. 1.
 
-La quota di aumento di stipendio eccedente le L. 2000, di cui agli [articoli 23 del R. decreto-legge 2 ottobre 1919, n. 2049](Che%20stabilisce%20un%20unico%20ruolo%20organico%20per%20il%20personale%20dellAmministrazione%20universitaria%20regolando%20lo%20stato%20giuridico%20ed%20economico%20del%20personale%20medesimo.%20019U2049.md); 32 del [R. decreto-legge 2 ottobre 1919, n. 2074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-02;2074) e [7 del R. decreto 13 maggio 1920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-05-13;7), [n. 712](../Regi%20decreti/Che%20approva%20il%20quadro%20organico%20del%20personale%20della%20R.%20Accademia%20della%20Crusca%20per%20la%20lingua%20dItalia%20in%20Firenze.%20020U0712.md), e' corrisposta a tutti indistintamente gli impiegati che ne hanno diritto al compimento dell'anno dalla data di applicazione delle tabelle organiche.
+La quota di aumento di stipendio eccedente le L. 2000, di cui agli [articoli 23 del R. decreto-legge 2 ottobre 1919, n. 2049](Che%20stabilisce%20un%20unico%20ruolo%20organico%20per%20il%20personale%20dellAmministrazione%20universitaria%20regolando%20lo%20stato%20giuridico%20ed%20economico%20del%20personale%20medesimo.%20019U2049.md); 32 del [R. decreto-legge 2 ottobre 1919, n. 2074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-02;2074) e [7 del R. decreto 13 maggio 1920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-05-13;7), [n. 712](Che%20approva%20il%20quadro%20organico%20del%20personale%20della%20R.%20Accademia%20della%20Crusca%20per%20la%20lingua%20dItalia%20in%20Firenze.%20020U0712.md), e' corrisposta a tutti indistintamente gli impiegati che ne hanno diritto al compimento dell'anno dalla data di applicazione delle tabelle organiche.
 
 ## Art. 2.
 

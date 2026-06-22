@@ -149,7 +149,7 @@ Il Ministro per le finanze e' autorizzato a sospendere, con proprio decreto, da 
 
 ### Art. 25.
 
-Alle Amministrazioni delle province e dei comuni, nei quali sia disposta la sospensione del pagamento dei tributi, ai sensi dell'articolo precedente, possono essere concessi, fino al 31 dicembre 1955, contributi integrativi da parte dello Stato, qualora, nonostante la applicazione degli articoli 332 e 336 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), non possano conseguire il pareggio economico dei propri bilanci.
+Alle Amministrazioni delle province e dei comuni, nei quali sia disposta la sospensione del pagamento dei tributi, ai sensi dell'articolo precedente, possono essere concessi, fino al 31 dicembre 1955, contributi integrativi da parte dello Stato, qualora, nonostante la applicazione degli articoli 332 e 336 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), non possano conseguire il pareggio economico dei propri bilanci.
  I relativi provvedimenti sono adottati, su proposta della Commissione centrale per la finanza locale, in sede di approvazione o di eventuale revisione dei bilanci per l'anno 1953 e di approvazione dei bilanci per gli anni 1954 e 1955 degli enti interessati, con decreto del Ministro per l'interno, di concerto con quelli per le finanze e per il tesoro.
 
 ### Art. 26.

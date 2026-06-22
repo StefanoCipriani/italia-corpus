@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [articoli 25](../Regi%20decreti/Ordinamento%20del%20servizio%20dei%20conti%20correnti%20ed%20assegni%20postali.%20028U1309.md) e [96 del R. decreto 14 giugno 1928, n. 1309](../Regi%20decreti/Ordinamento%20del%20servizio%20dei%20conti%20correnti%20ed%20assegni%20postali.%20028U1309.md), concernente l'ordinamento del servizio dei conti correnti ed assegni postali;
+Visti gli [articoli 25](Ordinamento%20del%20servizio%20dei%20conti%20correnti%20ed%20assegni%20postali.%20028U1309.md) e [96 del R. decreto 14 giugno 1928, n. 1309](Ordinamento%20del%20servizio%20dei%20conti%20correnti%20ed%20assegni%20postali.%20028U1309.md), concernente l'ordinamento del servizio dei conti correnti ed assegni postali;
 
 Visto il [R. decreto-legge 10 novembre 1932, n. 1467](Disciplina%20della%20facolta%20di%20revisione%20dei%20saggi%20dinteresse%20attivi%20e%20passivi%20della%20Cassa%20depositi%20e%20prestiti%20e%20di%20quelli%20del%20risparmio%20postale%20a%20libretti.%20032U1467.md);
 

@@ -24,7 +24,7 @@ Vista la legge 30 ottobre 1859, n. 3731, sulle privative industriali;
 
 Vista la [legge 25 giugno 1865, n. 2356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2356), sulle espropriazioni per causa di utilita' pubblica;
 
-Visto il [R. decreto 28 gennaio 1915, n. 49](../Regi%20decreti/Col%20quale%20e%20concessa%20allo%20Stato%20nellinteresse%20della%20difesa%20nazionale%20e%20pel%20solo%20uso%20militare%20la%20espropriazione%20in%20tutto%20o%20in%20parte%20dei%20diritti%20di%20privativa.%20015U0049.md), che concede allo Stato, nello interesse della difesa nazionale e pel solo uso militare, la espropriazione in tutto od in parte del diritto di privativa;
+Visto il [R. decreto 28 gennaio 1915, n. 49](Col%20quale%20e%20concessa%20allo%20Stato%20nellinteresse%20della%20difesa%20nazionale%20e%20pel%20solo%20uso%20militare%20la%20espropriazione%20in%20tutto%20o%20in%20parte%20dei%20diritti%20di%20privativa.%20015U0049.md), che concede allo Stato, nello interesse della difesa nazionale e pel solo uso militare, la espropriazione in tutto od in parte del diritto di privativa;
 
 Considerata la necessita' di disciplinare l'espropriazione del diritto di privativa, per assicurare la continuita' dell'esercizio delle ferrovie dello Stato;
 

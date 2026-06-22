@@ -19,7 +19,7 @@ Dal fondo di riserva per le spese impreviste inscritto al capitolo n. 141 dello 
  Luogoteneaziale 18 luglio 1915, 
  n. 1154, la aggiunta alla somma di 
  L. 5 milioni di cui al [R.decreto 
- 15 novembre 1914, n. 1243](../Regi%20decreti/Da%20convertirsi%20in%20legge%20col%20quale%20e%20autorizzata%20la%20somministrazione%20della%20somma%20di%205.000.000%20di%20franchi%20al%20Governo%20di%20Albania%20a%20titolo%20di%20prestito%20temporaneo.%20014U1243.md) . . . . . . 8,338 25 
+ 15 novembre 1914, n. 1243](Da%20convertirsi%20in%20legge%20col%20quale%20e%20autorizzata%20la%20somministrazione%20della%20somma%20di%205.000.000%20di%20franchi%20al%20Governo%20di%20Albania%20a%20titolo%20di%20prestito%20temporaneo.%20014U1243.md) . . . . . . 8,338 25 
  
  Ministero delle finanza: 
  
@@ -44,7 +44,7 @@ Dal fondo di riserva per le spese impreviste inscritto al capitolo n. 141 dello 
 
 ## Art. 2.
 
-In relazione all'aumento portato col precedente articolo 1 al capitolo n. 312 inscritto nella categoria «Movimento di capitali» dello stato di previsione del Ministero del tesoro, nello stato di previsione dell'entrata per l'esercizio finanziario 1915-916 alla competenza del capitolo aggiunto n. 324 «Rimborso del prestito a favore del Governo albanese» autorizzato col [decreto Luogotenenziale 18 luglio 1915, n. 1154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-18;1154), in aggiunta alla somma di lire cinque milioni di cui al [Regio decreto 15 novembre 1914, n. 1243](../Regi%20decreti/Da%20convertirsi%20in%20legge%20col%20quale%20e%20autorizzata%20la%20somministrazione%20della%20somma%20di%205.000.000%20di%20franchi%20al%20Governo%20di%20Albania%20a%20titolo%20di%20prestito%20temporaneo.%20014U1243.md), e' assegnato lo stanziamento di lire ottomilatrecentotrentotto e centesimi venticinque. 
+In relazione all'aumento portato col precedente articolo 1 al capitolo n. 312 inscritto nella categoria «Movimento di capitali» dello stato di previsione del Ministero del tesoro, nello stato di previsione dell'entrata per l'esercizio finanziario 1915-916 alla competenza del capitolo aggiunto n. 324 «Rimborso del prestito a favore del Governo albanese» autorizzato col [decreto Luogotenenziale 18 luglio 1915, n. 1154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-18;1154), in aggiunta alla somma di lire cinque milioni di cui al [Regio decreto 15 novembre 1914, n. 1243](Da%20convertirsi%20in%20legge%20col%20quale%20e%20autorizzata%20la%20somministrazione%20della%20somma%20di%205.000.000%20di%20franchi%20al%20Governo%20di%20Albania%20a%20titolo%20di%20prestito%20temporaneo.%20014U1243.md), e' assegnato lo stanziamento di lire ottomilatrecentotrentotto e centesimi venticinque. 
  
  Questo decreto sara' presentato al Parlamento per la sua convalidazione. 
  

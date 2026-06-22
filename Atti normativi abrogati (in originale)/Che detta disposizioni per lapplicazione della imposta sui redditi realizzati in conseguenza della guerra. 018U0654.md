@@ -48,7 +48,7 @@ Il contribuente il quale chiede ed ottiene dalle Commissioni l'ispezione dei pro
  
  Nel caso che l'esito della ispezione dovesse portare all'abbandono della contestazione od all'accordo fra le parti, le spese sono a carico del recedente nel primo caso, e divise in parti uguali tra l'Amministrazione ed il contribuente nel secondo. 
  
- Le spese eventualmente dovute dal contribuente pei titoli suaccennati o non coperte dal deposito di cui al 1° comma del precedente articolo, sono date in carico all'ufficio del registro del luogo di domicilio del contribuente stesso, il quale provvede alla riscossione con le forme, modalita' e termini stabiliti dal testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato, approvate con [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
+ Le spese eventualmente dovute dal contribuente pei titoli suaccennati o non coperte dal deposito di cui al 1° comma del precedente articolo, sono date in carico all'ufficio del registro del luogo di domicilio del contribuente stesso, il quale provvede alla riscossione con le forme, modalita' e termini stabiliti dal testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato, approvate con [R. decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 ## Art. 8.
 

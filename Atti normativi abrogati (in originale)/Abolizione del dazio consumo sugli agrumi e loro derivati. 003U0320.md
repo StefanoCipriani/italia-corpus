@@ -34,7 +34,7 @@ A fine di istruzione e di promozione dell'industria agrumaria, il Governo del Re
 
 ## Art. 5.
 
-Le Societa' di cui al precedente articolo 2 potranno esercitare i magazzini generali per quanto ha rapporto agli agrumi e derivati uniformandosi alle disposizioni del testo unico delle relative leggi, approvato col [R. decreto del 17 dicembre 1882, n. 1154](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sui%20magazzini%20generali%20082U1154.md) Serie 3ª.
+Le Societa' di cui al precedente articolo 2 potranno esercitare i magazzini generali per quanto ha rapporto agli agrumi e derivati uniformandosi alle disposizioni del testo unico delle relative leggi, approvato col [R. decreto del 17 dicembre 1882, n. 1154](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sui%20magazzini%20generali%20082U1154.md) Serie 3ª.
 
 ## Art. 6.
 

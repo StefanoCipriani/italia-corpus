@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 14 gennaio 1926, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-14;212), che estende ai militari della Regia aeronautica le disposizioni contemplate nel [R. decreto 18 marzo 1923, n. 621](../Regi%20decreti/Relativo%20alla%20estensione%20delle%20norme%20di%20avanzamento%20per%20le%20promozioni%20per%20merito%20di%20guerra%20alle%20truppe%20operanti%20nelle%20colonie.%20023U0621.md), concernente provvedimenti a favore delle truppe coloniali. 
+ E' convertito in legge il [R. decreto 14 gennaio 1926, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-14;212), che estende ai militari della Regia aeronautica le disposizioni contemplate nel [R. decreto 18 marzo 1923, n. 621](Relativo%20alla%20estensione%20delle%20norme%20di%20avanzamento%20per%20le%20promozioni%20per%20merito%20di%20guerra%20alle%20truppe%20operanti%20nelle%20colonie.%20023U0621.md), concernente provvedimenti a favore delle truppe coloniali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

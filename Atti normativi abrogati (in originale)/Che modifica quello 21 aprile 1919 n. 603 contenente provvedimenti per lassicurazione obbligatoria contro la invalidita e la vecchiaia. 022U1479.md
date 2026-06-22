@@ -123,7 +123,7 @@ Al [decreto-legge 21 aprile 1919, n. 603](https://www.normattiva.it/uri-res/N2Ls
  
  XIX. - Dopo l'art. 43 e' aggiunto il seguente art. 43-bis: 
  
- «Art. 43-bis - Chiunque contraffa' le marche emesse in esecuzione del presente decreto o fa uso di marche contraffatte o le pone in vendita o le mette altrimenti in circolazione, ovvero cancella o fa scomparire dalle marche i segni appositivi per il loro annullamento, o fa uso delle marche alterate o le pone in vendita o le mette comunque in circolazione, ovvero fabbrica o detiene strumenti destinati esclusivamente alla contraffazione, soggiace alle pene stabilite nel libro II, titolo VI, capo 1°, del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)». 
+ «Art. 43-bis - Chiunque contraffa' le marche emesse in esecuzione del presente decreto o fa uso di marche contraffatte o le pone in vendita o le mette altrimenti in circolazione, ovvero cancella o fa scomparire dalle marche i segni appositivi per il loro annullamento, o fa uso delle marche alterate o le pone in vendita o le mette comunque in circolazione, ovvero fabbrica o detiene strumenti destinati esclusivamente alla contraffazione, soggiace alle pene stabilite nel libro II, titolo VI, capo 1°, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)». 
  
  XX. - Nel decreto-legge alle espressioni: «Ministero per l'industria, il commercio e il lavoro» e «Ministro per l'industria, il commercio e il lavoro» sono sostituite le altre: «Ministero per il lavoro e la previdenza sociale» e «Ministro per il lavoro e la previdenza sociale».
 

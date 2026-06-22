@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata
 
-Visto il [R. decreto 3 giugno 1943, n. 598](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md), che approva il testo unico delle leggi in materia d'imposta straordinaria sui maggiori utili relativi allo stato di guerra;
+Visto il [R. decreto 3 giugno 1943, n. 598](Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md), che approva il testo unico delle leggi in materia d'imposta straordinaria sui maggiori utili relativi allo stato di guerra;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -52,7 +52,7 @@ Ai fini dell'applicazione dell'imposta straordinaria sui maggiori utili relativi
 
 ## Art. 6.
 
-Ai fini indicati nell'articolo precedente, la facolta' di aumentare i redditi accertati dall'Ufficio e di accertare i redditi omessi, nei casi di cui all'art. 98 del regolamento approvato col [R. decreto 11 luglio 1907, n. 560](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md), e' estesa alle Commissioni amministrative competenti a risolvere in appello le controversie tra l'Amministrazione finanziaria ed i contribuenti concernenti l'applicazione dell'imposta straordinaria sui maggiori utili relativi allo stato di guerra. 
+Ai fini indicati nell'articolo precedente, la facolta' di aumentare i redditi accertati dall'Ufficio e di accertare i redditi omessi, nei casi di cui all'art. 98 del regolamento approvato col [R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md), e' estesa alle Commissioni amministrative competenti a risolvere in appello le controversie tra l'Amministrazione finanziaria ed i contribuenti concernenti l'applicazione dell'imposta straordinaria sui maggiori utili relativi allo stato di guerra. 
  
  La facolta' di cui al comma precedente da parte delle Commissioni amministrative di prima istanza e di appello cessa col 31 dicembre del terzo anno successivo a quello nel quale avra' fine l'applicazione della imposta straordinaria predetta.
 
@@ -66,7 +66,7 @@ Quando consta che il contribuente ha svolto un'attivita' di scambio o di interme
 
 ## Art. 9.
 
-Sono abrogati i commi quinto, sesto e settimo dell'art. 3, il comma secondo dell'art. 6 e l'ultimo comma dell'art. 13 del testo unico approvato col [R. decreto 3 giugno 1943, n. 598](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md). 
+Sono abrogati i commi quinto, sesto e settimo dell'art. 3, il comma secondo dell'art. 6 e l'ultimo comma dell'art. 13 del testo unico approvato col [R. decreto 3 giugno 1943, n. 598](Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md). 
  
  Nel comma ottavo dell'art. 13 del citato testo unico sono soppresse le parole: «salvo quanto e' disposto dall'art. 6 per le operazioni di speculazione su immobili». 
  
@@ -84,11 +84,11 @@ L'imposta straordinaria sui maggiori utili relativi allo stato di guerra si appl
 
 ## Art. 12.
 
-Ferme restando le disposizioni dell'art. 109 del regolamento approvato col [R. decreto 11 luglio 1907, numero 560](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md), e' data facolta' agli Uffici distrettuali delle imposte dirette di iscrivere provvisoriamente anche in ruoli straordinari, sulla base dell'avviso di accertamento o di rettifica, da essi notificato, dopo che siano trascorsi trenta giorni da tale notificazione, una quota pari al cinquanta per cento dei maggiori utili accertati, eccezione fatta per quelli derivanti da appalti o forniture alle quali sia applicabile l'art. 20 del testo unico approvato col [R. decreto 3 giugno 1943, n. 598](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md).
+Ferme restando le disposizioni dell'art. 109 del regolamento approvato col [R. decreto 11 luglio 1907, numero 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md), e' data facolta' agli Uffici distrettuali delle imposte dirette di iscrivere provvisoriamente anche in ruoli straordinari, sulla base dell'avviso di accertamento o di rettifica, da essi notificato, dopo che siano trascorsi trenta giorni da tale notificazione, una quota pari al cinquanta per cento dei maggiori utili accertati, eccezione fatta per quelli derivanti da appalti o forniture alle quali sia applicabile l'art. 20 del testo unico approvato col [R. decreto 3 giugno 1943, n. 598](Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md).
 
 ## Art. 13.
 
-La quota indisponibile di cui all'art. 25, primo comma, del testo unico approvato col [R. decreto 3 giugno 1943, n. 598](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md), sui maggiori utili relativi agli anni 1943 e seguenti e' uguale alla differenza tra il reddito complessivo e il reddito ordinario maggiorato del cinquanta per cento, ferme le detrazioni stabilite nel citato articolo. 
+La quota indisponibile di cui all'art. 25, primo comma, del testo unico approvato col [R. decreto 3 giugno 1943, n. 598](Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md), sui maggiori utili relativi agli anni 1943 e seguenti e' uguale alla differenza tra il reddito complessivo e il reddito ordinario maggiorato del cinquanta per cento, ferme le detrazioni stabilite nel citato articolo. 
  
  Le somme che costituiscono la quota indisponibile sono investite, a decorrere dal 1° gennaio 1944, in conti speciali, che, intestati al contribuente, sono tenuti dall'Istituto di emissione in luogo e vece della Tesoreria dello Stato. 
  
@@ -98,7 +98,7 @@ La quota indisponibile di cui all'art. 25, primo comma, del testo unico approvat
 
 ## Art. 14.
 
-Nell'art. 27, primo comma, del testo unico approvato con [R. decreto 3 giugno 1943, n. 598](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md), alle parole: «da investire nello speciale titolo di Stato» sono sostituite le seguenti: «da versare nel conto speciale»; ed alle parole: «versamento in Tesoreria», le altre: «versamento all'Istituto di emissione». 
+Nell'art. 27, primo comma, del testo unico approvato con [R. decreto 3 giugno 1943, n. 598](Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md), alle parole: «da investire nello speciale titolo di Stato» sono sostituite le seguenti: «da versare nel conto speciale»; ed alle parole: «versamento in Tesoreria», le altre: «versamento all'Istituto di emissione». 
  
  Nell'art. 28, primo comma, del testo unico, sono sostituite alle parole «alla Sezione di Regia tesoreria provinciale» le seguenti: «all'Istituto di emissione», e nel secondo comma di detto articolo alle parole «Sezione di Regia tesoreria», le altre: «all'Istituto di emissione». 
  
@@ -116,7 +116,7 @@ Nell'art. 27, primo comma, del testo unico approvato con [R. decreto 3 giugno 19
 
 ## Art. 15.
 
-La risoluzione in via amministrativa delle controversie tra la Finanza ed i contribuenti concernenti la applicazione dell'imposta straordinaria sui maggiori utili relativi allo stato di guerra e' regolata dal titolo IV del [R. decreto-legge 7 agosto 1936, n. 1639](Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), convertito nella [legge 7 giugno 1937, n. 1016](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%207%20agosto%201936-XIV%20n.%201639%20concernente%20riforma%20degli%20ordinamenti%20tributari.%20037U1016.md). 
+La risoluzione in via amministrativa delle controversie tra la Finanza ed i contribuenti concernenti la applicazione dell'imposta straordinaria sui maggiori utili relativi allo stato di guerra e' regolata dal titolo IV del [R. decreto-legge 7 agosto 1936, n. 1639](Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), convertito nella [legge 7 giugno 1937, n. 1016](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%207%20agosto%201936-XIV%20n.%201639%20concernente%20riforma%20degli%20ordinamenti%20tributari.%20037U1016.md). 
  
  Per le controversie in corso si osservano le disposizioni anteriori, tranne quelle pendenti in prima istanza avanti le Commissioni provinciali, che sono deferite nello stato in cui si trovano alle Commissioni distrettuali.
 

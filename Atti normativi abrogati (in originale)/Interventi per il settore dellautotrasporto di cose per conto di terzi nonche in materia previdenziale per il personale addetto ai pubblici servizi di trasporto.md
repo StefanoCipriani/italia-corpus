@@ -52,7 +52,7 @@ Sono escluse dal campo di applicazione della [legge 8 agosto 1991, n. 264](https
 
 2.
 
-E' differito all'11 giugno 1995 il termine previsto dall'[articolo 16, comma 1, del decreto del Presidente della Repubblica 19 aprile 1994, n. 575](../Regolamenti%20governativi/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), che ha emanato il regolamento recante la disciplina dei procedimenti per il rilascio e la duplicazione della patente di guida di veicoli.
+E' differito all'11 giugno 1995 il termine previsto dall'[articolo 16, comma 1, del decreto del Presidente della Repubblica 19 aprile 1994, n. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), che ha emanato il regolamento recante la disciplina dei procedimenti per il rilascio e la duplicazione della patente di guida di veicoli.
 
 ## Art. 3. — Proroga della legge 5 febbraio 1992, n. 68
 
@@ -112,7 +112,7 @@ Per i soggetti di cui all'articolo 5 l'importo della pensione e' determinato dal
 
 2.
 
-Per i lavoratori di cui all'articolo 4, comma 2, lettere a) e b), facenti parte del personale viaggiante, si applicano per la pensione di vecchiaia i limiti di attivita' previsti dall'[articolo 5, comma 2, del decreto legislativo 30 dicembre 1992, n. 503](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+Per i lavoratori di cui all'articolo 4, comma 2, lettere a) e b), facenti parte del personale viaggiante, si applicano per la pensione di vecchiaia i limiti di attivita' previsti dall'[articolo 5, comma 2, del decreto legislativo 30 dicembre 1992, n. 503](../Decreti%20Legislativi/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 3.
 

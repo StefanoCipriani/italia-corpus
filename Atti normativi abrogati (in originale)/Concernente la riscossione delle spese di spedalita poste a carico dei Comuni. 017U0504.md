@@ -18,7 +18,7 @@ Se i Comuni non provvedano, nel termine di due mesi dalla notificazione del rela
 
 ## Art. 2.
 
-Agli ordini di pagamento, emessi ai sensi dell'articolo precedente, si applicano le disposizioni degli articoli 174 e 175 del testo unico della legge comunale e provinciale, approvato con [regio decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), e del [decreto-legge 4 gennaio 1917, n. 129](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1917-01-04;129).
+Agli ordini di pagamento, emessi ai sensi dell'articolo precedente, si applicano le disposizioni degli articoli 174 e 175 del testo unico della legge comunale e provinciale, approvato con [regio decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), e del [decreto-legge 4 gennaio 1917, n. 129](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1917-01-04;129).
 
 ## Art. 3.
 

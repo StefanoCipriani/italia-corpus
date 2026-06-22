@@ -56,7 +56,7 @@ Ai contratti stipulati dal Ministero di grazia e giustizia continuano ad applica
 
 2.
 
-Per i contratti concernenti il potenziamento del sistema informativo e' prescritto il solo parere di congruita' tecnico- economica di cui all'[articolo 8 del decreto legislativo 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md), che e' reso dall'Autorita' per l'informatica nella pubblica amministrazione, ma il termine di cui al comma 4 dello stesso articolo 8 e' ridotto alla meta'.
+Per i contratti concernenti il potenziamento del sistema informativo e' prescritto il solo parere di congruita' tecnico- economica di cui all'[articolo 8 del decreto legislativo 12 febbraio 1993, n. 39](../Decreti%20Legislativi/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md), che e' reso dall'Autorita' per l'informatica nella pubblica amministrazione, ma il termine di cui al comma 4 dello stesso articolo 8 e' ridotto alla meta'.
 
 ## Art. 6.
 

@@ -22,7 +22,7 @@ Ritenuta la urgente necessita' di provvedere alla emissione di un nuovo prestito
 
 Ritenuta altresi' la urgente necessita' di assicurare il servizio e la estinzione di tale prestito;
 
-Visto il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e successive modificazioni;
+Visto il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e successive modificazioni;
 
 Vista la [legge 26 gennaio 1865, n. 2136](Per%20lunificazione%20dellimposta%20sui%20fabbricati.%20065U2136.md), istitutiva della imposta sui fabbricati, e successive modificazioni;
 
@@ -68,7 +68,7 @@ Sono tenuti alla sottoscrizione di cui ai precedenti articoli 1 e 2 le ditte, pe
 ## Art. 5.
 
 Sono tenuti alla sottoscrizione anche i possessori di terreni o di fabbricati i cui redditi siano temporaneamente esenti da imposte reali, o che siano soggetti ad un tributo sostitutivo delle imposte stesse. 
- Sono del pari tenuti i possessori dei beni immobili i cui redditi sono soggetti ad imposta di ricchezza mobile ai sensi del [R. decreto 6 dicembre 1923, n. 2722](../Regi%20decreti/Stralcio%20dal%20catasto%20delle%20miniere%20cave%20torbiere%20saline%20e%20tonnare%20e%20applicazione%20dellimposta%20di%20ricchezza%20mobile%20ai%20redditi%20relativi.%20023U2722.md), della [legge 11 luglio 1929, n. 1260, e dell'articolo 28](Stralcio%20dal%20catasto%20terreni%20dei%20laghi%20e%20stagni%20da%20pesca.%20029U1260.md) della [legge 8 giugno 1936, n. 1231](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2024%20ottobre%201935-XIII%20n.%201887%20concernente%20interpretazioni%20e%20modificazioni%20alle%20leggi%20sulle%20imposte%20dirette%20e%20del%20R.%20decreto-legg_b2b0dad11f30.md), nonche' coloro che abbiano effettuati investimenti immobiliari in opere non ancora ultimate o non ancora suscettibili di reddito.
+ Sono del pari tenuti i possessori dei beni immobili i cui redditi sono soggetti ad imposta di ricchezza mobile ai sensi del [R. decreto 6 dicembre 1923, n. 2722](Stralcio%20dal%20catasto%20delle%20miniere%20cave%20torbiere%20saline%20e%20tonnare%20e%20applicazione%20dellimposta%20di%20ricchezza%20mobile%20ai%20redditi%20relativi.%20023U2722.md), della [legge 11 luglio 1929, n. 1260, e dell'articolo 28](Stralcio%20dal%20catasto%20terreni%20dei%20laghi%20e%20stagni%20da%20pesca.%20029U1260.md) della [legge 8 giugno 1936, n. 1231](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2024%20ottobre%201935-XIII%20n.%201887%20concernente%20interpretazioni%20e%20modificazioni%20alle%20leggi%20sulle%20imposte%20dirette%20e%20del%20R.%20decreto-legg_b2b0dad11f30.md), nonche' coloro che abbiano effettuati investimenti immobiliari in opere non ancora ultimate o non ancora suscettibili di reddito.
 
 ## Art. 6.
 

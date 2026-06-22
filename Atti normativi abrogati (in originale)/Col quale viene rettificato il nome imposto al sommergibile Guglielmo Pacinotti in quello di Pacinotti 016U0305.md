@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto n. 1390 in data 14 dicembre 1913](../Regi%20decreti/Col%20quale%20vengono%20imposti%20i%20nomi%20di%20Pacinotti%20e%20di%20Guglielmotti%20a%20due%20sommergibili%20in%20costruzione.%20013U1390.md) col quale al sommergibile da 700 tonnellate in corso di costruzione presso la F.
+ Visto il [R. decreto n. 1390 in data 14 dicembre 1913](Col%20quale%20vengono%20imposti%20i%20nomi%20di%20Pacinotti%20e%20di%20Guglielmotti%20a%20due%20sommergibili%20in%20costruzione.%20013U1390.md) col quale al sommergibile da 700 tonnellate in corso di costruzione presso la F.
 I. A. T. San Giorgio, veniva imposto il nome di Guglielmo Pacinotti; 
  
  Sulla proposta del ministro della marina; 

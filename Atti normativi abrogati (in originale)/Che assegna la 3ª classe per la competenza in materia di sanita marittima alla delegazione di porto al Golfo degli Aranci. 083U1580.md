@@ -14,7 +14,7 @@ Il Ministro della Marina
  
  Veduto l'articolo 4 del regolamento approvato con [R. decreto 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md) (Serie 2ª), e la tabella n. 2 annessa al regolamento medesimo; 
  
- Veduto il [R. decreto 28 luglio 1883, n. 1560](../Regi%20decreti/Che%20istituisce%20una%20delegazione%20di%20porto%20al%20Golfo%20degli%20Aranci.%20083U1560.md) (Serie 3ª), con cui venne istituita una Delegazione di porto al Golfo degli Aranci, nella provincia di Sassari, compartimento marittimo di Maddalena; 
+ Veduto il [R. decreto 28 luglio 1883, n. 1560](Che%20istituisce%20una%20delegazione%20di%20porto%20al%20Golfo%20degli%20Aranci.%20083U1560.md) (Serie 3ª), con cui venne istituita una Delegazione di porto al Golfo degli Aranci, nella provincia di Sassari, compartimento marittimo di Maddalena; 
  
  Presi gli opportuni concerti col Ministro dell'Interno; 
  

@@ -12,7 +12,7 @@ vigente: true
 
 A complemento delle disposizioni contenute nel Nostro decreto 20 maggio 1915, n. 673, e' concessa amnistia ai militari del R. esercito e della R. marina di qualsiasi classe, che, anteriormente al 24 maggio 1915, incorsero nei reati: 
  
- a) di diserzione qualificata nei casi previsti dagli [articoli 191](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [142 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e 165, 166 e 180 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo; 
+ a) di diserzione qualificata nei casi previsti dagli [articoli 191](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [142 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e 165, 166 e 180 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo; 
  
  b) di alienazione di effetti militari.
 

@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-I termini di cui all'[articolo 1, commi 3](Norme%20sulla%20gestione%20transitoria%20delle%20unita%20sanitarie%20locali_2.md) e [7, del decreto-legge 6 febbraio 1991, n. 35](Norme%20sulla%20gestione%20transitoria%20delle%20unita%20sanitarie%20locali_2.md), convertito, con modificazioni, dalla [legge 4 aprile 1991, n. 111](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20febbraio%201991%20n.%2035%20recante%20norme%20sulla%20gestione%20transitoria%20delle%20unita%20sanitarie%20locali.md), sono prorogati fino al 31 agosto 1992.
+I termini di cui all'[articolo 1, commi 3](Norme%20sulla%20gestione%20transitoria%20delle%20unita%20sanitarie%20locali_2.md) e [7, del decreto-legge 6 febbraio 1991, n. 35](Norme%20sulla%20gestione%20transitoria%20delle%20unita%20sanitarie%20locali_2.md), convertito, con modificazioni, dalla [legge 4 aprile 1991, n. 111](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20febbraio%201991%20n.%2035%20recante%20norme%20sulla%20gestione%20transitoria%20delle%20unita%20sanitarie%20locali.md), sono prorogati fino al 31 agosto 1992.
 
 ## Art. 2.
 

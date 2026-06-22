@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visti i [Regi decreti 28 marzo 1915, n. 314](../Regi%20decreti/Che%20estende%20alle%20Colonie%20le%20disposizioni%20concernenti%20le%20penalita%20comminate%20per%20le%20infrazioni%20alla%20legge%20sulla%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0314.md) e [n. 315](../Regi%20decreti/Che%20estende%20alle%20Colonie%20le%20disposizioni%20del%20decreto%20il%20quale%20vieta%20la%20pubblicazione%20di%20notizie%20concernenti%20materie%20militari.%20015U0315.md) che estendono alle colonie rispettivamente la [legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md) ed il [R. decreto 28 marzo 1915, n. 313](../Regi%20decreti/Che%20vieta%20la%20pubblicazione%20di%20notizie%20concernenti%20la%20forza%20la%20preparazione%20o%20la%20difesa%20militare%20dello%20Stato.%20015U0313.md) vietante la pubblicazione di notizie d'indole militare; 
+ Visti i [Regi decreti 28 marzo 1915, n. 314](Che%20estende%20alle%20Colonie%20le%20disposizioni%20concernenti%20le%20penalita%20comminate%20per%20le%20infrazioni%20alla%20legge%20sulla%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0314.md) e [n. 315](Che%20estende%20alle%20Colonie%20le%20disposizioni%20del%20decreto%20il%20quale%20vieta%20la%20pubblicazione%20di%20notizie%20concernenti%20materie%20militari.%20015U0315.md) che estendono alle colonie rispettivamente la [legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md) ed il [R. decreto 28 marzo 1915, n. 313](Che%20vieta%20la%20pubblicazione%20di%20notizie%20concernenti%20la%20forza%20la%20preparazione%20o%20la%20difesa%20militare%20dello%20Stato.%20015U0313.md) vietante la pubblicazione di notizie d'indole militare; 
  
- Vieto il Nostro decreto 27 giugno 1915, n. 986, che proroga al 31 dicembre 1915 le disposizioni del predetto [R. decreto in data 28 marzo 1915, n. 313](../Regi%20decreti/Che%20vieta%20la%20pubblicazione%20di%20notizie%20concernenti%20la%20forza%20la%20preparazione%20o%20la%20difesa%20militare%20dello%20Stato.%20015U0313.md); 
+ Vieto il Nostro decreto 27 giugno 1915, n. 986, che proroga al 31 dicembre 1915 le disposizioni del predetto [R. decreto in data 28 marzo 1915, n. 313](Che%20vieta%20la%20pubblicazione%20di%20notizie%20concernenti%20la%20forza%20la%20preparazione%20o%20la%20difesa%20militare%20dello%20Stato.%20015U0313.md); 
  
  Sentito il' Consiglio dei ministri; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- E' esteso alle colonie il Nostro decreto 27 giugno 1915, n. 986, col quale vengono prorogate fino al 31 dicembre 1915 le disposizioni del [R. decreto 28 marzo 1915, n. 313](../Regi%20decreti/Che%20vieta%20la%20pubblicazione%20di%20notizie%20concernenti%20la%20forza%20la%20preparazione%20o%20la%20difesa%20militare%20dello%20Stato.%20015U0313.md), che vieta di pubblicare con qualsiasi mezzo notizie concernenti 19 forza, la preparazione o la difesa militare dello Stato. 
+ E' esteso alle colonie il Nostro decreto 27 giugno 1915, n. 986, col quale vengono prorogate fino al 31 dicembre 1915 le disposizioni del [R. decreto 28 marzo 1915, n. 313](Che%20vieta%20la%20pubblicazione%20di%20notizie%20concernenti%20la%20forza%20la%20preparazione%20o%20la%20difesa%20militare%20dello%20Stato.%20015U0313.md), che vieta di pubblicare con qualsiasi mezzo notizie concernenti 19 forza, la preparazione o la difesa militare dello Stato. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

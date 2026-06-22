@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 5 novembre 1911, n. 1247](../Regi%20decreti/Che%20pone%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20regno%20dItalia%20la%20Tripolitania%20e%20la%20Cirenaica.%20011U1247.md), convertito nella [legge 25 febbraio 1912, n. 83](Che%20converte%20in%20legge%20il%20Regio%20decreto%205%20novembre%201911%20n.%201247%20col%20quale%20la%20Tripolitania%20e%20la%20Cirenaica%20sono%20poste%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20Regno%20dItalia.%20012U0083.md);
+Visto il [R. decreto 5 novembre 1911, n. 1247](Che%20pone%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20regno%20dItalia%20la%20Tripolitania%20e%20la%20Cirenaica.%20011U1247.md), convertito nella [legge 25 febbraio 1912, n. 83](Che%20converte%20in%20legge%20il%20Regio%20decreto%205%20novembre%201911%20n.%201247%20col%20quale%20la%20Tripolitania%20e%20la%20Cirenaica%20sono%20poste%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20Regno%20dItalia.%20012U0083.md);
 
 Udito il Consiglio dei ministri;
 

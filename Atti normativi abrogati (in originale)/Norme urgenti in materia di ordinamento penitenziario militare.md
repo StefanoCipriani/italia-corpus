@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace, approvato con [regio decreto 20 febbraio 1941, n. 303](../Codici/Codici%20penali%20militari%20di%20pace%20e%20di%20guerra%20041U0303.md);
+Visto il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace, approvato con [regio decreto 20 febbraio 1941, n. 303](../Codici/Codici%20penali%20militari%20di%20pace%20e%20di%20guerra%20041U0303.md);
 
-Visto il [regio decreto 9 settembre 1941, n. 1023](../Regi%20decreti/Disposizioni%20di%20coordinamento%20transitorie%20e%20di%20attuazione%20dei%20Codici%20penali%20militari%20di%20pace%20e%20di%20guerra.%20041U1023.md);
+Visto il [regio decreto 9 settembre 1941, n. 1023](../Codici/Disposizioni%20di%20coordinamento%20transitorie%20e%20di%20attuazione%20dei%20Codici%20penali%20militari%20di%20pace%20e%20di%20guerra.%20041U1023.md);
 
 Visto il regolamento per gli stabilimenti militari di pena, approvato con decreto luogotenenziale 27 ottobre 1918;
 
-Visto il [regio decreto 10 febbraio 1943, n. 306](../Regi%20decreti/Disposizioni%20relative%20alla%20esecuzione%20della%20pena%20detentiva%20militare%20e%20attribuzioni%20dei%20giudici%20militari%20di%20sorveglianza.%20043U0306.md);
+Visto il [regio decreto 10 febbraio 1943, n. 306](Disposizioni%20relative%20alla%20esecuzione%20della%20pena%20detentiva%20militare%20e%20attribuzioni%20dei%20giudici%20militari%20di%20sorveglianza.%20043U0306.md);
 
 Vista la [legge 7 maggio 1981, n. 180](Modifiche%20allordinamento%20giudiziario%20militare%20di%20pace.md);
 
@@ -44,7 +44,7 @@ EMANA il seguente decreto:
 
 1.
 
-L'[articolo 409 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e' sostituito dal seguente:
+L'[articolo 409 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e' sostituito dal seguente:
  "Art. 409 - (Ufficio militare di sorveglianza).
  1. L'ufficio militare di sorveglianza e' costituito in Roma ed ha giurisdizione su tutto il territorio nazionale.
  2. Al suddetto ufficio sono assegnati magistrati militari di Cassazione, di appello e di tribunale, nonche' personale del ruolo delle cancellerie e segreterie giudiziarie e personale esecutivo e subalterno, civile o militare.
@@ -79,7 +79,7 @@ L'[articolo 6 della legge 29 aprile 1983, n. 167](https://www.normattiva.it/uri-
 
 1.
 
-Sono abrogati gli [articoli 6](../Regi%20decreti/Disposizioni%20relative%20alla%20esecuzione%20della%20pena%20detentiva%20militare%20e%20attribuzioni%20dei%20giudici%20militari%20di%20sorveglianza.%20043U0306.md), [7](../Regi%20decreti/Disposizioni%20relative%20alla%20esecuzione%20della%20pena%20detentiva%20militare%20e%20attribuzioni%20dei%20giudici%20militari%20di%20sorveglianza.%20043U0306.md) e [8 del regio decreto 10 febbraio 1943, n. 306](../Regi%20decreti/Disposizioni%20relative%20alla%20esecuzione%20della%20pena%20detentiva%20militare%20e%20attribuzioni%20dei%20giudici%20militari%20di%20sorveglianza.%20043U0306.md), nonche' l'[articolo 37 del regio decreto 9 settembre 1941, n. 1023](../Regi%20decreti/Disposizioni%20di%20coordinamento%20transitorie%20e%20di%20attuazione%20dei%20Codici%20penali%20militari%20di%20pace%20e%20di%20guerra.%20041U1023.md).
+Sono abrogati gli [articoli 6](Disposizioni%20relative%20alla%20esecuzione%20della%20pena%20detentiva%20militare%20e%20attribuzioni%20dei%20giudici%20militari%20di%20sorveglianza.%20043U0306.md), [7](Disposizioni%20relative%20alla%20esecuzione%20della%20pena%20detentiva%20militare%20e%20attribuzioni%20dei%20giudici%20militari%20di%20sorveglianza.%20043U0306.md) e [8 del regio decreto 10 febbraio 1943, n. 306](Disposizioni%20relative%20alla%20esecuzione%20della%20pena%20detentiva%20militare%20e%20attribuzioni%20dei%20giudici%20militari%20di%20sorveglianza.%20043U0306.md), nonche' l'[articolo 37 del regio decreto 9 settembre 1941, n. 1023](../Codici/Disposizioni%20di%20coordinamento%20transitorie%20e%20di%20attuazione%20dei%20Codici%20penali%20militari%20di%20pace%20e%20di%20guerra.%20041U1023.md).
 
 ## Art. 6.
 

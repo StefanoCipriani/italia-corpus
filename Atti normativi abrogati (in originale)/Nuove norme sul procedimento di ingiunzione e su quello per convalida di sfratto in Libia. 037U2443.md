@@ -42,7 +42,7 @@ La prova dei crediti, delle merci e di altre cose fungibili ai fini dell'art. 1 
 
 ## Art. 4.
 
-In sostituzione del testo unico, approvato con [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), di cui e' cenno nell'art. 3 del R. decreto 7 agosto 1936-XIV, n. 1531, si intendono richiamate le speciali disposizioni vigenti in Libia, sulla riscossione coattiva delle entrate patrimoniali dello Stato e degli altri enti pubblici e dei proventi dei pubblici servizi.
+In sostituzione del testo unico, approvato con [R. decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), di cui e' cenno nell'art. 3 del R. decreto 7 agosto 1936-XIV, n. 1531, si intendono richiamate le speciali disposizioni vigenti in Libia, sulla riscossione coattiva delle entrate patrimoniali dello Stato e degli altri enti pubblici e dei proventi dei pubblici servizi.
 
 ## Art. 5.
 

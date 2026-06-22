@@ -16,7 +16,7 @@ Ai disertori indicati nell'[art. 4 del R. decreto 2 settembre 1919, num. 1502](D
 
 ## Art. 2.
 
-I benefici concessi con l'[art. 5 del R. decreto 2 settembre 1919, n. 1502](Di%20amnistia%20e%20condono%20di%20reati%20militari.%20019U1502.md) sono applicabili ai militari per le pene inflitte o da infliggersi dall'autorita' giudiziaria ordinaria o militare anche per i reati preveduti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune commessi non oltre il 1° settembre 1919. Si applicano inoltre agli estranei alla milizia che siano concorsi nel reato. 
+I benefici concessi con l'[art. 5 del R. decreto 2 settembre 1919, n. 1502](Di%20amnistia%20e%20condono%20di%20reati%20militari.%20019U1502.md) sono applicabili ai militari per le pene inflitte o da infliggersi dall'autorita' giudiziaria ordinaria o militare anche per i reati preveduti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune commessi non oltre il 1° settembre 1919. Si applicano inoltre agli estranei alla milizia che siano concorsi nel reato. 
  Gli stessi benefici sono parimenti applicabili agli estranei alla milizia per le pene inflitte o da infliggersi dall'autorita' giudiziaria ordinaria o militare per reati commessi non oltre il 1° settembre 1919 e preveduti nei Codici penali militari, nelle altre leggi militari e nei bandi emanati dalle autorita' militari. 
  Resta ferma la disposizione del 2° capoverso del suindicato art. 5.
 

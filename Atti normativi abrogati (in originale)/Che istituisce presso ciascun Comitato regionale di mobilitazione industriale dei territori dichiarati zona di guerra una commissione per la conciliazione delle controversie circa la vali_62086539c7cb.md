@@ -48,7 +48,7 @@ Contro il giudizio espresso dalla Commissione, e' ammesso il ricorso al Comitato
 
 ## Art. 8.
 
-Il procedimento davanti la Commissione, per tutto cio' che non e' disciplinato espressamente dal presente decreto, prende norma dal regolamento per l'applicazione del [R. decreto 26 giugno 1915, n. 993](../Regi%20decreti/Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md). 
+Il procedimento davanti la Commissione, per tutto cio' che non e' disciplinato espressamente dal presente decreto, prende norma dal regolamento per l'applicazione del [R. decreto 26 giugno 1915, n. 993](Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md). 
  
  Ai componenti della Commissione e al segretario nei giorni di riunione o di viaggio per servizio, spettano le stesse indennita' stabilite nel detto regolamento per i componenti e il segretario del Comitato regionale.
 

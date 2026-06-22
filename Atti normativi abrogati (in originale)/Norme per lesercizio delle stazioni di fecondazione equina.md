@@ -157,7 +157,7 @@ Entro sei mesi dalla data di entrata in vigore della presente legge sara' emanat
 
 ## Art. 25.
 
-Sono abrogati il [regio decreto-legge 13 agosto 1926, n. 1550](Disposizioni%20circa%20la%20produzione%20equina%20026U1550.md); il [regio decreto 3 settembre 1926, n. 1642](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20monta%20pubblica%20cavallina%20ed%20asinina.%20026U1642.md); il [regio decreto 25 novembre 1937, n. 2162](../Regi%20decreti/Norme%20per%20la%20disciplina%20della%20monta%20girovaga%20e%20per%20la%20preventiva%20approvazione%20dei%20cavalli%20e%20degli%20asini%20stalloni%20destinati%20alla%20monta%20privata.%20037U2162.md); la [legge 16 ottobre 1954, n. 1051](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-10-16;1051), e ogni altra disposizione in contrasto con la presente legge.
+Sono abrogati il [regio decreto-legge 13 agosto 1926, n. 1550](Disposizioni%20circa%20la%20produzione%20equina%20026U1550.md); il [regio decreto 3 settembre 1926, n. 1642](Approvazione%20del%20regolamento%20per%20la%20monta%20pubblica%20cavallina%20ed%20asinina.%20026U1642.md); il [regio decreto 25 novembre 1937, n. 2162](Norme%20per%20la%20disciplina%20della%20monta%20girovaga%20e%20per%20la%20preventiva%20approvazione%20dei%20cavalli%20e%20degli%20asini%20stalloni%20destinati%20alla%20monta%20privata.%20037U2162.md); la [legge 16 ottobre 1954, n. 1051](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-10-16;1051), e ogni altra disposizione in contrasto con la presente legge.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

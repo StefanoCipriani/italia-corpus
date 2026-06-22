@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il testo unico delle leggi d'imposta sul Consumo del gas e dell'energia elettrica 8 luglio 1924, successivamente modificato;
 
-Visto il testo unico per la Finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), successivamente modificato;
+Visto il testo unico per la Finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), successivamente modificato;
 
 Riconosciuta la necessita' urgente ed assoluta di consentire agevolezze al consumo dell'energia elettrica per illuminazione delle mostre dei negozi e dei pubblici esercizi della Capitale;
 

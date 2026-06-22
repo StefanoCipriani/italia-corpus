@@ -45,7 +45,7 @@ Il [comma 1 dell'articolo 9 della legge 6 agosto 1990, n. 223](https://www.norma
 
 5.
 
-Entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, l'[articolo 4 del decreto del Presidente della Repubblica 27 marzo 1992, n. 255](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%206%20agosto%201990%20n.%20223%20sulla%20disciplina%20del%20sistema%20radiotelevisivo%20pubblico%20e%20privato.md), deve essere adeguato alle disposizioni del presente decreto, nonche' del [decreto-legge 8 agosto 1996, n. 439](Disposizioni%20urgenti%20in%20materia%20di%20bilancio%20per%20le%20imprese%20operanti%20nel%20settore%20delleditoria%20e%20di%20protezione%20del%20diritto%20dautore_2.md).
+Entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, l'[articolo 4 del decreto del Presidente della Repubblica 27 marzo 1992, n. 255](../DPR/Regolamento%20di%20attuazione%20della%20legge%206%20agosto%201990%20n.%20223%20sulla%20disciplina%20del%20sistema%20radiotelevisivo%20pubblico%20e%20privato.md), deve essere adeguato alle disposizioni del presente decreto, nonche' del [decreto-legge 8 agosto 1996, n. 439](Disposizioni%20urgenti%20in%20materia%20di%20bilancio%20per%20le%20imprese%20operanti%20nel%20settore%20delleditoria%20e%20di%20protezione%20del%20diritto%20dautore_2.md).
 
 6.
 

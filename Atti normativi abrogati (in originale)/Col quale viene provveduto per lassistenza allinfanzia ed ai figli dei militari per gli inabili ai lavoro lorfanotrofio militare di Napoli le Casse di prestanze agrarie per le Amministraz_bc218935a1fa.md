@@ -31,7 +31,7 @@ La [legge 1° aprile 1915, n. 462](Contenente%20provvedimenti%20a%20favore%20del
 
 ## Art. 4.
 
-L'[art. 2, comma 2°, del R. decreto 19 novembre 1889, n. 6535](../Regi%20decreti/Che%20stabilisce%20le%20norme%20per%20lapplicazione%20dellarticolo%2082%20della%20legge%2030%20giugno%201889%20sulla%20pubblica%20sicurezza.%20089U6535.md), e' modificato come segue: 
+L'[art. 2, comma 2°, del R. decreto 19 novembre 1889, n. 6535](Che%20stabilisce%20le%20norme%20per%20lapplicazione%20dellarticolo%2082%20della%20legge%2030%20giugno%201889%20sulla%20pubblica%20sicurezza.%20089U6535.md), e' modificato come segue: 
  
  «La legge ritiene come inabili i fanciulli che non hanno compiuto i dodici anni».
 

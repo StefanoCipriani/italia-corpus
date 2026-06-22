@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- All'art. 87 del testo unico della legge sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), sono aggiunti i seguenti comma: 
+ All'art. 87 del testo unico della legge sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), sono aggiunti i seguenti comma: 
  
  «Pero' agli ufficiali che durante la posizione ausiliaria siano stati richiamati in servizio temporaneo, per un periodo di tempo superiore ai sei mesi, passando a riposo, la liquidazione della loro pensione definitiva verra' fatta con le norme dei precedenti articoli 85 e 86 e sulla media degli assegni e della pensione provvisoria complessivamente goduti durante il richiamo. 
  

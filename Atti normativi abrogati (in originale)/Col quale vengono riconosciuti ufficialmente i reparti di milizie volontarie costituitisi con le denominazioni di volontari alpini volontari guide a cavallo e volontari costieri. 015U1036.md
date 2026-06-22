@@ -42,7 +42,7 @@ I reparti volontari ciclisti ed automobilisti, insieme con i reparti volontari a
 
 ## Art. 3.
 
-Lo statuto delle Milizie volontarie e' quello stesso del Corpo nazionale dei volontari ciclisti ed automobilisti, approvato con [R. decreto 19 marzo 1908, n. 142](../Regi%20decreti/che%20approva%20lannesso%20Statuto%20del%20corpo%20nazionale%20dei%20volontari%20ciclisti%20ed%20automobilisti%20008U0142.md), e modificato con [R. decreto 18 giugno 1911, n. 1243](../Regi%20decreti/Col%20quale%20vengono%20approvate%20alcune%20varianti%20ed%20aggiunte%20allo%20statuto%20del%20corpo%20nazionale%20dei%20volontari%20ciclisti%20ed%20automobilisti.%20011U1243.md), salvo la facolta' al Governo del Re di apportare ad esso provvisoriamente, con deroga alle vigenti norme, le modificazioni che risulteranno necessarie in dipendenza del riconoscimento delle suddette nuove organizzazioni di Milizie volontarie.
+Lo statuto delle Milizie volontarie e' quello stesso del Corpo nazionale dei volontari ciclisti ed automobilisti, approvato con [R. decreto 19 marzo 1908, n. 142](che%20approva%20lannesso%20Statuto%20del%20corpo%20nazionale%20dei%20volontari%20ciclisti%20ed%20automobilisti%20008U0142.md), e modificato con [R. decreto 18 giugno 1911, n. 1243](Col%20quale%20vengono%20approvate%20alcune%20varianti%20ed%20aggiunte%20allo%20statuto%20del%20corpo%20nazionale%20dei%20volontari%20ciclisti%20ed%20automobilisti.%20011U1243.md), salvo la facolta' al Governo del Re di apportare ad esso provvisoriamente, con deroga alle vigenti norme, le modificazioni che risulteranno necessarie in dipendenza del riconoscimento delle suddette nuove organizzazioni di Milizie volontarie.
 
 ## Art. 4.
 

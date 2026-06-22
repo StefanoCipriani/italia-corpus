@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il regolamento per gli esami di ammissione e di promozione nei ruoli del personale dell'Amministrazione della pubblica sicurezza, approvato con [decreto del Presidente della Repubblica 21 marzo 1953, n. 738](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20ammissione%20e%20di%20promozione%20nei%20ruoli%20del%20personale%20dellAmministrazione%20della%20pubblica%20sicurezza.md);
+Visto il regolamento per gli esami di ammissione e di promozione nei ruoli del personale dell'Amministrazione della pubblica sicurezza, approvato con [decreto del Presidente della Repubblica 21 marzo 1953, n. 738](../DPR/Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20ammissione%20e%20di%20promozione%20nei%20ruoli%20del%20personale%20dellAmministrazione%20della%20pubblica%20sicurezza.md);
 
 Ritenuta l'opportunita' di procedere alla modifica dell'art. 3 del regolamento suindicato;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per l'interno; Decreta:
 
 ## Articolo unico
 
-L'art. 3 del regolamento per gli esami di ammissione e di promozione nei ruoli del personale dell'Amministrazione della pubblica sicurezza, approvato con [decreto del Presidente della Repubblica 21 marzo 1953, n. 738](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20ammissione%20e%20di%20promozione%20nei%20ruoli%20del%20personale%20dellAmministrazione%20della%20pubblica%20sicurezza.md), e' cosi' sostituito:
+L'art. 3 del regolamento per gli esami di ammissione e di promozione nei ruoli del personale dell'Amministrazione della pubblica sicurezza, approvato con [decreto del Presidente della Repubblica 21 marzo 1953, n. 738](../DPR/Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20ammissione%20e%20di%20promozione%20nei%20ruoli%20del%20personale%20dellAmministrazione%20della%20pubblica%20sicurezza.md), e' cosi' sostituito:
  "Per l'ammissione ai concorsi per vice commissario in prova nel ruolo della carriera direttiva dell'Amministrazione della pubblica sicurezza i titoli di studio validi sono la laurea in giurisprudenza, o in scienze politiche, oppure in economia e commercio".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

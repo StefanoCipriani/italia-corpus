@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 24 del R. decreto 18 giugno 1914, numero 700](../Regi%20decreti/Riguardante%20listituzione%20di%20enti%20edilizi%20a%20Messina%20ed%20a%20Reggio%20Calabria%20ed%20altre%20disposizioni%20dirette%20ad%20agevolare%20il%20risorgimento%20dei%20centri%20abitali%20distrutti%20dal%20terremoto%20del%2028%20dicemb_94afd2536c85.md);
+Visto l'[art. 24 del R. decreto 18 giugno 1914, numero 700](Riguardante%20listituzione%20di%20enti%20edilizi%20a%20Messina%20ed%20a%20Reggio%20Calabria%20ed%20altre%20disposizioni%20dirette%20ad%20agevolare%20il%20risorgimento%20dei%20centri%20abitali%20distrutti%20dal%20terremoto%20del%2028%20dicemb_94afd2536c85.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro, di concerto col p
 
 ## Art. 1.
 
-Fermo restando in ogni altra sua parte il disposto con l'[art. 24 del R. decreto 18 giugno 1914, n. 700](../Regi%20decreti/Riguardante%20listituzione%20di%20enti%20edilizi%20a%20Messina%20ed%20a%20Reggio%20Calabria%20ed%20altre%20disposizioni%20dirette%20ad%20agevolare%20il%20risorgimento%20dei%20centri%20abitali%20distrutti%20dal%20terremoto%20del%2028%20dicemb_94afd2536c85.md), il trasporto nel bilancio del Ministero del tesoro dei fondi stanziati nel bilancio del Ministero dei lavori pubblici per la costruzione in Messina e in Reggio Calabria di case ad uso degli impiegati dello Stato, sara' effettuato a decorrere dal 1° luglio 1915.
+Fermo restando in ogni altra sua parte il disposto con l'[art. 24 del R. decreto 18 giugno 1914, n. 700](Riguardante%20listituzione%20di%20enti%20edilizi%20a%20Messina%20ed%20a%20Reggio%20Calabria%20ed%20altre%20disposizioni%20dirette%20ad%20agevolare%20il%20risorgimento%20dei%20centri%20abitali%20distrutti%20dal%20terremoto%20del%2028%20dicemb_94afd2536c85.md), il trasporto nel bilancio del Ministero del tesoro dei fondi stanziati nel bilancio del Ministero dei lavori pubblici per la costruzione in Messina e in Reggio Calabria di case ad uso degli impiegati dello Stato, sara' effettuato a decorrere dal 1° luglio 1915.
 
 ## Art. 2.
 

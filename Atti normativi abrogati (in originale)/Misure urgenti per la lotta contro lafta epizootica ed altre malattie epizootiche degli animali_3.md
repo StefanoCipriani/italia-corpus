@@ -38,7 +38,7 @@ Quando sia necessario, per impedire la diffusione della malattia, il Ministro de
 
 3.
 
-Nei casi di altre malattie per le quali; ai sensi degli articoli 1 e 2 del vigente regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), e' previsto l'obbligo della denuncia, il Ministro della sanita', quando sia necessario per impedire la diffusione della malattia, stabilisce che gli animali infetti o sospetti di infezione o di contaminazione siano abbattuti ed eventualmente distrutti alle condizioni e secondo le modalita' che saranno stabilite con decreto ministeriale.
+Nei casi di altre malattie per le quali; ai sensi degli articoli 1 e 2 del vigente regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e' previsto l'obbligo della denuncia, il Ministro della sanita', quando sia necessario per impedire la diffusione della malattia, stabilisce che gli animali infetti o sospetti di infezione o di contaminazione siano abbattuti ed eventualmente distrutti alle condizioni e secondo le modalita' che saranno stabilite con decreto ministeriale.
 
 4.
 
@@ -58,7 +58,7 @@ In caso di abbattimento nei posti di confine di animali infetti o sospetti di in
 
 8.
 
-L'indennita' non e' concessa a coloro che contravvengono alle disposizioni previste dall'[articolo 264 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), dal presente decreto e dal regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md).
+L'indennita' non e' concessa a coloro che contravvengono alle disposizioni previste dall'[articolo 264 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), dal presente decreto e dal regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md).
 In tali casi l'indennita', ove competa, viene corrisposta soltanto a conclusione favorevole del procedimento di irrogazione della sanzione amministrativa. Per l'accertamento delle infrazioni e per l'applicazione delle sanzioni amministrative pecuniarie previste dal presente decreto si applicano le disposizioni, di cui alla [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), e le relative norme di attuazione.
 
 9.
@@ -105,7 +105,7 @@ Chiunque contravvenga all'ordine di abbattimento dell'animale, impartito ai sens
 
 3.
 
-Fuori dei casi previsti dal comma 1, i contravventori alle disposizioni del regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), sono soggetti a sanzione amministrativa pecuniaria, da lire cinquecentomila a lire duemilionicinquecentomila.
+Fuori dei casi previsti dal comma 1, i contravventori alle disposizioni del regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), sono soggetti a sanzione amministrativa pecuniaria, da lire cinquecentomila a lire duemilionicinquecentomila.
 
 4.
 

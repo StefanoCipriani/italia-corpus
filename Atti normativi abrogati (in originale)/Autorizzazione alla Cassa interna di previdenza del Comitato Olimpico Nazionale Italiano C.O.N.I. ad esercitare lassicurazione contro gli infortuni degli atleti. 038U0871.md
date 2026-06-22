@@ -18,9 +18,9 @@ IMPERATORE D'ETIOPIA
 
 Visto il [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e le successive disposizioni modificative ed integrative, concernenti l'esercizio delle assicurazioni private;
 
-Visto il regolamento per l'esecuzione del predetto Regio decreto-legge, approvato con [R. decreto 4 gennaio 1925, n. 63](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md);
+Visto il regolamento per l'esecuzione del predetto Regio decreto-legge, approvato con [R. decreto 4 gennaio 1925, n. 63](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 3281](../Regi%20decreti/Approvazione%20del%20testo%20della%20legge%20tributaria%20sulle%20assicurazioni.%20023U3281.md), che approva il testo di legge tributaria sulle assicurazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 3281](Approvazione%20del%20testo%20della%20legge%20tributaria%20sulle%20assicurazioni.%20023U3281.md), che approva il testo di legge tributaria sulle assicurazioni;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -40,7 +40,7 @@ La predetta Cassa interna di previdenza e' esonerata dall'obbligo di possedere i
 
 ## Art. 3.
 
-La Cassa stessa e' altresi' esentata dal pagamento delle tasse stabilite dal testo di legge tributaria sulle assicurazioni approvato con [R. decreto 30 dicembre 1923, n. 3281](../Regi%20decreti/Approvazione%20del%20testo%20della%20legge%20tributaria%20sulle%20assicurazioni.%20023U3281.md).
+La Cassa stessa e' altresi' esentata dal pagamento delle tasse stabilite dal testo di legge tributaria sulle assicurazioni approvato con [R. decreto 30 dicembre 1923, n. 3281](Approvazione%20del%20testo%20della%20legge%20tributaria%20sulle%20assicurazioni.%20023U3281.md).
 
 ## Art. 4.
 

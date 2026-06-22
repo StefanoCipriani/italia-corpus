@@ -18,7 +18,7 @@ Le questioni che, a termine delle disposizioni vigenti in materia, dovevano o po
 
 ## Art. 3.
 
-Al Comitato permanente del Consiglio superiore della marina mercantile, di cui all'[art. 4 del R. decreto 23 febbraio 1913, n. 165](../Regi%20decreti/Col%20quale%20viene%20modificata%20la%20composizione%20del%20Consiglio%20superiore%20della%20marina%20mercantile.%20013U0165.md), e' aggiunto l'ispettore generale dei servizi marittimi.
+Al Comitato permanente del Consiglio superiore della marina mercantile, di cui all'[art. 4 del R. decreto 23 febbraio 1913, n. 165](Col%20quale%20viene%20modificata%20la%20composizione%20del%20Consiglio%20superiore%20della%20marina%20mercantile.%20013U0165.md), e' aggiunto l'ispettore generale dei servizi marittimi.
 
 ## Art. 4.
 

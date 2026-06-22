@@ -36,7 +36,7 @@ E' approvata l'eccedenza d'impegni per lire 9,635,61, verificatasi sull'assegnaz
 
 ## Art. 5.
 
-E' approvata l'eccedenza d'impegni per lire 133,517, verificatasi sull'assegnazione del capitolo n. 25 «Regie Universita' ed altri Istituti universitari - Personale (Spese fisse) - Stipendi, assegni e retribuzioni per incarichi e supplenza a posti vacanti. Assegni e compensi al personale straordinario, indennita' e retribuzioni per eventuali servizi straordinari - Propine in supplemento della sopratassa di esame ([R. decreto 26 ottobre 1890, n. 7337](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20universitario.%20090U7337.md), serie 3ª)» dello stato di previsione della spesa del Ministero dell'Istruzione Pubblica per l'esercizio finanziario 1898-99.
+E' approvata l'eccedenza d'impegni per lire 133,517, verificatasi sull'assegnazione del capitolo n. 25 «Regie Universita' ed altri Istituti universitari - Personale (Spese fisse) - Stipendi, assegni e retribuzioni per incarichi e supplenza a posti vacanti. Assegni e compensi al personale straordinario, indennita' e retribuzioni per eventuali servizi straordinari - Propine in supplemento della sopratassa di esame ([R. decreto 26 ottobre 1890, n. 7337](Che%20approva%20lannesso%20regolamento%20universitario.%20090U7337.md), serie 3ª)» dello stato di previsione della spesa del Ministero dell'Istruzione Pubblica per l'esercizio finanziario 1898-99.
 
 ## Art. 6.
 

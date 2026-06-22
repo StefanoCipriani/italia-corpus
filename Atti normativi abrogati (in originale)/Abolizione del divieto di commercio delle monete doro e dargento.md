@@ -23,7 +23,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 ## Art. 1.
 
 L'[art. 2 del decreto legislativo luogotenenziale 26 aprile 1946, n. 343](Revoca%20delle%20disposizioni%20contenute%20nel%20R.%20Decreto-legge%203%20settembre%201941%20n.%20882%20e%20nel%20R.%20decreto%2017%20ottobre%201941%20n.%201330%20relativi%20al%20divieto%20di%20alienazione%20del%20platino%20oro%20argento%20perle%20_1c9991dfe6c6.md), e' abrogato.
- Per i fatti commessi prima dell'entrata in vigore del presente decreto, si applica l'[art. 2, comma secondo, del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Per i fatti commessi prima dell'entrata in vigore del presente decreto, si applica l'[art. 2, comma secondo, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 

@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R decreto 17 dicembre 1922, n. 1763](../Regi%20decreti/Contenente%20disposizioni%20per%20lesercizio%20della%20navigazione%20sovvenzionata.%20022U1763.md), concernente l'esercizio della navigazione sovvenzionata;
+Visto il [R decreto 17 dicembre 1922, n. 1763](Contenente%20disposizioni%20per%20lesercizio%20della%20navigazione%20sovvenzionata.%20022U1763.md), concernente l'esercizio della navigazione sovvenzionata;
 
 Udito il Consiglio dei ministri;
 

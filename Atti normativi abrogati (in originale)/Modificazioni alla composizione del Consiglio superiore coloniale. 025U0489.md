@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 31 dicembre 1922, n. 1817](../Regi%20decreti/Che%20sopprime%20il%20Consiglio%20coloniale%20ed%20il%20Comitato%20superiore%20amministrativo%20ed%20istituisce%20in%20loro%20vece%20presso%20il%20Ministero%20delle%20colonie%20a%20decorrere%20dal%201%20gennaio%201923%20un%20Consiglio%20superi_8b0dfe5c5347.md), e [31 dicembre 1923, n. 3285](../Regi%20decreti/Modificazione%20al%20R.%20decreto%2031%20dicembre%201922%20n.%201817%20sulla%20istituzione%20del%20Consiglio%20superiore%20coloniale.%20023U3285.md), relativi alla istituzione ed alla composizione del Consiglio superiore coloniale;
+Visti i [Regi decreti 31 dicembre 1922, n. 1817](Che%20sopprime%20il%20Consiglio%20coloniale%20ed%20il%20Comitato%20superiore%20amministrativo%20ed%20istituisce%20in%20loro%20vece%20presso%20il%20Ministero%20delle%20colonie%20a%20decorrere%20dal%201%20gennaio%201923%20un%20Consiglio%20superi_8b0dfe5c5347.md), e [31 dicembre 1923, n. 3285](Modificazione%20al%20R.%20decreto%2031%20dicembre%201922%20n.%201817%20sulla%20istituzione%20del%20Consiglio%20superiore%20coloniale.%20023U3285.md), relativi alla istituzione ed alla composizione del Consiglio superiore coloniale;
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le colonie, di concer
 
 ## Art. 1.
 
-Al primo capoverso dell'[art. 2 del R. decreto 31 dicembre 1922, n. 1817](../Regi%20decreti/Che%20sopprime%20il%20Consiglio%20coloniale%20ed%20il%20Comitato%20superiore%20amministrativo%20ed%20istituisce%20in%20loro%20vece%20presso%20il%20Ministero%20delle%20colonie%20a%20decorrere%20dal%201%20gennaio%201923%20un%20Consiglio%20superi_8b0dfe5c5347.md), modificato con l'articolo unico del [R. decreto 31 dicembre 1923, n. 3285](../Regi%20decreti/Modificazione%20al%20R.%20decreto%2031%20dicembre%201922%20n.%201817%20sulla%20istituzione%20del%20Consiglio%20superiore%20coloniale.%20023U3285.md), e' sostituito il seguente: 
+Al primo capoverso dell'[art. 2 del R. decreto 31 dicembre 1922, n. 1817](Che%20sopprime%20il%20Consiglio%20coloniale%20ed%20il%20Comitato%20superiore%20amministrativo%20ed%20istituisce%20in%20loro%20vece%20presso%20il%20Ministero%20delle%20colonie%20a%20decorrere%20dal%201%20gennaio%201923%20un%20Consiglio%20superi_8b0dfe5c5347.md), modificato con l'articolo unico del [R. decreto 31 dicembre 1923, n. 3285](Modificazione%20al%20R.%20decreto%2031%20dicembre%201922%20n.%201817%20sulla%20istituzione%20del%20Consiglio%20superiore%20coloniale.%20023U3285.md), e' sostituito il seguente: 
  
  Il Consiglio superiore coloniale e' cosi' composto: 
  

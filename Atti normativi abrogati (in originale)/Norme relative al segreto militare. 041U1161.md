@@ -44,7 +44,7 @@ Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro Segretario di S
 
 (Notizie di cui e' vietata la divulgazione). 
  
- E' vietata, ai sensi e per gli effetti degli articoli 256, secondo capoverso, 258 e 262 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e per la parte che concerne le Amministrazioni militari e gli Enti statali preposti alla vigilanza della produzione industriale bellica, la divulgazione, all'interno e all'estero, delle notizie indicate nell'allegato al presente decreto. 
+ E' vietata, ai sensi e per gli effetti degli articoli 256, secondo capoverso, 258 e 262 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e per la parte che concerne le Amministrazioni militari e gli Enti statali preposti alla vigilanza della produzione industriale bellica, la divulgazione, all'interno e all'estero, delle notizie indicate nell'allegato al presente decreto. 
  
  Mediante separati provvedimenti da portarsi a conoscenza del pubblico ed anche con semplice diffida agli interessati qualora il divieto debba imporsi soltanto a determinati enti e persone, l'autorita' competente puo' estendere il divieto di divulgazione anche a notizie non indicate nell'allegato.
 

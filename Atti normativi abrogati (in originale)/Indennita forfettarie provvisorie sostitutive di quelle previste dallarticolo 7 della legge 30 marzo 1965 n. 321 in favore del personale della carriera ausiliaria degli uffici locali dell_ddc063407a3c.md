@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 A decorrere dal 1 gennaio 1970, gli agenti della carriera ausiliaria degli uffici locali dell'Amministrazione delle poste e delle telecomunicazioni possono essere autorizzati a domanda, per esigenze di servizio, a far uso di mezzo motorizzato di loro proprieta', purche' abbiano contratto idonea assicurazione per responsabilita' civile, secondo i criteri che saranno stabiliti dall'amministrazione stessa, con titolo ad una indennita' forfettaria di lire trecento per ogni giornata di effettivo servizio, per gli oneri a carico dell'agente derivanti dall'impiego ed uso del proprio mezzo e per la guida di esso, qualunque sia la lunghezza del percorso.
- Per la responsabilita' verso terzi si applicano le disposizioni dell'ultimo comma dell'[articolo 22 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ Per la responsabilita' verso terzi si applicano le disposizioni dell'ultimo comma dell'[articolo 22 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
  L'amministrazione puo' autorizzare, in luogo del mezzo motorizzato, l'uso della bicicletta di proprieta' del dipendente corrispondendo, in tal caso, un'indennita' di lire cento per ogni giornata di effettivo servizio.
  Il rilascio delle autorizzazioni non deve comunque comportare una spesa superiore a lire 620 milioni per l'anno finanziario 1970 e a lire 1.308 milioni per gli anni finanziari successivi.
 

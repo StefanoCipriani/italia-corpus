@@ -22,7 +22,7 @@ UMBERTO I
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto del 20 settembre 1899, n. 372](../Regi%20decreti/Contenente%20disposizioni%20speciali%20per%20la%20leva%20di%20terra%20sui%20nati%20nel%201879.%20099U0372.md), contenente disposizioni per la leva sui nati nel 1879. 
+ E' convertito in legge il [R. decreto del 20 settembre 1899, n. 372](Contenente%20disposizioni%20speciali%20per%20la%20leva%20di%20terra%20sui%20nati%20nel%201879.%20099U0372.md), contenente disposizioni per la leva sui nati nel 1879. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

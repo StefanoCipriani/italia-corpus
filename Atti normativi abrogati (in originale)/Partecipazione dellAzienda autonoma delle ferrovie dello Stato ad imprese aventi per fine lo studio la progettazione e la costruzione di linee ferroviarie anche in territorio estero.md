@@ -22,12 +22,12 @@ Sulla proposta del Ministro per i trasporti di concerto con i Ministri per il te
 
 ## Art. 1.
 
-All'[art. 1 del regio decreto 13 maggio 1929, n. 836](../Regi%20decreti/Partecipazione%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato%20ad%20imprese%20aventi%20per%20fine%20lacquisizione%20e%20lincremento%20dei%20trasporti%20per%20ferrovia%20e%20lesercizio%20dei%20servizi%20complementari%20ed%20a_f6f195412f41.md), e' aggiunto il seguente comma:
+All'[art. 1 del regio decreto 13 maggio 1929, n. 836](Partecipazione%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato%20ad%20imprese%20aventi%20per%20fine%20lacquisizione%20e%20lincremento%20dei%20trasporti%20per%20ferrovia%20e%20lesercizio%20dei%20servizi%20complementari%20ed%20a_f6f195412f41.md), e' aggiunto il seguente comma:
  "L'Amministrazione delle ferrovie dello Stato puo' essere autorizzata, con decreto del Ministro per i trasporti di concerto con il Ministro per il tesoro, a partecipare a societa' per azioni con sede in Italia ed aventi per fine lo studio, la progettazione, la costruzione e la temporanea gestione, nella fase di avviamento, di linee ferroviarie in territorio estero".
 
 ## Art. 2.
 
-Al [regio decreto 13 maggio 1929, n. 836](../Regi%20decreti/Partecipazione%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato%20ad%20imprese%20aventi%20per%20fine%20lacquisizione%20e%20lincremento%20dei%20trasporti%20per%20ferrovia%20e%20lesercizio%20dei%20servizi%20complementari%20ed%20a_f6f195412f41.md), e' aggiunto il seguente art. 3:
+Al [regio decreto 13 maggio 1929, n. 836](Partecipazione%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato%20ad%20imprese%20aventi%20per%20fine%20lacquisizione%20e%20lincremento%20dei%20trasporti%20per%20ferrovia%20e%20lesercizio%20dei%20servizi%20complementari%20ed%20a_f6f195412f41.md), e' aggiunto il seguente art. 3:
  "Se la societa' di cui al secondo comma del precedente articolo sia interessata ad appalti aggiudicati a seguito di gare internazionali, l'Amministrazione delle ferrovie dello Stato puo' essere autorizzata, con decreto del Ministro per i trasporti di concerto con il Ministro per il tesoro, ad utilizzare, per le finalita' menzionate nel predetto comma, anche in deroga alle norme vigenti, presso la indicata societa', proprio personale, per il tempo strettamente necessario, portando la relativa spesa a carico della societa' stessa. L'Amministrazione delle ferrovie dello Stato potra' essere altresi' autorizzata, con lo stesso decreto o con altri successivi, a fornire a titolo di locazione attrezzature e materiali".
 
 ## Art. 3.

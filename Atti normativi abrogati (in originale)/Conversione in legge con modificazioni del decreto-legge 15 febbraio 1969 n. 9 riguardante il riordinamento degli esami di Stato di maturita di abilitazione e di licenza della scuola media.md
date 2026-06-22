@@ -39,7 +39,7 @@ E' convertito in legge il [decreto-legge 15 febbraio 1969, n. 9](Riordinamento%2
  "Nelle zone dove esistono scuole in cui l'insegnamento si svolge in lingua diversa da quella italiana, le prove saranno svolte nella rispettiva lingua. Nelle scuole delle valli ladine le prove saranno svolte, a scelta dei candidati, o in lingua italiana o in lingua tedesca".
  All'articolo 5, il sesto comma e' sostituito dai seguenti:
  "I temi relativi alle prove scritte sono inviati dal Ministero.
-Qualora i temi non giungano tempestivamente a destinazione, i temi stessi sono proposti e scelti dalla commissione giudicatrice secondo le modalita' previste per gli esami dall'[articolo 85 del regio decreto 4 maggio 1925, n. 653](../Regi%20decreti/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md).
+Qualora i temi non giungano tempestivamente a destinazione, i temi stessi sono proposti e scelti dalla commissione giudicatrice secondo le modalita' previste per gli esami dall'[articolo 85 del regio decreto 4 maggio 1925, n. 653](Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md).
  Per le scuole con lingua di insegnamento diversa da quella italiana il Ministero provvedera' alla traduzione nelle rispettive lingue di insegnamento dei temi proposti".
  All'articolo 5, l'ultimo comma e' sostituito dal seguente:
  "La valutazione degli elaborati viene effettuata collegialmente".

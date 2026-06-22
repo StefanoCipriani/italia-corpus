@@ -22,7 +22,7 @@ Per l'esercizio finanziario 1926-27 gli stanziamenti dei capitoli nn. 30, 60, 12
 
 ## Art. 4.
 
-Per l'esercizio finanziario 1926-27 l'assegnazione di lire 5,000,000 prevista dall'art. 2 del testo unico delle leggi sui consorzi ed opere di irrigazione, approvato con [R. decreto 2 ottobre 1922, n. 1747](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sui%20Consorzi%20ed%20opere%20di%20irrigazione.%20022U1747.md),e' stabilita nella, somma. di L. 3,000,000.
+Per l'esercizio finanziario 1926-27 l'assegnazione di lire 5,000,000 prevista dall'art. 2 del testo unico delle leggi sui consorzi ed opere di irrigazione, approvato con [R. decreto 2 ottobre 1922, n. 1747](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sui%20Consorzi%20ed%20opere%20di%20irrigazione.%20022U1747.md),e' stabilita nella, somma. di L. 3,000,000.
 
 ## Art. 5.
 

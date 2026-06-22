@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Per le espropriazioni previste dal [decreto legislativo 11 marzo 1948, n. 409](Sistemazione%20delle%20opere%20permanenti%20di%20protezione%20antiaerea%20gia%20costruite%20direttamente%20dallo%20Stato%20o%20a%20mezzo%20di%20enti%20locali.md), ratificato con [legge 22 aprile 1953, n. 342](../Leggi%20di%20ratifica/Ratifica%20di%20decreti%20legislativi%20concernenti%20il%20Ministero%20dellinterno%20emanati%20dal%20Governo%20durante%20il%20periodo%20dellAssemblea%20Costituente.md), l'indennita' e' determinata dall'Ufficio del Genio civile in base al valore venale dell'immobile al momento dell'avvenuta occupazione, moltiplicato per il coefficiente dieci.
+Per le espropriazioni previste dal [decreto legislativo 11 marzo 1948, n. 409](Sistemazione%20delle%20opere%20permanenti%20di%20protezione%20antiaerea%20gia%20costruite%20direttamente%20dallo%20Stato%20o%20a%20mezzo%20di%20enti%20locali.md), ratificato con [legge 22 aprile 1953, n. 342](../DL%20e%20leggi%20di%20conversione/Ratifica%20di%20decreti%20legislativi%20concernenti%20il%20Ministero%20dellinterno%20emanati%20dal%20Governo%20durante%20il%20periodo%20dellAssemblea%20Costituente.md), l'indennita' e' determinata dall'Ufficio del Genio civile in base al valore venale dell'immobile al momento dell'avvenuta occupazione, moltiplicato per il coefficiente dieci.
  Sulla somma dovuta come indennita' ai sensi del comma precedente, devono corrispondersi al proprietario dell'immobile espropriato, dalla data dell'avvenuta occupazione, gli interessi nella misura legale.
  Le stesse disposizioni si applicano per gli eventuali danni o diminuzioni di diritti derivanti dall'occupazione del sottosuolo.
 

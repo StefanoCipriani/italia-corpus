@@ -14,7 +14,7 @@ Il credito a favore della pesca marittima e di quella nelle acque interne, delle
 
 ## Art. 2.
 
-Il credito di impianto e di miglioramento e' quello diretto alla esecuzione delle opere indicate nell'art. 45 del testo unico delle leggi sulla pesca, approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md). 
+Il credito di impianto e di miglioramento e' quello diretto alla esecuzione delle opere indicate nell'art. 45 del testo unico delle leggi sulla pesca, approvato con [R. decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md). 
  
  Il credito di esercizio e' quello destinato a sostenere le ordinarie esigenze delle aziende.
 
@@ -44,7 +44,7 @@ Le decisioni sulle singole operazioni di credito peschereccio proposte alla Banc
 
 Il Ministero dell'agricoltura e delle foreste versera' alla Banca nazionale del lavoro i seguenti contributi: 
  
- a) L. 600.000 a carico delle rimanenze degli stanziamenti inscritti a tutto il 30 giugno 1934 nel bilancio del Ministero dell'agricoltura e delle foreste, ai sensi dell'art. 93 del testo unico delle leggi sulla pesca, approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e con imputazione al relativo capitolo n. 79 del predetto bilancio per l'esercizio finanziario 1934-35; 
+ a) L. 600.000 a carico delle rimanenze degli stanziamenti inscritti a tutto il 30 giugno 1934 nel bilancio del Ministero dell'agricoltura e delle foreste, ai sensi dell'art. 93 del testo unico delle leggi sulla pesca, approvato con [R. decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e con imputazione al relativo capitolo n. 79 del predetto bilancio per l'esercizio finanziario 1934-35; 
  
  b) L. 260.000 per l'esercizio 1935-36; L. 300.000 per l'esercizio 1936-37 e L. 380.000 per l'esercizio 1937-38 al 1954-55 a carico delle autorizzazioni di spesa di cui all'art. 93 del testo unico delle leggi sulla pesca. 
  

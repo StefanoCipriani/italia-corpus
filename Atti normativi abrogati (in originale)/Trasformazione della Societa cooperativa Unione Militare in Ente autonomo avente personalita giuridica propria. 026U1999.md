@@ -30,7 +30,7 @@ La Societa' cooperativa «Unione Militare» con sede in Roma e' trasformata in E
  
  Detto Ente e' sottoposto alla vigilanza del Ministro della guerra, il quale la esercita di concerto col Ministro per la economia nazionale. 
  
- Al nuovo Ente si applica l'[art. 3 del R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md).
+ Al nuovo Ente si applica l'[art. 3 del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md).
 
 ## Art. 2.
 

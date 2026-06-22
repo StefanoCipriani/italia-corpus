@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il deposito prescritto dall'[art. 521 del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_521), modificato con l'[art. 7 del R. decreto 2 dicembre 1923, n. 2618](../Regi%20decreti/Modificazioni%20allordinamento%20della%20Corte%20di%20cassazione%20del%20Regno%20ed%20aumento%20del%20deposito%20per%20il%20ricorso%20in%20Cassazione.%20023U2618.md), e' elevato per i ricorsi notificati a decorrere dal 1° aprile 1933, alla somma di L. 600 se la sentenza impugnata sia di Corte di appello, di L. 300 se la sentenza, sia di tribunale, e di L. 150 se la sentenza sia di pretore. 
+ Il deposito prescritto dall'[art. 521 del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_521), modificato con l'[art. 7 del R. decreto 2 dicembre 1923, n. 2618](Modificazioni%20allordinamento%20della%20Corte%20di%20cassazione%20del%20Regno%20ed%20aumento%20del%20deposito%20per%20il%20ricorso%20in%20Cassazione.%20023U2618.md), e' elevato per i ricorsi notificati a decorrere dal 1° aprile 1933, alla somma di L. 600 se la sentenza impugnata sia di Corte di appello, di L. 300 se la sentenza, sia di tribunale, e di L. 150 se la sentenza sia di pretore. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

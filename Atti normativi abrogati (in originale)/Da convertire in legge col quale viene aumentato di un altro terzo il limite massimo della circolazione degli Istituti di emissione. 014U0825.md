@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Con decorrenza da oggi e sino a nuova disposizione, il limite massimo normale della circolazione degl'Istituti di emissione, di che all'art. 6 del testo unico di legge sugli Istituti stessi, approvato col [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), e' ulteriormente aumentato di un terzo per ciascuno dei tre Istituti. 
+Con decorrenza da oggi e sino a nuova disposizione, il limite massimo normale della circolazione degl'Istituti di emissione, di che all'art. 6 del testo unico di legge sugli Istituti stessi, approvato col [R. decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), e' ulteriormente aumentato di un terzo per ciascuno dei tre Istituti. 
  
  Su tale supplemento di circolazione gl'Istituti di emissione corrisponderanno al tesoro il contributo dell'uno per cento in ragione di anno.
 

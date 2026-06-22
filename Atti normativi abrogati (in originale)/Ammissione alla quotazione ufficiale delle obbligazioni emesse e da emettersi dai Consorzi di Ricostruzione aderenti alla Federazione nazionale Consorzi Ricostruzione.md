@@ -16,7 +16,7 @@ Visto il [regio decreto-legge 7 marzo 1925, n. 222](Riordinamento%20per%20le%20B
 
 Visto il [regio decreto-legge 29 luglio 1925, n. 1261](Passaggio%20delle%20attribuzioni%20concernenti%20le%20Borse%20valori%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20delle%20finanze.%20025U1261.md);
 
-Ritenuta la opportunita' di consentire la quotazione in Borsa dei titoli emessi e da emettersi dai Consorzi di Ricostruzione, costituiti ai sensi del [decreto legislativo luogotenenziale 9 giugno 1945, n. 305](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20seguito%20ad%20eventi%20bellici.%20045U0305.md);
+Ritenuta la opportunita' di consentire la quotazione in Borsa dei titoli emessi e da emettersi dai Consorzi di Ricostruzione, costituiti ai sensi del [decreto legislativo luogotenenziale 9 giugno 1945, n. 305](Testo%20unico%20delle%20disposizioni%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20seguito%20ad%20eventi%20bellici.%20045U0305.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

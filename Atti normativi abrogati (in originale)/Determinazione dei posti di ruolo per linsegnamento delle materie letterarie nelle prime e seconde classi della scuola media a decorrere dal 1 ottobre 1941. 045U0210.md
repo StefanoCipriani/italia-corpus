@@ -20,7 +20,7 @@ UMBERTO DI SAVOIA
  Considerato che per la direzione di dette classi e per l'insegnamento della matematica e del disegno nelle medesime si deve provvedere a norma degli articoli 24 e 25 della legge citata; 
  Considerato che i posti di ruolo per l'insegnamento delle materie letterarie nelle prime e seconde classi della scuola media possono fissarsi dall'anno scolastica 1941-42, perche' ad ogni classe corrisponde un posto di ruolo; 
  Riconosciuta, pertanto, la necessita' di stabilire i posti di ruolo per l'insegnamento delle materie letterarie nelle suddette scuole; 
- Veduto il [R. decreto 28 maggio 1942, n. 1325](../Regi%20decreti/Determinazione%20dei%20posti%20di%20ruolo%20per%20linsegnamento%20delle%20materie%20letterarie%20nelle%20prime%20classi%20della%20scuola%20media.%20042U1325.md), per effetto del quale sono stati determinati i posti di ruolo per l'insegnamento delle materie letterarie della scuola media; 
+ Veduto il [R. decreto 28 maggio 1942, n. 1325](Determinazione%20dei%20posti%20di%20ruolo%20per%20linsegnamento%20delle%20materie%20letterarie%20nelle%20prime%20classi%20della%20scuola%20media.%20042U1325.md), per effetto del quale sono stati determinati i posti di ruolo per l'insegnamento delle materie letterarie della scuola media; 
  Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro; 
  
  Abbiamo decretato e decretiamo: 

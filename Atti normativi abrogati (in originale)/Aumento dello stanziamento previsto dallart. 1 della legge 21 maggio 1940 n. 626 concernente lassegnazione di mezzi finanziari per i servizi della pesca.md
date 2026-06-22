@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 21 maggio 1940, n. 626](Assegnazione%20di%20mezzi%20finanziari%20al%20Commissariato%20generale%20per%20la%20pesca.%20040U0626.md), concernente l'assegnazione di mezzi finanziari per i servizi della pesca;
 
-Visto il [decreto legislativo luogotenenziale 21 settembre 1944, n. 251](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Commissariato%20generale%20per%20la%20pesca%20e%20devoluzione%20delle%20relative%20attribuzioni%20al%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20044U0251.md), concernente il trasferimento dei servizi del Commissariato generale per la pesca al Ministero dell'agricoltura, e delle foreste;
+Visto il [decreto legislativo luogotenenziale 21 settembre 1944, n. 251](Soppressione%20del%20Commissariato%20generale%20per%20la%20pesca%20e%20devoluzione%20delle%20relative%20attribuzioni%20al%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20044U0251.md), concernente il trasferimento dei servizi del Commissariato generale per la pesca al Ministero dell'agricoltura, e delle foreste;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 24 ottobre 1946, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-24;413), recante modificazione all'[art. 1 della legge 21 maggio 1940, n. 626](Assegnazione%20di%20mezzi%20finanziari%20al%20Commissariato%20generale%20per%20la%20pesca.%20040U0626.md);
 

@@ -106,7 +106,7 @@ Nessun cittadino italiano, soggetto all'obbligo della leva aeronautica, puo' ess
 
 ### Art. 14. — Esclusi dal servizio militare nella Regia aeronautica.
 
-Sono esclusi dal servizio militare e non possono far parte della Regia aeronautica coloro che, in applicazione del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune, sono incorsi nell'interdizione perpetua dai pubblici uffici, anche in base a sentenza penale straniera, alla quale sia stato dato riconoscimento nello Stato, nonche' i condannati a pene infamanti a norma dei Codici penali militari.
+Sono esclusi dal servizio militare e non possono far parte della Regia aeronautica coloro che, in applicazione del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune, sono incorsi nell'interdizione perpetua dai pubblici uffici, anche in base a sentenza penale straniera, alla quale sia stato dato riconoscimento nello Stato, nonche' i condannati a pene infamanti a norma dei Codici penali militari.
 
 ### Art. 15. — Arruolamento degli idonei.
 
@@ -632,7 +632,7 @@ I titoli all'eventuale congedo anticipato possono essere utilmente comprovati si
 
 L'ammissione all'eventuale congedo anticipato nel caso di cui al n. 2 dell'art. 63 e' soggetta a revocazione fino al normale congedamento dei militari della classe cui appartiene l'iscritto, se per qualsiasi motivo il fratello o i fratelli non compiano la ferma cui sono vincolati. 
  
- Entro lo stesso termine e' soggetta a revocazione l'ammissione all'eventuale congedo anticipato pronunciata in favore di un militare che sia incorso nelle sanzioni penali di cui all'[art. 7 del R. decreto 31 dicembre 1923, n. 3224](../Regi%20decreti/Obbligatorieta%20di%20frequenza%20dei%20corsi%20allievi%20ufficiali%20di%20complemento.%20023U3224.md).
+ Entro lo stesso termine e' soggetta a revocazione l'ammissione all'eventuale congedo anticipato pronunciata in favore di un militare che sia incorso nelle sanzioni penali di cui all'[art. 7 del R. decreto 31 dicembre 1923, n. 3224](Obbligatorieta%20di%20frequenza%20dei%20corsi%20allievi%20ufficiali%20di%20complemento.%20023U3224.md).
 
 ### Art. 73.
 
@@ -775,7 +775,7 @@ Chiunque abbia scientemente nascosto o ammesso al suo servizio un renitente e' p
 
 ### Art. 94. — Pene per i disertori e per i favoreggiatori dei disertori.
 
-I disertori ed i favoreggiatori dei disertori incorrono nelle pene previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare.
+I disertori ed i favoreggiatori dei disertori incorrono nelle pene previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare.
 
 ### Art. 95. — Pene per i mancanti ai richiami per istruzione.
 
@@ -809,7 +809,7 @@ I colpevoli di fraudolenta sostituzione di persona sono puniti con la reclusione
 
 ### Art. 102.
 
-Gli iscritti di leva che al fine di sottrarsi permanentemente o temporaneamente all'obbligo del servizio militare o ad un particolare servizio in un Corpo, in un'Arma od in una specialita', commettano alcuno dei reati previsti dagli [articoli 174](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [174-septies del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e dall'[articolo 4 del Regio decreto-legge 9 dicembre 1935, n. 2447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-12-09;2447#art_4) (convalidato con la legge 28 maggio 1936-XIV, n. 1243); i pubblici ufficiali e gli esercenti una professione sanitaria che concorrono con gli iscritti di leva a commettere alcuni dei reati suindicati, e le persone indicate nel capoverso dell'art. 4 del predetto Regio decreto-legge per il caso ivi preveduto, sono puniti in conformita' delle disposizioni dei detti articoli.
+Gli iscritti di leva che al fine di sottrarsi permanentemente o temporaneamente all'obbligo del servizio militare o ad un particolare servizio in un Corpo, in un'Arma od in una specialita', commettano alcuno dei reati previsti dagli [articoli 174](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [174-septies del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e dall'[articolo 4 del Regio decreto-legge 9 dicembre 1935, n. 2447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-12-09;2447#art_4) (convalidato con la legge 28 maggio 1936-XIV, n. 1243); i pubblici ufficiali e gli esercenti una professione sanitaria che concorrono con gli iscritti di leva a commettere alcuni dei reati suindicati, e le persone indicate nel capoverso dell'art. 4 del predetto Regio decreto-legge per il caso ivi preveduto, sono puniti in conformita' delle disposizioni dei detti articoli.
 
 ### Art. 103.
 
@@ -829,7 +829,7 @@ Chiunque ostacoli o tragga in inganno i comandi di centro di reclutamento e mobi
 
 ### Art. 106. — Responsabilita' dei funzionari dello Stato per azioni contrastanti con la presente legge.
 
-Ogni pubblico ufficiale, agente o impiegato dello Stato che, scientemente in opposizione al disposto della presente legge, abbia autorizzato o consentito passaggio alla leva di terra o di mare, riforma od esclusioni dal servizio militare, ovvero abbia data arbitraria estensione alle norme sulla leva aeronautica e sugli arruolamenti volontari aeronautici, e' punito come reo di abuso dei poteri inerenti alle proprie funzioni a norma del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Ogni pubblico ufficiale, agente o impiegato dello Stato che, scientemente in opposizione al disposto della presente legge, abbia autorizzato o consentito passaggio alla leva di terra o di mare, riforma od esclusioni dal servizio militare, ovvero abbia data arbitraria estensione alle norme sulla leva aeronautica e sugli arruolamenti volontari aeronautici, e' punito come reo di abuso dei poteri inerenti alle proprie funzioni a norma del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 107. — Imprescrittibilita'.
 

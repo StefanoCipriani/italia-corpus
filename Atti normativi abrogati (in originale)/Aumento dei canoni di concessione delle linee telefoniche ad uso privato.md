@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 14 giugno 1925, n. 884](Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e successive modificazioni;
+Visto il [regio decreto-legge 14 giugno 1925, n. 884](Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e successive modificazioni;
 
-Visto il Codice postale e delle telecomunicazioni ed il regolamento di esecuzione dei titoli I, II, III del Libro II del Codice stesso, approvati rispettivamente con il [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), e con il [regio decreto 19 luglio 1941, n. 1198](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md);
+Visto il Codice postale e delle telecomunicazioni ed il regolamento di esecuzione dei titoli I, II, III del Libro II del Codice stesso, approvati rispettivamente con il [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), e con il [regio decreto 19 luglio 1941, n. 1198](Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md);
 
-Visto il [decreto legislativo luogotenenziale 5 aprile 1945, n. 247](../Decreti%20legislativi%20luogotenenziali/Aumento%20delle%20tariffe%20telefoniche%20interurbane%20e%20determinazione%20dei%20giorni%20festivi%20per%20la%20loro%20riduzione.%20045U0247.md);
+Visto il [decreto legislativo luogotenenziale 5 aprile 1945, n. 247](Aumento%20delle%20tariffe%20telefoniche%20interurbane%20e%20determinazione%20dei%20giorni%20festivi%20per%20la%20loro%20riduzione.%20045U0247.md);
 
 Visto l'art. 4 del decreto-legge luogotenenziale 25 giugno 1944,
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro Segretario di Stato per le poste e per le telecomuni
 
 ## Art. 1.
 
-Il primo comma dell'art. 78 del regolamento di esecuzione dei titoli I, II e III del Libro II del Codice postale e delle telecomunicazioni, approvato con [regio decreto 19 luglio 1941, n. 1198](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md), modificato dall'[art. 4 del decreto legislativo luogotenenziale 5 aprile 1945, n. 247](../Decreti%20legislativi%20luogotenenziali/Aumento%20delle%20tariffe%20telefoniche%20interurbane%20e%20determinazione%20dei%20giorni%20festivi%20per%20la%20loro%20riduzione.%20045U0247.md), e' sostituito dal seguente:
+Il primo comma dell'art. 78 del regolamento di esecuzione dei titoli I, II e III del Libro II del Codice postale e delle telecomunicazioni, approvato con [regio decreto 19 luglio 1941, n. 1198](Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md), modificato dall'[art. 4 del decreto legislativo luogotenenziale 5 aprile 1945, n. 247](Aumento%20delle%20tariffe%20telefoniche%20interurbane%20e%20determinazione%20dei%20giorni%20festivi%20per%20la%20loro%20riduzione.%20045U0247.md), e' sostituito dal seguente:
  "Ciascun concessionario di linee telefoniche ad uso privato paghera' ogni anno allo Stato un canone di L. 2000 per ogni circuito di comunicazione fino a tre chilometri con due stazioni.
  Per ogni chilometro o frazione in piu' dei primi tre e per ogni stazione in piu' delle prime due sara' applicato un canone aggiuntivo di L. 300".
 

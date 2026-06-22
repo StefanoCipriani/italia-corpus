@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Alle Associazioni autorizzate a norma dell'[art. 92 dei R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), puo' essere attribuita con Regio decreto su proposta del Capo del Governo, Primo Ministro Segretario di Stato, di concerto col Ministro per le corporazioni, col Ministro da cui il personale associato dipende e col Ministro per le finanze, sentito il Segretario del Partito Nazionale Fascista, la capacita' di acquistare, possedere e amministrare beni, di ricevere lasciti e donazioni. 
+Alle Associazioni autorizzate a norma dell'[art. 92 dei R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), puo' essere attribuita con Regio decreto su proposta del Capo del Governo, Primo Ministro Segretario di Stato, di concerto col Ministro per le corporazioni, col Ministro da cui il personale associato dipende e col Ministro per le finanze, sentito il Segretario del Partito Nazionale Fascista, la capacita' di acquistare, possedere e amministrare beni, di ricevere lasciti e donazioni. 
  
  L'attribuzione di tale capacita' non conferisce la facolta' di stipulare contratti di lavoro. 
  

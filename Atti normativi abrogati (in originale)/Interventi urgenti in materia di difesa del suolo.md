@@ -78,7 +78,7 @@ Ferme le disposizioni della [legge 24 dicembre 1976, n. 898](Nuova%20regolamenta
 
 1.
 
-Sono di competenza delle regioni a statuto ordinario e speciale e delle province autonome di Trento e di Bolzano le attribuzioni di cui al [decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), per gli sbarramenti che non superano i 10 metri di altezza e che determinano un invaso inferiore a 100.000 mc, ad eccezione degli sbarramenti al servizio di grandi derivazioni di acque di competenza statale.
+Sono di competenza delle regioni a statuto ordinario e speciale e delle province autonome di Trento e di Bolzano le attribuzioni di cui al [decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](../DPR/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), per gli sbarramenti che non superano i 10 metri di altezza e che determinano un invaso inferiore a 100.000 mc, ad eccezione degli sbarramenti al servizio di grandi derivazioni di acque di competenza statale.
 
 2.
 

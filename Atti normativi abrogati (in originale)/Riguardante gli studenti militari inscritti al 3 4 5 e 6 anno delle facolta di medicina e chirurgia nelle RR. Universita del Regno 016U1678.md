@@ -20,7 +20,7 @@ Universita' di Padova.
 Il corso delle lezioni per gli studenti militari del 3°, 4°, 5° e 6° anno inscritti nella Facolta' di medicina e chirurgia della R.
 Universita' di Padova, giusta l'articolo precedente, incomincera' il 16 novembre 1916 e si chiudera' il 30 marzo 1917. 
  
- In relazione a questo abbreviamento del predetto corso scolastico, sono abolite, soltanto rispetto ad esse, le vacanze di cui all'art. 4 (commi 2 e 3) del regolamento generale universitario, approvato con [R. decreto 9 agosto 1910, n.796](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md).
+ In relazione a questo abbreviamento del predetto corso scolastico, sono abolite, soltanto rispetto ad esse, le vacanze di cui all'art. 4 (commi 2 e 3) del regolamento generale universitario, approvato con [R. decreto 9 agosto 1910, n.796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md).
 
 ## Art. 3.
 
@@ -56,7 +56,7 @@ Il 1° di aprile 1917 si iniziera' per tutti i corsi del 3°, 4°, 5° e 6° ann
  
  Rispetto all'esame di laurea e' data facolta' agli studenti Militari di omettere la presentazione e la discussione della tesi scritta, sostituendola, a forma del [decreto Luogotenenziale 1° ottobre 1916, n. 1402](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-01;1402), con la discussione orale di un tema che sara' assegnato dalla Commissione esaminatrice dieci giorni prima di quello fissato per l'esame. 
  
- Per la sessione di esami predetta e' consentito di derogare, circa l'ordine e la successione degli esami speciali, alle disposizioni dell'art. 9 del regolamento speciale di Facolta', approvato con [R. decreto 9 agosto 1910, n. 796](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), e modificato con [R. decreto, 10 novembre 1913, n. 1437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-11-10;1437). 
+ Per la sessione di esami predetta e' consentito di derogare, circa l'ordine e la successione degli esami speciali, alle disposizioni dell'art. 9 del regolamento speciale di Facolta', approvato con [R. decreto 9 agosto 1910, n. 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), e modificato con [R. decreto, 10 novembre 1913, n. 1437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-11-10;1437). 
  
  Le Commissioni per gli esami speciali da sostenersi in San Giorgio di Nogaro saranno composte del professore della disciplina nella sezione di Facolta' in San Giorgio di Nogaro e di due membri nominati dal rettore della Universita' di Padova, su proposta del Consiglio della Facolta' medico-chirurgica, a norma dell' art. 139 del regolamento generale universitario.
 
@@ -68,7 +68,7 @@ I professori ordinari e straordinari di altre Universita' comandati ad insegnare
 
 ## Art. 9.
 
-Por i corsi del 3°, 4°, 5° e 6° anno della Facolta' di medicina e chirurgia da svolgersi in Padova ed in San Giorgio di Nogaro, conforme al presente decreto, l'obbligo di cui all'art. 32 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e' riferibile al periodo di tempo dal 16 novembre 1916 al l° aprile, 1917; nel minimo delle cinquanta lezioni saranno pero' comprese quelle che ciascun docente avesse destinate agli esercizi pratici.
+Por i corsi del 3°, 4°, 5° e 6° anno della Facolta' di medicina e chirurgia da svolgersi in Padova ed in San Giorgio di Nogaro, conforme al presente decreto, l'obbligo di cui all'art. 32 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e' riferibile al periodo di tempo dal 16 novembre 1916 al l° aprile, 1917; nel minimo delle cinquanta lezioni saranno pero' comprese quelle che ciascun docente avesse destinate agli esercizi pratici.
 
 ## Art. 10.
 

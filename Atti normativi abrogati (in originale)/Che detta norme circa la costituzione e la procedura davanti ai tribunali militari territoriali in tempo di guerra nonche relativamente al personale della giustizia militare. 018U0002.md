@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per la durata della guerra e fino a sei mesi dopo la conclusione della pace, nei tribunali militari territoriali si applicheranno le norme dettate dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e dalle altre disposizioni legislative attualmente in vigore, con le modificazioni stabilite dagli articoli seguenti.
+Per la durata della guerra e fino a sei mesi dopo la conclusione della pace, nei tribunali militari territoriali si applicheranno le norme dettate dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e dalle altre disposizioni legislative attualmente in vigore, con le modificazioni stabilite dagli articoli seguenti.
 
 ## Della costituzione dei tribunali militari territoriali in tempo di guerra.
 
@@ -48,11 +48,11 @@ Presso ciascun tribunale vi saranno uno o piu' istruttori, un avvocato militare 
 
 ### Art. 4.
 
-Dei tribunali militari speciali, che devono costituirsi a norma degli [articoli 312](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [314](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [315 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito per giudicare gli ufficiali, fara' parte di diritto il giudice relatore del tribunale militare ordinario purche' di grado superiore a quello dell'imputato. Egli subentrera' nel posto dell'ufficiale meno elevato di grado, che avrebbe dovuto essere chiamato a comporre il tribunale secondo la tabella annessa all'[art. 312 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
+Dei tribunali militari speciali, che devono costituirsi a norma degli [articoli 312](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [314](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [315 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito per giudicare gli ufficiali, fara' parte di diritto il giudice relatore del tribunale militare ordinario purche' di grado superiore a quello dell'imputato. Egli subentrera' nel posto dell'ufficiale meno elevato di grado, che avrebbe dovuto essere chiamato a comporre il tribunale secondo la tabella annessa all'[art. 312 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
  
  Qualora il tribunale ordinario abbia piu' giudici relatori, verra' estratto a sorte, nei modi indicati nel secondo capoverso del citato art. 314, quello che dovra' partecipare al tribunale speciale. 
  
- Qualora il giudice relatore sia di grado uguale od inferiore a quello dell'accusato, il tribunale sara' formato come alla tabella annessa all'[art. 312 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito ed il giudice relatore interverra' in piu' con voto consultivo.
+ Qualora il giudice relatore sia di grado uguale od inferiore a quello dell'accusato, il tribunale sara' formato come alla tabella annessa all'[art. 312 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito ed il giudice relatore interverra' in piu' con voto consultivo.
 
 ## Delle regole di procedura avanti i tribunali militari territoriali in tempo di guerra. Sezione lª. Dell'istruttoria preliminare.
 
@@ -70,7 +70,7 @@ Ogni comandante di corpo o capo di servizio e ogni altra autorita' militare prep
 
 L'avvocato militare, quando ritenga di dover procedere, richiede l'istruttore di procedere alla istruzione. 
  
- Puo' anche procedere per citazione diretta, eccetto che si tratti di reati puniti con le pene previste nell'[art. 4 n. 1](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e nell'[art. 5 nn. 1](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [2 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
+ Puo' anche procedere per citazione diretta, eccetto che si tratti di reati puniti con le pene previste nell'[art. 4 n. 1](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e nell'[art. 5 nn. 1](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [2 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
  
  Puo' richiedere l'istruttore di procedere all'istruzione anche dopo che l'abbia richiesto di singoli atti ai fini della citazione diretta.
 
@@ -80,11 +80,11 @@ Nei procedimenti per citazione diretta, si osserveranno le norme stabilite dal [
 
 ### Art. 8.
 
-Dovendosi in dipendenza di un reato di competenza militare, procedere a visite, perquisizioni od arresti personali in case private od in qualche stabilimento civile, l'ufficiale istruttore potra' rivolgersi all'autorita' giudiziaria ordinaria, come all'[art. 363 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, oppure potra' procedervi direttamente con l'intervento dell'avvocato miniare e con l'osservanza delle norme contenute negli articoli 233, 236 del vigente [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447).
+Dovendosi in dipendenza di un reato di competenza militare, procedere a visite, perquisizioni od arresti personali in case private od in qualche stabilimento civile, l'ufficiale istruttore potra' rivolgersi all'autorita' giudiziaria ordinaria, come all'[art. 363 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, oppure potra' procedervi direttamente con l'intervento dell'avvocato miniare e con l'osservanza delle norme contenute negli articoli 233, 236 del vigente [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447).
 
 ### Art. 9.
 
-Il [n. 4 dell'art. 353 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e' modificato come segue: 
+Il [n. 4 dell'art. 353 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e' modificato come segue: 
  
  «4° Dagli ufficiali della polizia giudiziaria contemplati nell'articolo 164 del vigente [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e dai pretori».
 
@@ -92,7 +92,7 @@ Il [n. 4 dell'art. 353 del Codice penale](../Regi%20decreti/Approvazione%20del%2
 
 Compiuta l'istruzione, l'istruttore trasmette gli atti all'avvocato militare, che con le sue richieste e li restituisce all'istruttore medesimo. Questi pronunzia quindi ordinanza motivata di rinvio a giudizio o di non luogo. 
  
- Se l'ordinanza sara' difforme dalle conclusioni del pubblico ministero dovra' entro le 24 ore essere presentata per il visto all'avvocato militare; il quale, in caso di dichiarazione di non luogo, potra' nelle 24 ora successive, a pena di decadenza, proporre ricorso al tribunale supremo di guerra e marina. Il ricorso sara' ammesso solo nei casi previsti nei [numeri 1](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [2](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [4 dell'art. 431 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito.
+ Se l'ordinanza sara' difforme dalle conclusioni del pubblico ministero dovra' entro le 24 ore essere presentata per il visto all'avvocato militare; il quale, in caso di dichiarazione di non luogo, potra' nelle 24 ora successive, a pena di decadenza, proporre ricorso al tribunale supremo di guerra e marina. Il ricorso sara' ammesso solo nei casi previsti nei [numeri 1](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [2](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [4 dell'art. 431 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito.
 
 ### Art. 11.
 
@@ -102,7 +102,7 @@ L'istruzione non puo' durare piu' di 30 giorni e non piu' di 15 ove si tratti di
 
 ### Art. 12.
 
-L'atto di accusa e l'ordinanza di rinvio a giudizio sono a cura del segretario notificati direttamente all'imputato nel modo stabilito all'[art. 430 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
+L'atto di accusa e l'ordinanza di rinvio a giudizio sono a cura del segretario notificati direttamente all'imputato nel modo stabilito all'[art. 430 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
  
  Il difensore puo' essere scelto fra gli ufficiali presenti nella divisione militare nella cui circoscrizione ha sede il tribunale, o tra gli avvocati e procuratori esercenti, salvo quanto e' disposto nell'articolo seguente. 
  
@@ -132,7 +132,7 @@ Gli atti sono trasmessi al presidente del tribunale il quale, al piu' presto, fi
 
 ### Art. 15.
 
-Si spedisce sempre mandato di cattura contro l'accusato di reato punibile con le pene previste nell'[art. 4, n. 1](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e nell'[art. 5 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, e quando ricorrano gli estremi per l'applicazione dell'art. 314 del vigente [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), tenuto conto, ove occorre, ai fini, della corrispondenza delle pene comuni alle militari, di quanto dispone l'[art. 29 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e delle norme di coordinamento per l'attuazione del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune. 
+Si spedisce sempre mandato di cattura contro l'accusato di reato punibile con le pene previste nell'[art. 4, n. 1](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e nell'[art. 5 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, e quando ricorrano gli estremi per l'applicazione dell'art. 314 del vigente [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), tenuto conto, ove occorre, ai fini, della corrispondenza delle pene comuni alle militari, di quanto dispone l'[art. 29 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e delle norme di coordinamento per l'attuazione del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune. 
  
  Negli altri casi l'imputato puo' essere interrogato tanto con mandato di comparizione che con mandato di cattura. 
  
@@ -168,7 +168,7 @@ Sezione 2ª.
 
 ### Art. 20.
 
-Invece della lettura della sentenza di accusa e della esposizione dell'avvocato militare disposte dall'[art. 446 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito si fara' luogo alla lettura dell'atto di accusa e dell'ordinanza di rinvio dell'ufficiale istruttore.
+Invece della lettura della sentenza di accusa e della esposizione dell'avvocato militare disposte dall'[art. 446 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito si fara' luogo alla lettura dell'atto di accusa e dell'ordinanza di rinvio dell'ufficiale istruttore.
 
 ### Art. 21.
 
@@ -200,7 +200,7 @@ Provvedera' il presidente in modo che la parola possa essere data all'accusa e a
  
  Quando per la importanza e molteplicita' delle questioni proposte riesca impossibile nella stessa udienza dar la parola all'avvocato militare, il presidente potra' concedergli di svolgere le sue requisitorie nella udienza successiva. 
  
- Le decisioni di cui all'art. 448, ultimo capoverso, del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito sono sottoscritte dal presidente e dal giudice relatore.
+ Le decisioni di cui all'art. 448, ultimo capoverso, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito sono sottoscritte dal presidente e dal giudice relatore.
 
 ### Art. 25.
 
@@ -228,13 +228,13 @@ Il segretario non assiste alla deliberazione della sentenza.
 
 Il giudice relatore vota in ogni caso per primo, motivando il suo voto con una breve relazione sulla causa. 
  
- Compiuta la votazione il dispositivo della sentenza e' esteso dal giudice relatore. Esso contiene tutti gli elementi di cui all'[art. 490 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, tranne i motivi. E' sottoscritto dal presidente e da tutti i giudici ed e' pubblicato nel modo dell'art. 491.
+ Compiuta la votazione il dispositivo della sentenza e' esteso dal giudice relatore. Esso contiene tutti gli elementi di cui all'[art. 490 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, tranne i motivi. E' sottoscritto dal presidente e da tutti i giudici ed e' pubblicato nel modo dell'art. 491.
 
 ### Art. 28.
 
 Entro 10 giorni dalla pubblicazione, il giudice relatore stendera' i motivi che saranno firmati dal presidente e dai giudici e depositati entro lo stesso termine in segreteria. 
  
- Dell'avvenuto deposito dovra' al difensore, a cura del segretario, essere notificato avviso nel modo stabilito dall'[art. 437 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito.
+ Dell'avvenuto deposito dovra' al difensore, a cura del segretario, essere notificato avviso nel modo stabilito dall'[art. 437 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito.
 
 ## Delle copie di sentenza.
 

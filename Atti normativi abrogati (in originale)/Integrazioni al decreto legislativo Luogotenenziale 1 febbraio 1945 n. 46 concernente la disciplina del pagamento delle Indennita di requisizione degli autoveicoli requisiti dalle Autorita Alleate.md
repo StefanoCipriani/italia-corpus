@@ -32,7 +32,7 @@ Le disposizioni del [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 4
  a) di autoveicoli che non possono essere consegnati agli Ispettorati compartimentali perche' restituiti direttamente ai proprietari;
  b) di autoveicoli non piu' disponibili, per avvenuta demolizione, per distruzione o per altro motivo;
  c) di copertoni, di camere d'aria, di pezzi di ricambio, e in genere di ogni accessorio di autoveicoli.
- Gli autoveicoli di cui alla lettera b) ed i materiali di cui alla lettera c) si intenderanno requisiti definitivamente a norma del testo unico approvato con [R. decreto 31 gennaio 1926, n. 452](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20Regio%20esercito%20e%20per%20la%20Regia%20marina.%20026U0452.md).
+ Gli autoveicoli di cui alla lettera b) ed i materiali di cui alla lettera c) si intenderanno requisiti definitivamente a norma del testo unico approvato con [R. decreto 31 gennaio 1926, n. 452](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20Regio%20esercito%20e%20per%20la%20Regia%20marina.%20026U0452.md).
  Agli effetti dell'applicazione delle disposizioni di cui al [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 46, e al primo comma](../Decreti%20legislativi%20luogotenenziali/Disciplina%20del%20pagamento%20delle%20indegnita%20di%20requisizione%20degli%20autoveicoli%20requisiti%20dalle%20Autorita%20Alleate.%20045U0046.md) del presente articolo, sono compresi fra gli autoveicoli anche i rimorchi di autoveicoli.
 
 ## Art. 2.

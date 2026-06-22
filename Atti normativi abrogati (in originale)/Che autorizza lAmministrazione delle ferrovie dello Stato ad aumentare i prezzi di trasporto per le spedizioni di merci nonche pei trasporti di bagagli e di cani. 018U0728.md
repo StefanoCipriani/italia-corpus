@@ -20,7 +20,7 @@ Fino a nuova disposizione, l'Amministrazione delle ferrovie dello Stato e' autor
 
 Nell'aumento previsto dal precedente articolo e' compresa, per quanto riguarda i trasporti sulle ferrovie esercitate dallo Stato e quelli effettuati in servizio cumulativo o di corrispondenza con le ferrovie stesse, la soprattassa straordinaria di bollo stabilita dell'articolo 1 dell'allegato F) al Nostro decreto 31 agosto 1916, n 1090, sostituito dall'articolo unico dell'altro Nostro decreto 19 ottobre 1916, n. 1365. 
  
- Per la soprattassa di cui al comma precedente l'Amministrazione delle ferrovie dello Stato versera' trimestralmente al tesoro una somma proporzionale all'ammontare dei prodotti lordi del traffico (esclusi i trasporti militari e l'importo dell'aumento di cui all'art. 1) in base agli accordi che saranno presi col Ministero delle finanze a norma dell'[art. 5 del R. decreto 28 giugno 1912, n 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md).
+ Per la soprattassa di cui al comma precedente l'Amministrazione delle ferrovie dello Stato versera' trimestralmente al tesoro una somma proporzionale all'ammontare dei prodotti lordi del traffico (esclusi i trasporti militari e l'importo dell'aumento di cui all'art. 1) in base agli accordi che saranno presi col Ministero delle finanze a norma dell'[art. 5 del R. decreto 28 giugno 1912, n 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md).
 
 ## Art. 3.
 

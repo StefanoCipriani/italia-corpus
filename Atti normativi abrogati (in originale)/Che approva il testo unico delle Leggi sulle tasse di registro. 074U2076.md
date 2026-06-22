@@ -488,7 +488,7 @@ Perche' sia ammessa la deduzione del passivo e' necessario che l'erede lo giusti
 
 ### Art. 56.
 
-Nel caso d'infedelta' nella dichiarazione indicata nell'articolo precedente i soscrittori della medesima saranno tenuti solidalmente al pagamento di una pena pecuniaria uguale al quintuplo della tassa che colla dichiarazione infedele si tento' di defraudare, senza pregiudizio degli effetti del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nei casi da esso previsti.
+Nel caso d'infedelta' nella dichiarazione indicata nell'articolo precedente i soscrittori della medesima saranno tenuti solidalmente al pagamento di una pena pecuniaria uguale al quintuplo della tassa che colla dichiarazione infedele si tento' di defraudare, senza pregiudizio degli effetti del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nei casi da esso previsti.
 
 ### Art. 57.
 

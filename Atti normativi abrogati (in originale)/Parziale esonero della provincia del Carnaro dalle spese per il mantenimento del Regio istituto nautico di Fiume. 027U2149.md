@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visti i [Regi decreti 3 maggio 1925, n. 893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-03;893), e [19 dicembre 1926, n. 2343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-12-19;2343), per effetto dei quali sono rimasti a carico dello Stato, per gli esercizi 1923, 1924, 1925, gli oneri a cui in base all'[art. 3 del R. decreto 21 ottobre 1923, n. 2539](../Regi%20decreti/Contributo%20da%20corrispondere%20dagli%20Enti%20locali%20pel%20mantenimento%20dei%20Regi%20istituti%20nautici.%20023U2539.md), era tenuta la provincia del Carnaro per il mantenimento del Regio istituto nautico di Fiume;
+Visti i [Regi decreti 3 maggio 1925, n. 893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-03;893), e [19 dicembre 1926, n. 2343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-12-19;2343), per effetto dei quali sono rimasti a carico dello Stato, per gli esercizi 1923, 1924, 1925, gli oneri a cui in base all'[art. 3 del R. decreto 21 ottobre 1923, n. 2539](Contributo%20da%20corrispondere%20dagli%20Enti%20locali%20pel%20mantenimento%20dei%20Regi%20istituti%20nautici.%20023U2539.md), era tenuta la provincia del Carnaro per il mantenimento del Regio istituto nautico di Fiume;
 
 Ritenuta la necessita' urgente e assoluta di provvedere alla proroga dell'esonero della provincia del Carnaro dalle spese indicate, limitando l'esonero stesso a due terzi per l'esercizio finanziario 1927-28 e ad un terzo per l'esercizio 1928-29;
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Articolo unico.
 
-Nei riguardi del Regio istituto nautico di Fiume le spese di cui all'[art. 3 del R. decreto 21 ottobre 1923, n. 2539](../Regi%20decreti/Contributo%20da%20corrispondere%20dagli%20Enti%20locali%20pel%20mantenimento%20dei%20Regi%20istituti%20nautici.%20023U2539.md), saranno per l'esercizio 1927-28 a carico dello Stato nella misura di due terzi e a carico della Provincia nella misura di un terzo e per l'esercizio 1928-29 a carico dello Stato per la misura di un terzo e della Provincia nella misura di due terzi. 
+Nei riguardi del Regio istituto nautico di Fiume le spese di cui all'[art. 3 del R. decreto 21 ottobre 1923, n. 2539](Contributo%20da%20corrispondere%20dagli%20Enti%20locali%20pel%20mantenimento%20dei%20Regi%20istituti%20nautici.%20023U2539.md), saranno per l'esercizio 1927-28 a carico dello Stato nella misura di due terzi e a carico della Provincia nella misura di un terzo e per l'esercizio 1928-29 a carico dello Stato per la misura di un terzo e della Provincia nella misura di due terzi. 
  
  Dal 1° luglio 1929 in poi le spese predette saranno a totale carico della Provincia. 
  

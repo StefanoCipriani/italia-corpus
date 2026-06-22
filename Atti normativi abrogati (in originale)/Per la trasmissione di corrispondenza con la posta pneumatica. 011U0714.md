@@ -18,7 +18,7 @@ Per ciascuno di detti oggetti e' stabilita una sovrattassa di centesimi dieci og
 
 ## Art. 3.
 
-E' estesa al nuovo mezzo di trasporto la franchigia prevista dall'art. 51 del testo unico delle leggi postali, approvato con [R. decreto del 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), per il carteggio di S. M. il Re e del Sommo Pontefice. 
+E' estesa al nuovo mezzo di trasporto la franchigia prevista dall'art. 51 del testo unico delle leggi postali, approvato con [R. decreto del 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), per il carteggio di S. M. il Re e del Sommo Pontefice. 
  
  Non sono ammesse a circolare per posta pneumatica le corrispondenze ufficiali in esenzione di tassa.
 
@@ -34,7 +34,7 @@ E' data facolta' al Governo di concedere a privati impianti di comunicazioni dir
 
 ## Art. 6.
 
-L'ultimo alinea dell'art. 2 del testo unico delle leggi postali approvato con [R. decreto del 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md) e' modificato come segue: 
+L'ultimo alinea dell'art. 2 del testo unico delle leggi postali approvato con [R. decreto del 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md) e' modificato come segue: 
  
  «Nessuno puo' fare incetta di corrispondenze epistolari, ne' trasportarle, distribuirle, o recapitarle sia nella stessa localita' in cui l'incetta avviene, sia altrove. 
  

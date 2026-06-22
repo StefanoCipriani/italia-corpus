@@ -42,7 +42,7 @@ Le anticipazioni alla Biblioteca centrale del Risorgimento per le spese in econo
 
 ## Art. 3.
 
-Un ruolo del personale occorrente al funzionamento della Biblioteca centrale del Risorgimento, nel limite indicato dall'[art. 4 del R. decreto 17 maggio 1906, numero 212](../Regi%20decreti/Che%20istituisce%20in%20Roma%20un%20Comitato%20nazionale%20con%20lufficio%20di%20raccogliere%20documenti%20per%20servire%20alla%20storia%20del%20risorgimento%20italiano.%20006U0212.md), ed un regolamento speciale per la biblioteca stessa saranno approvati con decreto Reale, sentito il parere del Consiglio di Stato. 
+Un ruolo del personale occorrente al funzionamento della Biblioteca centrale del Risorgimento, nel limite indicato dall'[art. 4 del R. decreto 17 maggio 1906, numero 212](Che%20istituisce%20in%20Roma%20un%20Comitato%20nazionale%20con%20lufficio%20di%20raccogliere%20documenti%20per%20servire%20alla%20storia%20del%20risorgimento%20italiano.%20006U0212.md), ed un regolamento speciale per la biblioteca stessa saranno approvati con decreto Reale, sentito il parere del Consiglio di Stato. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

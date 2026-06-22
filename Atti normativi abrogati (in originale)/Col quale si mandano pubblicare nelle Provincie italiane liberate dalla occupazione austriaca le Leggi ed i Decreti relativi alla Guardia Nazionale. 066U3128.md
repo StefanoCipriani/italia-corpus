@@ -56,7 +56,7 @@ Saranno pubblicati ed avranno vigore nelle Provincie Italiane liberate dall'occu
 
 ## Art. 2.
 
-Finche' saranno in vigore nelle Provincie suddette il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco del 27 febbraio 1852, ed il Regolamento di Procedura penale del 29 luglio 1853, gli articoli 82 e 109 della Legge 4 marzo 1848 rimarranno modificati nel modo seguente: 
+Finche' saranno in vigore nelle Provincie suddette il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco del 27 febbraio 1852, ed il Regolamento di Procedura penale del 29 luglio 1853, gli articoli 82 e 109 della Legge 4 marzo 1848 rimarranno modificati nel modo seguente: 
  
  Art. 82. Ogni Milite comunale, che nel corso di un anno avra' sofferte due condanne del Consiglio di disciplina per rifiuto di servizio, sara' per la terza volta tradotto davanti al Tribunale provinciale, e condannato alla pena del carcere non minore di giorni sei, ne' maggiore di dieci. 
  

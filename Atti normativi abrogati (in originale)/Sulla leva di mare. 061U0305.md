@@ -18,7 +18,7 @@ L'armata di mare si recluta con uomini chiamati a far parte della leva marittima
 
 ### Art. 2.
 
-Non possono per alcun titolo far parte dell'armata di mare i condannati ai lavori forzati od alla reclusione ed alla relegazione a termini del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in data del 20 novembre 1859, ed all'ergastolo ed alla casa di forza a termini del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) della Toscana. 
+Non possono per alcun titolo far parte dell'armata di mare i condannati ai lavori forzati od alla reclusione ed alla relegazione a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in data del 20 novembre 1859, ed all'ergastolo ed alla casa di forza a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) della Toscana. 
  
  I condannati dai tribunali esteri a pene corrispondenti possono egualmente essere esclusi dal far parte dell'armata di mare per decisione del Ministero della marina.
 
@@ -972,7 +972,7 @@ I medici o chirurghi chiamati come periti nei casi preveduti da questa legge, i 
 
 ### Art. 138.
 
-Ogni ufficiale pubblico, ogni agente od impiegato del Governo, che, sotto qualunque pretesto, abbia autorizzato o ammesso esenzioni, riforme, surrogazioni, assoldamento di anziani o di volontari oppostamente al disposto della legge, ovvero abbia dato arbitraria estensione, sia alla durata, sia alle regole e condizioni della chiamata alle leve marittime, e degli arrolamenti volontari, e' punito come reo di abuso d'autorita' colle pene portate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle pene maggiori prescritte dallo stesso Codice nel caso di circostanze che ne aggravino la colpa.
+Ogni ufficiale pubblico, ogni agente od impiegato del Governo, che, sotto qualunque pretesto, abbia autorizzato o ammesso esenzioni, riforme, surrogazioni, assoldamento di anziani o di volontari oppostamente al disposto della legge, ovvero abbia dato arbitraria estensione, sia alla durata, sia alle regole e condizioni della chiamata alle leve marittime, e degli arrolamenti volontari, e' punito come reo di abuso d'autorita' colle pene portate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle pene maggiori prescritte dallo stesso Codice nel caso di circostanze che ne aggravino la colpa.
 
 ### Art. 139.
 

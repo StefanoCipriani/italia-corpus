@@ -24,7 +24,7 @@ I termini di cui agli [articoli 3](Che%20reca%20provvedimenti%20per%20la%20rifor
 
 ## Art. 2.
 
-Il termine di cui all'[art. 6 del R. decreto 20 ottobre 1921, n. 1411](../Regi%20decreti/Che%20reca%20le%20norme%20per%20gli%20esoneri%20degli%20impiegati%20ed%20agenti%20dello%20Stato%20in%20esecuzione%20della%20legge%2013%20agosto%201921%20n.%201080.%20021U1411.md), e' prorogato al 10 febbraio 1922.
+Il termine di cui all'[art. 6 del R. decreto 20 ottobre 1921, n. 1411](Che%20reca%20le%20norme%20per%20gli%20esoneri%20degli%20impiegati%20ed%20agenti%20dello%20Stato%20in%20esecuzione%20della%20legge%2013%20agosto%201921%20n.%201080.%20021U1411.md), e' prorogato al 10 febbraio 1922.
 
 ## Art. 3.
 

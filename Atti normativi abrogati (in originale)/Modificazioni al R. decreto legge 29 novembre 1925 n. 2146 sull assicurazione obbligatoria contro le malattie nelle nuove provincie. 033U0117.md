@@ -82,11 +82,11 @@ Le Federazioni regionali con sede in Trento e Trieste sono poste in liquidazione
  
  Il personale delle Federazioni predette sara' liquidato a norma del [R. decreto-legge 13 novembre 1924, n. 1825](Disposizioni%20relative%20al%20contratto%20dimpiego%20privato.%20024U1825.md). 
  
- La compilazione delle statistiche ai sensi dell'art. 44 del regolamento approvato con [R. decreto 4 marzo 1926, n. 528](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20novembre%201925%20n.%202146%20concernente%20lestensione%20alle%20nuove%20Provincie%20delle%20leggi%20di%20assicurazioni%20sociali%20per%20la%20parte%20r_c27bf456a0f3.md), e' demandata alle Casse provinciali di Trento e di Trieste.
+ La compilazione delle statistiche ai sensi dell'art. 44 del regolamento approvato con [R. decreto 4 marzo 1926, n. 528](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20novembre%201925%20n.%202146%20concernente%20lestensione%20alle%20nuove%20Provincie%20delle%20leggi%20di%20assicurazioni%20sociali%20per%20la%20parte%20r_c27bf456a0f3.md), e' demandata alle Casse provinciali di Trento e di Trieste.
 
 ## Art. 6.
 
-Il Governo del Re e' autorizzato ad apportare al regolamento approvato con [R. decreto 4 marzo 1926, n. 528](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20novembre%201925%20n.%202146%20concernente%20lestensione%20alle%20nuove%20Provincie%20delle%20leggi%20di%20assicurazioni%20sociali%20per%20la%20parte%20r_c27bf456a0f3.md), le modificazioni necessarie per l'esecuzione, l'attuazione ed integrazione della presente legge, che entrera' in vigore il 1° luglio 1933, nonche' a provvedere al coordinamento di questa con le disposizioni vigenti. 
+Il Governo del Re e' autorizzato ad apportare al regolamento approvato con [R. decreto 4 marzo 1926, n. 528](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20novembre%201925%20n.%202146%20concernente%20lestensione%20alle%20nuove%20Provincie%20delle%20leggi%20di%20assicurazioni%20sociali%20per%20la%20parte%20r_c27bf456a0f3.md), le modificazioni necessarie per l'esecuzione, l'attuazione ed integrazione della presente legge, che entrera' in vigore il 1° luglio 1933, nonche' a provvedere al coordinamento di questa con le disposizioni vigenti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

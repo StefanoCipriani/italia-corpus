@@ -126,7 +126,7 @@ Ai fini della graduatoria occorre comunque dichiarare la proprieta' di unita' im
 
 4.
 
-In caso di dichiarazioni mendaci si applica l'[articolo 495 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+In caso di dichiarazioni mendaci si applica l'[articolo 495 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 5.
 

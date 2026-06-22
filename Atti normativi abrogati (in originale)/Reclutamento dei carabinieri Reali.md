@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. Decreto 24 febbraio 1938, n. 329](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), che approva il testo unico delle disposizioni legislative sul reclutamento del Regno esercito, e successive modificazioni;
+Visto il [R. Decreto 24 febbraio 1938, n. 329](Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), che approva il testo unico delle disposizioni legislative sul reclutamento del Regno esercito, e successive modificazioni;
 
-Visto il [R. decreto 3 aprile 1942, n. 1133](../Regi%20decreti/Parte%20seconda%20del%20regolamento%20per%20lesecuzione%20del%20Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20Regio%20decreto%2024%20febbraio%201938-XVI%20n.%20329.%20042U1133.md), che approva la parte II, del regolamento per l'esecuzione del testo unico predetto;
+Visto il [R. decreto 3 aprile 1942, n. 1133](Parte%20seconda%20del%20regolamento%20per%20lesecuzione%20del%20Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20Regio%20decreto%2024%20febbraio%201938-XVI%20n.%20329.%20042U1133.md), che approva la parte II, del regolamento per l'esecuzione del testo unico predetto;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944 n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

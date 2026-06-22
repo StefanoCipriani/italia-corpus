@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 22 febbraio 1946, n. 137](../Decreti%20legislativi%20luogotenenziali/Temporaneo%20collocamento%20presso%20Enti%20locali%20del%20personale%20appartenente%20ad%20Enti%20similari%20di%20territori%20occupati%20nelle%20zone%20di%20confine.md);
+Visto il [decreto legislativo luogotenenziale 22 febbraio 1946, n. 137](Temporaneo%20collocamento%20presso%20Enti%20locali%20del%20personale%20appartenente%20ad%20Enti%20similari%20di%20territori%20occupati%20nelle%20zone%20di%20confine.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

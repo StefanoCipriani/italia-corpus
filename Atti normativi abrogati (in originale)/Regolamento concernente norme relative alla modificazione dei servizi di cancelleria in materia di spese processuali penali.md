@@ -14,7 +14,7 @@ DI CONCERTO CON
 
 IL MINISTRO DI GRAZIA E GIUSTIZIA
 
-Visto l'[art. 199 del decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), recante norme sul recupero in misura fissa delle spese processuali penali limitatamente alle imposte di bollo, ai diritti di cancelleria, ai diritti ed alle indennita' di trasferta spettanti all'ufficiale giudiziario, alle spese postali e telegrafiche per la notificazione degli atti a richiesta dell'ufficio o per l'invio dell'informazione di garanzia e al diritto di chiamata in causa;
+Visto l'[art. 199 del decreto legislativo 28 luglio 1989, n. 271](../Codici/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), recante norme sul recupero in misura fissa delle spese processuali penali limitatamente alle imposte di bollo, ai diritti di cancelleria, ai diritti ed alle indennita' di trasferta spettanti all'ufficiale giudiziario, alle spese postali e telegrafiche per la notificazione degli atti a richiesta dell'ufficio o per l'invio dell'informazione di garanzia e al diritto di chiamata in causa;
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -30,7 +30,7 @@ Le imposte di bollo, i diritti di cancelleria, i diritti e le indennita' di tras
 
 ## Art. 2.
 
-Il presente regolamento entra in vigore lo stesso giorno dell'entrata in vigore del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md).
+Il presente regolamento entra in vigore lo stesso giorno dell'entrata in vigore del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -20,7 +20,7 @@ E' sospesa l'applicazione dell'[articolo 11 della legge 14 luglio 1887, n. 4703]
 
 ## Articolo 2.
 
-Oltre al melazzo saranno ammessi dal 1º gennaio 1888 in esenzione di dazio doganale i cereali importati dall'estero, destinati alla distillazione, osservate le forme e cautele stabilite dagli [articoli 32](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lapplicazione%20del%20testo%20unico%20di%20legge%20sulla%20tassa%20di%20fabbricazione%20degli%20spiriti.%20085U2911.md) e [33 del R. decreto 15 gennaio 1885, n. 2911](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lapplicazione%20del%20testo%20unico%20di%20legge%20sulla%20tassa%20di%20fabbricazione%20degli%20spiriti.%20085U2911.md) (Serie 3ª). 
+Oltre al melazzo saranno ammessi dal 1º gennaio 1888 in esenzione di dazio doganale i cereali importati dall'estero, destinati alla distillazione, osservate le forme e cautele stabilite dagli [articoli 32](Che%20approva%20il%20Regolamento%20per%20lapplicazione%20del%20testo%20unico%20di%20legge%20sulla%20tassa%20di%20fabbricazione%20degli%20spiriti.%20085U2911.md) e [33 del R. decreto 15 gennaio 1885, n. 2911](Che%20approva%20il%20Regolamento%20per%20lapplicazione%20del%20testo%20unico%20di%20legge%20sulla%20tassa%20di%20fabbricazione%20degli%20spiriti.%20085U2911.md) (Serie 3ª). 
  
  Il presente decreto sara' inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia. 
  

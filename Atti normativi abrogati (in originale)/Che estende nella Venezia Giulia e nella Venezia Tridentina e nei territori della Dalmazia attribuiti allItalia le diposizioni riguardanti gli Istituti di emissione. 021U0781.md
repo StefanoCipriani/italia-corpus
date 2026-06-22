@@ -28,7 +28,7 @@ Sulla proposta del ministro del tesoro, di concerto col presidente del Consiglio
 
 Sono estesi e pubblicati nella Venezia Giulia e Tridentina e nei territori della Dalmazia attribuiti all'Italia le disposizioni seguenti riguardanti gli Istituti di emissione: 
  
- 1° [Regio decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), che approva il testo unico di legge sugli Istituti di emissione e sulla circolazione dei biglietti di Banca; 
+ 1° [Regio decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), che approva il testo unico di legge sugli Istituti di emissione e sulla circolazione dei biglietti di Banca; 
  
  2° [legge 29 dicembre 1912, n. 1346](Portante%20proroga%20del%20corso%20legale%20dei%20biglietti%20di%20banca%20-%20Modificazioni%20agli%20articoli%2021%20e%2025%20della%20legge%20sugli%20Istituti%20di%20emissione%20-%20Disposizioni%20per%20il%20fondo%20di%20esercizio%20delle%20filia_22fb188191a1.md), per quanto concerne le modificazioni agli articoli 21 e 25 della legge sugli Istituti di emissione; 
  

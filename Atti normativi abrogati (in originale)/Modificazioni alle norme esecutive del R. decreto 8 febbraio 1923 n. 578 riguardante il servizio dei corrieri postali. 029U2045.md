@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni; Abb
 
 ## Art. 1.
 
-Per ottenere la concessione di potere eseguire il trasporto di pacchi e di piccoli colli nei limiti di peso di kg. 20 i corrieri, commissionari, spedizionieri e simili, salvo che non provino di essere soggetti alla vigilanza di autorita' diversa da quella di pubblica sicurezza, debbono esibire la licenza di polizia o comprovare la loro iscrizione nel registro dell'Ufficio provinciale dell'economia, a seconda che la licenza o l'iscrizione sia richiesta dal [testo unico delle leggi sulla pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e dal relativo regolamento. 
+Per ottenere la concessione di potere eseguire il trasporto di pacchi e di piccoli colli nei limiti di peso di kg. 20 i corrieri, commissionari, spedizionieri e simili, salvo che non provino di essere soggetti alla vigilanza di autorita' diversa da quella di pubblica sicurezza, debbono esibire la licenza di polizia o comprovare la loro iscrizione nel registro dell'Ufficio provinciale dell'economia, a seconda che la licenza o l'iscrizione sia richiesta dal [testo unico delle leggi sulla pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e dal relativo regolamento. 
  
  Coloro che alla data di entrata in vigore del presente R. decreto siano gia' muniti di concessione, sono tenuti, entro tre mesi dalla data stessa, ad esibire, sotto pena di decadenza, i documenti di cui sopra alla Direzione provinciale delle poste e dei telegrafi che ha rilasciato la relativa concessione.
 

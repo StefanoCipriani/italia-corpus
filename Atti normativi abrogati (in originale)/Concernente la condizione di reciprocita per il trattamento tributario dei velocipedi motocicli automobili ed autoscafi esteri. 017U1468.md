@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata:
 
 Vista la legge, [testo unico, 17 luglio 1910, n. 569](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1910-07-17;569);
 
-Visto il [R. decreto 22 ottobre 1914, n. 1153](../Regi%20decreti/Concernente%20modificazioni%20alla%20legge%20relativa%20alle%20tasse%20sulle%20vetture%20automobili%20e%20su%20i%20motocicli%20e%20listituzione%20di%20una%20tassa%20sugli%20autoscafi.%20014U1153.md);
+Visto il [R. decreto 22 ottobre 1914, n. 1153](Concernente%20modificazioni%20alla%20legge%20relativa%20alle%20tasse%20sulle%20vetture%20automobili%20e%20su%20i%20motocicli%20e%20listituzione%20di%20una%20tassa%20sugli%20autoscafi.%20014U1153.md);
 
 Sulla proposta del ministro segretario di Stato per le finanze, di concerto coi ministri degli affari esteri e dei lavori pubblici e in seguito a deliberazione del Consiglio dei ministri; Abbiamo decretato e decretiamo:
 

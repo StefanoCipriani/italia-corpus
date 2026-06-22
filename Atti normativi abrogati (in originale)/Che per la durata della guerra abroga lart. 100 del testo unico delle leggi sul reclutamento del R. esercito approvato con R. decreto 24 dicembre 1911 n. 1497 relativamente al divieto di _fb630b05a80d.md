@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-A decorrere dalla data di pubblicazione del presenta decreto e per tutta la durata della guerra, le disposizioni di cui all'articolo 100 del testo unico delle leggi sul reclutamento del R. esercito, approvato con [Regio decreto 24 dicembre 1911, n. 1497](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md), si intendono abrogate.
+A decorrere dalla data di pubblicazione del presenta decreto e per tutta la durata della guerra, le disposizioni di cui all'articolo 100 del testo unico delle leggi sul reclutamento del R. esercito, approvato con [Regio decreto 24 dicembre 1911, n. 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md), si intendono abrogate.
 
 ## Art. 2.
 

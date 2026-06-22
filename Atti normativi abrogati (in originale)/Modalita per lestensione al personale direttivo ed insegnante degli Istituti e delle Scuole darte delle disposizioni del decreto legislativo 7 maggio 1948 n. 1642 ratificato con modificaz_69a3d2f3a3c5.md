@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 5 del decreto legislativo 7 maggio 1948, n. 1642](../Decreti%20Legislativi/Disposizioni%20concernenti%20la%20carriera%20del%20personale%20direttivo%20ed%20insegnante%20degli%20Istituti%20di%20istruzione%20secondaria%20ed%20artistica.md), ratificato, con modificazioni, con la [legge 28 aprile 1950, n. 285](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201642%20recante%20disposizioni%20concernenti%20la%20carriera%20del%20personale%20direttivo%20ed%20insegnante%20degli%20istituti%20di%20istruzione%20se_311dfb32ff7a.md);
+Visto l'[art. 5 del decreto legislativo 7 maggio 1948, n. 1642](Disposizioni%20concernenti%20la%20carriera%20del%20personale%20direttivo%20ed%20insegnante%20degli%20Istituti%20di%20istruzione%20secondaria%20ed%20artistica.md), ratificato, con modificazioni, con la [legge 28 aprile 1950, n. 285](Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201642%20recante%20disposizioni%20concernenti%20la%20carriera%20del%20personale%20direttivo%20ed%20insegnante%20degli%20istituti%20di%20istruzione%20se_311dfb32ff7a.md);
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -43,7 +43,7 @@ Per lo scrutinio annuale degli aventi titolo al grado superiore, ai sensi del pr
 
 ## Art. 5.
 
-Le norme, di cui al presente decreto, si applicheranno con la medesima decorrenza del [decreto legislativo 7 maggio 1948, n. 1642](../Decreti%20Legislativi/Disposizioni%20concernenti%20la%20carriera%20del%20personale%20direttivo%20ed%20insegnante%20degli%20Istituti%20di%20istruzione%20secondaria%20ed%20artistica.md).
+Le norme, di cui al presente decreto, si applicheranno con la medesima decorrenza del [decreto legislativo 7 maggio 1948, n. 1642](Disposizioni%20concernenti%20la%20carriera%20del%20personale%20direttivo%20ed%20insegnante%20degli%20Istituti%20di%20istruzione%20secondaria%20ed%20artistica.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -949,9 +949,9 @@ Oltre i casi nei quali la legge fa derivare da condanne penali la sospensione de
  
  1° I condannati alle pene dell'ergastolo, dell'interdizione perpetua dai pubblici uffici e a quelle della reclusione e della detenzione per un tempo maggiore di cinque anni. 
  
- 2° I condannati a pene correzionali per reati di furto, ricettazione dolosa di oggetti furtivi, truffa, appropriazione indebita, abuso di fiducia, e frode di ogni altra specie e sotto qualunque titolo del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), qualunque specie di falso, falsa testimonianza e calunnia, non che per reati contro il buon costume, secondo la cessata legislazione penale. 
+ 2° I condannati a pene correzionali per reati di furto, ricettazione dolosa di oggetti furtivi, truffa, appropriazione indebita, abuso di fiducia, e frode di ogni altra specie e sotto qualunque titolo del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), qualunque specie di falso, falsa testimonianza e calunnia, non che per reati contro il buon costume, secondo la cessata legislazione penale. 
  
- 3° I condannati per reati che secondo il vigente [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), corrispondono a quelli contemplati nel numero precedente. 
+ 3° I condannati per reati che secondo il vigente [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), corrispondono a quelli contemplati nel numero precedente. 
  
  Sono eccettuati i condannati che hanno ottenuta la riabilitazione.
 
@@ -995,7 +995,7 @@ Chiunque forma una lista o un elenco, o una nota di elettori, in tutto o in part
 
 Chiunque, con qualsiasi mezzo atto ad ingannare o a sorprendere l'altrui buona fede, ottiene indebitamente per se' o per altri la iscrizione negli elenchi, nelle liste o nelle note degli elettori, o la cancellazione di uno o piu' elettori, e' punito con la detenzione sino ad un anno, con la multa sino a L. 2000 e con la interdizione dal diritto di elettore e di eleggibile da tre a sei anni. 
  
- Tali pene sono aumentato di un sesto se il colpevole sia un componente della Commissione comunale o provinciale, salvo sempre le maggiori pene comminate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i reati di falso.
+ Tali pene sono aumentato di un sesto se il colpevole sia un componente della Commissione comunale o provinciale, salvo sempre le maggiori pene comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i reati di falso.
 
 ### Art. 103.
 
@@ -1067,7 +1067,7 @@ Qualunque elettore puo' promuovere l'azione penale costituendosi parte civile, p
  
  Ordinata un'inchiesta dalla Camera, la Commissione ha diritto di far citare i testimoni, concedendo loro, se occorra, una indennita'. 
  
- Ai testimoni delle inchieste ordinate dalla Camera sono applicabili le disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sulla falsita' in giudizio e sul rifiuto di deporre in materia civile; salvo le maggiori pene secondo il Codice stesso, cadendo la falsita' od il rifiuto su materia punibile. 
+ Ai testimoni delle inchieste ordinate dalla Camera sono applicabili le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sulla falsita' in giudizio e sul rifiuto di deporre in materia civile; salvo le maggiori pene secondo il Codice stesso, cadendo la falsita' od il rifiuto su materia punibile. 
  
  Ai pubblici ufficiali imputati di taluno dei reati contemplati nella presente legge non sono applicabili le disposizioni degli [articoli 8](Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20089U5921.md) e [139 R. decreto 10 febbraio 1889 n. 5921](Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20089U5921.md), testo unico legge comunale e provinciale.
 
@@ -1079,9 +1079,9 @@ Nei reati elettorali, ove la presente legge non abbia specificatamente contempla
  
  Ove la detta condanna colpisca il candidato, la privazione del diritto elettorale e di eleggibilita' sara' pronunziata per un tempo non minore di cinque, ne' maggiore di dieci anni. 
  
- Ai reati elettorali si applicano le disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) intorno al tentativo, alla complicita', alla recidiva, al concorso di piu' reati ed alle circostanze attenuanti. 
+ Ai reati elettorali si applicano le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) intorno al tentativo, alla complicita', alla recidiva, al concorso di piu' reati ed alle circostanze attenuanti. 
  
- Resta sempre salva l'applicazione delle maggiori pene stabilite nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per reati piu' gravi non puniti dalla presente legge.
+ Resta sempre salva l'applicazione delle maggiori pene stabilite nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per reati piu' gravi non puniti dalla presente legge.
 
 ### Art. 114.
 

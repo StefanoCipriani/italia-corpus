@@ -40,7 +40,7 @@ TITOLO II.
 
 I capi o esercenti delle imprese, industrie e costruzioni indicate all'articolo 1 debbono adottare le misure prescritte dalle leggi e dai regolamenti per prevenire gl'infortuni e proteggere la vita e la integrita' personale degli operai. 
  
- Quando disposizioni speciali non stabiliscano penalita' ai contravventori, questi sono puniti a norma dell'[articolo 434 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle responsabilita' civili e penali in caso d'infortunio.
+ Quando disposizioni speciali non stabiliscano penalita' ai contravventori, questi sono puniti a norma dell'[articolo 434 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle responsabilita' civili e penali in caso d'infortunio.
 
 ### Art. 4.
 
@@ -54,7 +54,7 @@ Il Ministero di Agricoltura, Industria e Commercio vigilera' all'osservanza dell
  
  Per le ispezioni intese ad accertare l'osservanza dei regolamenti preventivi, il Ministero, oltre dei funzionari dipendenti dallo Stato, si varra' principalmente del personale tecnico delle Associazioni per la prevenzione degli infortuni e dei sindacati di assicurazione mutua. 
  
- Gli ispettori incaricati delle ispezioni che accedono nelle fabbriche e nei cantieri, possono prendere cognizione del contratto originario di assicurazione. Essi devono astenersi, per quanto e' possibile, dall'indagare processi di lavorazione che vogliono tenersi segreti e serbare poi sempre il segreto sopra quelli che venissero a loro conoscenza per ragione dell'ufficio, sotto pena di multa di lire 500 a 1000, oltre il risarcimento dei danni, e salvo, in caso di rivelazione dolosa, le pene comminate dall'[articolo 298 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ Gli ispettori incaricati delle ispezioni che accedono nelle fabbriche e nei cantieri, possono prendere cognizione del contratto originario di assicurazione. Essi devono astenersi, per quanto e' possibile, dall'indagare processi di lavorazione che vogliono tenersi segreti e serbare poi sempre il segreto sopra quelli che venissero a loro conoscenza per ragione dell'ufficio, sotto pena di multa di lire 500 a 1000, oltre il risarcimento dei danni, e salvo, in caso di rivelazione dolosa, le pene comminate dall'[articolo 298 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  E' vietato agli ispettori o delegati d'intraprendere, per conto proprio o di terzi, alcuna impresa, industria o costruzione, come pure di esservi interessati o impiegati come ingegneri, chimici, medici e meccanici.
 

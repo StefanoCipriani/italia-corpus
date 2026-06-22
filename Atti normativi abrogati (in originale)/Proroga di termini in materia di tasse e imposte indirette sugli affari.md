@@ -14,7 +14,7 @@ Visto il decreto legislativo luogotenenziale 29 dicembre 19414, n. 393, recante 
 
 Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 49](../Decreti%20legislativi%20luogotenenziali/Cessazione%20dello%20stato%20di%20guerra%20e%20passaggio%20dalla%20legislazione%20di%20guerra%20a%20quella%20di%20pace.md), riguardante la cessazione dello stato di guerra e il passaggio dalla legislazione di guerra a quella di pace;
 
-Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 264](../Decreti%20legislativi%20luogotenenziali/Proroga%20di%20termini%20in%20materia%20di%20tasse%20e%20un%20poste%20indirette%20sugli%20affari.md), recante proroga di termini in materia di tasse e imposte indirette sugli affari;
+Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 264](Proroga%20di%20termini%20in%20materia%20di%20tasse%20e%20un%20poste%20indirette%20sugli%20affari.md), recante proroga di termini in materia di tasse e imposte indirette sugli affari;
 
 Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 221](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20vari%20in%20materia%20di%20tasse%20ed%20imposte%20indirette%20sugli%20affari.md), concernente provvedimenti vari in materia di tasse e imposte indirette sugli affari;
 
@@ -32,7 +32,7 @@ I termini di prescrizione in materia di tasse e di imposte indirette sugli affar
 
 ## Art. 2.
 
-I termini di decadenza in materia di tasse e di imposte indirette sugli affari, prorogati al 31 dicembre 1946 col [decreto legislativo luogotenenziale 26 marzo 1946, n. 264](../Decreti%20legislativi%20luogotenenziali/Proroga%20di%20termini%20in%20materia%20di%20tasse%20e%20un%20poste%20indirette%20sugli%20affari.md), sono ulteriormente prorogati, alle condizioni ivi indicate, fino al 31 dicembre 1947.
+I termini di decadenza in materia di tasse e di imposte indirette sugli affari, prorogati al 31 dicembre 1946 col [decreto legislativo luogotenenziale 26 marzo 1946, n. 264](Proroga%20di%20termini%20in%20materia%20di%20tasse%20e%20un%20poste%20indirette%20sugli%20affari.md), sono ulteriormente prorogati, alle condizioni ivi indicate, fino al 31 dicembre 1947.
 
 ## Art. 3.
 

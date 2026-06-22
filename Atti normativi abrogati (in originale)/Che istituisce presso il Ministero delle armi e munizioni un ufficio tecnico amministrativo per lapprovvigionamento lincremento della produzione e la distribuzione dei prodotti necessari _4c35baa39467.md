@@ -46,7 +46,7 @@ Il Comitato di cui al precedente art. 3 ha facolta' di costituire Consorzi obbli
 
 ## Art. 7.
 
-I locali, gli effetti mobili ed i materiali del laboratorio chimico di cui cui all'art. 6. del [R. decreto 9 luglio 1915, n. 1065](../Regi%20decreti/Contenente%20provvedimenti%20per%20i%20rifornimenti%20di%20armi%20e%20di%20munizioni.%20015U1065.md), saranno consegnati al commissario generale per i combustibili per prove, studi ed esperienze da farsi secondo modalita' da esso stabilite. Al detto commissario viene data facolta' di provvedere alle spese promovendo la costituzione di apposito fondo sia mediante provvedimenti gia' di sua competenza sia accettando offerte di industriali.
+I locali, gli effetti mobili ed i materiali del laboratorio chimico di cui cui all'art. 6. del [R. decreto 9 luglio 1915, n. 1065](Contenente%20provvedimenti%20per%20i%20rifornimenti%20di%20armi%20e%20di%20munizioni.%20015U1065.md), saranno consegnati al commissario generale per i combustibili per prove, studi ed esperienze da farsi secondo modalita' da esso stabilite. Al detto commissario viene data facolta' di provvedere alle spese promovendo la costituzione di apposito fondo sia mediante provvedimenti gia' di sua competenza sia accettando offerte di industriali.
 
 ## Art. 8.
 

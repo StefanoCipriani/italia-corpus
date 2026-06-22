@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri di concerto con i Minis
 
 1.
 
-L'[articolo 24- bis della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), introdotto dall'[articolo 3 della legge 2 maggio 1983, n. 305](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sulla%20prevenzione%20dellinquinamento%20marino%20causato%20dallo%20scarico%20di%20rifiuti%20ed%20altre%20materie%20con%20allegati%20aperta%20alla%20firma%20a%20Citta%20del%20Messico%20Lon_e6e91c1a280a.md), e' sostituito dal seguente: 
+L'[articolo 24- bis della legge 10 maggio 1976, n. 319](Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), introdotto dall'[articolo 3 della legge 2 maggio 1983, n. 305](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20sulla%20prevenzione%20dellinquinamento%20marino%20causato%20dallo%20scarico%20di%20rifiuti%20ed%20altre%20materie%20con%20allegati%20aperta%20alla%20firma%20a%20Citta%20del%20Messico%20Lon_e6e91c1a280a.md), e' sostituito dal seguente: 
  "Art. 24- bis. - Si applica la pena dell'arresto da due mesi a due anni se lo scarico, effettuato in mare da navi o da aeromobili senza autorizzazione, contiene sostanze o materiali per i quali le convenzioni internazionali sanciscono il divieto di scarico".
 
 ## Art. 2.

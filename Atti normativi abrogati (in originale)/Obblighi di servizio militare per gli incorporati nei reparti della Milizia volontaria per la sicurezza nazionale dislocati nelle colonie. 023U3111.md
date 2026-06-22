@@ -18,11 +18,11 @@ Visto il [R. decreto-legge n. 31 in data 14 gennaio 1923](https://www.normattiva
 
 Visto il [R. decreto n. 832 in data 8 marzo 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-08;832), col quale sono approvate le norme per la costituzione, la formazione, il funzionamento e le chiamate della Milizia volontaria per la sicurezza nazionale;
 
-Visto il testo unico delle leggi sul reclutamento del Regio esercito approvato con [R. decreto 24 dicembre 1911, n. 1497](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md), e successive disposizioni;
+Visto il testo unico delle leggi sul reclutamento del Regio esercito approvato con [R. decreto 24 dicembre 1911, n. 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md), e successive disposizioni;
 
-Visto il testo unico delle leggi sulla leva marittima approvato con [R. decreto 16 dicembre 1888, n. 5860](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), e successive disposizioni;
+Visto il testo unico delle leggi sulla leva marittima approvato con [R. decreto 16 dicembre 1888, n. 5860](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), e successive disposizioni;
 
-Visto il [R. decreto 28 marzo 1923, n. 645](../Regi%20decreti/Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md), concernente la costituzione della Regia aeronautica e successive disposizioni;
+Visto il [R. decreto 28 marzo 1923, n. 645](Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md), concernente la costituzione della Regia aeronautica e successive disposizioni;
 
 Sentito il Consiglio dei Ministri;
 

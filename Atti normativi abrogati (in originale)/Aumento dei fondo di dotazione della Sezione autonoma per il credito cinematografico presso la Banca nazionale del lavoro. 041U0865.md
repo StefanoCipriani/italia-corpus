@@ -20,7 +20,7 @@ Visto l'art. 18 della legge 19 gennaio 1939-XVII, n. 129;
 
 Visto il R. decreto-legge 13 novembre 1931-X, n. 1398, convertito nella legge 15 dicembre 1932-XI, n. 1581;
 
-Visto il [R. decreto 20 dicembre 1914, n. 1375](../Regi%20decreti/Che%20autorizza%20la%20costituzione%20di%20un%20Consorzio%20fra%20Istituti%20di%20emissione%20ed%20altri%20enti%20per%20sovvenzioni%20su%20valori%20industriali.%20014U1375.md), convertito nella [legge 7 gennaio 1917, n. 96](Che%20converte%20in%20legge%20il%20R.%20decreto%2020%20dicembre%201914%20n.%201375%20col%20quale%20e%20autorizzata%20la%20costituzione%20di%20un%20Consorzio%20fra%20gli%20Istituti%20di%20emissione%20ed%20altri%20enti%20per%20sovvenzioni%20su%20valori%20_4c2006b20297.md);
+Visto il [R. decreto 20 dicembre 1914, n. 1375](Che%20autorizza%20la%20costituzione%20di%20un%20Consorzio%20fra%20Istituti%20di%20emissione%20ed%20altri%20enti%20per%20sovvenzioni%20su%20valori%20industriali.%20014U1375.md), convertito nella [legge 7 gennaio 1917, n. 96](Che%20converte%20in%20legge%20il%20R.%20decreto%2020%20dicembre%201914%20n.%201375%20col%20quale%20e%20autorizzata%20la%20costituzione%20di%20un%20Consorzio%20fra%20gli%20Istituti%20di%20emissione%20ed%20altri%20enti%20per%20sovvenzioni%20su%20valori%20_4c2006b20297.md);
 
 Ritenuta la necessita' e l'urgenza di assicurare, nelle attuali eccezionali contingenze, il migliore incremento alla produzione cinematografica nazionale;
 

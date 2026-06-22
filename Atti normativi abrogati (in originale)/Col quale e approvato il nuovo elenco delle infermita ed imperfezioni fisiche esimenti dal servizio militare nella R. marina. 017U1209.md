@@ -14,7 +14,7 @@ E' approvato l'unito elenco delle infermita' e imperfezioni fisiche esimenti dal
 
 ## Art. 2.
 
-Il [R. decreto 6 settembre 1914, n. 1005](../Regi%20decreti/Col%20quale%20e%20approvato%20lelenco%20delle%20infermita%20ed%20imperfezioni%20fisiche%20esimenti%20dal%20servizio%20militare%20nella%20R.%20marina.%20014U1005.md), e tutte le disposizioni contrarie al presente decreto sono abrogati.
+Il [R. decreto 6 settembre 1914, n. 1005](Col%20quale%20e%20approvato%20lelenco%20delle%20infermita%20ed%20imperfezioni%20fisiche%20esimenti%20dal%20servizio%20militare%20nella%20R.%20marina.%20014U1005.md), e tutte le disposizioni contrarie al presente decreto sono abrogati.
 
 ## Art. 3.
 

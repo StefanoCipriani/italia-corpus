@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto del 28 marzo 1912, n. 283](../Regi%20decreti/Col%20quale%20vengono%20approvate%20le%20tabelle%20recanti%20modificazioni%20ed%20aggiunte%20di%20repertorio%20per%20lapplicazione%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20012U0283.md), che ha recato modificazioni e aggiunte al repertorio per l'applicazione della tariffa generale dei dazi doganali.
+E' convertito in legge il [R. decreto del 28 marzo 1912, n. 283](Col%20quale%20vengono%20approvate%20le%20tabelle%20recanti%20modificazioni%20ed%20aggiunte%20di%20repertorio%20per%20lapplicazione%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20012U0283.md), che ha recato modificazioni e aggiunte al repertorio per l'applicazione della tariffa generale dei dazi doganali.
 
 ## Art. 2.
 

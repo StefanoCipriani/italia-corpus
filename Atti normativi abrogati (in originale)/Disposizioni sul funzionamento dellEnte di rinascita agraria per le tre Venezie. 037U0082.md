@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduto il [R. decreto 8 settembre 1921, n. 1343](../Regi%20decreti/Erezione%20in%20Ente%20morale%20e%20approvazione%20di%20statuto.%20021U1343.md), col quale l'Ente di rinascita agraria per le Tre Venezie e' stato riconosciuto a tutti gli effetti di legge;
+Veduto il [R. decreto 8 settembre 1921, n. 1343](Erezione%20in%20Ente%20morale%20e%20approvazione%20di%20statuto.%20021U1343.md), col quale l'Ente di rinascita agraria per le Tre Venezie e' stato riconosciuto a tutti gli effetti di legge;
 
 Veduto il [R. decreto-legge 5 giugno 1933, n. 730](Agevolazioni%20per%20la%20formazione%20della%20piccola%20proprieta%20e%20di%20organiche%20proprieta%20rurali%20nelle%20Venezie.%20033U0730.md), sulla formazione della piccola proprieta' coltivatrice e di organiche unita' rurali nelle Venezie;
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e per l
 
 ## Art. 1.
 
-L'Ente di rinascita agraria per le Tre Venezie puo' chiedere il trasferimento in sua proprieta' di immobili a chiunque appartengano, quando appaiano suscettibili di essere utilizzati per i fini che l'Ente persegue in conformita' dello statuto approvato con [R. decreto 14 agosto 1931, n. 1188](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20dellEnte%20di%20rinascita%20agraria%20per%20le%20Tre%20Venezie.%20031U1188.md), per l'esecuzione del [R. decreto-legge 5 giugno 1933, n. 730](Agevolazioni%20per%20la%20formazione%20della%20piccola%20proprieta%20e%20di%20organiche%20proprieta%20rurali%20nelle%20Venezie.%20033U0730.md), convertito nella [legge 21 dicembre 1933, n. 1877](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20giugno%201933%20n.%20730%20recante%20agevolazioni%20per%20la%20formazione%20della%20piccola%20proprieta%20e%20di%20organiche%20unita%20rurali%20nelle%20Venezie.%20033U1877.md), sulla formazione della piccola proprieta' coltivatrice o di organiche unita' rurali nelle Venezie.
+L'Ente di rinascita agraria per le Tre Venezie puo' chiedere il trasferimento in sua proprieta' di immobili a chiunque appartengano, quando appaiano suscettibili di essere utilizzati per i fini che l'Ente persegue in conformita' dello statuto approvato con [R. decreto 14 agosto 1931, n. 1188](Approvazione%20del%20nuovo%20statuto%20dellEnte%20di%20rinascita%20agraria%20per%20le%20Tre%20Venezie.%20031U1188.md), per l'esecuzione del [R. decreto-legge 5 giugno 1933, n. 730](Agevolazioni%20per%20la%20formazione%20della%20piccola%20proprieta%20e%20di%20organiche%20proprieta%20rurali%20nelle%20Venezie.%20033U0730.md), convertito nella [legge 21 dicembre 1933, n. 1877](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20giugno%201933%20n.%20730%20recante%20agevolazioni%20per%20la%20formazione%20della%20piccola%20proprieta%20e%20di%20organiche%20unita%20rurali%20nelle%20Venezie.%20033U1877.md), sulla formazione della piccola proprieta' coltivatrice o di organiche unita' rurali nelle Venezie.
 
 ## Art. 2.
 

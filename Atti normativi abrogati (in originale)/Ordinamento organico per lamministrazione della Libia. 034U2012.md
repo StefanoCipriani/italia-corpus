@@ -40,7 +40,7 @@ Il Governatore generale e' nominato con decreto Reale su proposta del Ministro p
  Egli dipende direttamente ed esclusivamente dal Ministro per le colonie e, secondo le istruzioni che da lui riceve, dirige la politica e l'amministrazione della Colonia, provvede alla sicurezza di questa e alla tutela dell'ordine pubblico, cura l'applicazione delle leggi e dei regolamenti. 
  Al Governatore generale possono essere delegate, nei riguardi della Libia, le facolta' spettanti al Governo del Re. 
  Dal Governatore generale dipendono le forze terrestri, marittime ed aeree stanziate nel territorio e nelle acque della Colonia. 
- Quando nella Colonia sia dichiarato lo stato di guerra, il Governatore generale ha le facolta' che, in simili casi, sono conferiti ai comandanti di corpo d'armata dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, dalle leggi e dai regolamenti militari.
+ Quando nella Colonia sia dichiarato lo stato di guerra, il Governatore generale ha le facolta' che, in simili casi, sono conferiti ai comandanti di corpo d'armata dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, dalle leggi e dai regolamenti militari.
 
 ### Art. 3.
 
@@ -359,7 +359,7 @@ Le disposizioni occorrenti per l'esecuzione della presente legge, quando non sia
 
 ### Art. 53.
 
-I bilanci di previsione della Tripolitania e della Cirenaica, per l'esercizio finanziario 1935-36 saranno compilati separatamente con l'osservanza delle disposizioni di cui all'art. 60 dell'ordinamento amministrativo-contabile, approvato con [R. decreto 26 giugno 1925, n. 1271](../Regi%20decreti/Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md). 
+I bilanci di previsione della Tripolitania e della Cirenaica, per l'esercizio finanziario 1935-36 saranno compilati separatamente con l'osservanza delle disposizioni di cui all'art. 60 dell'ordinamento amministrativo-contabile, approvato con [R. decreto 26 giugno 1925, n. 1271](Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md). 
  Entro i limiti complessivi degli stanziamenti sara' successivamente provveduto, con decreto Reale, da emanarsi su proposta del Ministro per le colonie di concerto con quello per le finanze, alla formazione del bilancio unificato della Libia. 
  Con lo stesso decreto Reale saranno altresi' dettate, ove occorra, le modalita' necessarie per detta unificazione.
 
@@ -417,7 +417,7 @@ Con successivo provvedimento da emanarsi di concerto col Ministro per finanze, s
 
 ### Art. 58.
 
-Con successivo Nostro decreto le tabelle organiche del Corpo delle truppe coloniali della Tripolitania, di cui al [R. decreto 10 dicembre 1931, n. 1762](../Regi%20decreti/Tabelle%20organiche%20del%20R.%20Corpo%20di%20truppe%20coloniali%20della%20Tripolitania.%20031U1762.md), e quelle delle Legioni libiche permanenti previste dall'ordinamento approvato con [R. decreto 3 ottobre 1929, n. 1955](../Regi%20decreti/Ordinamento%20delle%20Legioni%20libiche%20permanenti%20di%20M.V.S.N.%20029U1955.md), saranno ridotte del seguente personale: 
+Con successivo Nostro decreto le tabelle organiche del Corpo delle truppe coloniali della Tripolitania, di cui al [R. decreto 10 dicembre 1931, n. 1762](Tabelle%20organiche%20del%20R.%20Corpo%20di%20truppe%20coloniali%20della%20Tripolitania.%20031U1762.md), e quelle delle Legioni libiche permanenti previste dall'ordinamento approvato con [R. decreto 3 ottobre 1929, n. 1955](Ordinamento%20delle%20Legioni%20libiche%20permanenti%20di%20M.V.S.N.%20029U1955.md), saranno ridotte del seguente personale: 
  a) seniori della M.V.S.N. 2 
  b) centurioni della M.V.S.N. 5 
  c) tenenti del Regio esercito o capi manipoli della M.V.S N. 12 

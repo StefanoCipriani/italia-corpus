@@ -22,11 +22,11 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge n. 797 del 29 giugno 1913](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md);
 
-Visto il [R. decreto n. 526 del 22 aprile 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-22;526), [n. 741 del 20 maggio 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-20;741), [n. 815 del 25 maggio 1915](../Regi%20decreti/Col%20quale%20viene%20stabilito%20temporaneamente%20il%20ruolo%20organico%20degli%20ufficiali%20del%20corpo%20R.%20equipaggi.%20015U0815.md);
+Visto il [R. decreto n. 526 del 22 aprile 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-22;526), [n. 741 del 20 maggio 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-20;741), [n. 815 del 25 maggio 1915](Col%20quale%20viene%20stabilito%20temporaneamente%20il%20ruolo%20organico%20degli%20ufficiali%20del%20corpo%20R.%20equipaggi.%20015U0815.md);
 
 Visto i [decreti Luogotenenziali n. 1181 del 25 luglio 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-25;1181), [n. 1678 del 1° ottobre 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-10-01;1678), [n. 133 del 10 febbraio 1916](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-02-10;133);
 
-Visto il [R. decreto n. 359 del 5 marzo 1914](../Regi%20decreti/Col%20quale%20e%20approvato%20lordinamento%20per%20il%20personale%20degli%20assistenti%20del%20genio%20navale.%20014U0359.md);
+Visto il [R. decreto n. 359 del 5 marzo 1914](Col%20quale%20e%20approvato%20lordinamento%20per%20il%20personale%20degli%20assistenti%20del%20genio%20navale.%20014U0359.md);
 
 Visto la [legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md) e successive modificazioni;
 

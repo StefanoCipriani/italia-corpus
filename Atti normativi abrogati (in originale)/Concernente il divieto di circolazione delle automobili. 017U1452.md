@@ -40,7 +40,7 @@ Dal suddetto divieto sono eccettuate:
  
  A) gli autoveicoli appartenenti alle persone della Reale Famiglia; 
  
- B) gli autoveicoli appartenenti ai Grandi ufficiali dello Stato di cui all'[art. 6 del R. decreto 19 aprile 1868, n. 4349](../Regi%20decreti/Col%20quale%20e%20stabilito%20lordine%20per%20le%20precedenze%20tra%20le%20varie%20cariche%20e%20dignita%20a%20Corte%20e%20nelle%20funzioni%20pubbliche.%20068U4349.md), e alle persone indicate nell'art. 2 dello stesso decreto, nonche' gli autoveicoli del R. esercito e della R. marina; 
+ B) gli autoveicoli appartenenti ai Grandi ufficiali dello Stato di cui all'[art. 6 del R. decreto 19 aprile 1868, n. 4349](Col%20quale%20e%20stabilito%20lordine%20per%20le%20precedenze%20tra%20le%20varie%20cariche%20e%20dignita%20a%20Corte%20e%20nelle%20funzioni%20pubbliche.%20068U4349.md), e alle persone indicate nell'art. 2 dello stesso decreto, nonche' gli autoveicoli del R. esercito e della R. marina; 
  
  C) gli autoveicoli delle Associazioni sanitarie, adibiti esclusivamente al trasporto dei malati o dei feriti, e del personale in servizio; 
  

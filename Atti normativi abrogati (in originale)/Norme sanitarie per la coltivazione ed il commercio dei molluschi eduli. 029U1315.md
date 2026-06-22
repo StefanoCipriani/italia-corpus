@@ -193,7 +193,7 @@ L'infrazione alle norme stabilite dagli articoli 5, 6 e 7 e' punita con l'ammend
  
  Nei casi di infrazione alle norme contenute negli articoli 9 e 10, comma secondo, come pure nei due ultimi casi specificati dal quarto comma del presente articolo, si fara' anche luogo al sequestro della merce, ed, ove questa risulti avariata o non sia atta al consumo, se ne disporra' la distruzione. 
  
- Le pene comminate dalla presente legge non pregiudicano l'applicazione di quelle maggiori previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e da altre leggi speciali.
+ Le pene comminate dalla presente legge non pregiudicano l'applicazione di quelle maggiori previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e da altre leggi speciali.
 
 ### Art. 20.
 

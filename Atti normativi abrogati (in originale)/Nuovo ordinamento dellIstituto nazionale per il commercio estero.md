@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto-legge 3 febbraio 1936, n. 296](Coordinamento%20delle%20attribuzioni%20e%20dei%20servizi%20dellIstituto%20nazionale%20fascista%20per%20gli%20scambi%20con%20lestero%20-%20che%20assume%20la%20denominazione%20di%20Istituto%20nazionale%20fascista%20per%20il%20commercio%20est_a2237e09fc52.md),
 
-convertito nella [legge 14 aprile 1936, n. 929](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20febbraio%201936-XIV%20n.%20296%20riguardante%20il%20coordinamento%20delle%20attribuzioni%20e%20dei%20servizi%20dellIstituto%20nazionale%20fascista%20per%20gli%20scambi%20con%20leste_15f8dbfe3522.md), concernente
+convertito nella [legge 14 aprile 1936, n. 929](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20febbraio%201936-XIV%20n.%20296%20riguardante%20il%20coordinamento%20delle%20attribuzioni%20e%20dei%20servizi%20dellIstituto%20nazionale%20fascista%20per%20gli%20scambi%20con%20leste_15f8dbfe3522.md), concernente
 
 l'ordinamento dell'istituto nazionale per il commercio estero;
 

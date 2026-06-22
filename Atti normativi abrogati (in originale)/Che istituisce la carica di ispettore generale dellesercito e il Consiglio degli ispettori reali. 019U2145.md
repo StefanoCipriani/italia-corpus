@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la legge sull'ordinamento del (frase intraducibile) R. esercito e del testo unico approvato con [R. decreto 14 luglio 1898, n. 525](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e successive modificazioni;
+Vista la legge sull'ordinamento del (frase intraducibile) R. esercito e del testo unico approvato con [R. decreto 14 luglio 1898, n. 525](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e successive modificazioni;
 
-Visto ii [R. decreto 12 febbraio 1911, n. 132](../Regi%20decreti/Che%20fissa%20le%20attribuzioni%20degli%20ispettori%20generali%20di%20cavalleria%20dartiglieria%20e%20del%20genio%20e%20dellispettore%20delle%20truppe%20da%20montagna.%20011U0132.md);
+Visto ii [R. decreto 12 febbraio 1911, n. 132](Che%20fissa%20le%20attribuzioni%20degli%20ispettori%20generali%20di%20cavalleria%20dartiglieria%20e%20del%20genio%20e%20dellispettore%20delle%20truppe%20da%20montagna.%20011U0132.md);
 
 Visto il [R. decreto 20 luglio 1919, n. 1418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-07-20;1418);
 

@@ -16,9 +16,9 @@ Vista la [legge 25 gennaio 1940, n. 4](Riordinamento%20dei%20ruoli%20del%20perso
 
 Visto il [regio decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md), che detta provvidenze a favore dei richiamati alle anni nelle promozioni del personale statale;
 
-Visto il [regio decreto 20 novembre 1942, n. 1565](../Regi%20decreti/Passaggio%20di%20ruolo%20e%20promozioni%20di%20taluni%20personali%20dellAmministrazione%20finanziaria.%20042U1565.md), sul passaggio di ruolo e promozioni di taluni personali dell'Amministrazione finanziaria;
+Visto il [regio decreto 20 novembre 1942, n. 1565](Passaggio%20di%20ruolo%20e%20promozioni%20di%20taluni%20personali%20dellAmministrazione%20finanziaria.%20042U1565.md), sul passaggio di ruolo e promozioni di taluni personali dell'Amministrazione finanziaria;
 
-Visto il [decreto legislativo luogotenenziale 8 maggio 1946, n. 354](../Decreti%20legislativi%20luogotenenziali/Proroga%20e%20revoca%20di%20taluni%20provvedimenti%20in%20dipendenza%20della%20cessazione%20dello%20stato%20di%20guerra.md), sulla proroga e revoca di taluni provvedimenti in dipendenza della cessazione dello stato di guerra;
+Visto il [decreto legislativo luogotenenziale 8 maggio 1946, n. 354](Proroga%20e%20revoca%20di%20taluni%20provvedimenti%20in%20dipendenza%20della%20cessazione%20dello%20stato%20di%20guerra.md), sulla proroga e revoca di taluni provvedimenti in dipendenza della cessazione dello stato di guerra;
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per le finanze, di concerto con quello per il tesoro
 
 ## Art. 1.
 
-I posti di grado ottavo attualmente disponibili o che si renderanno tali fino al 31 dicembre 1947 nei ruoli di gruppo A delle Amministrazioni provinciali delle imposte dirette, delle tasse ed imposte indirette sugli affari e delle dogane sono conferiti nei modi previsti dall'[art. 1 del regio decreto 20 novembre 1942, n. 1565](../Regi%20decreti/Passaggio%20di%20ruolo%20e%20promozioni%20di%20taluni%20personali%20dellAmministrazione%20finanziaria.%20042U1565.md).
+I posti di grado ottavo attualmente disponibili o che si renderanno tali fino al 31 dicembre 1947 nei ruoli di gruppo A delle Amministrazioni provinciali delle imposte dirette, delle tasse ed imposte indirette sugli affari e delle dogane sono conferiti nei modi previsti dall'[art. 1 del regio decreto 20 novembre 1942, n. 1565](Passaggio%20di%20ruolo%20e%20promozioni%20di%20taluni%20personali%20dellAmministrazione%20finanziaria.%20042U1565.md).
 
 ## Art. 2.
 

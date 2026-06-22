@@ -60,7 +60,7 @@ Per gli imputati aventi grado di colonnello, il tribunale militare speciale e' f
 
 ## Art. 7.
 
-Nei casi previsti dall'articolo precedente l'estrazione a sorte e' fatta, in pubblica udienza, dal presidente del tribunale supremo di guerra e marina, nei modi prescritti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e dal regolamento organico per il servizio dei tribunali militari.
+Nei casi previsti dall'articolo precedente l'estrazione a sorte e' fatta, in pubblica udienza, dal presidente del tribunale supremo di guerra e marina, nei modi prescritti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e dal regolamento organico per il servizio dei tribunali militari.
 
 ## Art. 8.
 

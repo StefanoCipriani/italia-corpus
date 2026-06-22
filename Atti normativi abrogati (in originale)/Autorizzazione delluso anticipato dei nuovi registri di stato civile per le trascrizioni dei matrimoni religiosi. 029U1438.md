@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 27 maggio 1929, n. 847](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;847), per l'applicazione del Concordato dell'11 febbraio 1929 tra la Santa Sede e l'Italia, nella parte relativa al matrimonio;
 
-Visto il [R. decreto 26 luglio 1929, n. 1361](../Regi%20decreti/Modifica%20alla%20tenuta%20dei%20registri%20dello%20stato%20civile.%20029U1361.md), che modifica la tenuta dei registri dello stato civile del Regno con decorrenza dal 1° gennaio 1930;
+Visto il [R. decreto 26 luglio 1929, n. 1361](Modifica%20alla%20tenuta%20dei%20registri%20dello%20stato%20civile.%20029U1361.md), che modifica la tenuta dei registri dello stato civile del Regno con decorrenza dal 1° gennaio 1930;
 
 Visto l'[art. 3, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giu
 
 ## Articolo unico.
 
-Gli uffici di stato civile, ove credano, potranno servirsi, anche anteriormente al 1° gennaio 1930, dei nuovi registri di matrimonio, composti di fogli con modelli a stampa, di cui all'[art. 2 del R. decreto 26 luglio 1929, n. 1361](../Regi%20decreti/Modifica%20alla%20tenuta%20dei%20registri%20dello%20stato%20civile.%20029U1361.md), per la trascrizione degli atti dei matrimoni celebrati davanti ai ministri del culto cattolico, apostolico, romano. 
+Gli uffici di stato civile, ove credano, potranno servirsi, anche anteriormente al 1° gennaio 1930, dei nuovi registri di matrimonio, composti di fogli con modelli a stampa, di cui all'[art. 2 del R. decreto 26 luglio 1929, n. 1361](Modifica%20alla%20tenuta%20dei%20registri%20dello%20stato%20civile.%20029U1361.md), per la trascrizione degli atti dei matrimoni celebrati davanti ai ministri del culto cattolico, apostolico, romano. 
  
  In tale ipotesi, fino a tutto il 31 dicembre 1929, i registri con modelli stampati, per la trascrizione degli originali di atti di matrimonio religioso, celebrati nel medesimo Comune, saranno designati come registri della parte II, serie C. 
  

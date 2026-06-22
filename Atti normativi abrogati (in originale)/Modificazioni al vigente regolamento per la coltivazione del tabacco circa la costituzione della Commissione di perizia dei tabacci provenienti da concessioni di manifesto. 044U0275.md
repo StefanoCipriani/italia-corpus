@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'[art. 59 del R. decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), modificato dell'[art. 1 del R. decreto 5 dicembre 1928, n. 3191](../Regi%20decreti/Modificazioni%20al%20vigente%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20028U3191.md), e' sostituito dal seguente: 
+L'[art. 59 del R. decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), modificato dell'[art. 1 del R. decreto 5 dicembre 1928, n. 3191](Modificazioni%20al%20vigente%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20028U3191.md), e' sostituito dal seguente: 
  
  Per la nomina del delegato dei concessionari il sindaco di ciascun Comune convoca, nella seconda domenica di luglio, tutti i concessionari delle coltivazioni effettuate nel Comune medesimo. 
  

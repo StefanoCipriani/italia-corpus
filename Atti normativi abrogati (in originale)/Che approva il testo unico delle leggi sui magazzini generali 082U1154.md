@@ -134,7 +134,7 @@ Per eseguire il suo mandato, il delegato o i delegati della Camera di commercio 
 
 ## Art. 15.
 
-Per le contravvenzioni al disposto degli articoli 2, 4, 5, 6 e 7 si incorrera' nella pena della multa da lire 51 a lire 5000, salvi i casi di maggiori pene, quando il fatto possa costituire un reato preveduto dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e salva l'azione civile dei danni agli interessati, a termini di legge.
+Per le contravvenzioni al disposto degli articoli 2, 4, 5, 6 e 7 si incorrera' nella pena della multa da lire 51 a lire 5000, salvi i casi di maggiori pene, quando il fatto possa costituire un reato preveduto dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e salva l'azione civile dei danni agli interessati, a termini di legge.
 
 ## Art. 16.
 

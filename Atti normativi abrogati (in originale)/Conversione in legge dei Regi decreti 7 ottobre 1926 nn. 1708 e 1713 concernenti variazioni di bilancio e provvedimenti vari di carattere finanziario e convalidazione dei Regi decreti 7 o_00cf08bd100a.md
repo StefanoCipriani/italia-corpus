@@ -14,7 +14,7 @@ Sono convertiti in legge i [Regi decreti 7 ottobre 1926, nn. 1708](https://www.n
 
 ## Art. 2.
 
-Sono convalidati i [Regi decreti 7 ottobre 1926, nn. 1710](../Regi%20decreti/14ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201926-27.%20026U1710.md), [1711](../Regi%20decreti/15ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201926-1927.%20026U1711.md) e [1712](../Regi%20decreti/16ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201926-27.%20026U1712.md), coi quali sono state autorizzate prelevazioni dal fondo di riserva per le spese impreviste, inscritto nel bilancio del Ministero delle finanze, per l'esercizio finanziario 1926-27. 
+Sono convalidati i [Regi decreti 7 ottobre 1926, nn. 1710](14ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201926-27.%20026U1710.md), [1711](15ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201926-1927.%20026U1711.md) e [1712](16ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201926-27.%20026U1712.md), coi quali sono state autorizzate prelevazioni dal fondo di riserva per le spese impreviste, inscritto nel bilancio del Ministero delle finanze, per l'esercizio finanziario 1926-27. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

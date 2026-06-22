@@ -32,7 +32,7 @@ I buoni da emettersi a forma dell'articolo precedente, saranno ammortizzabili en
 
 ## Art. 6.
 
-Sono estese ai nuovi buoni da emettersi le disposizioni degli [articoli 2 e seguenti della legge 7 aprile 1892, n. 111](Che%20autorizza%20il%20Governo%20del%20Re%20ad%20emettere%20buoni%20del%20Tesoro%20a%20lunga%20scadenza%20per%20una%20somma%20fino%20a%20200%20milioni%20di%20lire.%20092U0111.md), e ad essi sono pure applicabili tutte le disposizioni del Regolamento per restituzione della legge stessa, approvato col [R. decreto 10 aprile 1892, n. 120](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20emissione%20dei%20buoni%20del%20Tesoro%20a%20lunga%20scadenza%20autorizzati%20con%20legge%207%20aprile%201892.%20092U0120.md), salvo cio' che sia contrario a quanto e' stabilito nella presente legge.
+Sono estese ai nuovi buoni da emettersi le disposizioni degli [articoli 2 e seguenti della legge 7 aprile 1892, n. 111](Che%20autorizza%20il%20Governo%20del%20Re%20ad%20emettere%20buoni%20del%20Tesoro%20a%20lunga%20scadenza%20per%20una%20somma%20fino%20a%20200%20milioni%20di%20lire.%20092U0111.md), e ad essi sono pure applicabili tutte le disposizioni del Regolamento per restituzione della legge stessa, approvato col [R. decreto 10 aprile 1892, n. 120](Che%20approva%20il%20regolamento%20per%20la%20emissione%20dei%20buoni%20del%20Tesoro%20a%20lunga%20scadenza%20autorizzati%20con%20legge%207%20aprile%201892.%20092U0120.md), salvo cio' che sia contrario a quanto e' stabilito nella presente legge.
 
 ## Art. 7.
 

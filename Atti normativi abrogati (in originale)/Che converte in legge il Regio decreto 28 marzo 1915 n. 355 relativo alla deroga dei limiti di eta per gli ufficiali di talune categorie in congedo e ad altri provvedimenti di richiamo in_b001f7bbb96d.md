@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E convertito in legge il [Regio decreto 28 marzo 1915 n. 355](../Regi%20decreti/Riguardanti%20deroga%20ai%20limiti%20di%20eta%20per%20talune%20categorie%20di%20ufficiali%20in%20congedo%20ed%20impiego%20di%20ufficiali%20in%20congedo%20provvisorio%20e%20di%20volontari%20non%20vincolati%20da%20obbligo%20di%20servizio.%20015U0355.md), relativo alla deroga dei limiti di eta' per gli Ufficiali di talune categorie in congedo e ad altri provvedimenti di richiamo in servizio. 
+ E convertito in legge il [Regio decreto 28 marzo 1915 n. 355](Riguardanti%20deroga%20ai%20limiti%20di%20eta%20per%20talune%20categorie%20di%20ufficiali%20in%20congedo%20ed%20impiego%20di%20ufficiali%20in%20congedo%20provvisorio%20e%20di%20volontari%20non%20vincolati%20da%20obbligo%20di%20servizio.%20015U0355.md), relativo alla deroga dei limiti di eta' per gli Ufficiali di talune categorie in congedo e ad altri provvedimenti di richiamo in servizio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare, come legge dello Stato. 
  

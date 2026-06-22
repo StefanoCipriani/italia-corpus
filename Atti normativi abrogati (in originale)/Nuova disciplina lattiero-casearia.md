@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 22 dicembre 1945, n. 838](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Ministero%20dellalimentazione%20e%20istituzione%20di%20un%20Alto%20Commissariato%20per%20lalimentazione.md);
+Visto il [decreto legislativo luogotenenziale 22 dicembre 1945, n. 838](Soppressione%20del%20Ministero%20dellalimentazione%20e%20istituzione%20di%20un%20Alto%20Commissariato%20per%20lalimentazione.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

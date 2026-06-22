@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto-legge 3 gennaio 1944, n. 6](Organico%20e%20trattamento%20economico%20dei%20sottufficiali%20e%20militari%20di%20truppa%20dellArma%20dei%20C.C.R.R.%20044U0006.md);
 
-Visto il [decreto legislativo luogotenenziale 9 novembre 1945, n. 857](../Decreti%20legislativi%20luogotenenziali/Reclutamento%20dei%20carabinieri%20Reali.md);
+Visto il [decreto legislativo luogotenenziale 9 novembre 1945, n. 857](Reclutamento%20dei%20carabinieri%20Reali.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la guerra, d'intesa con i Ministri per l'interno
 
 ## Art. 1.
 
-A parziale deroga delle disposizioni dell'[art. 7 del decreto legislativo luogotenenziale 9 novembre 1945, n. 857](../Decreti%20legislativi%20luogotenenziali/Reclutamento%20dei%20carabinieri%20Reali.md), i sottufficiali e i militari di truppa dell'Arma dei carabinieri che siano richiamati o trattenuti in servizio alla data di entrata in vigore del presente decreto, possono, a domanda, se in possesso dei requisiti prescritti, ottenere la riammissione in servizio effettivo nell'Arma, prescindendo dallo stato di celibe o di vedovo senza prole e dal limite del trentesimo anno di eta', purche' non sia stato superato alla data dell'ultimo richiamo o del trattenimento alle armi il 35° anno di eta'.
+A parziale deroga delle disposizioni dell'[art. 7 del decreto legislativo luogotenenziale 9 novembre 1945, n. 857](Reclutamento%20dei%20carabinieri%20Reali.md), i sottufficiali e i militari di truppa dell'Arma dei carabinieri che siano richiamati o trattenuti in servizio alla data di entrata in vigore del presente decreto, possono, a domanda, se in possesso dei requisiti prescritti, ottenere la riammissione in servizio effettivo nell'Arma, prescindendo dallo stato di celibe o di vedovo senza prole e dal limite del trentesimo anno di eta', purche' non sia stato superato alla data dell'ultimo richiamo o del trattenimento alle armi il 35° anno di eta'.
  La riammissione in servizio effettivo dell'indicato personale e' da operarsi in corrispondenza alle vacanze esistenti nei rispettivi gradi del ruolo organico del servizio effettivo dei sottufficiali e dei militari di truppa dell'Arma.
 
 ## Art. 2.

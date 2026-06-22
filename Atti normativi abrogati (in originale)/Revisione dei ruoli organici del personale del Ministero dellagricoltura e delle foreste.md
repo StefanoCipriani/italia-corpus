@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Le tabelle organiche A, B, C, D, E, F, G, L, M, N, di cui al [regio decreto 29 maggio 1941, n. 489](../Regi%20decreti/Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md) e successive modificazioni, sono sostituite rispettivamente dalle tabelle da I a X allegate al presente decreto, firmate dal Ministro proponente e dal Ministro per il tesoro.
+Le tabelle organiche A, B, C, D, E, F, G, L, M, N, di cui al [regio decreto 29 maggio 1941, n. 489](Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md) e successive modificazioni, sono sostituite rispettivamente dalle tabelle da I a X allegate al presente decreto, firmate dal Ministro proponente e dal Ministro per il tesoro.
 
 ## Art. 2.
 

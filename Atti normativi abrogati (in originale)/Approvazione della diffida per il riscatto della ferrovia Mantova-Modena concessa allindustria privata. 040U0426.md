@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' approvata, a tutti gli effetti, la diffida notificata il 7 novembre 1938-XVII «Societa' anonima per la costruzione e l'esercizio della ferrovia Mantova-Modena» per il riscatto della ferrovia Sant'Antonio Mantova-Modena con decorrenza dal 29 novembre 1939-XVIII, restando da quest'ultima, data pienamente e completamente risoluta la concessione della detta ferrovia accordata mediante [R. decreto 1° dicembre 1870, n. 6094](../Regi%20decreti/Che%20approva%20la%20Convenzione%20per%20la%20costruzione%20e%20lesercizio%20della%20ferrovia%20Mantova-Modena.%20070U6094.md).
+E' approvata, a tutti gli effetti, la diffida notificata il 7 novembre 1938-XVII «Societa' anonima per la costruzione e l'esercizio della ferrovia Mantova-Modena» per il riscatto della ferrovia Sant'Antonio Mantova-Modena con decorrenza dal 29 novembre 1939-XVIII, restando da quest'ultima, data pienamente e completamente risoluta la concessione della detta ferrovia accordata mediante [R. decreto 1° dicembre 1870, n. 6094](Che%20approva%20la%20Convenzione%20per%20la%20costruzione%20e%20lesercizio%20della%20ferrovia%20Mantova-Modena.%20070U6094.md).
 
 ## Art. 2.
 

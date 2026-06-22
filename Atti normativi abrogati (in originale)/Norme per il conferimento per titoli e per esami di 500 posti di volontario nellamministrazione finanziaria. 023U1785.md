@@ -137,7 +137,7 @@ Con decreto Ministeriale sara' provveduto per la nomina della Commissione centra
 
 ## Art. 9.
 
-Per gli esami saranno osservate le modalita' di cui al regolamento generale per la esecuzione del testo unico delle leggi sullo stato degli impiegati civili approvato con [R. decreto 24 novembre 1908, n. 756](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md). 
+Per gli esami saranno osservate le modalita' di cui al regolamento generale per la esecuzione del testo unico delle leggi sullo stato degli impiegati civili approvato con [R. decreto 24 novembre 1908, n. 756](Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md). 
  
  I componenti la Commissione di vigilanza, la quale dovra' essere istituita presso ciascuna intendenza di finanza designata quale sede delle prove scritte, dovranno essere scelti tutti tra gli impiegati appartenenti al ruolo delle intendenze stesse.
 

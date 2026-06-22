@@ -16,7 +16,7 @@ RE D'ITALIA.
 
 Veduto il [R. decreto 6 novembre 1926, n. 1831](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-06;1831);
 
-Veduti il [testo unico delle leggi sul Debito pubblico](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), approvato con [R. decreto 17 luglio 1910, n. 536](Che%20approva%20lannesso%20testo%20unico%20di%20tutte%20le%20leggi%20sul%20Debito%20pubblico.%20010U0536.md), e il relativo regolamento approvato con [R. decreto del 19 febbraio 1911, n. 298](Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md);
+Veduti il [testo unico delle leggi sul Debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), approvato con [R. decreto 17 luglio 1910, n. 536](Che%20approva%20lannesso%20testo%20unico%20di%20tutte%20le%20leggi%20sul%20Debito%20pubblico.%20010U0536.md), e il relativo regolamento approvato con [R. decreto del 19 febbraio 1911, n. 298](Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md);
 
 Veduti il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' di Stato, e il relativo regolamento approvato con [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), nei riguardi dei buoni ordinari;
 

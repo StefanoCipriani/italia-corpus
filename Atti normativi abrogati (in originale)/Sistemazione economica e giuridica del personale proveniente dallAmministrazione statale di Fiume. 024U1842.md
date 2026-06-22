@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di
 
 Il personale di ruolo proveniente dall' Amministrazione statale di Fiume, in servizio alla entrata in vigore del presente decreto, e' assimilato a quello del Regno, ed e' ascritto: 
  
- a) ai gruppi A, B e C, stabiliti con l'Ordinamento gerarchico delle Amministrazioni dello Stato, approvato con [Regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), in quanto sia riconosciuto in possesso di requisiti equipollenti a quelli richiesti per gli impiegati del Regno, rispettivamente appartenenti ai detti gruppi ed abbia qualifiche corrispondenti a quelle proprie degli impiegati stessi; 
+ a) ai gruppi A, B e C, stabiliti con l'Ordinamento gerarchico delle Amministrazioni dello Stato, approvato con [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), in quanto sia riconosciuto in possesso di requisiti equipollenti a quelli richiesti per gli impiegati del Regno, rispettivamente appartenenti ai detti gruppi ed abbia qualifiche corrispondenti a quelle proprie degli impiegati stessi; 
  
  b) al personale subalterno, di cui all'allegato IV al citato Regio decreto, in quanto abbia qualifiche che corrispondano a quelle dei personali indicati nelle tabelle contenute nell'allegato medesimo; 
  
@@ -32,7 +32,7 @@ Il personale di ruolo proveniente dall' Amministrazione statale di Fiume, in ser
 
 ## Art. 2.
 
-Salvo quanto dispongono i successivi articoli 3 e 5, nei riguardi degli impiegati postali, telegrafici e telefonici e degli insegnanti, il personale di cui alla lettera a) del precedente art. 1, ripartito in classi, secondo gli ordinamenti della cessata Amministrazione statale di Fiume, e' assegnato, previo parere favorevole del consiglio di amministrazione, ai gradi sottoindicati delle carriere corrispondenti di cui all'allegato II al citato [Regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e cioe': 
+Salvo quanto dispongono i successivi articoli 3 e 5, nei riguardi degli impiegati postali, telegrafici e telefonici e degli insegnanti, il personale di cui alla lettera a) del precedente art. 1, ripartito in classi, secondo gli ordinamenti della cessata Amministrazione statale di Fiume, e' assegnato, previo parere favorevole del consiglio di amministrazione, ai gradi sottoindicati delle carriere corrispondenti di cui all'allegato II al citato [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e cioe': 
  
  il personale della classe V , al grado 6°; 
  
@@ -61,7 +61,7 @@ Gli impiegati dei servizi postali, telegrafici e telefonici, ripartiti secondo g
  
  Il personale postale, telegrafico e telefonico ausiliario, e' assimilato a quello postale, telegrafico e telefonico del Regno, appartenente al gruppo C, ed e' assegnato: al grado 10°, se del gruppo I; al grado 11°, se del gruppo II; ed al grado 12°, se del gruppo III. 
  
- Al personale di cui al presente articolo si applicano le disposizioni vigenti per lo stesso personale dell'Amministrazione postale, telegrafica e telefonica del Regno, tanto agli effetti dell'assegnazione ai gruppi B e C, quanto agli effetti degli scrutini per il conferimento di gradi superiori all'atto della prima applicazione del presente decreto, nei limiti di posti che saranno determinati ai sensi del [primo comma dell'art. 3 del Regio decreto 23 dicembre 1923, n. 2829](../Regi%20decreti/Estensione%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20al%20personale%20proveniente%20dai%20ruoli%20della%20cessata%20Amministrazione%20austro-ungarica.%20023U2829.md).
+ Al personale di cui al presente articolo si applicano le disposizioni vigenti per lo stesso personale dell'Amministrazione postale, telegrafica e telefonica del Regno, tanto agli effetti dell'assegnazione ai gruppi B e C, quanto agli effetti degli scrutini per il conferimento di gradi superiori all'atto della prima applicazione del presente decreto, nei limiti di posti che saranno determinati ai sensi del [primo comma dell'art. 3 del Regio decreto 23 dicembre 1923, n. 2829](Estensione%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20al%20personale%20proveniente%20dai%20ruoli%20della%20cessata%20Amministrazione%20austro-ungarica.%20023U2829.md).
 
 ## Art. 4.
 
@@ -77,7 +77,7 @@ Il personale di cui al precedente art. 2 e' collocato nel grado ad esso attribui
 
 ## Art. 5.
 
-I professori ordinari delle scuole medie governative provenienti dalla cessata Amministrazione di Fiume, sempreche' siano abilitati all'insegnamento nelle scuole medie di ogni ordine e grado, secondo gli ordinamenti del Regno o del cessato Regno d'Ungheria, sono assegnati, con il grado di ordinario, al ruolo A degli insegnanti delle corrispondenti scuole medie del Regno, e collocati nel gradi stabiliti dal [Regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), in base alle norme degli articoli 94 a 97 del decreto medesimo, tenuto conto dell'anzianita' utile di servizio effettivo, valutabile secondo le norme vigenti a Fiume, avuto riguardo al titolo di studio, o altrimenti ad essi riconosciuta. 
+I professori ordinari delle scuole medie governative provenienti dalla cessata Amministrazione di Fiume, sempreche' siano abilitati all'insegnamento nelle scuole medie di ogni ordine e grado, secondo gli ordinamenti del Regno o del cessato Regno d'Ungheria, sono assegnati, con il grado di ordinario, al ruolo A degli insegnanti delle corrispondenti scuole medie del Regno, e collocati nel gradi stabiliti dal [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), in base alle norme degli articoli 94 a 97 del decreto medesimo, tenuto conto dell'anzianita' utile di servizio effettivo, valutabile secondo le norme vigenti a Fiume, avuto riguardo al titolo di studio, o altrimenti ad essi riconosciuta. 
  
  Gli insegnanti ordinari di educazione fisica saranno collocati a riposo a decorrere dalla entrata in vigore del presente decreto e fruiranno del trattamento di quiescenza secondo le norme di cui al successivo art. 9 del decreto medesimo. 
  
@@ -117,17 +117,17 @@ Il personale di ruolo esonerato ai sensi del precedente articolo, ha diritto al 
 
 ## Art. 10.
 
-Il personale assimilato in conformita' del presente decreto viene inscritto negli elenchi di cui all'[articolo 9 del Regio decreto 18 febbraio 1923, n. 440](../Regi%20decreti/Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md). 
+Il personale assimilato in conformita' del presente decreto viene inscritto negli elenchi di cui all'[articolo 9 del Regio decreto 18 febbraio 1923, n. 440](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md). 
  
  La inscrizione e' effettuata collocando i singoli impiegati ed agenti nel grado loro assegnato ai sensi dei precedenti e articoli 2, 3 e 6, secondo l'anzianita' loro riconosciuta nel grado stesso. 
  
- I personali suddetti partecipano alle promozioni ai gradi superiori in conformita' delle disposizioni stabilite all'[art. 10 del Regio decreto 18 febbraio 1923, n. 440](../Regi%20decreti/Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md), sopraindicato, con le modificazioni apportatevi dagli ordinamenti delle singole Amministrazioni. 
+ I personali suddetti partecipano alle promozioni ai gradi superiori in conformita' delle disposizioni stabilite all'[art. 10 del Regio decreto 18 febbraio 1923, n. 440](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md), sopraindicato, con le modificazioni apportatevi dagli ordinamenti delle singole Amministrazioni. 
  
- Ove non esistano, per singole categorie, elenchi di personale delle nuove Provincie, costituiti ai sensi del citato [articolo 9 del Regio decreto 18 febbraio 1923, n. 440](../Regi%20decreti/Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md), gli elenchi stessi saranno formati, ai sensi e per gli effetti di cui al presente articolo, per il solo personale proveniente dall'amministrazione statale di Fiume.
+ Ove non esistano, per singole categorie, elenchi di personale delle nuove Provincie, costituiti ai sensi del citato [articolo 9 del Regio decreto 18 febbraio 1923, n. 440](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md), gli elenchi stessi saranno formati, ai sensi e per gli effetti di cui al presente articolo, per il solo personale proveniente dall'amministrazione statale di Fiume.
 
 ## Art. 11.
 
-Qualora, per il personale proveniente dalla cessata Amministrazione austro-ungarica, siano stati determinati i posti da conferirsi per i diversi gradi, ai sensi dell'[art. 3 del Regio decreto 23 dicembre 1923, n. 2829](../Regi%20decreti/Estensione%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20al%20personale%20proveniente%20dai%20ruoli%20della%20cessata%20Amministrazione%20austro-ungarica.%20023U2829.md), il numero di detti posti sara' modificato, con le forme previste dal decreto stesso, in dipendenza dell'assegnazione dei gradi al personale proveniente dall'Amministrazione statale di Fiume a norma del presente decreto. 
+Qualora, per il personale proveniente dalla cessata Amministrazione austro-ungarica, siano stati determinati i posti da conferirsi per i diversi gradi, ai sensi dell'[art. 3 del Regio decreto 23 dicembre 1923, n. 2829](Estensione%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20al%20personale%20proveniente%20dai%20ruoli%20della%20cessata%20Amministrazione%20austro-ungarica.%20023U2829.md), il numero di detti posti sara' modificato, con le forme previste dal decreto stesso, in dipendenza dell'assegnazione dei gradi al personale proveniente dall'Amministrazione statale di Fiume a norma del presente decreto. 
  
  Per le Amministrazioni per le quali il provvedimento previsto dal citato art. 3 non sia stato emanato, la determinazione dei posti puo' essere stabilita con effetto anche nei riguardi del personale gia' appartenente alla detta Amministrazione di Fiume.
 
@@ -149,13 +149,13 @@ Salvo quanto e' disposto dal presente decreto, sono estese al personale di quals
 
 ## Art. 14.
 
-A partire dalla entrata in vigore del presente decreto la liquidazione delle pensioni a favore del personale assimilato ai termini del decreto stesso, e' fatta, sia per quelle dirette, sia per quelle di riversibilita', in base alle disposizioni vigenti nel Regno, salvo quanto e' stabilito al precedente art. 9, tenuto conto altresi' del disposto degli [articoli 22](../Regi%20decreti/Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md) e [23 del Regio decreto 18 febbraio 1923, n. 440](../Regi%20decreti/Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md). 
+A partire dalla entrata in vigore del presente decreto la liquidazione delle pensioni a favore del personale assimilato ai termini del decreto stesso, e' fatta, sia per quelle dirette, sia per quelle di riversibilita', in base alle disposizioni vigenti nel Regno, salvo quanto e' stabilito al precedente art. 9, tenuto conto altresi' del disposto degli [articoli 22](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md) e [23 del Regio decreto 18 febbraio 1923, n. 440](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md). 
  
  Per la determinazione del servizio utile ai fini di pensione, sino alla entrata in vigore del presente decreto, si osservano gli ordinamenti dell'Amministrazione di Fiume, restando pero' esclusa qualsiasi valutazione di campagne di guerra per il personale che abbia ad esse partecipato con le forze armate austro-ungariche. 
  
  E' parimenti escluso il doppio computo degli anni di guerra 1914-18, consentito dagli ordinamenti suddetti. 
  
- Le esclusioni previste nei due commi precedenti sono altresi' applicabili alle pensioni liquidate a titolo provvisorio dal prefetto di Fiume, in virtu' del [Regio decreto 28 agosto 1924, n. 1448](../Regi%20decreti/Liquidazione%20degli%20assegni%20di%20pensione%20al%20personale%20dipendente%20dallex%20Stato%20Fiumano%20secondo%20le%20norme%20della%20cessata%20Amministrazione%20di%20Fiume.%20024U1448.md). 
+ Le esclusioni previste nei due commi precedenti sono altresi' applicabili alle pensioni liquidate a titolo provvisorio dal prefetto di Fiume, in virtu' del [Regio decreto 28 agosto 1924, n. 1448](Liquidazione%20degli%20assegni%20di%20pensione%20al%20personale%20dipendente%20dallex%20Stato%20Fiumano%20secondo%20le%20norme%20della%20cessata%20Amministrazione%20di%20Fiume.%20024U1448.md). 
  
  A partire dalla entrata in vigore del presente decreto cessa il conferimento dei sussidi funerari, a norma degli ordinamenti dell'Amministrazione di Fiume, tanto per il personale in attivita' di servizio, quanto per quello in quiescenza.
 
@@ -167,11 +167,11 @@ I provvedimenti di pensione ordinaria, civile e militare, nonche' quelli per le 
  
  I provvedimenti sopraindicati, che fossero stati adottati senza il concorso dell'autorita' locale di finanza, saranno sottoposti a revisione da parte di questa. 
  
- L'aggiunta di famiglia concessa ai pensionati, secondo le disposizioni dell'Amministrazione di Fiume, spetta fino a quando verranno corrisposti ai pensionati del Regno gli assegni mensili per caro viveri, di cui al [Regio decreto 31 luglio 1919, n. 1304](../Regi%20decreti/Che%20stabilisce%20un%20assegno%20mensile%20di%20L.%2050%20e%20di%20L.%2030%20a%20favore%20rispettivamente%20di%20tutti%20i%20pensionati%20dello%20Stato%20e%20delle%20loro%20vedove%20orfani%20e%20genitori.%20019U1304.md), alla [legge 26 dicembre 1920, n. 1827](Relativa%20alla%20concessione%20di%20un%20nuovo%20caroviveri%20ai%20pensionati%20civili%20e%20militari.%20020U1827.md) e al [Regio decreto 29 dicembre 1921, n. 1964](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-12-29;1964).
+ L'aggiunta di famiglia concessa ai pensionati, secondo le disposizioni dell'Amministrazione di Fiume, spetta fino a quando verranno corrisposti ai pensionati del Regno gli assegni mensili per caro viveri, di cui al [Regio decreto 31 luglio 1919, n. 1304](Che%20stabilisce%20un%20assegno%20mensile%20di%20L.%2050%20e%20di%20L.%2030%20a%20favore%20rispettivamente%20di%20tutti%20i%20pensionati%20dello%20Stato%20e%20delle%20loro%20vedove%20orfani%20e%20genitori.%20019U1304.md), alla [legge 26 dicembre 1920, n. 1827](Relativa%20alla%20concessione%20di%20un%20nuovo%20caroviveri%20ai%20pensionati%20civili%20e%20militari.%20020U1827.md) e al [Regio decreto 29 dicembre 1921, n. 1964](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-12-29;1964).
 
 ## Art. 16.
 
-Ferma l'osservanza dell'[art. 17 del Regio decreto 18 febbraio 1923, n. 440](../Regi%20decreti/Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md), le disposizioni concernenti provvedimenti a beneficio del personale gia' combattente si applicano a favore del personale assimilato ai sensi del presente decreto, che si trovi nelle condizioni previste dalle disposizioni medesime, ad assimilazione avvenuta nei riguardi dei singoli impiegati ed agenti. 
+Ferma l'osservanza dell'[art. 17 del Regio decreto 18 febbraio 1923, n. 440](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md), le disposizioni concernenti provvedimenti a beneficio del personale gia' combattente si applicano a favore del personale assimilato ai sensi del presente decreto, che si trovi nelle condizioni previste dalle disposizioni medesime, ad assimilazione avvenuta nei riguardi dei singoli impiegati ed agenti. 
  
  Il termine per la presentazione delle domande di passaggio di categoria e' stabilito al 30 giugno 1925. 
  
@@ -179,17 +179,17 @@ Ferma l'osservanza dell'[art. 17 del Regio decreto 18 febbraio 1923, n. 440](../
 
 ## Art. 17.
 
-Per la liquidazione del trattamento di quiescenza al personale esonerato dal servizio, ai sensi degli articoli 8 e 9 del presente decreto, si applica il [primo comma del Regio decreto 28 agosto 1924, n. 1448](../Regi%20decreti/Liquidazione%20degli%20assegni%20di%20pensione%20al%20personale%20dipendente%20dallex%20Stato%20Fiumano%20secondo%20le%20norme%20della%20cessata%20Amministrazione%20di%20Fiume.%20024U1448.md). 
+Per la liquidazione del trattamento di quiescenza al personale esonerato dal servizio, ai sensi degli articoli 8 e 9 del presente decreto, si applica il [primo comma del Regio decreto 28 agosto 1924, n. 1448](Liquidazione%20degli%20assegni%20di%20pensione%20al%20personale%20dipendente%20dallex%20Stato%20Fiumano%20secondo%20le%20norme%20della%20cessata%20Amministrazione%20di%20Fiume.%20024U1448.md). 
  
  Contro i provvedimenti di liquidazione emanati in base al decreto stesso ed al presente articolo e' ammesso il ricorso alla Corte dei conti.
 
 ## Art. 18.
 
-E' esteso, con effetto dalla entrata in vigore del presente decreto, al personale assimilato ai sensi del decreto stesso ed a coloro che sono provvisti di assegni di riposo, secondo gli ordinamenti dell'Amministrazione di Fiume, il disposto dell'[art. 24 del Regio decreto 18 febbraio 1923, n. 440](../Regi%20decreti/Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md).
+E' esteso, con effetto dalla entrata in vigore del presente decreto, al personale assimilato ai sensi del decreto stesso ed a coloro che sono provvisti di assegni di riposo, secondo gli ordinamenti dell'Amministrazione di Fiume, il disposto dell'[art. 24 del Regio decreto 18 febbraio 1923, n. 440](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md).
 
 ## Art. 19.
 
-La risoluzione di tutte le controversie derivanti dall'applicazione delle norme del presente decreto riflettenti l'assimilazione del personale di ruolo proveniente dall'ex Stato libero di Fiume, e' deferita alla Commissione istituita presso il [Ministero delle finanze col Regio decreto 6 marzo 1924, n. 297](../Regi%20decreti/Costituzione%20presso%20il%20Ministero%20delle%20finanze%20di%20una%20Commissione%20per%20la%20risoluzione%20delle%20controversie%20derivanti%20dallapplicazione%20delle%20norme%20riflettenti%20lassimilazione%20economica%20del%20per_3999cdbe1fc4.md).
+La risoluzione di tutte le controversie derivanti dall'applicazione delle norme del presente decreto riflettenti l'assimilazione del personale di ruolo proveniente dall'ex Stato libero di Fiume, e' deferita alla Commissione istituita presso il [Ministero delle finanze col Regio decreto 6 marzo 1924, n. 297](Costituzione%20presso%20il%20Ministero%20delle%20finanze%20di%20una%20Commissione%20per%20la%20risoluzione%20delle%20controversie%20derivanti%20dallapplicazione%20delle%20norme%20riflettenti%20lassimilazione%20economica%20del%20per_3999cdbe1fc4.md).
 
 ## Art. 20.
 

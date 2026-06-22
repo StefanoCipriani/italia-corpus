@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il trattato che istituisce la Comunita' economica europea, ratificato con [legge 14 ottobre 1957, numero 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
+Visto il trattato che istituisce la Comunita' economica europea, ratificato con [legge 14 ottobre 1957, numero 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
 
 Visti gli articoli 9, 10, 11, 189 e 191 del trattato stesso;
 
@@ -30,13 +30,13 @@ Vista la tariffa dei dazi doganali d'importazione della Repubblica italiana, app
 
 Vista la legge doganale 25 settembre 1940, n. 1424, e successive aggiunte e modificazioni;
 
-Vista la [legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md), che delega il Governo ad emanare provvedimenti nelle materie previste dai trattati della Comunita' economica europea e della Comunita' europea dell'energia atomica per la durata della III tappa;
+Vista la [legge 13 ottobre 1969, n. 740](Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md), che delega il Governo ad emanare provvedimenti nelle materie previste dai trattati della Comunita' economica europea e della Comunita' europea dell'energia atomica per la durata della III tappa;
 
 Viste le decisioni della commissione della Comunita' economica europea adottate il 21 dicembre 1965, il 23 marzo 1967 e il 26 giugno 1967 e le decisioni della commissione delle Comunita' europee adottate il 28 giugno 1968 e 7 ottobre 1968, concernenti la misura del diritto per traffico di perfezionamento e i rispettivi periodi di efficacia;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Sentita la commissione parlamentare costituita a norma dell'art. 3 della citata [legge 13 ottobre 1969, n. 740](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md);
+Sentita la commissione parlamentare costituita a norma dell'art. 3 della citata [legge 13 ottobre 1969, n. 740](Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20trattati%20della%20Comunita%20economica%20europea%20C.E.E.%20e%20della%20Comunita%20europea%20dellenergia%20atomica%20C.E.E.A.%20per%20la%20durata%20_11ef89e3a8e5.md);
 
 Sentito il Consiglio dei Ministri;
 

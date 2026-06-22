@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 22 febbraio 1945, n. 38](../Decreti%20legislativi%20luogotenenziali/Prezzi%20del%20pane%20e%20della%20pasta.%20045U0038.md);
+Visto il [decreto legislativo luogotenenziale 22 febbraio 1945, n. 38](Prezzi%20del%20pane%20e%20della%20pasta.%20045U0038.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -30,7 +30,7 @@ Con decorrenza dal 16 aprile 1947, e concessa, a carico dello Stato, un'indennit
  congiunti di civili deportati dai tedeschi, internati o dispersi, sempre che non vengano corrisposte pensioni od assegni di guerra;
  profughi, sfollati o sinistrati di guerra;
  rimpatriati dall'Africa italiana o dall'estero o congiunti di cittadini residenti in Africa italiana od all'estero;
- c) reduci che usufruiscono dell'assistenza prevista dal [decreto legislativo luogotenenziale 16 febbraio 1946, n. 28](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20un%20assegno%20temporaneo%20a%20favore%20dei%20reduci%20disoccupati%20e%20bisognosi.md).
+ c) reduci che usufruiscono dell'assistenza prevista dal [decreto legislativo luogotenenziale 16 febbraio 1946, n. 28](Concessione%20di%20un%20assegno%20temporaneo%20a%20favore%20dei%20reduci%20disoccupati%20e%20bisognosi.md).
 
 ## Art. 2.
 
@@ -44,7 +44,7 @@ L'Alto Commissario per l'alimentazione, d'intesa col Ministro per le finanze e i
 
 ## Art. 4.
 
-L'[articolo 3 del decreto legislativo luogotenenziale 22 febbraio 1945, n. 38](../Decreti%20legislativi%20luogotenenziali/Prezzi%20del%20pane%20e%20della%20pasta.%20045U0038.md), e' abrogato.
+L'[articolo 3 del decreto legislativo luogotenenziale 22 febbraio 1945, n. 38](Prezzi%20del%20pane%20e%20della%20pasta.%20045U0038.md), e' abrogato.
 
 ## Art. 5.
 

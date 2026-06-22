@@ -44,7 +44,7 @@ Il personale della provincia di Aosta passa alle di pendenze della «Valle d'Aos
 
 ## Art. 3.
 
-Al personale della provincia di Aosta eventualmente dispensato dal servizio per soppressione e riduzione di posti di organico in applicazione del presente decreto e' esteso il trattamento stabilito dall'[art. 3 del R. decreto 27 maggio 1923, n. 1177](../Regi%20decreti/Che%20stabilisce%20la%20revisione%20delle%20tabelle%20e%20dei%20regolamenti%20organici%20del%20personale%20delle%20Provincie%20dei%20Comuni%20e%20delle%20istituzioni%20pubbliche%20di%20beneficenza.%20023U1177.md),
+Al personale della provincia di Aosta eventualmente dispensato dal servizio per soppressione e riduzione di posti di organico in applicazione del presente decreto e' esteso il trattamento stabilito dall'[art. 3 del R. decreto 27 maggio 1923, n. 1177](Che%20stabilisce%20la%20revisione%20delle%20tabelle%20e%20dei%20regolamenti%20organici%20del%20personale%20delle%20Provincie%20dei%20Comuni%20e%20delle%20istituzioni%20pubbliche%20di%20beneficenza.%20023U1177.md),
 
 ## Art. 4.
 

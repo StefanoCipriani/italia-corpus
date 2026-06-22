@@ -14,7 +14,7 @@ Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto il [regio decreto-legge 21 settembre 1938, numero 2038](Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md);
 
-Visto il [regio decreto 4 luglio 1941, n. 1073](../Regi%20decreti/Istituzione%20di%20nuove%20scuole%20medie%20e%20corsi%20di%20scuole%20medie.%20041U1073.md), sulla Scuola di orologeria in Roma, di cui occorre regolarizzare formalmente il riordinamento in atto dal 1° ottobre 1946;
+Visto il [regio decreto 4 luglio 1941, n. 1073](Istituzione%20di%20nuove%20scuole%20medie%20e%20corsi%20di%20scuole%20medie.%20041U1073.md), sulla Scuola di orologeria in Roma, di cui occorre regolarizzare formalmente il riordinamento in atto dal 1° ottobre 1946;
 
 Visto l'[art. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello p
 
 ## Art. 1.
 
-La Scuola industriale per l'orologeria istituita in Roma col [regio decreto 4 luglio 1941, n. 1073](../Regi%20decreti/Istituzione%20di%20nuove%20scuole%20medie%20e%20corsi%20di%20scuole%20medie.%20041U1073.md), e' organizzata in conformita' delle disposizioni contenute nel presente decreto ed assume la denominazione di "Istituto industriale per l'orologeria e la meccanica fine".
+La Scuola industriale per l'orologeria istituita in Roma col [regio decreto 4 luglio 1941, n. 1073](Istituzione%20di%20nuove%20scuole%20medie%20e%20corsi%20di%20scuole%20medie.%20041U1073.md), e' organizzata in conformita' delle disposizioni contenute nel presente decreto ed assume la denominazione di "Istituto industriale per l'orologeria e la meccanica fine".
  L'Istituto ha lo scopo di preparare i tecnici per l'orologeria e la meccanica fine.
 
 ## Art. 2.
@@ -138,7 +138,7 @@ Il personale direttivo, quello insegnante di materie tecniche e quello tecnico a
 
 ## Art. 18.
 
-Per quanto riguarda gli oneri a carico degli enti locali, all'Istituto industriale per l'orologeria e la meccanica fine si applicano le disposizioni di cui all'articolo 144, lettera e), del testo unico della legge comunale e provinciale, approvata con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
+Per quanto riguarda gli oneri a carico degli enti locali, all'Istituto industriale per l'orologeria e la meccanica fine si applicano le disposizioni di cui all'articolo 144, lettera e), del testo unico della legge comunale e provinciale, approvata con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
  Per quanto non e' previsto dal presente decreto si applicano le disposizioni vigenti per gli istituti governativi di istruzione tecnica industriale.
 
 ## Art. 19.

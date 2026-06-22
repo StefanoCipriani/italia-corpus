@@ -38,7 +38,7 @@ L'A.I.M.A., per l'adempimento dei compiti ad essa attribuiti con il presente dec
 
 ## Art. 5.
 
-Le somme occorrenti per gli acquisti di cui all'art. 1 saranno, dall'Azienda di Stato per gli interventi nel mercato agricolo, prelevate dal fondo di rotazione di cui all'[art. 8 del decreto-legge 17 marzo 1967, n. 80](Attuazione%20di%20interventi%20nel%20settore%20dei%20prodotti%20ortofrutticoli.md), convertito, con modificazioni, nella [legge 13 maggio 1967, n. 267](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20marzo%201967%20n.%2080%20relativo%20allattuazione%20di%20interventi%20nel%20settore%20dei%20prodotti%20ortofrutticoli.md), fino alla concorrenza dell'importo di lire 10.000 milioni.
+Le somme occorrenti per gli acquisti di cui all'art. 1 saranno, dall'Azienda di Stato per gli interventi nel mercato agricolo, prelevate dal fondo di rotazione di cui all'[art. 8 del decreto-legge 17 marzo 1967, n. 80](Attuazione%20di%20interventi%20nel%20settore%20dei%20prodotti%20ortofrutticoli.md), convertito, con modificazioni, nella [legge 13 maggio 1967, n. 267](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20marzo%201967%20n.%2080%20relativo%20allattuazione%20di%20interventi%20nel%20settore%20dei%20prodotti%20ortofrutticoli.md), fino alla concorrenza dell'importo di lire 10.000 milioni.
  A detto fondo saranno fatti affluire i ricavi delle vendite del prodotto.
 
 ## Art. 6.
@@ -49,7 +49,7 @@ Per gli oneri connessi con l'esecuzione del presente decreto e per le eventuali 
 
 ## Art. 7.
 
-L'eventuale saldo attivo tra le spese per gli acquisti ed i ricavi, insieme con le eventuali economie sulla spesa autorizzata con il precedente art. 6, sara' destinato ad aumento del fondo di rotazione di cui all'[articolo 8 del decreto-legge 17 marzo 1967, n. 80](Attuazione%20di%20interventi%20nel%20settore%20dei%20prodotti%20ortofrutticoli.md), convertito, con modificazioni, nella [legge 13 maggio 1967, numero 267](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20marzo%201967%20n.%2080%20relativo%20allattuazione%20di%20interventi%20nel%20settore%20dei%20prodotti%20ortofrutticoli.md).
+L'eventuale saldo attivo tra le spese per gli acquisti ed i ricavi, insieme con le eventuali economie sulla spesa autorizzata con il precedente art. 6, sara' destinato ad aumento del fondo di rotazione di cui all'[articolo 8 del decreto-legge 17 marzo 1967, n. 80](Attuazione%20di%20interventi%20nel%20settore%20dei%20prodotti%20ortofrutticoli.md), convertito, con modificazioni, nella [legge 13 maggio 1967, numero 267](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20marzo%201967%20n.%2080%20relativo%20allattuazione%20di%20interventi%20nel%20settore%20dei%20prodotti%20ortofrutticoli.md).
 
 ## Art. 8.
 

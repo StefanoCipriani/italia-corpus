@@ -34,7 +34,7 @@ Sulla del Nostro ministro segretario di Stato per l'industria e il commercio, di
 
 ## Art. 1.
 
-E' data facolta' al ministro delle finanze, d'accordo con i ministri del tesoro dell'industria e del commercio, e dell'agricoltura, e sentiti il Comitato per le importazioni e le esportazioni, di cui ai Regi decreti 24 novembre n. 1303, 24 luglio 1919 n. 1296 e il Comitato interministeriale di cui al [Regio decreto 1° settembre 1920, n. 1336](../Regi%20decreti/Che%20sopprime%20la%20Commissione%20per%20la%20valutazione%20dei%20danni%20di%20guerra%20e%20istituisce%20presso%20il%20Ministero%20del%20tesoro%20un%20Comitato%20interministeriale%20determinandone%20le%20attribuzioni.%20020U1336.md), di limitare o comunque di regolare l'importazione delle merci identiche o similari a quelle che, in adempimento delle clausole contenute nei trattati di pace, sono cedute al Governo degli Stati ex nemici in conto ripartizioni di guerra.
+E' data facolta' al ministro delle finanze, d'accordo con i ministri del tesoro dell'industria e del commercio, e dell'agricoltura, e sentiti il Comitato per le importazioni e le esportazioni, di cui ai Regi decreti 24 novembre n. 1303, 24 luglio 1919 n. 1296 e il Comitato interministeriale di cui al [Regio decreto 1° settembre 1920, n. 1336](Che%20sopprime%20la%20Commissione%20per%20la%20valutazione%20dei%20danni%20di%20guerra%20e%20istituisce%20presso%20il%20Ministero%20del%20tesoro%20un%20Comitato%20interministeriale%20determinandone%20le%20attribuzioni.%20020U1336.md), di limitare o comunque di regolare l'importazione delle merci identiche o similari a quelle che, in adempimento delle clausole contenute nei trattati di pace, sono cedute al Governo degli Stati ex nemici in conto ripartizioni di guerra.
 
 ## Art. 2.
 

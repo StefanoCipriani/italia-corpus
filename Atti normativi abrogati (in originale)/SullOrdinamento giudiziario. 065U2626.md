@@ -1232,11 +1232,11 @@ L' usciere che per negligenza ha trascurato di eseguire gli atti del suo ministe
 
 ### Art. 182.
 
-L'usciere che ha tralasciato di eseguire egli stesso gli atti a lui commessi, valendosi dell'opera di altre persone, e' condannato ad una pena pecuniaria di lire cento, estensibile a lire mille, oltre ai danni ed interessi di cui sopra, salve le maggiori pene stabilite dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+L'usciere che ha tralasciato di eseguire egli stesso gli atti a lui commessi, valendosi dell'opera di altre persone, e' condannato ad una pena pecuniaria di lire cento, estensibile a lire mille, oltre ai danni ed interessi di cui sopra, salve le maggiori pene stabilite dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 183.
 
-Gli uscieri, che hanno ecceduto scientemente i limiti delle proprie attribuzioni, sono puniti con una pena pecuniaria estensibile a lire cinquecento, e, secondo i casi, colla sospensione, salve le maggiori pene sancite dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Gli uscieri, che hanno ecceduto scientemente i limiti delle proprie attribuzioni, sono puniti con una pena pecuniaria estensibile a lire cinquecento, e, secondo i casi, colla sospensione, salve le maggiori pene sancite dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 184.
 

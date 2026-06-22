@@ -20,7 +20,7 @@ Visto il R. decreto 29 dicembre 1935-XIV, n. 2186, che istituisce il Sottosegret
 
 Visto il R. decreto 20 novembre 1937-XVI, n. 1928, che eleva il Sottosegretariato predetto a Ministero per gli scambi e per le valute;
 
-Visto il [R. decreto 14 marzo 1938, n. 643](../Regi%20decreti/Disposizioni%20circa%20la%20competenza%20del%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20038U0643.md), che determina le attribuzioni del Ministero per gli scambi e per le valute;
+Visto il [R. decreto 14 marzo 1938, n. 643](Disposizioni%20circa%20la%20competenza%20del%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20038U0643.md), che determina le attribuzioni del Ministero per gli scambi e per le valute;
 
 Visto il decreto Ministeriale 4 marzo 1936-XIV per la riorganizzazione dell'Istituto nazionale per i cambi con l'estero;
 
@@ -34,7 +34,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli scambi e per le v
 
 ## Art. 1.
 
-L'Istituto nazionale per i cambi con l'estero provvede alla vigilanza e ai controlli per la regolare osservanza delle disposizioni vigenti in materia di scambi con l'estero, di pagamenti ed incassi fuori del Regno, di commercio dei cambi, di denuncia e cessione obbligatoria dei crediti verso l'estero e dei titoli esteri e titoli italiani emessi all'estero, di cessione a stranieri di aziende o di partecipazioni in imprese estere, di disciplina del commercio dell'oro e monopolio degli acquisti all'estero dell'oro, e nelle altre materie di cui ai provvedimenti richiamati nel secondo e nel [terzo comma dell'articolo 2 del R. decreto 14 marzo 1938, n. 643](../Regi%20decreti/Disposizioni%20circa%20la%20competenza%20del%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20038U0643.md).
+L'Istituto nazionale per i cambi con l'estero provvede alla vigilanza e ai controlli per la regolare osservanza delle disposizioni vigenti in materia di scambi con l'estero, di pagamenti ed incassi fuori del Regno, di commercio dei cambi, di denuncia e cessione obbligatoria dei crediti verso l'estero e dei titoli esteri e titoli italiani emessi all'estero, di cessione a stranieri di aziende o di partecipazioni in imprese estere, di disciplina del commercio dell'oro e monopolio degli acquisti all'estero dell'oro, e nelle altre materie di cui ai provvedimenti richiamati nel secondo e nel [terzo comma dell'articolo 2 del R. decreto 14 marzo 1938, n. 643](Disposizioni%20circa%20la%20competenza%20del%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20038U0643.md).
 
 ## Art. 2.
 
@@ -79,7 +79,7 @@ L'Istituto nazionale per i cambi con l'estero, completato l'accertamento, rimett
 
 ## Art. 6.
 
-E' istituita presso il Ministero per gli scambi e per le valute una Commissione consultiva che esprime parere sulle infrazioni previste dall'[art. 2 del R. decreto 14 marzo 1938, n. 643](../Regi%20decreti/Disposizioni%20circa%20la%20competenza%20del%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20038U0643.md), e dall'art. 1 del presente decreto. 
+E' istituita presso il Ministero per gli scambi e per le valute una Commissione consultiva che esprime parere sulle infrazioni previste dall'[art. 2 del R. decreto 14 marzo 1938, n. 643](Disposizioni%20circa%20la%20competenza%20del%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20038U0643.md), e dall'art. 1 del presente decreto. 
  
  La Commissione e' composta di un presidente e di quattro membri, nominati per ogni biennio con decreto del Ministro per gli scambi e per le valute, il quale provvede altresi' per lo stesso periodo alla nomina del segretario della Commissione. 
  

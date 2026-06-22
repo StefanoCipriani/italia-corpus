@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 18 della legge 19 gennaio 1939, n. 1291](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-19;1291#art_18);
 
-Visto il Testo Unico sull'avanzamento degli ufficiali dei Corpi militari della R. Marina approvato con [R. decreto 1° agosto 1936, n. 1493](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md) e successive modificazioni;
+Visto il Testo Unico sull'avanzamento degli ufficiali dei Corpi militari della R. Marina approvato con [R. decreto 1° agosto 1936, n. 1493](Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md) e successive modificazioni;
 
 Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di Stato per la Marina, di intesa con il 
 
 ## Art. 1.
 
-L'ultimo comma dell'art. 9 del Testo Unico delle leggi sull'avanzamento degli ufficiali della R. Marina, approvato con [R. decreto 1° agosto 1936, n. 1493](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), sostituite dall'[art. 1 della legge 19 luglio 1941, n. 899](Modificazioni%20al%20vigente%20testo%20unico%20delle%20disposizioni%20legislative%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20041U0899.md), e modificato dall'[art. 3 della legge 8 luglio 1942, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-08;800#art_3), e' abrogato e sostituito dal presente: 
+L'ultimo comma dell'art. 9 del Testo Unico delle leggi sull'avanzamento degli ufficiali della R. Marina, approvato con [R. decreto 1° agosto 1936, n. 1493](Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), sostituite dall'[art. 1 della legge 19 luglio 1941, n. 899](Modificazioni%20al%20vigente%20testo%20unico%20delle%20disposizioni%20legislative%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20041U0899.md), e modificato dall'[art. 3 della legge 8 luglio 1942, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-08;800#art_3), e' abrogato e sostituito dal presente: 
  
  «Nel caso in cui alla data della convocazione della Commissione alcuna delle cariche previste dal presente articolo non sia ricoperta ovvero alcuno degli ufficiali ammiragli o generali designati quali membri non sia disponibile o non sia in servizio, per la validita' delle deliberazioni della Commissione Suprema, in deroga al successivo art. 11, bastera' che siano presenti complessivamente, per lo scrutinio degli ufficiali del Corpo di Stato Maggiore, almeno tre degli ufficiali ammiragli sopra indicati, nonche', per lo scrutinio degli ufficiali degli altri Corpi della R. Marina, almeno un ufficiale generale o superiore per ciascuno dei rispettivi Corpi. 
  

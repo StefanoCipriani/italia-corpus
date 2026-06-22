@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Visto l'[art. 4 della legge 26 settembre 1920, n. 1322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-09-26;1322#art_4), e l'[articolo 3 della legge 19 dicembre 1920, n. 1778](Che%20approva%20lannesso%20Trattato%20concluso%20fra%20il%20Regno%20dItalia%20e%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20020U1778.md);
 
-Visto il [R. decreto 18 febbraio 1923, n. 440](../Regi%20decreti/Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md);
+Visto il [R. decreto 18 febbraio 1923, n. 440](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md);
+Visto il [R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md);
 
 Visto il [R. decreto 1° marzo 1924, n. 550](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-03-01;550);
 
@@ -36,7 +36,7 @@ Capo I.
 
 ### Art. 1.
 
-Al personale dei Magazzini generali di Trieste, assunto in servizio sotto il cessato regime ed in servizio alla data di pubblicazione del presente decreto, sempreche' si trovi nelle condizioni volute dal [R. decreto 18 febbraio 1923, n. 440](../Regi%20decreti/Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md), sono estese, ai fini dell'assimilazione economica, e salvo le modificazioni stabilite negli articoli seguenti, a datare dal 1° dicembre 1923, le disposizioni contenute nel [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), comprese quelle riguardanti le indennita' Mensili temporanee di cui al 1° comma dell'articolo 188 e al 5° comma lettera a) dell'art. 189 del decreto stesso. 
+Al personale dei Magazzini generali di Trieste, assunto in servizio sotto il cessato regime ed in servizio alla data di pubblicazione del presente decreto, sempreche' si trovi nelle condizioni volute dal [R. decreto 18 febbraio 1923, n. 440](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md), sono estese, ai fini dell'assimilazione economica, e salvo le modificazioni stabilite negli articoli seguenti, a datare dal 1° dicembre 1923, le disposizioni contenute nel [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), comprese quelle riguardanti le indennita' Mensili temporanee di cui al 1° comma dell'articolo 188 e al 5° comma lettera a) dell'art. 189 del decreto stesso. 
  
  L'assimilazione non ha per effetto la liquidazione delle eventuali differenze delle indennita' di missione o competenze analoghe a cui il personale abbia acquisito diritto anteriormente alla pubblicazione del presente decreto.
 
@@ -46,7 +46,7 @@ Il ruolo del personale dei Magazzini generali di Trieste e' stabilito, con decor
  
  I funzionari eventualmente eccedenti i posti fissati in organico saranno considerati in soprannumero e non potranno essere promossi finche' le eccedenze non siano state assorbite. 
  
- Nel computo dell'anzianita' per la inscrizione nel detto ruolo e' detratto il tempo non utile per la progressione nella carriera secondo le norme sullo stato giuridico in vigore prima del [R. decreto 18 febbraio 1923, n. 440](../Regi%20decreti/Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md).
+ Nel computo dell'anzianita' per la inscrizione nel detto ruolo e' detratto il tempo non utile per la progressione nella carriera secondo le norme sullo stato giuridico in vigore prima del [R. decreto 18 febbraio 1923, n. 440](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md).
 
 ## Attribuzioni dei nuovi gradi e conferimento dei posti nei nuovi ruoli.
 
@@ -104,13 +104,13 @@ L'impiegato che goda attualmente di un trattamento economico superiore a quello 
 
 ### Art. 11.
 
-Gli impiegati ed agenti di ruolo che siano provvisti di pensione a carico dello Stato non possono accumulare la pensione stessa con gli emolumenti inerenti al posto attuale ricoperto, salvo i casi ed i limiti previsti dal [2°](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [3° comma dell'art. 32 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+Gli impiegati ed agenti di ruolo che siano provvisti di pensione a carico dello Stato non possono accumulare la pensione stessa con gli emolumenti inerenti al posto attuale ricoperto, salvo i casi ed i limiti previsti dal [2°](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [3° comma dell'art. 32 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ### Art. 12.
 
 Colla data di entrata in vigore del presente decreto tutti gli operai addetti ai Magazzini generali ed al Consorzio generale dei facchini di Trieste sono licenziati. 
  
- Coloro che possiedono i prescritti requisiti di cittadinanza, moralita', idoneita', saranno riassunti in servizio in qualita', di incaricati provvisori a mente del [R. decreto 30 dicembre 1923, n. 2994](../Regi%20decreti/Disposizioni%20relative%20allo%20stato%20giuridico%20ed%20al%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.%20023U2994.md).
+ Coloro che possiedono i prescritti requisiti di cittadinanza, moralita', idoneita', saranno riassunti in servizio in qualita', di incaricati provvisori a mente del [R. decreto 30 dicembre 1923, n. 2994](Disposizioni%20relative%20allo%20stato%20giuridico%20ed%20al%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.%20023U2994.md).
 
 ### Art. 13.
 

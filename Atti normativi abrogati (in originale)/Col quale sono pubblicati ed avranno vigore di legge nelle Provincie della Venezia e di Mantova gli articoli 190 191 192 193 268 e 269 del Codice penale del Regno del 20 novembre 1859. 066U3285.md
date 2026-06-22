@@ -28,7 +28,7 @@ Sulla proposta del Guardasigilli, Ministro di Grazia e Giustizia e dei Culti, Ab
 
 ## Art. 1.
 
-Sono pubblicati ed avranno vigore di legge nelle provincie della Venezia e di Mantova gli [articoli 190](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [191](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [192](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [193](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [268](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [269 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno del 20 novembre 1859, i quali sono del tenore seguente: 
+Sono pubblicati ed avranno vigore di legge nelle provincie della Venezia e di Mantova gli [articoli 190](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [191](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [192](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [193](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [268](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [269 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno del 20 novembre 1859, i quali sono del tenore seguente: 
  
  Art. 190. Allorche' con violenze o vie di fatto o minacce o tumulti sara' stato impedito ad uno o piu' cittadini l'esercizio dei propri diritti politici, i colpevoli saranno puniti col carcere estensibile a due anni, e con multa maggiore o minore secondo la gravita' e conseguenze del reato. 
  
@@ -60,17 +60,17 @@ Sono pubblicati ed avranno vigore di legge nelle provincie della Venezia e di Ma
 
 ## Art. 2.
 
-I reati contemplati negli [articoli 190](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [193](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [268](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [269 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), pubblicati a termini del precedente articolo saranno trattati come delitti; quelli contemplati negli articoli 191 e 192 verranno considerati come crimini. 
+I reati contemplati negli [articoli 190](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [193](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [268](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [269 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), pubblicati a termini del precedente articolo saranno trattati come delitti; quelli contemplati negli articoli 191 e 192 verranno considerati come crimini. 
  
  E gli uni e gli altri saranno giudicati secondo le competenze, e colle forme ordinarie della procedura penale vigente nelle dette Provincie.
 
 ## Art. 3.
 
-Finche' rimane in vigore nelle Provincie summentovate il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco del 27 maggio 1852, ed al solo effetto dell'attuazione delle disposizioni penali pubblicate coi precedenti articoli, e nell'applicazione delle pene che si sono sancite si osserveranno le norme seguenti: 
+Finche' rimane in vigore nelle Provincie summentovate il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco del 27 maggio 1852, ed al solo effetto dell'attuazione delle disposizioni penali pubblicate coi precedenti articoli, e nell'applicazione delle pene che si sono sancite si osserveranno le norme seguenti: 
  
  1° La pena della reclusione corrisponde a quella del duro carcere nella misura da tre a dieci anni. 
  
- Nei casi di commutazione di pena in forza del § 54 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco la pena del carcere duro sara' mutata in quella del carcere semplice; 
+ Nei casi di commutazione di pena in forza del § 54 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco la pena del carcere duro sara' mutata in quella del carcere semplice; 
  
  2° La interdizione dai pubblici uffici consiste: 
  
@@ -86,7 +86,7 @@ Finche' rimane in vigore nelle Provincie summentovate il [Codice penale](../Regi
  
  In caso di mitigazione la pena della interdizione sara' commutata in quella della sospensione dai pubblici uffizi; 
  
- 3° La sospensione dai pubblici uffizi consiste nella privazione non minore di sei mesi e non maggiore di tre anni dell'esercizio dei diritti politici, e di qualunque funzione od impiego pubblico, salve le disposizioni dell'[art. 193 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno, pubblicato coll'art. 1 del presente Decreto.
+ 3° La sospensione dai pubblici uffizi consiste nella privazione non minore di sei mesi e non maggiore di tre anni dell'esercizio dei diritti politici, e di qualunque funzione od impiego pubblico, salve le disposizioni dell'[art. 193 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno, pubblicato coll'art. 1 del presente Decreto.
 
 ## Art. 4.
 

@@ -18,7 +18,7 @@ Visto il [R. decreto 22 gennaio 1923, n. 62](https://www.normattiva.it/uri-res/N
 
 Visto il decreto Commissariale 22 giugno 1923, concernente l'ordinamento del Commissariato di aeronautica e il successivo decreto Commissariale che apporta modifiche all'ordinamento del Commissariato predetto;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), concernente l'ordinamento gerarchico dell'Amministrazione delle Stato;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), concernente l'ordinamento gerarchico dell'Amministrazione delle Stato;
 
 Visto il decreto Commissariale 19 luglio 1924, col quale e' stata soppressa l'Intendenza generale dell'aeronautica;
 
@@ -28,7 +28,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Commissario per l'aero
 
 ## Art. 1.
 
-Il posto di intendente generale dell'Aeronautica di cui alla tabella n. 47, annessa al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' soppresso a datare dal 19 luglio 1924.
+Il posto di intendente generale dell'Aeronautica di cui alla tabella n. 47, annessa al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' soppresso a datare dal 19 luglio 1924.
 
 ## Art. 2.
 

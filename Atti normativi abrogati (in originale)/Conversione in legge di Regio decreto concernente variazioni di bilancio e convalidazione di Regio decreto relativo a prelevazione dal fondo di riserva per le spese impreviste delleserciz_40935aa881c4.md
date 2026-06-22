@@ -14,7 +14,7 @@ E' convertito in legge il [R. decreto-legge 12 maggio 1927, n. 693](Variazioni%2
 
 ## Art. 2.
 
-E' convalidato il [R. decreto 12 maggio 1927, n. 692](../Regi%20decreti/45ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201926-27.%20027U0692.md), che autorizza una 45ª prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1926-27. 
+E' convalidato il [R. decreto 12 maggio 1927, n. 692](45ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201926-27.%20027U0692.md), che autorizza una 45ª prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1926-27. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

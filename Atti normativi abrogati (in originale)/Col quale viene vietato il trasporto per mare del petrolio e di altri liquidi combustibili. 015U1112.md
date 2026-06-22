@@ -88,7 +88,7 @@ I contravventori alle disposizioni contenute nel titolo secondo incorrono nella 
  
  Qualora la confisca non sia possibile, la multa si estende al quintuplo del valore. 
  
- Restano ferme in ogni caso le maggiori pene che potessero essere applicate in base alle disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle altre leggi. 
+ Restano ferme in ogni caso le maggiori pene che potessero essere applicate in base alle disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle altre leggi. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale dalle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

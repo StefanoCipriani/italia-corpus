@@ -70,7 +70,7 @@ Tanto il regolamento generale, quanto i regolamenti speciali, possono essere mod
 
 ## Art. 5.
 
-Le contravvenzioni alle disposizioni contenute nei regolamenti saranno punite con ammende da indicarsi in ciascuno di essi. Le ammende non potranno eccedere la misura di L. 50 per ciascuna delle persone impiegate nel lavoro ed alle quali si riferisce la contravvenzione o le L. 2000 se la penalita' non sia comminata in relazione al numero delle persone predetto, salvo le maggiori pene comminate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i casi da esso preveduti. In caso di recidiva l'ammenda sara' aumentata di un terzo ed il magistrato puo' inoltre ordinare la cessazione del lavoro fino a che non siasi ottemperato alle disposizioni regolamentari.
+Le contravvenzioni alle disposizioni contenute nei regolamenti saranno punite con ammende da indicarsi in ciascuno di essi. Le ammende non potranno eccedere la misura di L. 50 per ciascuna delle persone impiegate nel lavoro ed alle quali si riferisce la contravvenzione o le L. 2000 se la penalita' non sia comminata in relazione al numero delle persone predetto, salvo le maggiori pene comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i casi da esso preveduti. In caso di recidiva l'ammenda sara' aumentata di un terzo ed il magistrato puo' inoltre ordinare la cessazione del lavoro fino a che non siasi ottemperato alle disposizioni regolamentari.
 
 ## Art. 6.
 

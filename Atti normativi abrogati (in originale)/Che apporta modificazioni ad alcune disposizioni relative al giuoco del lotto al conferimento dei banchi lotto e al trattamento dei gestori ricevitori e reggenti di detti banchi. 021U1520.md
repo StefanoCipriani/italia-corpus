@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi e dei decreti legislativi sul lotto, approvato con [R. decreto 19 marzo 1908, n. 152](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20legislativi%20sul%20lotto%20pubblico.%20008U0152.md);
+Visto il testo unico delle leggi e dei decreti legislativi sul lotto, approvato con [R. decreto 19 marzo 1908, n. 152](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20legislativi%20sul%20lotto%20pubblico.%20008U0152.md);
 
 Visti i Luogotenenziali [decreti-legge 27 agosto 1916, n. 1083, 9 settembre 1917, n. 1603, e 19 giugno 1919, n. 1180](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-06-19;1180);
 
@@ -32,13 +32,13 @@ L'articolo 2 del Luogotenenziale [decreto-legge 9 settembre 1917, n. 1603](https
 
 ## Art. 2.
 
-All'articolo 12 del testo unico dello leggi e decreti legislativi sul lotto, approvato con [R. decreto 19 marzo 1908, n. 152](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20legislativi%20sul%20lotto%20pubblico.%20008U0152.md), e' sostituito il seguente: 
+All'articolo 12 del testo unico dello leggi e decreti legislativi sul lotto, approvato con [R. decreto 19 marzo 1908, n. 152](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20legislativi%20sul%20lotto%20pubblico.%20008U0152.md), e' sostituito il seguente: 
  
  Le Direzioni stabiliscono, nell'interesse del servizio, in quali giorni prossimi a quello dell'estrazione deve cessare l'accettazione del giuoco con bollette di prezzo eguale o inferiore a lira una nei diversi Comuni del compartimento.
 
 ## Art. 3.
 
-All'art. 17 del testo unico delle leggi e dei decreti legislativi lotto approvato con [R. decreto 19 marzo 1908, n. 152](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20legislativi%20sul%20lotto%20pubblico.%20008U0152.md), e' sostituito dal seguente: 
+All'art. 17 del testo unico delle leggi e dei decreti legislativi lotto approvato con [R. decreto 19 marzo 1908, n. 152](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20legislativi%20sul%20lotto%20pubblico.%20008U0152.md), e' sostituito dal seguente: 
  
  Il giuoco fatto su tutte indistintamente le ruote del Regno compresa quella del compartimento, puo' essere accettato con una bolletta, purche' sia staccata da bollettari di prezzo eguale o superiore a due lire per bolletta. 
  
@@ -48,7 +48,7 @@ All'art. 17 del testo unico delle leggi e dei decreti legislativi lotto approvat
 
 ## Art. 4.
 
-L'art. 18 del testo unico delle leggi e dei decreti legislativi sul lotto, approvato con [R. decreto 19 marzo 1908, n. 152](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20legislativi%20sul%20lotto%20pubblico.%20008U0152.md), e' modificato come appresso: 
+L'art. 18 del testo unico delle leggi e dei decreti legislativi sul lotto, approvato con [R. decreto 19 marzo 1908, n. 152](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20legislativi%20sul%20lotto%20pubblico.%20008U0152.md), e' modificato come appresso: 
  
  Il giuoco sulla sorte di ambo, fatto con un numero contro tutti gli altri ottantanove, puo' essere accettato con una sola bolletta, purche' staccata da bollettari di prezzo eguale o superiore: 
  
@@ -78,7 +78,7 @@ L'articolo 1 del Luogotenenziale [decreto-legge 19 giugno 1919, n. 1180](https:/
 
 ## Art. 6.
 
-L'art. 57 del testo unico delle leggi e dei decreti legislativi sul lotto, approvato con [R. decreto 19 marzo 1908, n. 152](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20legislativi%20sul%20lotto%20pubblico.%20008U0152.md) e' modificato come segue: 
+L'art. 57 del testo unico delle leggi e dei decreti legislativi sul lotto, approvato con [R. decreto 19 marzo 1908, n. 152](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20legislativi%20sul%20lotto%20pubblico.%20008U0152.md) e' modificato come segue: 
  
  Quando l'aggio lordo di un Banco risulti inferiore alle lire duemila, viene concesso, al termine di ogni esercizio finanziario, un supplemento esente da qualsiasi imposta o ritenuta e ragguagliato al venti per cento della somma occorrente per raggiungere le dette lire duemila.
 

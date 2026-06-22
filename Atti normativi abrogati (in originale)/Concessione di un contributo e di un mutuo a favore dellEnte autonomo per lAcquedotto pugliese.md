@@ -24,7 +24,7 @@ E' concesso per l'esercizio finanziario 1947-48 un contributo straordinario di l
 
 ## Art. 2.
 
-La Cassa depositi e prestiti e' autorizzata a concedere all'Ente autonomo per l'Acquedotto pugliese un mutuo di lire centosettanta milioni per porlo in grado di fronteggiare nuovi maggiori oneri in dipendenza dei miglioramenti concessi al dipendente personale e degli aumenti verificatisi nel costo delle opere. La concessione di tale mutuo sara' effettuata alle condizioni previste dal [decreto legislativo luogotenenziale 14 settembre 1945, n. 620](../Decreti%20legislativi%20luogotenenziali/Concessione%20da%20parte%20della%20Cassa%20depositi%20e%20prestiti%20di%20una%20mutuo%20di%20L.%2085.000.000%20allEnte%20autonomo%20dellacquedotto%20pugliese.%20045U0620.md).
+La Cassa depositi e prestiti e' autorizzata a concedere all'Ente autonomo per l'Acquedotto pugliese un mutuo di lire centosettanta milioni per porlo in grado di fronteggiare nuovi maggiori oneri in dipendenza dei miglioramenti concessi al dipendente personale e degli aumenti verificatisi nel costo delle opere. La concessione di tale mutuo sara' effettuata alle condizioni previste dal [decreto legislativo luogotenenziale 14 settembre 1945, n. 620](Concessione%20da%20parte%20della%20Cassa%20depositi%20e%20prestiti%20di%20una%20mutuo%20di%20L.%2085.000.000%20allEnte%20autonomo%20dellacquedotto%20pugliese.%20045U0620.md).
 
 ## Art. 3.
 

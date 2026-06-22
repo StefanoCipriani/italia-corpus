@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di adeguare la normativa vigente alla sentenza della Corte Costituzionale n. 27 del 12 gennaio 2005, con cui e' stata dichiarata l'illegittimita' costituzionale dell'articolo 126-bis, comma 2, del Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), in tema di omessa identificazione del conducente del veicolo che ha commesso la violazione;
+Ritenuta la straordinaria necessita' ed urgenza di adeguare la normativa vigente alla sentenza della Corte Costituzionale n. 27 del 12 gennaio 2005, con cui e' stata dichiarata l'illegittimita' costituzionale dell'articolo 126-bis, comma 2, del Nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), in tema di omessa identificazione del conducente del veicolo che ha commesso la violazione;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 settembre 2005;
 
@@ -24,7 +24,7 @@ Emana il seguente decreto-legge:
 
 1.
 
-All'articolo 126-bis, comma 2, del Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, di seguito indicato: "[decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285)", sono apportate le seguenti modifiche:
+All'articolo 126-bis, comma 2, del Nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e successive modificazioni, di seguito indicato: "[decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285)", sono apportate le seguenti modifiche:
                         a)
                             il quarto periodo e' sostituito dal seguente: "La comunicazione deve essere effettuata a carico del conducente quale responsabile della violazione; nel caso di mancata identificazione di questo, il proprietario del veicolo, ovvero altro obbligato in solido ai sensi dell'articolo 196, deve fornire all'organo di polizia che procede, entro sessanta giorni dalla data di notifica del verbale di contestazione, i dati personali e della patente del conducente al momento della commessa violazione.";
                         b)

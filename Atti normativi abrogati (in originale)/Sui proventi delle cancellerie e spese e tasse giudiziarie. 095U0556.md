@@ -74,7 +74,7 @@ L'ipoteca a favore dello Stato sui beni dei condannati puo' essere inscritta pri
 
 ## Art. 11.
 
-Le note per l'iscrizione a ruolo delle cause civili, le quali, per l'articolo 28 del regolamento approvato col [regio decreto 10 dicembre 1882, n. 1103](../Regi%20decreti/Che%20approva%20il%20regolamento%20concernente%20la%20contabilita%20delle%20cancellerie%20giudiziarie%20ed%20altre%20parti%20del%20servizio.%20082U1103.md), si presentano al cancelliere, debbono essere, dopo ultimata la causa, riunite in apposito volume e conservate nella cancelleria.
+Le note per l'iscrizione a ruolo delle cause civili, le quali, per l'articolo 28 del regolamento approvato col [regio decreto 10 dicembre 1882, n. 1103](Che%20approva%20il%20regolamento%20concernente%20la%20contabilita%20delle%20cancellerie%20giudiziarie%20ed%20altre%20parti%20del%20servizio.%20082U1103.md), si presentano al cancelliere, debbono essere, dopo ultimata la causa, riunite in apposito volume e conservate nella cancelleria.
 
 ## Art. 12.
 

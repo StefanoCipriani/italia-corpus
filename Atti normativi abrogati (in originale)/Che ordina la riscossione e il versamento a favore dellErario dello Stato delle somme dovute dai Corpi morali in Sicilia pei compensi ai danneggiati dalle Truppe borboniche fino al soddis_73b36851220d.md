@@ -20,7 +20,7 @@ Saranno pagate sul bilancio dello Stato le spese seguenti:
 
 1.
 
-Gl'interessi dei buoni rilasciati in seguito al [R. Decreto del 21 agosto 1862, n. 835](../Regi%20decreti/Che%20prescrive%20siano%20cambiati%20con%20Buoni%20nominativi%20i%20Certificati%20di%20credito%20rilasciati%20ai%20danneggiati%20dalle%20truppe%20Borboniche%20nelle%20Provincie%20Siciliane.%20062U0835.md);
+Gl'interessi dei buoni rilasciati in seguito al [R. Decreto del 21 agosto 1862, n. 835](Che%20prescrive%20siano%20cambiati%20con%20Buoni%20nominativi%20i%20Certificati%20di%20credito%20rilasciati%20ai%20danneggiati%20dalle%20truppe%20Borboniche%20nelle%20Provincie%20Siciliane.%20062U0835.md);
 
 2.
 

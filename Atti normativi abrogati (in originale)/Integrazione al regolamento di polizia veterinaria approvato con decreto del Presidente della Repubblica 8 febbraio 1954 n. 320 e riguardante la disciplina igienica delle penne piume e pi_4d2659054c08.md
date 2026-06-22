@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto l'[art. 358 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
 
-Visti gli articoli 25 e 163 del regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md);
+Visti gli articoli 25 e 163 del regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md);
 
 Udito il parere del Consiglio superiore di sanita';
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per la sanita', di concerto con il Ministro per l'in
 
 ## Art. 1.
 
-Ai fini della profilassi delle zoonosi, le disposizioni per la profilassi delle epizoozie contenute nell'art. 25 del regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), sono estese alla raccolta ed alla lavorazione allo stato grezzo delle penne, piume, mezze piume e piumini quando destinati all'imbottitura.
+Ai fini della profilassi delle zoonosi, le disposizioni per la profilassi delle epizoozie contenute nell'art. 25 del regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), sono estese alla raccolta ed alla lavorazione allo stato grezzo delle penne, piume, mezze piume e piumini quando destinati all'imbottitura.
 
 ## Art. 2.
 

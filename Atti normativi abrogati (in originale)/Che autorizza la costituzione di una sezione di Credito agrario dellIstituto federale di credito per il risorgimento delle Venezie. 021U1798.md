@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il capo 2° della parte speciale del Testo unico delle leggi e dei decreti sul credito agrario, approvato con il [R. decreto 26 giugno 1921, n. 1048](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20contenenti%20provvedimenti%20in%20materia%20di%20credito%20agrario.%20021U1048.md);
+Visto il capo 2° della parte speciale del Testo unico delle leggi e dei decreti sul credito agrario, approvato con il [R. decreto 26 giugno 1921, n. 1048](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20contenenti%20provvedimenti%20in%20materia%20di%20credito%20agrario.%20021U1048.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, di con
 
 E' autorizzata la costituzione di una Sezione del credito agrario dell'Istituto federale di credito per il risorgimento delle Venezie, avente per iscopo di compiere nel territorio della Venezia propriamente detta, della Venezia Giulia e della Venezia Tridentina le seguenti operazioni: 
  
- a) concessione di sovvenzioni cambiarie dirette ad agricoltori e ad associazioni ed enti agrari legalmente costituiti per gli scopi di cui all'art. 5 del testo unico delle leggi e dei decreti sul credito agrario, approvato con [R. decreto 26 giugno 1921, n. 1048](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20contenenti%20provvedimenti%20in%20materia%20di%20credito%20agrario.%20021U1048.md); 1048; 
+ a) concessione di sovvenzioni cambiarie dirette ad agricoltori e ad associazioni ed enti agrari legalmente costituiti per gli scopi di cui all'art. 5 del testo unico delle leggi e dei decreti sul credito agrario, approvato con [R. decreto 26 giugno 1921, n. 1048](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20contenenti%20provvedimenti%20in%20materia%20di%20credito%20agrario.%20021U1048.md); 1048; 
  
  b) risconto agli Istituti che esercitano il credito agrario nelle Venezia delle cambiali rilasciate dagli agricoltori e dalle associazioni ed enti agrari legalmente costituiti in dipendenza di prestiti concessi per gli scopi di cui al comma precedente; 
  
@@ -40,7 +40,7 @@ Alla formazione del capitale della sezione di cui allo articolo precedente sono 
 
 ## Art. 3.
 
-Sono assegnate alla Sezione di credito agrario dell'Istituto federale di credito per il risorgimento delle Venezie le somme disponibili sul fondo di cui ai decreti Luogotenenziali 20 febbraio e 25 maggio 1919, nn 318 e 943 e al [R. decreto 20 luglio 1919, n. 1363](../Regi%20decreti/Che%20aumenta%20di%2040%20milioni%20il%20fondo%20stanziato%20con%20i%20decreti%20Luogotenenziali%2020%20febbraio%20e%2025%20maggio%201919%20un.%20318%20e%20943%20per%20il%20credito%20agrario%20nelle%20provincie%20del%20Veneto%20danneggiate%20dalla%20g_dcad56beb5c9.md) e quelle provenienti dai rimborsi totali e parziali delle sovvenzioni accordate dagli Istituti di credito che ebbero anticipazioni sul fondo medesimo. 
+Sono assegnate alla Sezione di credito agrario dell'Istituto federale di credito per il risorgimento delle Venezie le somme disponibili sul fondo di cui ai decreti Luogotenenziali 20 febbraio e 25 maggio 1919, nn 318 e 943 e al [R. decreto 20 luglio 1919, n. 1363](Che%20aumenta%20di%2040%20milioni%20il%20fondo%20stanziato%20con%20i%20decreti%20Luogotenenziali%2020%20febbraio%20e%2025%20maggio%201919%20un.%20318%20e%20943%20per%20il%20credito%20agrario%20nelle%20provincie%20del%20Veneto%20danneggiate%20dalla%20g_dcad56beb5c9.md) e quelle provenienti dai rimborsi totali e parziali delle sovvenzioni accordate dagli Istituti di credito che ebbero anticipazioni sul fondo medesimo. 
  
  Le dette somme dovranno essere impiegate unicamente nelle sovvenzioni cambiarie indicate alle lettere a) e b) dell'art. 1, che abbiano una scadenza non oltrepassante il 31 dicembre 1930, entro il quale anno le somme stesse dovranno essere tutte restituite dall'anzidetta sezione al Banco di Napoli, che le portera' in diminuzione della sua circolazione posta a carico del tesoro. 
  

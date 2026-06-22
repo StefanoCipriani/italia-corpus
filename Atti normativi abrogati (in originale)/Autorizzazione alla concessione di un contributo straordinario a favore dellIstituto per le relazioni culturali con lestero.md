@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 27 gennaio 1938, n. 48](Costituzione%20dellIstituto%20nazionale%20per%20le%20relazioni%20culturali%20con%20lestero.%20038U0048.md), convertito in [legge 19 maggio 1938, n. 917](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20gennaio%201938-XVI%20n.%2048%20con%20il%20quale%20e%20fondato%20in%20Roma%20un%20Istituto%20nazionale%20per%20le%20relazioni%20culturali%20con%20lestero.%20038U0917.md), concernente la fondazione in Roma di un Istituto nazionale per le relazioni culturali con l'estero;
+Visto il [regio decreto-legge 27 gennaio 1938, n. 48](Costituzione%20dellIstituto%20nazionale%20per%20le%20relazioni%20culturali%20con%20lestero.%20038U0048.md), convertito in [legge 19 maggio 1938, n. 917](Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20gennaio%201938-XVI%20n.%2048%20con%20il%20quale%20e%20fondato%20in%20Roma%20un%20Istituto%20nazionale%20per%20le%20relazioni%20culturali%20con%20lestero.%20038U0917.md), concernente la fondazione in Roma di un Istituto nazionale per le relazioni culturali con l'estero;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

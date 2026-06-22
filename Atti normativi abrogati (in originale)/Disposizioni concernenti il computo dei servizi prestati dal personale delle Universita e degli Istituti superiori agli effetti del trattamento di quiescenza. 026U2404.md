@@ -22,7 +22,7 @@ Su proposta del Nostro Ministro Segretario di Stato per la pubblica istruzione, 
 
 ## Art. 1.
 
-L'art. 28 del testo unico sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e' applicabile ai professori di ruolo delle Universita' e Istituti superiori di cui alla tabella B annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), aventi diritto a trattamento di pensione a carico del bilancio generale dello Stato, a condizione che gli interessati, ove intendano conseguire il trattamento di quiescenza sulla totalita' dei servizi, rimborsino allo Stato le rate di pensione eventualmente percepite per i servizi anteriori. 
+L'art. 28 del testo unico sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e' applicabile ai professori di ruolo delle Universita' e Istituti superiori di cui alla tabella B annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), aventi diritto a trattamento di pensione a carico del bilancio generale dello Stato, a condizione che gli interessati, ove intendano conseguire il trattamento di quiescenza sulla totalita' dei servizi, rimborsino allo Stato le rate di pensione eventualmente percepite per i servizi anteriori. 
  
  In caso contrario essi non avranno diritto alla valutazione dei servizi relativi alla gia' conseguita pensione ma conserveranno diritto alla medesima, quand'anche, in base ai servizi successivi, maturi in loro favore una nuova pensione. 
  
@@ -32,7 +32,7 @@ L'art. 28 del testo unico sulle pensioni, approvato con [R. decreto 21 febbraio 
 
 Fermo il disposto dell'articolo precedente, il personale di qualunque categoria, che presti successivamente servizi pensionabili a carico dello Stato e servizi pensionabili a carico delle Universita' e degli Istituti superiori di cui alle tabelle A e B annesse al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), delle Universita' e degli Istituti superiori liberi, di cui al n. 2 dell'art. 1 del decreto medesimo, degli Istituti superiori di magistero pareggiati o degli enti che li mantengono, potra' conseguire, quando cessi dal servizio, la pensione per la totalita' del servizio prestato. 
  
- Si applicheranno all'uopo le disposizioni di cui all'art. 48 del testo unico delle leggi sulle pensioni approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
+ Si applicheranno all'uopo le disposizioni di cui all'art. 48 del testo unico delle leggi sulle pensioni approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
 
 ## Art. 3.
 

@@ -36,7 +36,7 @@ L'art. 1° del Nostro decreto 14 maggio 1916, n. 634, e' abrogato dal 1° ottobr
 
 ## Art. 2.
 
-In temporanea deroga al disposto dell'[Art. 6 del Regio decreto 25 luglio 1907, n. 645](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulle%20norme%20per%20la%20istituzione%20e%20conversione%20in%20governative%20di%20nuove%20scuole%20medie.%20007U0645.md), i provvedimenti di regificazione e istituzione di scuole medie e normali, che saranno decretati entro l'anno scolastico 1918-919, potranno avere effetto dalla stessa data di cui all'articolo precedente.
+In temporanea deroga al disposto dell'[Art. 6 del Regio decreto 25 luglio 1907, n. 645](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulle%20norme%20per%20la%20istituzione%20e%20conversione%20in%20governative%20di%20nuove%20scuole%20medie.%20007U0645.md), i provvedimenti di regificazione e istituzione di scuole medie e normali, che saranno decretati entro l'anno scolastico 1918-919, potranno avere effetto dalla stessa data di cui all'articolo precedente.
 
 ## Art. 3.
 

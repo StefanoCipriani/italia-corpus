@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il testo unico della legge sull'assunzione diretta dei pubblici servizi da parte dei Comuni e delle Provincie, approvato con [R. decreto 15 ottobre 1925, n. 2578](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md); 
+ Veduto il testo unico della legge sull'assunzione diretta dei pubblici servizi da parte dei Comuni e delle Provincie, approvato con [R. decreto 15 ottobre 1925, n. 2578](../Regi%20decreti/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md); 
  
  Veduti i pareri del Consiglio di Stato in adunanza generale e della Corte dei conti; 
  

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 18 giugno 1922, n. 828](Riflettente%20il%20computo%20del%20tempo%20trascorso%20in%20zona%20darmistizio%20o%20in%20luoghi%20di%20cura%20per%20ferite%20e%20malattie%20riportate%20in%20guerra.%20022U0828.md);
 
-Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
+Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
 
 Udito il Consiglio dei Ministri;
 

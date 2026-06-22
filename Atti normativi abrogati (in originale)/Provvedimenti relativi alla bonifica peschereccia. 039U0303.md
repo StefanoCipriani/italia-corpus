@@ -50,7 +50,7 @@ Le quote poliennali dello Stato di cui all'art. 2 potranno essere dalla Banca Na
 
 ## Art. 4.
 
-Sono applicabili alle operazioni previste dal presente decreto-legge le disposizioni di cui all'art. 45 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e della [legge 3 giugno 1935, n. 1281](Provvedimenti%20concernenti%20il%20credito%20peschereccio.%20035U1281.md). 
+Sono applicabili alle operazioni previste dal presente decreto-legge le disposizioni di cui all'art. 45 del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e della [legge 3 giugno 1935, n. 1281](Provvedimenti%20concernenti%20il%20credito%20peschereccio.%20035U1281.md). 
  
  Alle operazioni predette fino alla concorrenza della somma di L. 10.000.000 costituenti la partecipazione dello Stato, non potra' essere applicato un tasso superiore al 5%. 
  

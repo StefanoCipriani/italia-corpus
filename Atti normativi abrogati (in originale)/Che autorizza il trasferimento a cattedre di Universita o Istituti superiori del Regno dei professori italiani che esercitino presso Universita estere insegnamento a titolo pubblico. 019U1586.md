@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md);
+Visto il testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md);
 
 Udito il Consiglio dei ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro ministro segretario di Stato per la istruzione pubblic
 
 ## Art. 1.
 
-I professori italiani, che esercitino presso Universita' estere insegnamento a titolo pubblico e con effetti legali e che abbiano conseguito l'eleggibilita' in un concorso bandito per provvedere a una cattedra della stessa disciplina o di disciplina affine in Universita' italiane o in altri Istituti Italiani di istruzione superiore, possono essere trasferiti a cattedre vacanti in Universita' o in Istituti di istruzione superiore del Regno, secondo le norme contenute negli articoli 34 e 35 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md).
+I professori italiani, che esercitino presso Universita' estere insegnamento a titolo pubblico e con effetti legali e che abbiano conseguito l'eleggibilita' in un concorso bandito per provvedere a una cattedra della stessa disciplina o di disciplina affine in Universita' italiane o in altri Istituti Italiani di istruzione superiore, possono essere trasferiti a cattedre vacanti in Universita' o in Istituti di istruzione superiore del Regno, secondo le norme contenute negli articoli 34 e 35 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md).
 
 ## Art. 2.
 

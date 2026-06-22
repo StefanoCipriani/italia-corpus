@@ -44,7 +44,7 @@ La elezione dei consigli circoscrizionali di cui al [primo](Norme%20sul%20decent
 
 ## Art. 6.
 
-Sono abrogati il secondo e il terzo comma dell'articolo 323 del testo unico approvato con [regio decreto 4 febbraio 1915, n. 148, il primo comma dell'articolo 103](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md) del [regio decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), e tutte le norme in contrasto o comunque incompatibili con la presente legge.
+Sono abrogati il secondo e il terzo comma dell'articolo 323 del testo unico approvato con [regio decreto 4 febbraio 1915, n. 148, il primo comma dell'articolo 103](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md) del [regio decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), e tutte le norme in contrasto o comunque incompatibili con la presente legge.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

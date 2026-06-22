@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sulla riscossione delle imposte dirette approvato con [R. decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e successive modificazioni;
+Visto il testo unico delle leggi sulla riscossione delle imposte dirette approvato con [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e successive modificazioni;
 
 Visto il [decreto legislativo Luogotenenziale 19 ottobre 1944, n. 351](Provvedimenti%20a%20favore%20degli%20esattori%20delle%20imposte%20per%20le%20maggiori%20spese%20di%20riscossione.%20044U0351.md), concernente provvedimenti a favore degli esattori delle imposte per le maggiori spese di riscossione;
 
@@ -111,7 +111,7 @@ Per un triennio a decorrere dalla data di pubblicazione del presente decreto, le
 
 ### Art. 12.
 
-Per un triennio a decorrere dalla data di pubblicazione del presente decreto, il Ministro per le finanze, in deroga al disposto dell'art. 93 del testo unico delle leggi per la riscossione delle imposte dirette, approvato con [R. decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), modificato dall'[art. 27 della legge 16 giugno 1939, n. 942](Modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20R.%20decreto%2017%20ottobre%201922%20n.%201401%20e%20successive%20modificazioni.%20039U0942.md), puo' consentire: 
+Per un triennio a decorrere dalla data di pubblicazione del presente decreto, il Ministro per le finanze, in deroga al disposto dell'art. 93 del testo unico delle leggi per la riscossione delle imposte dirette, approvato con [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), modificato dall'[art. 27 della legge 16 giugno 1939, n. 942](Modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20R.%20decreto%2017%20ottobre%201922%20n.%201401%20e%20successive%20modificazioni.%20039U0942.md), puo' consentire: 
  a) che l'erede o il prescelto degli eredi dell'esattore continui la gestione dell'esattoria fino alla fine del decennio, anche se non sia in possesso dei requisiti per l'iscrizione all'albo degli esattori, qualora sia iscritto all'albo dei collettori; 
  b) la prosecuzione della gestione sino alla fine del decennio, da parte della vedova che non abbia o non possa conseguire l'iscrizione all'albo degli esattori e collettori, quando l'esattore abbia lasciato figli minori o incapaci e qualora risulti che la gestione dell'esattoria sia cespite prevalente di sussistenza per la famiglia; 
  c) che l'erede od il prescelto continui provvisoriamente la gestione qualora sia in possesso dei requisiti per conseguire l'abilitazione alle funzioni di esattore, ed a condizione che al primo esame consegua l'idoneita' salvo il disposto comma del successivo articolo 14.

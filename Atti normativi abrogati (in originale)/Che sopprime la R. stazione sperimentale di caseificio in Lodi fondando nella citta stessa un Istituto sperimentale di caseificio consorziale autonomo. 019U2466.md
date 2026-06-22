@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto del 30 aprile 1871, n. 234](../Regi%20decreti/Che%20istituisce%20in%20Lodi%20una%20Stazione%20sperimentale%20di%20caseificio.%20071U0234.md) (serie 2ª), che istituisce in Lodi una stazione sperimentale di caseificio;
+Visto il [R. decreto del 30 aprile 1871, n. 234](Che%20istituisce%20in%20Lodi%20una%20Stazione%20sperimentale%20di%20caseificio.%20071U0234.md) (serie 2ª), che istituisce in Lodi una stazione sperimentale di caseificio;
 
-Visto il [R. decreto 20 novembre 1879, n. 5211](../Regi%20decreti/Che%20conferma%20la%20istituzione%20della%20stazione%20sperimentale%20di%20caseificio%20in%20Lodi.%20079U5211.md) (serie 2ª), che conferma la istituzione della predetta stazione;
+Visto il [R. decreto 20 novembre 1879, n. 5211](Che%20conferma%20la%20istituzione%20della%20stazione%20sperimentale%20di%20caseificio%20in%20Lodi.%20079U5211.md) (serie 2ª), che conferma la istituzione della predetta stazione;
 
 Considerata la necessita' di trasformare la stazione stessa in un Istituto consorziale autonomo fornito di piu' larghi mezzi per la risoluzione dei problemi attinenti al caseificio;
 
@@ -34,7 +34,7 @@ Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, di con
 
 ## Art. 1.
 
-La R. stazione sperimentale di caseificio di Lodi, istituita con [R. decreto del 30 aprile 1871, n. 234](../Regi%20decreti/Che%20istituisce%20in%20Lodi%20una%20Stazione%20sperimentale%20di%20caseificio.%20071U0234.md) (serie 2ª), e' soppressa col 31 dicembre 1919.
+La R. stazione sperimentale di caseificio di Lodi, istituita con [R. decreto del 30 aprile 1871, n. 234](Che%20istituisce%20in%20Lodi%20una%20Stazione%20sperimentale%20di%20caseificio.%20071U0234.md) (serie 2ª), e' soppressa col 31 dicembre 1919.
 
 ## Art. 2.
 

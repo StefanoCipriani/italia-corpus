@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 5 aprile 1943, n. 681](../Regi%20decreti/Norme%20integrative%20del%20R.%20decreto-legge%2015%20marzo%201943%20n.%20121%20recante%20norme%20intese%20a%20considerare%20Presenti%20alle%20bandiere%20i%20militari%20e%20i%20militarizzati%20deceduti%20per%20ferite%20lesioni%20od%20infermita_50e95ef6b864.md);
+Visto il [R. decreto 5 aprile 1943, n. 681](Norme%20integrative%20del%20R.%20decreto-legge%2015%20marzo%201943%20n.%20121%20recante%20norme%20intese%20a%20considerare%20Presenti%20alle%20bandiere%20i%20militari%20e%20i%20militarizzati%20deceduti%20per%20ferite%20lesioni%20od%20infermita_50e95ef6b864.md);
 
 Visto il [R. decreto-legge 24 gennaio 1944, n. 18](Modifiche%20alle%20norme%20concernenti%20il%20trattamento%20spettante%20ai%20familiari%20dei%20militari%20o%20militarizzati%20da%20considerarsi%20Presenti%20alle%20Bandiere.%20044U0018.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, d'intes
 
 ## Art. 1.
 
-Il termine di decadenza di tre mesi dalla data di partecipazione dell'avvenuto decesso o della dichiarazione di irreperibilita', del militare o militarizzato Considerato «Presente alle Bandiere», assegnato nell'[art. 3 comma terzo del R. decreto 5 aprile 1943, n. 681](../Regi%20decreti/Norme%20integrative%20del%20R.%20decreto-legge%2015%20marzo%201943%20n.%20121%20recante%20norme%20intese%20a%20considerare%20Presenti%20alle%20bandiere%20i%20militari%20e%20i%20militarizzati%20deceduti%20per%20ferite%20lesioni%20od%20infermita_50e95ef6b864.md), per la presentazione della domanda rivolta a conseguire il trattamento preveduto dall'[art. 2 del R. decreto-legge 15 marzo 1943, n. 121](Norme%20intese%20a%20considerare%20presenti%20alle%20bandiere%20i%20militari%20e%20i%20militarizzati%20deceduti%20per%20ferite%20lesioni%20od%20infermita%20riportate%20o%20contratte%20per%20servizio%20di%20guerra%20o%20che%20siano%20nelle%20stes_c24e6980d7de.md), e' prorogato a tre mesi dalla conclusione della pace. 
+Il termine di decadenza di tre mesi dalla data di partecipazione dell'avvenuto decesso o della dichiarazione di irreperibilita', del militare o militarizzato Considerato «Presente alle Bandiere», assegnato nell'[art. 3 comma terzo del R. decreto 5 aprile 1943, n. 681](Norme%20integrative%20del%20R.%20decreto-legge%2015%20marzo%201943%20n.%20121%20recante%20norme%20intese%20a%20considerare%20Presenti%20alle%20bandiere%20i%20militari%20e%20i%20militarizzati%20deceduti%20per%20ferite%20lesioni%20od%20infermita_50e95ef6b864.md), per la presentazione della domanda rivolta a conseguire il trattamento preveduto dall'[art. 2 del R. decreto-legge 15 marzo 1943, n. 121](Norme%20intese%20a%20considerare%20presenti%20alle%20bandiere%20i%20militari%20e%20i%20militarizzati%20deceduti%20per%20ferite%20lesioni%20od%20infermita%20riportate%20o%20contratte%20per%20servizio%20di%20guerra%20o%20che%20siano%20nelle%20stes_c24e6980d7de.md), e' prorogato a tre mesi dalla conclusione della pace. 
  
  Restano sanate le decadenze dal diritto a tale trattamento che si fossero verificate per la mancata presentazione della domanda nel termine di cui sopra.
 

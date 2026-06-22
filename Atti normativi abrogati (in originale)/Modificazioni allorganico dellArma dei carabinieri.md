@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 9 maggio 1940, n. 368](Ordinamento%20del%20Regio%20esercito.%20040U0368.md), sull'ordinamento dell'Esercito, e successive modificazioni;
 
-Visto il [decreto legislativo luogotenenziale 31 agosto 1945, n. 603](../Decreti%20legislativi%20luogotenenziali/Forza%20organica%20e%20ordinamento%20dellArma%20dei%20carabinieri%20Reali.%20045U0603.md), sulla forza organica, e sull'ordinamento dell'Arma dei carabinieri;
+Visto il [decreto legislativo luogotenenziale 31 agosto 1945, n. 603](Forza%20organica%20e%20ordinamento%20dellArma%20dei%20carabinieri%20Reali.%20045U0603.md), sulla forza organica, e sull'ordinamento dell'Arma dei carabinieri;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la difesa, di concerto con i Ministri per l'inte
 
 ## Art. 1.
 
-L'organico dei sottufficiali e militari di truppa dell'Arma dei carabinieri, quale risulta dall'[art. 3 del decreto legislativo luogotenenziale 31 agosto 1945, numero 603](../Decreti%20legislativi%20luogotenenziali/Forza%20organica%20e%20ordinamento%20dellArma%20dei%20carabinieri%20Reali.%20045U0603.md), e' aumentato di 10.000 unita', cosi' ripartite:
+L'organico dei sottufficiali e militari di truppa dell'Arma dei carabinieri, quale risulta dall'[art. 3 del decreto legislativo luogotenenziale 31 agosto 1945, numero 603](Forza%20organica%20e%20ordinamento%20dellArma%20dei%20carabinieri%20Reali.%20045U0603.md), e' aumentato di 10.000 unita', cosi' ripartite:
 
  marescialli maggiori....................................n. 400 marescialli capi e d'alloggio...........................n. 600 brigadieri..............................................n. 900 vice brigadieri.........................................n. 600 appuntati...............................................n. 1200 carabinieri.............................................n. 6300
 

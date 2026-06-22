@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 21 maggio 1934, n. 1397](../Regi%20decreti/Norme%20per%20la%20esecuzione%20delle%20opere%20pubbliche%20nelle%20Colonie.%20034U1397.md), che approva le norme per l'esecuzione delle opere pubbliche nelle Colonie;
+Visto il [regio decreto 21 maggio 1934, n. 1397](Norme%20per%20la%20esecuzione%20delle%20opere%20pubbliche%20nelle%20Colonie.%20034U1397.md), che approva le norme per l'esecuzione delle opere pubbliche nelle Colonie;
 
-Visto il [regio decreto 3 febbraio 1938, n. 591](../Regi%20decreti/Revisione%20dei%20prezzi%20degli%20appalti%20di%20lavori%20pubblici%20nellAfrica%20Italiana.%20038U0591.md), sulla revisione dei prezzi degli appalti di lavori pubblici nell'Africa italiana, modificato con [regio decreto 22 maggio 1941, n. 767](../Regi%20decreti/Revisione%20dei%20prezzi%20degli%20appalti%20di%20lavori%20pubblici%20di%20durata%20superiore%20al%20sei%20mesi%20nellAfrica%20Italiana.%20041U0767.md);
+Visto il [regio decreto 3 febbraio 1938, n. 591](Revisione%20dei%20prezzi%20degli%20appalti%20di%20lavori%20pubblici%20nellAfrica%20Italiana.%20038U0591.md), sulla revisione dei prezzi degli appalti di lavori pubblici nell'Africa italiana, modificato con [regio decreto 22 maggio 1941, n. 767](Revisione%20dei%20prezzi%20degli%20appalti%20di%20lavori%20pubblici%20di%20durata%20superiore%20al%20sei%20mesi%20nellAfrica%20Italiana.%20041U0767.md);
 
-Visto il [regio decreto 7 novembre 1942, n. 1641](../Regi%20decreti/Proroga%20fino%20alla%20cessazione%20dello%20stato%20di%20guerra%20dellefficacia%20del%20R.%20decreto%2022%20maggio%201941-XIX%20n.%20767%20sulla%20revisione%20dei%20prezzi%20degli%20appalti%20di%20lavori%20pubblici%20di%20durata%20superiore%20a_c78e86577613.md), che proroga sino alla cessazione dello stato di guerra l'efficacia del [regio decreto 22 maggio 1941, n. 767](../Regi%20decreti/Revisione%20dei%20prezzi%20degli%20appalti%20di%20lavori%20pubblici%20di%20durata%20superiore%20al%20sei%20mesi%20nellAfrica%20Italiana.%20041U0767.md), sopra citato;
+Visto il [regio decreto 7 novembre 1942, n. 1641](Proroga%20fino%20alla%20cessazione%20dello%20stato%20di%20guerra%20dellefficacia%20del%20R.%20decreto%2022%20maggio%201941-XIX%20n.%20767%20sulla%20revisione%20dei%20prezzi%20degli%20appalti%20di%20lavori%20pubblici%20di%20durata%20superiore%20a_c78e86577613.md), che proroga sino alla cessazione dello stato di guerra l'efficacia del [regio decreto 22 maggio 1941, n. 767](Revisione%20dei%20prezzi%20degli%20appalti%20di%20lavori%20pubblici%20di%20durata%20superiore%20al%20sei%20mesi%20nellAfrica%20Italiana.%20041U0767.md), sopra citato;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -26,7 +26,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Articolo unico.
 
-L'Amministrazione dell'Africa italiana puo' esercitare la facolta' di cui al [regio decreto 7 novembre 1942, n. 1641](../Regi%20decreti/Proroga%20fino%20alla%20cessazione%20dello%20stato%20di%20guerra%20dellefficacia%20del%20R.%20decreto%2022%20maggio%201941-XIX%20n.%20767%20sulla%20revisione%20dei%20prezzi%20degli%20appalti%20di%20lavori%20pubblici%20di%20durata%20superiore%20a_c78e86577613.md), sulla revisione dei prezzi degli appalti di opere pubbliche di durata superiore a sei mesi nell'Africa italiana, fino a tre anni dopo la entrata in vigore del Trattato di pace tra l'Italia e le Nazioni Alleate.
+L'Amministrazione dell'Africa italiana puo' esercitare la facolta' di cui al [regio decreto 7 novembre 1942, n. 1641](Proroga%20fino%20alla%20cessazione%20dello%20stato%20di%20guerra%20dellefficacia%20del%20R.%20decreto%2022%20maggio%201941-XIX%20n.%20767%20sulla%20revisione%20dei%20prezzi%20degli%20appalti%20di%20lavori%20pubblici%20di%20durata%20superiore%20a_c78e86577613.md), sulla revisione dei prezzi degli appalti di opere pubbliche di durata superiore a sei mesi nell'Africa italiana, fino a tre anni dopo la entrata in vigore del Trattato di pace tra l'Italia e le Nazioni Alleate.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

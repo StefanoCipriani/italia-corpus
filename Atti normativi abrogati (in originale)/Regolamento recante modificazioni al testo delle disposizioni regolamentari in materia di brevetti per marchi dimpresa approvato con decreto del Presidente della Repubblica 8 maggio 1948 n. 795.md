@@ -37,12 +37,12 @@ EMANA il seguente regolamento:
 Nel [comma 1 dell'art. 1 del decreto del Presidente della Repubblica 8 maggio 1948, n. 795](Approvazione%20del%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20di%20impresa.md), le parole "La domanda di brevetto per marchio" sono sostituite dalle parole "La domanda di registrazione del marchio".
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Nota al titolo:
  - L'art. 38 del decreto qui pubblicato ha variato l'intestazione del [D.P.R. n. 795/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948;795) in: "Testo delle disposizioni regolamentari in materia di marchi registrati"; l'originaria rubrica dei titoli I e II ("Atti per la concessione dei brevetti" e "Concessione dei brevetti") sono state variate dal medesimo art. 38, rispettivamente in: "Atti per la registrazione" e "Registrazione"; l'originaria rubrica del capo II del titolo II ("Registro dei brevetti e brevetti") e' stata sostituita, ugualmente dallo stesso art. 38, con: "Raccolta degli attestati e attestati di registrazione".
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - La [legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400), disciplina l'attivita' dei Governo e l'ordinamento della Presidenza del Consiglio dei Ministri. L'art. 17 di detta legge, come modificato dall'[art. 74 del D.Lgs. 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), cosi' recita:
+ - La [legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400), disciplina l'attivita' dei Governo e l'ordinamento della Presidenza del Consiglio dei Ministri. L'art. 17 di detta legge, come modificato dall'[art. 74 del D.Lgs. 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), cosi' recita:
  "Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, Previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare:
  a) l'esecuzione delle leggi e dei decreti legislativi;
  b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;
@@ -74,8 +74,8 @@ AVVERTENZA:
  q) introdurre il principio di esaurimento del diritto di marchio;
  r) disporre la pubblicita' delle domande e delle registrazioni;
  s) disciplinare la rappresentanza a mezzo di mandatario abilitato nelle procedure di fronte all'Ufficio centrale brevetti.
- 2. Ai fini dell'attuazione della direttiva di cui al comma 1, saranno apportate le necessarie modifiche alle norme del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), alle disposizioni di cui al [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), alle disposizioni approvate con [decreto del Presidente della Repubblica 8 maggio 1948, n. 795](Approvazione%20del%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20di%20impresa.md), nonche' ad ogni altra disposizione incompatibile.
- 3. Le disposizioni transitorie dovranno tener conto, oltreche' dei criteri fissati nella direttiva, di quelli derivanti dagli [articoli 81 e seguenti del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), in quanto applicabili".
+ 2. Ai fini dell'attuazione della direttiva di cui al comma 1, saranno apportate le necessarie modifiche alle norme del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), alle disposizioni di cui al [regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), alle disposizioni approvate con [decreto del Presidente della Repubblica 8 maggio 1948, n. 795](Approvazione%20del%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20di%20impresa.md), nonche' ad ogni altra disposizione incompatibile.
+ 3. Le disposizioni transitorie dovranno tener conto, oltreche' dei criteri fissati nella direttiva, di quelli derivanti dagli [articoli 81 e seguenti del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), in quanto applicabili".
  - La [direttiva CEE n. 89/104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;104), sul ravvicinamento delle legislazioni degli Stati membri in materia di marchi d'impresa, e' stata pubblicata nella Gazzetta Ufficiale delle Comunita' europee n. L 40 dell'11 febbraio 1989 e ripubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 29 del 13 aprile 1989, 2a serie speciale.
  Nota all'art. 1:
  - Si trascrive il testo dell'[art. 1 del D.P.R. n. 795/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948;795#art_1), come modificato decreto qui pubblicato:
@@ -115,7 +115,7 @@ Nota all'art. 2:
  Il Ministero dispone la girata dei vaglia ordinari e telegrafici a favore del procuratore del registro di Roma".
  "Art. 48. - L'Ufficio italiano brevetti e marchi restituisce al richiedente un esemplare della domanda, con la dichiarazione dell'avvenuta trascrizione.
  Gli atti e le sentenze, presentati per la trascrizione, vengono conservati dall'ufficio stesso".
- "Art. 52. - I ricorsi, previsti dal [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), debbono essere o depositati presso gli uffici di cui al precedente art. 2, o inviati direttamente, per raccomandata postale, alla segreteria della commissione dei ricorsi presso l'Ufficio italiano brevetti e marchi.
+ "Art. 52. - I ricorsi, previsti dal [regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), debbono essere o depositati presso gli uffici di cui al precedente art. 2, o inviati direttamente, per raccomandata postale, alla segreteria della commissione dei ricorsi presso l'Ufficio italiano brevetti e marchi.
  All'originale del ricorso devono essere unite tre copie in carta libera, salva tuttavia la facolta' della segreteria della commissione di richiedere agli interessati un numero maggiore di copie".
  "Art. 65. - L'autorizzazione ad estrarre copia delle domande e delle dichiarazioni di protezione, nonche' degli altri documenti di cui e' consentita la visione al pubblico, a chi ne faccia richiesta su carta bollata prescritta, e' subordinata a quelle cautele che il direttore dell'ufficio riterra' necessarie per evitare ogni guasto o deterioramento dell'esemplare a disposizione del pubblico.
  Le copie, per le quali si chiede l'autenticazione di conformita' all'esemplare a disposizione del pubblico, devono essere in regola con le tasse di bollo.
@@ -162,18 +162,18 @@ Nota all'art. 5:
  2) la marca da bollo prescritta, da applicare sull'attestato di registrazione;
  3) lo stampo tipografico, atto a riprodurre il marchio in tutte le sue parti;
  4) tre copie, esenti da bollo, ottenute dallo stampo tipografico e, nel caso in cui si rivendichi il colore, altre tre copie esenti da bollo, identiche all'esemplare del marchio applicato sulla dichiarazione di protezione.
- Quando vi sia mandatario, alla domanda deve essere unito anche l'atto di procura, ovvero la lettera d'incarico, di cui all'[art. 77 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md)".
+ Quando vi sia mandatario, alla domanda deve essere unito anche l'atto di procura, ovvero la lettera d'incarico, di cui all'[art. 77 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md)".
 
 ## Art. 6.
 
 1.
 
 L'[art. 9 del decreto del Presidente della Repubblica 8 maggio 1948, n. 795](Approvazione%20del%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20di%20impresa.md), e' sostituito dal seguente:
- "9. Alla domanda di registrazione per marchio collettivo deve unirsi, oltre ai documenti indicati negli articoli 4 e 8, anche copia dei regolamenti di cui all'[art. 2, comma 2, del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md)".
+ "9. Alla domanda di registrazione per marchio collettivo deve unirsi, oltre ai documenti indicati negli articoli 4 e 8, anche copia dei regolamenti di cui all'[art. 2, comma 2, del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md)".
 
 Nota all'art. 6:
  - Si trascrive il testo dell'[art. 9 del D.P.R. n. 795/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948;795#art_9) nella formulazione originaria:
- "Art. 9. - Alla domanda di brevetto per marchi collettivi, deve unirsi, oltre i documenti indicati nei prescritti articoli 4 e 8, anche copia delle norme statutarie di cui all'[art. 2, comma secondo, del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md)".
+ "Art. 9. - Alla domanda di brevetto per marchi collettivi, deve unirsi, oltre i documenti indicati nei prescritti articoli 4 e 8, anche copia delle norme statutarie di cui all'[art. 2, comma secondo, del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md)".
 
 ## Art. 7.
 
@@ -232,7 +232,7 @@ Nel n. 2) del comma 2 del medesimo art. 21, le parole "o merce" sono sostituite 
 
 Nota all'art. 10:
  - Si trascrive il testo dell'[art. 21 del D.P.R. n. 795/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948;795#art_21), come modificato decreto qui pubblicato:
- "Art. 21. - Quando sia intervenuto il decreto ministeriale per la protezione temporanea dei nuovi marchi apposti su prodotti o su materiali inerenti alla prestazione del servizio che hanno figurato in una esposizione e si rivendichino i diritti di priorita' per tale protezione temporanea, a norma degli [articoli 6](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md) e [7 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), il richiedente deve allegare alla domanda di registrazione un certificato, nella carta bollata prescritta, debitamente legalizzato, del comitato esecutivo o direttivo o della presidenza della esposizione.
+ "Art. 21. - Quando sia intervenuto il decreto ministeriale per la protezione temporanea dei nuovi marchi apposti su prodotti o su materiali inerenti alla prestazione del servizio che hanno figurato in una esposizione e si rivendichino i diritti di priorita' per tale protezione temporanea, a norma degli [articoli 6](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md) e [7 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), il richiedente deve allegare alla domanda di registrazione un certificato, nella carta bollata prescritta, debitamente legalizzato, del comitato esecutivo o direttivo o della presidenza della esposizione.
  Il certificato deve contenere:
  1) il cognome, nome e domicilio dell'espositore;
  2) la data in cui il prodotto o il materiale portante il marchio, e' stato consegnato per l'esposizione;
@@ -262,7 +262,7 @@ Nota all'art. 12:
  - Si trascrive il testo dell'[art. 24 del D.P.R. n. 795/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948;795#art_24) nella formulazione originaria:
  "Art. 24. - La rivendicazione dei diritti di priorita' deve essere menzionata nella domanda di brevetto.
  Il brevetto viene in ogni caso concesso senza menzione della priorita', qualora, entro sei mesi dal deposito della domanda, non vengono prodotti, nelle forme dovute, i prescritti documenti".
- L'originario termine di tre mesi di cui al secondo comma e' stato portato a sei mesi dall'articolo unico del [D.P.R. 20 ottobre 1953, n. 1146](../Regolamenti%20governativi/Sostituzione%20dellart.%2024%20del%20regolamento%20per%20marchi%20dimpresa%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%208%20maggio%201948%20n.%20795.md)".
+ L'originario termine di tre mesi di cui al secondo comma e' stato portato a sei mesi dall'articolo unico del [D.P.R. 20 ottobre 1953, n. 1146](../DPR/Sostituzione%20dellart.%2024%20del%20regolamento%20per%20marchi%20dimpresa%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%208%20maggio%201948%20n.%20795.md)".
 
 ## Art. 13.
 
@@ -295,7 +295,7 @@ L'[art. 32 del decreto del Presidente della Repubblica 8 maggio 1948, n. 795](Ap
 
 Nota all'art. 15:
  - Si trascrive il testo dell'[art. 32 del D.P.R. n. 795/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948;795#art_32) nella formulazione originaria:
- "Art. 32. - Il richiedente il brevetto di rinnovazione, quando sia l'avente causa del titolare del brevetto precedente, e' tenuto a giustificare il suo titolo, osservate le disposizioni dell'[art. 15, comma primo, del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md)".
+ "Art. 32. - Il richiedente il brevetto di rinnovazione, quando sia l'avente causa del titolare del brevetto precedente, e' tenuto a giustificare il suo titolo, osservate le disposizioni dell'[art. 15, comma primo, del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md)".
 
 ## Art. 16.
 
@@ -310,13 +310,13 @@ L'[art. 35 del decreto del Presidente della Repubblica 8 maggio 1948, n. 795](Ap
  d) un esemplare della riproduzione del marchio;
  e) l'indicazione dei prodotti o servizi che il marchio e' destinato a contraddistinguere;
  f) estremi della precedente registrazione del marchio avvenuta nello Stato di origine, o del precedente deposito fatto all'estero;
- g) le indicazioni prescritte dall'art. 7, ultimo comma, del [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), quando si rivendichi la priorita' per la protezione temporanea in esposizioni;
+ g) le indicazioni prescritte dall'art. 7, ultimo comma, del [regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), quando si rivendichi la priorita' per la protezione temporanea in esposizioni;
  h) data della registrazione del marchio.
- Sull'attestato originale di registrazione deve essere presa nota degli atti elencati all'art. 49 e dei mutamenti di cui all'[art. 76 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md)".
+ Sull'attestato originale di registrazione deve essere presa nota degli atti elencati all'art. 49 e dei mutamenti di cui all'[art. 76 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md)".
 
 Nota all'art. 16:
  - Si trascrive il testo dell'[art. 35 del D.P.R. n. 795/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948;795#art_35) nella formulazione originaria:
- "Art. 35. - Il registro dei brevetti per marchi, di cui all'[art. 34 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), deve essere firmato per ogni pagina dal direttore dell'Ufficio centrale brevetti o da un funzionario da lui delegato.
+ "Art. 35. - Il registro dei brevetti per marchi, di cui all'[art. 34 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), deve essere firmato per ogni pagina dal direttore dell'Ufficio centrale brevetti o da un funzionario da lui delegato.
  Il registro deve contenere, per ogni domanda accolta, le indicazioni seguenti:
  1) numero d'ordine del brevetto;
  2) ufficio, giorno ed ora di deposito, e numero di ordine della domanda;
@@ -324,7 +324,7 @@ Nota all'art. 16:
  4) un esemplare della riproduzione del marchio;
  5) l'indicazione dei prodotti o merci che il marchio e' destinato a contraddistinguere;
  6) estremi della precedente registrazione del marchio avvenuta nello Stato di origine, o del precedente deposito fatto all'estero;
- 7) le indicazioni prescritte dall'art. 7, ultimo comma del [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), quando si rivendichi la priorita' per la protezione temporanea in esposizioni;
+ 7) le indicazioni prescritte dall'art. 7, ultimo comma del [regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), quando si rivendichi la priorita' per la protezione temporanea in esposizioni;
  8) data della concessione del brevetto.
  Sullo stesso registro ed in relazione ad ogni brevetto, deve essere presso nota dei pagamenti delle tasse, nonche' degli atti elencati all'art. 49 e dei mutamenti di cui all'art. 76 del registro decreto 21 giugno 1942, n. 929".
 
@@ -400,7 +400,7 @@ Nel comma 3 del citato art. 43 le parole "nel registro dei brevetti" sono sostit
 
 Nota all'art. 22:
  - Si trascrive il testo dell'[art. 43 del D.P.R. n. 795/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948;795#art_43), come modificato dal decreto qui pubblicato:
- "Art. 43. - I rimborsi di tasse, nei casi previsti dal [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), vengono autorizzati dal Ministero dell'industria e del commercio. Essi non si riferiscono alla tassa di domanda, che e' irripetibile.
+ "Art. 43. - I rimborsi di tasse, nei casi previsti dal [regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), vengono autorizzati dal Ministero dell'industria e del commercio. Essi non si riferiscono alla tassa di domanda, che e' irripetibile.
  L'autorizzazione ha luogo di ufficio quando le tasse da rimborsare si riferiscono ad una di registrazione definitivamente respinta o ad un ricorso accolto; in ogni altro caso, il rimborso viene effettuato su richieste dell'avente diritto, con istanza su carta bollata prescritta, diretta al Ministero dell'industria e del commercio.
  I rimborsi debbono essere annotati negli attestati originali di registrazione e, ove si riferiscono a domande ritirate o respinte, nelle domande stesse".
 
@@ -413,7 +413,7 @@ Il n. 2) del [comma 2 dell'art. 44 del decreto del Presidente della Repubblica 8
 
 Nota all'art. 23:
  - Si trascrive il testo dell'[art. 44 del D.P.R. n. 795/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948;795#art_44), come modificato dall'[art. 14 del D.P.R. 30 giugno 1972, n. 540, e dal decreto](Semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali%20modelli%20industriali%20e%20marchi%20di%20impresa.md) qui pubblicato:
- "Art. 44. - La domanda di trascrizione di un atto, o di una sentenza di cui all'[art. 49 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), deve essere redatta in doppio esemplare, osservate le norme sul bollo.
+ "Art. 44. - La domanda di trascrizione di un atto, o di una sentenza di cui all'[art. 49 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), deve essere redatta in doppio esemplare, osservate le norme sul bollo.
  La domanda deve contenere:
  1) il cognome, nome e domicilio del richiedente e del mandatario, se vi sia;
  2) il cognome e nome del titolare del marchio e l'indicazione del numero e della data della registrazione;
@@ -439,22 +439,22 @@ Nota all'art. 24:
 1.
 
 L'[art. 47 del decreto del Presidente della Repubblica 8 maggio 1948, n. 795](Approvazione%20del%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20di%20impresa.md), e' sostituito dal seguente:
- "47. Gli atti e le sentenze, di cui all'[art. 49 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), qualora si riferiscano a registrazioni richieste e non ancora effettuate, sono trascritti nella domanda, ma tale trascrizione deve essere ripetuta sugli attestati originali di registrazione all'atto del rilascio".
+ "47. Gli atti e le sentenze, di cui all'[art. 49 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), qualora si riferiscano a registrazioni richieste e non ancora effettuate, sono trascritti nella domanda, ma tale trascrizione deve essere ripetuta sugli attestati originali di registrazione all'atto del rilascio".
 
 Nota all'art. 25:
  - Si trascrive il testo dell'[art. 47 del D.P.R. n. 795/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948;795#art_47) nella formulazione originaria:
- "Art. 47. - Gli atti e le sentenze, di cui all'[art. 49 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), qualora si riferiscano a brevetti richiesti e non ancora concessi, sono trascritti, nel registro delle domande, ma tale trascrizione deve essere ripetuta nel registro dei brevetti subito dopo la concessione del brevetto".
+ "Art. 47. - Gli atti e le sentenze, di cui all'[art. 49 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), qualora si riferiscano a brevetti richiesti e non ancora concessi, sono trascritti, nel registro delle domande, ma tale trascrizione deve essere ripetuta nel registro dei brevetti subito dopo la concessione del brevetto".
 
 ## Art. 26.
 
 1.
 
 L'[art. 49 del decreto del Presidente della Repubblica 8 maggio 1948, n. 795](Approvazione%20del%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20di%20impresa.md), e' sostituito dal seguente:
- "49. Le sentenze pervenute all'Ufficio in conformita' dell'[art. 60, comma 3, del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), devono essere inserite nei fascicoli dei marchi corrispondenti. Quelli che pronunciano la nullita' o la decadenza devono essere annotate sugli attestati originali di registrazione e di esse deve essere data notizia nel Bollettino dei brevetti per invenzioni e modelli e dei marchi".
+ "49. Le sentenze pervenute all'Ufficio in conformita' dell'[art. 60, comma 3, del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), devono essere inserite nei fascicoli dei marchi corrispondenti. Quelli che pronunciano la nullita' o la decadenza devono essere annotate sugli attestati originali di registrazione e di esse deve essere data notizia nel Bollettino dei brevetti per invenzioni e modelli e dei marchi".
 
 Nota all'art. 26:
  - Si trascrive il testo dell'[art. 49 del D.P.R. n. 795/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948;795#art_49) nella formulazione originaria:
- "Art. 49. - Le sentenze che pronunciano la nullita', o la decadenza dei brevetti, pervenute all'Ufficio centrale in conformita' dell'art. 60, ultimo comma, del [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), devono essere annotate sul registro dei brevetti e di esse deve essere data notizia nel Bollettino dei brevetti per invenzioni, modelli e marchi".
+ "Art. 49. - Le sentenze che pronunciano la nullita', o la decadenza dei brevetti, pervenute all'Ufficio centrale in conformita' dell'art. 60, ultimo comma, del [regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), devono essere annotate sul registro dei brevetti e di esse deve essere data notizia nel Bollettino dei brevetti per invenzioni, modelli e marchi".
 
 ## Art. 27.
 
@@ -464,7 +464,7 @@ Il [comma 2 dell'art. 51 del decreto del Presidente della Repubblica 8 maggio 19
 
 Nota all'art. 27:
  - Si trascrive il testo dell'[art. 51 del D.P.R. n. 795/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948;795#art_51), come modificato dal decreto qui pubblicato:
- "Art. 51. - La commissione dei ricorsi, di cui all'[art. 71 del regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), e' assistita da una segreteria i cui componenti sono nominati con lo stesso decreto di costituzione della commissione, o con decreto a parte.
+ "Art. 51. - La commissione dei ricorsi, di cui all'[art. 71 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), e' assistita da una segreteria i cui componenti sono nominati con lo stesso decreto di costituzione della commissione, o con decreto a parte.
  I componenti la segreteria anzidetta devono essere scelti tra i funzionari dell'Ufficio italiano brevetti e marchi".
 
 ## Art. 28.
@@ -489,7 +489,7 @@ Nel [comma 1 dell'art. 62 del decreto del Presidente della Repubblica 8 maggio 1
 Nota all'art. 29:
  - Si trascrive il testo dell'[art. 62 del D.P.R. n. 795/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948;795#art_62), come modificato dal decreto qui pubblicato:
  "Art. 62. - Il Ministro per l'industria e il commercio puo' sottoporre all'esame della commissione, per sentire il suo parere, ogni questione di massima in materia di registrazioni di marchi e di ogni altra questione attinente alla materia.
- Il presidente della commissione stessa, oltre ai tecnici previsti dall'[art. 71 del regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), puo' aggregare alla commissione anche dei tecnici aggiunti".
+ Il presidente della commissione stessa, oltre ai tecnici previsti dall'[art. 71 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), puo' aggregare alla commissione anche dei tecnici aggiunti".
 
 ## Art. 30.
 
@@ -500,7 +500,7 @@ L'[art. 63 del decreto del Presidente della Repubblica 8 maggio 1948, n. 795](Ap
 
 Nota all'art. 30:
  - Si trascrive il testo dell'[art. 63 del D.P.R. n. 795/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948;795#art_63) nella formulazione originaria:
- "Art. 63. - Il registro dei brevetti, di cui all'[art. 34 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), puo' essere consultato dal pubblico, in seguito a domanda su carta bollata prescritta, e previo pagamento all'ufficio stesso dei diritti di visione.
+ "Art. 63. - Il registro dei brevetti, di cui all'[art. 34 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), puo' essere consultato dal pubblico, in seguito a domanda su carta bollata prescritta, e previo pagamento all'ufficio stesso dei diritti di visione.
  Il pubblico puo' anche consultare, nello stesso modo e previo pagamento dei diritti anzidetti, il registro delle domande".
 
 ## Art. 31.
@@ -524,7 +524,7 @@ L'[art. 66 del decreto del Presidente della Repubblica 8 maggio 1948, n. 795](Ap
 
 Nota all'art. 32:
  - Si trascrive il testo dell'[art. 66 del D.P.R. n. 795/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948;795#art_66) nella formulazione originaria:
- "Art. 66. - Le copie e gli estratti del registro dei brevetti e i certificati relativi a notizie da estrarsi da altri registri, nonche' i duplicati degli originali dei brevetti, sono fatti esclusivamente dall'Ufficio centrale dei brevetti, in seguito a istanza, redatta su carta bollata prescritta, nella quale sia indicato il numero del brevetto, del quale si chiede la copia o l'estratto, e previo pagamento, all'ufficio stesso, dei diritti di segreteria, oltre la tassa stabilita nella tabella A, ammessa al [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e succes- sive modificazioni di cui al [decreto legislativo 30 maggio 1947, n. 604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-05-30;604).
+ "Art. 66. - Le copie e gli estratti del registro dei brevetti e i certificati relativi a notizie da estrarsi da altri registri, nonche' i duplicati degli originali dei brevetti, sono fatti esclusivamente dall'Ufficio centrale dei brevetti, in seguito a istanza, redatta su carta bollata prescritta, nella quale sia indicato il numero del brevetto, del quale si chiede la copia o l'estratto, e previo pagamento, all'ufficio stesso, dei diritti di segreteria, oltre la tassa stabilita nella tabella A, ammessa al [regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e succes- sive modificazioni di cui al [decreto legislativo 30 maggio 1947, n. 604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-05-30;604).
  Si devono osservare, per tali copie ed estratti, o per i certificati e i duplicati dei brevetti, le disposizioni della legge sul bollo".
 
 ## Art. 33.
@@ -535,7 +535,7 @@ Nell'[art. 67 del decreto del Presidente della Repubblica 8 maggio 1948, n. 795]
 
 Nota all'art. 33:
  - Si trascrive il testo dell'[art. 67 del D.P.R. n. 795/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948;795#art_67), come modificato dal decreto qui pubblicato:
- "Art. 67. - La certificazione di autenticita' delle copie di cui all'[art. 79 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' soggetta al pagamento dei diritti di segreteria, da corrispondersi all'ufficio per ogni foglio carta bollata".
+ "Art. 67. - La certificazione di autenticita' delle copie di cui all'[art. 79 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' soggetta al pagamento dei diritti di segreteria, da corrispondersi all'ufficio per ogni foglio carta bollata".
 
 ## Art. 34.
 
@@ -601,7 +601,7 @@ Nel comma 3 la parola "merci" e' sostituita con la parola "servizi".
 
 Nota all'art. 37:
  - Si trascrive il testo dell'[art. 73 del D.P.R. n. 795/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948;795#art_73), come modificato dal decreto qui pubblicato:
- "Art. 73. - Gli enti organizzatori di esposizioni, ai fini della protezione temporanea dei marchi prevista dall'[art. 6 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), debbono avanzare apposita domanda, nella carta bollata prescritta, al Ministero dell'industria e del commercio almeno tre mesi prima dell'apertura della esposizione.
+ "Art. 73. - Gli enti organizzatori di esposizioni, ai fini della protezione temporanea dei marchi prevista dall'[art. 6 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), debbono avanzare apposita domanda, nella carta bollata prescritta, al Ministero dell'industria e del commercio almeno tre mesi prima dell'apertura della esposizione.
  Il decreto ministeriale, che consente la protezione temporanea anzidetta, deve essere pubblicato nella Gazzetta Ufficiale della Repubblica italiana, prima che l'esposizione venga aperta. Tale decreto sara' pubblicato nel Bollettino dei brevetti per invenzioni e modelli e dei marchi.
  Si puo' provvedere con una unica domanda e con un unico decreto alla protezione temporanea anzidetta sia nelle invenzioni industriali e dei modelli industriali, sia dei marchi apposti su prodotti e servizi che figureranno in una stessa Esposizione".
 

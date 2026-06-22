@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 29 ottobre 1945, n. 683](../Decreti%20legislativi%20luogotenenziali/Creazione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20residuati%20di%20guerra.%20045U0683.md);
+Visto il [decreto legislativo luogotenenziale 29 ottobre 1945, n. 683](Creazione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20residuati%20di%20guerra.%20045U0683.md);
 
-Visto l'[art. 2 del decreto legislativo luogotenenziale 22 dicembre 1945, n. 824](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Ministero%20della%20ricostruzione%20e%20devoluzione%20delle%20sue%20attribuzioni%20al%20Ministero%20dellindustria%20e%20del%20commercio%20ad%20eccezione%20di%20quelle%20che%20si%20riferiscono%20alla%20Presidenza%20de_e16756662f42.md);
+Visto l'[art. 2 del decreto legislativo luogotenenziale 22 dicembre 1945, n. 824](Soppressione%20del%20Ministero%20della%20ricostruzione%20e%20devoluzione%20delle%20sue%20attribuzioni%20al%20Ministero%20dellindustria%20e%20del%20commercio%20ad%20eccezione%20di%20quelle%20che%20si%20riferiscono%20alla%20Presidenza%20de_e16756662f42.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 5 luglio 1923, n. 1439](../Regi%20decreti/Riunione%20in%20un%20unico%20Ministero%20denominato%20%20Ministero%20delleconomia%20nazionale%20%20dei%20servizi%20e%20degli%20uffici%20dipendenti%20dai%20Ministeri%20dellagricoltura%20e%20dellindustria%20del%20commercio%20e%20del%20lavoro.%20023U1439.md), che riunisce i servizi e gli uffici dipendenti dai Ministeri dell'agricoltura e dell'industria, del commercio e del lavoro, nel Ministero dell'economia nazionale;
+Veduto il [R. decreto 5 luglio 1923, n. 1439](Riunione%20in%20un%20unico%20Ministero%20denominato%20%20Ministero%20delleconomia%20nazionale%20%20dei%20servizi%20e%20degli%20uffici%20dipendenti%20dai%20Ministeri%20dellagricoltura%20e%20dellindustria%20del%20commercio%20e%20del%20lavoro.%20023U1439.md), che riunisce i servizi e gli uffici dipendenti dai Ministeri dell'agricoltura e dell'industria, del commercio e del lavoro, nel Ministero dell'economia nazionale;
 
 Veduto il [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), concernente l'esercizio delle assicurazioni private;
 

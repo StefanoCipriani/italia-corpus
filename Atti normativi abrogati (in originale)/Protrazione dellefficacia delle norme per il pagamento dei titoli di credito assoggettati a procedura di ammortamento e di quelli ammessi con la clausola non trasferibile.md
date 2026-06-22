@@ -18,7 +18,7 @@ Visto il [regio decreto 14 dicembre 1933, n. 1669](https://www.normattiva.it/uri
 
 Visto il [regio decreto 21 dicembre 1933, n. 1736](../Regi%20decreti/Disposizioni%20sullassegno%20bancario%20sullassegno%20circolare%20e%20su%20alcuni%20titoli%20speciali%20dellIstituto%20di%20emissione%20del%20Banco%20di%20Napoli%20e%20del%20Banco%20di%20Sicilia.%20033U1736.md);
 
-Visto il [decreto legislativo luogotenenziale 11 gennaio 1945, n. 17](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20il%20pagamento%20dei%20titoli%20di%20credito%20assoggettati%20a%20procedura%20di%20ammortamento%20e%20di%20quelli%20rimessi%20con%20la%20clausola%20non%20trasferibile.%20045U0017.md);
+Visto il [decreto legislativo luogotenenziale 11 gennaio 1945, n. 17](Norme%20per%20il%20pagamento%20dei%20titoli%20di%20credito%20assoggettati%20a%20procedura%20di%20ammortamento%20e%20di%20quelli%20rimessi%20con%20la%20clausola%20non%20trasferibile.%20045U0017.md);
 
 Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 49](../Decreti%20legislativi%20luogotenenziali/Cessazione%20dello%20stato%20di%20guerra%20e%20passaggio%20dalla%20legislazione%20di%20guerra%20a%20quella%20di%20pace.md) Vista la deliberazione del Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per la grazia e giustizia, di concerto con il Minist
 
 ## Art. 1.
 
-Le disposizioni del [decreto legislativo luogotenenziale 11 gennaio 1945, n. 17](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20il%20pagamento%20dei%20titoli%20di%20credito%20assoggettati%20a%20procedura%20di%20ammortamento%20e%20di%20quelli%20rimessi%20con%20la%20clausola%20non%20trasferibile.%20045U0017.md), continuano ad avere efficacia fino al 15 ottobre 1947, limitatamente ai titoli previsti dal predetto decreto emessi anteriormente al 25 aprile 1945.
+Le disposizioni del [decreto legislativo luogotenenziale 11 gennaio 1945, n. 17](Norme%20per%20il%20pagamento%20dei%20titoli%20di%20credito%20assoggettati%20a%20procedura%20di%20ammortamento%20e%20di%20quelli%20rimessi%20con%20la%20clausola%20non%20trasferibile.%20045U0017.md), continuano ad avere efficacia fino al 15 ottobre 1947, limitatamente ai titoli previsti dal predetto decreto emessi anteriormente al 25 aprile 1945.
 
 ## Art. 2.
 

@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 16 aprile 1934, n. 865](Concessione%20di%20unautovettura%20in%20luogo%20del%20cavallo%20ad%20alcuni%20ufficiali%20dei%20carabinieri%20Reali.%20034U0865.md), convertito in legge con la [legge 21 marzo 1935, n. 311](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20aprile%201934%20n.%20865%20riguardante%20la%20concessione%20di%20unautovettura%20in%20luogo%20del%20cavallo%20ad%20alcuni%20ufficiali%20dei%20carabinieri%20Reali.%20035U0311.md), e successive modificazioni;
+Visto il [regio decreto-legge 16 aprile 1934, n. 865](Concessione%20di%20unautovettura%20in%20luogo%20del%20cavallo%20ad%20alcuni%20ufficiali%20dei%20carabinieri%20Reali.%20034U0865.md), convertito in legge con la [legge 21 marzo 1935, n. 311](Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20aprile%201934%20n.%20865%20riguardante%20la%20concessione%20di%20unautovettura%20in%20luogo%20del%20cavallo%20ad%20alcuni%20ufficiali%20dei%20carabinieri%20Reali.%20035U0311.md), e successive modificazioni;
 
-Vista la [legge 14 ottobre 1940, n. 1510](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2024%20giugno%201940-XVIII%20n.%20829%20che%20accorda%20la%20franchigia%20doganale%20per%20quintali%2056.000%20di%20melasso%20di%20canna%20per%20uso%20zootecnico.%20040U1510.md), e successive
+Vista la [legge 14 ottobre 1940, n. 1510](Conversione%20in%20legge%20del%20Regio%20decreto-legge%2024%20giugno%201940-XVIII%20n.%20829%20che%20accorda%20la%20franchigia%20doganale%20per%20quintali%2056.000%20di%20melasso%20di%20canna%20per%20uso%20zootecnico.%20040U1510.md), e successive
 
 modificazioni;
 

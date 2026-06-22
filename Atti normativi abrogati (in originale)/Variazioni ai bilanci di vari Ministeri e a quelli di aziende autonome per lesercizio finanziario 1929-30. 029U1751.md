@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Viste le [leggi 10 giugno 1929, n. 936; 13 giugno 1929, numeri 957 e 963; 17 giugno 1929, nn. 961, 962, 971; 20 giugno 1929, n. 995, e 27 giugno 1929, nn. 1034, 1035 e 1036](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20comunicazioni%20per%20lesercizio%20finanziario%20dal%201%20luglio%201929%20al%2030%20giugno%201930.%20029U1036.md);
 
-Visti i [Regi decreti 12 settembre 1929, n. 1661](../Regi%20decreti/Trasformazione%20del%20Ministero%20delleconomia%20nazionale%20in%20Ministero%20dellagricoltura%20e%20delle%20foreste%20istituzione%20presso%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste%20del%20Sottosegretariato%20di%20S_07ec071c3c2f.md), e [27 settembre 1929, n. 1663](../Regi%20decreti/Ripartizione%20dei%20servizi%20gia%20di%20competenza%20del%20Ministero%20delleconomia%20nazionale%20fra%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste%20ed%20il%20Ministero%20delle%20corporazioni.%20029U1663.md):
+Visti i [Regi decreti 12 settembre 1929, n. 1661](Trasformazione%20del%20Ministero%20delleconomia%20nazionale%20in%20Ministero%20dellagricoltura%20e%20delle%20foreste%20istituzione%20presso%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste%20del%20Sottosegretariato%20di%20S_07ec071c3c2f.md), e [27 settembre 1929, n. 1663](Ripartizione%20dei%20servizi%20gia%20di%20competenza%20del%20Ministero%20delleconomia%20nazionale%20fra%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste%20ed%20il%20Ministero%20delle%20corporazioni.%20029U1663.md):
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -54,7 +54,7 @@ Sono autorizzate le seguenti assegnazioni straordinarie:
 
 Con decreti del Ministro per le finanze, di concerto con i Ministri per i lavori pubblici e per l'agricoltura e le foreste, sara' provveduto, con decorrenza dall'inizio dell'esercizio 1929-30, alle variazioni negli stati di previsione dei Ministeri dei lavori pubblici e dell'agricoltura e delle foreste, rese necessarie, nei confronti delle dotazioni di bilancio e delle autorizzazioni di spesa, in dipendenza del trasferimento di servizi disposto in seguito alla istituzione del Sottosegretariato di Stato per la bonifica integrale. 
  
- Analogamente sara', con decreto interministeriale, provveduto alle variazioni di bilancio dipendenti dal [R. decreto 27 settembre 1929, n. 1663](../Regi%20decreti/Ripartizione%20dei%20servizi%20gia%20di%20competenza%20del%20Ministero%20delleconomia%20nazionale%20fra%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste%20ed%20il%20Ministero%20delle%20corporazioni.%20029U1663.md). 
+ Analogamente sara', con decreto interministeriale, provveduto alle variazioni di bilancio dipendenti dal [R. decreto 27 settembre 1929, n. 1663](Ripartizione%20dei%20servizi%20gia%20di%20competenza%20del%20Ministero%20delleconomia%20nazionale%20fra%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste%20ed%20il%20Ministero%20delle%20corporazioni.%20029U1663.md). 
  
  Questo decreto andra' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge; il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

@@ -16,13 +16,13 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 27 marzo 1913, n. 312](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesercizio%20della%20pesca%20marittima%20nella%20Libia.%20013U0312.md), che approva il regolamento per l'esercizio della pesca marittima nella Tripolitania e nella Cirenaica, e successive modificazioni;
+Visto il [R. decreto 27 marzo 1913, n. 312](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesercizio%20della%20pesca%20marittima%20nella%20Libia.%20013U0312.md), che approva il regolamento per l'esercizio della pesca marittima nella Tripolitania e nella Cirenaica, e successive modificazioni;
 
 Visto il [R. decreto 22 giugno 1913, n. 902](Col%20quale%20e%20approvato%20lannesso%20Codice%20per%20la%20marina%20mercantile%20della%20Tripolitania%20e%20della%20Cirenaica.%20013U0902.md), che approva il Codice per la marina mercantile della Tripolitania e della Cirenaica;
 
-Visti i [Regi decreti 27 novembre 1919, n. 2391](../Regi%20decreti/Che%20devolve%20rispettivamente%20ai%20governatori%20ed%20ai%20Governi%20della%20Tripolitania%20e%20della%20Cirenaica%20tutte%20le%20facolta%20attribuite%20al%20ministro%20e%20al%20Ministero%20delle%20colonie%20relativamente%20alla%20conce_cc6245030c6f.md), e 15 luglio 1923-I, n. 1778, che apportano modificazioni al Codice suddetto;
+Visti i [Regi decreti 27 novembre 1919, n. 2391](Che%20devolve%20rispettivamente%20ai%20governatori%20ed%20ai%20Governi%20della%20Tripolitania%20e%20della%20Cirenaica%20tutte%20le%20facolta%20attribuite%20al%20ministro%20e%20al%20Ministero%20delle%20colonie%20relativamente%20alla%20conce_cc6245030c6f.md), e 15 luglio 1923-I, n. 1778, che apportano modificazioni al Codice suddetto;
 
-Visti i [Regi decreti 8 marzo 1914, n. 188](../Regi%20decreti/Relativo%20agli%20infortuni%20sul%20lavoro%20per%20i%20pescatori%20di%20spugne%20e%20di%20corallo%20nelle%20acque%20della%20Tripolitania%20e%20della%20Cirenaica.%20014U0188.md); 16 febbraio 1931-IX, n. 213, e 4 agosto 1933-XI, n. 1164, relativi agli infortuni sul lavoro dei palombari e degli equipaggi delle navi nazionali adibite alla pesca delle spugne nelle acque della Libia;
+Visti i [Regi decreti 8 marzo 1914, n. 188](Relativo%20agli%20infortuni%20sul%20lavoro%20per%20i%20pescatori%20di%20spugne%20e%20di%20corallo%20nelle%20acque%20della%20Tripolitania%20e%20della%20Cirenaica.%20014U0188.md); 16 febbraio 1931-IX, n. 213, e 4 agosto 1933-XI, n. 1164, relativi agli infortuni sul lavoro dei palombari e degli equipaggi delle navi nazionali adibite alla pesca delle spugne nelle acque della Libia;
 
 Visto l'art. 3, n. 2, della legge 31 gennaio 1926-IV, n. 100;
 

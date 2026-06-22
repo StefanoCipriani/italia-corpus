@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il Consiglio per l'istruzione industriale e commerciale istituito con [R. decreto 21 dicembre 1911, n. 1477](../Regi%20decreti/Che%20istituisce%20presso%20il%20Ministero%20di%20agricoltura%20industria%20e%20commercio%20un%20Consiglio%20per%20la%20istruzione%20industriale%20commerciale.%20011U1477.md), per la parte che si riferisce all'insegnamento commerciale, e' sostituito da un Consiglio per l'istruzione commerciale.
+Il Consiglio per l'istruzione industriale e commerciale istituito con [R. decreto 21 dicembre 1911, n. 1477](Che%20istituisce%20presso%20il%20Ministero%20di%20agricoltura%20industria%20e%20commercio%20un%20Consiglio%20per%20la%20istruzione%20industriale%20commerciale.%20011U1477.md), per la parte che si riferisce all'insegnamento commerciale, e' sostituito da un Consiglio per l'istruzione commerciale.
 
 ## Art. 2.
 

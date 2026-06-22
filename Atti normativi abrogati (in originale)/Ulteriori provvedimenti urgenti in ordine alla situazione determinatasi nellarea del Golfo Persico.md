@@ -40,7 +40,7 @@ In caso di decesso del personale di cui al comma 1 per causa di servizio, connes
 
 3.
 
-Per il personale di cui al comma 1 continua in ogni caso ad osservarsi il comma 4 dell'articolo 3 del citato decreto-legge n. 247, concernente l'applicazione del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
+Per il personale di cui al comma 1 continua in ogni caso ad osservarsi il comma 4 dell'articolo 3 del citato decreto-legge n. 247, concernente l'applicazione del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
 
 ## Art. 2.
 

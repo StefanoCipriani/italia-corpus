@@ -22,7 +22,7 @@ L'[art. 38 del R. decreto-legge 7 febbraio 1926, n. 193](Ordinamento%20dei%20ser
  
  «Del Comitato centrale e della Giunta esecutiva dell'Istituto nazionale per le case degli impiegati dello Stato fa parte il direttore generale del Genio militare, in rappresentanza dell'Amministrazione militare. 
  
- «Al Collegio dei revisori di cui all'[art. 17 del R. decreto 20 novembre 1924, n. 1945](../Regi%20decreti/Approvazione%20delle%20norme%20per%20lesecuzione%20del%20R.%20decreto-legge%2025%20ottobre%201924%20n.%201944%20riguardante%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20024U1945.md), sono aggiunti un membro effettivo ed un supplente da nominarsi dal Ministero della guerra».
+ «Al Collegio dei revisori di cui all'[art. 17 del R. decreto 20 novembre 1924, n. 1945](Approvazione%20delle%20norme%20per%20lesecuzione%20del%20R.%20decreto-legge%2025%20ottobre%201924%20n.%201944%20riguardante%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20024U1945.md), sono aggiunti un membro effettivo ed un supplente da nominarsi dal Ministero della guerra».
 
 ## Art. 3.
 

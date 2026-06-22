@@ -14,7 +14,7 @@ Visto il [regio decreto-legge 14 gennaio 1944, n. 13](Disciplina%20della%20stamp
 
 Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 49](../Decreti%20legislativi%20luogotenenziali/Cessazione%20dello%20stato%20di%20guerra%20e%20passaggio%20dalla%20legislazione%20di%20guerra%20a%20quella%20di%20pace.md), riguardante la cessazione dello stato di guerra ed il passaggio dallo stato di guerra a quello di pace;
 
-Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 165](../Decreti%20legislativi%20luogotenenziali/Proroga%20di%20efficacia%20delle%20norme%20sulla%20stampa.md), ed il [decreto legislativo 29 luglio 1946, numero 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-07-29;47), concernenti la proroga dell'efficacia delle norme sulla stampa;
+Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 165](Proroga%20di%20efficacia%20delle%20norme%20sulla%20stampa.md), ed il [decreto legislativo 29 luglio 1946, numero 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-07-29;47), concernenti la proroga dell'efficacia delle norme sulla stampa;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

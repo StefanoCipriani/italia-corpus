@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 28 dicembre 1944, n. 415](../Decreti%20legislativi%20luogotenenziali/Nomina%20ed%20attribuzioni%20dei%20commissari%20governativi%20per%20gli%20alloggi.%20044U0415.md), sulla nomina e le attribuzioni dei commissari governativi per gli alloggi, e successive;
+Visto il [decreto legislativo luogotenenziale 28 dicembre 1944, n. 415](Nomina%20ed%20attribuzioni%20dei%20commissari%20governativi%20per%20gli%20alloggi.%20044U0415.md), sulla nomina e le attribuzioni dei commissari governativi per gli alloggi, e successive;
 
-Visto il [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](../Decreti%20legislativi%20luogotenenziali/Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), sulla disciplina delle locazioni degli immobili urbani;
+Visto il [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), sulla disciplina delle locazioni degli immobili urbani;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

@@ -20,7 +20,7 @@ Vista la [legge 23 gennaio 1941, n. 151](Integrazione%20di%20spesa%20per%20contr
 
 Vista la [legge 7 gennaio 1943, n. 31](Proroga%20al%2031%20dicembre%201945-XXIV%20del%20termine%20stabilito%20per%20lultimazione%20delle%20opere%20relative%20a%20nuovi%20impianti%20idroelettrici%20in%20Sicilia%20ed%20in%20Sardegna.%20043U0031.md);
 
-Visto il [decreto legislativo luogotenenziale 29 dicembre 1945, n. 870](../Decreti%20legislativi%20luogotenenziali/Proroga%20del%20termine%20per%20la%20ultimazione%20degli%20impianti%20idroelettrici%20in%20Sicilia%20e%20in%20Sardegna.md);
+Visto il [decreto legislativo luogotenenziale 29 dicembre 1945, n. 870](Proroga%20del%20termine%20per%20la%20ultimazione%20degli%20impianti%20idroelettrici%20in%20Sicilia%20e%20in%20Sardegna.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per i lavori pubblici, di concerto con i Ministri pe
 
 ## Art. 1.
 
-Il termine fissato dall'[art. 2 della legge 23 gennaio 1941, n. 151](Integrazione%20di%20spesa%20per%20contributi%20statali%20nella%20costruzione%20del%20nuovi%20impianti%20idroelettrici%20in%20Sicilia%20e%20in%20Sardegna.%20041U0151.md), per l'ultimazione delle opere di costruzione di serbatoi e laghi artificiali e delle opere principali di nuovi impianti idroelettrici in Sardegna, gia' prorogato al 31 dicembre 1945 con la [legge 7 gennaio 1943, n. 31, e al 30 giugno 1947](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1947-06-30;31) con il [decreto legislativo luogotenenziale 29 dicembre 1945, n. 870](../Decreti%20legislativi%20luogotenenziali/Proroga%20del%20termine%20per%20la%20ultimazione%20degli%20impianti%20idroelettrici%20in%20Sicilia%20e%20in%20Sardegna.md), ulteriormente stabilito con effetto dal 1° luglio 1947, al 31 dicembre 1951.
+Il termine fissato dall'[art. 2 della legge 23 gennaio 1941, n. 151](Integrazione%20di%20spesa%20per%20contributi%20statali%20nella%20costruzione%20del%20nuovi%20impianti%20idroelettrici%20in%20Sicilia%20e%20in%20Sardegna.%20041U0151.md), per l'ultimazione delle opere di costruzione di serbatoi e laghi artificiali e delle opere principali di nuovi impianti idroelettrici in Sardegna, gia' prorogato al 31 dicembre 1945 con la [legge 7 gennaio 1943, n. 31, e al 30 giugno 1947](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1947-06-30;31) con il [decreto legislativo luogotenenziale 29 dicembre 1945, n. 870](Proroga%20del%20termine%20per%20la%20ultimazione%20degli%20impianti%20idroelettrici%20in%20Sicilia%20e%20in%20Sardegna.md), ulteriormente stabilito con effetto dal 1° luglio 1947, al 31 dicembre 1951.
 
 ## Art. 2.
 

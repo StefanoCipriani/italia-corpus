@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto-legge 11 dicembre 1933, n. 1699](Nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20033U1699.md), convertito con [legge 5 febbraio 1934, n. 307](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20contenente%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0307.md), il [R. decreto 3 gennaio 1934, n. 18](../Regi%20decreti/Norme%20per%20lesecuzione%20e%20lintegrazione%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20recante%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0018.md), ed il [R. decreto-legge 13 gennaio 1934, numero 2059](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-13;2059), contenenti disposizioni per l'industria solfifera nazionale;
+Visto il [R. decreto-legge 11 dicembre 1933, n. 1699](Nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20033U1699.md), convertito con [legge 5 febbraio 1934, n. 307](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20contenente%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0307.md), il [R. decreto 3 gennaio 1934, n. 18](Norme%20per%20lesecuzione%20e%20lintegrazione%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20recante%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0018.md), ed il [R. decreto-legge 13 gennaio 1934, numero 2059](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-13;2059), contenenti disposizioni per l'industria solfifera nazionale;
 
 Considerata la necessita' urgente ed assoluta di adottare nuove norme per detta industria;
 
@@ -48,7 +48,7 @@ Per le miniere che negli esercizi 1933-1934 e 1934-1935 abbiano messo a disposiz
 
 Ai contingenti base fissati secondo le norme degli articoli 2 e 3 sara' applicata una riduzione del 5 per cento. 
  
- La quantita' totale corrispondente a tale riduzione nonche' il complesso delle differenze risultanti, per le miniere di cui al precedente art. 3, fra i contingenti normali 1934-1935 ed i contingenti base per ciascuno degli esercizi 1935-1936 e 1936-1937 saranno ripartiti fra le miniere per le quali l'Ufficio abbia gia' determinato la quantita' annua di produzione a norma dell'[art. 9 del R. decreto 3 gennaio 1934, n. 18](../Regi%20decreti/Norme%20per%20lesecuzione%20e%20lintegrazione%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20recante%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0018.md), escluse quelle di cui al citato art. 3. 
+ La quantita' totale corrispondente a tale riduzione nonche' il complesso delle differenze risultanti, per le miniere di cui al precedente art. 3, fra i contingenti normali 1934-1935 ed i contingenti base per ciascuno degli esercizi 1935-1936 e 1936-1937 saranno ripartiti fra le miniere per le quali l'Ufficio abbia gia' determinato la quantita' annua di produzione a norma dell'[art. 9 del R. decreto 3 gennaio 1934, n. 18](Norme%20per%20lesecuzione%20e%20lintegrazione%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20recante%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0018.md), escluse quelle di cui al citato art. 3. 
  
  Tale ripartizione sara' effettuata distintamente per le miniere della Sicilia e per quelle del continente. 
  
@@ -93,7 +93,7 @@ Per provvedere al pagamento della eventuale differenza fra il ricavo netto defin
 
 ## Art. 9.
 
-Le attivita' finali del primo dodicennio del Consorzio obbligatorio per l'industria solfifera siciliana che, a norma dell'[art. 13 del R. decreto 3 gennaio 1934, n. 18](../Regi%20decreti/Norme%20per%20lesecuzione%20e%20lintegrazione%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20recante%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0018.md), sono devolute alla gestione di liquidazione del Consorzio stesso, comprenderanno tutte le attivita' comunque pertinenti alla liquidazione di detto primo dodicennio incluse le quote di reparto che non siano state gia' richieste dagli aventi diritto entro il 31 dicembre 1934. 
+Le attivita' finali del primo dodicennio del Consorzio obbligatorio per l'industria solfifera siciliana che, a norma dell'[art. 13 del R. decreto 3 gennaio 1934, n. 18](Norme%20per%20lesecuzione%20e%20lintegrazione%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20recante%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0018.md), sono devolute alla gestione di liquidazione del Consorzio stesso, comprenderanno tutte le attivita' comunque pertinenti alla liquidazione di detto primo dodicennio incluse le quote di reparto che non siano state gia' richieste dagli aventi diritto entro il 31 dicembre 1934. 
  
  Le attivita' nette che risultassero dalla gestione di liquidazione del predetto Consorzio saranno devolute all'Ufficio.
 
@@ -105,7 +105,7 @@ I contravventori all'obbligo di porre gli zolfi grezzi a disposizione dell'Uffic
  
  I contratti, aventi per oggetto zolfi grezzi destinati al consumo od alla trasformazione, che non siano compresi fra quelli lasciati alla libera esecuzione delle parti a norma dell'[art. 1 del R. decreto-legge 11 dicembre 1933, n. 1699](Nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20033U1699.md), e nei quali non risulti come venditore l'Ufficio, sono nulli di pieno diritto. 
  
- Per le contravvenzioni di cui al presente articolo valgono le norme di cui al 2°, 3° ed ultimo comma dell'[art. 3 del R. decreto 3 gennaio 1934, n. 18](../Regi%20decreti/Norme%20per%20lesecuzione%20e%20lintegrazione%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20recante%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0018.md).
+ Per le contravvenzioni di cui al presente articolo valgono le norme di cui al 2°, 3° ed ultimo comma dell'[art. 3 del R. decreto 3 gennaio 1934, n. 18](Norme%20per%20lesecuzione%20e%20lintegrazione%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20recante%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0018.md).
 
 ## Art. 11.
 
@@ -121,7 +121,7 @@ A parziale modifica, dell'[art. 2 del R. decreto-legge 11 dicembre 1933, n. 1699
 
 ## Art. 13.
 
-Fermo restando quanto disposto dall'[art. 19 del R. decreto 3 gennaio 1934, n. 18](../Regi%20decreti/Norme%20per%20lesecuzione%20e%20lintegrazione%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20recante%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0018.md), il presidente dell'Ufficio, su conforme deliberazione del Consiglio di amministrazione, puo' delegare ad un membro del Consiglio stesso i propri poteri, compresa la firma e la rappresentanza attiva e passiva, per il funzionamento delle agenzie direttamente gestite dall'Ufficio, entro i limiti dei compiti ad esse affidati. 
+Fermo restando quanto disposto dall'[art. 19 del R. decreto 3 gennaio 1934, n. 18](Norme%20per%20lesecuzione%20e%20lintegrazione%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20recante%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0018.md), il presidente dell'Ufficio, su conforme deliberazione del Consiglio di amministrazione, puo' delegare ad un membro del Consiglio stesso i propri poteri, compresa la firma e la rappresentanza attiva e passiva, per il funzionamento delle agenzie direttamente gestite dall'Ufficio, entro i limiti dei compiti ad esse affidati. 
  
  Il presidente, per determinati atti delle medesime agenzie, puo' delegare la firma al funzionario piu' elevato in grado di ciascuna di esse.
 

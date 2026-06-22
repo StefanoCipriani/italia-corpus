@@ -519,11 +519,11 @@ Il decreto che istituisce l'imposta di cui alla lettera c) dell'articolo 50 dete
  
  Ogni anno il Ministro per l'economia nazionale, in sede di approvazione del bilancio preventivo, stabilisce con decreto la misura dell'imposta che ciascuna Camera e' autorizzata ad esigere per l'anno successivo. 
  
- L'imposta anzidetta grava sul reddito o sulla parte di reddito prodotto della circoscrizione della Camera. Essa si applica sui redditi netti iscritti nei ruoli dell'imposta di ricchezza mobile di categoria B e C provenienti da attivita' commerciali ed industriali e sui redditi delle aziende agrarie inscritti nei ruoli dell'imposta di ricchezza mobile in categoria B con esclusione di quelli contemplati nel [R. decreto 4 gennaio 1923, n. 16](../Regi%20decreti/Concernente%20lapplicazione%20dellimposta%20di%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0016.md). 
+ L'imposta anzidetta grava sul reddito o sulla parte di reddito prodotto della circoscrizione della Camera. Essa si applica sui redditi netti iscritti nei ruoli dell'imposta di ricchezza mobile di categoria B e C provenienti da attivita' commerciali ed industriali e sui redditi delle aziende agrarie inscritti nei ruoli dell'imposta di ricchezza mobile in categoria B con esclusione di quelli contemplati nel [R. decreto 4 gennaio 1923, n. 16](Concernente%20lapplicazione%20dellimposta%20di%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0016.md). 
  
  Le aziende agrarie soggette all'imposta camerale sono considerate industriali anche a tutti gli altri effetti del presente decreto. 
  
- Per la ripartizione del reddito che si produce in due o piu' circoscrizioni camerali dovra' applicarsi la ripartizione fatta dalle agenzie delle imposte agli effetti dell'[art. 3 del R. decreto 18 novembre 1923, n. 2538](../Regi%20decreti/Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md). 
+ Per la ripartizione del reddito che si produce in due o piu' circoscrizioni camerali dovra' applicarsi la ripartizione fatta dalle agenzie delle imposte agli effetti dell'[art. 3 del R. decreto 18 novembre 1923, n. 2538](Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md). 
  
  Quando trattasi di aziende i cui redditi, in virtu' di leggi speciali, siano esenti dall'imposta di ricchezza mobile la valutazione del reddito agli effetti dell'imposta camerale sara' quella stessa fatta dai Comuni ai sensi dell'art. 5 del citato decreto. 
  

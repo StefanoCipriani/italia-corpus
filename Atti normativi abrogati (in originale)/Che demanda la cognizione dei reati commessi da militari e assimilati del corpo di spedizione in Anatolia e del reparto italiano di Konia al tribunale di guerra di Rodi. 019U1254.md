@@ -15,7 +15,7 @@ La cognizione dei reati commessi in qualunque tempo da militari e assimilati a m
 ## Art. 2.
 
 L'ordine di procedere all'istruzione di cui all'articolo 552 p. p.
-[Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pel R. esercito emanera' dal Comando del Corpo di spedizione italiano in Oriente.
+[Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pel R. esercito emanera' dal Comando del Corpo di spedizione italiano in Oriente.
 
 ## Art. 3.
 

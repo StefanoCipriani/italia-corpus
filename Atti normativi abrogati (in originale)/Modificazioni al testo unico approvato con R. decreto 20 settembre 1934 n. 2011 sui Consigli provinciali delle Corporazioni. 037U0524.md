@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico delle leggi sui Consigli e sugli Uffici provinciali dell'economia corporativa, approvato con il [R. decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md);
+Visto il testo unico delle leggi sui Consigli e sugli Uffici provinciali dell'economia corporativa, approvato con il [R. decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md);
 
 Visto il [R. decreto-legge 3 settembre 1936, n. 1900](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-09-03;1900), che ha apportato modificazioni al suddetto testo unico;
 
@@ -34,7 +34,7 @@ I Consigli provinciali dell'economia corporativa assumono la denominazione di «
 
 ## Art. 2.
 
-All'art. 9 del testo unico approvato con il [R. decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), e' sostituito il seguente: 
+All'art. 9 del testo unico approvato con il [R. decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), e' sostituito il seguente: 
  
  «Art. 9. - Il Comitato di presidenza e' composto del prefetto, presidente, del segretario federale del P. N. F., del vice presidente, dei presidenti e vice presidenti di sezione e di un rappresentante, in seno al Consiglio generale, delle Unioni interprovinciali dei datori di lavoro e dei lavoratori delle aziende del credito e dell'assicurazione, dell'Unione provinciale dei professionisti e degli artisti e dell'Ente nazionale fascista della cooperazione. 
  
@@ -56,7 +56,7 @@ All'art. 9 del testo unico approvato con il [R. decreto 20 settembre 1934, n. 20
 
 ## Art. 3.
 
-Al testo unico approvato con il [R. decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), sono aggiunti i seguenti articoli 8-bis e 12-bis: 
+Al testo unico approvato con il [R. decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), sono aggiunti i seguenti articoli 8-bis e 12-bis: 
  
  «Art. 8-bis. - Il segretario federale del P. N. F. fa parte di diritto del Consiglio generale». 
  
@@ -70,7 +70,7 @@ Al testo unico approvato con il [R. decreto 20 settembre 1934, n. 2011](../Testi
 
 ## Art. 4.
 
-Il Governo del Re e' autorizzato a riunire in nuovo testo unico le disposizioni del presente decreto, con quelle del testo unico, approvato col [R. decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), modificato dal [R. decreto-legge 3 settembre 1936, n. 1900](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-09-03;1900), e dal [R. decreto-legge 18 gennaio 1937, n. 235](Norme%20integrative%20per%20il%20funzionamento%20dei%20Consigli%20provinciali%20delleconomia%20corporativa.%20037U0235.md), coordinando in tale sede le disposizioni stesse. 
+Il Governo del Re e' autorizzato a riunire in nuovo testo unico le disposizioni del presente decreto, con quelle del testo unico, approvato col [R. decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), modificato dal [R. decreto-legge 3 settembre 1936, n. 1900](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-09-03;1900), e dal [R. decreto-legge 18 gennaio 1937, n. 235](Norme%20integrative%20per%20il%20funzionamento%20dei%20Consigli%20provinciali%20delleconomia%20corporativa.%20037U0235.md), coordinando in tale sede le disposizioni stesse. 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. 
  

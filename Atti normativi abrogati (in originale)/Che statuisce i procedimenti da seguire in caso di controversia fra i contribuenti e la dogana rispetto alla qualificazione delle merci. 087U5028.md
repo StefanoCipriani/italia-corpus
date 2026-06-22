@@ -74,7 +74,7 @@ Con regolamento da approvarsi con decreto Ministeriale saranno stabilite le norm
 
 ## Articolo 15.
 
-E' convalidato il [Regio decreto del di 8 luglio 1883, numero 1487](../Regi%20decreti/Che%20modifica%20il%20repertorio%20della%20tariffa%20doganale.%20083U1487.md) (Serie 3ª), portante modificazioni al repertorio della tariffa doganale. Sono approvate le modificazioni allo stesso repertorio risultanti dalle annesse tabelle. 
+E' convalidato il [Regio decreto del di 8 luglio 1883, numero 1487](Che%20modifica%20il%20repertorio%20della%20tariffa%20doganale.%20083U1487.md) (Serie 3ª), portante modificazioni al repertorio della tariffa doganale. Sono approvate le modificazioni allo stesso repertorio risultanti dalle annesse tabelle. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

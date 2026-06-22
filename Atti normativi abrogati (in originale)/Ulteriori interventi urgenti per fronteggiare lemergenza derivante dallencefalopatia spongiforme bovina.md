@@ -126,7 +126,7 @@ L'[articolo 23 della legge 15 febbraio 1963, n. 281](https://www.normattiva.it/u
  "Art. 23. - 1. In caso di violazione delle disposizioni previste dalla presente legge, l'autorita' competente puo' ordinare la sospensione dell'attivita' per un periodo non superiore a tre mesi.
  2. In caso di reiterazione della violazione, l'autorita' competente dispone la sospensione dell'attivita' per un periodo da tre mesi ad un anno.
  3. Se il fatto e' di particolare gravita' e da esso e' derivato pericolo per la salute, l'autorita' competente dispone la chiusura definitiva dello stabilimento o dell'esercizio. Il titolare dello stabilimento o dell'esercizio non puo' ottenere una nuova autorizzazione allo svolgimento della stessa attivita' o di attivita' analoga per la durata di cinque anni.
- 4. Si applica in ogni caso la disposizione di cui all'[articolo 7 del decreto legislativo 30 dicembre 1999, n. 507](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Depenalizzazione%20dei%20reati%20minori%20e%20riforma%20del%20sistema%20sanzionatorio%20ai%20sensi%20dellarticolo%201%20della%20legge%2025%20giugno%201999%20n.%20205.md).".
+ 4. Si applica in ogni caso la disposizione di cui all'[articolo 7 del decreto legislativo 30 dicembre 1999, n. 507](../Decreti%20Legislativi/Depenalizzazione%20dei%20reati%20minori%20e%20riforma%20del%20sistema%20sanzionatorio%20ai%20sensi%20dellarticolo%201%20della%20legge%2025%20giugno%201999%20n.%20205.md).".
 
 3.
 

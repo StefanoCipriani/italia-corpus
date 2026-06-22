@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 4 agosto 1924, n. 1262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-04;1262), contenente le norme per il passaggio al Ministero dei lavori pubblici, degli Uffici e del personale delle Nuove Costruzioni Ferroviarie;
 
-Visto il [R. decreto 25 marzo 1926, n. 548](../Regi%20decreti/Istituzione%20presso%20il%20Ministero%20dei%20lavori%20pubblici%20della%20Direzione%20generale%20delle%20Nuove%20costruzioni%20ferroviarie.%20026U0548.md), che istituisce presso il Ministero predetto la Direzione generale delle Nuove Costruzioni Ferroviarie;
+Visto il [R. decreto 25 marzo 1926, n. 548](Istituzione%20presso%20il%20Ministero%20dei%20lavori%20pubblici%20della%20Direzione%20generale%20delle%20Nuove%20costruzioni%20ferroviarie.%20026U0548.md), che istituisce presso il Ministero predetto la Direzione generale delle Nuove Costruzioni Ferroviarie;
 
 Visto il [R. decreto-legge 23 marzo 1931, n. 803](Estensione%20al%20personale%20delle%20Nuove%20costruzioni%20ferroviarie%20delle%20norme%20stabilite%20per%20lesonero%20degli%20agenti%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato%20col%20R.%20decreto%2024%20novembre%201930%20_416bbb7cbd2c.md), col quale sono state estese al personale del ruolo delle Nuove Costruzioni Ferroviarie le norme stabilite per gli esoneri degli agenti dell'Amministrazione delle ferrovie dello Stato con [R. decreto n. 1596 del 24 novembre 1930](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-24;1596);
 

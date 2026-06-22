@@ -154,7 +154,7 @@ a) che esso risulti da atto scritto, anche se non autenticato, nel quale siano e
 
 ## Art. 10.
 
-Quando il debitore deteriora o distrae gli oggetti sottoposti al privilegio indicato agli articoli 8 e 9 del presente decreto, oppure impiega in tutto o in parte la somma ricevuta a prestito per scopi diversi da quelli per i quali fu concessa, e' punito con le pene comminate dall'[art. 334 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Quando il debitore deteriora o distrae gli oggetti sottoposti al privilegio indicato agli articoli 8 e 9 del presente decreto, oppure impiega in tutto o in parte la somma ricevuta a prestito per scopi diversi da quelli per i quali fu concessa, e' punito con le pene comminate dall'[art. 334 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Nei casi predetti, e allorche' il debitore abbandoni la coltivazione del fondo, o in qualunque modo, per dolo o per colpa diminuisca notevolmente le garanzie dell'istituto creditore, questo puo' chiedere la risoluzione del contratto a termini dell'[art. 1165 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1165).
 

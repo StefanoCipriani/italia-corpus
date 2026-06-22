@@ -55,7 +55,7 @@ Sono aboliti nelle Universita' di Padova, cominciando dal 1° novembre 1873, nel
 
 ## Art. 11.
 
-Le tasse universitarie prescritte dalla [legge 11 agosto 1870, n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md), giusta la ripartizione fattane con [R. decreto 13 ottobre 1870, num. 5967](../Regi%20decreti/Col%20quale%20si%20approva%20la%20Tabella%20di%20ripartizione%20delle%20tasse%20per%20gli%20studi%20universitari.%20070U5967.md), andranno in vigore per gli studenti dell'Universita' di Roma coll' anno scolastico 1871-72.
+Le tasse universitarie prescritte dalla [legge 11 agosto 1870, n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md), giusta la ripartizione fattane con [R. decreto 13 ottobre 1870, num. 5967](Col%20quale%20si%20approva%20la%20Tabella%20di%20ripartizione%20delle%20tasse%20per%20gli%20studi%20universitari.%20070U5967.md), andranno in vigore per gli studenti dell'Universita' di Roma coll' anno scolastico 1871-72.
 
 ## Art. 12.
 

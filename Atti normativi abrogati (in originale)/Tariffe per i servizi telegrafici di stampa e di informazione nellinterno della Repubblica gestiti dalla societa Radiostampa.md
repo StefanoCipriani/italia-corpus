@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visto il [decreto del Presidente della Repubblica 7 febbraio 1967, n. 299](../DPR/Revisione%20delle%20tariffe%20telegrafiche%20applicate%20dalla%20Societa%20Radiostampa%20per%20i%20servizi%20di%20stampa%20interni.md), con il quale si e' provveduto alla revisione delle tariffe telegrafiche applicate dalla societa' Radiostampa per i servizi di stampa interni;
 

@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 22 dicembre 1910, n. 936](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20il%20personale%20degli%20uffici%20postali%20telegrafici%20e%20fonotelegrafici%20di%202ª%20e%203ª%20classe%20e%20per%20gli%20agenti%20rurali.%20010U0936.md), col quale venne approvato il regolamento speciale per il personale delle ricevitorie postali, telegrafiche e fono-telegrafiche;
+Visto il [R. decreto 22 dicembre 1910, n. 936](Che%20approva%20lannesso%20regolamento%20speciale%20per%20il%20personale%20degli%20uffici%20postali%20telegrafici%20e%20fonotelegrafici%20di%202ª%20e%203ª%20classe%20e%20per%20gli%20agenti%20rurali.%20010U0936.md), col quale venne approvato il regolamento speciale per il personale delle ricevitorie postali, telegrafiche e fono-telegrafiche;
 
-Visto il [R. decreto 11 luglio 1913, n. 1317](../Regi%20decreti/Col%20quale%20vengono%20apportate%20alcune%20modificazioni%20al%20regolamento%20speciale%20per%20il%20personale%20delle%20ricevitorie%20postali%20e%20telegrafiche%20approvato%20col%20R.%20decreto%2022%20dicembre%201910%20n.%20936.%20013U1317.md), col quale vennero approvate alcune modificazioni al predetto regolamento;
+Visto il [R. decreto 11 luglio 1913, n. 1317](Col%20quale%20vengono%20apportate%20alcune%20modificazioni%20al%20regolamento%20speciale%20per%20il%20personale%20delle%20ricevitorie%20postali%20e%20telegrafiche%20approvato%20col%20R.%20decreto%2022%20dicembre%201910%20n.%20936.%20013U1317.md), col quale vennero approvate alcune modificazioni al predetto regolamento;
 
 Visto l'accertamento delle retribuzioni spettanti ai ricevitori pel triennio 1917-920;
 
@@ -40,7 +40,7 @@ Sulla proposta del ministro segretario di Stato per le poste ed i telegrafi; Abb
 
 ## Art. 1.
 
-Il termine stabilito dall'art. 34, n. 3, del regolamento speciale approvato con [R. decreto 22 dicembre 1910, n. 936](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20il%20personale%20degli%20uffici%20postali%20telegrafici%20e%20fonotelegrafici%20di%202ª%20e%203ª%20classe%20e%20per%20gli%20agenti%20rurali.%20010U0936.md), e modificato col [R. decreto 11 luglio 1913, n. 1317](../Regi%20decreti/Col%20quale%20vengono%20apportate%20alcune%20modificazioni%20al%20regolamento%20speciale%20per%20il%20personale%20delle%20ricevitorie%20postali%20e%20telegrafiche%20approvato%20col%20R.%20decreto%2022%20dicembre%201910%20n.%20936.%20013U1317.md), per la prestazione da parte dei ricevitori del complemento di cauzione dovuto per aumento di retribuzione in seguito alla liquidazione triennale 1917-920, e' prorogato al 30 settembre 1919.
+Il termine stabilito dall'art. 34, n. 3, del regolamento speciale approvato con [R. decreto 22 dicembre 1910, n. 936](Che%20approva%20lannesso%20regolamento%20speciale%20per%20il%20personale%20degli%20uffici%20postali%20telegrafici%20e%20fonotelegrafici%20di%202ª%20e%203ª%20classe%20e%20per%20gli%20agenti%20rurali.%20010U0936.md), e modificato col [R. decreto 11 luglio 1913, n. 1317](Col%20quale%20vengono%20apportate%20alcune%20modificazioni%20al%20regolamento%20speciale%20per%20il%20personale%20delle%20ricevitorie%20postali%20e%20telegrafiche%20approvato%20col%20R.%20decreto%2022%20dicembre%201910%20n.%20936.%20013U1317.md), per la prestazione da parte dei ricevitori del complemento di cauzione dovuto per aumento di retribuzione in seguito alla liquidazione triennale 1917-920, e' prorogato al 30 settembre 1919.
 
 ## Art. 2.
 

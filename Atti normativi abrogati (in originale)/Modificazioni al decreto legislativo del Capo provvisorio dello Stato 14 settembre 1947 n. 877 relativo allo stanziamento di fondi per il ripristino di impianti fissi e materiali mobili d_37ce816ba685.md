@@ -18,7 +18,7 @@ Visto il decreto legislativo luogotenenziale 15 ottobre 1944,
 
 n. 346;
 
-Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 361](../Decreti%20legislativi%20luogotenenziali/Integrazione%20del%20decreto%20legislativo%20Luogotenenziale%2015%20ottobre%201944%20n.%20346%20recante%20provvidenze%20eccezionali%20per%20la%20riattivazione%20dei%20pubblici%20servizi%20di%20trasporto%20esercitati%20dallindustria%20privata.md);
+Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 361](Integrazione%20del%20decreto%20legislativo%20Luogotenenziale%2015%20ottobre%201944%20n.%20346%20recante%20provvidenze%20eccezionali%20per%20la%20riattivazione%20dei%20pubblici%20servizi%20di%20trasporto%20esercitati%20dallindustria%20privata.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -38,7 +38,7 @@ L'autorizzazione al Ministro per i trasporti, prevista dall'[art. 3 del decreto 
 
 ## Art. 2.
 
-Per i finanziamenti previsti nel precedente articolo, si applicano le norme di cui al [decreto legislativo luogotenenziale 15 ottobre 1944, n. 346](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20eccezionali%20per%20la%20riattivazione%20dei%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata.%20044U0346.md), restando attribuita all'Azienda la proprieta' del materiale ricostituito coi finanziamenti stessi; questi ultimi saranno interamente rimborsati secondo le norme dell'art. 15 del detto decreto.
+Per i finanziamenti previsti nel precedente articolo, si applicano le norme di cui al [decreto legislativo luogotenenziale 15 ottobre 1944, n. 346](Provvidenze%20eccezionali%20per%20la%20riattivazione%20dei%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata.%20044U0346.md), restando attribuita all'Azienda la proprieta' del materiale ricostituito coi finanziamenti stessi; questi ultimi saranno interamente rimborsati secondo le norme dell'art. 15 del detto decreto.
 
 ## Art. 3.
 

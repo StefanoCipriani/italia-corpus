@@ -28,7 +28,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 La Corte di Assise quando deve giudicare dei reati preveduti dall'[art. 3 del decreto legislativo 27 luglio 1944, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-07-27;159#art_3), e' composta: 
  
- a) di due magistrati come e' disposto nell'art. 2 del testo unico, approvato con [R. decreto 4 ottobre 1935, n. 1899](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20delle%20Corti%20di%20assise.%20035U1899.md); 
+ a) di due magistrati come e' disposto nell'art. 2 del testo unico, approvato con [R. decreto 4 ottobre 1935, n. 1899](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20delle%20Corti%20di%20assise.%20035U1899.md); 
  
  b) di cinque giudici popolari.
 

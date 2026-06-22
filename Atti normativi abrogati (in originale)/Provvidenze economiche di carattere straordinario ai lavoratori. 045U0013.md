@@ -28,7 +28,7 @@ Sulla proposta del Ministro per l'industria, commercio e lavoro, di concerto con
 
 ## Art. 1.
 
-I datori di lavoro devono corrispondere ai propri dipendenti, aventi qualifica impiegatizia ai sensi del [R. decreto-legge 13 novembre 1924, n. 1825](Disposizioni%20relative%20al%20contratto%20dimpiego%20privato.%20024U1825.md), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), oltre la 13a mensilita', nella misura dovuta in base a norme, convenzioni ed infine, una gratifica straordinaria per l'anno 1944, pari all'ammontare mensile dell'indennita' di carovita e di presenza, e, quando sia prevista o in fatto corrisposta, anche della indennita' di mensa.
+I datori di lavoro devono corrispondere ai propri dipendenti, aventi qualifica impiegatizia ai sensi del [R. decreto-legge 13 novembre 1924, n. 1825](Disposizioni%20relative%20al%20contratto%20dimpiego%20privato.%20024U1825.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), oltre la 13a mensilita', nella misura dovuta in base a norme, convenzioni ed infine, una gratifica straordinaria per l'anno 1944, pari all'ammontare mensile dell'indennita' di carovita e di presenza, e, quando sia prevista o in fatto corrisposta, anche della indennita' di mensa.
 
 ## Art. 2.
 

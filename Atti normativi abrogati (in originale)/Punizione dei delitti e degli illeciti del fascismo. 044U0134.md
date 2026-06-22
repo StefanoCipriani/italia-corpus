@@ -48,7 +48,7 @@ Coloro che promossero o diressero l'attuazione del colpo di Stato del 3 gennaio 
 
 ### Art. 5.
 
-Ai delitti di cui agli artt. 2, 3 e 4 del presente decreto non si applicano le norme del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sulla prescrizione. 
+Ai delitti di cui agli artt. 2, 3 e 4 del presente decreto non si applicano le norme del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sulla prescrizione. 
  
  Le amnistie e gli indulti concessi dopo il 28 ottobre 1922 sono inapplicabili a questi delitti e, se gia' sono stati applicati, le relative declaratorie sono revocate. L'Alto Commissario potra' proporre al Re la revoca di grazie sovrane gia' concesse. 
  
@@ -76,7 +76,7 @@ Se il colpevole di uno dei delitti di cui agli artt. 2, 3, 4, 5 e 6, posteriorme
  
  Se il colpevole di uno dei delitti contemplati negli artt. 2, 3, 4, e 5 del presente decreto si sia ritirato dalla vita politica o abbia preso posizione ostile al fascismo in tempo anteriore all'inizio dell'attuale guerra, si applicano le diminuzioni di pena previste nel primo comma del presente articolo. Se a causa dei predetti atteggiamenti egli abbia subito condanne penali o provvedimenti di polizia, si applicano le riduzioni previste nel secondo comma. 
  
- Per gli stessi delitti il giudice, valutate le circostanze di cui all'[art. 133 codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), all'ergastolo puo' sostituire la reclusione per trent'anni e ridurre le altre pene di un sesto.
+ Per gli stessi delitti il giudice, valutate le circostanze di cui all'[art. 133 codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), all'ergastolo puo' sostituire la reclusione per trent'anni e ridurre le altre pene di un sesto.
 
 ### Art. 9.
 
@@ -260,13 +260,13 @@ I presidenti delle Corti distrettuali e delle Commissioni provinciali stabilisco
 
 Almeno quindici giorni prima dell'inizio della sessione, il presidente della Corte distrettuale estrae a sorte dall'elenco dodici giudici popolari, e il presidente della Commissione provinciale ne estrae cinque. 
  
- Valgono in quanto applicabili le norme dell'[art. 15 del R. decreto 4 ottobre 1935, n. 1899](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20delle%20Corti%20di%20assise.%20035U1899.md). 
+ Valgono in quanto applicabili le norme dell'[art. 15 del R. decreto 4 ottobre 1935, n. 1899](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20delle%20Corti%20di%20assise.%20035U1899.md). 
  
  I nomi dei giudici popolari estratti sono comunicati immediatamente all'Alto Commissario.
 
 ### Art. 32.
 
-Nei modi e termini dell'[art. 16 del R. decreto 4 ottobre 1935, n. 1899](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20delle%20Corti%20di%20assise.%20035U1899.md), i presidenti della Corte distrettuale e della Commissione provinciale chiamano fra i giudici popolari estratti quelli che debbono prestare servizio per tutta la sessione, in numero di sette, piu' due supplenti, per la Corte distrettuale, e in numero di due, piu' un supplente, per la Commissione provinciale. 
+Nei modi e termini dell'[art. 16 del R. decreto 4 ottobre 1935, n. 1899](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20delle%20Corti%20di%20assise.%20035U1899.md), i presidenti della Corte distrettuale e della Commissione provinciale chiamano fra i giudici popolari estratti quelli che debbono prestare servizio per tutta la sessione, in numero di sette, piu' due supplenti, per la Corte distrettuale, e in numero di due, piu' un supplente, per la Commissione provinciale. 
  
  Tutti i giudici popolari designati prestano giuramento subito dopo l'apertura della prima udienza sessione leggendo, l'un dopo l'altro, la seguente formula: «Giuro di adempiere da uomo di onore di coscienza, e nel solo interesse della giustizia i doveri dell'alto ufficio che mi viene affidato».
 
@@ -372,7 +372,7 @@ CAP0 V
 
 Le sentenze delle Corti distrettuali e delle Commissioni provinciali sono eseguite secondo le norme degli [artt. 575 e segg. codice procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_575). 
  
- Nei casi di cui all'art. 14 lett. e) del presente decreto, le pene detentive sofferte in esecuzione della sentenza dichiarata giuridicamente inesistente sono detratte a norma dell'[art. 137 codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); le pene eseguite sono detratte dall'ammontare complessivo di quelle irrogete.
+ Nei casi di cui all'art. 14 lett. e) del presente decreto, le pene detentive sofferte in esecuzione della sentenza dichiarata giuridicamente inesistente sono detratte a norma dell'[art. 137 codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); le pene eseguite sono detratte dall'ammontare complessivo di quelle irrogete.
 
 ## DISPOSIZIONI GENERALI
 

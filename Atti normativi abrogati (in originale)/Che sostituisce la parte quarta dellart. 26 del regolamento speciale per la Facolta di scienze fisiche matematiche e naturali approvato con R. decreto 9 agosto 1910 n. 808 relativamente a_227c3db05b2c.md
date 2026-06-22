@@ -24,9 +24,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Veduta la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Veduto l'art. 17 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910; n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md); 
+ Veduto l'art. 17 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910; n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md); 
  
- Veduto il regolamento speciale della Facolta' di scienze fisiche, matematiche e naturali, approvato con [R. decreto 9 agosto 1910, n. 808](../Regi%20decreti/Che%20approva%20gli%20annessi%20regolamenti%20speciali%20per%20le%20Facolta%20di%20giurisprudenza%20di%20medicina%20e%20chirurgia%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20lettere%20e%20filosofia%20e%20per%20le%20scuole%20di_ce454a6b881c.md); 
+ Veduto il regolamento speciale della Facolta' di scienze fisiche, matematiche e naturali, approvato con [R. decreto 9 agosto 1910, n. 808](Che%20approva%20gli%20annessi%20regolamenti%20speciali%20per%20le%20Facolta%20di%20giurisprudenza%20di%20medicina%20e%20chirurgia%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20lettere%20e%20filosofia%20e%20per%20le%20scuole%20di_ce454a6b881c.md); 
  
  Riconosciuta la opportunita' di modificare la parte IV dell'art. 26 di esso regolamento speciale, articolo riguardante la inscrizione di laureati che aspirano al conseguimento di un nuovo diploma in questa Facolta'; 
  
@@ -38,7 +38,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Alla parte IV dell'art. 26 del regolamento speciale per la Facolta' di scienze fisiche, matematiche e naturali, approvato con [R. decreto 9 agosto 1910, n. 808](../Regi%20decreti/Che%20approva%20gli%20annessi%20regolamenti%20speciali%20per%20le%20Facolta%20di%20giurisprudenza%20di%20medicina%20e%20chirurgia%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20lettere%20e%20filosofia%20e%20per%20le%20scuole%20di_ce454a6b881c.md), la quale parte riguarda le norme per laureati o diplomati che chiedono l'inscrizione, con abbreviazione di corso, al corso per il conseguimento della laurea in scienze naturali, e' sostituita la seguente: 
+ Alla parte IV dell'art. 26 del regolamento speciale per la Facolta' di scienze fisiche, matematiche e naturali, approvato con [R. decreto 9 agosto 1910, n. 808](Che%20approva%20gli%20annessi%20regolamenti%20speciali%20per%20le%20Facolta%20di%20giurisprudenza%20di%20medicina%20e%20chirurgia%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20lettere%20e%20filosofia%20e%20per%20le%20scuole%20di_ce454a6b881c.md), la quale parte riguarda le norme per laureati o diplomati che chiedono l'inscrizione, con abbreviazione di corso, al corso per il conseguimento della laurea in scienze naturali, e' sostituita la seguente: 
  
  Art. 26. 
  

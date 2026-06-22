@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
+Visto il [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
 
 Visto il [regio decreto-legge 2 dicembre 1923, n. 2688](Modificazioni%20allordinamento%20dellIstituto%20nazionale%20di%20credito%20per%20la%20cooperazione.%20023U2688.md);
 
-Visto il [decreto legislativo luogotenenziale 14 settembre 1944, n. 226](../Decreti%20legislativi%20luogotenenziali/Soppressione%20dellIspettorato%20per%20la%20difesa%20del%20risparmio%20e%20per%20lesercizio%20del%20credito%20e%20passaggio%20delle%20sue%20attribuzioni%20e%20facolta%20al%20Ministero%20del%20tesoro.%20044U0226.md);
+Visto il [decreto legislativo luogotenenziale 14 settembre 1944, n. 226](Soppressione%20dellIspettorato%20per%20la%20difesa%20del%20risparmio%20e%20per%20lesercizio%20del%20credito%20e%20passaggio%20delle%20sue%20attribuzioni%20e%20facolta%20al%20Ministero%20del%20tesoro.%20044U0226.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

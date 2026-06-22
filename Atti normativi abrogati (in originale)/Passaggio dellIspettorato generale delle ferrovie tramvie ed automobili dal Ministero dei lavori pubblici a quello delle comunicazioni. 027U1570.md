@@ -14,15 +14,15 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), riguardante l'ordinamento gerarchico delle Amministrazioni dello Stato;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), riguardante l'ordinamento gerarchico delle Amministrazioni dello Stato;
 
 Visto il [R. decreto 25 settembre 1924, n. 1477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-25;1477), concernente la riforma dei servizi del Ministero dei lavori pubblici;
 
-Visto il [R. decreto 9 maggio 1926, n. 849](../Regi%20decreti/Riordinamento%20dei%20servizi%20dellAmministrazione%20centrale%20dei%20lavori%20pubblici.%20026U0849.md), riguardante il riordinamento dei servizi dell'Amministrazione centrale del Ministero dei lavori pubblici;
+Visto il [R. decreto 9 maggio 1926, n. 849](Riordinamento%20dei%20servizi%20dellAmministrazione%20centrale%20dei%20lavori%20pubblici.%20026U0849.md), riguardante il riordinamento dei servizi dell'Amministrazione centrale del Ministero dei lavori pubblici;
 
-Visto il [R. decreto 9 maggio 1926 n. 874](../Regi%20decreti/Modificazioni%20al%20ruolo%20del%20personale%20di%20vigilanza%20gruppo%20A%20del%20Ministero%20dei%20lavori%20pubblici.%20026U0874.md), che reca modificazioni al ruolo del personale di vigilanza (gruppo A) del Ministero dei lavori pubblici;
+Visto il [R. decreto 9 maggio 1926 n. 874](Modificazioni%20al%20ruolo%20del%20personale%20di%20vigilanza%20gruppo%20A%20del%20Ministero%20dei%20lavori%20pubblici.%20026U0874.md), che reca modificazioni al ruolo del personale di vigilanza (gruppo A) del Ministero dei lavori pubblici;
 
-Visto il [R. decreto 9 maggio 1926, n. 850](../Regi%20decreti/Istituzione%20del%20Gruppo%20B%20nel%20personale%20del%20ruolo%20di%20vigilanza%20del%20Ministero%20dei%20lavori%20pubblici.%20026U0850.md), che istituisce il gruppo B nel personale del ruolo di vigilanza nel Ministero dei lavori pubblici;
+Visto il [R. decreto 9 maggio 1926, n. 850](Istituzione%20del%20Gruppo%20B%20nel%20personale%20del%20ruolo%20di%20vigilanza%20del%20Ministero%20dei%20lavori%20pubblici.%20026U0850.md), che istituisce il gruppo B nel personale del ruolo di vigilanza nel Ministero dei lavori pubblici;
 
 Visto il [R. decreto-legge 30 aprile 1924, n. 596](Istituzione%20del%20Ministero%20delle%20comunicazioni.%20024U0596.md);
 
@@ -67,7 +67,7 @@ Con decreti Reali, su proposta del Ministro per le comunicazioni, di concerto co
 ## Art. 7.
 
 Al personale del Ministero dei lavori pubblici e a quello di altre Amministrazioni che alla data del 30 dicembre 1926 era addetto all'Ispettorato generale delle ferrovie, tramvie ed automobili, potra', con decreto del Ministro per le comunicazioni, essere conservato ad personam il trattamento di cui godeva ai sensi del [R. decreto-legge 3 gennaio 1926, n. 188](Modificazioni%20alle%20disposizioni%20riguardanti%20le%20concessioni%20ferroviarie%20di%20viaggio.%20026U0188.md), e del relativo regolamento, nonche' la concessione della tessera di riconoscimento « Serie U. S.
-F. », di cui all'[art. 16 del R. decreto 7 agosto 1909, n. 711](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20dellufficio%20speciale%20per%20le%20ferrovie.%20009U0711.md), ai funzionari stessi in quanto ne fruivano alla anzidetta data.
+F. », di cui all'[art. 16 del R. decreto 7 agosto 1909, n. 711](Che%20approva%20lannesso%20regolamento%20dellufficio%20speciale%20per%20le%20ferrovie.%20009U0711.md), ai funzionari stessi in quanto ne fruivano alla anzidetta data.
 
 ## Art. 8.
 

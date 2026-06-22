@@ -64,7 +64,7 @@ Contro la denegata bollatura in esenzione di tassa di cui all'ultimo capoverso d
 
 ## Art. 7.
 
-Trascorso il termine prefisso dalla prima parte dell'art. 2 ogni apparecchio trovato in circolazione sprovvisto del nuovo bollo sara' considerato come importato in contrabbando ed i detentori soggiaceranno oltre che alla confisca dell'apparecchio alle sanzioni di cui al capo 6° del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) di finanza 11 luglio 1835.
+Trascorso il termine prefisso dalla prima parte dell'art. 2 ogni apparecchio trovato in circolazione sprovvisto del nuovo bollo sara' considerato come importato in contrabbando ed i detentori soggiaceranno oltre che alla confisca dell'apparecchio alle sanzioni di cui al capo 6° del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) di finanza 11 luglio 1835.
 
 ## Art. 8.
 

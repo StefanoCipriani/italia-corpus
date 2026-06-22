@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto 31 agosto 1907, n. 690](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20della%20legge%20sugli%20ufficiali%20ed%20agenti%20di%20pubblica%20sicurezza.%20007U0690.md), che approva il testo unico delle leggi sugli ufficiali ed agenti di pubblica sicurezza e successive modificazioni;
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello stato;
+Visto il [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello stato;
 
 Visto il [regio decreto-legge 9 gennaio 1927, n. 33](Riordinamento%20del%20personale%20dellAmministrazione%20della%20pubblica%20sicurezza%20e%20dei%20servizi%20di%20polizia.%20027U0033.md), sul riordinamento del personale dell'Amministrazione di pubblica sicurezza;
 
@@ -47,7 +47,7 @@ L'indennita' di servizio speciale spettante ai funzionari di pubblica sicurezza 
 ## Art. 2.
 
 Gli aumenti risultanti dalla tabella suddetta nei confronti di quella stabilita, con l'[art. 3 del regio decretolegge 9 gennaio 1927, n. 33](Riordinamento%20del%20personale%20dellAmministrazione%20della%20pubblica%20sicurezza%20e%20dei%20servizi%20di%20polizia.%20027U0033.md), saranno gradualmente riassorbiti, in misura pari alla meta' di ogni miglioramento, in occasione di eventuali revisioni dei trattamenti economici che potranno essere concessi successivamente all'entrata in vigore del presente decreto.
- L'indennita' suddetta e' computabile agli effetti della pensione limitatamente alle misure gia' fissate pei singoli gradi dall'[art. 187 del regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); non e' invece computabile agli effetti stessi per i volontari.
+ L'indennita' suddetta e' computabile agli effetti della pensione limitatamente alle misure gia' fissate pei singoli gradi dall'[art. 187 del regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); non e' invece computabile agli effetti stessi per i volontari.
  Il presente decreto entrera' in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

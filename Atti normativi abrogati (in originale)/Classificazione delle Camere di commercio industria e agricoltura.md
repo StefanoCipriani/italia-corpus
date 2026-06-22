@@ -31,7 +31,7 @@ La prima classificazione deve essere effettuata entro sei mesi dalla data di ent
 
 ## Art. 4.
 
-Il [regio decreto 10 giugno 1937, n. 2727](../Regi%20decreti/Classificazione%20dei%20Consigli%20provinciali%20delle%20corporazioni.%20037U2727.md), e' abrogato.
+Il [regio decreto 10 giugno 1937, n. 2727](Classificazione%20dei%20Consigli%20provinciali%20delle%20corporazioni.%20037U2727.md), e' abrogato.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

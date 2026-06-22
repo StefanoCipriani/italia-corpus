@@ -263,7 +263,7 @@ Alla scadenza di ogni quindicina il dirigente l'ufficio tecnico di finanza trasm
 --------------- 
 Nota Redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 giugno 1882, n. 813](../Regi%20decreti/Portante%20modificazioni%20allaltro%20regio%20decreto%2014%20maggio%201882%20relativo%20alle%20norme%20per%20la%20riscossione%20della%20tassa%20sulla%20macinazione%20dei%20cereali.%20082U0813.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 giugno 1882, n. 813](Portante%20modificazioni%20allaltro%20regio%20decreto%2014%20maggio%201882%20relativo%20alle%20norme%20per%20la%20riscossione%20della%20tassa%20sulla%20macinazione%20dei%20cereali.%20082U0813.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 32.
 

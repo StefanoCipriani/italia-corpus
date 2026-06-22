@@ -18,11 +18,11 @@ In virtu' dell' autorita' a Noi delegata;
 
 Visto il [R. decreto-legge 14 giugno 1923 n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-06-14;1281), e successive modificazioni, sull' ordinamento della Regia guardia di finanza;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
-Visto il decreto Ministeriale 14 agosto 1925, concernente le competenze mantenute in vigore a seguito della revisione di cui all'[art. 189 del R. Decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+Visto il decreto Ministeriale 14 agosto 1925, concernente le competenze mantenute in vigore a seguito della revisione di cui all'[art. 189 del R. Decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
-Visto il [R. decreto 31 dicembre 1928, n. 3458](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md);
+Visto il [R. decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md);
 
 Visto il [decreto legislativo Luogotenenziale 21 agosto 1945, n. 589](Trattamento%20economico%20dei%20militari%20dellArma%20dei%20carabinieri%20Reali.%20045U0589.md), sul trattamento economico dei militari dell' Arma dei carabinieri Reali;
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro per le finanze, d'intesa con i Ministri per la guerr
 
 ## Art. 1.
 
-L'indennita' militare speciale pensionabile di cui all'[art. 176 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), spettante agli ufficiali, sottufficiali, appuntati e finanzieri raffermati della Regia guardia di finanza, e' stabilita nelle seguenti misure annue, al netto delle riduzioni previste dal [R. decreto 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-20;1491), e dal [R. decreto-legge 14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561):
+L'indennita' militare speciale pensionabile di cui all'[art. 176 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), spettante agli ufficiali, sottufficiali, appuntati e finanzieri raffermati della Regia guardia di finanza, e' stabilita nelle seguenti misure annue, al netto delle riduzioni previste dal [R. decreto 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-20;1491), e dal [R. decreto-legge 14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561):
 
  colonnello . . . . . . . . . . . . . . . . . . . . . . . . .L. 4500 tenente colonnello. . . . . . . . . . . . . . . . . . . . . L. 4000 maggiore e 1° capitano. . . . . . . . . . . . . . . . . . . L. 3750 capitano. . . . . . . . . . . . . . . . . . . . . . . . . . L. 3500 tenente . . . . . . . . . . . . . . . . . . . . . . . . . . L. 3000 sottotenente. . . . . . . . . . . . . . . . . . . . . . . . L. 2500 maresciallo maggiore. . . . . . . . . . . . . . . . . . . . L. 2250 maresciallo capo. . . . . . . . . . . . . . . . . . . . . . L. 2000 maresciallo ordinario . . . . . . . . . . . . . . . . . . . L. 1750 brigadiere. . . . . . . . . . . . . . . . . . . . . . . . . L. 1500 sottobrigadiere . . . . . . . . . . . . . . . . . . . . . . L. 1250 appuntato . . . . . . . . . . . . . . . . . . . . . . . . . L. 1000 finanziere raffermato . . . . . . . . . . . . . . . . . . . L. 750
 

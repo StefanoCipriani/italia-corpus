@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-L'articolo 139 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' sostituito dal seguente:
+L'articolo 139 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' sostituito dal seguente:
  "Articolo 139. - (Nomina dei membri ordinari). - I membri ordinari del Consiglio superiore della pubblica amministrazione sono nominati con decreto del Presidente della Repubblica su proposta del Presidente del Consiglio dei Ministri.
  Sono membri ordinari:
  a) il Ragioniere generale dello Stato;

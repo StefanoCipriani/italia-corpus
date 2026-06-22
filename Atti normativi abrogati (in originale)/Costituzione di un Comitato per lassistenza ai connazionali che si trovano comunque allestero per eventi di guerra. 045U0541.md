@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 21 giugno 1940, n. 856](Norme%20per%20la%20gestione%20patrimoniale%20e%20finanziaria%20dello%20Stato%20in%20periodo%20di%20guerra.%20040U0856.md), convertito, con modificazioni, nella [legge 21 ottobre 1940, n. 1518](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2021%20giugno%201940-XVIII%20n.%20856%20contenente%20le%20norme%20per%20la%20gestione%20patrimoniale%20e%20finanziaria%20dello%20Stato%20in%20periodo%20di%20guerra.%20040U1518.md), che detta norme per la gestione patrimoniale e finanziaria dello Stato in periodo di guerra;
+Visto il [R. decreto-legge 21 giugno 1940, n. 856](Norme%20per%20la%20gestione%20patrimoniale%20e%20finanziaria%20dello%20Stato%20in%20periodo%20di%20guerra.%20040U0856.md), convertito, con modificazioni, nella [legge 21 ottobre 1940, n. 1518](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2021%20giugno%201940-XVIII%20n.%20856%20contenente%20le%20norme%20per%20la%20gestione%20patrimoniale%20e%20finanziaria%20dello%20Stato%20in%20periodo%20di%20guerra.%20040U1518.md), che detta norme per la gestione patrimoniale e finanziaria dello Stato in periodo di guerra;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

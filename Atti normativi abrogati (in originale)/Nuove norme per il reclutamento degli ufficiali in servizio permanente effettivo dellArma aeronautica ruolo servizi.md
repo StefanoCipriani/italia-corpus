@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-I sottotenenti in servizio permanente effettivo dell'Arma aeronautica, ruolo servizi, sono reclutati, oltre che dal personale di cui all'[articolo 3, lettera b), della legge 8 marzo 1958, n. 233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-08;233#art_3-letb), dagli allievi di corsi regolari di tre anni svolti presso l'Accademia aeronautica. A detti corsi possono essere ammessi i giovani in possesso di diploma di istituto di istruzione secondaria di secondo grado e degli altri requisiti prescritti dal [regio decreto 25 marzo 1941, n. 472](../Regi%20decreti/Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), e successive modificazioni, ad eccezione di quello relativo all'attitudine psicofisica necessaria per esercitare la navigazione aerea in qualita' di pilota di aeroplano.
+I sottotenenti in servizio permanente effettivo dell'Arma aeronautica, ruolo servizi, sono reclutati, oltre che dal personale di cui all'[articolo 3, lettera b), della legge 8 marzo 1958, n. 233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-08;233#art_3-letb), dagli allievi di corsi regolari di tre anni svolti presso l'Accademia aeronautica. A detti corsi possono essere ammessi i giovani in possesso di diploma di istituto di istruzione secondaria di secondo grado e degli altri requisiti prescritti dal [regio decreto 25 marzo 1941, n. 472](Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), e successive modificazioni, ad eccezione di quello relativo all'attitudine psicofisica necessaria per esercitare la navigazione aerea in qualita' di pilota di aeroplano.
 
 NOTE
 
@@ -39,7 +39,7 @@ Le materie d'insegnamento e le modalita' di svolgimento dei corsi regolari desti
 
 ## Art. 3.
 
-Per i giovani ammessi all'Accademia aeronautica ai sensi del precedente articolo 1 si osservano, in quanto applicabili, le norme di cui al [regio decreto 25 marzo 1941, n. 472](../Regi%20decreti/Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), e successive modificazioni, ad eccezione di quelle attinenti al conseguimento dei brevetti di pilota di aeroplano e di pilota militare.
+Per i giovani ammessi all'Accademia aeronautica ai sensi del precedente articolo 1 si osservano, in quanto applicabili, le norme di cui al [regio decreto 25 marzo 1941, n. 472](Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), e successive modificazioni, ad eccezione di quelle attinenti al conseguimento dei brevetti di pilota di aeroplano e di pilota militare.
 
 ## Art. 4.
 
@@ -47,11 +47,11 @@ All'atto del conferimento della qualifica di aspirante ufficiale gli allievi dev
 
 ## Art. 5.
 
-Gli allievi dei corsi regolari dell'Accademia aeronautica destinati al reclutamento degli ufficiali in servizio permanente effettivo dell'Arma aeronautica, ruolo naviganti normale, che al termine del primo e del secondo anno accademico siano in possesso dei requisiti di cui alle [lettere a)](../Regi%20decreti/Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md) e [b) del terzo comma dell'articolo 10 del regio decreto 25 marzo 1941, n. 472](../Regi%20decreti/Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), e successive modificazioni, ma siano riconosciuti non piu' in possesso dei requisiti fisici o dell'attitudine necessaria per lo svolgimento dell'attivita' di volo quali piloti militari, possono a domanda essere ammessi a frequentare rispettivamente il secondo ed il terzo anno dei corsi regolari previsti dal precedente articolo 1.
+Gli allievi dei corsi regolari dell'Accademia aeronautica destinati al reclutamento degli ufficiali in servizio permanente effettivo dell'Arma aeronautica, ruolo naviganti normale, che al termine del primo e del secondo anno accademico siano in possesso dei requisiti di cui alle [lettere a)](Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md) e [b) del terzo comma dell'articolo 10 del regio decreto 25 marzo 1941, n. 472](Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), e successive modificazioni, ma siano riconosciuti non piu' in possesso dei requisiti fisici o dell'attitudine necessaria per lo svolgimento dell'attivita' di volo quali piloti militari, possono a domanda essere ammessi a frequentare rispettivamente il secondo ed il terzo anno dei corsi regolari previsti dal precedente articolo 1.
  Agli allievi di cui al precedente comma, che siano riconosciuti non piu' in possesso dei requisiti fisici e dell'attitudine indicati nel comma stesso durante il terzo anno accademico, si applicano le norme degli articoli 3, lettera a), e 4 della [legge 8 marzo 1958, n. 233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-08;233).
 
 Nota all'art. 5, primo comma:
- - Il testo dell'[art. 10 del regio decreto 25 marzo 1941, n. 472](../Regi%20decreti/Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md) A il seguente:
+ - Il testo dell'[art. 10 del regio decreto 25 marzo 1941, n. 472](Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md) A il seguente:
  "Durante il primo anno di corso o alla fine di esso gli allievi i quali, per scarsa attitudine professionale o militare in genere o per cattiva condotta o per deficienza fisica, non diano affidamento di buona riuscita nella carriera, sono dimessi dall'istituto.
  Tale dimissione puo' aver luogo, pero', anche durante gli anni accademici successivi per coloro che dimostrassero abituale cattiva condotta o incomprensione o svogliatezza o si rendessero colpevoli di mancanze assai gravi determinanti indegnita' alla carriera di ufficiale.
  Il passaggio da una classe all'altra avviene alla fine dell'anno accademico ed e' subordinato alle seguenti condizioni:

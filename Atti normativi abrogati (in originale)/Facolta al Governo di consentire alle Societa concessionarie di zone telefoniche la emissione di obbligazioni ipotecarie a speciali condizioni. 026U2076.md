@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 8 febbraio 1923, n. 399](../Regi%20decreti/Che%20reca%20le%20disposizioni%20che%20conferiscono%20la%20facolta%20al%20Governo%20di%20concedere%20a%20Enti%20pubblici%20a%20Societa%20o%20a%20privati%20lesercizio%20di%20impianti%20telefonici%20di%20Stato.%20023U0399.md);
+Visto il [R. decreto 8 febbraio 1923, n. 399](Che%20reca%20le%20disposizioni%20che%20conferiscono%20la%20facolta%20al%20Governo%20di%20concedere%20a%20Enti%20pubblici%20a%20Societa%20o%20a%20privati%20lesercizio%20di%20impianti%20telefonici%20di%20Stato.%20023U0399.md);
 
 Visto il [R. decreto-legge 4 maggio 1924, n. 837](Modificazioni%20ai%20Regi%20decreti%208%20febbraio%201923%20n.%20399%20e%2010%20settembre%201923%20n.%201988%20relativi%20alla%20facolta%20di%20concedere%20ad%20Enti%20pubblici%20a%20societa%20od%20a%20privati%20lesercizio%20degli%20impianti%20telef_33d4d4429072.md), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-E' data facolta' al Ministro per le comunicazioni, di concerto coi Ministri per le finanze e per l'economia nazionale, di autorizzare in casi eccezionali, quando si tratti di provvedere a riconosciute straordinarie esigenze del servizio telefonico in zone di grande traffico, col compimento di vasti lavori, le rispettive Societa', concessionarie in base al [R. decreto 8 febbraio 1923, n. 399](../Regi%20decreti/Che%20reca%20le%20disposizioni%20che%20conferiscono%20la%20facolta%20al%20Governo%20di%20concedere%20a%20Enti%20pubblici%20a%20Societa%20o%20a%20privati%20lesercizio%20di%20impianti%20telefonici%20di%20Stato.%20023U0399.md), [R. decreto-legge 4 maggio 1924, n. 837](Modificazioni%20ai%20Regi%20decreti%208%20febbraio%201923%20n.%20399%20e%2010%20settembre%201923%20n.%201988%20relativi%20alla%20facolta%20di%20concedere%20ad%20Enti%20pubblici%20a%20societa%20od%20a%20privati%20lesercizio%20degli%20impianti%20telef_33d4d4429072.md), ad emettere obbligazioni ipotecarie con le disposizioni speciali stabilite nel presente decreto.
+E' data facolta' al Ministro per le comunicazioni, di concerto coi Ministri per le finanze e per l'economia nazionale, di autorizzare in casi eccezionali, quando si tratti di provvedere a riconosciute straordinarie esigenze del servizio telefonico in zone di grande traffico, col compimento di vasti lavori, le rispettive Societa', concessionarie in base al [R. decreto 8 febbraio 1923, n. 399](Che%20reca%20le%20disposizioni%20che%20conferiscono%20la%20facolta%20al%20Governo%20di%20concedere%20a%20Enti%20pubblici%20a%20Societa%20o%20a%20privati%20lesercizio%20di%20impianti%20telefonici%20di%20Stato.%20023U0399.md), [R. decreto-legge 4 maggio 1924, n. 837](Modificazioni%20ai%20Regi%20decreti%208%20febbraio%201923%20n.%20399%20e%2010%20settembre%201923%20n.%201988%20relativi%20alla%20facolta%20di%20concedere%20ad%20Enti%20pubblici%20a%20societa%20od%20a%20privati%20lesercizio%20degli%20impianti%20telef_33d4d4429072.md), ad emettere obbligazioni ipotecarie con le disposizioni speciali stabilite nel presente decreto.
 
 ## Art. 2.
 

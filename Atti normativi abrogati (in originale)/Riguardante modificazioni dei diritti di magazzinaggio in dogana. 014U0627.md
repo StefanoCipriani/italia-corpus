@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- All'art. 20 delle disposizioni preliminari alla tariffa doganale - testo unico approvato con [R. decreto 28 luglio 1910, n. 577](../Regi%20decreti/Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md) - e' sostituito il seguente: 
+ All'art. 20 delle disposizioni preliminari alla tariffa doganale - testo unico approvato con [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md) - e' sostituito il seguente: 
  
  Art. 20. - Per tutte le merci, tanto in temporea custodia, quanto nei magazzini sotto diretta custodia della dogana, sieno esse in colli o alla rinfusa, e' riscosso il diritto di magazzinaggio nelle misure seguenti: 
  

@@ -44,7 +44,7 @@ Gli [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.dec
 
 ## Art. 2.
 
-Sono soppressi gli [articoli 40](Che%20erige%20in%20ente%20morale%20la%20Cassa%20degli%20invalidi%20della%20marina%20mercantile%20costituita%20ai%20termini%20dellart.%201%20della%20legge%2022%20giugno%201913%20n.%20767%20stabilendone%20gli%20scopi%20e%20lordinamento.%20019U1996.md) e [41 del R. decreto-legge 26 ottobre 1919, n. 1996](Che%20erige%20in%20ente%20morale%20la%20Cassa%20degli%20invalidi%20della%20marina%20mercantile%20costituita%20ai%20termini%20dellart.%201%20della%20legge%2022%20giugno%201913%20n.%20767%20stabilendone%20gli%20scopi%20e%20lordinamento.%20019U1996.md), modificato con [R. decreto 10 luglio 1926, n. 1364](../Regi%20decreti/Provvedimenti%20per%20il%20miglioramento%20degli%20assegni%20ai%20pensionati%20della%20Cassa%20invalidi%20della%20marina%20mercantile.%20026U1364.md).
+Sono soppressi gli [articoli 40](Che%20erige%20in%20ente%20morale%20la%20Cassa%20degli%20invalidi%20della%20marina%20mercantile%20costituita%20ai%20termini%20dellart.%201%20della%20legge%2022%20giugno%201913%20n.%20767%20stabilendone%20gli%20scopi%20e%20lordinamento.%20019U1996.md) e [41 del R. decreto-legge 26 ottobre 1919, n. 1996](Che%20erige%20in%20ente%20morale%20la%20Cassa%20degli%20invalidi%20della%20marina%20mercantile%20costituita%20ai%20termini%20dellart.%201%20della%20legge%2022%20giugno%201913%20n.%20767%20stabilendone%20gli%20scopi%20e%20lordinamento.%20019U1996.md), modificato con [R. decreto 10 luglio 1926, n. 1364](Provvedimenti%20per%20il%20miglioramento%20degli%20assegni%20ai%20pensionati%20della%20Cassa%20invalidi%20della%20marina%20mercantile.%20026U1364.md).
 
 ## Art. 3.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto 30 agosto 1914, n. 909](../Regi%20decreti/Che%20autorizza%20la%20concessione%20di%20mutui%20ai%20Comuni%20per%20integrarne%20lopera%20di%20soccorso%20a%20favore%20dei%20rimpatriati%20bisognosi.%20014U0909.md), relativo alla concessione di mutui ai Comuni per integrarne l'opera di soccorso a favore dei rimpatriati bisognosi.
+E' convertito in legge il [R. decreto 30 agosto 1914, n. 909](Che%20autorizza%20la%20concessione%20di%20mutui%20ai%20Comuni%20per%20integrarne%20lopera%20di%20soccorso%20a%20favore%20dei%20rimpatriati%20bisognosi.%20014U0909.md), relativo alla concessione di mutui ai Comuni per integrarne l'opera di soccorso a favore dei rimpatriati bisognosi.
 
 ## Art. 2.
 

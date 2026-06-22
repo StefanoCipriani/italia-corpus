@@ -78,13 +78,13 @@ Le chiamate di cui nell'articolo precedente sono fatte dal sindaco in seguito a 
 
 ### Art. 14.
 
-Gli ascritti alla milizia comunale, quando prestano servizio, sono soggetti alla disciplina ed alle leggi militari; se pero' commettono un reato contemplato dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, la pena sara' per essi diminuita di due gradi, eccetto il caso in cui il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune stabilisca per il reato medesimo una pena maggiore di quella che colla diminuzione suddetta risulterebbe. In tal caso sara' applicata la pena stabilita dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune. 
+Gli ascritti alla milizia comunale, quando prestano servizio, sono soggetti alla disciplina ed alle leggi militari; se pero' commettono un reato contemplato dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, la pena sara' per essi diminuita di due gradi, eccetto il caso in cui il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune stabilisca per il reato medesimo una pena maggiore di quella che colla diminuzione suddetta risulterebbe. In tal caso sara' applicata la pena stabilita dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune. 
  
  Dei reati commessi dai militi in servizio conosceranno i tribunali ordinari.
 
 ### Art. 15.
 
-Il milite che essendo chiamato in servizio a senso degli articoli 12 e 13 non si presenta sul luogo e nel tempo stabiliti e non giustifichi un legittimo impedimento, incorre nelle pene comminate dall'[articolo 305 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune per rifiuto ad un servizio legalmente dovuto. 
+Il milite che essendo chiamato in servizio a senso degli articoli 12 e 13 non si presenta sul luogo e nel tempo stabiliti e non giustifichi un legittimo impedimento, incorre nelle pene comminate dall'[articolo 305 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune per rifiuto ad un servizio legalmente dovuto. 
  
  Il milite che si ritenesse ingiustamente chiamato deve pur sempre presentarsi, ma potra' in seguito reclamare al sindaco ed in via gerarchica fino al Ministro dell'Interno.
 

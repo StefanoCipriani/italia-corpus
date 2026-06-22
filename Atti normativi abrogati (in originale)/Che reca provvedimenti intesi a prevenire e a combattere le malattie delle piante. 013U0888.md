@@ -69,7 +69,7 @@ Lo Stato puo' provvedere, a sue spese, alla direzione dei lavori di difesa contr
 
 ## Art. 8.
 
-Le contravvenzioni alle disposizioni della presente legge e dei regolamenti che saranno emanati in esecuzione di essa, sono punite con l'ammenda da L. 10 a L. 200 e senza pregiudizio delle maggiori pene per infrazioni alle disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Le contravvenzioni alle disposizioni della presente legge e dei regolamenti che saranno emanati in esecuzione di essa, sono punite con l'ammenda da L. 10 a L. 200 e senza pregiudizio delle maggiori pene per infrazioni alle disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Le contravvenzioni ai divieti d'importazione e di transito saranno punite con una multa non minore di L. 10 ne' superiore alle L. 300, senza pregiudizio delle maggiori sanzioni stabilite dalla legge doganale per il contrabbando. 
  

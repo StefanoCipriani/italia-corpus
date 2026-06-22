@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'art. 78 dello Statuto del Regno;
 
-Visti i [Regi decreti 30 dicembre 1923, n. 3167](../Regi%20decreti/Istituzione%20della%20decorazione%20della%20Stella%20al%20merito%20del%20lavoro.%20023U3167.md); [23 ottobre 1924, n. 2365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;2365); [25 gennaio 1925, n. 120](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2030%20dicembre%201923%20n.%203167%20concernente%20la%20istituzione%20della%20decorazione%20della%20Stella%20al%20Merito%20del%20Lavoro.%20025U0120.md); [3 gennaio 1926, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;20), e [17 marzo 1927, n. 548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-03-17;548), concernenti la decorazione della «Stella al merito del lavoro»;
+Visti i [Regi decreti 30 dicembre 1923, n. 3167](Istituzione%20della%20decorazione%20della%20Stella%20al%20merito%20del%20lavoro.%20023U3167.md); [23 ottobre 1924, n. 2365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;2365); [25 gennaio 1925, n. 120](Modificazioni%20al%20R.%20decreto%2030%20dicembre%201923%20n.%203167%20concernente%20la%20istituzione%20della%20decorazione%20della%20Stella%20al%20Merito%20del%20Lavoro.%20025U0120.md); [3 gennaio 1926, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;20), e [17 marzo 1927, n. 548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-03-17;548), concernenti la decorazione della «Stella al merito del lavoro»;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

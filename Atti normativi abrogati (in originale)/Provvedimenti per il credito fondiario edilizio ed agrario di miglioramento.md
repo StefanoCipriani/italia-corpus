@@ -44,7 +44,7 @@ Le operazioni effettuate dagli Istituti di credito fondiario in forza dell'art. 
 
 ## Art. 6.
 
-Nel caso che i lavori per i quali e' concesso il mutuo siano ritardati o sospesi, l'Istituto mutuante, in conformita' alle norme dettate dall'[art. 8 del regio decreto 23 ottobre 1925, n. 2063](../Regi%20decreti/Autorizzazione%20alla%20Societa%20anonima%20Istituto%20nazionale%20di%20credito%20edilizio%20con%20sede%20in%20Roma%20ad%20esercitare%20il%20credito%20edilizio.%20025U2063.md), puo' provvedere alla vendita dell'edificio incompiuto, ovvero curarne il completamento per alienarlo successivamente.
+Nel caso che i lavori per i quali e' concesso il mutuo siano ritardati o sospesi, l'Istituto mutuante, in conformita' alle norme dettate dall'[art. 8 del regio decreto 23 ottobre 1925, n. 2063](Autorizzazione%20alla%20Societa%20anonima%20Istituto%20nazionale%20di%20credito%20edilizio%20con%20sede%20in%20Roma%20ad%20esercitare%20il%20credito%20edilizio.%20025U2063.md), puo' provvedere alla vendita dell'edificio incompiuto, ovvero curarne il completamento per alienarlo successivamente.
 
 ## Art. 7.
 
@@ -58,7 +58,7 @@ Le cartelle fondiarie, edilizie ed agrarie emesse dagli Istituti autorizzati all
 
 ## Art. 9.
 
-Alle cartelle emesse dal Consorzio nazionale per il credito agrario di miglioramento sono applicabili le disposizioni di cui all'art. 33 del testo unico delle leggi sul credito fondiario ([regio decreto 16 luglio 1905, numero 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md)).
+Alle cartelle emesse dal Consorzio nazionale per il credito agrario di miglioramento sono applicabili le disposizioni di cui all'art. 33 del testo unico delle leggi sul credito fondiario ([regio decreto 16 luglio 1905, numero 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md)).
 
 ## Art. 10.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visti la [legge 13 giugno 1942, n. 794](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-06-13;794), sugli onorari di avvocato e di procuratore per prestazioni giudiziali in materia civile; il [decreto legislativo luogotenenziale 20 luglio 1944, n. 276](../Decreti%20legislativi%20luogotenenziali/Aumento%20degli%20onorari%20di%20avvocato%20e%20dei%20diritti%20di%20procuratore.%20044U0276.md), ed il [decreto legislativo luogotenenziale 22 febbraio 1946, n. 170](../Decreti%20legislativi%20luogotenenziali/Aumento%20degli%20onorari%20di%20avvocato%20e%20degli%20onorari%20e%20diritti%20di%20procuratore.md), concernente l'aumento degli onorari di avvocato e degli onorari e diritti di procuratore;
+Visti la [legge 13 giugno 1942, n. 794](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-06-13;794), sugli onorari di avvocato e di procuratore per prestazioni giudiziali in materia civile; il [decreto legislativo luogotenenziale 20 luglio 1944, n. 276](Aumento%20degli%20onorari%20di%20avvocato%20e%20dei%20diritti%20di%20procuratore.%20044U0276.md), ed il [decreto legislativo luogotenenziale 22 febbraio 1946, n. 170](../Decreti%20legislativi%20luogotenenziali/Aumento%20degli%20onorari%20di%20avvocato%20e%20degli%20onorari%20e%20diritti%20di%20procuratore.md), concernente l'aumento degli onorari di avvocato e degli onorari e diritti di procuratore;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

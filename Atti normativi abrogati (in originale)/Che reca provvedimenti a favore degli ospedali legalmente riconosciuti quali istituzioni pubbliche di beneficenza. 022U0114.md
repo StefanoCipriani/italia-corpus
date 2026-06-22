@@ -24,7 +24,7 @@ Sulla proposta del ministro del tesoro, di concerto col presidente del Consiglio
 
 Allo scopo di porre in grado gli Ospedali, legalmente riconosciuti quali istituzioni pubbliche di beneficenza, di ovviare alla mancata riscossione di crediti di spedalita' verso i Comuni, obbligati per legge o per convenzione, relativi ai ricoveri disposti fino al 31 dicembre 1921, il ministro dell'interno e' autorizzato a fare anticipazioni agli Ospedali stessi sino all'importo massimo di L. 125 milioni. 
  
- Il ministro del tesoro potra' attingere i mezzi necessari per tale spesa mediante emissione di buoni del tesoro quinquennali in conformita' delle disposizioni contenute nel [R. decreto 5 maggio 1916, n. 505](../Regi%20decreti/Riguardante%20lemissione%20di%20buoni%20del%20tesoro%20triennali%20e%20quinquennali.%20016U0505.md).
+ Il ministro del tesoro potra' attingere i mezzi necessari per tale spesa mediante emissione di buoni del tesoro quinquennali in conformita' delle disposizioni contenute nel [R. decreto 5 maggio 1916, n. 505](Riguardante%20lemissione%20di%20buoni%20del%20tesoro%20triennali%20e%20quinquennali.%20016U0505.md).
 
 ## Art. 2.
 

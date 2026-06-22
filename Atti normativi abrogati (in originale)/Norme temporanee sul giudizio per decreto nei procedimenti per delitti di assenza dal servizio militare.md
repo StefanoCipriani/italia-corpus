@@ -20,7 +20,7 @@ Visto il [decreto Luogotenenziale 29 marzo 1946, n. 132](https://www.normattiva.
 
 di amnistia e condono per reati militari;
 
-Visti gli [articoli 382 e seguenti del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace;
+Visti gli [articoli 382 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace;
 
 Visti gli [articoli 506 e seguenti del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_506);
 
@@ -37,7 +37,7 @@ Sulla proposta del Ministro per la guerra, di concerto con i Ministri per la gra
 Per i delitti di assenza dal servizio punibili con pena detentiva, commessi fino a tutto il giorno precedente alla data del [decreto Luogotenenziale 29 marzo 1946, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-29;132), di amnistia e di indulto per reati militari ed ai quali e' applicabile il beneficio del condono previsto dall'art. 5 del decreto stesso, il pubblico ministero, se ritiene fondata la denunzia, richiede al presidente del tribunale militare la condanna dell'imputato con decreto. 
  Il presidente, o il giudice relatore da lui delegato, se accoglie la richiesta del pubblico ministero, pronuncia la condanna con decreto, altrimenti restituisce gli atti al pubblico ministero, affinche' l'azione sia proseguita nei modi ordinari. 
  Contro il decreto di condanna puo' essere proposta opposizione dall'imputato, con la richiesta del dibattimento, entro sessanta giorni dalla notificazione. 
- Si applicano, in quanto non contrastanti con quelle del presente decreto, le disposizioni sul giudizio per decreto contenute nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare e nel [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447).
+ Si applicano, in quanto non contrastanti con quelle del presente decreto, le disposizioni sul giudizio per decreto contenute nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare e nel [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447).
 
 ## Art. 2.
 

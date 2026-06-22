@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 26 gennaio 1913 n.84](../Regi%20decreti/Col%20quale%20si%20provvede%20alla%20sostituzione%20temporanea%20degli%20impiegati%20dellAmministrazione%20centrale%20e%20provinciale%20dellinterno%20inviati%20in%20Libia%20e%20nellEgeo.%20013U0084.md), relativo alla sostituzione nei corrispondenti ruoli organici degli impiegati dell'Amministrazione centrale e provinciale dell'interno inviati nella Libia e nell' Egeo. 
+ E' convertito in legge il [R. decreto 26 gennaio 1913 n.84](Col%20quale%20si%20provvede%20alla%20sostituzione%20temporanea%20degli%20impiegati%20dellAmministrazione%20centrale%20e%20provinciale%20dellinterno%20inviati%20in%20Libia%20e%20nellEgeo.%20013U0084.md), relativo alla sostituzione nei corrispondenti ruoli organici degli impiegati dell'Amministrazione centrale e provinciale dell'interno inviati nella Libia e nell' Egeo. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

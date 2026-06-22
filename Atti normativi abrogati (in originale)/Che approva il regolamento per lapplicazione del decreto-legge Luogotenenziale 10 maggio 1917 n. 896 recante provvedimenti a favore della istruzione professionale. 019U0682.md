@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), e il relativo regolamento approvato con [R. decreto del 22 giugno 1913, n. 1014](../Regi%20decreti/Col%20quale%20e%20approvato%20lannesso%20regolamento%20generale%20sullistruzione%20professionale%20scuole%20industriali%20e%20commerciali.%20013U1014.md); 
+ Vista la [legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), e il relativo regolamento approvato con [R. decreto del 22 giugno 1913, n. 1014](Col%20quale%20e%20approvato%20lannesso%20regolamento%20generale%20sullistruzione%20professionale%20scuole%20industriali%20e%20commerciali.%20013U1014.md); 
  
  Visto il [decreto-legge Luogotenenziale in data 10 maggio 1917, n. 896](Concernente%20provvedimenti%20a%20favore%20dellistruzione%20professionale.%20017U0896.md); 
  

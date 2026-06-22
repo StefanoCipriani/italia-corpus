@@ -30,7 +30,7 @@ d) che il beneficiario e' vivente;
  
 e) che il beneficiario non ha perduto la cittadinanza albanese ne' acquisito una cittadinanza straniera diversa da quella italiana; 
  
-f) che il beneficiario non ha riportato condanna che lo privi, in tutto o in parte, del godimento della pensione, per i reati contemplati dal [Codice penale, e dagli articoli 46](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [49](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del R. decreto 12 luglio 1923-I, n. 1491; 
+f) che il beneficiario non ha riportato condanna che lo privi, in tutto o in parte, del godimento della pensione, per i reati contemplati dal [Codice penale, e dagli articoli 46](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [49](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del R. decreto 12 luglio 1923-I, n. 1491; 
  
 g) inoltre, qualora si tratti di beneficiaria di pensione di riversibilita' o di intestataria di assegno di integrazione, che essa conserva tuttora lo stato vedovile o nubile; 
  

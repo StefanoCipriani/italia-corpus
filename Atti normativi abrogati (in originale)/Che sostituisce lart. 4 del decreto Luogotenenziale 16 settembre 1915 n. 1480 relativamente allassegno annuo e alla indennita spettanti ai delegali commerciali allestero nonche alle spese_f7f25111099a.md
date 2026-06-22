@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata e dei poteri conferiti al Governo dalla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Visto il [R decreto 21 dicembre 1905, n 658](../Regi%20decreti/Portante%20norme%20per%20la%20scelta%20dei%20delegati%20commerciali%20allestero.%20005U0658.md);
+Visto il [R decreto 21 dicembre 1905, n 658](Portante%20norme%20per%20la%20scelta%20dei%20delegati%20commerciali%20allestero.%20005U0658.md);
 
 Visto il nostro decreto 16 settembre 1915, n. 1480;
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro segretario di Stato per l'industria, il commercio, i
 
 All'art. 4 del Nostro decreto succitato 16 settembre 1915, n. 1480 e' sostituito il seguente: 
  
- «Art. 4. - All'art. 11 del summenzionato [R. decreto 21 dicembre 1905, n. 658](../Regi%20decreti/Portante%20norme%20per%20la%20scelta%20dei%20delegati%20commerciali%20allestero.%20005U0658.md), e' sostituito il seguente: 
+ «Art. 4. - All'art. 11 del summenzionato [R. decreto 21 dicembre 1905, n. 658](Portante%20norme%20per%20la%20scelta%20dei%20delegati%20commerciali%20allestero.%20005U0658.md), e' sostituito il seguente: 
  
  «Ai delegati commerciali sara' corrisposto un assegno annuo (pagabile in rate trimestrali posticipate) che non potra' superare il massimo di lire ottomila. Ai delegati sono rimborsate le spese di viaggio per recarsi al paese di destinazione e di ritorno dopo compiuto l'itinerario e sara' loro corrisposta una indennita' di residenza, variabile secondo il luogo e nella misura che sara' stabilita col decreto di conferimento o di conserva di incarico e che, in nessun caso, potra' eccedere L. 4000 all'anno. 
  

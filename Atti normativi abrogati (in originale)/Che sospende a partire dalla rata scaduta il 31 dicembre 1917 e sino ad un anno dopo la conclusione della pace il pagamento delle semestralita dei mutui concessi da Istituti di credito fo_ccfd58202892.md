@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 In forza dei poteri conferiti al Governo del Re dalla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Veduti il testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e la [legge 22 dicembre 1905, n. 592](Provvedimenti%20per%20agevolare%20i%20mutui%20fondiari.%20005U0592.md);
+Veduti il testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e la [legge 22 dicembre 1905, n. 592](Provvedimenti%20per%20agevolare%20i%20mutui%20fondiari.%20005U0592.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -48,7 +48,7 @@ Gli Istituti di credito fondiario sono autorizzati a sospendere nei Comuni compr
 
 ## Art. 3.
 
-Agli Istituti di credito fondiario potranno essere anticipate dello Stato, sui fondi e con le norme di cui ai [Regi decreti 18 agosto 1914, n. 827](../Regi%20decreti/Che%20autorizza%20il%20Governo%20a%20chiedere%20ai%20tre%20Istituti%20di%20credito%20una%20somministrazione%20di%20300%20milioni%20di%20lire.%20014U0827.md) e [23 maggio 1915, n. 718](../Regi%20decreti/Circa%20la%20sospensione%20di%20prescrizioni%20termini%20e%20decadenze%20e%20circa%20la%20legalizzazione%20di%20atti%20e%20redazione%20di%20procure%20per%20i%20militari%20e%20funzionari%20addetti%20allarmata%20di%20terra%20e%20di%20mare%20durante%20_dff4ec639c0c.md), le somme occorrenti per corrispondere gli interessi su una massa di cartelle corrispondente all'importo residuo al 31 dicembre 1917 dei mutui contemplati dal presente decreto e per provvedere al rimborso delle cartelle che saranno sorteggiate durante il periodo di proroga, in proporzione del detto importo.
+Agli Istituti di credito fondiario potranno essere anticipate dello Stato, sui fondi e con le norme di cui ai [Regi decreti 18 agosto 1914, n. 827](Che%20autorizza%20il%20Governo%20a%20chiedere%20ai%20tre%20Istituti%20di%20credito%20una%20somministrazione%20di%20300%20milioni%20di%20lire.%20014U0827.md) e [23 maggio 1915, n. 718](Circa%20la%20sospensione%20di%20prescrizioni%20termini%20e%20decadenze%20e%20circa%20la%20legalizzazione%20di%20atti%20e%20redazione%20di%20procure%20per%20i%20militari%20e%20funzionari%20addetti%20allarmata%20di%20terra%20e%20di%20mare%20durante%20_dff4ec639c0c.md), le somme occorrenti per corrispondere gli interessi su una massa di cartelle corrispondente all'importo residuo al 31 dicembre 1917 dei mutui contemplati dal presente decreto e per provvedere al rimborso delle cartelle che saranno sorteggiate durante il periodo di proroga, in proporzione del detto importo.
 
 ## Art. 4.
 

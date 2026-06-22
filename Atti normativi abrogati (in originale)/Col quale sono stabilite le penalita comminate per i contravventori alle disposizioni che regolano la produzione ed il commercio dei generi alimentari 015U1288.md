@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Chiunque contravviene agli ordini che l'autorita' competente ha pubblicato, anche prima dell'emanazione del presente decreto, per regolare la produzione ed il commercio dei generi alimentari, e' punito con l'arresto fino a due anni e con l'ammenda da lire cento a lire duemila, senza pregiudizio delle maggiori pene previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Chiunque contravviene agli ordini che l'autorita' competente ha pubblicato, anche prima dell'emanazione del presente decreto, per regolare la produzione ed il commercio dei generi alimentari, e' punito con l'arresto fino a due anni e con l'ammenda da lire cento a lire duemila, senza pregiudizio delle maggiori pene previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 

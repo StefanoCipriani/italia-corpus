@@ -22,7 +22,7 @@ Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%2
 
 Visto il testo unico delle leggi degli ufficiali ed agenti di pubblica sicurezza 31 agosto 1907, n. 690, ed il relativo [regolamento 20 agosto 1909, n. 666](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1909-08-20;666);
 
-Visto il [R. decreto 17 novembre 1932, n. 1595](../Regi%20decreti/Modificazioni%20allordinamento%20del%20personale%20di%20pubblica%20sicurezza.%20032U1595.md);
+Visto il [R. decreto 17 novembre 1932, n. 1595](Modificazioni%20allordinamento%20del%20personale%20di%20pubblica%20sicurezza.%20032U1595.md);
 
 Vista la [legge 26 gennaio 1942, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-26;39);
 

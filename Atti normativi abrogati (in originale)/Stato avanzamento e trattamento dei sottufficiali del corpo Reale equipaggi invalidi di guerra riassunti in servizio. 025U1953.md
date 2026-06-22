@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto il [decreto Luogotenenziale 26 agosto 1917, n. 1459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-26;1459), circa il mantenimento e la riassunzione in servizio di militari invalidi di guerra appartenenti alla Regia marina, convertito nella [legge 30 marzo 1922, n. 458](Che%20converte%20in%20legge%20il%20decreto%20Luogotenenziale%2026%20agosto%201917%20n.%201459%20circa%20il%20mantenimento%20e%20la%20riassunzione%20in%20servizio%20di%20militari%20invalidi%20di%20guerra%20appartenenti%20alla%20R.%20marina.%20022U0458.md);
 
-Visto il [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sulla riforma tecnico giuridica delle norme vigenti sulle pensioni di guerra;
+Visto il [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sulla riforma tecnico giuridica delle norme vigenti sulle pensioni di guerra;
 
-Visto il testo unico delle disposizioni legislative sull'ordinamento del corpo Reale equipaggi e lo stato giuridico dei sottufficiali della Regia marina approvato con [R. decreto 21 agosto 1924, n. 1525](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md);
+Visto il testo unico delle disposizioni legislative sull'ordinamento del corpo Reale equipaggi e lo stato giuridico dei sottufficiali della Regia marina approvato con [R. decreto 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -34,7 +34,7 @@ I sottufficiali della Regia marina invalidi o mutilati, mantenuti o riassunti in
 
 ## Art. 2.
 
-Al personale del ruolo dei sottufficiali invalidi della guerra riassunti in servizio sedentario sono applicate le disposizioni del testo unico sull'ordinamento del corpo Reale equipaggi e lo stato giuridico dei sottufficiali della Regia marina approvato con [R. decreto 21 agosto 1924, n. 1525](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), salvo le limitazioni previste dal presente decreto.
+Al personale del ruolo dei sottufficiali invalidi della guerra riassunti in servizio sedentario sono applicate le disposizioni del testo unico sull'ordinamento del corpo Reale equipaggi e lo stato giuridico dei sottufficiali della Regia marina approvato con [R. decreto 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), salvo le limitazioni previste dal presente decreto.
 
 ## Art. 3.
 
@@ -56,7 +56,7 @@ Ai sottufficiali invalidi riassunti in servizio sedentario, fino a che rimarrann
 
 ## Art. 5.
 
-Le disposizioni dell'[art. 22 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), si applicano anche ai sottufficiali invalidi riassunti in servizio sedentario, ma l'indennita' militare e' dovuta ai sottufficiali stessi nella stessa misura di quella spettante ai sottufficiali del servizio attivo.
+Le disposizioni dell'[art. 22 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), si applicano anche ai sottufficiali invalidi riassunti in servizio sedentario, ma l'indennita' militare e' dovuta ai sottufficiali stessi nella stessa misura di quella spettante ai sottufficiali del servizio attivo.
 
 ## Art. 6.
 

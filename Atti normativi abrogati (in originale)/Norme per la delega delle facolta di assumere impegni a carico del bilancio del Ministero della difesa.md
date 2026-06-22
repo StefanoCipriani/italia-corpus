@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico della Amministrazione dello Stato, e successive modificazioni;
+Visto il [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico della Amministrazione dello Stato, e successive modificazioni;
 
 Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), contenente le disposizioni sullo stato giuridico degli impiegati della Amministrazione dello Stato, e successive modificazioni;
 
@@ -76,7 +76,7 @@ I limiti di somma di cui all'art. 3 lettere a), b) e c) del presente decreto son
 
 ## Art. 7.
 
-Sono abrogati il regio decreto 17 agosto 1928, modificato con decreto del Capo provvisorio dello Stato luglio 1947, n. 1878, ed il [regio decreto 4 luglio 1935, n. 1466](../Regi%20decreti/Norme%20per%20le%20deleghe%20di%20firma.%20035U1466.md), nonche' il capo I del decreto interministeriale in data 4 marzo 1929 concernente "norme per la delega delle facolta' di assunzione di impegni a carico del bilancio della Marina e per la denuncia degli impegni medesimi".
+Sono abrogati il regio decreto 17 agosto 1928, modificato con decreto del Capo provvisorio dello Stato luglio 1947, n. 1878, ed il [regio decreto 4 luglio 1935, n. 1466](Norme%20per%20le%20deleghe%20di%20firma.%20035U1466.md), nonche' il capo I del decreto interministeriale in data 4 marzo 1929 concernente "norme per la delega delle facolta' di assunzione di impegni a carico del bilancio della Marina e per la denuncia degli impegni medesimi".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

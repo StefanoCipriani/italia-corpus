@@ -14,7 +14,7 @@ La Cassa delle pensioni civili e militari, creata con la [legge 7 aprile 1881, N
 
 ## Art. 2.
 
-A cominciare dal 1° luglio 1889 la spesa annua occorrente pel servizio delle pensioni vecchie, ai termini del [Regio decreto 1° novembre 1883, N. 1657](../Regi%20decreti/Che%20modifica%20il%20regolamento%20sulla%20cassa%20pensioni%20civili%20e%20militari%20a%20carico%20dello%20Stato.%20083U1657.md), sara' stanziata, in un capitolo separato, tra le spese effettive del bilancio del Ministero del Tesoro. 
+A cominciare dal 1° luglio 1889 la spesa annua occorrente pel servizio delle pensioni vecchie, ai termini del [Regio decreto 1° novembre 1883, N. 1657](Che%20modifica%20il%20regolamento%20sulla%20cassa%20pensioni%20civili%20e%20militari%20a%20carico%20dello%20Stato.%20083U1657.md), sara' stanziata, in un capitolo separato, tra le spese effettive del bilancio del Ministero del Tesoro. 
  
  Dal fondo di rendita consolidata 5 per cento che restera' alla Cassa delle pensioni civili e militari in conto pensioni vecchie al 30 giugno 1889 saranno prelevate 3,800,000 lire di rendita che verranno depositate alla Cassa dei depositi e prestiti in aggiunta al fondo a garanzia dei biglietti di Stato, di cui all'[art. 11 della legge 7 aprile 1881, N. 133](Che%20provvede%20per%20labolizione%20del%20corso%20forzoso%20081U0133.md). 
  

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto il Nostro decreto 28 settembre 1919, n. 1822, che sopprime il Comitato dei ricorsi penali istituito col [decreto Luogotenenziale 17 giugno 1917, n. 978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-06-17;978), e ne deferisce le attribuzioni alle Corti d'appello;
 
-Veduto il Nostro decreto 2 ottobre 1919 che nomina i componenti della sezione speciale presso la Corte di appello di Roma istituita con l'[art. 4 del R. decreto 28 settembre 1919, n. 1822](../Regi%20decreti/Che%20sopprime%20il%20collegio%20giurisdizionale%20speciale%20denominato%20Comitato%20dei%20ricorsi%20penali%20istituito%20col%20decreto%20Luogotenenziale%2017%20giugno%201917%20n.%20978%20e%20ne%20deferisce%20le%20attribuzioni%20alle%20Co_7034a157a229.md);
+Veduto il Nostro decreto 2 ottobre 1919 che nomina i componenti della sezione speciale presso la Corte di appello di Roma istituita con l'[art. 4 del R. decreto 28 settembre 1919, n. 1822](Che%20sopprime%20il%20collegio%20giurisdizionale%20speciale%20denominato%20Comitato%20dei%20ricorsi%20penali%20istituito%20col%20decreto%20Luogotenenziale%2017%20giugno%201917%20n.%20978%20e%20ne%20deferisce%20le%20attribuzioni%20alle%20Co_7034a157a229.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro ministro della giustizia e degli affari di culto, di c
 
 ## Art. 1.
 
-Il termine di cinque mesi fissato dall'[art. 4 del Regio decreto 28 settembre 1919, n. 1822, per la decisione](../Regi%20decreti/Che%20sopprime%20il%20collegio%20giurisdizionale%20speciale%20denominato%20Comitato%20dei%20ricorsi%20penali%20istituito%20col%20decreto%20Luogotenenziale%2017%20giugno%201917%20n.%20978%20e%20ne%20deferisce%20le%20attribuzioni%20alle%20Co_7034a157a229.md) dei ricorsi da parte della sezione speciale istituita temporaneamente presso la Corte d'appello di Roma dal decreto medesimo che scade alla data del 1° marzo 1920, e' prorogato di due mesi e il funzionamento della sezione speciale cessera' irrevocabilmente il 1° maggio 1920.
+Il termine di cinque mesi fissato dall'[art. 4 del Regio decreto 28 settembre 1919, n. 1822, per la decisione](Che%20sopprime%20il%20collegio%20giurisdizionale%20speciale%20denominato%20Comitato%20dei%20ricorsi%20penali%20istituito%20col%20decreto%20Luogotenenziale%2017%20giugno%201917%20n.%20978%20e%20ne%20deferisce%20le%20attribuzioni%20alle%20Co_7034a157a229.md) dei ricorsi da parte della sezione speciale istituita temporaneamente presso la Corte d'appello di Roma dal decreto medesimo che scade alla data del 1° marzo 1920, e' prorogato di due mesi e il funzionamento della sezione speciale cessera' irrevocabilmente il 1° maggio 1920.
 
 ## Art. 2.
 

@@ -26,7 +26,7 @@ concernente nuove norme sulla cessione delle valute estere allo Stato;
 
 Visto il [decreto legislativo 28 novembre 1947, n. 1347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-11-28;1347), relativo alle norme in materia di cessione di valute estere all'Ufficio italiano dei cambi;
 
-Visto il [decreto-legge 19 settembre 1949, n. 632](Modifiche%20alle%20norme%20riguardanti%20la%20negoziazione%20di%20valute%20estere.md), convertito nella [legge 4 novembre 1949, n. 830](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2019%20settembre%201949%20n.%20632%20adottato%20ai%20sensi%20dellart.%2077%20comma%20secondo%20della%20Costituzione%20e%20concernente%20modifiche%20in%20materia%20di%20norme%20riguardanti%20la%20n_37026dd95888.md), concernente le modifiche alle norme riguardanti la negoziazione di valute estere;
+Visto il [decreto-legge 19 settembre 1949, n. 632](Modifiche%20alle%20norme%20riguardanti%20la%20negoziazione%20di%20valute%20estere.md), convertito nella [legge 4 novembre 1949, n. 830](Conversione%20in%20legge%20del%20decreto-legge%2019%20settembre%201949%20n.%20632%20adottato%20ai%20sensi%20dellart.%2077%20comma%20secondo%20della%20Costituzione%20e%20concernente%20modifiche%20in%20materia%20di%20norme%20riguardanti%20la%20n_37026dd95888.md), concernente le modifiche alle norme riguardanti la negoziazione di valute estere;
 
 Ritenuta la straordinaria necessita' e l'urgenza di emanare nuove norme sulla negoziazione e la cessione di valute estere allo Stato;
 

@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il regolamento speciale per il personale dei telefoni approvato col [R. decreto 16 maggio 1912, numero 574](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md);
+Visto il regolamento speciale per il personale dei telefoni approvato col [R. decreto 16 maggio 1912, numero 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md);
 
-Viste le aggiunte e varianti al predetto regolamento approvato col [R. decreto 6 aprile 1913, n. 462](../Regi%20decreti/Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md);
+Viste le aggiunte e varianti al predetto regolamento approvato col [R. decreto 6 aprile 1913, n. 462](Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md);
 
-Visto il regolamento per la esecuzione della [legge 22 giugno 1913, n. 680](Concernente%20labolizione%20dei%20limiti%20per%20il%20matrimonio%20delle%20telefoniste%20013U0680.md), approvato col [R. decreto 20 dicembre 1914, n. 1449](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2022%20giugno%201913%20n.%20680%20sullabolizione%20dei%20limiti%20per%20il%20matrimonio%20delle%20telefoniste.%20014U1449.md);
+Visto il regolamento per la esecuzione della [legge 22 giugno 1913, n. 680](Concernente%20labolizione%20dei%20limiti%20per%20il%20matrimonio%20delle%20telefoniste%20013U0680.md), approvato col [R. decreto 20 dicembre 1914, n. 1449](Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2022%20giugno%201913%20n.%20680%20sullabolizione%20dei%20limiti%20per%20il%20matrimonio%20delle%20telefoniste.%20014U1449.md);
 
 Udito il Consiglio dei ministri;
 
@@ -112,7 +112,7 @@ Alle telefoniste ausiliarie con un anno almeno di servizio puo' essere accordato
  
  Nei casi di malattia sara' tollerato inoltre un periodo di assenza di 15 giorni complessivamente entro l'anno, pure senza perdita della retribuzione. 
  
- Nei casi di infortunio, si provvede ai sensi dell'[art. 74 del regolamento 16 maggio 1912, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1912-05-16;574#art_74), modificato dal [R. decreto 6 aprile 1913, n. 462](../Regi%20decreti/Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md).
+ Nei casi di infortunio, si provvede ai sensi dell'[art. 74 del regolamento 16 maggio 1912, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1912-05-16;574#art_74), modificato dal [R. decreto 6 aprile 1913, n. 462](Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md).
 
 ### Art. 6.
 
@@ -124,7 +124,7 @@ Alle telefoniste avventizie, assunte in servizio anteriormente alla data di pubb
 
 ### Art. 7.
 
-Le telefoniste avventizie di cui all'articolo precedente, che avranno optato per il passaggio in ruolo, conseguiranno tale passaggio, con decorrenza dalla data di pubblicazione del presente decreto e senza obbligo del biennio di fuori ruolo di cui all'[art. 79 del regolamento 16 maggio 1912, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1912-05-16;574#art_79), modificato dal [R. decreto 20 dicembre 1914, n. 1449](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2022%20giugno%201913%20n.%20680%20sullabolizione%20dei%20limiti%20per%20il%20matrimonio%20delle%20telefoniste.%20014U1449.md), purche' abbiano compiuto quattro anni di servizio: l'eccedenza su tale periodo sara' valida per abbreviare corrispondentemente il primo periodo normale di avanzamento. 
+Le telefoniste avventizie di cui all'articolo precedente, che avranno optato per il passaggio in ruolo, conseguiranno tale passaggio, con decorrenza dalla data di pubblicazione del presente decreto e senza obbligo del biennio di fuori ruolo di cui all'[art. 79 del regolamento 16 maggio 1912, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1912-05-16;574#art_79), modificato dal [R. decreto 20 dicembre 1914, n. 1449](Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2022%20giugno%201913%20n.%20680%20sullabolizione%20dei%20limiti%20per%20il%20matrimonio%20delle%20telefoniste.%20014U1449.md), purche' abbiano compiuto quattro anni di servizio: l'eccedenza su tale periodo sara' valida per abbreviare corrispondentemente il primo periodo normale di avanzamento. 
  
  Le altre conseguiranno il passaggio in ruolo al compiersi di eguale periodo, nel quale non e' computato il tempo eventualmente trascorso fuori servizio per causa diversa da congedo ordinario o da malattia. 
  

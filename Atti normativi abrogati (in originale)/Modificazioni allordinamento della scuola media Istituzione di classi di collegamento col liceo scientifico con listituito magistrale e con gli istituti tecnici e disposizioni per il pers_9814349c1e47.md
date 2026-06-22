@@ -20,7 +20,7 @@ Visto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allord
 
 Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
 
-Vista la [legge 22 aprile 1932, n. 490](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md), sul riordinamento della scuola secondaria di avviamento;
+Vista la [legge 22 aprile 1932, n. 490](Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md), sul riordinamento della scuola secondaria di avviamento;
 
 Vista la [legge 1° luglio 1940, n. 899](Istituzione%20della%20Scuola%20media.%20040U0899.md), istitutiva della scuola media;
 
@@ -96,11 +96,11 @@ La frequenza alle lezioni di educazione fisica e' obbligatoria. Il capo di istit
 
 ## Art. 11.
 
-E' abolita la facolta' di cui all'[art. 4 del R. decretolegge 21 novembre 1938, n. 2163](Norme%20per%20la%20nomina%20e%20le%20attribuzioni%20dei%20Regi%20provveditori%20agli%20studi%20e%20per%20listituzione%20del%20Consiglio%20provinciale%20delleducazione%20e%20del%20Consiglio%20di%20disciplina%20per%20gli%20insegnanti%20elementari.%20038U2163.md), di disporre il comando di personale direttivo e insegnante ai Regi provveditorati agli studi ai sensi dell'[art. 54, del R. decreto 27 novembre 1924 n. 2367](../Regi%20decreti/Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md), e sono revocati i comandi cosi' disposti.
+E' abolita la facolta' di cui all'[art. 4 del R. decretolegge 21 novembre 1938, n. 2163](Norme%20per%20la%20nomina%20e%20le%20attribuzioni%20dei%20Regi%20provveditori%20agli%20studi%20e%20per%20listituzione%20del%20Consiglio%20provinciale%20delleducazione%20e%20del%20Consiglio%20di%20disciplina%20per%20gli%20insegnanti%20elementari.%20038U2163.md), di disporre il comando di personale direttivo e insegnante ai Regi provveditorati agli studi ai sensi dell'[art. 54, del R. decreto 27 novembre 1924 n. 2367](Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md), e sono revocati i comandi cosi' disposti.
 
 ### Art. 12.
 
-E' sospeso l'obbligo del concorso speciale per l'assegnazione dei capi di istituto e degli insegnanti alle sedi di cui all'[art. 1 del R. decreto 17 agosto 1942, n. 1097](../Regi%20decreti/Norme%20riguardanti%20i%20concorsi%20speciali%20a%20cattedre%20e%20a%20posti%20di%20capo%20distituto%20gli%20obblighi%20di%20servizio%20degli%20insegnanti%20la%20prova%20e%20la%20retribuzione%20degli%20incaricati%20di%20puericultura.%20042U1097.md);
+E' sospeso l'obbligo del concorso speciale per l'assegnazione dei capi di istituto e degli insegnanti alle sedi di cui all'[art. 1 del R. decreto 17 agosto 1942, n. 1097](Norme%20riguardanti%20i%20concorsi%20speciali%20a%20cattedre%20e%20a%20posti%20di%20capo%20distituto%20gli%20obblighi%20di%20servizio%20degli%20insegnanti%20la%20prova%20e%20la%20retribuzione%20degli%20incaricati%20di%20puericultura.%20042U1097.md);
 
 ### Art. 13.
 

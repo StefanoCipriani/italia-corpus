@@ -24,7 +24,7 @@ Alla concessione dell'acconto sara' provveduto non appena pervengano al Minister
 
 ## Art. 3.
 
-Gli acconti di pensione, di cui all'art. 1, da corrispondersi a rate mensili posticipate, decorreranno dal giorno della cessazione dal servizio, del quale dovra' essere fatta esplicita menzione nei decreti di collocamento a riposo, giusta il disposto dell'[art. 4 del R. decreto 21 luglio 1911, n. 886](../Regi%20decreti/Che%20modifica%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20011U0886.md). 
+Gli acconti di pensione, di cui all'art. 1, da corrispondersi a rate mensili posticipate, decorreranno dal giorno della cessazione dal servizio, del quale dovra' essere fatta esplicita menzione nei decreti di collocamento a riposo, giusta il disposto dell'[art. 4 del R. decreto 21 luglio 1911, n. 886](Che%20modifica%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20011U0886.md). 
  
  La durata degli acconti non sara' superiore a mesi dodici, salvo eccezionale proroga in caso di giustificati motivi riconosciuti dall'Amministrazione; e, quanto alla misura, non potranno eccedere i due terzi della pensione presumibilmente dovuta.
 

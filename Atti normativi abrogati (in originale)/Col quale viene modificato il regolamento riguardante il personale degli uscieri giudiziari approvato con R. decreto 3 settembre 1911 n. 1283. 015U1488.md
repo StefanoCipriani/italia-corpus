@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli allegati B e C annessi al regolamento per la esecuzione della [legge 29 dicembre 1910, n. 887](Ordinamento%20della%20carriera%20degli%20uscieri%20presso%20gli%20uffici%20giudiziari%20ed%20inscrizione%20dei%20medesimi%20alla%20Cassa%20nazionale%20di%20previdenza.%20010U0887.md), riguardante il personale degli uscieri giudiziari, approvato con il [R. decreto 3 settembre 1911, n. 1283](../Regi%20decreti/Riguardante%20il%20personale%20degli%20uscieri%20giudiziari.%20011U1283.md), sono sostituiti gli allegati B e C uniti al presente decreto.
+Agli allegati B e C annessi al regolamento per la esecuzione della [legge 29 dicembre 1910, n. 887](Ordinamento%20della%20carriera%20degli%20uscieri%20presso%20gli%20uffici%20giudiziari%20ed%20inscrizione%20dei%20medesimi%20alla%20Cassa%20nazionale%20di%20previdenza.%20010U0887.md), riguardante il personale degli uscieri giudiziari, approvato con il [R. decreto 3 settembre 1911, n. 1283](Riguardante%20il%20personale%20degli%20uscieri%20giudiziari.%20011U1283.md), sono sostituiti gli allegati B e C uniti al presente decreto.
 
 ## Art. 2.
 
@@ -24,7 +24,7 @@ L'art. 1 del regolamento suaccennato e' modificato come segue:
 
 ## Art. 3.
 
-Gli uscieri giudiziari, nominati in virtu' delle disposizioni transitorie del regolamento approvato con [Regio decreto 3 settembre 1911, n. 1283](../Regi%20decreti/Riguardante%20il%20personale%20degli%20uscieri%20giudiziari.%20011U1283.md), i quali non abbiano usato della facolta' di domandare l'iscrizione alla Cassa nazionale di previdenza per la invalidita' e la vecchiaia degli operai col contributo dello Stato entro il termino stabilito dall'articolo 20 del suddetto regolamento, potranno richiedere tale iscrizione con decorrenza dal 1° gennaio 1915, mediante dichiarazione per iscritto, che essi dovranno presentare nelle cancellerie dagli uffici giudiziari a cui sono addetti, nel perentorio termine di giorni sessanta dalla pubblicazione del presente decreto nel Bollettino ufficiale del Ministero di grazia e giustizia e dei culti. 
+Gli uscieri giudiziari, nominati in virtu' delle disposizioni transitorie del regolamento approvato con [Regio decreto 3 settembre 1911, n. 1283](Riguardante%20il%20personale%20degli%20uscieri%20giudiziari.%20011U1283.md), i quali non abbiano usato della facolta' di domandare l'iscrizione alla Cassa nazionale di previdenza per la invalidita' e la vecchiaia degli operai col contributo dello Stato entro il termino stabilito dall'articolo 20 del suddetto regolamento, potranno richiedere tale iscrizione con decorrenza dal 1° gennaio 1915, mediante dichiarazione per iscritto, che essi dovranno presentare nelle cancellerie dagli uffici giudiziari a cui sono addetti, nel perentorio termine di giorni sessanta dalla pubblicazione del presente decreto nel Bollettino ufficiale del Ministero di grazia e giustizia e dei culti. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

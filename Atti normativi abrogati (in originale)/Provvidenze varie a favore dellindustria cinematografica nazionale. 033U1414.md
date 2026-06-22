@@ -100,7 +100,7 @@ Chiunque intenda produrre una pellicola nazionale ai sensi del presente decreto 
 
 La vigilanza per l'applicazione delle disposizioni contenente nell'art. 8 del presente decreto e' demandata ai prefetti del Regno, i quali, in caso di inosservanza, hanno facolta' di decretare la temporanea chiusura delle sale di proiezione, sentita l'Associazione sindacale competente. 
  
- Nei casi di recidiva, potranno altresi' revocare la licenza ai sensi e per gli effetti di cui all'art. 155 del regolamento per l'esecuzione del [testo unico delle leggi di P. S.](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [R. decreto 21 gennaio 1929, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-21;62).
+ Nei casi di recidiva, potranno altresi' revocare la licenza ai sensi e per gli effetti di cui all'art. 155 del regolamento per l'esecuzione del [testo unico delle leggi di P. S.](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [R. decreto 21 gennaio 1929, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-21;62).
 
 ## Art. 12.
 

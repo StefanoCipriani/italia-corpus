@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 24 luglio 1941, n. 781](Sospensione%20per%20la%20durata%20della%20guerra%20della%20celebrazione%20delle%20feste%20nazionali%20dei%20giorni%20festivi%20e%20delle%20solennita%20previsti%20dalle%20vigenti%20disposizioni.%20041U0781.md) convertito nella [legge 17 ottobre 1941, n. 1165](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20luglio%201941-XIX%20n.%20781%20concernente%20la%20sospensione%20per%20la%20durata%20della%20guerra%20della%20celebrazione%20delle%20feste%20nazionali%20dei%20giorni%20festivi%20e%20del_9b41a95080fc.md);
+Visto il [regio decreto-legge 24 luglio 1941, n. 781](Sospensione%20per%20la%20durata%20della%20guerra%20della%20celebrazione%20delle%20feste%20nazionali%20dei%20giorni%20festivi%20e%20delle%20solennita%20previsti%20dalle%20vigenti%20disposizioni.%20041U0781.md) convertito nella [legge 17 ottobre 1941, n. 1165](Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20luglio%201941-XIX%20n.%20781%20concernente%20la%20sospensione%20per%20la%20durata%20della%20guerra%20della%20celebrazione%20delle%20feste%20nazionali%20dei%20giorni%20festivi%20e%20del_9b41a95080fc.md);
 
 Visto il [decreto legislativo luogotenenziale 22 aprile 1946, n. 185](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20in%20materia%20di%20ricorrenze%20festive.md);
 
@@ -30,7 +30,7 @@ A celebrazione del secondo anniversario della totale liberazione del territorio 
 
 ## Art. 2.
 
-L'efficacia del [regio decreto-legge 24 luglio 1941, numero 781](Sospensione%20per%20la%20durata%20della%20guerra%20della%20celebrazione%20delle%20feste%20nazionali%20dei%20giorni%20festivi%20e%20delle%20solennita%20previsti%20dalle%20vigenti%20disposizioni.%20041U0781.md), convertito nella [legge 17 ottobre 1941, n. 1165](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20luglio%201941-XIX%20n.%20781%20concernente%20la%20sospensione%20per%20la%20durata%20della%20guerra%20della%20celebrazione%20delle%20feste%20nazionali%20dei%20giorni%20festivi%20e%20del_9b41a95080fc.md), e' ulteriormente prorogata sino al 15 ottobre 1947.
+L'efficacia del [regio decreto-legge 24 luglio 1941, numero 781](Sospensione%20per%20la%20durata%20della%20guerra%20della%20celebrazione%20delle%20feste%20nazionali%20dei%20giorni%20festivi%20e%20delle%20solennita%20previsti%20dalle%20vigenti%20disposizioni.%20041U0781.md), convertito nella [legge 17 ottobre 1941, n. 1165](Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20luglio%201941-XIX%20n.%20781%20concernente%20la%20sospensione%20per%20la%20durata%20della%20guerra%20della%20celebrazione%20delle%20feste%20nazionali%20dei%20giorni%20festivi%20e%20del_9b41a95080fc.md), e' ulteriormente prorogata sino al 15 ottobre 1947.
 
 ## Art. 3.
 

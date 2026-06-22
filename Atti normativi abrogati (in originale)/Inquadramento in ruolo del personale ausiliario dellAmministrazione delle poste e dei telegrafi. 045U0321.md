@@ -20,13 +20,13 @@ Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.norm
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md), recante nuove norme sulla emanazione, promulgazione e pubblicazione di decreti Luogotenenziali e di altri provvedimenti;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, concernente l'ordinamento gerarchico delle Amministrazioni dello Stato;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, concernente l'ordinamento gerarchico delle Amministrazioni dello Stato;
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni, che reca le disposizioni sullo stato giuridico degli impiegati civili delle Amministrazioni dello Stato;
 
-Visto l'ordinamento del personale dell'Amministrazione delle poste e dei telegrafi approvato con [R. decreto 15 agosto 1926, n. 1733](../Regi%20decreti/Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md);
+Visto l'ordinamento del personale dell'Amministrazione delle poste e dei telegrafi approvato con [R. decreto 15 agosto 1926, n. 1733](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md);
 
-Visto il [R. decreto 17 settembre 1931, n. 1345](../Regi%20decreti/Nuove%20tabelle%20organiche%20del%20personale%20postale%20e%20telegrafico.%20031U1345.md), che reca le tabelle del personale con contratto a termine e le successive modificazioni di cui al [R. decreto-legge 19 dicembre 1936, n. 2252](Modificazioni%20alle%20tabelle%20organiche%20del%20personale%20di%202ª%20e%203ª%20categoria%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20e%20istituzione%20di%20un%20ruolo%20speciale%20tecnico%20per%20il%20personale%20delle_6a142e7a82b9.md), convertito nella [legge 3 giugno 1937, n. 999](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2019%20dicembre%201936-XV%20n.%202252%20recante%20modificazioni%20alle%20tabelle%20organiche%20del%20personale%20di%20seconda%20e%20terza%20categoria%20dellAmministrazione%20delle%20_22960651bc7f.md), e alla [legge 18 aprile 1940, n. 288](Modificazioni%20allordinamento%20del%20personale%20postale%20e%20telegrafico.%20040U0288.md);
+Visto il [R. decreto 17 settembre 1931, n. 1345](Nuove%20tabelle%20organiche%20del%20personale%20postale%20e%20telegrafico.%20031U1345.md), che reca le tabelle del personale con contratto a termine e le successive modificazioni di cui al [R. decreto-legge 19 dicembre 1936, n. 2252](Modificazioni%20alle%20tabelle%20organiche%20del%20personale%20di%202ª%20e%203ª%20categoria%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20e%20istituzione%20di%20un%20ruolo%20speciale%20tecnico%20per%20il%20personale%20delle_6a142e7a82b9.md), convertito nella [legge 3 giugno 1937, n. 999](Conversione%20in%20legge%20del%20Regio%20decreto-legge%2019%20dicembre%201936-XV%20n.%202252%20recante%20modificazioni%20alle%20tabelle%20organiche%20del%20personale%20di%20seconda%20e%20terza%20categoria%20dellAmministrazione%20delle%20_22960651bc7f.md), e alla [legge 18 aprile 1940, n. 288](Modificazioni%20allordinamento%20del%20personale%20postale%20e%20telegrafico.%20040U0288.md);
 
 Ritenuta la necessita' di provvedere alla sistemazione del personale ausiliario a contratto a termine in servizio presso l'Amministrazione delle poste e dei telegrafi;
 
@@ -36,7 +36,7 @@ Sulla proposta del Ministro per le poste e per le telecomunicazioni, di concerto
 
 ## Art. 1.
 
-I posti del personale ausiliario con contratto a termine di cui all'allegato 2 del [R. decreto 17 settembre 1931, n. 1345](../Regi%20decreti/Nuove%20tabelle%20organiche%20del%20personale%20postale%20e%20telegrafico.%20031U1345.md), e successive modificazioni, sono soppressi.
+I posti del personale ausiliario con contratto a termine di cui all'allegato 2 del [R. decreto 17 settembre 1931, n. 1345](Nuove%20tabelle%20organiche%20del%20personale%20postale%20e%20telegrafico.%20031U1345.md), e successive modificazioni, sono soppressi.
 
 ## Art. 2.
 

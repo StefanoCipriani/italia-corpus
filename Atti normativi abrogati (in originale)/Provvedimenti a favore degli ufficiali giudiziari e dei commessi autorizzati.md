@@ -10,19 +10,19 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo organico dell'ordinamento del personale degli ufficiali giudiziari, approvato con [regio decreto 28 dicembre 1924, n. 2271](../Regi%20decreti/Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md), e l'allegato n. 2;
+Visto il testo organico dell'ordinamento del personale degli ufficiali giudiziari, approvato con [regio decreto 28 dicembre 1924, n. 2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md), e l'allegato n. 2;
 
-Visto il [regio decreto-legge 19 aprile 1934, n. 698](Modifiche%20allordinamento%20degli%20ufficiali%20giudiziari%20e%20degli%20uscieri%20giudiziari.%20034U0698.md), convertito nella, [legge 4 giugno 1934, n. 900](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%2019%20aprile%201934%20n.%20698%20contenente%20modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari%20e%20degli%20uscieri%20giudiziari.%20034U0900.md);
+Visto il [regio decreto-legge 19 aprile 1934, n. 698](Modifiche%20allordinamento%20degli%20ufficiali%20giudiziari%20e%20degli%20uscieri%20giudiziari.%20034U0698.md), convertito nella, [legge 4 giugno 1934, n. 900](Conversione%20in%20legge%20del%20R.%20decreto%20legge%2019%20aprile%201934%20n.%20698%20contenente%20modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari%20e%20degli%20uscieri%20giudiziari.%20034U0900.md);
 
 Vista la [legge 25 giugno 1940, n. 828](Provvedimenti%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi.%20040U0828.md);
 
 Vista la [legge 22 maggio 1942, n. 703](Provvedimenti%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi.%20042U0703.md);
 
-Visto il [decreto legislativo luogotenenziale 11 gennaio 1945, n. 3](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0003.md);
+Visto il [decreto legislativo luogotenenziale 11 gennaio 1945, n. 3](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0003.md);
 
-Visto il [decreto legislativo luogotenenziale 14 settembre 1945, n. 699](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0699.md);
+Visto il [decreto legislativo luogotenenziale 14 settembre 1945, n. 699](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0699.md);
 
-Visto il [decreto legislativo luogotenenziale 29 marzo 1946, n. 176](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi%20autorizzati.md).
+Visto il [decreto legislativo luogotenenziale 29 marzo 1946, n. 176](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi%20autorizzati.md).
 
 Visto il [regio decreto legislativo 29 maggio 1946, numero 488](../Regi%20decreti%20legislativi/Modificazioni%20delle%20disposizioni%20vigenti%20per%20la%20liquidazione%20della%20indennita%20di%20carovita%20e%20per%20la%20concessione%20dellindennita%20ai%20dipendenti%20statali%20residenti%20in%20Comuni%20distrutti%20o%20gravement_f04ea74b5da4.md);
 
@@ -44,21 +44,21 @@ Negli uffici ai quali sono addetti due o piu' ufficiali giudiziari, il primo pre
 
 ## Art. 2.
 
-La retribuzione minima, garantita agli ufficiali giudiziari a norma dell'[art. 1 del decreto legislativo luogotenenziale 29 marzo 1946, n. 176](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi%20autorizzati.md), e' aumentata del 70%.
+La retribuzione minima, garantita agli ufficiali giudiziari a norma dell'[art. 1 del decreto legislativo luogotenenziale 29 marzo 1946, n. 176](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi%20autorizzati.md), e' aumentata del 70%.
 
 ## Art. 3.
 
-Le somme indicate nell'[art. 3 del decreto legislativo luogotenenziale 29 marzo 1946, n. 176](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi%20autorizzati.md), ai fini del versamento all'Erario del 50% e del 70% dei proventi riscossi dagli ufficiali giudiziari sono aumentate del 70%.
+Le somme indicate nell'[art. 3 del decreto legislativo luogotenenziale 29 marzo 1946, n. 176](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi%20autorizzati.md), ai fini del versamento all'Erario del 50% e del 70% dei proventi riscossi dagli ufficiali giudiziari sono aumentate del 70%.
 
 ## Art. 4.
 
-Il diritto di accesso istituito con l'[art. 1 del regio decreto-legge 19 aprile 1934, n. 698](Modifiche%20allordinamento%20degli%20ufficiali%20giudiziari%20e%20degli%20uscieri%20giudiziari.%20034U0698.md), convertito nella [legge 4 giugno 1934, n. 900](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%2019%20aprile%201934%20n.%20698%20contenente%20modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari%20e%20degli%20uscieri%20giudiziari.%20034U0900.md), e' dovuto agli ufficiali giudiziari anche per gli atti di protesto cambiario e per quelli in materia penale, nella misura stabilita per gli atti in materia civile.
+Il diritto di accesso istituito con l'[art. 1 del regio decreto-legge 19 aprile 1934, n. 698](Modifiche%20allordinamento%20degli%20ufficiali%20giudiziari%20e%20degli%20uscieri%20giudiziari.%20034U0698.md), convertito nella [legge 4 giugno 1934, n. 900](Conversione%20in%20legge%20del%20R.%20decreto%20legge%2019%20aprile%201934%20n.%20698%20contenente%20modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari%20e%20degli%20uscieri%20giudiziari.%20034U0900.md), e' dovuto agli ufficiali giudiziari anche per gli atti di protesto cambiario e per quelli in materia penale, nella misura stabilita per gli atti in materia civile.
  L'aumento dei diritti di cui all'art. 288 della tariffa civile si applica anche alla indennita' di trasferta ed al diritto di accesso.
 
 ## Art. 5.
 
 Con effetto dal 16 dicembre 1946 agli ufficiali giudiziari e' concessa a titolo di gratificazione, una tredicesima indennita' mensile di carovita, escluse le quote complementari, da corrispondersi, con le modalita' stabilite per la liquidazione delle indennita' supplementari, alla data del 16 dicembre di ogni anno.
- Alla, stessa data e con la medesima decorrenza, gli ufficiali giudiziari debbono corrispondere ai commessi autorizzati da loro dipendenti, a titolo di gratificazione e salvo rimborso da parte dell'Erario con le modalita' di cui al comma precedente, una tredicesima mensilita' della indennita' di carovita di cui i commessi fruiscono ai sensi dell'[art. 5 del decreto legislativo luogotenenziale 29 marzo 1946, n. 176](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi%20autorizzati.md).
+ Alla, stessa data e con la medesima decorrenza, gli ufficiali giudiziari debbono corrispondere ai commessi autorizzati da loro dipendenti, a titolo di gratificazione e salvo rimborso da parte dell'Erario con le modalita' di cui al comma precedente, una tredicesima mensilita' della indennita' di carovita di cui i commessi fruiscono ai sensi dell'[art. 5 del decreto legislativo luogotenenziale 29 marzo 1946, n. 176](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi%20autorizzati.md).
  Si applicano, in quanto compatibili con le precedenti disposizioni, le norme di cui all'[art. 7 del decreto legislativo del Capo provvisorio dello Stato 25 ottobre 1946, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-25;263#art_7).
 
 ## Art. 6.
@@ -67,7 +67,7 @@ A decorrere dal 1° gennaio 1947 gli ufficiali giudiziari debbono corrispondere 
 
 ## Art. 7.
 
-All'[art. 2 del decreto legislativo luogotenenziale 29 marzo 1946, n. 176](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi%20autorizzati.md), e' sostituito il seguente:
+All'[art. 2 del decreto legislativo luogotenenziale 29 marzo 1946, n. 176](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi%20autorizzati.md), e' sostituito il seguente:
  "Tutti i diritti, compresi quelli di accesso e le indennita' di trasferta, stabiliti per gli atti compiuti dagli ufficiali giudiziari in materia civile e penale secondo le norme in vigore al 30 settembre 1945, sono aumentati del 60%.
  Per gli atti a pagamento in materia civile e penale i richiedenti, in aggiunta ai diritti ed alle indennita' che sono tenuti ad anticipare, debbono corrispondere la somma fissa di L. 20 per ogni originale. Detta somma, da devolversi a favore dell'Erario, sara' corrisposta nei modi e con le sanzioni in vigore per le tasse di quietanza, mediante applicazione di marche del valore corrispondente da farsi a cura degli ufficiali giudiziari sull'originale degli atti".
 

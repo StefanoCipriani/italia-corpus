@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 30 agosto 1914, n. 919](../Regi%20decreti/Concernente%20le%20norme%20per%20stabilire%20il%20corso%20medio%20ufficiale%20dei%20cambi.%20014U0919.md), concernente l'accertamento del corso dei cambi durante la chiusura delle Borse. 
+ E' convertito in legge il [R. decreto 30 agosto 1914, n. 919](Concernente%20le%20norme%20per%20stabilire%20il%20corso%20medio%20ufficiale%20dei%20cambi.%20014U0919.md), concernente l'accertamento del corso dei cambi durante la chiusura delle Borse. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

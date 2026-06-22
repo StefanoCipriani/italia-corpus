@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Veduta la tabella delle circoscrizioni elettorali, annessa al testo unico sopracitato; 
  
- Visto il [Regio decreto 5 giugno 1913, n. 901](../Regi%20decreti/Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20Comuni%20della%20provincia%20di%20Brescia.%20013U0901.md), col quale gli elettori politici del comune di Barco, nel collegio di Verolanova, vennero aggregati alla sezione A di Orzinuovi; 
+ Visto il [Regio decreto 5 giugno 1913, n. 901](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20Comuni%20della%20provincia%20di%20Brescia.%20013U0901.md), col quale gli elettori politici del comune di Barco, nel collegio di Verolanova, vennero aggregati alla sezione A di Orzinuovi; 
  
  Vista la deliberazione della Commissione elettorale del comune di Barco, che approva la nuova lista per l'anno 1915, nel numero di 107 elettori, e chiede che questi vengano costituiti in sezione autonoma; 
  
@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- E' revocato il citato [R. decreto 5 giugno 1913, n. 901](../Regi%20decreti/Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20Comuni%20della%20provincia%20di%20Brescia.%20013U0901.md), in quanto esso disponeva che gli elettori del comune di Barco, nel collegio politico di Verolanuova, venissero aggregati alla sezione A del comune di Orzinuovi. Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ E' revocato il citato [R. decreto 5 giugno 1913, n. 901](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20Comuni%20della%20provincia%20di%20Brescia.%20013U0901.md), in quanto esso disponeva che gli elettori del comune di Barco, nel collegio politico di Verolanuova, venissero aggregati alla sezione A del comune di Orzinuovi. Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  
  Dato a Roma, addi' 19 agosto 1915. 
  

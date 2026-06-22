@@ -54,15 +54,15 @@ Alla Scuola d'ingegneria aeronautica possono essere inscritti, quali studenti, c
 
 Sono assegnati alla Scuola per i propri insegnamenti 4 posti di professore, che ne costituiscono il ruolo organico. 
  
- Tali posti vengono aggiunti a quelli previsti dai ruoli stabiliti dalla tabella D annessa al [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
+ Tali posti vengono aggiunti a quelli previsti dai ruoli stabiliti dalla tabella D annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
  
- Il numero complessivo dei posti di professore delle universita' e degli istituti superiori di cui alla tabella n. 31 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, e' in conseguenza elevato a 764.
+ Il numero complessivo dei posti di professore delle universita' e degli istituti superiori di cui alla tabella n. 31 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, e' in conseguenza elevato a 764.
 
 ## Art. 5.
 
 Per coprire i posti di professore di ruolo di cui al precedente articolo il Ministro per la pubblica istruzione potra', fino al 31 dicembre 1926: 
  
- a) trasferire, previo consenso, professori di qualsiasi universita' o istituto superiore di grado universitario per l'insegnamento della materia di cui sono titolari o di altra materia, prescindendo dalle disposizioni di cui all'[art. 20 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e successive modificazioni; 
+ a) trasferire, previo consenso, professori di qualsiasi universita' o istituto superiore di grado universitario per l'insegnamento della materia di cui sono titolari o di altra materia, prescindendo dalle disposizioni di cui all'[art. 20 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e successive modificazioni; 
  
  b) nominare persone non appartenenti ai ruoli dei professori di universita' o istituti superiori, le quali per opere, scoperte o insegnamenti siano venute in si' alta fama di singolare perizia nella materia che dovrebbero professare da essere considerate maestri insigni della materia medesima. In tal caso occorrera' il parere favorevole del Consiglio superiore della pubblica istruzione, reso col voto di due terzi almeno dei suoi componenti.
 
@@ -70,7 +70,7 @@ Per coprire i posti di professore di ruolo di cui al precedente articolo il Mini
 
 A decorrere dall'esercizio finanziario 1926-27, il Ministero dell'aeronautica corrispondera' alla Regia scuola d'ingegneria di Roma un annuo contributo di L. 150,000, il cui ammontare fara' carico sulle annuali assegnazioni accordate allo stesso Ministero. 
  
- Tale contributo sara' corrisposto in aggiunta al contributo statale dovuto alla Regia scuola d'ingegneria di Roma, a norma dell'[art. 161 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
+ Tale contributo sara' corrisposto in aggiunta al contributo statale dovuto alla Regia scuola d'ingegneria di Roma, a norma dell'[art. 161 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
 
 ## Art. 7.
 

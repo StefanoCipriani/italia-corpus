@@ -34,7 +34,7 @@ Sulla proposta del ministro segretario di Stato per i lavori pubblici, di concer
 
 ## Articolo unico.
 
-All'ultimo comma dell'art. 35 del regolamento per i veicoli a trazione meccanica, senza guida di rotaie, approvato con [R. decreto 2 luglio 1914, n. 811](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20i%20veicoli%20a%20trazione%20meccanica%20senza%20guida%20di%20rotaie%20014U0811.md), e' portata la seguente aggiunta: 
+All'ultimo comma dell'art. 35 del regolamento per i veicoli a trazione meccanica, senza guida di rotaie, approvato con [R. decreto 2 luglio 1914, n. 811](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20i%20veicoli%20a%20trazione%20meccanica%20senza%20guida%20di%20rotaie%20014U0811.md), e' portata la seguente aggiunta: 
  
  «I candidati, che siano stati rimandati due volte nello stesso anno, potranno pero' essere ammessi all'esame ordinario ed all'esame di riparazione, presso una scuola conducenti riconosciuta dallo Stato, per una volta ancora nell'anno, qualora dimostrino di avere seguiti i corsi di insegnamento, con assiduita', dopo il secondo esame, e sempre che sieno decorsi almeno due mesi dall'esame stesso». 
  

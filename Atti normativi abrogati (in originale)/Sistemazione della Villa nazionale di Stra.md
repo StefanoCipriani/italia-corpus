@@ -12,11 +12,11 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 23 giugno 1938, n. 1110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-06-23;1110);
 
-Visto il regolamento approvato con il [regio decreto 8 giugno 1933, n. 889](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lingresso%20ai%20monumenti%20ai%20musei%20alle%20gallerie%20ed%20agli%20scavi%20di%20antichita%20dello%20Stato.%20033U0889.md);
+Visto il regolamento approvato con il [regio decreto 8 giugno 1933, n. 889](Approvazione%20del%20regolamento%20per%20lingresso%20ai%20monumenti%20ai%20musei%20alle%20gallerie%20ed%20agli%20scavi%20di%20antichita%20dello%20Stato.%20033U0889.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 12 ottobre 1945, n. 781](../Decreti%20legislativi%20luogotenenziali/Aumento%20della%20tassa%20dingresso%20per%20la%20visita%20ai%20musei%20alle%20gallerie%20ai%20monumenti%20ed%20agli%20scavi%20archeologici%20dello%20Stato.%20045U0781.md);
+Visto il [decreto legislativo luogotenenziale 12 ottobre 1945, n. 781](Aumento%20della%20tassa%20dingresso%20per%20la%20visita%20ai%20musei%20alle%20gallerie%20ai%20monumenti%20ed%20agli%20scavi%20archeologici%20dello%20Stato.%20045U0781.md);
 
 Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 

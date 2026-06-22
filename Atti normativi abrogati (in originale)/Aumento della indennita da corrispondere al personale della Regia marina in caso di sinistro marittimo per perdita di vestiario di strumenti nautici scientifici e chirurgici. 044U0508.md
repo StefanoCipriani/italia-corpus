@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita a Noi delegata;
 
-Visto il [R. decreto 3 ottobre 1941, n. 1233](../Regi%20decreti/Indennita%20da%20corrispondere%20al%20personale%20della%20Regia%20marina%20in%20caso%20di%20sinistro%20marittimo%20per%20perdita%20di%20vestiario%20di%20strumenti%20nautici%20scientifici%20e%20chirurgici.%20041U1233.md), relativo alla indennita' da corrispondere al personale della Regia marina in caso di sinistro marittimo per perdita di vestiario, di strumenti nautici, scientifici o chirurgici;
+Visto il [R. decreto 3 ottobre 1941, n. 1233](Indennita%20da%20corrispondere%20al%20personale%20della%20Regia%20marina%20in%20caso%20di%20sinistro%20marittimo%20per%20perdita%20di%20vestiario%20di%20strumenti%20nautici%20scientifici%20e%20chirurgici.%20041U1233.md), relativo alla indennita' da corrispondere al personale della Regia marina in caso di sinistro marittimo per perdita di vestiario, di strumenti nautici, scientifici o chirurgici;
 
 Visto il [decreto-legge 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1943-10-30;2);
 
@@ -30,11 +30,11 @@ Sulla proposta del Ministro per la marina, di concerto col Ministro per il tesor
 
 ## Art. 1.
 
-La tabella allegata al [R. decreto 3 ottobre 1941, n. 1233](../Regi%20decreti/Indennita%20da%20corrispondere%20al%20personale%20della%20Regia%20marina%20in%20caso%20di%20sinistro%20marittimo%20per%20perdita%20di%20vestiario%20di%20strumenti%20nautici%20scientifici%20e%20chirurgici.%20041U1233.md), e' abrogata e sostituita da quella annessa al presente decreto, firmata dal Ministro per la marina e da quello per il tesoro.
+La tabella allegata al [R. decreto 3 ottobre 1941, n. 1233](Indennita%20da%20corrispondere%20al%20personale%20della%20Regia%20marina%20in%20caso%20di%20sinistro%20marittimo%20per%20perdita%20di%20vestiario%20di%20strumenti%20nautici%20scientifici%20e%20chirurgici.%20041U1233.md), e' abrogata e sostituita da quella annessa al presente decreto, firmata dal Ministro per la marina e da quello per il tesoro.
 
 ## Art. 2.
 
-Alle indennita' previste dalla tabella di cui al precedente articolo non sono applicabili le riduzioni del 12% previste dai [Regi decreti-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e [14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561), convertiti rispettivamente nelle [leggi 6 gennaio 1931, n. 18, e 14 giugno 1934, n. 1038](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20aprile%201934%20n.%20561%20recante%20riduzione%20degli%20stipendi%20ed%20altre%20competenze%20del%20personale%20dipendente%20dallo%20Stato%20e%20dagli%20Enti%20locali%20e%20parastatali.%20034U1038.md).
+Alle indennita' previste dalla tabella di cui al precedente articolo non sono applicabili le riduzioni del 12% previste dai [Regi decreti-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e [14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561), convertiti rispettivamente nelle [leggi 6 gennaio 1931, n. 18, e 14 giugno 1934, n. 1038](Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20aprile%201934%20n.%20561%20recante%20riduzione%20degli%20stipendi%20ed%20altre%20competenze%20del%20personale%20dipendente%20dallo%20Stato%20e%20dagli%20Enti%20locali%20e%20parastatali.%20034U1038.md).
 
 ## Art. 3.
 

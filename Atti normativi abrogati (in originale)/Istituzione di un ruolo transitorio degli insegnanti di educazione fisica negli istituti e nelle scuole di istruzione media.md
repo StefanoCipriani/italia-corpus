@@ -14,13 +14,13 @@ Visto il [regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20all
 
 Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
 
-Vista la [legge 22 aprile 1932, n. 490](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md);
+Vista la [legge 22 aprile 1932, n. 490](Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md);
 
 Vista la [legge 1° luglio 1940, n. 899](Istituzione%20della%20Scuola%20media.%20040U0899.md);
 
 Visto il [regio decreto-legge 24 aprile 1935, n. 565](Limiti%20di%20eta%20pel%20collocamento%20a%20riposo%20del%20personale%20direttivo%20ed%20insegnante%20degli%20istituti%20distruzione.%20035U0565.md);
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+Visto il [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Visto il [regio decreto-legge 29 novembre 1925, n. 2220](Carriera%20dei%20professori%20dei%20Regi%20istituti%20medi%20distruzione.%20025U2220.md);
 

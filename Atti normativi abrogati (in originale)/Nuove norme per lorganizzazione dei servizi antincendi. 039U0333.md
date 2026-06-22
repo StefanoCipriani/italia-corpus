@@ -134,7 +134,7 @@ Gli ufficiali permanenti cessano dal servizio e sono collocati a riposo di uffic
  Ufficiali di 4ª e di 5ª classe . . . . . . . . » 53.
 
  
- Per il trattamento di quiescenza, ordinario e privilegiato, degli ufficiali permanenti valgono le norme in vigore per gli ufficiali dell'Arma dei Reali carabinieri. La liquidazione della pensione e' effettuata in base alle aliquote stabilite dall'[art. 8 del R. decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), modificato dall'art. 6 del decreto 30 novembre 1923, n. 2835, ed alle colonne 4 e 5 della tabella A annessa al [R. decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), per il grado gerarchico equiparato dei Corpi ivi indicati.
+ Per il trattamento di quiescenza, ordinario e privilegiato, degli ufficiali permanenti valgono le norme in vigore per gli ufficiali dell'Arma dei Reali carabinieri. La liquidazione della pensione e' effettuata in base alle aliquote stabilite dall'[art. 8 del R. decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), modificato dall'art. 6 del decreto 30 novembre 1923, n. 2835, ed alle colonne 4 e 5 della tabella A annessa al [R. decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), per il grado gerarchico equiparato dei Corpi ivi indicati.
 
 ### Art. 13.
 

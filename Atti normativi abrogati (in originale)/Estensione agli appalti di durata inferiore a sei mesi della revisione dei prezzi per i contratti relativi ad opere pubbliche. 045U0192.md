@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 21 giugno 1938, n. 1296](Norme%20sulla%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20038U1296.md), contenente norme sulla revisione dei prezzi contrattuali relativi ad opere pubbliche, convertito nella [legge 19 gennaio 1939, n. 392](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20giugno%201938-XVI%20n.%201296%20riguardante%20la%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20039U0392.md), modificato con le [leggi 9 luglio 1940, n. 1137, 19 gennaio 1942, n. 142, e 18 ottobre 1942, n. 1435](Modifica%20della%20composizione%20della%20Commissione%20per%20lesame%20dei%20ricorsi%20in%20materia%20di%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20042U1435.md);
+Visto il [R. decreto-legge 21 giugno 1938, n. 1296](Norme%20sulla%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20038U1296.md), contenente norme sulla revisione dei prezzi contrattuali relativi ad opere pubbliche, convertito nella [legge 19 gennaio 1939, n. 392](Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20giugno%201938-XVI%20n.%201296%20riguardante%20la%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20039U0392.md), modificato con le [leggi 9 luglio 1940, n. 1137, 19 gennaio 1942, n. 142, e 18 ottobre 1942, n. 1435](Modifica%20della%20composizione%20della%20Commissione%20per%20lesame%20dei%20ricorsi%20in%20materia%20di%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20042U1435.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -34,7 +34,7 @@ La disposizione dell'articolo precedente si applica ai lavori appaltati dopo il 
 
 ## Art. 3.
 
-Restano ferme tutte le altre disposizioni del [Regio decreto-legge 21 giugno 1938, n. 1296](Norme%20sulla%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20038U1296.md), convertito nella [legge 19 gennaio 1939, n. 392](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20giugno%201938-XVI%20n.%201296%20riguardante%20la%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20039U0392.md), e successive modificazioni.
+Restano ferme tutte le altre disposizioni del [Regio decreto-legge 21 giugno 1938, n. 1296](Norme%20sulla%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20038U1296.md), convertito nella [legge 19 gennaio 1939, n. 392](Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20giugno%201938-XVI%20n.%201296%20riguardante%20la%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20039U0392.md), e successive modificazioni.
 
 ## Art. 4.
 

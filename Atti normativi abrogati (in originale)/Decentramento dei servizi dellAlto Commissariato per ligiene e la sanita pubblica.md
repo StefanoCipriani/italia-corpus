@@ -14,7 +14,7 @@ Viste le [leggi 11 marzo 1953, n. 150, e 18 giugno 1954, n. 3-13](https://www.no
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Udito il parere della Commissione consultiva istituita con l'[art. 2 della legge 11 marzo 1953, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20dinteresse%20esclusivamente%20locale%20alle%20Province%20ai%20Comuni%20e%20ad%20altri%20Enti%20locali%20e%20per%20lattuazione%20del%20decentramento%20amministrativo.md);
+Udito il parere della Commissione consultiva istituita con l'[art. 2 della legge 11 marzo 1953, n. 150](Delega%20legislativa%20al%20Governo%20per%20lattribuzione%20di%20funzioni%20statali%20dinteresse%20esclusivamente%20locale%20alle%20Province%20ai%20Comuni%20e%20ad%20altri%20Enti%20locali%20e%20per%20lattuazione%20del%20decentramento%20amministrativo.md);
 
 Udito il parere della Corte dei conti a sezioni riunite;
 
@@ -207,7 +207,7 @@ L'[art. 263 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione
 ## Art. 29.
 
 I quattro quinti del fondo annualmente stanziato nel bilancio dell'Alto Commissariato per l'igiene e la sanita' pubblica, per il rimborso delle spese di cura di cui all'[art. 303 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), sono ripartiti, nei primi due mesi dell'esercizio finanziario, fra le Prefetture che provvedono alla liquidazione delle rette di spedalita' ed al rimborso delle relative contabilita'.
- Il controllo preventivo sugli ordinativi di pagamento emessi dai prefetti sara' effettuato dagli Uffici speciali di ragioneria e dagli Uffici distaccati della Corte dei conti presso i Provveditorati regionali alle opere pubbliche, secondo le rispettive competenze e nei modi previsti dai [decreti legislativi 18 gennaio 1945, n. 16, 14 giugno 1945, n. 355 e 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-06-27;37), ratificato, con modificazioni, con la [legge 3 febbraio 1951, n. 164](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20dei%20decreti%20legislativi%2027%20giugno%201946%20n.%2037%20e%2025%20luglio%201947%20n.%20937%20concernenti%20norme%20sulla%20costituzione%20ed%20il%20funzionamento%20dei%20Provveditorati%20regionali%20alle%20_2629b2dc4357.md), fino a quando agli Uffici decentrati di controllo non sara' data una definitiva sistemazione nel quadro del decentramento burocratico.
+ Il controllo preventivo sugli ordinativi di pagamento emessi dai prefetti sara' effettuato dagli Uffici speciali di ragioneria e dagli Uffici distaccati della Corte dei conti presso i Provveditorati regionali alle opere pubbliche, secondo le rispettive competenze e nei modi previsti dai [decreti legislativi 18 gennaio 1945, n. 16, 14 giugno 1945, n. 355 e 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-06-27;37), ratificato, con modificazioni, con la [legge 3 febbraio 1951, n. 164](Ratifica%20con%20modificazioni%20dei%20decreti%20legislativi%2027%20giugno%201946%20n.%2037%20e%2025%20luglio%201947%20n.%20937%20concernenti%20norme%20sulla%20costituzione%20ed%20il%20funzionamento%20dei%20Provveditorati%20regionali%20alle%20_2629b2dc4357.md), fino a quando agli Uffici decentrati di controllo non sara' data una definitiva sistemazione nel quadro del decentramento burocratico.
 
 ## Art. 30.
 
@@ -236,7 +236,7 @@ Il [secondo comma dell'art. 372 del testo unico delle leggi sanitarie](../Testi%
 
 ## Art. 33.
 
-E' demandata al prefetto l'autorizzazione per impiego dei gas tossici prevista dall'[art. 58 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773 e dall'art. 5](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) del relativo regolamento approvato con [regio decreto 9 gennaio 1927, n. 147](../Regi%20decreti/Approvazione%20del%20regolamento%20speciale%20per%20limpiego%20dei%20gas%20tossici.%20027U0147.md). Il prefetto provvede, sentita la Commissione di cui all'art. 39 del presente decreto.
+E' demandata al prefetto l'autorizzazione per impiego dei gas tossici prevista dall'[art. 58 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773 e dall'art. 5](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) del relativo regolamento approvato con [regio decreto 9 gennaio 1927, n. 147](../Regi%20decreti/Approvazione%20del%20regolamento%20speciale%20per%20limpiego%20dei%20gas%20tossici.%20027U0147.md). Il prefetto provvede, sentita la Commissione di cui all'art. 39 del presente decreto.
 
 ## Art. 34.
 

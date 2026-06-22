@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 16 novembre 1921, n. 1826](../Regi%20decreti/Contenente%20disposizioni%20circa%20le%20contabilita%20dei%20vaglia%20interni%20e%20dei%20titoli%20di%20credito%20postali%20relative%20agli%20esercizi%20al%201914-915%20al%201919-920.%20021U1826.md), e del [2 dicembre 1923, n. 2970](../Regi%20decreti/Norme%20per%20la%20contabilita%20dei%20vaglia%20interni%20relativa%20allesercizio%201921-22.%20023U2970.md), coi quali si consente la riassunzione sommaria della contabilita' dei vaglia riferibili agli esercizi dal 1914-915 a 1921-922;
+Visti i [Regi decreti 16 novembre 1921, n. 1826](Contenente%20disposizioni%20circa%20le%20contabilita%20dei%20vaglia%20interni%20e%20dei%20titoli%20di%20credito%20postali%20relative%20agli%20esercizi%20al%201914-915%20al%201919-920.%20021U1826.md), e del [2 dicembre 1923, n. 2970](Norme%20per%20la%20contabilita%20dei%20vaglia%20interni%20relativa%20allesercizio%201921-22.%20023U2970.md), coi quali si consente la riassunzione sommaria della contabilita' dei vaglia riferibili agli esercizi dal 1914-915 a 1921-922;
 
 Visti i [decreti legislativi del 10 settembre 1923, n. 2376, e del 2 dicembre 1923, n. 3122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1923-12-02;3122), riflettenti l'ordinamento del servizio dei vaglia postali interni;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, d'i
 
 ## Art. 1.
 
-Sono estese alla contabilita' dei vaglia postali relativa all'esercizio 1922-23, le disposizioni che con [R. decreto 16 novembre 1921, n. 1826](../Regi%20decreti/Contenente%20disposizioni%20circa%20le%20contabilita%20dei%20vaglia%20interni%20e%20dei%20titoli%20di%20credito%20postali%20relative%20agli%20esercizi%20al%201914-915%20al%201919-920.%20021U1826.md), e con [R. decreto 2 dicembre 1923, numero 2970](../Regi%20decreti/Norme%20per%20la%20contabilita%20dei%20vaglia%20interni%20relativa%20allesercizio%201921-22.%20023U2970.md), emanati in virtu' di delegazione di poteri, furono applicate alle contabilita' dei vaglia postali relative agli esercizi 1914-15, 1915-16, 1916-17, 1917-18, 1918-19, 1919-20, 1920-21 e 1921-22. 
+Sono estese alla contabilita' dei vaglia postali relativa all'esercizio 1922-23, le disposizioni che con [R. decreto 16 novembre 1921, n. 1826](Contenente%20disposizioni%20circa%20le%20contabilita%20dei%20vaglia%20interni%20e%20dei%20titoli%20di%20credito%20postali%20relative%20agli%20esercizi%20al%201914-915%20al%201919-920.%20021U1826.md), e con [R. decreto 2 dicembre 1923, numero 2970](Norme%20per%20la%20contabilita%20dei%20vaglia%20interni%20relativa%20allesercizio%201921-22.%20023U2970.md), emanati in virtu' di delegazione di poteri, furono applicate alle contabilita' dei vaglia postali relative agli esercizi 1914-15, 1915-16, 1916-17, 1917-18, 1918-19, 1919-20, 1920-21 e 1921-22. 
  
  Le differenze sono pareggiate mediante rilievi da saldarsi con somme prelevate dal capitolo di bilancio, al quale sono imputati i rimborsi eventuali cui puo' essere tenuta l'Amministrazione delle poste in conseguenza di frodi e di danni subiti da privati e dall'Amministrazione stessa per il servizio dei vaglia.
 

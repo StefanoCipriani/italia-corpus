@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 3 della legge 20 dicembre 1952, n. 2385](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2030%20ottobre%201952%20n.%201323%20concernente%20un%20nuovo%20sistema%20di%20accertamento%20della%20imposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md), che delega il Governo della Repubblica ad emanare, sentita una Commissione parlamentare, composta di cinque Senatori e di cinque Deputati, il testo unico delle disposizioni concernenti la disciplina fiscale della lavorazione dei semi oleosi e degli oli da essi ottenuti, apportando alle disposizioni stesse le modificazioni necessarie per' il loro coordinamento e la loro migliore formulazione nonche' per il perfezionamento tecnico delle misure di vigilanza e di controllo;
+Visto l'[art. 3 della legge 20 dicembre 1952, n. 2385](Conversione%20in%20legge%20del%20decreto-legge%2030%20ottobre%201952%20n.%201323%20concernente%20un%20nuovo%20sistema%20di%20accertamento%20della%20imposta%20di%20fabbricazione%20sugli%20oli%20di%20semi.md), che delega il Governo della Repubblica ad emanare, sentita una Commissione parlamentare, composta di cinque Senatori e di cinque Deputati, il testo unico delle disposizioni concernenti la disciplina fiscale della lavorazione dei semi oleosi e degli oli da essi ottenuti, apportando alle disposizioni stesse le modificazioni necessarie per' il loro coordinamento e la loro migliore formulazione nonche' per il perfezionamento tecnico delle misure di vigilanza e di controllo;
 
 Vista la [legge 29 ottobre 1954, n. 1073](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-10-29;1073), che fissa al 31 dicembre 1954 il termine per la emanazione del predetto testo unico;
 

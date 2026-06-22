@@ -16,7 +16,7 @@ UMBERTO I.
  
  RE D'ITALIA 
  
- Visto l'[articolo 7 della legge 14 luglio 1890 n. 6165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-14;6165#art_7) (serie 3ª), con cui venne autorizzata la graduale esecuzione della riforma penitenziaria col riordinamento dei fabbricati carcerari per l'applicazione del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ Visto l'[articolo 7 della legge 14 luglio 1890 n. 6165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-14;6165#art_7) (serie 3ª), con cui venne autorizzata la graduale esecuzione della riforma penitenziaria col riordinamento dei fabbricati carcerari per l'applicazione del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  Visto il Nostro Reale decreto 1° febbraio 1891 n. 260, con cui venne approvato il regolamento generale per gli Stabilimenti carcerari e pei Riformatorii governativi; 
  

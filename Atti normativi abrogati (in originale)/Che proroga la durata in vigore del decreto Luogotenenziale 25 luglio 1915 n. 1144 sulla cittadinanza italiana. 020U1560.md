@@ -16,7 +16,7 @@ RE DITALLA
 
 Visto il [decreto Luogotenenziale 25 luglio 1915, numero 1144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-25;1144), riguardante la sospensione, durante la guerra, dell'applicazione dell'[art. 3, nn. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-13;555#art_3-num2) e [3, della legge 13 giugno 1912, n. 555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-13;555#art_3-num3), sulla cittadinanza italiana;
 
-Visto il [R. decreto 30 settembre 1920, n. 1389](../Regi%20decreti/Contenente%20norme%20pel%20passaggio%20dallo%20stato%20di%20guerra%20allo%20stato%20di%20pace.%20020U1389.md), contenente norme pel passaggio dallo stato di guerra allo stato di pace;
+Visto il [R. decreto 30 settembre 1920, n. 1389](Contenente%20norme%20pel%20passaggio%20dallo%20stato%20di%20guerra%20allo%20stato%20di%20pace.%20020U1389.md), contenente norme pel passaggio dallo stato di guerra allo stato di pace;
 
 Ritenuta la necessita' di prorogare la durata in vigore del predetto [decreto Luogotenenziale 25 luglio 1915, n. 1144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-25;1144);
 

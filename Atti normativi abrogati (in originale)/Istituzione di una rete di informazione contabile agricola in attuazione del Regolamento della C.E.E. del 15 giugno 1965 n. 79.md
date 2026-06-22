@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 13 luglio 1965, n. 871](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md), con la quale il Governo e' stato delegato ad emanare provvedimenti nelle materie previste dai Trattati della Comunita' economica europea (C.E.E.) e della Comunita' europea dell'energia atomica (C.E.E.A.);
+Vista la [legge 13 luglio 1965, n. 871](Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md), con la quale il Governo e' stato delegato ad emanare provvedimenti nelle materie previste dai Trattati della Comunita' economica europea (C.E.E.) e della Comunita' europea dell'energia atomica (C.E.E.A.);
 
-Visto il Trattato istitutivo della Comunita' economica europea ratificato con [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
+Visto il Trattato istitutivo della Comunita' economica europea ratificato con [legge 14 ottobre 1957, n. 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
 
 Visto il Regolamento adottato il 15 giugno 1965 dal Consiglio dei Ministri della Comunita' economica europea n. 79/65, relativo alla istituzione di una rete di informazione contabile agricola sui redditi e sull'economia delle aziende agricole della Comunita' economica europea;
 
-Sentita la Commissione parlamentare di cui all'[art. 3 della legge 13 luglio 1965, n. 871](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md);
+Sentita la Commissione parlamentare di cui all'[art. 3 della legge 13 luglio 1965, n. 871](Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -47,7 +47,7 @@ Le deliberazioni del Comitato sono validamente adottate col voto unanime dei pre
 
 ## Art. 4.
 
-L'[istituto nazionale di economia agraria, di cui al regio decreto 10 maggio 1928, n. 1418](../Regi%20decreti/Modificazioni%20ai%20Regi%20decreti%209%20ottobre%201924%20n.%201765%20e%2016%20settembre%201927%20n.%201943%20riguardanti%20lIstituto%20di%20economia%20agraria.%20028U1418.md), e successive modificazioni, svolge, sotto la vigilanza del Ministero della agricoltura e delle foreste, i compiti di organo di collegamento previsti dal [Regolamento n. 79/65](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1965;79) della Comunita' economica europea e promuove l'impianto e la tenuta della contabilita' agraria.
+L'[istituto nazionale di economia agraria, di cui al regio decreto 10 maggio 1928, n. 1418](Modificazioni%20ai%20Regi%20decreti%209%20ottobre%201924%20n.%201765%20e%2016%20settembre%201927%20n.%201943%20riguardanti%20lIstituto%20di%20economia%20agraria.%20028U1418.md), e successive modificazioni, svolge, sotto la vigilanza del Ministero della agricoltura e delle foreste, i compiti di organo di collegamento previsti dal [Regolamento n. 79/65](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1965;79) della Comunita' economica europea e promuove l'impianto e la tenuta della contabilita' agraria.
  Il predetto Istituto assolve altresi' i compiti previsti dagli articoli 9 e 14 del citato Regolamento comunitario e provvede alla organizzazione e al funzionamento degli uffici di segreteria dei singoli Comitati regionali.
 
 ## Art. 5.

@@ -56,7 +56,7 @@ Il contrabbando commesso dall'associazione di cui all'articolo precedente, o da 
 
 Il contrabbando sara' punito col carcere da 3 a 5 anni: 
  
- 1° Quando avvenga a mano armata od in unione di tre o piu' persone quantunque non armate. Per armi s'intendono quelle indicate nell'[articolo 453 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 20 novembre 1859; 
+ 1° Quando avvenga a mano armata od in unione di tre o piu' persone quantunque non armate. Per armi s'intendono quelle indicate nell'[articolo 453 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 20 novembre 1859; 
  
  2° Quando vi sia stato involamento di bolli dei pubblici uffici, o contraffazione di bolli, od altra falsificazione tendente a nascondere la provenienza della merce o del genere che si voglia fare entrare, o che sia entrato in contrabbando; 
  
@@ -124,7 +124,7 @@ Nel contrabbando e nei reati parificati al contrabbando, che si commettano nelle
 
 ## Art. 12.
 
-Sara' pubblicato nelle provincie toscane l'[articolo 453 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 20 novembre 1859.
+Sara' pubblicato nelle provincie toscane l'[articolo 453 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 20 novembre 1859.
 
 ## Art. 13.
 

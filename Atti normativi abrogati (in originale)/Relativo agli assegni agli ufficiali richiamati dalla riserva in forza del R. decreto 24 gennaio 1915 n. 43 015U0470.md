@@ -14,11 +14,11 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la legge sugli stipendi ed assegni fissi per il R. esercito, testo unico approvato con [R. decreto 14 luglio 1898, n. 380](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e successive modificazioni ;
+Vista la legge sugli stipendi ed assegni fissi per il R. esercito, testo unico approvato con [R. decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e successive modificazioni ;
 
 Visto lo stato di previsione della spesa per il Ministero della guerra, il cui esercizio provvisorio e' stato autorizzato con la [legge 26 giugno 1914, n. 578](Che%20autorizza%20ad%20esercitare%20in%20via%20provvisoria%20gli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lesercizio%20finanziario%201914-915%20che%20non%20fossero%20tradotti%20in%20legge%20entro%20il%2030%20giugno%201914.%20014U0578.md), e confermato con l'altra 16 dicembre 1914, n. 1354 ;
 
-Visto il [R. decreto 28 dicembre 1913, n. 1508](../Regi%20decreti/Col%20quale%20viene%20stabilita%20lindennita%20di%20tramutamento%20per%20le%20famiglie%20degli%20ufficiali.%20013U1508.md), che stabilisce l'indennita' di tramutamento per le famiglie degli ufficiali del R. esercito ;
+Visto il [R. decreto 28 dicembre 1913, n. 1508](Col%20quale%20viene%20stabilita%20lindennita%20di%20tramutamento%20per%20le%20famiglie%20degli%20ufficiali.%20013U1508.md), che stabilisce l'indennita' di tramutamento per le famiglie degli ufficiali del R. esercito ;
 
 Visto il [R. decreto 24 gennaio 1915, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-24;43), relativo al richiamo in servizio temporaneo, d'autorita', degli ufficiali di riserva ;
 
@@ -34,7 +34,7 @@ Gli ufficiali di riserva provvisti di pensione a carico dello Stato per servizi 
 
 ## Art. 2.
 
-Gli ufficiali di cui all'articolo precedente hanno diritto all'indennita' di tramutamento per le famiglie alle stesse condizioni stabilite dal [R. decreto 28 dicembre 1913, n. 1508](../Regi%20decreti/Col%20quale%20viene%20stabilita%20lindennita%20di%20tramutamento%20per%20le%20famiglie%20degli%20ufficiali.%20013U1508.md), per gli ufficiali richiamati dalla posizione ausiliaria.
+Gli ufficiali di cui all'articolo precedente hanno diritto all'indennita' di tramutamento per le famiglie alle stesse condizioni stabilite dal [R. decreto 28 dicembre 1913, n. 1508](Col%20quale%20viene%20stabilita%20lindennita%20di%20tramutamento%20per%20le%20famiglie%20degli%20ufficiali.%20013U1508.md), per gli ufficiali richiamati dalla posizione ausiliaria.
 
 ## Art. 3.
 

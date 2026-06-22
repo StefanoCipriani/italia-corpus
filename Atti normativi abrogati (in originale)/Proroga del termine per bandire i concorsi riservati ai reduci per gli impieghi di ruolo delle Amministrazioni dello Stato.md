@@ -14,7 +14,7 @@ Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizion
 
 Visto il [regio decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md);
 
-Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 141](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20lo%20svolgimento%20dei%20concorsi.md);
+Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 141](Norme%20per%20lo%20svolgimento%20dei%20concorsi.md);
 
 Visto l'art. 4 del decreto-legge luogotenenziale 25 giugno 1944,
 

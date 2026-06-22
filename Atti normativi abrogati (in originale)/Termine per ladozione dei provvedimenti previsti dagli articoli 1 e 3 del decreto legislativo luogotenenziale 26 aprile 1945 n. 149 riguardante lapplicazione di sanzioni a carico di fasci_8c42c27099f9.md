@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 149](../Decreti%20legislativi%20luogotenenziali/Applicazione%20di%20sanzioni%20a%20carico%20di%20fascisti%20politicamente%20pericolosi.%20045U0149.md);
+Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 149](Applicazione%20di%20sanzioni%20a%20carico%20di%20fascisti%20politicamente%20pericolosi.%20045U0149.md);
 
 Visto l'[art. 2 del decreto legislativo del Capo provvisorio dello Stato 3 ottobre 1946, n. 194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-03;194#art_2);
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con tutti 
 
 ## Art. 1.
 
-I provvedimenti previsti dagli [articoli 1](../Decreti%20legislativi%20luogotenenziali/Applicazione%20di%20sanzioni%20a%20carico%20di%20fascisti%20politicamente%20pericolosi.%20045U0149.md) e [3 del decreto legislativo luogotenenziale 26 aprile 1945, n. 149](../Decreti%20legislativi%20luogotenenziali/Applicazione%20di%20sanzioni%20a%20carico%20di%20fascisti%20politicamente%20pericolosi.%20045U0149.md), riguardante l'applicazione di sanzioni a carico di fascisti politicamente pericolosi, possono essere adottati fino al 30 giugno 1948.
+I provvedimenti previsti dagli [articoli 1](Applicazione%20di%20sanzioni%20a%20carico%20di%20fascisti%20politicamente%20pericolosi.%20045U0149.md) e [3 del decreto legislativo luogotenenziale 26 aprile 1945, n. 149](Applicazione%20di%20sanzioni%20a%20carico%20di%20fascisti%20politicamente%20pericolosi.%20045U0149.md), riguardante l'applicazione di sanzioni a carico di fascisti politicamente pericolosi, possono essere adottati fino al 30 giugno 1948.
 
 ## Art. 2.
 

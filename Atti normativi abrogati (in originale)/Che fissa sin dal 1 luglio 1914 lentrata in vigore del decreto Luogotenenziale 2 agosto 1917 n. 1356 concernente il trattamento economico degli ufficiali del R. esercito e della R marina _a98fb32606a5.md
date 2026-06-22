@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Le disposizioni del Nostro decreto 2 agosto 1917, n. 1356, hanno vigore dal 1° luglio 1914. 
  
- Agli ufficiali che a tale data trovavansi gia' addetti ai servizi civili o politici nella Tripolitania o nella Cirenaica non e' dovuta la indennita' di equipaggiamento di cui alla [lettera B dell'art. 12 del R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md). 
+ Agli ufficiali che a tale data trovavansi gia' addetti ai servizi civili o politici nella Tripolitania o nella Cirenaica non e' dovuta la indennita' di equipaggiamento di cui alla [lettera B dell'art. 12 del R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md). 
  
  Resta, pero', fermo in essi il diritto ad ottenere la differenza tra la indennita' stabilita per il grado che avevano al 30 giugno 1914 e quella maggiore alla quale avrebbero diritto nel caso di successiva promozione. 
  

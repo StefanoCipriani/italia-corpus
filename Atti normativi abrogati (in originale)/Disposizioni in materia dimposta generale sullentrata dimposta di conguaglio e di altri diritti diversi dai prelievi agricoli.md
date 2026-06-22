@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visto il [decreto-legge 9 gennaio 1940, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1940-01-09;2), convertito, con modificazioni, nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md);
+Visto il [decreto-legge 9 gennaio 1940, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1940-01-09;2), convertito, con modificazioni, nella [legge 19 giugno 1940, n. 762](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md);
 
 Vista la [legge 31 luglio 1954, n. 570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;570) e successive modificazioni;
 
@@ -66,7 +66,7 @@ I prodotti di seguito indicati, a decorrere dal 1 aprile 1970, sono esclusi dall
 ## Art. 4.
 
 La restituzione dell'I.G.E., prevista per le merci esportate dalla [legge 31 luglio 1954, n. 570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;570), e successive modificazioni, si applica secondo le aliquote vigenti alla data in cui e' accettata dalla dogana la dichiarazione di esportazione o altro documento equipollente.
- L'imposta di cui all'[art. 17 del decreto-legge 9 gennaio 1940, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1940-01-09;2#art_17) convertito, con modificazioni, nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e l'imposta di conguaglio prevista dalla [legge 31 luglio 1954, n. 570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;570), si applicano secondo le aliquote vigenti alla data in cui e' accettata dalla dogana la dichiarazione d'importazione.
+ L'imposta di cui all'[art. 17 del decreto-legge 9 gennaio 1940, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1940-01-09;2#art_17) convertito, con modificazioni, nella [legge 19 giugno 1940, n. 762](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e l'imposta di conguaglio prevista dalla [legge 31 luglio 1954, n. 570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;570), si applicano secondo le aliquote vigenti alla data in cui e' accettata dalla dogana la dichiarazione d'importazione.
  Le disposizioni di cui al presente articolo si applicano a decorrere dal 1 gennaio 1970.
 
 ## Art. 5.

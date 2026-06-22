@@ -76,7 +76,7 @@ Le variazioni di bilancio riguardanti l'utilizzo delle risorse trasferite dal Bi
 
 1.
 
-Al fine di procedere all'acquisto e alla distribuzione sul territorio nazionale dei farmaci per la cura dei pazienti con COVID-19, il fondo di cui all'[articolo 44 del decreto legislativo 2 gennaio 2018, n. 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20della%20protezione%20civile.%2018G00011.md), e' incrementato di 100 milioni di euro per l'anno 2020 da destinare agli interventi di competenza del Commissario straordinario di cui all'[articolo 122 del decreto-legge 17 marzo 2020, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-03-17;18#art_122), convertito, con modificazioni, dalla [legge 24 aprile 2020, n. 27](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20marzo%202020%20n.%2018%20recante%20misure%20di%20potenziamento%20del%20Servizio%20sanitario%20nazionale%20e%20di%20sostegno%20economico%20per%20famiglie%20lavorato_0e05bc54d12d.md), e da trasferire sull'apposita contabilita' speciale intestata al medesimo Commissario.
+Al fine di procedere all'acquisto e alla distribuzione sul territorio nazionale dei farmaci per la cura dei pazienti con COVID-19, il fondo di cui all'[articolo 44 del decreto legislativo 2 gennaio 2018, n. 1](../Codici/Codice%20della%20protezione%20civile.%2018G00011.md), e' incrementato di 100 milioni di euro per l'anno 2020 da destinare agli interventi di competenza del Commissario straordinario di cui all'[articolo 122 del decreto-legge 17 marzo 2020, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-03-17;18#art_122), convertito, con modificazioni, dalla [legge 24 aprile 2020, n. 27](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20marzo%202020%20n.%2018%20recante%20misure%20di%20potenziamento%20del%20Servizio%20sanitario%20nazionale%20e%20di%20sostegno%20economico%20per%20famiglie%20lavorato_0e05bc54d12d.md), e da trasferire sull'apposita contabilita' speciale intestata al medesimo Commissario.
 
 ## Art. 4. — Disposizioni finanziarie
 
@@ -126,7 +126,7 @@ Agli enti indicati nell'elenco 1 annesso al presente decreto, in quanto unita' c
 
 2.
 
-All'articolo 11, comma 6, lettera b), del codice di giustizia contabile, di cui all'allegato 1 al [decreto legislativo 26 agosto 2016, n. 174](../Decreti%20Legislativi/Codice%20di%20giustizia%20contabile%20adottato%20ai%20sensi%20dellarticolo%2020%20della%20legge%207%20agosto%202015%20n.%20124.%2016G00187.md), dopo le parole «operata dall'ISTAT» sono aggiunte le seguenti: «, ai soli fini dell'applicazione della normativa nazionale sul contenimento della spesa pubblica».
+All'articolo 11, comma 6, lettera b), del codice di giustizia contabile, di cui all'allegato 1 al [decreto legislativo 26 agosto 2016, n. 174](../Codici/Codice%20di%20giustizia%20contabile%20adottato%20ai%20sensi%20dellarticolo%2020%20della%20legge%207%20agosto%202015%20n.%20124.%2016G00187.md), dopo le parole «operata dall'ISTAT» sono aggiunte le seguenti: «, ai soli fini dell'applicazione della normativa nazionale sul contenimento della spesa pubblica».
 
 ## Art. 6. — Entrata in vigore
 

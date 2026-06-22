@@ -42,11 +42,11 @@ Per la rinnovazione delle matricole fondiarie per il decennio 1933-1942 e' autor
 
 ## Art. 5.
 
-L'entrata in vigore delle disposizioni contenute negli articoli 332 e 333 del testo unico approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' rinviata a non oltre due anni dall'attuazione del citato testo unico, e sara' regolata con decreti da emanare ai sensi del primo comma dell'art. 331 del testo unico medesimo.
+L'entrata in vigore delle disposizioni contenute negli articoli 332 e 333 del testo unico approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' rinviata a non oltre due anni dall'attuazione del citato testo unico, e sara' regolata con decreti da emanare ai sensi del primo comma dell'art. 331 del testo unico medesimo.
 
 ## Art. 6.
 
-In dipendenza del [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' autorizzata la spesa di L. 10.000.000, a carico del bilancio del Ministero dei lavori pubblici, per le spese a pagamento non differito trasferite dagli enti locali allo Stato. 
+In dipendenza del [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' autorizzata la spesa di L. 10.000.000, a carico del bilancio del Ministero dei lavori pubblici, per le spese a pagamento non differito trasferite dagli enti locali allo Stato. 
  Agli effetti dello stesso Regio decreto, e' aumentato di lire 1.500.000 il limite d'impegno stabilito con l'[art. 3 della legge 26 marzo 1931, n. 307](Stato%20di%20previsione%20delle%20spese%20del%20Ministero%20dei%20lavori%20pubblici%20per%20lesercizio%20finanziario%20dal%201%20luglio%201931%20al%2030%20giugno%201932.%20031U0307.md), per le annualita' relative ad opere straordinarie da eseguirsi in concessione, nonche' per contributi e sovvenzioni previste da leggi speciali.
 
 ## Art. 7.

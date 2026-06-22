@@ -16,7 +16,7 @@ LUOGOTENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 24 febbraio 1938, n. 329](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md);
+Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 24 febbraio 1938, n. 329](Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md);
 
 Vista la [legge 9 maggio 1940, n. 369](Stato%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0369.md), sullo stato degli ufficiali del Regio esercito;
 
@@ -26,11 +26,11 @@ Visto il [R. decreto 27 giugno 1933, n. 703](../Regi%20decreti/Norme%20per%20la%
 
 Visto il [R. decreto 28 giugno 1933, n. 704](../Regi%20decreti/Norme%20per%20il%20funzionamento%20presso%20lAmministrazione%20dello%20Stato%20dei%20servizi%20inerenti%20alla%20liquidazione%20delle%20pensioni.%20033U0704.md), sulle norme per il funzionamento presso l'Amministrazione dello Stato dei servizi inerenti alla liquidazione delle pensioni;
 
-Visto il testo unico delle disposizioni legislative sulla leva marittima, approvato con [R. decreto 28 luglio 1932, n. 1365](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20leva%20marittima.%20032U1365.md);
+Visto il testo unico delle disposizioni legislative sulla leva marittima, approvato con [R. decreto 28 luglio 1932, n. 1365](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20leva%20marittima.%20032U1365.md);
 
 Visto il testo unico delle disposizioni legislative sullo stato degli ufficiali della Regia marina e della Regia aeronautica, approvato con [R. decreto 11 marzo 1926, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-03-11;397);
 
-Visto il testo unico sull'ordinamento del Corpo Reali Equipaggi Marittimi, approvato con [R. decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md);
+Visto il testo unico sull'ordinamento del Corpo Reali Equipaggi Marittimi, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md);
 
 Visto il [R. decreto-legge 3 febbraio 1938, n. 744](Norme%20sul%20reclutamento%20ed%20avanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20nonche%20sullo%20stato%20dei%20sottufficiali%20della%20Regia%20aeronautica.%20038U0744.md), sullo stato dei sottufficiali della Regia aeronautica;
 

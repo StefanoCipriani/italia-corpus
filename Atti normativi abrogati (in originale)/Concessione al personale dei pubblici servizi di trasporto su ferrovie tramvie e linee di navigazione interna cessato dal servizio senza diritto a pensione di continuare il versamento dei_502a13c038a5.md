@@ -40,7 +40,7 @@ Gli agenti che si valgono della facolta' sopradetta debbono versare all'Istituto
 
 ## Art. 3.
 
-Gli inscritti hanno diritto di conseguire la pensione con le stesse modalita' e nella stessa misura che sono o saranno stabilite per il personale di ruolo, tenuto conto, agli effetti del computo del servizio, oltre che della disposizione dell'art. 21 del regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), anche dei periodi di contribuzione volontaria effettuata a norma del presente decreto. 
+Gli inscritti hanno diritto di conseguire la pensione con le stesse modalita' e nella stessa misura che sono o saranno stabilite per il personale di ruolo, tenuto conto, agli effetti del computo del servizio, oltre che della disposizione dell'art. 21 del regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), anche dei periodi di contribuzione volontaria effettuata a norma del presente decreto. 
  Per il personale delle Aziende municipalizzate esercenti pubblici servizi di trasporto, inscritto alle Casse di previdenza per le pensioni degli impiegati e dei salariati degli Enti locali anteriormente al 1° gennaio 1919, non sara' tenuto conto dei periodi di contribuzione volontaria, di cui al presente decreto, agli effetti del raggiungimento del diritto alla pensione nei confronti delle predette Casse di previdenza. 
  Per gli agenti che si valgono delle facolta' di prosecuzione volontaria dei versamenti, la invalidita' che conferisce diritto alla pensione e' quella determinata nel successivo art. 4.
 
@@ -56,9 +56,9 @@ Possono anche conseguire la pensione gli inscritti che abbiano raggiunto i 55 an
 
 ## Art. 6.
 
-La misura della pensione a favore degli inscritti si calcola nel modo stabilito dalle disposizioni del regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md). 
+La misura della pensione a favore degli inscritti si calcola nel modo stabilito dalle disposizioni del regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md). 
  Per coloro che hanno prestato servizio anteriormente al 10 gennaio 1919, si applicano le disposizioni transitorie contenute negli articoli 21, 22 e 23 del suddetto regolamento. 
- Ai fini del diritto alla pensione e della misura di questa, gli inscritti si considerano agenti addetti ai servizi attivi od a quelli sedentari a seconda della qualifica acquisita, in conformita' al regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), al momento della cessazione dal servizio o alla data in cui hanno cessato dall'appartenere al personale di ruolo.
+ Ai fini del diritto alla pensione e della misura di questa, gli inscritti si considerano agenti addetti ai servizi attivi od a quelli sedentari a seconda della qualifica acquisita, in conformita' al regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), al momento della cessazione dal servizio o alla data in cui hanno cessato dall'appartenere al personale di ruolo.
 
 ## Art. 7.
 
@@ -68,7 +68,7 @@ In caso di sospensione dei versamenti e' concessa agli inscritti che non abbiano
 
 ## Art. 8.
 
-Per tutto quanto non contrasta col presente decreto, l'inscritto e la sua famiglia conservano i diritti derivanti dalle disposizioni del regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), e successive modificazioni, in quanto siano applicabili.
+Per tutto quanto non contrasta col presente decreto, l'inscritto e la sua famiglia conservano i diritti derivanti dalle disposizioni del regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), e successive modificazioni, in quanto siano applicabili.
 
 ## Art. 9.
 

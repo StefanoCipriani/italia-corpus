@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sui consorzi e le opere di irrigazione, approvato con [R. decreto 2 ottobre 1922, n. 1747](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sui%20Consorzi%20ed%20opere%20di%20irrigazione.%20022U1747.md);
+Visto il testo unico delle leggi sui consorzi e le opere di irrigazione, approvato con [R. decreto 2 ottobre 1922, n. 1747](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sui%20Consorzi%20ed%20opere%20di%20irrigazione.%20022U1747.md);
 
 Vista la [legge 17 giugno 1926, n. 1185](Facolta%20al%20Governo%20del%20Re%20di%20emanare%20disposizioni%20aventi%20forza%20di%20legge%20relativamente%20ai%20Consorzi%20ed%20alle%20opere%20di%20irrigazione.%20026U1185.md), che da' facolta' al Governo del Re di emanare disposizioni aventi forza di legge, relativamente ai consorzi ed alle opere di irrigazione nell'Italia settentrionale e centrale;
 

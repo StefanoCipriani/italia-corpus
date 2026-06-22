@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I posti di professore ordinario assegnati agli Istituti clinici di perfezionamento di Milano, dalla tabella B annessa al testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, numero 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), sono portati da due a quattro, a decorrere dal 1° luglio 1912.
+I posti di professore ordinario assegnati agli Istituti clinici di perfezionamento di Milano, dalla tabella B annessa al testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, numero 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), sono portati da due a quattro, a decorrere dal 1° luglio 1912.
 
 ## Art. 2.
 

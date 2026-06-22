@@ -42,7 +42,7 @@ Gli aumenti spettanti in applicazione dei precedenti articoli 1 e 2, non sono co
 
 ## Art. 4.
 
-Le misure orarie del premi di operosita' e rendimento, previsti dal [R. decreto 17 febbraio 1924, n. 182](../Regi%20decreti/Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md), sono fissate come appresso: 
+Le misure orarie del premi di operosita' e rendimento, previsti dal [R. decreto 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md), sono fissate come appresso: 
  
  L. 2,70, L. 2,50, L. 2,20 e L. 2 per il personale di ruolo appartenente, rispettivamente, ai gruppi A, B, C e subalterno; 
  
@@ -96,7 +96,7 @@ Gli aumenti stabiliti dall'art. 1 del presente decreto non hanno effetto sulle i
  
 a) ai premi per prolungamento di orario spettanti agli impiegati addetti a stabilimenti o servizi, in relazione all'orario di lavoro delle maestranze; 
  
- b) ai compensi per lavoro straordinario, festivo, notturno, ed a cottimo, nonche' ai premi di operosita' e di rendimento spettanti ai salariati con le norme del testo unico approvato con [R. decreto 24 dicembre 1924, n. 2114](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md) e successive modificazioni. 
+ b) ai compensi per lavoro straordinario, festivo, notturno, ed a cottimo, nonche' ai premi di operosita' e di rendimento spettanti ai salariati con le norme del testo unico approvato con [R. decreto 24 dicembre 1924, n. 2114](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md) e successive modificazioni. 
  
  In ogni caso il compenso orario per lavoro straordinario, festivo e notturno, non puo' essere inferiore alla paga oraria ordinaria, diurna; 
  

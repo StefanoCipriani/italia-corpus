@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 29 marzo 1946, n. 155](../Decreti%20legislativi%20luogotenenziali/Matrimonio%20dei%20militari%20dellArma%20dei%20carabinieri%20Reali.md);
+Visto il [decreto legislativo luogotenenziale 29 marzo 1946, n. 155](Matrimonio%20dei%20militari%20dellArma%20dei%20carabinieri%20Reali.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -50,7 +50,7 @@ I sottufficiali e militari di truppa dei Carabinieri, trattenuti o richiamati al
 
 ## Art. 7.
 
-Il [decreto legislativo luogotenenziale 29 marzo 1946, n. 155](../Decreti%20legislativi%20luogotenenziali/Matrimonio%20dei%20militari%20dellArma%20dei%20carabinieri%20Reali.md), e' abrogato. Sono altresi' abrogate tutte le precedenti disposizioni comunque in contrasto con quelle contenute nel presente decreto.
+Il [decreto legislativo luogotenenziale 29 marzo 1946, n. 155](Matrimonio%20dei%20militari%20dellArma%20dei%20carabinieri%20Reali.md), e' abrogato. Sono altresi' abrogate tutte le precedenti disposizioni comunque in contrasto con quelle contenute nel presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

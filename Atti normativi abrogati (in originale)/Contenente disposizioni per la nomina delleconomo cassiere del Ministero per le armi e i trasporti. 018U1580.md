@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 17 settembre 1910, n. 859](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20gestioni%20affidate%20agli%20economi-cassieri%20delle%20Amministrazioni%20centrali.%20010U0859.md), che disciplina la gestione degli economi cassieri dei Ministeri; 
+ Visto il [R. decreto 17 settembre 1910, n. 859](Che%20approva%20lannesso%20regolamento%20per%20le%20gestioni%20affidate%20agli%20economi-cassieri%20delle%20Amministrazioni%20centrali.%20010U0859.md), che disciplina la gestione degli economi cassieri dei Ministeri; 
  
  Udito il Consiglio dei ministri; 
  
@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Il Ministero per le armi e i trasporti e' autorizzato a derogare alle disposizioni dell'[art. 2 del R. decreto 17 settembre 1910 n. 859](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20gestioni%20affidate%20agli%20economi-cassieri%20delle%20Amministrazioni%20centrali.%20010U0859.md), per quanto riguarda il grado del funzionario da chiamarsi ad esercitare le funzioni di economo-cassiere del Ministero stesso. 
+ Il Ministero per le armi e i trasporti e' autorizzato a derogare alle disposizioni dell'[art. 2 del R. decreto 17 settembre 1910 n. 859](Che%20approva%20lannesso%20regolamento%20per%20le%20gestioni%20affidate%20agli%20economi-cassieri%20delle%20Amministrazioni%20centrali.%20010U0859.md), per quanto riguarda il grado del funzionario da chiamarsi ad esercitare le funzioni di economo-cassiere del Ministero stesso. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

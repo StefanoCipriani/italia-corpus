@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Alle truppe del R. esercito italiano in Macedonia ed ai personali ad esse addetti sono dovute le indennita' speciali stabilite dal [R. decreto 23 maggio 1915, n. 677](../Regi%20decreti/Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), sotto l'osservanza delle disposizioni contenute nel decreto stesso e nelle norme annesse, nonche' degli altri decreti successivamente emanati circa le indennita' di guerra spettanti alle truppe in campagna in Europa dal giorno dell'imbarco fino al giorno dello sbarco al ritorno in Italia. 
+Alle truppe del R. esercito italiano in Macedonia ed ai personali ad esse addetti sono dovute le indennita' speciali stabilite dal [R. decreto 23 maggio 1915, n. 677](Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), sotto l'osservanza delle disposizioni contenute nel decreto stesso e nelle norme annesse, nonche' degli altri decreti successivamente emanati circa le indennita' di guerra spettanti alle truppe in campagna in Europa dal giorno dell'imbarco fino al giorno dello sbarco al ritorno in Italia. 
  
  E' inoltre dovuta un'indennita' giornaliera nella misura seguente:  
  tenente generale comandante delle truppe, L. 10,00; 

@@ -28,7 +28,7 @@ Ai militari di leva dell'Esercito, della Marina e del l'Aeronautica, i quali, do
 ## Art. 3.
 
 Le indennita' di cui ai precedenti articoli 1 e 2 sono concesse in sostituzione delle indennita' di specializzazione e di mestiere, dei soprassoldi speciali per incarichi e dei soprassoldi di categoria e specialita' dovuti in base alle vigenti disposizioni. Per i personali indicati negli stessi articoli le indennita' e i soprassoldi speciali anzidetti sono soppressi.
- Nei confronti del personale della Marina indicato nei precedenti articoli 1 e 2, che abbia diritto agli assegni giornalieri di cui alle tabelle B e C allegate al regolamento sugli assegni d'imbarco, approvato col [regio decreto 15 luglio 1938, n. 1156](../Regi%20decreti/Regolamento%20sugli%20assegni%20dimbarco%20al%20personale%20della%20Regia%20marina.%20038U1156.md), e successive modificazioni, le misure delle indennita' previste dagli articoli stessi sono diminuite delle seguenti percentuali dei predetti assegni giornalieri:
+ Nei confronti del personale della Marina indicato nei precedenti articoli 1 e 2, che abbia diritto agli assegni giornalieri di cui alle tabelle B e C allegate al regolamento sugli assegni d'imbarco, approvato col [regio decreto 15 luglio 1938, n. 1156](Regolamento%20sugli%20assegni%20dimbarco%20al%20personale%20della%20Regia%20marina.%20038U1156.md), e successive modificazioni, le misure delle indennita' previste dagli articoli stessi sono diminuite delle seguenti percentuali dei predetti assegni giornalieri:
  10 per cento per i capi di 1ª, 2ª e 3ª classe;
  20 per cento per i secondi capi;
  30 per cento per i sergenti, sottocapi e comuni di 1ª classe;

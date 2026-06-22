@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-A decorrere dal 1 luglio 1994 gli istituti di ricovero e cura a carattere scientifico con personalita' giuridica di diritto pubblico sono gestiti da commissari straordinari fino alla data di nomina degli organi di cui al [decreto legislativo 30 giugno 1993, n. 269](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md). A partire dalla stessa data cessano tutti gli organi di amministrazione attualmente in carica. L'atto di nomina del commissario straordinario determina anche il compenso spettante allo stesso. Contestualmente alla nomina dei commissari straordinari si provvede alla conferma del collegio dei revisori o alla loro costituzione, ove mancanti.
+A decorrere dal 1 luglio 1994 gli istituti di ricovero e cura a carattere scientifico con personalita' giuridica di diritto pubblico sono gestiti da commissari straordinari fino alla data di nomina degli organi di cui al [decreto legislativo 30 giugno 1993, n. 269](../Decreti%20Legislativi/Riordinamento%20degli%20istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md). A partire dalla stessa data cessano tutti gli organi di amministrazione attualmente in carica. L'atto di nomina del commissario straordinario determina anche il compenso spettante allo stesso. Contestualmente alla nomina dei commissari straordinari si provvede alla conferma del collegio dei revisori o alla loro costituzione, ove mancanti.
 
 2.
 
@@ -38,7 +38,7 @@ Per i dipendenti pubblici la nomina a commissario straordinario presso le unita'
 
 1.
 
-A decorrere dal 1 gennaio 1995 la contabilita' economico-finanziaria e patrimoniale e la contabilita' finanziaria delle unita' sanitarie locali e delle aziende ospedaliere previste dall'[articolo 5 del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni e integrazioni, dovranno essere tenute separate rispetto a quella degli anni 1994 e precedenti.
+A decorrere dal 1 gennaio 1995 la contabilita' economico-finanziaria e patrimoniale e la contabilita' finanziaria delle unita' sanitarie locali e delle aziende ospedaliere previste dall'[articolo 5 del decreto legislativo 30 dicembre 1992, n. 502](../Decreti%20Legislativi/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni e integrazioni, dovranno essere tenute separate rispetto a quella degli anni 1994 e precedenti.
 
 2.
 
@@ -187,7 +187,7 @@ Il programma formativo e l'organizzazione dei corsi sono oggetto di specifiche c
 
 4.
 
-Agli oneri relativi al presente articolo si fa fronte, per un importo non superiore a lire 1 miliardo per anno, con i fondi di cui all'[articolo 12, comma 2, lettera b), del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive integrazioni e modificazioni.
+Agli oneri relativi al presente articolo si fa fronte, per un importo non superiore a lire 1 miliardo per anno, con i fondi di cui all'[articolo 12, comma 2, lettera b), del decreto legislativo 30 dicembre 1992, n. 502](../Decreti%20Legislativi/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive integrazioni e modificazioni.
 
 ## Art. 10.
 
@@ -199,11 +199,11 @@ L'autorizzazione alla produzione, al commercio ed alla detenzione di coloranti p
 
 1.
 
-A decorrere dal 1 gennaio 1995, le prestazioni di assistenza ospedaliera erogate nell'ambito del Servizio sanitario nazionale, sono remunerate sulla base di tariffe predeterminate dalle regioni e dalle province autonome secondo i criteri generali definiti nel decreto del Ministro della sanita' attuativo dell'[articolo 8, comma 6, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni. Le regioni e le province autonome che alla suddetta data non abbiano adottato i provvedimenti di fissazione di dette tariffe applicano, in via transitoria, le tariffe che saranno fissate con decreto del Ministro della sanita' entro il 15 dicembre 1994.
+A decorrere dal 1 gennaio 1995, le prestazioni di assistenza ospedaliera erogate nell'ambito del Servizio sanitario nazionale, sono remunerate sulla base di tariffe predeterminate dalle regioni e dalle province autonome secondo i criteri generali definiti nel decreto del Ministro della sanita' attuativo dell'[articolo 8, comma 6, del decreto legislativo 30 dicembre 1992, n. 502](../Decreti%20Legislativi/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni. Le regioni e le province autonome che alla suddetta data non abbiano adottato i provvedimenti di fissazione di dette tariffe applicano, in via transitoria, le tariffe che saranno fissate con decreto del Ministro della sanita' entro il 15 dicembre 1994.
 
 2.
 
-Tali tariffe rappresentano la remunerazione massima corrisposta ai soggetti erogatori di cui all'[articolo 8, commi 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e [7, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, a fronte delle singole prestazioni rese agli assistiti.
+Tali tariffe rappresentano la remunerazione massima corrisposta ai soggetti erogatori di cui all'[articolo 8, commi 5](../Decreti%20Legislativi/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e [7, del decreto legislativo 30 dicembre 1992, n. 502](../Decreti%20Legislativi/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, a fronte delle singole prestazioni rese agli assistiti.
 
 3.
 
@@ -211,7 +211,7 @@ Le regioni e le province autonome, con periodicita' almeno triennale, provvedono
 
 4.
 
-Le regioni e le province autonome vigilano sulla corretta applicazione del sistema di remunerazione mediante tariffe predeterminate da parte delle unita' sanitarie locali e dei soggetti erogatori, pubblici e privati, secondo i criteri definiti nel decreto del Ministro della sanita' attuativo dell'[articolo 8, comma 6, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni.
+Le regioni e le province autonome vigilano sulla corretta applicazione del sistema di remunerazione mediante tariffe predeterminate da parte delle unita' sanitarie locali e dei soggetti erogatori, pubblici e privati, secondo i criteri definiti nel decreto del Ministro della sanita' attuativo dell'[articolo 8, comma 6, del decreto legislativo 30 dicembre 1992, n. 502](../Decreti%20Legislativi/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni.
 
 5.
 

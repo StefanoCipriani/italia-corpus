@@ -272,7 +272,7 @@ La direzione tecnica dei Consorzi per la viticoltura sara' affidata in ciascuna 
 
 ### Art. 26.
 
-Le violazioni delle norme relative alla importazione, esportazione e circolazione delle piante, parti di piante e semi sono punite con l'ammenda da lire cento a lire duemila, senza pregiudizio delle maggiori pene stabilite dalle leggi doganali per il contrabbando o dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i reati in esso previsti. 
+Le violazioni delle norme relative alla importazione, esportazione e circolazione delle piante, parti di piante e semi sono punite con l'ammenda da lire cento a lire duemila, senza pregiudizio delle maggiori pene stabilite dalle leggi doganali per il contrabbando o dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i reati in esso previsti. 
  
  Nel caso di commercio ambulante di talee e barbatelle di viti americane si procede inoltre alla confisca e alla distruzione immediata del materiale. 
  

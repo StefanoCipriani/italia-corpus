@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-L'ufficio di direttore artistico dell'Istituto nazionale del dramma antico e' conferito, con decreto del Ministro per la pubblica istruzione e per la durata di anni dieci, a un professore di ruolo nelle Regie universita', di cui alla tabella A annessa al [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), il quale, per la durata dell'incarico, sara' considerato, a tutti gli effetti, fuori ruolo, non avra' obbligo d'insegnamento e conservera' i diritti di carriera inerenti al posto di ruolo da lui occupato nonche' i relativi emolumenti.
+L'ufficio di direttore artistico dell'Istituto nazionale del dramma antico e' conferito, con decreto del Ministro per la pubblica istruzione e per la durata di anni dieci, a un professore di ruolo nelle Regie universita', di cui alla tabella A annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), il quale, per la durata dell'incarico, sara' considerato, a tutti gli effetti, fuori ruolo, non avra' obbligo d'insegnamento e conservera' i diritti di carriera inerenti al posto di ruolo da lui occupato nonche' i relativi emolumenti.
 
 ## Art. 2.
 

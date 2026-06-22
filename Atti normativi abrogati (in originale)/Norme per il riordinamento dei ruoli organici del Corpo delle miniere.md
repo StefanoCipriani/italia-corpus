@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visti il [regio decreto 10 maggio 1943, n. 482](../Regi%20decreti/Riordinamento%20dei%20servizi%20della%20Direzione%20generale%20delle%20miniere%20e%20della%20metallurgia%20e%20dei%20ruoli%20organici%20del%20Corpo%20Reale%20delle%20miniere.%20043U0482.md), il [decreto-legge 8 maggio 1948, n. 868](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-05-08;868), le [leggi 4 gennaio 1951, n. 2, e 4 novembre 1951, n. 1303](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%208%20maggio%201948%20n.%20868%20concernente%20variazioni%20nel%20ruolo%20tecnico%20e%20amministrativo%20del%20Corpo%20delle%20miniere.md), concernente i ruoli organici del Corpo delle miniere;
+Visti il [regio decreto 10 maggio 1943, n. 482](Riordinamento%20dei%20servizi%20della%20Direzione%20generale%20delle%20miniere%20e%20della%20metallurgia%20e%20dei%20ruoli%20organici%20del%20Corpo%20Reale%20delle%20miniere.%20043U0482.md), il [decreto-legge 8 maggio 1948, n. 868](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-05-08;868), le [leggi 4 gennaio 1951, n. 2, e 4 novembre 1951, n. 1303](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%208%20maggio%201948%20n.%20868%20concernente%20variazioni%20nel%20ruolo%20tecnico%20e%20amministrativo%20del%20Corpo%20delle%20miniere.md), concernente i ruoli organici del Corpo delle miniere;
 
 Visto il [decreto del Presidente della Repubblica 11 gennaio 1956, n. 16](Ordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), concernente l'ordinamento delle carriere degli impiegati civili dello Stato;
 
-Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), concernente il testo unico delle disposizioni sullo statuto degli impiegati civili dello Stato;
+Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), concernente il testo unico delle disposizioni sullo statuto degli impiegati civili dello Stato;
 
 Vista la [legge 11 gennaio 1957, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-01-11;6), concernente la ricerca e la coltivazione degli idrocarburi liquidi e gassosi;
 
@@ -38,7 +38,7 @@ I quadri D-16/a, C-34/a, E-54 e P.A.-74, allegati al [decreto del Presidente del
 
 ## Art. 3.
 
-La nomina in prova a ispettore aggiunto del ruolo minerario ispettivo di cui all'annesso quadro 5, si consegue mediante pubblico concorso per esame al quale sono ammessi a partecipare i cittadini italiani provvisti della laurea in legge o in economia e commercio e degli altri requisiti stabiliti dall'[art. 2 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+La nomina in prova a ispettore aggiunto del ruolo minerario ispettivo di cui all'annesso quadro 5, si consegue mediante pubblico concorso per esame al quale sono ammessi a partecipare i cittadini italiani provvisti della laurea in legge o in economia e commercio e degli altri requisiti stabiliti dall'[art. 2 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ## Art. 4.
 
@@ -56,7 +56,7 @@ Nella prima attuazione del presente decreto e non oltre tre mesi dalla data di e
 ## Art. 7.
 
 Nella prima attuazione del presente decreto, tre posti di agente tecnico preparatore della carriera ausiliaria del Corpo delle miniere; di cui all'allegato quadro 10, possono essere conferiti, mediante concorso per titoli, da bandire entro tre mesi dall'entrata in vigore del presente decreto, agli appartenenti ai ruoli speciali transitori ed ai ruoli aggiunti del personale degli agenti tecnici delle carriere ausiliarie dell'Amministrazione centrale del Ministero dell'industria e del commercio, che abbiano almeno una anzianita' complessiva di anni sei.
- Ferme restando le disposizioni contenute nell'[art. 194 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), le promozioni ad agente tecnico preparatore capo non possono essere conferite prima di due anni dall'entrata in vigore del presente decreto.
+ Ferme restando le disposizioni contenute nell'[art. 194 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), le promozioni ad agente tecnico preparatore capo non possono essere conferite prima di due anni dall'entrata in vigore del presente decreto.
 
 ## Art. 8.
 
@@ -82,7 +82,7 @@ I posti che dopo la prima attuazione del presente decreto risultino vacanti nell
 
 ## Art. 11.
 
-Per quanto non e' disposto nel presente decreto, si applicano le norme contenute nel [regio decreto 10 maggio 1943, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1943-05-10;482) e nel [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+Per quanto non e' disposto nel presente decreto, si applicano le norme contenute nel [regio decreto 10 maggio 1943, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1943-05-10;482) e nel [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ## Art. 12.
 

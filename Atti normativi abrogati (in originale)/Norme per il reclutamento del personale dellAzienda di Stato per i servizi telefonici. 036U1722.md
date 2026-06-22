@@ -18,9 +18,9 @@ IMPERATORE D'ETIOPIA
 
 Visto il [R. decreto-legge 14 giugno 1925, n. 884](Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e successive modificazioni;
 
-Visto il [R. decreto 3 gennaio 1926, n. 88](../Regi%20decreti/Trattamento%20economico%20del%20personale%20dellAzienda%20per%20i%20servizi%20telefonici.%20026U0088.md), e successive modificazioni;
+Visto il [R. decreto 3 gennaio 1926, n. 88](Trattamento%20economico%20del%20personale%20dellAzienda%20per%20i%20servizi%20telefonici.%20026U0088.md), e successive modificazioni;
 
-Visto il [R. decreto 15 ottobre 1931, n. 1474](../Regi%20decreti/Nuove%20tabelle%20organiche%20del%20personale%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.%20031U1474.md), e successive modificazioni;
+Visto il [R. decreto 15 ottobre 1931, n. 1474](Nuove%20tabelle%20organiche%20del%20personale%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.%20031U1474.md), e successive modificazioni;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -37,12 +37,12 @@ Per integrare l'assegnazione del personale necessario alle proprie normali esige
  b) di personale diurnista con contratto a termine di durata non superiore a cinque anni, rinnovabile alla scadenza salvo disdetta da darsi almeno sei mesi prima della scadenza medesima, e con trattamento economico corrispondente a quello del personale diurnista di cui alla precedente lettera a). Le altre clausole contrattuali sono stabilite di concerto con il Ministero delle finanze. 
  Il numero massimo di posti per il personale diurnista a contratto e' fissato con decreto del Ministro per le comunicazioni, di concerto con quello per le finanze. 
  L'assunzione del personale diurnista a contratto e' disposta in base a concorsi, da bandirsi con modalita' fissate mediante decreto del Ministro per le comunicazioni, di concerto con quello per le finanze. 
- Sono abrogati l'[art. 4 del R. decreto 15 ottobre 1931, n. 1474](../Regi%20decreti/Nuove%20tabelle%20organiche%20del%20personale%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.%20031U1474.md), nonche' la nota (1) posta in calce alla Tabella B dell'art. 2 del decreto stesso.
+ Sono abrogati l'[art. 4 del R. decreto 15 ottobre 1931, n. 1474](Nuove%20tabelle%20organiche%20del%20personale%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.%20031U1474.md), nonche' la nota (1) posta in calce alla Tabella B dell'art. 2 del decreto stesso.
 
 ## Art. 2.
 
-I posti disponibili nella dotazione del personale di commutazione (telefonisti e telefoniste), operaio e degli agenti subalterni con contratto a paga giornaliera, quale risulta fissata dalla Tabella B dell'[art. 2 del R. decreto 15 ottobre 1931, n. 1474](../Regi%20decreti/Nuove%20tabelle%20organiche%20del%20personale%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.%20031U1474.md), saranno conferiti ai diurnisti a contratto che contino almeno cinque anni in tale posizione, con norme da stabilirsi mediante decreto del Ministro per le comunicazioni, di concerto con quello per le finanze. 
- Per l'assegnazione ai tecnici diurnisti dei posti riservati ai dirigenti tecnici delle stazioni amplificatrici, si applicano le disposizioni dell'art. 3 del predetto [R. decreto 15 ottobre 1931, n. 1474](../Regi%20decreti/Nuove%20tabelle%20organiche%20del%20personale%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.%20031U1474.md), anche se i tecnici diurnisti medesimi siano assunti a contratto in base all'art. 1 od all'art. 3 del presente decreto.
+I posti disponibili nella dotazione del personale di commutazione (telefonisti e telefoniste), operaio e degli agenti subalterni con contratto a paga giornaliera, quale risulta fissata dalla Tabella B dell'[art. 2 del R. decreto 15 ottobre 1931, n. 1474](Nuove%20tabelle%20organiche%20del%20personale%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.%20031U1474.md), saranno conferiti ai diurnisti a contratto che contino almeno cinque anni in tale posizione, con norme da stabilirsi mediante decreto del Ministro per le comunicazioni, di concerto con quello per le finanze. 
+ Per l'assegnazione ai tecnici diurnisti dei posti riservati ai dirigenti tecnici delle stazioni amplificatrici, si applicano le disposizioni dell'art. 3 del predetto [R. decreto 15 ottobre 1931, n. 1474](Nuove%20tabelle%20organiche%20del%20personale%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.%20031U1474.md), anche se i tecnici diurnisti medesimi siano assunti a contratto in base all'art. 1 od all'art. 3 del presente decreto.
 
 ## Art. 3.
 

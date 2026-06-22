@@ -793,13 +793,13 @@ CAPO IV. - Dei battelli ed altri galleggianti pel servizio dei porti.
  
  Le violazioni delle disposizioni del presente codice si distinguono in reati ed in mancanze disciplinari. 
  
- Sono reati le violazioni per cui sono stabilite pene corrispondenti a quelle determinate dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune, ovvero le pene della interdizione, destituzione o sospensione dai gradi marittimi, o quella della confisca. 
+ Sono reati le violazioni per cui sono stabilite pene corrispondenti a quelle determinate dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune, ovvero le pene della interdizione, destituzione o sospensione dai gradi marittimi, o quella della confisca. 
  
  Sono mancanze disciplinari le violazioni alle quali sono applicate le punizioni disciplinari stabilite dal presente codice. 
  
  Art. 253. 
  
- I reati marittimi si distinguono in crimini, delitti e contravvenzioni, secondo le norme del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune. 
+ I reati marittimi si distinguono in crimini, delitti e contravvenzioni, secondo le norme del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune. 
  
  Le pene della interdizione, della destituzione e sospensione dai gradi marittimi, e della confisca, quando sono applicate come pene principali, si considerano sempre correzionali, salve, in quanto alla competenza, le speciali disposizioni del presente codice. 
  

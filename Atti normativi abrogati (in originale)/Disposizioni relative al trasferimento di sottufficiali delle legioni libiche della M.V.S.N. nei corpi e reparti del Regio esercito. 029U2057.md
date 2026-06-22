@@ -18,7 +18,7 @@ Vista la [legge 31 gennaio 1926, n. 100, art. 3, n. 2](Sulla%20facolta%20del%20p
 
 Visto il [R. decreto-legge 16 ottobre 1919, n. 1986](Che%20regola%20lo%20stato%20giuridico%20ed%20economico%20dei%20sottufficiali%20del%20R.%20esercito.%20019U1986.md), e successive modificazioni, sullo stato dei sottufficiali;
 
-Visto il [R. decreto 3 ottobre 1929, n. 1955](../Regi%20decreti/Ordinamento%20delle%20Legioni%20libiche%20permanenti%20di%20M.V.S.N.%20029U1955.md), riguardante l'ordinamento delle legioni libiche permanenti di M.V.S.N.;
+Visto il [R. decreto 3 ottobre 1929, n. 1955](Ordinamento%20delle%20Legioni%20libiche%20permanenti%20di%20M.V.S.N.%20029U1955.md), riguardante l'ordinamento delle legioni libiche permanenti di M.V.S.N.;
 
 Riconosciuta l'urgente necessita' di sistemare, nei corpi e reparti del Regio esercito, i sottufficiali delle legioni libiche permanenti della M.V.S.N. che optino per il passaggio, allo scopo di proseguirvi la carriera, ovvero siano esuberanti rispetto ai nuovi organici;
 
@@ -32,7 +32,7 @@ I sottufficiali delle legioni libiche permanenti di M.V.S.N., divenuti tali nell
 
 ## Art. 2.
 
-I primi capisquadra ed i capisquadra delle legioni libiche permanenti di M.V.S.N., che alla prima applicazione del [Regio decreto 3 ottobre 1929, n. 1955](../Regi%20decreti/Ordinamento%20delle%20Legioni%20libiche%20permanenti%20di%20M.V.S.N.%20029U1955.md), opteranno per il rimpatrio e si troveranno nelle condizioni di cui alla lettera c) dell'art. 17 dello stesso Regio decreto, potranno chiedere di essere trasferiti nei corpi e reparti metropolitani del Regio esercito, in Patria, purche' vi esista disponibilita' di posti nei limiti degli organici, continuando, sino a quando interverra' la decisione del Ministero della guerra, a far parte del proprio ruolo ed a prestare servizio in Colonia, senza vincolo di ferma e col trattamento inerente al proprio grado.
+I primi capisquadra ed i capisquadra delle legioni libiche permanenti di M.V.S.N., che alla prima applicazione del [Regio decreto 3 ottobre 1929, n. 1955](Ordinamento%20delle%20Legioni%20libiche%20permanenti%20di%20M.V.S.N.%20029U1955.md), opteranno per il rimpatrio e si troveranno nelle condizioni di cui alla lettera c) dell'art. 17 dello stesso Regio decreto, potranno chiedere di essere trasferiti nei corpi e reparti metropolitani del Regio esercito, in Patria, purche' vi esista disponibilita' di posti nei limiti degli organici, continuando, sino a quando interverra' la decisione del Ministero della guerra, a far parte del proprio ruolo ed a prestare servizio in Colonia, senza vincolo di ferma e col trattamento inerente al proprio grado.
 
 ## Art. 3.
 

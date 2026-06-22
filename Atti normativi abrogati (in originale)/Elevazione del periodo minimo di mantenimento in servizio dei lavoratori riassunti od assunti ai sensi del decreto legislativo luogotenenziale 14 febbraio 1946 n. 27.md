@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 14 febbraio 1946, n. 27](../Decreti%20legislativi%20luogotenenziali/Norme%20integrative%20sulla%20riassunzione%20e%20assunzione%20Obbligatoria%20dei%20reduci%20nelle%20aziende%20private.md), recante norme integrative sulla riassunzione ed assunzione obbligatoria dei reduci nelle aziende private;
+Visto il [decreto legislativo luogotenenziale 14 febbraio 1946, n. 27](Norme%20integrative%20sulla%20riassunzione%20e%20assunzione%20Obbligatoria%20dei%20reduci%20nelle%20aziende%20private.md), recante norme integrative sulla riassunzione ed assunzione obbligatoria dei reduci nelle aziende private;
 
 Visto il [decreto legislativo luogotenenziale 6 marzo 1946, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-06;81), recante nuove disposizioni sull'assunzione obbligatoria dei reduci nelle aziende private;
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente dei Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-L'[art. 6 del decreto legislativo luogotenenziale 14 febbraio 1946, n. 27](../Decreti%20legislativi%20luogotenenziali/Norme%20integrative%20sulla%20riassunzione%20e%20assunzione%20Obbligatoria%20dei%20reduci%20nelle%20aziende%20private.md), e' sostituito dal seguente:
+L'[art. 6 del decreto legislativo luogotenenziale 14 febbraio 1946, n. 27](Norme%20integrative%20sulla%20riassunzione%20e%20assunzione%20Obbligatoria%20dei%20reduci%20nelle%20aziende%20private.md), e' sostituito dal seguente:
  "Art. 6. - I prestatori d'opera riassunti o assunti in servizio a norma degli articoli 1, 3 e 4 debbono essere mantenuti in servizio almeno per due anni dalla riassunzione o dalla assunzione, salvo i casi di licenziamento dovuti a giusta causa o a cessazione dell'attivita' dell'azienda.
  Per la durata di detto periodo di due anni, in caso di licenziamento per giusta causa, le persone contemplate nel comma precedente debbono essere sostituite con altro personale che si trovi nelle condizioni previste nell'art. 4".
 

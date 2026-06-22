@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 10 agosto 1893, n. 490](../Regi%20decreti/Col%20quale%20si%20dispone%20che%20il%20servizio%20delle%20strade%20ferrate%20nel%20Regno%20venga%20regolato%20secondo%20il%20tempo%20dellEuropa%20centrale.%20093U0490.md), riguardante l'adozione per l'Italia dell'ora del secondo fuso (ora dell'Europa Centrale);
+Visto il [R. decreto 10 agosto 1893, n. 490](Col%20quale%20si%20dispone%20che%20il%20servizio%20delle%20strade%20ferrate%20nel%20Regno%20venga%20regolato%20secondo%20il%20tempo%20dellEuropa%20centrale.%20093U0490.md), riguardante l'adozione per l'Italia dell'ora del secondo fuso (ora dell'Europa Centrale);
 
 Visto l'[art. 18 della legge 19 gennaio 1939, n. 129](Istituzione%20della%20Camera%20dei%20Fasci%20e%20delle%20Corporazioni.%20039U0129.md);
 

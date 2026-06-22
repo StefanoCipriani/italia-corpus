@@ -453,7 +453,7 @@ Sono autorizzati l'impegno e il pagamento delle spese del Ministero dell'agricol
 
 2.
 
-E' approvato, in termini di competenza e di cassa, il bilancio della gestione dell'ex Azienda di Stato per le foreste demaniali, per l'anno finanziario 1988, annesso allo stato di previsione del Ministero dell'agricoltura e delle foreste, ai termini dell'[articolo 10 della legge 5 gennaio 1933, n. 30](Ordinamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U0030.md) (Appendice n. 1). Ai fini della gestione predetta restano confermate le norme dello statuto-regolamento approvato con [regio decreto 5 ottobre 1933, n. 1577](../Regi%20decreti/Approvazione%20dello%20statuto-regolamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U1577.md).
+E' approvato, in termini di competenza e di cassa, il bilancio della gestione dell'ex Azienda di Stato per le foreste demaniali, per l'anno finanziario 1988, annesso allo stato di previsione del Ministero dell'agricoltura e delle foreste, ai termini dell'[articolo 10 della legge 5 gennaio 1933, n. 30](Ordinamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U0030.md) (Appendice n. 1). Ai fini della gestione predetta restano confermate le norme dello statuto-regolamento approvato con [regio decreto 5 ottobre 1933, n. 1577](Approvazione%20dello%20statuto-regolamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U1577.md).
 
 3.
 
@@ -603,11 +603,11 @@ Il Ministro del tesoro e' autorizzato a trasferire con propri decreti, in termin
 
 10.
 
-Il Ministro del tesoro, con propri decreti, provvedera', con variazioni compensative nel conto dei residui, a trasferire dai capitoli individuati con i decreti emanati in attuazione dell'articolo 107, primo comma, del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), ad apposito capitolo, da istituire nello stato di previsione del Ministero del tesoro ed in quelli della spesa delle amministrazioni ed aziende autonome, l'importo differenziale fra le somme indicate per ciascuno dei predetti capitoli e quelle effettivamente destinate agli interventi nei territori indicati nell'articolo 1 del predetto testo unico, da devolvere come ulteriore apporto destinato all'intervento straordinario nel Mezzogiorno.
+Il Ministro del tesoro, con propri decreti, provvedera', con variazioni compensative nel conto dei residui, a trasferire dai capitoli individuati con i decreti emanati in attuazione dell'articolo 107, primo comma, del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), ad apposito capitolo, da istituire nello stato di previsione del Ministero del tesoro ed in quelli della spesa delle amministrazioni ed aziende autonome, l'importo differenziale fra le somme indicate per ciascuno dei predetti capitoli e quelle effettivamente destinate agli interventi nei territori indicati nell'articolo 1 del predetto testo unico, da devolvere come ulteriore apporto destinato all'intervento straordinario nel Mezzogiorno.
 
 11.
 
-Il Ministro del tesoro e' autorizzato a provvedere, con propri decreti, al trasferimento dagli stati di previsione delle varie Amministrazioni statali a quello del Ministero del tesoro delle somme iscritte in capitoli concernenti spese inerenti ai servizi e forniture considerati dal [regio decreto 18 gennaio 1923, n. 94](../Regi%20decreti/Che%20istituisce%20presso%20il%20Ministero%20delle%20finanze%20un%20Provveditorato%20generale%20dello%20Stato.%20023U0094.md), e relative norme di applicazione.
+Il Ministro del tesoro e' autorizzato a provvedere, con propri decreti, al trasferimento dagli stati di previsione delle varie Amministrazioni statali a quello del Ministero del tesoro delle somme iscritte in capitoli concernenti spese inerenti ai servizi e forniture considerati dal [regio decreto 18 gennaio 1923, n. 94](Che%20istituisce%20presso%20il%20Ministero%20delle%20finanze%20un%20Provveditorato%20generale%20dello%20Stato.%20023U0094.md), e relative norme di applicazione.
 
 12.
 

@@ -107,7 +107,7 @@ La rubrica dell'[articolo 351 del codice di procedura penale](https://www.normat
 L'[articolo 352 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_352) e' sostituito dal seguente:
  "Dovere d'astenersi dal testimoniare e divieto di esame determinati dal segreto di Stato.
  I pubblici ufficiali, i pubblici impiegati e gli incaricati di pubblico servizio hanno l'obbligo di astenersi dal deporre e non debbono essere interrogati su quanto coperto dal segreto di Stato.
- Se l'autorita' procedente non ritiene fondata la dichiarazione fatta da alcuna delle predette persone in ordine alla segretezza, interpella il Presidente del Consiglio dei Ministri che, ove ritenga di confermarla, deve provvedervi entro sessanta giorni dal ricevimento della richiesta. In tal caso non si procede per il delitto di cui all'[articolo 372 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e, se la conoscenza di quanto coperto dal segreto di Stato sia essenziale, l'autorita' procedente dichiara di non doversi procedere nell'azione penale per l'esistenza di un segreto di Stato".
+ Se l'autorita' procedente non ritiene fondata la dichiarazione fatta da alcuna delle predette persone in ordine alla segretezza, interpella il Presidente del Consiglio dei Ministri che, ove ritenga di confermarla, deve provvedervi entro sessanta giorni dal ricevimento della richiesta. In tal caso non si procede per il delitto di cui all'[articolo 372 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e, se la conoscenza di quanto coperto dal segreto di Stato sia essenziale, l'autorita' procedente dichiara di non doversi procedere nell'azione penale per l'esistenza di un segreto di Stato".
 
 ## Art. 16.
 
@@ -119,7 +119,7 @@ Il Presidente del Consiglio dei Ministri da' comunicazione alle Camere con la re
 
 ## Art. 18.
 
-Sino alla data di emanazione di una nuova legge organica relativa alla materia del segreto, le fattispecie previste e punite dal libro II, titolo I, capi primo e quinto del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), concernenti il segreto politico interno internazionale, debbono essere riferite alla definizione di segreto di cui agli articoli 1 e 12 della presente legge.
+Sino alla data di emanazione di una nuova legge organica relativa alla materia del segreto, le fattispecie previste e punite dal libro II, titolo I, capi primo e quinto del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), concernenti il segreto politico interno internazionale, debbono essere riferite alla definizione di segreto di cui agli articoli 1 e 12 della presente legge.
 
 ## Art. 19.
 

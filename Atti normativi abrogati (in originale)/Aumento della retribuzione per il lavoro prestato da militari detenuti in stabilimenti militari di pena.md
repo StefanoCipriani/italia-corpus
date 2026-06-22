@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 10 febbraio 1943, n. 306](../Regi%20decreti/Disposizioni%20relative%20alla%20esecuzione%20della%20pena%20detentiva%20militare%20e%20attribuzioni%20dei%20giudici%20militari%20di%20sorveglianza.%20043U0306.md);
+Visto il [regio decreto 10 febbraio 1943, n. 306](Disposizioni%20relative%20alla%20esecuzione%20della%20pena%20detentiva%20militare%20e%20attribuzioni%20dei%20giudici%20militari%20di%20sorveglianza.%20043U0306.md);
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -22,7 +22,7 @@ Sulla proposta dei Ministro per la difesa, d'intesa con i Ministri per l'interno
 
 ## Articolo unico.
 
-I compensi fissati dall'[art. 12 del regio decreto 10 febbraio 1943, n. 306](../Regi%20decreti/Disposizioni%20relative%20alla%20esecuzione%20della%20pena%20detentiva%20militare%20e%20attribuzioni%20dei%20giudici%20militari%20di%20sorveglianza.%20043U0306.md) per la retribuzione dei lavoro prestato da militari detenuti in stabilimenti militari di pena, sono quintuplicati.
+I compensi fissati dall'[art. 12 del regio decreto 10 febbraio 1943, n. 306](Disposizioni%20relative%20alla%20esecuzione%20della%20pena%20detentiva%20militare%20e%20attribuzioni%20dei%20giudici%20militari%20di%20sorveglianza.%20043U0306.md) per la retribuzione dei lavoro prestato da militari detenuti in stabilimenti militari di pena, sono quintuplicati.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

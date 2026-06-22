@@ -46,7 +46,7 @@ Chiunque, dopo scaduto il termine di consegna stabilito dalle autorita' competen
 
 ## Art. 4.
 
-Salvo quanto disposto negli articoli precedenti, le pene previste per i reati contemplati nel libro secondo, titolo sesto, capo primo, e titolo tredicesimo, capo primo del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono aumentate da un terzo alla meta'.
+Salvo quanto disposto negli articoli precedenti, le pene previste per i reati contemplati nel libro secondo, titolo sesto, capo primo, e titolo tredicesimo, capo primo del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono aumentate da un terzo alla meta'.
 
 ## Art. 5.
 

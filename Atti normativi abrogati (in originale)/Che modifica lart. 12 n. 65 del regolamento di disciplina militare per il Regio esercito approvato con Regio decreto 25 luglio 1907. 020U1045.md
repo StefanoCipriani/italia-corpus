@@ -36,7 +36,7 @@ L'art. 12, n. 65, del regolamento di disciplina militare per il Regio esercito, 
  
  E vietato di vestirla nell'esercizio della propria arte o professione, qualunque essa sia. 
  
- Le eventuali infrazioni alle suddette disposizioni ricadranno sotto le sanzioni penali di cui all'art. 186 del «[Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune» relative all'uso indebito della divisa, distintivi, ecc., beninteso senza pregiudizio dei provvedimenti disciplinari del caso.
+ Le eventuali infrazioni alle suddette disposizioni ricadranno sotto le sanzioni penali di cui all'art. 186 del «[Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune» relative all'uso indebito della divisa, distintivi, ecc., beninteso senza pregiudizio dei provvedimenti disciplinari del caso.
 
 ## Art. 2.
 

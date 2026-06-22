@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 23 ottobre 1924, n. 1803](../Regi%20decreti/Costituzione%20in%20Ente%20morale%20dellOpera%20nazionale%20di%20assistenza%20allItalia%20Redenta.%20024U1803.md), concernente l'erezione in ente morale dell'Opera nazionale di assistenza all'Italia Redenta;
+Visto il [R. decreto 23 ottobre 1924, n. 1803](Costituzione%20in%20Ente%20morale%20dellOpera%20nazionale%20di%20assistenza%20allItalia%20Redenta.%20024U1803.md), concernente l'erezione in ente morale dell'Opera nazionale di assistenza all'Italia Redenta;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

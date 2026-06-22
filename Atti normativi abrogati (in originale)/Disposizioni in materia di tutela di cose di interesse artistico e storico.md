@@ -38,7 +38,7 @@ In caso di assoluta urgenza il Ministro puo' adottare sonz'altro i provvedimenti
 
 ## Art. 5.
 
-In quanto compatibili con la presente legge, restano in vigore le disposizioni della [legge 1 giugno 1939, n. 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1989), del regolamento approvato con [regio decreto 30 gennaio 1913, n. 363](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md) e le altre disposizioni in materia di tutela delle cose di interesse o storico.
+In quanto compatibili con la presente legge, restano in vigore le disposizioni della [legge 1 giugno 1939, n. 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1989), del regolamento approvato con [regio decreto 30 gennaio 1913, n. 363](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md) e le altre disposizioni in materia di tutela delle cose di interesse o storico.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

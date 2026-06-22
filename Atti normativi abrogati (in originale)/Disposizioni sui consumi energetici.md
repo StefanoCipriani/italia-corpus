@@ -28,10 +28,10 @@ Capo I
 
 ### Art. 1.
 
-Al fine di realizzare una politica di risparmio mediante un uso piu' razionale dell'energia, l'esercizio degli impianti di produzione, distribuzione e utilizzazione di calore installati negli edifici di cui all'[art. 3 del decreto del Presidente della Repubblica 28 giugno 1977, n. 1052](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20alla%20legge%2030%20aprile%201976%20n.%20373%20relativa%20al%20consumo%20energetico%20per%20usi%20termici%20negli%20edifici.md), categorie da E1 a E7, e' disciplinato dal presente decreto.
+Al fine di realizzare una politica di risparmio mediante un uso piu' razionale dell'energia, l'esercizio degli impianti di produzione, distribuzione e utilizzazione di calore installati negli edifici di cui all'[art. 3 del decreto del Presidente della Repubblica 28 giugno 1977, n. 1052](../DPR/Regolamento%20di%20esecuzione%20alla%20legge%2030%20aprile%201976%20n.%20373%20relativa%20al%20consumo%20energetico%20per%20usi%20termici%20negli%20edifici.md), categorie da E1 a E7, e' disciplinato dal presente decreto.
  Le disposizioni del presente decreto non si applicano:
  a) agli edifici adibiti a ricovero o cura di minori o anziani;
- b) agli edifici classificati nella categoria E3 e, limitatamente alle parti adibite a servizi senza interruzione giornaliera dell'attivita', a quelli classificati nelle categorie E2 ed E5 del succitato [decreto del Presidente della Repubblica 28 giugno 1977, n. 1052](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20alla%20legge%2030%20aprile%201976%20n.%20373%20relativa%20al%20consumo%20energetico%20per%20usi%20termici%20negli%20edifici.md);
+ b) agli edifici classificati nella categoria E3 e, limitatamente alle parti adibite a servizi senza interruzione giornaliera dell'attivita', a quelli classificati nelle categorie E2 ed E5 del succitato [decreto del Presidente della Repubblica 28 giugno 1977, n. 1052](../DPR/Regolamento%20di%20esecuzione%20alla%20legge%2030%20aprile%201976%20n.%20373%20relativa%20al%20consumo%20energetico%20per%20usi%20termici%20negli%20edifici.md);
  c) alle sedi delle rappresentanze diplomatiche e di organizzazioni internazionali, che non siano ubicate in stabili condominiali.
  Su iniziativa del Ministro dell'industria, del commercio e dell'artigianato, il Ministro degli affari esteri promuove le opportune intese con le rappresentanze diplomatiche e le organizzazioni internazionali allo scopo di limitare i consumi energetici.
 
@@ -118,7 +118,7 @@ Capo III
 ### Art. 10.
 
 Spetta ai comuni assicurare l'osservanza delle disposizioni di cui al capo I del presente decreto.
- Per accertare il rispetto degli orari e dei periodi di riscaldamento, nonche' dell'avvenuta manutenzione degli impianti ai sensi della [legge 30 aprile 1976, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;373), e del relativo regolamento di esecuzione, approvato con [decreto del Presidente della Repubblica 28 giugno 1977, n. 1052](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20alla%20legge%2030%20aprile%201976%20n.%20373%20relativa%20al%20consumo%20energetico%20per%20usi%20termici%20negli%20edifici.md), il comune ha facolta' di procedere in ogni momento a verifica mediante controllo. L'accesso ai locali dove e' situato l'impianto di produzione del calore deve essere permesso agli organi di controllo, a loro richiesta.
+ Per accertare il rispetto degli orari e dei periodi di riscaldamento, nonche' dell'avvenuta manutenzione degli impianti ai sensi della [legge 30 aprile 1976, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;373), e del relativo regolamento di esecuzione, approvato con [decreto del Presidente della Repubblica 28 giugno 1977, n. 1052](../DPR/Regolamento%20di%20esecuzione%20alla%20legge%2030%20aprile%201976%20n.%20373%20relativa%20al%20consumo%20energetico%20per%20usi%20termici%20negli%20edifici.md), il comune ha facolta' di procedere in ogni momento a verifica mediante controllo. L'accesso ai locali dove e' situato l'impianto di produzione del calore deve essere permesso agli organi di controllo, a loro richiesta.
 
 ### Art. 11.
 

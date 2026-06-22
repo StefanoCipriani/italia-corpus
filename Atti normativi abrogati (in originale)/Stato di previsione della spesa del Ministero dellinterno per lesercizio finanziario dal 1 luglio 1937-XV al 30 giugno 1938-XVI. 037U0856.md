@@ -18,7 +18,7 @@ L'integrazione, a carico dello Stato, dei bilanci dell'Amministrazione provincia
 
 ## Art. 3.
 
-E' stabilito in L. 108.000.000, per l'esercizio finanziario 1937-38, il contributo dello Stato a favore dell'Opera Nazionale per la protezione e l'assistenza della maternita' e dell'infanzia, di cui all'art. 7, n. 1, del testo unico approvato con [R. decreto 24 dicembre 1934, n. 2316](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20protezione%20ed%20assistenza%20della%20maternita%20ed%20infanzia%20034U2316.md).
+E' stabilito in L. 108.000.000, per l'esercizio finanziario 1937-38, il contributo dello Stato a favore dell'Opera Nazionale per la protezione e l'assistenza della maternita' e dell'infanzia, di cui all'art. 7, n. 1, del testo unico approvato con [R. decreto 24 dicembre 1934, n. 2316](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20protezione%20ed%20assistenza%20della%20maternita%20ed%20infanzia%20034U2316.md).
 
 ## Art. 4.
 

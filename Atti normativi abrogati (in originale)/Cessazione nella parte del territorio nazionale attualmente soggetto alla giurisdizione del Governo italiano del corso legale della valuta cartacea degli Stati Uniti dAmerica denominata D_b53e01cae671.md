@@ -20,7 +20,7 @@ Visto il Bando Reale del 24 settembre 1943, n. 61 'A.C.
 
 Visto il decreto 28 aprile 1910, n, 204;
 
-Visto il [R. decreto-legge 8 dicembre 1934, n. 1942](Provvedimenti%20concernenti%20la%20cessione%20delle%20divise%20e%20la%20dichiarazione%20del%20possesso%20di%20titoli%20emessi%20allestero.%20034U1942.md), convertito nella [legge 9 gennaio 1936, n. 103](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20dicembre%201934-XIII%20n.%201942%20recante%20provvedimenti%20concernenti%20la%20cessione%20delle%20divise%20e%20la%20dichiarazione%20del%20possesso%20dei%20titoli%20emessi%20alleste_eda3074c92a5.md);
+Visto il [R. decreto-legge 8 dicembre 1934, n. 1942](Provvedimenti%20concernenti%20la%20cessione%20delle%20divise%20e%20la%20dichiarazione%20del%20possesso%20di%20titoli%20emessi%20allestero.%20034U1942.md), convertito nella [legge 9 gennaio 1936, n. 103](Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20dicembre%201934-XIII%20n.%201942%20recante%20provvedimenti%20concernenti%20la%20cessione%20delle%20divise%20e%20la%20dichiarazione%20del%20possesso%20dei%20titoli%20emessi%20alleste_eda3074c92a5.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

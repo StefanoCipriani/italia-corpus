@@ -152,7 +152,7 @@ Il conduttore di un immobile destinato ad uso di abitazione, nei cui confronti s
  Qualora i familiari con lui conviventi abbiano presentato distinte dichiarazioni dei redditi, all'istanza di nuova fissazione dell'esecuzione deve essere allegata analoga attestazione sottoscritta da ciascun componente il nucleo familiare.
  La mancanza delle attestazioni di cui sopra e' causa di improcedibilita' della istanza.
  Il beneficiario del provvedimento di rilascio che intenda opporsi alla fissazione della nuova esecuzione deve assolvere con le medesime modalita' all'onere dell'attestazione dei redditi propri e dei familiari con lui conviventi.
- In caso di dichiarazione mendace si applica l'[art. 495 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ In caso di dichiarazione mendace si applica l'[art. 495 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 11.
 

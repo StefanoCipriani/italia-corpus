@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 23 febbraio 1928, n. 327](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), che approva il testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti;
+Visto il [R. decreto 23 febbraio 1928, n. 327](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), che approva il testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti;
 
-Visto il [R. decreto 24 dicembre 1911, n. 1517](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20il%20personale%20civile%20tecnico%20dellIstituto%20geografico%20Militare%20011U1517.md), che approva il regolamento per il personale civile tecnico dell'Istituto geografico militare;
+Visto il [R. decreto 24 dicembre 1911, n. 1517](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20il%20personale%20civile%20tecnico%20dellIstituto%20geografico%20Militare%20011U1517.md), che approva il regolamento per il personale civile tecnico dell'Istituto geografico militare;
 
 Visto l'[art. 3, n.2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

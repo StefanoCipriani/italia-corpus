@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Vista la [legge 28 maggio 1936, n. 1059](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20aprile%201936-XIV%20n.%20771%20riguardante%20il%20diritto%20di%20urgenza%20per%20il%20rilascio%20dei%20certificati%20del%20casellario%20giudiziale.%20036U1059.md), che stabilisce il diritto di urgenza pel rilascio dei certificati del casellario giudiziale;
+Vista la [legge 28 maggio 1936, n. 1059](Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20aprile%201936-XIV%20n.%20771%20riguardante%20il%20diritto%20di%20urgenza%20per%20il%20rilascio%20dei%20certificati%20del%20casellario%20giudiziale.%20036U1059.md), che stabilisce il diritto di urgenza pel rilascio dei certificati del casellario giudiziale;
 
 Visti gli [articoli 1 del R. decreto-legge 2 maggio 1942, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-05-02;501#art_1), e 2 del [R. decreto-legge 1° marzo 1945, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1945-03-01;89), sull'aumento del diritto di urgenza;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di Stato per la grazia e giustizia, d'int
 
 ## Articolo unico.
 
-Il diritto di urgenza stabilito con la [legge 28 maggio 1936, n. 1059](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20aprile%201936-XIV%20n.%20771%20riguardante%20il%20diritto%20di%20urgenza%20per%20il%20rilascio%20dei%20certificati%20del%20casellario%20giudiziale.%20036U1059.md), per i certificati del casellario giudiziale, da rilasciarsi ai privati nella stessa giornata della richiesta, e' aumentato a lire trenta. 
+Il diritto di urgenza stabilito con la [legge 28 maggio 1936, n. 1059](Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20aprile%201936-XIV%20n.%20771%20riguardante%20il%20diritto%20di%20urgenza%20per%20il%20rilascio%20dei%20certificati%20del%20casellario%20giudiziale.%20036U1059.md), per i certificati del casellario giudiziale, da rilasciarsi ai privati nella stessa giornata della richiesta, e' aumentato a lire trenta. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
  

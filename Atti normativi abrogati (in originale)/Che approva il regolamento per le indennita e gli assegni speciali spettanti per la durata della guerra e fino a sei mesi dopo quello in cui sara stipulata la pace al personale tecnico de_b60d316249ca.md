@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata e dei poteri conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Veduto l'[art. 2 del R. decreto 10 giugno 1906, n. 310](../Regi%20decreti/Sostituzione%20di%20un%20comma%20allart.%20157%20del%20regolamento%20sul%20personale%20degli%20uffici%20finanziari.%20006U0310.md), modificato in parte dal [R. decreto 29 settembre 1910, n. 740](../Regi%20decreti/Che%20sostituisce%20due%20comma%20al%20primo%20dellart.%20166%20del%20decreto%20riguardante%20il%20personale%20delle%20tasse%20di%20fabbricazione.%20010U0740.md); 
+ Veduto l'[art. 2 del R. decreto 10 giugno 1906, n. 310](Sostituzione%20di%20un%20comma%20allart.%20157%20del%20regolamento%20sul%20personale%20degli%20uffici%20finanziari.%20006U0310.md), modificato in parte dal [R. decreto 29 settembre 1910, n. 740](Che%20sostituisce%20due%20comma%20al%20primo%20dellart.%20166%20del%20decreto%20riguardante%20il%20personale%20delle%20tasse%20di%20fabbricazione.%20010U0740.md); 
  
  Udito il Consiglio dei ministri; 
  

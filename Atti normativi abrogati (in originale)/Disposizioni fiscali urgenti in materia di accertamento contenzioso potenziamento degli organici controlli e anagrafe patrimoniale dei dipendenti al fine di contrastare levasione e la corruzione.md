@@ -30,7 +30,7 @@ Ai fini delle imposte sui redditi e sul valore aggiunto, la rettifica delle dich
 
 2.
 
-La definizione e' esclusa nelle ipotesi che costituiscono reato fiscale ai sensi del [decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20429%20recante%20norme%20per%20la%20repressione%20dellevasione%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20e%20per%20_832c3a3ade70.md), e successive modificazioni.
+La definizione e' esclusa nelle ipotesi che costituiscono reato fiscale ai sensi del [decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20429%20recante%20norme%20per%20la%20repressione%20dellevasione%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20e%20per%20_832c3a3ade70.md), e successive modificazioni.
 
 3.
 
@@ -196,7 +196,7 @@ I soggetti di cui al comma 1, con dichiarazione scritta, comunicano al SIS i dat
 
 3.
 
-Con il decreto di cui all'articolo 9 sono stabilite le modalita' di attuazione delle disposizioni di cui al comma 2, la cui mancata osservanza costituisce grave contrasto con i doveri di fedelta' dell'impiegato ai sensi dell'articolo 84, comma 1, lettera b), del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+Con il decreto di cui all'articolo 9 sono stabilite le modalita' di attuazione delle disposizioni di cui al comma 2, la cui mancata osservanza costituisce grave contrasto con i doveri di fedelta' dell'impiegato ai sensi dell'articolo 84, comma 1, lettera b), del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 4.
 
@@ -258,7 +258,7 @@ Al concorso per il profilo professionale di funzionario tributario dell'ottava q
 
 Il [comma 1 dell'articolo 10 della legge 29 ottobre 1991, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358#art_10-com1), e' sostituito dai seguenti: 
  " 1. Il personale appartenente alle qualifiche dirigenziali del Ministero delle finanze, escluso quello del Dipartimento delle dogane e delle imposte indirette, e' inquadrato, secondo le modalita' stabilite dall'articolo 12, in un ruolo amministrativo e in un ruolo tecnico, aventi dotazioni organiche il cui numero complessivo non puo' superare le duemilaquattrocentoquindici unita', di cui cinque per il livello di funzione B, trentasei per il livello di funzione C, seicentoquattro per il livello di funzione D e millesettecentosettanta per il livello di funzione E. 
- 1-bis. Nella tabella A allegata al [decreto legislativo 26 aprile 1990, n. 105](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Organizzazione%20centrale%20e%20periferica%20dellAmministrazione%20delle%20dogane%20e%20delle%20imposte%20indirette%20e%20ordinamento%20del%20relativo%20personale%20in%20attuazione%20della%20legge%2010%20ottobre%201989%20n.%20349.md), e' aggiunto un posto di funzione di consigliere ministeriale nella qualifica di dirigente generale di livello C.".
+ 1-bis. Nella tabella A allegata al [decreto legislativo 26 aprile 1990, n. 105](../Decreti%20Legislativi/Organizzazione%20centrale%20e%20periferica%20dellAmministrazione%20delle%20dogane%20e%20delle%20imposte%20indirette%20e%20ordinamento%20del%20relativo%20personale%20in%20attuazione%20della%20legge%2010%20ottobre%201989%20n.%20349.md), e' aggiunto un posto di funzione di consigliere ministeriale nella qualifica di dirigente generale di livello C.".
 
 2.
 

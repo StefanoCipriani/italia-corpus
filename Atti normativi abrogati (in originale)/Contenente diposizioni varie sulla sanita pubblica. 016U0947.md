@@ -30,7 +30,7 @@ Capo II.
 
 All'ultimo comma dell'[art. 17 della legge 22 dicembre 1883, numero 5849](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1883-12-22;5849#art_17), sono sostituite le disposizioni seguenti: 
  
- «Le infrazioni alle disposizioni di questo regolamento saranno punite con pene pecuniarie: da L. 5 a L. 1000, salva l'applicazione delle pene portate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e da altre leggi. 
+ «Le infrazioni alle disposizioni di questo regolamento saranno punite con pene pecuniarie: da L. 5 a L. 1000, salva l'applicazione delle pene portate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e da altre leggi. 
  
  «Sono estese a tali infrazioni la competenza del capitano del porto di arrivo delle navi, stabilita dall'art. 434, ultimo alinea, del Codice per la marina mercantile, e la procedura contemplata dall'art. 448 dello stesso Codice, modificato dall'[art. 11 della legge 11 aprile 1886, n. 3781](Concernente%20le%20concessioni%20di%20tratti%20di%20spiaggia%20ad%20uso%20di%20cantiere%20per%20la%20costruzione%20di%20navi%20086U3781.md). 
  
@@ -126,7 +126,7 @@ Capo VI.
 
 ### Art. 12.
 
-Alla tabella dei diritti per la visita del bestiame ai confini dello Stato annessa all'[art. 51 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato col [R. decreto 1° agosto 1907, n. 636](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' sostituita la tabella annessa alla presente legge. 
+Alla tabella dei diritti per la visita del bestiame ai confini dello Stato annessa all'[art. 51 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato col [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' sostituita la tabella annessa alla presente legge. 
  
  Il maggior provento portato dalla tabella stessa per il diritto di visita al pollame vivo e morto in importazione e in esportazione, alle budella fresche e salate e alle pelli in importazione, e' integralmente destinato ad aumento del fondo di riserva per le epizoozie di cui al [secondo comma dell'art. 4 della legge 26 giugno 1902, n. 272](Circa%20modificazioni%20ad%20alcuni%20articoli%20di%20quella%20in%20data%2022%20dicembre%201888%20n.%205849%20sullassistenza%20e%20vigilanza%20zooiatrica.%20002U0272.md).
 
@@ -146,7 +146,7 @@ I contravventori alle disposizioni contenute al capo IV della presente legge e a
 
 ### Art. 15.
 
-E' data facolta' al Governo del Re di modificare il regolamento approvato con [R. decreto 27 luglio 1905, n. 487](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20profilassi%20delle%20malattie%20celtiche.%20005U0487.md), e di coordinare in testo unico le disposizioni del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 1° agosto 1907, n. 636](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e quelle della presente e delle altre leggi che hanno modificate le norme in esso contenute. 
+E' data facolta' al Governo del Re di modificare il regolamento approvato con [R. decreto 27 luglio 1905, n. 487](Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20profilassi%20delle%20malattie%20celtiche.%20005U0487.md), e di coordinare in testo unico le disposizioni del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e quelle della presente e delle altre leggi che hanno modificate le norme in esso contenute. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331), convertito nella [legge 16 giugno 1927, n. 1132](Conversione%20in%20legge%20del%20R.%20decreto-legge%209%20luglio%201926%20numero%201331%20relativo%20al%20controllo%20sulla%20combustione.%20027U1132.md), con il quale e' stata istituita l'Associazione nazionale per il controllo della combustione;
 
-Visto il [R. decreto 21 novembre 1929, n. 2476](../Regi%20decreti/Modificazioni%20alla%20costituzione%20del%20Consiglio%20tecnico%20dellAssociazione%20nazionale%20per%20il%20controllo%20della%20combustione.%20029U2476.md), con il quale e' stato modificato il primo comma dell'art. 8 del precitato R. decreto-legge, concernente la composizione del Consiglio tecnico dell'Associazione predetta;
+Visto il [R. decreto 21 novembre 1929, n. 2476](Modificazioni%20alla%20costituzione%20del%20Consiglio%20tecnico%20dellAssociazione%20nazionale%20per%20il%20controllo%20della%20combustione.%20029U2476.md), con il quale e' stato modificato il primo comma dell'art. 8 del precitato R. decreto-legge, concernente la composizione del Consiglio tecnico dell'Associazione predetta;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -34,7 +34,7 @@ All'[art. 6 del R. decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.
 
 ## Art. 2.
 
-Il primo comma dell'art. 8 del precitato [R. decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331), modificato con [R. decreto 21 novembre 1929, n. 2476](../Regi%20decreti/Modificazioni%20alla%20costituzione%20del%20Consiglio%20tecnico%20dellAssociazione%20nazionale%20per%20il%20controllo%20della%20combustione.%20029U2476.md), e' sostituito dal seguente: 
+Il primo comma dell'art. 8 del precitato [R. decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331), modificato con [R. decreto 21 novembre 1929, n. 2476](Modificazioni%20alla%20costituzione%20del%20Consiglio%20tecnico%20dellAssociazione%20nazionale%20per%20il%20controllo%20della%20combustione.%20029U2476.md), e' sostituito dal seguente: 
  
  «Il Consiglio tecnico e' composto di 9 membri nominati dal Ministro per le corporazioni, e cioe' di due rappresentanti dei consortisti designati dalla Confederazione fascista degli industriali, di tre esperti in rappresentanza del Ministero delle corporazioni e di quattro direttori delle sezioni regionali di cui all'art. 1. 
  

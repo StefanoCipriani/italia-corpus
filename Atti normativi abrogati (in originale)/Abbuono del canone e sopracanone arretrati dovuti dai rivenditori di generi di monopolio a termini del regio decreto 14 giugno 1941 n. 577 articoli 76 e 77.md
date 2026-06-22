@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 14 giugno 1941, n. 577](../Regi%20decreti/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md), che approva l'ordinamento dei servizi di distribuzione e vendita dei generi di monopolio;
+Visto il [regio decreto 14 giugno 1941, n. 577](Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md), che approva l'ordinamento dei servizi di distribuzione e vendita dei generi di monopolio;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per le finanze e il tesoro; HA SANZIONATO E PROMULGA
 
 ## Art. 1.
 
-E' abbuonato il pagamento del canone e sopracanone previsti dagli [articoli 76](../Regi%20decreti/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md) e [77 del regio decreto 14 giugno 1941, n. 577](../Regi%20decreti/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md), non effettuato dai rivenditori generi di monopolio nel periodo 1° aprile 1944-30 giugno 1946.
+E' abbuonato il pagamento del canone e sopracanone previsti dagli [articoli 76](Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md) e [77 del regio decreto 14 giugno 1941, n. 577](Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md), non effettuato dai rivenditori generi di monopolio nel periodo 1° aprile 1944-30 giugno 1946.
 
 ## Art. 2.
 

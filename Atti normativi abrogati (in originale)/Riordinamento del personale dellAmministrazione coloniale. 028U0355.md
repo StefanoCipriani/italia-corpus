@@ -98,7 +98,7 @@ Al personale dei ruoli coloniali si applicano integralmente le disposizioni di c
  
  Le competenze in esso attribuite al Ministro per gli affari esteri sono devolute al Ministro per le colonie. 
  
- Al [primo comma dell'art. 14 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' apportata la seguente aggiunta: 
+ Al [primo comma dell'art. 14 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' apportata la seguente aggiunta: 
  
  « i) della carriera del personale direttivo dell'Amministrazione coloniale».
 
@@ -176,7 +176,7 @@ I vincitori del concorso sono nominati, con decreto Ministeriale, aspiranti aiut
 
 ## Art. 13.
 
-Le promozioni nella carriera del personale ausiliario avvengono secondo le norme degli [articoli 6](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), [7](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), [8](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [9 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
+Le promozioni nella carriera del personale ausiliario avvengono secondo le norme degli [articoli 6](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), [7](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), [8](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [9 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  Le norme esecutive per gli esami di concorso e di idoneita' per la promozione al grado 9° saranno stabilite nel regolamento d'attuazione del presente decreto. L'esame dovra' comprendere una prova a carattere pratico di arabo, o di amarico, o di tigrino, o di somalo a scelta del candidato.
 
@@ -205,7 +205,7 @@ Nella carriera del personale subalterno dell'Amministrazione coloniale sono isti
  
  Al posto di primo custode e' assegnato lo stipendio iniziale di L. 6800 ed il supplemento di servizio attivo di L. 400: a quello di custode lo stipendio di L. 4800 ed il supplemento di servizio attivo di L. 300, oltre per tutti l'aumento del 10 % sullo stipendio e sul supplemento di servizio attivo ai sensi del [R. decreto 31 marzo 1925, n. 363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-31;363). 
  
- Ai posti di primo custode e di custode sono concessi gli aumenti periodici stabiliti nella tabella n. 4 dell'allegato V al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), per il personale subalterno dei monumenti, musei, gallerie e scavi di antichita'.
+ Ai posti di primo custode e di custode sono concessi gli aumenti periodici stabiliti nella tabella n. 4 dell'allegato V al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), per il personale subalterno dei monumenti, musei, gallerie e scavi di antichita'.
 
 ## Art. 18.
 
@@ -213,7 +213,7 @@ Si applicheranno all'ammissione, alle promozioni ed alle assegnazioni di stipend
 
 ## Art. 19.
 
-Il collocamento a disposizione previsto dall'[art. 14 del R. decreto 31 ottobre 1923, n. 2504](../Regi%20decreti/Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md), e' consentito per i soli funzionari della carriera direttiva dell'Amministrazione coloniale di grado non inferiore al sesto. 
+Il collocamento a disposizione previsto dall'[art. 14 del R. decreto 31 ottobre 1923, n. 2504](Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md), e' consentito per i soli funzionari della carriera direttiva dell'Amministrazione coloniale di grado non inferiore al sesto. 
  
  I funzionari collocati a disposizione non possono complessivamente superare il numero di otto.
 
@@ -257,7 +257,7 @@ Tutto il personale di ruolo che non sara' stato eliminato a norma degli articoli
  
  Il personale dei due distinti ruoli attualmente esistenti di gruppo C, quello degli ufficiali ed aiutanti coloniali e quello degli archivisti ed applicati, sara' riunito nell'unico ruolo risultante di gruppo C (personale d'ordine) ed inquadrato nei vari gradi in ordine di anzianita'. 
  
- Gli attuali ufficiali coloniali capi (grado 8°, gruppo C) saranno mantenuti nel grado presentemente ricoperto sino ad eliminazione e conserveranno, ad personani, il trattamento che al grado stesso e' attribuito dal [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), che approva l'ordinamento gerarchico delle Amministrazioni dello Stato, colla qualifica transitoria di ufficiali coloniali capi di seconda categoria.
+ Gli attuali ufficiali coloniali capi (grado 8°, gruppo C) saranno mantenuti nel grado presentemente ricoperto sino ad eliminazione e conserveranno, ad personani, il trattamento che al grado stesso e' attribuito dal [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), che approva l'ordinamento gerarchico delle Amministrazioni dello Stato, colla qualifica transitoria di ufficiali coloniali capi di seconda categoria.
 
 ### Art. 28.
 

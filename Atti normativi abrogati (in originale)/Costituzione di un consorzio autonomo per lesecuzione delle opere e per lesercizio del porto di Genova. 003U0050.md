@@ -328,7 +328,7 @@ Sono sottoposti all'approvazione del Ministero dei lavori pubblici, previo parer
 
 ### Art. 25.
 
-E' revocato il [R. decreto del 6 dicembre 1888, n. 5881](../Regi%20decreti/Che%20istituisce%20una%20Commissione%20permanente%20per%20la%20direzione%20dei%20servizi%20del%20porto%20di%20Genova%20e%20ne%20approva%20lunito%20regolamento.%20088U5881.md), serie 3ª, che istitui' una Commissione per la direzione dei servizi del porto di Genova. 
+E' revocato il [R. decreto del 6 dicembre 1888, n. 5881](Che%20istituisce%20una%20Commissione%20permanente%20per%20la%20direzione%20dei%20servizi%20del%20porto%20di%20Genova%20e%20ne%20approva%20lunito%20regolamento.%20088U5881.md), serie 3ª, che istitui' una Commissione per la direzione dei servizi del porto di Genova. 
  
  Le attribuzioni di detta Commissione sono deferite al Consorzio.
 

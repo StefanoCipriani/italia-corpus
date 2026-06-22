@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Al "Regolamento sugli assegni d'imbarco al personale della Marina", approvato col [regio decreto 15 luglio 1938, n. 1156](../Regi%20decreti/Regolamento%20sugli%20assegni%20dimbarco%20al%20personale%20della%20Regia%20marina.%20038U1156.md), sono apportate le modifiche di cui ai successivi articoli.
+Al "Regolamento sugli assegni d'imbarco al personale della Marina", approvato col [regio decreto 15 luglio 1938, n. 1156](Regolamento%20sugli%20assegni%20dimbarco%20al%20personale%20della%20Regia%20marina.%20038U1156.md), sono apportate le modifiche di cui ai successivi articoli.
 
 ## Art. 2.
 
@@ -109,7 +109,7 @@ I paragrafi 1 e 3 dell'art. 45 sono sostituiti dai seguenti:
 ## Art. 13.
 
 Il decreto luogotenenziale febbraio 1945, n. 61 e' abrogato.
- Le tabelle A, B, C, D, F, G, H, I, L, M annesse al predetto [decreto luogotenenziale 1 febbraio 1945, n. 61](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-01;61) e la tabella E allegata al [regio decreto 15 luglio 1938, n. 1156](../Regi%20decreti/Regolamento%20sugli%20assegni%20dimbarco%20al%20personale%20della%20Regia%20marina.%20038U1156.md), sono sostituite dalle corrispondenti tabelle, viste e sottoscritte dal Ministro per il tesoro e dal Ministro per la difesa, allegate al presente decreto.
+ Le tabelle A, B, C, D, F, G, H, I, L, M annesse al predetto [decreto luogotenenziale 1 febbraio 1945, n. 61](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-01;61) e la tabella E allegata al [regio decreto 15 luglio 1938, n. 1156](Regolamento%20sugli%20assegni%20dimbarco%20al%20personale%20della%20Regia%20marina.%20038U1156.md), sono sostituite dalle corrispondenti tabelle, viste e sottoscritte dal Ministro per il tesoro e dal Ministro per la difesa, allegate al presente decreto.
 
 ## Art. 14.
 

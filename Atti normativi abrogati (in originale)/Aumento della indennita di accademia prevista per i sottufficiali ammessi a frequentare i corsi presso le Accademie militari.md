@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle disposizioni sul reclutamento degli ufficiali dell'Esercito, approvato con [regio decreto 14 marzo 1938, n. 596](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md);
+Visto il testo unico delle disposizioni sul reclutamento degli ufficiali dell'Esercito, approvato con [regio decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md);
 
-Visto il testo unico delle disposizioni concernenti gli stipendi ed assegni fissi per l'Esercito, approvato con [regio decreto 31 dicembre 1928, n. 3458](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), e successive modificazioni;
+Visto il testo unico delle disposizioni concernenti gli stipendi ed assegni fissi per l'Esercito, approvato con [regio decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), e successive modificazioni;
 
-Visto il [regio decreto 19 aprile 1907, n. 201](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md), che approva il regolamento per le indennita' eventuali dell'Esercito, e successive modificazioni;
+Visto il [regio decreto 19 aprile 1907, n. 201](Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md), che approva il regolamento per le indennita' eventuali dell'Esercito, e successive modificazioni;
 
 Visto il [regio decreto 1 maggio 1930, n. 726](../Regi%20decreti/Ordinamento%20delle%20scuole%20militari.%20030U0726.md), sull'ordinamento delle Scuole militari, e successive modificazioni;
 
-Visto il [regio decreto-legge 27 giugno 1935, n. 1285](Trattamento%20economico%20degli%20allievi%20delle%20Accademie%20militari%20provenienti%20dai%20sottufficiali%20che%20rinunziano%20al%20grado%20per%20la%20durata%20dei%20corsi.%20035U1285.md), convertito nella [legge 6 gennaio 1936, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20giugno%201935-XIII%20n.%201285%20concernente%20il%20trattamento%20economico%20degli%20allievi%20delle%20Accademie%20Militari%20provenienti%20dai%20sottufficiali%20che%20rinunci_a12b378633e1.md), concernente il trattamento economico degli allievi delle Accademie militari provenienti dai sottufficiali che rinunciano al grado per la durata dei corsi;
+Visto il [regio decreto-legge 27 giugno 1935, n. 1285](Trattamento%20economico%20degli%20allievi%20delle%20Accademie%20militari%20provenienti%20dai%20sottufficiali%20che%20rinunziano%20al%20grado%20per%20la%20durata%20dei%20corsi.%20035U1285.md), convertito nella [legge 6 gennaio 1936, n. 90](Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20giugno%201935-XIII%20n.%201285%20concernente%20il%20trattamento%20economico%20degli%20allievi%20delle%20Accademie%20Militari%20provenienti%20dai%20sottufficiali%20che%20rinunci_a12b378633e1.md), concernente il trattamento economico degli allievi delle Accademie militari provenienti dai sottufficiali che rinunciano al grado per la durata dei corsi;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

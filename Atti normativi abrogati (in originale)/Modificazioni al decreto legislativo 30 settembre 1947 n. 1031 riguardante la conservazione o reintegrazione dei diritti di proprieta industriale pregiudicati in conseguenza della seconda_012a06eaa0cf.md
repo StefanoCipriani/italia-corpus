@@ -28,7 +28,7 @@ La disposizione dell'[art. 2 del decreto legislativo 30 settembre 1947, n. 1031]
 ## Art. 2.
 
 La disposizione dell'art. 4 del decreto legislativo predetto e' sostituita dalla seguente:
- "La rinnovazione dei brevetti per marchi di impresa per i quali, all'entrata in vigore del presente decreto, sono decorsi i termini stabiliti all'[art. 82 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), ha effetto dalla scadenza del precedente periodo di validita', a condizione che il deposito della domanda di concessione del brevetto di rinnovazione risulti eseguito entro il 30 giugno 1948".
+ "La rinnovazione dei brevetti per marchi di impresa per i quali, all'entrata in vigore del presente decreto, sono decorsi i termini stabiliti all'[art. 82 del regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), ha effetto dalla scadenza del precedente periodo di validita', a condizione che il deposito della domanda di concessione del brevetto di rinnovazione risulti eseguito entro il 30 giugno 1948".
 
 ## Art. 3.
 

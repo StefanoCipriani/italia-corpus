@@ -22,7 +22,7 @@ Nei capoluoghi di Distretto, il Consiglio sanitario sara' costituito dal commiss
 
 ## Art. 4.
 
-Nel termine di quattro mesi dalla promulgazione della presente legge sara' pubblicato nelle provincie venete e di Mantova e in tutte le altre del Regno il regolamento sanitario approvato con [Regio decreto 8 giugno 1865, n. 2322](../Regi%20decreti/Approvativo%20del%20Regolamento%20per%20lesecuzione%20della%20Legge%20sulla%20sanita%20pubblica.%20065U2322.md), con le modificazioni che, sentito il Consiglio di Stato, si riconosceranno necessarie.
+Nel termine di quattro mesi dalla promulgazione della presente legge sara' pubblicato nelle provincie venete e di Mantova e in tutte le altre del Regno il regolamento sanitario approvato con [Regio decreto 8 giugno 1865, n. 2322](Approvativo%20del%20Regolamento%20per%20lesecuzione%20della%20Legge%20sulla%20sanita%20pubblica.%20065U2322.md), con le modificazioni che, sentito il Consiglio di Stato, si riconosceranno necessarie.
 
 ## Art. 5.
 

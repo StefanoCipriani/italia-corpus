@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 16 settembre 1909, n. 844](../Regi%20decreti/Che%20approva%20la%20convenzione%20per%20la%20concessione%20e%20lesercizio%20della%20ferrovia%20Orbetello-Porto%20Santo%20Stefano.%20009U0844.md) con cui venne approvata e resa esecutoria la convenzione stipulata il 30 giugno 1909 con la «Societa' anonima nazionale di ferrovie e tramvie», per la concessione della costruzione e dell'esercizio della ferrovia a binario normale ed a trazione a vapore, da Orbetello a Porto Santo Stefano; 
+ Visto il [R. decreto 16 settembre 1909, n. 844](Che%20approva%20la%20convenzione%20per%20la%20concessione%20e%20lesercizio%20della%20ferrovia%20Orbetello-Porto%20Santo%20Stefano.%20009U0844.md) con cui venne approvata e resa esecutoria la convenzione stipulata il 30 giugno 1909 con la «Societa' anonima nazionale di ferrovie e tramvie», per la concessione della costruzione e dell'esercizio della ferrovia a binario normale ed a trazione a vapore, da Orbetello a Porto Santo Stefano; 
  
  Vista l'istanza della Societa' concessionaria in data 7 settembre 1914; 
  

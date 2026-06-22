@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 2 aprile 1944, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1944-04-02;287), con la quale fu istituito l'Ente Zolfi Italiani;
 
-Visto il [decreto legislativo luogotenenziale 1° ottobre 1944, n. 322](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20concernenti%20lEnte%20Zolfi%20Siciliani.%20044U0322.md), con cui fu istituito l'Ente Zolfi Siciliani;
+Visto il [decreto legislativo luogotenenziale 1° ottobre 1944, n. 322](Provvedimenti%20concernenti%20lEnte%20Zolfi%20Siciliani.%20044U0322.md), con cui fu istituito l'Ente Zolfi Siciliani;
 
 Visti il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), e il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
@@ -22,13 +22,13 @@ Sulla proposta del Ministro per l'industria e commercio, di concerto col Ministr
 
 ## Art. 1.
 
-L'Ente Zolfi Siciliani, istituito con il [decreto legislativo luogotenenziale 1° ottobre 1944, n. 322](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20concernenti%20lEnte%20Zolfi%20Siciliani.%20044U0322.md), e' soppresso sotto la data del 31 dicembre 1946 ed il suo patrimonio e' posto in liquidazione con decorrenza dal 1° gennaio 1947.
+L'Ente Zolfi Siciliani, istituito con il [decreto legislativo luogotenenziale 1° ottobre 1944, n. 322](Provvedimenti%20concernenti%20lEnte%20Zolfi%20Siciliani.%20044U0322.md), e' soppresso sotto la data del 31 dicembre 1946 ed il suo patrimonio e' posto in liquidazione con decorrenza dal 1° gennaio 1947.
 
 ## Art. 2.
 
 La liquidazione delle attivita' e delle passivita' della gestione commerciale dell'Ente Zolfi Siciliani e' affidata all'Ente Zolfi Italiani.
  La gestione di tale liquidazione, compresi i debiti e crediti relativi sara', ad ogni effetto, tenuta completamente distinta, come gestione di stralcio, dalla gestione ordinaria dell'Ente Zolfi Italiani.
- La gestione e' controllata dal Collegio dei revisori di cui all'[art. 4 del decreto legislativo luogotenenziale 1° ottobre 1944, n. 322](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20concernenti%20lEnte%20Zolfi%20Siciliani.%20044U0322.md).
+ La gestione e' controllata dal Collegio dei revisori di cui all'[art. 4 del decreto legislativo luogotenenziale 1° ottobre 1944, n. 322](Provvedimenti%20concernenti%20lEnte%20Zolfi%20Siciliani.%20044U0322.md).
 
 ## Art. 3.
 
@@ -46,7 +46,7 @@ Per le operazioni di liquidazione dell'Ente Zolfi Siciliani sara' trattenuto in 
 
 ## Art. 6.
 
-Le attivita' dell'Ente Zolfi Italiani, alla data del 1° ottobre 1944, di cui all'[art. 3 del decreto legislativo luogotenenziale 1° ottobre 1944, n. 322](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20concernenti%20lEnte%20Zolfi%20Siciliani.%20044U0322.md), restano attribuite all'Ente medesimo.
+Le attivita' dell'Ente Zolfi Italiani, alla data del 1° ottobre 1944, di cui all'[art. 3 del decreto legislativo luogotenenziale 1° ottobre 1944, n. 322](Provvedimenti%20concernenti%20lEnte%20Zolfi%20Siciliani.%20044U0322.md), restano attribuite all'Ente medesimo.
 
 ## Art. 7.
 

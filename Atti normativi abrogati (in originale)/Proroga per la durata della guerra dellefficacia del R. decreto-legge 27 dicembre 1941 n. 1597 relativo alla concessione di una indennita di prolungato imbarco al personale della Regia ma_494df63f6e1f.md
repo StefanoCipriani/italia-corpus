@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 27 dicembre 1941, n. 1597](Concessione%20di%20una%20indennita%20di%20prolungato%20imbarco%20ad%20ufficiali%20e%20sottufficiali%20della%20Regia%20marina.%20041U1597.md), convertito nella [legge 18 maggio 1942, n. 814](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20dicembre%201941-XX%20n.%201597%20relativo%20alla%20concessione%20di%20unindennita%20di%20prolungato%20imbarco%20ad%20ufficiali%20e%20sottufficiali%20della%20Regia%20marina.%20042U0814.md), relativo alla concessione di una indennita' di un prolungato imbarco agli ufficiali ed ai sottufficiali della Regia marina;
+Visto il [R. decreto-legge 27 dicembre 1941, n. 1597](Concessione%20di%20una%20indennita%20di%20prolungato%20imbarco%20ad%20ufficiali%20e%20sottufficiali%20della%20Regia%20marina.%20041U1597.md), convertito nella [legge 18 maggio 1942, n. 814](Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20dicembre%201941-XX%20n.%201597%20relativo%20alla%20concessione%20di%20unindennita%20di%20prolungato%20imbarco%20ad%20ufficiali%20e%20sottufficiali%20della%20Regia%20marina.%20042U0814.md), relativo alla concessione di una indennita' di un prolungato imbarco agli ufficiali ed ai sottufficiali della Regia marina;
 
 Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per la marina, di concerto col Ministro per il tesor
 
 ## Art. 1.
 
-L'efficacia del [R. decreto-legge 27 dicembre 1941, n. 1597](Concessione%20di%20una%20indennita%20di%20prolungato%20imbarco%20ad%20ufficiali%20e%20sottufficiali%20della%20Regia%20marina.%20041U1597.md), convertito nella [legge 18 maggio 1942, n. 814](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20dicembre%201941-XX%20n.%201597%20relativo%20alla%20concessione%20di%20unindennita%20di%20prolungato%20imbarco%20ad%20ufficiali%20e%20sottufficiali%20della%20Regia%20marina.%20042U0814.md), e' prorogata a tutta la durata dell'attuale stato di guerra.
+L'efficacia del [R. decreto-legge 27 dicembre 1941, n. 1597](Concessione%20di%20una%20indennita%20di%20prolungato%20imbarco%20ad%20ufficiali%20e%20sottufficiali%20della%20Regia%20marina.%20041U1597.md), convertito nella [legge 18 maggio 1942, n. 814](Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20dicembre%201941-XX%20n.%201597%20relativo%20alla%20concessione%20di%20unindennita%20di%20prolungato%20imbarco%20ad%20ufficiali%20e%20sottufficiali%20della%20Regia%20marina.%20042U0814.md), e' prorogata a tutta la durata dell'attuale stato di guerra.
 
 ## Art. 2.
 

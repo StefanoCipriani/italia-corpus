@@ -14,13 +14,13 @@ PRIMO MINISTRO SEGRETARIO DI STATO
 
 Visto il decreto del Capo del Governo in data 23 giugno 1934, relativo alla costituzione della Corporazione della previdenza e del credito;
 
-Ritenuta l'opportunita', in seguito alla costituzione della Corporazione della previdenza e del credito, di sopprimere il Comitato tecnico per la previdenza sociale e le assicurazioni private, istituito con [R. decreto 13 novembre 1930, n. 1568](../Regi%20decreti/Istituzione%20presso%20il%20Ministero%20delle%20corporazioni%20di%20un%20Comitato%20tecnico%20per%20la%20previdenza%20sociale%20e%20le%20assicurazioni%20private.%20030U1568.md);
+Ritenuta l'opportunita', in seguito alla costituzione della Corporazione della previdenza e del credito, di sopprimere il Comitato tecnico per la previdenza sociale e le assicurazioni private, istituito con [R. decreto 13 novembre 1930, n. 1568](Istituzione%20presso%20il%20Ministero%20delle%20corporazioni%20di%20un%20Comitato%20tecnico%20per%20la%20previdenza%20sociale%20e%20le%20assicurazioni%20private.%20030U1568.md);
 
 Visto il 2° ed il 3° comma dell'art. 12 della legge 5 febbraio 1934, n. 163, sulla costituzione e sulle funzioni delle Corporazioni; Decreta:
 
 ## Art. 1.
 
-- Il Comitato tecnico per la previdenza sociale e le assicurazioni private, istituito con [R. decreto 13 novembre 1930, n. 1568](../Regi%20decreti/Istituzione%20presso%20il%20Ministero%20delle%20corporazioni%20di%20un%20Comitato%20tecnico%20per%20la%20previdenza%20sociale%20e%20le%20assicurazioni%20private.%20030U1568.md), e' soppresso.
+- Il Comitato tecnico per la previdenza sociale e le assicurazioni private, istituito con [R. decreto 13 novembre 1930, n. 1568](Istituzione%20presso%20il%20Ministero%20delle%20corporazioni%20di%20un%20Comitato%20tecnico%20per%20la%20previdenza%20sociale%20e%20le%20assicurazioni%20private.%20030U1568.md), e' soppresso.
 
 ## Art. 2.
 

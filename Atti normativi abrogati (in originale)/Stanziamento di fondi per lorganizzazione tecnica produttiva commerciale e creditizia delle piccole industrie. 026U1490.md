@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [decreto-legge Luogotenenziale 25 maggio 1919, numero 1009](Che%20reca%20provvedimenti%20per%20agevolare%20linizio%20e%20lesercizio%20delle%20piccole%20industrie%20istituendosi%20altresi%20un%20Comitato%20consultivo%20centrale%20presso%20il%20Ministero%20dellindustria%20commercio%20e%20lavoro.%20019U1009.md), convertito in [legge il 19 maggio 1922 col n. 727](Che%20converte%20in%20legge%20il%20decreto%20Luogotenenziale%2025%20maggio%201919%20n.%201009%20recante%20provvedimenti%20a%20favore%20delle%20piccole%20industrie.%20022U0727.md), che stabilisce provvedimenti in favore delle piccole industrie;
 
-Visto il [R. decreto 14 maggio 1925, n. 830](../Regi%20decreti/Regolamento%20per%20lesecuzione%20della%20legge%20che%20stabilisce%20provvedimenti%20in%20favore%20delle%20piccole%20industrie.%20025U0830.md), che approva le norme per l'applicazione della [legge 19 maggio 1922, n. 727](Che%20converte%20in%20legge%20il%20decreto%20Luogotenenziale%2025%20maggio%201919%20n.%201009%20recante%20provvedimenti%20a%20favore%20delle%20piccole%20industrie.%20022U0727.md);
+Visto il [R. decreto 14 maggio 1925, n. 830](Regolamento%20per%20lesecuzione%20della%20legge%20che%20stabilisce%20provvedimenti%20in%20favore%20delle%20piccole%20industrie.%20025U0830.md), che approva le norme per l'applicazione della [legge 19 maggio 1922, n. 727](Che%20converte%20in%20legge%20il%20decreto%20Luogotenenziale%2025%20maggio%201919%20n.%201009%20recante%20provvedimenti%20a%20favore%20delle%20piccole%20industrie.%20022U0727.md);
 
 Visto il R. decreto 8 ottobre 1925 che istituisce l'Ente nazionale per le piccole industrie;
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale 
 
 ## Art. 1.
 
-Nella parte ordinaria dello stato di previsione della spesa del Ministero dell'economia nazionale, per l'esercizio finanziario 1926-27 e seguenti, verra' iscritto uno stanziamento di L. 2,200,000 quale contributo dello Stato al funzionamento dell'Ente nazionale per le piccole industrie istituito con Regio decreto 8 ottobre 1925 a termini dell'[art. 10 del R. decreto 14 maggio 1925, n. 830](../Regi%20decreti/Regolamento%20per%20lesecuzione%20della%20legge%20che%20stabilisce%20provvedimenti%20in%20favore%20delle%20piccole%20industrie.%20025U0830.md). 
+Nella parte ordinaria dello stato di previsione della spesa del Ministero dell'economia nazionale, per l'esercizio finanziario 1926-27 e seguenti, verra' iscritto uno stanziamento di L. 2,200,000 quale contributo dello Stato al funzionamento dell'Ente nazionale per le piccole industrie istituito con Regio decreto 8 ottobre 1925 a termini dell'[art. 10 del R. decreto 14 maggio 1925, n. 830](Regolamento%20per%20lesecuzione%20della%20legge%20che%20stabilisce%20provvedimenti%20in%20favore%20delle%20piccole%20industrie.%20025U0830.md). 
  
  Tale contributo sara' corrisposto in rate semestrali.
 

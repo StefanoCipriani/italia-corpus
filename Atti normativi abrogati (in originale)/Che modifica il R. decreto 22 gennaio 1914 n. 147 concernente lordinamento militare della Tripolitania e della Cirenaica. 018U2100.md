@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'[art. 6 del R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), e' sostituito dal seguente: 
+L'[art. 6 del R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), e' sostituito dal seguente: 
  
  «L'Amministrazione delle truppe coloniali in Tripolitania ed in Cirenaica e' affidata al rispettivo governatore. Questi puo' delegare sotto la sua responsabilita', se civile, al comandante delle truppe, se militare, all'ufficiale generale addetto al comando delle truppe, la firma di tutti quegli atti e provvedimenti amministrativi militari per i quali non sia richiesta da speciali disposizioni la sua firma personale». 
  
@@ -18,11 +18,11 @@ L'[art. 6 del R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20a
 
 ## Art. 2.
 
-1° Le tabelle 2, 20 e 23 del [R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), sono sostituite rispettivamente dalle tabelle 1, 2 e 3 annesse al presente decreto, viste, d'ordine Nostro, dai ministri proponenti; 
+1° Le tabelle 2, 20 e 23 del [R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), sono sostituite rispettivamente dalle tabelle 1, 2 e 3 annesse al presente decreto, viste, d'ordine Nostro, dai ministri proponenti; 
  
- 2° nella tabella n. 3 del [R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), alla parola: «Maggiori», devesi sostituire «Maggiori o tenenti colonnelli»; nella tabella 25 di detto R. decreto, alle parole: «Tenente colonnello» devesi sostituire: «Maggiore o tenente colonnello»; 
+ 2° nella tabella n. 3 del [R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), alla parola: «Maggiori», devesi sostituire «Maggiori o tenenti colonnelli»; nella tabella 25 di detto R. decreto, alle parole: «Tenente colonnello» devesi sostituire: «Maggiore o tenente colonnello»; 
  
- 3° nella tabella 25 del [R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), devesi aumentare 1 capitano e diminuire 1 tenente dei carabinieri Reali; 
+ 3° nella tabella 25 del [R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), devesi aumentare 1 capitano e diminuire 1 tenente dei carabinieri Reali; 
  
  4° fra i riparti italiani di cui alla lettera b) dell'art. 8 e dell'art. 9 del citato R. decreto deve essere aggiunto: «1 carcere militare; 1 riparto deposito» e nell'ultima riga della lettera b) degli articoli 8 e 9 devono essere aggiunti i numeri «22 e 23» ed in conseguenza, all'ultimo comma dell'art. 8 e dell'art. 9 del citato R. decreto, devono essere cancellati i numeri «22 e 23». 
  
@@ -32,7 +32,7 @@ L'[art. 6 del R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20a
 
 ## Art. 3.
 
-Il terzo periodo della nota terza apposta alla tabella che fa seguito all'[art. 33 del R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), e' sostituito dal seguente: 
+Il terzo periodo della nota terza apposta alla tabella che fa seguito all'[art. 33 del R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), e' sostituito dal seguente: 
  
  «I militari che cessano di far parte del R. corpo di truppe coloniali per riforma o per motivi di servizio (esclusi i motivi disciplinari e quelli di privato interesse) durante il corso della ferma o della rafferma avranno diritto ad una parte del premio di rafferma in proporzione del servizio prestato, calcolando come un anno il periodo di tempo superiore a sei mesi e non tenendo conto di quello inferiore a tale periodo». 
  
@@ -40,7 +40,7 @@ Il terzo periodo della nota terza apposta alla tabella che fa seguito all'[art. 
 
 ## Art. 4.
 
-Dopo l'[art. 49 del R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), inscrivere il seguente: 
+Dopo l'[art. 49 del R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), inscrivere il seguente: 
  
  «Art. 49-bis. - Agli indigeni di cui ai precedenti articoli 48 e 49 puo' essere ceduto dall'Amministrazione militare coloniale il cavallo od il mehara a pagamento rateale mediante ritenute sugli assegni. 
  
@@ -48,7 +48,7 @@ Dopo l'[art. 49 del R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relati
 
 ## Art. 5.
 
-«L'[articolo 50 del R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), modificato coll'[articolo 1 del R. decreto 2 agosto 1914, n. 865](../Regi%20decreti/Che%20modifica%20lordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20ed%20autorizza%20la%20costituzione%20di%20bande%20irregolari%20nella%20Cirenaica.%20014U0865.md), e' sostituito dal seguente: 
+«L'[articolo 50 del R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), modificato coll'[articolo 1 del R. decreto 2 agosto 1914, n. 865](Che%20modifica%20lordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20ed%20autorizza%20la%20costituzione%20di%20bande%20irregolari%20nella%20Cirenaica.%20014U0865.md), e' sostituito dal seguente: 
  
  «Durante le operazioni militari che importino pernottamento fuori dell'ordinaria sede o durante i giorni di viaggio in occasione di trasferimento temporaneo o definitivo da una localita' ad un'altra e' concessa ai militari indigeni dei RR. corpi di truppe coloniali della Tripolitania e della Cirenaica una determinata razione e viveri. 
  
@@ -58,7 +58,7 @@ Dopo l'[art. 49 del R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relati
 
 ## Art. 6.
 
-L'[art. 52 del R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), e' sostituito dal seguente: 
+L'[art. 52 del R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), e' sostituito dal seguente: 
  
  «I governatori, nei limiti delle somme che verranno annualmente messe a loro disposizione, potranno concedere premi in danaro od in oggetti di corredo ai militari indigeni che, per la conoscenza acquistata della lingua italiana, siano in grado di servire da interpreti traduttori. 
  
@@ -84,13 +84,13 @@ All'art. 54 del R. decreto 22 gennaio 1914, e' aggiunto il seguente comma:
 
 ## Art. 8.
 
-L'[art. 2 del R. decreto 2 agosto 1914, n. 865](../Regi%20decreti/Che%20modifica%20lordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20ed%20autorizza%20la%20costituzione%20di%20bande%20irregolari%20nella%20Cirenaica.%20014U0865.md), col quale venne concessa ai militari indigeni libici, arruolati in Cirenaica, uno speciale soprassoldo giornaliero di centesimi cinquanta, viene esteso, dal 1° luglio 1917 e fino a quando e' in vigore pel R. corpo di truppe coloniali della Cirenaica, ai militari indigeni del R. corpo di truppe coloniali della Tripolitania che prestano servizio in Cirenaica, e dal 1° novembre 1917 ai militari indigeni del R. corpo di truppe coloniali della Tripolitania che prestano servizio in Tripolitania. ([Determinazioni del ministro delle colonie n. 2040 dell'11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.colonie:determina:2011;2040) luglio e 7022 del 2 novembre 1917).
+L'[art. 2 del R. decreto 2 agosto 1914, n. 865](Che%20modifica%20lordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20ed%20autorizza%20la%20costituzione%20di%20bande%20irregolari%20nella%20Cirenaica.%20014U0865.md), col quale venne concessa ai militari indigeni libici, arruolati in Cirenaica, uno speciale soprassoldo giornaliero di centesimi cinquanta, viene esteso, dal 1° luglio 1917 e fino a quando e' in vigore pel R. corpo di truppe coloniali della Cirenaica, ai militari indigeni del R. corpo di truppe coloniali della Tripolitania che prestano servizio in Cirenaica, e dal 1° novembre 1917 ai militari indigeni del R. corpo di truppe coloniali della Tripolitania che prestano servizio in Tripolitania. ([Determinazioni del ministro delle colonie n. 2040 dell'11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.colonie:determina:2011;2040) luglio e 7022 del 2 novembre 1917).
 
 ## Art. 9.
 
 Sono sanzionati i provvedimenti seguenti adottati dal ministro delle colonie e dal ministro della guerra i quali hanno vigore dalla data contro ciascuno indicata: 
  
- A) Trattamento coloniale previsto dal [R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), ai seguenti ufficiali metropolitani addetti al Governo ed al comando del R. corpo di truppe coloniali: 
+ A) Trattamento coloniale previsto dal [R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), ai seguenti ufficiali metropolitani addetti al Governo ed al comando del R. corpo di truppe coloniali: 
  
  a) in Tripolitania, dal 1° dicembre 1915 al 1° gennaio 1918: 1 colonnello - 2 maggiori - 5 capitani; in Cirenaica, dal 1° dicembre 1915 al 1° aprile 1918; 1 tenente colonnello - 2 maggiori - 5 capitani. 
  
@@ -100,9 +100,9 @@ Sono sanzionati i provvedimenti seguenti adottati dal ministro delle colonie e d
  
  B) Corresponsione di L. 0,10 al giorno, dal 1° dicembre 1915, ai sergenti maggiori ed ai marescialli addetti ai reparti indigeni, nel 4° anno di servizio nei reparti stessi, a rettifica dell'articolo 5° del [decreto Luogotenenziale 30 gennaio 1916, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-01-30;178). ([Determinazione del ministro delle colonie n. 684, in data 1° marzo 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.colonie:determina:1917-03-01;684)). 
  
- C) Trattamento pei militari indigeni dei RR. corpi di truppe coloniali dell'Eritrea e della Somalia durante il tempo cui sono alla dipendenza amministrativa dei Governi della Tripolitania e della Cirenaica: Paga doppia di quella prevista dal [R. decreto 22 settembre 1905, n. 507](../Regi%20decreti/Che%20approva%20lannesso%20ordinamento%20amministrativo%20per%20la%20colonia%20Eritrea%20005U0507.md) durante il 1° e 2° trimestre. Due volte e mezzo tale paga durante il 3° trimestre. Tre volte la paga stessa durante il 4° trimestre e nelle successive rafferme con permanenza in Libia. ([Determinazione del ministro delle colonie in data 7 febbraio 1913, n. 1351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.colonie:determina:1913-02-07;1351)). 
+ C) Trattamento pei militari indigeni dei RR. corpi di truppe coloniali dell'Eritrea e della Somalia durante il tempo cui sono alla dipendenza amministrativa dei Governi della Tripolitania e della Cirenaica: Paga doppia di quella prevista dal [R. decreto 22 settembre 1905, n. 507](Che%20approva%20lannesso%20ordinamento%20amministrativo%20per%20la%20colonia%20Eritrea%20005U0507.md) durante il 1° e 2° trimestre. Due volte e mezzo tale paga durante il 3° trimestre. Tre volte la paga stessa durante il 4° trimestre e nelle successive rafferme con permanenza in Libia. ([Determinazione del ministro delle colonie in data 7 febbraio 1913, n. 1351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.colonie:determina:1913-02-07;1351)). 
  
- D) Trattamento pei militari indigeni arruolati dai Governi dell'Eritrea e della Somalia per conto dei Governi della Tripolitania e della Cirenaica (battaglioni eritrei-libici e somali-libici): Paga iniziale pari a quella stabilita pei militari indigeni dall'[articolo 46 del R. decreto 22 gennaio 1914 n. 147](../Regi%20decreti/Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), aumentata di tante volte centesimi 25 per quanti sono gli anni di ferma inizialmente contratti oltre il primo e di centesimi 50 al giorno al termine del 1° e 2° anno di ferma, oltre la normale razione viveri. ([Determinazione del ministro delle colonie in data 29 luglio 1915, n. 4149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.colonie:determina:1915-07-29;4149)). 
+ D) Trattamento pei militari indigeni arruolati dai Governi dell'Eritrea e della Somalia per conto dei Governi della Tripolitania e della Cirenaica (battaglioni eritrei-libici e somali-libici): Paga iniziale pari a quella stabilita pei militari indigeni dall'[articolo 46 del R. decreto 22 gennaio 1914 n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), aumentata di tante volte centesimi 25 per quanti sono gli anni di ferma inizialmente contratti oltre il primo e di centesimi 50 al giorno al termine del 1° e 2° anno di ferma, oltre la normale razione viveri. ([Determinazione del ministro delle colonie in data 29 luglio 1915, n. 4149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.colonie:determina:1915-07-29;4149)). 
  
  E) Trattamento pei militari indigeni dei RR. corpi di truppe coloniali dell'Eritrea e della Somalia che, ultimata la ferma di servizio in Libia, contraggano rafferme da compiere in Libia: 
  
@@ -118,7 +118,7 @@ Sono sanzionati i provvedimenti seguenti adottati dal ministro delle colonie e d
 
 ## Art. 10.
 
-L'[art. 59 del R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), e' abrogato e sostituito dal seguente: 
+L'[art. 59 del R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), e' abrogato e sostituito dal seguente: 
  
  «Articolo 59. - Sono applicate al personale anzidetto le disposizioni contenute negli articoli 40, 41 e 42 relative ai sottufficiali e militari di truppa italiani e degli articoli 17, 18, 22, 23 e 25 relative agli ufficiali. 
  
@@ -132,11 +132,11 @@ L'[art. 59 del R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20
 
 Il [decreto Luogotenenziale 11 luglio 1915, n. 1084](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-11;1084), per la parte riguardante l'istituzione del grado di aspirante ufficiale di complemento e il [decreto Luogotenenziale 3 settembre 1916, n. 1191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-09-03;1191), riguardante l'istituzione, nella categoria dei sottufficiali del grado di aiutante di battaglia, devono intendersi estesi anche ai RR. corpi di truppe coloniali della Tripolitania e della Cirenaica. 
  
- In conseguenza i posti previsti dalle tabelle organiche del [R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), per gli ufficiali subalterni delle armi combattenti, e quelli previsti pei marescialli potranno essere coperti, rispettivamente, da aspiranti ufficiali di complemento delle armi combattenti e da aiutanti di battaglia.
+ In conseguenza i posti previsti dalle tabelle organiche del [R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), per gli ufficiali subalterni delle armi combattenti, e quelli previsti pei marescialli potranno essere coperti, rispettivamente, da aspiranti ufficiali di complemento delle armi combattenti e da aiutanti di battaglia.
 
 ## Art. 12.
 
-Il posto di maggiore generale previsto dalla tabella organica del [R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), potra' essere occupato da ufficiali rivestiti del grado di brigadiere generale istituito con [decreto Luogotenenziale 19 giugno 1918, n. 798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-06-19;798). 
+Il posto di maggiore generale previsto dalla tabella organica del [R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), potra' essere occupato da ufficiali rivestiti del grado di brigadiere generale istituito con [decreto Luogotenenziale 19 giugno 1918, n. 798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-06-19;798). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

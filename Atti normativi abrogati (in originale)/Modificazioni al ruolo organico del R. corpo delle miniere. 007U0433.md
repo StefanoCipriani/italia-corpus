@@ -14,7 +14,7 @@ Il ruolo organico del R. corpo delle miniere e' stabilito, dal 1° gennaio 1907,
 
 ## Art. 2.
 
-Le promozioni ai posti di aiutante principale, iscritti nella predetta tabella, saranno conferite agli aiutanti di 1ª classe, con le norme fissate dall'[art. 37 della legge del 5 luglio 1882, n. 874](Sul%20riordinamento%20del%20corpo%20reale%20del%20genio%20civile.%20082U0874.md), e 1 del [R. decreto del 9 settembre 1885, n. 3366](../Regi%20decreti/Che%20stabilisce%20varie%20norme%20per%20le%20nomine%20e%20promozioni%20nel%20personale%20superiore%20e%20subalterno%20del%20R.%20Corpo%20delle%20Miniere.%20085U3366.md) (serie 3ª);
+Le promozioni ai posti di aiutante principale, iscritti nella predetta tabella, saranno conferite agli aiutanti di 1ª classe, con le norme fissate dall'[art. 37 della legge del 5 luglio 1882, n. 874](Sul%20riordinamento%20del%20corpo%20reale%20del%20genio%20civile.%20082U0874.md), e 1 del [R. decreto del 9 settembre 1885, n. 3366](Che%20stabilisce%20varie%20norme%20per%20le%20nomine%20e%20promozioni%20nel%20personale%20superiore%20e%20subalterno%20del%20R.%20Corpo%20delle%20Miniere.%20085U3366.md) (serie 3ª);
 
 ## Art. 3.
 

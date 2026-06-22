@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 E' consentito il prelievo di parti del cadavere a scopo di trapianto terapeutico se il soggetto ne abbia dato autorizzazione.
  In mancanza di disposizioni dirette della persona, il prelievo e' consentito qualora non vi sia opposizione da parte del coniuge o dei parenti entro il secondo grado.
- Il prelievo puo' essere effettuato anche in deroga alle disposizioni vigenti, relative al periodo di osservazione del cadavere, contenute nel regolamento di polizia mortuaria, approvato con [regio decreto 21 dicembre 1942, n. 1880](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.%20042U1880.md), previo l'accertamento della realta' della morte.
+ Il prelievo puo' essere effettuato anche in deroga alle disposizioni vigenti, relative al periodo di osservazione del cadavere, contenute nel regolamento di polizia mortuaria, approvato con [regio decreto 21 dicembre 1942, n. 1880](Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.%20042U1880.md), previo l'accertamento della realta' della morte.
  Per le modalita' del prelievo, l'uso delle parti del cadavere a scopo terapeutico ed il preventivo accertamento della realta' della morte, si osservano le norme di cui agli articoli seguenti.
 
 ## Art. 2.
@@ -60,7 +60,7 @@ Le spese del prelievo sono sostenute dall'interessato o da chi vi e' tenuto per 
 
 ## Art. 9.
 
-Chiunque procura ad altri, per lucro, una parte di cadavere da usare a scopo terapeutico ovvero ne fa comunque commercio, e' punito con la pena prevista dall'[articolo 411 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Chiunque procura ad altri, per lucro, una parte di cadavere da usare a scopo terapeutico ovvero ne fa comunque commercio, e' punito con la pena prevista dall'[articolo 411 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e farla osservare come legge dello Stato.
 

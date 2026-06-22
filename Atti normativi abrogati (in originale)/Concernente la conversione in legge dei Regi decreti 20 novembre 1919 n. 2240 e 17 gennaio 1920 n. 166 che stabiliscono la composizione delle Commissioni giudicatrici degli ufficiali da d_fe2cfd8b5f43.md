@@ -14,7 +14,7 @@ Sono convertiti in legge i [Regi decreti 20 novembre 1919, n. 2240](https://www.
 
 ## Art. 2.
 
-E' convertito in legge il [Regio decreto 19 ottobre 1919, n. 2042](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-19;2042), che modifica l'art. 64 del testo unico delle leggi sul reclutamento approvato con [Regio decreto 24 dicembre 1911, n. 1497](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md).
+E' convertito in legge il [Regio decreto 19 ottobre 1919, n. 2042](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-19;2042), che modifica l'art. 64 del testo unico delle leggi sul reclutamento approvato con [Regio decreto 24 dicembre 1911, n. 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md).
 
 ## Art. 3.
 

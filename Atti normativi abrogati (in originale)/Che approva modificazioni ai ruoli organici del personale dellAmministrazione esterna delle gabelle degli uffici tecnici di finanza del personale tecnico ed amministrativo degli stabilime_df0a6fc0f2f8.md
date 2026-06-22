@@ -36,7 +36,7 @@ Con regolamenti da approvarsi con decreti Reali, sentito il Consiglio di Stato, 
  
  E' prorogata di un biennio la facolta' accordata al Governo dalla [legge 13 luglio 1911, n. 731](Che%20da%20temporanea%20facolta%20di%20assumere%20senza%20esami%20e%20sotto%20determinate%20condizioni%20di%20eta%20e%20di%20capacita%20gli%20ingegneri%20occorrenti%20per%20lAmministrazione%20del%20catasto%20e%20dei%20servizi%20tecnici%20di%20fi_5b232c80799e.md), di assumere senza esame gli ingegneri occorrenti per l'Amministrazione del catasto e dei servizi tecnici di finanza, purche' gli aspiranti non abbiano superato i ventinove anni di eta', e siano stati classificati in ordine di merito nella prima meta' dei laureati in ingegneria civile o industriale. 
  
- Agli effetti del primo comma dell'art. 4 del testo unico delle leggi sullo stato degli impiegati civili approvato col [R. decreto del 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md), la promozione da ufficiale aggiunto a ufficiale nelle dogane e' considerata come promozione di classe.
+ Agli effetti del primo comma dell'art. 4 del testo unico delle leggi sullo stato degli impiegati civili approvato col [R. decreto del 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md), la promozione da ufficiale aggiunto a ufficiale nelle dogane e' considerata come promozione di classe.
 
 ## Art. 4.
 

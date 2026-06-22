@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), sul riordinamento dell'istruzione industriale, ai sensi del quale le Regie stazioni sperimentali per l'industria sono considerate come istituti superiori;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), concernente l'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), concernente l'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), contenente disposizioni sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato, e successive modificazioni;
 
@@ -38,7 +38,7 @@ Il personale di ruolo direttivo, tecnico, di segreteria delle Regie stazioni spe
 
 ## Art. 2.
 
-Al personale di cui all'articolo precedente si applicano, in quanto non sia diversamente stabilito dal presente decreto, le disposizioni sull'ordinamento gerarchico delle Amministrazioni dello Stato contenute nel [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, e le disposizioni sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato, contenute nel [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni, intendendosi deferite al Comitato per le Regie stazioni sperimentali per l'industria, istituito con [R. decreto 19 novembre 1931, numero 1488](../Regi%20decreti/Istituzione%20di%20un%20Comitato%20per%20le%20Regie%20stazioni%20sperimentali%20per%20lindustria.%20031U1488.md), le funzioni del Consiglio d'amministrazione e della Commissione di disciplina previste dal [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
+Al personale di cui all'articolo precedente si applicano, in quanto non sia diversamente stabilito dal presente decreto, le disposizioni sull'ordinamento gerarchico delle Amministrazioni dello Stato contenute nel [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, e le disposizioni sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato, contenute nel [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni, intendendosi deferite al Comitato per le Regie stazioni sperimentali per l'industria, istituito con [R. decreto 19 novembre 1931, numero 1488](Istituzione%20di%20un%20Comitato%20per%20le%20Regie%20stazioni%20sperimentali%20per%20lindustria.%20031U1488.md), le funzioni del Consiglio d'amministrazione e della Commissione di disciplina previste dal [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Al detto Comitato spetta di pronunciarsi anche sui provvedimenti riguardanti i direttori di prima classe.
 
@@ -82,7 +82,7 @@ Lo sviluppo di carriera del personale delle Regie stazioni sperimentali per l'in
  
  Gli aiuti direttori sono nominati in seguito a concorso per titoli ed esami tra assistenti di prima e seconda classe con anzianita' complessiva di servizio nei gradi decimo e nono non inferiore ad anni sei. 
  
- Per il detto concorso si osserveranno le norme sugli esami di concorso per merito distinto contenuto nel [R. decreto 20 novembre 1930, n. 1482](../Regi%20decreti/Norme%20per%20gli%20esami%20di%20promozione%20nei%20ruoli%20dei%20personali%20civili%20di%20gruppo%20A.%20030U1482.md). 
+ Per il detto concorso si osserveranno le norme sugli esami di concorso per merito distinto contenuto nel [R. decreto 20 novembre 1930, n. 1482](Norme%20per%20gli%20esami%20di%20promozione%20nei%20ruoli%20dei%20personali%20civili%20di%20gruppo%20A.%20030U1482.md). 
  
  Il posto di vice-direttore di ogni singola stazione e' conferito all'aiuto direttore della stessa stazione che abbia almeno tre anni di effettivo servizio nel grado 8° e che, a giudizio unanime del Comitato di cui sopra, possieda tutti i requisiti per ricoprire detto posto.
 
@@ -92,11 +92,11 @@ L'attuale personale di ruolo delle Regie stazioni sperimentali per l'industria e
 
 ### Art. 8.
 
-I posti che alla data di entrata in vigore del presente decreto risultino disponibili nel grado 8° di aiuto direttore, tenuto conto dell'[art. 108 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), saranno conferiti: i primi cinque, in base a graduatoria di merito agli attuali aiuti di grado 9° che si trovino nelle condizioni all'uopo previste dall'[art. 1, lettera c), del R. decreto 22 novembre 1937, n. 1933](../Regi%20decreti/Modificazioni%20alle%20norme%20riguardanti%20la%20promozione%20al%20grado%20ottavo%20nei%20ruoli%20di%20personali%20civili%20di%20gruppo%20A%20delle%20Amministrazioni%20statali.%20037U1933.md); i rimanenti, nonche' quelli che si renderanno successivamente disponibili nell'indicato grado 8°, esclusivamente mediante esame di concorso ai sensi dell'art. 6 del presente decreto.
+I posti che alla data di entrata in vigore del presente decreto risultino disponibili nel grado 8° di aiuto direttore, tenuto conto dell'[art. 108 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), saranno conferiti: i primi cinque, in base a graduatoria di merito agli attuali aiuti di grado 9° che si trovino nelle condizioni all'uopo previste dall'[art. 1, lettera c), del R. decreto 22 novembre 1937, n. 1933](Modificazioni%20alle%20norme%20riguardanti%20la%20promozione%20al%20grado%20ottavo%20nei%20ruoli%20di%20personali%20civili%20di%20gruppo%20A%20delle%20Amministrazioni%20statali.%20037U1933.md); i rimanenti, nonche' quelli che si renderanno successivamente disponibili nell'indicato grado 8°, esclusivamente mediante esame di concorso ai sensi dell'art. 6 del presente decreto.
 
 ### Art. 9.
 
-Sono abrogate le disposizioni riguardanti il personale di ruolo delle Regie stazioni sperimentali per l'industria contenute nei [Regi decreti 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), e [3 giugno 1924, n. 969](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md).
+Sono abrogate le disposizioni riguardanti il personale di ruolo delle Regie stazioni sperimentali per l'industria contenute nei [Regi decreti 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), e [3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md).
 
 ### Art. 10.
 

@@ -111,7 +111,7 @@ Chiunque spedisca o consegni zolfo ai magazzini di deposito del Consorzio zolfif
 
 ## Art. 13.
 
-Quando il debitore distrae lo zolfo o gli oggetti sottoposti ai privilegi, incorre nel reato previsto dall'[art. 203 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Quando il debitore distrae lo zolfo o gli oggetti sottoposti ai privilegi, incorre nel reato previsto dall'[art. 203 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Costituzione di un fondo speciale per piccoli prestiti.
 

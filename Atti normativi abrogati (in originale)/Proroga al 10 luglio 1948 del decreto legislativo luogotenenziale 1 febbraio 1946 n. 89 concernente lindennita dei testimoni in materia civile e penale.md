@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 1° febbraio 1946, n. 89](../Decreti%20legislativi%20luogotenenziali/Aumento%20delle%20indennita%20ai%20testimoni%20in%20materia%20civile%20e%20penale.md);
+Visto il [decreto legislativo luogotenenziale 1° febbraio 1946, n. 89](Aumento%20delle%20indennita%20ai%20testimoni%20in%20materia%20civile%20e%20penale.md);
 
 Visto il [decreto legislativo Presidenziale 26 giugno 1946, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-26;18);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la grazia e giustizia, di concerto con il Minist
 
 ## Art. 1.
 
-Le disposizioni degli [articoli 1](../Decreti%20legislativi%20luogotenenziali/Aumento%20delle%20indennita%20ai%20testimoni%20in%20materia%20civile%20e%20penale.md), [2](../Decreti%20legislativi%20luogotenenziali/Aumento%20delle%20indennita%20ai%20testimoni%20in%20materia%20civile%20e%20penale.md), [3](../Decreti%20legislativi%20luogotenenziali/Aumento%20delle%20indennita%20ai%20testimoni%20in%20materia%20civile%20e%20penale.md), [4](../Decreti%20legislativi%20luogotenenziali/Aumento%20delle%20indennita%20ai%20testimoni%20in%20materia%20civile%20e%20penale.md) e [5 del decreto legislativo luogotenenziale 1° febbraio 1946, n. 89](../Decreti%20legislativi%20luogotenenziali/Aumento%20delle%20indennita%20ai%20testimoni%20in%20materia%20civile%20e%20penale.md) si applicano dal 1° luglio 1947 al 1° luglio 1948.
+Le disposizioni degli [articoli 1](Aumento%20delle%20indennita%20ai%20testimoni%20in%20materia%20civile%20e%20penale.md), [2](Aumento%20delle%20indennita%20ai%20testimoni%20in%20materia%20civile%20e%20penale.md), [3](Aumento%20delle%20indennita%20ai%20testimoni%20in%20materia%20civile%20e%20penale.md), [4](Aumento%20delle%20indennita%20ai%20testimoni%20in%20materia%20civile%20e%20penale.md) e [5 del decreto legislativo luogotenenziale 1° febbraio 1946, n. 89](Aumento%20delle%20indennita%20ai%20testimoni%20in%20materia%20civile%20e%20penale.md) si applicano dal 1° luglio 1947 al 1° luglio 1948.
 
 ## Art. 2.
 

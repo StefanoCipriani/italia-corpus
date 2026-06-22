@@ -15,7 +15,7 @@ E' autorizzata la esecuzione delle nuove opere marittime comprese nella tabella 
  
  Sono pure autorizzate le spese di cui ai nn. 29 e 30 della stessa tabella per l'ammontare di L. 4,500,000. 
  
- Le opere da eseguirsi in tutti i porti ed in tutte le spiaggie sono dichiarate di pubblica utilita', e quelle da eseguirsi nei porti amministrati dallo Stato sono dichiarate obbligatorie agli effetti dell'art. 13, capoverso 1°, del testo unico della [legge 16 luglio 1884, n. 2518](Sulla%20classificazione%20dei%20porti%20sulle%20spese%20per%20i%20medesimi%20e%20sulla%20designazione%20delle%20opere%20marittime.%20084U2518.md), approvato con [R. decreto 2 aprile 1885, n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md).
+ Le opere da eseguirsi in tutti i porti ed in tutte le spiaggie sono dichiarate di pubblica utilita', e quelle da eseguirsi nei porti amministrati dallo Stato sono dichiarate obbligatorie agli effetti dell'art. 13, capoverso 1°, del testo unico della [legge 16 luglio 1884, n. 2518](Sulla%20classificazione%20dei%20porti%20sulle%20spese%20per%20i%20medesimi%20e%20sulla%20designazione%20delle%20opere%20marittime.%20084U2518.md), approvato con [R. decreto 2 aprile 1885, n. 3095](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md).
 
 ## Art. 2.
 

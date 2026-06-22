@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e relativo regolamento approvato con [R. decreto 11 luglio 1907, n. 560](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
+Visto il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e relativo regolamento approvato con [R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
 
 Vista la [legge 2 maggio 1907, n. 222](Abolizione%20delle%20revisioni%20biennali%20dei%20redditi%20di%20ricchezza%20mobile%20ed%20altre%20modificazioni%20alla%20legge%20sulla%20imposta%20di%20ricchezza%20mobile.%20007U0222.md);
 
@@ -234,7 +234,7 @@ La risoluzione in via amministrativa delle controversie tra l'Amministrazione fi
 
 ### Art. 23.
 
-Le Commissioni distrettuali sostituiscono le Commissioni mandamentali di cui all'art. 42 del testo unico di legge per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md). 
+Le Commissioni distrettuali sostituiscono le Commissioni mandamentali di cui all'art. 42 del testo unico di legge per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md). 
  
  Esse hanno giurisdizione identica alla circoscrizione territoriale dell'ufficio delle imposte dirette.
 
@@ -388,7 +388,7 @@ L'azione della Finanza, per la rettifica delle dichiarazioni dei nuovi redditi, 
  
  L'iscrizione a ruolo del reddito dichiarato dal contribuente non pregiudica il diritto della Finanza a rettificare il reddito stesso entro il termine stabilito nel comma precedente, se la dichiarazione fu presentata tempestivamente ed entro l'anno successivo a quello di presentazione della dichiarazione stessa, se questa fu presentata tardivamente. 
  
- La facolta' della Commissione distrettuale, di aumentare i redditi accertati dagli uffici e di accertare i redditi e cespiti omessi, ai termini dell'[art. 43 del testo unico 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1877-08-24;4021#art_43), e dell'art. 98 del regolamento approvato con [R. decreto 11 luglio 1907, n. 560](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md), cessa col 31 dicembre del secondo anno successivo a quello della definizione dell'accertamento.
+ La facolta' della Commissione distrettuale, di aumentare i redditi accertati dagli uffici e di accertare i redditi e cespiti omessi, ai termini dell'[art. 43 del testo unico 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1877-08-24;4021#art_43), e dell'art. 98 del regolamento approvato con [R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md), cessa col 31 dicembre del secondo anno successivo a quello della definizione dell'accertamento.
 
 ### Art. 40.
 

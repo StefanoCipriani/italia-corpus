@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 28 dicembre 1952, n. 3060](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20della%20facolta%20di%20provvedere%20alla%20riforma%20degli%20ordinamenti%20delle%20professioni%20di%20esercente%20in%20economia%20e%20commercio%20e%20di%20ragioniere.md);
+Vista la [legge 28 dicembre 1952, n. 3060](Delega%20al%20Governo%20della%20facolta%20di%20provvedere%20alla%20riforma%20degli%20ordinamenti%20delle%20professioni%20di%20esercente%20in%20economia%20e%20commercio%20e%20di%20ragioniere.md);
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 

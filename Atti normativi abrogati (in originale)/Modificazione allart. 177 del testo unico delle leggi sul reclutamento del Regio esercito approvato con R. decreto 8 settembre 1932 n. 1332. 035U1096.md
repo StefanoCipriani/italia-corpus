@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- L'art. 177 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md), e' sostituito dal seguente: 
+ L'art. 177 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md), e' sostituito dal seguente: 
  
  «I sottufficiali ed i militari di truppa in congedo illimitato possono essere richiamati in servizio in totalita', ovvero in parte, per classi, per considerazioni della categoria originaria o del loro originario obbligo di ferma, per arma di ascrizione o di provenienza, per corpo, per specialita' di servizio, o per distretto militare. 
  

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il fondo di dotazione della sezione autonoma per il credito cinematografico della Banca nazionale del lavoro, istituita con [regio decreto 14 novembre 1935, n. 2504](../Regi%20decreti/Costituzione%20presso%20la%20Banca%20nazionale%20del%20lavoro%20di%20una%20Sezione%20autonoma%20per%20il%20credito%20cinematografico.%20035U2504.md), e' aumentato di complessive lire 14 miliardi, in ragione di lire 7 miliardi per ciascuno degli esercizi 1977 e 1978 mediante conferimento di pari importi da parte dello Stato.
+Il fondo di dotazione della sezione autonoma per il credito cinematografico della Banca nazionale del lavoro, istituita con [regio decreto 14 novembre 1935, n. 2504](Costituzione%20presso%20la%20Banca%20nazionale%20del%20lavoro%20di%20una%20Sezione%20autonoma%20per%20il%20credito%20cinematografico.%20035U2504.md), e' aumentato di complessive lire 14 miliardi, in ragione di lire 7 miliardi per ciascuno degli esercizi 1977 e 1978 mediante conferimento di pari importi da parte dello Stato.
  Il fondo particolare di cui all'[articolo 28 della legge 4 novembre 1965, n. 1213](Nuovo%20ordinamento%20dei%20provvedimenti%20a%20favore%20della%20cinematografia.md), e' aumentato di complessive lire 2 miliardi, in ragione di lire 1 miliardo per ciascuno degli esercizi 1977 e 1978, mediante conferimento di pari importi da parte dello Stato.
 
 ## Art. 2.

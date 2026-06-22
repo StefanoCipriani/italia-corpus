@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'art. 189 del Trattato che Istituisce la Comunita' Economica Europea, firmato a Roma il 25 marzo 1957, reso esecutivo con [legge 14 ottobre 1957, numero 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), secondo il quale il Regolamento comunitario e' obbligatorio in tutti i suoi elementi e direttamente applicabile in ciascuno degli Stati membri.
+Visto l'art. 189 del Trattato che Istituisce la Comunita' Economica Europea, firmato a Roma il 25 marzo 1957, reso esecutivo con [legge 14 ottobre 1957, numero 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), secondo il quale il Regolamento comunitario e' obbligatorio in tutti i suoi elementi e direttamente applicabile in ciascuno degli Stati membri.
 
 Visto il Regolamento n. 11 emanato il 27 giugno 1960 dal Consiglio della Comunita' Economica Europea;,
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per i trasporti e per l'aviazione civile, di concert
 
 ## Art. 1.
 
-Le imprese che effettuano servizi di trasporto di merci per conto di terzi su strada, su via navigabile interna e su ferrovie in concessione, debbono osservare le norme esecutive contenute nel presente decreto, allorche' effettuino trasporti che non abbiano per oggetto le merci indicate negli allegati I e III del Trattato che Istituisce la Comunita' Europea del Carbone e dell'Acciaio, firmato a Parigi il 18 aprile 1951, reso esecutivo con [legge 25 giugno 1952, n. 766](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Parigi%20il%2018%20aprile%201951%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20del%20carbone%20e%20dellacciaio%20e%20relativi%20annessi%20b%20_535fd4357eb2.md).
+Le imprese che effettuano servizi di trasporto di merci per conto di terzi su strada, su via navigabile interna e su ferrovie in concessione, debbono osservare le norme esecutive contenute nel presente decreto, allorche' effettuino trasporti che non abbiano per oggetto le merci indicate negli allegati I e III del Trattato che Istituisce la Comunita' Europea del Carbone e dell'Acciaio, firmato a Parigi il 18 aprile 1951, reso esecutivo con [legge 25 giugno 1952, n. 766](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Parigi%20il%2018%20aprile%201951%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20del%20carbone%20e%20dellacciaio%20e%20relativi%20annessi%20b%20_535fd4357eb2.md).
 
 ## Art. 2.
 
@@ -44,7 +44,7 @@ I due esemplari del documento di cui all'art. 6, paragrafo 2, del Regolamento n.
 
 ## Art. 4.
 
-Il documento di cui al precedente art. 3 potra' essere integrato con le notizie richieste dall'[art. 127 del testo unico delle norme sulla circolazione](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), o da altre disposizioni.
+Il documento di cui al precedente art. 3 potra' essere integrato con le notizie richieste dall'[art. 127 del testo unico delle norme sulla circolazione](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), o da altre disposizioni.
 
 ## Art. 5.
 

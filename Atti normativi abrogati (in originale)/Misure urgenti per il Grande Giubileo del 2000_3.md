@@ -52,7 +52,7 @@ La commissione puo' attribuire ai soggetti di cui al comma 3, lettera a), in agg
 
 6.
 
-Si applicano agli interventi di cui al presente decreto le disposizioni di cui alla [legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni ed integrazioni. Fermo il disposto dell'articolo 6, comma 5, della predetta legge, cosi' come sostituito dall'[articolo 4, comma 1, lettera c), del decreto-legge 3 aprile 1995, n. 101](Norme%20urgenti%20in%20materia%20di%20lavori%20pubblici.md), convertito, con modificazioni, dalla [legge 2 giugno 1995, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20aprile%201995%20n.%20101%20recante%20norme%20urgenti%20in%20materia%20di%20lavori%20pubblici.md), il piano indica, altresi', gli ulteriori progetti da sottoporre al parere del Consiglio superiore dei lavori pubblici.
+Si applicano agli interventi di cui al presente decreto le disposizioni di cui alla [legge 11 febbraio 1994, n. 109](Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni ed integrazioni. Fermo il disposto dell'articolo 6, comma 5, della predetta legge, cosi' come sostituito dall'[articolo 4, comma 1, lettera c), del decreto-legge 3 aprile 1995, n. 101](Norme%20urgenti%20in%20materia%20di%20lavori%20pubblici.md), convertito, con modificazioni, dalla [legge 2 giugno 1995, n. 216](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20aprile%201995%20n.%20101%20recante%20norme%20urgenti%20in%20materia%20di%20lavori%20pubblici.md), il piano indica, altresi', gli ulteriori progetti da sottoporre al parere del Consiglio superiore dei lavori pubblici.
 
 7.
 

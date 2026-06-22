@@ -14,7 +14,7 @@ PER GRAZIA DI. DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sull'ordinamento della Regia guardia di finanza, approvato con [R. decreto 26 novembre 1914, n. 1440](../Regi%20decreti/Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md);
+Visto il testo unico delle leggi sull'ordinamento della Regia guardia di finanza, approvato con [R. decreto 26 novembre 1914, n. 1440](Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md);
 
 Visti i [Regi decreti 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1281), e [31 dicembre 1923, n. 3170, nonche' il R. decreto-legge](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-31;3170) [6 maggio 1926, numero 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-06;844), che hanno portato modificazioni all'ordinamento della Regia guardia di finanza;
 

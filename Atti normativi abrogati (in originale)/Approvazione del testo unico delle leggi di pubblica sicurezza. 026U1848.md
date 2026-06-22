@@ -16,9 +16,9 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Vista la [legge 31 dicembre 1925, n. 2318, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-31;29), con la quale il Governo del Re fu autorizzato a modificare le disposizioni delle leggi di pubblica sicurezza, a coordinarle con quelle relative alla medesima materia contenute nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nel [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) ed in altre leggi, e a pubblicare un nuovo [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md); 
+ Vista la [legge 31 dicembre 1925, n. 2318, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-31;29), con la quale il Governo del Re fu autorizzato a modificare le disposizioni delle leggi di pubblica sicurezza, a coordinarle con quelle relative alla medesima materia contenute nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nel [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) ed in altre leggi, e a pubblicare un nuovo [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md); 
  
- Udito il parere della Sottocommissione parlamentare chiamata ad esaminare il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) emendato; 
+ Udito il parere della Sottocommissione parlamentare chiamata ad esaminare il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) emendato; 
  
  Udito il Consiglio dei Ministri; 
  
@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Il [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), portante la data di questo giorno, e' approvato ed avra' esecuzione a cominciare dal giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ Il [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), portante la data di questo giorno, e' approvato ed avra' esecuzione a cominciare dal giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

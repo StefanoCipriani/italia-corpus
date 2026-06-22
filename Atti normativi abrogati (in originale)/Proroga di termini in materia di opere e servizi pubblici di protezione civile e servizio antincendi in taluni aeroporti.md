@@ -24,7 +24,7 @@ EMANA il seguente decreto:
 
 1.
 
-I termini per l'attuazione dei piani, e per la realizzazione di tutte le opere previste dall'[articolo 9 della legge 10 ottobre 1962, n. 1549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-10-10;1549#art_9), gia' prorogati da ultimo con [decreto-legge 30 dicembre 1985, n. 791](Provvedimenti%20urgenti%20in%20materia%20di%20opere%20e%20servizi%20pubblici%20nonche%20di%20calamita%20naturali.md), convertito, con modificazioni, dalla [legge 28 febbraio 1986, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201985%20n.%20791%20concernente%20provvedimenti%20urgenti%20in%20materia%20di%20opere%20e%20servizi%20pubblici%20nonche%20di%20calamita%20naturali.md), nonche' i termini per le relative procedure espropriative, sono ulteriormente prorogati al 31 dicembre 1989.
+I termini per l'attuazione dei piani, e per la realizzazione di tutte le opere previste dall'[articolo 9 della legge 10 ottobre 1962, n. 1549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-10-10;1549#art_9), gia' prorogati da ultimo con [decreto-legge 30 dicembre 1985, n. 791](Provvedimenti%20urgenti%20in%20materia%20di%20opere%20e%20servizi%20pubblici%20nonche%20di%20calamita%20naturali.md), convertito, con modificazioni, dalla [legge 28 febbraio 1986, n. 46](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201985%20n.%20791%20concernente%20provvedimenti%20urgenti%20in%20materia%20di%20opere%20e%20servizi%20pubblici%20nonche%20di%20calamita%20naturali.md), nonche' i termini per le relative procedure espropriative, sono ulteriormente prorogati al 31 dicembre 1989.
 
 2.
 
@@ -52,7 +52,7 @@ Il termine di 60 giorni indicato nel [comma 1 dell'articolo 12 della legge 28 ot
 
 1.
 
-Il termine del 31 dicembre 1986 indicato nel [comma 2 dell'articolo 12 del decreto-legge 30 dicembre 1985, n. 791](Provvedimenti%20urgenti%20in%20materia%20di%20opere%20e%20servizi%20pubblici%20nonche%20di%20calamita%20naturali.md), convertito, con modificazioni, dalla [legge 28 febbraio 1986, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201985%20n.%20791%20concernente%20provvedimenti%20urgenti%20in%20materia%20di%20opere%20e%20servizi%20pubblici%20nonche%20di%20calamita%20naturali.md), relativo alla prestazione del servizio antincendi da parte dell'Amministrazione militare negli aeroporti di Firenze-Peretola, Grosseto, Roma-Urbe e Taranto e da parte del Corpo nazionale dei vigili del fuoco negli aeroporti di Pescara e Villanova d'Albenga, e' differito al 31 dicembre 1987.
+Il termine del 31 dicembre 1986 indicato nel [comma 2 dell'articolo 12 del decreto-legge 30 dicembre 1985, n. 791](Provvedimenti%20urgenti%20in%20materia%20di%20opere%20e%20servizi%20pubblici%20nonche%20di%20calamita%20naturali.md), convertito, con modificazioni, dalla [legge 28 febbraio 1986, n. 46](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201985%20n.%20791%20concernente%20provvedimenti%20urgenti%20in%20materia%20di%20opere%20e%20servizi%20pubblici%20nonche%20di%20calamita%20naturali.md), relativo alla prestazione del servizio antincendi da parte dell'Amministrazione militare negli aeroporti di Firenze-Peretola, Grosseto, Roma-Urbe e Taranto e da parte del Corpo nazionale dei vigili del fuoco negli aeroporti di Pescara e Villanova d'Albenga, e' differito al 31 dicembre 1987.
 
 2.
 

@@ -42,7 +42,7 @@ Il Ministero per l'industria, il commercio ed il lavoro, accertata la deficienza
  
  Le competenze del liquidatore sono determinate nel R. decreto di nomina e fanno carico alla liquidazione. 
  
- I provvedimenti del Ministero possono essere impugnati esclusivamente con ricorso alla 4ª sezione del Consiglio di Stato, a norma dell'art. 22 della legge sul Consiglio di Stato, testo unico, approvato con [R. decreto 17 agosto 1907, n. 638](../Regi%20decreti/Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0638.md).
+ I provvedimenti del Ministero possono essere impugnati esclusivamente con ricorso alla 4ª sezione del Consiglio di Stato, a norma dell'art. 22 della legge sul Consiglio di Stato, testo unico, approvato con [R. decreto 17 agosto 1907, n. 638](Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0638.md).
 
 ## Art. 3.
 

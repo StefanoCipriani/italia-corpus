@@ -32,7 +32,7 @@ Il rilevamento della coesistenza sullo stesso immobile, dei diversi diritti real
 
 ## Art. 4.
 
-Le proposte di intestazione e di ripartizione vengono portate a conoscenza degli interessati, i quali hanno diritto di reclamare contro di esse, e vengono rese definitive, coi procedimenti prescritti nel [R. decreto 7 gennaio 1923, n. 17](../Regi%20decreti/Che%20dispone%20la%20revisione%20generale%20degli%20estimi%20catastali.%20023U0017.md).
+Le proposte di intestazione e di ripartizione vengono portate a conoscenza degli interessati, i quali hanno diritto di reclamare contro di esse, e vengono rese definitive, coi procedimenti prescritti nel [R. decreto 7 gennaio 1923, n. 17](Che%20dispone%20la%20revisione%20generale%20degli%20estimi%20catastali.%20023U0017.md).
 
 ## Art. 5.
 

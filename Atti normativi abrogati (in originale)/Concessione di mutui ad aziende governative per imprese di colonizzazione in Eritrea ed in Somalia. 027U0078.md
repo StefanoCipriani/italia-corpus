@@ -30,7 +30,7 @@ I mutui per imprese di colonizzazione in Eritrea e nella Somalia Italiana di cui
 
 ## Art. 2.
 
-La erogazione dei mutui concessi alle aziende governative sara' fatta secondo le norme del regolamento approvato col [R. decreto 30 luglio 1922, n. 1088](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%2024%20luglio%201922%20n.1046%20sulla%20concessione%20di%20mutui%20per%20imprese%20di%20colonizzazione%20in%20Eritrea%20ed%20in%20Somalia.%20022U1088.md), in quanto applicabili. 
+La erogazione dei mutui concessi alle aziende governative sara' fatta secondo le norme del regolamento approvato col [R. decreto 30 luglio 1922, n. 1088](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%2024%20luglio%201922%20n.1046%20sulla%20concessione%20di%20mutui%20per%20imprese%20di%20colonizzazione%20in%20Eritrea%20ed%20in%20Somalia.%20022U1088.md), in quanto applicabili. 
  
  Al Ministero delle colonie compete accertarsi dell'effettivo impiego delle somme mutuate agli scopi pei quali sono state concesse, nonche' del regolare versamento delle rate di ammortamento comprensive del capitale e dei relativi interessi. 
  

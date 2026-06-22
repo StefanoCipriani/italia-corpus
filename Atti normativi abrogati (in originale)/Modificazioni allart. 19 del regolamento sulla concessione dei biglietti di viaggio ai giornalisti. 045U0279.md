@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 9 aprile 1931, n. 406](Modificazioni%20alle%20vigenti%20disposizioni%20sulle%20concessioni%20ferroviarie%20di%20viaggio%20ai%20giornalisti.%20031U0406.md), sulle modificazioni alle vigenti disposizioni sulle concessioni ferroviarie di viaggio ai giornalisti;
 
-Visto il [R. decreto 11 maggio 1931, n. 1523](../Regi%20decreti/Modificazioni%20al%20regolamento%20sulla%20concessione%20dei%20biglietti%20di%20viaggio%20a%20prezzo%20ridotto%20per%20i%20giornalisti.%20031U1523.md), concernente modificazioni al regolamento sulla concessione dei biglietti di viaggio a prezzo ridotto per i giornalisti;
+Visto il [R. decreto 11 maggio 1931, n. 1523](Modificazioni%20al%20regolamento%20sulla%20concessione%20dei%20biglietti%20di%20viaggio%20a%20prezzo%20ridotto%20per%20i%20giornalisti.%20031U1523.md), concernente modificazioni al regolamento sulla concessione dei biglietti di viaggio a prezzo ridotto per i giornalisti;
 
 Visto il [R. decreto-legge 3 gennaio 1944, n. 2](Sospensione%20delle%20norme%20relative%20al%20funzionamento%20del%20Consiglio%20di%20Amministrazione%20delle%20Ferrovie%20dello%20Stato%20e%20attribuzione%20al%20Ministero%20delle%20Comunicazioni%20dei%20poteri%20del%20Direttore%20Gene_1f2e751b7129.md), sulla sospensione delle norme relative al funzionamento del Consiglio di amministrazione delle ferrovie dello Stato e attribuzione al Ministro per le comunicazioni dei poteri del direttore generale delle Ferrovie dello Stato;
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro Segretario di Stato per i trasporti, d'intesa col Mi
 
 ## Articolo unico.
 
-L'[art. 19 del R. decreto 11 maggio 1931, n. 1523](../Regi%20decreti/Modificazioni%20al%20regolamento%20sulla%20concessione%20dei%20biglietti%20di%20viaggio%20a%20prezzo%20ridotto%20per%20i%20giornalisti.%20031U1523.md), e' sostituito dal seguente: 
+L'[art. 19 del R. decreto 11 maggio 1931, n. 1523](Modificazioni%20al%20regolamento%20sulla%20concessione%20dei%20biglietti%20di%20viaggio%20a%20prezzo%20ridotto%20per%20i%20giornalisti.%20031U1523.md), e' sostituito dal seguente: 
  
  « Art. 19. - La decisione sulle richieste di cui all'articolo che precede e' deferita ad una commissione presieduta dal Ministro per i trasporti e composta: 
  

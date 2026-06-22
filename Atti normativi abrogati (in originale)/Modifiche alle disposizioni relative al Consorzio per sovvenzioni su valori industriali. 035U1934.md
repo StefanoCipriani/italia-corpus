@@ -30,7 +30,7 @@ Il Consorzio per sovvenzioni su valori industriali e' autorizzato, fino a tutto 
  
  E' altresi' autorizzato a concedere agli assuntori di forniture per le fabbricazioni di guerra, e nei limiti del 65% dell'importo complessivo dei rispettivi contratti, sovvenzioni contro rilascio di cambiali garantite dalla cessione delle somme alle quali essi avranno diritto ai termini dei contratti medesimi. La somministrazione delle sovvenzioni avra' luogo in relazione allo stato di esecuzione delle commesse risultante dai certificati rilasciati dalle autorita' committenti. 
  
- I paghero' cambiari rappresentanti le sovvenzioni predette, da emettersi secondo le norme di cui all'[art. 7 del R. decreto 20 dicembre 1914, n. 1375](../Regi%20decreti/Che%20autorizza%20la%20costituzione%20di%20un%20Consorzio%20fra%20Istituti%20di%20emissione%20ed%20altri%20enti%20per%20sovvenzioni%20su%20valori%20industriali.%20014U1375.md), conterranno un riferimento anche al presente decreto.
+ I paghero' cambiari rappresentanti le sovvenzioni predette, da emettersi secondo le norme di cui all'[art. 7 del R. decreto 20 dicembre 1914, n. 1375](Che%20autorizza%20la%20costituzione%20di%20un%20Consorzio%20fra%20Istituti%20di%20emissione%20ed%20altri%20enti%20per%20sovvenzioni%20su%20valori%20industriali.%20014U1375.md), conterranno un riferimento anche al presente decreto.
 
 ## Art. 2.
 

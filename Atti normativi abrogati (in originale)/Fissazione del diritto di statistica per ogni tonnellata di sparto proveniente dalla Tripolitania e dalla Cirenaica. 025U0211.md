@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Viste le disposizioni sul diritto di statistica approvate con [R. decreto 22 novembre 1914, n. 1289](../Regi%20decreti/Riguardante%20modificazioni%20al%20diritto%20di%20statistica%20in%20dogana.%20014U1289.md), successivamente modificate con l'allegato C al [R. decreto-legge 24 novembre 1919, n. 2165](Riguardante%20limposta%20sui%20tessuti%20di%20lusso%20sui%20guanti%20e%20provvedimenti%20relativi%20allimposta%20di%20fabbricazione%20della%20birra%20ecc.%20019U2165.md), con l'allegato C al [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), e con l'allegato C al [R. decreto 11 luglio 1923, n. 1545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-11;1545); 
+ Viste le disposizioni sul diritto di statistica approvate con [R. decreto 22 novembre 1914, n. 1289](Riguardante%20modificazioni%20al%20diritto%20di%20statistica%20in%20dogana.%20014U1289.md), successivamente modificate con l'allegato C al [R. decreto-legge 24 novembre 1919, n. 2165](Riguardante%20limposta%20sui%20tessuti%20di%20lusso%20sui%20guanti%20e%20provvedimenti%20relativi%20allimposta%20di%20fabbricazione%20della%20birra%20ecc.%20019U2165.md), con l'allegato C al [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), e con l'allegato C al [R. decreto 11 luglio 1923, n. 1545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-11;1545); 
  
  Sentito il Consiglio dei Ministri; 
  

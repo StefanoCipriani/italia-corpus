@@ -16,13 +16,13 @@ IL MINISTRO DEL TESORO
  
  Veduto il R. decreto 10 marzo 1883, n. DCCCLXVIII, che autorizza gli Istituti di emissione ad emettere biglietti da lire 25, pagabili al portatore ed a vista, e ne stabilisce il riparto; 
  
- Veduto il [R. decreto 28 luglio 1883, n. 1533](../Regi%20decreti/Concernente%20i%20biglietti%20da%20lire%2025%20della%20banca%20nazionale%20Toscana.%20083U1533.md) (Serie 3ª), che rende di pubblica ragione i segni ed i distintivi caratteristici dei biglietti da lire 25 della Banca Nazionale Toscana; 
+ Veduto il [R. decreto 28 luglio 1883, n. 1533](Concernente%20i%20biglietti%20da%20lire%2025%20della%20banca%20nazionale%20Toscana.%20083U1533.md) (Serie 3ª), che rende di pubblica ragione i segni ed i distintivi caratteristici dei biglietti da lire 25 della Banca Nazionale Toscana; 
  
  D'accordo col Ministro d'Agricoltura, Industria e Commercio, 
  
  Determina: 
  
- I biglietti da lire 25, pagabili al portatore ed a vista, che la Banca Nazionale Toscana fu autorizzata ad emettere in numero' di 280/m, e pel valore complessivo di sette milioni di lire, giusta il R. decreto 1° marzo 1883, n. DCCCLXVIII (Serie 3ª), ed i cui segni e distintivi caratteristici furono resi di pubblica ragione con l'altro [R. decreto 28 luglio 1883, n. 1533](../Regi%20decreti/Concernente%20i%20biglietti%20da%20lire%2025%20della%20banca%20nazionale%20Toscana.%20083U1533.md) (Serie 3ª), saranno ripartiti in 280 serie, divise e numerate come qui appresso: 
+ I biglietti da lire 25, pagabili al portatore ed a vista, che la Banca Nazionale Toscana fu autorizzata ad emettere in numero' di 280/m, e pel valore complessivo di sette milioni di lire, giusta il R. decreto 1° marzo 1883, n. DCCCLXVIII (Serie 3ª), ed i cui segni e distintivi caratteristici furono resi di pubblica ragione con l'altro [R. decreto 28 luglio 1883, n. 1533](Concernente%20i%20biglietti%20da%20lire%2025%20della%20banca%20nazionale%20Toscana.%20083U1533.md) (Serie 3ª), saranno ripartiti in 280 serie, divise e numerate come qui appresso: 
  
  N. 24 serie numerate dall'1 al 1000 e contrassegnate colle lettere: 
  

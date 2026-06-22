@@ -46,7 +46,7 @@ Nella prima applicazione del presente decreto, gli attuali rettori di 1ª classe
 
 ## Art. 5.
 
-Restano ferme, per quanto riguarda il titolo di studio richiesto per le promozioni a vice rettore e a rettore di 2ª classe, le disposizioni di cui al [regio decreto 13 luglio 1933, n. 1000](../Regi%20decreti/Norme%20per%20le%20promozioni%20a%20rettore%20e%20a%20vice%20rettore%20nei%20Convitti%20nazionali.%20033U1000.md).
+Restano ferme, per quanto riguarda il titolo di studio richiesto per le promozioni a vice rettore e a rettore di 2ª classe, le disposizioni di cui al [regio decreto 13 luglio 1933, n. 1000](Norme%20per%20le%20promozioni%20a%20rettore%20e%20a%20vice%20rettore%20nei%20Convitti%20nazionali.%20033U1000.md).
 
 ## Art. 6.
 

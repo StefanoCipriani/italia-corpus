@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- I sussidi ai Comuni e Consorzi di cui nell'art. 321 della legge 20 marzo 1865, allegato F, e nel [R. decreto 16 giugno 1904, n. 445](../Regi%20decreti/Norme%20che%20stabiliscono%20i%20sussidi%20da%20concedersi%20ai%20comuni%20e%20ai%20consorzi%20per%20la%20esecuzione%20delle%20opere%20pubbliche.%20004U0445.md) potranno, quando riguardino la costruzione o la sistemazione di strade esterne agli abitati, raggiungere la misura del 40 per cento dell'importo dei lavori eseguiti posteriormente alla data del presente decreto e fino al 31 dicembre 1920. 
+ I sussidi ai Comuni e Consorzi di cui nell'art. 321 della legge 20 marzo 1865, allegato F, e nel [R. decreto 16 giugno 1904, n. 445](Norme%20che%20stabiliscono%20i%20sussidi%20da%20concedersi%20ai%20comuni%20e%20ai%20consorzi%20per%20la%20esecuzione%20delle%20opere%20pubbliche.%20004U0445.md) potranno, quando riguardino la costruzione o la sistemazione di strade esterne agli abitati, raggiungere la misura del 40 per cento dell'importo dei lavori eseguiti posteriormente alla data del presente decreto e fino al 31 dicembre 1920. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

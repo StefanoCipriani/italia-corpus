@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I ruoli organici del personale civile del soppresso Ministero della produzione bellica, di cui alle tabelle B, C, D, E annesse al [R. decreto 12 gennaio 1942, n. 213](../Regi%20decreti/Ordinamento%20del%20Sottosegretariato%20di%20Stato%20per%20le%20fabbricazioni%20di%20guerra.%20042U0213.md), e il relativo personale sono trasferiti al Ministero dell'industria, commercio e lavoro.
+I ruoli organici del personale civile del soppresso Ministero della produzione bellica, di cui alle tabelle B, C, D, E annesse al [R. decreto 12 gennaio 1942, n. 213](Ordinamento%20del%20Sottosegretariato%20di%20Stato%20per%20le%20fabbricazioni%20di%20guerra.%20042U0213.md), e il relativo personale sono trasferiti al Ministero dell'industria, commercio e lavoro.
 
 ## Art. 2.
 

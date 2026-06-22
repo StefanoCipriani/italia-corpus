@@ -16,11 +16,11 @@ Vista la [legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), che approva il regolamento per l'esecuzione della legge sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
-Visto il [regio decreto 25 maggio 1895, n. 350](../Regi%20decreti/Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md), che approva il regolamento sulla direzione, contabilizzazione e collaudazione dei lavori dello Stato, che sono nelle attribuzioni del Ministero dei lavori pubblici;
+Visto il [regio decreto 25 maggio 1895, n. 350](Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md), che approva il regolamento sulla direzione, contabilizzazione e collaudazione dei lavori dello Stato, che sono nelle attribuzioni del Ministero dei lavori pubblici;
 
 Visto il decreto del Ministro per i lavori pubblici 28 maggio 1895, che ha approvato il capitolato generale di appalto per le opere dipendenti dal Ministero dei lavori pubblici;
 
-Visto l'[art. 1, n. 7, del regio decreto 14 novembre 1901, n. 466](../Regi%20decreti/Sulle%20attribuzioni%20del%20Consiglio%20dei%20Ministri.%20001U0466.md);
+Visto l'[art. 1, n. 7, del regio decreto 14 novembre 1901, n. 466](Sulle%20attribuzioni%20del%20Consiglio%20dei%20Ministri.%20001U0466.md);
 
 Visto l'[art. 54 del regio decreto 21 aprile 1942, numero 444](../Regi%20decreti/Regolamento%20per%20lesecuzione%20della%20legge%20sul%20Consiglio%20di%20Stato.%20042U0444.md);
 

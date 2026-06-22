@@ -62,7 +62,7 @@ Nel caso di responsabilita' incontrata dall'inscritto, la Cassa addebitera' la s
 
 ## Art. 8.
 
-La Cassa procedera' colle norme stabilite dal testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato approvato con [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), su tutti i beni mobili ed immobili, presenti e futuri, del contabile e dei suoi aventi causa, pel ricupero delle somme pagate, con gli interessi e le spese, in seguito a responsabilita' incontrate dal contabile stesso ed eccedenti l'importo del suo conto individuale. 
+La Cassa procedera' colle norme stabilite dal testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato approvato con [R. decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), su tutti i beni mobili ed immobili, presenti e futuri, del contabile e dei suoi aventi causa, pel ricupero delle somme pagate, con gli interessi e le spese, in seguito a responsabilita' incontrate dal contabile stesso ed eccedenti l'importo del suo conto individuale. 
  
  Il diritto spettante alla Cassa sui beni del contabile sara' subordinato a quello dello Stato qualora il credito erariale non sia stato completamento soddisfatto.
 

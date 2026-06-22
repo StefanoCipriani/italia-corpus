@@ -75,7 +75,7 @@ L'aliquota dell'imposta generale sull'entrata dovuta alle entrate relative agli 
 
 ## Art. 13.
 
-Sono abrogate le disposizioni contenute nell'articolo 19 del testo unico delle leggi sulle tasse automobilistiche approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39, e negli articoli 15](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md) e [16](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md) della [legge 21 maggio 1955, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-05-21;463).
+Sono abrogate le disposizioni contenute nell'articolo 19 del testo unico delle leggi sulle tasse automobilistiche approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39, e negli articoli 15](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md) e [16](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md) della [legge 21 maggio 1955, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-05-21;463).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

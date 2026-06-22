@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 14 novembre 1926, n. 1987](Stanziamento%20di%20somme%20nei%20bilanci%20del%20Ministero%20delle%20comunicazioni%20per%20lesercizio%20dei%20servizi%20marittimi%20sovvenzionati.%20026U1987.md), che autorizza le spese per provvedere all'esercizio dei servizi marittimi sovvenzionati riordinati dal 1° gennaio 1926 in base al [R. decreto n. 3173 del 31 dicembre 1923](../Regi%20decreti/Ordinamento%20dei%20servizi%20postali%20e%20commerciali%20marittimi.%20023U3173.md). 
+ E' convertito in legge il [R. decreto-legge 14 novembre 1926, n. 1987](Stanziamento%20di%20somme%20nei%20bilanci%20del%20Ministero%20delle%20comunicazioni%20per%20lesercizio%20dei%20servizi%20marittimi%20sovvenzionati.%20026U1987.md), che autorizza le spese per provvedere all'esercizio dei servizi marittimi sovvenzionati riordinati dal 1° gennaio 1926 in base al [R. decreto n. 3173 del 31 dicembre 1923](Ordinamento%20dei%20servizi%20postali%20e%20commerciali%20marittimi.%20023U3173.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

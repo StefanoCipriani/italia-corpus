@@ -26,7 +26,7 @@ Agli ufficiali dell'arma dei carabinieri reali richiamati dal congedo spetta l'i
 
 L'indennita' di carica spetta agli ufficiali richiamati dal congedo: 
  
- a) nella misura stabilita dalla tabella I annessa al [R. decreto 23 maggio 1915, n. 677](../Regi%20decreti/Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), quando hanno diritto agli assegni di guerra o ricoprono cariche previste nella formazione di guerra o nelle lettere a) ad h) della tabella IV annessa al testo unico delle leggi sugli stipendi ed assegni fissi pel R. esercito o nel § 63 del relativo regolamento; 
+ a) nella misura stabilita dalla tabella I annessa al [R. decreto 23 maggio 1915, n. 677](Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), quando hanno diritto agli assegni di guerra o ricoprono cariche previste nella formazione di guerra o nelle lettere a) ad h) della tabella IV annessa al testo unico delle leggi sugli stipendi ed assegni fissi pel R. esercito o nel § 63 del relativo regolamento; 
  
  b) nella misura stabilita dalla detta tabella IV, quando non hanno diritto agli assegni di guerra e ricoprono cariche previste nelle lettere a) ad h) della tabella stessa o nel § 63 del su citato regolamento. 
  

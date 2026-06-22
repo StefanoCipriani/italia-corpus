@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 18 settembre 1930, n. 1593](Contributo%20scolastico%20suppletivo%20dovuto%20dai%20Comuni%20delle%20provincie%20di%20Ancona%20Ascoli%20Piceno%20Macerata%20e%20Pesaro%20Urbino%20per%20il%20quinquennio%20l%20aprile%201930-31%20marzo%201935.%20030U1593.md), col quale furono stabiliti i contributi dovuti, per il quinquennio 1° aprile 1930-31 marzo 1935, dai Comuni delle provincie di Ancona, Ascoli Piceno, Macerata e Pesaro Urbino, in applicazione dell'art. 55, lettera c), del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
+Veduto il [R. decreto 18 settembre 1930, n. 1593](Contributo%20scolastico%20suppletivo%20dovuto%20dai%20Comuni%20delle%20provincie%20di%20Ancona%20Ascoli%20Piceno%20Macerata%20e%20Pesaro%20Urbino%20per%20il%20quinquennio%20l%20aprile%201930-31%20marzo%201935.%20030U1593.md), col quale furono stabiliti i contributi dovuti, per il quinquennio 1° aprile 1930-31 marzo 1935, dai Comuni delle provincie di Ancona, Ascoli Piceno, Macerata e Pesaro Urbino, in applicazione dell'art. 55, lettera c), del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Veduto il nuovo elenco delle scuole classificate legalmente istituite ed esistenti nel comune di Morrovalle al 1° aprile 1930: elenco compilato dal Regio provveditore agli studi di Ancona, dal quale risulta che a carico dell'Ente predetto fu liquidato un contributo diverso da quello effettivamente dovuto;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-Il contributo che il comune di Morrovalle, della provincia di Macerata, deve versare annualmente alla Regia tesoreria dello Stato, in applicazione dell'art. 55, lettera c), del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e' ridotto da L. 5600 a L. 5200 per il periodo 1° aprile 1930-31 dicembre 1931.
+Il contributo che il comune di Morrovalle, della provincia di Macerata, deve versare annualmente alla Regia tesoreria dello Stato, in applicazione dell'art. 55, lettera c), del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e' ridotto da L. 5600 a L. 5200 per il periodo 1° aprile 1930-31 dicembre 1931.
 
 ## Art. 2.
 

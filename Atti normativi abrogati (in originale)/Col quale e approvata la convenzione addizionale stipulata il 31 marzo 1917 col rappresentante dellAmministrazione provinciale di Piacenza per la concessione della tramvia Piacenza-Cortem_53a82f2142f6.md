@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 29 gennaio 1914, n. 167](../Regi%20decreti/Col%20quale%20viene%20approvata%20la%20convenzione%20per%20la%20concessione%20della%20tramvia%20Piacenza-Cortemaggiore-Busseto.%20014U0167.md), col quale fu approvata e resa esecutoria la convenzione 1° dicembre 1913 per la concessione, con sussidio governativo, della tramvia Piacenza-Cortemaggiore-Busseto, a favore della provincia di Piacenza; 
+ Visto il [R. decreto 29 gennaio 1914, n. 167](Col%20quale%20viene%20approvata%20la%20convenzione%20per%20la%20concessione%20della%20tramvia%20Piacenza-Cortemaggiore-Busseto.%20014U0167.md), col quale fu approvata e resa esecutoria la convenzione 1° dicembre 1913 per la concessione, con sussidio governativo, della tramvia Piacenza-Cortemaggiore-Busseto, a favore della provincia di Piacenza; 
  
  Vista la domanda presentata dalla concessionaria provincia di Piacenza in data 28 giugno 1916; 
  
- Visto il testo unico delle disposizioni di legge sulle ferrovie concesse alla industria privata, le tramvie a trazione meccanica e gli automobili, approvato con [R. decreto 9 maggio 1912, n 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), ed il regolamento approvato con [R. decreto 17 giugno 1900, n. 306](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20n.%20561%20riflettente%20le%20tramvie%20a%20trazione%20meccanica%20e%20le%20ferrovie%20economiche.%20000U0306.md); 
+ Visto il testo unico delle disposizioni di legge sulle ferrovie concesse alla industria privata, le tramvie a trazione meccanica e gli automobili, approvato con [R. decreto 9 maggio 1912, n 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), ed il regolamento approvato con [R. decreto 17 giugno 1900, n. 306](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20n.%20561%20riflettente%20le%20tramvie%20a%20trazione%20meccanica%20e%20le%20ferrovie%20economiche.%20000U0306.md); 
  
  Udito il Consiglio superiore dei lavori pubblici ed il Consiglio di Stato; 
  

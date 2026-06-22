@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 18 gennaio 1945, n. 16](../Decreti%20legislativi%20luogotenenziali/Istituzione%20dei%20Provveditorati%20regionali%20alle%20opere%20pubbliche.%20045U0016.md);
+Visto il [decreto legislativo luogotenenziale 18 gennaio 1945, n. 16](Istituzione%20dei%20Provveditorati%20regionali%20alle%20opere%20pubbliche.%20045U0016.md);
 
 Visto il [decreto legislativo Presidenziale 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;37);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro Segretario di Stato per i lavori pubblici, di concer
 
 L'[art. 2 del decreto legislativo Presidenziale 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;37#art_2), e' sostituito, con effetto dalla data di^ entrata in vigore del decreto legislativo medesimo dal seguente:
  "I provveditori sono nominati con decreto del Capo dello Stato, udito il Consiglio dei Ministri, tra i funzionari in attivita' di servizio di grado non inferiore a 5° appartenenti ai ruoli della Amministrazione dei lavori pubblici.
- Possono anche essere nominati provveditori, con le modalita' di cui al precedente comma, i funzionari di grado non inferiore al 5° di altre Amministrazioni dello Stato, comandati a prestar servizio presso l'Amministrazione dei lavori pubblici, i quali alla data di entrata in vigore del [decreto legislativo Presidenziale 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;37), avevano le funzioni di provveditore regionale a norma del [decreto legislativo luogotenenziale 18 gennaio 1945, n. 16](../Decreti%20legislativi%20luogotenenziali/Istituzione%20dei%20Provveditorati%20regionali%20alle%20opere%20pubbliche.%20045U0016.md).
+ Possono anche essere nominati provveditori, con le modalita' di cui al precedente comma, i funzionari di grado non inferiore al 5° di altre Amministrazioni dello Stato, comandati a prestar servizio presso l'Amministrazione dei lavori pubblici, i quali alla data di entrata in vigore del [decreto legislativo Presidenziale 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;37), avevano le funzioni di provveditore regionale a norma del [decreto legislativo luogotenenziale 18 gennaio 1945, n. 16](Istituzione%20dei%20Provveditorati%20regionali%20alle%20opere%20pubbliche.%20045U0016.md).
  Durante l'incarico e' attribuito ai provveditori il trattamento economico del grado 4° della classificazione del personale dipendente dallo Stato.
  I funzionari appartenenti ai ruoli dell'Amministrazione dei lavori pubblici, nominati provveditori durante l'incarico sono collocati fuori ruolo.
  I provveditori regionali alle Opere pubbliche fanno parte di diritto del Consiglio superiore dei lavori pubblici".

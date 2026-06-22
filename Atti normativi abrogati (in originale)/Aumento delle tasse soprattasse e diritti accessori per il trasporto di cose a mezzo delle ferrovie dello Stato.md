@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto n. 9 del 25 gennaio 1940](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-01-25;9), convertito nella [legge n. 674 del 13 maggio 1940](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2025%20gennaio%201940-XVIII%20n.%209%20concernente%20la%20semplificazione%20e%20ladeguamento%20delle%20tariffe%20per%20il%20trasporto%20delle%20merci%20sulle%20ferrovie%20dello%20Stato.%20040U0674.md);
+Visto il [regio decreto n. 9 del 25 gennaio 1940](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-01-25;9), convertito nella [legge n. 674 del 13 maggio 1940](Conversione%20in%20legge%20del%20Regio%20decreto-legge%2025%20gennaio%201940-XVIII%20n.%209%20concernente%20la%20semplificazione%20e%20ladeguamento%20delle%20tariffe%20per%20il%20trasporto%20delle%20merci%20sulle%20ferrovie%20dello%20Stato.%20040U0674.md);
 
 Visti gli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-29;164#art_4), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-29;164#art_6) e [8 del decreto legislativo del Capo provvisorio dello Stato 29 marzo 1947, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-29;164#art_8);
 

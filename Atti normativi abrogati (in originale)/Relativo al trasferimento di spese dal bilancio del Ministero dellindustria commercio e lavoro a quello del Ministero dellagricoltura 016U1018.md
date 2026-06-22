@@ -26,7 +26,7 @@ Nello stato di previsione del Ministero di agricoltura per l'esercizio finanziar
  
  Cap. n. 115: «Spese per l'esecuzione delle [leggi 25 giugno 1906, n. 225, e 9 luglio 1908, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445), a favore della Calabria e per la parte relativa al credito agrario (Spesa ripartita 8ª rata)». 
  
- Cap. n. 118: «Quota d'interessi, a carico del Ministero di agricoltura, sui mutui concessi a proprietari e ad acquirenti di terreni nell'Agro romano (art. 31 del testo unico di legge approvato con [R. decreto 10 novembre 1905, n. 647](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20pel%20bonificamento%20dellAgro%20romano%20e%20sulla%20colonizzazione%20dei%20beni%20demaniali%20dello%20Stato.%20005U0647.md)». 
+ Cap. n. 118: «Quota d'interessi, a carico del Ministero di agricoltura, sui mutui concessi a proprietari e ad acquirenti di terreni nell'Agro romano (art. 31 del testo unico di legge approvato con [R. decreto 10 novembre 1905, n. 647](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20pel%20bonificamento%20dellAgro%20romano%20e%20sulla%20colonizzazione%20dei%20beni%20demaniali%20dello%20Stato.%20005U0647.md)». 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

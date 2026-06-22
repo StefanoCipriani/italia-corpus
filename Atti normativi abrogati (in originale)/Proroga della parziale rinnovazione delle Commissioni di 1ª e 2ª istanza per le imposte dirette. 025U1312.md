@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [testo unico 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1877-08-24;4021) (serie 2ª), sulla imposta di ricchezza mobile;
 
-Visto il regolamento approvato con [R. decreto 11 luglio 1907, n. 560](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
+Visto il regolamento approvato con [R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
 
 Udito il Consiglio dei Ministri;
 

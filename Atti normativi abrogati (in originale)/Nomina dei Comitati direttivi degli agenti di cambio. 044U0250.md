@@ -42,7 +42,7 @@ Ciascun agente di cambio scrive sulla scheda sei ovvero tre nomi di colleghi, se
 
 ## Art. 3.
 
-Per quanto riguarda le operazioni, la disciplina, la polizia dell'assemblea, elettorale, i reclami sollevati nel seno di essa, ]a formazione del verbale, i documenti da annettersi e le pene ai contravventori alla legge ed ai regolamenti in materia elettorale, si applicano le disposizioni del testo unico della legge comunale e provinciale 4 febbraio 1915, n. 148, modificato con [R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md).
+Per quanto riguarda le operazioni, la disciplina, la polizia dell'assemblea, elettorale, i reclami sollevati nel seno di essa, ]a formazione del verbale, i documenti da annettersi e le pene ai contravventori alla legge ed ai regolamenti in materia elettorale, si applicano le disposizioni del testo unico della legge comunale e provinciale 4 febbraio 1915, n. 148, modificato con [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md).
 
 ## Art. 4.
 

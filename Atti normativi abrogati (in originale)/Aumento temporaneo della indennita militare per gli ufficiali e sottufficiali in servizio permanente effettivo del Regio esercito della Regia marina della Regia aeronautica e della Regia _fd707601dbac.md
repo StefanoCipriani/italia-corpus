@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 171 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
+Visto l'[art. 171 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
 Vista l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -34,7 +34,7 @@ A datare dal 16 settembre 1945 l'indennita' militare per gli ufficiali e sottuff
 
 ## Art. 2.
 
-L'aumento dell'indennita' militare e l'indennita' mensile, di cui al precedente art. 1, non sono cumulabili col trattamento economico stabilito dalla [legge 10 maggio 1943, n. 507](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20maggio%201941-XIX%20n.%20583%20relativo%20al%20trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20di%20_c00e94ef3697.md). 
+L'aumento dell'indennita' militare e l'indennita' mensile, di cui al precedente art. 1, non sono cumulabili col trattamento economico stabilito dalla [legge 10 maggio 1943, n. 507](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20maggio%201941-XIX%20n.%20583%20relativo%20al%20trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20di%20_c00e94ef3697.md). 
  
  Gli assegni predetti hanno carattere provvisorio e, in occasione di eventuali revisioni dei trattamenti economici che potranno essere concessi dopo il 16 settembre 1945, ai dipendenti depilo Stato, saranno gradualmente riassorbiti in misura pari alla meta' di ogni miglioramento.
 

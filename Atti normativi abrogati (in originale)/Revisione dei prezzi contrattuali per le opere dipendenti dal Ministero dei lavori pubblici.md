@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 21 giugno 1938, n. 1296](Norme%20sulla%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20038U1296.md), convertito nella [legge 19 gennaio 1939, n. 392](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20giugno%201938-XVI%20n.%201296%20riguardante%20la%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20039U0392.md), modificato con le [leggi 9 luglio 1940, n. 1137, 19 gennaio 1942, n. 142 e 18 ottobre 1942, n. 1435](Modifica%20della%20composizione%20della%20Commissione%20per%20lesame%20dei%20ricorsi%20in%20materia%20di%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20042U1435.md);
+Visto il [regio decreto-legge 21 giugno 1938, n. 1296](Norme%20sulla%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20038U1296.md), convertito nella [legge 19 gennaio 1939, n. 392](Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20giugno%201938-XVI%20n.%201296%20riguardante%20la%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20039U0392.md), modificato con le [leggi 9 luglio 1940, n. 1137, 19 gennaio 1942, n. 142 e 18 ottobre 1942, n. 1435](Modifica%20della%20composizione%20della%20Commissione%20per%20lesame%20dei%20ricorsi%20in%20materia%20di%20revisione%20dei%20prezzi%20contrattuali%20relativi%20ad%20opere%20pubbliche.%20042U1435.md);
 
-Visto il [decreto legislativo luogotenenziale 5 aprile 1945, n. 192](../Decreti%20legislativi%20luogotenenziali/Estensione%20agli%20appalti%20di%20durata%20inferiore%20a%20sei%20mesi%20della%20revisione%20dei%20prezzi%20per%20i%20contratti%20relativi%20ad%20opere%20pubbliche.%20045U0192.md);
+Visto il [decreto legislativo luogotenenziale 5 aprile 1945, n. 192](Estensione%20agli%20appalti%20di%20durata%20inferiore%20a%20sei%20mesi%20della%20revisione%20dei%20prezzi%20per%20i%20contratti%20relativi%20ad%20opere%20pubbliche.%20045U0192.md);
 
-Visto il [decreto legislativo luogotenenziale 5 aprile 1946, n. 226](../Decreti%20legislativi%20luogotenenziali/Revisione%20dei%20prezzi%20contrattuali%20per%20le%20opere%20dipendenti%20dal%20Ministero%20dei%20lavori%20pubblici.md);
+Visto il [decreto legislativo luogotenenziale 5 aprile 1946, n. 226](Revisione%20dei%20prezzi%20contrattuali%20per%20le%20opere%20dipendenti%20dal%20Ministero%20dei%20lavori%20pubblici_2.md);
 
 Visto il decreto-legge luogotenenziale 25 giugno 1944.
 
@@ -34,7 +34,7 @@ Sino a nuova disposizione, per i lavori appaltati o concessi dal Ministero dei l
 
 ## Art. 2.
 
-Per la revisione prevista nel precedente articolo, il Ministero dei lavori pubblici ha facolta' di applicare le norme dettate dal [decreto legislativo luogotenenziale 5 aprile 1946, n. 226](../Decreti%20legislativi%20luogotenenziali/Revisione%20dei%20prezzi%20contrattuali%20per%20le%20opere%20dipendenti%20dal%20Ministero%20dei%20lavori%20pubblici.md).
+Per la revisione prevista nel precedente articolo, il Ministero dei lavori pubblici ha facolta' di applicare le norme dettate dal [decreto legislativo luogotenenziale 5 aprile 1946, n. 226](Revisione%20dei%20prezzi%20contrattuali%20per%20le%20opere%20dipendenti%20dal%20Ministero%20dei%20lavori%20pubblici_2.md).
 
 ## Art. 3.
 

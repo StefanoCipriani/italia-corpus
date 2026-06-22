@@ -28,7 +28,7 @@ L'amministrazione dell'Azienda autonoma delle poste e dei telegrafi e' autorizza
 
 ## Art. 3.
 
-L'amministrazione dell'Azienda di Stato per i servizi telefonici e' autorizzata, ad accertare e riscuotere le entrate e a far pagare le spese riguardanti l'esercizio finanziario dal 1° luglio 1946 al 30 giugno 1947 ai termini del [regio decreto-legge 14 giugno 1925, n. 884](Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), in conformita' dello stato di previsione allegato al presente decreto (appendice n. 2).
+L'amministrazione dell'Azienda di Stato per i servizi telefonici e' autorizzata, ad accertare e riscuotere le entrate e a far pagare le spese riguardanti l'esercizio finanziario dal 1° luglio 1946 al 30 giugno 1947 ai termini del [regio decreto-legge 14 giugno 1925, n. 884](Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), in conformita' dello stato di previsione allegato al presente decreto (appendice n. 2).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' Fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

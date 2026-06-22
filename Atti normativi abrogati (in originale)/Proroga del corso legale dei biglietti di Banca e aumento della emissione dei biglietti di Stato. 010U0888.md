@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il corso legale dei biglietti della Banca d'Italia, del Banco di Napoli e del Banco di Sicilia, di cui all'articolo 9 del testo unico delle leggi sugli Istituti di emissione, approvato con [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md) e' prorogato a tutto il 31 dicembre 1911.
+Il corso legale dei biglietti della Banca d'Italia, del Banco di Napoli e del Banco di Sicilia, di cui all'articolo 9 del testo unico delle leggi sugli Istituti di emissione, approvato con [R. decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md) e' prorogato a tutto il 31 dicembre 1911.
 
 ## Art. 2. — null
 

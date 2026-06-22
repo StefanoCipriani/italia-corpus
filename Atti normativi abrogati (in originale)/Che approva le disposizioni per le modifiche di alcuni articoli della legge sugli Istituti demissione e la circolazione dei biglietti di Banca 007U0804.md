@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sono approvate le disposizioni contenute nell'allegato A annesso alla presente legge che modificano alcuni articoli del testo unico di legge sugli Istituti di emissione e la circolazione dei biglietti di Banca, approvato con [R. decreto 9 ottobre 1900, n. 373](../Regi%20decreti/Col%20quale%20si%20approva%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20riguardanti%20glIstituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20banca.%20000U0373.md).
+Sono approvate le disposizioni contenute nell'allegato A annesso alla presente legge che modificano alcuni articoli del testo unico di legge sugli Istituti di emissione e la circolazione dei biglietti di Banca, approvato con [R. decreto 9 ottobre 1900, n. 373](Col%20quale%20si%20approva%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20riguardanti%20glIstituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20banca.%20000U0373.md).
 
 ## Art. 2.
 
@@ -42,7 +42,7 @@ Le anticipazioni contro deposito dei titoli, cha la Cassa dei depositi e prestit
 
 ## Art. 7.
 
-Sono abrogati l'art. 36 del testo unico di legge sugli Istituti di emissione e sulla circolazione dei biglietti di Banca, approvato con [R. decreto 9 ottobre 1900, n. 373, e l'art. 3](../Regi%20decreti/Col%20quale%20si%20approva%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20riguardanti%20glIstituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20banca.%20000U0373.md) della [legge 27 dicembre 1903, n. 499](Proroga%20del%20corso%20legale%20dei%20biglietti%20della%20Banca%20dItalia%20del%20Banco%20di%20Napoli%20e%20del%20Banco%20di%20Sicilia.%20003U0499.md).
+Sono abrogati l'art. 36 del testo unico di legge sugli Istituti di emissione e sulla circolazione dei biglietti di Banca, approvato con [R. decreto 9 ottobre 1900, n. 373, e l'art. 3](Col%20quale%20si%20approva%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20riguardanti%20glIstituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20banca.%20000U0373.md) della [legge 27 dicembre 1903, n. 499](Proroga%20del%20corso%20legale%20dei%20biglietti%20della%20Banca%20dItalia%20del%20Banco%20di%20Napoli%20e%20del%20Banco%20di%20Sicilia.%20003U0499.md).
 
 ## Art. 8.
 

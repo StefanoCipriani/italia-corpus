@@ -18,7 +18,7 @@ Vista la [legge 6 luglio 1922, n. 915](Che%20da%20facolta%20ai%20possessori%20de
 
 Visto il [R. decreto-legge 22 marzo 1923, n. 583](Che%20modifica%20la%20legge%206%20luglio%201922%20n.%20915%20relativa%20allemissione%20dei%20buoni%20del%20tesoro%20novennali.%20023U0583.md), che modifica la legge stessa;
 
-Visti i [Regi decreti 25 marzo 1923, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;800), [26 aprile 1923, n. 889](../Regi%20decreti/Che%20autorizza%20lemissione%20della%20seconda%20serie%20di%20buoni%20del%20tesoro%20novennali%20a%20premi.%20023U0889.md), e [27 settembre 1923, n. 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-27;1994), che autorizzano l'emissione delle prime tre serie dei detti buoni;
+Visti i [Regi decreti 25 marzo 1923, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;800), [26 aprile 1923, n. 889](Che%20autorizza%20lemissione%20della%20seconda%20serie%20di%20buoni%20del%20tesoro%20novennali%20a%20premi.%20023U0889.md), e [27 settembre 1923, n. 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-27;1994), che autorizzano l'emissione delle prime tre serie dei detti buoni;
 
 Sentito il Consiglio dei Ministri;
 

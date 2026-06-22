@@ -18,7 +18,7 @@ E DELLA PROGRAMMAZIONE ECONOMICA
 
 Vista la [legge 23 dicembre 1993, n. 559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-23;559), sulla disciplina della soppressione delle gestioni fuori bilancio nell'ambito dell'Amministrazione dello Stato, con particolare riferimento all'articolo 5 che disciplina gli interventi di protezione sociale a favore del personale militare e civile delle Forze armate e dei loro familiari;
 
-Visto il [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md), che approva il regolamento recante semplificazioni ed accelerazioni delle procedure di spesa e contabili;
+Visto il [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md), che approva il regolamento recante semplificazioni ed accelerazioni delle procedure di spesa e contabili;
 
 Visto il [decreto-legge 8 agosto 1996, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-08-08;437), convertito con [legge 24 ottobre 1996, n. 556, che, all'articolo 9](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md), nell'ambito della disciplina delle gestioni fuori bilancio, prevede l'esercizio diretto a cura dell'amministrazione di attivita' di protezione sociale;
 

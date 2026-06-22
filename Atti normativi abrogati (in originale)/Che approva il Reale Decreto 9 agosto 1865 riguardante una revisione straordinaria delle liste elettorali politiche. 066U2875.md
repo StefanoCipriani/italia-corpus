@@ -22,7 +22,7 @@ VITTORIO EMANUELE II
  
  Articolo unico. 
  
- E' approvato il [R. Decreto in data 9 agosto 1865, n° 2431](../Regi%20decreti/Pel%20completamento%20delle%20liste%20elettorali%20politiche.%20065U2431.md), col quale fu ordinata una revisione straordinaria delle liste elettorali politiche al solo fine di aggiungervi quei cittadini che, mediante la quota da essi dovuta nel suddetto anno per l'imposta sui redditi della ricchezza mobile e le altre contribuzioni dirette loro accollate, pagano in complesso l'annuo censo stabilito dalla [Legge 17 dicembre 1860, n° 4513](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1860-12-17;4513), ed hanno gli altri requisiti dalla stessa Legge prescritti per essere elettori politici. 
+ E' approvato il [R. Decreto in data 9 agosto 1865, n° 2431](Pel%20completamento%20delle%20liste%20elettorali%20politiche.%20065U2431.md), col quale fu ordinata una revisione straordinaria delle liste elettorali politiche al solo fine di aggiungervi quei cittadini che, mediante la quota da essi dovuta nel suddetto anno per l'imposta sui redditi della ricchezza mobile e le altre contribuzioni dirette loro accollate, pagano in complesso l'annuo censo stabilito dalla [Legge 17 dicembre 1860, n° 4513](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1860-12-17;4513), ed hanno gli altri requisiti dalla stessa Legge prescritti per essere elettori politici. 
  
  Ordiniamo che la presente, munita del Sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come Legge dello Stato. 
  

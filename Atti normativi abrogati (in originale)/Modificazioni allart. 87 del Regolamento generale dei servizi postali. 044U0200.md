@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'art. 87 del Regolamento generale dei servizi postali (Parte seconda - Servizi a danaro) approvato col [R. decreto 30 maggio 1940, n. 775](../Regi%20decreti/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), e' modificato nel modo seguente: 
+L'art. 87 del Regolamento generale dei servizi postali (Parte seconda - Servizi a danaro) approvato col [R. decreto 30 maggio 1940, n. 775](Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), e' modificato nel modo seguente: 
  
  «Art. 87. - Il limite massimo dei versamenti e dei pagamenti da eseguirsi in contanti in uno stesso giorno e' stabilito: 
  

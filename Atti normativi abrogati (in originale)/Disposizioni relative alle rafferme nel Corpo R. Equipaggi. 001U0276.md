@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Al titolo V del testo unico delle leggi sulla leva marittima, approvato col [R. decreto 16 dicembre 1888, n. 5860](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md) serie 3ª, e' sostituito il seguente: 
+ Al titolo V del testo unico delle leggi sulla leva marittima, approvato col [R. decreto 16 dicembre 1888, n. 5860](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md) serie 3ª, e' sostituito il seguente: 
  
  Art. 1.- I militari del Corpo R. Equipaggi, che abbiano terminata la ferma di quattro o sei anni, possono, per loro domanda, essere dal Ministero ammessi alla rafferma, la cui durata e' di sei, di quattro o di due anni. 
  

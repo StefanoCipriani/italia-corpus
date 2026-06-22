@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'articolo 12 della convenzione stipulata con la Banca d'Italia il 30 ottobre 1894, approvata con [R. decreto 10 dicembre 1894, n. 533](../Regi%20decreti/Che%20approva%20la%20convenzione%20stipulata%20il%2030%20ottobre%201894%20fra%20il%20Ministero%20del%20Tesoro%20e%20la%20Banca%20dItalia%20094U0533.md), convertito nella [legge 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486);
+Visto l'articolo 12 della convenzione stipulata con la Banca d'Italia il 30 ottobre 1894, approvata con [R. decreto 10 dicembre 1894, n. 533](Che%20approva%20la%20convenzione%20stipulata%20il%2030%20ottobre%201894%20fra%20il%20Ministero%20del%20Tesoro%20e%20la%20Banca%20dItalia%20094U0533.md), convertito nella [legge 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486);
 
 Udito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per il tesoro; Abbiamo decretato
 
 ## Articolo unico.
 
-Nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1916-917 e' istituito il capitolo n. 211-bis «Interessi nella misura dell'1,50 per cento da corrispondersi alla Banca d'Italia sul fondo di cassa per il servizio ordinario di tesoreria ai sensi dell'art. 12 della convenzione 30 ottobre 1894, approvata col [R. decreto 10 dicembre 1894, n. 533](../Regi%20decreti/Che%20approva%20la%20convenzione%20stipulata%20il%2030%20ottobre%201894%20fra%20il%20Ministero%20del%20Tesoro%20e%20la%20Banca%20dItalia%20094U0533.md), convertito nella [legge 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486)», collo stanziamento di lire duemilioni (L. 2.000.000). 
+Nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1916-917 e' istituito il capitolo n. 211-bis «Interessi nella misura dell'1,50 per cento da corrispondersi alla Banca d'Italia sul fondo di cassa per il servizio ordinario di tesoreria ai sensi dell'art. 12 della convenzione 30 ottobre 1894, approvata col [R. decreto 10 dicembre 1894, n. 533](Che%20approva%20la%20convenzione%20stipulata%20il%2030%20ottobre%201894%20fra%20il%20Ministero%20del%20Tesoro%20e%20la%20Banca%20dItalia%20094U0533.md), convertito nella [legge 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486)», collo stanziamento di lire duemilioni (L. 2.000.000). 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

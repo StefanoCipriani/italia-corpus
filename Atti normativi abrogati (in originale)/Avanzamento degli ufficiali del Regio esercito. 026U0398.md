@@ -17,7 +17,7 @@ Nessuno puo' conseguire l'avanzamento al grado superiore se non e' riconosciuto 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Norme generali.
 
@@ -52,7 +52,7 @@ L'avanzamento per tutte le armi e corpi, avviene ad anzianita' ed a scelta od es
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 4.
 
@@ -125,7 +125,7 @@ Costituiscono vacanze organiche, agli effetti di cui al precedente articolo:
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 16 maggio 1926, n. 855](Composizione%20e%20organico%20dellarma%20dei%20carabinieri%20Reali%20norme%20per%20laccertamento%20dellidoneita%20al%20trasferimento%20dei%20subalterni%20al%20servizio%20dellarma%20reclutamento%20straordinario%20di%20ufficiali%20ne_9d563d74ca88.md), convertito senza modificazioni dalla [L. 21 novembre 1926, n. 2147](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20maggio%201926%20n.%20855%20che%20determina%20la%20composizione%20e%20lorganico%20dellarma%20dei%20carabinieri%20Reali%20stabilisce%20norme%20per%20laccertamento%20dellidoneita%20al_a3a5cf8fa36e.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 16 maggio 1926, n. 855](Composizione%20e%20organico%20dellarma%20dei%20carabinieri%20Reali%20norme%20per%20laccertamento%20dellidoneita%20al%20trasferimento%20dei%20subalterni%20al%20servizio%20dellarma%20reclutamento%20straordinario%20di%20ufficiali%20ne_9d563d74ca88.md), convertito senza modificazioni dalla [L. 21 novembre 1926, n. 2147](Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20maggio%201926%20n.%20855%20che%20determina%20la%20composizione%20e%20lorganico%20dellarma%20dei%20carabinieri%20Reali%20stabilisce%20norme%20per%20laccertamento%20dellidoneita%20al_a3a5cf8fa36e.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 13.
 
@@ -266,7 +266,7 @@ Agli ufficiali definitivamente esclusi dall'avanzamento ed a quelli dichiarati n
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 16 maggio 1926, n. 855](Composizione%20e%20organico%20dellarma%20dei%20carabinieri%20Reali%20norme%20per%20laccertamento%20dellidoneita%20al%20trasferimento%20dei%20subalterni%20al%20servizio%20dellarma%20reclutamento%20straordinario%20di%20ufficiali%20ne_9d563d74ca88.md), convertito senza modificazioni dalla [L. 21 novembre 1926, n. 2147](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20maggio%201926%20n.%20855%20che%20determina%20la%20composizione%20e%20lorganico%20dellarma%20dei%20carabinieri%20Reali%20stabilisce%20norme%20per%20laccertamento%20dellidoneita%20al_a3a5cf8fa36e.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 16 maggio 1926, n. 855](Composizione%20e%20organico%20dellarma%20dei%20carabinieri%20Reali%20norme%20per%20laccertamento%20dellidoneita%20al%20trasferimento%20dei%20subalterni%20al%20servizio%20dellarma%20reclutamento%20straordinario%20di%20ufficiali%20ne_9d563d74ca88.md), convertito senza modificazioni dalla [L. 21 novembre 1926, n. 2147](Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20maggio%201926%20n.%20855%20che%20determina%20la%20composizione%20e%20lorganico%20dellarma%20dei%20carabinieri%20Reali%20stabilisce%20norme%20per%20laccertamento%20dellidoneita%20al_a3a5cf8fa36e.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 36.
 
@@ -492,7 +492,7 @@ I maggiori dichiarati idonei all'avanzamento a scelta per esami, sono promossi, 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 64.
 
@@ -527,7 +527,7 @@ I tenenti colonnelli da collocare in aspettativa per riduzione dei quadri a norm
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 16 maggio 1926, n. 855](Composizione%20e%20organico%20dellarma%20dei%20carabinieri%20Reali%20norme%20per%20laccertamento%20dellidoneita%20al%20trasferimento%20dei%20subalterni%20al%20servizio%20dellarma%20reclutamento%20straordinario%20di%20ufficiali%20ne_9d563d74ca88.md), convertito senza modificazioni dalla [L. 21 novembre 1926, n. 2147](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20maggio%201926%20n.%20855%20che%20determina%20la%20composizione%20e%20lorganico%20dellarma%20dei%20carabinieri%20Reali%20stabilisce%20norme%20per%20laccertamento%20dellidoneita%20al_a3a5cf8fa36e.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 16 maggio 1926, n. 855](Composizione%20e%20organico%20dellarma%20dei%20carabinieri%20Reali%20norme%20per%20laccertamento%20dellidoneita%20al%20trasferimento%20dei%20subalterni%20al%20servizio%20dellarma%20reclutamento%20straordinario%20di%20ufficiali%20ne_9d563d74ca88.md), convertito senza modificazioni dalla [L. 21 novembre 1926, n. 2147](Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20maggio%201926%20n.%20855%20che%20determina%20la%20composizione%20e%20lorganico%20dellarma%20dei%20carabinieri%20Reali%20stabilisce%20norme%20per%20laccertamento%20dellidoneita%20al_a3a5cf8fa36e.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 69.
 
@@ -550,7 +550,7 @@ Nel ruolo tecnico di artiglieria l'avanzamento e' regolato a scelta per titoli e
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 72.
 
@@ -579,7 +579,7 @@ I colonnelli ed i generali dei vari gradi che dalla Commissione centrale non fur
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 16 maggio 1926, n. 855](Composizione%20e%20organico%20dellarma%20dei%20carabinieri%20Reali%20norme%20per%20laccertamento%20dellidoneita%20al%20trasferimento%20dei%20subalterni%20al%20servizio%20dellarma%20reclutamento%20straordinario%20di%20ufficiali%20ne_9d563d74ca88.md), convertito senza modificazioni dalla [L. 21 novembre 1926, n. 2147](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20maggio%201926%20n.%20855%20che%20determina%20la%20composizione%20e%20lorganico%20dellarma%20dei%20carabinieri%20Reali%20stabilisce%20norme%20per%20laccertamento%20dellidoneita%20al_a3a5cf8fa36e.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 16 maggio 1926, n. 855](Composizione%20e%20organico%20dellarma%20dei%20carabinieri%20Reali%20norme%20per%20laccertamento%20dellidoneita%20al%20trasferimento%20dei%20subalterni%20al%20servizio%20dellarma%20reclutamento%20straordinario%20di%20ufficiali%20ne_9d563d74ca88.md), convertito senza modificazioni dalla [L. 21 novembre 1926, n. 2147](Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20maggio%201926%20n.%20855%20che%20determina%20la%20composizione%20e%20lorganico%20dellarma%20dei%20carabinieri%20Reali%20stabilisce%20norme%20per%20laccertamento%20dellidoneita%20al_a3a5cf8fa36e.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 76.
 
@@ -598,7 +598,7 @@ I comandanti di armata sono designati tra i comandanti di corpo di armata a pres
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Del reclutamento e dell'avanzamento degli ufficiali del corpo di Stato Maggiore.
 
@@ -839,7 +839,7 @@ Fino alla stessa data i colonnelli di Stato Maggiore potranno essere promossi an
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 116.
 
@@ -858,7 +858,7 @@ Per la sistemazione degli ufficiali che compirono due anni di corso della scuola
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 118.
 
@@ -871,7 +871,7 @@ Agli ufficiali di cui all'[art. 1 del R. decreto n. 1719 del 7 dicembre 1916](ht
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 119.
 
@@ -927,7 +927,7 @@ Agli ufficiali di cui al precedente articolo, dichiarati idonei al servizio di S
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 123.
 
@@ -958,7 +958,7 @@ Agli ufficiali che frequentano attualmente la Scuola di guerra ed a quelli che l
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 31 marzo 1926, n. 537](Modificazioni%20ad%20alcune%20particolari%20disposizioni%20delle%20leggi%2011%20marzo%201926%20nn.%20396%20397%20e%20398%20sullordinamento%20del%20Regio%20esercito%20sullo%20stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20_77e92ebea69e.md), convertito senza modificazioni dalla [L. 25 giugno 1926, n. 1262](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 125.
 
@@ -988,7 +988,7 @@ Capo IV.
 
 ### Art. 129.
 
-Agli ufficiali mutilati ed invalidi di guerra riassunti in servizio continuano ad essere applicabili le disposizioni contenute nel [R. decreto 31 dicembre 1923, n. 3257](../Regi%20decreti/Stato%20avanzamento%20e%20trattamento%20di%20pensione%20degli%20ufficiali%20mutilati%20ed%20invalidi%20riassunti%20in%20servizio.%20023U3257.md), sullo stato, avanzamento e trattamento di pensione degli ufficiali stessi, con le seguenti avvertenze: 
+Agli ufficiali mutilati ed invalidi di guerra riassunti in servizio continuano ad essere applicabili le disposizioni contenute nel [R. decreto 31 dicembre 1923, n. 3257](Stato%20avanzamento%20e%20trattamento%20di%20pensione%20degli%20ufficiali%20mutilati%20ed%20invalidi%20riassunti%20in%20servizio.%20023U3257.md), sullo stato, avanzamento e trattamento di pensione degli ufficiali stessi, con le seguenti avvertenze: 
  
  a) che per l'accertamento dell'idoneita' all'avanzamento si osserveranno le disposizioni della presente legge; 
  

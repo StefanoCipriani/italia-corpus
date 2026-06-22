@@ -16,13 +16,13 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle disposizioni legislative riguardanti la promulgazione e pubblicazione delle leggi e dei Regi decreti, approvato con [R. decreto 24 settembre 1931, n. 1256](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20promulgazione%20e%20pubblicazione%20delle%20leggi%20e%20dei%20Regi%20decreti.%20031U1256.md);
+Visto il testo unico delle disposizioni legislative riguardanti la promulgazione e pubblicazione delle leggi e dei Regi decreti, approvato con [R. decreto 24 settembre 1931, n. 1256](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20promulgazione%20e%20pubblicazione%20delle%20leggi%20e%20dei%20Regi%20decreti.%20031U1256.md);
 
 Visto il [R. decreto 7 giugno 1923, n.1252](../Regi%20decreti/Che%20dispone%20il%20passaggio%20della%20Gazzetta%20ufficiale%20del%20Regno%20dalla%20dipendenza%20del%20Ministero%20dellinterno%20a%20quella%20del%20Ministero%20della%20giustizia%20e%20degli%20affari%20di%20culto%20e%20detta%20le%20norme%20per%20_1da86e0a2f37.md), contenente norme per la compilazione e la pubblicazione della Gazzetta Ufficiale del Regno;
 
 Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), concernente la sospensione delle norme relative all'emanazione, promulgazione, registrazione e pubblicazione dei Regi decreti e degli altri provvedimenti;
 
-Visto il [R. decreto 30 ottobre 1943, n. 3/B](../Regi%20decreti/Pubblicazione%20di%20una%20serie%20speciale%20della%20Gazzetta%20Ufficiale%20del%20Regno%20043U0003.md), relativo alla pubblicazione di una serie speciale della Gazzetta Ufficiale del Regno;
+Visto il [R. decreto 30 ottobre 1943, n. 3/B](Pubblicazione%20di%20una%20serie%20speciale%20della%20Gazzetta%20Ufficiale%20del%20Regno%20043U0003.md), relativo alla pubblicazione di una serie speciale della Gazzetta Ufficiale del Regno;
 
 Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md), sull'istituzione presso la sede del Governo di una sezione speciale della Corte dei conti;
 
@@ -50,7 +50,7 @@ La promulgazione dei decreti Luogotenenziali, da inserirsi nella Raccolta uffici
 
 ## Art. 4.
 
-Il [R. decreto 30 ottobre 1943, n. 3/B](../Regi%20decreti/Pubblicazione%20di%20una%20serie%20speciale%20della%20Gazzetta%20Ufficiale%20del%20Regno%20043U0003.md), cessa di avere efficacia a partire dal 1° gennaio
+Il [R. decreto 30 ottobre 1943, n. 3/B](Pubblicazione%20di%20una%20serie%20speciale%20della%20Gazzetta%20Ufficiale%20del%20Regno%20043U0003.md), cessa di avere efficacia a partire dal 1° gennaio
 
 1945.
 

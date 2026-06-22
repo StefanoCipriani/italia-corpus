@@ -58,13 +58,13 @@ I Vice-governatori sono nominati con decreto Reale, su proposta del Ministro per
 
 ## Art. 7.
 
-Il Governatore ed i Vice governatori sono funzionari dello Stato ed appartengono all'Amministrazione dell'interno, nei ruoli della quale vengono, in conseguenza, istituiti rispettivamente un posto di secondo grado del gruppo A e due posti di quarto grado del gruppo A, giusta l'allegato I al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
+Il Governatore ed i Vice governatori sono funzionari dello Stato ed appartengono all'Amministrazione dell'interno, nei ruoli della quale vengono, in conseguenza, istituiti rispettivamente un posto di secondo grado del gruppo A e due posti di quarto grado del gruppo A, giusta l'allegato I al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  Se ai detti posti siano nominati funzionari che gia' appartengano all'Amministrazione dello Stato, essi saranno messi fuori del rispettivo ruolo di provenienza, nel quale rientreranno, al cessare delle loro funzioni presso il Governatorato in soprannumero qualora manchino posti vacanti di organico al momento della loro riammissione in ruolo: e cio', nonostante qualsiasi disposizione in contrario. 
  
  Nulla e' innovato, nei riguardi del Governatore e dei Vice governatori, a quanto e' disposto dal [primo comma dell'articolo 89 della legge 15 febbraio 1925, n. 122](Modificazioni%20al%20testo%20unico%20della%20legge%20elettorale%20politica%2018%20dicembre%201923%20n.%202694.%20025U0122.md). 
  
- Al Governatore e ai Vice governatori vengono estese, in quanto siano applicabili, le disposizioni del [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), del [R. decreto 30 dicembre 1923, numero 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e del [R. decreto 30 dicembre 1923, n. 2060](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2060). 
+ Al Governatore e ai Vice governatori vengono estese, in quanto siano applicabili, le disposizioni del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), del [R. decreto 30 dicembre 1923, numero 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e del [R. decreto 30 dicembre 1923, n. 2060](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2060). 
  
  Il Governatore e i Vice governatori, prima di entrare in funzioni, prestano, dinanzi al Ministro per l'interno, il giuramento prescritto dall'art. 150 della legge comunale e provinciale. 
  
@@ -72,9 +72,9 @@ Il Governatore ed i Vice governatori sono funzionari dello Stato ed appartengono
 
 ## Art. 8.
 
-Nell'ordine delle precedenze a Corte e nelle funzioni pubbliche, stabilito dal [R. decreto 19 aprile 1868, n. 4349](../Regi%20decreti/Col%20quale%20e%20stabilito%20lordine%20per%20le%20precedenze%20tra%20le%20varie%20cariche%20e%20dignita%20a%20Corte%20e%20nelle%20funzioni%20pubbliche.%20068U4349.md), e dai successivi decreti di modificazione, si osservano le seguenti norme: 
+Nell'ordine delle precedenze a Corte e nelle funzioni pubbliche, stabilito dal [R. decreto 19 aprile 1868, n. 4349](Col%20quale%20e%20stabilito%20lordine%20per%20le%20precedenze%20tra%20le%20varie%20cariche%20e%20dignita%20a%20Corte%20e%20nelle%20funzioni%20pubbliche.%20068U4349.md), e dai successivi decreti di modificazione, si osservano le seguenti norme: 
  
- a) il Governatore e' collocato nella categoria IV e prende, nella classe 9ª, il medesimo posto spettante ai funzionari di pari grado secondo le tabelle di classificazione per gradi, giusta l'allegato I al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); 
+ a) il Governatore e' collocato nella categoria IV e prende, nella classe 9ª, il medesimo posto spettante ai funzionari di pari grado secondo le tabelle di classificazione per gradi, giusta l'allegato I al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); 
  
  b) i Vice governatori sono collocati nella categoria e classe a cui appartengono i Prefetti.
 
@@ -84,9 +84,9 @@ Il Governatore ha tutti i poteri che le vigenti leggi conferiscono al Sindaco, a
  
  Nell'esercizio di tali poteri, il Governatore osserva, in quanto siano applicabili, le norme della legge comunale e provinciale e del relativo regolamento. 
  
- I provvedimenti del Governatore non sono sottoposti alla vigilanza e alla tutela, di cui nel titolo III capo VII della legge comunale e provinciale, modificata dal [R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md). In conseguenza, essi sono, di regola, esecutivi, salvo quanto e' disposto negli articoli seguenti. 
+ I provvedimenti del Governatore non sono sottoposti alla vigilanza e alla tutela, di cui nel titolo III capo VII della legge comunale e provinciale, modificata dal [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md). In conseguenza, essi sono, di regola, esecutivi, salvo quanto e' disposto negli articoli seguenti. 
  
- Nulla e' innovato, in rapporto ai provvedimenti del Governatore, per quanto riguarda la facolta' attribuita al Governo del Re dall'art. 114 del citato [R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md).
+ Nulla e' innovato, in rapporto ai provvedimenti del Governatore, per quanto riguarda la facolta' attribuita al Governo del Re dall'art. 114 del citato [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md).
 
 ## Art. 10.
 
@@ -257,7 +257,7 @@ Il Governatore, i Vice governatori ed il Rettore, designato per competenza di se
 
 ## Art. 23.
 
-Il Governatore deve sentire il parere del «Magistrato» nelle materie e nei casi in cui e' richiesta dalla vigente legge comunale e provinciale la approvazione della Giunta provinciale amministrativa o del Consiglio di prefettura per gli atti dei Comuni indicati nell'[art. 52, lettera a), del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md). 
+Il Governatore deve sentire il parere del «Magistrato» nelle materie e nei casi in cui e' richiesta dalla vigente legge comunale e provinciale la approvazione della Giunta provinciale amministrativa o del Consiglio di prefettura per gli atti dei Comuni indicati nell'[art. 52, lettera a), del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md). 
  
  Nelle materie e nei casi previsti dall'art. 19, il parere del «Magistrato» deve precedere quello della «Consulta». 
  

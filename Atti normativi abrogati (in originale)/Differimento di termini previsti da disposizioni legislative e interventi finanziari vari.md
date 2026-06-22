@@ -102,7 +102,7 @@ Il contributo a titolo di solidarieta' nazionale, di cui all'articolo 38 dello s
 
 2.
 
-La somma per spese sostenute dallo Stato, per conto della regione, ai sensi dell'[articolo 3 del decreto legislativo 12 aprile 1948, n. 507](../Decreti%20Legislativi/Disciplina%20provvisoria%20dei%20rapporti%20finanziari%20tra%20lo%20Stato%20e%20la%20Regione%20siciliana.md), ratificato con [legge 17 aprile 1956, n. 561](../Leggi%20di%20ratifica/Ratifica%20ai%20sensi%20dellart.%206%20del%20decreto%20legislativo%20luogotenenziale%2016%20marzo%201946%20n.%2098%20di%20decreti%20legislativi%20emanati%20dal%20Governo%20durante%20il%20periodo%20della%20Costituente.md), dovuta a titolo di rimborso della regione viene determinata in via definitiva, per ciascuno degli anni 1989 e 1990, in lire 18 miliardi.
+La somma per spese sostenute dallo Stato, per conto della regione, ai sensi dell'[articolo 3 del decreto legislativo 12 aprile 1948, n. 507](../Decreti%20Legislativi/Disciplina%20provvisoria%20dei%20rapporti%20finanziari%20tra%20lo%20Stato%20e%20la%20Regione%20siciliana.md), ratificato con [legge 17 aprile 1956, n. 561](../DL%20e%20leggi%20di%20conversione/Ratifica%20ai%20sensi%20dellart.%206%20del%20decreto%20legislativo%20luogotenenziale%2016%20marzo%201946%20n.%2098%20di%20decreti%20legislativi%20emanati%20dal%20Governo%20durante%20il%20periodo%20della%20Costituente.md), dovuta a titolo di rimborso della regione viene determinata in via definitiva, per ciascuno degli anni 1989 e 1990, in lire 18 miliardi.
 
 3.
 

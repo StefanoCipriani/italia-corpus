@@ -28,7 +28,7 @@ E M A N A il seguente decreto:
 
 1.
 
-L'aliquota dell'imposta di fabbricazione e della corrispondente sovrimposta di confine prevista dal [decreto legislativo 10 aprile 1989, n. 124](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20delle%20aliquote%20dellimposta%20di%20fabbricazione%20su%20alcuni%20prodotti%20petroliferi_4.md), e' ridotta fino al 30 giugno 1989:
+L'aliquota dell'imposta di fabbricazione e della corrispondente sovrimposta di confine prevista dal [decreto legislativo 10 aprile 1989, n. 124](../Decreti%20Legislativi/Modificazioni%20delle%20aliquote%20dellimposta%20di%20fabbricazione%20su%20alcuni%20prodotti%20petroliferi_4.md), e' ridotta fino al 30 giugno 1989:
                         a)
                             da L. 80.266 a L. 77.548 per ettolitro, alla temperatura di 15 C, per le benzine speciali diverse dall'acqua ragia minerale, per la benzina e per il petrolio diverso da quello lampante;
                         b)
@@ -36,7 +36,7 @@ L'aliquota dell'imposta di fabbricazione e della corrispondente sovrimposta di c
 
 2.
 
-Le disposizioni del [decreto legislativo 10 aprile 1989, n. 124](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20delle%20aliquote%20dellimposta%20di%20fabbricazione%20su%20alcuni%20prodotti%20petroliferi_4.md), relative alle aliquote dell'imposta di fabbricazione e della sovrimposta di confine sugli oli da gas da usare come combustibile, sul petrolio lampante per uso di illuminazione e riscaldamento, hanno effetto fino al 30 giugno 1989.
+Le disposizioni del [decreto legislativo 10 aprile 1989, n. 124](../Decreti%20Legislativi/Modificazioni%20delle%20aliquote%20dellimposta%20di%20fabbricazione%20su%20alcuni%20prodotti%20petroliferi_4.md), relative alle aliquote dell'imposta di fabbricazione e della sovrimposta di confine sugli oli da gas da usare come combustibile, sul petrolio lampante per uso di illuminazione e riscaldamento, hanno effetto fino al 30 giugno 1989.
 
 ## Art. 2.
 
@@ -66,7 +66,7 @@ Gli aumenti di aliquote stabiliti nel comma 1 si applicano anche ai prodotti est
 
 1.
 
-Alle minori entrate derivanti dall'applicazione dell'articolo 1, valutate complessivamente in lire 145 miliardi per l'anno 1989, si provvede mediante parziale utilizzo, fino al predetto importo, delle maggiori entrate derivanti dagli aumenti disposti con l'articolo 2; l'eccedenza potra' essere destinata alla copertura delle eventuali ulteriori riduzioni di imposta disposte ai sensi della [legge 9 ottobre 1987, n. 417](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20concernenti%20laumento%20o%20la%20riduzione%20dellimposta%20di%20fabbricazione%20sui%20prodotti%20petroliferi%20con%20riferimento%20alla%20riduzione%20o%20allaumento%20dei%20prezzi_47231ed45b27.md), prorogata con la [legge 4 marzo 1989, n. 76](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20del%20termine%20per%20la%20delega%20al%20Governo%20ad%20emanare%20norme%20concernenti%20laumento%20o%20la%20riduzione%20dellimposta%20di%20fabbricazione%20sui%20prodotti%20petroliferi.md).
+Alle minori entrate derivanti dall'applicazione dell'articolo 1, valutate complessivamente in lire 145 miliardi per l'anno 1989, si provvede mediante parziale utilizzo, fino al predetto importo, delle maggiori entrate derivanti dagli aumenti disposti con l'articolo 2; l'eccedenza potra' essere destinata alla copertura delle eventuali ulteriori riduzioni di imposta disposte ai sensi della [legge 9 ottobre 1987, n. 417](Delega%20al%20Governo%20per%20lemanazione%20di%20norme%20concernenti%20laumento%20o%20la%20riduzione%20dellimposta%20di%20fabbricazione%20sui%20prodotti%20petroliferi%20con%20riferimento%20alla%20riduzione%20o%20allaumento%20dei%20prezzi_47231ed45b27.md), prorogata con la [legge 4 marzo 1989, n. 76](Differimento%20del%20termine%20per%20la%20delega%20al%20Governo%20ad%20emanare%20norme%20concernenti%20laumento%20o%20la%20riduzione%20dellimposta%20di%20fabbricazione%20sui%20prodotti%20petroliferi.md).
 
 ## Art. 4.
 

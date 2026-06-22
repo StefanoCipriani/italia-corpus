@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli effetti esclusivi della legge sulle pensioni civili e militari, testo unico approvato coi [R. decreto del 21 febbraio 1895 n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), gli ufficiali e militari di truppa, impiegati civili ed operai in servizio nella Colonia Eritrea, dei quali, dopo scorsi due mesi da un fatto d'armi, non si abbiano piu' notizie, sono considerati come morti in combattimenti.
+Agli effetti esclusivi della legge sulle pensioni civili e militari, testo unico approvato coi [R. decreto del 21 febbraio 1895 n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), gli ufficiali e militari di truppa, impiegati civili ed operai in servizio nella Colonia Eritrea, dei quali, dopo scorsi due mesi da un fatto d'armi, non si abbiano piu' notizie, sono considerati come morti in combattimenti.
 
 ## Art. 2.
 
@@ -28,7 +28,7 @@ La somma complessiva iscritta sul capitolo relativi al contributo dello Stato al
 
 ## Art. 5.
 
-Rimangono immutate le disposizioni del testo unico sulle pensioni civili e militari, approvato con [Regio decreto 21 febbraio 1895 n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), in quanto non siano derogate dalla presente legge. 
+Rimangono immutate le disposizioni del testo unico sulle pensioni civili e militari, approvato con [Regio decreto 21 febbraio 1895 n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), in quanto non siano derogate dalla presente legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

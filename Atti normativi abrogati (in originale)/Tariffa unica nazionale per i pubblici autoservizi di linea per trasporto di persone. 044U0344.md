@@ -38,7 +38,7 @@ Fino a sei mesi dopo la cessazione dello stato di guerra le tariffe degli autose
 
 ## Art. 2.
 
-I concessionari' dei servizi di cui all'art. 1 sono autorizzati a maggiorare, a titolo di rivalsa, i prezzi dei trasporti della imposta sulla entrata prevista nell'[articolo 8, lettera l), del R. decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md).
+I concessionari' dei servizi di cui all'art. 1 sono autorizzati a maggiorare, a titolo di rivalsa, i prezzi dei trasporti della imposta sulla entrata prevista nell'[articolo 8, lettera l), del R. decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito nella [legge 19 giugno 1940, n. 762](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md).
 
 ## Art. 3.
 

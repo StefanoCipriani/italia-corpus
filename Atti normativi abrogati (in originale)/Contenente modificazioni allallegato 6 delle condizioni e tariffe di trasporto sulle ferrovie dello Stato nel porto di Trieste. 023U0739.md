@@ -16,9 +16,9 @@ RE D ITALIA
 
 Viste le Condizioni e tariffe per i trasporti delle cose sulle ferrovie dello Stato, approvate col [R. decreto 12 novembre 1921, n. 1585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-12;1585);
 
-Visto l'[art. 39 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata col [R. decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
+Visto l'[art. 39 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata col [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
 
-Visto il [R. decreto 25 novembre 1920, n. 1726](../Regi%20decreti/Che%20manda%20allAmministrazione%20delle%20ferrovie%20dello%20Stato%20di%20continuare%20oltre%20il%2031%20ottobre%201920%20lesercizio%20delle%20linee%20ferroviarie%20comprese%20nelle%20nuove%20Provincie%20sia%20che%20esse%20appartenesser_cdfba4634ca8.md);
+Visto il [R. decreto 25 novembre 1920, n. 1726](Che%20manda%20allAmministrazione%20delle%20ferrovie%20dello%20Stato%20di%20continuare%20oltre%20il%2031%20ottobre%201920%20lesercizio%20delle%20linee%20ferroviarie%20comprese%20nelle%20nuove%20Provincie%20sia%20che%20esse%20appartenesser_cdfba4634ca8.md);
 
 Udito il commissario straordinario per l'Amministrazione delle ferrovie dello Stato;
 

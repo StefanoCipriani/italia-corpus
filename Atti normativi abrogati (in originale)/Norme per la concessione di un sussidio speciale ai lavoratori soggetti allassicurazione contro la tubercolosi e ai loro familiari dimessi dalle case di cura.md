@@ -35,7 +35,7 @@ La corresponsione del sussidio di assistenza post-sanatoriale cessa comunque dal
 ## Art. 4.
 
 Il sussidio per l'assistenza post-sanatoriale e' di regola corrisposto a settimane anticipate agli aventi diritto ed in caso di minori, alle persone che esercitano su di essi la patria potesta', e, in mancanza, a coloro cui e' affidata la tutela e la cura di essi.
- Il sussidio sostituisce, per il periodo della sua corresponsione, l'indennita' temporanea per tubercolosi, nonche' l'assegno integrativo e l'assegno previsti dal [decreto legislativo luogotenenziale 9 novembre 1945, n. 776](../Decreti%20legislativi%20luogotenenziali/Corresponsione%20degli%20assegni%20integrativi%20e%20aumento%20del%20contributo%20dellassicurazione%20obbligatoria%20per%20la%20tubercolosi.%20045U0776.md). La concessione di esso non pregiudica tuttavia il diritto dell'indennita' di disoccupazione.
+ Il sussidio sostituisce, per il periodo della sua corresponsione, l'indennita' temporanea per tubercolosi, nonche' l'assegno integrativo e l'assegno previsti dal [decreto legislativo luogotenenziale 9 novembre 1945, n. 776](Corresponsione%20degli%20assegni%20integrativi%20e%20aumento%20del%20contributo%20dellassicurazione%20obbligatoria%20per%20la%20tubercolosi.%20045U0776.md). La concessione di esso non pregiudica tuttavia il diritto dell'indennita' di disoccupazione.
 
 ## Art. 5.
 

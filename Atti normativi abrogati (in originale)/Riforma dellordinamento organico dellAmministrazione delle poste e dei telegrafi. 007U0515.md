@@ -180,7 +180,7 @@ Gli attuali capi sezione, ispettori centrali e direttori provinciali, di 1ª e 2
 
 ### Art. 23.
 
-L'assegnazione dei punti di merito per gli anni 1903, 1904 e 1905, ai sensi del secondo comma dell'art. 336 del regolamento approvato con [R. decreto del 14 ottobre 1906, n. 546](../Regi%20decreti/Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md), non ha piu' luogo. 
+L'assegnazione dei punti di merito per gli anni 1903, 1904 e 1905, ai sensi del secondo comma dell'art. 336 del regolamento approvato con [R. decreto del 14 ottobre 1906, n. 546](Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md), non ha piu' luogo. 
  
  E' concesso pero' a tutti indistintamente gli attuali Ufficiali telegrafici e primi ufficiali, l'abbreviamento di nove mesi sul quadriennio o quinquennio in corso, a tacitazione definitiva di ogni e qualunque diritto relativo ai punti di merito, di cui sopra. 
  
@@ -221,7 +221,7 @@ I capi, d'ufficio, gia' di 1ª categoria dopo la sistemazione del loro stipendio
 
 ### Art. 27.
 
-I capi d'ufficio, gia' vice segretari nell'Amministrazione centrale, che nel maggio del 1898, sebbene dichiarati idonei dal Consiglio d'amministrazione al grado di segretario, secondo le norme del [R. decreto 18 febbraio 1897, n. 72](../Regi%20decreti/Concernente%20le%20promozioni%20al%20grado%20di%20Segretario%20nellAmministrazione%20centrale%20delle%20Poste%20e%20dei%20Telegrafi.%20097U0072.md), non furono promossi in applicazione dell'art. 9 del R. decreto organico 26 gennaio 1899, n. 43, qualora essi ne facciano domanda entro il termine di quindici giorni dalla pubblicazione della presente legge, o nominati segretari con lo stipendio di L. 3500 e prenderanno posto in ruolo di seguito a coloro che saranno promossi segretari a L. 3500 al 1° luglio 1907. 
+I capi d'ufficio, gia' vice segretari nell'Amministrazione centrale, che nel maggio del 1898, sebbene dichiarati idonei dal Consiglio d'amministrazione al grado di segretario, secondo le norme del [R. decreto 18 febbraio 1897, n. 72](Concernente%20le%20promozioni%20al%20grado%20di%20Segretario%20nellAmministrazione%20centrale%20delle%20Poste%20e%20dei%20Telegrafi.%20097U0072.md), non furono promossi in applicazione dell'art. 9 del R. decreto organico 26 gennaio 1899, n. 43, qualora essi ne facciano domanda entro il termine di quindici giorni dalla pubblicazione della presente legge, o nominati segretari con lo stipendio di L. 3500 e prenderanno posto in ruolo di seguito a coloro che saranno promossi segretari a L. 3500 al 1° luglio 1907. 
  
  Quelli dei funzionari di cui si tratta che al momento della nomina godranno uno stipendio superiore a L. 3500 conserveranno la differenza quale maggiore assegno ad personam da eliminarsi coi successivi aumenti. 
  
@@ -322,7 +322,7 @@ I procacci, per lo scambio degli effetti postali, che attualmente sono addetti a
 
 ### Art. 38.
 
-Nel primo concorso da bandirsi dopo il 1° luglio 1907 pel posto di ufficiale d'ordine non si terra' conto dei limiti di eta' stabiliti dall'art. 149 del regolamento approvato con [R. decreto del 14 ottobre 1906, n. 546](../Regi%20decreti/Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md), in riguardo degli agenti subalterni di ruolo e fuori ruolo, dei ricevitori e dei supplenti. 
+Nel primo concorso da bandirsi dopo il 1° luglio 1907 pel posto di ufficiale d'ordine non si terra' conto dei limiti di eta' stabiliti dall'art. 149 del regolamento approvato con [R. decreto del 14 ottobre 1906, n. 546](Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md), in riguardo degli agenti subalterni di ruolo e fuori ruolo, dei ricevitori e dei supplenti. 
  
  Cosi', non si terra' conto del limite d'eta', stabilito dall'art. 282 del citato regolamento in ordine alle nomine di allievi guardafili da farsi nel luglio 1907. 
  
@@ -342,7 +342,7 @@ Gli impiegati ed agenti qualificati ottimi giusta il disposto del primo comma de
 
 ### Art. 41.
 
-Fino a quando non sara' pubblicato il regolamento per l'esecuzione della presente legge, resteranno in vigore, in quanto non siano contrarie alle disposizioni della legge stessa, le norme del regolamento approvato con [R. decreto del 14 ottobre 1906, n. 546](../Regi%20decreti/Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md). 
+Fino a quando non sara' pubblicato il regolamento per l'esecuzione della presente legge, resteranno in vigore, in quanto non siano contrarie alle disposizioni della legge stessa, le norme del regolamento approvato con [R. decreto del 14 ottobre 1906, n. 546](Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md). 
  
  I posti di nuova creazione contemplati dalla presente legge sono conferiti a scelta del ministro. 
  

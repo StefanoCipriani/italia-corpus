@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), con il quale venne approvato il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli Uffici direttivi finanziari, e successive modificazioni ed integrazioni;
+Visto il [regio decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), con il quale venne approvato il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli Uffici direttivi finanziari, e successive modificazioni ed integrazioni;
 
-Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
+Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
 
 Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), che contiene le norme di esecuzione del citato [testo unico 10 gennaio 1957, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1957-01-10;3)°;
 
@@ -400,7 +400,7 @@ E' in facolta' dell'Amministrazione di nominare, per ciascun membro, come pure p
 
 ### Art. 40. — (Norme incompatibili)
 
-Gli articoli 19, 20 e 214 del regolamento approvato con [regio decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), e ogni altra disposizione regolamentare incompatibile con le norme del presente decreto sono abrogati.
+Gli articoli 19, 20 e 214 del regolamento approvato con [regio decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), e ogni altra disposizione regolamentare incompatibile con le norme del presente decreto sono abrogati.
 
 ### Art. 41. — (Allegati)
 

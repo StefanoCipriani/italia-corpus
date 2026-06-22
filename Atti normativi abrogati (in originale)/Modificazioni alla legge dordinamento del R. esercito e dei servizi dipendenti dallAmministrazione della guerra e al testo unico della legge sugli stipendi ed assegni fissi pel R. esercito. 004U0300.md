@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Alla legge d'ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, testo unico, approvato con [R. decreto 14 luglio 1898, n. 525](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), modificato colle [leggi 7 luglio 1901, n. 285 e 21 luglio 1902, n. 303](Che%20porta%20modificazioni%20allordinamento%20del%20R.%20Esercito.%20002U0303.md), sono arrecate le seguenti modificazioni: 
+Alla legge d'ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, testo unico, approvato con [R. decreto 14 luglio 1898, n. 525](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), modificato colle [leggi 7 luglio 1901, n. 285 e 21 luglio 1902, n. 303](Che%20porta%20modificazioni%20allordinamento%20del%20R.%20Esercito.%20002U0303.md), sono arrecate le seguenti modificazioni: 
  
  All'articolo 60 sostituire il seguente: 
  
@@ -82,7 +82,7 @@ Alla legge d'ordinamento del R. esercito e dei servizi dipendenti dall'Amministr
 
 ## Art. 2.
 
-Alla Tabella n. VI della legge sugli stipendi ed assegni fissi per il R. esercito, testo unico approvato con [R. decreto 14 luglio 1898, n. 380](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), modificato colla [legge 7 luglio 1901, n. 286](Modificazioni%20alle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20R.%20Esercito.%20001U0286.md), sono arrecate le seguenti modificazioni: 
+Alla Tabella n. VI della legge sugli stipendi ed assegni fissi per il R. esercito, testo unico approvato con [R. decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), modificato colla [legge 7 luglio 1901, n. 286](Modificazioni%20alle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20R.%20Esercito.%20001U0286.md), sono arrecate le seguenti modificazioni: 
  
  Alle disposizioni relative agli impiegati della categoria ingegneri geografi e topografi, sostituire le seguenti: 
  

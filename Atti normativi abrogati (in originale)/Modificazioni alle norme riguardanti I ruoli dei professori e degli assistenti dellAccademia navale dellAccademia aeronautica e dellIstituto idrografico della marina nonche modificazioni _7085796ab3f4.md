@@ -12,15 +12,15 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 12 dicembre 1962, n. 1862](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20Maggiori%20e%20per%20la%20revisione%20delle%20leggi%20sul%20reclutamento%20e%20della%20circoscrizione%20dei%20tribunali%20militari%20territoriali.md), recante delega al Governo per il riordinamento del Ministero della difesa;
+Vista la [legge 12 dicembre 1962, n. 1862](Delega%20al%20Governo%20per%20il%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20Maggiori%20e%20per%20la%20revisione%20delle%20leggi%20sul%20reclutamento%20e%20della%20circoscrizione%20dei%20tribunali%20militari%20territoriali.md), recante delega al Governo per il riordinamento del Ministero della difesa;
 
-Vista la [legge 9 ottobre 1964, n. 1058](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Rinnovo%20della%20delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20al%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20maggiori%20e%20delega%20per%20il%20riordinamento%20delle%20carriere%20e%20delle%20c_90e4698fc918.md), concernente rinnovo della delega predetta e delega per il riordinamento delle carriere e delle categorie e per la revisione degli organici del personale civile;
+Vista la [legge 9 ottobre 1964, n. 1058](Rinnovo%20della%20delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20al%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20maggiori%20e%20delega%20per%20il%20riordinamento%20delle%20carriere%20e%20delle%20c_90e4698fc918.md), concernente rinnovo della delega predetta e delega per il riordinamento delle carriere e delle categorie e per la revisione degli organici del personale civile;
 
-Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni;
+Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni;
 
 Udito il parere del Consiglio superiore delle forze armate;
 
-Udito il parere della Commissione parlamentare di cui all'art. 6 della predetta [legge 12 dicembre 1962, numero 1862](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20Maggiori%20e%20per%20la%20revisione%20delle%20leggi%20sul%20reclutamento%20e%20della%20circoscrizione%20dei%20tribunali%20militari%20territoriali.md);
+Udito il parere della Commissione parlamentare di cui all'art. 6 della predetta [legge 12 dicembre 1962, numero 1862](Delega%20al%20Governo%20per%20il%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20Maggiori%20e%20per%20la%20revisione%20delle%20leggi%20sul%20reclutamento%20e%20della%20circoscrizione%20dei%20tribunali%20militari%20territoriali.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -28,17 +28,17 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Art. 1.
 
-Il ruolo organico dei professori e degli assistenti dell'Accademia navale di cui al [regio decreto 16 maggio 1932, n. 595](../Regi%20decreti/Norme%20riguardanti%20il%20personale%20civile%20insegnante%20della%20R.%20Accademia%20navale.%20032U0595.md), e' sostituito da quello risultante dalla tabella n. 1 annessa al presente decreto.
+Il ruolo organico dei professori e degli assistenti dell'Accademia navale di cui al [regio decreto 16 maggio 1932, n. 595](Norme%20riguardanti%20il%20personale%20civile%20insegnante%20della%20R.%20Accademia%20navale.%20032U0595.md), e' sostituito da quello risultante dalla tabella n. 1 annessa al presente decreto.
 
 ## Art. 2.
 
-Il ruolo organico dei professori dell'Istituto idrografico della Marina di cui al [regio decreto 18 giugno 1931 n. 978](../Regi%20decreti/Ruoli%20organici%20dei%20personali%20civili%20della%20Regia%20marina.%20031U0978.md), e' sostituito da quello risultante dalla tabella n. 2 annessa ai presente decreto.
+Il ruolo organico dei professori dell'Istituto idrografico della Marina di cui al [regio decreto 18 giugno 1931 n. 978](Ruoli%20organici%20dei%20personali%20civili%20della%20Regia%20marina.%20031U0978.md), e' sostituito da quello risultante dalla tabella n. 2 annessa ai presente decreto.
  I predetto ruolo, assume la denominazione di ruolo organico dei professori e degli assistenti dell'Istituto idrografico della Marina.
  Per la nomina, l'avanzamento e lo stato giuridico dei detti assistenti valgono, in quanto applicabili, le disposizioni relative agli assistenti dell'Accademia navale.
 
 ## Art. 3.
 
-I ruoli organici dei professori e degli assistenti del l'Accademia aeronautica, di cui all'[art. 1, primo comma del regio decreto 31 marzo 1941, n. 687](../Regi%20decreti/Norme%20per%20il%20personale%20civile%20insegnante%20e%20di%20gabinetto%20della%20Regia%20Accademia%20aeronautica.%20041U0687.md), sono sostituiti da quelli risultanti dalla tabella n. 3 annessa al presente decreto.
+I ruoli organici dei professori e degli assistenti del l'Accademia aeronautica, di cui all'[art. 1, primo comma del regio decreto 31 marzo 1941, n. 687](Norme%20per%20il%20personale%20civile%20insegnante%20e%20di%20gabinetto%20della%20Regia%20Accademia%20aeronautica.%20041U0687.md), sono sostituiti da quelli risultanti dalla tabella n. 3 annessa al presente decreto.
 
 ## Art. 4.
 

@@ -21,7 +21,7 @@ Essa sara' di bronzo e portera' da un lato, il motto: «Merito di guerra», e su
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 10 marzo 1918, n. 356](../Regi%20decreti/Che%20modifica%20il%20capoverso%20dellart.%202%20del%20R.%20decreto%2019%20gennaio%201918%20n.%20205%20concernente%20la%20istituzione%20di%20una%20croce%20al%20merito%20di%20guerra.%20018U0356.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 10 marzo 1918, n. 356](Che%20modifica%20il%20capoverso%20dellart.%202%20del%20R.%20decreto%2019%20gennaio%201918%20n.%20205%20concernente%20la%20istituzione%20di%20una%20croce%20al%20merito%20di%20guerra.%20018U0356.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 

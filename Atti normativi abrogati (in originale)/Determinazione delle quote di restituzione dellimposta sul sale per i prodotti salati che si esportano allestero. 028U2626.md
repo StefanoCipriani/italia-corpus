@@ -20,7 +20,7 @@ Vista la [legge 6 luglio 1883, n. 1445](Riforma%20la%20tariffa%20doganale.%20083
 
 Vista la [legge 2 aprile 1886, n. 3754](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1886-04-02;3754);
 
-Visto il [R. decreto 24 luglio 1887, n. 4810](../Regi%20decreti/Che%20autorizza%20la%20restituzione%20della%20tassa%20sul%20sale%20per%20lesportazione%20dei%20formaggi%20del%20Piemonte.%20087U4810.md);
+Visto il [R. decreto 24 luglio 1887, n. 4810](Che%20autorizza%20la%20restituzione%20della%20tassa%20sul%20sale%20per%20lesportazione%20dei%20formaggi%20del%20Piemonte.%20087U4810.md);
 
 Vista la [legge 28 gennaio 1917, n. 475](Che%20converte%20in%20legge%20il%20R.%20decreto%2013%20luglio%201914%20n.%20780%20col%20quale%20e%20concessa%20la%20restituzione%20dellimposta%20sul%20sale%20impiegato%20per%20la%20fabbricazione%20dei%20formaggi%20provoloni%20di%20quelli%20uso%20pec_2e0743b1110f.md);
 

@@ -18,7 +18,7 @@ Sentito il Consiglio superiore della Pubblica Istruzione, Decreta:
 
 ## Art. 1.
 
-La Commissione per l'esame sulle letterature greca, latina ed italiana, indicato nell'[articolo 3 del Regio decreto 26 ottobre 1875, n. 2760](../Regi%20decreti/Che%20stabilisce%20alcune%20norme%20pel%20passaggio%20degli%20alunni%20dalle%20scuole%20tecniche%20agli%20istituti%20tecnici%20e%20da%20questi%20ai%20corsi%20universitari%20delle%20scienze%20fisiche%20naturali%20e%20matematiche.%20075U2760.md), si comporra' di cinque professori universitari, dei quali quattro appartenenti alla Facolta' di lettere, e l'altro a quella di scienze fisiche, naturali e matematiche. 
+La Commissione per l'esame sulle letterature greca, latina ed italiana, indicato nell'[articolo 3 del Regio decreto 26 ottobre 1875, n. 2760](Che%20stabilisce%20alcune%20norme%20pel%20passaggio%20degli%20alunni%20dalle%20scuole%20tecniche%20agli%20istituti%20tecnici%20e%20da%20questi%20ai%20corsi%20universitari%20delle%20scienze%20fisiche%20naturali%20e%20matematiche.%20075U2760.md), si comporra' di cinque professori universitari, dei quali quattro appartenenti alla Facolta' di lettere, e l'altro a quella di scienze fisiche, naturali e matematiche. 
  
  Faranno sempre parte della Commissione gli insegnanti delle tre letterature; gli altri due commissari saranno scelti dal rettore dell'Universita'.
 

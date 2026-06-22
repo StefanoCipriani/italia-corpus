@@ -37,7 +37,7 @@ La medaglia al merito aeronautico e' concessa dal Ministro per la difesa su pare
 
 ## Art. 5.
 
-La medaglia commemorativa di imprese aeronautiche, istituita con [regio decreto 27 novembre 1927, n. 2297](../Regi%20decreti/Istituzione%20della%20medaglia%20al%20valore%20aeronautico%20e%20di%20quella%20commemorativa%20dimprese%20aeronautiche.%20027U2297.md), e' soppressa.
+La medaglia commemorativa di imprese aeronautiche, istituita con [regio decreto 27 novembre 1927, n. 2297](Istituzione%20della%20medaglia%20al%20valore%20aeronautico%20e%20di%20quella%20commemorativa%20dimprese%20aeronautiche.%20027U2297.md), e' soppressa.
 
 ## Art. 6.
 

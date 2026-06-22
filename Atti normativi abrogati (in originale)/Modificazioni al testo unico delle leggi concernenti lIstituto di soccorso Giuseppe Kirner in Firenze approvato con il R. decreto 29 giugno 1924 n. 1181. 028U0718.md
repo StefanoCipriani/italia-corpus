@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Agli articoli 3, 4, 5 e 6 del testo unico delle leggi concernenti l'Istituto di soccorso «Giuseppe Kirner» in Firenze, approvato con il [R. decreto 29 giugno 1924, n. 1181](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20lIstituto%20di%20soccorso%20Giuseppe%20Kirner%20in%20Firenze.%20024U1181.md), sono sostituiti i seguenti: 
+ Agli articoli 3, 4, 5 e 6 del testo unico delle leggi concernenti l'Istituto di soccorso «Giuseppe Kirner» in Firenze, approvato con il [R. decreto 29 giugno 1924, n. 1181](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20lIstituto%20di%20soccorso%20Giuseppe%20Kirner%20in%20Firenze.%20024U1181.md), sono sostituiti i seguenti: 
  
  «Art. 3. - Scopo dell'Istituto e': 
  

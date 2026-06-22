@@ -93,7 +93,7 @@ Gli atti e contratti stipulati coll'Ente sono soggetti al trattamento stabilito 
 
 ## Art. 12.
 
-Un rappresentante del Commissariato per le migrazioni e la colonizzazione interna e' chiamato a far parte del Consiglio superiore coloniale istituito dal [R. decreto 31 dicembre 1922, n. 1817](../Regi%20decreti/Che%20sopprime%20il%20Consiglio%20coloniale%20ed%20il%20Comitato%20superiore%20amministrativo%20ed%20istituisce%20in%20loro%20vece%20presso%20il%20Ministero%20delle%20colonie%20a%20decorrere%20dal%201%20gennaio%201923%20un%20Consiglio%20superi_8b0dfe5c5347.md).
+Un rappresentante del Commissariato per le migrazioni e la colonizzazione interna e' chiamato a far parte del Consiglio superiore coloniale istituito dal [R. decreto 31 dicembre 1922, n. 1817](Che%20sopprime%20il%20Consiglio%20coloniale%20ed%20il%20Comitato%20superiore%20amministrativo%20ed%20istituisce%20in%20loro%20vece%20presso%20il%20Ministero%20delle%20colonie%20a%20decorrere%20dal%201%20gennaio%201923%20un%20Consiglio%20superi_8b0dfe5c5347.md).
 
 ## Art. 13.
 

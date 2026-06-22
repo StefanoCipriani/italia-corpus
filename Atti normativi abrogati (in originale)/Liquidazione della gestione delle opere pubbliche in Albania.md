@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 18 aprile 1939, n. 624](../Regi%20decreti/Istituzione%20presso%20il%20Ministero%20degli%20affari%20esteri%20del%20Sotto-segretariato%20di%20Stato%20per%20gli%20affari%20albanesi.%20039U0624.md) sull'istituzione del Sottosegretariato di Stato per gli affari albanesi;
+Visto il [regio decreto 18 aprile 1939, n. 624](Istituzione%20presso%20il%20Ministero%20degli%20affari%20esteri%20del%20Sotto-segretariato%20di%20Stato%20per%20gli%20affari%20albanesi.%20039U0624.md) sull'istituzione del Sottosegretariato di Stato per gli affari albanesi;
 
 Visto il [decreto-legge 9 novembre 1939, n. 1752](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1939-11-09;1752), sui lavori e servizi pubblici in Albania;
 
-Visto il [regio decreto 3 agosto 1941, n. 1048](../Regi%20decreti/Soppressione%20del%20Sottosegretariato%20di%20Stato%20per%20gli%20affari%20albanesi.%20041U1048.md), sulla soppressione del Sottosegretariato per gli affari albanesi;
+Visto il [regio decreto 3 agosto 1941, n. 1048](Soppressione%20del%20Sottosegretariato%20di%20Stato%20per%20gli%20affari%20albanesi.%20041U1048.md), sulla soppressione del Sottosegretariato per gli affari albanesi;
 
 Vista la [legge 18 ottobre 1942, n. 1351](Istituzione%20di%20un%20Ufficio%20stralcio%20per%20la%20gestione%20di%20opere%20e%20di%20spese%20gia%20di%20competenza%20del%20cessato%20Sottosegretariato%20per%20gli%20affari%20albanesi.%20042U1351.md), con la quale si e' istituito l'Ufficio stralcio per la gestione di opere e di spese gia' di competenza del cessato Sottosegretariato per gli affari albanesi;
 

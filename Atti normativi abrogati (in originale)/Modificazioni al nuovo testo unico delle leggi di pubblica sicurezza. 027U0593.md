@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'ultimo capoverso dell'[art. 1 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [R. decreto 6 novembre 1926, n. 1848](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md), sono sostituiti i seguenti: 
+All'ultimo capoverso dell'[art. 1 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [R. decreto 6 novembre 1926, n. 1848](Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md), sono sostituiti i seguenti: 
  
  «L'autorita' di pubblica sicurezza e' provinciale e locale. 
  
@@ -18,25 +18,25 @@ All'ultimo capoverso dell'[art. 1 del testo unico delle leggi di pubblica sicure
 
 ## Art. 2.
 
-Nelle disposizioni del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 6 novembre 1926, numero 1848](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md), alle parole «autorita' circondariale di pubblica sicurezza» sono sostituite le parole «il questore».
+Nelle disposizioni del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 6 novembre 1926, numero 1848](Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md), alle parole «autorita' circondariale di pubblica sicurezza» sono sostituite le parole «il questore».
 
 ## Art. 3.
 
-Fino a che non andra' in vigore il nuovo [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quando per i reati preveduti nel [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 6 novembre 1926, n. 1848](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md), non sia stabilito dalla legge il massimo della pena della reclusione o della detenzione, queste sono applicate in misura non superiore a sei anni.
+Fino a che non andra' in vigore il nuovo [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quando per i reati preveduti nel [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 6 novembre 1926, n. 1848](Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md), non sia stabilito dalla legge il massimo della pena della reclusione o della detenzione, queste sono applicate in misura non superiore a sei anni.
 
 ## Art. 4.
 
-Fino a che non andra' in vigore il nuovo [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), i reati preveduti nel [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [R. decreto 6 novembre 1926, n. 1848](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md), sono di competenza del Tribunale, tranne che la cognizione di essi a norma del vigente [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) non spetti al pretore o possa essere a lui deferita.
+Fino a che non andra' in vigore il nuovo [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), i reati preveduti nel [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [R. decreto 6 novembre 1926, n. 1848](Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md), sono di competenza del Tribunale, tranne che la cognizione di essi a norma del vigente [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) non spetti al pretore o possa essere a lui deferita.
 
 ## Art. 5.
 
-Al capoverso dell'art. 193 del testo unico delle leggi dl pubblica sicurezza, approvato con [R. decreto 6 novembre 1926, n. 1848](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md), e' sostituito il seguente: 
+Al capoverso dell'art. 193 del testo unico delle leggi dl pubblica sicurezza, approvato con [R. decreto 6 novembre 1926, n. 1848](Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md), e' sostituito il seguente: 
  
  «Il confinato, che contravvenga alle disposizioni del presente capo, e' punito con l'arresto da tre mesi ad un anno, e il tempo trascorso in espiazione di pena non e' computato in quello che rimane di confino».
 
 ## Art. 6.
 
-Il Governo del Re e' autorizzato, dopo la pubblicazione dei nuovi Codici penale e di procedura penale, a coordinare con questi le disposizioni contenute nel testo unico approvato con [R. decreto 6 novembre 1926, n. 1848](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md), e ad emanare un nuovo [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
+Il Governo del Re e' autorizzato, dopo la pubblicazione dei nuovi Codici penale e di procedura penale, a coordinare con questi le disposizioni contenute nel testo unico approvato con [R. decreto 6 novembre 1926, n. 1848](Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md), e ad emanare un nuovo [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
 
 ## Art. 7.
 

@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 I cavalli stalloni e gli asini stalloni, a chiunque appartenenti, non possono essere adibiti al salto di giumente o di asine di proprieta' altrui, anche gratuitamente, se non siano stati prima approvati per la monta pubblica. 
  
- Sono esclusi dall'obbligo dell'approvazione a norma del precedente comma, i riproduttori appartenenti ai depositi stalloni, di cui al [R. decreto 6 settembre 1923, n. 2125](../Regi%20decreti/Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md). 
+ Sono esclusi dall'obbligo dell'approvazione a norma del precedente comma, i riproduttori appartenenti ai depositi stalloni, di cui al [R. decreto 6 settembre 1923, n. 2125](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md). 
  
  E' vietato ai possessori di giumente od asine di far coprire le medesime da stallone non approvato, salvo che si tratti di stallone dello stesso proprietario delle fattrici, o di stallone dei depositi predetti.
 
@@ -64,7 +64,7 @@ Con Regio decreto, promosso dal Ministro per l'economia nazionale, di concerto c
 
 ## Art. 9.
 
-Sono abrogate le disposizioni degli [articoli 1](Con%20la%20quale%20si%20determinano%20le%20norme%20per%20il%20servizio%20ippico.%20087U4644.md), [2](Con%20la%20quale%20si%20determinano%20le%20norme%20per%20il%20servizio%20ippico.%20087U4644.md), [3](Con%20la%20quale%20si%20determinano%20le%20norme%20per%20il%20servizio%20ippico.%20087U4644.md), [4](Con%20la%20quale%20si%20determinano%20le%20norme%20per%20il%20servizio%20ippico.%20087U4644.md), [5](Con%20la%20quale%20si%20determinano%20le%20norme%20per%20il%20servizio%20ippico.%20087U4644.md), [7](Con%20la%20quale%20si%20determinano%20le%20norme%20per%20il%20servizio%20ippico.%20087U4644.md) e [8 della legge 26 giugno 1887, n. 4644](Con%20la%20quale%20si%20determinano%20le%20norme%20per%20il%20servizio%20ippico.%20087U4644.md), nonche' quella dell'ultimo capoverso dell'[art. 18 del R. decreto 6 settembre 1923, n. 2125](../Regi%20decreti/Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md).
+Sono abrogate le disposizioni degli [articoli 1](Con%20la%20quale%20si%20determinano%20le%20norme%20per%20il%20servizio%20ippico.%20087U4644.md), [2](Con%20la%20quale%20si%20determinano%20le%20norme%20per%20il%20servizio%20ippico.%20087U4644.md), [3](Con%20la%20quale%20si%20determinano%20le%20norme%20per%20il%20servizio%20ippico.%20087U4644.md), [4](Con%20la%20quale%20si%20determinano%20le%20norme%20per%20il%20servizio%20ippico.%20087U4644.md), [5](Con%20la%20quale%20si%20determinano%20le%20norme%20per%20il%20servizio%20ippico.%20087U4644.md), [7](Con%20la%20quale%20si%20determinano%20le%20norme%20per%20il%20servizio%20ippico.%20087U4644.md) e [8 della legge 26 giugno 1887, n. 4644](Con%20la%20quale%20si%20determinano%20le%20norme%20per%20il%20servizio%20ippico.%20087U4644.md), nonche' quella dell'ultimo capoverso dell'[art. 18 del R. decreto 6 settembre 1923, n. 2125](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md).
 
 ## Art. 10.
 

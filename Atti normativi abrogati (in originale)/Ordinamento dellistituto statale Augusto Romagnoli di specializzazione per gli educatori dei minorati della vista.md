@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La Scuola statale di metodo "Augusto Romagnoli" per gli educatori dei ciechi con sede in Roma, di cui all'articolo 179 del testo unico approvato con [regio decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e successive modifiche, assume la denominazione di "Istituto statale Augusto Romagnoli di specializzazione per gli educatori dei minorati della vista" ed e' alle dirette dipendenze del Ministero della pubblica istruzione.
+La Scuola statale di metodo "Augusto Romagnoli" per gli educatori dei ciechi con sede in Roma, di cui all'articolo 179 del testo unico approvato con [regio decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e successive modifiche, assume la denominazione di "Istituto statale Augusto Romagnoli di specializzazione per gli educatori dei minorati della vista" ed e' alle dirette dipendenze del Ministero della pubblica istruzione.
 
 ## Art. 2.
 
@@ -146,7 +146,7 @@ Il segretario e il bidello della Scuola di metodo "Augusto Romagnoli" per gli ed
 ### Art. 24.
 
 Ai fini della progressione di carriera del personale inquadrato nel ruolo speciale dell'Istituto statale "Augusto Romagnoli" di specializzazione per gli educatori dei minorati della vista vengono computati per intero gli anni di servizio prestati presso la Scuola statale di metodo "Augusto Romagnoli" e le scuole ad esso annesse, purche' tale servizio sia stato prestato in posti analoghi a quelli per i quali il personale viene inquadrato.
- Per l'applicazione del presente articolo si deroga a quanto disposto dall'articolo 156 del testo unico pubblicato con [regio decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md).
+ Per l'applicazione del presente articolo si deroga a quanto disposto dall'articolo 156 del testo unico pubblicato con [regio decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md).
 
 Disposizioni Finali
 

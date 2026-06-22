@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 23 marzo 1940, n. 285](Agevolazioni%20fiscali%20a%20favore%20della%20industria%20e%20del%20commercio%20dei%20marmi%20nelle%20provincie%20di%20Apuania%20e%20di%20Lucca.%20040U0285.md);
 
-Visto il [regio decreto 30 luglio 1940, n. 1236](../Regi%20decreti/Norme%20di%20applicazione%20della%20legge%2023%20marzo%201940-XVIII%20n.%20285%20recante%20agevolazioni%20tributarie%20a%20favore%20dellindustria%20e%20del%20commercio%20dei%20marmi%20nelle%20provincie%20di%20Apuania%20e%20di%20Lucca.%20040U1236.md);
+Visto il [regio decreto 30 luglio 1940, n. 1236](Norme%20di%20applicazione%20della%20legge%2023%20marzo%201940-XVIII%20n.%20285%20recante%20agevolazioni%20tributarie%20a%20favore%20dellindustria%20e%20del%20commercio%20dei%20marmi%20nelle%20provincie%20di%20Apuania%20e%20di%20Lucca.%20040U1236.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro Segretario di Stato per le finanze, di concerto con 
 
 ## Articolo unico.
 
-Sono prorogate a decorrere dal 1° gennaio 1944 sino al 30 giugno 1947 le agevolazioni fiscali a favore dell'industria e del commercio dei marmi nelle provincie di Apuania e di Lucca previste nella, [legge 23 marzo 1940, n. 285](Agevolazioni%20fiscali%20a%20favore%20della%20industria%20e%20del%20commercio%20dei%20marmi%20nelle%20provincie%20di%20Apuania%20e%20di%20Lucca.%20040U0285.md), e viene raddoppiata dal 1° gennaio 1944 la misura della tassa unica stabilita dall'[art. 2 del regio decreto 30 luglio 1940, n. 1236](../Regi%20decreti/Norme%20di%20applicazione%20della%20legge%2023%20marzo%201940-XVIII%20n.%20285%20recante%20agevolazioni%20tributarie%20a%20favore%20dellindustria%20e%20del%20commercio%20dei%20marmi%20nelle%20provincie%20di%20Apuania%20e%20di%20Lucca.%20040U1236.md).
+Sono prorogate a decorrere dal 1° gennaio 1944 sino al 30 giugno 1947 le agevolazioni fiscali a favore dell'industria e del commercio dei marmi nelle provincie di Apuania e di Lucca previste nella, [legge 23 marzo 1940, n. 285](Agevolazioni%20fiscali%20a%20favore%20della%20industria%20e%20del%20commercio%20dei%20marmi%20nelle%20provincie%20di%20Apuania%20e%20di%20Lucca.%20040U0285.md), e viene raddoppiata dal 1° gennaio 1944 la misura della tassa unica stabilita dall'[art. 2 del regio decreto 30 luglio 1940, n. 1236](Norme%20di%20applicazione%20della%20legge%2023%20marzo%201940-XVIII%20n.%20285%20recante%20agevolazioni%20tributarie%20a%20favore%20dellindustria%20e%20del%20commercio%20dei%20marmi%20nelle%20provincie%20di%20Apuania%20e%20di%20Lucca.%20040U1236.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

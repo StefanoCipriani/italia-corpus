@@ -16,7 +16,7 @@ Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%2
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
-Visto il [decreto legislativo luogotenenziale 29 settembre 1944, n. 377](../Decreti%20legislativi%20luogotenenziali/Soppressione%20dellAzienda%20autonoma%20statale%20della%20strada.%20044U0377.md), con cui, fra l'altro e' stato elevato a lire 1.000.000 l'annuo contributo dello Stato a favore del Fondo massa vestiario amministrato dalla Cassa di mutuo soccorso fra capi cantonieri e cantonieri delle strade statali della disciolta Azienda autonoma statale della strada;
+Visto il [decreto legislativo luogotenenziale 29 settembre 1944, n. 377](Soppressione%20dellAzienda%20autonoma%20statale%20della%20strada.%20044U0377.md), con cui, fra l'altro e' stato elevato a lire 1.000.000 l'annuo contributo dello Stato a favore del Fondo massa vestiario amministrato dalla Cassa di mutuo soccorso fra capi cantonieri e cantonieri delle strade statali della disciolta Azienda autonoma statale della strada;
 
 Ritenuta l'opportunita' di elevare ulteriormente tale contributo alla somma di lire 2.000.000 in dipendenza dell'elevato costo dei capi di vestiario;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro Segretario di Stato per i lavori pubblici, di concer
 
 ## Art. 1.
 
-Il contributo annuo a favore del Fondo massa vestiario amministrato dalla Cassa di mutuo soccorso fra i capi cantonieri e cantonieri delle strade statali previsto in lire 1.000.000 dal [secondo comma dell'art. 11 del decreto legislativo luogotenenziale 29 settembre 1944, n. 377](../Decreti%20legislativi%20luogotenenziali/Soppressione%20dellAzienda%20autonoma%20statale%20della%20strada.%20044U0377.md), e' elevato dal 1° luglio 1945, a lire 2.000.000.
+Il contributo annuo a favore del Fondo massa vestiario amministrato dalla Cassa di mutuo soccorso fra i capi cantonieri e cantonieri delle strade statali previsto in lire 1.000.000 dal [secondo comma dell'art. 11 del decreto legislativo luogotenenziale 29 settembre 1944, n. 377](Soppressione%20dellAzienda%20autonoma%20statale%20della%20strada.%20044U0377.md), e' elevato dal 1° luglio 1945, a lire 2.000.000.
 
 ## Art. 2.
 

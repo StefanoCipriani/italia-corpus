@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- L'art. 159 del Codice per la marina mercantile, approvato con [R. decreto 24 ottobre 1877, n. 4146](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20del%20Codice%20della%20marina%20mercantile.%20077U4146.md), serie 2ª, e' modificato come segue: 
+ L'art. 159 del Codice per la marina mercantile, approvato con [R. decreto 24 ottobre 1877, n. 4146](Che%20approva%20il%20testo%20unico%20del%20Codice%20della%20marina%20mercantile.%20077U4146.md), serie 2ª, e' modificato come segue: 
  
  «Art. 159. - E' vietato di occupare beni di demanio marittimo o di farvi comunque innovazioni, senza averne ottenuto autorizzazione dall'Amministrazione della marina mercantile nelle forme di legge. 
  

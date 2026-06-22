@@ -36,7 +36,7 @@ A coloro che siano provvisti di pensione in parte a carico degli Economati gener
 
 ## Art. 3.
 
-Alla concessione dell'assegno mensile di cui si tratta non e' di ostacolo il limite fissato dall'art. 76 del testo unico delle leggi sulle pensioni civili e militari, approvato col [R. decreto 21 febbraio 1895 n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
+Alla concessione dell'assegno mensile di cui si tratta non e' di ostacolo il limite fissato dall'art. 76 del testo unico delle leggi sulle pensioni civili e militari, approvato col [R. decreto 21 febbraio 1895 n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
 
 ## Art. 4.
 

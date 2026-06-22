@@ -26,7 +26,7 @@ Il Ministro per le finanze e' autorizzato a bandire un pubblico concorso, per es
 
 Al concorso suddetto, dal quale sono escluse le donne, potranno prendere parte i giovani muniti di licenza di liceo o d'istituto tecnico, che non abbiano oltrepassato il 26° anno di eta'. Per gli ex combattenti tale limite e' elevato di anni cinque. 
  
- Rimangono ferme le disposizioni della [legge 21 agosto 1921, n. 1312](Concernente%20lassunzione%20obbligatoria%20degli%20invalidi%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20aziende%20private.%20021U1312.md), per l'assunzione degli invalidi di guerra e quelle contenute nell'[art. 20 del R. decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md). 
+ Rimangono ferme le disposizioni della [legge 21 agosto 1921, n. 1312](Concernente%20lassunzione%20obbligatoria%20degli%20invalidi%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20aziende%20private.%20021U1312.md), per l'assunzione degli invalidi di guerra e quelle contenute nell'[art. 20 del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md). 
  
  Le altre modalita' del concorso ed i programmi di esame saranno stabiliti col decreto Ministeriale di bando.
 

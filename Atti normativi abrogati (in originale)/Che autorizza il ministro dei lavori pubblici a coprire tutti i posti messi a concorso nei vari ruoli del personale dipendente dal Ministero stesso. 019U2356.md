@@ -16,9 +16,9 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [Regio decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md); 
+ Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [Regio decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md); 
  
- Visti gli articoli 4 e 10 del regolamento generale per l'esecuzione del testo unico predetto, approvato con [Regio decreto 24 novembre 1908, n. 756](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md); 
+ Visti gli articoli 4 e 10 del regolamento generale per l'esecuzione del testo unico predetto, approvato con [Regio decreto 24 novembre 1908, n. 756](Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md); 
  
  Visto il [decreto Luogotenenziale 4 maggio 1919, numero 667](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-05-04;667); 
  

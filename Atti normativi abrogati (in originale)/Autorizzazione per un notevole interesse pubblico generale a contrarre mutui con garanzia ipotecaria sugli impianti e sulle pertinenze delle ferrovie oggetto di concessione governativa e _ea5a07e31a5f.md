@@ -18,7 +18,7 @@ Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.no
 
 Visto il [decreto-legge 20 maggio 1924, n. 731](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-05-20;731), relativo alla costituzione di un ente denominato "Istituto di credito per le imprese di pubblica utilita'" , e richiamato il disposto del secondo comma dell'art. 2 del decreto medesimo, statuente a garanzia di mutui per dette opere un privilegio sulle opere e sugli impianti, in secondo grado, dopo quello spettante allo Stato;
 
-Visto il [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md), relativo alle provvidenze per agevolare il riassetto della vita civile e per la ripresa economica della Nazione, e richiamata particolarmente la disposizione di cui all'art. 7 del decreto stesso, statuente che il credito derivante dal finanziamento delle opere a privilegio sugli immobili, sugli impianti, sulle concessioni, comprese quelle minerarie, ecc.;
+Visto il [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md), relativo alle provvidenze per agevolare il riassetto della vita civile e per la ripresa economica della Nazione, e richiamata particolarmente la disposizione di cui all'art. 7 del decreto stesso, statuente che il credito derivante dal finanziamento delle opere a privilegio sugli immobili, sugli impianti, sulle concessioni, comprese quelle minerarie, ecc.;
 
 Vista la deliberazione del Consiglio dei Ministri;
 

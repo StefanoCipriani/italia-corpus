@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visti la [legge 11 dicembre 1939, n. 1938](Riforma%20dellEnte%20di%20previdenza%20a%20favore%20degli%20avvocati%20procuratori.%20039U1938.md), sull'Ente di previdenza a favore degli avvocati e procuratori ed il [regio decreto 25 giugno 1940, n. 954](../Regi%20decreti/Norme%20di%20attuazione%20e%20dintegrazione%20della%20legge%2011%20dicembre%201939-XVIII%20n.%201938%20riguardante%20lEnte%20di%20previdenza%20a%20favore%20degli%20avvocati%20e%20dei%20procuratori.%20040U0954.md), contenente norme di attuazione e di integrazione di tale legge;
+Visti la [legge 11 dicembre 1939, n. 1938](Riforma%20dellEnte%20di%20previdenza%20a%20favore%20degli%20avvocati%20procuratori.%20039U1938.md), sull'Ente di previdenza a favore degli avvocati e procuratori ed il [regio decreto 25 giugno 1940, n. 954](Norme%20di%20attuazione%20e%20dintegrazione%20della%20legge%2011%20dicembre%201939-XVIII%20n.%201938%20riguardante%20lEnte%20di%20previdenza%20a%20favore%20degli%20avvocati%20e%20dei%20procuratori.%20040U0954.md), contenente norme di attuazione e di integrazione di tale legge;
 
 Visto l'art. 4, del decreto-legge luogotenenziale 25 giugno 1944,
 
@@ -44,7 +44,7 @@ Il Collegio dei revisori dei conti e' nominato con decreto del Ministro per la g
 
 ## Art. 5.
 
-Le disposizioni della [legge 11 dicembre 1939, n. 1938](Riforma%20dellEnte%20di%20previdenza%20a%20favore%20degli%20avvocati%20procuratori.%20039U1938.md) e del [regio decreto 25 giugno 1940, n. 954](../Regi%20decreti/Norme%20di%20attuazione%20e%20dintegrazione%20della%20legge%2011%20dicembre%201939-XVIII%20n.%201938%20riguardante%20lEnte%20di%20previdenza%20a%20favore%20degli%20avvocati%20e%20dei%20procuratori.%20040U0954.md), che disciplinano le attribuzioni ed il funzionamento degli organi dell'Ente continuano ad applicarsi in quanto compatibili con le norme di questo decreto.
+Le disposizioni della [legge 11 dicembre 1939, n. 1938](Riforma%20dellEnte%20di%20previdenza%20a%20favore%20degli%20avvocati%20procuratori.%20039U1938.md) e del [regio decreto 25 giugno 1940, n. 954](Norme%20di%20attuazione%20e%20dintegrazione%20della%20legge%2011%20dicembre%201939-XVIII%20n.%201938%20riguardante%20lEnte%20di%20previdenza%20a%20favore%20degli%20avvocati%20e%20dei%20procuratori.%20040U0954.md), che disciplinano le attribuzioni ed il funzionamento degli organi dell'Ente continuano ad applicarsi in quanto compatibili con le norme di questo decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della. Repubblica italiana. E' Fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

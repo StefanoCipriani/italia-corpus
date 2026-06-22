@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 149](../Decreti%20legislativi%20luogotenenziali/Applicazione%20di%20sanzioni%20a%20carico%20di%20fascisti%20politicamente%20pericolosi.%20045U0149.md);
+Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 149](Applicazione%20di%20sanzioni%20a%20carico%20di%20fascisti%20politicamente%20pericolosi.%20045U0149.md);
 
-Visto il [decreto legislativo luogotenenziale 5 ottobre 1945, n. 625](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20norme%20sulle%20sanzioni%20contro%20il%20fascismo.%20045U0625.md);
+Visto il [decreto legislativo luogotenenziale 5 ottobre 1945, n. 625](Modificazioni%20alle%20norme%20sulle%20sanzioni%20contro%20il%20fascismo.%20045U0625.md);
 
 Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-26;201);
 
@@ -30,7 +30,7 @@ Il termine di funzionamento delle Sezioni speciali delle Corti di assise, per i 
 
 ## Art. 2.
 
-I provvedimenti previsti dagli [articoli 1](../Decreti%20legislativi%20luogotenenziali/Applicazione%20di%20sanzioni%20a%20carico%20di%20fascisti%20politicamente%20pericolosi.%20045U0149.md) e [3 dei decreto legislativo luogotenenziale 26 aprile 1945, numero 149](../Decreti%20legislativi%20luogotenenziali/Applicazione%20di%20sanzioni%20a%20carico%20di%20fascisti%20politicamente%20pericolosi.%20045U0149.md), riguardante l'applicazione di sanzioni a carico dei fascisti politicamente pericolosi, possono essere adottati entro un anno dall'entrata in vigore del presente decreto.
+I provvedimenti previsti dagli [articoli 1](Applicazione%20di%20sanzioni%20a%20carico%20di%20fascisti%20politicamente%20pericolosi.%20045U0149.md) e [3 dei decreto legislativo luogotenenziale 26 aprile 1945, numero 149](Applicazione%20di%20sanzioni%20a%20carico%20di%20fascisti%20politicamente%20pericolosi.%20045U0149.md), riguardante l'applicazione di sanzioni a carico dei fascisti politicamente pericolosi, possono essere adottati entro un anno dall'entrata in vigore del presente decreto.
 
 ## Art. 3.
 

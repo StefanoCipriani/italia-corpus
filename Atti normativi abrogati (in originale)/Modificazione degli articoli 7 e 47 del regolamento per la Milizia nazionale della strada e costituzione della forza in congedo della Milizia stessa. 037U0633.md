@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto n. 1554 del 20 ottobre 1932](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20Milizia%20nazionale%20della%20strada.%20032U1554.md)-X;
+Visto il [R. decreto n. 1554 del 20 ottobre 1932](Approvazione%20del%20regolamento%20per%20la%20Milizia%20nazionale%20della%20strada.%20032U1554.md)-X;
 
 Vista la [legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), sullo stato degli ufficiali del Regio esercito, e successive modifiche;
 

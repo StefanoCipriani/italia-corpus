@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Vista la [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md);
 
-Visto il [decreto legislativo 6 maggio 1948, n. 654](../Decreti%20Legislativi/Norme%20per%20lesercizio%20nella%20Regione%20siciliana%20delle%20funzioni%20spettanti%20al%20Consiglio%20di%20Stato.md);
+Visto il [decreto legislativo 6 maggio 1948, n. 654](Norme%20per%20lesercizio%20nella%20Regione%20siciliana%20delle%20funzioni%20spettanti%20al%20Consiglio%20di%20Stato.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -26,7 +26,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 ## Art. 1.
 
-L'[art. 2 del decreto legislativo 6 maggio 1948, n. 654](../Decreti%20Legislativi/Norme%20per%20lesercizio%20nella%20Regione%20siciliana%20delle%20funzioni%20spettanti%20al%20Consiglio%20di%20Stato.md), e' sostituito dal seguente:
+L'[art. 2 del decreto legislativo 6 maggio 1948, n. 654](Norme%20per%20lesercizio%20nella%20Regione%20siciliana%20delle%20funzioni%20spettanti%20al%20Consiglio%20di%20Stato.md), e' sostituito dal seguente:
  "Il consiglio di giustizia amministrativa e' presieduto da un presidente di sezione del Consiglio di Stato. Al consiglio e' assegnato con funzioni di aggiunto un secondo presidente di sezione del Consiglio di Stato.
  Ne sono membri in sede consultiva:
  a) due magistrati del Consiglio di Stato con la qualifica di consigliere;
@@ -43,7 +43,7 @@ L'[art. 2 del decreto legislativo 6 maggio 1948, n. 654](../Decreti%20Legislativ
 
 ## Art. 2.
 
-Il secondo ed il [terzo comma dell'art. 3 del decreto legislativo 6 maggio 1948, n. 654](../Decreti%20Legislativi/Norme%20per%20lesercizio%20nella%20Regione%20siciliana%20delle%20funzioni%20spettanti%20al%20Consiglio%20di%20Stato.md), sono sostituiti dai seguenti: 
+Il secondo ed il [terzo comma dell'art. 3 del decreto legislativo 6 maggio 1948, n. 654](Norme%20per%20lesercizio%20nella%20Regione%20siciliana%20delle%20funzioni%20spettanti%20al%20Consiglio%20di%20Stato.md), sono sostituiti dai seguenti: 
  "I membri designati dalla giunta regionale durano in carica sei anni, decorrenti per ciascuno di essi dalla data del giuramento, e non possono essere confermati. Essi, tuttavia, continuano a svolgere le loro funzioni fino all'insediamento dei rispettivi successori. 
  I magistrati del Consiglio di Stato ed il prefetto componente effettivo del consiglio di giustizia amministrativa sono collocati fuori ruolo. I primi sono collocati in tale posizione in eccedenza ai posti di fuori ruolo previsti per i magistrati del Consiglio di Stato".
 

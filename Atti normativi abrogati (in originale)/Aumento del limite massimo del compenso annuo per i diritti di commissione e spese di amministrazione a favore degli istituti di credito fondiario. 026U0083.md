@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Art. 1.
 
-Negli articoli 27 e 85 del testo unico delle leggi sul credito fondiario approvato con [R. decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), al limite massimo di L. 0.45 per il compenso annuo per diritti di commissione e spese di amministrazione a favore degli istituti di credito fondiario e' sostituito, per i mutui concessi a datare dal 1°gennaio 1926, il limite massimo di una lira per cento.
+Negli articoli 27 e 85 del testo unico delle leggi sul credito fondiario approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), al limite massimo di L. 0.45 per il compenso annuo per diritti di commissione e spese di amministrazione a favore degli istituti di credito fondiario e' sostituito, per i mutui concessi a datare dal 1°gennaio 1926, il limite massimo di una lira per cento.
 
 ## Art. 2.
 

@@ -18,7 +18,7 @@ Visto il [decreto Luogotenenziale 10 maggio 1917, n. 788](https://www.normattiva
 
 Visto il [decreto Luogotenenziale 2 marzo 1919, n. 410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-03-02;410);
 
-Visto il [R. decreto 9 novembre 1919, n. 2258](../Regi%20decreti/Che%20istituisce%20il%20Consorzio%20nazionale%20per%20il%20riso%20e%20ne%20approva%20gli%20statuti.%20019U2258.md);
+Visto il [R. decreto 9 novembre 1919, n. 2258](Che%20istituisce%20il%20Consorzio%20nazionale%20per%20il%20riso%20e%20ne%20approva%20gli%20statuti.%20019U2258.md);
 
 Ritenuta l'urgenza di provvedere alla fissazione dei prezzi del risone per il raccolto 1920 allo scopo di incoraggiarne tempestivamente la produzione;
 

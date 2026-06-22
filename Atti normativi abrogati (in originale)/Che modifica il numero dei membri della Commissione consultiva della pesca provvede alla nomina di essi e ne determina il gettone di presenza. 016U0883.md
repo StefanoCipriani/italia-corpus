@@ -14,7 +14,7 @@ Il numero dei membri elettivi della Commissione consultiva della pesca, che con 
 
 ## Art. 2.
 
-A termini del [R. decreto 27 ottobre 1911, n. 1207](../Regi%20decreti/Col%20quale%20viene%20riformata%20la%20costituzione%20della%20commissione%20consultiva%20per%20la%20pesca.%20011U1207.md) predetto e del precedente articolo, per un biennio, a decorrere dalla data di registrazione del presente decreto, sono nominati quali membri elettivi della Commissione consultiva della pesca, i signori: 
+A termini del [R. decreto 27 ottobre 1911, n. 1207](Col%20quale%20viene%20riformata%20la%20costituzione%20della%20commissione%20consultiva%20per%20la%20pesca.%20011U1207.md) predetto e del precedente articolo, per un biennio, a decorrere dalla data di registrazione del presente decreto, sono nominati quali membri elettivi della Commissione consultiva della pesca, i signori: 
  
  Cermenati prof. Mario, deputato al Parlamento; 
  

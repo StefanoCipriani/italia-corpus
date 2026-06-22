@@ -137,7 +137,7 @@ Il certificato nominativo di piena proprieta' e' formato da tre mezzi fogli. La 
  
  Nella parte inferiore e' riportata un'avvertenza riguardante il luogo e le modalita', di pagamento delle rate semestrali di interessi, alla quale seguono gli spazi per l'apposizione delle firme. 
  
- Il rovescio del primo mezzo foglio e' contornato da una cornice di colore bleu che racchiude uno spazio riservato, come da apposita avvertenza, per le dichiarazioni di consenso di cui all'[art. 22 del testo unico delle leggi sul debito pubblico](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), 17 luglio 1910, n. 536.
+ Il rovescio del primo mezzo foglio e' contornato da una cornice di colore bleu che racchiude uno spazio riservato, come da apposita avvertenza, per le dichiarazioni di consenso di cui all'[art. 22 del testo unico delle leggi sul debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), 17 luglio 1910, n. 536.
 Nella parte inferiore sono contenute a stampa alcune avvertenze riguardanti le estrazioni per l'ammortamento e le variazioni alla vigenza del capitale e degli interessi del titolo, in dipendenza di sorteggi e di rimborsi. 
  
  Le due pagine del secondo mezzo foglio recano impressi, rispettivamente, quella anteriore, un prospetto, per la descrizione dei titoli compresi nel certificato nominativo, e, quella posteriore, una cornice di colore bleu racchiudente 2 caselle semestrali per la impressione del bollo comprovante il pagamento delle rate di interessi. 

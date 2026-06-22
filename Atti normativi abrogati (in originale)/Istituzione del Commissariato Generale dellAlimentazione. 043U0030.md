@@ -60,7 +60,7 @@ Il Commissariato Generale dell'Alimentazione assolve i suoi compiti per mezzo de
 
 Il personale, i Dirigenti ed i titolari responsabili degli organi Enti ed Aziende indicati nel precedente art. 3, conservano integre ed immutate le proprie funzioni e la dipendenza gerarchica. 
  
- Gli organismi suddetti ed il personale dipendente vanno soggetti alla disciplina dei cittadini in tempo di guerra considerandosi mobilitati civili ai sensi del testo unico approvato con [R.D. 31 ottobre 1942, n. 1611](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulla%20disciplina%20dei%20cittadini%20in%20tempo%20di%20guerra.%20042U1611.md).
+ Gli organismi suddetti ed il personale dipendente vanno soggetti alla disciplina dei cittadini in tempo di guerra considerandosi mobilitati civili ai sensi del testo unico approvato con [R.D. 31 ottobre 1942, n. 1611](../Regi%20decreti/Testo%20unico%20delle%20leggi%20sulla%20disciplina%20dei%20cittadini%20in%20tempo%20di%20guerra.%20042U1611.md).
 
 ## Art. 5.
 
@@ -101,6 +101,6 @@ Il Ministro delle Finanze e' autorizzato ad apportare le variazioni di bilancio 
  BADOGLIO - CORBINO - DE SANTIS - 
  ORLANDO - JUNG - SICILIANI 
  
- Visto: (ai sensi del [R. D. 30 ottobre 1943 n. 1/B](../Regi%20decreti/Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
+ Visto: (ai sensi del [R. D. 30 ottobre 1943 n. 1/B](Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
  
  Il Guardasigilli: BADOGLIO

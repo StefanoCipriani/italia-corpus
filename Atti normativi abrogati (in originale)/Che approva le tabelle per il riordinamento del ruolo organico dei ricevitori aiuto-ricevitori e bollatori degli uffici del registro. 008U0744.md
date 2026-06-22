@@ -16,14 +16,14 @@ I ricevitori del registro e quelli degli uffici misti del registro e delle ipote
 
 ## Art. 2.
 
-La liquidazione delle pensioni e delle indennita' a favore dei ricevitori, che ne abbiano diritto a termini del vigente testo unico delle leggi sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), sara' fatta sulla media dei minimi di aggio garantiti, giusta l'articolo precedente, secondo le classi cui il ricevitore ha appartenuto nell'ultimo quinquennio di effettivo servizio. 
+La liquidazione delle pensioni e delle indennita' a favore dei ricevitori, che ne abbiano diritto a termini del vigente testo unico delle leggi sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), sara' fatta sulla media dei minimi di aggio garantiti, giusta l'articolo precedente, secondo le classi cui il ricevitore ha appartenuto nell'ultimo quinquennio di effettivo servizio. 
  
  L'eccedenza degli aggi e proventi, netti dalle spese effettive, che il ricevitore in ciascun esercizio del quinquennio abbia percetto in confronto del rispettivo minimo assicurato, sara' per gli effetti della pensione o dell'indennita' computata soltanto per un quinto.
 Saranno esclusi dal computo anche agli effetti della pensione i diritti di ricerca pel ramo registro, e l'assegno fisso e gli emolumenti pel ramo ipotecario. 
  
  Quando una parte del quinquennio di effettivo servizio valutabile per la pensione sia anteriore all'attuazione della presente legge, si applicheranno per la detta parte le norme preesistenti. 
  
- Le disposizioni del [R. decreto 10 agosto 1893, n. 492](../Regi%20decreti/Che%20determina%20lassimilazione%20degli%20impiegati%20retribuiti%20ad%20aggio%20ed%20altri%20proventi%20agli%20impiegati%20di%20ruolo%20dellAmministrazione%20centrale%20delle%20finanze%20e%20del%20tesoro.%20093U0492.md) non saranno applicabili a queste liquidazioni di penzioni.
+ Le disposizioni del [R. decreto 10 agosto 1893, n. 492](Che%20determina%20lassimilazione%20degli%20impiegati%20retribuiti%20ad%20aggio%20ed%20altri%20proventi%20agli%20impiegati%20di%20ruolo%20dellAmministrazione%20centrale%20delle%20finanze%20e%20del%20tesoro.%20093U0492.md) non saranno applicabili a queste liquidazioni di penzioni.
 
 ## Art. 3.
 

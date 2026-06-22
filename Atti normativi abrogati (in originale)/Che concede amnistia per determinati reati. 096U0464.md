@@ -26,11 +26,11 @@ E' concessa amnistia pei seguenti reati;
  
  a) reati preveduti dalla legge sulla stampa; 
  
- b) delitti politici, preveduti dagli articoli 104 a 127 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e di eccitamento a commetterli, preveduto dall'articolo 135 del Codice medesimo; 
+ b) delitti politici, preveduti dagli articoli 104 a 127 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e di eccitamento a commetterli, preveduto dall'articolo 135 del Codice medesimo; 
  
  c) delitti contro le liberta' politiche, contro la liberta' dei culti e contro la liberta' del lavoro; 
  
- d) delitti di duello, preveduti dal Capo IX, Titolo IV, Libro II del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), escluso il caso dell'omicidio, preveduto dall'articolo 239 n. 1, dello stesso Codice; 
+ d) delitti di duello, preveduti dal Capo IX, Titolo IV, Libro II del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), escluso il caso dell'omicidio, preveduto dall'articolo 239 n. 1, dello stesso Codice; 
  
  e) reati di diserzione dalle navi della marina mercantile nazionale, commessi da individui della marina mercantile, tanto cittadini che stranieri, preveduti dal Capo I, Titolo II, Parte II del Codice per la marina mercantile; 
  
@@ -62,7 +62,7 @@ Per le donne, pei sordo-muti e per coloro che alla data del presente decreto non
 
 ## Art. 5.
 
-Nel caso di concorso di reati o di pene, l'abolizione dell'azione penale si applica a ciascun reato, ed il condono o la diminuzione delle pene si applica alle pene cumulate secondo le norme stabilite negli [articoli 67 e seguenti del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Nel caso di concorso di reati o di pene, l'abolizione dell'azione penale si applica a ciascun reato, ed il condono o la diminuzione delle pene si applica alle pene cumulate secondo le norme stabilite negli [articoli 67 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 6.
 

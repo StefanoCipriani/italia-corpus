@@ -22,7 +22,7 @@ Sulla proposta del Ministro Segretario di Stato per la Marina, d'accordo col Min
 
 ## Articolo unico.
 
-Il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, approvato colla suddetta Legge, e coordinato col [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per l'Esercito e con la [Legge dell'11 febbraio 1864, n. 1670](Contenente%20modificazioni%20al%20Codice%20penale%20militare.%20064U1670.md), avra' vigore nel Regno a contare dal 15 febbraio 1870. 
+Il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, approvato colla suddetta Legge, e coordinato col [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per l'Esercito e con la [Legge dell'11 febbraio 1864, n. 1670](Contenente%20modificazioni%20al%20Codice%20penale%20militare.%20064U1670.md), avra' vigore nel Regno a contare dal 15 febbraio 1870. 
  
  Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

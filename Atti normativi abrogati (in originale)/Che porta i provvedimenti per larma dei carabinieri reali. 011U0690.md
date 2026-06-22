@@ -132,7 +132,7 @@ I sottufficiali dell'arma dei carabinieri reali hanno diritto al collocamento a 
 
 ## Art. 11.
 
-Sono aboliti, per i sottufficiali, gli aumenti della pensione stabiliti dall'art. 90 del testo unico delle leggi sulle pensioni approvate con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
+Sono aboliti, per i sottufficiali, gli aumenti della pensione stabiliti dall'art. 90 del testo unico delle leggi sulle pensioni approvate con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
 
 ## Art. 12.
 
@@ -140,7 +140,7 @@ La pensione dei sottufficiali, che vengano collocati a riposo per ferite od infe
 
 ## Art. 13.
 
-Sono abrogati gli articoli 1 (lettera a, b), 2, 4, 5 (meno il penultimo comma), 6 (meno l'ultimo comma), 8, 9 (meno l'ultimo comma), 11, 13, 14, 15, 16, 17, 19, 21, 22, 23, 24, 25, 26, 27 (meno l'ultimo comma), 28, 44 del testo unico delle leggi sullo stato dei sottufficiali approvato con [R. decreto 6 maggio 1909, n. 272](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20R.%20esercito.%20009U0272.md), e tutte le disposizioni dello stesso testo unico o di altre leggi le quali siano contrarie alla presente legge, per quanto riguarda l'arma dei carabinieri reali. 
+Sono abrogati gli articoli 1 (lettera a, b), 2, 4, 5 (meno il penultimo comma), 6 (meno l'ultimo comma), 8, 9 (meno l'ultimo comma), 11, 13, 14, 15, 16, 17, 19, 21, 22, 23, 24, 25, 26, 27 (meno l'ultimo comma), 28, 44 del testo unico delle leggi sullo stato dei sottufficiali approvato con [R. decreto 6 maggio 1909, n. 272](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20R.%20esercito.%20009U0272.md), e tutte le disposizioni dello stesso testo unico o di altre leggi le quali siano contrarie alla presente legge, per quanto riguarda l'arma dei carabinieri reali. 
  
  Il Governo del Re ha facolta' di compilare un nuovo testo unico delle leggi sullo stato dei sottufficiali dell'arma dei carabinieri reali.
 

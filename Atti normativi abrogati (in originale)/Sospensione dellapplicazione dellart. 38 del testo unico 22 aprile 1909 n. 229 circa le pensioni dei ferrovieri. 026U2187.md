@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle disposizioni per le pensioni del personale delle Ferrovie dello Stato approvato con [R. decreto 22 aprile 1909, n. 229](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md);
+Visto il testo unico delle disposizioni per le pensioni del personale delle Ferrovie dello Stato approvato con [R. decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md);
 
 Visto il regolamento del personale approvato con [R. decreto-legge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Articolo unico.
 
-Per gli esercizi 1926-1927 e 1927-1928 e' sospesa l'applicazione dell'art. 38 del testo unico delle disposizioni per le pensioni del personale delle Ferrovie dello Stato approvato con [R. decreto 22 aprile 1909, n. 229](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md). 
+Per gli esercizi 1926-1927 e 1927-1928 e' sospesa l'applicazione dell'art. 38 del testo unico delle disposizioni per le pensioni del personale delle Ferrovie dello Stato approvato con [R. decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md). 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge, e il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

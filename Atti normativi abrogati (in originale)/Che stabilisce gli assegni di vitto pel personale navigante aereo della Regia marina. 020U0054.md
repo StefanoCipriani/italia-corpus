@@ -28,7 +28,7 @@ Agli ufficiali con destinazione effettiva di servizio alle stazioni aeree, e' do
  
  Non compete assegno per cuochi e domestici borghesi. 
  
- Tale assegno compete altresi' agli ufficiali addetti ai Comandi di aeronautica, solo quando il Comando stesso risieda in una stazione aerea; in tal caso la mensa e' obbligatoria anche per tali ufficiali, e cessa per coloro cui altrimenti spetterebbe la corresponsione del soprassoldo di difesa marittima di cui al [Regio decreto 18 settembre 1919, n. 1817](../Regi%20decreti/Relativo%20alla%20instituzione%20di%20quattro%20Comandi%20di%20aereonautica.%20019U1817.md). 
+ Tale assegno compete altresi' agli ufficiali addetti ai Comandi di aeronautica, solo quando il Comando stesso risieda in una stazione aerea; in tal caso la mensa e' obbligatoria anche per tali ufficiali, e cessa per coloro cui altrimenti spetterebbe la corresponsione del soprassoldo di difesa marittima di cui al [Regio decreto 18 settembre 1919, n. 1817](Relativo%20alla%20instituzione%20di%20quattro%20Comandi%20di%20aereonautica.%20019U1817.md). 
  
  Qualunque sia il grado e l'anzianita' degli ufficiali, il trattamento tavola dovuto e' quello stabilito dal regolamento sugli assegni speciali di bordo per mense ordinarie ufficiali.
 

@@ -24,7 +24,7 @@ VITTORIO EMANUELE
  
  Articolo unico. 
  
- Gli [articoli 166](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [184 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con R. decreto 18 giugno 1931-IX, n. 773, sono modificati come segue: 
+ Gli [articoli 166](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [184 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con R. decreto 18 giugno 1931-IX, n. 773, sono modificati come segue: 
  
  «Art. 166: L'ammonizione ha la durata di due anni ed e' pronunciata da una Commissione provinciale composta del prefetto, del segretario federale, del procuratore del Re Imperatore, del questore, del comandante l'Arma dei carabinieri Reali nella provincia e di un ufficiale superiore della Milizia volontaria per la sicurezza nazionale, designato dal Comando di zona competente. 
  

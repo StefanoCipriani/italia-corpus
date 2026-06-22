@@ -22,7 +22,7 @@ Sulla proposta del Ministro per l'interno, di concerto con il Ministro per il te
 
 ## Art. 1.
 
-E' istituita temporaneamente presso il Ministero dell'interno la Direzione generale dell'assistenza post-bellica per l'assistenza alle categorie di cui all'[art. 1, primo comma del decreto legislativo luogotenenziale 28 settembre 1945, n. 646](../Decreti%20legislativi%20luogotenenziali/Norme%20integrative%20circa%20le%20attribuzioni%20del%20Ministero%20dellassistenza%20post-bellica.%20045U0646.md), e all'[art. 1 del decreto legislativo luogotenenziale 31 luglio 1945, n. 425](../Decreti%20legislativi%20luogotenenziali/Attribuzioni%20ed%20ordinamento%20del%20Ministero%20dellassistenza%20post-bellica.%20045U0425.md).
+E' istituita temporaneamente presso il Ministero dell'interno la Direzione generale dell'assistenza post-bellica per l'assistenza alle categorie di cui all'[art. 1, primo comma del decreto legislativo luogotenenziale 28 settembre 1945, n. 646](Norme%20integrative%20circa%20le%20attribuzioni%20del%20Ministero%20dellassistenza%20post-bellica.%20045U0646.md), e all'[art. 1 del decreto legislativo luogotenenziale 31 luglio 1945, n. 425](Attribuzioni%20ed%20ordinamento%20del%20Ministero%20dellassistenza%20post-bellica.%20045U0425.md).
  Un prefetto, scelto tra quelli a disposizione a termine dell'[art. 102 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e' proposto alla predetta Direzione generale.
 
 ## Art. 2.

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 2 giugno 1927, n. 862](Ordinamento%20della%20carriera%20diplomatico-consolare.%20027U0862.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), ed il [R. decreto-legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46);
+Visto il [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), ed il [R. decreto-legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;46#art_3-num2);
 

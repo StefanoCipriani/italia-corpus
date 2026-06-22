@@ -195,7 +195,7 @@ Il tribunale di appello funzionante da Corte d'assise giudica con l'intervento d
 
 Il rappresentante del pubblico ministero e l'imputato hanno diritto di ricusare ciascuno, senza addurre motivi, uno degli assessori, ed i tre rimasti funzioneranno da assessori. 
  
- Sono inoltre applicabili agli assessori i motivi di ricusa stabiliti nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per la ricusazione dei giudici, e sulla ricusazione decide inappellabilmente il presidente. Qualora, in seguito alla ricusazione, sia necessario scegliere altro assessore, vi provvede il presidente col metodo dell'estrazione a sorte.
+ Sono inoltre applicabili agli assessori i motivi di ricusa stabiliti nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per la ricusazione dei giudici, e sulla ricusazione decide inappellabilmente il presidente. Qualora, in seguito alla ricusazione, sia necessario scegliere altro assessore, vi provvede il presidente col metodo dell'estrazione a sorte.
 
 ### Art. 24.
 
@@ -413,7 +413,7 @@ Quando l'eta' dell'imputato non possa essere determinata con sicurezza, il magis
 
 ### Art. 67.
 
-Oltre gli effetti previsti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il giudice puo' ordinare che la sentenza di condanna a carico degl'indigeni produca la perdita o la sospensione per un un tempo determinato delle pensioni o degli assegni governativi, di cui i condannati abbiano il godimento.
+Oltre gli effetti previsti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il giudice puo' ordinare che la sentenza di condanna a carico degl'indigeni produca la perdita o la sospensione per un un tempo determinato delle pensioni o degli assegni governativi, di cui i condannati abbiano il godimento.
 
 ### Art. 68.
 
@@ -429,7 +429,7 @@ E' ammesso il ricorso in cassazione contro le sentenze del tribunale d'appello e
 
 ### Art. 71.
 
-Senza pregiudizio della facolta' che compete al Governatore di dichiarare lo stato d'assedio in tutta la Colonia od in alcuna parte di essa, puo' egli, con appositi bandi o decreti, ordinare che alcuni reati o alcune determinate categorie di reati, che dopo il bando venissero commessi dagli indigeni, siano in tutta la Colonia od in determinate zone, regioni o parti di esse, giudicate da tribunale militari secondo le forme ed applicando le pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per il tempo di guerra.
+Senza pregiudizio della facolta' che compete al Governatore di dichiarare lo stato d'assedio in tutta la Colonia od in alcuna parte di essa, puo' egli, con appositi bandi o decreti, ordinare che alcuni reati o alcune determinate categorie di reati, che dopo il bando venissero commessi dagli indigeni, siano in tutta la Colonia od in determinate zone, regioni o parti di esse, giudicate da tribunale militari secondo le forme ed applicando le pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per il tempo di guerra.
 
 ## Delle contestazioni fra i privati e la pubblica Amministrazione.
 

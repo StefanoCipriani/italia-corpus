@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 21 marzo 1929, n. 629](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md);
+Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 21 marzo 1929, n. 629](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md);
 
 Vista la [legge 27 giugno 1929, n. 1185](Nomina%20a%20sottotenente%20di%20complemento%20nel%20Regio%20esercito%20di%20un%20gruppo%20di%20sottufficiali%20e%20militari%20di%20truppa.%20029U1185.md), recante norme per la nomina a sottotenente di complemento nel Regio esercito di un gruppo di sottufficiali e militari di truppa;
 

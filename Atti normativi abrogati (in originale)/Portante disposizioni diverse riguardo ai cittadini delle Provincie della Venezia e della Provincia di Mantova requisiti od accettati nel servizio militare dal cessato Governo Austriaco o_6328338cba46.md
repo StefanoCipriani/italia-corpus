@@ -52,7 +52,7 @@ La ferma dei requisiti e degli accettati in sconto delle leve operate dall'anno 
 
 I requisiti e gli accettati in conto delle leve posteriori a quella dell'anno 1857, di cui non fosse avvenuta la consegna per parte del Governo Austriaco perche' gia' si fossero resi disertori da quell'Esercito, o perche' se ne fossero in qualsivoglia modo tenuti lontani, dovranno presentarsi al Comando militare della rispettiva Provincia per essere descritti nei ruoli relativi. 
  
- Non presentandosi senza giustificato motivo nei sessanta giorni successivi a quello della pubblicazione del presente Decreto, saranno dalle competenti Autorita' dichiarati disertori, ed incorreranno nelle pene per tal reato comminate dal Nostro [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare.
+ Non presentandosi senza giustificato motivo nei sessanta giorni successivi a quello della pubblicazione del presente Decreto, saranno dalle competenti Autorita' dichiarati disertori, ed incorreranno nelle pene per tal reato comminate dal Nostro [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare.
 
 ## Art. 4.
 

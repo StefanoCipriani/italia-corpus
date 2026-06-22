@@ -98,7 +98,7 @@ Durante il periodo feriale non possono essere trattate che le cause indicate nel
 
 ### Art. 16.
 
-Il convenuto ha facolta' di proporre opposizione, in via incidentale, alla prima udienza, contro il decreto di urgenza. Su tale incidente provvede senza dilazione il presidente, in conformita' dell'articolo 12 della legge sul procedimento sommario 31 marzo 1901, n. 107, e dell'art. 40 delle disposizioni pel coordinamento ed attuazione della legge medesima, approvate con [R. decreto 31 agosto 1901, n. 413](../Regi%20decreti/contenente%20disposizioni%20per%20lattuazione%20della%20legge%2031%20marzo%201901%20n.%20107%20sulla%20riforma%20del%20procedimento%20sommario%20e%20di%20coordinamento%20col%20Codice%20di%20procedura%20civile%20e%20con%20le%20altre%20leggi%20001U0413.md). 
+Il convenuto ha facolta' di proporre opposizione, in via incidentale, alla prima udienza, contro il decreto di urgenza. Su tale incidente provvede senza dilazione il presidente, in conformita' dell'articolo 12 della legge sul procedimento sommario 31 marzo 1901, n. 107, e dell'art. 40 delle disposizioni pel coordinamento ed attuazione della legge medesima, approvate con [R. decreto 31 agosto 1901, n. 413](contenente%20disposizioni%20per%20lattuazione%20della%20legge%2031%20marzo%201901%20n.%20107%20sulla%20riforma%20del%20procedimento%20sommario%20e%20di%20coordinamento%20col%20Codice%20di%20procedura%20civile%20e%20con%20le%20altre%20leggi%20001U0413.md). 
  
  L'ordinanza del presidente non e' soggetta a reclamo. Qualora la dichiarazione di urgenza sia revocata, il presidente stabilisce con la medesima ordinanza l'udienza, posteriore al periodo feriale, a cui la causa e' rinviata.
 

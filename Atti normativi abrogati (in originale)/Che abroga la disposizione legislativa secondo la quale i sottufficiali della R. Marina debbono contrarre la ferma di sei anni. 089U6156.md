@@ -22,7 +22,7 @@ UMBERTO I
  
  Articolo unico. 
  
- E' abrogata la disposizione contenuta nell'art. 85 del testo unico delle leggi sulla leva di mare approvato con [Regio decreto del 16 dicembre 1888, N. 5860](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md) (Serie 3ª), secondo la quale i sott'ufficiali della R. Marina debbono contrarre la ferma di sei anni. 
+ E' abrogata la disposizione contenuta nell'art. 85 del testo unico delle leggi sulla leva di mare approvato con [Regio decreto del 16 dicembre 1888, N. 5860](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md) (Serie 3ª), secondo la quale i sott'ufficiali della R. Marina debbono contrarre la ferma di sei anni. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

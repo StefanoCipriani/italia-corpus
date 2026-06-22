@@ -14,7 +14,7 @@ L'ordinamento provvisorio per l'esercizio delle ferrovie dello Stato sancito dal
 
 ## Art. 2.
 
-Il [R. decreto 22 febbraio 1906, n. 36](../Regi%20decreti/Concernente%20provvedimenti%20di%20urgenza%20per%20migliorare%20le%20condizioni%20di%20servizio%20delle%20ferrovie%20dello%20Stato.%20006U0036.md), che approva provvedimenti di urgenza per migliorare le condizioni di servizio delle ferrovie dello Stato, e' convertito in legge con modificazioni agli articoli 2, 3, 4, 5 nel testo seguente: 
+Il [R. decreto 22 febbraio 1906, n. 36](Concernente%20provvedimenti%20di%20urgenza%20per%20migliorare%20le%20condizioni%20di%20servizio%20delle%20ferrovie%20dello%20Stato.%20006U0036.md), che approva provvedimenti di urgenza per migliorare le condizioni di servizio delle ferrovie dello Stato, e' convertito in legge con modificazioni agli articoli 2, 3, 4, 5 nel testo seguente: 
  
  Art. 1. - La facolta' attribuita all'Amministrazione delle ferrovie dall'art. 117, lettera o), delle vigenti tariffe e condizioni pei trasporti, di ridurre fino di un terzo il termine per il ritiro della merce, e di aumentare di un terzo i diritti di deposito o di sosta, puo' estendersi, per ottenere una migliore utilizzazione del materiale rotabile, anche alle stazioni non ingombre durante i periodi di traffico piu' intenso. 
  
@@ -71,7 +71,7 @@ La Direzione generale delle ferrovie dello Stato pubblichera' entro il mese di a
 
 ## Art. 7.
 
-Per gli impiegati provenienti dall'Amministrazione centrale dei lavori pubblici e dal R. Ispettorato generale delle strade ferrate, se appartenenti al ruolo organico, si applicano, per quanto riguarda il trattamento di pensione, le disposizioni dell'art. 48 del testo unico delle leggi sulle pensioni civili e militari, approvato col [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
+Per gli impiegati provenienti dall'Amministrazione centrale dei lavori pubblici e dal R. Ispettorato generale delle strade ferrate, se appartenenti al ruolo organico, si applicano, per quanto riguarda il trattamento di pensione, le disposizioni dell'art. 48 del testo unico delle leggi sulle pensioni civili e militari, approvato col [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
  
  L'importo della pensione o dell'indennita' spettante sara' ripartito fra il tesoro e l'Amministrazione delle ferrovie dello Stato in ragione della somma totale degli stipendi che saranno stati corrisposti agli impiegati prima e dopo il loro passaggio alle ferrovie dello Stato. 
  

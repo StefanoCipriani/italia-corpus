@@ -14,7 +14,7 @@ Il [R. decreto 2 maggio 1915, n. 634](https://www.normattiva.it/uri-res/N2Ls?urn
 
 ## Art. 2.
 
-Il [R. decreto 29 ottobre 1920, n. 1625](../Regi%20decreti/Che%20proroga%20di%20sei%20mesi%20la%20durata%20in%20vigore%20del%20R.%20decreto%202%20maggio%201915%20n.%20634%20relativo%20al%20soggiorno%20degli%20stranieri%20nel%20Regno%20modificato%20col%20decreto%20Luogotenenziale%2023%20luglio%201916%20n.%20895.%20020U1625.md), che proroga di sei mesi la durata in vigore del [R. decreto 2 maggio 1915, n. 634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-02;634), circa il soggiorno degli stranieri in Italia e' ratificato. 
+Il [R. decreto 29 ottobre 1920, n. 1625](Che%20proroga%20di%20sei%20mesi%20la%20durata%20in%20vigore%20del%20R.%20decreto%202%20maggio%201915%20n.%20634%20relativo%20al%20soggiorno%20degli%20stranieri%20nel%20Regno%20modificato%20col%20decreto%20Luogotenenziale%2023%20luglio%201916%20n.%20895.%20020U1625.md), che proroga di sei mesi la durata in vigore del [R. decreto 2 maggio 1915, n. 634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-02;634), circa il soggiorno degli stranieri in Italia e' ratificato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

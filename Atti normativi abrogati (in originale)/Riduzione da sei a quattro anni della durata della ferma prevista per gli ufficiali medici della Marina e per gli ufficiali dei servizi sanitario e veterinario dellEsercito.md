@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), e successive modificazioni;
 
-Visto il testo unico delle leggi sul reclutamento degli ufficiali dell'Esercito, approvato con [regio decreto 14 marzo 1938, n. 596](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni;
+Visto il testo unico delle leggi sul reclutamento degli ufficiali dell'Esercito, approvato con [regio decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Per gli ufficiali del Corpo sanitario militare marittimo (medici) la ferma di se
 
 ## Art. 2.
 
-Per gli ufficiali dei Servizi sanitario (medici e farmacisti) e veterinario dell'Esercito, il termine concernente il divieto di chiedere la dispensa dal servizio permanente - di cui al terz'ultimo comma dell'art. 12 del testo unico sul reclutamento degli ufficiali dell'Esercito, approvato con [regio decreto 14 marzo 1938, numero 596](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni - e' ridotto da sei a quattro anni.
+Per gli ufficiali dei Servizi sanitario (medici e farmacisti) e veterinario dell'Esercito, il termine concernente il divieto di chiedere la dispensa dal servizio permanente - di cui al terz'ultimo comma dell'art. 12 del testo unico sul reclutamento degli ufficiali dell'Esercito, approvato con [regio decreto 14 marzo 1938, numero 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni - e' ridotto da sei a quattro anni.
 
 ## Art. 3.
 

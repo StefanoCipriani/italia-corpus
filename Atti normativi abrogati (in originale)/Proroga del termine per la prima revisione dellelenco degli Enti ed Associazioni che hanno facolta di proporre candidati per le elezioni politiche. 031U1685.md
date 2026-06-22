@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Agli effetti della prima revisione del [R. decreto 17 gennaio 1929, n. 13](../Regi%20decreti/Riconoscimento%20agli%20enti%20ed%20associazioni%20di%20cui%20allart.%2051%20della%20legge%20elettorale%20politica%20della%20facolta%20di%20proporre%20candidati.%20029U0013.md), relativo al riconoscimento della facolta' di proporre candidati da parte degli Enti morali e delle Associazioni, di cui all'art. 51 della legge elettorale politica, e' prorogato di un anno il termine stabilito nel secondo comma dell'articolo stesso. 
+ Agli effetti della prima revisione del [R. decreto 17 gennaio 1929, n. 13](Riconoscimento%20agli%20enti%20ed%20associazioni%20di%20cui%20allart.%2051%20della%20legge%20elettorale%20politica%20della%20facolta%20di%20proporre%20candidati.%20029U0013.md), relativo al riconoscimento della facolta' di proporre candidati da parte degli Enti morali e delle Associazioni, di cui all'art. 51 della legge elettorale politica, e' prorogato di un anno il termine stabilito nel secondo comma dell'articolo stesso. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 28 dicembre 1931 - Anno X 
  

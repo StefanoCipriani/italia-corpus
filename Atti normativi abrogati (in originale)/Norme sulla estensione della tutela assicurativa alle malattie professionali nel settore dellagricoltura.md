@@ -44,7 +44,7 @@ Quando per l'incertezza (dei sintomi e la difficolta' della diagnosi la malattia
 
 ## Art. 5.
 
-Nell'erogazione delle prestazioni sanitarie non si applica la condizione prevista al [secondo comma dell'articolo 5 del decreto legislativo luogotenenziale 8 febbraio 1946, n. 85](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura.md), nei confronti delle persone di cui alla [lettera b) dell'art. 1 del decreto-legge luogotenenziale 23 agosto 1917, n. 1450](Concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura.%20017U1450.md).
+Nell'erogazione delle prestazioni sanitarie non si applica la condizione prevista al [secondo comma dell'articolo 5 del decreto legislativo luogotenenziale 8 febbraio 1946, n. 85](Modificazioni%20allassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura.md), nei confronti delle persone di cui alla [lettera b) dell'art. 1 del decreto-legge luogotenenziale 23 agosto 1917, n. 1450](Concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura.%20017U1450.md).
 
 ## Art. 6.
 

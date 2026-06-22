@@ -18,7 +18,7 @@ VITTORIO EMANUELE II
  
  Veduto il Nostro Decreto del 28 novembre 1867, n. 4081, con cui vennero soppressi vari Uffici di finanza nelle Provincie Venete e di Mantova e fu provveduto al passaggio del servizio finanziario ad altri Uffici di nuovo istituiti; 
  
- Veduti i numeri 522, 777 e 798 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) di finanza 11 luglio 1835, vigente tuttora nelle Provincie Venete e di Mantova; 
+ Veduti i numeri 522, 777 e 798 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) di finanza 11 luglio 1835, vigente tuttora nelle Provincie Venete e di Mantova; 
  
  Sulla proposta dei Ministri di Grazia e Giustizia e delle Finanze; 
  

@@ -12,7 +12,7 @@ vigente: true
 
 A decorrere dal 1° gennaio 1919 e fino al 31 dicembre 1920 e' conceduto un assegno temporaneo mensile a favore dei titolari di pensioni ed assegni privilegiati di guerra, nella misura stabilita dall'annessa tabella firmata, d'ordine Nostro, dal ministro proponente. 
  
- L'assegno predetto non e' riversibile e alla concessione del medesimo non e' di ostacolo la limitazione fissata dall'art. 76 del testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
+ L'assegno predetto non e' riversibile e alla concessione del medesimo non e' di ostacolo la limitazione fissata dall'art. 76 del testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
  
  Restano invariate le disposizioni circa gli assegni supplementari a favore dei grandi invalidi.
 

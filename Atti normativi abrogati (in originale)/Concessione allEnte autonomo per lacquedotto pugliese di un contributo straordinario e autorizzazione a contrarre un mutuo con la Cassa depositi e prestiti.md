@@ -25,7 +25,7 @@ E' concesso un contributo straordinario di lire trenta milioni a favore dell'Ent
 ## Art. 2.
 
 La Cassa Depositi e prestiti e' autorizzata a concedere un mutuo di lire centoventi milioni all'Ente autonomo per l'acquedotto pugliese affinche' questo possa provvedere alle maggiori spese di carattere obbligatorio sopravvenute a carico del proprio bilancio.
- La concessione del mutuo e' effettuata con le condizioni e con le modalita' previste dal [decreto legislativo luogotenenziale 14 settembre 1945, n. 620](../Decreti%20legislativi%20luogotenenziali/Concessione%20da%20parte%20della%20Cassa%20depositi%20e%20prestiti%20di%20una%20mutuo%20di%20L.%2085.000.000%20allEnte%20autonomo%20dellacquedotto%20pugliese.%20045U0620.md).
+ La concessione del mutuo e' effettuata con le condizioni e con le modalita' previste dal [decreto legislativo luogotenenziale 14 settembre 1945, n. 620](Concessione%20da%20parte%20della%20Cassa%20depositi%20e%20prestiti%20di%20una%20mutuo%20di%20L.%2085.000.000%20allEnte%20autonomo%20dellacquedotto%20pugliese.%20045U0620.md).
 
 ## Art. 3.
 

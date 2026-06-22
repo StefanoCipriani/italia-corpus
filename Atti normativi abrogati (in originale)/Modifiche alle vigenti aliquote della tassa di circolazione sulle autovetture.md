@@ -20,7 +20,7 @@ La tariffa C allegata alla [legge 21 maggio 1955, n. 463](https://www.normattiva
 
 ## Art. 2.
 
-L'art. 5 del testo unico delle leggi sulle tasse automobilistiche, approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39, alla lettera a) del secondo comma](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), e' modificato come segue: "a) per l'intero anno solare, con diritto alla riduzione del 3 per cento dell'ammontare del tributo dovuto".
+L'art. 5 del testo unico delle leggi sulle tasse automobilistiche, approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39, alla lettera a) del secondo comma](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), e' modificato come segue: "a) per l'intero anno solare, con diritto alla riduzione del 3 per cento dell'ammontare del tributo dovuto".
 
 ## Art. 3.
 

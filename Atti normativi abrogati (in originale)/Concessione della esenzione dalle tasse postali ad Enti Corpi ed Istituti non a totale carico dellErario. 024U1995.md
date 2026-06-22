@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto del 16 novembre 1921, n. 1825](../Regi%20decreti/Che%20reca%20norme%20per%20la%20franchigia%20postale%20e%20telegrafica.%20021U1825.md);
+Visto il [R. decreto del 16 novembre 1921, n. 1825](Che%20reca%20norme%20per%20la%20franchigia%20postale%20e%20telegrafica.%20021U1825.md);
 
-Visto il [R. decreto dell'11 febbraio 1923, n. 426](../Regi%20decreti/Riguardante%20la%20dotazione%20speciale%20di%20appositi%20francobolli%20per%20laffrancatura%20ordinaria%20della%20corrispondenza%20ufficiale%20concessa%20ad%20Enti%20Corpi%20od%20Istituti%20non%20statali.%20023U0426.md);
+Visto il [R. decreto dell'11 febbraio 1923, n. 426](Riguardante%20la%20dotazione%20speciale%20di%20appositi%20francobolli%20per%20laffrancatura%20ordinaria%20della%20corrispondenza%20ufficiale%20concessa%20ad%20Enti%20Corpi%20od%20Istituti%20non%20statali.%20023U0426.md);
 
-Visto il regolamento approvato con [R. decreto del 9 luglio 1923, n. 1902](../Regi%20decreti/Francatura%20ed%20esenzione%20dalle%20tasse%20postali%20del%20carteggio%20ordinario%20degli%20Enti%20Corpi%20od%20Istituti%20non%20statali.%20023U1902.md);
+Visto il regolamento approvato con [R. decreto del 9 luglio 1923, n. 1902](Francatura%20ed%20esenzione%20dalle%20tasse%20postali%20del%20carteggio%20ordinario%20degli%20Enti%20Corpi%20od%20Istituti%20non%20statali.%20023U1902.md);
 
 Visto il [R. decreto del 23 maggio 1924, n. 955](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;955);
 
@@ -54,7 +54,7 @@ Per poter essere ammessi al beneficio di cui agli articoli precedenti, gli Enti,
 
 ## Art. 6.
 
-Gli Enti, Corpi ed Istituti le cui spese non sono a totale carico dell'Erario, e che, all'entrata in vigore del presente decreto, godono della esenzione dalle tasse postali con il sistema dei francobolli speciali di cui agli [articoli 2 e seguenti del R. decreto 11 febbraio 1923, n. 426](../Regi%20decreti/Riguardante%20la%20dotazione%20speciale%20di%20appositi%20francobolli%20per%20laffrancatura%20ordinaria%20della%20corrispondenza%20ufficiale%20concessa%20ad%20Enti%20Corpi%20od%20Istituti%20non%20statali.%20023U0426.md), continueranno a godere della esenzione stessa, con i limiti e le modalita' che saranno per ciascuno di essi stabiliti, fermo pero' restando il loro obbligo di corrispondere pel tramite dei Ministeri interessati, all'Amministrazione delle poste, dal 1° gennaio 1925, la somma fissa annua di L. 2000, di cui all'articolo precedente.
+Gli Enti, Corpi ed Istituti le cui spese non sono a totale carico dell'Erario, e che, all'entrata in vigore del presente decreto, godono della esenzione dalle tasse postali con il sistema dei francobolli speciali di cui agli [articoli 2 e seguenti del R. decreto 11 febbraio 1923, n. 426](Riguardante%20la%20dotazione%20speciale%20di%20appositi%20francobolli%20per%20laffrancatura%20ordinaria%20della%20corrispondenza%20ufficiale%20concessa%20ad%20Enti%20Corpi%20od%20Istituti%20non%20statali.%20023U0426.md), continueranno a godere della esenzione stessa, con i limiti e le modalita' che saranno per ciascuno di essi stabiliti, fermo pero' restando il loro obbligo di corrispondere pel tramite dei Ministeri interessati, all'Amministrazione delle poste, dal 1° gennaio 1925, la somma fissa annua di L. 2000, di cui all'articolo precedente.
 
 ## Art. 7.
 

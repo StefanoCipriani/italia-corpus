@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Ai componenti e ai segretari della Commissione centrale dei valori per le dogane, riordinata con il [Regio decreto del 22 gennaio 1911, n. 78](../Regi%20decreti/Che%20stabilisce%20la%20composizione%20della%20Commissione%20centrale%20dei%20valori%20per%20le%20dogane.%20011U0078.md), e' assegnata una medaglia di presenza di L. 10 per ogni giornata di adunanza alla quale prendano parte. 
+Ai componenti e ai segretari della Commissione centrale dei valori per le dogane, riordinata con il [Regio decreto del 22 gennaio 1911, n. 78](Che%20stabilisce%20la%20composizione%20della%20Commissione%20centrale%20dei%20valori%20per%20le%20dogane.%20011U0078.md), e' assegnata una medaglia di presenza di L. 10 per ogni giornata di adunanza alla quale prendano parte. 
  
  A quelli fra i detti componenti (esclusi i funzionari governativi) che risiedono abitualmente fuori di Roma sono rimborsato le spese di viaggio per ferrovia (biglietto di 1ª classe), ed e' assegnata l'indennita' giornaliera di L. 15, compresi anche i giorni impiegati nel viaggio di andata e in quello di ritorno e detratti quelli nei quali essi non siano intervenuti alle adunanze. 
  

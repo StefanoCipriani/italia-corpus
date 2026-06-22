@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  «Ogni qualvolta la Commissione d'inchiesta abbia espresso il parere che il sinistro sia avvenuto per dolo, colpa, negligenza, imperizia, inosservanza di regolamenti, ordini o discipline da parte di persone dell'equipaggio, dette persone sono sospese dal grado e dall'esercizio della navigazione in attesa delle decisioni dell'autorita' giudiziaria, sempre che si riscontrino nel fatto elementi di imputabilita': 
  
- a) per qualsiasi delitto previsto dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dal Codice per la marina mercantile del Regno, dal Codice per la marina mercantile della Tripolitania e Cirenaica, da leggi speciali; 
+ a) per qualsiasi delitto previsto dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dal Codice per la marina mercantile del Regno, dal Codice per la marina mercantile della Tripolitania e Cirenaica, da leggi speciali; 
  
  b) ovvero per alcuno dei reati previsti dagli articoli 352, 353, 354, 355, 356, 357, 358, 363, 364, 367, 368, 370, 372, 390 lettera a), 392, 404, 405, 406, 424 del Codice per la marina mercantile del Regno; 
  

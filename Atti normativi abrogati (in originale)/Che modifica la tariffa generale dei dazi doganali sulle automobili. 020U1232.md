@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico della tariffa dei dazi doganali, approvato con [R. decreto 28 luglio 1910, n. 577](../Regi%20decreti/Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md);
+Visto il testo unico della tariffa dei dazi doganali, approvato con [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md);
 
 Sulla proposta del ministro dell'industria e del commercio, di concerto col ministro delle finanze;
 
@@ -22,7 +22,7 @@ Udito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Nel testo unico della tariffa generale dei dazi doganali, approvato con [R. decreto del 28 luglio 1910, n. 577](../Regi%20decreti/Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md), alle voci 327 b) e 329 a), b) e c), e' sostituita la seguente:
+Nel testo unico della tariffa generale dei dazi doganali, approvato con [R. decreto del 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md), alle voci 327 b) e 329 a), b) e c), e' sostituita la seguente:
 
 329.
 

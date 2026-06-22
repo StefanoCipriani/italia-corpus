@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 7 luglio 1907, n. 547](../Regi%20decreti/Varianti%20al%20regolamento%20degli%20assegni%20speciali%20di%20bordo.%20007U0547.md), che approva il regolamento sugli assegni speciali di bordo, e le successive sue modificazioni; 
+ Visto il [R. decreto 7 luglio 1907, n. 547](Varianti%20al%20regolamento%20degli%20assegni%20speciali%20di%20bordo.%20007U0547.md), che approva il regolamento sugli assegni speciali di bordo, e le successive sue modificazioni; 
  
  Udito il Consiglio superiore di marina; 
  

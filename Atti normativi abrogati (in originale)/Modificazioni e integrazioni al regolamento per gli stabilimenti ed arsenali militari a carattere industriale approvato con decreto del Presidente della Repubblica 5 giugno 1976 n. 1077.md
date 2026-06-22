@@ -197,7 +197,7 @@ Gli articoli 6, 8, 9, 10, 13, 15, 18, 22, 27, 29, 30, 32, 33, 41, 45, 48, 66, 67
  3) produzione di acqua distillata e distribuzione di energia elettrica al naviglio. 
  
  8ª Categoria: INSTALLAZIONE E TRASFORMAZIONE DEGLI IMPIANTI E MACCHINARI DEGLI STABILIMENTI E ARSENALI. 
- Essa comprende i lavori accessori connessi con la installazione e la trasformazione degli impianti e macchinari degli stabilimenti e arsenali con esclusione dei lavori di competenza del genio militare ai sensi del regolamento approvato con [regio decreto 17 marzo 1932, n. 365](../Regi%20decreti/Approvazione%20del%20regolamento%20sui%20lavori%20del%20genio%20militare.%20032U0365.md), e successive modificazioni. 
+ Essa comprende i lavori accessori connessi con la installazione e la trasformazione degli impianti e macchinari degli stabilimenti e arsenali con esclusione dei lavori di competenza del genio militare ai sensi del regolamento approvato con [regio decreto 17 marzo 1932, n. 365](Approvazione%20del%20regolamento%20sui%20lavori%20del%20genio%20militare.%20032U0365.md), e successive modificazioni. 
  La categoria e' suddivisa nei seguenti gruppi: 
  1) lavori riguardanti gli impianti e i macchinari dei bacini di carenaggio; 
  2) lavori riguardanti tutti gli altri impianti e macchinari degli stabilimenti e arsenali. 

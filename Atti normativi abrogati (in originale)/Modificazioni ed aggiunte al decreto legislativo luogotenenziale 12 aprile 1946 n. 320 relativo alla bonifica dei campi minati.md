@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), relativo alla bonifica di campi minati;
+Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 320](Bonifica%20dei%20campi%20minati.md), relativo alla bonifica di campi minati;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -22,12 +22,12 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la d
 
 ## Art. 1.
 
-All'[art. 10 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), e' aggiunto il seguente comma:
+All'[art. 10 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](Bonifica%20dei%20campi%20minati.md), e' aggiunto il seguente comma:
  "Alle vedove ed agli orfani degli addetti alle operazioni di bonifica di immobili minati, deceduti in seguito a lesioni incontrate nell'espletamento delle operazioni di bonifica suddette, sono estese tutte le norme di assistenza e protezione previste per le vedove e gli orfani di guerra".
 
 ## Art. 2.
 
-L'[art. 11 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), e' sostituito dal seguente:
+L'[art. 11 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](Bonifica%20dei%20campi%20minati.md), e' sostituito dal seguente:
  "L'assicurazione obbligatoria contro gli infortuni sul lavoro degli addetti ai lavori di bonifica dei campi minati e' a carico dello Stato, si tratti o non di personale specializzato di cui all'art. 1, anche se dipendente dai proprietari autorizzati ad eseguire direttamente lavori di bonifica a norma dell'art. 7, o da ditte cui siano stati concessi in appalto i lavori medesimi a norma dell'art. 8.
  Le normali indennita' dovute in base alla legge sull'assicurazione obbligatoria contro gli infortuni sul lavoro sono, ad eccezione dell'indennita' giornaliera per la inabilita' temporanea, raddoppiate in caso di infortunio occorso, per scoppio di ordigni esplosivi, in occasione dei lavori di bonifica di campi minati, al personale specializzato di cui all'art. 1, addetto ai lavori medesimi.
  Nei casi di infortunio previsti dal comma precedente, in aggiunta
@@ -42,37 +42,37 @@ L'[art. 11 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../De
 
 ## Art. 3.
 
-Agli effetti del [decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), e del presente sono assicurati:
- a) il personale dirigente specializzato, impiegato in forza dell'art. 7, secondo comma, e dell'art. 8, ultimo comma, del [decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), qualunque sia l'ammontare della sua retribuzione;
+Agli effetti del [decreto legislativo luogotenenziale 12 aprile 1946, n. 320](Bonifica%20dei%20campi%20minati.md), e del presente sono assicurati:
+ a) il personale dirigente specializzato, impiegato in forza dell'art. 7, secondo comma, e dell'art. 8, ultimo comma, del [decreto legislativo luogotenenziale 12 aprile 1946, n. 320](Bonifica%20dei%20campi%20minati.md), qualunque sia l'ammontare della sua retribuzione;
  b) coloro che siano stati regolarmente ammessi alla frequenza dei corsi per la formazione del personale specializzato.
  Al personale di cui alla precedente lettera b) in caso di infortunio occorso durante lo svolgimento dei corsi suddetti per scoppio di ordigni esplosivi, si applichera' il trattamento previsto per il personale specializzato.
 
 ## Art. 4.
 
-Nel [terzo comma dell'art. 12 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), alla parola "secondo" e' sostituita la parola "terzo".
+Nel [terzo comma dell'art. 12 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](Bonifica%20dei%20campi%20minati.md), alla parola "secondo" e' sostituita la parola "terzo".
  Al citato art. 12 e' inoltre aggiunto il seguente comma:
  "La disposizione di cui al precedente comma si applica anche al personale dello Stato incaricato dello svolgimento dei corsi per formazione di personale specializzato, di cui all'art. 1, e alle rispettive famiglie, in caso di infortunio occorso durante lo svolgimento dei corsi stessi, per scoppio di ordigni esplosivi".
 
 ## Art. 5.
 
-La gestione, per conto dello Stato, delle prestazioni previste dal [decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), e dal presente decreto e' affidata all'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro.
+La gestione, per conto dello Stato, delle prestazioni previste dal [decreto legislativo luogotenenziale 12 aprile 1946, n. 320](Bonifica%20dei%20campi%20minati.md), e dal presente decreto e' affidata all'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro.
  Le relative norme saranno emanate con decreto del Ministro per il tesoro, di concerto col Ministro per il lavoro e la previdenza sociale e col Ministro per la difesa.
 
 ## Art. 6.
 
-I proprietari di immobili ed i concessionari di terreni demaniali, arenili e spiagge hanno l'obbligo di denunciare ai Comuni, entro il termine che sara' stabilito dalle norme di attuazione al [decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), gli immobili minati o sospetti minati che si trovino nel territorio dei Comuni stessi.
+I proprietari di immobili ed i concessionari di terreni demaniali, arenili e spiagge hanno l'obbligo di denunciare ai Comuni, entro il termine che sara' stabilito dalle norme di attuazione al [decreto legislativo luogotenenziale 12 aprile 1946, n. 320](Bonifica%20dei%20campi%20minati.md), gli immobili minati o sospetti minati che si trovino nel territorio dei Comuni stessi.
  Chi omette la denuncia prescritta dal comma precedente e' punito con la multa da L. 5000 a L. 50.000, salve le eventuali responsabilita' per infortuni o danni che potessero derivare dalla mancata denuncia.
 
 ## Art. 7.
 
-Tutti coloro cui e' affidata l'esecuzione dei lavori di bonifica sono obbligati ad assumere ed impiegare nei lavori stessi esclusivamente personale specializzato a norma del [decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md).
+Tutti coloro cui e' affidata l'esecuzione dei lavori di bonifica sono obbligati ad assumere ed impiegare nei lavori stessi esclusivamente personale specializzato a norma del [decreto legislativo luogotenenziale 12 aprile 1946, n. 320](Bonifica%20dei%20campi%20minati.md).
  Coloro che impiegano nei lavori di bonifica personale non specializzato ai sensi del citato decreto n. 320, sono puniti con la multa da L. 10.000 a. L. 50.000.
  In caso di recidiva, sara' rescisso, in via amministrativa, il contratto e sara' incamerata la cauzione, se trattisi di lavori concessi in appalto, altrimenti sara' disposta la sospensione dei lavori stessi. Nell'uno e nell'altro caso i lavori saranno eseguiti in danno delle ditte e dei privati.
- Tali condizioni dovranno risultare nelle clausole contrattuali e nelle prescrizioni di cui al [primo commi dell'art. 7 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md).
+ Tali condizioni dovranno risultare nelle clausole contrattuali e nelle prescrizioni di cui al [primo commi dell'art. 7 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](Bonifica%20dei%20campi%20minati.md).
 
 ## Art. 8.
 
-L'[art. 8 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), e' sostituito dal seguente:
+L'[art. 8 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](Bonifica%20dei%20campi%20minati.md), e' sostituito dal seguente:
  "I lavori di bonifica previsti dal presente decreto possono essere dall'Amministrazione militare eseguiti in gestione diretta o mediante appalto.
  Nell'appalto dei lavori sara' data, a parita' di condizioni, preferenza alle cooperative costituite da reduci di guerra o da partigiani.
  A tale fine l'importo dei lavori che possono essere affidati a dette cooperative, sia per licitazione sia per trattative private, non e' soggetto ad alcuna limitazione.
@@ -87,7 +87,7 @@ I rapporti contrattuali, sorti prima dell'entrata in vigore del presente decreto
 
 ## Art. 10.
 
-Le disposizioni degli [articoli 10](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), [11](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md) e [12 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), quali risultano modificate dal presente decreto, si applicano anche al personale che, dopo l'entrata in vigore del decreto stesso, sia stato addetto al rastrellamento o brillamento di ordigni esplosivi diversi dalle mine.
+Le disposizioni degli [articoli 10](Bonifica%20dei%20campi%20minati.md), [11](Bonifica%20dei%20campi%20minati.md) e [12 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](Bonifica%20dei%20campi%20minati.md), quali risultano modificate dal presente decreto, si applicano anche al personale che, dopo l'entrata in vigore del decreto stesso, sia stato addetto al rastrellamento o brillamento di ordigni esplosivi diversi dalle mine.
 
 ## Art. 11.
 

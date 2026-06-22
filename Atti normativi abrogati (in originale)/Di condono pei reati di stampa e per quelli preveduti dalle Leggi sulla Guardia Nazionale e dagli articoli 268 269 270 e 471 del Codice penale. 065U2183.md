@@ -22,7 +22,7 @@ Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
 
 E' abolita l'azione penale, e sono condonate le pene pronunciate per i seguenti reati commessi fino alla data del presente Decreto: 
  
- 1.° Per i reati preveduti dagli [articoli 268](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [269](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [270](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [471 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 1.° Per i reati preveduti dagli [articoli 268](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [269](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [270](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [471 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  2.° Pei reati di stampa di pubblica azione; 
  

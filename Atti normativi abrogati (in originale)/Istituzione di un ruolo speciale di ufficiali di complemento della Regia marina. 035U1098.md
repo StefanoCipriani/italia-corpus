@@ -59,7 +59,7 @@ Per l'avanzamento nel ruolo speciale non sono prescritti esami ne' corsi d'istru
  
  Le promozioni nel ruolo speciale avranno luogo distintamente per ciascun corpo e saranno effettuate col criterio dell'anzianita' per i guardiamarina ed i sottotenenti per la Direzione macchine, ed a scelta assoluta per i sottotenenti di vascello ed i tenenti per la Direzione macchine, indipendentemente dal posto da essi gia' occupato nel corrispondente ruolo ordinario di ufficiali di complemento. 
  
- Le condizioni di imbarco per la promozione sono quelle stabilite per i pari grado del S.P.E.; quelle minime di permanenza nel grado sono di anni tre per i guardiamarina e sottotenenti per la Direzione macchine e di anni sette per i sottotenenti di vascello e tenenti per la Direzione macchine, fermo restando in ogni caso il disposto del 1° comma dell'articolo 75 del testo unico delle leggi sullo avanzamento degli ufficiali della Regia marina, approvato con [Regio decreto 7 novembre 1929, n. 2007](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e successive modificazioni.
+ Le condizioni di imbarco per la promozione sono quelle stabilite per i pari grado del S.P.E.; quelle minime di permanenza nel grado sono di anni tre per i guardiamarina e sottotenenti per la Direzione macchine e di anni sette per i sottotenenti di vascello e tenenti per la Direzione macchine, fermo restando in ogni caso il disposto del 1° comma dell'articolo 75 del testo unico delle leggi sullo avanzamento degli ufficiali della Regia marina, approvato con [Regio decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e successive modificazioni.
 
 ## Art. 5.
 
@@ -91,7 +91,7 @@ Agli ufficiali di complemento del ruolo speciale, che lasciano il servizio in ap
 
 ## Art. 8.
 
-L'ufficiale di complemento che, per il motivo di cui alla lettera a) del precedente articolo 5, cessa di appartenere al ruolo speciale istituito con la presente legge, consegue, all'atto della cessazione, se ritenuto idoneo, la promozione al grado superiore nel ruolo ordinario degli ufficiali di complemento del proprio Corpo, fermo restando pero' il disposto del 1° comma dell'articolo 75 del testo unico delle leggi sull'avanzamento degli ufficiali della Regia marina, approvato con [Regio decreto 7 novembre 1929, n. 2007](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e sue successive modificazioni.
+L'ufficiale di complemento che, per il motivo di cui alla lettera a) del precedente articolo 5, cessa di appartenere al ruolo speciale istituito con la presente legge, consegue, all'atto della cessazione, se ritenuto idoneo, la promozione al grado superiore nel ruolo ordinario degli ufficiali di complemento del proprio Corpo, fermo restando pero' il disposto del 1° comma dell'articolo 75 del testo unico delle leggi sull'avanzamento degli ufficiali della Regia marina, approvato con [Regio decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e sue successive modificazioni.
 
 ## Art. 9.
 

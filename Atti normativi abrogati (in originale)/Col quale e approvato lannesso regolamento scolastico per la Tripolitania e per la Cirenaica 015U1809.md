@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduti i [Regi decreti 15 gennaio 1914, n. 56](../Regi%20decreti/col%20quale%20viene%20approvato%20lordinamento%20scolastico%20della%20Tripolitana%20e%20della%20Cirenaica.%20014U0056.md), e [21 febbraio 1915, n. 250](../Regi%20decreti/Col%20quale%20vengono%20apportate%20alcune%20modificazioni%20allordinamento%20scolastico%20per%20la%20Tripolitania%20e%20per%20la%20Cirenaica%20approvato%20con%20R.%20decreto%2015%20gennaio%201914%20n.%2056%20015U0250.md); 
+ Veduti i [Regi decreti 15 gennaio 1914, n. 56](col%20quale%20viene%20approvato%20lordinamento%20scolastico%20della%20Tripolitana%20e%20della%20Cirenaica.%20014U0056.md), e [21 febbraio 1915, n. 250](Col%20quale%20vengono%20apportate%20alcune%20modificazioni%20allordinamento%20scolastico%20per%20la%20Tripolitania%20e%20per%20la%20Cirenaica%20approvato%20con%20R.%20decreto%2015%20gennaio%201914%20n.%2056%20015U0250.md); 
  
  Veduto il [decreto Luogotenenziale 17 giugno 1915, n. 1108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-17;1108); 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- E' approvato il regolamento scolastico per la Tripolitania e per la Cirenaica, in esecuzione dell'ordinamento dato con [R. decreto 15 gennaio 1914, n. 56](../Regi%20decreti/col%20quale%20viene%20approvato%20lordinamento%20scolastico%20della%20Tripolitana%20e%20della%20Cirenaica.%20014U0056.md) e modificato con [R. decreto 21 febbraio 1915, n. 250](../Regi%20decreti/Col%20quale%20vengono%20apportate%20alcune%20modificazioni%20allordinamento%20scolastico%20per%20la%20Tripolitania%20e%20per%20la%20Cirenaica%20approvato%20con%20R.%20decreto%2015%20gennaio%201914%20n.%2056%20015U0250.md), e con [decreto Luogotenenziale 17 giugno 1915, n. 1108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-17;1108); regolamento annesso al presente decreto e firmato, d'ordine Nostro, dai ministri predetti. 
+ E' approvato il regolamento scolastico per la Tripolitania e per la Cirenaica, in esecuzione dell'ordinamento dato con [R. decreto 15 gennaio 1914, n. 56](col%20quale%20viene%20approvato%20lordinamento%20scolastico%20della%20Tripolitana%20e%20della%20Cirenaica.%20014U0056.md) e modificato con [R. decreto 21 febbraio 1915, n. 250](Col%20quale%20vengono%20apportate%20alcune%20modificazioni%20allordinamento%20scolastico%20per%20la%20Tripolitania%20e%20per%20la%20Cirenaica%20approvato%20con%20R.%20decreto%2015%20gennaio%201914%20n.%2056%20015U0250.md), e con [decreto Luogotenenziale 17 giugno 1915, n. 1108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-17;1108); regolamento annesso al presente decreto e firmato, d'ordine Nostro, dai ministri predetti. 
  
  Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

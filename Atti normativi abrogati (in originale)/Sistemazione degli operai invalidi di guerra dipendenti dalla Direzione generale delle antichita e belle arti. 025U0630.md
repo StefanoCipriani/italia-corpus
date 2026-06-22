@@ -14,9 +14,9 @@ PER GRAZIA Di DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il testo unico di legge sul trattamento economico e giuridico dei salariati dello Stato approvato con [R. decreto 24 dicembre 1924, n. 2114](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md);
+Veduto il testo unico di legge sul trattamento economico e giuridico dei salariati dello Stato approvato con [R. decreto 24 dicembre 1924, n. 2114](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md);
 
-Veduto il regolamento per l'esecuzione del testo unico predetto approvato col [R. decreto 31 dicembre 1924, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md);
+Veduto il regolamento per l'esecuzione del testo unico predetto approvato col [R. decreto 31 dicembre 1924, n. 2262](Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per gli affar
 
 ## Art. 1.
 
-Il numero degli operai permanenti del Ministero dell'istruzione pubblica, per i servizi delle belle arti, di cui al n. 4 della tabella n. 2 allegata al [R. decreto 31 dicembre 1924, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), e' elevato, per gli operai comuni, gruppo III, da ventotto a centotrentotto. 
+Il numero degli operai permanenti del Ministero dell'istruzione pubblica, per i servizi delle belle arti, di cui al n. 4 della tabella n. 2 allegata al [R. decreto 31 dicembre 1924, n. 2262](Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), e' elevato, per gli operai comuni, gruppo III, da ventotto a centotrentotto. 
  
  I posti in aumento saranno conferiti agli invalidi di guerra attualmente in servizio giornaliero, e saranno soppressi in rispondenza alla cessazione dal servizio degli invalidi medesimi.
 

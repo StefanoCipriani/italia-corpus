@@ -20,15 +20,15 @@ Vista la [legge 8 luglio 1897, n. 252](Che%20costituisce%20un%20fondo%20di%20ris
 
 Vista la [legge 5 luglio 1902, n. 280](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-07-05;280);
 
-Visto il [R. decreto 11 giugno 1903, n. 394](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20il%20servizio%20delle%20casse%20di%20risparmio%20postali.%20003U0394.md);
+Visto il [R. decreto 11 giugno 1903, n. 394](Che%20approva%20il%20regolamento%20per%20il%20servizio%20delle%20casse%20di%20risparmio%20postali.%20003U0394.md);
 
 Visto il [testo unico 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-01-02;453);
 
-Visto il [R. decreto 20 dicembre 1914, n. 1378](../Regi%20decreti/Col%20quale%20e%20autorizzata%20listituzione%20dei%20libretti%20al%20portatore%20per%20depositi%20a%20risparmio%20presso%20le%20Casse%20postali.%20014U1378.md);
+Visto il [R. decreto 20 dicembre 1914, n. 1378](Col%20quale%20e%20autorizzata%20listituzione%20dei%20libretti%20al%20portatore%20per%20depositi%20a%20risparmio%20presso%20le%20Casse%20postali.%20014U1378.md);
 
 Visto il [R. decreto-legge 15 luglio 1923, n. 1777](Concessione%20di%20premi%20ai%20titolari%20dei%20libretti%20nominativi%20delle%20Casse%20postali%20di%20risparmio%20ed%20ai%20possessori%20di%20quelli%20al%20portatore%20nel%20Regno.%20023U1777.md);
 
-Visto il [R. decreto 21 aprile 1927, n. 684](../Regi%20decreti/Ammontare%20complessivo%20dei%20premi%20ai%20titolari%20dei%20libretti%20nominativi%20delle%20Casse%20di%20risparmio%20postali%20ed%20ai%20possessori%20di%20quelli%20al%20portatore%20per%20lanno%201927.%20027U0684.md);
+Visto il [R. decreto 21 aprile 1927, n. 684](Ammontare%20complessivo%20dei%20premi%20ai%20titolari%20dei%20libretti%20nominativi%20delle%20Casse%20di%20risparmio%20postali%20ed%20ai%20possessori%20di%20quelli%20al%20portatore%20per%20lanno%201927.%20027U0684.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

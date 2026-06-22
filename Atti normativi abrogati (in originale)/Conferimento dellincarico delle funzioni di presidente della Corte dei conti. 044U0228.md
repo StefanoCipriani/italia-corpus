@@ -20,7 +20,7 @@ Visto il decreto presidenziale 3 settembre 1944, con il quale l'avv. Gino Gasper
 
 Ritenuta la necessita' di assicurare lo svolgimento delle funzioni relative all'anzidetto ufficio ;
 
-Visto l'art. 7 del testo unico delle leggi sull'ordinamento della Corte dei conti, approvato dal [R. decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), con le successive modificazioni;
+Visto l'art. 7 del testo unico delle leggi sull'ordinamento della Corte dei conti, approvato dal [R. decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), con le successive modificazioni;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

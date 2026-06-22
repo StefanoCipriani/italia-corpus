@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Articolo unico.
 
-L'[art. 19 del R. decreto 20 novembre 1924, n. 1945](../Regi%20decreti/Approvazione%20delle%20norme%20per%20lesecuzione%20del%20R.%20decreto-legge%2025%20ottobre%201924%20n.%201944%20riguardante%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20024U1945.md), e' sostituito dal seguente: 
+L'[art. 19 del R. decreto 20 novembre 1924, n. 1945](Approvazione%20delle%20norme%20per%20lesecuzione%20del%20R.%20decreto-legge%2025%20ottobre%201924%20n.%201944%20riguardante%20lIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato.%20024U1945.md), e' sostituito dal seguente: 
  
  « Il Consiglio di amministrazione dell'Istituto, a cui restano devolute le attribuzioni gia' spettanti all'assemblea dei delegati, e' composto del presidente e di: 
  

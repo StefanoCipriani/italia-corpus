@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la legge di ordinamento del R. esercito, testo unico approvato con [R. decreto n. 525 del 14 luglio 1898](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e successive modificazioni;
+Vista la legge di ordinamento del R. esercito, testo unico approvato con [R. decreto n. 525 del 14 luglio 1898](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e successive modificazioni;
 
 Viste le [leggi n. 506 del,19 luglio 1909 e n. 684 del 6 luglio 1911](Concernente%20la%20riduzione%20della%20ferma%20dei%20carabinieri%20reali.%20011U0684.md);
 
@@ -70,7 +70,7 @@ Perdono di pieno diritto i benefici della rafferma in corso:
  
  b) i raffermati condannati dai tribunali ordinari per reati di carattere indecoroso; 
  
- c) i raffermati condannati per reati previsti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare; 
+ c) i raffermati condannati per reati previsti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare; 
  
  d) i raffermati che Contraggono matrimonio senza autorizzazione. 
  

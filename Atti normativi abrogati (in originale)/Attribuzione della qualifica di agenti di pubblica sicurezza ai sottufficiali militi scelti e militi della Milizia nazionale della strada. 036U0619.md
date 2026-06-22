@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto l'[art. 34 della legge 17 maggio 1928, n. 1094](Istituzione%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1094.md); 
  
- Visto l'[art. 3 del R. decreto 26 novembre 1928, n. 2716](../Regi%20decreti/Istituzione%20della%20Milizia%20della%20strada.%20028U2716.md); 
+ Visto l'[art. 3 del R. decreto 26 novembre 1928, n. 2716](Istituzione%20della%20Milizia%20della%20strada.%20028U2716.md); 
  
  Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  

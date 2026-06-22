@@ -35,7 +35,7 @@ Il giudizio sulla loro idoneita' all'avanzamento sara' pronunziato da una Commis
 
 ## Art. 6.
 
-Fino a nuova disposizione saranno ammessi al corso d'istruzione per l'avanzamento a sottobrigadiere anche gli appuntati e le gruardie che abbiano superato limite di eta' stabilito dal [R. decreto 22 maggio 1910, n. 329](../Regi%20decreti/Portante%20norme%20per%20lavanzamento%20al%20grado%20di%20sottobrigadiere%20nel%20corpo%20della%20guardia%20di%20finanza.%20010U0329.md), purche' sia accertata la loro idoneita' fisica a tutti i servizi del Corpo e siano di buona condotta. 
+Fino a nuova disposizione saranno ammessi al corso d'istruzione per l'avanzamento a sottobrigadiere anche gli appuntati e le gruardie che abbiano superato limite di eta' stabilito dal [R. decreto 22 maggio 1910, n. 329](Portante%20norme%20per%20lavanzamento%20al%20grado%20di%20sottobrigadiere%20nel%20corpo%20della%20guardia%20di%20finanza.%20010U0329.md), purche' sia accertata la loro idoneita' fisica a tutti i servizi del Corpo e siano di buona condotta. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

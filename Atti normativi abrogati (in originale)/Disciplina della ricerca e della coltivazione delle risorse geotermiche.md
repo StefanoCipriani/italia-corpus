@@ -341,8 +341,8 @@ Non sono soggette a concessioni ne' ad autorizzazioni del sindaco le opere tempo
 
 7.
 
-Qualora l'esercizio di una concessione demaniale marittima, rilasciata per aree comunque ricadenti in un permesso di ricerca o di concessione per l'utilizzo di risorse geotermiche, anche successivamente a detti permessi, risulti incompatibile o ostacoli l'attivita' di prospezione, ricerca e coltivazione, l'autorita' marittima, a richiesta del titolare del permesso o della concessione mineraria, procede alla revoca della concessione demaniale con le modalita' previste dall'[articolo 43 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
-L'indennizzo a favore del titolare della concessione revocata, nella misura determinata ai sensi dell'[articolo 42, quarto](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [quinto comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' a carico del titolare del permesso di ricerca e della concessione di coltivazione.
+Qualora l'esercizio di una concessione demaniale marittima, rilasciata per aree comunque ricadenti in un permesso di ricerca o di concessione per l'utilizzo di risorse geotermiche, anche successivamente a detti permessi, risulti incompatibile o ostacoli l'attivita' di prospezione, ricerca e coltivazione, l'autorita' marittima, a richiesta del titolare del permesso o della concessione mineraria, procede alla revoca della concessione demaniale con le modalita' previste dall'[articolo 43 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+L'indennizzo a favore del titolare della concessione revocata, nella misura determinata ai sensi dell'[articolo 42, quarto](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [quinto comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' a carico del titolare del permesso di ricerca e della concessione di coltivazione.
 
 Nota all'[art. 16, comma 1:
  La legge n. 2359/1865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865;2359#art_16-com1) reca norme sulle espropriazioni per causa di pubblica utilita'.
@@ -354,7 +354,7 @@ Nota all'[art. 16, comma 1:
  Uguale avviso deve inserirsi nel giornale destinato alle pubblicazioni ufficiali amministrative della provincia".
 
  Nota all'art. 16, comma 7:
- Il testo degli [articoli 42](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [43 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente:
+ Il testo degli [articoli 42](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [43 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente:
  "Art. 42 (Revoca delle concessioni). - Le concessioni di durata non superiore al quadriennio e che non importino impianti di difficile sgombero sono revocabili in tutto o in parte a giudizio discrezionale dell'amministrazione marittima.
  Le concessioni di durata superiore al quadriennio o che comunque importino impianti di difficile sgombero sono revocabili per specifici motivi inerenti al pubblico uso del mare o per altre ragioni di pubblico interesse, a giudizio discrezionale dell'amministrazione marittima.
  La revoca non da' diritto a indennizzo. Nel caso di revoca parziale si fa luogo ad un'adeguata riduzione del canone, salva la facolta' prevista dal primo comma dell'art. 44.

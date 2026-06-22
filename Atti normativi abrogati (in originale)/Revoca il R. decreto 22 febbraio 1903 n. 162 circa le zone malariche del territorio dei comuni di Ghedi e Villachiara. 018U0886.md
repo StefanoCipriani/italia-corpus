@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduto l'[art. 157 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [Regio decreto 1° agosto 1907, numero 636](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e il regolamento approvato con [R. decreto 28 febbraio 1907, n. 61](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20unico%20per%20la%20esecuzione%20delle%20leggi%20per%20diminuire%20le%20cause%20della%20malaria%20e%20per%20la%20vendita%20del%20chinino%20di%20Stato.%20007U0061.md), che contengono disposizioni per diminuire le cause della malaria; 
+ Veduto l'[art. 157 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [Regio decreto 1° agosto 1907, numero 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e il regolamento approvato con [R. decreto 28 febbraio 1907, n. 61](Che%20approva%20lannesso%20regolamento%20unico%20per%20la%20esecuzione%20delle%20leggi%20per%20diminuire%20le%20cause%20della%20malaria%20e%20per%20la%20vendita%20del%20chinino%20di%20Stato.%20007U0061.md), che contengono disposizioni per diminuire le cause della malaria; 
  
  Visto l'art. 7 del Nostro decreto 31 dicembre 1915, n. 1910; 
  
- Visto il [R. decreto 22 febbraio 1903, n. 162](../Regi%20decreti/Dichiarazione%20e%20delimitazione%20di%20zone%20malariche%20nella%20provincia%20di%20Brescia.%20003U0162.md), con cui fra l'altro si dichiaravano zone malariche parte del territorio del comune di Ghedi e il territorio del comune di Villachiara, in provincia di Brescia; 
+ Visto il [R. decreto 22 febbraio 1903, n. 162](Dichiarazione%20e%20delimitazione%20di%20zone%20malariche%20nella%20provincia%20di%20Brescia.%20003U0162.md), con cui fra l'altro si dichiaravano zone malariche parte del territorio del comune di Ghedi e il territorio del comune di Villachiara, in provincia di Brescia; 
  
  Visto il rapporto col quale il prefetto della Provincia stessa ha inviato le proposte di quel medico provinciale per la revoca di dette zone malariche; 
  
@@ -38,7 +38,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Le zone malariche delimitate nel territorio dei comuni di Ghedi e Villachiara con il [R. decreto 22 febbraio 1903, n. 162](../Regi%20decreti/Dichiarazione%20e%20delimitazione%20di%20zone%20malariche%20nella%20provincia%20di%20Brescia.%20003U0162.md), sono revocate, per cui il territorio di detti Comuni deve ritenersi immune da malaria. 
+ Le zone malariche delimitate nel territorio dei comuni di Ghedi e Villachiara con il [R. decreto 22 febbraio 1903, n. 162](Dichiarazione%20e%20delimitazione%20di%20zone%20malariche%20nella%20provincia%20di%20Brescia.%20003U0162.md), sono revocate, per cui il territorio di detti Comuni deve ritenersi immune da malaria. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

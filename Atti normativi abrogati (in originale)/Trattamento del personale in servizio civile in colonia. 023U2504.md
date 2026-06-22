@@ -83,7 +83,7 @@ Sono comprese nelle indennita' eventuali di cui alla lettera c) dell'articolo 1:
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 27 luglio 1924, n. 1794](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2031%20ottobre%201923%20n.%202504%20relativo%20al%20trattamento%20economico%20del%20personale%20civile%20in%20Colonia.%20024U1794.md) e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 27 luglio 1924, n. 1794](Modificazioni%20al%20R.%20decreto%2031%20ottobre%201923%20n.%202504%20relativo%20al%20trattamento%20economico%20del%20personale%20civile%20in%20Colonia.%20024U1794.md) e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 5.
 
@@ -160,7 +160,7 @@ Gli impiegati in servizio nelle colonie che si trovino temporaneamente nel Regno
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 27 luglio 1924, n. 1794](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2031%20ottobre%201923%20n.%202504%20relativo%20al%20trattamento%20economico%20del%20personale%20civile%20in%20Colonia.%20024U1794.md) e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 27 luglio 1924, n. 1794](Modificazioni%20al%20R.%20decreto%2031%20ottobre%201923%20n.%202504%20relativo%20al%20trattamento%20economico%20del%20personale%20civile%20in%20Colonia.%20024U1794.md) e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 14.
 
@@ -171,7 +171,7 @@ Gli impiegati amministrativi del ruolo unico coloniale possono essere messi a di
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 27 luglio 1924, n. 1794](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2031%20ottobre%201923%20n.%202504%20relativo%20al%20trattamento%20economico%20del%20personale%20civile%20in%20Colonia.%20024U1794.md) e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 27 luglio 1924, n. 1794](Modificazioni%20al%20R.%20decreto%2031%20ottobre%201923%20n.%202504%20relativo%20al%20trattamento%20economico%20del%20personale%20civile%20in%20Colonia.%20024U1794.md) e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 15.
 
@@ -186,7 +186,7 @@ Per le missioni compiute dall'impiegato nell'ambito della colonia, nella quale p
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 27 luglio 1924, n. 1794](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2031%20ottobre%201923%20n.%202504%20relativo%20al%20trattamento%20economico%20del%20personale%20civile%20in%20Colonia.%20024U1794.md) e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 27 luglio 1924, n. 1794](Modificazioni%20al%20R.%20decreto%2031%20ottobre%201923%20n.%202504%20relativo%20al%20trattamento%20economico%20del%20personale%20civile%20in%20Colonia.%20024U1794.md) e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 16.
 

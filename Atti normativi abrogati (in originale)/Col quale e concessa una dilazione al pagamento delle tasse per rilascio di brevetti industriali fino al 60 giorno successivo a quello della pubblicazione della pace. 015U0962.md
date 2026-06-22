@@ -23,7 +23,7 @@ L'esistenza della reciprocita' di trattamento sara' riconosciuta con decreto del
 
 ## Art. 4.
 
-E' sospesa la pubblicazione dell'elenco delle privative per le quali non fu pagata la tassa dovuta in tempo utile, di cui all'articolo 43 del regolamento, approvato con [R. decreto 2 ottobre 1913, n. 1237](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20nuovo%20regolamento%20per%20lapplicazione%20della%20legge%2030%20ottobre%201859%20n.3731%20sulle%20privative%20industriali%20013U1237.md), a cominciare da quello relativo alle privative per le quali l'ultimo termine di pagamento scade il 30 giugno 1915 fino a quello relativo ai pagamenti effettuati alla fine del trimestre successivo a quello nel quale sara' pubblicata la pace. 
+E' sospesa la pubblicazione dell'elenco delle privative per le quali non fu pagata la tassa dovuta in tempo utile, di cui all'articolo 43 del regolamento, approvato con [R. decreto 2 ottobre 1913, n. 1237](Col%20quale%20viene%20approvato%20lannesso%20nuovo%20regolamento%20per%20lapplicazione%20della%20legge%2030%20ottobre%201859%20n.3731%20sulle%20privative%20industriali%20013U1237.md), a cominciare da quello relativo alle privative per le quali l'ultimo termine di pagamento scade il 30 giugno 1915 fino a quello relativo ai pagamenti effettuati alla fine del trimestre successivo a quello nel quale sara' pubblicata la pace. 
  
  Saranno rilasciati gli attestati di prolungamento chiesti dopo spirato il termine della privativa da persone, le quali dimostrino di trovarsi nelle condizioni previste dagli articoli 2 e 3 se il detto termine non era ancora spirato al momento della dichiarazione di guerra.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sull'ordinamento degli Istituti superiori di scienze economiche e commerciali, approvato con [R. decreto 28 agosto 1924, n. 1618](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20degli%20Istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20024U1618.md), ed il relativo regolamento approvato con [R. decreto 8 luglio 1925, n. 1227](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20degli%20istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20025U1227.md);
+Visto il testo unico delle leggi sull'ordinamento degli Istituti superiori di scienze economiche e commerciali, approvato con [R. decreto 28 agosto 1924, n. 1618](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20degli%20Istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20024U1618.md), ed il relativo regolamento approvato con [R. decreto 8 luglio 1925, n. 1227](Approvazione%20del%20regolamento%20generale%20degli%20istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20025U1227.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-E' istituito in Bologna un Istituto superiore libero di scienze economiche e commerciali. L'Istituto ha personalita' giuridica propria ed autonomia didattica, amministrativa e disciplinare, nei limiti delle leggi e dei regolamenti che governano i Regi istituti superiori di scienze economiche e commerciali, salvo le disposizioni particolari stabilite nel [R. decreto 3 giugno 1924, n. 986](../Regi%20decreti/Disposizioni%20speciali%20per%20gli%20istituti%20liberi%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20024U0986.md), ed e' sottoposto alla vigilanza del Ministero della educazione nazionale.
+E' istituito in Bologna un Istituto superiore libero di scienze economiche e commerciali. L'Istituto ha personalita' giuridica propria ed autonomia didattica, amministrativa e disciplinare, nei limiti delle leggi e dei regolamenti che governano i Regi istituti superiori di scienze economiche e commerciali, salvo le disposizioni particolari stabilite nel [R. decreto 3 giugno 1924, n. 986](Disposizioni%20speciali%20per%20gli%20istituti%20liberi%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20024U0986.md), ed e' sottoposto alla vigilanza del Ministero della educazione nazionale.
 
 ## Art. 2.
 

@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 7 settembre 1945 n. 698](../Decreti%20legislativi%20luogotenenziali/Revoca%20delle%20concessioni%20di%20beni%20di%20demanio%20pubblico%20e%20di%20beni%20patrimoniali%20dello%20Stato%20accordate%20durante%20il%20regime%20fascista.%20045U0698.md), concernente la revoca delle Concessioni dei beni di demanio pubblico e di beni patrimoniali dello stato accordate durante il regime fascista;
+Visto il [decreto legislativo luogotenenziale 7 settembre 1945 n. 698](Revoca%20delle%20concessioni%20di%20beni%20di%20demanio%20pubblico%20e%20di%20beni%20patrimoniali%20dello%20Stato%20accordate%20durante%20il%20regime%20fascista.%20045U0698.md), concernente la revoca delle Concessioni dei beni di demanio pubblico e di beni patrimoniali dello stato accordate durante il regime fascista;
 
 Visto il decreto legislativo luogotenenziale 16 marzo 1946, 98;
 

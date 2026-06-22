@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md), recante provvedimenti per il riassetto della vita civile e la ripresa economica della Nazione;
+Visto il [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md), recante provvedimenti per il riassetto della vita civile e la ripresa economica della Nazione;
 
 Visto lo statuto del Banco di Napoli, istituto di credito di diritto pubblico con sede in Napoli, approvato con decreto del Capo del Governo in data 30 aprile 1938 e modificato con i successivi decreti del 18 giugno 1941, e 19 agosto 1943;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per il tesoro, di concerto con i Ministri per le fin
 
 ## Art. 1.
 
-In aggiunta alle Sezioni speciali di cui all'Art. 4 del proprio statuto, il Banco di Napoli e' autorizzato ad istituire una propria speciale Sezione di credito industriale per le operazioni di finanziamento a favore di imprese industriali interessanti il riassetto della vita civile e la ripresa economica della Nazione, di cui al [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md).
+In aggiunta alle Sezioni speciali di cui all'Art. 4 del proprio statuto, il Banco di Napoli e' autorizzato ad istituire una propria speciale Sezione di credito industriale per le operazioni di finanziamento a favore di imprese industriali interessanti il riassetto della vita civile e la ripresa economica della Nazione, di cui al [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md).
  Alla Sezione medesima il Banco di Napoli potra' inoltre affidare la gestione delle proprie partecipazioni industriali.
 
 ## Art. 2.
@@ -44,7 +44,7 @@ Presso la Direzione della sezione potra' essere istituito un Comitato tecnico-co
 
 ## Art. 5.
 
-In relazione alle operazioni di cui al [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md), la predetta Sezione e' autorizzata ad emettere obbligazioni per il valore nominale complessivo pari all'ammontare delle operazioni compiute, assistite da tutte le garanzie e dai privilegi previsti dal decreto stesso, nonche' dai fondi di dotazione e di riserva di cui al precedente art. 2 e dalla massa di rispetto del Banco di Napoli.
+In relazione alle operazioni di cui al [decreto legislativo luogotenenziale 1° novembre 1944, n. 367](Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md), la predetta Sezione e' autorizzata ad emettere obbligazioni per il valore nominale complessivo pari all'ammontare delle operazioni compiute, assistite da tutte le garanzie e dai privilegi previsti dal decreto stesso, nonche' dai fondi di dotazione e di riserva di cui al precedente art. 2 e dalla massa di rispetto del Banco di Napoli.
 
 ## Art. 6.
 

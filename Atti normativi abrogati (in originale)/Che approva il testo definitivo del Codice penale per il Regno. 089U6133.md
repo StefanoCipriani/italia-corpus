@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 22 novembre 1888, N. 5801](Con%20la%20quale%20il%20Governo%20del%20Re%20e%20autorizzato%20a%20pubblicare%20lallegato%20Codice%20penale%20per%20il%20Regno%20dItalia.%20088U5801.md) (Serie 3ª), con la quale il Governo del Re fu autorizzato a pubblicare il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per il Regno d'Italia, allegato alla legge stessa, introducendo nel testo di esso quelle modificazioni che, tenuto conto dei voti del Parlamento, ravvisasse necessarie per emendarne le disposizioni e coordinarle tra loro e con quelle degli altri Codici e leggi;
+Vista la [legge 22 novembre 1888, N. 5801](Con%20la%20quale%20il%20Governo%20del%20Re%20e%20autorizzato%20a%20pubblicare%20lallegato%20Codice%20penale%20per%20il%20Regno%20dItalia.%20088U5801.md) (Serie 3ª), con la quale il Governo del Re fu autorizzato a pubblicare il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per il Regno d'Italia, allegato alla legge stessa, introducendo nel testo di esso quelle modificazioni che, tenuto conto dei voti del Parlamento, ravvisasse necessarie per emendarne le disposizioni e coordinarle tra loro e con quelle degli altri Codici e leggi;
 
 Inteso il Consiglio dei Ministri;
 
@@ -22,11 +22,11 @@ Sulla proposta del Nostro Guardasigilli Ministro Segretario di Stato per gli Aff
 
 ## Art. 1.
 
-Il testo definitivo del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), portante la data di questo giorno, e' approvato ed avra' esecuzione a cominciare del 1° gennaio 1890.
+Il testo definitivo del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), portante la data di questo giorno, e' approvato ed avra' esecuzione a cominciare del 1° gennaio 1890.
 
 ## Art. 2.
 
-Un esemplare del suddetto testo definitivo del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), stampato nella Regia tipografia, firmato da Noi e contrassegnato dal Nostro Ministro di Grazia e Giustizia e dei culti, servira' di originale e sara' depositato e custodito negli Archivi generali del Regno.
+Un esemplare del suddetto testo definitivo del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), stampato nella Regia tipografia, firmato da Noi e contrassegnato dal Nostro Ministro di Grazia e Giustizia e dei culti, servira' di originale e sara' depositato e custodito negli Archivi generali del Regno.
 
 ## Art. 3.
 
@@ -43,4 +43,4 @@ La pubblicazione del predetto Codice si eseguira' col trasmetterne un esemplare 
  Visto, Il Guardasigilli: Zanardelli. 
  
  
- A questo Decreto, nella Raccolta anzidetta, segue il testo defininitivo del nuovo [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ A questo Decreto, nella Raccolta anzidetta, segue il testo defininitivo del nuovo [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).

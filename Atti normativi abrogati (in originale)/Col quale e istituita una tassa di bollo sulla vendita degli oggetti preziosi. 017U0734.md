@@ -71,14 +71,14 @@ Le contravvenzioni alle disposizioni del presente decreto danno luogo alla appli
  
  5° per la falsa indicazione del prezzo di vendita: penale eguale a venti volte la tassa frodata, col minimo di L. 1000. 
  
- Le penalita' indicate ai precedenti numeri 3, 4 e 5, sono indipendenti dalle pene comminate dall'[art. 495 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
-Esse verranno accertate mediante processo verbale, con le norme stabilite dagli articoli 49 a 53 della legge sul bollo, testo unico approvato con [R. decreto 4 luglio 1897, n. 414](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20tassa%20di%20bollo%20e%20su%20quelle%20in%20surrogazione%20del%20bollo%20e%20registro.%20097U0414.md), in quanto ne ricorra l'applicazione, e seguiranno il procedimento di cui all'art. 47 della legge medesima. 
+ Le penalita' indicate ai precedenti numeri 3, 4 e 5, sono indipendenti dalle pene comminate dall'[art. 495 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Esse verranno accertate mediante processo verbale, con le norme stabilite dagli articoli 49 a 53 della legge sul bollo, testo unico approvato con [R. decreto 4 luglio 1897, n. 414](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20tassa%20di%20bollo%20e%20su%20quelle%20in%20surrogazione%20del%20bollo%20e%20registro.%20097U0414.md), in quanto ne ricorra l'applicazione, e seguiranno il procedimento di cui all'art. 47 della legge medesima. 
  
  In caso di recidiva saranno applicabili le disposizioni di cui al n. 1, secondo comma, del presente articolo.
 
 ## Art. 8.
 
-Alle contravvenzioni riguardanti la tassa di bollo stabilita col presente decreto e ai passaggi del commercio da uno ad altro individuo o ditta sono applicate le disposizioni di cui all'art. 63 del testo unico delle leggi d'imposta sui redditi della ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), serie 2ª, concernenti la responsabilita' solidale del cessionario o del successore.
+Alle contravvenzioni riguardanti la tassa di bollo stabilita col presente decreto e ai passaggi del commercio da uno ad altro individuo o ditta sono applicate le disposizioni di cui all'art. 63 del testo unico delle leggi d'imposta sui redditi della ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), serie 2ª, concernenti la responsabilita' solidale del cessionario o del successore.
 
 ## Art. 9.
 

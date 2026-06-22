@@ -16,7 +16,7 @@ Visto il testo unico delle leggi degli ufficiali e agenti di pubblica sicurezza 
 
 Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
-Visto il [regio decreto 17 novembre 1932, n. 1595](../Regi%20decreti/Modificazioni%20allordinamento%20del%20personale%20di%20pubblica%20sicurezza.%20032U1595.md);
+Visto il [regio decreto 17 novembre 1932, n. 1595](Modificazioni%20allordinamento%20del%20personale%20di%20pubblica%20sicurezza.%20032U1595.md);
 
 Vista la [legge 26 gennaio 1942, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-26;39);
 

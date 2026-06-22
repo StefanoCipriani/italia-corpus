@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo approvato con R. decreto 28 novembre 1869;
+Visto il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo approvato con R. decreto 28 novembre 1869;
 
 Vista la legge 6 maggio 1898 che regola l'avanzamento dei Corpi militari della R. marina;
 

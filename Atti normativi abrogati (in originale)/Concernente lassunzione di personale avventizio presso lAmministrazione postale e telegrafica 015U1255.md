@@ -14,7 +14,7 @@ Il ministro segretario di Stato per le poste e i telegrafi e' autorizzato a supp
 
 ## Art. 2.
 
-Gli avventizi da assumere dovranno dimostrare di aver compiuto anno di eta' e di possedere i requisiti richiesti per l'ammissione dei supplenti nelle ricevitorie di cui al [R. decreto 22 dicembre 1910, n. 936](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20il%20personale%20degli%20uffici%20postali%20telegrafici%20e%20fonotelegrafici%20di%202ª%20e%203ª%20classe%20e%20per%20gli%20agenti%20rurali.%20010U0936.md);
+Gli avventizi da assumere dovranno dimostrare di aver compiuto anno di eta' e di possedere i requisiti richiesti per l'ammissione dei supplenti nelle ricevitorie di cui al [R. decreto 22 dicembre 1910, n. 936](Che%20approva%20lannesso%20regolamento%20speciale%20per%20il%20personale%20degli%20uffici%20postali%20telegrafici%20e%20fonotelegrafici%20di%202ª%20e%203ª%20classe%20e%20per%20gli%20agenti%20rurali.%20010U0936.md);
 
 ## Art. 3.
 

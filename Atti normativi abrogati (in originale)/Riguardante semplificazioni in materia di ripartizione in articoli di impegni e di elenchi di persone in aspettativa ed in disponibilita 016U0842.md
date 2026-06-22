@@ -26,11 +26,11 @@ Riconosciuta l'opportunita', a scopo di semplificazione, di modificare talune no
 
 Considerata la convenienza di sospendere, fino a nuova disposizione, in vista della deficienza numerica di personale negli uffici dello Stato, determinata dai numerosi richiami alle armi, la pubblicazione annuale dello stato degli impiegati in disponibilita' ed in aspettativa;
 
-Visto l'art. 36 del testo unico di legge sull'amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md);
+Visto l'art. 36 del testo unico di legge sull'amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md);
 
 Visto l'art. 152 del regolamento per l'esecuzione del detto testo unico, approvato con [R. decreto 4 maggio 1885, n. 3074](Che%20approva%20il%20Regolamento%20per%20lAmministrazione%20del%20patrimonio%20e%20la%20Contabilita%20generale%20dello%20Stato.%20085U3074.md);
 
-Visto l'art. 31 del testo unico di legge sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
+Visto l'art. 31 del testo unico di legge sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
 
 Udito il Consiglio dei ministri;
 
@@ -38,7 +38,7 @@ Sulla proposta del presidente del Consiglio dei ministri, di concerto col minist
 
 ## Art. 1.
 
-Al comma 1° dell'art. 36 del testo unico di legge sull'amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, numero 2016](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md), e' sostituito il seguente: 
+Al comma 1° dell'art. 36 del testo unico di legge sull'amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, numero 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md), e' sostituito il seguente: 
  
  «All'inizio dell'anno finanziario ciascun ministro ripartira' in articoli la somma stanziata in ciascun capitolo, provvedendo alla pubblicazione della ripartizione stessa nel Bollettino ufficiale del proprio Ministero». 
  
@@ -53,7 +53,7 @@ La disposizione di cui alla lettera a) dell'articolo unico della [legge 4 giugno
 
 ## Art. 3.
 
-A cominciare dall'esercizio finanziario 1915-916, fino a nuova disposizione, non sara' fato luogo alla pubblicazione annuale dello stato nominativo degli impiegati in disponibilita' o in aspettativa, stabilita dallo art. 31 del testo unico di legge sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md). 
+A cominciare dall'esercizio finanziario 1915-916, fino a nuova disposizione, non sara' fato luogo alla pubblicazione annuale dello stato nominativo degli impiegati in disponibilita' o in aspettativa, stabilita dallo art. 31 del testo unico di legge sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md). 
  
  Questo decreto sara' presentato al Parlamento per essere convertito in legge. 
  

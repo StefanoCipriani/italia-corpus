@@ -14,7 +14,7 @@ Visto il [regio decreto 11 febbraio 1941, n. 419](../Regi%20decreti/Erezione%20i
 
 Visto, il verbale della riunione governatoriale del 28 ottobre 1946, n. 23, della Banca d'Italia, per estratto autentico 4 dicembre 1946, notaio dott. Paolo Castellini, nella quale la Banca d'Italia, che istitui' la predetta Fondazione nell'intento di onorare la memoria di tutti i caduti dell'Aeronautica, ha deliberato di modificare la denominazione della Fondazione stessa e conseguentemente alcuni articoli dello statuto;
 
-Vista, la legge 5 giugno 1850, n. 1037, ed il regolamento approvato con [regio decreto 26 giugno 1864, numero 1817](../Regi%20decreti/Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md);
+Vista, la legge 5 giugno 1850, n. 1037, ed il regolamento approvato con [regio decreto 26 giugno 1864, numero 1817](Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md);
 
 Udito il parere del Consiglio di Stato;
 

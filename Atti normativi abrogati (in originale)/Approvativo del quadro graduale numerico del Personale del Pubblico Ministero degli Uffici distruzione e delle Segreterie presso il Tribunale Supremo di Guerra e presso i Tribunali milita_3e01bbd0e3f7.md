@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'art. 4 della legge 1.° ottobre 1859 approvativa di un nuovo [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare;
+Visto l'art. 4 della legge 1.° ottobre 1859 approvativa di un nuovo [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare;
 
 Visti gli articoli 296, 299, 300, 275, 280, 283 di detto Codice, che prescrivono l'instituzione di un Tribunale Supremo di Guerra, e di un Tribunale militare permanente in ogni Capo-luogo di Divisione militare territoriale, e vien assegnato il Personale civile addetto al Pubblico Ministero, ed alle Segreterie presso i medesimi;
 

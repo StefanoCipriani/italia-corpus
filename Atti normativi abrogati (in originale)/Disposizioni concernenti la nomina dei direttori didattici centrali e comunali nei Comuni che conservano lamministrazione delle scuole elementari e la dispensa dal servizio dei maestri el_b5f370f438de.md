@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md);
+Veduto il testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md);
 
 Veduto il [R. decreto-legge 7 febbraio 1926, n. 215](Nomina%20dei%20direttori%20didattici%20centrali%20nei%20Comuni%20che%20conservano%20lamministrazione%20delle%20proprie%20scuole%20elementari.%20026U0215.md);
 
@@ -36,13 +36,13 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-E' data facolta' ai Comuni, che conservano l'amministrazione delle scuole elementari e che hanno non meno di 60 classi con maestro proprio, di nominare il direttore centrale o il direttore didattico comunale, oltre che nei modi previsti dall'art. 21 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), scegliendolo tra coloro che esercitano servizio ispettivo per l'istruzione elementare alla dipendenza del Ministero della pubblica istruzione, o tra persone anche estranee ai ruoli dell'Amministrazione scolastica statale, fornite di abilitazione all'ufficio di direttore didattico o di ispettore scolastico, o tra quelle fornite di laurea in lettere o in filosofia o di diploma per l'insegnamento negli istituti medi rilasciato dagli Istituti superiori di magistero, anche se sprovviste del titolo di abilitazione all'ufficio suddetto, le quali tutte per la loro preparazione diano affidamento di saper degnamente esercitare le funzioni direttive. 
+E' data facolta' ai Comuni, che conservano l'amministrazione delle scuole elementari e che hanno non meno di 60 classi con maestro proprio, di nominare il direttore centrale o il direttore didattico comunale, oltre che nei modi previsti dall'art. 21 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), scegliendolo tra coloro che esercitano servizio ispettivo per l'istruzione elementare alla dipendenza del Ministero della pubblica istruzione, o tra persone anche estranee ai ruoli dell'Amministrazione scolastica statale, fornite di abilitazione all'ufficio di direttore didattico o di ispettore scolastico, o tra quelle fornite di laurea in lettere o in filosofia o di diploma per l'insegnamento negli istituti medi rilasciato dagli Istituti superiori di magistero, anche se sprovviste del titolo di abilitazione all'ufficio suddetto, le quali tutte per la loro preparazione diano affidamento di saper degnamente esercitare le funzioni direttive. 
  
  La deliberazione di nomina diviene esecutiva dopo che sia intervenuta l'approvazione del Ministro per la pubblica istruzione.
 
 ## Art. 2.
 
-Fra gli articoli 134 e 135 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' inserito il seguente articolo 134 bis: 
+Fra gli articoli 134 e 135 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' inserito il seguente articolo 134 bis: 
  
  «E' dispensato dal servizio l'insegnante che per manifestazioni compiute nella scuola o fuori di essa non dia piena garanzia di un fedele adempimento dei suoi doveri o si ponga in condizioni di incompatibilita' con le generali direttive politiche del Governo. 
  

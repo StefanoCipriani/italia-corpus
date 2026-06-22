@@ -18,7 +18,7 @@ Vista la [legge 23 luglio 1896, n. 318](Riflettente%20la%20concessione%20di%20co
 
 Vista la [legge 21 dicembre 1905, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-12-21;599);
 
-Visto il [R. decreto 14 giugno 1923, n. 1397](../Regi%20decreti/Diritto%20di%20faro%20per%20i%20porti%20rade%20e%20spiaggie%20del%20Regno%20e%20della%20colonia%20Eritrea.%20023U1397.md);
+Visto il [R. decreto 14 giugno 1923, n. 1397](Diritto%20di%20faro%20per%20i%20porti%20rade%20e%20spiaggie%20del%20Regno%20e%20della%20colonia%20Eritrea.%20023U1397.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -62,7 +62,7 @@ Con effetto dal 15 febbraio 1925 gli [articoli 20](Riflettente%20la%20concession
 
 Con effetto dal 15 febbraio 1925 l'[art. 2 della legge 21 dicembre 1905, n. 590](Per%20ladottamento%20del%20sistema%20inglese%20Merchant%20Schipping%20Act%20per%20la%20misurazione%20del%20tonnellaggio%20di%20stazza%20delle%20navi.%20005U0590.md), e' abrogato. 
  
- E' pure abrogato il diritto di faro stabilito dal [R. decreto 14 giugno 1923, n. 1397](../Regi%20decreti/Diritto%20di%20faro%20per%20i%20porti%20rade%20e%20spiaggie%20del%20Regno%20e%20della%20colonia%20Eritrea.%20023U1397.md).
+ E' pure abrogato il diritto di faro stabilito dal [R. decreto 14 giugno 1923, n. 1397](Diritto%20di%20faro%20per%20i%20porti%20rade%20e%20spiaggie%20del%20Regno%20e%20della%20colonia%20Eritrea.%20023U1397.md).
 
 ## Art. 3.
 

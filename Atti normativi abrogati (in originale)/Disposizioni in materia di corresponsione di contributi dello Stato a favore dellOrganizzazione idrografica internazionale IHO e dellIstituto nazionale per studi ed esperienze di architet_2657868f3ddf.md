@@ -27,7 +27,7 @@ Il contributo annuo dello Stato a favore dell'INSEAN, di cui alla [legge 25 lugl
 
 3.
 
-Il contributo annuo dello Stato a favore dell'IHO, di cui alla [legge 15 novembre 1973, n. 925](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sulla%20Organizzazione%20idrografica%20internazionale%20conclusa%20a%20Monaco%20Principato%20il%203%20maggio%201967.md), e' rideterminato nella misura di 68.000 euro per ciascuno degli anni 2002, 2003 e 2004.
+Il contributo annuo dello Stato a favore dell'IHO, di cui alla [legge 15 novembre 1973, n. 925](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20sulla%20Organizzazione%20idrografica%20internazionale%20conclusa%20a%20Monaco%20Principato%20il%203%20maggio%201967.md), e' rideterminato nella misura di 68.000 euro per ciascuno degli anni 2002, 2003 e 2004.
 
 4.
 
@@ -42,7 +42,7 @@ All'onere derivante dall'attuazione della presente legge, pari a 4.462.000 euro 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
  Note all'art. 1, comma 1:
  - Il testo dei [commi 40](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), [41](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), [42](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md) e [43 dell'art. 1 della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md) (Misure di razionalizzazione della finanza pubblica), e' il seguente:
@@ -59,7 +59,7 @@ Avvertenza:
  - La legge 25 luglio 1990, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-25;208#art_1-com2), reca: "Rideterminazione del contributo ordinario all'Istituto nazionale per studi ed esperienze di architettura navale (INSEAN)".
 
  Nota all'[art. 1, comma 3:
- - La legge 15 novembre 1973, n. 925](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sulla%20Organizzazione%20idrografica%20internazionale%20conclusa%20a%20Monaco%20Principato%20il%203%20maggio%201967.md), reca: "Ratifica ed esecuzione della convenzione sulla Organizzazione idrografica internazionale, conclusa a Monaco Principato il 3 maggio 1967".
+ - La legge 15 novembre 1973, n. 925](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20sulla%20Organizzazione%20idrografica%20internazionale%20conclusa%20a%20Monaco%20Principato%20il%203%20maggio%201967.md), reca: "Ratifica ed esecuzione della convenzione sulla Organizzazione idrografica internazionale, conclusa a Monaco Principato il 3 maggio 1967".
 
  Nota all'art. 1, comma 4:
  - Il testo dell'[art. 11, comma 3, lettera d), della legge 5 agosto 1978, n. 468](Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md) (Riforma di alcune norme di contabilita' generale dello Stato in materia di bilancio), come modificato dall'[art. 2, comma 15, della legge 25 giugno 1999, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-06-25;208#art_2-com15), e' il seguente:

@@ -158,7 +158,7 @@ Lo stipendio degli ufficiali di scrittura, in via di eliminazione, esistenti in 
 
 Gli aiuti contabili che non conseguono la nomina nel personale d'ordine, sia per mancata domanda, sia perche' questa non venne accolta; sono dispensati dal servizio se abbiano raggiunto venti anni di servizio effettivo. 
  
- Essi sono ammessi a liquidare la pensione vitalizia nella misura stabilita dal vigente testo unico delle leggi Sulle pensioni approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
+ Essi sono ammessi a liquidare la pensione vitalizia nella misura stabilita dal vigente testo unico delle leggi Sulle pensioni approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
  
  Coloro pero' che contano meno di 25 anni di servizio liquideranno la pensione come se avessero effettivamente compiuto tale periodo. 
  

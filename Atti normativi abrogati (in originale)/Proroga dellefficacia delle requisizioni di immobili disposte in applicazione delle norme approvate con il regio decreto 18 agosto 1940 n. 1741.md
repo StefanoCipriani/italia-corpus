@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 18 agosto 1940, n. 1741](../Regi%20decreti/Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md), con il quale sono state approvate le norme per la disciplina delle requisizioni e successive aggiunte e modificazioni;
+Visto il [regio decreto 18 agosto 1940, n. 1741](Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md), con il quale sono state approvate le norme per la disciplina delle requisizioni e successive aggiunte e modificazioni;
 
 Visto il [decreto legislativo 6 settembre 1946, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-09-06;86);
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con tutti 
 
 ## Articolo unico.
 
-Le requisizioni di beni immobili di aziende e di stabilimenti, disposte in applicazione delle norme approvate con il [regio decreto 18 agosto 1940, n. 1741](../Regi%20decreti/Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md), conservano la loro efficacia per il termine fissato nell'ordine di requisizione, o, in ogni caso, non oltre il 20 aprile 1947.
+Le requisizioni di beni immobili di aziende e di stabilimenti, disposte in applicazione delle norme approvate con il [regio decreto 18 agosto 1940, n. 1741](Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md), conservano la loro efficacia per il termine fissato nell'ordine di requisizione, o, in ogni caso, non oltre il 20 aprile 1947.
  Anche prima dello scadere dei predetti termini i beni requisiti dovranno essere restituiti agli aventi diritto qualora cessi l'uso per il quale essi sono stati requisiti.
  Per i beni mobili resta fermo il disposto del [secondo comma dell'art. 1 del decreto legislativo 6 settembre 1946, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-09-06;86#art_1-com2).
 

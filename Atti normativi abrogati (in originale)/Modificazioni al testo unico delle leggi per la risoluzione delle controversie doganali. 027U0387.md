@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 9 aprile 1911, n. 330](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20risoluzione%20delle%20controversie%20doganali.%20011U0330.md), che approva il testo unico di leggi per la risoluzione delle controversie doganali, modificato col [R. decreto-legge 11 maggio 1924, numero 807](Costituzione%20del%20Collegio%20consultivo%20dei%20periti%20doganali.%20024U0807.md);
+Veduto il [R. decreto 9 aprile 1911, n. 330](Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20risoluzione%20delle%20controversie%20doganali.%20011U0330.md), che approva il testo unico di leggi per la risoluzione delle controversie doganali, modificato col [R. decreto-legge 11 maggio 1924, numero 807](Costituzione%20del%20Collegio%20consultivo%20dei%20periti%20doganali.%20024U0807.md);
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

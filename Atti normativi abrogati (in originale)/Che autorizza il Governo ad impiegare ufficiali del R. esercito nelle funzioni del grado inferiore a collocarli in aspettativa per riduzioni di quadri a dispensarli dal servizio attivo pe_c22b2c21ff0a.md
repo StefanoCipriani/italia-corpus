@@ -14,17 +14,17 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la legge 2 luglio 1896 sull'avanzamento nel R. esercito ed il regolamento per la sua esecuzione, approvato con [R. decreto 21 luglio 1907, n. 626](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md) e le loro successive modificazioni;
+Vista la legge 2 luglio 1896 sull'avanzamento nel R. esercito ed il regolamento per la sua esecuzione, approvato con [R. decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md) e le loro successive modificazioni;
 
 Viste le [leggi 8 giugno 1913, n. 601 e 21 marzo 1915, n. 301](Che%20porta%20aggiunte%20e%20varianti%20alle%20leggi%20sullavanzamento%20nel%20R.%20esercito%20015U0301.md) portanti modificazioni ed aggiunte alla legge sull'avanzamento nel R. esercito;
 
-Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del R. esercito e della R. marina ed il regolamento per la sua esecuzione approvato con [Regio decreto 18 luglio 1912, n. 867](../Regi%20decreti/Che%20approva%20le%20disposizioni%20per%20lapplicazione%20della%20legge%2018%20luglio%201912%20n.%20806%20concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0867.md), e le loro successive modificazioni;
+Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del R. esercito e della R. marina ed il regolamento per la sua esecuzione approvato con [Regio decreto 18 luglio 1912, n. 867](Che%20approva%20le%20disposizioni%20per%20lapplicazione%20della%20legge%2018%20luglio%201912%20n.%20806%20concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0867.md), e le loro successive modificazioni;
 
-Vista la [legge 17 ottobre 1881, n. 435](Che%20stabilisce%20una%20posizione%20di%20servizio%20ausiliario%20fra%20gli%20ufficiali%20del%20regio%20esercito.%20081U0435.md), sulla posizione ausiliaria ed il [Regio decreto 17 ottobre 1881, n. 440](../Regi%20decreti/Che%20stabilisce%20le%20norme%20per%20il%20collocamento%20degli%20ufficiali%20nella%20posizione%20di%20servizio%20ausiliario%20e%20per%20la%20cessazione%20dalla%20medesima.%20081U0440.md) per l'esecuzione della legge.
+Vista la [legge 17 ottobre 1881, n. 435](Che%20stabilisce%20una%20posizione%20di%20servizio%20ausiliario%20fra%20gli%20ufficiali%20del%20regio%20esercito.%20081U0435.md), sulla posizione ausiliaria ed il [Regio decreto 17 ottobre 1881, n. 440](Che%20stabilisce%20le%20norme%20per%20il%20collocamento%20degli%20ufficiali%20nella%20posizione%20di%20servizio%20ausiliario%20e%20per%20la%20cessazione%20dalla%20medesima.%20081U0440.md) per l'esecuzione della legge.
 
 Vista la [legge 25 gennaio 1888, n. 5177](Sugli%20obblighi%20di%20servizio%20degli%20ufficiali%20in%20congedo.%20088U5177.md), circa gli obblighi di servizio degli ufficiali in congedo e successive modificazioni;
 
-Visto il testo unico sugli stipendi ed assegni fissi per il R. esercito approvato con [Regio decreto 14 luglio 1898, n. 380](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md) e successive modificazioni;
+Visto il testo unico sugli stipendi ed assegni fissi per il R. esercito approvato con [Regio decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md) e successive modificazioni;
 
 Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [Regio decreto 14 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-14;70) e successive modificazioni;
 
@@ -32,7 +32,7 @@ Visti i [decreti Luogotenenziali 1° ottobre 1916, numero 1289](https://www.norm
 
 Visti i [Regi decreti 7 novembre 1919, n. 2088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-07;2088) e [20 novembre 1919, n. 2240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-20;2240), relativi alla graduale sistemazione dei quadri degli ufficiali del Regio esercito in servizio attivo permanente;
 
-Visto il [R. decreto 4 dicembre 1919, n. 2309](../Regi%20decreti/Che%20in%20applicazione%20del%20Regio%20decreto-legge%207%20novembre%201919%20n.%202088%20stabilisce%20norme%20per%20limpiego%20temporaneo%20di%20ufficiali%20del%20R.%20esercito%20in%20alcuni%20incarichi%20del%20grado%20inferiore.%20019U2309.md), per l'impiego temporaneo di ufficiali del R. esercito in incarichi del grado inferiore;
+Visto il [R. decreto 4 dicembre 1919, n. 2309](Che%20in%20applicazione%20del%20Regio%20decreto-legge%207%20novembre%201919%20n.%202088%20stabilisce%20norme%20per%20limpiego%20temporaneo%20di%20ufficiali%20del%20R.%20esercito%20in%20alcuni%20incarichi%20del%20grado%20inferiore.%20019U2309.md), per l'impiego temporaneo di ufficiali del R. esercito in incarichi del grado inferiore;
 
 Udito il consiglio dei ministri;
 

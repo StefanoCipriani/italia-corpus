@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R.D. 6 luglio 1912 n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-07-06;749);
 
-Visto il. [R.D. 8 aprile 1937 n. 431](../Regi%20decreti/Modificazione%20della%20denominazione%20del%20Ministero%20delle%20colonie.%20037U0431.md);
+Visto il. [R.D. 8 aprile 1937 n. 431](Modificazione%20della%20denominazione%20del%20Ministero%20delle%20colonie.%20037U0431.md);
 
 Visto l'[art. 18 della legge 19 gennaio 1939, n. 129](Istituzione%20della%20Camera%20dei%20Fasci%20e%20delle%20Corporazioni.%20039U0129.md);
 
@@ -50,6 +50,6 @@ Il presente decreto, che sara' presentato alle assemblee legislative per la sua 
  
  BADOGLIO 
  
- Visto: (ai sensi del [R.D. 30 ottobre 1943 n. 1/B](../Regi%20decreti/Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
+ Visto: (ai sensi del [R.D. 30 ottobre 1943 n. 1/B](Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
  
  Il Guardasigilli: BADOGLIO

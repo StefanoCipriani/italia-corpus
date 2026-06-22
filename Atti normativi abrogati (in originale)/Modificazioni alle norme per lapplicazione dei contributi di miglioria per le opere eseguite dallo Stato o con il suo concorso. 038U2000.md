@@ -20,7 +20,7 @@ Vista la [legge 6 aprile 1933, n. 427](Contributi%20di%20miglioria%20per%20le%20
 
 Visto il [R. decreto-legge 3 dicembre 1934, n. 2049](Norme%20integrative%20per%20lapplicazione%20dei%20contributi%20di%20miglioria%20per%20le%20opere%20eseguite%20dallo%20Stato%20o%20con%20il%20concorso%20dello%20Stato.%20034U2049.md), convertito nella [legge 4 aprile 1935, n. 584](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20dicembre%201934%20n.%202049%20che%20reca%20norme%20integrative%20per%20lapplicazione%20dei%20contributi%20di%20miglioria%20per%20le%20opere%20eseguite%20dallo%20Stato%20o%20con%20il%20conco_a98f2f8688af.md);
 
-Visto il testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
+Visto il testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
 
 Ritenuta la necessita' urgente ed assoluta di apportare modificazioni alle norme per l'applicazione dei contributi di miglioria per le opere eseguite dallo Stato o con il suo concorso;
 
@@ -103,7 +103,7 @@ Per le opere eseguite dallo Stato, direttamente o per concessione, il contributo
 
 L'intendenza di finanza, avuti gli elementi di cui all'articolo 10, li trasmette all'Ufficio tecnico erariale, che compila l'elenco di cui al precedente articolo 9. Tale elenco, a cura dell'Intendenza di finanza, viene depositato per trenta giorni nell'ufficio comunale e del deposito e' dato avviso al pubblico con apposito manifesto. 
  
- I singoli interessati vengono avvisati della loro inclusione nell'elenco, mediante notificazione da effettuarsi per mezzo del messo comunale, oppure per mezzo della posta nelle forme stabilite dal [R. decreto 21 ottobre 1923, n. 2393](../Regi%20decreti/Norme%20per%20la%20notificazione%20degli%20atti%20giudiziari%20a%20mezzo%20della%20posta.%20023U2393.md).
+ I singoli interessati vengono avvisati della loro inclusione nell'elenco, mediante notificazione da effettuarsi per mezzo del messo comunale, oppure per mezzo della posta nelle forme stabilite dal [R. decreto 21 ottobre 1923, n. 2393](Norme%20per%20la%20notificazione%20degli%20atti%20giudiziari%20a%20mezzo%20della%20posta.%20023U2393.md).
 
 ### Art. 12.
 
@@ -195,7 +195,7 @@ Restano ferme le disposizioni del [R. decreto-legge 6 luglio 1931, n. 981](Appro
 
 ### Art. 24.
 
-L'esenzione dall'onere del contributo di miglioria in dipendenza di opere pubbliche eseguite dalle Provincie e dai Comuni senza il concorso dello Stato, di cui all'art. 237 del testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' estesa agli immobili appartenenti agli Enti ed Istituti che, a norma delle vigenti disposizioni, provvedono alla costruzione od all'acquisto di case popolari, nonche' all'Istituto nazionale per la costruzione delle case per gli impiegati dello Stato.
+L'esenzione dall'onere del contributo di miglioria in dipendenza di opere pubbliche eseguite dalle Provincie e dai Comuni senza il concorso dello Stato, di cui all'art. 237 del testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' estesa agli immobili appartenenti agli Enti ed Istituti che, a norma delle vigenti disposizioni, provvedono alla costruzione od all'acquisto di case popolari, nonche' all'Istituto nazionale per la costruzione delle case per gli impiegati dello Stato.
 
 ### Art. 25.
 

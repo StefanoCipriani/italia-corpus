@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il R.D. 24 giugno 1935, n, 1009;
 
-Visto il [R.D. 27 maggio 1937, n. 752](../Regi%20decreti/Modificazione%20della%20denominazione%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda.%20037U0752.md);
+Visto il [R.D. 27 maggio 1937, n. 752](Modificazione%20della%20denominazione%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda.%20037U0752.md);
 
 Visto l'[art. 18 della legge 19 gennaio 1939, n. 129](Istituzione%20della%20Camera%20dei%20Fasci%20e%20delle%20Corporazioni.%20039U0129.md);
 

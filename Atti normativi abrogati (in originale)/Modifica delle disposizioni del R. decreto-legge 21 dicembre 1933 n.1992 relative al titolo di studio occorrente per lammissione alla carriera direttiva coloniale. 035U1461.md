@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e le successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e le successive modificazioni;
 
 Visto l'[art. 8 del R. decreto-legge 26 febbraio 1928, n. 355](Riordinamento%20del%20personale%20dellAmministrazione%20coloniale.%20028U0355.md), convertito nella [legge 22 novembre 1928, n. 3450](Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20febbraio%201928%20n.%20355%20concernente%20il%20riordinamento%20del%20personale%20dellAmministrazione%20coloniale.%20028U3450.md), modificato dall'[art. 1 del R. decreto-legge 21 dicembre 1933, n. 1992](Modifiche%20al%20R.%20decreto-legge%2026%20febbraio%201928%20n.%20355%20sullordinamento%20del%20personale%20coloniale.%20033U1992.md), convertito nella [legge 14 giugno 1934, n. 1270](Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20dicembre%201933%20n.%201992%20riflettente%20modifiche%20al%20R.%20decreto-legge%2026%20febbraio%201928%20n.%20355%20sullordinamento%20del%20personale%20coloniale.%20034U1270.md), che determina i requisiti per accedere alla carriera direttiva dell'Amministrazione coloniale;
 

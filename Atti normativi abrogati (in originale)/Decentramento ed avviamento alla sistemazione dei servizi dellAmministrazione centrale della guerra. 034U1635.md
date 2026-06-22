@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con [R. decreto 2 febbraio 1928, n. 263](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con [R. decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), e successive modificazioni;
 
-Visto il testo unico delle leggi sull'ordinamento dell'amministrazione centrale della guerra e dei personali civili dipendenti, approvato con [R. decreto 23 febbraio 1928, numero 327](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md);
+Visto il testo unico delle leggi sull'ordinamento dell'amministrazione centrale della guerra e dei personali civili dipendenti, approvato con [R. decreto 23 febbraio 1928, numero 327](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md);
 
-Visto il [R. decreto 27 aprile 1931, n. 985](../Regi%20decreti/Revisione%20dei%20ruoli%20organici%20dei%20personali%20civili%20dellAmministrazione%20della%20guerra.%20031U0985.md), concernente la revisione dei ruoli organici dei personali civili dell'amministrazione della guerra;
+Visto il [R. decreto 27 aprile 1931, n. 985](Revisione%20dei%20ruoli%20organici%20dei%20personali%20civili%20dellAmministrazione%20della%20guerra.%20031U0985.md), concernente la revisione dei ruoli organici dei personali civili dell'amministrazione della guerra;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), concernente la posizione dei funzionari fuori ruolo;
+Visto il [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), concernente la posizione dei funzionari fuori ruolo;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -32,7 +32,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-In aggiunta alle facolta' ed alle attribuzioni devolute ai comandi di corpo d'armata, ai comandi militari della Sicilia e della, Sardegna, al comando generale dell'arma dei carabinieri Reali ed ai corpi, a tenore del testo unico dello disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari approvato con [R. decreto 2 febbraio 1928, n. 263](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), e di altre disposizioni successive, il Ministro per la guerra e' autorizzato a decentrare sui comandi e sui corpi suaccennati, gradualmente e con suoi decreti, di concerto col Ministro per le finanze, servizi di carattere esecutivo ora disimpegnati direttamente in base agli ordinamenti vigenti, fissando altresi' le modalita' ed i limiti entro cui detti comandi e corpi dovranno provvedere ai compiti che verranno loro attribuiti.
+In aggiunta alle facolta' ed alle attribuzioni devolute ai comandi di corpo d'armata, ai comandi militari della Sicilia e della, Sardegna, al comando generale dell'arma dei carabinieri Reali ed ai corpi, a tenore del testo unico dello disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari approvato con [R. decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), e di altre disposizioni successive, il Ministro per la guerra e' autorizzato a decentrare sui comandi e sui corpi suaccennati, gradualmente e con suoi decreti, di concerto col Ministro per le finanze, servizi di carattere esecutivo ora disimpegnati direttamente in base agli ordinamenti vigenti, fissando altresi' le modalita' ed i limiti entro cui detti comandi e corpi dovranno provvedere ai compiti che verranno loro attribuiti.
 
 ## Art. 2.
 
@@ -42,7 +42,7 @@ Salvo il controllo ministeriale da esercitarsi sia in sede ispettiva, sia in sed
  
  Il parere dell'organo tecnico od amministrativo territoriale non vincola in nessun caso i comandi responsabili; esso pero' deve sempre essere allegato agli atti, ai fini del riscontro successivo dell'atto di gestione cui si riferisce. 
  
- La carica e le funzioni di ispettore amministrativo territoriale di cui all'art. 4 del testo unico delle leggi sull'ordinamento dell'amministrazione centrale della guerra approvato con [R. decreto 23 febbraio 1928, n. 327, e all'art. 5](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md) del testo unico approvato con [R. decreto 2 febbraio 1928, n. 263](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), sono abolite.
+ La carica e le funzioni di ispettore amministrativo territoriale di cui all'art. 4 del testo unico delle leggi sull'ordinamento dell'amministrazione centrale della guerra approvato con [R. decreto 23 febbraio 1928, n. 327, e all'art. 5](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md) del testo unico approvato con [R. decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), sono abolite.
 
 ## Art. 3.
 
@@ -50,7 +50,7 @@ Le facolta' e le attribuzioni gia' decentrate e quelle che saranno decentrate su
  
  Al detto ufficio e' assegnato, con decreto del Ministro per la guerra, un funzionario facente parte del ruolo amministrativo dell'amministrazione centrale di grado non superiore al 7°, il quale ne e' il dirigente, coadiuvato da altro funzionario di grado inferiore. 
  
- Resta ferma la facolta' riservata ai ministri per la guerra e per le finanze dall'articolo 6 del testo unico approvato con [R. decreto 2 febbraio 1928, n. 263](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), sovra citato. 
+ Resta ferma la facolta' riservata ai ministri per la guerra e per le finanze dall'articolo 6 del testo unico approvato con [R. decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), sovra citato. 
  
  Ai funzionari del personale amministrativo dell'Amministrazione centrale della guerra e a quelli di cui al suaccennato articolo 6 - destinati fuori della capitale a dirigere gli « uffici amministrativi » e a farne parte - e' corrisposto il trattamento rispettivamente previsto dall'articolo 7 del testo unico suddetto: 
  
@@ -70,9 +70,9 @@ Ai fini dell'articolo precedente il territorio del Regno e' diviso in sette zone
 
 ## Art. 6.
 
-I sette funzionari di grado non superiore al 6° di cui al precedente articolo sono, con le garazie di cui al [R. decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), surrogati nel ruolo organico del proprio grado, con deroga al [secondo comma dell'articolo 17 del R. decreto legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46#art_17-com2), convertito in legge con la [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md). 
+I sette funzionari di grado non superiore al 6° di cui al precedente articolo sono, con le garazie di cui al [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), surrogati nel ruolo organico del proprio grado, con deroga al [secondo comma dell'articolo 17 del R. decreto legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46#art_17-com2), convertito in legge con la [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md). 
  
- L'articolo 5 del testo unico delle leggi sull'ordinamento dell'amministrazione centrale della guerra e dei personali civili dipendenti approvato con [R. decreto 23 febbraio 1928, n. 327](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), e' abrogato, salvo quanto e' disposto al successivo articolo 11.
+ L'articolo 5 del testo unico delle leggi sull'ordinamento dell'amministrazione centrale della guerra e dei personali civili dipendenti approvato con [R. decreto 23 febbraio 1928, n. 327](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), e' abrogato, salvo quanto e' disposto al successivo articolo 11.
 
 ## Art. 7.
 
@@ -90,7 +90,7 @@ Nessun funzionario del personale amministrativo dell'amministrazione centrale de
 
 ## Art. 9.
 
-La tabella annessa al [R. decreto 27 aprile 1931, n. 985](../Regi%20decreti/Revisione%20dei%20ruoli%20organici%20dei%20personali%20civili%20dellAmministrazione%20della%20guerra.%20031U0985.md), relativa al ruolo organico della carriera amministrativa dell'amministrazione centrale della guerra e' sostituita dalla seguente: 
+La tabella annessa al [R. decreto 27 aprile 1931, n. 985](Revisione%20dei%20ruoli%20organici%20dei%20personali%20civili%20dellAmministrazione%20della%20guerra.%20031U0985.md), relativa al ruolo organico della carriera amministrativa dell'amministrazione centrale della guerra e' sostituita dalla seguente: 
  
 
  Grado Numero dei posti
@@ -122,7 +122,7 @@ In relazione all'attuale situazione del personale amministrativo fuori ruolo son
 
 ### Art. 11.
 
-Ai funzionari dell'amministrazione centrale della guerra di grado 7° che alla data di entrata in vigore del presento decreto coprano le funzioni di ispettore amministrativo territoriale e siano eventualmente destinati a dirigere uno degli uffici amministrativi di nuova istituzione, continuera' ad essere attribuito ad personam durante tale incarico, il grado 6° della gerarchia, a norma del secondo comma dell'art. 5 del testo unico delle leggi sull'ordinamento dell'amministrazione centrale della guerra approvato con [R. decreto 23 febbraio 1928, n. 327](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md).
+Ai funzionari dell'amministrazione centrale della guerra di grado 7° che alla data di entrata in vigore del presento decreto coprano le funzioni di ispettore amministrativo territoriale e siano eventualmente destinati a dirigere uno degli uffici amministrativi di nuova istituzione, continuera' ad essere attribuito ad personam durante tale incarico, il grado 6° della gerarchia, a norma del secondo comma dell'art. 5 del testo unico delle leggi sull'ordinamento dell'amministrazione centrale della guerra approvato con [R. decreto 23 febbraio 1928, n. 327](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md).
 
 ### Art. 12.
 

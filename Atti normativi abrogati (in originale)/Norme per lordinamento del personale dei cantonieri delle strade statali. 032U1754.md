@@ -58,7 +58,7 @@ Tutte le nomine e promozioni nel corpo dei cantonieri sono di competenza del Min
 
 All'inquadramento nelle nuove tabelle organiche del personale gia' in servizio alla data della presente legge, esclusi i cantonieri in prova, ed alla conseguente assegnazione nelle singole categorie, si provvedera' mediante decreto del Ministro per i lavori pubblici, presidente dell'A.A.S.S., su parere di apposita Commissione, la quale formera' una graduatoria, indipendentemente dall'attuale posizione in ruolo del personale, tenendo conto dell'anzianita' di servizio, dei titoli di merito di ciascun agente, e della specifica attitudine ai posti da coprire. 
  
- E' data facolta' al Ministro per i lavori pubblici, presidente dell'A.A.S.S., di procedere gradualmente entro il 31 dicembre 1933, su parere della detta Commissione, e senza alcuna formalita' speciale, all'esonero, nel limite massimo del cinque per cento, di tutto il personale indicato nella tabella F, allegata al [R. decreto 1° giugno 1928, n. 1139](../Regi%20decreti/Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), di quegli agenti che non abbiano dimostrato sufficiente capacita', qualunque sia il motivo, alle mansioni di cantoniere. 
+ E' data facolta' al Ministro per i lavori pubblici, presidente dell'A.A.S.S., di procedere gradualmente entro il 31 dicembre 1933, su parere della detta Commissione, e senza alcuna formalita' speciale, all'esonero, nel limite massimo del cinque per cento, di tutto il personale indicato nella tabella F, allegata al [R. decreto 1° giugno 1928, n. 1139](Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), di quegli agenti che non abbiano dimostrato sufficiente capacita', qualunque sia il motivo, alle mansioni di cantoniere. 
  
  La Commissione predetta sara' nominata dal Ministro per i lavori pubblici, presidente dell'A.A.S.S., e sara' composta del direttore generale dell'A.A.S.S., presidente, ed in sua vece del direttore dei servizi amministrativi, e di due funzionari della Direzione generale dell'A.A.S.S., di grado non inferiore al 7°.
 
@@ -70,7 +70,7 @@ Nella prima applicazione della presente legge, ed in ogni caso non oltre il 30 g
 
 ## Art. 7.
 
-Per il trattamento di quiescenza dei cantonieri e capi cantonieri provenienti, dai ruoli delle Amministrazioni provinciali, ed assunti dall'A.A.S.S, in base all'[art. 13 del Regio decreto 1° giugno 1928, n. 1139](../Regi%20decreti/Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), saranno applicate le disposizioni dell'[art. 48 del testo unico 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-02-21;70#art_48).
+Per il trattamento di quiescenza dei cantonieri e capi cantonieri provenienti, dai ruoli delle Amministrazioni provinciali, ed assunti dall'A.A.S.S, in base all'[art. 13 del Regio decreto 1° giugno 1928, n. 1139](Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), saranno applicate le disposizioni dell'[art. 48 del testo unico 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-02-21;70#art_48).
 
 ## Art. 8.
 

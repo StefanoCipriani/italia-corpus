@@ -30,7 +30,7 @@ E' autorizzata la spesa di L. 5,000,000 per la costruzione nella nuova sede dell
 
 ## Art. 2.
 
-La suindicata spesa sara' prelevata dal fondo di riserva di cui all'art. 2, 2° comma, del [R. decreto-legge 11 novembre 1924, n. 1932](Stanziamento%20della%20somma%20di%20L.%2015%20miliardi%20dallesercizio%201924-25%20allesercizio%201935-36%20per%20opere%20pubbliche%20straordinarie.%20024U1932.md), e verra' portata in aumento ai fondi autorizzati per opere dipendenti da alluvioni, piene e frane nell'Italia centrale col [R. decreto 19 marzo 1925, n. 266](../Regi%20decreti/Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), che approva il riparto della somma di L. 15,000,000,000 di cui all'art. 1 del citato R. decreto-legge 11 novembre 1924.
+La suindicata spesa sara' prelevata dal fondo di riserva di cui all'art. 2, 2° comma, del [R. decreto-legge 11 novembre 1924, n. 1932](Stanziamento%20della%20somma%20di%20L.%2015%20miliardi%20dallesercizio%201924-25%20allesercizio%201935-36%20per%20opere%20pubbliche%20straordinarie.%20024U1932.md), e verra' portata in aumento ai fondi autorizzati per opere dipendenti da alluvioni, piene e frane nell'Italia centrale col [R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), che approva il riparto della somma di L. 15,000,000,000 di cui all'art. 1 del citato R. decreto-legge 11 novembre 1924.
 
 ## Art. 3.
 

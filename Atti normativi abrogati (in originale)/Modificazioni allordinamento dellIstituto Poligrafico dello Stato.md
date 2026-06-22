@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 30 ottobre 1896, n. 508](../Regi%20decreti/Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md);
+Visto il [regio decreto 30 ottobre 1896, n. 508](Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md);
 
 Visto il [regio decreto-legge 7 marzo 1926, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-07;412);
 
 Visto la [legge 6 dicembre 1928, n. 2744](Costituzione%20dellIstituto%20Poligrafico%20dello%20Stato.%20028U2744.md);
 
-Visto il [regio decreto 20 giugno 1929, n. 1058](../Regi%20decreti/Approvazione%20del%20regolamento%20sui%20servizi%20del%20Provveditorato%20Generale%20dello%20Stato.%20029U1058.md);
+Visto il [regio decreto 20 giugno 1929, n. 1058](Approvazione%20del%20regolamento%20sui%20servizi%20del%20Provveditorato%20Generale%20dello%20Stato.%20029U1058.md);
 
 Vista la [legge 24 marzo 1932, n. 273](Modificazioni%20e%20chiarimenti%20alle%20disposizioni%20che%20disciplinano%20il%20funzionamento%20dellIstituto%20Poligrafico%20dello%20Stato.%20032U0273.md);
 
@@ -30,7 +30,7 @@ Vista la [legge 29 giugno 1940, n. 802](Modificazioni%20allart.%2024%20del%20reg
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo luogotenenziale 5 ottobre 1945, n. 703](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20disposizioni%20legislative%20circa%20la%20costituzione%20dellIstituto%20Poligrafico%20dello%20Stato.%20045U0703.md);
+Visto il [decreto legislativo luogotenenziale 5 ottobre 1945, n. 703](Modificazioni%20alle%20disposizioni%20legislative%20circa%20la%20costituzione%20dellIstituto%20Poligrafico%20dello%20Stato.%20045U0703.md);
 
 Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
@@ -57,7 +57,7 @@ L'Istituto Poligrafico dello Stato gestisce, in Sezione autonoma speciale, per c
 ## Art. 3. — (Controllo sulla fabbricazione delle carte valori).
 
 Il Provveditorato generale dello Stato esercita, per mezzo di propri funzionari, il controllo sulla fabbricazione della carta da avvalorare e quello sulla stampa e distribuzione delle carte valori e degli stampati rappresentativi di valori, soggetti a rendiconto.
- Nulla e' innovato ai poteri di vigilanza e di controllo, spettanti, a norma del regolamento approvato con [regio decreto 30 ottobre 1896, n. 508](../Regi%20decreti/Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md), e del [regio decreto-legge 20 maggio 1935, n. 874](Autorizzazione%20a%20ritirare%20dalla%20circolazione%20le%20attuali%20monete%20di%20argento%20e%20ad%20emettere%20biglietti%20di%20Stato.%20035U0874.md), convertito nella [legge del 22 dicembre 1935, n. 2393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-12-22;2393), rispettivamente alla Direzione generale del Tesoro per la fabbricazione dei biglietti di Stato ed alla Banca d'Italia per la fabbricazione dei biglietti di banca, commessi all'Istituto Poligrafico dello Stato.
+ Nulla e' innovato ai poteri di vigilanza e di controllo, spettanti, a norma del regolamento approvato con [regio decreto 30 ottobre 1896, n. 508](Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md), e del [regio decreto-legge 20 maggio 1935, n. 874](Autorizzazione%20a%20ritirare%20dalla%20circolazione%20le%20attuali%20monete%20di%20argento%20e%20ad%20emettere%20biglietti%20di%20Stato.%20035U0874.md), convertito nella [legge del 22 dicembre 1935, n. 2393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-12-22;2393), rispettivamente alla Direzione generale del Tesoro per la fabbricazione dei biglietti di Stato ed alla Banca d'Italia per la fabbricazione dei biglietti di banca, commessi all'Istituto Poligrafico dello Stato.
 
 ## Art. 4. — (Esecuzione di forniture, lavori e servizi oltre
  quelli d'istituto - Esenzioni tributarie).
@@ -176,7 +176,7 @@ Il pagamento del saldo e' documentato con apposito rendiconto al quale debbono e
 
 ## Art. 21. — (Sindacato della Corte dei conti).
 
-Nulla e' innovato per quanto concerne il sindacato della Corte dei conti sull'Officina carte valori, ai sensi del [regio decreto-legge 7 marzo 1926, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-07;412), e del [regio decreto-legge 30 marzo 1935, n. 874](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-03-30;874), convertito nella [legge 23 dicembre 1935, n. 2393](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20maggio%201935-XIII%20n.%20874%20che%20autorizza%20a%20ritirare%20dalla%20circolazione%20le%20attuali%20monete%20di%20argento%20e%20ad%20emettere%20biglietti%20di%20Stato.%20035U2393.md).
+Nulla e' innovato per quanto concerne il sindacato della Corte dei conti sull'Officina carte valori, ai sensi del [regio decreto-legge 7 marzo 1926, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-07;412), e del [regio decreto-legge 30 marzo 1935, n. 874](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-03-30;874), convertito nella [legge 23 dicembre 1935, n. 2393](Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20maggio%201935-XIII%20n.%20874%20che%20autorizza%20a%20ritirare%20dalla%20circolazione%20le%20attuali%20monete%20di%20argento%20e%20ad%20emettere%20biglietti%20di%20Stato.%20035U2393.md).
 
 ## Art. 22. — (Assistenza dell'Avvocatura dello Stato
  e degli organi dell'Amministrazione finanziaria).

@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto n. 1254 del 15 novembre 1914](../Regi%20decreti/Da%20convertirsi%20in%20legge%20riguardante%20la%20costituzione%20di%20un%20nuovo%20reggimento%20di%20artiglieria%20da%20montagna.%20014U1254.md), relativo alla formazione di un nuovo reggimento di artiglieria da montagna. 
+ E' convertito in legge il [R. decreto n. 1254 del 15 novembre 1914](Da%20convertirsi%20in%20legge%20riguardante%20la%20costituzione%20di%20un%20nuovo%20reggimento%20di%20artiglieria%20da%20montagna.%20014U1254.md), relativo alla formazione di un nuovo reggimento di artiglieria da montagna. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

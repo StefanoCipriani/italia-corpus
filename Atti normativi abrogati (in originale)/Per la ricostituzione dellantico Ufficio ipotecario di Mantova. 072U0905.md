@@ -54,7 +54,7 @@ Le inscrizioni e trascrizioni ipotecarie, i relativi annotamenti d'ogni specie, 
  
  In questo caso pero' gli effetti ipotecari incomincieranno dal giorno in cui le formalita' e le operazioni saranno state eseguite nei nuovi uffici. 
  
- Nulla viene mutato rispetto alla rinnovazione delle iscrizioni indicate nell'[articolo 34 del Regio decreto 25 giugno 1871, n. 284](../Regi%20decreti/Contenente%20disposizioni%20transitorie%20ed%20altre%20per%20lunificazione%20legislativa%20delle%20Provincie%20della%20Venezia%20e%20di%20Mantova.%20071U0284.md), serie 2ª.
+ Nulla viene mutato rispetto alla rinnovazione delle iscrizioni indicate nell'[articolo 34 del Regio decreto 25 giugno 1871, n. 284](Contenente%20disposizioni%20transitorie%20ed%20altre%20per%20lunificazione%20legislativa%20delle%20Provincie%20della%20Venezia%20e%20di%20Mantova.%20071U0284.md), serie 2ª.
 
 ## Art. 9.
 

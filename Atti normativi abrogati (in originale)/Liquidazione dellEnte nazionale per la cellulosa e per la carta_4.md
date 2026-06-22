@@ -68,7 +68,7 @@ connesse con i settori del legno e della carta;
 1.
 
 Con decreto del Presidente del Consiglio dei Ministri, il personale dipendente dall'ENCC e dalle societa' controllate viene trasferito, in relazione alle carenze di organico risultanti dall'esame dei carichi di lavoro, presso altre amministrazioni dello Stato, enti pubblici o regioni, su proposta del Ministro per la funzione pubblica e del Ministro dell'industria, del commercio e dell'artigianato, previa intesa con l'amministrazione interessata.
-Con il medesimo decreto si provvede a regolare i rapporti in essere tra i dipendenti dell'ENCC ed il vigente "Fondo di previdenza per i dipendenti dell'ENCC", anche al fine di consentire l'esercizio della facolta' prevista dall'[articolo 5 del decreto del Presidente della Repubblica 22 marzo 1993, n. 104](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%2029%20dicembre%201988%20n.%20554%20concernente%20il%20regime%20pensionistico%20e%20previdenziale%20dei%20dipendenti%20trasferiti%20in%20seguito%20ai%20processi%20di%20mobilita.md).
+Con il medesimo decreto si provvede a regolare i rapporti in essere tra i dipendenti dell'ENCC ed il vigente "Fondo di previdenza per i dipendenti dell'ENCC", anche al fine di consentire l'esercizio della facolta' prevista dall'[articolo 5 del decreto del Presidente della Repubblica 22 marzo 1993, n. 104](../DPR/Regolamento%20di%20attuazione%20della%20legge%2029%20dicembre%201988%20n.%20554%20concernente%20il%20regime%20pensionistico%20e%20previdenziale%20dei%20dipendenti%20trasferiti%20in%20seguito%20ai%20processi%20di%20mobilita.md).
 
 2.
 

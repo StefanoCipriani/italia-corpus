@@ -48,7 +48,7 @@ L'importo massimo delle erogazioni da effettuare, ai termini del [R. decreto 25 
 
 ## Art. 6.
 
-E' prorogata al 30 giugno 1928 l'efficacia delle disposizioni di cui al [R. decreto 26 luglio 1925, n. 1237](../Regi%20decreti/Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md).
+E' prorogata al 30 giugno 1928 l'efficacia delle disposizioni di cui al [R. decreto 26 luglio 1925, n. 1237](Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md).
 
 ## Art. 7.
 

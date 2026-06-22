@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+Visto il [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Visti il testo unico delle leggi sugli ufficiali ed agenti di pubblica sicurezza 31 agosto 1907, n. 690, ed il relativo regolamento approvato con [regio decreto 20 agosto 1909, n. 666](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20gli%20ufficiali%20ed%20impiegati%20di%20P.%20S.%20009U0666.md);
 
-Visto il [regio decreto 17 novembre 1932, n. 1595](../Regi%20decreti/Modificazioni%20allordinamento%20del%20personale%20di%20pubblica%20sicurezza.%20032U1595.md), che reca modifiche all'ordinamento del personale di pubblica sicurezza;
+Visto il [regio decreto 17 novembre 1932, n. 1595](Modificazioni%20allordinamento%20del%20personale%20di%20pubblica%20sicurezza.%20032U1595.md), che reca modifiche all'ordinamento del personale di pubblica sicurezza;
 
 Visto il [regio decreto 22 novembre 1937, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-11-22;39), che stabilisce il nuovo organico del personale di gruppo A dell'Amministrazione della pubblica sicurezza;
 

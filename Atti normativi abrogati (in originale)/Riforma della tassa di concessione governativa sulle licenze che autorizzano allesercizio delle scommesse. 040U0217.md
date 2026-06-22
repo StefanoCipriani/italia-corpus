@@ -10,13 +10,13 @@ vigente: true
 
 ## Art. 1.
 
-Le societa', di corse di cavalli, di levrieri, di regate, di giuochi di palla e di pallone o di altre simili gare, debitamente costituite e debitamente autorizzate, a termini dell'[art. 88 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 18 giugno 1931-IX, n. 773, hanno esclusivamente il diritto di esercitare per le proprie corse, tanto negli ippodromi e negli altri luoghi ove si svolgono le gare, quanto fuori di essi, i totalizzatori e le scommesse a libro, sia direttamente che per mezzo di allibratori e di gestori delle cosi' dette sale di corse, purche' questi agiscano in nome e per conto delle societa'. 
+Le societa', di corse di cavalli, di levrieri, di regate, di giuochi di palla e di pallone o di altre simili gare, debitamente costituite e debitamente autorizzate, a termini dell'[art. 88 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 18 giugno 1931-IX, n. 773, hanno esclusivamente il diritto di esercitare per le proprie corse, tanto negli ippodromi e negli altri luoghi ove si svolgono le gare, quanto fuori di essi, i totalizzatori e le scommesse a libro, sia direttamente che per mezzo di allibratori e di gestori delle cosi' dette sale di corse, purche' questi agiscano in nome e per conto delle societa'. 
  
  Le societa' sovraricordate per l'esercizio diretto delle scommesse devono essere munite, per ogni genere di gare, di licenza annuale con scadenza al 31 dicembre di ogni anno, soggetta alla tassa di concessione governativa di L. 1500.
 
 ## Art. 2.
 
-Gli allibratori e i gestori delle cosi' dette sale di corse per potere essere ammessi, ai sensi dell'[art. 88 del testo unico dello leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 18 giugno 1931-IX, n. 773, e a norma dell'articolo precedente, ad esercitare le scommesse nelle corse, nelle regate, nei giuochi di palla e di pallone, o in altro simili gare, debbono ottenere speciale preventiva autorizzazione personale di polizia. 
+Gli allibratori e i gestori delle cosi' dette sale di corse per potere essere ammessi, ai sensi dell'[art. 88 del testo unico dello leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 18 giugno 1931-IX, n. 773, e a norma dell'articolo precedente, ad esercitare le scommesse nelle corse, nelle regate, nei giuochi di palla e di pallone, o in altro simili gare, debbono ottenere speciale preventiva autorizzazione personale di polizia. 
  
  Tale autorizzazione non puo' riguardare che un solo determinato genere di gare, ha la durata di un anno con scadenza al 31 dicembre ed e' soggetto alla tassa di concessione governativa di L. 1200.
 
@@ -28,7 +28,7 @@ Gli allibratori e i gestori delle cosi' dette sale di corse autorizzati dalle so
 
 ## Art. 4.
 
-Coloro che esercitano le attivita' previste nella presente legge senza aver ottenuto la prescritta autorizzazione o licenza, sono puniti a norma dell'ultimo comma dell'[articolo 88 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 18 giugno 1931-IX, n. 773, con l'arresto da due mesi ad un anno e con l'ammenda non inferiore a L.
+Coloro che esercitano le attivita' previste nella presente legge senza aver ottenuto la prescritta autorizzazione o licenza, sono puniti a norma dell'ultimo comma dell'[articolo 88 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 18 giugno 1931-IX, n. 773, con l'arresto da due mesi ad un anno e con l'ammenda non inferiore a L.
 5000. 
  
  Indipendentemente dalle sanzioni di cui sopra, per il mancato o ritardato pagamento delle tasse sulle concessioni governative, sono puniti con la pena, pecuniaria da due a quattro volte la tassa evasa.

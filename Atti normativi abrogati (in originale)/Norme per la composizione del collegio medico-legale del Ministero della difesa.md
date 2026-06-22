@@ -53,7 +53,7 @@ Il primo comma dell'articolo 11-bis, inserito nella [legge 11 marzo 1926, n. 416
 
 ## Art. 5.
 
-Per il richiamo in servizio degli ufficiali medici da destinare al collegio medico-legale e per l'eta' dei medici civili chiamati a far parte del collegio medesimo si applicano le disposizioni degli [articoli 108](../Testi%20Unici/Testo%20unico%20delle%20norme%20in%20materia%20di%20pensioni%20di%20guerra.md) e [109 del decreto del Presidente della Repubblica 23 dicembre 1978, n. 915](../Testi%20Unici/Testo%20unico%20delle%20norme%20in%20materia%20di%20pensioni%20di%20guerra.md).
+Per il richiamo in servizio degli ufficiali medici da destinare al collegio medico-legale e per l'eta' dei medici civili chiamati a far parte del collegio medesimo si applicano le disposizioni degli [articoli 108](../DPR/Testo%20unico%20delle%20norme%20in%20materia%20di%20pensioni%20di%20guerra.md) e [109 del decreto del Presidente della Repubblica 23 dicembre 1978, n. 915](../DPR/Testo%20unico%20delle%20norme%20in%20materia%20di%20pensioni%20di%20guerra.md).
 
 ## Art. 6.
 

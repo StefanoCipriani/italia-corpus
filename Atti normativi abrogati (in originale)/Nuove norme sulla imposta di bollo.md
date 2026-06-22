@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 27 dicembre 1952, n. 3596](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20dellesercizio%20della%20funzione%20legislativa%20per%20lemanazione%20di%20nuove%20norme%20sulle%20imposte%20sul%20bollo%20e%20sulla%20pubblicita.md), che delega al Governo l'emanazione di nuove norme sull'imposta di bollo;
+Vista la [legge 27 dicembre 1952, n. 3596](Delega%20al%20Governo%20dellesercizio%20della%20funzione%20legislativa%20per%20lemanazione%20di%20nuove%20norme%20sulle%20imposte%20sul%20bollo%20e%20sulla%20pubblicita.md), che delega al Governo l'emanazione di nuove norme sull'imposta di bollo;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -310,8 +310,8 @@ Per gli atti e scritti in violazione al bollo, oltre le sopratasse e le pene pec
 
 ### Art. 40.
 
-Nei casi di falsificazione, di contraffazione e di alterazione di valori bollati, di bollo a punzone o di attestazioni di pagamento delle imposte di bollo in modo virtuale, oltre le sanzioni previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono applicabili le pene pecuniarie e le sopratasse stabilite dal presente decreto per il mancato pagamento della imposta se questa sia dovuta.
- Le pene stabilite dall'[art. 466 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano anche a chi detiene per lo smercio ovvero usa o smercia carta bollata, marche o altri valori di bollo precedentemente usati.
+Nei casi di falsificazione, di contraffazione e di alterazione di valori bollati, di bollo a punzone o di attestazioni di pagamento delle imposte di bollo in modo virtuale, oltre le sanzioni previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono applicabili le pene pecuniarie e le sopratasse stabilite dal presente decreto per il mancato pagamento della imposta se questa sia dovuta.
+ Le pene stabilite dall'[art. 466 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano anche a chi detiene per lo smercio ovvero usa o smercia carta bollata, marche o altri valori di bollo precedentemente usati.
  La norma del primo comma si applica anche nella ipotesi prevista dal precedente comma quando nella sentenza sia accertato il precedente uso di un valore di bollo.
 
 ## Competenza per l'accertamento delle violazioni

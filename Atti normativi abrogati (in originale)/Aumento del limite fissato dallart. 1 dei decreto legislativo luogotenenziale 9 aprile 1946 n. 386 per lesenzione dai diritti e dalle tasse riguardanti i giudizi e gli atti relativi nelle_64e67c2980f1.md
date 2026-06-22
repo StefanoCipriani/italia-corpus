@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 21 maggio 1934, n. 1073](../Regi%20decreti/Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20034U1073.md);
+Visto il [regio decreto 21 maggio 1934, n. 1073](Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20034U1073.md);
 
-Visto il [decreto legislativo luogotenenziale 9 aprile 1946, n. 386](../Decreti%20legislativi%20luogotenenziali/Aumento%20del%20limite%20fissato%20dallart.%2027%20del%20R.%20decreto%2021%20maggio%201934%20n.%201073%20per%20lesenzione%20dal%20diritti%20e%20dall%20tasse%20riguardanti%20i%20giudizi%20e%20gli%20atti%20nelle%20controversie%20individuali%20di%20lavoro.md);
+Visto il [decreto legislativo luogotenenziale 9 aprile 1946, n. 386](Aumento%20del%20limite%20fissato%20dallart.%2027%20del%20R.%20decreto%2021%20maggio%201934%20n.%201073%20per%20lesenzione%20dal%20diritti%20e%20dall%20tasse%20riguardanti%20i%20giudizi%20e%20gli%20atti%20nelle%20controversie%20individuali%20di%20lavoro.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 
 ## Art. 1.
 
-Il limite di L. 10.000 stabilito dall'[art. 1 del decreto legislativo luogotenenziale 9 aprile 1946, n. 386](../Decreti%20legislativi%20luogotenenziali/Aumento%20del%20limite%20fissato%20dallart.%2027%20del%20R.%20decreto%2021%20maggio%201934%20n.%201073%20per%20lesenzione%20dal%20diritti%20e%20dall%20tasse%20riguardanti%20i%20giudizi%20e%20gli%20atti%20nelle%20controversie%20individuali%20di%20lavoro.md), per l'esenzione da qualsiasi diritto o tassa riguardante i giudizi e gli atti relativi nelle controversie individuali di lavoro e' elevato a L. 50.000.
+Il limite di L. 10.000 stabilito dall'[art. 1 del decreto legislativo luogotenenziale 9 aprile 1946, n. 386](Aumento%20del%20limite%20fissato%20dallart.%2027%20del%20R.%20decreto%2021%20maggio%201934%20n.%201073%20per%20lesenzione%20dal%20diritti%20e%20dall%20tasse%20riguardanti%20i%20giudizi%20e%20gli%20atti%20nelle%20controversie%20individuali%20di%20lavoro.md), per l'esenzione da qualsiasi diritto o tassa riguardante i giudizi e gli atti relativi nelle controversie individuali di lavoro e' elevato a L. 50.000.
 
 ## Art. 2.
 

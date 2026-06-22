@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 75 del R. decreto 14 settembre 1923, n. 1921](../Regi%20decreti/Modificazioni%20allordinamento%20giudiziario%20e%20sistemazione%20del%20personale%20della%20magistratura%20delle%20nuove%20provincie.%20023U1921.md);
+Visto l'[art. 75 del R. decreto 14 settembre 1923, n. 1921](Modificazioni%20allordinamento%20giudiziario%20e%20sistemazione%20del%20personale%20della%20magistratura%20delle%20nuove%20provincie.%20023U1921.md);
 
 Visto il il [decreto-legge del 15 agosto 1924, n. 1296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-08-15;1296);
 

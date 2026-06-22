@@ -62,7 +62,7 @@ L'importo delle fascette filigranate bollate, fino a concorrenza del loro costo,
 
 ## Art. 5.
 
-Con l'entrata in vigore del presente decreto resta soppressa, per quanto riguarda le bottiglie di liquori, vermut e marsala, la tassa speciale di bollo di cui all'[art. 3 del R. decreto 21 agosto 1921, n. 1260](../Regi%20decreti/Che%20eleva%20la%20misura%20di%20talune%20imposte%20e%20della%20tassa%20di%20bollo%20sulle%20profumerie%20vini%20liquori%20ed%20acque%20minerali%20in%20bottiglie.%20021U1260.md), e disposizioni precedenti. 
+Con l'entrata in vigore del presente decreto resta soppressa, per quanto riguarda le bottiglie di liquori, vermut e marsala, la tassa speciale di bollo di cui all'[art. 3 del R. decreto 21 agosto 1921, n. 1260](Che%20eleva%20la%20misura%20di%20talune%20imposte%20e%20della%20tassa%20di%20bollo%20sulle%20profumerie%20vini%20liquori%20ed%20acque%20minerali%20in%20bottiglie.%20021U1260.md), e disposizioni precedenti. 
  
  Resta in vigore la detta tassa per le bottiglie e altri simili recipienti di capacita' non superiore a cinque litri, di prezzo superiore a lire una, contenenti vini spumanti ed acque minerali: tale tassa e' comprensiva della addizionale. 
  

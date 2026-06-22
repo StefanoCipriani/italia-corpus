@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Possono emettersi mandati di anticipazione a favore del cassiere-economo del Ministero degli approvvigionamenti e consumi oltre che per i servizi di cui all'art. 4 del regolamento approvato con [R. decreto 17 settembre 1910, n. 859](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20gestioni%20affidate%20agli%20economi-cassieri%20delle%20Amministrazioni%20centrali.%20010U0859.md): 
+ Possono emettersi mandati di anticipazione a favore del cassiere-economo del Ministero degli approvvigionamenti e consumi oltre che per i servizi di cui all'art. 4 del regolamento approvato con [R. decreto 17 settembre 1910, n. 859](Che%20approva%20lannesso%20regolamento%20per%20le%20gestioni%20affidate%20agli%20economi-cassieri%20delle%20Amministrazioni%20centrali.%20010U0859.md): 
  
  a) per spese di copia a cottimo, di posta e per compensi al personale per lavori straordinari ed agli uscieri per maggior orario; 
  

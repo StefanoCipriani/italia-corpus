@@ -30,7 +30,7 @@ Fino a nuova disposizione il Ministro per l'economia nazionale puo' con proprio 
  
  Nei panifici per i quali sia stata concessa l'autorizzazione, i turni di lavoro debbono essere disposti in modo che le squadre di operai vengano addette al lavoro notturno alternativamente. 
  
- Per l'emanazione del decreto Ministeriale di autorizzazione si applicano le disposizioni dell'[art. 7 del R. decreto 28 giugno 1908, n. 432](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20labolizione%20del%20lavoro%20notturno%20nellindustria%20della%20panificazione.%20008U0432.md). 
+ Per l'emanazione del decreto Ministeriale di autorizzazione si applicano le disposizioni dell'[art. 7 del R. decreto 28 giugno 1908, n. 432](Che%20approva%20lannesso%20regolamento%20per%20labolizione%20del%20lavoro%20notturno%20nellindustria%20della%20panificazione.%20008U0432.md). 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

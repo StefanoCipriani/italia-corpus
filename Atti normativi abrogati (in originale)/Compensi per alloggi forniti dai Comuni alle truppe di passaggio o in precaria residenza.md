@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La tabella A annessa al regolamento sugli alloggiamenti militari dovuti dai Comuni, approvato con [regio decreto 16 gennaio 1927, n. 374](../Regi%20decreti/Approvazione%20del%20regolamento%20sugli%20alloggiamenti%20militari%20dovuti%20dai%20Comuni.%20027U0374.md), e successive modificazioni, relativa alle tariffe dei compensi per gli alloggi dovuti dai Comuni agli ufficiali ed alle truppe di passaggio o in precaria residenza, e' sostituita dalla seguente:
+La tabella A annessa al regolamento sugli alloggiamenti militari dovuti dai Comuni, approvato con [regio decreto 16 gennaio 1927, n. 374](Approvazione%20del%20regolamento%20sugli%20alloggiamenti%20militari%20dovuti%20dai%20Comuni.%20027U0374.md), e successive modificazioni, relativa alle tariffe dei compensi per gli alloggi dovuti dai Comuni agli ufficiali ed alle truppe di passaggio o in precaria residenza, e' sostituita dalla seguente:
 
 =================================================================
 |                           |                       |    Com-

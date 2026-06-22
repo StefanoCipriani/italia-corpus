@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Agli effetti dell'art. 3, n. 9, del testo unico sulla finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), i terreni acquistati od espropriati dalle Provincie per la costituzione dei campi di fortuna, nonche' le costruzioni e gli impianti in essi eseguiti, passano in proprieta' dello Stato a titolo gratuito e sono acquisiti al Demanio aeronautico. 
+ Agli effetti dell'art. 3, n. 9, del testo unico sulla finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), i terreni acquistati od espropriati dalle Provincie per la costituzione dei campi di fortuna, nonche' le costruzioni e gli impianti in essi eseguiti, passano in proprieta' dello Stato a titolo gratuito e sono acquisiti al Demanio aeronautico. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

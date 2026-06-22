@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 16 novembre 1944, n. 409](../Decreti%20legislativi%20luogotenenziali/Scioglimento%20del%20Corpo%20di%20Stato%20Maggiore%20e%20del%20Servizio%20di%20Stato%20Maggiore.%20044U0409.md);
+Visto il [decreto legislativo luogotenenziale 16 novembre 1944, n. 409](Scioglimento%20del%20Corpo%20di%20Stato%20Maggiore%20e%20del%20Servizio%20di%20Stato%20Maggiore.%20044U0409.md);
 
-Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 605](../Decreti%20legislativi%20luogotenenziali/Modificazione%20al%20decreto%20legislativo%20Luogotenenziale%2016%20novembre%201944%20n.%20409%20concernente%20lo%20scioglimento%20del%20Corpo%20e%20del%20Servizio%20di%20Stato%20Maggiore.md);
+Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 605](Modificazione%20al%20decreto%20legislativo%20Luogotenenziale%2016%20novembre%201944%20n.%20409%20concernente%20lo%20scioglimento%20del%20Corpo%20e%20del%20Servizio%20di%20Stato%20Maggiore.md);
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -42,7 +42,7 @@ E' considerato valido, agli effetti del computo del periodo utile al perfezionam
 
 ## Art. 4.
 
-Per la prima applicazione del [decreto legislativo luogotenenziale 12 aprile 1946, n. 605](../Decreti%20legislativi%20luogotenenziali/Modificazione%20al%20decreto%20legislativo%20Luogotenenziale%2016%20novembre%201944%20n.%20409%20concernente%20lo%20scioglimento%20del%20Corpo%20e%20del%20Servizio%20di%20Stato%20Maggiore.md), gli ufficiali in possesso dei requisiti stabiliti dal presente decreto, ai fini della loro destinazione alle cariche di cui al precedente art. 1, saranno presi in esame da una commissione costituita da tre generali, nominata dal Ministro per la difesa di concerto con il Ministro per il tesoro.
+Per la prima applicazione del [decreto legislativo luogotenenziale 12 aprile 1946, n. 605](Modificazione%20al%20decreto%20legislativo%20Luogotenenziale%2016%20novembre%201944%20n.%20409%20concernente%20lo%20scioglimento%20del%20Corpo%20e%20del%20Servizio%20di%20Stato%20Maggiore.md), gli ufficiali in possesso dei requisiti stabiliti dal presente decreto, ai fini della loro destinazione alle cariche di cui al precedente art. 1, saranno presi in esame da una commissione costituita da tre generali, nominata dal Ministro per la difesa di concerto con il Ministro per il tesoro.
  Successivamente i compiti di detta commissione saranno devoluti a commissioni da nominare, secondo le necessita', con la stessa procedura prescritta dal comma precedente.
 
 ## Art. 5.

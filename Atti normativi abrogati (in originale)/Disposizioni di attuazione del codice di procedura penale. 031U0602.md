@@ -35,7 +35,7 @@ Nel caso preveduto dall'[articolo 3 del codice di procedura penale](https://www.
 
 ### Art. 2.
 
-Anche quando speciali disposizioni legislative o regolamentari consentono ad enti, associazioni o privati la facolta' di costituirsi parte civile nei procedimenti penali per determinati reati, tale costituzione non puo' essere ammessa qualora non concorrano le condizioni stabilite dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dal [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) per l'esercizio dell'azione civile.
+Anche quando speciali disposizioni legislative o regolamentari consentono ad enti, associazioni o privati la facolta' di costituirsi parte civile nei procedimenti penali per determinati reati, tale costituzione non puo' essere ammessa qualora non concorrano le condizioni stabilite dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dal [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) per l'esercizio dell'azione civile.
 
 ### Art. 3.
 
@@ -71,7 +71,7 @@ Capo II
 
 ### Art. 9.
 
-Agli effetti dell'[articolo 597 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), la facolta' di deferire a un giuri' d'onore il giudizio sulla verita' del fatto s'intende esercitata quando i componenti il giuri' hanno accettato la nomina. L'accettazione deve risultare da atto scritto. 
+Agli effetti dell'[articolo 597 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), la facolta' di deferire a un giuri' d'onore il giudizio sulla verita' del fatto s'intende esercitata quando i componenti il giuri' hanno accettato la nomina. L'accettazione deve risultare da atto scritto. 
  Su richiesta dell'offeso e dell'offensore la nomina del giuri' puo' essere fatta dal presidente del tribunale competente per il giudizio di primo grado o per il giudizio d'appello. 
  Su richiesta dell'offeso e dell'offensore la nomina dei componenti il giuri' puo' anche essere fatta da associazioni legalmente riconosciute come enti morali, scegliendoli fra le persone iscritte in appositi albi formati dalle stesse associazioni e approvati dal presidente del tribunale. 
  Se vengono a mancare per qualunque causa tutti od alcuni dei componenti il giuri', il presidente del tribunale o le associazioni provvedono alla loro sostituzione.
@@ -85,7 +85,7 @@ Il giuri' d'onore si compone di uno o piu' membri in numero dispari.
 
 Le sedute del giuri' non sono pubbliche. 
  I componenti il giuri' sono obbligati al segreto per tutto cio' che concerne gli atti da essi compiuti, salvo che per il verdetto. 
- E' vietata la pubblicazione, in tutto o in parte, anche per riassunto o a guisa di informazioni, degli atti e documenti concernenti il giudizio, fatta eccezione per il verdetto. Sono applicabili gli [articoli 684](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [685 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ E' vietata la pubblicazione, in tutto o in parte, anche per riassunto o a guisa di informazioni, degli atti e documenti concernenti il giudizio, fatta eccezione per il verdetto. Sono applicabili gli [articoli 684](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [685 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  Il giuri', quando lo ritiene necessario, puo', anche di sua iniziativa, sentire testimoni. 
  Il giuri', quando sia stato nominato nei modi indicati nei capoversi dell'articolo 9, puo' chiedere documenti e informazioni alle pubbliche Amministrazioni, le quali hanno l'obbligo di fornirli, salvo che vi ostino gravi ragioni di servizio.
 
@@ -246,7 +246,7 @@ Qualora il condannato alla pena di morte chieda di fare dichiarazioni, il dirett
 
 ### Art. 40.
 
-L'insolvibilita' del condannato e della persona civilmente obbligata per l'ammenda, agli effetti indicati negli [articoli 136](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [196](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [197 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e nell'[articolo 586 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_586), si prova con certificati dell'Autorita' comunale, del procuratore delle imposte e dell'ufficio di polizia tributaria del luogo ove il condannato o la persona civilmente obbligata per l'ammenda ha il domicilio o la residenza, ovvero si deve ritenere che possieda beni o cespiti di reddito. Tali certificati devono essere richiesti e rilasciati di urgenza.
+L'insolvibilita' del condannato e della persona civilmente obbligata per l'ammenda, agli effetti indicati negli [articoli 136](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [196](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [197 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e nell'[articolo 586 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_586), si prova con certificati dell'Autorita' comunale, del procuratore delle imposte e dell'ufficio di polizia tributaria del luogo ove il condannato o la persona civilmente obbligata per l'ammenda ha il domicilio o la residenza, ovvero si deve ritenere che possieda beni o cespiti di reddito. Tali certificati devono essere richiesti e rilasciati di urgenza.
 
 ### Art. 41.
 
@@ -344,18 +344,18 @@ Quando dalle leggi o dai decreti e' prescritta la citazione direttissima in casi
 
 ### Art. 60.
 
-Rispetto ai reati gia' contemplati da leggi speciali ed attualmente preveduti dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), s'intendono abrogate anche le disposizioni riguardanti il procedimento per i reati medesimi, contenute nelle leggi predette.
+Rispetto ai reati gia' contemplati da leggi speciali ed attualmente preveduti dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), s'intendono abrogate anche le disposizioni riguardanti il procedimento per i reati medesimi, contenute nelle leggi predette.
 
 ### Art. 61.
 
-Le disposizioni di leggi speciali concernenti l'arresto in flagranza per reati non preveduti dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) continuano ad avere vigore.
+Le disposizioni di leggi speciali concernenti l'arresto in flagranza per reati non preveduti dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) continuano ad avere vigore.
 
 ### Art. 62.
 
 La corrispondenza delle formule di proscioglimento delle sentenze pronunciate nell'istruzione o nel giudizio a' termini del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) abrogato o di altre leggi con esso coordinate, si determina nel modo seguente: 
  1. - alla dichiarazione di proscioglimento perche' il fatto non sussiste o perche' l'imputato non lo ha commesso o non vi ha concorso corrisponde nell'istruzione la dichiarazione di non doversi procedere e nel giudizio la dichiarazione di assoluzione «perche' il fatto non sussiste» o «perche' l'imputato non lo ha commesso»; 
  2. - alla dichiarazione di proscioglimento perche' il fatto non costituisce reato corrisponde nell'istruzione la dichiarazione di non doversi procedere e nel giudizio la dichiarazione di assoluzione, trattandosi di persona non punibile «perche' il fatto non costituisce reato»; 
- 3. - alla dichiarazione di proscioglimento perche' l'imputato non e' punibile, o non soggiace a pena, o va esente da pena, corrisponde nell'istruzione la dichiarazione di non doversi procedere e nel giudizio la dichiarazione di assoluzione «perche' si tratta di persona non imputabile» o «perche' si tratta di persona non punibile» secondo la causa del proscioglimento, tenuto conto delle distinzioni del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 3. - alla dichiarazione di proscioglimento perche' l'imputato non e' punibile, o non soggiace a pena, o va esente da pena, corrisponde nell'istruzione la dichiarazione di non doversi procedere e nel giudizio la dichiarazione di assoluzione «perche' si tratta di persona non imputabile» o «perche' si tratta di persona non punibile» secondo la causa del proscioglimento, tenuto conto delle distinzioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  4. - alla dichiarazione di proscioglimento perche' l'azione penale e' prescritta o altrimenti estinta, corrisponde nell'istruzione e nel giudizio la dichiarazione di non doversi procedere «perche' il reato e' estinto»; 
  5. - alla dichiarazione di proscioglimento perche' l'azione penale non puo' essere promossa o proseguita, corrisponde nell'istruzione e nel giudizio la dichiarazione di non doversi procedere «perche' l'azione penale non avrebbe potuto essere iniziata o non puo' essere proseguita»; 
  6. - alla dichiarazione di proscioglimento perche' non risultano sufficienti prove che il fatto sussista o che l'imputato lo abbia commesso o vi abbia concorso, o non risultano sufficienti prove della sua colpevolezza, corrisponde nell'istruzione la dichiarazione di non doversi procedere «per insufficienza di prove» e nel giudizio la dichiarazione di assoluzione «per insufficienza di prove»; 

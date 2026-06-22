@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Vista la legge [testo unico 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1877-08-24;4021), sulla imposta di ricchezza mobile;
 
-Visti gli articoli 309 e 310 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md);
+Visti gli articoli 309 e 310 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md);
 
-Visti i [Regi decreti 21 novembre 1915, n. 1643](../Regi%20decreti/Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), e [31 maggio 1916, n. 695](../Regi%20decreti/Recante%20aumento%20del%20contributo%20del%20centesimo%20di%20guerra%20provvedimenti%20in%20materia%20di%20tasse%20sugli%20affari%20ed%20aumento%20delle%20tasse%20di%20spedizione%20dei%20pacchi%20postali%20016U0695.md), sul contributo del centesimo di guerra;
+Visti i [Regi decreti 21 novembre 1915, n. 1643](Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), e [31 maggio 1916, n. 695](Recante%20aumento%20del%20contributo%20del%20centesimo%20di%20guerra%20provvedimenti%20in%20materia%20di%20tasse%20sugli%20affari%20ed%20aumento%20delle%20tasse%20di%20spedizione%20dei%20pacchi%20postali%20016U0695.md), sul contributo del centesimo di guerra;
 
 Visto il [decreto Luogotenenziale 9 settembre 1917, n. 1546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-09-09;1546), sul riordinamento delle imposte dirette;
 
@@ -30,13 +30,13 @@ Visto il [R. decreto 30 settembre 1920, n. 1397](https://www.normattiva.it/uri-r
 
 Visto l'[art. 10 della legge 23 dicembre 1920, n. 1821](Recante%20provvedimenti%20a%20favore%20dei%20pensionati%20di%20guerra.%20020U1821.md), riguardante il contributo a favore dei mutilati, dei combattenti e delle vedove di guerra;
 
-Visto il [R. decreto 7 gennaio 1923, n. 17](../Regi%20decreti/Che%20dispone%20la%20revisione%20generale%20degli%20estimi%20catastali.%20023U0017.md), che dispone la revisione generale degli estimi catastali;
+Visto il [R. decreto 7 gennaio 1923, n. 17](Che%20dispone%20la%20revisione%20generale%20degli%20estimi%20catastali.%20023U0017.md), che dispone la revisione generale degli estimi catastali;
 
-Visto il [R. decreto 18 febbraio 1923, n. 419](../Regi%20decreti/Riguardante%20il%20limite%20delle%20sovrimposte%20provinciali%20e%20comunali%20sui%20terreni%20e%20sui%20fabbricati%20per%20lanno%201923.%20023U0419.md), riguardante l'applicazione delle sovrimposte comunali e provinciali sui terreni e sui fabbricati;
+Visto il [R. decreto 18 febbraio 1923, n. 419](Riguardante%20il%20limite%20delle%20sovrimposte%20provinciali%20e%20comunali%20sui%20terreni%20e%20sui%20fabbricati%20per%20lanno%201923.%20023U0419.md), riguardante l'applicazione delle sovrimposte comunali e provinciali sui terreni e sui fabbricati;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3069](../Regi%20decreti/Rivalutazione%20generale%20del%20reddito%20dei%20fabbricati.%20023U3069.md), per la rivalutazione generale del reddito dei fabbricati;
+Visto il [R. decreto 30 dicembre 1923, n. 3069](Rivalutazione%20generale%20del%20reddito%20dei%20fabbricati.%20023U3069.md), per la rivalutazione generale del reddito dei fabbricati;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3070](../Regi%20decreti/Nuove%20norme%20per%20la%20determinazione%20delle%20aliquote%20per%20limposta%20di%20ricchezza%20mobile.%20023U3070.md), che reca nuove norme per la determinazione delle aliquote di ricchezza mobile;
+Visto il [R. decreto 30 dicembre 1923, n. 3070](Nuove%20norme%20per%20la%20determinazione%20delle%20aliquote%20per%20limposta%20di%20ricchezza%20mobile.%20023U3070.md), che reca nuove norme per la determinazione delle aliquote di ricchezza mobile;
 
 Udito il Consiglio dei Ministri;
 
@@ -78,7 +78,7 @@ Per il quadriennio 1925-1928, i redditi delle categorie B, C¹ e D saranno assog
 
 ## Art. 5.
 
-Con effetto dal 1° gennaio 1925, l'imposta sui terreni sara' applicata in base all'aliquota di L. 10 per ogni cento lire di estimo censuario determinato a norma del [R. decreto 7 gennaio 1923, n. 17](../Regi%20decreti/Che%20dispone%20la%20revisione%20generale%20degli%20estimi%20catastali.%20023U0017.md).
+Con effetto dal 1° gennaio 1925, l'imposta sui terreni sara' applicata in base all'aliquota di L. 10 per ogni cento lire di estimo censuario determinato a norma del [R. decreto 7 gennaio 1923, n. 17](Che%20dispone%20la%20revisione%20generale%20degli%20estimi%20catastali.%20023U0017.md).
 
 ## Art. 6.
 
@@ -114,9 +114,9 @@ Le Provincie ed i Comuni che abbiano in applicazione una sovrimposta eccedente i
 
 ## Art. 12.
 
-Per l'anno 1925 le Provincie ed i Comuni che abbiano in applicazione sovraimposte eccedenti il secondo limite indicato all'art. 10 possono essere autorizzati, con le norme della legge comunale e provinciale, a mantenere in applicazione le sovraimposte stesse fino al limite stabilito con [Regio decreto 18 febbraio 1923, n. 419](../Regi%20decreti/Riguardante%20il%20limite%20delle%20sovrimposte%20provinciali%20e%20comunali%20sui%20terreni%20e%20sui%20fabbricati%20per%20lanno%201923.%20023U0419.md). 
+Per l'anno 1925 le Provincie ed i Comuni che abbiano in applicazione sovraimposte eccedenti il secondo limite indicato all'art. 10 possono essere autorizzati, con le norme della legge comunale e provinciale, a mantenere in applicazione le sovraimposte stesse fino al limite stabilito con [Regio decreto 18 febbraio 1923, n. 419](Riguardante%20il%20limite%20delle%20sovrimposte%20provinciali%20e%20comunali%20sui%20terreni%20e%20sui%20fabbricati%20per%20lanno%201923.%20023U0419.md). 
  
- Fino a scadenza del quinquennio indicato all'art. 11 l'autorizzazione ad applicare e riscuotere la sovraimposta fino al secondo limite stabilito dall'art. 10, e' data dal Ministro per le finanze con le norme del [R. decreto 18 febbraio 1923, n. 419](../Regi%20decreti/Riguardante%20il%20limite%20delle%20sovrimposte%20provinciali%20e%20comunali%20sui%20terreni%20e%20sui%20fabbricati%20per%20lanno%201923.%20023U0419.md), per quella parte della sovraimposta stessa, che ecceda, eventualmente, il limite stabilito dal decreto stesso. 
+ Fino a scadenza del quinquennio indicato all'art. 11 l'autorizzazione ad applicare e riscuotere la sovraimposta fino al secondo limite stabilito dall'art. 10, e' data dal Ministro per le finanze con le norme del [R. decreto 18 febbraio 1923, n. 419](Riguardante%20il%20limite%20delle%20sovrimposte%20provinciali%20e%20comunali%20sui%20terreni%20e%20sui%20fabbricati%20per%20lanno%201923.%20023U0419.md), per quella parte della sovraimposta stessa, che ecceda, eventualmente, il limite stabilito dal decreto stesso. 
  
  Durante il periodo transitorio, indicato al precedente comma, e' data anche facolta' al Ministro per le finanze di autorizzare, in via eccezionale e con le norme del decreto predetto, l'applicazione e riscossione di sovraimposte eccedenti il secondo limite fissato dal precedente art. 10.
 

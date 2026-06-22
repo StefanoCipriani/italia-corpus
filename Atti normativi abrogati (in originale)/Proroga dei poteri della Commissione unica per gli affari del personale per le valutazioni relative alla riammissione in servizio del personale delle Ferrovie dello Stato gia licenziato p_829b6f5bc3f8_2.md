@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 268](../Decreti%20legislativi%20luogotenenziali/Conservazione%20in%20deroga%20al%20decreto%20legislativo%20Luogotenenziale%2025%20gennaio%201945%20n.%2014%20della%20Commissione%20unica%20per%20gli%20affari%20del%20personale%20per%20le%20valutazioni%20relative%20alla%20riammissione%20in%20_ad288c4b2e41.md), concernente la conservazione della Commissione unica per gli affari del personale per le valutazioni relative alla riammissione in servizio del personale delle Ferrovie dello Stato, gia' licenziato per motivi politici;
+Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 268](Conservazione%20in%20deroga%20al%20decreto%20legislativo%20Luogotenenziale%2025%20gennaio%201945%20n.%2014%20della%20Commissione%20unica%20per%20gli%20affari%20del%20personale%20per%20le%20valutazioni%20relative%20alla%20riammissione%20in%20_ad288c4b2e41.md), concernente la conservazione della Commissione unica per gli affari del personale per le valutazioni relative alla riammissione in servizio del personale delle Ferrovie dello Stato, gia' licenziato per motivi politici;
 
 Visto al [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

@@ -39,7 +39,7 @@ Nei primi due anni dalla data da cui ha effetto il presente decreto, i periodi d
 ## Art. 4.
 
 Nella prima attuazione del presente decreto, un terzo dei posti disponibili nei gradi 5°, 6° e 7° dei ruoli tecnici (gruppo A) puo' essere conferito mediante concorsi per titoli a cui potranno essere ammessi i funzionari di ruolo dell'Amministrazione della sanita' pubblica, gli ufficiali sanitari di ruolo delle Amministrazioni locali, gli assistenti ed aiuti di ruolo degli Istituti d'igiene delle Universita', ed i medici di ruolo dei reparti medico-micrografici dei Laboratori provinciali d'igiene e profilassi.
- A detti concorsi potranno partecipare i funzionari suddetti che, oltre a possedere i requisiti prescritti dall'[art. 4 del regio decreto 25 giugno 1914, n. 702](../Regi%20decreti/Col%20quale%20e%20approvato%20lunito%20regolamento%20per%20il%20personale%20dellAmministrazione%20centrale%20e%20dellAmministrazione%20provinciale%20della%20sanita%20pubblica.%20014U0702.md), abbiano almeno cumulativamente 16, 14, 12 anni di esercizio professionale e di servizio di ruolo a seconda che partecipino ai concorsi di grado 5°, 6° e 7°.
+ A detti concorsi potranno partecipare i funzionari suddetti che, oltre a possedere i requisiti prescritti dall'[art. 4 del regio decreto 25 giugno 1914, n. 702](Col%20quale%20e%20approvato%20lunito%20regolamento%20per%20il%20personale%20dellAmministrazione%20centrale%20e%20dellAmministrazione%20provinciale%20della%20sanita%20pubblica.%20014U0702.md), abbiano almeno cumulativamente 16, 14, 12 anni di esercizio professionale e di servizio di ruolo a seconda che partecipino ai concorsi di grado 5°, 6° e 7°.
 
 ## Art. 5.
 

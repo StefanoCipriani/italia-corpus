@@ -58,7 +58,7 @@ Per 10 anni, a cominciare dal presente esercizio, lo Stato versera' al comune di
 
 Entro sei mesi dall'entrata in vigore del presente decreto, l'Amministrazione comunale redigera' un elenco dei bassi terranei abitati, che non siano suscettibili di idoneo e soddisfacente adattamento ad uso di abitazione, graduandoli in ordine alle rispettive condizioni e cominciando dalle sezioni popolari di Mercato, Vicaria, Porto e Pendino. 
  
- Pei bassi suscettibili di adattamento l'Amministrazione disporra' a carico dei proprietari i lavori necessari, valendosi della procedura stabilita dall'art. 153 del testo unico della legge comunale e provinciale modificati dall'[art. 32 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md). 
+ Pei bassi suscettibili di adattamento l'Amministrazione disporra' a carico dei proprietari i lavori necessari, valendosi della procedura stabilita dall'art. 153 del testo unico della legge comunale e provinciale modificati dall'[art. 32 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md). 
  
  Le abitazioni costruite dall'Ente per le case popolari col mutuo di cui all'art. 3 precedente saranno concesse agli abitanti dei bassi dichiarati inabitabili secondo l'ordine di precedenza che verra' stabilito in apposite norme da deliberarsi dall'Amministrazione comunale con l'approvazione della Giunta provinciale amministrativa, sentito il Consiglio provinciale sanitario. 
  

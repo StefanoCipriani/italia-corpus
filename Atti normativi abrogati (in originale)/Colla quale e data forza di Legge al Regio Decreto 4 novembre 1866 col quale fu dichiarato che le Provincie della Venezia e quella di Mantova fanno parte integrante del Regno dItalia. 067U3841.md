@@ -22,7 +22,7 @@ VITTORIO EMANUELE II
  
  Articolo unico. 
  
- E' data forza di Legge al [Regio Decreto 4 novembre 1866, n. 3300](../Regi%20decreti/Col%20quale%20le%20Provincie%20della%20Venezia%20e%20quella%20di%20Mantova%20fanno%20parte%20integrante%20del%20Regno%20dItalia.%20066U3300.md), col quale fu dichiarato che le Provincie della Venezia e quella di Mantova fanno parte integrante del Regno d'Italia. 
+ E' data forza di Legge al [Regio Decreto 4 novembre 1866, n. 3300](Col%20quale%20le%20Provincie%20della%20Venezia%20e%20quella%20di%20Mantova%20fanno%20parte%20integrante%20del%20Regno%20dItalia.%20066U3300.md), col quale fu dichiarato che le Provincie della Venezia e quella di Mantova fanno parte integrante del Regno d'Italia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come Legge dello Stato. 
  

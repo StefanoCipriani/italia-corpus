@@ -30,7 +30,7 @@ Le funzioni di istruttore dei corsi, sia generali che speciali, possono essere a
 
 ## Art. 5.
 
-Fino al 31 dicembre 1932, nella nomina ai posti di esperto nelle Cattedre ambulanti di agricoltura, da farsi con le modalita' di cui all'[art. 38 del R. decreto 6 dicembre 1928, n. 3433](../Regi%20decreti/Ordinamento%20delle%20Cattedre%20ambulanti%20di%20agricoltura.%20028U3433.md), modificato con l'[art. 12 del R. decreto 26 giugno 1930, n. 1074](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%206%20dicembre%201928%20n.%203433%20sullordinamento%20delle%20Cattedre%20ambulanti%20di%20agricoltura.%20030U1074.md), potra' prescindersi dal possesso del titolo di studio di cui al detto articolo, nei riguardi dei licenziati di scuole pratiche di agricoltura i quali abbiano prestato lodevole servizio in qualita' di istruttore di corsi professionali per contadini dell'annata 1931-32. Tale deroga potra' essere consentita limitatamente alla quinta parte del numero di esperti da assumere.
+Fino al 31 dicembre 1932, nella nomina ai posti di esperto nelle Cattedre ambulanti di agricoltura, da farsi con le modalita' di cui all'[art. 38 del R. decreto 6 dicembre 1928, n. 3433](Ordinamento%20delle%20Cattedre%20ambulanti%20di%20agricoltura.%20028U3433.md), modificato con l'[art. 12 del R. decreto 26 giugno 1930, n. 1074](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%206%20dicembre%201928%20n.%203433%20sullordinamento%20delle%20Cattedre%20ambulanti%20di%20agricoltura.%20030U1074.md), potra' prescindersi dal possesso del titolo di studio di cui al detto articolo, nei riguardi dei licenziati di scuole pratiche di agricoltura i quali abbiano prestato lodevole servizio in qualita' di istruttore di corsi professionali per contadini dell'annata 1931-32. Tale deroga potra' essere consentita limitatamente alla quinta parte del numero di esperti da assumere.
 
 ## Art. 6.
 
@@ -51,7 +51,7 @@ E' istituito in ogni Provincia un Comitato provinciale per l'istruzione professi
 
 ## Art. 8.
 
-Al Comitato per la propaganda agraria e i corsi professionali ai contadini presso il Ministero dell'agricoltura e delle foreste, di cui all'[art. 3 del R. decreto 7 marzo 1929, n. 329](../Regi%20decreti/Istituzione%20di%20un%20Comitato%20per%20la%20propaganda%20agraria%20e%20i%20corsi%20professionali%20ai%20contadini.%20029U0329.md), sono aggregati, con voto deliberativo, per quanto ha tratto ai corsi professionali ai contadini: 
+Al Comitato per la propaganda agraria e i corsi professionali ai contadini presso il Ministero dell'agricoltura e delle foreste, di cui all'[art. 3 del R. decreto 7 marzo 1929, n. 329](Istituzione%20di%20un%20Comitato%20per%20la%20propaganda%20agraria%20e%20i%20corsi%20professionali%20ai%20contadini.%20029U0329.md), sono aggregati, con voto deliberativo, per quanto ha tratto ai corsi professionali ai contadini: 
  a) un rappresentante del Ministero delle corporazioni; 
  b) un rappresentante del Ministero dell'educazione nazionale; 
  c) un rappresentante del Sindacato nazionale fascista dei tecnici agricoli; 

@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Veduto il R. decreto Luogotenenziale 6 ottobre 1919, 2127; 
  
- Veduto il [2° comma dell'art. 36 del R. decreto 4 marzo 1920, n. 432](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lapplicazione%20dei%20ruoli%20organici%20del%20personale%20delle%20antichita%20e%20belle%20arti%20approvati%20con%20R.%20decreto%206%20ottobre%201919%20n.%202127.%20020U0432.md); 
+ Veduto il [2° comma dell'art. 36 del R. decreto 4 marzo 1920, n. 432](Che%20approva%20il%20regolamento%20per%20lapplicazione%20dei%20ruoli%20organici%20del%20personale%20delle%20antichita%20e%20belle%20arti%20approvati%20con%20R.%20decreto%206%20ottobre%201919%20n.%202127.%20020U0432.md); 
  
  Ritenuta la necessita' di prorogare il termine stabilito al 2° comma dell'art. 36 del R. decreto sopracitato; 
  
@@ -30,7 +30,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Il termine stabilito dal [2° comma dell'art. 36 del R. decreto 4 marzo 1920, n. 432](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lapplicazione%20dei%20ruoli%20organici%20del%20personale%20delle%20antichita%20e%20belle%20arti%20approvati%20con%20R.%20decreto%206%20ottobre%201919%20n.%202127.%20020U0432.md), per le dispense dal servizio del personale dipendente dalla Direzione generale delle antichita' o belle arti, e' prorogato al 24 aprile 1921. 
+ Il termine stabilito dal [2° comma dell'art. 36 del R. decreto 4 marzo 1920, n. 432](Che%20approva%20il%20regolamento%20per%20lapplicazione%20dei%20ruoli%20organici%20del%20personale%20delle%20antichita%20e%20belle%20arti%20approvati%20con%20R.%20decreto%206%20ottobre%201919%20n.%202127.%20020U0432.md), per le dispense dal servizio del personale dipendente dalla Direzione generale delle antichita' o belle arti, e' prorogato al 24 aprile 1921. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

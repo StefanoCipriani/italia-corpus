@@ -54,7 +54,7 @@ La tassa ridotta per la circolazione di prova degli automobili e degli autoscafi
  
  oltre 24 cavalli dinamici: automobili L. 590; autoscafi L. 295. 
  
- Tutte le disposizioni e le sanzioni del testo unico di leggi approvato con [decreto Luogotenenziale 6 gennaio 1918, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-01-06;135), e del regolamento approvato con [R. decreto 31 agosto 1910, n. 642](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20relativo%20alle%20tasse%20sui%20velocipedi%20sui%20motocicli%20e%20sugli%20automobili.%20010U0642.md), restano in vigore, in quanto non sia diversamente stabilito dal presente decreto, che, anche per le disposizioni contenute negli articoli 2 a 5, ha effetto pel solo anno 1919. 
+ Tutte le disposizioni e le sanzioni del testo unico di leggi approvato con [decreto Luogotenenziale 6 gennaio 1918, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-01-06;135), e del regolamento approvato con [R. decreto 31 agosto 1910, n. 642](Che%20approva%20lannesso%20regolamento%20relativo%20alle%20tasse%20sui%20velocipedi%20sui%20motocicli%20e%20sugli%20automobili.%20010U0642.md), restano in vigore, in quanto non sia diversamente stabilito dal presente decreto, che, anche per le disposizioni contenute negli articoli 2 a 5, ha effetto pel solo anno 1919. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

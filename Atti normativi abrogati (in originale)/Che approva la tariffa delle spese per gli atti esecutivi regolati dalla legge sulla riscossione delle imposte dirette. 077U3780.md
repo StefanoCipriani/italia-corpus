@@ -35,8 +35,8 @@ E' approvata la seguente tariffa delle spese da percepirsi dagli esattori per gl
  di sequestro o di avviso di vendita di mobili, 
  per ogni notificazione dell'avviso d'asta per 
  vendita di immobili, e per ognuna delle 
- notificazioni prescritte dagli [articoli 10](../Regi%20decreti/Col%20quale%20sono%20stabilite%20le%20norme%20per%20la%20riscossione%20della%20tassa%20sulla%20macinazione%20dei%20cereali.%20076U3305.md), [11](../Regi%20decreti/Col%20quale%20sono%20stabilite%20le%20norme%20per%20la%20riscossione%20della%20tassa%20sulla%20macinazione%20dei%20cereali.%20076U3305.md) e 
- [13 del R. decreto del 25 agosto 1876, N. 3305](../Regi%20decreti/Col%20quale%20sono%20stabilite%20le%20norme%20per%20la%20riscossione%20della%20tassa%20sulla%20macinazione%20dei%20cereali.%20076U3305.md), 
+ notificazioni prescritte dagli [articoli 10](Col%20quale%20sono%20stabilite%20le%20norme%20per%20la%20riscossione%20della%20tassa%20sulla%20macinazione%20dei%20cereali.%20076U3305.md), [11](Col%20quale%20sono%20stabilite%20le%20norme%20per%20la%20riscossione%20della%20tassa%20sulla%20macinazione%20dei%20cereali.%20076U3305.md) e 
+ [13 del R. decreto del 25 agosto 1876, N. 3305](Col%20quale%20sono%20stabilite%20le%20norme%20per%20la%20riscossione%20della%20tassa%20sulla%20macinazione%20dei%20cereali.%20076U3305.md), 
  compresa la spesa delle copie di verbali e delle 
  copie degli avvisi, d'asta . . . . . . . . . . . . . . . L. 0 50 
  

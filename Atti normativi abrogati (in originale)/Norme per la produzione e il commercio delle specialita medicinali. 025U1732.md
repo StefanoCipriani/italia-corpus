@@ -142,7 +142,7 @@ Il Governo del Re e' autorizzato a disporre le variazioni necessarie:
 
 ## Art. 18.
 
-Il ruolo dei medici e quello del laboratorio di chimica, di cui alla tabella n. 42 del personale dell'Amministrazione della sanita' pubblica, contenuta nell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono modificati, il primo nel grado 10° ed il secondo nei gradi 7° e 9° in conformita' della annessa tabella B.
+Il ruolo dei medici e quello del laboratorio di chimica, di cui alla tabella n. 42 del personale dell'Amministrazione della sanita' pubblica, contenuta nell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono modificati, il primo nel grado 10° ed il secondo nei gradi 7° e 9° in conformita' della annessa tabella B.
 
 ## Art. 19.
 

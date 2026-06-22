@@ -32,7 +32,7 @@ L'appartenenza di ciascun porto al proprio sistema deriva dalla sua collocazione
 
 3.
 
-Con apposita legge sono determinati nuovi criteri per la classificazione dei porti, in sostituzione di quelli contenuti nel [regio decreto 2 aprile 1885, n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md). La determinazione dei nuovi criteri terra' conto della vocazione dei singoli porti nell'ambito dei relativi sistemi.
+Con apposita legge sono determinati nuovi criteri per la classificazione dei porti, in sostituzione di quelli contenuti nel [regio decreto 2 aprile 1885, n. 3095](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md). La determinazione dei nuovi criteri terra' conto della vocazione dei singoli porti nell'ambito dei relativi sistemi.
 
 4.
 
@@ -281,7 +281,7 @@ Al fine di favorire il conseguimento di una maggiore efficienza del sistema port
 
 2.
 
-Qualora nel termine indicato nel comma 1 non venga emanato il relativo decreto, l'autorita' preposta alla disciplina del lavoro portuale, in deroga fra le procedure previste dal [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e relativo regolamento, entro i successivi trenta giorni deve operare una riduzione delle tariffe compensative delle maestranze portuali mediante una riduzione della composizione numerica delle squadre, a parita' di resa, in relazione alla riduzione delle dotazioni organiche definite secondo l'articolo 7.
+Qualora nel termine indicato nel comma 1 non venga emanato il relativo decreto, l'autorita' preposta alla disciplina del lavoro portuale, in deroga fra le procedure previste dal [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e relativo regolamento, entro i successivi trenta giorni deve operare una riduzione delle tariffe compensative delle maestranze portuali mediante una riduzione della composizione numerica delle squadre, a parita' di resa, in relazione alla riduzione delle dotazioni organiche definite secondo l'articolo 7.
 
 3.
 

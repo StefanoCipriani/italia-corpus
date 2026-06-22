@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Le disposizioni di cui alle lettere c), d), e) dell'articolo unico del [R. decreto 2 luglio 1925, n. 1196](../Regi%20decreti/Attribuzioni%20del%20direttore%20generale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20relative%20allesercizio%20del%20bilancio.%20025U1196.md), sono sostituite con le seguenti: 
+Le disposizioni di cui alle lettere c), d), e) dell'articolo unico del [R. decreto 2 luglio 1925, n. 1196](Attribuzioni%20del%20direttore%20generale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20relative%20allesercizio%20del%20bilancio.%20025U1196.md), sono sostituite con le seguenti: 
  
  c) approvare i contratti ad asta pubblica, o a licitazione privata, quando l'importo non superi le lire 1.000.000, quelli a trattativa privata quando l'importo non superi le lire 500.000 e relative variazioni; 
  

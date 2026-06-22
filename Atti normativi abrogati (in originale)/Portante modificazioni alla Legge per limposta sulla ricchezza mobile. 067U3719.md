@@ -20,7 +20,7 @@ Il contingente complessivo per le Provincie Venete e per quella di Mantova riman
 
 ## Art. 3.
 
-Nei compartimenti in cui si trovano beni non censiti, fermi restando i contingenti fissati nell'articolo 1, saranno compiute, colle norme stabilite dal [Regio Decreto 28 giugno 1866, n. 3023](../Regi%20decreti/Per%20limposta%20fondiaria%20sui%20terreni%20sui%20fabbricati%20e%20sui%20redditi%20della%20ricchezza%20mobile.%20066U3023.md), le operazioni per l'accertamento della rendita netta dei beni non censiti. 
+Nei compartimenti in cui si trovano beni non censiti, fermi restando i contingenti fissati nell'articolo 1, saranno compiute, colle norme stabilite dal [Regio Decreto 28 giugno 1866, n. 3023](Per%20limposta%20fondiaria%20sui%20terreni%20sui%20fabbricati%20e%20sui%20redditi%20della%20ricchezza%20mobile.%20066U3023.md), le operazioni per l'accertamento della rendita netta dei beni non censiti. 
  
  La rendita di questi beni sara' pel 1867 tassata coll'aliquota del dodici e mezzo per cento: il prodotto della quale andra' in disgravio dei beni gia' censiti nel rispettivo compartimento, in favore dei quali saranno operati i necessari compensi.
 
@@ -34,7 +34,7 @@ Le rettificazioni della rendita dei fabbricati, colle quali si tolgono le duplic
 
 ## Art. 5.
 
-La tassa straordinaria del 4 per cento sulla entrata fondiaria, approvata col [Regio Decreto 28 giugno 1866, n. 3023](../Regi%20decreti/Per%20limposta%20fondiaria%20sui%20terreni%20sui%20fabbricati%20e%20sui%20redditi%20della%20ricchezza%20mobile.%20066U3023.md), e' abolita. 
+La tassa straordinaria del 4 per cento sulla entrata fondiaria, approvata col [Regio Decreto 28 giugno 1866, n. 3023](Per%20limposta%20fondiaria%20sui%20terreni%20sui%20fabbricati%20e%20sui%20redditi%20della%20ricchezza%20mobile.%20066U3023.md), e' abolita. 
  
  Pero' in aumento della imposta fondiaria sui beni rustici e sugli urbani, di cui agli articoli 1 e 2 della presente Legge, si pagheranno due decimi della imposta stessa. 
  
@@ -50,7 +50,7 @@ Quanto alle Provincie Venete ed a quella di Mantova saranno applicate pel solo a
 
 ## Art. 7.
 
-L'imposta sui redditi della ricchezza mobile sara' riscossa nella misura stabilita dal [Regio Decreto 28 giugno 1866, n. 3023](../Regi%20decreti/Per%20limposta%20fondiaria%20sui%20terreni%20sui%20fabbricati%20e%20sui%20redditi%20della%20ricchezza%20mobile.%20066U3023.md). 
+L'imposta sui redditi della ricchezza mobile sara' riscossa nella misura stabilita dal [Regio Decreto 28 giugno 1866, n. 3023](Per%20limposta%20fondiaria%20sui%20terreni%20sui%20fabbricati%20e%20sui%20redditi%20della%20ricchezza%20mobile.%20066U3023.md). 
  
  Saranno osservate per l'applicazione della stessa le norme stabilite dalla [Legge 14 luglio 1864, n. 1830](Cui%20e%20stabilita%20unimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20064U1830.md), e dal citato Regio Decreto, in tutto cio' che non e' diversamente disposto colla presente Legge.
 

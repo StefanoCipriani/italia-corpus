@@ -40,7 +40,7 @@ Per l'attuazione del presente articolo e' autorizzata la spesa di lire 485 milia
 
 1.
 
-Per la completa realizzazione degli interventi previsti dal [decreto-legge 21 aprile 1995, n. 118](Interventi%20urgenti%20per%20lo%20svolgimento%20dei%20Campionati%20mondiali%20di%20sci%20alpino%20e%20dei%20Giochi%20del%20Mediterraneo%20di%20Bari_3.md), convertito, con modificazioni, dalla [legge 21 giugno 1995, n. 235](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20118%20recante%20interventi%20urgenti%20per%20lo%20svolgimento%20dei%20Campionati%20mondiali%20di%20sci%20alpino%20e%20dei%20Giochi%20del%20Mediterraneo%20di%20Bari.md), le somme stanziate per l'anno 1995 e non impegnate al termine dell'esercizio medesimo sono conservate nel conto dei residui per essere utilizzate nel corso del 1996.
+Per la completa realizzazione degli interventi previsti dal [decreto-legge 21 aprile 1995, n. 118](Interventi%20urgenti%20per%20lo%20svolgimento%20dei%20Campionati%20mondiali%20di%20sci%20alpino%20e%20dei%20Giochi%20del%20Mediterraneo%20di%20Bari_3.md), convertito, con modificazioni, dalla [legge 21 giugno 1995, n. 235](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20118%20recante%20interventi%20urgenti%20per%20lo%20svolgimento%20dei%20Campionati%20mondiali%20di%20sci%20alpino%20e%20dei%20Giochi%20del%20Mediterraneo%20di%20Bari.md), le somme stanziate per l'anno 1995 e non impegnate al termine dell'esercizio medesimo sono conservate nel conto dei residui per essere utilizzate nel corso del 1996.
 
 ## Art. 3. — Investimenti infrastrutturali nel Mezzogiorno
 

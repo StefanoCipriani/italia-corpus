@@ -142,7 +142,7 @@ Ai fini della localizzazione e della realizzazione delle opere finalizzate alla 
 
 1.
 
-All'[articolo 117 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), cosi' come modificato dal [decreto legislativo 10 settembre 1993, n. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md), sono apportate le seguenti modificazioni:
+All'[articolo 117 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), cosi' come modificato dal [decreto legislativo 10 settembre 1993, n. 360](../Decreti%20Legislativi/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md), sono apportate le seguenti modificazioni:
                         a)
                             Il comma 2 e' sostituito dal seguente: 
  "2. Per i primi tre anni dal conseguimento della patente di categoria B non e' consentito il superamento della velocita' di 100 km/h per le autostrade e di 90 km/h per le strade extraurbane principali.";
@@ -153,11 +153,11 @@ All'[articolo 117 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20del
 
 2.
 
-Con decreto del Ministro dei trasporti e della navigazione, da emanarsi entro novanta giorni dalla data di entrata in vigore del presente decreto, saranno stabilite modalita' per l'apposizione sull'autoveicolo, in modo visibile, di un contrassegno che indichi la soggezione del guidatore al limite di cui al [comma 2 dell'articolo 117 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), cosi' come modificato dal [decreto legislativo 10 settembre 1993, n. 360, e dal comma 1, lettera a)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md).
+Con decreto del Ministro dei trasporti e della navigazione, da emanarsi entro novanta giorni dalla data di entrata in vigore del presente decreto, saranno stabilite modalita' per l'apposizione sull'autoveicolo, in modo visibile, di un contrassegno che indichi la soggezione del guidatore al limite di cui al [comma 2 dell'articolo 117 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), cosi' come modificato dal [decreto legislativo 10 settembre 1993, n. 360, e dal comma 1, lettera a)](../Decreti%20Legislativi/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md).
 
 3.
 
-All'[articolo 316 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), sono apportate le seguenti modificazioni:
+All'[articolo 316 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), sono apportate le seguenti modificazioni:
                         a)
                             e' soppresso l'ultimo periodo del comma 1;
                         b)

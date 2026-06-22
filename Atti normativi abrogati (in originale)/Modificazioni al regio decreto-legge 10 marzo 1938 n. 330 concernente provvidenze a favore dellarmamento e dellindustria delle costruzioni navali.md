@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 7 dicembre 1936, n. 2081](Nuovo%20assetto%20delle%20linee%20di%20navigazione%20di%20preminente%20interesse%20nazionale.%20036U2081.md), convertito nella [legge 10 giugno 1937, n. 1002](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%207%20dicembre%201936-XV%20n.%202081%20recante%20un%20nuovo%20assetto%20delle%20linee%20di%20navigazione%20di%20preminente%20interesse%20nazionale.%20037U1002.md);
+Visto il [regio decreto-legge 7 dicembre 1936, n. 2081](Nuovo%20assetto%20delle%20linee%20di%20navigazione%20di%20preminente%20interesse%20nazionale.%20036U2081.md), convertito nella [legge 10 giugno 1937, n. 1002](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%207%20dicembre%201936-XV%20n.%202081%20recante%20un%20nuovo%20assetto%20delle%20linee%20di%20navigazione%20di%20preminente%20interesse%20nazionale.%20037U1002.md);
 
-Visto il [regio decreto-legge 10 marzo 1938, n. 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), convertito nella [legge 5 gennaio 1939, n. 245](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20marzo%201938-XVI%20n.%20330%20che%20reca%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20039U0245.md);
+Visto il [regio decreto-legge 10 marzo 1938, n. 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), convertito nella [legge 5 gennaio 1939, n. 245](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20marzo%201938-XVI%20n.%20330%20che%20reca%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20039U0245.md);
 
 Visto il regolamento per l'applicazione del decreto precedente, approvato con [regio decreto 13 aprile 1939, n. 1101](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto-legge%2010%20marzo%201938-XVI%20n.%20330%20che%20reca%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20039U1101.md);
 
 Vista la [legge 25 maggio 1939, n. 920](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20039U0920.md);
 
-Visto il [regio decreto 16 febbraio 1942, n. 363](../Regi%20decreti/Modificazioni%20al%20Regio%20decreto-legge%2010%20marzo%201938-XV1%20n.%20330%20portante%20provvidenze%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20042U0363.md);
+Visto il [regio decreto 16 febbraio 1942, n. 363](Modificazioni%20al%20Regio%20decreto-legge%2010%20marzo%201938-XV1%20n.%20330%20portante%20provvidenze%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20042U0363.md);
 
 Visto il [decreto 13 luglio 1946, n. 26, del capo provvisorio dello Stato](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-07-13;26);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per la marina mercantile di concerto con i Ministri 
 
 ## Art. 1.
 
-Fino a quando non sia altrimenti stabilito, sono apportate le modifiche ed aggiunte che seguono alle disposizioni di cui al [regio decreto-legge 10 marzo 1938, numero 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), convertito in [legge 5 gennaio 1939, n. 245](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20marzo%201938-XVI%20n.%20330%20che%20reca%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20039U0245.md), e alla [legge 25 maggio 1939, n. 920](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20039U0920.md), modificata con il [regio decreto 16 febbraio 1942, n. 363](../Regi%20decreti/Modificazioni%20al%20Regio%20decreto-legge%2010%20marzo%201938-XV1%20n.%20330%20portante%20provvidenze%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20042U0363.md).
+Fino a quando non sia altrimenti stabilito, sono apportate le modifiche ed aggiunte che seguono alle disposizioni di cui al [regio decreto-legge 10 marzo 1938, numero 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), convertito in [legge 5 gennaio 1939, n. 245](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20marzo%201938-XVI%20n.%20330%20che%20reca%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20039U0245.md), e alla [legge 25 maggio 1939, n. 920](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali.%20039U0920.md), modificata con il [regio decreto 16 febbraio 1942, n. 363](Modificazioni%20al%20Regio%20decreto-legge%2010%20marzo%201938-XV1%20n.%20330%20portante%20provvidenze%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20042U0363.md).
 
 ## Art. 2.
 
@@ -40,7 +40,7 @@ I benefici previsti dal [regio decreto-legge 10 marzo 1938, n. 330](Provvediment
 
 ## Art. 3.
 
-L'[art. 2 del regio decreto 16 febbraio 1942, n. 363](../Regi%20decreti/Modificazioni%20al%20Regio%20decreto-legge%2010%20marzo%201938-XV1%20n.%20330%20portante%20provvidenze%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20042U0363.md), che sostituiva il [2° comma dell'art. 1 del regio decretolegge 10 marzo 1938, n. 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), e' sostituito dal seguente:
+L'[art. 2 del regio decreto 16 febbraio 1942, n. 363](Modificazioni%20al%20Regio%20decreto-legge%2010%20marzo%201938-XV1%20n.%20330%20portante%20provvidenze%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20042U0363.md), che sostituiva il [2° comma dell'art. 1 del regio decretolegge 10 marzo 1938, n. 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), e' sostituito dal seguente:
  Al costruttore verra' inoltre corrisposto per ogni quintale del peso complessivo della nave un compenso daziario di:
  a) L. 25 per le navi mercantili, le draghe, i rimorchiatori pontati ed i pontoni di sollevamento a scafo metallico, sempre pero' che non ai tratti di navi mercantili da classificarsi velieri, nel qual caso la misura del compenso sara' ridotta a L. 21;
  b) L. 18 per le navi mercantili, le draghe, i rimorchiatori pontati ed i pontoni di sollevamento a scafo di legno, sempre pero' che non si tratti di navi mercantili da classificarsi velieri, nel qual caso la misura del compenso sara' ridotta a L. 12;
@@ -129,7 +129,7 @@ Sono esenti dalla imposta generale sull'entrata i pagamenti per costruzioni, rip
 
 L'[art. 15 del regio decreto-legge 10 marzo 1938, numero 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), e' sostituito dal seguente:
 
- I contributi di ammortamento e di interesse e i contributi di miglioramento previsti dal presente decreto non sono concessi per le navi da destinarsi alle linee di preminente interesse nazionale contemplate dal [regio decreto- legge 7 dicembre 1936, n. 2081](Nuovo%20assetto%20delle%20linee%20di%20navigazione%20di%20preminente%20interesse%20nazionale.%20036U2081.md), convertito nella [legge 10 giugno 1937, n. 1002](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%207%20dicembre%201936-XV%20n.%202081%20recante%20un%20nuovo%20assetto%20delle%20linee%20di%20navigazione%20di%20preminente%20interesse%20nazionale.%20037U1002.md).
+ I contributi di ammortamento e di interesse e i contributi di miglioramento previsti dal presente decreto non sono concessi per le navi da destinarsi alle linee di preminente interesse nazionale contemplate dal [regio decreto- legge 7 dicembre 1936, n. 2081](Nuovo%20assetto%20delle%20linee%20di%20navigazione%20di%20preminente%20interesse%20nazionale.%20036U2081.md), convertito nella [legge 10 giugno 1937, n. 1002](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%207%20dicembre%201936-XV%20n.%202081%20recante%20un%20nuovo%20assetto%20delle%20linee%20di%20navigazione%20di%20preminente%20interesse%20nazionale.%20037U1002.md).
  La concessione di tali contributi potra', tuttavia, essere estesa in tutto o in parte, quando cio' sia riconosciuto opportuno, anche alle navi suddette, mediante decreto del Ministro per la marina mercantile, di concerto col Ministro per il tesoro. Con tale decreto verranno apportate anche le necessarie variazioni di bilancio.
 
 ## Art. 11.

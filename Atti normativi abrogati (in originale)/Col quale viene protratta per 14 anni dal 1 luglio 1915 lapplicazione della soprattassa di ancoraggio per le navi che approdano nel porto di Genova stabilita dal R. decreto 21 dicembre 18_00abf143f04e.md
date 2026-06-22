@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Per il periodo di anni 14 a decorrere dal 1° luglio prossimo e' autorizzata la applicazione della soprattassa d'ancoraggio alle navi che approdano nel porto di Genova nella misura stabilita dal [R. decreto 21 dicembre 1899, n. 465](../Regi%20decreti/Col%20quale%20viene%20applicata%20una%20soprattassa%20di%20ancoraggio%20alle%20navi%20che%20approdano%20nel%20porto%20di%20Genova.%20099U0465.md). 
+Per il periodo di anni 14 a decorrere dal 1° luglio prossimo e' autorizzata la applicazione della soprattassa d'ancoraggio alle navi che approdano nel porto di Genova nella misura stabilita dal [R. decreto 21 dicembre 1899, n. 465](Col%20quale%20viene%20applicata%20una%20soprattassa%20di%20ancoraggio%20alle%20navi%20che%20approdano%20nel%20porto%20di%20Genova.%20099U0465.md). 
  
  La soprattassa sara' applicata e riscossa colle norme stabilite nel medesimo R. decreto. 
  

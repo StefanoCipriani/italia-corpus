@@ -52,13 +52,13 @@ Esse saranno conferite solamente a coloro che avranno tenuto lodevolmente l'uffi
 
 ## Art. 5.
 
-Il [2° comma dell'art. 21 del R. decreto 3 novembre 1923, n. 2453](../Regi%20decreti/Norme%20concernenti%20lordinamento%20per%20listruzione%20elementare.%20023U2453.md), e' cosi' modificato: 
+Il [2° comma dell'art. 21 del R. decreto 3 novembre 1923, n. 2453](Norme%20concernenti%20lordinamento%20per%20listruzione%20elementare.%20023U2453.md), e' cosi' modificato: 
  
  Il regolamento scolastico comunale puo' stabilire che al concorso per direttore sezionale siano ammessi soltanto insegnanti del Comune e che, quando il numero delle classi elementari del Comune stesso non sia superiore a 60, al concorso per direttore didattico siano ugualmente ammessi soltanto i detti insegnanti.
 
 ## Art. 6.
 
-Per il servizio di supplenza in circoscrizioni scolastiche disciplinato dall'[art. 10 del R. decreto 3 novembre 1923, numero 2453](../Regi%20decreti/Norme%20concernenti%20lordinamento%20per%20listruzione%20elementare.%20023U2453.md), puo' essere corrisposto un compenso non superiore alla somma mensile di L. 120, complessivamente per ciascuna circoscrizione. 
+Per il servizio di supplenza in circoscrizioni scolastiche disciplinato dall'[art. 10 del R. decreto 3 novembre 1923, numero 2453](Norme%20concernenti%20lordinamento%20per%20listruzione%20elementare.%20023U2453.md), puo' essere corrisposto un compenso non superiore alla somma mensile di L. 120, complessivamente per ciascuna circoscrizione. 
  
  Quando un circolo di direzione didattica sia sprovvisto del titolare, il Regio provveditore agli studi puo' incaricare della supplenza uno dei direttori didattici di circoli limitrofi. Per tale supplenza puo' essere corrisposto ai direttori didattici un compenso mensile non superiore a L. 50.Qualora la supplenza si riferisca a piu' direzioni, il compenso puo' elevarsi ad un massimo di L. 75. 
  
@@ -66,7 +66,7 @@ Per il servizio di supplenza in circoscrizioni scolastiche disciplinato dall'[ar
 
 ## Art. 7.
 
-All'[art. 30 del R. decreto 31 dicembre 1923, n. 3126](../Regi%20decreti/Disposizione%20sullobbligo%20dellistruzione.%20023U3126.md), e' sostituito il seguente: 
+All'[art. 30 del R. decreto 31 dicembre 1923, n. 3126](Disposizione%20sullobbligo%20dellistruzione.%20023U3126.md), e' sostituito il seguente: 
  
  Il Governo del Re, sentito il Consiglio di Stato, e' autorizzato a riordinare, coordinare e pubblicare in testo unico tutte le norme sull'istruzione elementare, post-elementare e sulle suo opere d'integrazione, vigenti nel momento in cui il testo unico stesso sara' pubblicato.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visti i [decreti legislativi 4 giugno 1997, n. 143, e 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
+Visti i [decreti legislativi 4 giugno 1997, n. 143, e 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
 
 Ritenuta la straordinaria necessita' ed urgenza di disciplinare l'attuazione nazionale del regolamento (CE) n. 1256/99 del Consiglio del 17 maggio 1999 e la regionalizzazione del settore lattiero-caseario ai fini dell'avvio del prossimo periodo di produzione lattiera, nonche' di prorogare i termini per la compensazione nazionale dei periodi pregressi;
 
@@ -58,7 +58,7 @@ I termini per le compensazioni nazionali relative ai periodi di produzione latti
 
 8.
 
-Per quanto non modificato dal presente decreto, si applicano le disposizioni della [legge 26 novembre 1992, n. 468](Misure%20urgenti%20nel%20settore%20lattiero-caseario.md), e successive modificazioni e integrazioni e le altre disposizioni vigenti in materia. In caso di inadempimento ai compiti e obblighi spettanti alle regioni e alle province autonome in materia di quote latte, si applicano le disposizioni dell'[articolo 5 del decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni. Le regioni a statuto speciale e le province autonome di Trento e di Bolzano provvedono agli adempimenti loro attribuiti dal presente decreto nel rispetto degli statuti e delle norme di attuazione.
+Per quanto non modificato dal presente decreto, si applicano le disposizioni della [legge 26 novembre 1992, n. 468](Misure%20urgenti%20nel%20settore%20lattiero-caseario.md), e successive modificazioni e integrazioni e le altre disposizioni vigenti in materia. In caso di inadempimento ai compiti e obblighi spettanti alle regioni e alle province autonome in materia di quote latte, si applicano le disposizioni dell'[articolo 5 del decreto legislativo 31 marzo 1998, n. 112](../Decreti%20Legislativi/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni. Le regioni a statuto speciale e le province autonome di Trento e di Bolzano provvedono agli adempimenti loro attribuiti dal presente decreto nel rispetto degli statuti e delle norme di attuazione.
 
 ## Art. 2.
 

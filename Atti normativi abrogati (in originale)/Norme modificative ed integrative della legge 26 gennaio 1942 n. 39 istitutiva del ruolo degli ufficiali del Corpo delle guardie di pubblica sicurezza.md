@@ -47,7 +47,7 @@ La Commissione esaminatrice e' nominata con decreto del Ministro per l'interno e
 
 L'esame consta di prove scritte, orali e pratiche e si svolge secondo il seguente programma:
  a) [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) (disposizioni preliminari, libro I);
- b) [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) (libro I, disposizioni generali; libro II, dell'istruzione) Ordinamento giudiziario;
+ b) [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) (libro I, disposizioni generali; libro II, dell'istruzione) Ordinamento giudiziario;
  c) leggi e regolamenti di pubblica sicurezza;
  d) Codici penali militari di pace e di guerra;
  e) diritto amministrativo e principali leggi sulla pubblica amministrazione;

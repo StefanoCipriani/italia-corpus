@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 22 giugno 1924, n. 1063](../Regi%20decreti/Pagamento%20del%20premio%20per%20prolungamento%20dorario%20agli%20impiegati%20addetti%20agli%20stabilimenti%20monetari%20e%20alle%20cartiere.%20024U1063.md);
+Visto il [R. decreto 22 giugno 1924, n. 1063](Pagamento%20del%20premio%20per%20prolungamento%20dorario%20agli%20impiegati%20addetti%20agli%20stabilimenti%20monetari%20e%20alle%20cartiere.%20024U1063.md);
 
-Visto il [R. decreto 23 agosto 1929, n. 1892](../Regi%20decreti/Indennita%20per%20prolungamento%20di%20orario%20da%20corrispondersi%20agli%20impiegati%20ed%20agenti%20dipendenti%20dallAmministrazione%20dello%20Stato%20addetti%20agli%20stabilimenti%20delle%20carte-valori.%20029U1892.md);
+Visto il [R. decreto 23 agosto 1929, n. 1892](Indennita%20per%20prolungamento%20di%20orario%20da%20corrispondersi%20agli%20impiegati%20ed%20agenti%20dipendenti%20dallAmministrazione%20dello%20Stato%20addetti%20agli%20stabilimenti%20delle%20carte-valori.%20029U1892.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -34,7 +34,7 @@ Al personale impiegatizio di ruolo, di grado non superiore al settimo, nonche' a
 
 ## Art. 2.
 
-Il suddetto compenso orario non potra' comunque essere inferiore alla misura stabilita per ciascun gruppo di funzionari dall'[art. 8 del R. decreto-legge 29 agosto 1942, n. 1011](Maggiori%20assegnazioni%20agli%20stati%20di%20previsione%20della%20spesa%20di%20taluni%20Ministeri%20per%20lesercizio%20finanziario%201942-43%20per%20esigenze%20dipendenti%20dalla%20guerra%20042U1011.md), convertito nella [legge 3 gennaio 1943, n. 8](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2029%20agosto%201942-XX%20n.%201011%20concernente%20maggiori%20assegnazioni%20agli%20stati%20di%20previsione%20della%20spesa%20di%20taluni%20Ministeri%20per%20lesercizio%20finanziari_41accf0f1f50.md), e successive variazioni.
+Il suddetto compenso orario non potra' comunque essere inferiore alla misura stabilita per ciascun gruppo di funzionari dall'[art. 8 del R. decreto-legge 29 agosto 1942, n. 1011](Maggiori%20assegnazioni%20agli%20stati%20di%20previsione%20della%20spesa%20di%20taluni%20Ministeri%20per%20lesercizio%20finanziario%201942-43%20per%20esigenze%20dipendenti%20dalla%20guerra%20042U1011.md), convertito nella [legge 3 gennaio 1943, n. 8](Conversione%20in%20legge%20del%20Regio%20decreto-legge%2029%20agosto%201942-XX%20n.%201011%20concernente%20maggiori%20assegnazioni%20agli%20stati%20di%20previsione%20della%20spesa%20di%20taluni%20Ministeri%20per%20lesercizio%20finanziari_41accf0f1f50.md), e successive variazioni.
 
 ## Art. 3.
 

@@ -20,7 +20,7 @@ Sulla proposta del Ministro Segretario di Stato per la grazia e giustizia; HA SA
 
 ## Art. 1.
 
-Ferme rimanendo le disposizioni del [decreto legislativo luogotenenziale 4 gennaio 1946, n. 11](../Decreti%20legislativi%20luogotenenziali/Riduzione%20del%20periodo%20di%20pratica%20forense%20per%20lammissione%20agli%20esami%20di%20procuratore.md), i periodo di pratica occorrente per l'ammissione agli esami di procuratore e' temporaneamente ridotto ad un anno.
+Ferme rimanendo le disposizioni del [decreto legislativo luogotenenziale 4 gennaio 1946, n. 11](Riduzione%20del%20periodo%20di%20pratica%20forense%20per%20lammissione%20agli%20esami%20di%20procuratore.md), i periodo di pratica occorrente per l'ammissione agli esami di procuratore e' temporaneamente ridotto ad un anno.
  Di tale riduzione non si tiene conto ai fini della iscrizione nell'albo degli avvocati, a termini degli [articoli 3](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20lammissione%20al%20patrocinio%20dinanzi%20alle%20giurisdizioni%20superiori%20e%20sulle%20iscrizioni%20negli%20albi%20del%20procuratori%20e%20degli%20avvocati.%20044U0318.md) e [4 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 318](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20lammissione%20al%20patrocinio%20dinanzi%20alle%20giurisdizioni%20superiori%20e%20sulle%20iscrizioni%20negli%20albi%20del%20procuratori%20e%20degli%20avvocati.%20044U0318.md).
 
 ## Art. 2.

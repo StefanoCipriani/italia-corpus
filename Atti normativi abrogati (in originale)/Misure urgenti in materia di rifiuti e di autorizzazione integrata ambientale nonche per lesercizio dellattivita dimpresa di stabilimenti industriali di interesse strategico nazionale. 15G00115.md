@@ -30,7 +30,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-All'[articolo 183, comma 1, del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), sono apportate le seguenti modificazioni:
+All'[articolo 183, comma 1, del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), sono apportate le seguenti modificazioni:
                         a)
                             alla lettera f), dopo le parole: "produce rifiuti" sono aggiunte le parole: "e il soggetto al quale sia giuridicamente riferibile detta produzione";
                         b)
@@ -43,7 +43,7 @@ All'[articolo 183, comma 1, del decreto legislativo 3 aprile 2006, n. 152](../Le
 1.
 
 All'[articolo 29, del decreto legislativo 4 marzo 2014, n. 46](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202010-75-UE%20relativa%20alle%20emissioni%20industriali%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.%2014G00058.md), il comma 3 e' sostituito dal seguente: 
- "3. L'autorita' competente conclude i procedimenti avviati in esito alle istanze di cui al comma 2, entro il 7 luglio 2015. In ogni caso, nelle more della conclusione dei procedimenti, le installazioni possono continuare l'esercizio in base alle autorizzazioni previgenti, se del caso opportunamente aggiornate a cura delle autorita' che le hanno rilasciate, a condizione di dare piena attuazione, secondo le tempistiche prospettate nelle istanze di cui al comma 2, agli adeguamenti proposti nelle predette istanze, in quanto necessari a garantire la conformita' dell'esercizio dell'installazione con il Titolo III-bis, della Parte seconda del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md).".
+ "3. L'autorita' competente conclude i procedimenti avviati in esito alle istanze di cui al comma 2, entro il 7 luglio 2015. In ogni caso, nelle more della conclusione dei procedimenti, le installazioni possono continuare l'esercizio in base alle autorizzazioni previgenti, se del caso opportunamente aggiornate a cura delle autorita' che le hanno rilasciate, a condizione di dare piena attuazione, secondo le tempistiche prospettate nelle istanze di cui al comma 2, agli adeguamenti proposti nelle predette istanze, in quanto necessari a garantire la conformita' dell'esercizio dell'installazione con il Titolo III-bis, della Parte seconda del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md).".
 
 ## Art. 3.
 

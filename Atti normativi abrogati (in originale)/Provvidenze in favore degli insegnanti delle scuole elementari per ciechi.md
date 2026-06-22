@@ -49,7 +49,7 @@ L'[art. 12 della legge 26 ottobre 1952, n. 1463](https://www.normattiva.it/uri-r
 
 ## Art. 7.
 
-Al personale che otterra' l'inquadramento a norma dei precedenti articoli 5 e 6, sara' riconosciuta un'anzianita', agli effetti dell'inquadramento stesso, corrispondente al servizio prestato nelle scuole statali o parificate per ciechi. Detto servizio sara' valutato secondo le norme di cui all'art. 157 del testo unico delle leggi sulla istruzione elementare approvato con [regio decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e successive disposizioni.
+Al personale che otterra' l'inquadramento a norma dei precedenti articoli 5 e 6, sara' riconosciuta un'anzianita', agli effetti dell'inquadramento stesso, corrispondente al servizio prestato nelle scuole statali o parificate per ciechi. Detto servizio sara' valutato secondo le norme di cui all'art. 157 del testo unico delle leggi sulla istruzione elementare approvato con [regio decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e successive disposizioni.
 
 ## Art. 8.
 

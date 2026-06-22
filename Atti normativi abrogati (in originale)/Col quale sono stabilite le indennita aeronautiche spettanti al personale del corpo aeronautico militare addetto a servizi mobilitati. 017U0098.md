@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le tabelle III e IV annesse al [R. decreto 23 maggio 1915, n. 677](../Regi%20decreti/Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), relative alle indennita' giornaliere spettanti al personale navigante mobilitato del Corpo aeronautico militare ed alle indennita' per voli e per il personale addetto a speciali funzioni e servizi aeronautici in zona dichiarata di guerra, sono abrogate e sostituite dalle tabelle I e II annesse al presente decreto, firmate, d'ordine Nostro, dal ministro della guerra. 
+Le tabelle III e IV annesse al [R. decreto 23 maggio 1915, n. 677](Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), relative alle indennita' giornaliere spettanti al personale navigante mobilitato del Corpo aeronautico militare ed alle indennita' per voli e per il personale addetto a speciali funzioni e servizi aeronautici in zona dichiarata di guerra, sono abrogate e sostituite dalle tabelle I e II annesse al presente decreto, firmate, d'ordine Nostro, dal ministro della guerra. 
  
  Parimenti e' abrogato l'art. 8 delle norme allegate al detto R. decreto, n.677. 
  

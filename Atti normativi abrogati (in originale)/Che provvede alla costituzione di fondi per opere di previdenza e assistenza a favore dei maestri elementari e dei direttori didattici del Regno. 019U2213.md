@@ -20,7 +20,7 @@ Sulla proposta del Nostro ministro segretario di Stato per l'istruzione pubblica
 
 ## Art. 1.
 
-Gli insegnanti ordinari e straordinari e i direttori didattici dello scuole elementari dipendenti dall'Amministrazione scolastica provinciale, dai Comuni e dai corpi morali che mantengono scuole elementari a norma dell'art. 25 del testo unico approvato con [R. decreto 21 ottobre 1903, n. 431](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20nomina%20e%20il%20licenziamento%20dei%20maestri.%20003U0431.md), corrispondono un contributo mensile equivalente all'uno per cento dell'ammontare netto dello stipendio e di ogni altro assegno da essi percepito sul bilancio degli Enti sopra detti a decorrere dal 1° maggio 1919.
+Gli insegnanti ordinari e straordinari e i direttori didattici dello scuole elementari dipendenti dall'Amministrazione scolastica provinciale, dai Comuni e dai corpi morali che mantengono scuole elementari a norma dell'art. 25 del testo unico approvato con [R. decreto 21 ottobre 1903, n. 431](Che%20approva%20il%20regolamento%20per%20la%20nomina%20e%20il%20licenziamento%20dei%20maestri.%20003U0431.md), corrispondono un contributo mensile equivalente all'uno per cento dell'ammontare netto dello stipendio e di ogni altro assegno da essi percepito sul bilancio degli Enti sopra detti a decorrere dal 1° maggio 1919.
 
 ## Art. 2.
 

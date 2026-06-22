@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](../Decreti%20legislativi%20luogotenenziali/Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md);
+Visto il [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, del Ministro per la gr
 
 ## Art. 1.
 
-I termini previsti dagli articoli 9, 11, 12, 15 penultimo comma e 26 del [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](../Decreti%20legislativi%20luogotenenziali/Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), sono prorogati fino al 28 febbraio 1947, termine entro il quale verra' emanata la nuova disciplina sulle locazioni degli immobili urbani.
+I termini previsti dagli articoli 9, 11, 12, 15 penultimo comma e 26 del [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), sono prorogati fino al 28 febbraio 1947, termine entro il quale verra' emanata la nuova disciplina sulle locazioni degli immobili urbani.
 
 ## Art. 2.
 

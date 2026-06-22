@@ -36,7 +36,7 @@ Al fine di accelerare la definizione delle controversie pendenti davanti agli or
 
 2.
 
-Sono rimessi alle sezioni stralcio i ricorsi depositati in primo e secondo grado concernenti le controversie di cui al secondo periodo del [comma 17, dell'articolo 45 del decreto legislativo 31 marzo 1998, n. 80](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuove%20disposizioni%20in%20materia%20di%20organizzazione%20e%20di%20rapporti%20di%20lavoro%20nelle%20amministrazioni%20pubbliche%20di%20giurisdizione%20nelle%20controversie%20di%20lavoro%20e%20di%20giurisdizione%20amministrativa%20ema_9cf1dd317dff.md), nonche' le controversie introdotte con ricorsi depositati anteriormente alla data del 1o gennaio 1996.
+Sono rimessi alle sezioni stralcio i ricorsi depositati in primo e secondo grado concernenti le controversie di cui al secondo periodo del [comma 17, dell'articolo 45 del decreto legislativo 31 marzo 1998, n. 80](../Decreti%20Legislativi/Nuove%20disposizioni%20in%20materia%20di%20organizzazione%20e%20di%20rapporti%20di%20lavoro%20nelle%20amministrazioni%20pubbliche%20di%20giurisdizione%20nelle%20controversie%20di%20lavoro%20e%20di%20giurisdizione%20amministrativa%20ema_9cf1dd317dff.md), nonche' le controversie introdotte con ricorsi depositati anteriormente alla data del 1o gennaio 1996.
 
 3.
 

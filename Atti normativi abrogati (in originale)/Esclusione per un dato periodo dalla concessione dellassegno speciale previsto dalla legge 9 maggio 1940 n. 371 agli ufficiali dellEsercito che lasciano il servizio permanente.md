@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la, [legge 9 maggio 1940, n. 371](Concessione%20di%20un%20assegno%20speciale%20agli%20ufficiali%20del%20Regio%20esercito%20che%20lasciano%20il%20servizio%20permanente.%20040U0371.md), relativa alla concessione di un assegno speciale agli ufficiali dell'Esercito che lasciano il servizio permanente;
 
-Visto il [regio decreto legislativo 14 maggio 1946, numero 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), concernente il collocamento nella riserva o nell'ausiliaria di ufficiali generali e superiori in servizio permanente effettivo dell'Esercito, della Marina e dell'Aeronautica;
+Visto il [regio decreto legislativo 14 maggio 1946, numero 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), concernente il collocamento nella riserva o nell'ausiliaria di ufficiali generali e superiori in servizio permanente effettivo dell'Esercito, della Marina e dell'Aeronautica;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -24,7 +24,7 @@ Sulla, proposta del Ministro per la difesa, d'intesa con il Ministro per il teso
 
 ## Articolo unico.
 
-L'assegno speciale istituito dalla [legge 9 maggio 1940, n. 371](Concessione%20di%20un%20assegno%20speciale%20agli%20ufficiali%20del%20Regio%20esercito%20che%20lasciano%20il%20servizio%20permanente.%20040U0371.md), per gli ufficiali dell'Esercito che lasciano il servizio permanente, non compete durante il periodo in cui gli ufficiali stessi godono dell'assegno stabilito dalla [lettera c) dell'art. 5 del regio decreto legislativo 14 maggio 1946, n. 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md).
+L'assegno speciale istituito dalla [legge 9 maggio 1940, n. 371](Concessione%20di%20un%20assegno%20speciale%20agli%20ufficiali%20del%20Regio%20esercito%20che%20lasciano%20il%20servizio%20permanente.%20040U0371.md), per gli ufficiali dell'Esercito che lasciano il servizio permanente, non compete durante il periodo in cui gli ufficiali stessi godono dell'assegno stabilito dalla [lettera c) dell'art. 5 del regio decreto legislativo 14 maggio 1946, n. 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

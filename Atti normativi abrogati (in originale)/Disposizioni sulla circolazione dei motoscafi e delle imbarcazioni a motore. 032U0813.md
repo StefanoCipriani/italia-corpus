@@ -82,7 +82,7 @@ Per l'uso dei motori fuori bordo della cilindrata complessiva non superiore a 50
 
 11.
 
-HP, se di altro tipo, viene rilasciato dalla Capitaneria di porto o dai Circoli ferroviari di ispezione, secondo la rispettiva competenza, un certificato contenente i dati relativi alla cilindrata ed alla potenza del motore, da accertarsi, anche agli effetti fiscali, ai sensi del [R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md). 
+HP, se di altro tipo, viene rilasciato dalla Capitaneria di porto o dai Circoli ferroviari di ispezione, secondo la rispettiva competenza, un certificato contenente i dati relativi alla cilindrata ed alla potenza del motore, da accertarsi, anche agli effetti fiscali, ai sensi del [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md). 
  
  Il certificato rilasciato dalle Capitanerie di porto e' valido anche per le acque interne e quello rilasciato dai Circoli ferroviari di ispezione e' valido anche per le acque marittime.
 
@@ -92,7 +92,7 @@ La licenza del motoscafo, dell'imbarcazione, l'autorizzazione all'uso del motore
  
  Il contravventore e' punito con l'ammenda da L. 25 a L. 100. 
  
- Chi navighi con motoscafo od imbarcazione sforniti di licenza o con motore sfornito di autorizzazione od avente caratteristiche diverse da quelle consentite nella licenza dell'imbarcazione o chi faccia uso di motori fuori bordo della cilindrata non superiore a 500 c.c., se a scoppio, o di potenza non superiore agli 11 HP. se di altro tipo, sforniti del certificato di cui all'art. 5, e' punito con l'ammenda da lire 100 a L. 1000, indipendentemente dalle sanzioni previste dal [n. 2 dell'art. 20 del R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md).
+ Chi navighi con motoscafo od imbarcazione sforniti di licenza o con motore sfornito di autorizzazione od avente caratteristiche diverse da quelle consentite nella licenza dell'imbarcazione o chi faccia uso di motori fuori bordo della cilindrata non superiore a 500 c.c., se a scoppio, o di potenza non superiore agli 11 HP. se di altro tipo, sforniti del certificato di cui all'art. 5, e' punito con l'ammenda da lire 100 a L. 1000, indipendentemente dalle sanzioni previste dal [n. 2 dell'art. 20 del R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md).
 
 ### Art. 7.
 

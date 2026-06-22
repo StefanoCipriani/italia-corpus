@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Viste le [leggi 7 aprile 1927, nn. 451, 452, 453, 454 e 504; 19 maggio 1927, n. 774; 2 giugno 1927, n. 831; 9 giugno 1927, nn. 857, 858 e 859, e 16 giugno 1927, nn. 942 e 943](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20finanze%20e%20stato%20di%20previsione%20dellentrata%20per%20lesercizio%20finanziario%20dal%201%20luglio%201927%20al%2030%20giugno%201928.%20027U0943.md);
 
-Visti i [Regi decreti 18 giugno 1925, n. 1143](../Regi%20decreti/Introduzione%20nella%20Somalia%20Italiana%20del%20sistema%20monetario%20del%20Regno.%20025U1143.md); [26 luglio 1925, n. 1237](../Regi%20decreti/Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md); [7 settembre 1926, n. 1506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-09-07;1506); [23 giugno 1927, n. 1148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-06-23;1148); [5 agosto 1927, n. 1414](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-05;1414); 18 e 19 novembre 1925, nn. 1964 e 1977; 21 dicembre 1927, n. 2325;
+Visti i [Regi decreti 18 giugno 1925, n. 1143](Introduzione%20nella%20Somalia%20Italiana%20del%20sistema%20monetario%20del%20Regno.%20025U1143.md); [26 luglio 1925, n. 1237](Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md); [7 settembre 1926, n. 1506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-09-07;1506); [23 giugno 1927, n. 1148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-06-23;1148); [5 agosto 1927, n. 1414](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-05;1414); 18 e 19 novembre 1925, nn. 1964 e 1977; 21 dicembre 1927, n. 2325;
 
 Visto l'art, 3, n. 2, della [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -69,13 +69,13 @@ Nello stato di previsione dell'entrata e in quello della spesa del Ministero del
 
 ## Art. 7.
 
-In aggiunta al contingente di monete d'argento da L. 20 stabilito dal [R. decreto-legge 23 giugno 1927, n. 1148](Riordinamento%20della%20circolazione%20monetaria%20metallica.%20027U1148.md), e' autorizzata la coniazione e l'emissione di monete d'argento da L. 20, per un importo complessivo di L. 25,000,000, contro ritiro ed in sostituzione di rupie gia' circolanti nella; Somalia e ritirate giusta il [R. decreto 18 giugno 1925, n. 1143](../Regi%20decreti/Introduzione%20nella%20Somalia%20Italiana%20del%20sistema%20monetario%20del%20Regno.%20025U1143.md). 
+In aggiunta al contingente di monete d'argento da L. 20 stabilito dal [R. decreto-legge 23 giugno 1927, n. 1148](Riordinamento%20della%20circolazione%20monetaria%20metallica.%20027U1148.md), e' autorizzata la coniazione e l'emissione di monete d'argento da L. 20, per un importo complessivo di L. 25,000,000, contro ritiro ed in sostituzione di rupie gia' circolanti nella; Somalia e ritirate giusta il [R. decreto 18 giugno 1925, n. 1143](Introduzione%20nella%20Somalia%20Italiana%20del%20sistema%20monetario%20del%20Regno.%20025U1143.md). 
  
  Con decreti del Ministro per le finanze sara' provveduto alle occorrenti variazioni nello stato di previsione dell'entrata e in quello della spesa del Ministero delle finanze per l'esercizio 1927-28.
 
 ## Art. 8.
 
-E' prorogata al 30 giugno 1929 l'efficacia delle disposizioni di cui al [R. decreto 26 luglio 1925, n. 1237](../Regi%20decreti/Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md).
+E' prorogata al 30 giugno 1929 l'efficacia delle disposizioni di cui al [R. decreto 26 luglio 1925, n. 1237](Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md).
 
 ## Art. 9.
 

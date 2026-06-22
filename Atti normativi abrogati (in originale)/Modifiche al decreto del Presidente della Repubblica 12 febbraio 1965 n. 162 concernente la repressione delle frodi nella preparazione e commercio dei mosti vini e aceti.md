@@ -24,7 +24,7 @@ Per la prima applicazione delle norme di cui al primo e al [secondo comma dell'a
 
 ## Art. 3.
 
-L'obbligo della denunzia di cui agli [articoli 21](Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md) e [40 del decreto del Presidente della Repubblica 12 febbraio 1965, n. 162](Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md), e' prorogato ad ogni effetto secondo il disposto degli articoli 1 e 2 della presente legge; e, se vi e' stata condanna, ne cessano l'esecuzione e gli effetti penali ai sensi dell'[articolo 2, secondo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+L'obbligo della denunzia di cui agli [articoli 21](Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md) e [40 del decreto del Presidente della Repubblica 12 febbraio 1965, n. 162](Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md), e' prorogato ad ogni effetto secondo il disposto degli articoli 1 e 2 della presente legge; e, se vi e' stata condanna, ne cessano l'esecuzione e gli effetti penali ai sensi dell'[articolo 2, secondo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 4. — null
 

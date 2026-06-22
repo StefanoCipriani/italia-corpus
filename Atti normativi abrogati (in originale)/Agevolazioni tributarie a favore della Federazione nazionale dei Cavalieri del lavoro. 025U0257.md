@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3031](../Regi%20decreti/Modificazioni%20al%20Regio%20decreto%2020%20marzo%201921%20n.%20350%20concernente%20la%20costituzione%20dellOrdine%20cavalleresco%20Al%20merito%20del%20lavoro.%20023U3031.md);
+Visto il [R. decreto 30 dicembre 1923, n. 3031](Modificazioni%20al%20Regio%20decreto%2020%20marzo%201921%20n.%20350%20concernente%20la%20costituzione%20dellOrdine%20cavalleresco%20Al%20merito%20del%20lavoro.%20023U3031.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per le finanze di concerto col Ministro per l'economia nazionale;
 

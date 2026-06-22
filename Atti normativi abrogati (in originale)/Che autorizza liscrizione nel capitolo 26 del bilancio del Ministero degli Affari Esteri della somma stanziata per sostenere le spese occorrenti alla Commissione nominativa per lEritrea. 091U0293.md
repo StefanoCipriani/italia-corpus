@@ -22,7 +22,7 @@ UMBERTO I.
  
  Articolo unico. 
  
- E' autorizzata l'iscrizione nel capitolo 26 del bilancio del Ministero degli Affari Esteri della somma di lire ottantamila per sostenere le spese occorrenti alla Commissione nominata con [R. decreto in data 11 marzo 1891 (n. 100](../Regi%20decreti/Che%20stabilisce%20la%20nomina%20duna%20Commissione%20per%20provvedimenti%20disciplinari%20e%20amministrativi%20nella%20Colonia%20Eritrea.%20091U0100.md)) per l'Eritrea. 
+ E' autorizzata l'iscrizione nel capitolo 26 del bilancio del Ministero degli Affari Esteri della somma di lire ottantamila per sostenere le spese occorrenti alla Commissione nominata con [R. decreto in data 11 marzo 1891 (n. 100](Che%20stabilisce%20la%20nomina%20duna%20Commissione%20per%20provvedimenti%20disciplinari%20e%20amministrativi%20nella%20Colonia%20Eritrea.%20091U0100.md)) per l'Eritrea. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

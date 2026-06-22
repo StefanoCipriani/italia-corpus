@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'art. 74 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e modificato con la [legge 14 luglio 1907, n. 482](Portante%20aggiunte%20e%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari%20del%2021%20febbraio%201895%20n.%2070.%20007U0482.md), aggiungere: 
+All'art. 74 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e modificato con la [legge 14 luglio 1907, n. 482](Portante%20aggiunte%20e%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari%20del%2021%20febbraio%201895%20n.%2070.%20007U0482.md), aggiungere: 
  
  Per gli ufficiali della R. marina sottoindicati la pensione sara' liquidata secondo la seguente tabella: 
  

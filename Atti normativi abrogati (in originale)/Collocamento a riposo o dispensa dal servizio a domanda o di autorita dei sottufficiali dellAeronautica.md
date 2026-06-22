@@ -95,7 +95,7 @@ Le disposizioni del presente decreto non si applicano:
  Le disposizioni del presente decreto possono, invece, essere applicate ai sottufficiali per i quali sia tuttora pendente il giudizio di epurazione, ed essi, ai fini del collocamento a riposo o della dispensa dal servizio di autorita', sono valutati, indipendentemente dagli addebiti contemplati dalle vigenti norme sull'epurazione, sulla base dell'affidamento dato di percorrere in modo particolarmente distinto l'ulteriore carriera, ovvero, se abbiano gia' conseguito il grado finale della carriera, di disimpegnare in modo particolarmente distinto l'ulteriore servizio.
  Il collocamento a riposo o la dispensa dal servizio, adottati ai sensi del presente decreto, non estinguono il procedimento di epurazione, che segue il suo corso come se non fosse cessato il rapporto d'impiego.
  Qualora detto procedimento si concluda con giudizio sfavorevole, il collocamento a riposo o la dispensa dal servizio di cui sopra dovra' essere sostituito dal provvedimento di Stato relativo a tale giudizio.
- Resta fermo per i sottufficiali sottoposti a giudizio di epurazione quanto disposto nell'[art. 6 del decreto legislativo luogotenenziale 22 aprile 1945, n. 179](../Decreti%20legislativi%20luogotenenziali/Nuove%20disposizioni%20integrative%20per%20lepurazione%20dellAministrazione.%20045U0179.md), circa il collocamento a riposo del personale, di ufficio o su domanda.
+ Resta fermo per i sottufficiali sottoposti a giudizio di epurazione quanto disposto nell'[art. 6 del decreto legislativo luogotenenziale 22 aprile 1945, n. 179](Nuove%20disposizioni%20integrative%20per%20lepurazione%20dellAministrazione.%20045U0179.md), circa il collocamento a riposo del personale, di ufficio o su domanda.
 
 ## Art. 12.
 

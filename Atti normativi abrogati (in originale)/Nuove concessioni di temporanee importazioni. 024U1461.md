@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il testo di legge sulle importazioni ed esportazioni temporanee approvato con il [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), con le modificazioni ed aggiunte successivamente apportatevi;
 
-Udito il Comitato consultivo di cui all'[art. 1 del R. decreto 14 giugno 1923, n. 1313](../Regi%20decreti/Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md);
+Udito il Comitato consultivo di cui all'[art. 1 del R. decreto 14 giugno 1923, n. 1313](Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto con quello per l'economia nazionale;
 
@@ -36,7 +36,7 @@ Fino al 30 giugno 1925, e' ammessa l'importazione temporanea di cristalli, tappe
 
 ## Art. 3.
 
-Fino al 30 giugno 1925, e' nuovamente concessa l'importazione temporanea dell'alluminio in lingotti per la fabbricazione di carta d'alluminio, e per la fabbricazione di leghe ferro, metalliche mediante reazioni alluminio-termiche, gia' accordata a titolo d'esperimento, rispettivamente con [Regi decreti 10 settembre 1923, nn. 1962](../Regi%20decreti/Estensione%20ad%20altre%20lavorazioni%20di%20alcune%20concessioni%20di%20temporanea%20importazione%20attualmente%20in%20vigore.%20023U1962.md) e [1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-10;1963) e scadute di validita' al 31 agosto corrente anno. 
+Fino al 30 giugno 1925, e' nuovamente concessa l'importazione temporanea dell'alluminio in lingotti per la fabbricazione di carta d'alluminio, e per la fabbricazione di leghe ferro, metalliche mediante reazioni alluminio-termiche, gia' accordata a titolo d'esperimento, rispettivamente con [Regi decreti 10 settembre 1923, nn. 1962](Estensione%20ad%20altre%20lavorazioni%20di%20alcune%20concessioni%20di%20temporanea%20importazione%20attualmente%20in%20vigore.%20023U1962.md) e [1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-10;1963) e scadute di validita' al 31 agosto corrente anno. 
  
  Quantita' minima ammessa all'importazione temporanea: kg. 50; termine massimo per la riesportazione: 6 mesi.
 

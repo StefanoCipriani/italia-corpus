@@ -64,7 +64,7 @@ Eseguite direttamente le opere e rimborsatone l'importo agli interessati, il Min
 
 ## Art. 8.
 
-Nei riguardi delle opere eseguite per conto di Consorzi e privati e non classificate in prima categoria il Ministero dei lavori pubblici potra' esigere dai proprietari interessati la rifusione della eventuale differenza tra la spesa effettivamente sostenuta per lavoro e l'importo dell'indennizzo, curandone la riscossione in un numero di rate non superiore alle 30 nel modo previsto dall'art. 153 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md). 
+Nei riguardi delle opere eseguite per conto di Consorzi e privati e non classificate in prima categoria il Ministero dei lavori pubblici potra' esigere dai proprietari interessati la rifusione della eventuale differenza tra la spesa effettivamente sostenuta per lavoro e l'importo dell'indennizzo, curandone la riscossione in un numero di rate non superiore alle 30 nel modo previsto dall'art. 153 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md). 
  
  Il presente decreto avra' effetto dalla data di sua pubblicazione nella Gazzetta ufficiale del Regno e sara' presentato al Parlamento per essere convertito in legge. 
  

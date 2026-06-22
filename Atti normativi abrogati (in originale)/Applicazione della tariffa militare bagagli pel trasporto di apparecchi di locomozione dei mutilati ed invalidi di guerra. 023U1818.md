@@ -18,7 +18,7 @@ Viste le tariffe e condizioni valevoli per i trasporti sulle linee ferroviarie e
 
 Visto il [R. decreto 27 novembre 1910, n. 935](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-11-27;935), che approva le tariffe per i trasporti in servizio interno sulle linee di navigazione esercitate dallo Stato;
 
-Visto l'art. 39 della legge 7 1uglio 1907, n. 429, modificata col [R. decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
+Visto l'art. 39 della legge 7 1uglio 1907, n. 429, modificata col [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
 
 Visto il [R. decreto-legge 16 giugno 1921, n. 931](Che%20reca%20facilitazioni%20di%20viaggio%20a%20favore%20dei%20mutilati%20o%20invalidi%20della%20guerra%20nonche%20delle%20famiglie%20dei%20caduti%20nella%20guerra%20stessa.%20021U0931.md);
 

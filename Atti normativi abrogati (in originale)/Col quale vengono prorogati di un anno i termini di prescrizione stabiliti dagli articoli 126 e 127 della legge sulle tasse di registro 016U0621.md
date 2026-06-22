@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata e delle facolta' conferite al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto il testo unico delle leggi sulle tasse di registro, approvato con [R. decreto 20 maggio 1897, n. 217](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20tasse%20di%20registro.%20097U0217.md); 
+ Visto il testo unico delle leggi sulle tasse di registro, approvato con [R. decreto 20 maggio 1897, n. 217](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20tasse%20di%20registro.%20097U0217.md); 
  
  Udito il Consiglio dei ministri; 
  

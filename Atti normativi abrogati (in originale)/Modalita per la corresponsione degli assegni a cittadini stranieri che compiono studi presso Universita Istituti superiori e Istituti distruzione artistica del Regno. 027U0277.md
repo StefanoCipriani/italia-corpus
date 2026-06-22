@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 11 marzo 1923, n. 563](../Regi%20decreti/Che%20istituisce%20assegni%20da%20concedersi%20ad%20italiani%20ed%20a%20stranieri%20per%20seguire%20corsi%20o%20compiere%20studi%20presso%20Universita%20Istituti%20superiori%20e%20scuole%20di%20belle%20arti%20rispettivamente%20dellestero%20e_0cdd7629ee87.md);
+Veduto il [R. decreto 11 marzo 1923, n. 563](Che%20istituisce%20assegni%20da%20concedersi%20ad%20italiani%20ed%20a%20stranieri%20per%20seguire%20corsi%20o%20compiere%20studi%20presso%20Universita%20Istituti%20superiori%20e%20scuole%20di%20belle%20arti%20rispettivamente%20dellestero%20e_0cdd7629ee87.md);
 
 Veduto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md);
 

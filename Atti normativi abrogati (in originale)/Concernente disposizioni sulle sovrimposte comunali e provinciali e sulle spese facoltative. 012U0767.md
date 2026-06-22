@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli articoli 303, 304, 307 e 332 della legge comunale e provinciale (testo unico approvato con [R. decreto 21 maggio 1908, n. 269](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20008U0269.md)) sono sostituiti i seguenti: 
+Agli articoli 303, 304, 307 e 332 della legge comunale e provinciale (testo unico approvato con [R. decreto 21 maggio 1908, n. 269](Che%20approva%20lannesso%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20008U0269.md)) sono sostituiti i seguenti: 
  
  Art. 303. - La sovrimposta alle contribuzioni dirette stabilita dalle Provincie e dai Comuni, per far fronte alla deficienza dei loro bilanci, deve colpire con eguale proporzione tanto l'imposta sui terreni quanto quella sui fabbricati. 
  

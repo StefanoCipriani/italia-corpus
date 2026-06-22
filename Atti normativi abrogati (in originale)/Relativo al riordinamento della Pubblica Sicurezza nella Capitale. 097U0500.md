@@ -294,7 +294,7 @@ I Delegati sono Ufficiali d'informazione e di esecuzione, e ad un tempo Ufficial
  Attendono all'osservanza dei regolamenti sulla prostituzione.
 Infine niun fatto, che possa interessare l'ordine e la pace pubblica, o che possa accennare ad un reato, deve sfuggire all'attenzione dei Delegati. 
  
- Spetta particolarmente ai Delegati di raccogliere tutti gli elementi delle denunzie per l'ammonizione, e per le contravvenzioni all'ammonizione; nonche' per l'accertamento delle contravvenzioni e dei delitti previsti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dalla legge di Pubblica Sicurezza e da altre leggi dello Stato.
+ Spetta particolarmente ai Delegati di raccogliere tutti gli elementi delle denunzie per l'ammonizione, e per le contravvenzioni all'ammonizione; nonche' per l'accertamento delle contravvenzioni e dei delitti previsti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dalla legge di Pubblica Sicurezza e da altre leggi dello Stato.
 
 ## Disposizioni comuni ai Commissari, Vice-Commissari e Delegati.
 
@@ -448,7 +448,7 @@ Tutti i funzionari trasferiti negli Uffici di P. S. della Capitale con diritto a
 
 Tutti i funzionari contemplati nel presente decreto hanno obbligo precipuo di conservare il piu' assoluto segreto su tutto quanto si riferisce alle loro mansioni. 
  
- La trasgressione a questo dovere importera' il trasferimento in provincia, su proposta del Prefetto, senza pregiudizio delle maggiori pene comminate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per la violazione dei doveri inerenti al proprio ufficio.
+ La trasgressione a questo dovere importera' il trasferimento in provincia, su proposta del Prefetto, senza pregiudizio delle maggiori pene comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per la violazione dei doveri inerenti al proprio ufficio.
 
 ### Art. 52.
 

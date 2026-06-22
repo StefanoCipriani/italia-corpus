@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Le disposizioni di cui al [regio decreto 28 settembre 1934, n. 1820](../Regi%20decreti/Istituzione%20di%20distintivi%20di%20onore%20per%20feriti%20mutilati%20e%20deceduti%20per%20causa%20di%20servizio.%20034U1820.md), circa l'istituzione di distintivi di onore per feriti, mutilati e deceduti per cause di servizio, sono estese agli appartenenti al Corpo degli agenti di custodia.
+Le disposizioni di cui al [regio decreto 28 settembre 1934, n. 1820](Istituzione%20di%20distintivi%20di%20onore%20per%20feriti%20mutilati%20e%20deceduti%20per%20causa%20di%20servizio.%20034U1820.md), circa l'istituzione di distintivi di onore per feriti, mutilati e deceduti per cause di servizio, sono estese agli appartenenti al Corpo degli agenti di custodia.
  All'onere derivante dall'applicazione della presente legge si provvede coi normali stanziamenti del capitolo n. 86 dello stato di previsione della spesa del Ministero di grazia e giustizia per l'esercizio finanziario 1956-57 e dei corrispondenti capitoli degli esercizi successivi.
  Il Ministro per il tesoro e' autorizzato ad apportare, con proprio decreto, la variazione di bilancio.
 

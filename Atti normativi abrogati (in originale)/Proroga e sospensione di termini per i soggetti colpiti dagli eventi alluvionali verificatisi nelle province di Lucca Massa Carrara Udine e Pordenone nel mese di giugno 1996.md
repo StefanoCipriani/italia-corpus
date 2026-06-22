@@ -131,7 +131,7 @@ Nei confronti dei soggetti di cui al comma 1 sono sospesi fino al 31 dicembre 19
 
 1.
 
-All'[articolo 1, commi 4](Norme%20urgenti%20in%20materia%20di%20lavori%20pubblici.md) e [5, del decreto-legge 3 aprile 1995, n. 101](Norme%20urgenti%20in%20materia%20di%20lavori%20pubblici.md), convertito, con modificazioni, dalla [legge 2 giugno 1995, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20aprile%201995%20n.%20101%20recante%20norme%20urgenti%20in%20materia%20di%20lavori%20pubblici.md), le parole: "sei mesi dalla stessa data" sono sostituite dalle seguenti: "il 30 settembre 1996".
+All'[articolo 1, commi 4](Norme%20urgenti%20in%20materia%20di%20lavori%20pubblici.md) e [5, del decreto-legge 3 aprile 1995, n. 101](Norme%20urgenti%20in%20materia%20di%20lavori%20pubblici.md), convertito, con modificazioni, dalla [legge 2 giugno 1995, n. 216](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20aprile%201995%20n.%20101%20recante%20norme%20urgenti%20in%20materia%20di%20lavori%20pubblici.md), le parole: "sei mesi dalla stessa data" sono sostituite dalle seguenti: "il 30 settembre 1996".
 
 ## Art. 5. — Entrata in vigore
 

@@ -22,7 +22,7 @@ UMBERTO I.
  
  Articolo unico. 
  
- Il [Regio decreto 11 settembre 1892 n. 497](../Regi%20decreti/Circa%20la%20residenza%20della%20R.%20Legazione%20italiana%20in%20Cina.%20092U0497.md) e' convertito in legge, con le modificazioni risultanti dal seguente nuovo testo: 
+ Il [Regio decreto 11 settembre 1892 n. 497](Circa%20la%20residenza%20della%20R.%20Legazione%20italiana%20in%20Cina.%20092U0497.md) e' convertito in legge, con le modificazioni risultanti dal seguente nuovo testo: 
  
  Art 1. E' autorizzata la vendita del terreno di proprieta' dello Stato in Pechino, per taels 6000, pari ad italiane lire 33,913.50. 
  

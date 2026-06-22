@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 21 ottobre 1923, n. 2557](../Regi%20decreti/Nuovo%20ordinamento%20dei%20Regi%20istituti%20nautici.%20023U2557.md);
+Visto il [R. decreto 21 ottobre 1923, n. 2557](Nuovo%20ordinamento%20dei%20Regi%20istituti%20nautici.%20023U2557.md);
 
 Visto il parere del Consiglio dell'istruzione nautica;
 
@@ -114,7 +114,7 @@ Gli alunni che manchino comunque ai doveri scolastici o disciplinari od offendan
 
 ## Art. 11.
 
-Nella tabella E) annessa al [R. decreto 4 febbraio 1923, n. 388](../Regi%20decreti/Portante%20miglioramenti%20economici%20agli%20insegnanti%20dei%20Regi%20istituti%20nautici.%20023U0388.md), alla voce «esame di ammissione (per chi deve farlo)» e' sostituita la voce «esame di idoneita'».
+Nella tabella E) annessa al [R. decreto 4 febbraio 1923, n. 388](Portante%20miglioramenti%20economici%20agli%20insegnanti%20dei%20Regi%20istituti%20nautici.%20023U0388.md), alla voce «esame di ammissione (per chi deve farlo)» e' sostituita la voce «esame di idoneita'».
 
 ## Art. 12.
 
@@ -122,7 +122,7 @@ Le disposizioni del presente decreto entrano in vigore con l'anno scolastico 192
 
 ## Art. 13.
 
-Salvo quanto e' disposto nel successivo articolo 14, sono abrogati il [decreto-legge Luogotenenziale 21 giugno 1919, n. 1087](Che%20stabilisce%20norme%20per%20lammissione%20negli%20Istituti%20nautici.%20019U1087.md), convertito nella [legge 11 giugno 1922, n. 886](Che%20converte%20in%20legge%20i%20decreti%20Luogotenenziali%20nn.%201086%201087%20e%201088%20del%2021%20giugno%201919%20riguardanti%20i%20Regi%20Istituti%20nautici.%20022U0886.md), ed il [R. decreto 10 settembre 1923, n. 2042](../Regi%20decreti/Scrutini%20ed%20esami%20nei%20Regi%20istituti%20nautici.%20023U2042.md). E' inoltre abrogata qualunque altra disposizione che sia contraria al presente decreto.
+Salvo quanto e' disposto nel successivo articolo 14, sono abrogati il [decreto-legge Luogotenenziale 21 giugno 1919, n. 1087](Che%20stabilisce%20norme%20per%20lammissione%20negli%20Istituti%20nautici.%20019U1087.md), convertito nella [legge 11 giugno 1922, n. 886](Che%20converte%20in%20legge%20i%20decreti%20Luogotenenziali%20nn.%201086%201087%20e%201088%20del%2021%20giugno%201919%20riguardanti%20i%20Regi%20Istituti%20nautici.%20022U0886.md), ed il [R. decreto 10 settembre 1923, n. 2042](Scrutini%20ed%20esami%20nei%20Regi%20istituti%20nautici.%20023U2042.md). E' inoltre abrogata qualunque altra disposizione che sia contraria al presente decreto.
 
 ## Art. 14.
 

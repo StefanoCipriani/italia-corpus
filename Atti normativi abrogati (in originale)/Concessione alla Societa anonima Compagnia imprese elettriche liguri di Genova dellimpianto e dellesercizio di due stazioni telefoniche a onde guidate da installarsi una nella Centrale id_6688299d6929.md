@@ -103,7 +103,7 @@ La societa' concessionaria dovra' provvedere sotto la propria responsabilita' a 
 
 ## Art. 15.
 
-La societa' concessionaria sara' in ogni caso responsabile dell'operato suo e dei suoi dipendenti nei rapporti con lo Stato e coi terzi, senza pregiudizio delle sanzioni comminate dalle attuali leggi sulle comunicazioni con o senza filo e dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ai singoli responsabili delle, infrazioni di cui all'articolo precedente ed in generale della violazione del segreto telegrafico e telefonico.
+La societa' concessionaria sara' in ogni caso responsabile dell'operato suo e dei suoi dipendenti nei rapporti con lo Stato e coi terzi, senza pregiudizio delle sanzioni comminate dalle attuali leggi sulle comunicazioni con o senza filo e dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ai singoli responsabili delle, infrazioni di cui all'articolo precedente ed in generale della violazione del segreto telegrafico e telefonico.
 
 ## Art. 16.
 

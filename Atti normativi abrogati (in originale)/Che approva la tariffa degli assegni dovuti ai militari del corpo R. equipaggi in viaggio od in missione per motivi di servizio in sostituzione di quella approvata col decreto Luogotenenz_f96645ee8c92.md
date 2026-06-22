@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'ordinamento degli assegni del corpo R. equipaggi approvato col [R. decreto 9 giugno 1907, numero 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-06-09;359);
 
-Visto il [R. decreto 2 settembre 1912, n. 1008](../Regi%20decreti/Col%20quale%20vengono%20modificate%20le%20tariffe%20degli%20assegni%20di%20viaggio%20o%20missione%20per%20il%20personale%20della%20R.%20marina.%20012U1008.md), che stabilisce gli assegni di viaggio e missione per il personale della R. marina;
+Visto il [R. decreto 2 settembre 1912, n. 1008](Col%20quale%20vengono%20modificate%20le%20tariffe%20degli%20assegni%20di%20viaggio%20o%20missione%20per%20il%20personale%20della%20R.%20marina.%20012U1008.md), che stabilisce gli assegni di viaggio e missione per il personale della R. marina;
 
 Visto il [decreto Luogotenenziale n. 380, in data 27 febbraio 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-27;380), concernente gli assegni dovuti ai militari del corpo R. equipaggi in viaggio od in missione per motivi di servizio;
 

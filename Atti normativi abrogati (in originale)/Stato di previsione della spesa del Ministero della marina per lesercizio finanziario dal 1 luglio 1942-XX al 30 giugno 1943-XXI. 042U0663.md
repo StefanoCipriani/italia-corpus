@@ -14,7 +14,7 @@ Il Governo del Re e' autorizzato a far pagare le spese ordinarie e straordinarie
 
 ## Art. 2.
 
-L'assegnazione di cui al [R. decreto 15 novembre 1938, n. 1873](../Regi%20decreti/Disposizioni%20in%20materia%20di%20finanziamenti%20industriali.%20038U1873.md), e la quota stabilita dall'art. 20 del R. decreto-legge 10 marzo 1938-XVI, n. 330, convertito nella legge 5 gennaio 1939-XVII, n. 245, per sovvenzioni alla costruzione di navi mercantili, al netto della somma di L. 3.000.000 da destinare alla partecipazione dello Stato al capitale della Banca nazionale del Lavoro, ai termini dell'art. 2 della legge 6 giugno 1940-XVIII, n. 731, sono inscritte per L. 328.000.000 nella parte ordinaria, al capitolo n. 61 e per L. 614.000.000 nella parte straordinaria al capitolo n. 75.
+L'assegnazione di cui al [R. decreto 15 novembre 1938, n. 1873](Disposizioni%20in%20materia%20di%20finanziamenti%20industriali.%20038U1873.md), e la quota stabilita dall'art. 20 del R. decreto-legge 10 marzo 1938-XVI, n. 330, convertito nella legge 5 gennaio 1939-XVII, n. 245, per sovvenzioni alla costruzione di navi mercantili, al netto della somma di L. 3.000.000 da destinare alla partecipazione dello Stato al capitale della Banca nazionale del Lavoro, ai termini dell'art. 2 della legge 6 giugno 1940-XVIII, n. 731, sono inscritte per L. 328.000.000 nella parte ordinaria, al capitolo n. 61 e per L. 614.000.000 nella parte straordinaria al capitolo n. 75.
 
 ## Art. 3.
 

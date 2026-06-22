@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Visto il Regolamento approvato con [Regio Decreto del 28 agosto 1870, n. 5832](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lapplicazione%20dellimposta%20sui%20fabbricati.%20070U5832.md), per l'applicazione della imposta sui fabbricati;
+Visto il Regolamento approvato con [Regio Decreto del 28 agosto 1870, n. 5832](Che%20approva%20il%20Regolamento%20per%20lapplicazione%20dellimposta%20sui%20fabbricati.%20070U5832.md), per l'applicazione della imposta sui fabbricati;
 
 Visto il Ministeriale Decreto 10 settembre 1870, col quale furono stabiliti i termini utili per le dichiarazioni dei possessori, non che per la formazione e spedizione dei Ruoli del 1871;
 

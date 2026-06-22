@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti gli [articoli 4 della legge 26 settembre 1920, n. 1322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-09-26;1322#art_4), e 3 della [legge 19 dicembre 1920, n. 1778](Che%20approva%20lannesso%20Trattato%20concluso%20fra%20il%20Regno%20dItalia%20e%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20020U1778.md);
 
-Visto il [Regio decreto 23 giugno 1921, n. 887](che%20estende%20nelle%20nuove%20Provincie%20annesse%20al%20Regno%20in%20virtu%20delle%20leggi%2026%20settembre%201920%20n.%201322%20e%2019%20dicembre%201920%20n.%201176%20il%20Codice%20penale%20quello%20di%20procedura%20penale%20ed%20altre%20determina_71ecfb76fe84.md), che estende nelle nuove Provincie del Regno il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quello di procedura penale ed altre leggi in materia penale;
+Visto il [Regio decreto 23 giugno 1921, n. 887](che%20estende%20nelle%20nuove%20Provincie%20annesse%20al%20Regno%20in%20virtu%20delle%20leggi%2026%20settembre%201920%20n.%201322%20e%2019%20dicembre%201920%20n.%201176%20il%20Codice%20penale%20quello%20di%20procedura%20penale%20ed%20altre%20determina_71ecfb76fe84.md), che estende nelle nuove Provincie del Regno il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quello di procedura penale ed altre leggi in materia penale;
 
 Udito il Consiglio dei ministri;
 

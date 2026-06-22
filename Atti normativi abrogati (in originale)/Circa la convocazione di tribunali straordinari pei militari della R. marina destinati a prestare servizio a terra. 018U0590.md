@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-I militari della Regia marina, destinati a prestare servizio a terra sotto gli ordini di un comandante appartenente alla marina, potranno essere deferiti a un tribunale militare straordinario, appositamente convocato dal detto comandante nei casi contemplati nell'[art. 559 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per l'esercito.
+I militari della Regia marina, destinati a prestare servizio a terra sotto gli ordini di un comandante appartenente alla marina, potranno essere deferiti a un tribunale militare straordinario, appositamente convocato dal detto comandante nei casi contemplati nell'[art. 559 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per l'esercito.
 
 ## Art. 2.
 
-Alla costituzione e alla procedura del tribunale straordinario indicato nel precedente articolo saranno estese le disposizioni del cap. IV del libro II del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
+Alla costituzione e alla procedura del tribunale straordinario indicato nel precedente articolo saranno estese le disposizioni del cap. IV del libro II del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
  
  Il presente decreto entrera' in vigore dal giorno successivo alla sua pubblicazione nella Gazzetta ufficiale del Regno. 
  

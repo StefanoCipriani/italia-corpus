@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76), [77, primo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com1), e [87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli [articoli 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20Maggiori%20e%20per%20la%20revisione%20delle%20leggi%20sul%20reclutamento%20e%20della%20circoscrizione%20dei%20tribunali%20militari%20territoriali.md), [2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20Maggiori%20e%20per%20la%20revisione%20delle%20leggi%20sul%20reclutamento%20e%20della%20circoscrizione%20dei%20tribunali%20militari%20territoriali.md) e [4 della legge 12 dicembre 1962, n. 1862](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20Maggiori%20e%20per%20la%20revisione%20delle%20leggi%20sul%20reclutamento%20e%20della%20circoscrizione%20dei%20tribunali%20militari%20territoriali.md);
+Visti gli [articoli 1](Delega%20al%20Governo%20per%20il%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20Maggiori%20e%20per%20la%20revisione%20delle%20leggi%20sul%20reclutamento%20e%20della%20circoscrizione%20dei%20tribunali%20militari%20territoriali.md), [2](Delega%20al%20Governo%20per%20il%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20Maggiori%20e%20per%20la%20revisione%20delle%20leggi%20sul%20reclutamento%20e%20della%20circoscrizione%20dei%20tribunali%20militari%20territoriali.md) e [4 della legge 12 dicembre 1962, n. 1862](Delega%20al%20Governo%20per%20il%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20Maggiori%20e%20per%20la%20revisione%20delle%20leggi%20sul%20reclutamento%20e%20della%20circoscrizione%20dei%20tribunali%20militari%20territoriali.md);
 
 Udito il parere del Consiglio superiore delle forze armate;
 
@@ -33,7 +33,7 @@ Sono soggetti alla leva:
 ### Art. 2. — Soggezione alla leva di mare
 
 Sono soggetti alla leva di mare i sottonotati cittadini che, al momento della chiamata alla leva di mare (se questa avviene prima della chiamata alla leva di terra), oppure al momento della chiamata della leva di terra (se questa avviene prima della chiamata alla leva di mare):
- 1-a) siano stati o siano iscritti tra il personale marittimo e della navigazione interna in base al [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+ 1-a) siano stati o siano iscritti tra il personale marittimo e della navigazione interna in base al [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
  1-b) abbiano svolto o svolgano attivita' lavorativa nell'ambito dei porti, delle spiagge e del demanio marittimo in genere, oppure abbiano svolto o svolgano attivita' lavorativa sulle rive e acque dei laghi, fiumi e lagune;
  1-c) siano stati o siano iscritti a societa' o enti di sport nautici o di pesca sportiva, oppure siano stati o siano in possesso di abilitazione alla condotta di motoscafi;
  2) abbiano appartenuto o appartengano a personale di qualsiasi categoria in servizio negli arsenali, nei cantieri e negli stabilimenti di lavoro e negli uffici di qualsiasi genere della Marina militare;
@@ -938,7 +938,7 @@ I colpevoli di fraudolenta sostituzione di persona sono puniti con la reclusione
 
 ### Art. 134. — Reati commessi per sottrarsi agli obblighi del servizio militare
 
-Gli iscritti di leva o i militari in congedo che, al fine di sottrarsi permanentemente o temporaneamente all'obbligo del servizio militare o ad un particolare servizio di un corpo, di un'arma o di una specialita', o comunque di menomare la loro incondizionata idoneita' al servizio militare, commettono alcuno dei reati previsti negli [articoli da 157](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) [a 163 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e dall'[art. 115 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra, sono puniti secondo le disposizioni di detti articoli.
+Gli iscritti di leva o i militari in congedo che, al fine di sottrarsi permanentemente o temporaneamente all'obbligo del servizio militare o ad un particolare servizio di un corpo, di un'arma o di una specialita', o comunque di menomare la loro incondizionata idoneita' al servizio militare, commettono alcuno dei reati previsti negli [articoli da 157](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) [a 163 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e dall'[art. 115 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra, sono puniti secondo le disposizioni di detti articoli.
  I reati di cui al comma precedente appartengono alla cognizione della autorita' giudiziaria militare.
 
 ### Art. 135. — Renitenza
@@ -988,7 +988,7 @@ Il renitente per il quale sia intervenuto l'annullamento della dichiarazione di 
 Non possono essere ammessi all'eventuale dispensa dal compiere la ferina di leva di cui all'art. 91, ne' rimanere in tale posizione:
  1) gli iscritti ed i militari che siano incorsi nelle sanzioni penali previste dal presente Capo, salvo quanto dispone il precedente art. 139 per i renitenti;
  2) gli iscritti che scientemente abbiano prodotto documenti falsi o infedeli, senza pregiudizio delle pene stabilite dalla legge qualora siano incorsi nel reato di falsita';
- 3) i militari che, ai termini del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, siano incorsi nel reato di diserzione o di allontanamento illecito o di mancanza alla chiamata;
+ 3) i militari che, ai termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, siano incorsi nel reato di diserzione o di allontanamento illecito o di mancanza alla chiamata;
  4) coloro che siano stati riconosciuti rei di essersi sottratti alla leva, a meno che il titolo non sia sorto dopo il loro arruolamento.
 
 ### Art. 141. — Pene per i favoreggiatori dei renitenti
@@ -1013,11 +1013,11 @@ decisione del Consiglio di leva.
 
 ### Art. 144. — Responsabilita' dei funzionari dello Stato per azioni contrastanti col presente decreto
 
-Il pubblico ufficiale, l'agente o l'impiegato dello Stato che sotto qualsiasi pretesto abbia, in opposizione al disposto della legge, autorizzato o consentito passaggio dalla leva di mare alla leva di terra o effettuato trasferimenti di ruoli o deliberatamente omesso di attuare i provvedimenti previsti dal n. 1 del secondo comma dell'art. 14 del presente decreto, ovvero autorizzato od a ammesso all'eventuale dispensa o esenzione dal compimento della ferma di leva, consentito riforme, esclusioni dal servizio militare, ovvero autorizzato od ammesso alla dispensa od ai benefici previsti nel Capo IX o abbia dato arbitraria estensione sia alla durata, sia alle regole e condizioni della chiamata alla leva e degli arruolamenti volontari, e' punito con le pene previste dall'[art. 323 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle maggiori pene stabilite dalla legge.
+Il pubblico ufficiale, l'agente o l'impiegato dello Stato che sotto qualsiasi pretesto abbia, in opposizione al disposto della legge, autorizzato o consentito passaggio dalla leva di mare alla leva di terra o effettuato trasferimenti di ruoli o deliberatamente omesso di attuare i provvedimenti previsti dal n. 1 del secondo comma dell'art. 14 del presente decreto, ovvero autorizzato od a ammesso all'eventuale dispensa o esenzione dal compimento della ferma di leva, consentito riforme, esclusioni dal servizio militare, ovvero autorizzato od ammesso alla dispensa od ai benefici previsti nel Capo IX o abbia dato arbitraria estensione sia alla durata, sia alle regole e condizioni della chiamata alla leva e degli arruolamenti volontari, e' punito con le pene previste dall'[art. 323 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle maggiori pene stabilite dalla legge.
 
 ### Art. 145. — Punibilita' dell'iscritto e del favoreggiatore colpevole di reati, ancorche' non si trovi nel territorio della Repubblica.
 
-L'iscritto che, per sottrarsi all'obbligo del servizio militare, commetta in territorio estero reati previsti dal presente decreto o dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' punito secondo la legge italiana, ancorche' non si trovi nel territorio della Repubblica.
+L'iscritto che, per sottrarsi all'obbligo del servizio militare, commetta in territorio estero reati previsti dal presente decreto o dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' punito secondo la legge italiana, ancorche' non si trovi nel territorio della Repubblica.
  Il cittadino o lo straniero che in territorio estero concorra, in qualsiasi modo, nel reato commesso dall'iscritto e' punito secondo la legge italiana, ancorche' non si trovi nel territorio della Repubblica. Se sia stato giudicato all'estero per il medesimo fatto, e' giudicato nuovamente nella Repubblica, qualora il Ministro per la giustizia ne faccia richiesta.
 
 ### Art. 146. — Competenza dell'autorita' giudiziaria ordinaria
@@ -1026,7 +1026,7 @@ I reati di cui ai precedenti articoli spettano alla competenza dell'autorita' gi
 
 ### Art. 147. — Mancanza alla chiamata
 
-Gli iscritti arruolati o i militari in congedo che commettono i reati di mancanza alla chiamata previsti dai [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace o dal [Codice penale militare di guerra](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:relazione.e.regio.decreto:1941-02-20;303) o da altre leggi penali militari sono puniti con le pene ivi stabilite.
+Gli iscritti arruolati o i militari in congedo che commettono i reati di mancanza alla chiamata previsti dai [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace o dal [Codice penale militare di guerra](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:relazione.e.regio.decreto:1941-02-20;303) o da altre leggi penali militari sono puniti con le pene ivi stabilite.
  I reati di cui al comma precedente appartengono alla cognizione dell'autorita' giudiziaria militare.
 
 ### Art. 148. — Militare in congedo che si sottrae all'arruolamento eccezionale
@@ -1054,7 +1054,7 @@ In caso di insolvibilita' del condannato, la pena dell'ammenda prevista dal prec
 ### Art. 152. — Cognizione delle contravvenzioni
 
 La cognizione delle contravvenzioni all'obbligo di notificare il cambiamento di residenza e di abitazione appartiene alla magistratura ordinaria; quella relativa all'obbligo della presentazione alle chiamate di controllo spetta alla magistratura militare.
- Nei procedimenti per la contravvenzione all'obbligo della presentazione alla chiamata di controllo puo', senza procedersi a dibattimento, pronunciarsi condanna con decreto, secondo le norme stabilite dall'[art. 382 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
+ Nei procedimenti per la contravvenzione all'obbligo della presentazione alla chiamata di controllo puo', senza procedersi a dibattimento, pronunciarsi condanna con decreto, secondo le norme stabilite dall'[art. 382 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
  Il contravventore e' ammesso a pagare, a titolo di oblazione, prima dell'apertura del dibattimento, ovvero prima del decreto di condanna, una somma pari alla terza parte del massimo dell'ammenda stabilita dalla legge per il reato commesso, oltre le spese di procedimento.
 
 ### Art. 153. — Contravvenzioni per coloro che ostacolino o traggano in inganno i Comandanti di porto e gli ufficiali designati alle operazioni di indagine e di controllo per l'inclusione nelle liste di leva di mare di coloro che vi sono soggetti in base al art. 2 del presente decreto.
@@ -1068,7 +1068,7 @@ In quanto non e' previsto dalle disposizioni contenute nel presente Capo, si app
 ### Art. 155. — Decorrenza per l'applicazione del presente decreto
 
 Le disposizioni contenute nel presente decreto troveranno applicazione a decorrere dalla chiamata alla leva e dalla chiamata alle armi della classe successiva a quella presentatasi alla leva o alle armi nell'anno di entrata in vigore del decreto stesso.
- Nei confronti dei giovani gia' chiamati alla leva o alle armi, si applicano le norme in vigore alla data del presente decreto contenute nei testi unici approvati con [regio decreto 24 febbraio 1938, n. 329](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e con [regio decreto 28 luglio 1932, n. 1365](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20leva%20marittima.%20032U1365.md), e successive modificazioni.
+ Nei confronti dei giovani gia' chiamati alla leva o alle armi, si applicano le norme in vigore alla data del presente decreto contenute nei testi unici approvati con [regio decreto 24 febbraio 1938, n. 329](Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e con [regio decreto 28 luglio 1932, n. 1365](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20leva%20marittima.%20032U1365.md), e successive modificazioni.
 
 ### Art. 156. — Durata della ferma di leva pur i militari incorporati fino al 31 dicembre 1964
 

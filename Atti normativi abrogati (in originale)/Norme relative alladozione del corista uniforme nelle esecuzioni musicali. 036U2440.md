@@ -52,7 +52,7 @@ Coloro che fabbricano o vendono coristi uniformi o strumenti musicali a fiato o 
 
 ## Art. 5.
 
-L'Ufficio centrale istituito dal [R. decreto 30 ottobre 1887, n. 5095](../Regi%20decreti/Col%20quale%20e%20adottato%20nel%20Regno%20come%20tono%20normale%20il%20la%203ª%20e%20crea%20listituto%20fisico%20della%20regia%20universita%20di%20Roma%20un%20ufficio%20centrale%20collincarico%20di%20conservare%20il%20corista%20normale%20ed%20il%20r_13f8cd81ebcb.md), nell'istituto fisico della Regia universita' di Roma, oltre il compito di conservare il corista uniforme campione, di controllare i coristi che verranno presentati, di correggerli eventualmente e di apporre il marchio di cui all'art. 2 ha quello di disporre i necessari controlli per l'osservanza del presente decreto. 
+L'Ufficio centrale istituito dal [R. decreto 30 ottobre 1887, n. 5095](Col%20quale%20e%20adottato%20nel%20Regno%20come%20tono%20normale%20il%20la%203ª%20e%20crea%20listituto%20fisico%20della%20regia%20universita%20di%20Roma%20un%20ufficio%20centrale%20collincarico%20di%20conservare%20il%20corista%20normale%20ed%20il%20r_13f8cd81ebcb.md), nell'istituto fisico della Regia universita' di Roma, oltre il compito di conservare il corista uniforme campione, di controllare i coristi che verranno presentati, di correggerli eventualmente e di apporre il marchio di cui all'art. 2 ha quello di disporre i necessari controlli per l'osservanza del presente decreto. 
  
  A tale scopo all'Istituto di fisica della Regia universita' di Roma sono assegnati un assistente ed un tecnico, i cui posti sono aggiunti a quelli stabiliti nel ruolo organico del personale a carico della detta Universita'. 
  

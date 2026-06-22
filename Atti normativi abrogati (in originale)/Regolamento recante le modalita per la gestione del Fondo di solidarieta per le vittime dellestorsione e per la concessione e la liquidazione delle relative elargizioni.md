@@ -126,7 +126,7 @@ Per ogni riunione del comitato spetta ai membri ed ai segretari un gettone di pr
 
 3.
 
-Gli atti ed i documenti relativi al procedimento di elargizione sono coperti dal segreto di ufficio e di essi o del loro contenuto e' vietata la pubblicazione; quando si tratta di atti o documenti di un procedimento penale si applicano le disposizioni previste dall'[art. 684 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dall'[art. 115 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_115).
+Gli atti ed i documenti relativi al procedimento di elargizione sono coperti dal segreto di ufficio e di essi o del loro contenuto e' vietata la pubblicazione; quando si tratta di atti o documenti di un procedimento penale si applicano le disposizioni previste dall'[art. 684 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dall'[art. 115 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_115).
 
 ## Art. 6. — R e v o c a
 

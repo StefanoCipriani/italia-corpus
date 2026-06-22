@@ -12,7 +12,7 @@ IL MINISTRO DELL'INDUSTRIA
 
 DEL COMMERCIO E DELL'ARTIGIANATO
 
-Visto l'[art. 3 del decreto-legge 31 luglio 1987, n. 318](Norme%20urgenti%20in%20materia%20di%20agevolazioni%20della%20produzione%20industriale%20delle%20piccole%20e%20medie%20imprese%20e%20di%20rifinanziamento%20degli%20interventi%20di%20politica%20mineraria_3.md), convertito con [legge 3 ottobre 1987, n. 399](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20luglio%201987%20n.%20318%20recante%20norme%20urgenti%20in%20materia%20di%20agevolazioni%20della%20produzione%20industriale%20delle%20piccole%20e%20medie%20imprese%20_fc9ed41059f2.md), che attribuisce al Ministero dell'industria, del commercio e dell'artigianato il potere di determinare i criteri, procedure e modalita' di erogazione di parte del Fondo nazionale per l'artigianato;
+Visto l'[art. 3 del decreto-legge 31 luglio 1987, n. 318](Norme%20urgenti%20in%20materia%20di%20agevolazioni%20della%20produzione%20industriale%20delle%20piccole%20e%20medie%20imprese%20e%20di%20rifinanziamento%20degli%20interventi%20di%20politica%20mineraria_3.md), convertito con [legge 3 ottobre 1987, n. 399](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20luglio%201987%20n.%20318%20recante%20norme%20urgenti%20in%20materia%20di%20agevolazioni%20della%20produzione%20industriale%20delle%20piccole%20e%20medie%20imprese%20_fc9ed41059f2.md), che attribuisce al Ministero dell'industria, del commercio e dell'artigianato il potere di determinare i criteri, procedure e modalita' di erogazione di parte del Fondo nazionale per l'artigianato;
 
 Udito il parere espresso dal Consiglio di Stato nell'adunanza generale del 23 dicembre 1993;
 
@@ -26,7 +26,7 @@ A D O T T A il seguente regolamento:
 
 1.
 
-L'impiego della quota del dieci per cento del Fondo nazionale per l'artigianato destinata all'istituzione del sistema informativo e dell'osservatorio economico nazionale dell'artigianato, ai sensi dell'[art. 3, comma 3, del decreto-legge 31 luglio 1987, n. 318](Norme%20urgenti%20in%20materia%20di%20agevolazioni%20della%20produzione%20industriale%20delle%20piccole%20e%20medie%20imprese%20e%20di%20rifinanziamento%20degli%20interventi%20di%20politica%20mineraria_3.md), convertito con [legge 3 ottobre 1987, n. 399](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20luglio%201987%20n.%20318%20recante%20norme%20urgenti%20in%20materia%20di%20agevolazioni%20della%20produzione%20industriale%20delle%20piccole%20e%20medie%20imprese%20_fc9ed41059f2.md), e' disposto dal Consiglio nazionale dell'artigianatoin conformita' agli articoli seguenti.
+L'impiego della quota del dieci per cento del Fondo nazionale per l'artigianato destinata all'istituzione del sistema informativo e dell'osservatorio economico nazionale dell'artigianato, ai sensi dell'[art. 3, comma 3, del decreto-legge 31 luglio 1987, n. 318](Norme%20urgenti%20in%20materia%20di%20agevolazioni%20della%20produzione%20industriale%20delle%20piccole%20e%20medie%20imprese%20e%20di%20rifinanziamento%20degli%20interventi%20di%20politica%20mineraria_3.md), convertito con [legge 3 ottobre 1987, n. 399](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20luglio%201987%20n.%20318%20recante%20norme%20urgenti%20in%20materia%20di%20agevolazioni%20della%20produzione%20industriale%20delle%20piccole%20e%20medie%20imprese%20_fc9ed41059f2.md), e' disposto dal Consiglio nazionale dell'artigianatoin conformita' agli articoli seguenti.
 
 2.
 
@@ -34,7 +34,7 @@ Per il funzionamento del sistema informativo e dell'osservatorio economico potra
  AVVERTENZA: 
  Il testo delle note qui pubblicato e' stato redatto ai 
  sensi dell'art. 10, comma 3, del testo unico approvato con 
- [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di 
+ [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di 
  facilitare la lettura delle disposizioni di legge alle 
  quali e' operato il rinvio. Restano invariati il valore e 
  l'efficacia degli atti legislativi qui trascritti.

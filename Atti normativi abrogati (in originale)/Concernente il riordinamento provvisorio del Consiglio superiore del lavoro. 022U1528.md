@@ -20,7 +20,7 @@ Veduta la [legge 29 giugno 1902, n. 246](Istituzione%20di%20un%20Ufficio%20del%2
 
 Veduto l'[art. 16 del decreto-legge Luogotenenziale 9 febbraio 1919, n. 112](che%20detta%20norme%20sul%20contratto%20dimpiego%20privato%20demandando%20secondo%20il%20valore%20le%20relative%20controversie%20al%20giudizio%20di%20Commissioni%20miste%20o%20arbitri%20amichevoli%20compositori.%20019U0112.md);
 
-Veduta il [R. decreto 4 settembre 1919, n. 1637](../Regi%20decreti/Che%20modifica%20la%20composizione%20del%20Consiglio%20di%20amministrazione%20dellOpera%20nazionale%20per%20i%20combattenti.%20019U1637.md);
+Veduta il [R. decreto 4 settembre 1919, n. 1637](Che%20modifica%20la%20composizione%20del%20Consiglio%20di%20amministrazione%20dellOpera%20nazionale%20per%20i%20combattenti.%20019U1637.md);
 
 Veduto il [R. decreto-legge 27 gennaio 1921, n. 38](Che%20proroga%20la%20rinnovazione%20del%20Consiglio%20superiore%20del%20lavoro.%20021U0038.md);
 

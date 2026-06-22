@@ -202,7 +202,7 @@ TITOLO SETTIMO
 I datori di lavoro sono puniti:
  a) con l'ammenda da lire 2000 a lire 10 mila per ogni apprendista assunto in contravvenzione all'obbligo previsto dal secondo comma dell'art. 3;
  b) con l'ammenda da lire 1000 a lire 5000 per ogni violazione delle norme dell'art. 11.
- Nelle contravvenzioni previste dalla presente legge il contravventore, prima dell'apertura del dibattimento ovvero prima del decreto di condanna, puo' presentare domanda di oblazione all'Ispettorato del lavoro, che determinera' la somma da pagarsi entro i limiti minimo e massimo dell'ammenda stabilita, prefissando il termine per effettuare il pagamento, a norma dell'[art. 162 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Nelle contravvenzioni previste dalla presente legge il contravventore, prima dell'apertura del dibattimento ovvero prima del decreto di condanna, puo' presentare domanda di oblazione all'Ispettorato del lavoro, che determinera' la somma da pagarsi entro i limiti minimo e massimo dell'ammenda stabilita, prefissando il termine per effettuare il pagamento, a norma dell'[art. 162 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 24.
 

@@ -21,7 +21,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- L'ultimo comma dell'art. 132 del testo unico delle leggi e disposizioni sull'avanzamento degli ufficiali del Regio esercito, approvato con [R. decreto 8 maggio 1933, n. 651](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20disposizioni%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20033U0651.md), e' sostituito dal seguente: 
+ L'ultimo comma dell'art. 132 del testo unico delle leggi e disposizioni sull'avanzamento degli ufficiali del Regio esercito, approvato con [R. decreto 8 maggio 1933, n. 651](Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20disposizioni%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20033U0651.md), e' sostituito dal seguente: 
  
  « Tale Commissione e' nominata al principio di ogni anno con decreto Ministeriale e valgono anche per essa le norme di cui agli articoli 13, 14, 15, 16, 17 e 18 del presente testo unico ». 
  

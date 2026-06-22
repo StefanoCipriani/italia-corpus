@@ -32,12 +32,12 @@ Sono esclusi dall'amnistia e dall'indulto previsti dagli articoli precedenti:
  1) i reati commessi con un fine in contrasto con quello indicato nell'[art. 1 del regio decreto 5 aprile 1944, n. 96](../Regi%20decreti/Amnistia%20e%20indulto%20per%20reati%20comuni%20militari%20ed%20annonari.%20044U0096.md);
  2) i reati commessi in danno delle Forze Armate Alleate, delle persone che ad esse appartengono, ovvero giudicati dai Tribunali Alleati o in corso di giudizio presso tali Tribunali;
  3) i reati contro le leggi e gli usi di guerra.
- Sono esclusi dal condono di cui all'art. 2, il delitto di insubordinazione nell'ipotesi prevista dall'[art. 186, primo](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [secondo comma, del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e il delitto di violenza, contro inferiori nell'ipotesi prevista dall'[art. 195, secondo comma, del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
+ Sono esclusi dal condono di cui all'art. 2, il delitto di insubordinazione nell'ipotesi prevista dall'[art. 186, primo](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [secondo comma, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e il delitto di violenza, contro inferiori nell'ipotesi prevista dall'[art. 195, secondo comma, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
 
 ## Art. 4.
 
 L'amnistia, e il condono previsti negli articoli precedenti non si applicano:
- 1) nei confronti di coloro che hanno riportato, alla data del presente decreto, una o piu' condanne per delitti non colposi, diversi da quelli di assenza dal servizio, a pena detentiva superiore nel complesso a cinque anni. Nell'applicazionle di questa disposizione non si tiene conto delle condanne estinte per precedente amnistia, ne' dei reati estinti, alla data del presente decreto, per il decorso dei termini della sospensione condizionale della pena a norma dell'[art. 167 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ne delle condanne per le quali sia intervenuta la riabilitazione;
+ 1) nei confronti di coloro che hanno riportato, alla data del presente decreto, una o piu' condanne per delitti non colposi, diversi da quelli di assenza dal servizio, a pena detentiva superiore nel complesso a cinque anni. Nell'applicazionle di questa disposizione non si tiene conto delle condanne estinte per precedente amnistia, ne' dei reati estinti, alla data del presente decreto, per il decorso dei termini della sospensione condizionale della pena a norma dell'[art. 167 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ne delle condanne per le quali sia intervenuta la riabilitazione;
  2) nei confronti di coloro che, alla data del presente decreto si trovino in stato di latitanza, salvo che si costituiscano in carcere entro tre mesi dalla data stessa. Questa disposizione non si applica nel caso in cui la pena da espiare sia interamente condonata, o il reato sia estinto per amnistia.
 
 ## Art. 5.
@@ -51,7 +51,7 @@ Il condono previsto dall'art. 2 e' revocato di diritto, se nel termine di cinque
 ## Art. 7.
 
 Ai fini del computo della pena per l'applicazione dell'amnistia si ha riguardo alla pena stabilita dalla legge per ciascun reato consumato o tentato. Non si tien conto dell'aumento di pena dipendente dalla continuazione.
- Delle circostanze aggravanti si tien conto, fatta eccezione per la recidiva e le le circostanze prevedute dal [n. 2 dell'art 61 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Delle circostanze aggravanti si tien conto, fatta eccezione per la recidiva e le le circostanze prevedute dal [n. 2 dell'art 61 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Delle circostanze attenuanti non si tien conto, fatta eccezione per l'eta'.
 
 ## Art. 8.

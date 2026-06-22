@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'art. 141 del Codice di commercio promulgato con [R. decreto 31 ottobre 1882, n. 1062](../Regi%20decreti/Per%20lapprovazione%20e%20pubblicazione%20del%20codice%20di%20commercio.%20082U1062.md), Serie 3ª;
+Visto l'art. 141 del Codice di commercio promulgato con [R. decreto 31 ottobre 1882, n. 1062](Per%20lapprovazione%20e%20pubblicazione%20del%20codice%20di%20commercio.%20082U1062.md), Serie 3ª;
 
 Vista la [legge 20 agosto 1921, n. 1133](Relativa%20ad%20autorizzazione%20straordinaria%20di%20spese%20per%20urgenti%20opere%20lavori%20ed%20acquisti%20inerenti%20ai%20servizi%20telegrafici%20e%20telefonici.%20021U1133.md), relativa ad autorizzazione straordinaria di spesa per urgenti opere, lavori ed acquisti, inerenti ai servizi telegrafici e telefonici;
 

@@ -70,7 +70,7 @@ BIGLIETTO DI STATO DI LIRE VENTICINQUE separate da due stelle a sei punte ciascu
  
  In prossimita' e parallelamente ai margini orizzontali del verso in parola veggonsi due targhette rettangolari, delle quali la superiore porta stampata in maiuscolette a bastoncino, su fondo bianco, la leggenda: 
  
- «[R. decreto 9 maggio 1895, n. 324](../Regi%20decreti/Che%20stabilisce%20i%20distintivi%20ed%20i%20segni%20caratteristici%20dei%20nuovi%20biglietti%20da%20L.%2025.%20095U0324.md)». 
+ «[R. decreto 9 maggio 1895, n. 324](Che%20stabilisce%20i%20distintivi%20ed%20i%20segni%20caratteristici%20dei%20nuovi%20biglietti%20da%20L.%2025.%20095U0324.md)». 
  
  L'inferiore porta stampata, come sopra, la leggenda: 
  

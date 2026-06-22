@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a noi delegata;
 
-Veduto il regolamento generale universitario approvato con [R. decreto 9 agosto 1910, n. 796](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), modificato con [R. decreto 21 settembre 1911, n. 1194](../Regi%20decreti/Col%20quale%20vengono%20modificati%20alcuni%20articoli%20del%20regolamento%20generale%20universitario%20approvato%20con%20R.%20decreto%209%20agosto%201910%20n.%20796%20011U1194.md);
+Veduto il regolamento generale universitario approvato con [R. decreto 9 agosto 1910, n. 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), modificato con [R. decreto 21 settembre 1911, n. 1194](Col%20quale%20vengono%20modificati%20alcuni%20articoli%20del%20regolamento%20generale%20universitario%20approvato%20con%20R.%20decreto%209%20agosto%201910%20n.%20796%20011U1194.md);
 
 Veduto il testo unico approvato con [R. decreto 12 ottobre 1913, n. 1261](Da%20convertirsi%20in%20legge%20che%20approva%20il%20testo%20unico%20delle%20leggi%20emanate%20in%20conseguenza%20del%20terremoto%20del%2028%20dicembre%201908.%20013U1261.md);
 
@@ -42,11 +42,11 @@ Il beneficio dell'esonero dalle tasse e soprattasse, di cui al precedente artico
 
 ## Art. 3.
 
-Le condizioni disagiate dei richiedenti dovranno essere accertate con le norme stabilite nel [R. decreto 21 settembre 1911, n. 1194](../Regi%20decreti/Col%20quale%20vengono%20modificati%20alcuni%20articoli%20del%20regolamento%20generale%20universitario%20approvato%20con%20R.%20decreto%209%20agosto%201910%20n.%20796%20011U1194.md).
+Le condizioni disagiate dei richiedenti dovranno essere accertate con le norme stabilite nel [R. decreto 21 settembre 1911, n. 1194](Col%20quale%20vengono%20modificati%20alcuni%20articoli%20del%20regolamento%20generale%20universitario%20approvato%20con%20R.%20decreto%209%20agosto%201910%20n.%20796%20011U1194.md).
 
 ## Art. 4.
 
-L'esenzione dalle tasse non potra' essere accordata ne' a quegli studenti i quali non abbiano ottemperato alle norme dell'art. 107 del regolamento generale universitario approvato con [R. decreto 9 agosto 1910, n. 796](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), salvo il caso che trattisi di studenti in servizio militare, ne' a quelli che siano nelle condizioni previste dall'art. 125 di esso regolamento.
+L'esenzione dalle tasse non potra' essere accordata ne' a quegli studenti i quali non abbiano ottemperato alle norme dell'art. 107 del regolamento generale universitario approvato con [R. decreto 9 agosto 1910, n. 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), salvo il caso che trattisi di studenti in servizio militare, ne' a quelli che siano nelle condizioni previste dall'art. 125 di esso regolamento.
 
 ## Art. 5.
 

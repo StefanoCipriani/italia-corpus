@@ -18,7 +18,7 @@ Visto il [R. decreto 1° febbraio 1920, n. 116](https://www.normattiva.it/uri-re
 
 Visto il [R. decreto 17 maggio 1923, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-17;1284);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
 Sentito il Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ Ministro Segretario di Stato ad interim per la marina, di concerto con il Minist
 
 ## Art. 1.
 
-Il [secondo comma dell'art. 20 del R. decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' modificato come segue: 
+Il [secondo comma dell'art. 20 del R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' modificato come segue: 
  
  «Le promozioni a professore ordinario di terza classe della Regia accademia navale sono conferite, dopo un triennio di permanenza nel grado di straordinario stabile, ai professori che insegnino od abbiano insegnato con programma universitario nei corsi terzo, quarto o quinto dell'Accademia predetta e dopo un quinquennio agli altri professori, sempre pero', in ambedue i casi, con l'osservanza delle norme di cui all'[art. 6 della legge 23 giugno 1912, n. 637](Che%20porta%20provvedimenti%20riguardanti%20il%20corpo%20civile%20insegnante%20della%20R.%20Accademia%20navale.%20012U0637.md), e relative modificazioni. A tali promozioni sono applicabili altresi' le disposizioni di cui ai commi quarto e quinto dell'articolo 4 della stessa [legge n. 637 del 1912](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912;637)».
 
@@ -54,7 +54,7 @@ I capi d'istituto che al 30 settembre 1923 avessero gia' compiuto con esito favo
 
 ## Art. 6.
 
-Il trattamento economico dei capi di istituto per il periodo decorrente dal 1° ottobre al 30 novembre 1923 rimane determinato dagli [articoli 20](../Regi%20decreti/Nuovo%20ordinamento%20dei%20Regi%20istituti%20nautici.%20023U2557.md) e [42 del R. decreto 21 ottobre 1923, n. 2557](../Regi%20decreti/Nuovo%20ordinamento%20dei%20Regi%20istituti%20nautici.%20023U2557.md).
+Il trattamento economico dei capi di istituto per il periodo decorrente dal 1° ottobre al 30 novembre 1923 rimane determinato dagli [articoli 20](Nuovo%20ordinamento%20dei%20Regi%20istituti%20nautici.%20023U2557.md) e [42 del R. decreto 21 ottobre 1923, n. 2557](Nuovo%20ordinamento%20dei%20Regi%20istituti%20nautici.%20023U2557.md).
 
 ## Art. 7.
 

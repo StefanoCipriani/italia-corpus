@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 4 agosto 1924, n. 1292](Approvazione%20del%20nuovo%20ordinamento%20della%20Milizia%20Volontaria%20per%20la%20Sicurezza%20Nazionale.%20024U1292.md), che approva il nuovo ordinamento della Milizia volontaria per la sicurezza nazionale, convertito in legge con la [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
-Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con il [R. decreto 8 settembre 1932, n. 1332](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md), e successive modificazioni;
+Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con il [R. decreto 8 settembre 1932, n. 1332](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md), e successive modificazioni;
 
-Visto il testo unico delle disposizioni legislative riguardanti la leva marittima, approvato con il [R. decreto 28 luglio 1932, n. 1365](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20leva%20marittima.%20032U1365.md);
+Visto il testo unico delle disposizioni legislative riguardanti la leva marittima, approvato con il [R. decreto 28 luglio 1932, n. 1365](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20leva%20marittima.%20032U1365.md);
 
 Riconosciuta la necessita' urgente ed assoluta di provvedere alla costituzione di grandi unita' della M.V.S.N. per le esigenze delle colonie dell'Africa Orientale, nonche' di sistemare la posizione delle Camicie Nere, arruolatesi volontariamente nelle suddette unita' ed aventi obblighi di leva o di servizio militare;
 

@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo delle leggi sulle pensioni civili e militari, approvato con [regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni e integrazioni;
+Visto il testo delle leggi sulle pensioni civili e militari, approvato con [regio decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni e integrazioni;
 
-Visto il [regio decreto 24 gennaio 1923, n. 62](../Regi%20decreti/Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md), concernente la istituzione del Commissariato per l'aeronautica;
+Visto il [regio decreto 24 gennaio 1923, n. 62](Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md), concernente la istituzione del Commissariato per l'aeronautica;
 
-Visto il [regio decreto 28 marzo 1923, n. 645](../Regi%20decreti/Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md), per la costituzione dell'Aeronautica;
+Visto il [regio decreto 28 marzo 1923, n. 645](Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md), per la costituzione dell'Aeronautica;
 
 Visto il decreto commissariale 31 luglio 1923, concernente la costituzione del Corpo del genio aeronautico e la pubblicazione del relativo organico;
 
@@ -24,21 +24,21 @@ Visto il decreto commissariale 10 dicembre 1923, concernente la costituzione del
 
 Visto il decreto commissariale 18 febbraio 1924, concernente gli organici del Corpo predetto;
 
-Visto il [regio decreto-legge 4 maggio 1925, n. 627](Ordinamento%20della%20Regia%20aeronautica.%20025U0627.md), riguardante l'ordinamento dell'Aeronautica, convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
+Visto il [regio decreto-legge 4 maggio 1925, n. 627](Ordinamento%20della%20Regia%20aeronautica.%20025U0627.md), riguardante l'ordinamento dell'Aeronautica, convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
 Vista la [legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), e successive modificazioni;
 
 Vista la [legge 6 gennaio 1931, n. 98](Nuovo%20ordinamento%20della%20Regia%20aeronautica.%20031U0098.md);
 
-Visto il [regio decreto-legge 20 luglio 1934, n. 1327](Determinazione%20degli%20organici%20del%20personale%20militare%20della%20Regia%20aeronautica%20per%20lesercizio%20finanziario%201934-35.%20034U1327.md), riguardante gli organici dell'Aeronautica, convertito nella [legge 4 aprile 1935, n. 802](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201327%20riguardante%20lapprovazione%20degli%20organici%20del%20personale%20militare%20della%20Regia%20aeronautica%20per%20lesercizio%20finanziario%201934-35.%20035U0802.md);
+Visto il [regio decreto-legge 20 luglio 1934, n. 1327](Determinazione%20degli%20organici%20del%20personale%20militare%20della%20Regia%20aeronautica%20per%20lesercizio%20finanziario%201934-35.%20034U1327.md), riguardante gli organici dell'Aeronautica, convertito nella [legge 4 aprile 1935, n. 802](Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201327%20riguardante%20lapprovazione%20degli%20organici%20del%20personale%20militare%20della%20Regia%20aeronautica%20per%20lesercizio%20finanziario%201934-35.%20035U0802.md);
 
-Visto il [regio decreto-legge 10 dicembre 1934, n. 2051](Organici%20del%20personale%20militare%20della%20Regia%20aeronautica%20per%20il%20periodo%201%20gennaio%201935-30%20giugno%201935.%20034U2051.md), riguardante gli organici dell'Aeronautica, convertito nella [legge 8 aprile 1935, n. 809](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20dicembre%201934%20n.%202051%20concernente%20gli%20organici%20del%20personale%20militare%20della%20Regia%20aeronautica%20per%20il%20periodo%201%20gennaio-30%20giugno%201935.%20035U0809.md);
+Visto il [regio decreto-legge 10 dicembre 1934, n. 2051](Organici%20del%20personale%20militare%20della%20Regia%20aeronautica%20per%20il%20periodo%201%20gennaio%201935-30%20giugno%201935.%20034U2051.md), riguardante gli organici dell'Aeronautica, convertito nella [legge 8 aprile 1935, n. 809](Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20dicembre%201934%20n.%202051%20concernente%20gli%20organici%20del%20personale%20militare%20della%20Regia%20aeronautica%20per%20il%20periodo%201%20gennaio-30%20giugno%201935.%20035U0809.md);
 
-Visto il [regio decreto-legge 18 luglio 1935, n. 1493](Organici%20del%20personale%20militare%20della%20Regia%20aeronautica.%20035U1493.md), riguardante gli organici dell'Aeronautica, convertito nella [legge 20 gennaio 1936, n. 226](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2018%20luglio%201935-XIII%20n.%201493%20concernente%20gli%20organici%20del%20personale%20militare%20della%20Regia%20aeronautica.%20036U0226.md);
+Visto il [regio decreto-legge 18 luglio 1935, n. 1493](Organici%20del%20personale%20militare%20della%20Regia%20aeronautica.%20035U1493.md), riguardante gli organici dell'Aeronautica, convertito nella [legge 20 gennaio 1936, n. 226](Conversione%20in%20legge%20del%20R.%20decreto-legge%2018%20luglio%201935-XIII%20n.%201493%20concernente%20gli%20organici%20del%20personale%20militare%20della%20Regia%20aeronautica.%20036U0226.md);
 
-Visto il [regio decreto 22 febbraio 1937, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-02-22;220), riguardante l'ordinamento dell'Aeronautica, convertito nella [legge 25 giugno 1937, n. 1501](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20febbraio%201937-XV%20n.%20220%20che%20approva%20lordinamento%20della%20Regia%20aeronautica.%20037U1501.md);
+Visto il [regio decreto 22 febbraio 1937, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-02-22;220), riguardante l'ordinamento dell'Aeronautica, convertito nella [legge 25 giugno 1937, n. 1501](Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20febbraio%201937-XV%20n.%20220%20che%20approva%20lordinamento%20della%20Regia%20aeronautica.%20037U1501.md);
 
-Visto il [regio decreto-legge 30 dicembre 1937, n. 2411](Trattamento%20di%20quiescenza%20spettante%20agli%20ufficiali%20e%20ai%20sottufficiali%20delle%20categorie%20in%20congedo%20richiamati%20alle%20armi%20in%20caso%20di%20guerra%20o%20di%20mobilitazione.%20037U2411.md), convertito nella [legge 17 maggio 1938 n. 886](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2030%20dicembre%201937-XVI%20n.%202411%20relativo%20al%20trattamento%20di%20quiescenza%20spettante%20agli%20ufficiali%20e%20ai%20sottufficiali%20delle%20categorie%20in%20congedo%20richiam_f42e4fd7307d.md);
+Visto il [regio decreto-legge 30 dicembre 1937, n. 2411](Trattamento%20di%20quiescenza%20spettante%20agli%20ufficiali%20e%20ai%20sottufficiali%20delle%20categorie%20in%20congedo%20richiamati%20alle%20armi%20in%20caso%20di%20guerra%20o%20di%20mobilitazione.%20037U2411.md), convertito nella [legge 17 maggio 1938 n. 886](Conversione%20in%20legge%20del%20R.%20decreto-legge%2030%20dicembre%201937-XVI%20n.%202411%20relativo%20al%20trattamento%20di%20quiescenza%20spettante%20agli%20ufficiali%20e%20ai%20sottufficiali%20delle%20categorie%20in%20congedo%20richiam_f42e4fd7307d.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

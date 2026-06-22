@@ -20,7 +20,7 @@ Vista la legge 31 dicembre 1850, n. 1122, e successive modificazioni;
 
 Vista la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md);
 
-Visto il [R. decreto 5 luglio 1923, n. 1439](../Regi%20decreti/Riunione%20in%20un%20unico%20Ministero%20denominato%20%20Ministero%20delleconomia%20nazionale%20%20dei%20servizi%20e%20degli%20uffici%20dipendenti%20dai%20Ministeri%20dellagricoltura%20e%20dellindustria%20del%20commercio%20e%20del%20lavoro.%20023U1439.md);
+Visto il [R. decreto 5 luglio 1923, n. 1439](Riunione%20in%20un%20unico%20Ministero%20denominato%20%20Ministero%20delleconomia%20nazionale%20%20dei%20servizi%20e%20degli%20uffici%20dipendenti%20dai%20Ministeri%20dellagricoltura%20e%20dellindustria%20del%20commercio%20e%20del%20lavoro.%20023U1439.md);
 
 Vista la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 

@@ -22,7 +22,7 @@ Quando noi Consigli di disciplina manchino i rappresentanti dei Comuni che conse
 
 ## Art. 4.
 
-Quando in nessuno dei modi indicati noi precedenti articoli 2 e 3 sia possibile provvedere alla sostituzione dei rappresentanti dei Comuni, il Ministero provvedera' alla sostituzione stessa scegliendo fra coloro che i Consigli comunali hanno facolta' di nominare quali loro rappresentanti nel Consiglio provinciale scolastico ai sensi dell'[art. 6 del R. decreto 31 luglio 1911, numero 939](../Regi%20decreti/Che%20reca%20le%20norme%20per%20la%20costituzione%20dei%20Consigli%20scolastici%20provinciali.%20011U0939.md).
+Quando in nessuno dei modi indicati noi precedenti articoli 2 e 3 sia possibile provvedere alla sostituzione dei rappresentanti dei Comuni, il Ministero provvedera' alla sostituzione stessa scegliendo fra coloro che i Consigli comunali hanno facolta' di nominare quali loro rappresentanti nel Consiglio provinciale scolastico ai sensi dell'[art. 6 del R. decreto 31 luglio 1911, numero 939](Che%20reca%20le%20norme%20per%20la%20costituzione%20dei%20Consigli%20scolastici%20provinciali.%20011U0939.md).
 
 ## Art. 5.
 
@@ -34,11 +34,11 @@ Qualora manchi uno dei maestri o manchino entrambi, il Ministero provvedera' all
 
 ## Art. 7.
 
-I nuovi membri sono nominati unicamente agli effetti della costituzione e del funzionamento del Consiglio di disciplina e restano in carica fino a quando non siasi proceduto alle nuove elezioni ai sensi del [R. decreto 31 luglio 1911, n. 939](../Regi%20decreti/Che%20reca%20le%20norme%20per%20la%20costituzione%20dei%20Consigli%20scolastici%20provinciali.%20011U0939.md), o fino a che i membri sostituiti non abbiano cessato di prestar servizio militare o opera permanente presso i Comitati di organizzazione civile. 
+I nuovi membri sono nominati unicamente agli effetti della costituzione e del funzionamento del Consiglio di disciplina e restano in carica fino a quando non siasi proceduto alle nuove elezioni ai sensi del [R. decreto 31 luglio 1911, n. 939](Che%20reca%20le%20norme%20per%20la%20costituzione%20dei%20Consigli%20scolastici%20provinciali.%20011U0939.md), o fino a che i membri sostituiti non abbiano cessato di prestar servizio militare o opera permanente presso i Comitati di organizzazione civile. 
  
  I nuovi nominati avranno qualita' di supplenti e interverranno alle sedute del Consiglio di disciplina solo quando non possono parteciparvi i membri effettivi da essi sostituiti. 
  
- Ad essi, quando non risiedono nel Comune capoluogo, spettano le indennita' di viaggio e di soggiorno stabilite dall'art. 18 del predetto [R. decreto 31 luglio 1911, n. 939](../Regi%20decreti/Che%20reca%20le%20norme%20per%20la%20costituzione%20dei%20Consigli%20scolastici%20provinciali.%20011U0939.md). 
+ Ad essi, quando non risiedono nel Comune capoluogo, spettano le indennita' di viaggio e di soggiorno stabilite dall'art. 18 del predetto [R. decreto 31 luglio 1911, n. 939](Che%20reca%20le%20norme%20per%20la%20costituzione%20dei%20Consigli%20scolastici%20provinciali.%20011U0939.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

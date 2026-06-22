@@ -30,7 +30,7 @@ L'esclusione dalla nomina ad ufficiale effettivo, per gli ufficiali di complemen
 
 ## Art. 5.
 
-Gli ufficiali non piu' inscritti nei ruoli, e richiamati in servizio sulla base dell'[art. 2 del R. decreto n. 355 del 28 marzo 1915](../Regi%20decreti/Riguardanti%20deroga%20ai%20limiti%20di%20eta%20per%20talune%20categorie%20di%20ufficiali%20in%20congedo%20ed%20impiego%20di%20ufficiali%20in%20congedo%20provvisorio%20e%20di%20volontari%20non%20vincolati%20da%20obbligo%20di%20servizio.%20015U0355.md), saranno inscritti, per la durata della guerra, nel ruolo degli ufficiali di riserva, colla stessa anzianita' di grado che essi avevano all'atto in cui cessarono di appartenere al ruolo stesso. 
+Gli ufficiali non piu' inscritti nei ruoli, e richiamati in servizio sulla base dell'[art. 2 del R. decreto n. 355 del 28 marzo 1915](Riguardanti%20deroga%20ai%20limiti%20di%20eta%20per%20talune%20categorie%20di%20ufficiali%20in%20congedo%20ed%20impiego%20di%20ufficiali%20in%20congedo%20provvisorio%20e%20di%20volontari%20non%20vincolati%20da%20obbligo%20di%20servizio.%20015U0355.md), saranno inscritti, per la durata della guerra, nel ruolo degli ufficiali di riserva, colla stessa anzianita' di grado che essi avevano all'atto in cui cessarono di appartenere al ruolo stesso. 
  
  Potranno quindi concorrere all'avanzamento insieme coi colleghi di pari grado ed anzianita', inscritti nei ruoli della riserva. 
  

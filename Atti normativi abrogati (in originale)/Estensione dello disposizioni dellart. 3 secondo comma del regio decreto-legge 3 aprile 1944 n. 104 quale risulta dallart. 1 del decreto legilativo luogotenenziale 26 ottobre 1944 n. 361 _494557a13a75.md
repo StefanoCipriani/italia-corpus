@@ -16,7 +16,7 @@ Visto il [regio decreto-legge 2 marzo 1944, n. 82](Variazione%20provvisoria%20de
 
 Visto il [regio decreto-legge 3 aprile 1944, n. 104](Stato%20degli%20Ufficiali%20della%20R.%20Marina%20non%20presenti%20in%20servizio.%20044U0104.md);
 
-Visto il [decreto legislativo luogotenenziale 26 ottobre 1944, n. 361](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%202%20comma%20dellart.%203%20del%20R.%20decreto-legge%203%20aprile%201944%20n.%20104%20concernente%20lo%20stato%20degli%20ufficiali%20della%20Regia%20marina%20non%20presenti%20in%20servizio.%20044U0361.md);
+Visto il [decreto legislativo luogotenenziale 26 ottobre 1944, n. 361](Modificazione%20del%202%20comma%20dellart.%203%20del%20R.%20decreto-legge%203%20aprile%201944%20n.%20104%20concernente%20lo%20stato%20degli%20ufficiali%20della%20Regia%20marina%20non%20presenti%20in%20servizio.%20044U0361.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ sulla proposta del Ministro per la difesa, d'intesa con il Ministro per il tesor
 
 ## Art. 1.
 
-Le disposizioni contenute nell'[art. 3, secondo comma del regio decreto-legge 3 aprile 1944, n. 104](Stato%20degli%20Ufficiali%20della%20R.%20Marina%20non%20presenti%20in%20servizio.%20044U0104.md), quale risulta dall'[art. 1 del decreto legislativo luogotenenziale 26 ottobre 1944, n. 361](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%202%20comma%20dellart.%203%20del%20R.%20decreto-legge%203%20aprile%201944%20n.%20104%20concernente%20lo%20stato%20degli%20ufficiali%20della%20Regia%20marina%20non%20presenti%20in%20servizio.%20044U0361.md), sono estese agli ufficiali della Marina militare reduci dalla prigionia di guerra o dall'internamento.
+Le disposizioni contenute nell'[art. 3, secondo comma del regio decreto-legge 3 aprile 1944, n. 104](Stato%20degli%20Ufficiali%20della%20R.%20Marina%20non%20presenti%20in%20servizio.%20044U0104.md), quale risulta dall'[art. 1 del decreto legislativo luogotenenziale 26 ottobre 1944, n. 361](Modificazione%20del%202%20comma%20dellart.%203%20del%20R.%20decreto-legge%203%20aprile%201944%20n.%20104%20concernente%20lo%20stato%20degli%20ufficiali%20della%20Regia%20marina%20non%20presenti%20in%20servizio.%20044U0361.md), sono estese agli ufficiali della Marina militare reduci dalla prigionia di guerra o dall'internamento.
 
 ## Art. 2.
 

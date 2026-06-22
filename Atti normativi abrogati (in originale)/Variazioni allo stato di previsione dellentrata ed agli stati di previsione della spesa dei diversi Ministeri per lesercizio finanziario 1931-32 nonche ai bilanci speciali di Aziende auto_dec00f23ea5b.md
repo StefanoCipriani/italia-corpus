@@ -38,7 +38,7 @@ Nei bilanci dell'Amministrazione del fondo di massa del Corpo della Regia guardi
 
 ## Art. 4.
 
-I termini fissati con l'ultimo comma dell'[art. 4 del R. decreto 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-20;1491#art_4), e con il [primo comma dell'art. 334 del R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono prorogati rispettivamente al 30 giugno 1933 ed al 30 settembre 1932.
+I termini fissati con l'ultimo comma dell'[art. 4 del R. decreto 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-20;1491#art_4), e con il [primo comma dell'art. 334 del R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono prorogati rispettivamente al 30 giugno 1933 ed al 30 settembre 1932.
 
 ## Art. 5.
 
@@ -49,7 +49,7 @@ E' autorizzata la spesa di L. 500.000 per l'acquisto, in Tirana, di uno stabile 
 
 ## Art. 6.
 
-E' prorogata al 30 giugno 1933, l'efficacia delle disposizioni di cui al [R. decreto 26 luglio 1925, n. 1237](../Regi%20decreti/Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md).
+E' prorogata al 30 giugno 1933, l'efficacia delle disposizioni di cui al [R. decreto 26 luglio 1925, n. 1237](Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md).
 
 ## Art. 7.
 

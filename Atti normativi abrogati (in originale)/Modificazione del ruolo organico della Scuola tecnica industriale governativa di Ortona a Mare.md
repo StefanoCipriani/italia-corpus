@@ -12,7 +12,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
- Visto il [regio decreto 4 luglio 1941, n. 1073](../Regi%20decreti/Istituzione%20di%20nuove%20scuole%20medie%20e%20corsi%20di%20scuole%20medie.%20041U1073.md), concernente, fra l'altro, la regificazione della Scuola tecnica industriale di Ortona a Mare;
+ Visto il [regio decreto 4 luglio 1941, n. 1073](Istituzione%20di%20nuove%20scuole%20medie%20e%20corsi%20di%20scuole%20medie.%20041U1073.md), concernente, fra l'altro, la regificazione della Scuola tecnica industriale di Ortona a Mare;
  Visto il prospetto n. 3 della tabella D allegata al predetto regio decreto;
  Considerata l'opportunita' che nella pianta organica della predetta scuola venga compreso un altro posto di ruolo per il personale tecnico di gruppo B;
  Ritenuto che occorre regolarizzare formalmente la modifica, gia' in atto dal 16 ottobre 1940, apportata alla tabella organica della Scuola tecnica industriale di Ortona a Mare;
@@ -20,7 +20,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
  Decreta:
 
- Con decorrenza dal 16 ottobre 1940 viene istituito nella Scuola tecnica industriale governativa di Ortona a Mare un altro posto di ruolo per il personale tecnico di gruppo B, in aggiunta ai posti gia' previsti dal prospetto n. 3 della tabella D allegata al [regio decreto 4 luglio 1941, n. 1073](../Regi%20decreti/Istituzione%20di%20nuove%20scuole%20medie%20e%20corsi%20di%20scuole%20medie.%20041U1073.md).
+ Con decorrenza dal 16 ottobre 1940 viene istituito nella Scuola tecnica industriale governativa di Ortona a Mare un altro posto di ruolo per il personale tecnico di gruppo B, in aggiunta ai posti gia' previsti dal prospetto n. 3 della tabella D allegata al [regio decreto 4 luglio 1941, n. 1073](Istituzione%20di%20nuove%20scuole%20medie%20e%20corsi%20di%20scuole%20medie.%20041U1073.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

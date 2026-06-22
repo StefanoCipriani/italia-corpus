@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 27 maggio 1909, n. 437](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20emissione%20in%20caso%20di%20perdita%20di%20duplicati%20di%20titoli%20rappresentativi%20dei%20depositi%20bancari.%20009U0437.md);
+Visto il [regio decreto 27 maggio 1909, n. 437](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20emissione%20in%20caso%20di%20perdita%20di%20duplicati%20di%20titoli%20rappresentativi%20dei%20depositi%20bancari.%20009U0437.md);
 
 Visto il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), modificato con le [leggi 7 marzo 1938, n. 141, 7 aprile 1938, n. 636, 10 giugno 1940, n. 933 e 3 dicembre 1942, n. 1752](Modificazione%20dellart.%2012%20della%20legge%207%20marzo%201938-XVI%20n.%20141%20che%20ha%20convertito%20in%20legge%20con%20modificazioni%20il%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20dife_383c722bbb98.md);
 
-Visto il [decreto legislativo luogotenenziale 14 settembre 1944, n. 226](../Decreti%20legislativi%20luogotenenziali/Soppressione%20dellIspettorato%20per%20la%20difesa%20del%20risparmio%20e%20per%20lesercizio%20del%20credito%20e%20passaggio%20delle%20sue%20attribuzioni%20e%20facolta%20al%20Ministero%20del%20tesoro.%20044U0226.md);
+Visto il [decreto legislativo luogotenenziale 14 settembre 1944, n. 226](Soppressione%20dellIspettorato%20per%20la%20difesa%20del%20risparmio%20e%20per%20lesercizio%20del%20credito%20e%20passaggio%20delle%20sue%20attribuzioni%20e%20facolta%20al%20Ministero%20del%20tesoro.%20044U0226.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per il tesoro, di concerto con i Ministri per la gra
 
 ## Art. 1.
 
-Al [secondo comma dell'art. 9 del regio decreto 27 maggio 1909, n. 437](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20emissione%20in%20caso%20di%20perdita%20di%20duplicati%20di%20titoli%20rappresentativi%20dei%20depositi%20bancari.%20009U0437.md), e' sostituito il seguente:
+Al [secondo comma dell'art. 9 del regio decreto 27 maggio 1909, n. 437](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20emissione%20in%20caso%20di%20perdita%20di%20duplicati%20di%20titoli%20rappresentativi%20dei%20depositi%20bancari.%20009U0437.md), e' sostituito il seguente:
  "Il provvedimento del presidente o del pretore, unitamente all'annunzio della perdita, dovra' rimanere esposto per un mese nell'aula del Tribunale o della Pretura e sull'albo del Comune del luogo in cui deve farsi il pagamento e, per tutto il termine nel decreto prefisso per le opposizioni, negli uffici dell'Istituto a cui fu fatta la denunzia. Lo stesso provvedimento sara' inoltre pubblicato nel giornale degli annunzi giudiziari, o nei giornali piu' diffusi del luogo ove la perdita e' avvenuta, secondo che stabilira' il magistrato, per una sola volta quando trattasi di libretto il cui importo non superi le lire cinquemila, per due volte quando tale importo ecceda le lire cinquemila e non oltrepassi le lire diecimila, e per tre volte quando trattasi di maggiore somma, con un intervallo, in questi ultimi due casi, fra una pubblicazione e l'altra, non minore di trenta giorni".
 
 ## Art. 2.

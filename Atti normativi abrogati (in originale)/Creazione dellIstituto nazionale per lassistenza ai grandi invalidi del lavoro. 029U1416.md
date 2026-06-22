@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'Ente nazionale per l'assistenza, ai grandi invalidi del lavoro con sede in Milano, riconosciuto giuridicamente con [R. decreto 28 novembre 1926, n. 2154](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellEnte%20nazionale%20per%20lassistenza%20ai%20grandi%20invalidi%20del%20lavoro%20in%20Milano.%20026U2154.md), e' trasformato secondo l'ordinamento stabilito dalla presente legge e funzionera' secondo le norme dello statuto da approvarsi nei termini ed ai sensi del successivo art. 9. 
+L'Ente nazionale per l'assistenza, ai grandi invalidi del lavoro con sede in Milano, riconosciuto giuridicamente con [R. decreto 28 novembre 1926, n. 2154](Erezione%20in%20ente%20morale%20dellEnte%20nazionale%20per%20lassistenza%20ai%20grandi%20invalidi%20del%20lavoro%20in%20Milano.%20026U2154.md), e' trasformato secondo l'ordinamento stabilito dalla presente legge e funzionera' secondo le norme dello statuto da approvarsi nei termini ed ai sensi del successivo art. 9. 
  
  L'Ente predetto assume la denominazione di «Istituto nazionale per l'assistenza ai grandi invalidi del lavoro».
 

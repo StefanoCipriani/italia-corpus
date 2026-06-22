@@ -29,7 +29,7 @@ Il [primo comma dell'art. 3 della legge 5 marzo 1968, n. 323](https://www.normat
 
 ## Art. 3.
 
-Le nuove misure delle retribuzioni, risultanti dalla applicazione del precedente art. 1, hanno effetto sui relativi aumenti periodici, sulla gratificazione a titolo di tredicesima mensilita' e sull'assegno alimentare previsto dall'[art. 82 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+Le nuove misure delle retribuzioni, risultanti dalla applicazione del precedente art. 1, hanno effetto sui relativi aumenti periodici, sulla gratificazione a titolo di tredicesima mensilita' e sull'assegno alimentare previsto dall'[art. 82 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
  Esse sono altresi' utili per gli altri effetti contemplati dalle disposizioni dell'[articolo 2 del decreto del Presidente della Repubblica 21 aprile 1965, n. 373](../DPR/Conglobamento%20dellassegno%20temporaneo%20negli%20stipendi%20paghe%20e%20retribuzioni%20del%20personale%20statale%20in%20applicazione%20della%20legge%205%20dicembre%201964%20n.%201268.md), in quanto applicabili.
 
 ## Art. 4.

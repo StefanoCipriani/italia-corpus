@@ -26,7 +26,7 @@ Vista la [legge 14 luglio 1912, num. 834](Concernente%20provvedimenti%20per%20li
 
 Vista la [legge 3 marzo 1912, n. 134](Con%20la%20quale%20vengono%20stabiliti%20i%20ruoli%20organici%20del%20personale%20del%20corpo%20reale%20delle%20foreste.%20012U0134.md), con la quale viene stabilito il ruolo organico del corpo Reale delle foreste;
 
-Visto il regolamento organico e disciplinare per il personale di custodia del corpo Reale delle foreste, approvato con [R. decreto 7 febbraio 1915, n. 253](../Regi%20decreti/Col%20quale%20e%20approvato%20lannesso%20regolamento%20organico%20e%20disciplinare%20per%20il%20personale%20di%20custodia%20del%20R.%20corpo%20delle%20foreste.%20015U0253.md);
+Visto il regolamento organico e disciplinare per il personale di custodia del corpo Reale delle foreste, approvato con [R. decreto 7 febbraio 1915, n. 253](Col%20quale%20e%20approvato%20lannesso%20regolamento%20organico%20e%20disciplinare%20per%20il%20personale%20di%20custodia%20del%20R.%20corpo%20delle%20foreste.%20015U0253.md);
 
 Udito il Consiglio dei ministri;
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 2 luglio 1925, n. 1205](Istituzione%20presso%20il%20Ministero%20dellinterno%20di%20un%20Ufficio%20stenografico%20e%20di%20una%20Direzione%20dei%20servizi%20elettrici.%20025U1205.md), che istituiva un ufficio stenografico alle dipendenze del Ministro per l'interno;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato e le successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato e le successive modificazioni;
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
@@ -50,7 +50,7 @@ Il personale tecnico del servizio stenografico e' tratto esclusivamente dal pers
  
  Quando non sia possibile provvedere nei sensi suindicati, il Capo del Governo ha facolta' di indire pubblici concorsi, determinandone, con suo decreto, le norme e le modalita'. 
  
- L'ammissione a tali concorsi e' subordinata al possesso dei requisiti stabiliti nell'[art. 16 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+ L'ammissione a tali concorsi e' subordinata al possesso dei requisiti stabiliti nell'[art. 16 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 4.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 22 dicembre 1945, n. 825](../Decreti%20legislativi%20luogotenenziali/Uso%20della%20lingua%20tedesca%20nei%20Comuni%20della%20provincia%20di%20Bolzano.md), sull'uso della lingua tedesca nei Comuni della provincia di Bolzano;
+Visto il [decreto legislativo luogotenenziale 22 dicembre 1945, n. 825](Uso%20della%20lingua%20tedesca%20nei%20Comuni%20della%20provincia%20di%20Bolzano.md), sull'uso della lingua tedesca nei Comuni della provincia di Bolzano;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli operai allievi fuochisti avventizi nelle ferrovie dello Stato nati nell'anno 1896, i quali siano stati cancellati dalle liste della leva di terra per uno dei titoli contemplati nell'art. 3 del testo unico delle leggi della leva di mare, approvato con [R. decreto in data 16 dicembre 1888, n. 5860](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), sono ripristinati nelle liste della leva di terra.
+Gli operai allievi fuochisti avventizi nelle ferrovie dello Stato nati nell'anno 1896, i quali siano stati cancellati dalle liste della leva di terra per uno dei titoli contemplati nell'art. 3 del testo unico delle leggi della leva di mare, approvato con [R. decreto in data 16 dicembre 1888, n. 5860](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), sono ripristinati nelle liste della leva di terra.
 
 ## Art. 2.
 

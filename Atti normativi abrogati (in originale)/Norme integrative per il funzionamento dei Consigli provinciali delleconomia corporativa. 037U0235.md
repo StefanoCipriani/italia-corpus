@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Veduto l'art. n. 2, della [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduto il [R. decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), che approva il testo unico delle leggi sui Consigli e sugli Uffici provinciali dell'economia corporativa;
+Veduto il [R. decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), che approva il testo unico delle leggi sui Consigli e sugli Uffici provinciali dell'economia corporativa;
 
 Veduto il [R. decreto-legge 11 giugno 1936, n. 1262](Conferma%20in%20carica%20dei%20presidenti%20e%20vice%20presidenti%20di%20sezione%20nonche%20dei%20componenti%20dei%20Consigli%20provinciali%20delleconomia%20corporativa.%20036U1262.md), col quale la durata in carica dei presidenti e vice presidenti di sezione nonche' dei componenti dei Consigli provinciali dell'economia corporativa e' stata prorogata di sei mesi a partire dal 1° giugno 1936;
 
@@ -30,13 +30,13 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le corporazioni, di c
 
 ## Art. 1.
 
-All'[art. 18 del R. decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), e' aggiunto il seguente comma: 
+All'[art. 18 del R. decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), e' aggiunto il seguente comma: 
  
  «Il vice presidente, i presidenti ed i vice presidenti di sezione ed i consiglieri, decaduti dalla carica per compiuto quadriennio, continuano ad esercitare, per gli affari di ordinaria amministrazione o di urgenza, le loro funzioni fino alla nomina dei loro successori».
 
 ## Art. 2.
 
-E' convalidata l'attivita' esercitata dopo il 30 novembre 1936 dagli organi dei Consigli provinciali dell'economia corporativa, secondo le norme del citato [R. decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md).
+E' convalidata l'attivita' esercitata dopo il 30 novembre 1936 dagli organi dei Consigli provinciali dell'economia corporativa, secondo le norme del citato [R. decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md).
 
 ## Art. 3.
 

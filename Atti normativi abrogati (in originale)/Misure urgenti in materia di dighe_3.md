@@ -148,7 +148,7 @@ Chiunque non adempia alle prescrizioni di cui all'articolo 3, comma 5, ovvero de
 
 5.
 
-L'ingegnere firmatario della perizia giurata di cui all'articolo 3, commi 6 e 7, che affermi fatti non conformi al vero soggiace alle pene previste dall'[articolo 373 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+L'ingegnere firmatario della perizia giurata di cui all'articolo 3, commi 6 e 7, che affermi fatti non conformi al vero soggiace alle pene previste dall'[articolo 373 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 

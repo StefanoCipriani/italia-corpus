@@ -32,7 +32,7 @@ Al personale non navigante sono estese, per quanto riguarda l'assunzione, le nom
 
 ## Art. 3.
 
-L'onere del pagamento della pensione o dell'indennita' al personale assunto dall'Amministrazione delle ferrovie dello Stato, che conservi il diritto alla liquidazione della pensione secondo le disposizioni del testo unico di leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), sara' ripartito fra il tesoro e l'Amministrazione delle ferrovie dello Stato in proporzione della somma totale degli stipendi che saranno stati corrisposti prima e dopo l'assunzione. 
+L'onere del pagamento della pensione o dell'indennita' al personale assunto dall'Amministrazione delle ferrovie dello Stato, che conservi il diritto alla liquidazione della pensione secondo le disposizioni del testo unico di leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), sara' ripartito fra il tesoro e l'Amministrazione delle ferrovie dello Stato in proporzione della somma totale degli stipendi che saranno stati corrisposti prima e dopo l'assunzione. 
  
  Al personale provvisto di pensione a carico del tesoro, viene liquidata, al cessare del servizio, la maggior pensione a termini dell'art. 28 del testo unico di leggi suddetto, e la differenza e' posta a carico dell'Amministrazione ferroviaria.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 25 luglio 1956, n. 823](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20di%20nuove%20norme%20sulle%20documentazioni%20amministrative%20e%20sulla%20legalizzazione%20di%20firme.md), concernente delega al Governo per l'emanazione di nuove norme sulle documentazioni amministrative e sulla legalizzazione di firme;
+Vista la [legge 25 luglio 1956, n. 823](Delega%20al%20Governo%20per%20lemanazione%20di%20nuove%20norme%20sulle%20documentazioni%20amministrative%20e%20sulla%20legalizzazione%20di%20firme.md), concernente delega al Governo per l'emanazione di nuove norme sulle documentazioni amministrative e sulla legalizzazione di firme;
 
 Sentito il Consiglio dei Ministri;
 
@@ -49,7 +49,7 @@ Le copie di atti o certificati, anche se ottenute con procedimenti meccanici o f
 ## Art. 7.
 
 In tutti i casi nei quali e' richiesto dalle disposizioni vigenti, l'atto di notorieta' puo' essere supplito da dichiarazione resa e sottoscritta dall'interessato dinanzi al notaio, al segretario comunale o al funzionario competente a ricevere la documentazione.
- In caso di mendaci dichiarazioni, si applicano le pene stabilite dall'[art. 496 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ In caso di mendaci dichiarazioni, si applicano le pene stabilite dall'[art. 496 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 8.
 

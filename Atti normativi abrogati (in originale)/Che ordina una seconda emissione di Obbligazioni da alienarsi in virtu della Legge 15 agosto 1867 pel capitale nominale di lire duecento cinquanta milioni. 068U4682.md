@@ -29,7 +29,7 @@ Sara' fatta una seconda emissione di Obbligazioni da alienarsi in virtu' della L
 -------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 26 maggio 1868, n. 4682](../Regi%20decreti/Che%20ordina%20una%20seconda%20emissione%20di%20Obbligazioni%20da%20alienarsi%20in%20virtu%20della%20Legge%2015%20agosto%201867%20pel%20capitale%20nominale%20di%20lire%20duecento%20cinquanta%20milioni.%20068U4682.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 26 maggio 1868, n. 4682](Che%20ordina%20una%20seconda%20emissione%20di%20Obbligazioni%20da%20alienarsi%20in%20virtu%20della%20Legge%2015%20agosto%201867%20pel%20capitale%20nominale%20di%20lire%20duecento%20cinquanta%20milioni.%20068U4682.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 

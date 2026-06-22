@@ -56,7 +56,7 @@ Al [comma 1° dell'articolo 60 della legge 22 dicembre 1888, n. 5849](Sullordina
  
  «Ogni provincia deve avere un Regolamento locale di polizia sanitaria zooiatrica. A questo Regolamento e' annessa una tariffa unica dei diritti da pagarsi ai veterinari municipali per la visita del bestiame sui mercati, e per il rilascio dei certificati sanitari del bestiame. Tale tariffa ed il Regolamento sono approvati dal Prefetto sulla proposta del Consiglio provinciale, intesi il Consiglio sanitario provinciale e la Giunta provinciale amministrativa. 
  
- «Le contravvenzioni alle prescrizioni del Regolamento locale di polizia sanitaria zooiatrica, per le quali non siano da questa legge stabilite pene speciali, sono punite con pena pecuniaria estensibile a L. 50, salvo sempre le pene maggiori sancite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pei reati in esso previsti».
+ «Le contravvenzioni alle prescrizioni del Regolamento locale di polizia sanitaria zooiatrica, per le quali non siano da questa legge stabilite pene speciali, sono punite con pena pecuniaria estensibile a L. 50, salvo sempre le pene maggiori sancite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pei reati in esso previsti».
 
 ## Art. 3.
 

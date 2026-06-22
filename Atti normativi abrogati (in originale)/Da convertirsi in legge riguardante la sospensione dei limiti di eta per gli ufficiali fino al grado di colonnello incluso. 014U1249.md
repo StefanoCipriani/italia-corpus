@@ -24,7 +24,7 @@ Visto il [R. decreto 3 settembre 1913, n. 1199](Concernente%20la%20prima%20appli
 
 Vista la [legge 3 luglio 1904, n. 302](Provvedimenti%20per%20gli%20ufficiali%20inferiori%20del%20R.%20esercito.%20004U0302.md), recante provvedimenti per gli Ufficiali inferiori del R. esercito;
 
-Vista la [legge 14 luglio 1907, n. 482](Portante%20aggiunte%20e%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari%20del%2021%20febbraio%201895%20n.%2070.%20007U0482.md) recante aggiunte e modificazioni al testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
+Vista la [legge 14 luglio 1907, n. 482](Portante%20aggiunte%20e%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari%20del%2021%20febbraio%201895%20n.%2070.%20007U0482.md) recante aggiunte e modificazioni al testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
 
 Visto il [R. decreto 10 novembre 1910, n. 911](Per%20la%20applicazione%20dellart.%203%20della%20legge%203%20luglio%201901%20n.%20302%20che%20istituisce%20per%20gli%20ufficiali%20la%20posizione%20di%20congedo%20provvisorio.%20010U0911.md) per la applicazione dell'[art. 3 della legge 3 luglio 1904, n. 302](Provvedimenti%20per%20gli%20ufficiali%20inferiori%20del%20R.%20esercito.%20004U0302.md) che istituiva la posizione di congedo provvisorio;
 

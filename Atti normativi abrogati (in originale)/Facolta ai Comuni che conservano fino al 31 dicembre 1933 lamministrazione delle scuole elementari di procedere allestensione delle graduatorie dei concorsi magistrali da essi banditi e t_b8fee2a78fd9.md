@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e sue successive modificazioni;
+Veduto il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e sue successive modificazioni;
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-Ai Comuni, che con l'autorizzazione del Ministro per l'educazione nazionale, abbiano gia' proceduto, in applicazione dell'[art. 4 del R. decreto 25 giugno 1931, n. 945](../Regi%20decreti/Disposizioni%20in%20materia%20distruzione%20elementare.%20031U0945.md), all'estensione delle graduatorie dei concorsi magistrali banditi anteriormente all'entrata in vigore del [R. decreto 31 dicembre 1931, n. 1804](../Regi%20decreti/Norme%20per%20la%20corresponsione%20del%20trattamento%20economico%20al%20personale%20direttivo%20ed%20insegnante%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi%20in%20dipendenza%20del%20testo%20unico%20per%20la%20finanza%20locale.%20031U1804.md), e' data facolta' di estendere ulteriormente le graduatorie medesime nei confronti dei candidati che abbiano conseguito la idoneita' con la votazione complessiva di 78/150.
+Ai Comuni, che con l'autorizzazione del Ministro per l'educazione nazionale, abbiano gia' proceduto, in applicazione dell'[art. 4 del R. decreto 25 giugno 1931, n. 945](Disposizioni%20in%20materia%20distruzione%20elementare.%20031U0945.md), all'estensione delle graduatorie dei concorsi magistrali banditi anteriormente all'entrata in vigore del [R. decreto 31 dicembre 1931, n. 1804](Norme%20per%20la%20corresponsione%20del%20trattamento%20economico%20al%20personale%20direttivo%20ed%20insegnante%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi%20in%20dipendenza%20del%20testo%20unico%20per%20la%20finanza%20locale.%20031U1804.md), e' data facolta' di estendere ulteriormente le graduatorie medesime nei confronti dei candidati che abbiano conseguito la idoneita' con la votazione complessiva di 78/150.
 
 ## Art. 2.
 

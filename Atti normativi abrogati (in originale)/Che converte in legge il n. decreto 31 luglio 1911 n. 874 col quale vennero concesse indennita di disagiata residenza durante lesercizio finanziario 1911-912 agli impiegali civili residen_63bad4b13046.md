@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 31 luglio 1911, n. 874](../Regi%20decreti/Che%20concede%20indennita%20di%20disagiata%20residenza%20ai%20funzionari%20residenti%20in%20paesi%20colpiti%20dal%20terremoto%20del%201908.%20011U0874.md), che concede una indennita' di disagiata residenza, durante l'esercizio finanziario 1911-912, agli impiegati civili residenti nei comuni maggiormente danneggiati dal terremoto del 28 dicembre 1908. 
+ E' convertito in legge il [R. decreto 31 luglio 1911, n. 874](Che%20concede%20indennita%20di%20disagiata%20residenza%20ai%20funzionari%20residenti%20in%20paesi%20colpiti%20dal%20terremoto%20del%201908.%20011U0874.md), che concede una indennita' di disagiata residenza, durante l'esercizio finanziario 1911-912, agli impiegati civili residenti nei comuni maggiormente danneggiati dal terremoto del 28 dicembre 1908. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

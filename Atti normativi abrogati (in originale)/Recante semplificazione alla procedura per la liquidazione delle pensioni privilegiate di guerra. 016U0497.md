@@ -130,7 +130,7 @@ Nei casi in cui, per insufficiente documentazione o per altro motivo, la Corte d
 
 ### Art. 20.
 
-Ai soli effetti della [legge 23 giugno 1912, n. 667](Che%20istituisce%20pensioni%20privilegiate%20di%20guerra%20per%20gli%20ufficiali%20e%20militari%20di%20truppa%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0667.md), modificata come ai precedenti articoli, la Tripolitania e' da considerarsi come in istato di guerra anche per il periodo dal 1° luglio 1914 fino al mezzogiorno del 15 maggio 1915, momento in cui lo stato di guerra medesimo venne effettivamente proclamato in virtu' del [R. decreto 14 maggio 1915, n. 777](../Regi%20decreti/Col%20quale%20il%20territorio%20della%20Tripolitania%20viene%20considerato%20in%20istato%20di%20guerra.%20015U0777.md).
+Ai soli effetti della [legge 23 giugno 1912, n. 667](Che%20istituisce%20pensioni%20privilegiate%20di%20guerra%20per%20gli%20ufficiali%20e%20militari%20di%20truppa%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0667.md), modificata come ai precedenti articoli, la Tripolitania e' da considerarsi come in istato di guerra anche per il periodo dal 1° luglio 1914 fino al mezzogiorno del 15 maggio 1915, momento in cui lo stato di guerra medesimo venne effettivamente proclamato in virtu' del [R. decreto 14 maggio 1915, n. 777](Col%20quale%20il%20territorio%20della%20Tripolitania%20viene%20considerato%20in%20istato%20di%20guerra.%20015U0777.md).
 
 ### Art. 21.
 

@@ -16,7 +16,7 @@ Vista la [legge 28 aprile 1976, n. 192](Norme%20sui%20corsi%20della%20scuola%20d
 
 Visto il [decreto del Presidente della Repubblica 29 settembre 1979, n. 611](Norme%20di%20esecuzione%20della%20legge%2028%20aprile%201976%20n.%20192%20sui%20corsi%20della%20Scuola%20di%20guerra%20dellEsercito.md), come modificato dal [decreto del Presidente della Repubblica 25 luglio 1990, n. 433](Regolamento%20concernente%20modificazioni%20ed%20integrazioni%20al%20regolamento%20di%20esecuzione%20della%20legge%2028%20aprile%201976%20n.%20192%20sui%20corsi%20della%20Scuola%20di%20guerra%20dellEsercito%20approvato%20con%20decreto%20de_b66b83f8252a.md), concernente norme di esecuzione della predetta [legge 28 aprile 1976, n. 192](Norme%20sui%20corsi%20della%20scuola%20di%20guerra%20dellEsercito.md);
 
-Visto il [decreto legislativo 24 marzo 1993, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20dei%20ruoli%20normale%20speciale%20e%20tecnico%20degli%20ufficiali%20in%20servizio%20permanente%20dellArma%20dei%20carabinieri.md), concernente l'istituzione dei ruoli normale, speciale e tecnico degli ufficiali in servizio permanente dell'Arma dei carabinieri;
+Visto il [decreto legislativo 24 marzo 1993, n. 117](Istituzione%20dei%20ruoli%20normale%20speciale%20e%20tecnico%20degli%20ufficiali%20in%20servizio%20permanente%20dellArma%20dei%20carabinieri.md), concernente l'istituzione dei ruoli normale, speciale e tecnico degli ufficiali in servizio permanente dell'Arma dei carabinieri;
 
 Considerata l'opportunita' di apportare ulteriori modifiche al citato decreto n. 611 del 1979, per adeguarlo alle norme del [decreto legislativo n. 117 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;117) ed alle esigenze di funzionalita' della Scuola di guerra dell'Esercito;
 
@@ -40,14 +40,14 @@ E M A N A il seguente regolamento:
 
 L'[art. 24-bis del decreto del Presidente della Repubblica 29 settembre 1979, n. 611](Norme%20di%20esecuzione%20della%20legge%2028%20aprile%201976%20n.%20192%20sui%20corsi%20della%20Scuola%20di%20guerra%20dellEsercito.md), come modificato dal [decreto del Presidente della Repubblica 25 luglio 1990, n. 433](Regolamento%20concernente%20modificazioni%20ed%20integrazioni%20al%20regolamento%20di%20esecuzione%20della%20legge%2028%20aprile%201976%20n.%20192%20sui%20corsi%20della%20Scuola%20di%20guerra%20dellEsercito%20approvato%20con%20decreto%20de_b66b83f8252a.md), e' sostituito dal seguente: 
  "Art. 24-bis. - 1. Ai capitani in servizio permanente effettivo del ruolo normale dell'Arma dei carabinieri, da avviare, ai sensi degli [articoli 1](Modifiche%20alla%20legge%2028%20aprile%201976%20n.%20192%20recante%20norme%20sui%20corsi%20della%20scuola%20di%20guerra%20dellEsercito.md) e [2 della legge 23 dicembre 1985, n. 783](Modifiche%20alla%20legge%2028%20aprile%201976%20n.%20192%20recante%20norme%20sui%20corsi%20della%20scuola%20di%20guerra%20dellEsercito.md), a frequentare il corso di istituto, si applicano le norme di cui all'art. 1 del presente decreto previste per l'ammissione al corso di stato maggiore dei capitani del ruolo normale unico delle Armi. 
- 2. Ai capitani in servizio permanente effettivo del ruolo speciale dell'Arma dei carabinieri si applicano le disposizioni di cui all'[art. 14 del decreto legislativo 24 marzo 1993, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20dei%20ruoli%20normale%20speciale%20e%20tecnico%20degli%20ufficiali%20in%20servizio%20permanente%20dellArma%20dei%20carabinieri.md).". 
+ 2. Ai capitani in servizio permanente effettivo del ruolo speciale dell'Arma dei carabinieri si applicano le disposizioni di cui all'[art. 14 del decreto legislativo 24 marzo 1993, n. 117](Istituzione%20dei%20ruoli%20normale%20speciale%20e%20tecnico%20degli%20ufficiali%20in%20servizio%20permanente%20dellArma%20dei%20carabinieri.md).". 
  AVVERTENZA: 
  Il testo delle note qui pubblicato e' stato redatto ai 
  sensi dell'art. 10, commi 2 e 3, del testo unico delle 
  disposizioni sulla promulgazione delle leggi, 
  sull'emanazione dei decreti del Presidente della Repubblica 
  e sulle pubblicazioni ufficiali della Repubblica italiana, 
- approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo 
+ approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo 
  fine di facilitare la lettura delle disposizioni di legge 
  modificate o alle quali e' operato il rinvio. Restano 
  invariati il valore e l'efficacia degli atti legislativi 
@@ -60,7 +60,7 @@ L'[art. 24-bis del decreto del Presidente della Repubblica 29 settembre 1979, n.
  - Il [comma 1 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com1) 
  (Disciplina dell'attivita' di Governo e ordinamento della 
  Presidenza del Consiglio dei Ministri), come modificato 
- dall'[art. 74 del D.Lgs. 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), prevede che 
+ dall'[art. 74 del D.Lgs. 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), prevede che 
  con decreto del Presidente della Repubblica, previa 
  deliberazione del Consiglio dei Ministri, sentito il parere 
  del Consiglio di Stato che deve pronunziarsi entro novanta 

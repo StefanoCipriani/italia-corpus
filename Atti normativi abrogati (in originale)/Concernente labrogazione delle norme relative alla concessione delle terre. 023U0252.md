@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle disposizioni legislative per la concessione delle terre, approvato con [Regio decreto 15 dicembre 1921, n. 2047](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20concessione%20delle%20terre.%20021U2047.md);
+Visto il testo unico delle disposizioni legislative per la concessione delle terre, approvato con [Regio decreto 15 dicembre 1921, n. 2047](Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20concessione%20delle%20terre.%20021U2047.md);
 
 Vista la [legge 18 maggio 1922, n. 646](Con%20la%20quale%20il%20termine%20del%2031%20marzo%201922%20indicato%20nellart.%201%20del%20testo%20unico%20delle%20disposizioni%20legislative%20per%20la%20concessione%20delle%20terre%20e%20prorogato%20sino%20alla%20data%20di%20pubblicazione%20del_af95459219d2.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, di con
 
 ## Art. 1.
 
-Le disposizioni del testo unico per la concessione delle terre, approvato con [R. decreto 15 dicembre 1921, n. 2047](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20concessione%20delle%20terre.%20021U2047.md), e del [R. decreto-legge 29 agosto 1922, n.1211](Che%20reca%20provvedimenti%20in%20materia%20di%20concessione%20delle%20terre%20a%20favore%20di%20Enti%20od%20associazioni%20agrarie.%20022U1211.md), cessano di aver vigore, con le eccezioni, le modalita' e le norme transitorie appresso stabilite.
+Le disposizioni del testo unico per la concessione delle terre, approvato con [R. decreto 15 dicembre 1921, n. 2047](Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20concessione%20delle%20terre.%20021U2047.md), e del [R. decreto-legge 29 agosto 1922, n.1211](Che%20reca%20provvedimenti%20in%20materia%20di%20concessione%20delle%20terre%20a%20favore%20di%20Enti%20od%20associazioni%20agrarie.%20022U1211.md), cessano di aver vigore, con le eccezioni, le modalita' e le norme transitorie appresso stabilite.
 
 ## Art. 2.
 
@@ -48,7 +48,7 @@ Le Associazioni agrarie di cui alla [legge 4 agosto 1894, n. 397](Sullordinament
 
 ## Art. 5.
 
-Resta in vigore, con le norme richiamate nel testo unico, il Comitato previsto nell'art. 34 del testo unico e disciplinato con successivo [Regio decreto 29 ottobre 1922, n. 1472](../Regi%20decreti/Che%20approva%20a%20regolamento%20per%20lordinamento%20ed%20il%20funzionamento%20delle%20Associazioni%20agrarie%20di%20cui%20alla%20legge%204%20agosto%201894%20n.%20397%20e%20per%20la%20vigilanza%20sulle%20medesime.%20022U1472.md). 
+Resta in vigore, con le norme richiamate nel testo unico, il Comitato previsto nell'art. 34 del testo unico e disciplinato con successivo [Regio decreto 29 ottobre 1922, n. 1472](Che%20approva%20a%20regolamento%20per%20lordinamento%20ed%20il%20funzionamento%20delle%20Associazioni%20agrarie%20di%20cui%20alla%20legge%204%20agosto%201894%20n.%20397%20e%20per%20la%20vigilanza%20sulle%20medesime.%20022U1472.md). 
  
  Restano altresi' in vigore le disposizioni penali di cui all'art. 36 e quelle riflettenti il servizio dei demani comunali della Sicilia, contenute nell'art. 41.
 

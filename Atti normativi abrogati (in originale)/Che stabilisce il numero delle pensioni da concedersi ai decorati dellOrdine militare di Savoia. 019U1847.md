@@ -24,7 +24,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 In virtu' delle facolta' conferite al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Visto il R. decreto 28 settembre 1855, n. 1114, per il riordinamento dell'Ordine militare di Savoia, modificato con [R. decreto 20 ottobre 1894, n. 462](../Regi%20decreti/Sul%20conferimento%20delle%20decorazioni%20dellOrdine%20Militare%20di%20Savoia.%20094U0462.md);
+Visto il R. decreto 28 settembre 1855, n. 1114, per il riordinamento dell'Ordine militare di Savoia, modificato con [R. decreto 20 ottobre 1894, n. 462](Sul%20conferimento%20delle%20decorazioni%20dellOrdine%20Militare%20di%20Savoia.%20094U0462.md);
 
 Visto il R. decreto 28 marzo 1857, n 2116, per la ripartizione in classi dell'Ordine militare di Savoia;
 

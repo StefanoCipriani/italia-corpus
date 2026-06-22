@@ -24,7 +24,7 @@ I candidati rimandati o respinti in esami di maturita', o di abilitazione non so
 
 Le commissioni per gli esami di maturita' e di abilitazione, in base al risultato delle prove, dichiarano se i candidati respinti provenienti da scuola privata o paterna siano idonei o meno a frequentare l'ultima classe in scuole pubbliche. Tale dichiarazione non puo' essere mai pronunciata nei confronti dei candidati respinti in prima sessione. Essa non costituisce titolo di studio, non contiene specificazione di voti sulle singole discipline, e non ha altro effetto legale se non di consentire, limitatamente all'anno scolastico successivo, la frequenza in una determinata classe. 
  
- Non e' applicabile ai candidati di cui al presente articolo l'ultimo comma dell'[art. 8 del R. decreto 4 maggio 1925, n. 653](../Regi%20decreti/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md).
+ Non e' applicabile ai candidati di cui al presente articolo l'ultimo comma dell'[art. 8 del R. decreto 4 maggio 1925, n. 653](Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md).
 
 ## Art. 4.
 

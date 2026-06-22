@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 24 marzo 1923, n. 601](../Regi%20decreti/Riguardante%20la%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0601.md), e l'annessa tabella della circoscrizione territoriale delle Preture, distinte per Corti di appello e per Tribunali;
+Visto il [R. decreto 24 marzo 1923, n. 601](Riguardante%20la%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0601.md), e l'annessa tabella della circoscrizione territoriale delle Preture, distinte per Corti di appello e per Tribunali;
 
 Ritenuta la necessita' di aggregare il comune di San Mauro Cilento al mandamento di Vallo della Lucania, distaccandolo dalla circoscrizione della pretura di Castellabate;
 

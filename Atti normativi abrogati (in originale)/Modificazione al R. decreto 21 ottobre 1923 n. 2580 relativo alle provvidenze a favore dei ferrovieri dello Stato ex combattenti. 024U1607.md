@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 21 ottobre 1923, n. 2580](../Regi%20decreti/Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md);
+Visto il [R. decreto 21 ottobre 1923, n. 2580](Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,9 +22,9 @@ Sulla proposta del nostro Ministro Segretario di Stato per le comunicazioni di c
 
 ## Art. 1.
 
-L'[art. 2 del R. decreto 21 ottobre 1923, n. 2580](../Regi%20decreti/Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md), e' sostituito dal seguente: 
+L'[art. 2 del R. decreto 21 ottobre 1923, n. 2580](Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md), e' sostituito dal seguente: 
  
- Art. 2. - Agli effetti dell'applicazione del presente decreto verra' considerata zona di operazioni quella definita tale agli effetti bellici, escluse le fortezze in genere: in particolare per il fronte italiano e' considerata tale zona compresa entro i limiti indicati al punto B) del decreto 22 settembre 1923 del Ministro per la guerra per l'applicazione del [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
+ Art. 2. - Agli effetti dell'applicazione del presente decreto verra' considerata zona di operazioni quella definita tale agli effetti bellici, escluse le fortezze in genere: in particolare per il fronte italiano e' considerata tale zona compresa entro i limiti indicati al punto B) del decreto 22 settembre 1923 del Ministro per la guerra per l'applicazione del [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
  
  Il tempo trascorso lontano dalla zona di operazioni per ferite o malattie ivi riportate o contratte per cause di servizio di guerra si considera come trascorso nella zona medesima fino alla data con la quale l'interessato abbia ripreso servizio militare di qualsiasi natura o in qualsiasi localita'; eccezionalmente avuto riguardo alla natura della ferita o della malattia, ed al complesso delle benemerenze acquisite dal combattente, potra' essere considerato alla stessa stregua anche il periodo di inabilita' alle fatiche di guerra che l'interessato abbia trascorso in servizio sedentario fuori della zona di operazioni. 
  
@@ -44,13 +44,13 @@ L'[art. 2 del R. decreto 21 ottobre 1923, n. 2580](../Regi%20decreti/Provvedimen
 
 ## Art. 2.
 
-L'[art. 4 del R. decreto 21 ottobre 1923, n. 2580](../Regi%20decreti/Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md), e' modificato come segue: 
+L'[art. 4 del R. decreto 21 ottobre 1923, n. 2580](Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md), e' modificato come segue: 
  
  al punto b) ed al punto c) dopo le parole «mutilati ed invalidi di guerra» sono inserite le seguenti: «la cui mutilazione o invalidita' deriva da ferite o malattie riportate o contratte in zona di operazioni».
 
 ## Art. 3.
 
-La data del 1° gennaio 1924 stabilita dal [1° comma dell'articolo 10 del R. decreto 21 ottobre 1923, n. 2580](../Regi%20decreti/Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md), quale termine entro cui gli agenti previsti dall'articolo stesso potevano chiedere il passaggio al grado per accedere al quale, in base ai regolamenti vigenti per il personale delle Ferrovie dello Stato occorre il titolo di studio da essi posseduto, e' prorogato, agli effetti dell'art. 10 suddetto, al 1° novembre 1924. 
+La data del 1° gennaio 1924 stabilita dal [1° comma dell'articolo 10 del R. decreto 21 ottobre 1923, n. 2580](Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md), quale termine entro cui gli agenti previsti dall'articolo stesso potevano chiedere il passaggio al grado per accedere al quale, in base ai regolamenti vigenti per il personale delle Ferrovie dello Stato occorre il titolo di studio da essi posseduto, e' prorogato, agli effetti dell'art. 10 suddetto, al 1° novembre 1924. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

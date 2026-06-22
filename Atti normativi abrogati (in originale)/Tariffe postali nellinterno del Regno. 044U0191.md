@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visti gli articoli 8 e 18 del Codice postale e delle telecomunicazioni, approvato con [R. decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
-Visto il [R. decreto 23 maggio 1940, n. 750](../Regi%20decreti/Tariffe%20postali%20indennizzi%20per%20corrispondenze%20e%20pacchi%20smarriti%20limiti%20di%20peso%20dimensioni%20valore%20ed%20assegno%20per%20gli%20oggetti%20e%20operazioni%20postali.%20040U0750.md);
+Visto il [R. decreto 23 maggio 1940, n. 750](Tariffe%20postali%20indennizzi%20per%20corrispondenze%20e%20pacchi%20smarriti%20limiti%20di%20peso%20dimensioni%20valore%20ed%20assegno%20per%20gli%20oggetti%20e%20operazioni%20postali.%20040U0750.md);
 
 Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e successive modificazioni;
 
@@ -36,7 +36,7 @@ Le indennita' per corrispondenza pacchi smarriti, nei casi in cui esse siano dov
 
 ## Art. 3.
 
-E' abrogato il [R. decreto 23 maggio 1940, n. 750](../Regi%20decreti/Tariffe%20postali%20indennizzi%20per%20corrispondenze%20e%20pacchi%20smarriti%20limiti%20di%20peso%20dimensioni%20valore%20ed%20assegno%20per%20gli%20oggetti%20e%20operazioni%20postali.%20040U0750.md).
+E' abrogato il [R. decreto 23 maggio 1940, n. 750](Tariffe%20postali%20indennizzi%20per%20corrispondenze%20e%20pacchi%20smarriti%20limiti%20di%20peso%20dimensioni%20valore%20ed%20assegno%20per%20gli%20oggetti%20e%20operazioni%20postali.%20040U0750.md).
 
 ## Art. 4.
 

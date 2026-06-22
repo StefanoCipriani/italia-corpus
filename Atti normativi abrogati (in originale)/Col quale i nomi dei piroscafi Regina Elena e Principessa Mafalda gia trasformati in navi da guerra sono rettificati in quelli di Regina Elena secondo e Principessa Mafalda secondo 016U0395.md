@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto n. 725, in data 16 maggio 1915](../Regi%20decreti/Col%20quale%20alcuni%20piroscafi%20e%20rimorchiatori%20vengono%20trasformati%20in%20navi%20da%20guerra.%20015U0725.md), col quale i piroscafi Regina Elena e Principessa Mafalda della Compagnia napoletana di navigazione sona trasformati in navi da guerra; 
+ Visto il [R. decreto n. 725, in data 16 maggio 1915](Col%20quale%20alcuni%20piroscafi%20e%20rimorchiatori%20vengono%20trasformati%20in%20navi%20da%20guerra.%20015U0725.md), col quale i piroscafi Regina Elena e Principessa Mafalda della Compagnia napoletana di navigazione sona trasformati in navi da guerra; 
  
  Sulla proposta del ministro della marina; 
  

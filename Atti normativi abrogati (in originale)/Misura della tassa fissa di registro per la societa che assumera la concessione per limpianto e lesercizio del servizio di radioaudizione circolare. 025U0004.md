@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 8 febbraio 1923, n. 1067](../Regi%20decreti/Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md), che disciplina il servizio delle comunicazioni senza filo;
+Visto il [R. decreto 8 febbraio 1923, n. 1067](Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md), che disciplina il servizio delle comunicazioni senza filo;
 
 Visto il [R. decreto-legge 2 settembre 1923, n. 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-09-02;1917), che stabilisce la misura della tassa fissa di registro per la convenzione riflettente la concessione per l'esercizio di stazioni radiotelegrafiche ad uso pubblico;
 

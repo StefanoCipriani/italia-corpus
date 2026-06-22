@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 3 giugno 1926, n. 999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;999), che modifica il [R. decreto 22 novembre 1925, n. 2198](../Regi%20decreti/Norme%20per%20la%20concessione%20di%20mutui%20industriali%20nella%20Colonia%20Eritrea%20e%20nella%20Somalia%20Italiana.%20025U2198.md), relativo alla concessione di mutui industriali nella Colonia Eritrea e nella Somalia Italiana. 
+ E' convertito in legge il [R. decreto 3 giugno 1926, n. 999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;999), che modifica il [R. decreto 22 novembre 1925, n. 2198](Norme%20per%20la%20concessione%20di%20mutui%20industriali%20nella%20Colonia%20Eritrea%20e%20nella%20Somalia%20Italiana.%20025U2198.md), relativo alla concessione di mutui industriali nella Colonia Eritrea e nella Somalia Italiana. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

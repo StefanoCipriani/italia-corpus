@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
 Ritenuta la necessita' urgente ed assoluta di adottare norme speciali per la promozione di grado a favore degli impiegati di grado 12° del gruppo C, invalidi di guerra;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-A partire del 1° luglio 1926 gli impiegati del grado 12° dei ruoli dei personali di gruppo C, di cui al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, che sieno invalidi di guerra e abbiano conseguito o conseguano il terzo aumento periodico di stipendio nel grado stesso, potranno essere promossi in soprannumero, per anzianita' congiunta al merito, al grado 11° del medesimo ruolo, ferme le promozioni conferibili, secondo le norme in vigore, in dipendenza di vacanze di posti. 
+A partire del 1° luglio 1926 gli impiegati del grado 12° dei ruoli dei personali di gruppo C, di cui al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, che sieno invalidi di guerra e abbiano conseguito o conseguano il terzo aumento periodico di stipendio nel grado stesso, potranno essere promossi in soprannumero, per anzianita' congiunta al merito, al grado 11° del medesimo ruolo, ferme le promozioni conferibili, secondo le norme in vigore, in dipendenza di vacanze di posti. 
  
  Le promozioni di cui al precedente comma sono disposte con riserva di anzianita' a favore degli invalidi di guerra che precedono in ruolo e che non abbiano conseguito il terzo aumento periodico di stipendio. 
  
@@ -42,7 +42,7 @@ Gli impiegati che, alla prima attuazione del presente decreto, conseguano la pro
 
 Le disposizioni del presente decreto sono estese, in quanto applicabili al personale delle cessate Amministrazioni austro-ungarica e fiumana. 
  
- Le promozioni conferite a norma del primo comma del precedente articolo 1 non sono pero' computabili agli effetti di cui ai [commi secondo](../Regi%20decreti/Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md) e [terzo dell'art. 10 del R. decreto 18 febbraio 1923, n. 440](../Regi%20decreti/Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md).
+ Le promozioni conferite a norma del primo comma del precedente articolo 1 non sono pero' computabili agli effetti di cui ai [commi secondo](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md) e [terzo dell'art. 10 del R. decreto 18 febbraio 1923, n. 440](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md).
 
 ## Art. 4.
 

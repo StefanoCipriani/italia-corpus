@@ -65,7 +65,7 @@ Entro il 1 ottobre 1994 le regioni e le province autonome individuano gli uffici
 
 2.
 
-Il [comma 4 dell'articolo 10 del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' sostituito dal seguente: 
+Il [comma 4 dell'articolo 10 del decreto legislativo 30 dicembre 1992, n. 502](../Decreti%20Legislativi/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' sostituito dal seguente: 
  " 4. Il Ministro della sanita' accerta lo stato di attuazione presso le regioni del sistema di controllo delle prescrizioni mediche e delle commissioni professionali di verifica. La rilevazione dei dati contenuti nelle prescrizioni mediche e' attuata dalle regioni e dalle province autonome con gli strumenti ritenuti piu' idonei. Il Ministro della sanita' acquisisce il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome in ordine alla eventuale attivazione dei poteri sostitutivi. 
 Ove tale parere non sia espresso entro trenta giorni, il Ministro provvede direttamente".
 
@@ -73,7 +73,7 @@ Ove tale parere non sia espresso entro trenta giorni, il Ministro provvede diret
 
 1.
 
-Con decreto del Ministro della sanita' possono essere attribuite al centro nazionale di riferimento di cui all'[articolo 14 della legge 2 dicembre 1975, n. 644](Disciplina%20dei%20prelievi%20di%20parti%20di%20cadavere%20a%20scopo%20di%20trapianto%20terapeutico%20e%20norme%20sul%20prelievo%20dellipofisi%20da%20cadavere%20a%20scopo%20di%20produzione%20di%20estratti%20per%20uso%20terapeutico.md), anche funzioni di coordinamento operativo nazionale delle attivita' di prelievo e trapianto di organi e tessuti. Con il medesimo decreto sono riordinati la composizione ed i compiti della consulta tecnica permanente di cui all'[articolo 13 del decreto del Presidente della Repubblica 16 giugno 1977, n. 409](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%202%20dicembre%201975%20n.%20644%20recante%20la%20disciplina%20dei%20prelievi%20di%20parti%20di%20cadavere%20a%20scopo%20di%20trapianto%20terapeutico.md).
+Con decreto del Ministro della sanita' possono essere attribuite al centro nazionale di riferimento di cui all'[articolo 14 della legge 2 dicembre 1975, n. 644](Disciplina%20dei%20prelievi%20di%20parti%20di%20cadavere%20a%20scopo%20di%20trapianto%20terapeutico%20e%20norme%20sul%20prelievo%20dellipofisi%20da%20cadavere%20a%20scopo%20di%20produzione%20di%20estratti%20per%20uso%20terapeutico.md), anche funzioni di coordinamento operativo nazionale delle attivita' di prelievo e trapianto di organi e tessuti. Con il medesimo decreto sono riordinati la composizione ed i compiti della consulta tecnica permanente di cui all'[articolo 13 del decreto del Presidente della Repubblica 16 giugno 1977, n. 409](../DPR/Regolamento%20di%20esecuzione%20della%20legge%202%20dicembre%201975%20n.%20644%20recante%20la%20disciplina%20dei%20prelievi%20di%20parti%20di%20cadavere%20a%20scopo%20di%20trapianto%20terapeutico.md).
 
 ## Art. 6.
 

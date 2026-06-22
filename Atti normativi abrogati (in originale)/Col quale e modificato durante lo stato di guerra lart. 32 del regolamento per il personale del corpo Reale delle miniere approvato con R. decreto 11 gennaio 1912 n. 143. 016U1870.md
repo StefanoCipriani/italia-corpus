@@ -14,7 +14,7 @@ A decorrere dal 1° gennaio 1917 fino al giorno della conclusione della pace gli
 
 ## Art. 2.
 
-Tale corso di studi di perfezionamento verra', compiuto appena sara' permesso dalle circostanze, secondo gli ordini che impartira' il Ministero, ferme restando le prescrizioni contenute nell'art. 32 del regolamento approvato con [R. decreto dell'11 gennaio 1912, n. 143](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20il%20personale%20del%20Real%20corpo%20delle%20miniere%20012U0143.md). 
+Tale corso di studi di perfezionamento verra', compiuto appena sara' permesso dalle circostanze, secondo gli ordini che impartira' il Ministero, ferme restando le prescrizioni contenute nell'art. 32 del regolamento approvato con [R. decreto dell'11 gennaio 1912, n. 143](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20il%20personale%20del%20Real%20corpo%20delle%20miniere%20012U0143.md). 
  
  Gli ingegneri che non superassero gli esami nelle scuole superiori delle miniere nelle quali avran seguito i corsi, saranno cancellati dal ruolo del Real corpo delle miniere. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 23 marzo 1931, n. 249](../Regi%20decreti/Ordinamento%20delle%20Corti%20dassise.%20031U0249.md);
+Visto il [regio decreto 23 marzo 1931, n. 249](Ordinamento%20delle%20Corti%20dassise.%20031U0249.md);
 
 Visti gli [articoli 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_60), [61](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_61), [62 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_62);
 

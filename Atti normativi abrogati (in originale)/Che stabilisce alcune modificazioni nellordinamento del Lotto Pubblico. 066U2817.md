@@ -37,7 +37,7 @@ Presso le Direzioni delle Tasse e del Demanio, che verranno designate dal Minist
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 26 aprile 1866, n. 2881](../Regi%20decreti/Con%20cui%20negli%20articoli%202%20e%203%20del%20precedente%20R.%20Decreti%2011%20febbraio%201866%20n%202817%20sullordinamento%20del%20lotto%20pubblico%20alla%20indicazione%20degli%20articoli%208%20e%2015%20del%20R.%20Decreto%205%20novembre%201863%20e%20s_60a856080a29.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 26 aprile 1866, n. 2881](Con%20cui%20negli%20articoli%202%20e%203%20del%20precedente%20R.%20Decreti%2011%20febbraio%201866%20n%202817%20sullordinamento%20del%20lotto%20pubblico%20alla%20indicazione%20degli%20articoli%208%20e%2015%20del%20R.%20Decreto%205%20novembre%201863%20e%20s_60a856080a29.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 
@@ -50,7 +50,7 @@ Il registro su cui vengono descritti i giuochi sara' modificato secondo il model
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 26 aprile 1866, n. 2881](../Regi%20decreti/Con%20cui%20negli%20articoli%202%20e%203%20del%20precedente%20R.%20Decreti%2011%20febbraio%201866%20n%202817%20sullordinamento%20del%20lotto%20pubblico%20alla%20indicazione%20degli%20articoli%208%20e%2015%20del%20R.%20Decreto%205%20novembre%201863%20e%20s_60a856080a29.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 26 aprile 1866, n. 2881](Con%20cui%20negli%20articoli%202%20e%203%20del%20precedente%20R.%20Decreti%2011%20febbraio%201866%20n%202817%20sullordinamento%20del%20lotto%20pubblico%20alla%20indicazione%20degli%20articoli%208%20e%2015%20del%20R.%20Decreto%205%20novembre%201863%20e%20s_60a856080a29.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 4.
 

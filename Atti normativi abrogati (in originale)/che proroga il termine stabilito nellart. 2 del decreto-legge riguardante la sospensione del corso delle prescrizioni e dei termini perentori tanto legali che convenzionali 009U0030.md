@@ -54,7 +54,7 @@ Sono puniti con pena pecuniaria estensibile a lire 10,000 gli amministratori, di
 
 ## Art. 6.
 
-Gli amministratori, direttori, liquidatori o rappresentanti delle Societa' o Associazioni che attestino falsamente le indicazioni richieste nell'art. 4 sono puniti con la pena di cui al capoverso dell'[art. 279 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Gli amministratori, direttori, liquidatori o rappresentanti delle Societa' o Associazioni che attestino falsamente le indicazioni richieste nell'art. 4 sono puniti con la pena di cui al capoverso dell'[art. 279 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 7.
 

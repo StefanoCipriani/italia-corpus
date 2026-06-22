@@ -42,7 +42,7 @@ Nell'assegnazione dei posti di cui all'art. 1 sara' data la preferenza, con dero
 
 ## Art. 4.
 
-I posti gratuiti e semigratuiti riservati, a norma del regolamento approvato con [R. decreto 24 marzo 1912, n. 1101](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20nuovo%20regolamento%20per%20i%20convitti%20nazionali.%20012U1101.md), ai figli dei capi d'Istituto e dei professori delle scuole medie e normali dipendenti dal Ministero della istruzione pubblica e dei funzionari dei convitti nazionali, saranno conferiti anch'essi dal ministro dell'istruzione pubblica con le modalita' di cui all'art. 1 e con la preferenza di cui all'art. 3. 
+I posti gratuiti e semigratuiti riservati, a norma del regolamento approvato con [R. decreto 24 marzo 1912, n. 1101](Col%20quale%20viene%20approvato%20lannesso%20nuovo%20regolamento%20per%20i%20convitti%20nazionali.%20012U1101.md), ai figli dei capi d'Istituto e dei professori delle scuole medie e normali dipendenti dal Ministero della istruzione pubblica e dei funzionari dei convitti nazionali, saranno conferiti anch'essi dal ministro dell'istruzione pubblica con le modalita' di cui all'art. 1 e con la preferenza di cui all'art. 3. 
  
  Nell'assegnazione dei posti negli Istituti femminili, sempre con la preferenza di cui all'art. 3, saranno rispettate le condizioni speciali richieste dai regolamenti dei singoli Istituti per quanto riguarda le categorie di persone, per le quali i posti sono stati istituiti. 
  

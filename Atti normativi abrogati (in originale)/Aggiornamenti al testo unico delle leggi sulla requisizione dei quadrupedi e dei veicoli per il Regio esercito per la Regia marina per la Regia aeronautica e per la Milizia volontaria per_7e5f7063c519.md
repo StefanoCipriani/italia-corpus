@@ -242,7 +242,7 @@ Dopo l'art. 25 e' aggiunto il seguente articolo:
  
  «Durante lo stato di guerra, i reati preveduti dai suindicati articoli, sono di competenza dei tribunali militari. 
  
- «Nei casi nei quali si ritenga di infliggere la sola pena pecunaria, puo' provvedersi con decreto penale, secondo le norme di cui al libro terzo, titolo quinto, capo III, sezione III del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace, approvato con R. decreto 20 febbraio 1941-XIX, n. 303».
+ «Nei casi nei quali si ritenga di infliggere la sola pena pecunaria, puo' provvedersi con decreto penale, secondo le norme di cui al libro terzo, titolo quinto, capo III, sezione III del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace, approvato con R. decreto 20 febbraio 1941-XIX, n. 303».
 
 ## Art. 20.
 

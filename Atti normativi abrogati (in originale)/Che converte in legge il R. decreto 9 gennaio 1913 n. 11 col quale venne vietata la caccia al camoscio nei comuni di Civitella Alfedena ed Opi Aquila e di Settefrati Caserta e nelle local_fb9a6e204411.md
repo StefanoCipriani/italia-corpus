@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 9 gennaio 1913, n. 11](../Regi%20decreti/Col%20quale%20e%20vietato%20di%20uccidere%20o%20prendere%20il%20camoscio%20Rupicapra%20ornata%20nei%20comuni%20di%20Civitella%20Alfedena%20e%20di%20Opi%20Aquila%20nel%20comune%20di%20Settefrati%20Caserta%20e%20nelle%20localita%20circostanti%20013U0011.md), col quale venne vietata la caccia al camoscio (Rupicapra ornata) nei comuni di Civitella Alfedena e Opi (Aquila) e di Settefrati (Caserta) e nelle localita' circostanti, colla comminatoria, per i contravventori, delle sanzioni stabilite dalla legge 18 ottobre 1819, sulle foreste, per l'ex Regno di Napoli. 
+ E' convertito in legge il [R. decreto 9 gennaio 1913, n. 11](Col%20quale%20e%20vietato%20di%20uccidere%20o%20prendere%20il%20camoscio%20Rupicapra%20ornata%20nei%20comuni%20di%20Civitella%20Alfedena%20e%20di%20Opi%20Aquila%20nel%20comune%20di%20Settefrati%20Caserta%20e%20nelle%20localita%20circostanti%20013U0011.md), col quale venne vietata la caccia al camoscio (Rupicapra ornata) nei comuni di Civitella Alfedena e Opi (Aquila) e di Settefrati (Caserta) e nelle localita' circostanti, colla comminatoria, per i contravventori, delle sanzioni stabilite dalla legge 18 ottobre 1819, sulle foreste, per l'ex Regno di Napoli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

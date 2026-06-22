@@ -74,7 +74,7 @@ Il [primo comma dell'art. 11 del R. decreto-legge 11 gennaio 1925, n. 86](Provve
 
 All'[art. 1 del R. decreto-legge 17 marzo 1927, n. 334](Provvedimenti%20in%20seguito%20della%20nuova%20circoscrizione%20provinciale%20per%20la%20esecuzione%20di%20lavori%20nelle%20zone%20terremotate.%20027U0334.md), e' aggiunto il seguente comma: 
  
- «La facolta' di cui al secondo comma del presente articolo e' consentita ai danneggiati dei Comuni gia' compresi nelle provincie di Firenze e di Massa, aggregati rispettivamente alle provincie di Forli' e di Lucca con i [Regi decreti 4 marzo 1923, n. 544](../Regi%20decreti/Che%20modifica%20le%20circoscrizioni%20delle%20provincie%20di%20Firenze%20e%20di%20Forli.%20023U0544.md), e [9 novembre 1923, n. 2490](../Regi%20decreti/Aggregazione%20del%20circondario%20di%20Castelnuovo%20di%20Garfagnana%20alla%20provincia%20di%20Lucca.%20023U2490.md), per le domande di contributo presentate dopo l'entrata, in vigore di tali decreti, ma prima della scadenza del termine utile del 31 marzo 1927».
+ «La facolta' di cui al secondo comma del presente articolo e' consentita ai danneggiati dei Comuni gia' compresi nelle provincie di Firenze e di Massa, aggregati rispettivamente alle provincie di Forli' e di Lucca con i [Regi decreti 4 marzo 1923, n. 544](Che%20modifica%20le%20circoscrizioni%20delle%20provincie%20di%20Firenze%20e%20di%20Forli.%20023U0544.md), e [9 novembre 1923, n. 2490](Aggregazione%20del%20circondario%20di%20Castelnuovo%20di%20Garfagnana%20alla%20provincia%20di%20Lucca.%20023U2490.md), per le domande di contributo presentate dopo l'entrata, in vigore di tali decreti, ma prima della scadenza del termine utile del 31 marzo 1927».
 
 ## Art. 3.
 

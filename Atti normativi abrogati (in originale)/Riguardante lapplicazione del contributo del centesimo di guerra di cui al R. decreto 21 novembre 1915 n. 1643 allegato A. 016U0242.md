@@ -16,7 +16,7 @@ I tesorieri provinciali e comunali sono, con le Provincie e i Comuni, solidalmen
 
 ## Art. 2.
 
-Le controversie relative all'applicazione del contributo del centesimo di guerra che colpisce i redditi soggetti alla imposta sui fabbricati ed a quella di ricchezza mobile riscossa mediante iscrizione a ruolo, sono deferite alle Commissioni provinciale e centrale per le imposte dirette colle norme e nei termini fissati per l'imposta sui profitti dipendenti dalla guerra, di cui al [Regio decreto 21 novembre 1915, n. 1643](../Regi%20decreti/Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), allegato B, al [decreto Luogotenenziale 23 dicembre 1915, n. 1893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-23;1893), e al decreto Ministeriale 15 gennaio 1916. 
+Le controversie relative all'applicazione del contributo del centesimo di guerra che colpisce i redditi soggetti alla imposta sui fabbricati ed a quella di ricchezza mobile riscossa mediante iscrizione a ruolo, sono deferite alle Commissioni provinciale e centrale per le imposte dirette colle norme e nei termini fissati per l'imposta sui profitti dipendenti dalla guerra, di cui al [Regio decreto 21 novembre 1915, n. 1643](Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), allegato B, al [decreto Luogotenenziale 23 dicembre 1915, n. 1893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-23;1893), e al decreto Ministeriale 15 gennaio 1916. 
  
  Negli altri casi i contribuenti potranno ricorrere all'Amministrazione delle imposte dirette, entro tre mesi dalla eseguita ritenuta o dalla pubblicazione dei ruoli a seconda che si tratti di contributo che gravi i pagamenti, oppure di contributo che colpisca i redditi fondiari. 
  
@@ -26,7 +26,7 @@ Le controversie relative all'applicazione del contributo del centesimo di guerra
 
 ## Art. 3.
 
-Al contributo di un centesimo per lira, stabilito all'allegato A del [R. decreto 21 novembre 1915, n. 1643](../Regi%20decreti/Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), sono assoggettati i cenai ed ogni prestazione passiva che non dipenda da condominio o dominio diretto.
+Al contributo di un centesimo per lira, stabilito all'allegato A del [R. decreto 21 novembre 1915, n. 1643](Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), sono assoggettati i cenai ed ogni prestazione passiva che non dipenda da condominio o dominio diretto.
 
 ## Art. 4.
 

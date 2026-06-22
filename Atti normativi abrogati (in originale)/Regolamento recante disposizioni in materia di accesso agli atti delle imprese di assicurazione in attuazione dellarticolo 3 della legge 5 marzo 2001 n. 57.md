@@ -58,7 +58,7 @@ Salvo quanto disposto per l'accesso ai singoli dati personali dal [decreto legis
                             ovvero dopo centoventi giorni dalla data di accadimento del sinistro.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
  Note alle premesse:
 
@@ -91,14 +91,14 @@ Nella richiesta devono essere indicati gli estremi dell'atto oggetto della richi
 3.
 
 L'interessato deve dimostrare, all'atto della richiesta, la propria identita', allegando copia di un documento di riconoscimento.
-La persona che agisce su incarico dell'interessato, oltre a dimostrare la propria identita', deve esibire o allegare copia della procura o della delega recante sottoscrizione autenticata nelle forme previste dal [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md). Se l'interessato e' persona giuridica, ente o associazione, la richiesta e' avanzata dalla persona fisica a cio' legittimata in base ai rispettivi statuti o ordinamenti.
+La persona che agisce su incarico dell'interessato, oltre a dimostrare la propria identita', deve esibire o allegare copia della procura o della delega recante sottoscrizione autenticata nelle forme previste dal [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md). Se l'interessato e' persona giuridica, ente o associazione, la richiesta e' avanzata dalla persona fisica a cio' legittimata in base ai rispettivi statuti o ordinamenti.
 
 4.
 
 Gli uffici riceventi sono tenuti, entro quindici giorni, a dare comunicazione al richiedente con raccomandata con avviso di ricevimento o tramite telefax se la richiesta e' irregolare o incompleta. In tal caso gli uffici riceventi devono indicare gli elementi di cui necessitano.
 
 Nota all'[art. 2:
- - Il decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), recante "[Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md)". (Testo A) e' pubblicato nella Gazzetta Ufficiale 20 febbraio 2001, n. 42, supplemento ordinario.
+ - Il decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), recante "[Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md)". (Testo A) e' pubblicato nella Gazzetta Ufficiale 20 febbraio 2001, n. 42, supplemento ordinario.
 
 ## Art. 3. — Conclusione del procedimento
 

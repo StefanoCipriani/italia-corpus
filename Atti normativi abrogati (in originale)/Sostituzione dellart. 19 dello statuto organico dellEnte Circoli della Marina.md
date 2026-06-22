@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 27 ottobre 1937, n. 1935](../Regi%20decreti/Costituzione%20dellEnte%20Circoli%20della%20Regia%20marina%20con%20sede%20in%20Roma.%20037U1935.md), che istituisce l'Ente "Circoli della Marina" e ne approva il relativo statuto organico, modificato dal [regio decreto 22 giugno 1939, n. 1256](../Regi%20decreti/Varianti%20allo%20statuto%20dellente%20Circoli%20della%20Regia%20marina.%20039U1256.md);
+Visto il [regio decreto 27 ottobre 1937, n. 1935](Costituzione%20dellEnte%20Circoli%20della%20Regia%20marina%20con%20sede%20in%20Roma.%20037U1935.md), che istituisce l'Ente "Circoli della Marina" e ne approva il relativo statuto organico, modificato dal [regio decreto 22 giugno 1939, n. 1256](Varianti%20allo%20statuto%20dellente%20Circoli%20della%20Regia%20marina.%20039U1256.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per la difesa; Decreta:
 
 ## Articolo unico.
 
-L'art. 19 dello statuto organico dell'Ente "Circoli della Marina", approvato con [regio decreto 27 ottobre 1937, n. 1935](../Regi%20decreti/Costituzione%20dellEnte%20Circoli%20della%20Regia%20marina%20con%20sede%20in%20Roma.%20037U1935.md) e modificato con [regio decreto 22 giugno 1939, n. 1256](../Regi%20decreti/Varianti%20allo%20statuto%20dellente%20Circoli%20della%20Regia%20marina.%20039U1256.md), e' abrogato e sostituito con il seguente:
+L'art. 19 dello statuto organico dell'Ente "Circoli della Marina", approvato con [regio decreto 27 ottobre 1937, n. 1935](Costituzione%20dellEnte%20Circoli%20della%20Regia%20marina%20con%20sede%20in%20Roma.%20037U1935.md) e modificato con [regio decreto 22 giugno 1939, n. 1256](Varianti%20allo%20statuto%20dellente%20Circoli%20della%20Regia%20marina.%20039U1256.md), e' abrogato e sostituito con il seguente:
  "Art. 19 - Quote sociali. - Tutti i soci, ad eccezione di quelli onorari, sono tenuti al versamento delle seguenti quote mensili, in relazione al grado rivestito:
 
  ufficiali ammiragli e gradi corrispondenti............... L. 64 capitani di vascello e gradi corrispondenti.............. L. 55 capitani di fregata e di corvetta e gradi corrispondenti. L. 45 tenenti di vascello e gradi corrispondenti............... L. 40 sottotenenti di vascello e gradi corrispondenti.......... L. 36 guardiamarina e gradi corrispondenti..................... L. 32 

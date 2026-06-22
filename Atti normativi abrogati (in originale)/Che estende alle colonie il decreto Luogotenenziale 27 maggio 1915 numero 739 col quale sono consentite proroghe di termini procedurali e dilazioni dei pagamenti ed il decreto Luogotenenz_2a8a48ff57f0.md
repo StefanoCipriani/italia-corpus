@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md), e il [R. decreto 20 novembre 1912, n. 1205](../Regi%20decreti/riguardante%20le%20norme%20relative%20alla%20costituzione%20del%20Ministero%20delle%20Colonie%20012U1205.md); 
+ Vista la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md), e il [R. decreto 20 novembre 1912, n. 1205](riguardante%20le%20norme%20relative%20alla%20costituzione%20del%20Ministero%20delle%20Colonie%20012U1205.md); 
  
- Visti i [Regi decreti 2 luglio 1908, n. 325](../Regi%20decreti/Concernente%20il%20riordinamento%20giudiziario%20della%20Colonia%20Eritrea.%20008U0325.md); 8 giugno 1911, n, 937; 20 marzo 1913, n. 289, coi quali furono rispettivamente approvati gli ordinamenti giudiziari dell'Eritrea, della Somalia italiana, e della Tripolitania e Cirenaica; 
+ Visti i [Regi decreti 2 luglio 1908, n. 325](Concernente%20il%20riordinamento%20giudiziario%20della%20Colonia%20Eritrea.%20008U0325.md); 8 giugno 1911, n, 937; 20 marzo 1913, n. 289, coi quali furono rispettivamente approvati gli ordinamenti giudiziari dell'Eritrea, della Somalia italiana, e della Tripolitania e Cirenaica; 
  
  Visto il Nostro decreto 27 maggio 1915, n. 739, col quale, a tutti gli effetti dell'[art. 1226 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1226), la guerra e' considerata come causa di forza maggiore anche quando renda eccessivamente onerosa la prestazione, e si consentano proroghe di termini procedurali e dilazioni dei pagamenti 
  

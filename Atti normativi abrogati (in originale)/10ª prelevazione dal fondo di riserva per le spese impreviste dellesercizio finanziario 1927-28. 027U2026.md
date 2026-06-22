@@ -53,7 +53,7 @@ nuove Provincie . . . . . . . . . . . . . . . . . . L. 150,000
  Cap. n. 70 - aggiunto (in conto competenza) - Spese
 pei servizi delle Commissioni incaricate degli
 studi legislativi per la riforma del [Codice
-penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ecc. . . . . . . . . . . . . . . . . . . . . » 150,000
+penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ecc. . . . . . . . . . . . . . . . . . . . . » 150,000
 
 
  Ministero degli affari esteri:

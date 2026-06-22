@@ -22,9 +22,9 @@ In virtu' dell'autorita' a Noi delegata;
 
 In virtu' delle facolta' conferite al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 1° agosto 1907, n. 636](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md);
+Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md);
 
-Vista la [legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), sull'esercizio delle farmacie, ed il relativo regolamento approvato con [R. decreto 13 luglio 1914, n. 829](../Regi%20decreti/Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%2022%20maggio%201913%20n.%20468%20sullesercizio%20delle%20farmacie.%20014U0829.md);
+Vista la [legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), sull'esercizio delle farmacie, ed il relativo regolamento approvato con [R. decreto 13 luglio 1914, n. 829](Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%2022%20maggio%201913%20n.%20468%20sullesercizio%20delle%20farmacie.%20014U0829.md);
 
 Visto il [decreto Luogotenenziale 31 dicembre 1915, n. 1910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1910);
 

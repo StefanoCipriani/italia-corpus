@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli stanziamenti dei bilanci delle Provincie e dei Comuni, che abbiano per oggetto la conservazione o la nuova istituzione di cattedre ambulanti d'agricoltura, possono essere autorizzati con le stesse forme prescritte dall'art. 287 del testo unico della legge comunale e provinciale approvato con [R. decreto 4 maggio 1898, n. 164](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md).
+Gli stanziamenti dei bilanci delle Provincie e dei Comuni, che abbiano per oggetto la conservazione o la nuova istituzione di cattedre ambulanti d'agricoltura, possono essere autorizzati con le stesse forme prescritte dall'art. 287 del testo unico della legge comunale e provinciale approvato con [R. decreto 4 maggio 1898, n. 164](Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md).
 
 ## Art. 2.
 

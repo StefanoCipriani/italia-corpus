@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 4 giugno 1911, n. 486](Concernente%20lassegno%20vitalizio%20ai%20superstiti%20delle%20guerre%20per%20lindipendenza%20dItalia.%20011U0486.md), a favore dei veterani delle guerre dell'Indipendenza;
 
-Visto il [R. decreto 18 giugno 1911, n. 616](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20concernente%20gli%20assegni%20vitalizi%20ai%20superstiti%20delle%20guerre%20per%20la%20indipendenza%20dItalia.%20011U0616.md), che approva il regolamento per l'esecuzione della legge predetta;
+Visto il [R. decreto 18 giugno 1911, n. 616](Che%20approva%20lannesso%20regolamento%20concernente%20gli%20assegni%20vitalizi%20ai%20superstiti%20delle%20guerre%20per%20la%20indipendenza%20dItalia.%20011U0616.md), che approva il regolamento per l'esecuzione della legge predetta;
 
 Sentito il Consiglio dei ministri;
 

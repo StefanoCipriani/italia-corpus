@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-E' data facolta' al Governo del Re di provvedere al riordinamento dei fabbricati carcerari per l'applicazione del nuovo [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e nei modi prescritti dalla presente legge.
+E' data facolta' al Governo del Re di provvedere al riordinamento dei fabbricati carcerari per l'applicazione del nuovo [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e nei modi prescritti dalla presente legge.
 
 ## Art. 2.
 
-Alla pubblicazione della presente legge sara' fatta eseguire dal Ministero dell'interno una ispezione allo scopo di verificare se e quanto i fabbricati carcerari attualmente esistenti rispondano alle condizioni generali d'igiene, di sicurezza e di disciplina ed alle condizioni speciali necessarie per la detenzione preventiva e per l'espiazione delle pene sancite dal nuovo [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Alla pubblicazione della presente legge sara' fatta eseguire dal Ministero dell'interno una ispezione allo scopo di verificare se e quanto i fabbricati carcerari attualmente esistenti rispondano alle condizioni generali d'igiene, di sicurezza e di disciplina ed alle condizioni speciali necessarie per la detenzione preventiva e per l'espiazione delle pene sancite dal nuovo [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 3.
 
@@ -38,7 +38,7 @@ I comuni pagheranno allo Stato una somma fissa annuale ragguagliata alla media d
 
 In seguito ai risultati della ispezione di cui all'art. 2 saranno fatti compilare dal Governo i progetti riguardanti l'adattamento o la costruzione di tutti i fabbricati carcerari. Tali progetti saranno redatti secondo le norme generali stabilite dalla legge sulle opere pubbliche. 
  
- Per la redazione dei detti progetti il Ministero dell'interno trasmettera' agli Uffici competenti le tracce e le indicazioni necessarie affinche' rispondano alle esigenze della detenzione preventiva a sistema misto, e del sistema penitenziario in applicazione del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Per la redazione dei detti progetti il Ministero dell'interno trasmettera' agli Uffici competenti le tracce e le indicazioni necessarie affinche' rispondano alle esigenze della detenzione preventiva a sistema misto, e del sistema penitenziario in applicazione del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 6.
 

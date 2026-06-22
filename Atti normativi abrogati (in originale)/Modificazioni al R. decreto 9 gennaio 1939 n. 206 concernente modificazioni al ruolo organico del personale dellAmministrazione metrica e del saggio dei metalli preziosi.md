@@ -18,9 +18,9 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il testo unico delle leggi metriche 23 agosto 1890, n. 7088, (serie 3°);
 
-Visto il [R. decreto 9 gennaio 1939, n. 206](../Regi%20decreti/Modificazioni%20al%20ruolo%20organico%20del%20personale%20dellAmministrazione%20metrica%20e%20del%20saggio%20dei%20metalli%20preziosi.%20039U0206.md), che modifica il ruolo organico del personale dell'Amministrazione metrica e del saggio dei metalli preziosi;
+Visto il [R. decreto 9 gennaio 1939, n. 206](Modificazioni%20al%20ruolo%20organico%20del%20personale%20dellAmministrazione%20metrica%20e%20del%20saggio%20dei%20metalli%20preziosi.%20039U0206.md), che modifica il ruolo organico del personale dell'Amministrazione metrica e del saggio dei metalli preziosi;
 
-Visto il [R. decreto 28 giugno 1942, n. 927](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%209%20gennaio%201939-XVII%20n.%20206%20concernente%20il%20ruolo%20organico%20dellAmministrazione%20metrica%20e%20del%20saggio%20dei%20metalli%20preziosi.%20042U0927.md), recante varianti all'art. 3 del suddetto decreto;
+Visto il [R. decreto 28 giugno 1942, n. 927](Modificazioni%20al%20R.%20decreto%209%20gennaio%201939-XVII%20n.%20206%20concernente%20il%20ruolo%20organico%20dellAmministrazione%20metrica%20e%20del%20saggio%20dei%20metalli%20preziosi.%20042U0927.md), recante varianti all'art. 3 del suddetto decreto;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), concernente l'assemblea per la nuova costituzione dello Stato, il giuramento dei membri del Governo e la facolta' dei Governo di emanare norme giuridiche;
 
@@ -32,14 +32,14 @@ Sulla proposta del Ministro Segretario di Stato per l'industria e il commercio, 
 
 ## Art. 1.
 
-L'[art. 2 del R. decreto 9 gennaio 1939, n. 206](../Regi%20decreti/Modificazioni%20al%20ruolo%20organico%20del%20personale%20dellAmministrazione%20metrica%20e%20del%20saggio%20dei%20metalli%20preziosi.%20039U0206.md), e' sostituito dal seguente:
- "Le assunzioni ai posti di grado iniziale del ruolo di gruppo B del personale dell'Amministrazione metrica e del saggio dei metalli preziosi, oltre che all'osservanza delle norme contenute nei [Regi decreti 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni, e delle modalita' che saranno stabilite con i bandi di concorso, sono subordinate all'esito favorevole di un esame cui saranno sottoposti i funzionari in prova alla fine del corso di tirocinio teorico pratico presso l'Ufficio centrale metrico e dei saggi.
+L'[art. 2 del R. decreto 9 gennaio 1939, n. 206](Modificazioni%20al%20ruolo%20organico%20del%20personale%20dellAmministrazione%20metrica%20e%20del%20saggio%20dei%20metalli%20preziosi.%20039U0206.md), e' sostituito dal seguente:
+ "Le assunzioni ai posti di grado iniziale del ruolo di gruppo B del personale dell'Amministrazione metrica e del saggio dei metalli preziosi, oltre che all'osservanza delle norme contenute nei [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni, e delle modalita' che saranno stabilite con i bandi di concorso, sono subordinate all'esito favorevole di un esame cui saranno sottoposti i funzionari in prova alla fine del corso di tirocinio teorico pratico presso l'Ufficio centrale metrico e dei saggi.
  "Detto corso, che ha la durata massima di nove mesi, verte sull'insegnamento delle seguenti materie:
  "1) matematica e meccanica, 2) metrologia, 3) teoria degli strumenti per pesare e parte tecnica del servizio metrico, 4) analisi chimica qualitativa, 5) saggio dei metalli preziosi, 6) elementi di diritto amministrativo ed ordinamento amministrativo-contabile del servizio metrico, 7) disegno".
 
 ## Art. 2.
 
-La misura del compenso mensile spettante agli insegnanti delle materie indicate nel comma 2° dell'articolo precedente, fissato dal [R. decreto 28 giugno 1942, numero 927](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%209%20gennaio%201939-XVII%20n.%20206%20concernente%20il%20ruolo%20organico%20dellAmministrazione%20metrica%20e%20del%20saggio%20dei%20metalli%20preziosi.%20042U0927.md), in non piu' di lire settecentocinquanta per ciascuna materia per gli estranei all' Amministrazione, e di lire cinquecento per i funzionari, e' aumentata, del 60% per gli estranei e del 100% per i funzionari.
+La misura del compenso mensile spettante agli insegnanti delle materie indicate nel comma 2° dell'articolo precedente, fissato dal [R. decreto 28 giugno 1942, numero 927](Modificazioni%20al%20R.%20decreto%209%20gennaio%201939-XVII%20n.%20206%20concernente%20il%20ruolo%20organico%20dellAmministrazione%20metrica%20e%20del%20saggio%20dei%20metalli%20preziosi.%20042U0927.md), in non piu' di lire settecentocinquanta per ciascuna materia per gli estranei all' Amministrazione, e di lire cinquecento per i funzionari, e' aumentata, del 60% per gli estranei e del 100% per i funzionari.
  Per questi ultimi l'aumento e' ridotto al 50% quando il numero delle ore mensili di lezioni, per ciascuna materia, risulta inferiore a venti.
 
 ## Art. 3.

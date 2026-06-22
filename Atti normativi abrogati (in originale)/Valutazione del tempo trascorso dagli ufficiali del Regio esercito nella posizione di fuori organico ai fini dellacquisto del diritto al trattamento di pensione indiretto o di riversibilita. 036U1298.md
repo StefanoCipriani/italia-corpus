@@ -16,9 +16,9 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
+Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
 
-Visto il [R. decreto 18 novembre 1920, n. 1626](../Regi%20decreti/Che%20estende%20il%20nuovo%20regime%20delle%20pensioni%20ai%20militari%20del%20Regio%20esercito%20e%20della%20Regia%20marina.%20020U1626.md), che estende il nuovo regime delle pensioni ai militari del Regio esercito e della Regia marina;
+Visto il [R. decreto 18 novembre 1920, n. 1626](Che%20estende%20il%20nuovo%20regime%20delle%20pensioni%20ai%20militari%20del%20Regio%20esercito%20e%20della%20Regia%20marina.%20020U1626.md), che estende il nuovo regime delle pensioni ai militari del Regio esercito e della Regia marina;
 
 Visto il R. decreto 21 novembre 1923-II, n. 2480, recante nuove disposizioni sulle pensioni normali del personale dell'Amministrazione dello Stato;
 

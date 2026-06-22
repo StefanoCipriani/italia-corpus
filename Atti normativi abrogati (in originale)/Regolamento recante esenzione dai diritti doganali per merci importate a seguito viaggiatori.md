@@ -32,7 +32,7 @@ Sono ammesse alla esenzione dai diritti doganali, ai sensi dell'art. 14, n. 3), 
 
 2.
 
-Tale limite e' elevato a 390 unita' di conto europee per gli oggetti e i generi che soddisfano alle condizioni di cui agli articoli 9 e 10 del trattato che istituisce la Comunita' economica europea, ratificato con [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md).
+Tale limite e' elevato a 390 unita' di conto europee per gli oggetti e i generi che soddisfano alle condizioni di cui agli articoli 9 e 10 del trattato che istituisce la Comunita' economica europea, ratificato con [legge 14 ottobre 1957, n. 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md).
 
 3.
 
@@ -102,7 +102,7 @@ I viaggiatori di eta' inferiore a diciassette anni sono esclusi  dalla esenzione
 Il valore dei generi compresi nei quantitativi di cui sopra non va calcolato agli effetti della determinazione del valore globale degli oggetti da ammettere in esenzione.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - La [direttiva CEE n. 88/664](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;664) e' stata pubblicata nella Gazzetta Ufficiale delle Comunita' europee n. L 382 del 31 dicembre 1988 e ripubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 18 del 2 marzo 1989, 2a serie speciale.

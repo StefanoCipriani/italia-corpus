@@ -30,7 +30,7 @@ E' autorizzata la spesa straordinaria di L. 800.000.000 per l'esecuzione di urge
 
 ## Art. 2.
 
-I lavori che, a richiesta dei comandi militari competenti, rivestono carattere di urgenza e di riservatezza, possono essere eseguiti secondo le norme dell'art. 50 lettera c) del regolamento per i lavori del Genio militare, approvato con il [R. decreto 17 marzo 1932, n. 365](../Regi%20decreti/Approvazione%20del%20regolamento%20sui%20lavori%20del%20genio%20militare.%20032U0365.md).
+I lavori che, a richiesta dei comandi militari competenti, rivestono carattere di urgenza e di riservatezza, possono essere eseguiti secondo le norme dell'art. 50 lettera c) del regolamento per i lavori del Genio militare, approvato con il [R. decreto 17 marzo 1932, n. 365](Approvazione%20del%20regolamento%20sui%20lavori%20del%20genio%20militare.%20032U0365.md).
 
 ## Art. 3.
 

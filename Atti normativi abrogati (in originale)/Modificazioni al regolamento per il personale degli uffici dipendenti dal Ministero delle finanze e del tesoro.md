@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), con il quale venne approvato il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, e successive modificazioni;
+Visto il [regio decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), con il quale venne approvato il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, e successive modificazioni;
 
 Visto il [decreto del Capo provvisorio dello Stato 2 febbraio 1947, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-02;16);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro Segretario di Stato per le finanze ed il tesoro; Dec
 
 ## Art. 1.
 
-Ai sottonotati articoli del regolamento per il personale dipendente dal Ministero delle finanze e del tesoro e per l'ordinamento degli uffici direttivi finanziari, approvato col citato [regio decreto 23 marzo 1933, numero 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), sono apportate le seguenti aggiunte e varianti:
+Ai sottonotati articoli del regolamento per il personale dipendente dal Ministero delle finanze e del tesoro e per l'ordinamento degli uffici direttivi finanziari, approvato col citato [regio decreto 23 marzo 1933, numero 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), sono apportate le seguenti aggiunte e varianti:
 
  a) All'art. 12 viene aggiunto il comma seguente:
  Nei bandi di concorso per il grado iniziale della carriera di concetto e d'ordine della Ragioneria generale dello Stato, che saranno indetti non oltre 31.31 dicembre 1948, puo' disporsi che le prove scritte dei concorsi stessi abbiano luogo nelle sedi che saranno di volta in volta stabilite con decreto Ministeriale.
@@ -33,7 +33,7 @@ Ai sottonotati articoli del regolamento per il personale dipendente dal Minister
 
 ## Art. 2.
 
-Gli allegati al regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e perl'ordinamento degli uffici direttivi finanziari, approvato con [regio decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), sono sostituiti come segue:
+Gli allegati al regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e perl'ordinamento degli uffici direttivi finanziari, approvato con [regio decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), sono sostituiti come segue:
 
  a) Allegato III:
  Programma dell'esame di concorso per vice segretario in prova nella carriera di concetto della Ragioneria generale dello Stato.

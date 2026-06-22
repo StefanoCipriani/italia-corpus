@@ -16,7 +16,7 @@ Visto il [regio decreto-legge 1° aprile 1935, n. 343](Trattamento%20al%20person
 
 Vista la [legge 10 giugno 1940, n. 653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-10;653) e successive modificazioni, concernenti il trattamento degli impiegati privati richiamati alle armi;
 
-Visto il [decreto legislativo luogotenenziale 5 maggio 1946, n. 418](../Decreti%20legislativi%20luogotenenziali/Conservazione%20del%20posto%20agli%20impiegati%20delle%20classi%201924%201925%20e%201926%20chiamati%20alle%20armi.md), concernente la conservazione del posto agli impiegati delle classi 1924, 1925, 1926, chiamati alle armi;
+Visto il [decreto legislativo luogotenenziale 5 maggio 1946, n. 418](Conservazione%20del%20posto%20agli%20impiegati%20delle%20classi%201924%201925%20e%201926%20chiamati%20alle%20armi.md), concernente la conservazione del posto agli impiegati delle classi 1924, 1925, 1926, chiamati alle armi;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -51,7 +51,7 @@ La vigilanza per l'applicazione del presente decreto e' affidata all'Ispettorato
 
 ## Art. 6.
 
-Il [decreto legislativo luogotenenziale 5 maggio 1946, n. 418](../Decreti%20legislativi%20luogotenenziali/Conservazione%20del%20posto%20agli%20impiegati%20delle%20classi%201924%201925%20e%201926%20chiamati%20alle%20armi.md), e' abrogato.
+Il [decreto legislativo luogotenenziale 5 maggio 1946, n. 418](Conservazione%20del%20posto%20agli%20impiegati%20delle%20classi%201924%201925%20e%201926%20chiamati%20alle%20armi.md), e' abrogato.
 
 ## Art. 7.
 

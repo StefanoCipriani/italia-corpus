@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Visti i [Regi decreti 21 luglio 1908, n. 325](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-07-21;325), [8 giugno 1911, n. 937](Che%20approva%20lordinamento%20della%20giustizia%20nella%20Somalia%20italiana.%20011U0937.md), [20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-06-08;20) marzo, n. 289, coi quali furono approvati rispettivamente gli ordinamenti giudiziari dell'Eritrea, della Somalia e della Tripolitania e Cirenaica; 
  
- Visti gli [articoli 86](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [87 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e gli [articoli 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_589) e [391 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_391); 
+ Visti gli [articoli 86](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [87 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e gli [articoli 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_589) e [391 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_391); 
  
  Sulla proposta del Nostro ministro segretario di Stato per le colonie, di concerto col ministro della giustizia e degli affari di culto e con quello della guerra; 
  

@@ -12,7 +12,7 @@ vigente: true
 
 Fino a nuova disposizione, l'Amministrazione delle ferrovie dello Stato e' autorizzata: 
  
- a) a riscuotere in aggiunta ai prezzi dei biglietti per viaggi da compiersi sulle ferrovie dello Stato a tariffa ridotta in base alle concessioni speciali di cui le [leggi 29 dicembre 1901, n. 562, e 9 luglio 1908, n. 406 (art. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2031%20dicembre%201905%20n%20632%20per%20la%20concessione%20di%20carte%20di%20libera%20circolazione%20e%20di%20biglietti%20per%20un%20solo%20viaggio%20gratuito%20od%20a%20prezzo%20ridotto%20per%20talune%20ca_153a5f4f158f.md)), e di cui i [Regi decreti 30 giugno 1911, n. 809 (art. 1](../Regi%20decreti/Che%20riguarda%20i%20trasporti%20ferroviari%20gratuiti%20da%20effettuarsi%20in%20conseguenza%20del%20terremoto%20del%2028%20dicembre%201908.%20011U0809.md), ultimo capoverso), 8 febbraio 1912, n. 177, 9 maggio 1912, n. 470, e 23 dicembre 1915, n. 1901 (art. 1 e 2), le seguenti soprattasse progressive, da computarsi per ogni persona e per ciascun viaggio sia di andata che di andata e ritorno: 
+ a) a riscuotere in aggiunta ai prezzi dei biglietti per viaggi da compiersi sulle ferrovie dello Stato a tariffa ridotta in base alle concessioni speciali di cui le [leggi 29 dicembre 1901, n. 562, e 9 luglio 1908, n. 406 (art. 4](Conversione%20in%20legge%20del%20R.%20decreto%2031%20dicembre%201905%20n%20632%20per%20la%20concessione%20di%20carte%20di%20libera%20circolazione%20e%20di%20biglietti%20per%20un%20solo%20viaggio%20gratuito%20od%20a%20prezzo%20ridotto%20per%20talune%20ca_153a5f4f158f.md)), e di cui i [Regi decreti 30 giugno 1911, n. 809 (art. 1](Che%20riguarda%20i%20trasporti%20ferroviari%20gratuiti%20da%20effettuarsi%20in%20conseguenza%20del%20terremoto%20del%2028%20dicembre%201908.%20011U0809.md), ultimo capoverso), 8 febbraio 1912, n. 177, 9 maggio 1912, n. 470, e 23 dicembre 1915, n. 1901 (art. 1 e 2), le seguenti soprattasse progressive, da computarsi per ogni persona e per ciascun viaggio sia di andata che di andata e ritorno: 
  
  L. 0,10 per ogni importo individuale da L. 1 a L. 1,95 
  
@@ -28,7 +28,7 @@ Fino a nuova disposizione, l'Amministrazione delle ferrovie dello Stato e' autor
  
  Sono esenti dal pagamento delle dette soprattasse i biglietti di prezzo inferiore a L. 1,00 per persona, quelli dei viaggiatori fruenti della concessione speciale B, e non ne saranno gravati i biglietti di viaggio a tariffa militare e differenziale C rilasciati ai militari loro famiglie in base al regolamento pei trasporti militari; 
  
- b) a riscuotere all'atto della vidimazione dei biglietti gratuiti di 1ª e di 2ª classe e della presentazione dei buoni per trasporto gratuito di bagaglio, rilasciati in conformita' all'[art. 3 della legge 9 luglio 1908, n. 406](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2031%20dicembre%201905%20n%20632%20per%20la%20concessione%20di%20carte%20di%20libera%20circolazione%20e%20di%20biglietti%20per%20un%20solo%20viaggio%20gratuito%20od%20a%20prezzo%20ridotto%20per%20talune%20ca_153a5f4f158f.md), i seguenti diritti fissi: 
+ b) a riscuotere all'atto della vidimazione dei biglietti gratuiti di 1ª e di 2ª classe e della presentazione dei buoni per trasporto gratuito di bagaglio, rilasciati in conformita' all'[art. 3 della legge 9 luglio 1908, n. 406](Conversione%20in%20legge%20del%20R.%20decreto%2031%20dicembre%201905%20n%20632%20per%20la%20concessione%20di%20carte%20di%20libera%20circolazione%20e%20di%20biglietti%20per%20un%20solo%20viaggio%20gratuito%20od%20a%20prezzo%20ridotto%20per%20talune%20ca_153a5f4f158f.md), i seguenti diritti fissi: 
  
  per ogni biglietto di 1ª classe L. 3,00 
  
@@ -36,7 +36,7 @@ Fino a nuova disposizione, l'Amministrazione delle ferrovie dello Stato e' autor
  
  » » buono bagaglio » 0,50 
  
- c) ad assoggettare i biglietti gratuiti per un solo viaggio ed i buoni per il trasporto gratuito del bagaglio rilasciati a norma dell'[art. 83 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), e del regolamento approvato col [R. decreto n. 628 del 21 luglio 1910](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20concessione%20delle%20carte%20di%20libera%20circolazione%20e%20dei%20biglietti%20per%20un%20solo%20viaggio%20sulle%20ferrovie%20esercitate%20dallo%20Stato.%20010U0628.md), al pagamento dei seguenti diritti fissi: 
+ c) ad assoggettare i biglietti gratuiti per un solo viaggio ed i buoni per il trasporto gratuito del bagaglio rilasciati a norma dell'[art. 83 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), e del regolamento approvato col [R. decreto n. 628 del 21 luglio 1910](Che%20approva%20lannesso%20regolamento%20per%20la%20concessione%20delle%20carte%20di%20libera%20circolazione%20e%20dei%20biglietti%20per%20un%20solo%20viaggio%20sulle%20ferrovie%20esercitate%20dallo%20Stato.%20010U0628.md), al pagamento dei seguenti diritti fissi: 
  
  per ogni persona, esclusi i ragazzi fino ai tre anni: 
  

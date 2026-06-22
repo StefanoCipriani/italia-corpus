@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il testo unico delle leggi sul nuovo catasto approvato con [R. decreto 8 ottobre 1931, n. 1572](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20nuovo%20catasto.%20031U1572.md); 
+ Visto il testo unico delle leggi sul nuovo catasto approvato con [R. decreto 8 ottobre 1931, n. 1572](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20nuovo%20catasto.%20031U1572.md); 
  
  Visto l'art. 3 del regolamento per la esecuzione del testo unico medesimo, approvato con [R. decreto 12 ottobre 1933, n. 1539](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20delle%20disposizioni%20legislative%20sul%20riordinamento%20dellimposta%20fondiaria.%20033U1539.md); 
  

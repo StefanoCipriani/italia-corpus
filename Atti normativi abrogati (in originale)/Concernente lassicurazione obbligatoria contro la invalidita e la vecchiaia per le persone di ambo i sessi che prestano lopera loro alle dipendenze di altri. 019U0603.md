@@ -526,7 +526,7 @@ Presso il Ministero per l'industria, il commercio e il lavoro e' istituito, seco
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 15 agosto 1919, n. 1549](Che%20proroga%20il%20termine%20fissato%20dallart.%2041%20del%20decreto-legge%2021%20aprile%201919%20n.%20603%20circa%20la%20costituzione%20dellUfficio%20tecnico%20attuariale%20presso%20il%20Ministero%20dellindustria%20commercio%20e%20lavoro.%20019U1549.md), convertito senza modificazioni dalla [L. 15 ottobre 1923, n. 2293](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20decreti%20Regi%20e%20Luogotenenziali%20aventi%20per%20oggetto%20argomenti%20gia%20superati%20per%20il%20tempo%20o%20per%20il%20contenuto.%20023U2293.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio D.L. 15 agosto 1919, n. 1549](Che%20proroga%20il%20termine%20fissato%20dallart.%2041%20del%20decreto-legge%2021%20aprile%201919%20n.%20603%20circa%20la%20costituzione%20dellUfficio%20tecnico%20attuariale%20presso%20il%20Ministero%20dellindustria%20commercio%20e%20lavoro.%20019U1549.md), convertito senza modificazioni dalla [L. 15 ottobre 1923, n. 2293](Conversione%20in%20legge%20di%20decreti%20Regi%20e%20Luogotenenziali%20aventi%20per%20oggetto%20argomenti%20gia%20superati%20per%20il%20tempo%20o%20per%20il%20contenuto.%20023U2293.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 42.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[articolo 294 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare in data 28 novembre 1869;
+Visto l'[articolo 294 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare in data 28 novembre 1869;
 
 Visti i Reali Decreti con cui vennero istituiti i Tribunali militari permanenti nelle Divisioni militari territoriali di Torino, Milano, Napoli, Bologna, Firenze, Verona, Palermo, Genova, Ancona, Catanzaro, Bari e Venezia;
 

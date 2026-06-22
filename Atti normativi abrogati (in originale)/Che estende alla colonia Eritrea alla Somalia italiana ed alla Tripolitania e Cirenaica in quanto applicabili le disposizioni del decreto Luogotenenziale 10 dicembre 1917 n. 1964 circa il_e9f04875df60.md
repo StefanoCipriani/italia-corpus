@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Vista la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md), ed il [R. decreto 20 novembre 1912, n. 1205](../Regi%20decreti/riguardante%20le%20norme%20relative%20alla%20costituzione%20del%20Ministero%20delle%20Colonie%20012U1205.md); 
+ Vista la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md), ed il [R. decreto 20 novembre 1912, n. 1205](riguardante%20le%20norme%20relative%20alla%20costituzione%20del%20Ministero%20delle%20Colonie%20012U1205.md); 
  
- Visti i [Regi decreti 2 luglio 1908, n. 325](../Regi%20decreti/Concernente%20il%20riordinamento%20giudiziario%20della%20Colonia%20Eritrea.%20008U0325.md), [5 giugno 1911, n. 937](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-06-05;937), e [20 marzo 1913, n. 289](../Regi%20decreti/Col%20quale%20vengono%20approvati%20gli%20annessi%20ordinamento%20giudiziario%20e%20disposizioni%20relative%20alle%20leggi%20da%20applicarsi%20in%20Libia.%20013U0289.md), coi quali furono approvati gli ordinamenti giudiziari della colonia Eritrea, della Somalia italiana e della Tripolitania e Cirenaica; 
+ Visti i [Regi decreti 2 luglio 1908, n. 325](Concernente%20il%20riordinamento%20giudiziario%20della%20Colonia%20Eritrea.%20008U0325.md), [5 giugno 1911, n. 937](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-06-05;937), e [20 marzo 1913, n. 289](Col%20quale%20vengono%20approvati%20gli%20annessi%20ordinamento%20giudiziario%20e%20disposizioni%20relative%20alle%20leggi%20da%20applicarsi%20in%20Libia.%20013U0289.md), coi quali furono approvati gli ordinamenti giudiziari della colonia Eritrea, della Somalia italiana e della Tripolitania e Cirenaica; 
  
  Sentito il Consiglio dei ministri; 
  

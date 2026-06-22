@@ -97,7 +97,7 @@ Le pene disciplinari, alle quali e' soggetto il personale civile insegnante dell
  L'ammonizione e la censura vengono date dal comandante dell'Istituto nel quale il professore insegna; la sospensione e la destituzione vengono proposte da una Commissione composta di quattro professori di Istituti superiori o medi, dei quali due nominati dal ministro della marina di concerto con quello della pubblica istruzione, e due designati dal Collegio dei professori della R.
 Accademia navale. 
  
- La sospensione a tempo indeterminato puo' essere ordinata dal ministro, dandone contemporaneamente avviso alla Commissione di cui al comma precedente. La sospensione ha poi luogo di diritto nei casi contemplati dal [R. decreto 25 ottobre 1866, n.3343](../Regi%20decreti/Col%20quale%20sono%20estese%20a%20tutti%20gli%20Impiegati%20e%20Funzionari%20civili%20dello%20Stato%20le%20disposizioni%20contenute%20negli%20articoli%20208%20209%20e%20210%20della%20Legge%206%20dicembre%201865%20n%202626%20riguardanti%20gli%20Impie_d92ff367b78b.md). 
+ La sospensione a tempo indeterminato puo' essere ordinata dal ministro, dandone contemporaneamente avviso alla Commissione di cui al comma precedente. La sospensione ha poi luogo di diritto nei casi contemplati dal [R. decreto 25 ottobre 1866, n.3343](Col%20quale%20sono%20estese%20a%20tutti%20gli%20Impiegati%20e%20Funzionari%20civili%20dello%20Stato%20le%20disposizioni%20contenute%20negli%20articoli%20208%20209%20e%20210%20della%20Legge%206%20dicembre%201865%20n%202626%20riguardanti%20gli%20Impie_d92ff367b78b.md). 
  
  Le norme, alle quali dovranno uniformarsi i deliberati della Commissione sopra nominata, sono stabilite dal regolamento.
 

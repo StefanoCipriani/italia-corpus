@@ -14,7 +14,7 @@ IL MINISTRO DELLA MARINA
  
  Veduti l'art. 4 del regolamento approvato con [R. decreto 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md) (Serie 2ª), e la tabella numero 2, annessa al regolamento medesimo; 
  
- Veduto il [R. decreto 14 maggio 1882, n. 766](../Regi%20decreti/Che%20istituisce%20una%20delegazione%20di%20porto%20a%20Cannitello%20provincia%20di%20Reggio%20Calabria.%20082U0766.md) (Serie 3ª), con cui venne istituita una Delegazione di porto a Cannitello, provincia di Reggio Calabria, compartimento marittimo di Messina; 
+ Veduto il [R. decreto 14 maggio 1882, n. 766](Che%20istituisce%20una%20delegazione%20di%20porto%20a%20Cannitello%20provincia%20di%20Reggio%20Calabria.%20082U0766.md) (Serie 3ª), con cui venne istituita una Delegazione di porto a Cannitello, provincia di Reggio Calabria, compartimento marittimo di Messina; 
  
  Presi gli occorrenti concerti col Ministro dell'Interno, 
  

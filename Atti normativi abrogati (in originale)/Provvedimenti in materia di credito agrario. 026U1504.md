@@ -18,9 +18,9 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Ritenuta l'urgenza di adottare alcune provvidenze in materia di credito agrario;
 
-Veduti gli [articoli 5 del R. decreto 30 dicembre 1923, numero 3139](../Regi%20decreti/Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), e 6 del [R. decreto-legge 16 ottobre 1924, n. 1692](Disposizioni%20per%20il%20recupero%20delle%20sovvenzioni%20cerealicole%20con%20fondi%20dello%20Stato%20ed%20altri%20provvedimenti%20di%20credito%20agrario.%20024U1692.md);
+Veduti gli [articoli 5 del R. decreto 30 dicembre 1923, numero 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), e 6 del [R. decreto-legge 16 ottobre 1924, n. 1692](Disposizioni%20per%20il%20recupero%20delle%20sovvenzioni%20cerealicole%20con%20fondi%20dello%20Stato%20ed%20altri%20provvedimenti%20di%20credito%20agrario.%20024U1692.md);
 
-Veduti i decreti Luogotenenziali 20 febbraio e 25 maggio 1919, nn. 318 e 943, il [R. decreto 20 luglio 1919, n. 1363](../Regi%20decreti/Che%20aumenta%20di%2040%20milioni%20il%20fondo%20stanziato%20con%20i%20decreti%20Luogotenenziali%2020%20febbraio%20e%2025%20maggio%201919%20un.%20318%20e%20943%20per%20il%20credito%20agrario%20nelle%20provincie%20del%20Veneto%20danneggiate%20dalla%20g_dcad56beb5c9.md), e il [R. decreto-legge 19 novembre 1921, n. 1798](Che%20autorizza%20la%20costituzione%20di%20una%20sezione%20di%20Credito%20agrario%20dellIstituto%20federale%20di%20credito%20per%20il%20risorgimento%20delle%20Venezie.%20021U1798.md);
+Veduti i decreti Luogotenenziali 20 febbraio e 25 maggio 1919, nn. 318 e 943, il [R. decreto 20 luglio 1919, n. 1363](Che%20aumenta%20di%2040%20milioni%20il%20fondo%20stanziato%20con%20i%20decreti%20Luogotenenziali%2020%20febbraio%20e%2025%20maggio%201919%20un.%20318%20e%20943%20per%20il%20credito%20agrario%20nelle%20provincie%20del%20Veneto%20danneggiate%20dalla%20g_dcad56beb5c9.md), e il [R. decreto-legge 19 novembre 1921, n. 1798](Che%20autorizza%20la%20costituzione%20di%20una%20sezione%20di%20Credito%20agrario%20dellIstituto%20federale%20di%20credito%20per%20il%20risorgimento%20delle%20Venezie.%20021U1798.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -32,7 +32,7 @@ L'Istituto di credito agrario per l'Italia Centrale e' autorizzato a compiere ne
 
 ## Art. 2.
 
-A partire dal 1° agosto 1926 gli istituti che ebbero anticipazioni sul fondo per il credito agrario nel Veneto, ai sensi dei decreti Luogotenenziali 20 febbraio e 25 maggio 1919, nn. 318 e 943, e del [R. decreto 20 luglio 1919, n. 1363](../Regi%20decreti/Che%20aumenta%20di%2040%20milioni%20il%20fondo%20stanziato%20con%20i%20decreti%20Luogotenenziali%2020%20febbraio%20e%2025%20maggio%201919%20un.%20318%20e%20943%20per%20il%20credito%20agrario%20nelle%20provincie%20del%20Veneto%20danneggiate%20dalla%20g_dcad56beb5c9.md), verseranno direttamente alla Sezione di credito agrario dell'Istituto federale di credito per il risorgimento delle Venezie le quote ricuperate sui prestiti accordati con le anticipazioni predette. 
+A partire dal 1° agosto 1926 gli istituti che ebbero anticipazioni sul fondo per il credito agrario nel Veneto, ai sensi dei decreti Luogotenenziali 20 febbraio e 25 maggio 1919, nn. 318 e 943, e del [R. decreto 20 luglio 1919, n. 1363](Che%20aumenta%20di%2040%20milioni%20il%20fondo%20stanziato%20con%20i%20decreti%20Luogotenenziali%2020%20febbraio%20e%2025%20maggio%201919%20un.%20318%20e%20943%20per%20il%20credito%20agrario%20nelle%20provincie%20del%20Veneto%20danneggiate%20dalla%20g_dcad56beb5c9.md), verseranno direttamente alla Sezione di credito agrario dell'Istituto federale di credito per il risorgimento delle Venezie le quote ricuperate sui prestiti accordati con le anticipazioni predette. 
  
  Parimenti verseranno alla detta Sezione l'interesse sulla quota non restituita delle anticipazioni medesime nella misura dell'uno per cento all'anno fissata dall'[art. 4 del decreto Luogotenenziale 20 febbraio 1919, n. 318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-20;318#art_4). Per la parte di detta quota che risultasse non investita in operazioni effettuate in conformita' delle disposizioni degli articoli 4 e 5 del predetto [decreto Luogotenenziale 20 febbraio 1919, numero 318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-20;318), e 2 del [R. decreto-legge 20 luglio 1919, n. 1363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-07-20;1363), la misura dell'interesse da corrispondere alla Sezione di credito agrario dell'Istituto federale sara' pari al tasso ufficiale dello sconto.
 
@@ -42,7 +42,7 @@ Le somme assegnate alla Sezione di credito agrario dell'Istituto federale di cre
 
 ## Art. 4.
 
-Il concorso dello Stato nel pagamento degli interessi ai sensi del disposto dell'[art. 3 del R. decreto 30 dicembre 1923, n. 3139](../Regi%20decreti/Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), potra' essere disposto soltanto su mutui anche non ipotecari concessi dalla Sezione di credito agrario dell'Istituto federale con fondi diversi da quelli di cui all'articolo precedente. 
+Il concorso dello Stato nel pagamento degli interessi ai sensi del disposto dell'[art. 3 del R. decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), potra' essere disposto soltanto su mutui anche non ipotecari concessi dalla Sezione di credito agrario dell'Istituto federale con fondi diversi da quelli di cui all'articolo precedente. 
  
  Sono autorizzati a partecipare all'aumento del capitale della detta Sezione anche in deroga a disposizioni di leggi, statuti e regolamenti, l'Istituto nazionale delle assicurazioni, la Cassa nazionale delle assicurazioni sociali, la Cassa nazionale per gli infortuni degli operai sul lavoro e ogni altro istituto di assicurazione. 
  

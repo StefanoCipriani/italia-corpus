@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto legislativo 27 maggio 1946, n. 436](../Regi%20decreti%20legislativi/Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md);
+Visto il [regio decreto legislativo 27 maggio 1946, n. 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per le finanze, di concerto con quelli per la grazia
 
 ## Articolo unico.
 
-Per la riscossione dei profitti eccezionali di speculazione, di cui all'[art. 18 del regio decreto legislativo 27 maggio 1946, n. 436](../Regi%20decreti%20legislativi/Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), l'intendente di finanza, su domanda del debitore, puo' disporre che il pagamento venga eseguito, in unica soluzione, mediante versamento diretto in tesoreria, fissandone il termine.
+Per la riscossione dei profitti eccezionali di speculazione, di cui all'[art. 18 del regio decreto legislativo 27 maggio 1946, n. 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), l'intendente di finanza, su domanda del debitore, puo' disporre che il pagamento venga eseguito, in unica soluzione, mediante versamento diretto in tesoreria, fissandone il termine.
  Qualora il debitore non versi alla scadenza stabilita la somma dovuta, l'Intendente di finanza ordina all'Ufficio distrettuale di formare un ruolo straordinario, riscuotibile in sei rate bimestrali con le norme dell'ultimo comma del citato art. 18.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

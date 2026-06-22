@@ -12,9 +12,9 @@ vigente: true
 
 Sono convalidati; 
  
- a) fino al giorno della pubblicazione della presente legge il [regio decreto del 4 agosto 1887, n. 4813](../Regi%20decreti/Che%20autorizza%20limportazione%20temporanea%20del%20riso%20con%20lolla%20destinato%20alla%20esportazione%20dopo%20la%20lavorazione%20e%20fissa%20le%20norme%20da%20seguirsi.%20087U4813.md) (serie 3ª), che stabilisce le discipline per l'importazione temporanea del riso con lolla, destinato alla riesportazione dopo la lavorazione; 
+ a) fino al giorno della pubblicazione della presente legge il [regio decreto del 4 agosto 1887, n. 4813](Che%20autorizza%20limportazione%20temporanea%20del%20riso%20con%20lolla%20destinato%20alla%20esportazione%20dopo%20la%20lavorazione%20e%20fissa%20le%20norme%20da%20seguirsi.%20087U4813.md) (serie 3ª), che stabilisce le discipline per l'importazione temporanea del riso con lolla, destinato alla riesportazione dopo la lavorazione; 
  
- b) il [regio decreto dell'8 marzo 1888, numero 5239](../Regi%20decreti/Che%20modifica%20i%20dazi%20inscritti%20nella%20Tariffa%20generale%20per%20le%20dogane%20alla%20voce%20269.%20088U5239.md) (serie 3ª), che modifica i dazi sul riso stabiliti dal n. 269 della tariffa generale per le dogane, approvata con la [legge del 14 luglio 1887, n. 4703](Che%20riforma%20la%20tariffa%20doganale.%20087U4703.md) (serie 3ª).
+ b) il [regio decreto dell'8 marzo 1888, numero 5239](Che%20modifica%20i%20dazi%20inscritti%20nella%20Tariffa%20generale%20per%20le%20dogane%20alla%20voce%20269.%20088U5239.md) (serie 3ª), che modifica i dazi sul riso stabiliti dal n. 269 della tariffa generale per le dogane, approvata con la [legge del 14 luglio 1887, n. 4703](Che%20riforma%20la%20tariffa%20doganale.%20087U4703.md) (serie 3ª).
 
 ## Art. 2.
 
@@ -80,7 +80,7 @@ I risi semi-greggi importati temporaneamente per la lavorazione e la riesportazi
 
 ## Art. 13.
 
-Per l'esecuzione delle disposizioni contenute nei precedenti articoli saranno osservate le norme stabilite dal titolo I del regolamento sulle importazioni ed esportazioni temporanee, approvato con [R. decreto del 2 febbraio 1890, n. 6622](../Regi%20decreti/Che%20approva%20lunito%20regolamento%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20090U6622.md) (serie 3ª).
+Per l'esecuzione delle disposizioni contenute nei precedenti articoli saranno osservate le norme stabilite dal titolo I del regolamento sulle importazioni ed esportazioni temporanee, approvato con [R. decreto del 2 febbraio 1890, n. 6622](Che%20approva%20lunito%20regolamento%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20090U6622.md) (serie 3ª).
 
 ## Art. 14.
 
@@ -100,7 +100,7 @@ Il reggimento doganale, stabilito dalla presente legge, restera' in vigore al 31
 
 ## Art. 16.
 
-Tutte le operazioni di importazione temporanea di riso iniziate prima della promulgazione della presente legge dovranno essere compiute, anche dopo che essa sara' entrata in vigore, conformemente al [regio decreto del 4 agosto 1887, n. 4813](../Regi%20decreti/Che%20autorizza%20limportazione%20temporanea%20del%20riso%20con%20lolla%20destinato%20alla%20esportazione%20dopo%20la%20lavorazione%20e%20fissa%20le%20norme%20da%20seguirsi.%20087U4813.md) (serie 3ª).
+Tutte le operazioni di importazione temporanea di riso iniziate prima della promulgazione della presente legge dovranno essere compiute, anche dopo che essa sara' entrata in vigore, conformemente al [regio decreto del 4 agosto 1887, n. 4813](Che%20autorizza%20limportazione%20temporanea%20del%20riso%20con%20lolla%20destinato%20alla%20esportazione%20dopo%20la%20lavorazione%20e%20fissa%20le%20norme%20da%20seguirsi.%20087U4813.md) (serie 3ª).
 
 ## Art. 17.
 

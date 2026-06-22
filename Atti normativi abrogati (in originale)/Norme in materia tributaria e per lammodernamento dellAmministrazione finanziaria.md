@@ -28,7 +28,7 @@ Titolo I
 
 1.
 
-L'ammontare della detrazione di cui al comma 1 dell'articolo 13 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' elevato per l'anno 1988 a lire 516 mila.
+L'ammontare della detrazione di cui al comma 1 dell'articolo 13 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' elevato per l'anno 1988 a lire 516 mila.
 
 2.
 
@@ -42,11 +42,11 @@ Ai fini dell'imposta sul reddito delle persone fisiche, la detrazione per il con
 
 2.
 
-L'ammontare della detrazione di cui al comma 1 cosi' come stabilito alla lettera a) del comma 1 dell'articolo 12 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' ulteriormente elevato, per l'anno 1988, a lire 462 mila.
+L'ammontare della detrazione di cui al comma 1 cosi' come stabilito alla lettera a) del comma 1 dell'articolo 12 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' ulteriormente elevato, per l'anno 1988, a lire 462 mila.
 
 3.
 
-Il limite di reddito di cui al comma 4 dell'articolo 12 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' elevato a lire 4 milioni a partire dall'anno 1988.
+Il limite di reddito di cui al comma 4 dell'articolo 12 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' elevato a lire 4 milioni a partire dall'anno 1988.
 
 ### Art. 3.
 
@@ -129,13 +129,13 @@ Fino alla data del 31 dicembre 1988:
                             b)
                                 per la determinazione dei compensi di lavoro dipendente e degli altri componenti ammessi in diminuzione a norma dei [commi 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853#art_2-com9) e [10 dell'articolo 2 del decreto-legge 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853#art_2-com10), convertito, con modificazioni, dalla [legge 17 febbraio 1985, n. 17](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201984%20n.%20853%20recante%20disposizioni%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20imposte%20sul%20reddito%20e%20disposizioni%20rel_0b6b4cacfea3.md), continuano ad applicarsi le disposizioni del [decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md);
                             c)
-                                ai fini delle plusvalenze da computare in aumento a norma del secondo periodo del comma 9 dell'articolo 2 del predetto [decreto-legge n. 853 del 1984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984;853), si applica, in luogo della esclusione ivi prevista, la disposizione dell'articolo 54, comma 4, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md);
+                                ai fini delle plusvalenze da computare in aumento a norma del secondo periodo del comma 9 dell'articolo 2 del predetto [decreto-legge n. 853 del 1984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984;853), si applica, in luogo della esclusione ivi prevista, la disposizione dell'articolo 54, comma 4, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md);
                             d)
                                 continuano ad applicarsi per gli enti non commerciali le disposizioni degli articoli 72 e 72- bis del citato decreto n. 597 del 1973.
 
 7.
 
-Fino alla stessa data del 31 dicembre 1988 e' sospesa l'applicazione degli articoli 50, comma 7, 79 e 80 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md); e' altresi' sospesa, nei confronti dei contribuenti che fruiscono del regime di determinazione forfetaria del reddito a norma del presente decreto, l'applicazione della disposizione concernente i redditi derivanti dall'esercizio di attivita' organizzate prevalentemente con il lavoro del contribuente e dei suoi familiari contenuta nell'articolo 51, comma 2, lettera a), del predetto testo unico.
+Fino alla stessa data del 31 dicembre 1988 e' sospesa l'applicazione degli articoli 50, comma 7, 79 e 80 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md); e' altresi' sospesa, nei confronti dei contribuenti che fruiscono del regime di determinazione forfetaria del reddito a norma del presente decreto, l'applicazione della disposizione concernente i redditi derivanti dall'esercizio di attivita' organizzate prevalentemente con il lavoro del contribuente e dei suoi familiari contenuta nell'articolo 51, comma 2, lettera a), del predetto testo unico.
 
 ### Art. 7.
 
@@ -151,13 +151,13 @@ Nel [comma 9 dell'articolo 3 del decreto-legge 19 dicembre 1984, n. 853](https:/
 
 1.
 
-I termini previsti per le dichiarazioni ed i versamenti da parte delle regioni, province, comuni e loro consorzi e dai consorzi di cui al [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), agli effetti dell'imposta sul valore aggiunto e delle imposte sui redditi per i periodi di imposta chiusi anteriormente al 1 gennaio 1988, sono differiti al 30 giugno 1988. Fino alla stessa data sono differiti anche i termini previsti per la fatturazione, la registrazione e per l'adempimento di tutti gli altri obblighi inerenti alle operazioni delle quali si deve tener conto nelle suddette dichiarazioni; a tal fine gli obblighi di fatturazione, di registrazione e gli altri obblighi relativi alle suddette operazioni si intendono comunque gia' adempiuti se le operazioni stesse risultano dalla contabilita' prescritta per gli enti pubblici territoriali.
+I termini previsti per le dichiarazioni ed i versamenti da parte delle regioni, province, comuni e loro consorzi e dai consorzi di cui al [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), agli effetti dell'imposta sul valore aggiunto e delle imposte sui redditi per i periodi di imposta chiusi anteriormente al 1 gennaio 1988, sono differiti al 30 giugno 1988. Fino alla stessa data sono differiti anche i termini previsti per la fatturazione, la registrazione e per l'adempimento di tutti gli altri obblighi inerenti alle operazioni delle quali si deve tener conto nelle suddette dichiarazioni; a tal fine gli obblighi di fatturazione, di registrazione e gli altri obblighi relativi alle suddette operazioni si intendono comunque gia' adempiuti se le operazioni stesse risultano dalla contabilita' prescritta per gli enti pubblici territoriali.
 
 ### Art. 9.
 
 1.
 
-I contratti di compravendita a contanti, a termine, pronti contro termine e di riporto aventi ad oggetto titoli di Stato o garantiti dallo Stato per un valore nominale non inferiore a 5 miliardi di lire, conclusi tra i soggetti ammessi a partecipare alle aste dei buoni ordinari del Tesoro, sono assoggettati alla tassa prevista dal [regio decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive modificazioni ed integrazioni, nelle seguenti misure per ogni contratto:
+I contratti di compravendita a contanti, a termine, pronti contro termine e di riporto aventi ad oggetto titoli di Stato o garantiti dallo Stato per un valore nominale non inferiore a 5 miliardi di lire, conclusi tra i soggetti ammessi a partecipare alle aste dei buoni ordinari del Tesoro, sono assoggettati alla tassa prevista dal [regio decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive modificazioni ed integrazioni, nelle seguenti misure per ogni contratto:
 
  Valore
  nominale Contratti Contratti a termine, pronti c/termine

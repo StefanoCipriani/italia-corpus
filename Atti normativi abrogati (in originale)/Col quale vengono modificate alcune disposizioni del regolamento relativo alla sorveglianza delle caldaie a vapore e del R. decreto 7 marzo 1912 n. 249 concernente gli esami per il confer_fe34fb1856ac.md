@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le visite interne od esterne degli apparecchi a vapore, da eseguirsi entro l'anno 1916, possono essere compiute in qualsiasi epoca dell'anno stesso, indipendentemente dai termini fissati dagli [articoli 30](../Regi%20decreti/Che%20approva%20lunito%20regolamento%20per%20lesercizio%20e%20per%20la%20sorveglianza%20delle%20caldaie%20e%20recipienti%20di%20vapore.%20007U0646.md), [31](../Regi%20decreti/Che%20approva%20lunito%20regolamento%20per%20lesercizio%20e%20per%20la%20sorveglianza%20delle%20caldaie%20e%20recipienti%20di%20vapore.%20007U0646.md) e [32 del R. decreto 17 agosto 1907, n. 646](../Regi%20decreti/Che%20approva%20lunito%20regolamento%20per%20lesercizio%20e%20per%20la%20sorveglianza%20delle%20caldaie%20e%20recipienti%20di%20vapore.%20007U0646.md).
+Le visite interne od esterne degli apparecchi a vapore, da eseguirsi entro l'anno 1916, possono essere compiute in qualsiasi epoca dell'anno stesso, indipendentemente dai termini fissati dagli [articoli 30](Che%20approva%20lunito%20regolamento%20per%20lesercizio%20e%20per%20la%20sorveglianza%20delle%20caldaie%20e%20recipienti%20di%20vapore.%20007U0646.md), [31](Che%20approva%20lunito%20regolamento%20per%20lesercizio%20e%20per%20la%20sorveglianza%20delle%20caldaie%20e%20recipienti%20di%20vapore.%20007U0646.md) e [32 del R. decreto 17 agosto 1907, n. 646](Che%20approva%20lunito%20regolamento%20per%20lesercizio%20e%20per%20la%20sorveglianza%20delle%20caldaie%20e%20recipienti%20di%20vapore.%20007U0646.md).
 
 ## Art. 2.
 

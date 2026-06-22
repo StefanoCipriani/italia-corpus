@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la grazia e giustizia, di concerto con il Minist
 
 ## Articolo unico.
 
-La Sezione distaccata di Corte di appello, istituita temporaneamente in Lucera con [regio decreto-legge 20 gennaio 1944, n. 27](Temporanea%20istituzione%20in%20Lucera%20di%20una%20Sezione%20distaccata%20di%20Corte%20dAppello.%20044U0027.md), e soppressa con [decreto legislativo luogotenenziale 26 ottobre 1945, n. 782](../Decreti%20legislativi%20luogotenenziali/Soppressione%20della%20Sezione%20di%20Corte%20dappello%20di%20Lucera.%20045U0782.md), cessa definitivamente di funzionare col 30 aprile 1947.
+La Sezione distaccata di Corte di appello, istituita temporaneamente in Lucera con [regio decreto-legge 20 gennaio 1944, n. 27](Temporanea%20istituzione%20in%20Lucera%20di%20una%20Sezione%20distaccata%20di%20Corte%20dAppello.%20044U0027.md), e soppressa con [decreto legislativo luogotenenziale 26 ottobre 1945, n. 782](Soppressione%20della%20Sezione%20di%20Corte%20dappello%20di%20Lucera.%20045U0782.md), cessa definitivamente di funzionare col 30 aprile 1947.
  Gli affari civili e penali ancora pendenti alla data predetta, sono di ufficio e nello stato in cui si trovano - devoluti alla cognizione della Corte di appello di Bari.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

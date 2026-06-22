@@ -63,8 +63,8 @@ Le prove di esame consisteranno in due prove scritte, in una prova orale ed in u
  Le prove scritte verteranno nelle seguenti materie:
  1) svolgimento di un tema di cultura generale;
  2) svolgimento di un tema di cultura professionale sulle seguenti materie:
- a) [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) (dell'azione penale in generale - Attribuzioni e compiti della polizia giudiziaria - Cenni sull'ordinamento giudiziario);
- b) [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e relativo regolamento.
+ a) [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) (dell'azione penale in generale - Attribuzioni e compiti della polizia giudiziaria - Cenni sull'ordinamento giudiziario);
+ b) [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e relativo regolamento.
  Le prove orali verteranno, oltre che sulle materie delle prove scritte, sulle seguenti altre materie:
  3) [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) (disposizioni sull'applicazione delle leggi in generale e libro I);
  4) nozioni sui principali reati militari:

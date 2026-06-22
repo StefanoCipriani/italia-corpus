@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'[art. 39 del regio decreto-legge 19 ottobre 1938, n. 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-10-19;1933#art_39), sul lotto pubblico, convertito, con modificazioni, nella [legge 5 giugno 1939, n. 973](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20ottobre%201938-XVI%20n.%201933%20riguardante%20la%20riforma%20delle%20leggi%20sul%20lotto%20pubblico.%20039U0973.md);
 
-Visto il [decreto legislativo luogotenenziale 22 febbraio 1945, n. 69](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20una%20lotteria%20nazionale.%20045U0069.md);
+Visto il [decreto legislativo luogotenenziale 22 febbraio 1945, n. 69](Istituzione%20di%20una%20lotteria%20nazionale.%20045U0069.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

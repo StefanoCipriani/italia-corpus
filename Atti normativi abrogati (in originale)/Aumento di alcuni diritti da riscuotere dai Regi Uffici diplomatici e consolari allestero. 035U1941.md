@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 10 agosto 1890, n. 7087](../Regi%20decreti/Che%20determina%20i%20diritti%20da%20riscuotersi%20nei%20regi%20uffici%20diplomatici%20e%20consolari%20allestero%20secondo%20lannessa%20tabella.%20090U7087.md), che ha approvato la vigente tariffa consolare e l'[art. 7 della legge 13 giugno 1910, n. 306](Per%20le%20convenzioni%20provvisorie%20e%20definitive%20pei%20servizi%20postali%20e%20commerciali%20marittimi%20ed%20altri%20provvedimenti%20a%20favore%20delle%20industrie%20marittime.%20010U0306.md), che ha soppressi i diritti stabiliti ai paragrafi 41, 42, 43, 44, 45, 46, 47, 48, 51 e 53 della tariffa stessa;
+Visto il [R. decreto 10 agosto 1890, n. 7087](Che%20determina%20i%20diritti%20da%20riscuotersi%20nei%20regi%20uffici%20diplomatici%20e%20consolari%20allestero%20secondo%20lannessa%20tabella.%20090U7087.md), che ha approvato la vigente tariffa consolare e l'[art. 7 della legge 13 giugno 1910, n. 306](Per%20le%20convenzioni%20provvisorie%20e%20definitive%20pei%20servizi%20postali%20e%20commerciali%20marittimi%20ed%20altri%20provvedimenti%20a%20favore%20delle%20industrie%20marittime.%20010U0306.md), che ha soppressi i diritti stabiliti ai paragrafi 41, 42, 43, 44, 45, 46, 47, 48, 51 e 53 della tariffa stessa;
 
 Visto il R. decreto-legge 2 ottobre 1919, convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), che modifica la tariffa consolare;
 
-Visto il [R. decreto 30 settembre 1920, n. 1927](../Regi%20decreti/Che%20detta%20norme%20circa%20lapplicazione%20della%20tariffa%20consolare.%20020U1927.md), relativo alla tassazione degli atti riguardanti sudditi esteri;
+Visto il [R. decreto 30 settembre 1920, n. 1927](Che%20detta%20norme%20circa%20lapplicazione%20della%20tariffa%20consolare.%20020U1927.md), relativo alla tassazione degli atti riguardanti sudditi esteri;
 
 Visto il [R. decreto-legge 15 febbraio 1925, n. 390](Ripristino%20di%20determinati%20diritti%20stabiliti%20dalla%20vigente%20tariffa%20consolare.%20025U0390.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), riguardante i diritti stabiliti nella sezione 5ª della tariffa consolare;
 

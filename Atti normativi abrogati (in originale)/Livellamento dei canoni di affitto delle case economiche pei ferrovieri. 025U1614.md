@@ -20,7 +20,7 @@ Vista la [legge 13 aprile 1911, n. 310](Che%20approva%20le%20modificazioni%20all
 
 Vista la [legge 19 giugno 1913, n. 641](Riguardante%20lOpera%20di%20previdenza%20ed%20altri%20provvedimenti%20a%20favore%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20013U0641.md), riguardante provvedimenti a favore del personale ferroviario;
 
-Visto il [R. decreto 25 febbraio 1915, n. 412](../Regi%20decreti/Che%20approva%20il%20nuovo%20regolamento%20relativo%20alle%20case%20economiche%20per%20i%20ferrovieri.%20015U0412.md), che approva il nuovo regolamento per le case economiche pei ferrovieri;
+Visto il [R. decreto 25 febbraio 1915, n. 412](Che%20approva%20il%20nuovo%20regolamento%20relativo%20alle%20case%20economiche%20per%20i%20ferrovieri.%20015U0412.md), che approva il nuovo regolamento per le case economiche pei ferrovieri;
 
 Visto il Nostro decreto 27 novembre 1919, n. 2350, autorizzante l'Amministrazione delle ferrovie dello Stato ad investire una parte dei fondi della gestione pensione e sussidi per la costruzione di case economiche;
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-Il complesso dei canoni di affitto delle case economiche pei ferrovieri deve almeno pareggiare l'importo degli interessi dei capitali investiti nella costruzione delle medesime, delle spese per la manutenzione ordinaria e straordinaria, delle imposte e sovrimposte attuali, della quota di cui all'art. 5 del regolamento per le case anzidette approvato con [R. decreto 25 febbraio 1915, n. 412](../Regi%20decreti/Che%20approva%20il%20nuovo%20regolamento%20relativo%20alle%20case%20economiche%20per%20i%20ferrovieri.%20015U0412.md), delle spese di amministrazione, di custodia, di illuminazione, di acqua potabile e di riscaldamento, nonche' di una quota necessaria ad avvicinare gradualmente i fitti delle case economiche pei ferrovieri a quelli pagati nelle case similari di proprieta' privata. 
+Il complesso dei canoni di affitto delle case economiche pei ferrovieri deve almeno pareggiare l'importo degli interessi dei capitali investiti nella costruzione delle medesime, delle spese per la manutenzione ordinaria e straordinaria, delle imposte e sovrimposte attuali, della quota di cui all'art. 5 del regolamento per le case anzidette approvato con [R. decreto 25 febbraio 1915, n. 412](Che%20approva%20il%20nuovo%20regolamento%20relativo%20alle%20case%20economiche%20per%20i%20ferrovieri.%20015U0412.md), delle spese di amministrazione, di custodia, di illuminazione, di acqua potabile e di riscaldamento, nonche' di una quota necessaria ad avvicinare gradualmente i fitti delle case economiche pei ferrovieri a quelli pagati nelle case similari di proprieta' privata. 
  
  Gli avanzi di gestione saranno destinati alla costruzione di nuove case.
 

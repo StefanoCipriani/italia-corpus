@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Vista la [legge in data 16 aprile 1916, n. 429](La%20quale%20converte%20in%20legge%20il%20R.%20decreto%203%20settembre%201914%20n.%201008%20che%20vieta%20la%20navigazione%20aerea%20in%20qualunque%20punto%20del%20territorio%20dello%20Stato%20nelle%20colonie%20e%20nel%20mare%20territoriale.%20016U0429.md), che converte in legge il [R. decreto 3 settembre 1914, n. 1008](../Regi%20decreti/Da%20convertirsi%20in%20legge%20col%20quale%20e%20vietata%20la%20navigazione%20aerea%20su%20qualunque%20punto%20del%20territorio%20dello%20Stato%20delle%20colonie%20e%20del%20mare%20territoriale.%20014U1008.md), che vieta la navigazione aerea in qualunque punto del territorio dello Stato, nello colonie e nel mare territoriale; 
+ Vista la [legge in data 16 aprile 1916, n. 429](La%20quale%20converte%20in%20legge%20il%20R.%20decreto%203%20settembre%201914%20n.%201008%20che%20vieta%20la%20navigazione%20aerea%20in%20qualunque%20punto%20del%20territorio%20dello%20Stato%20nelle%20colonie%20e%20nel%20mare%20territoriale.%20016U0429.md), che converte in legge il [R. decreto 3 settembre 1914, n. 1008](Da%20convertirsi%20in%20legge%20col%20quale%20e%20vietata%20la%20navigazione%20aerea%20su%20qualunque%20punto%20del%20territorio%20dello%20Stato%20delle%20colonie%20e%20del%20mare%20territoriale.%20014U1008.md), che vieta la navigazione aerea in qualunque punto del territorio dello Stato, nello colonie e nel mare territoriale; 
  
  Visto il [decreto-legge Luogotenenziale in data 30 giugno 1919, n. 1233](che%20istituisce%20presso%20il%20Ministero%20dei%20trasporti%20marittimi%20e%20ferroviari%20una%20Direzione%20generale%20e%20una%20Commissione%20consultiva%20per%20laeronautica%20determinando%20le%20loro%20rispettive%20attribuzioni%20e_7d43d80afad4.md), che istituisce presso il Ministero dei trasporti marittimi e ferroviari la Direzione getierale per l'aeronautica; 
  
@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  Art. 1. 
  
- Il [R. decreto 3 settembre 1914, n. 1008](../Regi%20decreti/Da%20convertirsi%20in%20legge%20col%20quale%20e%20vietata%20la%20navigazione%20aerea%20su%20qualunque%20punto%20del%20territorio%20dello%20Stato%20delle%20colonie%20e%20del%20mare%20territoriale.%20014U1008.md), convertito in [legge 16 aprile 1916, n. 429](La%20quale%20converte%20in%20legge%20il%20R.%20decreto%203%20settembre%201914%20n.%201008%20che%20vieta%20la%20navigazione%20aerea%20in%20qualunque%20punto%20del%20territorio%20dello%20Stato%20nelle%20colonie%20e%20nel%20mare%20territoriale.%20016U0429.md), che vieta la navigazione aerea in qualunque punto del territorio dello Stato, nelle colonie e nel mare territoriale, e' abrogato.
+ Il [R. decreto 3 settembre 1914, n. 1008](Da%20convertirsi%20in%20legge%20col%20quale%20e%20vietata%20la%20navigazione%20aerea%20su%20qualunque%20punto%20del%20territorio%20dello%20Stato%20delle%20colonie%20e%20del%20mare%20territoriale.%20014U1008.md), convertito in [legge 16 aprile 1916, n. 429](La%20quale%20converte%20in%20legge%20il%20R.%20decreto%203%20settembre%201914%20n.%201008%20che%20vieta%20la%20navigazione%20aerea%20in%20qualunque%20punto%20del%20territorio%20dello%20Stato%20nelle%20colonie%20e%20nel%20mare%20territoriale.%20016U0429.md), che vieta la navigazione aerea in qualunque punto del territorio dello Stato, nelle colonie e nel mare territoriale, e' abrogato.
 
 ## Art. 2.
 
@@ -54,7 +54,7 @@ Le aeromobili in servizio militare per la guerra e per la marina non sono sogget
 
 ## Art. 6.
 
-Senza pregiudizio delle pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dalle leggi militari e finanziarie, ogni infrazione alle disposizioni contenute negli articoli 2, 3 e 4 del presente decreto, e' punibile con la multa ed L. 500 fino a L. 2000 e salva, nei casi piu' gravi ed in quelli di recidiva, l'applicazione dell'arresto fino ad un mese. 
+Senza pregiudizio delle pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dalle leggi militari e finanziarie, ogni infrazione alle disposizioni contenute negli articoli 2, 3 e 4 del presente decreto, e' punibile con la multa ed L. 500 fino a L. 2000 e salva, nei casi piu' gravi ed in quelli di recidiva, l'applicazione dell'arresto fino ad un mese. 
  
  Tali pene sono applicabili separatamente o cumulativamente secondo le circostanze. 
  

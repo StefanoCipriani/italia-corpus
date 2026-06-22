@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [decreto legislativo luogotenenziale 16 maggio 1945, n. 287](../Decreti%20legislativi%20luogotenenziali/Costituzione%20provvisoria%20degli%20organi%20per%20il%20funzionamento%20dellIstituto%20centrale%20di%20statistica.%20045U0287.md), sulla sostituzione provvisoria degli organi per il funzionamento dell'istituto centrale di statistica.
+Visto il [decreto legislativo luogotenenziale 16 maggio 1945, n. 287](Costituzione%20provvisoria%20degli%20organi%20per%20il%20funzionamento%20dellIstituto%20centrale%20di%20statistica.%20045U0287.md), sulla sostituzione provvisoria degli organi per il funzionamento dell'istituto centrale di statistica.
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

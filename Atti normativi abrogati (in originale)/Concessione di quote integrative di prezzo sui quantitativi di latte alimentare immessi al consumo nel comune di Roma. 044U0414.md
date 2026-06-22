@@ -50,7 +50,7 @@ Il Ministro per il tesoro e' autorizzato a provvedere, con propri decreti, alle 
 
 ## Art. 3.
 
-E' abrogato il [R. decreto-legge 16 novembre 1941, n. 1339](Pagamento%20a%20carico%20del%20bilancio%20dello%20Stato%20di%20una%20quota%20di%20integrazione%20a%20favore%20dei%20produttori%20delle%20provincie%20dl%20Roma%20Littoria%20Frosinone%20e%20Viterbo%20per%20ogni%20litro%20di%20latte%20alimentare%20im_3ae21d47de8d.md), convertito in [legge 12 febbraio 1942, n. 170](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20novembre%201941-XX%20n.%201339%20concernente%20il%20pagamento%20a%20carico%20del%20bilancio%20dello%20Stato%20di%20una%20quota%20di%20integrazione%20a%20favore%20dei%20produttori%20delle_09a0c973cb68.md).
+E' abrogato il [R. decreto-legge 16 novembre 1941, n. 1339](Pagamento%20a%20carico%20del%20bilancio%20dello%20Stato%20di%20una%20quota%20di%20integrazione%20a%20favore%20dei%20produttori%20delle%20provincie%20dl%20Roma%20Littoria%20Frosinone%20e%20Viterbo%20per%20ogni%20litro%20di%20latte%20alimentare%20im_3ae21d47de8d.md), convertito in [legge 12 febbraio 1942, n. 170](Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20novembre%201941-XX%20n.%201339%20concernente%20il%20pagamento%20a%20carico%20del%20bilancio%20dello%20Stato%20di%20una%20quota%20di%20integrazione%20a%20favore%20dei%20produttori%20delle_09a0c973cb68.md).
 
 ## Art. 4.
 

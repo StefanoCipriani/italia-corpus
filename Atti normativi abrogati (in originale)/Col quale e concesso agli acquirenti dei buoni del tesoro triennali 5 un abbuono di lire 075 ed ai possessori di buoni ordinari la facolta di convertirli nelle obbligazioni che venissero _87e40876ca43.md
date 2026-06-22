@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-A coloro che dal 2 gennaio 1917 acquisteranno buoni del tesoro con scadenza a tre anni, creati col [R. decreto 5 maggio 1916, n. 505](../Regi%20decreti/Riguardante%20lemissione%20di%20buoni%20del%20tesoro%20triennali%20e%20quinquennali.%20016U0505.md), fruttanti l'interesse annuo del 5%, sara' concesso un abbuono di L. 0,75 per ogni cento lire dell'importo capitale dei buoni.
+A coloro che dal 2 gennaio 1917 acquisteranno buoni del tesoro con scadenza a tre anni, creati col [R. decreto 5 maggio 1916, n. 505](Riguardante%20lemissione%20di%20buoni%20del%20tesoro%20triennali%20e%20quinquennali.%20016U0505.md), fruttanti l'interesse annuo del 5%, sara' concesso un abbuono di L. 0,75 per ogni cento lire dell'importo capitale dei buoni.
 
 ## Art. 2.
 

@@ -14,7 +14,7 @@ Visto il testo unico delle leggi sui pesi e sulle misure, approvato con [regio d
 
 Visto il regolamento per la fabbricazione dei pesi e delle misure, approvato con [regio decreto 12 giugno 1902, n. 226](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20fabbricazione%20dei%20pesi%20delle%20misure%20e%20degli%20strumenti%20per%20pesare%20e%20misurare.%20002U0226.md);
 
-Visto il [regio decreto 20 ottobre 1911, n. 1170](../Regi%20decreti/Che%20ammette%20alla%20verificazione%20prima%20e%20periodica%20speciali%20bilancie%20automatiche%20computatrici%20del%20peso%20e%20del%20prezzo%20delle%20merci.%20011U1170.md), col quale sono ammesse alla verificazione metrica bilance automatiche computatrici del peso e del prezzo delle merci;
+Visto il [regio decreto 20 ottobre 1911, n. 1170](Che%20ammette%20alla%20verificazione%20prima%20e%20periodica%20speciali%20bilancie%20automatiche%20computatrici%20del%20peso%20e%20del%20prezzo%20delle%20merci.%20011U1170.md), col quale sono ammesse alla verificazione metrica bilance automatiche computatrici del peso e del prezzo delle merci;
 
 Vista la [legge 17 luglio 1954, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-17;600), con la quale sono state apportate variazioni ai diritti metrici;
 

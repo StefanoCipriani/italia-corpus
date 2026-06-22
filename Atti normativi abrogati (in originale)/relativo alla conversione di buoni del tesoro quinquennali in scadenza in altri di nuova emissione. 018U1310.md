@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- E' data facolta' al ministro del tesoro di concedere, a condizioni da determinarsi, un abbuono non superiore a centesimi cinquanta, oltre a quello di cui all'[articolo 3 del R. decreto 5 maggio 1916, n. 505](../Regi%20decreti/Riguardante%20lemissione%20di%20buoni%20del%20tesoro%20triennali%20e%20quinquennali.%20016U0505.md), per ogni 100 lire dell'importo capitale dei buoni del tesoro quinquennali che saranno acquistati mediante versamento a scadenza, di buoni quinquennali 4 per cento e triennali e quinquennali 5 per cento, a cominciare da quelli che andranno a scadere il 10 ottobre 1918. 
+ E' data facolta' al ministro del tesoro di concedere, a condizioni da determinarsi, un abbuono non superiore a centesimi cinquanta, oltre a quello di cui all'[articolo 3 del R. decreto 5 maggio 1916, n. 505](Riguardante%20lemissione%20di%20buoni%20del%20tesoro%20triennali%20e%20quinquennali.%20016U0505.md), per ogni 100 lire dell'importo capitale dei buoni del tesoro quinquennali che saranno acquistati mediante versamento a scadenza, di buoni quinquennali 4 per cento e triennali e quinquennali 5 per cento, a cominciare da quelli che andranno a scadere il 10 ottobre 1918. 
  
  Il ministro del tesoro ha altresi' facolta' di concedere, parimenti a condizioni da stabilirsi; che la decorrenza degli interessi dei buoni del tesoro quinquennali alienati a norma del comma precedente venga conteggiata dal giorno della scadenza effettiva dei buoni versati anche quando il versamento avvenga dopo tale scadenza. 
  

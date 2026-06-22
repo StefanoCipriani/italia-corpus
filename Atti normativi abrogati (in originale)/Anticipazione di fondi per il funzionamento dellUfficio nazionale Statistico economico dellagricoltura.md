@@ -28,7 +28,7 @@ E' autorizzata l'iscrizione, nella parte straordinaria dello stato di previsione
 ## Art. 2.
 
 Le somme corrisposte a termini dell'articolo precedente saranno restituite dall' U.N.S.E.A. all'Erario dello Stato con prelevamenti sul ricavo della quota funzionale sui prodotti ammassati che sara' disposta a favore dello stesso U.N.S.E.A., nei termine e secondo le modalita' da determinarsi con decreto del Ministro per l'agricoltura e le foreste, di concerto con il Ministro per il tesoro.
- A garanzia della restituzione del presente finanziamento, si intendono estese nei confronti dell' U.N.S.E.A. a favore dell' Erario, le disposizioni di cui alla [art. 15 del decreto legislativo luogotenenziale 26 aprile 1945, n. 367](../Decreti%20legislativi%20luogotenenziali/Istituzione%20dellUfficio%20nazionale%20statistico%20economico%20dellagricoltura%20e%20soppressione%20degli%20Enti%20economici%20dellagricoltura%20e%20della%20loro%20associazione.%20045U0367.md).
+ A garanzia della restituzione del presente finanziamento, si intendono estese nei confronti dell' U.N.S.E.A. a favore dell' Erario, le disposizioni di cui alla [art. 15 del decreto legislativo luogotenenziale 26 aprile 1945, n. 367](Istituzione%20dellUfficio%20nazionale%20statistico%20economico%20dellagricoltura%20e%20soppressione%20degli%20Enti%20economici%20dellagricoltura%20e%20della%20loro%20associazione.%20045U0367.md).
 
 ## Art. 3.
 

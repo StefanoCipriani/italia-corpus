@@ -22,7 +22,7 @@ UMBERTO I
  
  Articolo unico. 
  
- E' data forza di legge al [R. decreto del 26 luglio 1877, n. 4009](../Regi%20decreti/Che%20approva%20una%20convenzione%20addizionale%20a%20quella%20del%204%20febbraio%201877%20pei%20servizi%20postali%20e%20commerciali%20marittimi.%20077U4009.md) (Serie 2ª), col quale fu approvata la Convenzione stipulata il 19 detto fra i Ministri dei Lavori Pubblici e delle Finanze col commendatore Ignazio Florio, addizionale a quella del 4 febbraio 1877, approvata per legge del 15 successivo giugno, n. 3880 (Serie 2ª). 
+ E' data forza di legge al [R. decreto del 26 luglio 1877, n. 4009](Che%20approva%20una%20convenzione%20addizionale%20a%20quella%20del%204%20febbraio%201877%20pei%20servizi%20postali%20e%20commerciali%20marittimi.%20077U4009.md) (Serie 2ª), col quale fu approvata la Convenzione stipulata il 19 detto fra i Ministri dei Lavori Pubblici e delle Finanze col commendatore Ignazio Florio, addizionale a quella del 4 febbraio 1877, approvata per legge del 15 successivo giugno, n. 3880 (Serie 2ª). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Quando i delitti indicati negli [articoli 246](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [247 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e 6 della legge sui reati commessi con materie esplodenti sono commessi per mezzo della stampa, o di qualsiasi altro segno figurativo di cui e' cenno nell'art. 1° della legge 26 marzo 1848, si applicheranno al colpevole le pene stabilite nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) con 1'aumento di una meta'.
+Quando i delitti indicati negli [articoli 246](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [247 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e 6 della legge sui reati commessi con materie esplodenti sono commessi per mezzo della stampa, o di qualsiasi altro segno figurativo di cui e' cenno nell'art. 1° della legge 26 marzo 1848, si applicheranno al colpevole le pene stabilite nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) con 1'aumento di una meta'.
 
 ## Art. 2.
 

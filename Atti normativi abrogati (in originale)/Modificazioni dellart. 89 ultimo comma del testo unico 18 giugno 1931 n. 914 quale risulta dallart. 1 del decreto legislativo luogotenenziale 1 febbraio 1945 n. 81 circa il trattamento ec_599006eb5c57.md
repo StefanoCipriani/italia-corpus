@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico sull'ordinamento del Corpo equipaggi marittimi e sullo stato giuridico dei sottufficiali della Marina, approvato con [regio decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni;
+Visto il testo unico sull'ordinamento del Corpo equipaggi marittimi e sullo stato giuridico dei sottufficiali della Marina, approvato con [regio decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni;
 
-Visto il [decreto legislativo luogotenenziale 1° febbraio 1945, n. 81](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allordinamento%20del%20C.R.E.M.%20ed%20allo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20045U0081.md);
+Visto il [decreto legislativo luogotenenziale 1° febbraio 1945, n. 81](Modificazioni%20allordinamento%20del%20C.R.E.M.%20ed%20allo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20045U0081.md);
 
 Visto il [decreto legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Art. 1.
 
-L'ultimo comma dell'art. 89 del testo unico approvato con [regio decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni, quale risulta dall'[art. 1 del decreto legislativo luogotenenziale 1° febbraio 1945, n. 81](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allordinamento%20del%20C.R.E.M.%20ed%20allo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20045U0081.md), e' abrogato e sostituito dal seguente:
+L'ultimo comma dell'art. 89 del testo unico approvato con [regio decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni, quale risulta dall'[art. 1 del decreto legislativo luogotenenziale 1° febbraio 1945, n. 81](Modificazioni%20allordinamento%20del%20C.R.E.M.%20ed%20allo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20045U0081.md), e' abrogato e sostituito dal seguente:
  Art. 89 - ultimo comma - Il sottufficiale sospeso dall'impiego ha diritto alla meta' dello stipendio, o paga, dell'indennita' militare e dell'indennita' di carovita.
 
 ## Art. 2.

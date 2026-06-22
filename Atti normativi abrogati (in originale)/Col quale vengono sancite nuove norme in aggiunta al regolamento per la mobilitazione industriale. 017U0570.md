@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'art. 2° del regolamento per l'applicazione del [R. decreto 26 giugno 1915, n. 993](../Regi%20decreti/Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md), modificato col [decreto Luogotenenziale 12 ottobre 1916, n. 1747](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-12;1747), e' aggiunto il seguente capoverso: 
+All'art. 2° del regolamento per l'applicazione del [R. decreto 26 giugno 1915, n. 993](Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md), modificato col [decreto Luogotenenziale 12 ottobre 1916, n. 1747](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-12;1747), e' aggiunto il seguente capoverso: 
  
  « Con le norme indicate per la scelta dei quattro rappresentanti degli industriali e degli operai potranno essere aggregati a ciascun Comitato regionale un rappresentante industriale ed un rappresentante operaio, per ogni gruppo di nuove industrie assoggettate alla mobilitazione industriale. 
  

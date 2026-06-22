@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visti gli articoli 336 e 337 del Codice postale e delle telecomunicazioni, approvato con [R. decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
-Visti gli [articoli 2](../Regi%20decreti/Modificazioni%20al%20Libro%20III%20della%20legge%20postale%20e%20delle%20telecomunicazioni%20e%20al%20relativo%20regolamento%20di%20esecuzione.%20042U1553.md) e [5 del R. decreto 24 ottobre 1942, n. 1553](../Regi%20decreti/Modificazioni%20al%20Libro%20III%20della%20legge%20postale%20e%20delle%20telecomunicazioni%20e%20al%20relativo%20regolamento%20di%20esecuzione.%20042U1553.md);
+Visti gli [articoli 2](Modificazioni%20al%20Libro%20III%20della%20legge%20postale%20e%20delle%20telecomunicazioni%20e%20al%20relativo%20regolamento%20di%20esecuzione.%20042U1553.md) e [5 del R. decreto 24 ottobre 1942, n. 1553](Modificazioni%20al%20Libro%20III%20della%20legge%20postale%20e%20delle%20telecomunicazioni%20e%20al%20relativo%20regolamento%20di%20esecuzione.%20042U1553.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro Segretario di Stato per le comunicazioni, d'intesa c
 
 ## Art. 1.
 
-L'art. 336 del Codice postale e delle telecomunicazioni, modificato dall'[art. 2 del R. decreto 24 ottobre 1942, n. 1553](../Regi%20decreti/Modificazioni%20al%20Libro%20III%20della%20legge%20postale%20e%20delle%20telecomunicazioni%20e%20al%20relativo%20regolamento%20di%20esecuzione.%20042U1553.md), e' sostituito dal seguente: 
+L'art. 336 del Codice postale e delle telecomunicazioni, modificato dall'[art. 2 del R. decreto 24 ottobre 1942, n. 1553](Modificazioni%20al%20Libro%20III%20della%20legge%20postale%20e%20delle%20telecomunicazioni%20e%20al%20relativo%20regolamento%20di%20esecuzione.%20042U1553.md), e' sostituito dal seguente: 
  
  « La Commissione centrale e' costituita dai seguenti membri: 
  

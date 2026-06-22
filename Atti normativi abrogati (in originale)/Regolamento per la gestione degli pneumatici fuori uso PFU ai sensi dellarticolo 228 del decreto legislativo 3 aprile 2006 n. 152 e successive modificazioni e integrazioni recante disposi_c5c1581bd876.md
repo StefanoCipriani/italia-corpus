@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELL'AMBIENTE E DELLA TUTELA DEL TERRITORIO E DEL MARE
 
-Visto il [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) e successive modificazioni e integrazioni, recante "Norme in materia ambientale";
+Visto il [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) e successive modificazioni e integrazioni, recante "Norme in materia ambientale";
 
 Visto, in particolare, l'articolo 228 del predetto decreto legislativo con il quale sono disciplinati i tempi e le modalita' di attuazione per ottimizzare il recupero degli pneumatici fuori uso, per ridurne la formazione anche attraverso la ricostruzione e secondo quanto disposto dagli articoli 179 e 180;
 
@@ -44,13 +44,13 @@ Sono esclusi dagli obblighi previsti dal presente decreto:
 
 3.
 
-Agli pneumatici montati su veicoli per i quali sia applicabile il [decreto legislativo 24 giugno 2003, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202000-53-CE%20relativa%20ai%20veicoli%20fuori%20uso.md) o il disposto dell'[articolo 231 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) si applica quanto disposto dall'articolo 7.
+Agli pneumatici montati su veicoli per i quali sia applicabile il [decreto legislativo 24 giugno 2003, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202000-53-CE%20relativa%20ai%20veicoli%20fuori%20uso.md) o il disposto dell'[articolo 231 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) si applica quanto disposto dall'articolo 7.
 
 Avvertenza: 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art.10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n.1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art.10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n.1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE). 
  Note alle premesse: 
- Il testo degli [artt. 228](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), [179](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) e [180 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), recante "Norme in materia ambientale", pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88, (S.O.)., e' il seguente: 
+ Il testo degli [artt. 228](../Codici/Norme%20in%20materia%20ambientale.md), [179](../Codici/Norme%20in%20materia%20ambientale.md) e [180 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), recante "Norme in materia ambientale", pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88, (S.O.)., e' il seguente: 
  "Art. 228. Pneumatici fuori uso. 
  1. Fermo restando il disposto di cui al [decreto legislativo 24 giugno 2003, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202000-53-CE%20relativa%20ai%20veicoli%20fuori%20uso.md), nonche' il disposto di cui agli articoli 179 e 180 del presente decreto, al fine di garantire il perseguimento di finalita' di tutela ambientale secondo le migliori tecniche disponibili, ottimizzando, anche tramite attivita' di ricerca, sviluppo e formazione, il recupero dei pneumatici fuori uso e per ridurne la formazione anche attraverso la ricostruzione e' fatto obbligo ai produttori e importatori di pneumatici di provvedere, singolarmente o in forma associata e con periodicita' almeno annuale, alla gestione di quantitativi di pneumatici fuori uso pari a quelli dai medesimi immessi sul mercato e destinati alla vendita sul territorio nazionale, provvedendo anche ad attivita' di ricerca, sviluppo e formazione finalizzata ad ottimizzare la gestione dei pneumatici fuori uso nel rispetto dell'articolo 177, comma 1. 
  2. Con decreto del Ministro dell'ambiente e della tutela del territorio, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, da emanarsi nel termine di giorni centoventi dalla data di entrata in vigore della parte quarta del presente decreto, sono disciplinati i tempi e le modalita' attuative dell'obbligo di cui al comma 1. In tutte le fasi della commercializzazione dei pneumatici e' indicato in fattura il contributo a carico degli utenti finali necessario, anche in relazione alle diverse tipologie di pneumatici, per far fronte agli oneri derivanti dall'obbligo di cui al comma 1. 
@@ -157,7 +157,7 @@ I produttori e importatori di pneumatici adempiono all'obbligo di cui all'artico
 
 2.
 
-Alla societa' consortile i produttori e importatori aderenti comunicano, nei tempi e con le modalita' da definirsi autonomamente, i dati di cui all'articolo 3, comma 2, e trasferiscono il contributo di cui all'[articolo 228, comma 2, del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), con cadenza mensile e conguaglio da effettuare entro il 31 maggio di ogni anno. L'avvenuto trasferimento alla struttura societaria consortile di detto contributo nel termine sopra indicato, da comunicarsi senza dilazione all'autorita' competente unitamente alla copia della documentazione relativa ai versamenti effettuati, costituisce, per il produttore e per l'importatore degli pneumatici, adempimento degli obblighi di gestione posti a suo carico con esonero da ogni relativa responsabilita'.
+Alla societa' consortile i produttori e importatori aderenti comunicano, nei tempi e con le modalita' da definirsi autonomamente, i dati di cui all'articolo 3, comma 2, e trasferiscono il contributo di cui all'[articolo 228, comma 2, del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), con cadenza mensile e conguaglio da effettuare entro il 31 maggio di ogni anno. L'avvenuto trasferimento alla struttura societaria consortile di detto contributo nel termine sopra indicato, da comunicarsi senza dilazione all'autorita' competente unitamente alla copia della documentazione relativa ai versamenti effettuati, costituisce, per il produttore e per l'importatore degli pneumatici, adempimento degli obblighi di gestione posti a suo carico con esonero da ogni relativa responsabilita'.
 
 3.
 
@@ -168,13 +168,13 @@ I soggetti di cui al comma 1, non appena costituiti, danno immediata comunicazio
 Annualmente i produttori, gli importatori e le societa' consortili eventualmente costituite inviano all'autorita' competente copia del bilancio di esercizio, corredata di relazione sul raggiungimento degli obiettivi programmati.
 
 Note all'art. 4: 
- L'articolo 228 del citato [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) e' riportato nelle note alle premesse.
+ L'articolo 228 del citato [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) e' riportato nelle note alle premesse.
 
 ## Art. 5. — Contributo ambientale per la gestione degli PFU
 
 1.
 
-Il contributo di cui al [comma 2 dell'articolo 228 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) e' determinato in misura tale da assicurare in modo completo e nel rispetto del [comma 1 dell'articolo 228 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), la copertura dei costi della gestione di cui all'articolo 2, comma 1, lett. e), al fine di prevenire e ridurre gli impatti negativi per la salute umana e l'ambiente.
+Il contributo di cui al [comma 2 dell'articolo 228 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) e' determinato in misura tale da assicurare in modo completo e nel rispetto del [comma 1 dell'articolo 228 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), la copertura dei costi della gestione di cui all'articolo 2, comma 1, lett. e), al fine di prevenire e ridurre gli impatti negativi per la salute umana e l'ambiente.
 
 2.
 
@@ -193,7 +193,7 @@ In tutte le fasi di commercializzazione dello pneumatico nel mercato del ricambi
 Agli adempimenti attribuiti ai produttori e agli importatori degli pneumatici previsti nel presente articolo, provvede la struttura operativa associata in caso di costituzione della stessa.
 
 Note all'art. 5: 
- L'articolo 228 del citato [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) e' riportato nelle note alle premesse.
+ L'articolo 228 del citato [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) e' riportato nelle note alle premesse.
 
 ## Art. 6. — Sanzioni
 
@@ -324,14 +324,14 @@ Ai fini del presente decreto, una quantita' di pneumatici nuovi pari in peso a c
 
 5.
 
-A decorrere dal novantesimo giorno dall'entrata in vigore del presente regolamento sara' applicato il contributo di cui all'[articolo 228, comma 2, del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md).
+A decorrere dal novantesimo giorno dall'entrata in vigore del presente regolamento sara' applicato il contributo di cui all'[articolo 228, comma 2, del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md).
 
 6.
 
 Il presente decreto entra in vigore il giorno successivo alla sua pubblicazione sulla Gazzetta Ufficiale.
 
 Note all'art. 9: 
- L'articolo 228 del citato [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) e' riportato nelle note alle premesse.
+ L'articolo 228 del citato [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) e' riportato nelle note alle premesse.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e farlo osservare.
 

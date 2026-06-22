@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto il decreto Reale 9 ottobre 1919, n. 2161, sulle derivazioni e utilizzazioni d'acque pubbliche; 
  
- Visti il testo unico delle leggi sull'ordinamento del corpo Reale del genio civile, approvato con [R. decreto 3 settembre 1908, n. 532](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-09-03;532) e il regolamento per l'ordinamento del Consiglio superiore dei lavori pubblici approvato con [R. decreto 16 settembre 1906, numero 541](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20lordinamento%20interno%20del%20Consiglio%20superiore%20dei%20lavori%20pubblici.%20006U0541.md); 
+ Visti il testo unico delle leggi sull'ordinamento del corpo Reale del genio civile, approvato con [R. decreto 3 settembre 1908, n. 532](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-09-03;532) e il regolamento per l'ordinamento del Consiglio superiore dei lavori pubblici approvato con [R. decreto 16 settembre 1906, numero 541](Che%20approva%20lannesso%20regolamento%20per%20lordinamento%20interno%20del%20Consiglio%20superiore%20dei%20lavori%20pubblici.%20006U0541.md); 
  
  Visto il [decreto Luogotenenziale 26 gennaio 1919, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-01-26;86), istitutivo della Commissione centrale per le sistemazioni idraulico forestali e per le bonifiche; 
  

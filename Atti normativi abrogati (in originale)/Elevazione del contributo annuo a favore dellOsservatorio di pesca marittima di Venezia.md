@@ -12,13 +12,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
- Visto il [regio decreto 8 aprile 1939, n. 844](../Regi%20decreti/Istituzione%20di%20un%20Osservatorio%20di%20pesca%20marittima%20in%20Venezia.%20039U0844.md);
+ Visto il [regio decreto 8 aprile 1939, n. 844](Istituzione%20di%20un%20Osservatorio%20di%20pesca%20marittima%20in%20Venezia.%20039U0844.md);
  Udito il parere del Consiglio di Stato;
  Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto col Ministro per il tesoro;
 
  Decreta:
 
- Il contributo annuo di L. 40.000 previsto dall'[art. 3 del regio decreto 8 aprile 1939, n. 844](../Regi%20decreti/Istituzione%20di%20un%20Osservatorio%20di%20pesca%20marittima%20in%20Venezia.%20039U0844.md), a favore dell'Osservatorio di pesca marittima di Venezia per un periodo di dieci anni, e cioe' fino a tutto l'esercizio finanziario 1948-1949, e' elevato a partire dall'esercizio 1946-1947, a L. 320.000.
+ Il contributo annuo di L. 40.000 previsto dall'[art. 3 del regio decreto 8 aprile 1939, n. 844](Istituzione%20di%20un%20Osservatorio%20di%20pesca%20marittima%20in%20Venezia.%20039U0844.md), a favore dell'Osservatorio di pesca marittima di Venezia per un periodo di dieci anni, e cioe' fino a tutto l'esercizio finanziario 1948-1949, e' elevato a partire dall'esercizio 1946-1947, a L. 320.000.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

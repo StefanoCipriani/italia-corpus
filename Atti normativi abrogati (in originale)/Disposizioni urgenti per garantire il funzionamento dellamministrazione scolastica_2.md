@@ -33,7 +33,7 @@ La durata in carica dei consigli scolastici provinciali e dei consigli scolastic
 
 3.
 
-In attesa dell'organica riforma degli Istituti regionali di ricerca, sperimentazione ed aggiornamento educativi (I.R.R.S.A.E.), i comandi previsti dall'articolo 294 del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), possono essere ulteriomente rinnovati per l'anno scolastico 1996-97, previa motivata richiesta del consiglio direttivo dei predetti enti.
+In attesa dell'organica riforma degli Istituti regionali di ricerca, sperimentazione ed aggiornamento educativi (I.R.R.S.A.E.), i comandi previsti dall'articolo 294 del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), possono essere ulteriomente rinnovati per l'anno scolastico 1996-97, previa motivata richiesta del consiglio direttivo dei predetti enti.
 
 ## Art. 2.
 
@@ -50,7 +50,7 @@ Alla [legge 11 gennaio 1996, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:n
  "4-bis. Le disposizioni di cui ai commi 1 e 2 hanno effetto a decorrere dall'esercizio finanziario successivo a quello in corso alla data di entrata in vigore della presente legge.";
                         b)
                             all'articolo 12 il comma 2 e' sostituito dal seguente:
- " 2. Per gli uffici scolastici provinciali e regionali, alle province competono le spese di cui agli articoli 613, comma 3, e 614, comma 4, del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md). Le altre spese di funzionamento dei predetti uffici sono a carico dello Stato, che vi provvede con gli ordinari stanziamenti di bilancio.".
+ " 2. Per gli uffici scolastici provinciali e regionali, alle province competono le spese di cui agli articoli 613, comma 3, e 614, comma 4, del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md). Le altre spese di funzionamento dei predetti uffici sono a carico dello Stato, che vi provvede con gli ordinari stanziamenti di bilancio.".
 
 ## Art. 3.
 

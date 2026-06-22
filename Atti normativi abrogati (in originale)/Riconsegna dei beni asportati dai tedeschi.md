@@ -169,7 +169,7 @@ Chiunque, essendo in possesso di alcuno dei beni recuperati non ancora definitiv
 
 ## Art. 26.
 
-La falsa testimonianza, la falsa perizia o interpretazione, la frode processuale e la subordinazione commesse nel procedimento di cui all'art. 9 o in relazione allo stesso, sono punite secondo le disposizioni degli articoli 372, 373, 374, primo comma. 376, [secondo comma e art. 377 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+La falsa testimonianza, la falsa perizia o interpretazione, la frode processuale e la subordinazione commesse nel procedimento di cui all'art. 9 o in relazione allo stesso, sono punite secondo le disposizioni degli articoli 372, 373, 374, primo comma. 376, [secondo comma e art. 377 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 27.
 

@@ -94,7 +94,7 @@ Quando il reclamo del possesso dei beni mobili proviene da chi si qualifica ered
 
 ## Art. 10.
 
-La persona cui viene attribuita la qualita' di possessore temporaneo avra', verso le cose affidategli, gli stessi obblighi del depositario necessario di cui all'[art. 1864 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1864) e le eventuali appropriazioni saranno punite ai sensi dell'[art. 417 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+La persona cui viene attribuita la qualita' di possessore temporaneo avra', verso le cose affidategli, gli stessi obblighi del depositario necessario di cui all'[art. 1864 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1864) e le eventuali appropriazioni saranno punite ai sensi dell'[art. 417 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  L'immissione temporanea di cui nel precedente articolo diventa definitiva dopo sei mesi, se l'erede sia ascendente o discendente del defunto o di chi si presume defunto, dopo un anno negli altri casi, quando nel tempo intermedio nessun reclamo sia stato presentato.
 
@@ -172,7 +172,7 @@ Tutte le autorita' civili e militari del Regno debbono prestarsi a fornire alla 
  
  I cittadini possono essere invitati anche d'ufficio a deporre come testimoni e a prestare l'opera come periti. I testimoni ed i periti possono essere sentiti con giuramento; anche gli interessati possono essere obbligati a prestare giuramento sui fatti che formano oggetto di controversia e di indagini. 
  
- Ai testimoni e ai periti sono applicabili le disposizioni degli [articoli 210](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [214](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [215](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [216](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [217 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e a chi li suborni o tenti di subornarli si applicano le disposizioni degli articoli 218, 219, 220 dello stesso Codice. Alle parti intese con giuramento e' applicabile la disposizione dell'art. 221 del Codice suddetto.
+ Ai testimoni e ai periti sono applicabili le disposizioni degli [articoli 210](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [214](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [215](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [216](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [217 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e a chi li suborni o tenti di subornarli si applicano le disposizioni degli articoli 218, 219, 220 dello stesso Codice. Alle parti intese con giuramento e' applicabile la disposizione dell'art. 221 del Codice suddetto.
 
 ## Art. 21.
 

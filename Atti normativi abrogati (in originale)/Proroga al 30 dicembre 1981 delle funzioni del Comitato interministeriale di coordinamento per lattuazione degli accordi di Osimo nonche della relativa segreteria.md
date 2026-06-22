@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Le funzioni del comitato costituito con decreto 30 dicembre 1975 del Presidente del Consiglio dei Ministri, con i compiti indicati nell'[articolo 7 della legge 14 marzo 1977, n. 73](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20trattato%20tra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20socialista%20federativa%20di%20Jugoslavia%20con%20allegati%20nonche%20dellaccordo%20tra%20le%20stesse%20Parti%20con%20allegati%20dellatt_8956da0d08cf.md), e quelle della relativa segreteria sono prorogate di un biennio a far data dal 30 dicembre 1979.
+Le funzioni del comitato costituito con decreto 30 dicembre 1975 del Presidente del Consiglio dei Ministri, con i compiti indicati nell'[articolo 7 della legge 14 marzo 1977, n. 73](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20trattato%20tra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20socialista%20federativa%20di%20Jugoslavia%20con%20allegati%20nonche%20dellaccordo%20tra%20le%20stesse%20Parti%20con%20allegati%20dellatt_8956da0d08cf.md), e quelle della relativa segreteria sono prorogate di un biennio a far data dal 30 dicembre 1979.
 
 ## Art. 2.
 

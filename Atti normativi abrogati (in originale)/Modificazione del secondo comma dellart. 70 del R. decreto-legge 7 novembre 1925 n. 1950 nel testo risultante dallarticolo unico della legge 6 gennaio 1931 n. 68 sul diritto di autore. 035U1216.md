@@ -18,7 +18,7 @@ L'eventuale maggiore estensione della durata del diritto di autore. sancita dall
 
 ## Art. 3.
 
-I cessionari degli autori e dei loro eredi o legatari in forza di cessioni assolute di diritti di autore stipulate sotto il regine del testo unico approvato con [R. decreto 19 settembre 1882, n. 1012](../Regi%20decreti/Approva%20il%20testo%20unico%20delle%20leggi%20sui%20diritti%20dautore.%20082U1012.md), hanno la facolta', dietro pagamento agli autori od ai loro eredi o legatari di un corrispettivo adeguato, di continuare nell'esercizio dei diritti esclusivi per l'eventuale maggiore estensione della durata del diritto di autore di cui all'art. 2. 
+I cessionari degli autori e dei loro eredi o legatari in forza di cessioni assolute di diritti di autore stipulate sotto il regine del testo unico approvato con [R. decreto 19 settembre 1882, n. 1012](Approva%20il%20testo%20unico%20delle%20leggi%20sui%20diritti%20dautore.%20082U1012.md), hanno la facolta', dietro pagamento agli autori od ai loro eredi o legatari di un corrispettivo adeguato, di continuare nell'esercizio dei diritti esclusivi per l'eventuale maggiore estensione della durata del diritto di autore di cui all'art. 2. 
  
  La facolta' prevista nel precedente comma non puo' essere dai cessionari esercitata nei riguardi dei diritti di rappresentazione e di esecuzione qualora, entro un anno dalla scadenza del termine di durata dei diritti stessi di cui al testo unico suddetto, gli eredi o legatari degli autori abbiano dichiarato di voler riprendere la disponibilita' dell'opera. 
  
@@ -32,7 +32,7 @@ L'ammontare del corrispettivo e ogni altra modalita' di esercizio del diritto di
 
 ## Art. 5.
 
-Il cessionario che intenda avvalersi delle facolta' di cui all'art. 3 della presente legge, dovra' almeno tre mesi prima della scadenza del periodo di diritto esclusivo di cui al testo unico approvato con [R. decreto 19 settembre 1882, n. 1012](../Regi%20decreti/Approva%20il%20testo%20unico%20delle%20leggi%20sui%20diritti%20dautore.%20082U1012.md), darne comunicazione all'autore o ai suoi eredi e legatari. 
+Il cessionario che intenda avvalersi delle facolta' di cui all'art. 3 della presente legge, dovra' almeno tre mesi prima della scadenza del periodo di diritto esclusivo di cui al testo unico approvato con [R. decreto 19 settembre 1882, n. 1012](Approva%20il%20testo%20unico%20delle%20leggi%20sui%20diritti%20dautore.%20082U1012.md), darne comunicazione all'autore o ai suoi eredi e legatari. 
  
  Se il periodo esclusivo sia gia' scaduto o venga a scadere entro tre mesi dall'entrata in vigore della presente legge, la comunicazione di cui sopra dovra' essere fatta entro tre mesi dall'entrata in vigore della legge medesima. 
  

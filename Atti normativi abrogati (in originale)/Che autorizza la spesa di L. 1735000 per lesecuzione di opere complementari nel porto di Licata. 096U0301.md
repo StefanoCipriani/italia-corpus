@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' autorizzata la spesa di L. 1,735,000 per l'esecuzione di opere complementari nel porto di Licata, le quali sono dichiarate di pubblica utilita' ed obbligatorie agli effetti dell'art. 13, capoverso 1° del testo unico delle leggi sui porti, spiagge e fari, approvato col [R. decreto 2 aprile 1885 n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md). 
+E' autorizzata la spesa di L. 1,735,000 per l'esecuzione di opere complementari nel porto di Licata, le quali sono dichiarate di pubblica utilita' ed obbligatorie agli effetti dell'art. 13, capoverso 1° del testo unico delle leggi sui porti, spiagge e fari, approvato col [R. decreto 2 aprile 1885 n. 3095](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md). 
  
  Tale spesa da stanziarsi nel bilancio del Ministero dei Lavori Pubblici, sara' ripartita, secondo il progressivo sviluppo dei lavori, in sei esercizi finanziari, a cominciare dal 1896-97 e s'imputera' al fondo degl'imprevisti di cui al n. 38 della tabella annessa alla [legge 14 luglio 1889 n. 6280](Che%20autorizza%20la%20spesa%20di%20lire%2064416000%20per%20la%20esecuzione%20delle%20opere%20marittime%20e%20lacuali%20indicate%20nellannessa%20tabella.%20089U6280.md) per l'esecuzione di nuovo opere marittime e lacuali.
 

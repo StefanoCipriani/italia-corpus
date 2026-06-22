@@ -30,7 +30,7 @@ Quando intervenga uno soltanto dei ministri, spetta ad esso la presidenza.
 
 ## Art. 3.
 
-Le disposizioni del reggimento speciale per l'Amministrazione centrale della guerra, approvato con [R. decreto 28 aprile 1910, n. 219](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20lAmministrazione%20centrale%20della%20guerra.%20010U0219.md), sono applicabili al Ministero por guerra o a quello per le armi o munizioni, in quanto non siano contrarie alle disposizioni del presente decreto.
+Le disposizioni del reggimento speciale per l'Amministrazione centrale della guerra, approvato con [R. decreto 28 aprile 1910, n. 219](Che%20approva%20lannesso%20regolamento%20speciale%20per%20lAmministrazione%20centrale%20della%20guerra.%20010U0219.md), sono applicabili al Ministero por guerra o a quello per le armi o munizioni, in quanto non siano contrarie alle disposizioni del presente decreto.
 
 ## Art. 4.
 

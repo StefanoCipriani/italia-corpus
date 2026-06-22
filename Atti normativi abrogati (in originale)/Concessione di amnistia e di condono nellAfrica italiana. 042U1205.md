@@ -36,13 +36,13 @@ Fuori dei casi preveduti dall'articolo precedente, sono condonate le pene detent
 
 L'amnistia ed il condono di cui ai precedenti articoli non si applicano: 
  
- 1) ai delitti dolosi contro la personalita' dello Stato preveduti dal titolo primo, libro secondo, del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 1) ai delitti dolosi contro la personalita' dello Stato preveduti dal titolo primo, libro secondo, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  2) ai reati preveduti dal R. decreto 31 ottobre 1941-XX, n. 1369, recante disposizioni penali per la disciplina in Libia della produzione, dell'approvvigionamento, del commercio e consumo delle merci, dei servizi e di altre prestazioni, dai provvedimenti da questo sostituiti, dai corrispondenti provvedimenti emanati nell'Africa Orientale Italiana e dall'art. 37-bis della legge 1° novembre 1940-XIX, n. 1782; 
  
  3) ai delitti nei quali ricorra la circostanza aggravante speciale preveduta dal R. decreto 13 settembre 1940-XVIII, n. 1874; 
  
- 4) ai delitti preveduti dal titolo decimo, libro secondo, del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ed al delitto preveduto dall'art. 578 dello stesso Codice; 
+ 4) ai delitti preveduti dal titolo decimo, libro secondo, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ed al delitto preveduto dall'art. 578 dello stesso Codice; 
  
  5) ai reati esclusivamente militari; ai reati preveduti dalla legge penale militare che corrispondono a quelli indicati nei numeri precedenti ; 
  

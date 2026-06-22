@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 24 settembre 1923, n. 2123](Modificazioni%20alle%20condizioni%20e%20tariffe%20dei%20trasporti%20sulle%20ferrovie%20dello%20Stato.%20023U2123.md);
 
-Visto il [R. decreto 10 settembre 1923, n. 2641](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20vigenti%20in%20materia%20di%20tariffe%20ferroviarie.%20023U2641.md);
+Visto il [R. decreto 10 settembre 1923, n. 2641](Modificazioni%20alle%20disposizioni%20vigenti%20in%20materia%20di%20tariffe%20ferroviarie.%20023U2641.md);
 
 Visto il [R. decreto-legge 22 maggio 1924, n. 868](Istituzione%20del%20Consiglio%20di%20amministrazione%20e%20della%20carica%20di%20direttore%20generale%20per%20le%20Ferrovie%20dello%20Stato.%20024U0868.md);
 

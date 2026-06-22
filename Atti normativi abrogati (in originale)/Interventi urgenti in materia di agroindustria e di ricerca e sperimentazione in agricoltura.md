@@ -63,7 +63,7 @@ I.S.A. S.p.A iscrivera' nelle proprie scritture contabili le poste patrimoniali,
 
 7.
 
-Le operazioni di trasferimento di cui ai commi 1 e 2 sono esenti da imposte dirette ed indirette e da tasse in base a quanto disposto dall'[articolo 4, comma 2, del decreto legislativo 9 gennaio 1999, n. 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20degli%20enti%20e%20delle%20societa%20di%20promozione%20e%20istituzione%20della%20societa%20Sviluppo%20Italia%20a%20norma%20degli%20articoli%2011%20e%2014%20della%20legge%2015%20marzo%201997%20n.%2059.md).
+Le operazioni di trasferimento di cui ai commi 1 e 2 sono esenti da imposte dirette ed indirette e da tasse in base a quanto disposto dall'[articolo 4, comma 2, del decreto legislativo 9 gennaio 1999, n. 1](../Decreti%20Legislativi/Riordino%20degli%20enti%20e%20delle%20societa%20di%20promozione%20e%20istituzione%20della%20societa%20Sviluppo%20Italia%20a%20norma%20degli%20articoli%2011%20e%2014%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 8.
 

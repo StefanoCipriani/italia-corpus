@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione media tecnica;
- Visto il [regio decreto 24 luglio 1938, n. 1742](../Regi%20decreti/Modificazioni%20agli%20statuti%20e%20tabelle%20organiche%20di%20n.%2022%20Regie%20scuole%20tecniche%20a%20indirizzo%20commerciale.%20038U1742.md), con il quale viene approvata la tabella organica della Scuola tecnica industriale di Chiavari;
+ Visto il [regio decreto 24 luglio 1938, n. 1742](Modificazioni%20agli%20statuti%20e%20tabelle%20organiche%20di%20n.%2022%20Regie%20scuole%20tecniche%20a%20indirizzo%20commerciale.%20038U1742.md), con il quale viene approvata la tabella organica della Scuola tecnica industriale di Chiavari;
  Considerata l'opportunita' di trasformare, per esigenze di servizio, il posto di segretario economo incaricato previsto dalla suddetta tabella organica in posto di segretario economo di ruolo;
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;
 

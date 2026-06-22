@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I [Regi decreti in data 25 settembre 1911, n. 1265](../Regi%20decreti/Indennita%20di%20personale%20navigante%20in%20servizio%20aereonautico%20011U1265.md), [10 marzo 1912, n. 280](../Regi%20decreti/Modificazioni%20al%20regolamento%20nautico-aeronautico.%20012U0280.md), [6 luglio 1912, n. 873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-07-06;873), [9 luglio 1914, n. 806, con il regolamento](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1914-07-09;806) e le tabelle annesse, sono, per quanto riguarda il servizio aeronautico del R. esercito, abrogati e sostituiti dal presente decreto. - Sono parimenti aboliti i premi di L. 100 e 250 stabiliti dall'[art. 3 del decreto Ministeriale 31 ottobre 1915, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1915-10-31;23#art_3).
+I [Regi decreti in data 25 settembre 1911, n. 1265](Indennita%20di%20personale%20navigante%20in%20servizio%20aereonautico%20011U1265.md), [10 marzo 1912, n. 280](Modificazioni%20al%20regolamento%20nautico-aeronautico.%20012U0280.md), [6 luglio 1912, n. 873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-07-06;873), [9 luglio 1914, n. 806, con il regolamento](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1914-07-09;806) e le tabelle annesse, sono, per quanto riguarda il servizio aeronautico del R. esercito, abrogati e sostituiti dal presente decreto. - Sono parimenti aboliti i premi di L. 100 e 250 stabiliti dall'[art. 3 del decreto Ministeriale 31 ottobre 1915, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1915-10-31;23#art_3).
 
 ## Art. 2.
 

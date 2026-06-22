@@ -20,7 +20,7 @@ Ritenuta la necessita' urgente ed assoluta di disciplinare ed incrementare la pr
 
 Visto l'[art. 3, n. 2 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 10 aprile 1936, n. 859](../Regi%20decreti/Riconoscimento%20giuridico%20ed%20approvazione%20dello%20statuto%20dellAssociazione%20nazionale%20coltivatori%20piante%20erbacee%20oleaginose.%20036U0859.md), col quale fu concesso il riconoscimento giuridico, a norma ed agli effetti della [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), e del relativo [regolamento 1° luglio 1926, n. 1130](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1926-07-01;1130), all'Associazione Nazionale Coltivatori Piante Erbacee Oleaginose (A.N.C.P.E.O.) e ne fu approvato lo statuto;
+Visto il [R. decreto 10 aprile 1936, n. 859](Riconoscimento%20giuridico%20ed%20approvazione%20dello%20statuto%20dellAssociazione%20nazionale%20coltivatori%20piante%20erbacee%20oleaginose.%20036U0859.md), col quale fu concesso il riconoscimento giuridico, a norma ed agli effetti della [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), e del relativo [regolamento 1° luglio 1926, n. 1130](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1926-07-01;1130), all'Associazione Nazionale Coltivatori Piante Erbacee Oleaginose (A.N.C.P.E.O.) e ne fu approvato lo statuto;
 
 Udito il Consiglio dei Ministri;
 

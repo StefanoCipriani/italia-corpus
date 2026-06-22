@@ -14,9 +14,9 @@ Visto il decreto 27 maggio 1946 del Ministro per l'agricoltura e foreste, recant
 
 Visto il [regio decreto-legge 22 aprile 1943, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-22;245), recante norme penali sulla disciplina dei consumi e successive modificazioni;
 
-Visto il [decreto legislativo luogotenenziale 8 giugno 1945, n. 354](../Decreti%20legislativi%20luogotenenziali/Norme%20penali%20relative%20alla%20disciplina%20del%20conferimento%20del%20grano%20e%20dellorzo.%20045U0354.md), recante norme penali relative alla disciplina del conferimento del grano e dell'orzo;
+Visto il [decreto legislativo luogotenenziale 8 giugno 1945, n. 354](Norme%20penali%20relative%20alla%20disciplina%20del%20conferimento%20del%20grano%20e%20dellorzo.%20045U0354.md), recante norme penali relative alla disciplina del conferimento del grano e dell'orzo;
 
-Visti il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), e i [decreti legislativi luogotenenziali 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md) e [16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
+Visti il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), e i [decreti legislativi luogotenenziali 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md) e [16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ Le disposizioni penali in vigore per la consegna del grano e dell'orzo ai granai
 
 ## Art. 2.
 
-Le pene comminate per i reati previsti nel [regio decreto-legge 22 aprile 1943, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-22;245) e successive modificazioni, e nel [decreto legislativo luogotenenziale 4 luglio 1944, n. 153](../Decreti%20legislativi%20luogotenenziali/Norme%20penali%20relative%20alla%20disciplina%20del%20conferimento%20del%20grano%20e%20dellorzo%20del%20raccolto%201944.%20044U0153.md), sono elevate al triplo, allorquando il cereale vincolato sia trasportato o destinato al trasporto fuori del territorio nazionale.
+Le pene comminate per i reati previsti nel [regio decreto-legge 22 aprile 1943, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-22;245) e successive modificazioni, e nel [decreto legislativo luogotenenziale 4 luglio 1944, n. 153](Norme%20penali%20relative%20alla%20disciplina%20del%20conferimento%20del%20grano%20e%20dellorzo%20del%20raccolto%201944.%20044U0153.md), sono elevate al triplo, allorquando il cereale vincolato sia trasportato o destinato al trasporto fuori del territorio nazionale.
 
 ## Art. 3.
 

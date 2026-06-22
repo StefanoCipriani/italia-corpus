@@ -14,7 +14,7 @@ per graziai di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'art. 4 della legge 1.° ottobre 1839, approvativa di un nuovo [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare ;
+Visto l'art. 4 della legge 1.° ottobre 1839, approvativa di un nuovo [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare ;
 
 Visti gli articoli 296, 299, 300, 275, 280, 283 di detto Codice che prescrivono l'istituzione di un Tribunale Supremo di Guerra e di un Tribunale militare permanente in ogni Capo-luogo di Divisione militare territoriale, e viene assegnato il Personale civile addetto al Pubblico Ministero ed alle Segreterie presso i medesimi;
 

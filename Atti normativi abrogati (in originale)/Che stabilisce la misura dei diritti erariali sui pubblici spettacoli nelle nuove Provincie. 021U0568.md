@@ -38,7 +38,7 @@ Gli impresari degli spettacoli di cui al precedente art. 1 hanno l'obbligo di te
 
 ## Art. 4.
 
-Alla Societa' italiana degli autori con sede in Milano eretta in Ente morale col [R. decreto 1° febbraio 1891, n. 53](../Regi%20decreti/Che%20erige%20in%20ente%20morale%20la%20societa%20italiana%20degli%20autori%20per%20la%20tutela%20della%20proprieta%20letteraria%20ed%20artistica%20con%20sede%20in%20Milano%20e%20ne%20approva%20lo%20statuto.%209100053R.md), e' conferito l'incarico di riscuotere per conto dello Stato il diritto erariale di cui al precedente art. 1, per il tempo ed alle condizioni risultanti dalla convenzione allegata al [R. decreto 23 gennaio 1921, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-01-23;5).
+Alla Societa' italiana degli autori con sede in Milano eretta in Ente morale col [R. decreto 1° febbraio 1891, n. 53](Che%20erige%20in%20ente%20morale%20la%20societa%20italiana%20degli%20autori%20per%20la%20tutela%20della%20proprieta%20letteraria%20ed%20artistica%20con%20sede%20in%20Milano%20e%20ne%20approva%20lo%20statuto.%209100053R.md), e' conferito l'incarico di riscuotere per conto dello Stato il diritto erariale di cui al precedente art. 1, per il tempo ed alle condizioni risultanti dalla convenzione allegata al [R. decreto 23 gennaio 1921, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-01-23;5).
 
 ## Art. 5.
 

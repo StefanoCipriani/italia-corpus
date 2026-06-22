@@ -18,7 +18,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Ritenuta le necessita' urgente ed assoluta di affidare al Ministero dell'aeronautica il regolamento e la disciplina dei servizi aerei civili delle Colonie italiane;
 
-Visto il [R. decreto 28 gennaio 1932, n. 115](../Regi%20decreti/Approvazione%20della%20Convenzione%20per%20limpianto%20e%20lesercizio%20dellaviolinea%20Bengasi-Sirte-Tripoli.%20032U0115.md), col quale fu approvata e resa esecutiva la convenzione stipulata il 15 novembre 1931 fra l'Amministrazione coloniale e la Societa' anonima Nord Africa aviazione per l'impianto e l'esercizio della linea aerea commerciale Bengasi-Tripoli;
+Visto il [R. decreto 28 gennaio 1932, n. 115](Approvazione%20della%20Convenzione%20per%20limpianto%20e%20lesercizio%20dellaviolinea%20Bengasi-Sirte-Tripoli.%20032U0115.md), col quale fu approvata e resa esecutiva la convenzione stipulata il 15 novembre 1931 fra l'Amministrazione coloniale e la Societa' anonima Nord Africa aviazione per l'impianto e l'esercizio della linea aerea commerciale Bengasi-Tripoli;
 
 Sentito il Consiglio dei Ministri;
 
@@ -44,7 +44,7 @@ Per le spese inerenti all'esercizio della linea attuale Tripoli-Bengasi e sue ev
 
 ## Art. 4.
 
-Il capo dell'ufficio aviazione civile e traffico aereo del Ministero dell'aeronautica, e' chiamato a far parte del Consiglio superiore coloniale, istituito col [R. decreto 31 dicembre 1922, n. 1817](../Regi%20decreti/Che%20sopprime%20il%20Consiglio%20coloniale%20ed%20il%20Comitato%20superiore%20amministrativo%20ed%20istituisce%20in%20loro%20vece%20presso%20il%20Ministero%20delle%20colonie%20a%20decorrere%20dal%201%20gennaio%201923%20un%20Consiglio%20superi_8b0dfe5c5347.md). 
+Il capo dell'ufficio aviazione civile e traffico aereo del Ministero dell'aeronautica, e' chiamato a far parte del Consiglio superiore coloniale, istituito col [R. decreto 31 dicembre 1922, n. 1817](Che%20sopprime%20il%20Consiglio%20coloniale%20ed%20il%20Comitato%20superiore%20amministrativo%20ed%20istituisce%20in%20loro%20vece%20presso%20il%20Ministero%20delle%20colonie%20a%20decorrere%20dal%201%20gennaio%201923%20un%20Consiglio%20superi_8b0dfe5c5347.md). 
  
  Il presente decreto entrera' in vigore lo stesso giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. I Ministri proponenti sono autorizzati a presentare il relativo disegno di legge. 
  

@@ -39,7 +39,7 @@ Nello stato di previsione della spesa del Ministero dell'interno per l'esercizio
  di altre Amministrazioni collocato fuori ruolo 
  e in servizio presso la Direzione generale 
  della sanita' pubblica ([R. decreto 
- 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md)) . . . . . . . . . . . . . .» 60,000 
+ 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md)) . . . . . . . . . . . . . .» 60,000 
  
  Cap. n. 39 - Abbonamento, impianto e manutenzione 
  dei telefoni ad uso della sanita' pubblica. . . . . . .» 9,000 

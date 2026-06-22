@@ -295,7 +295,7 @@ L'avanzo della gestione del bilancio dei Monopoli della Tripolitania, per l'eser
  --------------- 
  
  Detta somma viene inscritta nella spesa per L. 758.225,70 all'art.
-n. 27: «Fondo di riserva costituito dagli avanzi di bilancio» e per L. 2.076.397,05 all'art. n. 30: «Avanzo di bilancio eccedente le necessita' del Fondo di riserva, da versare al bilancio della Colonia» ai sensi dell'[art. 22 del R. decreto 23 giugno 1932, n. 980](../Regi%20decreti/Norme%20per%20lAmministrazione%20dei%20servizi%20dei%20monopoli%20della%20Tripolitania.%20032U0980.md). 
+n. 27: «Fondo di riserva costituito dagli avanzi di bilancio» e per L. 2.076.397,05 all'art. n. 30: «Avanzo di bilancio eccedente le necessita' del Fondo di riserva, da versare al bilancio della Colonia» ai sensi dell'[art. 22 del R. decreto 23 giugno 1932, n. 980](Norme%20per%20lAmministrazione%20dei%20servizi%20dei%20monopoli%20della%20Tripolitania.%20032U0980.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

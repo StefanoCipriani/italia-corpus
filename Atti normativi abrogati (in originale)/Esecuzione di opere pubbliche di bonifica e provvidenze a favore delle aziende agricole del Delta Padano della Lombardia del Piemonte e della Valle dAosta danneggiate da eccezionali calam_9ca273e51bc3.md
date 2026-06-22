@@ -166,7 +166,7 @@ TITOLO V
 
 ### Art. 22.
 
-Ai fini della presente legge, per la classificazione della azienda e per il riconoscimento della qualifica di coltivatore diretto, trovano applicazione i criteri previsti dall'art. 5 del regolamento per l'esecuzione delle norme del capo III della [legge 25 luglio 1952, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;949), approvato con [decreto del Presidente della Repubblica 17 ottobre 1952, n. 1317](../Regolamenti%20governativi/Regolamento%20per%20lesecuzione%20delle%20norme%20di%20cui%20al%20capo%20III%20della%20legge%2025%20luglio%201952%20n.%20949%20recante%20provvedimenti%20per%20lo%20sviluppo%20delleconomia%20e%20lincremento%20delloccupazione.md).
+Ai fini della presente legge, per la classificazione della azienda e per il riconoscimento della qualifica di coltivatore diretto, trovano applicazione i criteri previsti dall'art. 5 del regolamento per l'esecuzione delle norme del capo III della [legge 25 luglio 1952, n. 949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;949), approvato con [decreto del Presidente della Repubblica 17 ottobre 1952, n. 1317](../DPR/Regolamento%20per%20lesecuzione%20delle%20norme%20di%20cui%20al%20capo%20III%20della%20legge%2025%20luglio%201952%20n.%20949%20recante%20provvedimenti%20per%20lo%20sviluppo%20delleconomia%20e%20lincremento%20delloccupazione.md).
 
 ### Art. 23.
 

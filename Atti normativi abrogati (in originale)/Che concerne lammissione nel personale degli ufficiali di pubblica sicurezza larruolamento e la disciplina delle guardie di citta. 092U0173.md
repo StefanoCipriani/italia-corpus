@@ -42,7 +42,7 @@ Agli [articoli 11](Che%20regola%20il%20servizio%20e%20le%20attribuzioni%20per%20
  
  Le pene di cui ai numeri 1, 2 e 3 del citato art. 25 saranno inflitte, secondo le prescrizioni del regolamento, dall'ufficiale comandante, dall'ispettore provinciale, dal Questore, dal Sottoprefetto, dal Prefetto e dal Ministro dell'interno. 
  
- Art. 28. - E' punita secondo il [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare e dai tribunali militari: 
+ Art. 28. - E' punita secondo il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare e dai tribunali militari: 
  
  1° La diserzione qualificata, cioe' con asportazione d'armi da fuoco del Corpo; 
  

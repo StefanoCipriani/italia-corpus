@@ -20,7 +20,7 @@ Vista la [legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%2
 
 Vista la [legge 11 marzo 1926, n. 398](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20026U0398.md), sull'avanzamento del Regio esercito e successive modificazioni;
 
-Visto il [R. decreto 21 marzo 1929, n. 629](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md), che approva il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito;
+Visto il [R. decreto 21 marzo 1929, n. 629](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md), che approva il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito;
 
 Visto il [R. decreto-legge 22 agosto 1930, n. 1374](Nomina%20ad%20ufficiale%20in%20servizio%20permanente%20effettivo%20degli%20allievi%20delle%20Accademie%20e%20delle%20Scuole%20militari.%20030U1374.md);
 
@@ -80,7 +80,7 @@ E' pure fatta facolta' al Ministro per la guerra di nominare ufficiali in serviz
 
 ### Art. 9.
 
-L'anzianita' relativa dei sottotenenti nominati in s. p. e. nel Corpo di commissariato (ruolo ufficiali di sussistenza) e provenienti dai corsi ordinari o dai corsi speciali dell'Accademia militare e' fissata con le norme stabilite dal testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito approvato con [R. decreto n. 629 del 21 marzo 1929](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md) Anno VIII.
+L'anzianita' relativa dei sottotenenti nominati in s. p. e. nel Corpo di commissariato (ruolo ufficiali di sussistenza) e provenienti dai corsi ordinari o dai corsi speciali dell'Accademia militare e' fissata con le norme stabilite dal testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito approvato con [R. decreto n. 629 del 21 marzo 1929](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md) Anno VIII.
 
 ### Art. 10.
 

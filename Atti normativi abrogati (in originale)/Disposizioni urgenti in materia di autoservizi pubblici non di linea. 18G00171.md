@@ -55,7 +55,7 @@ Entro un anno dalla data di entrata in vigore del presente decreto, presso il Ce
 
 4.
 
-Le sanzioni di cui all'[articolo 11-bis della legge 15 gennaio 1992, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-15;21#art_11bis), per l'inosservanza degli articoli 3 ed 11 della medesima legge, come modificati dal comma 1, si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto. Parimenti rimangono sospese per la stessa durata le sanzioni previste dall'[articolo 85, commi 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [4-bis del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), limitatamente ai soggetti titolari di autorizzazione per l'esercizio del servizio di noleggio con conducente.
+Le sanzioni di cui all'[articolo 11-bis della legge 15 gennaio 1992, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-15;21#art_11bis), per l'inosservanza degli articoli 3 ed 11 della medesima legge, come modificati dal comma 1, si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto. Parimenti rimangono sospese per la stessa durata le sanzioni previste dall'[articolo 85, commi 4](../Codici/Nuovo%20codice%20della%20strada.md) e [4-bis del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), limitatamente ai soggetti titolari di autorizzazione per l'esercizio del servizio di noleggio con conducente.
 
 5.
 

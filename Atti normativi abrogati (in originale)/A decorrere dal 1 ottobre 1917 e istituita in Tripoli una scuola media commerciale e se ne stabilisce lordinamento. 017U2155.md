@@ -38,7 +38,7 @@ E' approvata la tabella A annessa al presente decreto, contenente l'elenco degli
 
 ## Art. 5.
 
-Per la direzione di detta scuola e per l'insegnamento nella medesima si provvede, salvo quanto e' stabilito agli articoli 8 e 9, con la destinazione in colonia di personale dei ruoli delle scuole medie del Regno, collocato a disposizione del Ministero delle colonie da quello della istruzione pubblica, con le norme stabilite dal [R. decreto 15 gennaio 1914, n. 56](../Regi%20decreti/col%20quale%20viene%20approvato%20lordinamento%20scolastico%20della%20Tripolitana%20e%20della%20Cirenaica.%20014U0056.md), e dalle relative disposizioni regolamentari, approvate con [decreto Luogotenenziale 17 ottobre 1915, n. 1809](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-10-17;1809). 
+Per la direzione di detta scuola e per l'insegnamento nella medesima si provvede, salvo quanto e' stabilito agli articoli 8 e 9, con la destinazione in colonia di personale dei ruoli delle scuole medie del Regno, collocato a disposizione del Ministero delle colonie da quello della istruzione pubblica, con le norme stabilite dal [R. decreto 15 gennaio 1914, n. 56](col%20quale%20viene%20approvato%20lordinamento%20scolastico%20della%20Tripolitana%20e%20della%20Cirenaica.%20014U0056.md), e dalle relative disposizioni regolamentari, approvate con [decreto Luogotenenziale 17 ottobre 1915, n. 1809](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-10-17;1809). 
  
  Per l'insegnamento di quelle materie che non fanno parte dei programmi degli Istituti dipendenti dal Ministero dell'istruzione, si puo' provvedere con la destinazione in Colonia, con le norme precitate, in quanto applicabili, di personale di ruolo di una delle scuole medie commerciali del Regno, previo consenso del rispettivo Consiglio d'amministrazione.
 
@@ -88,7 +88,7 @@ La misura delle tasse di ammissione, di frequenza, di licenza e di diploma e' de
 
 ## Art. 14.
 
-Per le materie non esplicitamente previste nel presente decreto sono estese alla nuova scuola commerciale, in quanto applicabili, le disposizioni contenute nel [R. decreto 15 gennaio 1914, n. 56](../Regi%20decreti/col%20quale%20viene%20approvato%20lordinamento%20scolastico%20della%20Tripolitana%20e%20della%20Cirenaica.%20014U0056.md) e nel [decreto Luogotenenziale 17 ottobre 1915, n. 1809](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-10-17;1809), riguardanti le altre scuole medie della Libia.
+Per le materie non esplicitamente previste nel presente decreto sono estese alla nuova scuola commerciale, in quanto applicabili, le disposizioni contenute nel [R. decreto 15 gennaio 1914, n. 56](col%20quale%20viene%20approvato%20lordinamento%20scolastico%20della%20Tripolitana%20e%20della%20Cirenaica.%20014U0056.md) e nel [decreto Luogotenenziale 17 ottobre 1915, n. 1809](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-10-17;1809), riguardanti le altre scuole medie della Libia.
 
 ## Art. 15.
 

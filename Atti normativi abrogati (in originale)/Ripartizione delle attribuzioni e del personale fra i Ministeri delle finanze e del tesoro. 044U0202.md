@@ -62,7 +62,7 @@ Costituiscono il Ministero del tesoro le Direzioni generali, l'Ispettorato gener
  
  2) la Direzione generale del tesoro con gli Uffici provinciali del tesoro; 
  
- 3) la Ragioneria generale dello Stato con le dipendenti ragionerie delle Intendenze di finanza, e le altre ragionerie indicate nell'[art. 54 n. 3 del R. decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md); 
+ 3) la Ragioneria generale dello Stato con le dipendenti ragionerie delle Intendenze di finanza, e le altre ragionerie indicate nell'[art. 54 n. 3 del R. decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md); 
  
  4) la Direzione generale del debito pubblico con la Cassa di ammortamento del debito pubblico interno; 
  

@@ -59,7 +59,7 @@ I depositanti, i quali non siano in grado di produrre i libretti o gli altri tit
  
  In quesii casi l'Istituto ha facolta' di limitare l'ammontare complessivo del rimborso a una meta' della somma che risulterebbe a termine del 1° comma dell'articolo 2. 
  
- Le false attestazioni commesse dai depositanti e dalle altre persone indicate nel presente articolo sono punite con le penalita' stabilite dall'[art. 278 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Le false attestazioni commesse dai depositanti e dalle altre persone indicate nel presente articolo sono punite con le penalita' stabilite dall'[art. 278 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 

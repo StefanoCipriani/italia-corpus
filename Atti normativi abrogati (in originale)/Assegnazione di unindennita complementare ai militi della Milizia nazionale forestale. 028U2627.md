@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 16 maggio 1926, n. 1066](Istituzione%20della%20Milizia%20nazionale%20forestale.%20026U1066.md), convertito in legge con la [legge 9 giugno 1927, n. 1156](Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20maggio%201926%20n.%201066%20relativo%20alla%20istituzione%20della%20Milizia%20nazionale%20forestale.%20027U1156.md), sulla istituzione della Milizia nazionale forestale;
 
-Visto il [R. decreto 13 agosto 1926, n. 1465](../Regi%20decreti/Approvazione%20del%20regolamento%20della%20Milizia%20nazionale%20forestale.%20026U1465.md), che approva il regolamento generale della Milizia nazionale forestale;
+Visto il [R. decreto 13 agosto 1926, n. 1465](Approvazione%20del%20regolamento%20della%20Milizia%20nazionale%20forestale.%20026U1465.md), che approva il regolamento generale della Milizia nazionale forestale;
 
 Visto il [R. decreto-legge 17 febbraio 1927, n. 324](Soppressione%20della%20Direzione%20generale%20delle%20foreste%20e%20dei%20demani%20ed%20istituzione%20dell%20Azienda%20Foreste%20Demaniali%20.%20027U0324.md), convertito in legge con la [legge 16 giugno 1927, n. 1275](Conversione%20in%20legge%20del%20R.%20decreto-legge%2017%20febbraio%201927%20n.324%20concernente%20la%20soppressione%20della%20Direzione%20generale%20delle%20foreste%20e%20dei%20demani%20e%20la%20istituzione%20dellAzienda%20foreste%20deman_5b597e278aa4.md), sulla istituzione della Azienda foreste demaniali;
 

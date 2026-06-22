@@ -22,13 +22,13 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduto il testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md); 
+ Veduto il testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md); 
  
  Veduta la [legge 6 luglio 1912, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;734), che approva i ruoli organici degli Istituti di belle arti e di musica; 
  
  Veduta la [legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), concernente provvedimenti per l'istruzione media, classica, tecnica, nautica e normale; 
  
- Veduto l'art. 55 del testo unico della legge sull'Amministrazione e sulla contabilita' generale dello Stato approvato con [R. decreto 17 febbraio 1884, n. 2016, e gli articoli 388 e seguenti](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md) del relativo regolamento; 
+ Veduto l'art. 55 del testo unico della legge sull'Amministrazione e sulla contabilita' generale dello Stato approvato con [R. decreto 17 febbraio 1884, n. 2016, e gli articoli 388 e seguenti](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md) del relativo regolamento; 
  
  Considerato che per le molte vacanze nel personale di tutti gli uffici dipendenti dal Ministero della pubblica istruzione, determinate dai doveri della guerra, puo' riuscire difficile non soltanto raccogliere le proposte, promuovere le necessarie deliberazioni, eseguire le ispezioni prescritte per l'emanazione dei provvedimenti diretti o a confermare il personale delle Regie Universita' e degli altri Istituti di istruzione superiore, che ha nomina a scadenza determinata, o a confermare stabilmente, dopo il periodo di esperimento, il personale degli Istituti di belle arti e di musica o a nominare ordinari i professori straordinari delle scuole medie governative - ma anche compilare, sottoporre all'esame e alla registrazione degli uffici di controllo i relativi decreti; 
  

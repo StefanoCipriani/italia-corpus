@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 30 agosto 1914, n. 945](../Regi%20decreti/Concernente%20la%20costituzione%20delle%20forze%20navali%20dello%20Stato.%20014U0945.md), che stabilisce la costituzione delle forze navali dello Stato e le sue successive modificazioni; 
+ Visto il [R. decreto 30 agosto 1914, n. 945](Concernente%20la%20costituzione%20delle%20forze%20navali%20dello%20Stato.%20014U0945.md), che stabilisce la costituzione delle forze navali dello Stato e le sue successive modificazioni; 
  
  Sentito il Consiglio superiore di marina; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- II terzo capoverso dell'[art. 2 del R. decreto 30 agosto 1914, n. 945](../Regi%20decreti/Concernente%20la%20costituzione%20delle%20forze%20navali%20dello%20Stato.%20014U0945.md), e' sostituito dal seguente: 
+ II terzo capoverso dell'[art. 2 del R. decreto 30 agosto 1914, n. 945](Concernente%20la%20costituzione%20delle%20forze%20navali%20dello%20Stato.%20014U0945.md), e' sostituito dal seguente: 
  
  «Al Comando di ciascuna divisione, salvo il caso previsto dal precedente capoverso, e' preposto un contrammiraglio o un capitano di vascello col titolo di comandante di divisione». 
  

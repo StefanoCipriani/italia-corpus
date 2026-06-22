@@ -20,7 +20,7 @@ Vista la [legge 14 dicembre 1931, n. 1699](Disciplina%20di%20guerra.%20031U1699.
 
 Visto il R. decreto-legge 14 luglio 1935-XIII, n. 1374, convertito nella legge 27 dicembre 1935-XIV, n. 2384, che costituisce il Commissariato generale per le fabbricazioni di guerra e sue successive modificazioni, integrazioni e applicazioni;
 
-Visto il testo unico delle disposizioni riflettenti l'ordinamento della Commissione suprema di difesa ed il Servizio degli osservatori industriali, approvato con [R. decreto 8 gennaio 1928, n. 165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20riflettenti%20lordinamento%20della%20Commissione%20Suprema%20di%20difesa%20ed%20il%20servizio%20degli%20osservatori%20industriali.%20028U0165.md);
+Visto il testo unico delle disposizioni riflettenti l'ordinamento della Commissione suprema di difesa ed il Servizio degli osservatori industriali, approvato con [R. decreto 8 gennaio 1928, n. 165](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20riflettenti%20lordinamento%20della%20Commissione%20Suprema%20di%20difesa%20ed%20il%20servizio%20degli%20osservatori%20industriali.%20028U0165.md);
 
 Ritenuta la necessita' urgente ed assoluta di dare una disciplina unitaria alla utilizzazione dei rottami di ferro e di acciaio e della ghisa, occorrente per la loro trasformazione in acciaio greggio, in relazione alle effettive esigenze della produzione siderurgica nazionale;
 

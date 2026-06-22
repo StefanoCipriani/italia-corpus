@@ -12,4 +12,4 @@ vigente: true
 
 N. 430 
  
- Decreto Luogotenenziale 22 febbraio 1917, col quale, sulla proposta del ministro delle finanze, e' data facolta' alla Giunta provinciale amministrativa di Torino di modificare, giusta la sua deliberazione presa in seduta 26 ottobre 1916, l'art. 18 del regolamento, per l'applicazione della tassa sul bestiame nella Provincia, approvato con [R. decreto 16 giugno 1912, n. 693](../Regi%20decreti/Applicazione%20di%20tassa%20sul%20bestiame.%20012U0693.md).
+ Decreto Luogotenenziale 22 febbraio 1917, col quale, sulla proposta del ministro delle finanze, e' data facolta' alla Giunta provinciale amministrativa di Torino di modificare, giusta la sua deliberazione presa in seduta 26 ottobre 1916, l'art. 18 del regolamento, per l'applicazione della tassa sul bestiame nella Provincia, approvato con [R. decreto 16 giugno 1912, n. 693](Applicazione%20di%20tassa%20sul%20bestiame.%20012U0693.md).

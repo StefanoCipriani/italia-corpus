@@ -28,7 +28,7 @@ Vista la [legge 25 gennaio 1888, n. 5177](Sugli%20obblighi%20di%20servizio%20deg
 
 Visto il testo unico sugli stipendi ed assegni fissi per il Regio esercito approvato con [R. decreto 14 luglio 1898, numero 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md) e successive modificazioni:
 
-Visto il testo unico delle leggi sulle pensioni civili e militari; approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
+Visto il testo unico delle leggi sulle pensioni civili e militari; approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
 
 Visti i [Regi decreti 20 aprile 1920, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-20;453), e [3 giugno 1920, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-03;710), relativi alla sistemazione degli ufficiali esuberanti per riduzione di ruoli organici;
 

@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 28 agosto 1935, n. 1614](Cessione%20obbligatoria%20dei%20crediti%20allestero%20e%20cambio%20obbligatorio%20in%20buoni%20del%20Tesoro%205%20per%20cento%20dei%20titoli%20esteri%20e%20del%20titoli%20italiani%20emessi%20allestero%20di%20proprieta%20di%20cittadini%20ed%20ent_4d4d5b6e2399.md), convertito nella [legge 9 gennaio 1936, n. 102](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20agosto%201935-XIII%20n.%201614%20concernente%20la%20cessione%20obbligatoria%20dei%20crediti%20allestero%20ed%20il%20cambio%20obbligatorio%20di%20Buoni%20del%20tesoro%205%20per%20cento%20_c41429171d21.md);
+Visto il [R. decreto-legge 28 agosto 1935, n. 1614](Cessione%20obbligatoria%20dei%20crediti%20allestero%20e%20cambio%20obbligatorio%20in%20buoni%20del%20Tesoro%205%20per%20cento%20dei%20titoli%20esteri%20e%20del%20titoli%20italiani%20emessi%20allestero%20di%20proprieta%20di%20cittadini%20ed%20ent_4d4d5b6e2399.md), convertito nella [legge 9 gennaio 1936, n. 102](Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20agosto%201935-XIII%20n.%201614%20concernente%20la%20cessione%20obbligatoria%20dei%20crediti%20allestero%20ed%20il%20cambio%20obbligatorio%20di%20Buoni%20del%20tesoro%205%20per%20cento%20_c41429171d21.md);
 
 Vista la [legge 14 marzo 1940, n. 239](Autorizzazione%20al%20Tesoro%20dello%20Stato%20ad%20acquistare%20le%20obbligazioni%20del%20Prestito%20polacco%207%20per%20cento%20-%201924.%20040U0239.md);
 

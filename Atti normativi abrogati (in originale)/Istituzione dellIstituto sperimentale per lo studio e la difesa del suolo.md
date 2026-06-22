@@ -24,7 +24,7 @@ E' istituito con sede in Firenze l'Istituto sperimentale per lo studio e la dife
 
 ## Art. 2.
 
-L'Ente di cui al precedente art. 1 l'Istituto di sperimentazione agraria ai sensi del [regio decreto 29 maggio 1941, n. 489](../Regi%20decreti/Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md), dalle cui norme e' regolato ed e' aggiunto alla tabella n. 1, allegata al decreto medesimo.
+L'Ente di cui al precedente art. 1 l'Istituto di sperimentazione agraria ai sensi del [regio decreto 29 maggio 1941, n. 489](Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md), dalle cui norme e' regolato ed e' aggiunto alla tabella n. 1, allegata al decreto medesimo.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e sue successive modificazioni;
+Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e sue successive modificazioni;
 
 Vista la [legge 29 gennaio 1885, n. 2897](Che%20stabilisce%20per%20gli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marineria%20la%20posizione%20di%20servizio%20ausiliario.%20085U2897.md), che istituisce la posizione ausiliaria per gli ufficiali della Regia marina, e sue successive modificazioni;
 

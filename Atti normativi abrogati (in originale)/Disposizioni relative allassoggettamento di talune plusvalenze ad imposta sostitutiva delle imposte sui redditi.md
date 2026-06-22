@@ -28,7 +28,7 @@ Sono soggette ad imposta sostitutiva delle imposte sui redditi le plusvalenze, d
 
 2.
 
-Sono soppressi la lettera c) del comma 1 dell'articolo 81 e il comma 3 dell'articolo 82 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
+Sono soppressi la lettera c) del comma 1 dell'articolo 81 e il comma 3 dell'articolo 82 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
 
 ## Art. 2. — Modalita' di applicazione dell'imposta sostitutiva
 
@@ -56,7 +56,7 @@ Qualora la plusvalenza risulti determinata dal sostituto d'imposta in misura inf
 
 3.
 
-In caso di falsita' della certificazione o altra documentazione prevista dagli articoli 2 e 4, si applicano le pene indicate nell'[articolo 4 del decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_4), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20429%20recante%20norme%20per%20la%20repressione%20dellevasione%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20e%20per%20_832c3a3ade70.md).
+In caso di falsita' della certificazione o altra documentazione prevista dagli articoli 2 e 4, si applicano le pene indicate nell'[articolo 4 del decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_4), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20429%20recante%20norme%20per%20la%20repressione%20dellevasione%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20e%20per%20_832c3a3ade70.md).
 
 ## Art. 4. — Disposizioni di attuazione e transitorie
 

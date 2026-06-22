@@ -48,7 +48,7 @@ Al personale appartenente agli Enti dipendenti dai cessati Governi dell'Africa o
 ## Art. 5.
 
 Al personale a contratto a tempo indeterminato ed a quello di cui al precedente art. 4 compete, a carico dell'Amministrazione presso, la quale l'impiegato ha riassunto servizio dopo il rimpatrio, il rimborso delle spese di viaggio di rimpatrio per se' e per le persone di famiglia.
- Al personale di cui al comma precedente compete inoltre il rimborso delle spese di trasporto in Italia di quindici quintali complessivi di mobili e masserizie con le modalita' di cui all'[art. 7 del regio decreto 31 ottobre 1923, n. 2504](../Regi%20decreti/Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md), e successive modificazioni.
+ Al personale di cui al comma precedente compete inoltre il rimborso delle spese di trasporto in Italia di quindici quintali complessivi di mobili e masserizie con le modalita' di cui all'[art. 7 del regio decreto 31 ottobre 1923, n. 2504](Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md), e successive modificazioni.
  Il trattamento del presente articolo e' corrisposto al personale che ha effettuato o effettuera' il trasferimento entro il termine massimo di 180 giorni dopo l'entrata in vigore della presente legge.
  Lo stesso termine e' stabilito per il personale dei ruoli civili e militari delle altre Amministrazioni dello Stato gia' in servizio nei territori ex coloniali.
 

@@ -16,9 +16,9 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico di legge approvato con [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md);
+Visto il testo unico di legge approvato con [R. decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md);
 
-Visto lo statuto della Banca d'Italia approvato con [R. decreto 11 giugno 1936, n. 1067](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md);
+Visto lo statuto della Banca d'Italia approvato con [R. decreto 11 giugno 1936, n. 1067](Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -32,7 +32,7 @@ Il [decreto Luogotenenziale 29 luglio 1944, n. 216](https://www.normattiva.it/ur
 
 ## Art. 2.
 
-Fino a che non sara' entrato in funzione il nuovo Parlamento e' sospesa, per quanto riguarda la carica di governatore della Banca d'Italia, l'incompatibilita' prevista dall'art. 132 del testo unico di legge approvato con [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md).
+Fino a che non sara' entrato in funzione il nuovo Parlamento e' sospesa, per quanto riguarda la carica di governatore della Banca d'Italia, l'incompatibilita' prevista dall'art. 132 del testo unico di legge approvato con [R. decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md).
 
 ## Art. 3.
 

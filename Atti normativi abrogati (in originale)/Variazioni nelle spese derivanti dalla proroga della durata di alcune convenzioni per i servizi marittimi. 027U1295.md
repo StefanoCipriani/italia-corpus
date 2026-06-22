@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Articolo unico.
 
-Le spese per l'esercizio dei servizi marittimi sovvenzionati riordinati dal 1° gennaio 1926 in base al [R. decreto n. 3173 del 31 dicembre 1923](../Regi%20decreti/Ordinamento%20dei%20servizi%20postali%20e%20commerciali%20marittimi.%20023U3173.md), autorizzate col [R. decreto-legge 14 novembre 1926, n. 1987](Stanziamento%20di%20somme%20nei%20bilanci%20del%20Ministero%20delle%20comunicazioni%20per%20lesercizio%20dei%20servizi%20marittimi%20sovvenzionati.%20026U1987.md), sono modificate nel modo risultante dalla tabella seguente:
+Le spese per l'esercizio dei servizi marittimi sovvenzionati riordinati dal 1° gennaio 1926 in base al [R. decreto n. 3173 del 31 dicembre 1923](Ordinamento%20dei%20servizi%20postali%20e%20commerciali%20marittimi.%20023U3173.md), autorizzate col [R. decreto-legge 14 novembre 1926, n. 1987](Stanziamento%20di%20somme%20nei%20bilanci%20del%20Ministero%20delle%20comunicazioni%20per%20lesercizio%20dei%20servizi%20marittimi%20sovvenzionati.%20026U1987.md), sono modificate nel modo risultante dalla tabella seguente:
 
 =================================================================
   |          |              |    Pei    |           |             |

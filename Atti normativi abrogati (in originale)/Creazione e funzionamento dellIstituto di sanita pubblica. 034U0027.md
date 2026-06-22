@@ -14,17 +14,17 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato, e successive variazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato, e successive variazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md);
+Visto il [R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), sulla riforma degli ordinamenti sanitari;
+Visto il [R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), sulla riforma degli ordinamenti sanitari;
 
 Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato ed il [R. decreto 30 ottobre 1921, n. 2042](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-10-30;2042), contenente norme speciali per l'ammissione e la carriera del personale dell'Amministrazione della sanita' pubblica;
 
 Visto il [R. decreto 3 febbraio 1901, n. 45](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20tutela%20delligiene%20e%20della%20sanita%20pubblica.%20001U0045.md), che approva il regolamento per l'esecuzione della legge sulla tutela dell'igiene e della sanita' pubblica;
 
-Visto il [R. decreto 29 luglio 1931, n. 1131](../Regi%20decreti/Approvazione%20di%20nuovi%20ruoli%20organici%20del%20personale%20dellAmministrazione%20della%20sanita%20pubblica.%20031U1131.md), sui ruoli organici del personale dell'Amministrazione della sanita' pubblica;
+Visto il [R. decreto 29 luglio 1931, n. 1131](Approvazione%20di%20nuovi%20ruoli%20organici%20del%20personale%20dellAmministrazione%20della%20sanita%20pubblica.%20031U1131.md), sui ruoli organici del personale dell'Amministrazione della sanita' pubblica;
 
 Ritenuta la necessita' urgente ed assoluta di provvedimenti intesi a disciplinare la istituzione dell'Istituto di sanita' pubblica che assorbe gli attuali laboratori scientifici della sanita' pubblica;
 
@@ -118,11 +118,11 @@ Il Reparto di ingegneria sanitaria ha il compito di provvedere all'esame tecnico
 
 ## Art. 11.
 
-Alla tabella A, allegata al [R. decreto 29 luglio 1931, numero 1131](../Regi%20decreti/Approvazione%20di%20nuovi%20ruoli%20organici%20del%20personale%20dellAmministrazione%20della%20sanita%20pubblica.%20031U1131.md), e' sostituita quella allegata al presente decreto.
+Alla tabella A, allegata al [R. decreto 29 luglio 1931, numero 1131](Approvazione%20di%20nuovi%20ruoli%20organici%20del%20personale%20dellAmministrazione%20della%20sanita%20pubblica.%20031U1131.md), e' sostituita quella allegata al presente decreto.
 
 ## Art. 12.
 
-Il posto di capo di laboratorio per gli studi sulla malaria, di cui alla annessa tabella, puo' essere conferito per cambio di qualifica, ai funzionari medici dei ruoli dell'Amministrazione della sanita' pubblica appartenenti al 6° grado, in analogia all'[art. 27 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), che abbiano particolare competenza nel campo della profilassi antimalarica; ovvero per promozione di merito comparativo, su designazione del Consiglio di amministrazione del personale della sanita' pubblica, ai funzionari medici dei ruoli dell'Amministrazione predetta di grado immediatamente inferiore che abbiano compiuto nel grado stesso, almeno tre anni di servizio e che abbiano, del pari, dato prova di particolare competenza negli studi e negli altri problemi attinenti alla profilassi della malaria. 
+Il posto di capo di laboratorio per gli studi sulla malaria, di cui alla annessa tabella, puo' essere conferito per cambio di qualifica, ai funzionari medici dei ruoli dell'Amministrazione della sanita' pubblica appartenenti al 6° grado, in analogia all'[art. 27 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), che abbiano particolare competenza nel campo della profilassi antimalarica; ovvero per promozione di merito comparativo, su designazione del Consiglio di amministrazione del personale della sanita' pubblica, ai funzionari medici dei ruoli dell'Amministrazione predetta di grado immediatamente inferiore che abbiano compiuto nel grado stesso, almeno tre anni di servizio e che abbiano, del pari, dato prova di particolare competenza negli studi e negli altri problemi attinenti alla profilassi della malaria. 
  
  Qualora a giudizio del Consiglio di amministrazione, nessuno dei predetti funzionari risulti in possesso dei necessari titoli di merito, sara' provveduto con pubblico concorso per titoli, secondo le norme stabilite dal Ministero dell'in terno, ai sensi dell'[art. 4 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 

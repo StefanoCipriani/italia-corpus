@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il Testo Unico delle leggi concernenti il sequestro, il pignoramento e la cessione degli stipendi, salari e pensioni dei dipendenti delle pubbliche Amministrazioni approvato con [R.D. 5 giugno 1941, n. 874](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.%20041U0874.md); 
+ Visto il Testo Unico delle leggi concernenti il sequestro, il pignoramento e la cessione degli stipendi, salari e pensioni dei dipendenti delle pubbliche Amministrazioni approvato con [R.D. 5 giugno 1941, n. 874](Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.%20041U0874.md); 
  
  Riconosciuta la urgente necessita' di provvedere per causa di guerra; 
  
@@ -36,7 +36,7 @@ VITTORIO EMANUELE III
  
  . 
  
- In temporanea deroga alle disposizioni dell'art. 3 del sopracitato [Testo Unico delle norme sul sequestro](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.md), pignoramento e cessione degli stipendi, salari e pensioni dei dipendenti delle Pubbliche Amministrazioni approvato con [R.D. 5-6-1941, n. 874](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.%20041U0874.md), gli atti relativi a sequestri e pignoramenti di stipendi, salari e retribuzioni equivalenti, pensioni, indennita' che tengono luogo di pensioni ed altri assegni di quiescenza, dovuti agli impiegati ed ai salariati delle Amministrazioni dello Stato anche ad ordinamento autonomo ed al personale dipendente dalla Amministrazione delle Ferrovie dello Stato, devono essere notificati nei modi previsti dall'art. 69 della legge per la contabilita' generale dello Stato ([R.D. 18-11-1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md)). 
+ In temporanea deroga alle disposizioni dell'art. 3 del sopracitato [Testo Unico delle norme sul sequestro](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.md), pignoramento e cessione degli stipendi, salari e pensioni dei dipendenti delle Pubbliche Amministrazioni approvato con [R.D. 5-6-1941, n. 874](Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.%20041U0874.md), gli atti relativi a sequestri e pignoramenti di stipendi, salari e retribuzioni equivalenti, pensioni, indennita' che tengono luogo di pensioni ed altri assegni di quiescenza, dovuti agli impiegati ed ai salariati delle Amministrazioni dello Stato anche ad ordinamento autonomo ed al personale dipendente dalla Amministrazione delle Ferrovie dello Stato, devono essere notificati nei modi previsti dall'art. 69 della legge per la contabilita' generale dello Stato ([R.D. 18-11-1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md)). 
  
  Il presente decreto entra in vigore nel giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno - serie speciale -. e sara' presentato alle Assemblee Legislative per la sua conversione in legge. 
  
@@ -50,6 +50,6 @@ VITTORIO EMANUELE III
  
  Badoglio - De Santis - Jung 
  
- Visto: (ai sensi del [R.D. 30 ottobre 1943, n. 1/B](../Regi%20decreti/Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
+ Visto: (ai sensi del [R.D. 30 ottobre 1943, n. 1/B](Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
  
  Il Guardasigilli: Badoglio

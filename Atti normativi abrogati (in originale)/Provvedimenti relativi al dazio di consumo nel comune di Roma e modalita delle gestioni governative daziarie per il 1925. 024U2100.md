@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), e [16 dicembre 1923, n. 2720](../Regi%20decreti/Proroga%20dellattuazione%20del%20nuovo%20ordinamento%20dei%20dazi%20interni%20di%20consumo%20di%20cui%20al%20R.%20decreto%2024%20settembre%201923%20n.%202030%20e%20norme%20transitorie.%20023U2720.md), concernenti il riordinamento dei dazi interni di consumo;
+Visti i [Regi decreti 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), e [16 dicembre 1923, n. 2720](Proroga%20dellattuazione%20del%20nuovo%20ordinamento%20dei%20dazi%20interni%20di%20consumo%20di%20cui%20al%20R.%20decreto%2024%20settembre%201923%20n.%202030%20e%20norme%20transitorie.%20023U2720.md), concernenti il riordinamento dei dazi interni di consumo;
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,11 +22,11 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-L'applicazione dei provvedimenti previsti dal [2° comma dell'art. 2 del R. decreto 16 dicembre 1923, n. 2720](../Regi%20decreti/Proroga%20dellattuazione%20del%20nuovo%20ordinamento%20dei%20dazi%20interni%20di%20consumo%20di%20cui%20al%20R.%20decreto%2024%20settembre%201923%20n.%202030%20e%20norme%20transitorie.%20023U2720.md), modificativo dell'[art. 7 del R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), potra' essere autorizzata nel comune di Roma anche per l'anno 1925.
+L'applicazione dei provvedimenti previsti dal [2° comma dell'art. 2 del R. decreto 16 dicembre 1923, n. 2720](Proroga%20dellattuazione%20del%20nuovo%20ordinamento%20dei%20dazi%20interni%20di%20consumo%20di%20cui%20al%20R.%20decreto%2024%20settembre%201923%20n.%202030%20e%20norme%20transitorie.%20023U2720.md), modificativo dell'[art. 7 del R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), potra' essere autorizzata nel comune di Roma anche per l'anno 1925.
 
 ## Art. 2.
 
-Nel comune di Roma, e negli altri nei quali sia prorogata per l'anno 1925 la gestione daziaria governativa, ai termini dell'[art. 5 del R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), lo Stato, oltre delle spese di amministrazione ivi previste, si rivarra' anche di quella per la vigilanza della cinta daziaria, quando l'ammontare del reddito netto da assegnarsi ai Comuni per il 1925 superi la maggiore somma tra quella costituita dal reddito daziario netto conseguita dai Comuni nell'anno 1923 e l'altra rappresentata dallo stanziamento per il suindicato titolo nel bilancio preventivo dei Comuni per lo stesso anno; in caso contrario la detta spesa di vigilanza rimarra' per meta' a carico dello Stato. 
+Nel comune di Roma, e negli altri nei quali sia prorogata per l'anno 1925 la gestione daziaria governativa, ai termini dell'[art. 5 del R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), lo Stato, oltre delle spese di amministrazione ivi previste, si rivarra' anche di quella per la vigilanza della cinta daziaria, quando l'ammontare del reddito netto da assegnarsi ai Comuni per il 1925 superi la maggiore somma tra quella costituita dal reddito daziario netto conseguita dai Comuni nell'anno 1923 e l'altra rappresentata dallo stanziamento per il suindicato titolo nel bilancio preventivo dei Comuni per lo stesso anno; in caso contrario la detta spesa di vigilanza rimarra' per meta' a carico dello Stato. 
  
  Qualora la gestione governativa nei Comuni medesimi venisse a cessare nel corso dell'anno 1925, l'accennato raffronto ai fini di cui al precedente comma, sara' fatto in relazione al periodo di durata della gestione stessa.
 

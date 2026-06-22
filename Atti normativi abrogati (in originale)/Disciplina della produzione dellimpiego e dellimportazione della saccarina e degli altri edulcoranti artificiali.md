@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 29 settembre 1889, n. 6407](../Regi%20decreti/Che%20vieta%20lintroduzione%20e%20la%20produzione%20nello%20Stato%20della%20saccarina%20e%20dei%20prodotti%20saccarinosi.%20089U6407.md), convertito nella [legge 15 maggio 1890, n. 6858](Che%20converte%20il%20R.%20decreto%2029%20settembre%201889%20n.%206407%20Serie%203ª%20riguardante%20lintroduzione%20e%20la%20produzione%20nello%20Stato%20della%20saccarina%20e%20dei%20prodotti%20saccarinati.%20090U6858.md);
+Visto il [regio decreto 29 settembre 1889, n. 6407](Che%20vieta%20lintroduzione%20e%20la%20produzione%20nello%20Stato%20della%20saccarina%20e%20dei%20prodotti%20saccarinosi.%20089U6407.md), convertito nella [legge 15 maggio 1890, n. 6858](Che%20converte%20il%20R.%20decreto%2029%20settembre%201889%20n.%206407%20Serie%203ª%20riguardante%20lintroduzione%20e%20la%20produzione%20nello%20Stato%20della%20saccarina%20e%20dei%20prodotti%20saccarinati.%20090U6858.md);
 
 Vista la [legge 2 luglio 1902, n. 238](Regime%20fiscale%20degli%20zuccheri.%20002U0238.md), e successive modificazioni;
 
@@ -20,7 +20,7 @@ Vista la [legge 29 marzo 1940, n. 295](Produzione%20nel%20Regno%20della%20saccar
 
 Vista la [legge 16 gennaio 1951, n. 154](Aumento%20delle%20penalita%20per%20il%20contrabbando%20e%20lillecita%20detenzione%20della%20saccarina%20e%20di%20prodotti%20ad%20essa%20assimilabili.md);
 
-Visto l'art. 37 del trattato istitutivo della Comunita' economica europea, reso esecutivo con [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
+Visto l'art. 37 del trattato istitutivo della Comunita' economica europea, reso esecutivo con [legge 14 ottobre 1957, n. 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
 
 Considerato che le sopracitate disposizioni vietano l'importazione della saccarina, oltre che degli altri edulcoranti artificiali, ed istituiscono un regime di monopolio statale delegato per la produzione della saccarina, con la limitazione dell'impiego in determinati usi consentiti;
 
@@ -36,7 +36,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-Sono abrogate le disposizioni del [regio decreto 29 settembre 1889, n. 6407](../Regi%20decreti/Che%20vieta%20lintroduzione%20e%20la%20produzione%20nello%20Stato%20della%20saccarina%20e%20dei%20prodotti%20saccarinosi.%20089U6407.md), convertito nella [legge 15 maggio 1890, n. 6858](Che%20converte%20il%20R.%20decreto%2029%20settembre%201889%20n.%206407%20Serie%203ª%20riguardante%20lintroduzione%20e%20la%20produzione%20nello%20Stato%20della%20saccarina%20e%20dei%20prodotti%20saccarinati.%20090U6858.md), che vieta l'introduzione e la produzione nello Stato della saccarina e dei prodotti saccarinati. 
+Sono abrogate le disposizioni del [regio decreto 29 settembre 1889, n. 6407](Che%20vieta%20lintroduzione%20e%20la%20produzione%20nello%20Stato%20della%20saccarina%20e%20dei%20prodotti%20saccarinosi.%20089U6407.md), convertito nella [legge 15 maggio 1890, n. 6858](Che%20converte%20il%20R.%20decreto%2029%20settembre%201889%20n.%206407%20Serie%203ª%20riguardante%20lintroduzione%20e%20la%20produzione%20nello%20Stato%20della%20saccarina%20e%20dei%20prodotti%20saccarinati.%20090U6858.md), che vieta l'introduzione e la produzione nello Stato della saccarina e dei prodotti saccarinati. 
  Sono altresi' abrogate le disposizioni dell'[art. 9 della legge 2 luglio 1902, n. 238](Regime%20fiscale%20degli%20zuccheri.%20002U0238.md), e successive modificazioni, nonche' quelle della [legge 29 marzo 1940, n. 295](Produzione%20nel%20Regno%20della%20saccarina.%20040U0295.md) e della [legge 16 gennaio 1951, n. 154](Aumento%20delle%20penalita%20per%20il%20contrabbando%20e%20lillecita%20detenzione%20della%20saccarina%20e%20di%20prodotti%20ad%20essa%20assimilabili.md).
 
 ## Art. 2.
@@ -46,7 +46,7 @@ E' vietato l'impiego della saccarina e degli altri edulcoranti artificiali nella
 ## Art. 3.
 
 Salvo che il fatto non costituisca piu' grave reato, i contravventori alle disposizioni del precedente art. 2 sono puniti con l'arresto fino ad un anno o con l'ammenda da lire 200 mila a lire 50 milioni.
- La condanna importa la pubblicazione della sentenza, per una sola volta in uno o piu' giornali a diffusione nazionale designati dal giudice, nei modi stabiliti nel [terzo comma dell'art. 36 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ La condanna importa la pubblicazione della sentenza, per una sola volta in uno o piu' giornali a diffusione nazionale designati dal giudice, nei modi stabiliti nel [terzo comma dell'art. 36 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 4.
 

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Alle suore addette agli stabilimenti sanitari dell'Esercito e della Marina e agli ospedali convenzionati con la Croce Rossa italiana e col Sovrano Militare Ordine di Malta il compenso, gia' previsto per le religiose infermiere in servizio negli stabilimenti sanitari militari dell'Esercito e della Marina dal [regio decreto 23 ottobre 1930, n. 1563](../Regi%20decreti/Provvedimenti%20per%20le%20suore%20addette%20agli%20stabilimenti%20sanitari%20del%20Regio%20esercito%20e%20della%20Regia%20marina.%20030U1563.md), e' corrisposto nella misura seguente:
+Alle suore addette agli stabilimenti sanitari dell'Esercito e della Marina e agli ospedali convenzionati con la Croce Rossa italiana e col Sovrano Militare Ordine di Malta il compenso, gia' previsto per le religiose infermiere in servizio negli stabilimenti sanitari militari dell'Esercito e della Marina dal [regio decreto 23 ottobre 1930, n. 1563](Provvedimenti%20per%20le%20suore%20addette%20agli%20stabilimenti%20sanitari%20del%20Regio%20esercito%20e%20della%20Regia%20marina.%20030U1563.md), e' corrisposto nella misura seguente:
  lire 40 giornaliere dal 1 luglio 1945;
  lire 50 giornaliere dal 1 gennaio 1946;
  lire 80 giornaliere dal 1 gennaio 1947;

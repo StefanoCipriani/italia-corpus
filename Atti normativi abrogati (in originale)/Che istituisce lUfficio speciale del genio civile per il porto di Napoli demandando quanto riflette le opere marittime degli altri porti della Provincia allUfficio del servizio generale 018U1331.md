@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-A decorrere dal 1° settembre 1918 l'Ufficio speciale del genio civile, di cui al succitato [R. decreto 4 marzo 1906, n. 66](../Regi%20decreti/Istituzione%20in%20Napoli%20di%20un%20ufficio%20speciale%20per%20le%20opere%20marittime%20della%20citta%20e%20provincia.%20006U0066.md), dovendo esclusivamente provvedere alla esecuzione dei lavori dipendenti dall'ente autonomo anzidetto, prende il nome di «Ufficio speciale del genio civile per il porto di Napoli».
+A decorrere dal 1° settembre 1918 l'Ufficio speciale del genio civile, di cui al succitato [R. decreto 4 marzo 1906, n. 66](Istituzione%20in%20Napoli%20di%20un%20ufficio%20speciale%20per%20le%20opere%20marittime%20della%20citta%20e%20provincia.%20006U0066.md), dovendo esclusivamente provvedere alla esecuzione dei lavori dipendenti dall'ente autonomo anzidetto, prende il nome di «Ufficio speciale del genio civile per il porto di Napoli».
 
 ## Art. 2.
 

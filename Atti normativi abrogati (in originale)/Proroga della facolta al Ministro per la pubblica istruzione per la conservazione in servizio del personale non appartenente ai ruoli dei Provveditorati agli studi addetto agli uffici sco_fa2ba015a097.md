@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'[art. 2 del R. decreto 20 dicembre 1923, n. 3113](../Regi%20decreti/Disposizioni%20concernenti%20le%20scuole%20elementari%20nei%20territori%20annessi.%20023U3113.md);
+Veduto l'[art. 2 del R. decreto 20 dicembre 1923, n. 3113](Disposizioni%20concernenti%20le%20scuole%20elementari%20nei%20territori%20annessi.%20023U3113.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Il Ministro per la pubblica istruzione e' autorizzato a valersi, sino a non oltre il 30 giugno 1925, della facolta' gia' concessagli con l'[art. 2 del R. decreto 20 dicembre 1923, n. 3113](../Regi%20decreti/Disposizioni%20concernenti%20le%20scuole%20elementari%20nei%20territori%20annessi.%20023U3113.md).
+Il Ministro per la pubblica istruzione e' autorizzato a valersi, sino a non oltre il 30 giugno 1925, della facolta' gia' concessagli con l'[art. 2 del R. decreto 20 dicembre 1923, n. 3113](Disposizioni%20concernenti%20le%20scuole%20elementari%20nei%20territori%20annessi.%20023U3113.md).
 
 ## Art. 2.
 

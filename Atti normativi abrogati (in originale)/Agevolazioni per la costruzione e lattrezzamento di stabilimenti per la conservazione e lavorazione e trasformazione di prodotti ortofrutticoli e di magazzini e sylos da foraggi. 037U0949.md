@@ -67,7 +67,7 @@ al 1967-68 . . . . . . . . . . . . . . . . . . . . . . L. 2.000.000 >> 1968-69 .
  >> 1971-72 . . . . . . . . . . . . . . . . . . L. 400.000
  
  
- Il limite massimo degli stanziamenti previsti dall'[art. 4 del R. decreto 30 dicembre 1923, n. 3139](../Regi%20decreti/Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), e successive modificazioni, per contributo dello Stato negli interessi su operazioni di credito agrario di miglioramento e' ridotto di L. 2.000.000, ed il limite annuo di impegno per i contributi di cui sopra e' stabilito, a decorrere dall'esercizio 1937-38, nella somma di L. 3.000.000. 
+ Il limite massimo degli stanziamenti previsti dall'[art. 4 del R. decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), e successive modificazioni, per contributo dello Stato negli interessi su operazioni di credito agrario di miglioramento e' ridotto di L. 2.000.000, ed il limite annuo di impegno per i contributi di cui sopra e' stabilito, a decorrere dall'esercizio 1937-38, nella somma di L. 3.000.000. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

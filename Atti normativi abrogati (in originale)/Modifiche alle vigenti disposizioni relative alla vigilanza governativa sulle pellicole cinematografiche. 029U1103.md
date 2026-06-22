@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- L'esame dei copioni e la revisione delle pellicole cinematografiche, agli effetti del [R. decreto 24 settembre 1923, n. 3287](../Regi%20decreti/Regolamento%20per%20la%20vigilanza%20governativa%20sulle%20pellicole%20cinematografiche.%20023U3287.md), modificato dal [R. decreto 18 settembre 1924, n. 1682](../Regi%20decreti/Modificazioni%20al%20nuovo%20regolamento%20per%20la%20vigilanza%20sulle%20pellicole%20cinematografiche%20approvato%20con%20R.%20decreto%2024%20settembre%201923%20n.%203287.%20024U1682.md), e dalla [legge 16 giugno 1927, n. 1121](Disposizioni%20per%20la%20proiezione%20obbligatoria%20di%20pellicole%20cinematografiche%20di%20produzione%20nazionale.%20027U1121.md), sono affidati a Commissioni composte: 
+ L'esame dei copioni e la revisione delle pellicole cinematografiche, agli effetti del [R. decreto 24 settembre 1923, n. 3287](Regolamento%20per%20la%20vigilanza%20governativa%20sulle%20pellicole%20cinematografiche.%20023U3287.md), modificato dal [R. decreto 18 settembre 1924, n. 1682](Modificazioni%20al%20nuovo%20regolamento%20per%20la%20vigilanza%20sulle%20pellicole%20cinematografiche%20approvato%20con%20R.%20decreto%2024%20settembre%201923%20n.%203287.%20024U1682.md), e dalla [legge 16 giugno 1927, n. 1121](Disposizioni%20per%20la%20proiezione%20obbligatoria%20di%20pellicole%20cinematografiche%20di%20produzione%20nazionale.%20027U1121.md), sono affidati a Commissioni composte: 
  
  a) di un funzionario del gruppo A dell'Amministrazione dell'interno, appartenente alla Direzione generale della pubblica sicurezza, con funzioni di presidente; 
  

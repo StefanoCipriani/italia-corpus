@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 9 novembre 1939, n. 1821](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20della%20Cassa%20di%20sovvenzione%20per%20le%20vedove%20e%20gli%20orfani%20degli%20impiegati%20e%20per%20gli%20impiegati%20invalidi%20della%20Societa%20generale%20conserve%20alimentari%20Cirio%20con%20sede_fb16d5063e26.md), con il quale 6 stato approvato Io statuto della Cassa di sovvenzione per le vedove e gli orfani degli impiegati invalidi della Societa' generale delle conserve alimentari Cirio, con sede in Napoli;
+Visto il [regio decreto 9 novembre 1939, n. 1821](Approvazione%20del%20nuovo%20statuto%20della%20Cassa%20di%20sovvenzione%20per%20le%20vedove%20e%20gli%20orfani%20degli%20impiegati%20e%20per%20gli%20impiegati%20invalidi%20della%20Societa%20generale%20conserve%20alimentari%20Cirio%20con%20sede_fb16d5063e26.md), con il quale 6 stato approvato Io statuto della Cassa di sovvenzione per le vedove e gli orfani degli impiegati invalidi della Societa' generale delle conserve alimentari Cirio, con sede in Napoli;
 
 Ritenuta la necessita' di modificare taluni articoli dello statuto predetto;
 

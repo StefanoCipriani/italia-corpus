@@ -16,7 +16,7 @@ Visti gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legg
 
 Visto il [decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
-Visto il [decreto legislativo 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
+Visto il [decreto legislativo 12 febbraio 1993, n. 39](../Decreti%20Legislativi/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -41,7 +41,7 @@ I procedimenti di competenza dell'amministrazione dei trasporti e della navigazi
 Nella tabella C allegata al presente regolamento, sono indicati i termini entro i quali, al di fuori delle ipotesi di cui agli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_16) e [17 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_17), l'amministrazione dei trasporti e della navigazione espleta la prescritta attivita' endoprocedimentale e manifesta il proprio intento, comunque determinato, nei procedimenti di competenza di altre amministrazioni.
 
 AVVERTENZA: 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulla pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulla pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Note alle premesse: 
  - La [legge n. 241/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241) reca: "Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi". Gli articoli 2, 4 e 12 cosi' recitano: 
  "Art. 2. - 1. Ove il procedimento consegua obbligatoriamente ad una istanza, ovvero debba essere iniziato d'ufficio, la pubblica amministrazione ha il dovere di concluderlo mediante l'adozione di un provvedimento espresso. 
@@ -75,7 +75,7 @@ AVVERTENZA:
 
 1.
 
-Gli atti amministrativi adottati dall'amministrazione dei trasporti e della navigazione sono di norma predisposti tramite i sistemi informativi automatizzati, ai sensi dell'[art. 3 del decreto legislativo 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+Gli atti amministrativi adottati dall'amministrazione dei trasporti e della navigazione sono di norma predisposti tramite i sistemi informativi automatizzati, ai sensi dell'[art. 3 del decreto legislativo 12 febbraio 1993, n. 39](../Decreti%20Legislativi/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 2.
 
@@ -249,7 +249,7 @@ Salvo diversa determinazione, relativamente agli uffici centrali dell'amministra
 
 2.
 
-Relativamente agli uffici periferici dell'Amministrazione dei trasporti e della navigazione devono intendersi per unita' organizzative responsabili dell'istruttoria e di ogni altro adempimento procedimentale nonche' dell'adozione del provvedimento finale, salvo diversa determinazione, l'ufficio marittimo periferico attributario delle relative competenze stabilite dal [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e successive modificazioni e dal regolamento per la sua esecuzione (parte marittima) approvato con decreto del Presidente della Republbica 15 febbraio 1952, n. 328, e successive modificazioni.
+Relativamente agli uffici periferici dell'Amministrazione dei trasporti e della navigazione devono intendersi per unita' organizzative responsabili dell'istruttoria e di ogni altro adempimento procedimentale nonche' dell'adozione del provvedimento finale, salvo diversa determinazione, l'ufficio marittimo periferico attributario delle relative competenze stabilite dal [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e successive modificazioni e dal regolamento per la sua esecuzione (parte marittima) approvato con decreto del Presidente della Republbica 15 febbraio 1952, n. 328, e successive modificazioni.
 
 ## Art. 11. — Responsabile del procedimento
 

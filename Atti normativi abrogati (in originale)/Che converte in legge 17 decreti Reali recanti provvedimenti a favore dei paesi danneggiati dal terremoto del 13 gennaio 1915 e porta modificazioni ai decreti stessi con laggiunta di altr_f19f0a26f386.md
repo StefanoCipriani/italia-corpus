@@ -12,9 +12,9 @@ vigente: true
 
 Sono convertiti in legge i seguenti decreti Reali, recanti provvedimenti in conseguenza del terremoto del 13 gennaio 1915: 
  
- 1° [R. decreto 14 gennaio 1915, n. 7](../Regi%20decreti/Col%20quale%20lo%20stanziamento%20del%20cap.%20n.%20140%20del%20fondo%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20e%20aumentato%20di%20due%20milioni%20di%20lire.%20015U0007.md), che aumenta di L. 2 milioni lo stanziamento del fondo di riserva per le spese impreviste (Allegato A); 
+ 1° [R. decreto 14 gennaio 1915, n. 7](Col%20quale%20lo%20stanziamento%20del%20cap.%20n.%20140%20del%20fondo%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20e%20aumentato%20di%20due%20milioni%20di%20lire.%20015U0007.md), che aumenta di L. 2 milioni lo stanziamento del fondo di riserva per le spese impreviste (Allegato A); 
  
- 2° [R. decreto 14 gennaio 1915, n. 13](../Regi%20decreti/Col%20quale%20viene%20nominato%20il%20R.%20commissario%20e%20sono%20dati%20provvedimenti%20per%20i%20comuni%20dei%20circondari%20di%20Avezzano%20e%20di%20Sora%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915.%20015U0013.md), portante nomina di un R. commissario per i comuni danneggiati dei circondari di Avezzano e di Sora e altre disposizioni riguardanti i Comuni stessi (Allegato B);  
+ 2° [R. decreto 14 gennaio 1915, n. 13](Col%20quale%20viene%20nominato%20il%20R.%20commissario%20e%20sono%20dati%20provvedimenti%20per%20i%20comuni%20dei%20circondari%20di%20Avezzano%20e%20di%20Sora%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915.%20015U0013.md), portante nomina di un R. commissario per i comuni danneggiati dei circondari di Avezzano e di Sora e altre disposizioni riguardanti i Comuni stessi (Allegato B);  
  3° [R. decreto 21 gennaio 1915, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-21;20), concernente la moratoria di sei mesi per le cambiali, gli assegni bancari e le obbligazioni commerciali nella provincia di Aquila e nel circondario di Sora (Allegato C); 
  
  4° [R. decreto 21 gennaio 1915, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-21;27), portante provvedimenti vari a favore dei Comuni colpiti dal terremoto, da iscriversi in appositi elenchi (Allegato D); 
@@ -27,9 +27,9 @@ Sono convertiti in legge i seguenti decreti Reali, recanti provvedimenti in cons
  
  8° [R. decreto 22 gennaio 1915, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-22;28), con cui si provvede alla nomina di un R. commissario per i Comuni del circondario di Sora (Allegato H); 
  
- 9° [R. decreto 28 gennaio 1915, n. 48](../Regi%20decreti/Recante%20provvedimenti%20relativi%20allAmministrazione%20della%20giustizia%20pei%20luoghi%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915.%20015U0048.md), recante provvedimenti relativi all'amministrazione della giustizia nei luoghi colpiti dal terremoto (Allegato I); 
+ 9° [R. decreto 28 gennaio 1915, n. 48](Recante%20provvedimenti%20relativi%20allAmministrazione%20della%20giustizia%20pei%20luoghi%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915.%20015U0048.md), recante provvedimenti relativi all'amministrazione della giustizia nei luoghi colpiti dal terremoto (Allegato I); 
  
- 10° [R. decreto 31 gennaio 1915, n. 53](../Regi%20decreti/Recante%20nuove%20disposizioni%20per%20la%20moratoria%20delle%20cambiali%20nei%20paesi%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915.%20015U0053.md), che stabilisce nuove norme circa la moratoria e la esenzione degli interessi sulle cambiali e sugli assegni bancari di debitori residenti in Comuni colpiti dal terremoto (Allegato L); 
+ 10° [R. decreto 31 gennaio 1915, n. 53](Recante%20nuove%20disposizioni%20per%20la%20moratoria%20delle%20cambiali%20nei%20paesi%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915.%20015U0053.md), che stabilisce nuove norme circa la moratoria e la esenzione degli interessi sulle cambiali e sugli assegni bancari di debitori residenti in Comuni colpiti dal terremoto (Allegato L); 
  
  11° [R. decreto 5 febbraio 1915, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-05;62), che dispone la formazione di elenchi dei Comuni meno gravemente danneggiati e porta altri provvedimenti (Allegato M); 
  

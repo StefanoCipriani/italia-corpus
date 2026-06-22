@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 27 dicembre 1940, n. 1728](Disciplina%20della%20distribuzione%20e%20dei%20consumi%20dei%20prodotti%20industriali%20in%20periodo%20di%20guerra.%20040U1728.md), convertito in legge, con modificazioni, con la [legge 20 marzo 1941, n. 384](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20dicembre%201940-XIX%20n.%201728%20contenente%20norme%20per%20la%20disciplina%20della%20distribuzione%20e%20dei%20consumi%20dei%20prodotti%20industriali%20in%20p_d3a41bb595d6.md);
+Visto il [R. decreto-legge 27 dicembre 1940, n. 1728](Disciplina%20della%20distribuzione%20e%20dei%20consumi%20dei%20prodotti%20industriali%20in%20periodo%20di%20guerra.%20040U1728.md), convertito in legge, con modificazioni, con la [legge 20 marzo 1941, n. 384](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20dicembre%201940-XIX%20n.%201728%20contenente%20norme%20per%20la%20disciplina%20della%20distribuzione%20e%20dei%20consumi%20dei%20prodotti%20industriali%20in%20p_d3a41bb595d6.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per l'industria e il commercio; Abbiamo sanzionato e
 
 ## Art. 1.
 
-Sono prorogati fino a quattro mesi dopo la cessazione dello stato di guerra le disiposizioni contenute nel [Regio decreto-legge 27 dicembre 1940, n. 1728](Disciplina%20della%20distribuzione%20e%20dei%20consumi%20dei%20prodotti%20industriali%20in%20periodo%20di%20guerra.%20040U1728.md), convertito, con modificazioni, nella [legge 20 marzo 1941 n. 384](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20dicembre%201940-XIX%20n.%201728%20contenente%20norme%20per%20la%20disciplina%20della%20distribuzione%20e%20dei%20consumi%20dei%20prodotti%20industriali%20in%20p_d3a41bb595d6.md).
+Sono prorogati fino a quattro mesi dopo la cessazione dello stato di guerra le disiposizioni contenute nel [Regio decreto-legge 27 dicembre 1940, n. 1728](Disciplina%20della%20distribuzione%20e%20dei%20consumi%20dei%20prodotti%20industriali%20in%20periodo%20di%20guerra.%20040U1728.md), convertito, con modificazioni, nella [legge 20 marzo 1941 n. 384](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20dicembre%201940-XIX%20n.%201728%20contenente%20norme%20per%20la%20disciplina%20della%20distribuzione%20e%20dei%20consumi%20dei%20prodotti%20industriali%20in%20p_d3a41bb595d6.md).
 
 ## Art. 2.
 

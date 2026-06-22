@@ -46,7 +46,7 @@ Sono amministrazioni aggiudicatrici:
 
 4.
 
-Le regioni a statuto ordinario ed a statuto speciale, nonche' le province autonome di Trento e di Bolzano, nella loro rispettiva competenza, sono tenute ad adeguare alle disposizioni del presente decreto la normativa emanata nella materia, ai sensi del combinato disposto dell'[art. 6 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md) e dell'[art. 9 della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md).
+Le regioni a statuto ordinario ed a statuto speciale, nonche' le province autonome di Trento e di Bolzano, nella loro rispettiva competenza, sono tenute ad adeguare alle disposizioni del presente decreto la normativa emanata nella materia, ai sensi del combinato disposto dell'[art. 6 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md) e dell'[art. 9 della legge 9 marzo 1989, n. 86](Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md).
 Costituiscono norme di principio quelle contenute negli articoli dal 2 all'11 e 13 del presente decreto.
 
 5.

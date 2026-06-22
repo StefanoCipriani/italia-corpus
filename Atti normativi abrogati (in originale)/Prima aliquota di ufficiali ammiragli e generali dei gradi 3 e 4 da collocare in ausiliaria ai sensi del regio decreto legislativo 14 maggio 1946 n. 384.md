@@ -16,7 +16,7 @@ Sulla proposta del Ministro per la marina militare, di concerto con il Ministro 
 
 ## Art. 1.
 
-Le aliquote degli ammiragli di Squadra, degli ammiragli di Divisione, dei tenenti generali del Corpo sanitario militare marittimo e dei tenenti generali del Corpo di commissariato, che possono essere collocati in ausiliaria per la prima applicazione del [regio decreto legislativo 14 maggio 1946, n. 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), sono fissate come segue:
+Le aliquote degli ammiragli di Squadra, degli ammiragli di Divisione, dei tenenti generali del Corpo sanitario militare marittimo e dei tenenti generali del Corpo di commissariato, che possono essere collocati in ausiliaria per la prima applicazione del [regio decreto legislativo 14 maggio 1946, n. 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), sono fissate come segue:
 
  ammiragli di Squadra. . . . . . . . . . . . . . . . . . . . . . . 2 ammiragli di Divisione. . . . . . . . . . . . . . . . . . . . . . 3 tenenti generali medici . . . . . . . . . . . . . . . . . . . . . 1 tenenti generali commissari . . . . . . . . . . . . . . . . . . . 1
 

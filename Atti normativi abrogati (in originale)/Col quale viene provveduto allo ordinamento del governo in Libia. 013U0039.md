@@ -74,13 +74,13 @@ Il capo di stato maggiore si occupa esclusivamente degli affari di carattere mil
 
 ## Art. 8.
 
-Fermo restando quanto e' disposto nel [terzo comma dell'art. 4 del R. decreto 20 novembre 1912, n. 1205](riguardante%20le%20norme%20relative%20alla%20costituzione%20del%20Ministero%20delle%20Colonie%20012U1205.md), il governatore, nella sua qualita' di comandante delle truppe, esercita tutte le attribuzioni spettanti ai comandanti di corpo d'armata isolato, e, quando sia dichiarato lo statti di guerra o lo stato di assedio, ha le facolta', che in simili casi sono conferite ai comandanti di corpo d'armata dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e dalle leggi e dai regolateti miliari.
+Fermo restando quanto e' disposto nel [terzo comma dell'art. 4 del R. decreto 20 novembre 1912, n. 1205](riguardante%20le%20norme%20relative%20alla%20costituzione%20del%20Ministero%20delle%20Colonie%20012U1205.md), il governatore, nella sua qualita' di comandante delle truppe, esercita tutte le attribuzioni spettanti ai comandanti di corpo d'armata isolato, e, quando sia dichiarato lo statti di guerra o lo stato di assedio, ha le facolta', che in simili casi sono conferite ai comandanti di corpo d'armata dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e dalle leggi e dai regolateti miliari.
 
 ## Art. 9.
 
 Per ragioni gravi di ordine pubblica di sicurezza il governatore puo' proclamare lo stato assedio in tutto il territorio di sua giurisdizione o in parte di esso. 
  
- Potra' inoltre istituire tribunali speciali, stabilire che alcuni reati che vengano commessi dagli abitanti siano giudicati secondo le forme ed applicando le pene fissate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per il tempo di guerra, e adottare quegli altri provvedimenti che reputi necessaria seconda delle circostanze. 
+ Potra' inoltre istituire tribunali speciali, stabilire che alcuni reati che vengano commessi dagli abitanti siano giudicati secondo le forme ed applicando le pene fissate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per il tempo di guerra, e adottare quegli altri provvedimenti che reputi necessaria seconda delle circostanze. 
  
  Potra' anche ordinare il confino di indigeni in localita' determinate e l'espulsione di stranieri od anche di sudditi italiani, la cui presenza o per condanne riportate o per la loro condotta o per il loro contegno verso le autorita' ed il Governo o per ragioni di ordine politico sia pericolosa ed intollerabile. 
  

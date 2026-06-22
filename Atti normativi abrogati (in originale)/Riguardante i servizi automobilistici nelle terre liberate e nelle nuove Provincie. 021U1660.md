@@ -22,7 +22,7 @@ Ritenuta la necessita' di prorogare tale termine e di estendere i provvedimenti 
 
 Considerato che non sussistono piu' le condizioni anormali che consigliarono di elevare per le terre liberate i sussidi per i servizi automobilistici oltre i limiti ordinari previsti dagli articoli 276 e 277 del testo unico approvato con [R. decreto 9 maggio 1912, numero 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md);
 
-Viste le [leggi 28 settembre 1920, n. 1322 e 19 dicembre 1920, n. 1778](Che%20approva%20lannesso%20Trattato%20concluso%20fra%20il%20Regno%20dItalia%20e%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20020U1778.md) e il [R. decreto 30 settembre 1920, n. 1389](../Regi%20decreti/Contenente%20norme%20pel%20passaggio%20dallo%20stato%20di%20guerra%20allo%20stato%20di%20pace.%20020U1389.md);
+Viste le [leggi 28 settembre 1920, n. 1322 e 19 dicembre 1920, n. 1778](Che%20approva%20lannesso%20Trattato%20concluso%20fra%20il%20Regno%20dItalia%20e%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20020U1778.md) e il [R. decreto 30 settembre 1920, n. 1389](Contenente%20norme%20pel%20passaggio%20dallo%20stato%20di%20guerra%20allo%20stato%20di%20pace.%20020U1389.md);
 
 Sentito il Consiglio dei ministri;
 

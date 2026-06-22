@@ -18,7 +18,7 @@ Veduto il [R. decreto 16 luglio 1923, n. 1753](Ordinamento%20e%20attribuzioni%20
 
 Veduto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduto l'art. 168 del testo unico per l'istruzione elementare approvato col [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
+Veduto l'art. 168 del testo unico per l'istruzione elementare approvato col [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Veduto il [R. decreto 13 agosto 1926, n. 1613](Istituzione%20della%20Commissione%20centrale%20per%20le%20biblioteche%20e%20dei%20Comitati%20provinciali%20di%20vigilanza%20bibliografica.%20026U1613.md);
 

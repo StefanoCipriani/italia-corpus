@@ -14,7 +14,7 @@ I magistrati di carriera richiamati alle armi quali militari di truppa, destinat
 
 ## Art. 2.
 
-Nella sede dei tribunali militari od altri uffici militari, cui sono addetti, essi non hanno diritto ad alcuna indennita' di missione, trovandosi essi ivi, nella sede dello speciale servizio militare, cui sono stati chiamati. Solo quando si assentino temporaneamente, per ragioni di servizio, da tale sede, sara' loro corrisposta l'indennita' di missione a senso del [R. decreto 14 settembre 1862, n. 840](../Regi%20decreti/Che%20stabilisce%20le%20indennita%20da%20corrispondersi%20agli%20Impiegati%20di%20vari%20Dicasteri%20in%20missione%20per%20affari%20amministrativi.%20062U0840.md).
+Nella sede dei tribunali militari od altri uffici militari, cui sono addetti, essi non hanno diritto ad alcuna indennita' di missione, trovandosi essi ivi, nella sede dello speciale servizio militare, cui sono stati chiamati. Solo quando si assentino temporaneamente, per ragioni di servizio, da tale sede, sara' loro corrisposta l'indennita' di missione a senso del [R. decreto 14 settembre 1862, n. 840](Che%20stabilisce%20le%20indennita%20da%20corrispondersi%20agli%20Impiegati%20di%20vari%20Dicasteri%20in%20missione%20per%20affari%20amministrativi.%20062U0840.md).
 
 ## Art. 3.
 

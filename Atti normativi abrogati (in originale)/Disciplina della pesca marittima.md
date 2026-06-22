@@ -22,7 +22,7 @@ Le disposizioni della presente legge concernono la pesca esercitata nelle acque 
 ## Art. 2. — Organi di studio e ricerca
 
 Per le ricerche scientifiche, tecnologiche e pratiche applicate alla pesca, e per tutti gli studi, le ricerche e le indagini occorrenti per lo sviluppo dell'industria, della pesca, della produzione ittica, e per l'adeguamento della sua disciplina giuridica, il Ministero della marina mercantile puo' avvalersi del Laboratorio centrale di idrobiologia applicata alla pesca, degli Osservatori di pesca marittima, degli Istituti talassografici e di ogni altro organismo o istituto operante a tal fine.
- L'azione di cui al precedente comma e' integrata, per le indagini pratiche, da quella della squadriglia sperimentale di pesca, istituita con [regio decreto 10 giugno 1920, n. 913](../Regi%20decreti/Concernente%20il%20concorso%20della%20R.%20marina%20nelle%20operazioni%20attinenti%20al%20progresso%20dellindustria%20peschereccia%20nazionale.%20020U0913.md).
+ L'azione di cui al precedente comma e' integrata, per le indagini pratiche, da quella della squadriglia sperimentale di pesca, istituita con [regio decreto 10 giugno 1920, n. 913](Concernente%20il%20concorso%20della%20R.%20marina%20nelle%20operazioni%20attinenti%20al%20progresso%20dellindustria%20peschereccia%20nazionale.%20020U0913.md).
 
 ## Art. 3. — Addestramento professionale ed insegnamento di discipline applicate alla pesca
 
@@ -111,7 +111,7 @@ Presso ogni Capitaneria di porto e' istituito un registro delle imprese di pesca
 
 ## Art. 12. — Permesso di pesca
 
-Le navi e i galleggianti abilitati alla navigazione ai sensi dell'[articolo 149 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), per esercitare la pesca, devono essere muniti di apposito permesso.
+Le navi e i galleggianti abilitati alla navigazione ai sensi dell'[articolo 149 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), per esercitare la pesca, devono essere muniti di apposito permesso.
  Il permesso di pesca e' rilasciato dall'autorita' marittima indicata dal regolamento, alle condizioni e con le modalita' ivi previste, all'imprenditore di pesca che abbia reso la dichiarazione indicata dal precedente articolo 11.
  Il permesso ha un periodo di validita' di quattro anni ed e' rinnovato con le modalita' stabilite dal regolamento.
 
@@ -213,7 +213,7 @@ L'armatore e l'imprenditore di pesca sono solidamente e civilmente responsabili 
 
 ## Art. 31. — Sanzioni disciplinari
 
-Le infrazioni alla presente legge commesse da appartenenti a personale marittimo sono punite, anche con pene disciplinari, ai sensi degli [articoli 1249 e seguenti del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+Le infrazioni alla presente legge commesse da appartenenti a personale marittimo sono punite, anche con pene disciplinari, ai sensi degli [articoli 1249 e seguenti del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 ## Art. 32. — Potere del Ministro per la marina mercantile
 

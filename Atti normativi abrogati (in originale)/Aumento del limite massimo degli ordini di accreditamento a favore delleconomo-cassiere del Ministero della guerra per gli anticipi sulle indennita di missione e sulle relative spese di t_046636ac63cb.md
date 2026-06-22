@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-L'[art. 5 del R. decreto 8 giugno 1905, n. 244](../Regi%20decreti/Che%20fissa%20le%20attribuzioni%20delleconomo-cassiere%20del%20Ministero%20della%20guerra.%20005U0244.md), quale risulta successivamente modificato, e', in via temporanea e fino a contraria disposizione, sostituito dal seguente:
+L'[art. 5 del R. decreto 8 giugno 1905, n. 244](Che%20fissa%20le%20attribuzioni%20delleconomo-cassiere%20del%20Ministero%20della%20guerra.%20005U0244.md), quale risulta successivamente modificato, e', in via temporanea e fino a contraria disposizione, sostituito dal seguente:
  "Gli ordini di accreditamento per il pagamento delle spese di cui all'art. 4 saranno regolati in modo che ciascun mandato non superi:
  le lire 50.000 complessivamente per le spese di cui ai numeri 3 e 4;
  le lire 6.000 per quelle di cui al numero 5;

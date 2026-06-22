@@ -82,7 +82,7 @@ Se dopo l'istruzione sommaria il procuratore militare ritiene che non si debba p
 
 ## Art. 10.
 
-Il Tribunale divisionale puo' essere convocato come Tribunale straordinario nei casi previsti dall'[art. 283 Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra e dall'[art. 4 del R. decreto-legge 29 luglio 1943, n. 668](Soppressione%20del%20Tribunale%20speciale%20per%20la%20difesa%20della%20Stato.%20043U0668.md), per disposizione del comandante dell'unita' presso la quale e' costituito.
+Il Tribunale divisionale puo' essere convocato come Tribunale straordinario nei casi previsti dall'[art. 283 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra e dall'[art. 4 del R. decreto-legge 29 luglio 1943, n. 668](Soppressione%20del%20Tribunale%20speciale%20per%20la%20difesa%20della%20Stato.%20043U0668.md), per disposizione del comandante dell'unita' presso la quale e' costituito.
 
 ## Art. 11.
 

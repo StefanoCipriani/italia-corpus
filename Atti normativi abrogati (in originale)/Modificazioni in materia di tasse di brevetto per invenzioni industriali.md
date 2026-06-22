@@ -26,7 +26,7 @@ b) se la descrizione supera le 10 pagine di scrittura ma non le
 
 ## Art. 2.
 
-Il limite di L. 300 (seicento) annue di cui all'[art. 44 del regio decreto 5 febbraio 1940, n. 244](../Regi%20decreti/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20040U0244.md), ed all'[art. 42 del regio decreto 31 ottobre 1941, n. 1354](../Regi%20decreti/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20041U1354.md), viene elevato a L. 20.000 annue.
+Il limite di L. 300 (seicento) annue di cui all'[art. 44 del regio decreto 5 febbraio 1940, n. 244](Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20040U0244.md), ed all'[art. 42 del regio decreto 31 ottobre 1941, n. 1354](Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20041U1354.md), viene elevato a L. 20.000 annue.
 
 ## Art. 3.
 

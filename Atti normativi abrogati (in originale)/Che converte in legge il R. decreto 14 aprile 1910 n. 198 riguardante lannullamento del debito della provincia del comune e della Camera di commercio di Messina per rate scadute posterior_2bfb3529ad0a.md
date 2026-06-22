@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 14 aprile 1910, n. 198](../Regi%20decreti/Che%20annulla%20il%20debito%20delta%20provincia%20del%20comune%20e%20della%20Camera%20di%20commercio%20ed%20arti%20di%20Messina%20per%20rate%20scadute%20posteriormente%20al%2028%20dicembre%201908%20sul%20contributo%20nelle%20spese%20di%20mantenime_4bf1e8701944.md), riguardante l'annullamento del debito della Provincia, del Comune e della Camera di commercio ed arti di Messina, per rate scadute posteriormente al 28 dicembre 1908, sul contributo nelle spese di mantenimento della R. Universita' degli studi. 
+ E' convertito in legge il [R. decreto 14 aprile 1910, n. 198](Che%20annulla%20il%20debito%20delta%20provincia%20del%20comune%20e%20della%20Camera%20di%20commercio%20ed%20arti%20di%20Messina%20per%20rate%20scadute%20posteriormente%20al%2028%20dicembre%201908%20sul%20contributo%20nelle%20spese%20di%20mantenime_4bf1e8701944.md), riguardante l'annullamento del debito della Provincia, del Comune e della Camera di commercio ed arti di Messina, per rate scadute posteriormente al 28 dicembre 1908, sul contributo nelle spese di mantenimento della R. Universita' degli studi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

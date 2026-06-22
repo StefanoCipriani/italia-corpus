@@ -11,7 +11,7 @@ vigente: true
 ## Art. 1.
 
 Le variazioni e le consistenze dei materiali dei magazzini della R.
-Calcografia di Roma e dell'Opificio delle pietre dure di Firenze, dipendenti dal Ministero della istruzione pubblica, sottoposti al riscontro effettivo col [R. decreto 21 maggio 1905, n. 231](../Regi%20decreti/Che%20sottopone%20al%20riscontro%20istituito%20dalla%20legge%2011%20luglio%201897%20n.%20256%20le%20merci%20e%20i%20materiali%20dogni%20specie%20raccolti%20nellOpificio%20delle%20pietre%20dure%20di%20Firenze%20e%20della%20R.%20Calcografia%20di%20Roma.%20005U0231.md), saranno dimostrate a cominciare dal 1° luglio 1915: 
+Calcografia di Roma e dell'Opificio delle pietre dure di Firenze, dipendenti dal Ministero della istruzione pubblica, sottoposti al riscontro effettivo col [R. decreto 21 maggio 1905, n. 231](Che%20sottopone%20al%20riscontro%20istituito%20dalla%20legge%2011%20luglio%201897%20n.%20256%20le%20merci%20e%20i%20materiali%20dogni%20specie%20raccolti%20nellOpificio%20delle%20pietre%20dure%20di%20Firenze%20e%20della%20R.%20Calcografia%20di%20Roma.%20005U0231.md), saranno dimostrate a cominciare dal 1° luglio 1915: 
  
  1° da elenchi semestrali delle variazioni conformi all'unito mod.
 D comune a tutte le categorie sia del materiale della R. Calcografia di Roma, fatta eccezione della categoria «stampe», sia del materiale dell'Opificio delle pietre dure. 

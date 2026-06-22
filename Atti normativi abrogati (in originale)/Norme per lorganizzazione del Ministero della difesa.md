@@ -33,7 +33,7 @@ Il Gabinetto del Ministro per la difesa e' composto di:
  4) non piu' di ventiquattro impiegati di gruppo C o sottufficiali delle Forze armate per i servizi di archivio e di copia.
  I funzionari ed impiegati delle tre preesistenti Amministrazioni e gli ufficiali addetti al Gabinetto compresi nelle categorie indicate ai numeri 3 e 4, debbono essere in misura pari per ciascuna delle Amministrazioni stesse.
  Nel Gabinetto del Ministro per la difesa e nelle Segreterie particolari dei Sottosegretari di Stato possono essere addetti ai servizi degli archivi riservati anche ufficiali del Corpo equipaggi militari marittimi ed ufficiali di grado non superiore a quello di capitano, o sottufficiali dell'Esercito e dell'Aeronautica.
- Restano ferme le disposizioni dell'art. 1, ultimo comma, del [regio decreto-legge 10 luglio 1924, n. 1100, e dell'art. 181](Norme%20sulla%20costituzione%20dei%20Gabinetti%20dei%20Ministri%20e%20delle%20segreterie%20particolari%20dei%20Sottosegretari%20di%20Stato.%20024U1100.md), settimo, comma del [regio decreto 11 novembre 1923 n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), per i distacchi e le aggregazioni ivi previste.
+ Restano ferme le disposizioni dell'art. 1, ultimo comma, del [regio decreto-legge 10 luglio 1924, n. 1100, e dell'art. 181](Norme%20sulla%20costituzione%20dei%20Gabinetti%20dei%20Ministri%20e%20delle%20segreterie%20particolari%20dei%20Sottosegretari%20di%20Stato.%20024U1100.md), settimo, comma del [regio decreto 11 novembre 1923 n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), per i distacchi e le aggregazioni ivi previste.
 
 ## Art. 3.
 

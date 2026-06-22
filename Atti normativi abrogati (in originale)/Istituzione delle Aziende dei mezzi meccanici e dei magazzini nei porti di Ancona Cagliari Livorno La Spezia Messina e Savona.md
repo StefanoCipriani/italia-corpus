@@ -159,7 +159,7 @@ Quando si verifichino circostanze per le quali sia pregiudicato il regolare funz
 
 ## Art. 22.
 
-Il [regio decreto 9 gennaio 1941, n. 541](../Regi%20decreti/Costituzione%20presso%20le%20Capitanerie%20di%20porto%20di%20aziende%20speciali%20che%20assumono%20la%20denominazione%20di%20Aziende%20dei%20mezzi%20meccanici%20e%20dei%20magazzini%20portuali.%20041U0541.md), e' abrogato.
+Il [regio decreto 9 gennaio 1941, n. 541](Costituzione%20presso%20le%20Capitanerie%20di%20porto%20di%20aziende%20speciali%20che%20assumono%20la%20denominazione%20di%20Aziende%20dei%20mezzi%20meccanici%20e%20dei%20magazzini%20portuali.%20041U0541.md), e' abrogato.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

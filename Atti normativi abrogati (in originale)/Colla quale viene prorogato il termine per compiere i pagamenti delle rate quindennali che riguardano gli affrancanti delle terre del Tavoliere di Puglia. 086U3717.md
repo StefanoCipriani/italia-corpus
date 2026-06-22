@@ -16,7 +16,7 @@ E' prorogato di cinque anni il termine stabilito dall'[art. 3 della legge 9 marz
 
 Al 15 giugno e 15 agosto dell'anno 1886 sara' accertato e liquidato il debito che per ogni affrancante resultera' a quelle epoche insoluto. 
  
- Questo debito, aumentato dell'interesse scalare alla ragione del 5 per 100, sara' repartito in cinque uguali rate annue, da soddisfarsi, incominciando dall'anno 1887, alle scadenze, e nei modi indicati dall'[art. 5 della legge 26 febbraio 1865, n. 2168](Per%20laffrancamento%20delle%20terre%20del%20Tavoliere%20di%20Miglia.%20065U2168.md), e dall'articolo 14 del regolamento approvato col [Regio decreto 23 marzo 1865, n. 2211](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20esecuzione%20della%20Legge%20sullaffrancamento%20del%20Tavoliere%20di%20Puglia.%20065U2211.md).
+ Questo debito, aumentato dell'interesse scalare alla ragione del 5 per 100, sara' repartito in cinque uguali rate annue, da soddisfarsi, incominciando dall'anno 1887, alle scadenze, e nei modi indicati dall'[art. 5 della legge 26 febbraio 1865, n. 2168](Per%20laffrancamento%20delle%20terre%20del%20Tavoliere%20di%20Miglia.%20065U2168.md), e dall'articolo 14 del regolamento approvato col [Regio decreto 23 marzo 1865, n. 2211](Che%20approva%20il%20Regolamento%20per%20la%20esecuzione%20della%20Legge%20sullaffrancamento%20del%20Tavoliere%20di%20Puglia.%20065U2211.md).
 
 ## Art. 3.
 

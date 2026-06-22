@@ -90,7 +90,7 @@ Gli ufficiali collocati in «congedo speciale» rimangono in tale posizione salv
 
 Il periodo trascorso in «congedo speciale» si computa per intero agli effetti della pensione, escluso, per quanto riguarda il servizio di volo, l'aumento di favore previsto dall'[art. 5 del decreto-legge 27 luglio 1934, n. 1340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1934-07-27;1340#art_5). 
  
- Durante il «congedo speciale» gli ufficiali possono contrarre matrimonio senza il Regio assentimento di cui all'art. 1 del testo unico delle leggi sul matrimonio degli ufficiali approvato con [R. decreto 9 febbraio 1928, n. 371](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20guardia%20di%20finanza%20e%20sulla%20costituzione_bdb64c4f9e06.md).
+ Durante il «congedo speciale» gli ufficiali possono contrarre matrimonio senza il Regio assentimento di cui all'art. 1 del testo unico delle leggi sul matrimonio degli ufficiali approvato con [R. decreto 9 febbraio 1928, n. 371](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20guardia%20di%20finanza%20e%20sulla%20costituzione_bdb64c4f9e06.md).
 
 ## Art. 11.
 

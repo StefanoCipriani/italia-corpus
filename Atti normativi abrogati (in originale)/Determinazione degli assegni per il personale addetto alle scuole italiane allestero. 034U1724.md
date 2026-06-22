@@ -18,19 +18,19 @@ Vista la [legge 18 dicembre 1910, n. 867](Riordinamento%20delle%20scuole%20itali
 
 Visto il [R. decreto-legge 7 dicembre 1919, n. 2479](Relativo%20alle%20indennita%20da%20corrispondersi%20agli%20insegnanti%20delle%20scuole%20medie%20del%20Regno%20incaricati%20dellinsegnamento%20allestero.%20019U2479.md), convertito nella legge 16 giugno 1927-V, n. 985;
 
-Visto il [R. decreto 15 luglio 1923, n. 1659](../Regi%20decreti/Riordinamento%20delle%20scuole%20medie%20allestero.%20023U1659.md);
+Visto il [R. decreto 15 luglio 1923, n. 1659](Riordinamento%20delle%20scuole%20medie%20allestero.%20023U1659.md);
 
 Visto il [R. decreto-legge 2 giugno 1924, n. 1052](Provvedimenti%20per%20il%20personale%20delle%20Regie%20scuole%20allestero.%20024U1052.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 19 maggio 1930, n. 909](../Regi%20decreti/Norme%20per%20lassunzione%20del%20personale%20direttivo%20ed%20insegnante%20delle%20Regie%20scuole%20italiane%20allestero.%20030U0909.md);
+Visto il [R. decreto 19 maggio 1930, n. 909](Norme%20per%20lassunzione%20del%20personale%20direttivo%20ed%20insegnante%20delle%20Regie%20scuole%20italiane%20allestero.%20030U0909.md);
 
-Visto il [R. decreto 15 febbraio 1934, n. 220](../Regi%20decreti/Corresponsione%20e%20fissazione%20dei%20coefficienti%20di%20aumento%20in%20lire%20italiane%20sulle%20competenze%20del%20personale%20delle%20Scuole%20italiane%20allestero.%20034U0220.md);
+Visto il [R. decreto 15 febbraio 1934, n. 220](Corresponsione%20e%20fissazione%20dei%20coefficienti%20di%20aumento%20in%20lire%20italiane%20sulle%20competenze%20del%20personale%20delle%20Scuole%20italiane%20allestero.%20034U0220.md);
 
 Visto il [R. decreto-legge 26 febbraio 1934, n. 425](Misura%20degli%20assegni%20e%20delle%20relative%20percentuali%20di%20aumento%20al%20personale%20in%20servizio%20nei%20Regi%20uffici%20diplomatici%20e%20consolari%20allestero.%20034U0425.md), convertito nella legge 31 luglio 1934-XII, n. 1195;
 
-Visto il [R. decreto 26 febbraio 1934, n. 426](../Regi%20decreti/Applicazione%20della%20nuova%20misura%20degli%20assegni%20e%20delle%20percentuali%20di%20aumento%20al%20personale%20in%20servizio%20nei%20Regi%20uffici%20diplomatici%20e%20consolari%20allestero.%20034U0426.md);
+Visto il [R. decreto 26 febbraio 1934, n. 426](Applicazione%20della%20nuova%20misura%20degli%20assegni%20e%20delle%20percentuali%20di%20aumento%20al%20personale%20in%20servizio%20nei%20Regi%20uffici%20diplomatici%20e%20consolari%20allestero.%20034U0426.md);
 
 Riconosciuta la necessita' urgente ed assoluta di regolare, in conformita' agli ordinamenti attuali, il trattamento economico del personale addetto alle scuole governative all'estero e di quello comandato in scuole od istituti scolastici italiani o indigeni di qualsiasi ordine e grado all'estero;
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md);
+Visto il [regio decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md);
 
 Visto il [regio decreto-legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46);
 
@@ -18,7 +18,7 @@ Sulla proposta del Ministro per l'aeronautica, di concerto con il Ministro per i
 
 ## Articolo unico.
 
-Il Ministero dell'aeronautica - ai sensi del [regio decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), integrato dall'[art. 17 del regio decreto-legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46#art_17)-autorizzato a collocare fuori ruolo un funzionario di gruppo A di grado non superiore al 8° del ruolo amministrativo, per prestare servizio presso l'Azienda Carboni Italiani.
+Il Ministero dell'aeronautica - ai sensi del [regio decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), integrato dall'[art. 17 del regio decreto-legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46#art_17)-autorizzato a collocare fuori ruolo un funzionario di gruppo A di grado non superiore al 8° del ruolo amministrativo, per prestare servizio presso l'Azienda Carboni Italiani.
  Durante il periodo del distacco l'onere delle competenze spettanti al funzionario collocato in tale posizione passera' a carico del bilancio dell'azienda.
  La facolta' prevista dal 1° comma cessera' di avere efficacia quando il funzionario che, nella prima applicazione del presente decreto, sara' assegnato all'Azienda Carboni Italiani rientrera' in ruolo o cessera' di appartenere al ruolo amministrativo del Ministero dell'aeronautica.
  Il presente decreto entra in vigore dalla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.

@@ -18,7 +18,7 @@ E' approvata la maggiore assegnazione di lire 500, inscritta al capitolo n. 137 
 
 ## Art. 3.
 
-E' approvata la maggiore assegnazione di lire 1600, inscritta al capitolo n. 137 quinquies: «Eccedenza d'impegni verificatasi al capitolo n. 21: Indennita' per una sola volta invece di pensioni, ai termini degli articoli 3, 83 e 109 del testo unico delle leggi sulle pensioni civili e militari, approvato col [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), ed altri assegni congeneri legalmente dovuti (spesa obbligatoria), dello stato di previsione della spesa per l'esercizio 1899-900», per provvedere al saldo delle eccedenze d'impegni verificatesi nel conto consuntivo della spesa del Ministero dell'Istruzione Pubblica per l'esercizio finanziario 1900-901.
+E' approvata la maggiore assegnazione di lire 1600, inscritta al capitolo n. 137 quinquies: «Eccedenza d'impegni verificatasi al capitolo n. 21: Indennita' per una sola volta invece di pensioni, ai termini degli articoli 3, 83 e 109 del testo unico delle leggi sulle pensioni civili e militari, approvato col [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), ed altri assegni congeneri legalmente dovuti (spesa obbligatoria), dello stato di previsione della spesa per l'esercizio 1899-900», per provvedere al saldo delle eccedenze d'impegni verificatesi nel conto consuntivo della spesa del Ministero dell'Istruzione Pubblica per l'esercizio finanziario 1900-901.
 
 ## Art. 4.
 

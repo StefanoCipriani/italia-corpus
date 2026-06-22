@@ -32,13 +32,13 @@ I magistrati che, a norma del precedente articolo, saranno trattenuti o chiamati
 
 Il numero dei magistrati indicati nell'art. 1 non puo' eccedere quello dei posti che si renderanno vacanti nel ruolo amministrativo e questi s'intenderanno per ogni effetto coperti dai magistrati trattenuti o chiamati a norma dell'articolo medesimo. 
  
- Salvo per quanto riguarda le condizioni di carriera e le promozioni si applicheranno ai magistrati, nel tempo in cui prestano servizio al Ministero, le disposizioni del [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md).
+ Salvo per quanto riguarda le condizioni di carriera e le promozioni si applicheranno ai magistrati, nel tempo in cui prestano servizio al Ministero, le disposizioni del [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md).
 
 ## Art. 4.
 
 Il governo del Re e' autorizzato a indire un concorso per cento posti di pretore con le norme stabilite nel [decreto Luogotenenziale 6 luglio 1919, n. 1147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-07-06;1147). 
  
- L'[art. 9 del R. decreto 11 maggio 1913, n. 457](../Regi%20decreti/Portante%20norme%20per%20lattuazione%20di%20alcune%20disposizioni%20della%20legge%2019%20dicembre%201912%20n.%201311%20sullordinamento%20giudiziario.%20013U0457.md), e' abrogato.
+ L'[art. 9 del R. decreto 11 maggio 1913, n. 457](Portante%20norme%20per%20lattuazione%20di%20alcune%20disposizioni%20della%20legge%2019%20dicembre%201912%20n.%201311%20sullordinamento%20giudiziario.%20013U0457.md), e' abrogato.
 
 ## Art. 5.
 

@@ -14,7 +14,7 @@ Vista la tariffa dei dazi doganali, approvata con [regio decreto-legge 9 giugno 
 
 Visto l'art. 7 della legge doganale 25 settembre 1940, n. 1424;
 
-Visto il testo della legge del bollo, approvato con [regio decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e successive modificazioni;
+Visto il testo della legge del bollo, approvato con [regio decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e successive modificazioni;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

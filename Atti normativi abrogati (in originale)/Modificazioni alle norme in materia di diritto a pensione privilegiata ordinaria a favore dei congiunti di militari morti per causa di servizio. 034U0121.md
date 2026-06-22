@@ -20,7 +20,7 @@ Agli effetti di cui all'art. 123 del testo unico 21 febbraio 1805, n. 70, modifi
 
 ## Art. 2.
 
-Sono abrogati gli [articoli 15 del R. decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), e 7 del [R. decreto 23 dicembre 1923, n. 2835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-23;2835). Nell'articolo unico della [legge 19 aprile 1906, n. 135](Per%20modificazione%20allart.%20123%20del%20testo%20unico%2021%20febbraio%201895%20n.%2070%20delle%20leggi%20sulle%20pensioni.%20006U0135.md), che modifica l'[art. 123 del testo unico 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-02-21;70#art_123), alla parola «quinquagenario» e' sostituita l'altra «sessagenario».
+Sono abrogati gli [articoli 15 del R. decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), e 7 del [R. decreto 23 dicembre 1923, n. 2835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-23;2835). Nell'articolo unico della [legge 19 aprile 1906, n. 135](Per%20modificazione%20allart.%20123%20del%20testo%20unico%2021%20febbraio%201895%20n.%2070%20delle%20leggi%20sulle%20pensioni.%20006U0135.md), che modifica l'[art. 123 del testo unico 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-02-21;70#art_123), alla parola «quinquagenario» e' sostituita l'altra «sessagenario».
 
 ## Art. 3.
 

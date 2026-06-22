@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli articoli 8, 10, 11, 12, 14, 15, 16, 19, 29, 21, 22, 24, 25, 26, 27, 28, 29, 30, 32, 33, 34, 35, 36, 41, 44, 47, 60, 61, 62 e 85 del regolamento approvato con [R. decreto 6 aprile 1913, n. 552](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20concernente%20lo%20stato%20giuridico%20dei%20maestri%20delle%20scuole%20elementari%20amministrate%20dai%20Comuni%20013U0552.md), sono sostituiti gli articoli seguenti: 
+Agli articoli 8, 10, 11, 12, 14, 15, 16, 19, 29, 21, 22, 24, 25, 26, 27, 28, 29, 30, 32, 33, 34, 35, 36, 41, 44, 47, 60, 61, 62 e 85 del regolamento approvato con [R. decreto 6 aprile 1913, n. 552](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20concernente%20lo%20stato%20giuridico%20dei%20maestri%20delle%20scuole%20elementari%20amministrate%20dai%20Comuni%20013U0552.md), sono sostituiti gli articoli seguenti: 
  
  Art. 8. - I documenti, che i concorrenti devono presentare a corredo della domanda in carta bollata, sono i seguenti: 
  

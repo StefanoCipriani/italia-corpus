@@ -80,7 +80,7 @@ Allo scopo di promuovere e coordinare l'azione degli Istituti od Enti autonomi p
 
 ## Art. 12.
 
-Nella tabella annessa al [R. decreto 19 marzo 1925, n. 266](../Regi%20decreti/Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), e' istituita la seguente voce: 
+Nella tabella annessa al [R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), e' istituita la seguente voce: 
  
  «Concorso dello Stato nelle costruzioni di case popolari da parte di Comuni ed Istituti per la cessione in proprieta' a singoli privati, L. 100,000,000». 
  

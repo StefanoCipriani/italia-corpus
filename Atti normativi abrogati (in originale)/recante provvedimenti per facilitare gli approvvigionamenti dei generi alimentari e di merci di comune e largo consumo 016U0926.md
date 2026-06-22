@@ -102,7 +102,7 @@ Gli approvvigionamenti all'estero di grano, avena, farina, carne congelata, buoi
 
 ## Art. 10.
 
-Chiunque accaparri derrate o merci sottraendole al consumo al fine di provocare artificiosamente l'aumento dei prezzi, e' punito a norma dell'[art. 293 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Chiunque accaparri derrate o merci sottraendole al consumo al fine di provocare artificiosamente l'aumento dei prezzi, e' punito a norma dell'[art. 293 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 11.
 

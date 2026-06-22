@@ -18,13 +18,13 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), che approva il testo della legge del bollo, e successive disposizioni:
+Visto il [R. decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), che approva il testo della legge del bollo, e successive disposizioni:
 
 Vista la [legge 7 aprile 1930, n. 456](Modificazioni%20ad%20alcune%20tasse%20di%20bollo%20-%20Provvidenze%20a%20favore%20dellIstituto%20nazionale%20di%20previdenza%20dei%20giornalisti%20italiani%20e%20modificazioni%20alle%20tasse%20sulle%20assicurazioni.%20030U0456.md);
 
-Visto il [R. decreto-legge 11 maggio 1942, n. 501](Provvedimenti%20in%20materia%20di%20tasse%20di%20bollo.%20042U0501.md), convertito, con modificazioni, nella [legge 26 novembre 1942, n. 1428](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2011%20maggio%201942-XX%20n.%20501%20recante%20provvedimenti%20in%20materia%20di%20tasse%20di%20bollo.%20042U1428.md);
+Visto il [R. decreto-legge 11 maggio 1942, n. 501](Provvedimenti%20in%20materia%20di%20tasse%20di%20bollo.%20042U0501.md), convertito, con modificazioni, nella [legge 26 novembre 1942, n. 1428](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2011%20maggio%201942-XX%20n.%20501%20recante%20provvedimenti%20in%20materia%20di%20tasse%20di%20bollo.%20042U1428.md);
 
-Visto il [R. decreto-legge 18 marzo 1943, n. 164](Modificazioni%20ad%20alcune%20norme%20vigenti%20in%20materia%20di%20tasse%20di%20bollo.%20043U0164.md), convertito nella [legge 8 luglio 1943, n. 672](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2018%20marzo%201943%20n.%20164%20recante%20modificazioni%20ad%20alcune%20norme%20vigenti%20in%20materia%20di%20tasse%20di%20bollo.%20043U0672.md);
+Visto il [R. decreto-legge 18 marzo 1943, n. 164](Modificazioni%20ad%20alcune%20norme%20vigenti%20in%20materia%20di%20tasse%20di%20bollo.%20043U0164.md), convertito nella [legge 8 luglio 1943, n. 672](Conversione%20in%20legge%20del%20R.%20decreto-legge%2018%20marzo%201943%20n.%20164%20recante%20modificazioni%20ad%20alcune%20norme%20vigenti%20in%20materia%20di%20tasse%20di%20bollo.%20043U0672.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -275,11 +275,11 @@ b) per gli importi prelevati nello stesso anno, da L. 250.001 a L. 2.000.000: ce
  
 c) per gli importi prelevati nello stesso anno, otre L. 2.000.000: centesimi trenta per cento; 
  
-D. - Incaricati ed appaltatori della riscossione dell'imposta di consumo ed incaricati della riscossione dei diritti di macellazione che a norma dell'[art. 14 del R. decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito, con modificazioni, nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), devono provvedere anche alla riscossione dell'imposta sull'entrata per il bestiame e per i vini: 
+D. - Incaricati ed appaltatori della riscossione dell'imposta di consumo ed incaricati della riscossione dei diritti di macellazione che a norma dell'[art. 14 del R. decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito, con modificazioni, nella [legge 19 giugno 1940, n. 762](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), devono provvedere anche alla riscossione dell'imposta sull'entrata per il bestiame e per i vini: 
  
 aggio di L. 2 per cento sugli acquisti, per qualsiasi importo delle marche prescritte, effettuati direttamente presso gli Uffici del registro, Istituti di eredito od Enti della propria residenza, autorizzati alla distribuzione primaria dei valori bollati; 
  
-E - Privati contribuenti che acquistano, direttamente presso gli Uffici del registro, Istituti di credito od Enti della propria residenza autorizzati alla distribuzione primaria dei valori bollati, le marche doppie per l'imposta generale sull'entrata di cui al [R. decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito, con modificazioni, nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md): 
+E - Privati contribuenti che acquistano, direttamente presso gli Uffici del registro, Istituti di credito od Enti della propria residenza autorizzati alla distribuzione primaria dei valori bollati, le marche doppie per l'imposta generale sull'entrata di cui al [R. decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito, con modificazioni, nella [legge 19 giugno 1940, n. 762](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md): 
  
 aggio di centesimi settantacinque per cento sull'importo delle marche acquistate a condizione che l'acquisto non sia di volta in volta d'importo inferiore alle L. 5000; 
  

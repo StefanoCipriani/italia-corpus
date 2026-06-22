@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Veduto il bilancio degli Istituti medesimi; 
  
- Veduto l'art. 25 del testo unico delle leggi sulla istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md); 
+ Veduto l'art. 25 del testo unico delle leggi sulla istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md); 
  
  Veduta la tabella B, annessa al predetto testo unico, modificato con la [legge 11 luglio 1913, n. 889](Riflettente%20lattribuzione%20agli%20Istituti%20clinici%20di%20perfezionamento%20di%20Milano%20della%20spesa%20portata%20dal%20R.%20decreto%209%20giugno%201910%20n.%20819%20che%20crea%20due%20nuovi%20posti%20di%20professore%20ordinario%20negli_e1bd122987c5.md); 
  
@@ -38,7 +38,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- I posti di professore ordinario assegnati agli Istituti clinici di perfezionamento di Milano, di cui alla tabella B, annessa al testo unico delle leggi sulla istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e modificato con la [legge 11 luglio 1913, n. 889](Riflettente%20lattribuzione%20agli%20Istituti%20clinici%20di%20perfezionamento%20di%20Milano%20della%20spesa%20portata%20dal%20R.%20decreto%209%20giugno%201910%20n.%20819%20che%20crea%20due%20nuovi%20posti%20di%20professore%20ordinario%20negli_e1bd122987c5.md), sono portati da quattro a cinque. 
+ I posti di professore ordinario assegnati agli Istituti clinici di perfezionamento di Milano, di cui alla tabella B, annessa al testo unico delle leggi sulla istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e modificato con la [legge 11 luglio 1913, n. 889](Riflettente%20lattribuzione%20agli%20Istituti%20clinici%20di%20perfezionamento%20di%20Milano%20della%20spesa%20portata%20dal%20R.%20decreto%209%20giugno%201910%20n.%20819%20che%20crea%20due%20nuovi%20posti%20di%20professore%20ordinario%20negli_e1bd122987c5.md), sono portati da quattro a cinque. 
  
  La maggiore spesa occorrente andra' a carico del bilancio degli Istituti. 
  

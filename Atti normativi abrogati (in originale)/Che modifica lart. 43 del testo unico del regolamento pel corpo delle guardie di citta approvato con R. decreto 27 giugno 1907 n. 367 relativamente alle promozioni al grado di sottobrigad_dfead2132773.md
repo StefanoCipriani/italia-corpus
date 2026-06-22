@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto il Nostro decreto 14 ottobre 1917, n. 1732; 
  
- Visto l'art. 43 del testo unico del regolamento pel corpo delle guardie di citta', approvato con [R. decreto 27 giugno 1907, n. 367](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20del%20regolamento%20pel%20Corpo%20delle%20guardie%20di%20citta.%20007U0367.md); 
+ Visto l'art. 43 del testo unico del regolamento pel corpo delle guardie di citta', approvato con [R. decreto 27 giugno 1907, n. 367](Che%20approva%20lunito%20testo%20unico%20del%20regolamento%20pel%20Corpo%20delle%20guardie%20di%20citta.%20007U0367.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Al succitato art. 43 del testo unico del regolamento pel corpo delle guardie di citta', approvato con [Regio decreto 27 giugno 1907, n. 367](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20del%20regolamento%20pel%20Corpo%20delle%20guardie%20di%20citta.%20007U0367.md), e' sostituito il seguente: 
+ Al succitato art. 43 del testo unico del regolamento pel corpo delle guardie di citta', approvato con [Regio decreto 27 giugno 1907, n. 367](Che%20approva%20lunito%20testo%20unico%20del%20regolamento%20pel%20Corpo%20delle%20guardie%20di%20citta.%20007U0367.md), e' sostituito il seguente: 
  
  «Le promozioni al grado di sottobrigadiere sono conferite mediante esame d'idoneita', al quale sono ammessi, secondo il bisogno e per ordine di anzianita', gli appuntati che siano di buona condotta e di sufficiente istruzione, che disimpegnino regolarmente i loro doveri e non abbiano, da almeno sei mesi, subito punizioni superiori a quella della consegna in caserma: 
  

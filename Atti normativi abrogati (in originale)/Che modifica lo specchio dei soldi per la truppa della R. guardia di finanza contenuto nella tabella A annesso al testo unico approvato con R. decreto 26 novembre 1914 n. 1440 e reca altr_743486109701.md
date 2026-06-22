@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi di ordinamento del corpo della R. guardia di finanza approvato con [R. decreto 26 novembre 1914, n. 1440](../Regi%20decreti/Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md);
+Visto il testo unico delle leggi di ordinamento del corpo della R. guardia di finanza approvato con [R. decreto 26 novembre 1914, n. 1440](Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md);
 
 Udito il Consiglio dei ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per le finanze, di concerto col 
 
 ## Art. 1.
 
-Lo specchio dei soldi per la truppa della R. guardia di finanza, contenuto nella tabella A annessa al testo unico delle leggi sull'ordinamento del corpo, approvato col [R. decreto 26 novembre 1914, n. 1440 ed il secondo comma](../Regi%20decreti/Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md) della tabella stessa relativo agli aumenti quadriennali del soldo, sono sostituiti come appresso: 
+Lo specchio dei soldi per la truppa della R. guardia di finanza, contenuto nella tabella A annessa al testo unico delle leggi sull'ordinamento del corpo, approvato col [R. decreto 26 novembre 1914, n. 1440 ed il secondo comma](Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md) della tabella stessa relativo agli aumenti quadriennali del soldo, sono sostituiti come appresso: 
  
  Sottufficiali e personale di truppa. 
  

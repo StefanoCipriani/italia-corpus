@@ -92,11 +92,11 @@ Le somme iscritte ai capitoli 4532, per la parte relativa alla cooperazione allo
 
 8.
 
-Gli stanziamenti iscritti in bilancio in applicazione della [legge 30 settembre 1993, n. 388](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20a%20del%20protocollo%20di%20adesione%20del%20Governo%20della%20Repubblica%20italiana%20allaccordo%20di%20Schengen%20del%2014%20giugno%201985%20tra%20i%20governi%20degli%20Stati%20dellUnione%20economica%20del%20Bene_89c9272671c4.md), della [legge 26 febbraio 1992, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;212), della [legge 6 febbraio 1992, n. 180](Partecipazione%20dellItalia%20alle%20iniziative%20di%20pace%20ed%20umanitarie%20in%20sede%20internazionale.md) e della [legge 9 gennaio 1991, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;19), non utilizzati al termine dell'esercizio finanziario 1994, possono esserlo nell'esercizio 1995.
+Gli stanziamenti iscritti in bilancio in applicazione della [legge 30 settembre 1993, n. 388](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20a%20del%20protocollo%20di%20adesione%20del%20Governo%20della%20Repubblica%20italiana%20allaccordo%20di%20Schengen%20del%2014%20giugno%201985%20tra%20i%20governi%20degli%20Stati%20dellUnione%20economica%20del%20Bene_89c9272671c4.md), della [legge 26 febbraio 1992, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;212), della [legge 6 febbraio 1992, n. 180](Partecipazione%20dellItalia%20alle%20iniziative%20di%20pace%20ed%20umanitarie%20in%20sede%20internazionale.md) e della [legge 9 gennaio 1991, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;19), non utilizzati al termine dell'esercizio finanziario 1994, possono esserlo nell'esercizio 1995.
 
 9.
 
-Le somme iscritte in bilancio in conto competenza ed in conto residui ai sensi dell'articolo 127, comma 11, e dell'articolo 135, comma 4, del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), non impegnate entro l'anno 1994, possono esserlo nell'anno 1995.
+Le somme iscritte in bilancio in conto competenza ed in conto residui ai sensi dell'articolo 127, comma 11, e dell'articolo 135, comma 4, del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), non impegnate entro l'anno 1994, possono esserlo nell'anno 1995.
 
 10.
 
@@ -114,7 +114,7 @@ In sede di prima applicazione, nell'anno 1994, della [legge 10 dicembre 1993, n.
 
 2.
 
-L'entrata in vigore del regolamento approvato con [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md), prevista dall'articolo 24, comma 1, del medesimo regolamento, e' differita al 30 agosto 1995.
+L'entrata in vigore del regolamento approvato con [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md), prevista dall'articolo 24, comma 1, del medesimo regolamento, e' differita al 30 agosto 1995.
 
 ## Art. 3. — Entrata in vigore
 

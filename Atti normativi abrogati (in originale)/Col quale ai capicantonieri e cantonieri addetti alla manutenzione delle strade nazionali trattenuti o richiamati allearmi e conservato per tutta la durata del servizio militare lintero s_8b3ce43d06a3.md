@@ -24,9 +24,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA.
  
  Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto il [R. decreto 31 marzo 1874, n. 1921](../Regi%20decreti/E%20approvato%20il%20Regolamento%20relativo%20al%20personale%20dei%20cantonieri%20e%20Capi%20cantonieri%20delle%20strade%20nazionali.%20074U1921.md), con cui fu approvato il regolamento relativo al personale dei capi cantonieri e cantonieri addetti al servizio di manutenzione delle strade nazionali; 
+ Visto il [R. decreto 31 marzo 1874, n. 1921](E%20approvato%20il%20Regolamento%20relativo%20al%20personale%20dei%20cantonieri%20e%20Capi%20cantonieri%20delle%20strade%20nazionali.%20074U1921.md), con cui fu approvato il regolamento relativo al personale dei capi cantonieri e cantonieri addetti al servizio di manutenzione delle strade nazionali; 
  
- Visto il [R. decreto 20 novembre 1908, n. 716](../Regi%20decreti/Che%20modifica%20due%20articoli%20del%20regolamento%20relativo%20al%20personale%20dei%20cantonieri%20e%20capi%20cantonieri%20addetti%20al%20servizio%20di%20manutenzione%20delle%20strade%20nazionali.%20008U0716.md), col quale furono modificati gli articoli 27 e 35 del regolamento suddetto; 
+ Visto il [R. decreto 20 novembre 1908, n. 716](Che%20modifica%20due%20articoli%20del%20regolamento%20relativo%20al%20personale%20dei%20cantonieri%20e%20capi%20cantonieri%20addetti%20al%20servizio%20di%20manutenzione%20delle%20strade%20nazionali.%20008U0716.md), col quale furono modificati gli articoli 27 e 35 del regolamento suddetto; 
  
  Visto il R. decreto 13 maggio 1915. n. 620, col quale, a modifica dell'art. 2 del precedente [R. decreto 27 aprile 1915, n. 535](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-27;535), gl'impiegati civili di ruolo dello Stato, trattenuti o richiamati alle armi, sono considerati, a decorrere dal 27 aprile 1915, in congedo per tutta la durata del servizio militare, col godimento dell'intero stipendio; 
  

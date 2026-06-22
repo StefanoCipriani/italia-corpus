@@ -16,15 +16,15 @@ Sono condonate le pene restrittive della liberta' personale e le pene pecuniarie
  
  2° delitti di oltraggio, violenza, resistenza contro persone rivestite di pubblica autorita', o danneggiamento, commessi in occasione di pubbliche dimostrazioni o tumulti; 
  
- 3° delitti preveduti dagli articoli 125 e 126, 246, 247 e 251 a 255 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 3° delitti preveduti dagli articoli 125 e 126, 246, 247 e 251 a 255 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- 4° delitti preveduti dagli [articoli 237](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [238](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [239, n. 3](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [241](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [244 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ 4° delitti preveduti dagli [articoli 237](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [238](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [239, n. 3](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [241](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [244 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 
 Nei casi indicati ai numeri 1, 2 e 3 dell'articolo precedente, le disposizioni di esso non si applicano: 
  
- a) a coloro che per delitti della stessa indole, a termini dell'[articolo 82 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), abbiano riportato condanna a pene restrittive della liberta' personale superiori a due anni; 
+ a) a coloro che per delitti della stessa indole, a termini dell'[articolo 82 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), abbiano riportato condanna a pene restrittive della liberta' personale superiori a due anni; 
  
  b) agli ammoniti a termini della legge di pubblica sicurezza, quali oziosi, vagabondi o diffamati; 
  

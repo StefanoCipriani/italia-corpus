@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il regolamento approvato con [R. decreto 10 gennaio 1915, n. 216](../Regi%20decreti/Col%20quale%20e%20approvato%20lannesso%20regolamento%20organico%20per%20lazienda%20termale%20demaniale%20di%20Salsomaggiore.%20015U0216.md); 
+ Visto il regolamento approvato con [R. decreto 10 gennaio 1915, n. 216](Col%20quale%20e%20approvato%20lannesso%20regolamento%20organico%20per%20lazienda%20termale%20demaniale%20di%20Salsomaggiore.%20015U0216.md); 
  
  Visto il [decreto Luogotenenziale 11 luglio 1915, numero 1106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-11;1106); 
  
@@ -38,7 +38,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Al primo comma dell'articolo 3 del regolamento approvato col [R. decreto 10 gennaio 1915, n. 216](../Regi%20decreti/Col%20quale%20e%20approvato%20lannesso%20regolamento%20organico%20per%20lazienda%20termale%20demaniale%20di%20Salsomaggiore.%20015U0216.md), modificato col [decreto Luogotenenziale 31 dicembre 1915, n. 1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1963), e' sostituito il seguente: 
+ Al primo comma dell'articolo 3 del regolamento approvato col [R. decreto 10 gennaio 1915, n. 216](Col%20quale%20e%20approvato%20lannesso%20regolamento%20organico%20per%20lazienda%20termale%20demaniale%20di%20Salsomaggiore.%20015U0216.md), modificato col [decreto Luogotenenziale 31 dicembre 1915, n. 1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1963), e' sostituito il seguente: 
  
  «Il Consiglio tecnico-amministrativo di vigilanza e' costituito: 
  

@@ -16,7 +16,7 @@ Visto il [decreto-legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%2
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946 n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
-Visto il [decreto-legislativo luogotenenziale 4 gennaio 1946, n. 2](../Decreti%20legislativi%20luogotenenziali/Costituzione%20di%20un%20Fondo%20per%20ladeguamento%20ai%20prezzi.md);
+Visto il [decreto-legislativo luogotenenziale 4 gennaio 1946, n. 2](Costituzione%20di%20un%20Fondo%20per%20ladeguamento%20ai%20prezzi.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -31,7 +31,7 @@ La parita' legale fra il dollaro e la lira e' stabilita come segue:
 
 ## Art. 2.
 
-Il [decreto legislativo luogotenenziale 4 gennaio 1946 n. 2](../Decreti%20legislativi%20luogotenenziali/Costituzione%20di%20un%20Fondo%20per%20ladeguamento%20ai%20prezzi.md), e' abrogato.
+Il [decreto legislativo luogotenenziale 4 gennaio 1946 n. 2](Costituzione%20di%20un%20Fondo%20per%20ladeguamento%20ai%20prezzi.md), e' abrogato.
  Sono altresi' abrogate tutte le disposizioni contrastanti col presente decreto.
 
 ## Art. 3.

@@ -40,7 +40,7 @@ Le concessioni di cittadinanza italiana comunque fatte a stranieri ebrei posteri
 
 Gli stranieri ebrei che, alla data di pubblicazione del presente decreto-legge, si trovino nel Regno, in Libia e nei Possedimenti dell'Egeo e che vi abbiano iniziato il loro soggiorno posteriormente al 1° gennaio 1919, debbono lasciare il territorio del Regno, della Libia e dei Possedimenti dell'Egeo, entro sei mesi dalla data di pubblicazione del presente decreto. 
  
- Coloro che non avranno ottemperato a tale obbligo entro il termine suddetto saranno espulsi dal Regno a norma dell'[art. 150 del testo unico delle leggi di P.S.](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), previa l'applicazione delle pene stabilite dalla legge.
+ Coloro che non avranno ottemperato a tale obbligo entro il termine suddetto saranno espulsi dal Regno a norma dell'[art. 150 del testo unico delle leggi di P.S.](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), previa l'applicazione delle pene stabilite dalla legge.
 
 ## Art. 5.
 

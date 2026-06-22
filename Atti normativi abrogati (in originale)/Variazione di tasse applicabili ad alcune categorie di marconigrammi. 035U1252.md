@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 8 febbraio 1923, n. 1067](../Regi%20decreti/Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md), che da' facolta' al Ministero delle poste e dei telegrafi di fissare e modificare le tariffe per il servizio pubblico delle comunicazioni senza filo;
+Visto il [R. decreto 8 febbraio 1923, n. 1067](Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md), che da' facolta' al Ministero delle poste e dei telegrafi di fissare e modificare le tariffe per il servizio pubblico delle comunicazioni senza filo;
 
 Visto il [R. decreto-legge 13 marzo 1927, n. 440](Variazioni%20di%20tasse%20applicabili%20ad%20alcune%20categorie%20di%20radiotelegrammi.%20027U0440.md), convertito nella [legge 29 dicembre 1927, n. 2689](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20marzo%201927%20n.%20440%20concernente%20variazioni%20di%20tasse%20applicabili%20ad%20alcune%20categorie%20di%20radiotelegrammi.%20027U2689.md), che stabilisce le tasse radiotelegrafiche per i marconigrammi scambiati tra le navi mercantili italiane e l'Italia e le Colonie italiane, via stazioni costiere italiane e coloniali italiane, e da nave a nave italiana, nonche' la tassa telegrafica interna italiana e coloniale italiana per i marconigrammi originari dalle navi estere;
 

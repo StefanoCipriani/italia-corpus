@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 15 settembre 1932, n. 1514](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), e successive modificazioni;
+Visto il testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 15 settembre 1932, n. 1514](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), e successive modificazioni;
 
 Visto il [R. decreto-legge 27 gennaio 1944, n. 53](Modifiche%20al%20Testo%20Unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20R.%20Esercito.%20044U0053.md);
 

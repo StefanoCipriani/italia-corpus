@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto-legge 31 maggio 1935, n. 752](Modificazioni%20alla%20legge%2012%20giugno%201931-IX%20n.%20877%20concernente%20la%20definitiva%20sistemazione%20delle%20Salme%20dei%20Caduti%20in%20guerra.%20035U0752.md), convertito nella [legge 9 gennaio 1936, n. 132](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2031%20maggio%201935-XIII%20n.%20752%20recante%20modificazioni%20alla%20legge%2012%20giugno%201931-IX%20n.%20877%20concernente%20la%20definitiva%20sistemazione%20delle%20Salme%20dei%20Cadut_b88c04823356.md), recante modificazioni alla [legge 12 giugno 1931, n. 877](Sistemazione%20definitiva%20delle%20salme%20dei%20Caduti%20in%20guerra.%20031U0877.md), per la definitiva sistemazione dei Caduti in guerra;
+Visto il [regio decreto-legge 31 maggio 1935, n. 752](Modificazioni%20alla%20legge%2012%20giugno%201931-IX%20n.%20877%20concernente%20la%20definitiva%20sistemazione%20delle%20Salme%20dei%20Caduti%20in%20guerra.%20035U0752.md), convertito nella [legge 9 gennaio 1936, n. 132](Conversione%20in%20legge%20del%20R.%20decreto-legge%2031%20maggio%201935-XIII%20n.%20752%20recante%20modificazioni%20alla%20legge%2012%20giugno%201931-IX%20n.%20877%20concernente%20la%20definitiva%20sistemazione%20delle%20Salme%20dei%20Cadut_b88c04823356.md), recante modificazioni alla [legge 12 giugno 1931, n. 877](Sistemazione%20definitiva%20delle%20salme%20dei%20Caduti%20in%20guerra.%20031U0877.md), per la definitiva sistemazione dei Caduti in guerra;
 
-Visto il [regio decreto 21 dicembre 1942, n. 1880](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.%20042U1880.md), che, approva il regolamento di polizia mortuaria;
+Visto il [regio decreto 21 dicembre 1942, n. 1880](Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.%20042U1880.md), che, approva il regolamento di polizia mortuaria;
 
 Visto il [decreto legislativo 14 febbraio 1947, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-02-14;27), riguardante la soppressione del Ministero dell'assistenza post-bellica e la devoluzione delle sue attribuzioni ad altre Amministrazioni;
 

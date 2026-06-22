@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli articoli 1, 5, 6, 7, 8 della legge sul Consiglio di Stato (testo unico approvato con [R. decreto 2 giugno 1889, n. 6166](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20sul%20Consiglio%20di%20Stato.%20089U6166.md)), sono sostituite le disposizioni seguenti: 
+Agli articoli 1, 5, 6, 7, 8 della legge sul Consiglio di Stato (testo unico approvato con [R. decreto 2 giugno 1889, n. 6166](Che%20approva%20il%20testo%20unico%20sul%20Consiglio%20di%20Stato.%20089U6166.md)), sono sostituite le disposizioni seguenti: 
  
  Art. 1. - Il Consiglio di Stato si compone del presidente, di 5 presidenti di sezione, di 35 consiglieri, di 10 referendari, di 1 segretario generale e di 5 segretari di sezione. 
  
@@ -104,7 +104,7 @@ Agli articoli 30, 2° comma, 31, 32, 34, ultimo inciso, 35, 36, primo comma, 37,
  
  In caso di inadempimento a tale prescrizione, la sezione competente dichiara in Camera di consiglio con provvedimento esente da bollo la decadenza del ricorso o della domanda presentata. 
  
- L'[art. 2 del R. decreto 6 aprile 1890, n. 6764](../Regi%20decreti/Con%20il%20quale%20chiunque%20richieda%20alla%20Segreteria%20della%20IV%20Sezione%20del%20Consiglio%20di%20Stato%20la%20formazione%20di%20un%20atto%20deve%20consegnare%20tanti%20fogli%20di%20carta%20col%20bollo%20prescritto%20quanti%20ne%20vengano_d3f91226f862.md), e' abrogato. 
+ L'[art. 2 del R. decreto 6 aprile 1890, n. 6764](Con%20il%20quale%20chiunque%20richieda%20alla%20Segreteria%20della%20IV%20Sezione%20del%20Consiglio%20di%20Stato%20la%20formazione%20di%20un%20atto%20deve%20consegnare%20tanti%20fogli%20di%20carta%20col%20bollo%20prescritto%20quanti%20ne%20vengano_d3f91226f862.md), e' abrogato. 
  
  Art. 36, comma 1°. - Le decisioni in sede giurisdizionale, salvo il disposto dell'art. 38, sono prese coll'intervento di sette votanti a maggioranza assoluta di voti. 
  
@@ -150,7 +150,7 @@ Nella [legge 1° maggio 1890, n. 6837](Sulla%20giustizia%20amministrativa.%20090
  
  All'art. 9 e' aggiunta la disposizione seguente: 
  
- E' applicabile anche alla domanda e ai ricorsi presentati alle Giunte provinciali amministrative in sede giurisdizionale la disposizione dell'art. 35 della legge sul Consiglio di Stato, modificato dalla presente legge, riferibilmente al deposito prescritto dall'art. 10 del regolamento per gli uffici di segreteria della Giunta provinciale amministrativa, pubblicato con [R. decreto 4 giugno 1891, n. 273](../Regi%20decreti/Che%20sostituisce%20due%20nuovi%20regolamenti%20a%20quelli%20gia%20in%20vigore%20per%20lesecuzione%20della%20legge%20sullordinamento%20della%20giustizia%20amministrativa.%20091U0273.md). 
+ E' applicabile anche alla domanda e ai ricorsi presentati alle Giunte provinciali amministrative in sede giurisdizionale la disposizione dell'art. 35 della legge sul Consiglio di Stato, modificato dalla presente legge, riferibilmente al deposito prescritto dall'art. 10 del regolamento per gli uffici di segreteria della Giunta provinciale amministrativa, pubblicato con [R. decreto 4 giugno 1891, n. 273](Che%20sostituisce%20due%20nuovi%20regolamenti%20a%20quelli%20gia%20in%20vigore%20per%20lesecuzione%20della%20legge%20sullordinamento%20della%20giustizia%20amministrativa.%20091U0273.md). 
  
  La decadenza per inadempimento all'obbligo del deposito sara' pronunziata dalla Giunta in Camera di consiglio con ordinanza esente da bollo. 
  

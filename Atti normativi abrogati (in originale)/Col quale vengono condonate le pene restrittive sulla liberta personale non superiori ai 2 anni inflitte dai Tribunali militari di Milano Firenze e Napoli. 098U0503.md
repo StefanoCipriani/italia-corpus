@@ -16,12 +16,12 @@ Sono condonate le pene restrittive della liberta' personale non superiori a due 
  
  2° delitti di oltraggio, violenza, resistenza contro persone rivestite di pubblica autorita', o danneggiamento, commessi in occasione di pubbliche dimostrazioni o tumulti; 
  
- 3° delitti preveduti dagli [articoli 125](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [126 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);  
+ 3° delitti preveduti dagli [articoli 125](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [126 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);  
  4° delitti contro l'ordine pubblico, preveduti dal Titolo V, libro II, del Codice medesimo.
 
 ## Art. 2.
 
-Sono condonate le pene restrittive della liberta' personale non superiori a due anni, inflitte o che saranno inflitte dai Tribunali ordinari per delitti commessi fino alla data del presente decreto, di cui nei nn. 1, 2 e 3 dell'articolo precedente e negli articoli 246, 247 e 251 a 255 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Sono condonate le pene restrittive della liberta' personale non superiori a due anni, inflitte o che saranno inflitte dai Tribunali ordinari per delitti commessi fino alla data del presente decreto, di cui nei nn. 1, 2 e 3 dell'articolo precedente e negli articoli 246, 247 e 251 a 255 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 3.
 
@@ -39,7 +39,7 @@ Sono condonate le pene pecuniarie inflitte pei suddetti reati.
 
 Le disposizioni del presente decreto non si applicano: 
  
- a) a coloro che abbiano riportato una precedente condanna per delitto entro i termini stabiliti nell'[articolo 80 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ a) a coloro che abbiano riportato una precedente condanna per delitto entro i termini stabiliti nell'[articolo 80 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  b) agli ammoniti ai termini della legge di pubblica sicurezza quali oziosi, vagabondi o diffamati; 
  

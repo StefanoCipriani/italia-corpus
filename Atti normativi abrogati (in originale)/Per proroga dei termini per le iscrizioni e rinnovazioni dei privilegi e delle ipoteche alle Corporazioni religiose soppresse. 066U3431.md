@@ -22,7 +22,7 @@ VITTORIO EMANUELE II
  
  Articolo unico. 
  
- Il termine di un anno stabilito dagli [articoli 37](../Regi%20decreti/contenente%20disposizioni%20transitorie%20per%20lattuazione%20del%20Codice%20civile%20del%20Regno%20dItalia.%20065U2606.md) e [41 del Regio Decreto del 30 novembre 1865, n° 2606](../Regi%20decreti/contenente%20disposizioni%20transitorie%20per%20lattuazione%20del%20Codice%20civile%20del%20Regno%20dItalia.%20065U2606.md), per le iscrizioni e rinnovazioni di privilegi ed ipoteche indicate negli stessi articoli, e' prorogato a tutto il 30 giugno 1867. 
+ Il termine di un anno stabilito dagli [articoli 37](contenente%20disposizioni%20transitorie%20per%20lattuazione%20del%20Codice%20civile%20del%20Regno%20dItalia.%20065U2606.md) e [41 del Regio Decreto del 30 novembre 1865, n° 2606](contenente%20disposizioni%20transitorie%20per%20lattuazione%20del%20Codice%20civile%20del%20Regno%20dItalia.%20065U2606.md), per le iscrizioni e rinnovazioni di privilegi ed ipoteche indicate negli stessi articoli, e' prorogato a tutto il 30 giugno 1867. 
  
  E' parimente prorogato a tutto il 30 giugno 1867 il termine stabilito dalle Leggi anteriori per le rinnovazioni delle iscrizioni prese sotto l'impero delle medesime, qualora i detti termini fossero per iscadere dopo il 30 dicembre 1866 a tutto il 30 giugno 1867; salvi pero' i diritti acquisiti per termini precedentemente scaduti. 
  

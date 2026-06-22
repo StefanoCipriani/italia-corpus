@@ -950,7 +950,7 @@ I residui passivi alla chiusura dell'esercizio finanziario 1927-28 sono stabilit
 
 ### Art. 40.
 
-Ai sensi dell'articolo 65 dell'ordinamento amministrativo-contabile per la Tripolitania e la Cirenaica, approvato con [Regio decreto 26 giugno 1925, n. 1271](../Regi%20decreti/Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), all'articolo n. 85, «accantonamento per provvedere all'eventuale pagamento di saldi, ecc.», del bilancio della Cirenaica per l'esercizio finanziario 1927-28, e' inscritta la somma di lire 163.071,10.
+Ai sensi dell'articolo 65 dell'ordinamento amministrativo-contabile per la Tripolitania e la Cirenaica, approvato con [Regio decreto 26 giugno 1925, n. 1271](Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), all'articolo n. 85, «accantonamento per provvedere all'eventuale pagamento di saldi, ecc.», del bilancio della Cirenaica per l'esercizio finanziario 1927-28, e' inscritta la somma di lire 163.071,10.
 
 ### Art. 41.
 

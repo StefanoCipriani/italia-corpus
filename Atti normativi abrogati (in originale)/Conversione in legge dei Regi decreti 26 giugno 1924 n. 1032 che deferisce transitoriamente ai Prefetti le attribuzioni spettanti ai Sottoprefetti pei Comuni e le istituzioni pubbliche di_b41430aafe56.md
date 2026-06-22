@@ -33,7 +33,7 @@ VITTORIO EMANUELE III
 
 Sostituire: 
  
- Gli articoli 7, 11 e 14 del testo unico delle leggi sulla Giunta provinciale amministrativa, in sede giurisdizionale, approvato col [R. decreto 26 giugno 1924, n. 1058](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Giunta%20provinciale%20amministrativa%20in%20sede%20giurisdizionale.%20024U1058.md), sono modificati come segue: 
+ Gli articoli 7, 11 e 14 del testo unico delle leggi sulla Giunta provinciale amministrativa, in sede giurisdizionale, approvato col [R. decreto 26 giugno 1924, n. 1058](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Giunta%20provinciale%20amministrativa%20in%20sede%20giurisdizionale.%20024U1058.md), sono modificati come segue: 
  
  Art. 7., 2° comma, sostituire: 
  

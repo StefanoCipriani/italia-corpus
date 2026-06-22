@@ -20,7 +20,7 @@ Visto il testo delle disposizioni sulle importazioni ed esportazioni temporanee,
 
 Visto, piu' particolarmente, il [R. decreto-legge 22 gennaio 1931, n. 66](Nuove%20concessioni%20di%20temporanea%20importazione%20ed%20esportazione.%20031U0066.md), convertito nella [legge 9 aprile 1931, n. 455](Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20gennaio%201931%20n%2066%20che%20ammette%20nuove%20merci%20al%20beneficio%20della%20temporanea%20importazione%20ed%20esportazione%20per%20essere%20lavorate.%20031U0455.md), successivamente prorogato fino al 31 dicembre 1935;
 
-Sentito il Comitato consultivo per le importazioni ed esportazioni temporanee, istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](../Regi%20decreti/Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), successivamente modificato;
+Sentito il Comitato consultivo per le importazioni ed esportazioni temporanee, istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), successivamente modificato;
 
 Sentito il Consiglio dei Ministri;
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); sull'ordinamento gerarchico delle Amministrazioni dello Stato e successive estensioni e modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); sull'ordinamento gerarchico delle Amministrazioni dello Stato e successive estensioni e modificazioni;
 
 Visto il [R. decreto-legge 5 aprile 1925, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-05;441);
 
@@ -32,7 +32,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-I ruoli organici di cui alla tabella n. 44 dell'allegato-II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), gia' modificati col [R. decreto-legge 5 aprile 1925, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-05;441), sono sostituiti da quelli di cui alla tabella A annessa al presente decreto.
+I ruoli organici di cui alla tabella n. 44 dell'allegato-II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), gia' modificati col [R. decreto-legge 5 aprile 1925, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-05;441), sono sostituiti da quelli di cui alla tabella A annessa al presente decreto.
 
 ## Art. 2.
 
@@ -42,7 +42,7 @@ Ferme restando le disposizioni in vigore relative alla nomina al grado iniziale 
 
 ## Art. 3.
 
-L'indennita' di servizio speciale di cui all'[art. 187 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), gia' modificata con l'[articolo 9 del R. decreto-legge 5 aprile 1925, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-05;441#art_9), e' stabilita nella seguente misura: 
+L'indennita' di servizio speciale di cui all'[art. 187 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), gia' modificata con l'[articolo 9 del R. decreto-legge 5 aprile 1925, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-05;441#art_9), e' stabilita nella seguente misura: 
  
  Volontari . . . . . . . . . . . . . . . . . . . . . . . . . L. 3000 
  
@@ -64,7 +64,7 @@ L'indennita' di servizio speciale di cui all'[art. 187 del R. decreto 11 novembr
  Questori ed ispettori generali di pubblica sicurezza 
  di 1ª classe . . . . . . . . . . . . . . . . . . . . . . . » 9000 
  
- Tale indennita' e' computabile agli effetti della pensione limitatamente alle misure gia' fissate per i singoli gradi dall'[art. 187 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); non e' invece computabile agli effetti stessi per i volontari.
+ Tale indennita' e' computabile agli effetti della pensione limitatamente alle misure gia' fissate per i singoli gradi dall'[art. 187 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); non e' invece computabile agli effetti stessi per i volontari.
 
 ## Art. 4.
 

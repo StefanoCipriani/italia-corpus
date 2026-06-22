@@ -26,7 +26,7 @@ E' convertito in [legge il decreto 18 novembre 1915, n. 1625](https://www.normat
 
 ## Art. 5.
 
-E' prorogato fino al 31 dicembre 1917 il corso legale dei biglietti della Banca d'Italia, del Banco di Napoli e del Banco di Sicilia, di che all'art. 9 del testo unico delle leggi sugli Istituti di emissione, approvato con [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md). 
+E' prorogato fino al 31 dicembre 1917 il corso legale dei biglietti della Banca d'Italia, del Banco di Napoli e del Banco di Sicilia, di che all'art. 9 del testo unico delle leggi sugli Istituti di emissione, approvato con [R. decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
  

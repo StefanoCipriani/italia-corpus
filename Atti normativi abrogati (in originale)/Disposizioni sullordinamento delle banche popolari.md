@@ -83,11 +83,11 @@ La deliberazione dell'assemblea straordinaria diretta ad uniformare l'atto costi
 
 ## Art. 14.
 
-I consorzi esercenti il credito costituiti secondo le leggi della cessata monarchia austro-ungarica, operanti nella Venezia Giulia e Tridentina e disciplinati dal primo capoverso dell'[art. 41, del regio decreto 4 novembre 1928, n. 2325](../Regi%20decreti/Disposizioni%20per%20lunificazione%20legislativa%20nei%20territori%20annessi%20al%20Regno.%20028U2325.md), possono conservare il loro attuale ordinamento e la denominazione di consorzi economici a garanzia limitata.
+I consorzi esercenti il credito costituiti secondo le leggi della cessata monarchia austro-ungarica, operanti nella Venezia Giulia e Tridentina e disciplinati dal primo capoverso dell'[art. 41, del regio decreto 4 novembre 1928, n. 2325](Disposizioni%20per%20lunificazione%20legislativa%20nei%20territori%20annessi%20al%20Regno.%20028U2325.md), possono conservare il loro attuale ordinamento e la denominazione di consorzi economici a garanzia limitata.
 
 ## Art. 15.
 
-Le societa' non cooperative le quali, in forza delle norme di cui alla [legge 14 aprile 1927, n. 531](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%201%20luglio%201926%20numero%201297%20concernente%20luso%20della%20qualifica%20di%20%20mutua%20%20e%20di%20%20popolare%20%20da%20parte%20degli%20Istituti%20di%20credito.%20027U0531.md), hanno mantenuto nella loro denominazione la qualifica di banca popolare possono conservarla.
+Le societa' non cooperative le quali, in forza delle norme di cui alla [legge 14 aprile 1927, n. 531](Conversione%20in%20legge%20del%20R.%20decreto-legge%201%20luglio%201926%20numero%201297%20concernente%20luso%20della%20qualifica%20di%20%20mutua%20%20e%20di%20%20popolare%20%20da%20parte%20degli%20Istituti%20di%20credito.%20027U0531.md), hanno mantenuto nella loro denominazione la qualifica di banca popolare possono conservarla.
 
 ## Art. 16.
 

@@ -22,7 +22,7 @@ UMBERTO I.
  
  Articolo unico. 
  
- E' convertito in legge il [R. Decreto 8 novembre 1892 n. 672](../Regi%20decreti/Che%20sopprime%20il%20limite%20dei%20prezzi%20per%20la%20vendita%20allingrosso%20dei%20tabacchi.%20092U0672.md), col quale fu soppresso, agli effetti della [legge 15 maggio 1890 n. 6851](Che%20determina%20lapplicazione%20del%20Reale%20decreto%20relativo%20alla%20vendita%20dei%20tabacchi.%20090U6851.md) (serie 3ª), il limite dei prezzi per la vendita all'ingrosso delle diverse specie e qualita' di tabacchi lavorati, restando fermo quello stabilito per la vendita al minuto. 
+ E' convertito in legge il [R. Decreto 8 novembre 1892 n. 672](Che%20sopprime%20il%20limite%20dei%20prezzi%20per%20la%20vendita%20allingrosso%20dei%20tabacchi.%20092U0672.md), col quale fu soppresso, agli effetti della [legge 15 maggio 1890 n. 6851](Che%20determina%20lapplicazione%20del%20Reale%20decreto%20relativo%20alla%20vendita%20dei%20tabacchi.%20090U6851.md) (serie 3ª), il limite dei prezzi per la vendita all'ingrosso delle diverse specie e qualita' di tabacchi lavorati, restando fermo quello stabilito per la vendita al minuto. 
  
  Il prezzo di vendita all'ingrosso delle varie specie e qualita' di tabacchi lavorati, non potra' essere diverso da quello per la vendita al minuto. 
  

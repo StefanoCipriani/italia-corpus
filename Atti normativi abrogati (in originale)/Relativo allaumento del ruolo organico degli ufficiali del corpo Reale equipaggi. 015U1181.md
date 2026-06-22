@@ -10,17 +10,17 @@ vigente: true
 
 ## Art. 1.
 
-Fino a nuove disposizioni il ruolo organico degli ufficiali del Corpo Reale equipaggi, approvato con [R. decreto 25 maggio 1915, n. 815](../Regi%20decreti/Col%20quale%20viene%20stabilito%20temporaneamente%20il%20ruolo%20organico%20degli%20ufficiali%20del%20corpo%20R.%20equipaggi.%20015U0815.md), e' aumentato di n. 18 capitani e di n. 12 ufficiali subalterni.
+Fino a nuove disposizioni il ruolo organico degli ufficiali del Corpo Reale equipaggi, approvato con [R. decreto 25 maggio 1915, n. 815](Col%20quale%20viene%20stabilito%20temporaneamente%20il%20ruolo%20organico%20degli%20ufficiali%20del%20corpo%20R.%20equipaggi.%20015U0815.md), e' aumentato di n. 18 capitani e di n. 12 ufficiali subalterni.
 
 ## Art. 2.
 
-Le speciali indennita' annue stabilite dall'[art. 4 del R. decreto 25 maggio 1915, n. 815](../Regi%20decreti/Col%20quale%20viene%20stabilito%20temporaneamente%20il%20ruolo%20organico%20degli%20ufficiali%20del%20corpo%20R.%20equipaggi.%20015U0815.md), hanno decorrenza dal primo di detto mese. 
+Le speciali indennita' annue stabilite dall'[art. 4 del R. decreto 25 maggio 1915, n. 815](Col%20quale%20viene%20stabilito%20temporaneamente%20il%20ruolo%20organico%20degli%20ufficiali%20del%20corpo%20R.%20equipaggi.%20015U0815.md), hanno decorrenza dal primo di detto mese. 
  
  Quella di L. 175 e' corrisposta ai tenenti del C. R. E. fino alla data in cui essi conseguano il primo aumento quinquennale di stipendio.
 
 ## Art. 3.
 
-Per la prima applicazione del ruolo organico degli ufficiali del Corpo Reale equipaggi, quale risulta dal [R. decreto 25 maggio 1915, n. 815](../Regi%20decreti/Col%20quale%20viene%20stabilito%20temporaneamente%20il%20ruolo%20organico%20degli%20ufficiali%20del%20corpo%20R.%20equipaggi.%20015U0815.md), e dal presente decreto, la competente Commissione di avanzamento compilera', per la promozione a sottotenente del Corpo Reale equipaggi, un unico quadro fra i sott'ufficiali del corpo stesso, appartenenti a tutte le categorie. 
+Per la prima applicazione del ruolo organico degli ufficiali del Corpo Reale equipaggi, quale risulta dal [R. decreto 25 maggio 1915, n. 815](Col%20quale%20viene%20stabilito%20temporaneamente%20il%20ruolo%20organico%20degli%20ufficiali%20del%20corpo%20R.%20equipaggi.%20015U0815.md), e dal presente decreto, la competente Commissione di avanzamento compilera', per la promozione a sottotenente del Corpo Reale equipaggi, un unico quadro fra i sott'ufficiali del corpo stesso, appartenenti a tutte le categorie. 
  
  Per la compilazione di tale quadro, la competente Commissione procedera' separatamente allo scrutinio dei capi di 1ª classe appartenenti a ciascuna categoria, assegnando a ciascun candidato idoneo un punto di merito da 10 a 20, con coefficiente 3, per le sue qualita' morali, militari e di carattere, ed un punto di anzianita', che sara' uguale al numero di anni di servizio effettivo compiuto, dopo il 17° anno di eta', da ciascun candidato, aumentato del numero di anni trascorsi nel grado di capo di 1ª classe, alla data del 15 luglio 1915. 
  
@@ -34,7 +34,7 @@ L'anzianita' dei sottotenenti del C. R. E. nominati dopo il 1° maggio 1915 sara
 
 ## Art. 5.
 
-Il [R. decreto 25 maggio 1915, n. 815](../Regi%20decreti/Col%20quale%20viene%20stabilito%20temporaneamente%20il%20ruolo%20organico%20degli%20ufficiali%20del%20corpo%20R.%20equipaggi.%20015U0815.md), ed il presente decreto avranno effetto dal 1° maggio
+Il [R. decreto 25 maggio 1915, n. 815](Col%20quale%20viene%20stabilito%20temporaneamente%20il%20ruolo%20organico%20degli%20ufficiali%20del%20corpo%20R.%20equipaggi.%20015U0815.md), ed il presente decreto avranno effetto dal 1° maggio
 
 1915.
 

@@ -18,7 +18,7 @@ Ritenuta l'opportunita' di avvalersi della delega prevista dalla [legge 25 genna
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Sentita la Commissione parlamentare di cui all'[art. 8 della legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), e successive modificazioni;
+Sentita la Commissione parlamentare di cui all'[art. 8 della legge 24 dicembre 1949, n. 993](Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), e successive modificazioni;
 
 Sentito il Consiglio dei Ministri;
 

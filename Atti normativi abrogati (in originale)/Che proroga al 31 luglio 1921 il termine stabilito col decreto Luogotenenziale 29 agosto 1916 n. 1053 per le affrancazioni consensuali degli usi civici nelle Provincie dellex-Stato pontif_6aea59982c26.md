@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto il [decreto Luogotenenziale 29 agosto 1916, n. 1053](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-29;1053), che autorizza le affrancazioni consensuali degli usi civici nelle Provincie dell'ex-Stato pontificio;
 
-Veduto il [R. decreto 30 settembre 1920, n. 1389](../Regi%20decreti/Contenente%20norme%20pel%20passaggio%20dallo%20stato%20di%20guerra%20allo%20stato%20di%20pace.%20020U1389.md), contenente norme sul passaggio dallo stato di guerra allo stato di pace;
+Veduto il [R. decreto 30 settembre 1920, n. 1389](Contenente%20norme%20pel%20passaggio%20dallo%20stato%20di%20guerra%20allo%20stato%20di%20pace.%20020U1389.md), contenente norme sul passaggio dallo stato di guerra allo stato di pace;
 
 Ritenuto che per constatate necessita' e' opportuno prorogare, fino alla meta', il termine stabilito col predetto decreto Luogotenenziale per le affrancazioni consensuali;
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto l'art. 42 del testo unico delle leggi sulla pesca, approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md);
+Visto l'art. 42 del testo unico delle leggi sulla pesca, approvato con [R. decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md);
 
 Ritenuta la necessita' assoluta ed urgente di provvedimenti diretti a favorire lo sviluppo del naviglio peschereccio;
 
@@ -34,7 +34,7 @@ E' consentita, per un periodo di anni due, la totale esenzione dalle tasse sugli
 
 ## Art. 2.
 
-Le ditte ammesse alla esenzione dalle tasse sugli affari fino al 31 dicembre 1935, ai sensi del terzo comma dell'articolo 42 del testo unico delle leggi sulla pesca, approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), godono di tale agevolazione fino al 31 dicembre 1937, sempreche' fino a tale termine i rispettivi scafi siano tenuti in esercizio per i fini indicati all'art. 1.
+Le ditte ammesse alla esenzione dalle tasse sugli affari fino al 31 dicembre 1935, ai sensi del terzo comma dell'articolo 42 del testo unico delle leggi sulla pesca, approvato con [R. decreto 8 ottobre 1931, n. 1604](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), godono di tale agevolazione fino al 31 dicembre 1937, sempreche' fino a tale termine i rispettivi scafi siano tenuti in esercizio per i fini indicati all'art. 1.
 
 ## Art. 3.
 

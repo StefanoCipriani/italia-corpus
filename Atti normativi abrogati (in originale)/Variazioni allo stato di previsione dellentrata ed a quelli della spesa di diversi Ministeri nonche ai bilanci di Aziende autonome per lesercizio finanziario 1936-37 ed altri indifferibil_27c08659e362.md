@@ -52,7 +52,7 @@ Per completare l'arredamento scientifico e l'ammobigliamento dell'Istituto di ma
 
 ## Art. 7.
 
-In dipendenza dei passaggio del servizi del commercio estero al Sottosegretariato di Stato per gli scambi e le valute, di cui al [R. decreto 29 dicembre 1935, n. 2186](../Regi%20decreti/Istituzione%20del%20Sottosegretariato%20di%20Stato%20per%20gli%20scambi%20e%20per%20le%20valute.%20035U2186.md), i residui risultanti al 30 giugno 1936, sui capitoli nn. 30 e 31 del bilancio del Ministero delle corporazioni per l'esercizio 1935-36, si intendono attribuiti ai capitoli nn. 104-bis e 104-ter del bilancio del Ministero delle finanze, per l'esercizio finanziario 1936-37. 
+In dipendenza dei passaggio del servizi del commercio estero al Sottosegretariato di Stato per gli scambi e le valute, di cui al [R. decreto 29 dicembre 1935, n. 2186](Istituzione%20del%20Sottosegretariato%20di%20Stato%20per%20gli%20scambi%20e%20per%20le%20valute.%20035U2186.md), i residui risultanti al 30 giugno 1936, sui capitoli nn. 30 e 31 del bilancio del Ministero delle corporazioni per l'esercizio 1935-36, si intendono attribuiti ai capitoli nn. 104-bis e 104-ter del bilancio del Ministero delle finanze, per l'esercizio finanziario 1936-37. 
  Con decreti del Ministro per le finanze, sara' provveduto agli occorrenti adempimenti.
 
 ## Art. 8.

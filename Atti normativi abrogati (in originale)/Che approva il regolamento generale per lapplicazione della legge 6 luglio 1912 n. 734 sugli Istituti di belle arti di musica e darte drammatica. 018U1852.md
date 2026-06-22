@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la [legge 6 luglio 1912, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;734); 
  
- Visto il testo unico delle leggi sullo stato giuridico degli impiegati civili dello Stato, approvato con il [Regio decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md), e il regolamento generale approvato con il [Regio decreto 24 novembre 1908, n. 756](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md); 
+ Visto il testo unico delle leggi sullo stato giuridico degli impiegati civili dello Stato, approvato con il [Regio decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md), e il regolamento generale approvato con il [Regio decreto 24 novembre 1908, n. 756](Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md); 
  
  Udito il parere della 3ª sezione del Consiglio superiore per le antichita' e le belle arti e della Commissione permanente per le arti musicale e drammatica; 
  

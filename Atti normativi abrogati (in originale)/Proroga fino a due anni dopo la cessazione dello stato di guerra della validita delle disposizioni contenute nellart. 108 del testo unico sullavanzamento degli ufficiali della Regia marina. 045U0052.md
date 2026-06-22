@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle disposizioni legislative sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 1° agosto 1936, n. 1493](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 1° agosto 1936, n. 1493](Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni;
 
 Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
@@ -30,11 +30,11 @@ Sulla proposta del Ministro per la marina, di concerto con il Ministro per il te
 
 ## Art. 1.
 
-La validita' delle disposizioni contenute nell'art. 108 del testo unico sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 1° agosto 1936, n. 1493](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni, e' prorogata sino a due anni dopo la cessazione dello stato di guerra, salvo il disposto del successivo art. 2 e fatta eccezione per quanto concerne i periodi minimi di permanenza nel grado.
+La validita' delle disposizioni contenute nell'art. 108 del testo unico sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 1° agosto 1936, n. 1493](Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni, e' prorogata sino a due anni dopo la cessazione dello stato di guerra, salvo il disposto del successivo art. 2 e fatta eccezione per quanto concerne i periodi minimi di permanenza nel grado.
 
 ## Art. 2.
 
-La compilazione delle schede individuali, cui all'art. 43 del testo unico sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 1° agosto 1936, n. 1493](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni, si effettua anche in tempo di guerra. 
+La compilazione delle schede individuali, cui all'art. 43 del testo unico sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 1° agosto 1936, n. 1493](Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni, si effettua anche in tempo di guerra. 
  
 Ordiniamo, a chiunque spetti, di osservare il presente decreto e di farlo osservare come legge dello Stato. 
  

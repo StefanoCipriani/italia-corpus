@@ -220,7 +220,7 @@ Il mutuatario potra' restituire la parte a suo carico in un termine minore di qu
 
 ### Art. 24.
 
-Per il procedimento di esecuzione sono applicabili alle operazioni dell'Istituto mutuante le disposizioni del titolo VII del testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md). 
+Per il procedimento di esecuzione sono applicabili alle operazioni dell'Istituto mutuante le disposizioni del titolo VII del testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md). 
  
  Qualora l'Istituto mutuante intenda valersi della procedura e dei privilegi fiscali stabiliti per la riscossione delle imposte dirette, si osserveranno le seguenti norme. 
  

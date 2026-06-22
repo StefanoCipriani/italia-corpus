@@ -23,26 +23,26 @@ Sulla proposta del presidente del Consiglio dei ministri, ministro segretario di
 Sono esteso ai territori occupati della Venezia Giulia o della Venezia Tridentina: 
  
  a) la tariffa dei dazi doganali del Regno d'Italia, testo unico, 
- approvato col [R. decreto 28 luglio 1910, n. 577](../Regi%20decreti/Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md), con le 
+ approvato col [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md), con le 
  variazioni successive introdottevi; 
  
  b) il repertorio per l'applicazione della tariffa dei dazi doganali 
  del Regno d'Italia, testo unico, approvato col [R. decreto 
- 8 gennaio 1914, n. 10](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20del%20Repertorio%20per%20lapplicazione%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20014U0010.md), con le modificazioni introdottevi; 
+ 8 gennaio 1914, n. 10](Col%20quale%20viene%20approvato%20il%20testo%20unico%20del%20Repertorio%20per%20lapplicazione%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20014U0010.md), con le modificazioni introdottevi; 
  
  c) le disposizioni sulle tare doganali, testo unico approvato 
- con [Regio decreto 28 luglio 1910, n. 577](../Regi%20decreti/Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md); 
+ con [Regio decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md); 
  
  d) le disposizioni concernenti la liquidazione e la riscossione 
  del diritto di statistica, risultanti dal [Regio decreto 
- 22 novembre 1914, n. 1289](../Regi%20decreti/Riguardante%20modificazioni%20al%20diritto%20di%20statistica%20in%20dogana.%20014U1289.md), e dal [Regio decreto-legge 
+ 22 novembre 1914, n. 1289](Riguardante%20modificazioni%20al%20diritto%20di%20statistica%20in%20dogana.%20014U1289.md), e dal [Regio decreto-legge 
  24 novembre 1919, n. 2165](Riguardante%20limposta%20sui%20tessuti%20di%20lusso%20sui%20guanti%20e%20provvedimenti%20relativi%20allimposta%20di%20fabbricazione%20della%20birra%20ecc.%20019U2165.md), allegato C.
 
 ## Art. 2.
 
 In luogo delle tasse di bollo contemplate dall'art. 19 delle disposizioni preliminari della tariffa dei dazi doganali, di cui al precedente art. 1, lettera a), si applicano sulle bollette e sui documenti doganali quelle previste dall'art. 13 della tariffa annessa all'allegato A del [decreto-legge 29 febbraio 1920, n. 278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1920-02-29;278). 
  
- L'esenzione dal diritto di statistica di cui all'[art. 2, lettera h), del R. decreto 22 novembre 1914, n. 1289](../Regi%20decreti/Riguardante%20modificazioni%20al%20diritto%20di%20statistica%20in%20dogana.%20014U1289.md), riguarda l'importazione temporanea degli attrezzi navali da riparare e degli altri oggetti d'uso delle navi ancorate nei porti e destinati al essere reimbarcati sulle navi stesse, nonche' degli oggetti d'uso casalingo e rurale dei paesi situati all'estrema frontiera, e l'importazione ed esportazione temporanea del bestiame destinato al pascolo, al lavoro, allo svernamento o alle fiere e mercati, nonche' dei veicoli da strade ferrate adibiti a trasporti internazionali, delle vetture o carri anche automobili, compresi i velocipedi e le bestie da tiro, da soma o da cavalcatura, in quanto tali operazioni sieno ammesse dalle disposizioni vigenti nei territori ai quali e' applicabile il presente decreto.
+ L'esenzione dal diritto di statistica di cui all'[art. 2, lettera h), del R. decreto 22 novembre 1914, n. 1289](Riguardante%20modificazioni%20al%20diritto%20di%20statistica%20in%20dogana.%20014U1289.md), riguarda l'importazione temporanea degli attrezzi navali da riparare e degli altri oggetti d'uso delle navi ancorate nei porti e destinati al essere reimbarcati sulle navi stesse, nonche' degli oggetti d'uso casalingo e rurale dei paesi situati all'estrema frontiera, e l'importazione ed esportazione temporanea del bestiame destinato al pascolo, al lavoro, allo svernamento o alle fiere e mercati, nonche' dei veicoli da strade ferrate adibiti a trasporti internazionali, delle vetture o carri anche automobili, compresi i velocipedi e le bestie da tiro, da soma o da cavalcatura, in quanto tali operazioni sieno ammesse dalle disposizioni vigenti nei territori ai quali e' applicabile il presente decreto.
 
 ## Art. 3.
 
@@ -79,7 +79,7 @@ Per l'importazione dei prodotti qui sotto elencati, soggetti nel Regno ad impost
 
 ## Art. 4.
 
-Le controversie fra i contribuenti e la dogana, rispetto alla qualificazione delle merci, verranno risolute secondo le norme del testo unico delle leggi per la risoluzione delle controversie doganali, approvato con [R. decreto 9 aprile 1911, n. 330](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20risoluzione%20delle%20controversie%20doganali.%20011U0330.md) e del regolamento per l'applicazione del predetto teste unico, approvato col [decreto Ministeriale 19 aprile 1911, n. 1270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1911-04-19;1270), che vengono parimenti estesi ai territori occupati della Venezia Giulia e Tridentina.
+Le controversie fra i contribuenti e la dogana, rispetto alla qualificazione delle merci, verranno risolute secondo le norme del testo unico delle leggi per la risoluzione delle controversie doganali, approvato con [R. decreto 9 aprile 1911, n. 330](Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20risoluzione%20delle%20controversie%20doganali.%20011U0330.md) e del regolamento per l'applicazione del predetto teste unico, approvato col [decreto Ministeriale 19 aprile 1911, n. 1270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1911-04-19;1270), che vengono parimenti estesi ai territori occupati della Venezia Giulia e Tridentina.
 
 ## Art. 5.
 

@@ -20,7 +20,7 @@ I ruoli organici del personale della carriera direttiva e di concetto dei serviz
 
 ## Art. 2.
 
-Al direttore ginnico-sportivo ed al personale della carriera di concetto si applicano le norme del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), salvo quanto diversamente disposto dalla presente legge.
+Al direttore ginnico-sportivo ed al personale della carriera di concetto si applicano le norme del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), salvo quanto diversamente disposto dalla presente legge.
 
 ## Art. 3.
 
@@ -37,7 +37,7 @@ Il personale della carriera di concetto dei servizi antincendi svolge, sotto la 
 
 ## Art. 6.
 
-Per l'ammissione ai concorsi per la nomina nella carriera di concetto, oltre ai requisiti generali stabiliti dall'[articolo 2 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), sono prescritti i seguenti requisiti particolari:
+Per l'ammissione ai concorsi per la nomina nella carriera di concetto, oltre ai requisiti generali stabiliti dall'[articolo 2 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), sono prescritti i seguenti requisiti particolari:
  a) diploma di geometra o perito tecnico industriale;
  b) eta' che, alla data di scadenza del termine stabilito dal bando di concorso per la presentazione della domanda di ammissione, non deve essere superiore agli anni 30, salvo le elevazioni previste dalle vigenti disposizioni: tale limite non potra' in nessun caso eccedere gli anni 35;
  c) aver assolto agli obblighi di leva;
@@ -69,7 +69,7 @@ Le disposizioni del [decreto legislativo del Capo provvisorio dello Stato 2 otto
 
 ## Art. 10.
 
-Al personale della carriera di concetto e' estesa la norma di cui all'[articolo 252 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), circa il procedimento e le sanzioni disciplinari.
+Al personale della carriera di concetto e' estesa la norma di cui all'[articolo 252 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), circa il procedimento e le sanzioni disciplinari.
 
 ## Art. 11.
 
@@ -91,7 +91,7 @@ Coadiutori principali.................. L. 125.000 L. 210.000 Primi coadiutori..
 
 ## Art. 12.
 
-Il posto di direttore sanitario previsto dall'[articolo 4, primo comma, della legge 27 dicembre 1941, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-27;1570#art_4-com1), e compreso nel quadro 8 annesso al testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' soppresso.
+Il posto di direttore sanitario previsto dall'[articolo 4, primo comma, della legge 27 dicembre 1941, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-27;1570#art_4-com1), e compreso nel quadro 8 annesso al testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' soppresso.
  Le attribuzioni attualmente affidate da disposizioni legislative o regolamentari all'ispettore sanitario saranno espletate da un funzionario della carriera direttiva del ruolo medici del Ministero della sanita', con qualifica non inferiore a quella di medico provinciale capo, da nominarsi di volta in volta, con decreto del Ministero dell'interno su designazione del Ministero della sanita'.
 
 ### Art. 13.
@@ -108,7 +108,7 @@ La Commissione esaminatrice del concorso di cui al precedente articolo e' compos
 
 ### Art. 15.
 
-Nella prima applicazione della presente legge, e per la durata di un triennio, le promozioni alle qualifiche di ispettore capo e di ispettore generale, vengono conferite per merito comparativo tra il personale che abbia, prestato servizio nella qualifica inferiore per un periodo di tempo pari almeno alla meta' di quello minimo previsto dal [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+Nella prima applicazione della presente legge, e per la durata di un triennio, le promozioni alle qualifiche di ispettore capo e di ispettore generale, vengono conferite per merito comparativo tra il personale che abbia, prestato servizio nella qualifica inferiore per un periodo di tempo pari almeno alla meta' di quello minimo previsto dal [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ### Art. 16.
 

@@ -16,7 +16,7 @@ Per gli atti economici relativi al commercio dei prodotti tessili elencati nella
 ## Art. 2.
 
 Non costituisce entrata imponibile la vendita dei filati elencati nella tabella allegato B alla presente legge, effettuata ai fabbricanti che li impiegano direttamente nella fabbricazione di tessuti, o agli industriali che li impiegano nella trasformazione in filati cucirini o altrimenti preparati per la vendita al minuto, ovvero, nella produzione di filati binati, torti o ritorti di seta o di fibre tessili artificiali e sintetiche. 
- Le relative fatture di vendita, il cui rilascio e' in ogni caso obbligatorio, sono soggette alla tassa ordinaria di bollo di cui all'art. 52 della tariffa allegato A al [regio decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e successive modificazioni, e debbono contenere la specifica indicazione che trattasi di filati acquistati per le produzioni di cui al comma precedente. 
+ Le relative fatture di vendita, il cui rilascio e' in ogni caso obbligatorio, sono soggette alla tassa ordinaria di bollo di cui all'art. 52 della tariffa allegato A al [regio decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e successive modificazioni, e debbono contenere la specifica indicazione che trattasi di filati acquistati per le produzioni di cui al comma precedente. 
  Per l'importazione dall'estero dei filati elencati nella citata tabella, allegato B, da parte di industriali che li destinano alle produzioni menzionate nel precedente primo comma, l'imposta generale sull'entrata e' dovuta nella misura dell'uno per cento.
 
 ## Art. 3.

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I termini fissati dall'[art. 38 del R. decreto 30 novembre 1865, n. 2606](../Regi%20decreti/contenente%20disposizioni%20transitorie%20per%20lattuazione%20del%20Codice%20civile%20del%20Regno%20dItalia.%20065U2606.md), pubblicato nella provincia Romana col [R. decreto 27 novembre 1870, n. 6030](../Regi%20decreti/Che%20manda%20pubblicare%20nella%20Provincia%20di%20Roma%20alcuni%20Codici%20Leggi%20Decreti%20e%20Regolamenti%20concernenti%20lunificazione%20legislativa.%20070U6030.md), sono prorogati per la detta provincia a tutto giugno 1874.
+I termini fissati dall'[art. 38 del R. decreto 30 novembre 1865, n. 2606](contenente%20disposizioni%20transitorie%20per%20lattuazione%20del%20Codice%20civile%20del%20Regno%20dItalia.%20065U2606.md), pubblicato nella provincia Romana col [R. decreto 27 novembre 1870, n. 6030](Che%20manda%20pubblicare%20nella%20Provincia%20di%20Roma%20alcuni%20Codici%20Leggi%20Decreti%20e%20Regolamenti%20concernenti%20lunificazione%20legislativa.%20070U6030.md), sono prorogati per la detta provincia a tutto giugno 1874.
 
 ## Art. 2.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti la [legge 9 dicembre 1928, n. 2834](Penalita%20in%20materia%20di%20imposte%20dirette.%20028U2834.md), il [R. decreto 28 gennaio 1929, n. 360](../Regi%20decreti/Modalita%20per%20le%20denuncie%20dei%20redditi%20agli%20effetti%20delle%20imposte%20dirette.%20029U0360.md), ed il [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md);
+Visti la [legge 9 dicembre 1928, n. 2834](Penalita%20in%20materia%20di%20imposte%20dirette.%20028U2834.md), il [R. decreto 28 gennaio 1929, n. 360](Modalita%20per%20le%20denuncie%20dei%20redditi%20agli%20effetti%20delle%20imposte%20dirette.%20029U0360.md), ed il [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md);
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

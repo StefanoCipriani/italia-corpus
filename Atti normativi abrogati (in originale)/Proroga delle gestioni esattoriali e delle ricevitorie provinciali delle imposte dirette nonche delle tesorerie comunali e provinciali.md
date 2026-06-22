@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md);
+Visto il [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](../DPR/Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md);
 
 Visto il [decreto del Presidente della Repubblica 29 settembre 1973, n. 603](../DPR/Modifiche%20ed%20integrazioni%20al%20testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2015%20maggio%201963%20n.%20858.md), e successive modificazioni;
 

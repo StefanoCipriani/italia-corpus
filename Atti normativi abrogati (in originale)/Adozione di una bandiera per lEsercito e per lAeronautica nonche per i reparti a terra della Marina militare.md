@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la [legge 24 dicembre 1925, n. 2264](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20settembre%201923%20n.%202072%20concernente%20le%20norme%20per%20luso%20della%20bandiera%20nazionale.%20025U2264.md);
+Vista la [legge 24 dicembre 1925, n. 2264](Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20settembre%201923%20n.%202072%20concernente%20le%20norme%20per%20luso%20della%20bandiera%20nazionale.%20025U2264.md);
 
 Visto l'[art. 8 del decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1#art_8);
 

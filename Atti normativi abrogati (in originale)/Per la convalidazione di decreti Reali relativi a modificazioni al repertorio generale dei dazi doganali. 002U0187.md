@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Sono convalidati i RR. decreti del 31 maggio 1890, n. 6883, del 4 febbraio 1892, n. 32, del 26 aprile 1893, n. 208, del 7 gennaio 1894, n. 3, del 4 febbraio 1897, n. 60, del 13 novembre 1898, n. 476, e del 29 dicembre 1898, n. 527, coi quali furono apportate modificazioni al repertorio della tariffa generale dei dazi doganali approvato col [R. decreto del 17 novembre 1887, n. 5084](../Regi%20decreti/Che%20approva%20il%20repertorio%20e%20le%20disposizioni%20speciali%20per%20lapplicazione%20della%20Tariffa%20generale%20dei%20dazi%20doganali.%20087U5084.md), e convalidato con la [legge del 29 agosto 1889, n. 6363](Che%20convalida%20i%20RR.%20decreti%2014%20novembre%20e%2018%20dicembre%201887%20nn.%205084%20e%205116%20Serie%203ª%20sul%20repertorio%20generale%20per%20lapplicazione%20della%20tariffa%20doganale%20e%20apporta%20modificazioni%20al%20regolament_2c4eeed7ffbe.md).
+Sono convalidati i RR. decreti del 31 maggio 1890, n. 6883, del 4 febbraio 1892, n. 32, del 26 aprile 1893, n. 208, del 7 gennaio 1894, n. 3, del 4 febbraio 1897, n. 60, del 13 novembre 1898, n. 476, e del 29 dicembre 1898, n. 527, coi quali furono apportate modificazioni al repertorio della tariffa generale dei dazi doganali approvato col [R. decreto del 17 novembre 1887, n. 5084](Che%20approva%20il%20repertorio%20e%20le%20disposizioni%20speciali%20per%20lapplicazione%20della%20Tariffa%20generale%20dei%20dazi%20doganali.%20087U5084.md), e convalidato con la [legge del 29 agosto 1889, n. 6363](Che%20convalida%20i%20RR.%20decreti%2014%20novembre%20e%2018%20dicembre%201887%20nn.%205084%20e%205116%20Serie%203ª%20sul%20repertorio%20generale%20per%20lapplicazione%20della%20tariffa%20doganale%20e%20apporta%20modificazioni%20al%20regolament_2c4eeed7ffbe.md).
 
 ## Art. 2.
 
-Sono convertiti in legge il [R. decreto del 9 dicembre 1900, n. 400](../Regi%20decreti/Che%20approva%20il%20repertorio%20della%20tariffa%20dei%20dazi%20doganali.%20000U0400.md), col quale fu approvato il repertorio per l'applicazione della tariffa dei dazi doganali, con le relative disposizioni preliminari, e il [R. decreto del 16 luglio 1901, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-07-16;62), col quale il nuovo repertorio fu modificato.
+Sono convertiti in legge il [R. decreto del 9 dicembre 1900, n. 400](Che%20approva%20il%20repertorio%20della%20tariffa%20dei%20dazi%20doganali.%20000U0400.md), col quale fu approvato il repertorio per l'applicazione della tariffa dei dazi doganali, con le relative disposizioni preliminari, e il [R. decreto del 16 luglio 1901, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-07-16;62), col quale il nuovo repertorio fu modificato.
 
 ## Art. 3.
 

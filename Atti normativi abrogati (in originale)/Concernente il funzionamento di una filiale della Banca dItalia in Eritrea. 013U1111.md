@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 24 maggio 1903, n. 205](Ordinamento%20della%20Colonia%20Eritrea.%20003U0205.md), per l'ordinamento della Colonia eritrea;
 
-Veduto il testo unico di legge sugli Istituti di emissione e sulla circolazione dei biglietti di Banca, approvato con [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md);
+Veduto il testo unico di legge sugli Istituti di emissione e sulla circolazione dei biglietti di Banca, approvato con [R. decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md);
 
 Veduto il [R. decreto 18 marzo 1909, n. 138](Che%20approva%20lannesso%20statuto%20modificato%20della%20Banca%20dItalia.%20009U0138.md), che approva lo statuto della Banca d'Italia;
 

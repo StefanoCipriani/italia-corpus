@@ -43,7 +43,7 @@ Gli agenti delle ferrovie dello Stato, stabili alla pubblicazione del presente d
  
  b) aiutanti di 2ª classe, 
  
- oppure ammessi a concorrere ai posti di aiutante applicato in prova nel personale delle stazioni, che si renderanno vacanti entro il 30 giugno 1920 nel ruolo dei sottocapi ed applicati del personale esecutivo delle stazioni ed alle condizioni previste per il servizio di prova dal regolamento approvato con [decreto Luogotenenziale 13 agosto 1917, n. 1393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-13;1393), dopo gli aiutanti applicati avventizi segnati nell'ordine di precedenza di cui al p. 4 dell'[art. 2 del R. decreto 2 settembre 1919, n. 1588](../Regi%20decreti/Che%20detta%20norme%20per%20la%20riassunzione%20degli%20avventizi%20delle%20ferrovie%20dello%20Stato%20che%20abbiano%20lasciato%20il%20servizio%20per%20la%20chiamata%20alle%20armi.%20019U1588.md).
+ oppure ammessi a concorrere ai posti di aiutante applicato in prova nel personale delle stazioni, che si renderanno vacanti entro il 30 giugno 1920 nel ruolo dei sottocapi ed applicati del personale esecutivo delle stazioni ed alle condizioni previste per il servizio di prova dal regolamento approvato con [decreto Luogotenenziale 13 agosto 1917, n. 1393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-13;1393), dopo gli aiutanti applicati avventizi segnati nell'ordine di precedenza di cui al p. 4 dell'[art. 2 del R. decreto 2 settembre 1919, n. 1588](Che%20detta%20norme%20per%20la%20riassunzione%20degli%20avventizi%20delle%20ferrovie%20dello%20Stato%20che%20abbiano%20lasciato%20il%20servizio%20per%20la%20chiamata%20alle%20armi.%20019U1588.md).
 
 ## Art. 4.
 

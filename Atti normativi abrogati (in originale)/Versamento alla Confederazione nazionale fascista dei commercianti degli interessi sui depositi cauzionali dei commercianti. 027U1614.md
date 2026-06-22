@@ -18,7 +18,7 @@ Visto il [R. decreto 2 gennaio 1913, n. 453](Col%20quale%20viene%20approvato%20l
 
 Visto il [R. decreto-legge 16 dicembre 1926, n. 2174](Disciplina%20del%20commercio%20di%20vendita%20al%20pubblico.%20026U2174.md), che disciplina il commercio di vendita al pubblico;
 
-Visto il [R. decreto 24 febbraio 1927, n. 241](../Regi%20decreti/Norme%20transitorie%20relative%20alle%20denuncie%20ed%20ai%20contributi%20sindacali%20obbligatori%20per%20lanno%201927.%20027U0241.md), contenente norme transitorie relative alle denuncie ed ai contributi sindacali obbligatori per l'anno 1927;
+Visto il [R. decreto 24 febbraio 1927, n. 241](Norme%20transitorie%20relative%20alle%20denuncie%20ed%20ai%20contributi%20sindacali%20obbligatori%20per%20lanno%201927.%20027U0241.md), contenente norme transitorie relative alle denuncie ed ai contributi sindacali obbligatori per l'anno 1927;
 
 Visto il [R. decreto-legge 3 marzo 1927, n. 296](Modificazioni%20al%20servizio%20dei%20depositi%20amministrati%20dalla%20Cassa%20dei%20depositi%20e%20prestiti.%20027U0296.md), riguardante modificazioni al servizio dei depositi amministrati dalla Cassa depositi e prestiti;
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-In parziale deroga dell'[art. 6 del R. decreto-legge 3 marzo 1927, n. 296](Modificazioni%20al%20servizio%20dei%20depositi%20amministrati%20dalla%20Cassa%20dei%20depositi%20e%20prestiti.%20027U0296.md), gli interessi maturati al 1° luglio 1927 dei depositi dei commercianti, effettuati ai termini del [R. decreto-legge 16 dicembre 1926, n. 2174](Disciplina%20del%20commercio%20di%20vendita%20al%20pubblico.%20026U2174.md), verranno versati alla Confederazione nazionale fascista dei commercianti, giusta il disposto dell'[art. 24 del R. decreto 24 febbraio 1927, n. 241](../Regi%20decreti/Norme%20transitorie%20relative%20alle%20denuncie%20ed%20ai%20contributi%20sindacali%20obbligatori%20per%20lanno%201927.%20027U0241.md), senza attendere la scadenza del 1° gennaio 1928, quando i depositi in numerario siano regolarizzati e per quelli in effetti pubblici, quando i depositi stessi siano regolarizzati e l'Amministrazione della Cassa depositi e prestiti abbia potuto effettuare la riscossione delle rate d'interessi scadute al 1° luglio 1927. 
+In parziale deroga dell'[art. 6 del R. decreto-legge 3 marzo 1927, n. 296](Modificazioni%20al%20servizio%20dei%20depositi%20amministrati%20dalla%20Cassa%20dei%20depositi%20e%20prestiti.%20027U0296.md), gli interessi maturati al 1° luglio 1927 dei depositi dei commercianti, effettuati ai termini del [R. decreto-legge 16 dicembre 1926, n. 2174](Disciplina%20del%20commercio%20di%20vendita%20al%20pubblico.%20026U2174.md), verranno versati alla Confederazione nazionale fascista dei commercianti, giusta il disposto dell'[art. 24 del R. decreto 24 febbraio 1927, n. 241](Norme%20transitorie%20relative%20alle%20denuncie%20ed%20ai%20contributi%20sindacali%20obbligatori%20per%20lanno%201927.%20027U0241.md), senza attendere la scadenza del 1° gennaio 1928, quando i depositi in numerario siano regolarizzati e per quelli in effetti pubblici, quando i depositi stessi siano regolarizzati e l'Amministrazione della Cassa depositi e prestiti abbia potuto effettuare la riscossione delle rate d'interessi scadute al 1° luglio 1927. 
  
  Tali interessi saranno versati alla Confederazione nazionale fascista dei commercianti dopo prelevate tutte le tasse che gravano i depositi predetti in quanto non sussistano legali impedimenti.
 

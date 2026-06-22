@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visti il [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), convertito nella legge 17 aprile 1925, n, 473, e le successive disposizioni modificative e integrative, concernenti l'esercizio delle assicurazioni private;
 
-Visto il regolamento approvato con [R. decreto 4 gennaio 1925, n. 63](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md);
+Visto il regolamento approvato con [R. decreto 4 gennaio 1925, n. 63](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md);
 
 Visti il [R. decreto-legge 23 giugno 1927, n. 1206](Temporanee%20agevolazioni%20tributarie%20per%20gli%20atti%20di%20fusione%20delle%20societa%20commerciali%20regolarmente%20costituite.%20027U1206.md), convertito nella legge 19 febbraio 1928, n, 340, e i successivi provvedimenti che ne prorogano l'efficacia, concernenti temporanee agevolazioni tributarie per gli atti di fusione di societa' commerciali;
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Ritenuta la necessita' e l'urgenza di emanare norme per la ulteriore proroga dei regimi vincolistici delle locazioni di immobili urbani, da ultimo protratti fino al 30 giugno 1967 dalla [legge 23 dicembre 1966, n. 1123](Proroga%20di%20disposizioni%20in%20materia%20di%20locazioni%20Urbane.md), nonche' del vincolo di destinazione alberghiera, da ultimo contemplato dal [decreto-legge 23 dicembre 1964, n. 1357](Proroga%20delle%20locazioni%20di%20immobili%20adibiti%20ad%20uso%20di%20albergo%20pensione%20o%20locanda%20e%20del%20vincolo%20alberghiero.md), convertito nella [legge 19 febbraio 1965, n. 33](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201964%20n.%201357%20concernente%20la%20disciplina%20del%20regime%20vincolistico%20delle%20locazioni%20di%20immobili%20adibiti%20ad%20uso%20di%20albergo%20p_6c280701926b.md);
+Ritenuta la necessita' e l'urgenza di emanare norme per la ulteriore proroga dei regimi vincolistici delle locazioni di immobili urbani, da ultimo protratti fino al 30 giugno 1967 dalla [legge 23 dicembre 1966, n. 1123](Proroga%20di%20disposizioni%20in%20materia%20di%20locazioni%20Urbane.md), nonche' del vincolo di destinazione alberghiera, da ultimo contemplato dal [decreto-legge 23 dicembre 1964, n. 1357](Proroga%20delle%20locazioni%20di%20immobili%20adibiti%20ad%20uso%20di%20albergo%20pensione%20o%20locanda%20e%20del%20vincolo%20alberghiero.md), convertito nella [legge 19 febbraio 1965, n. 33](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201964%20n.%201357%20concernente%20la%20disciplina%20del%20regime%20vincolistico%20delle%20locazioni%20di%20immobili%20adibiti%20ad%20uso%20di%20albergo%20p_6c280701926b.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -44,7 +44,7 @@ La scadenza convenzionale o legale dei contratti di locazione di immobili adibit
 
 ## Art. 5.
 
-Il vincolo alberghiero gia' prorogato con l'[art. 3 del decreto-legge 23 dicembre 1964, n. 1357](Proroga%20delle%20locazioni%20di%20immobili%20adibiti%20ad%20uso%20di%20albergo%20pensione%20o%20locanda%20e%20del%20vincolo%20alberghiero.md), convertito nella [legge 19 febbraio 1965, n. 33](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201964%20n.%201357%20concernente%20la%20disciplina%20del%20regime%20vincolistico%20delle%20locazioni%20di%20immobili%20adibiti%20ad%20uso%20di%20albergo%20p_6c280701926b.md), e' ulteriormente prorogato al 31 dicembre 1969.
+Il vincolo alberghiero gia' prorogato con l'[art. 3 del decreto-legge 23 dicembre 1964, n. 1357](Proroga%20delle%20locazioni%20di%20immobili%20adibiti%20ad%20uso%20di%20albergo%20pensione%20o%20locanda%20e%20del%20vincolo%20alberghiero.md), convertito nella [legge 19 febbraio 1965, n. 33](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201964%20n.%201357%20concernente%20la%20disciplina%20del%20regime%20vincolistico%20delle%20locazioni%20di%20immobili%20adibiti%20ad%20uso%20di%20albergo%20p_6c280701926b.md), e' ulteriormente prorogato al 31 dicembre 1969.
 
 ## Art. 6.
 
@@ -53,7 +53,7 @@ Sono ulteriormente prorogati fino al 31 dicembre 1968 i contratti di locazione e
 
 ## Art. 7.
 
-Il blocco dei canoni di locazione e di sublocazione degli immobili urbani, di cui all'[art. 5 del decreto-legge 23 dicembre 1964, n. 1356](Disciplina%20transitoria%20delle%20locazioni%20degli%20immobili%20urbani.md), convertito nella [legge 19 febbraio 1965, n. 30](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2023%20dicembre%201964%20n.%201356%20concernente%20la%20disciplina%20transitoria%20delle%20locazioni%20di%20immobili%20urbani.md), e' prorogato fino al 31 dicembre 1968.
+Il blocco dei canoni di locazione e di sublocazione degli immobili urbani, di cui all'[art. 5 del decreto-legge 23 dicembre 1964, n. 1356](Disciplina%20transitoria%20delle%20locazioni%20degli%20immobili%20urbani.md), convertito nella [legge 19 febbraio 1965, n. 30](Conversione%20in%20legge%20del%20decreto-legge%2023%20dicembre%201964%20n.%201356%20concernente%20la%20disciplina%20transitoria%20delle%20locazioni%20di%20immobili%20urbani.md), e' prorogato fino al 31 dicembre 1968.
 
 ## Art. 8.
 

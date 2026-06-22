@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 13 giugno 1935, n. 1453](Costituzione%20dellEnte%20nazionale%20per%20la%20cellulosa%20e%20per%20la%20carta%20e%20determinazione%20dei%20suoi%20compiti%20e%20dei%20mezzi%20occorrenti%20per%20il%20suo%20funzionamento.%20035U1453.md), e successive modificazioni, sulla costituzione dell'Ente nazionale per la cellulosa e per la carta Visto il [regio decreto 26 settembre 1935, n. 1932](../Regi%20decreti/Approvazione%20dello%20statuto%20dellEnte%20nazionale%20per%20la%20cellulosa%20o%20per%20la%20carta.%20035U1932.md), con il quale e' stato approvato lo statuto del predetto Ente;
+Vista la [legge 13 giugno 1935, n. 1453](Costituzione%20dellEnte%20nazionale%20per%20la%20cellulosa%20e%20per%20la%20carta%20e%20determinazione%20dei%20suoi%20compiti%20e%20dei%20mezzi%20occorrenti%20per%20il%20suo%20funzionamento.%20035U1453.md), e successive modificazioni, sulla costituzione dell'Ente nazionale per la cellulosa e per la carta Visto il [regio decreto 26 settembre 1935, n. 1932](Approvazione%20dello%20statuto%20dellEnte%20nazionale%20per%20la%20cellulosa%20o%20per%20la%20carta.%20035U1932.md), con il quale e' stato approvato lo statuto del predetto Ente;
 
 Udito il parere del Consiglio di Stato;
 
@@ -18,7 +18,7 @@ Sulla proposta del Ministro per l'industria e per il commercio di concerto con i
 
 ## Articolo unico.
 
-L'art. 5 dello statuto dell'Ente nazionale per la cellulosa e per la carta, approvato con [regio decreto 26 settembre 1935, n. 1932](../Regi%20decreti/Approvazione%20dello%20statuto%20dellEnte%20nazionale%20per%20la%20cellulosa%20o%20per%20la%20carta.%20035U1932.md), e' sostituito dal seguente:
+L'art. 5 dello statuto dell'Ente nazionale per la cellulosa e per la carta, approvato con [regio decreto 26 settembre 1935, n. 1932](Approvazione%20dello%20statuto%20dellEnte%20nazionale%20per%20la%20cellulosa%20o%20per%20la%20carta.%20035U1932.md), e' sostituito dal seguente:
  "Il Consiglio direttivo si compone, oltre che del presidente, dei seguenti membri:
  a) un rappresentante della Presidenza del Consiglio dei Ministri; un rappresentante del Ministero dell'industria e del commercio; un rappresentante del Ministero delle finanze; un rappresentante del Ministero dell'agricoltura e delle foreste;
  b) tre membri da scegliersi fra gli esperti nelle materie che formano oggetto dell'attivita' dell'Ente.

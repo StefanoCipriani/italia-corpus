@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La durata dei poteri conferiti al R. commissario per la Camera agrumaria di Messina, con [R. decreto 20 gennaio 1910, n. 14](../Regi%20decreti/Che%20scioglie%20la%20Camera%20agrumaria%20di%20Messina.%20010U0014.md), e' prorogata sino al 31 dicembre 1910.
+La durata dei poteri conferiti al R. commissario per la Camera agrumaria di Messina, con [R. decreto 20 gennaio 1910, n. 14](Che%20scioglie%20la%20Camera%20agrumaria%20di%20Messina.%20010U0014.md), e' prorogata sino al 31 dicembre 1910.
 
 ## Art. 2.
 
@@ -40,7 +40,7 @@ Le fabbriche di acido citrico sono sottoposte al controllo della Camera agrumari
 
 L'esercizio camerale comincia col 1° dicembre e termina col 30 novembre dell'anno successivo. 
  
- Non piu' tardi del 15 settembre il ministro di agricoltura, industria e commercio, su proposta del R. commissario per la Camera agrumaria, sentita la Commissione consultiva instituita in conformita' del [R. decreto del 20 gennaio 1910, n. 14](../Regi%20decreti/Che%20scioglie%20la%20Camera%20agrumaria%20di%20Messina.%20010U0014.md), stabilira' il prezzo minimo da corrispondere ai depositanti per l'esercizio 1910-911. 
+ Non piu' tardi del 15 settembre il ministro di agricoltura, industria e commercio, su proposta del R. commissario per la Camera agrumaria, sentita la Commissione consultiva instituita in conformita' del [R. decreto del 20 gennaio 1910, n. 14](Che%20scioglie%20la%20Camera%20agrumaria%20di%20Messina.%20010U0014.md), stabilira' il prezzo minimo da corrispondere ai depositanti per l'esercizio 1910-911. 
  
  Tale prezzo dovra' essere determinato con criteri prudenziali tenuto conto delle condizioni del mercato e della produzione. La differenza fra il prezzo minimo ed il prezzo di vendita conseguito nell'esercizio 1910-911, dopo eseguiti i prelevamenti disposti dalla legge, sara' destinata ad ammortare il valore del prodotto rimasto non venduto nell'annata stessa, calcolato in base al prezzo minimo.
 Il di piu' sara' ripartito fra tutti i depositanti dell'annata. 
@@ -125,7 +125,7 @@ E' data facolta' al Governo di autorizzare con decreto Reale la costituzione di 
 
 ## Art. 18.
 
-Sono abrogati il [R. decreto del 28 novembre 1909, n. 742](../Regi%20decreti/Che%20autorizza%20la%20Camera%20agrumaria%20di%20Messina%20a%20vendere%20ad%20un%20dato%20prezzo%20il%20citrato%20e%20lagrocotto%20affidatole.%20009U0742.md), il [R. decreto del 21 aprile 1910, n. 275](../Regi%20decreti/Che%20proroga%20i%20poteri%20del%20R.%20commissario%20per%20la%20Camera%20agrumaria%20di%20Messina.%20010U0275.md), e le disposizioni della [legge 5 luglio 1908, n. 404](Provvedimenti%20per%20favorire%20il%20commercio%20degli%20agrumi%20e%20loro%20derivati.%20008U0404.md), che siano contrarie alla presente legge. 
+Sono abrogati il [R. decreto del 28 novembre 1909, n. 742](Che%20autorizza%20la%20Camera%20agrumaria%20di%20Messina%20a%20vendere%20ad%20un%20dato%20prezzo%20il%20citrato%20e%20lagrocotto%20affidatole.%20009U0742.md), il [R. decreto del 21 aprile 1910, n. 275](Che%20proroga%20i%20poteri%20del%20R.%20commissario%20per%20la%20Camera%20agrumaria%20di%20Messina.%20010U0275.md), e le disposizioni della [legge 5 luglio 1908, n. 404](Provvedimenti%20per%20favorire%20il%20commercio%20degli%20agrumi%20e%20loro%20derivati.%20008U0404.md), che siano contrarie alla presente legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

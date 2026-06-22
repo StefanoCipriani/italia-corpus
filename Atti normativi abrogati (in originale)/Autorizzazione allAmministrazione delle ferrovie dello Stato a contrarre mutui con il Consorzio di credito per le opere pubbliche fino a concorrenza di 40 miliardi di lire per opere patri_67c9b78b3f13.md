@@ -21,7 +21,7 @@ L'Amministrazione delle ferrovie dello Stato e' autorizzata a contrarre con il C
 ## Art. 2.
 
 Il ricavo dei mutui e' da utilizzarsi per lavori e forniture di carattere patrimoniale e di ripristino del materiale e degli impianti ferroviari.
- Dal detto ricavo l'Amministrazione ferroviaria e' autorizzata a prelevare la somma di L. 5.000.000.000 per partecipazioni all'aumento del capitale di enti e societa', ai sensi del [regio decreto 13 maggio 1929, n. 836](../Regi%20decreti/Partecipazione%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato%20ad%20imprese%20aventi%20per%20fine%20lacquisizione%20e%20lincremento%20dei%20trasporti%20per%20ferrovia%20e%20lesercizio%20dei%20servizi%20complementari%20ed%20a_f6f195412f41.md), nonche' alla costituzione ed all'aumento del capitale di enti e societa' aventi per fine la produzione di energia elettrica o lo sfruttamento di altre fonti di energia da utilizzare per la trazione dei treni ed altre necessita' dell'esercizio ferroviario.
+ Dal detto ricavo l'Amministrazione ferroviaria e' autorizzata a prelevare la somma di L. 5.000.000.000 per partecipazioni all'aumento del capitale di enti e societa', ai sensi del [regio decreto 13 maggio 1929, n. 836](Partecipazione%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato%20ad%20imprese%20aventi%20per%20fine%20lacquisizione%20e%20lincremento%20dei%20trasporti%20per%20ferrovia%20e%20lesercizio%20dei%20servizi%20complementari%20ed%20a_f6f195412f41.md), nonche' alla costituzione ed all'aumento del capitale di enti e societa' aventi per fine la produzione di energia elettrica o lo sfruttamento di altre fonti di energia da utilizzare per la trazione dei treni ed altre necessita' dell'esercizio ferroviario.
 
 ## Art. 3.
 

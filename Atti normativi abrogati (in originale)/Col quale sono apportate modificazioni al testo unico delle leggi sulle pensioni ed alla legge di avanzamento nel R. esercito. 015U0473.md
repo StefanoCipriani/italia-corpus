@@ -18,7 +18,7 @@ Vista la [legge 17 ottobre 1881, n. 435](Che%20stabilisce%20una%20posizione%20di
 
 Vista la [legge 2 luglio 1896, n 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel R. esercito;
 
-Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e modificato con la [legge 14 luglio 1907, n. 482](Portante%20aggiunte%20e%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari%20del%2021%20febbraio%201895%20n.%2070.%20007U0482.md);
+Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e modificato con la [legge 14 luglio 1907, n. 482](Portante%20aggiunte%20e%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari%20del%2021%20febbraio%201895%20n.%2070.%20007U0482.md);
 
 Vista la [legge 3 luglio 1904, n 302 (art. 3](Provvedimenti%20per%20gli%20ufficiali%20inferiori%20del%20R.%20esercito.%20004U0302.md)°) istitutiva della posizione di congedo provvisorio;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro ministro, segretario di Stato per gli affari della gue
 
 ## Art. 1.
 
-Sino al 31 dicembre 1915, gli ufficiali del R. esercito potranno essere collocati in posizione di servizio ausiliario a senso dall'articolo 20 del testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), quando anche non abbiano raggiunto i limiti di eta' in tale articolo stabili, purche' abbiano le condizioni di servizio volute per il collocamento a riposo. 
+Sino al 31 dicembre 1915, gli ufficiali del R. esercito potranno essere collocati in posizione di servizio ausiliario a senso dall'articolo 20 del testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Regi%20decreti/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), quando anche non abbiano raggiunto i limiti di eta' in tale articolo stabili, purche' abbiano le condizioni di servizio volute per il collocamento a riposo. 
  
  Sino alla data stessa, potranno essere collocati in posizione ausiliaria gli ufficiali esclusi definitivamente dall'avanzamento, ancorche' non raggiungano i limiti di eta' previsti dall'art. 9 del citato testo unico od abbiano gia' diritto al massimo della pensione, e potranno inoltre essere sospesi i collocamenti a riposo in applicazione della art. 3, ultimo alinea, della [legge 14 luglio 1907, n. 482](Portante%20aggiunte%20e%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari%20del%2021%20febbraio%201895%20n.%2070.%20007U0482.md).
 

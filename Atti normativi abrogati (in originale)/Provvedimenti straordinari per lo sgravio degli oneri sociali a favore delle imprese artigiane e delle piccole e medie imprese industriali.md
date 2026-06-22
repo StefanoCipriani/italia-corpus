@@ -28,7 +28,7 @@ A decorrere dal periodo di paga successivo a quello in corso alla data del 1° l
 
 ## Art. 2.
 
-I benefici previsti dalle disposizioni di cui all'art. 1 del presente decreto sono cumulabili con quelli stabiliti dall'[art. 18 del decreto-legge 30 agosto 1968, n. 918](Provvidenze%20creditizie%20agevolazioni%20fiscali%20e%20sgravio%20di%20oneri%20sociali%20per%20favorire%20nuovi%20investimenti%20nei%20settori%20dellindustria%20del%20commercio%20e%20dellartigianato.md), convertito nella [legge 25 ottobre 1968, n. 1089](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201968%20n.%20918%20recante%20provvidenze%20creditizie%20agevolazioni%20fiscali%20e%20sgravio%20di%20oneri%20sociali%20per%20favorire%20nuovi%20investimen_7cf466023fc0.md), e successive modificazioni.
+I benefici previsti dalle disposizioni di cui all'art. 1 del presente decreto sono cumulabili con quelli stabiliti dall'[art. 18 del decreto-legge 30 agosto 1968, n. 918](Provvidenze%20creditizie%20agevolazioni%20fiscali%20e%20sgravio%20di%20oneri%20sociali%20per%20favorire%20nuovi%20investimenti%20nei%20settori%20dellindustria%20del%20commercio%20e%20dellartigianato.md), convertito nella [legge 25 ottobre 1968, n. 1089](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201968%20n.%20918%20recante%20provvidenze%20creditizie%20agevolazioni%20fiscali%20e%20sgravio%20di%20oneri%20sociali%20per%20favorire%20nuovi%20investimen_7cf466023fc0.md), e successive modificazioni.
 
 ## Art. 3.
 

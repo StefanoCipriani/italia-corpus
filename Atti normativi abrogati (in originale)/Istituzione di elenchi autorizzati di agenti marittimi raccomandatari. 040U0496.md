@@ -123,7 +123,7 @@ Contro le deliberazioni della Commissione, che abbia negato l'inscrizione o la r
 
 ## Art. 12.
 
-Chiunque eserciti l'attivita' di agente marittimo raccomandatario in contravvenzione alle norme della presente legge, e' punito con la pena stabilita nell'[art. 348 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Chiunque eserciti l'attivita' di agente marittimo raccomandatario in contravvenzione alle norme della presente legge, e' punito con la pena stabilita nell'[art. 348 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 13.
 

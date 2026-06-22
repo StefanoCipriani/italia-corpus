@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il termine fissato dall'art. 34, primo capoverso, della [legge 19 luglio 1909, n. 496 (art. 129](Recante%20provvedimenti%20per%20la%20istruzione%20superiore.%20009U0496.md) del testo unico, approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md)), e prorogato dall'[art. 1 della legge 21 luglio 1911, n. 800](Che%20proroga%20il%20termine%20fissato%20dallart.%2034%20della%20legge%2019%20luglio%201909%20n.%20496.%20011U0800.md), e' prorogato ancora fino al 31 luglio 1914. 
+Il termine fissato dall'art. 34, primo capoverso, della [legge 19 luglio 1909, n. 496 (art. 129](Recante%20provvedimenti%20per%20la%20istruzione%20superiore.%20009U0496.md) del testo unico, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md)), e prorogato dall'[art. 1 della legge 21 luglio 1911, n. 800](Che%20proroga%20il%20termine%20fissato%20dallart.%2034%20della%20legge%2019%20luglio%201909%20n.%20496.%20011U0800.md), e' prorogato ancora fino al 31 luglio 1914. 
  
  Tutto il personale in soprannumero e straordinario, presentemente in servizio, che nel frattempo venisse a mancare, potra' essere sostituito.
 
@@ -20,7 +20,7 @@ Gli insegnanti delle scuole medie potranno ricoprire anche l'ufficio di assisten
 
 ## Art. 3.
 
-Oltre gli aiuti e gli assistenti effettivi indicati nella tabella G della [legge 19 luglio 1909, n. 496](Recante%20provvedimenti%20per%20la%20istruzione%20superiore.%20009U0496.md) (I del testo unico approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md)), potranno nominarsi aiuti e assistenti volontari senza stipendio, in numero non maggiore di quello degli effettivi assegnati a ciascun Istituto o a ciascuna cattedra. 
+Oltre gli aiuti e gli assistenti effettivi indicati nella tabella G della [legge 19 luglio 1909, n. 496](Recante%20provvedimenti%20per%20la%20istruzione%20superiore.%20009U0496.md) (I del testo unico approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md)), potranno nominarsi aiuti e assistenti volontari senza stipendio, in numero non maggiore di quello degli effettivi assegnati a ciascun Istituto o a ciascuna cattedra. 
  
  Per gli Istituti o cattedre non contemplati dalla tabella stessa il numero degli aiuti e assistenti volontari non potra' essere superiore a due.
 

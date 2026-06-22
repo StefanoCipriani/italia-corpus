@@ -31,7 +31,7 @@ I biglietti per la tassa d'ingresso, di cui ai precedenti articoli, sono messi i
 
 ## Art. 4.
 
-Per la vendita dei biglietti d'ingresso e per la relativa contabilita' si osservano, in quanto applicabili, le disposizioni del regolamento generale approvato con [regio decreto 11 novembre 1885, n. 3191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-11-11;3191), serie 3ª, ferma restando l'abrogazione dell'art. 21 in dipendenza dell'[art. 89 del regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+Per la vendita dei biglietti d'ingresso e per la relativa contabilita' si osservano, in quanto applicabili, le disposizioni del regolamento generale approvato con [regio decreto 11 novembre 1885, n. 3191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-11-11;3191), serie 3ª, ferma restando l'abrogazione dell'art. 21 in dipendenza dell'[art. 89 del regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 5.
 

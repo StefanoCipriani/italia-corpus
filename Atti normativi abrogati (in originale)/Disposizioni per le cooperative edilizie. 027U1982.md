@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto-legge 30 novembre 1919, n. 2318](Che%20riunisce%20in%20testo%20unico%20le%20leggi%20per%20le%20case%20popolari%20e%20per%20lindustria%20edilizia.%20019U2318.md), che approva il [testo unico delle leggi in materia di edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica;
+Veduto il [R. decreto-legge 30 novembre 1919, n. 2318](Che%20riunisce%20in%20testo%20unico%20le%20leggi%20per%20le%20case%20popolari%20e%20per%20lindustria%20edilizia.%20019U2318.md), che approva il [testo unico delle leggi in materia di edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica;
 
 Veduto il [R. decreto-legge 7 ottobre 1923, n. 2412](Compiti%20della%20Commissione%20di%20vigilanza%20sulla%20edilizia%20popolare%20provvedimenti%20per%20la%20esecutorieta%20delle%20sue%20decisioni%20e%20altre%20norme%20in%20materia%20di%20abitazioni.%20023U2412.md), che detta disposizioni circa i compiti della Commissione di vigilanza sulla edilizia popolare, provvedimenti per la esecutorieta' delle sue decisioni ed altre norme in materia di edilizia popolare;
 

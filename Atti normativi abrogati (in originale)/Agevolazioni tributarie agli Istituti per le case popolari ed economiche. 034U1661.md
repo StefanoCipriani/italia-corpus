@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 30 novembre 1919, n. 2318](Che%20riunisce%20in%20test
 
 Visto il [R. decreto-legge 29 dicembre 1927, n. 2655](Disposizioni%20sugli%20istituti%20per%20case%20popolari.%20027U2655.md), convertito in [legge 31 maggio 1928, n. 1247](Conversione%20in%20legge%20del%20R.%20decreto-legge%2029%20dicembre%201927%20n.%202655%20contenente%20disposizioni%20sugli%20Istituti%20per%20case%20popolari.%20028U1247.md);
 
-Visto l'[art. 2 del R. decreto 27 settembre 1929, n. 1726](../Regi%20decreti/Passaggio%20di%20alcuni%20servizi%20gia%20di%20competenza%20del%20Ministero%20delleconomia%20nazionale%20al%20Ministero%20dei%20lavori%20pubblici%20e%20passaggio%20di%20altri%20servizi%20da%20questultimo%20Ministero%20al%20Sottosegretari_3ddfa1b4c30a.md);
+Visto l'[art. 2 del R. decreto 27 settembre 1929, n. 1726](Passaggio%20di%20alcuni%20servizi%20gia%20di%20competenza%20del%20Ministero%20delleconomia%20nazionale%20al%20Ministero%20dei%20lavori%20pubblici%20e%20passaggio%20di%20altri%20servizi%20da%20questultimo%20Ministero%20al%20Sottosegretari_3ddfa1b4c30a.md);
 
 Ritenuta l'opportunita' di concedere agevolazioni tributarie agli Istituti per case popolari ed economiche, allo scopo di facilitare l'esazione dei loro crediti verso gli inquilini morosi;
 

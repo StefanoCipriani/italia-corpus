@@ -16,9 +16,9 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, approvato con Nostro decreto 28 novembre 1869; 
+ Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, approvato con Nostro decreto 28 novembre 1869; 
  
- Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) marittimo, approvato con Nostro decreto 28 novembre 1869; 
+ Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) marittimo, approvato con Nostro decreto 28 novembre 1869; 
  
  Sentito il Consiglio dei ministri; 
  

@@ -166,7 +166,7 @@ Le controversie sulla qualificazione dei prodotti agli effetti del presente decr
 
 ## Art. 22.
 
-Le somme dovute per effetto dell'applicazione del presente decreto e non pagate, sono riscosse dal Ricevitore doganale con le norme del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
+Le somme dovute per effetto dell'applicazione del presente decreto e non pagate, sono riscosse dal Ricevitore doganale con le norme del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
  L'atto di opposizione all'ingiunzione di pagamento non e' valido se non e' preceduto dal versamento delle somme richieste.
 
 ## Art. 23.
@@ -182,13 +182,13 @@ Il credito dello Stato per l'imposta e per i diritti previsti dal presente decre
 
 Chiunque fabbrica clandestinamente i prodotti indicati all'art. 1 del presente decreto punito, oltre che con la multa non minore del doppio ne' maggiore del decuplo dell'imposta corrispondente ai prodotti gia' ottenuti e ottenibili dalle materie rinvenute in fabbrica o nei locali annessi od attigui, con la reclusione fino a due anni. La multa non puo' essere in nessun caso inferiore ad un milione di lire.
  E' considerata fabbrica clandestina anche la sola esistenza nei locali di fabbrica o in locali annessi od attigui di apparecchi o meccanismi di produzione e di materie prime, ovvero di prodotti semilavorati e finiti, prima della prescritta denuncia.
- Gli apparecchi e i macchinari, i prodotti e le materie prime, oggetto della violazione di cui al primo comma del presente articolo, sono soggetti a confisca a termini della legge doganale 25 settembre 1940, n. 1424, e in deroga alle disposizioni dell'[art. 240 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Gli apparecchi e i macchinari, i prodotti e le materie prime, oggetto della violazione di cui al primo comma del presente articolo, sono soggetti a confisca a termini della legge doganale 25 settembre 1940, n. 1424, e in deroga alle disposizioni dell'[art. 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 26.
 
 Chiunque sottrae o tenta di sottrarre con qualunque mezzo i prodotti contemplati nell'art. 1 del presente decreto all'accertamento o al pagamento dell'imposta di fabbricazione e' punito, indipendentemente dal pagamento dell'imposta evasa, con la multa non minore del doppio ne' maggiore del decuplo dell'imposta stessa.
  La multa non puo' essere in nessun caso inferiore a L. 200.000. Il contravventore incorre nel ritiro della licenza.
- I prodotti sottratti o che si tentasse di sottrarre e le cose adoperate per commettere la frode sono soggetti a confisca ai termini della legge doganale 25 settembre 1940, n. 1424, e in deroga alle disposizioni dell'[art. 240 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ I prodotti sottratti o che si tentasse di sottrarre e le cose adoperate per commettere la frode sono soggetti a confisca ai termini della legge doganale 25 settembre 1940, n. 1424, e in deroga alle disposizioni dell'[art. 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 27.
 
@@ -206,7 +206,7 @@ Chiunque omette di presentare la denuncia prescritta dall'art. 3 o la dichiarazi
 
 ## Art. 30.
 
-Chiunque manomette od altera in qualsiasi modo i congegni, i bolli ed i sigilli posti dall'Amministrazione e' punito a termine dell'[art. 349 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Chiunque manomette od altera in qualsiasi modo i congegni, i bolli ed i sigilli posti dall'Amministrazione e' punito a termine dell'[art. 349 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 31.
 
@@ -228,7 +228,7 @@ Le pene della multa e dell'ammenda non eseguite per insolvenza del condannato si
 
 ## Art. 35.
 
-Le disposizioni di cui agli articoli 17, 25, 26, 27, 28, 29, 31, 32 e 33 per quanto concerne la misura delle pene della multa e della ammenda, sono adottate in deroga agli [articoli 24](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [26 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle loro successive modificazioni.
+Le disposizioni di cui agli articoli 17, 25, 26, 27, 28, 29, 31, 32 e 33 per quanto concerne la misura delle pene della multa e della ammenda, sono adottate in deroga agli [articoli 24](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [26 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle loro successive modificazioni.
 
 ## Art. 36.
 

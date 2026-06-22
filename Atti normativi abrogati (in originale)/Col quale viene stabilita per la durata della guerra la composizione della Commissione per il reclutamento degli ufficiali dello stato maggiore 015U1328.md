@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per la durata della guerra, la Commissione di cui all'[art. 2 del R. decreto n. 186 dell'8 febbraio 1914](../Regi%20decreti/Col%20quale%20vengono%20stabilite%20le%20norme%20per%20il%20reclutamento%20degli%20ufficiali%20dello%20stato%20maggiore%20dellesercito.%20014U0186.md), sara' convocata e presieduta dal sottocapo di stato maggiore dell'esercito, anziche' dal capo di stato maggiore, e sara' costituita dal sottocapo di stato maggiore dell'esercito, dall'intendente generale dell'esercito e dall'ufficiale generale addetto al comando supremo.
+Per la durata della guerra, la Commissione di cui all'[art. 2 del R. decreto n. 186 dell'8 febbraio 1914](Col%20quale%20vengono%20stabilite%20le%20norme%20per%20il%20reclutamento%20degli%20ufficiali%20dello%20stato%20maggiore%20dellesercito.%20014U0186.md), sara' convocata e presieduta dal sottocapo di stato maggiore dell'esercito, anziche' dal capo di stato maggiore, e sara' costituita dal sottocapo di stato maggiore dell'esercito, dall'intendente generale dell'esercito e dall'ufficiale generale addetto al comando supremo.
 
 ## Art. 2.
 

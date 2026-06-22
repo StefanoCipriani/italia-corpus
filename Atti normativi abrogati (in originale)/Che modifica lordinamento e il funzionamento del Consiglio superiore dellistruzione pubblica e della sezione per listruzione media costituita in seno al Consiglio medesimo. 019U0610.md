@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto l'art. 1 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md);
+Veduto l'art. 1 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md);
 
 Veduti gli [articoli 15](Sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20006U0141.md) e [16 della legge 8 aprile 1906, n. 141](Sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20006U0141.md), e 77 della [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md);
 
@@ -34,7 +34,7 @@ Sulla proposta del ministro segretario di Stato per la istruzione pubblica; Abbi
 
 ## Art. 1.
 
-Al comma penultimo dell'art. 1 del testo unico delle leggi sulla istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e' sostituito il seguente: 
+Al comma penultimo dell'art. 1 del testo unico delle leggi sulla istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e' sostituito il seguente: 
  
  «I membri del Consiglio superiore durano in carica quattro anni.
 Gli uscenti possono essere per eta' e per una sola volta rinominati o rieletti, alla scadenza, secondo le norme che saranno stabilite per regolamento: gli altri non possono essere nuovamente nominati che dopo due anni dal giorno della loro cessazione».

@@ -34,7 +34,7 @@ L'ammissione al corso superiore di polizia tributaria e' subordinata all'esito f
  Il testo delle note qui pubblicato e' stato redatto ai 
  sensi dell'art. 10, comma 3, del testo unico approvato con 
  [decreto del Presidente della Repubblica 28 dicembre 1985, 
- n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
+ n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
  disposizioni di legge alle quali e' operato il rinvio. 
  Restano invariati il valore e l'efficacia degli atti 
  legislativi trascritti. medesimo.
@@ -110,7 +110,7 @@ Nota all'art. 6:
 
 1.
 
-Le disposizioni di cui all'articolo 5 ed alla tabella n. 2 allegata alla [legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887), e successive modificazioni, nonche' di cui al [decreto del Presidente della Repubblica 5 gennaio 1989, n. 46](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20lammissione%20e%20la%20frequenza%20al%20corso%20superiore%20di%20polizia%20tributaria%20per%20ufficiali%20in%20servizio%20permanente%20effettivo%20della%20Guardia%20di%20finanza.md), si applicano esclusivamente ai maggiori ed ai capitani che non hanno titolo alla frequenza del corso di polizia tributaria previsto dall'articolo 5 o che, alla data di entrata in vigore della presente legge, non frequentino o non abbiano frequentato i corsi di cui al comma 3 del presente articolo.
+Le disposizioni di cui all'articolo 5 ed alla tabella n. 2 allegata alla [legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887), e successive modificazioni, nonche' di cui al [decreto del Presidente della Repubblica 5 gennaio 1989, n. 46](../DPR/Approvazione%20del%20regolamento%20per%20lammissione%20e%20la%20frequenza%20al%20corso%20superiore%20di%20polizia%20tributaria%20per%20ufficiali%20in%20servizio%20permanente%20effettivo%20della%20Guardia%20di%20finanza.md), si applicano esclusivamente ai maggiori ed ai capitani che non hanno titolo alla frequenza del corso di polizia tributaria previsto dall'articolo 5 o che, alla data di entrata in vigore della presente legge, non frequentino o non abbiano frequentato i corsi di cui al comma 3 del presente articolo.
 
 2.
 
