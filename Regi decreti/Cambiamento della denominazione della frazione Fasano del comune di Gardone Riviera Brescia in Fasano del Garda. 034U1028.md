@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Vedute le [deliberazioni 28 aprile 1934, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1934-04-28;23), del podesta' del comune di Gardone Riviera e 11 maggio 1934, n. 18, del commissario prefettizio per l'amministrazione della provincia di Brescia; 
  
- Veduto il testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md); 
+ Veduto il testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md); 
  
  Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno; 
  

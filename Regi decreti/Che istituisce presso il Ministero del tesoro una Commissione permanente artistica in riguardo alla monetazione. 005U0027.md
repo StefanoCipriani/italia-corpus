@@ -71,7 +71,7 @@ La Commissione e' composta come appresso:
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 23 gennaio 1910, n. 47](Che%20nomina%20due%20membri%20della%20Commissione%20tecnico-artistica%20monetaria.%20010U0047.md) ha disposto (con l'articolo unico, comma 1) che "I signori cav. prof. Raffaele Luigi Giorgi, incisore presso la R. Zecca di Roma, ed insegnante nella R. scuola dell'arte della medaglia, e cav. prof. Giuseppe Romagnoli, direttore della R. scuola dell'arte della medaglia, sono nominati membri della Commissione permanente tecnico-artistica monetaria".
+Il [Regio Decreto 23 gennaio 1910, n. 47](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20nomina%20due%20membri%20della%20Commissione%20tecnico-artistica%20monetaria.%20010U0047.md) ha disposto (con l'articolo unico, comma 1) che "I signori cav. prof. Raffaele Luigi Giorgi, incisore presso la R. Zecca di Roma, ed insegnante nella R. scuola dell'arte della medaglia, e cav. prof. Giuseppe Romagnoli, direttore della R. scuola dell'arte della medaglia, sono nominati membri della Commissione permanente tecnico-artistica monetaria".
 
 ---------------
 

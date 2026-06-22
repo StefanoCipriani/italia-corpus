@@ -36,7 +36,7 @@ A partire dal 1° settembre 1883 il comune dei Corpi Santi di Pavia e' soppresso
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 26 luglio 1883, n. 1529](Col%20quale%20sono%20prorogati%20i%20termini%20stabiliti%20dal%20regio%20decreto%2021%20giugno%201883%20relativo%20allampliamento%20del%20territorio%20di%20Pavia.%20083U1529.md), ha disposto (con l'articolo unico, comma 1) che "I termini stabiliti dagli articoli 1, 2 e 5 del decreto Reale 21 giugno scorso sono rispettivamente prorogati al 1° ottobre ed al settembre prossimi".
+Il [Regio Decreto 26 luglio 1883, n. 1529](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20sono%20prorogati%20i%20termini%20stabiliti%20dal%20regio%20decreto%2021%20giugno%201883%20relativo%20allampliamento%20del%20territorio%20di%20Pavia.%20083U1529.md), ha disposto (con l'articolo unico, comma 1) che "I termini stabiliti dagli articoli 1, 2 e 5 del decreto Reale 21 giugno scorso sono rispettivamente prorogati al 1° ottobre ed al settembre prossimi".
 
 ## Art. 2.
 
@@ -46,7 +46,7 @@ A partire pure dal 1° settembre le sei zone o frazioni di San Giuseppe, Bordonc
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 26 luglio 1883, n. 1529](Col%20quale%20sono%20prorogati%20i%20termini%20stabiliti%20dal%20regio%20decreto%2021%20giugno%201883%20relativo%20allampliamento%20del%20territorio%20di%20Pavia.%20083U1529.md), ha disposto (con l'articolo unico, comma 1) che "I termini stabiliti dagli articoli 1, 2 e 5 del decreto Reale 21 giugno scorso sono rispettivamente prorogati al 1° ottobre ed al settembre prossimi".
+Il [Regio Decreto 26 luglio 1883, n. 1529](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20sono%20prorogati%20i%20termini%20stabiliti%20dal%20regio%20decreto%2021%20giugno%201883%20relativo%20allampliamento%20del%20territorio%20di%20Pavia.%20083U1529.md), ha disposto (con l'articolo unico, comma 1) che "I termini stabiliti dagli articoli 1, 2 e 5 del decreto Reale 21 giugno scorso sono rispettivamente prorogati al 1° ottobre ed al settembre prossimi".
 
 ## Art. 3.
 
@@ -74,4 +74,4 @@ Fino alla costituzione dei nuovi Consigli comunali di Pavia, di Mirabello e di F
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 26 luglio 1883, n. 1529](Col%20quale%20sono%20prorogati%20i%20termini%20stabiliti%20dal%20regio%20decreto%2021%20giugno%201883%20relativo%20allampliamento%20del%20territorio%20di%20Pavia.%20083U1529.md), ha disposto (con l'articolo unico, comma 1) che "I termini stabiliti dagli articoli 1, 2 e 5 del decreto Reale 21 giugno scorso sono rispettivamente prorogati al 1° ottobre ed al settembre prossimi".
+Il [Regio Decreto 26 luglio 1883, n. 1529](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20sono%20prorogati%20i%20termini%20stabiliti%20dal%20regio%20decreto%2021%20giugno%201883%20relativo%20allampliamento%20del%20territorio%20di%20Pavia.%20083U1529.md), ha disposto (con l'articolo unico, comma 1) che "I termini stabiliti dagli articoli 1, 2 e 5 del decreto Reale 21 giugno scorso sono rispettivamente prorogati al 1° ottobre ed al settembre prossimi".

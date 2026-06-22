@@ -44,4 +44,4 @@ UMBERTO I
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 22 settembre 1893, n. 556](Che%20sopprime%20la%20Regia%20Scuola%20tecnica%20di%20Girgenti.%20093U0556.md) ha disposto (con l'art. 1, comma 1) che "A cominciare dal 1° ottobre 1893, la R. Scuola tecnica di Grosseto e' soppressa".
+Il [Regio Decreto 22 settembre 1893, n. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20sopprime%20la%20Regia%20Scuola%20tecnica%20di%20Girgenti.%20093U0556.md) ha disposto (con l'art. 1, comma 1) che "A cominciare dal 1° ottobre 1893, la R. Scuola tecnica di Grosseto e' soppressa".

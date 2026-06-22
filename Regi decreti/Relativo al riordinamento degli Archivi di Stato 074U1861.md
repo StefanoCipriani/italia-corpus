@@ -28,7 +28,7 @@ E' istituito presso il Ministero dell'Interno un Consiglio per gli archivi compo
 
 AGGIORNAMENTO(4)
 
-Il [Regio Decreto 23 luglio 1893, n. 447](Che%20concentra%20nella%20congregazione%20di%20carita%20di%20Pennabilli%20Pesaro%20lamministrazione%20del%20legato%20Manduchi.%209300447R.md) ha disposto (con l'art. 1, comma 1) che "Il Consiglio per gli Archivi, istituito col citato R. decreto 26 marzo 1874, e' composto di dodici consiglieri effettivi, oltre il Presidente".
+Il [Regio Decreto 23 luglio 1893, n. 447](../Atti%20normativi%20abrogati%20%28in%20originale%29/Circa%20la%20composizione%20del%20Consiglio%20per%20gli%20Archivi.%20093U0447.md) ha disposto (con l'art. 1, comma 1) che "Il Consiglio per gli Archivi, istituito col citato R. decreto 26 marzo 1874, e' composto di dodici consiglieri effettivi, oltre il Presidente".
 
 ## Art. 2.
 

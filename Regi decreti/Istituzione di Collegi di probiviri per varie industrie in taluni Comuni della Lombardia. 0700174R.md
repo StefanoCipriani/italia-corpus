@@ -35,4 +35,4 @@ Il predetto Collegio sara' costituito da 10 probiviri, dei quali 5 eletti dagli 
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 26 marzo 1911, n. 347](Che%20aumenta%20il%20numero%20dei%20componenti%20il%20Collegio%20di%20probiviri%20per%20le%20industrie%20edilizie%20con%20sede%20in%20Gallarate.%20011U0347.md), ha disposto (con l'articolo unico, comma 1) che "Il numero dei componenti il Collegio di probiviri per le industrie edilizie, con sede in Gallarate, e' portato a sedici (otto industriali e otto operai) invece di dieci, come fu stabilito col R. decreto 19 aprile 1907, n. CLXXIV".
+Il [Regio Decreto 26 marzo 1911, n. 347](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20aumenta%20il%20numero%20dei%20componenti%20il%20Collegio%20di%20probiviri%20per%20le%20industrie%20edilizie%20con%20sede%20in%20Gallarate.%20011U0347.md), ha disposto (con l'articolo unico, comma 1) che "Il numero dei componenti il Collegio di probiviri per le industrie edilizie, con sede in Gallarate, e' portato a sedici (otto industriali e otto operai) invece di dieci, come fu stabilito col R. decreto 19 aprile 1907, n. CLXXIV".

@@ -162,7 +162,7 @@ In aggiunta alle diarie stabilite dal presente decreto e' ammesso soltanto il ri
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 18 dicembre 1927, n. 2799](Trattamento%20di%20missione%20del%20personale%20del%20gruppo%20A%20dellAmministrazione%20degli%20affari%20esteri.%20027U2799.md) ha disposto (con l'art. 2, comma 2) che la presente modifica avra' effetto dal 18 dicembre 1927.
+Il [Regio Decreto 18 dicembre 1927, n. 2799](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trattamento%20di%20missione%20del%20personale%20del%20gruppo%20A%20dellAmministrazione%20degli%20affari%20esteri.%20027U2799.md) ha disposto (con l'art. 2, comma 2) che la presente modifica avra' effetto dal 18 dicembre 1927.
 
 ## Art. 9.
 

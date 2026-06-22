@@ -41,4 +41,4 @@ A cominciare dal 1° ottobre 1887 e' istituita nella citta' di Mazara del Vallo 
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 3 giugno 1894, n. 262](Che%20sopprime%20la%20Regia%20scuola%20tecnica%20di%20Mazara%20del%20Vallo.%20094U0262.md) ha disposto (con l'art. 1, comma 1) che "La Regia scuola tecnica di Mazara del Vallo e' soppressa dal 1° ottobre 1894".
+Il [Regio Decreto 3 giugno 1894, n. 262](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20sopprime%20la%20Regia%20scuola%20tecnica%20di%20Mazara%20del%20Vallo.%20094U0262.md) ha disposto (con l'art. 1, comma 1) che "La Regia scuola tecnica di Mazara del Vallo e' soppressa dal 1° ottobre 1894".

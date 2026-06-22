@@ -163,7 +163,7 @@ Ad essi saranno corrisposte le indennita' militare speciale e di alloggio dovute
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), ha disposto (con l'art. 17, comma 1, lettera c)) che la presente modifica decorre dal 1° gennaio 1924.
+Il [Regio Decreto 22 maggio 1924, n. 844](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), ha disposto (con l'art. 17, comma 1, lettera c)) che la presente modifica decorre dal 1° gennaio 1924.
 
 ## Art. 9.
 
@@ -229,7 +229,7 @@ Il [Regio D.L. 26 gennaio 1933, n. 135](https://www.normattiva.it/uri-res/N2Ls?u
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 22 maggio 1924, n. 844](Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), ha disposto (con l'art. 17, comma 1, lettera c)) che la presente modifica decorre dal 1° gennaio 1924.
+Il [Regio Decreto 22 maggio 1924, n. 844](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20al%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dellamministrazione%20dello%20Stato.%20024U0844.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), ha disposto (con l'art. 17, comma 1, lettera c)) che la presente modifica decorre dal 1° gennaio 1924.
 
 ## Art. 16.
 

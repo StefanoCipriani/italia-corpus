@@ -108,28 +108,28 @@ Gli impiegati che occupano un posto non conservato nell'archivio cui appartengon
 
 AGGIORNAMENTO (2)
 
-Il [Regio Decreto 12 dicembre 1926, n. 2143](Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20026U2143.md) ha disposto (con l'art. 3, comma 2) che "Il termine stabilito al 31 dicembre 1927 per la nomina a posti inferiori prevista negli [articoli 11 del R. decreto 31 dicembre 1923, n. 3138](Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md), e 54 del [R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737), e' prorogato al 30 giugno 1929". 
+Il [Regio Decreto 12 dicembre 1926, n. 2143](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20026U2143.md) ha disposto (con l'art. 3, comma 2) che "Il termine stabilito al 31 dicembre 1927 per la nomina a posti inferiori prevista negli [articoli 11 del R. decreto 31 dicembre 1923, n. 3138](Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md), e 54 del [R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737), e' prorogato al 30 giugno 1929". 
  Ha inoltre disposto (con l'art. 9, comma 1) che il presente decreto avra' effetto dal primo del mese successivo a quello in cui sara' pubblicato nella Gazzetta Ufficiale del Regno.
 
 --------------
 
 AGGIORNAMENTO (3)
 
-Il [Regio Decreto 6 maggio 1929, n. 832](Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20029U0832.md) ha disposto (con l'art. 1, comma 2) che "Il termine per la nomina a posti inferiori prevista negli [articoli 11 del R. decreto 31 dicembre 1923, n. 3138](Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md), e 54 del [R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737), stabilito al 30 giugno 1929 dal citato [art. 3 del R. decreto 12 dicembre 1926, n. 2143](Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20026U2143.md), e' prorogato al 30 giugno 1932". 
+Il [Regio Decreto 6 maggio 1929, n. 832](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20029U0832.md) ha disposto (con l'art. 1, comma 2) che "Il termine per la nomina a posti inferiori prevista negli [articoli 11 del R. decreto 31 dicembre 1923, n. 3138](Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md), e 54 del [R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737), stabilito al 30 giugno 1929 dal citato [art. 3 del R. decreto 12 dicembre 1926, n. 2143](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20026U2143.md), e' prorogato al 30 giugno 1932". 
  Ha inoltre disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal giorno della sua pubblicazione nella Gazzetta Ufficiale.
 
 ---------------
 
 AGGIORNAMENTO (5)
 
-Il [Regio Decreto 25 aprile 1932, n. 477](Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20032U0477.md) ha disposto (con l'art. 1, comma 2) che "Il termine per la nomina a posti inferiori prevista negli [articoli 11 del R. decreto 31 dicembre 1923, n. 3138](Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md), e 54 del [R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737), stabilito al 30 giugno 1929 dal citato [art. 3 del R. decreto 12 dicembre 1926, n. 2143](Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20026U2143.md), e al 30 giugno 1932 dal citato [art. 1 del R. decreto 6 maggio 1929, n. 832](Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20029U0832.md), e' prorogato al 30 giugno 1935". 
+Il [Regio Decreto 25 aprile 1932, n. 477](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20032U0477.md) ha disposto (con l'art. 1, comma 2) che "Il termine per la nomina a posti inferiori prevista negli [articoli 11 del R. decreto 31 dicembre 1923, n. 3138](Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md), e 54 del [R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737), stabilito al 30 giugno 1929 dal citato [art. 3 del R. decreto 12 dicembre 1926, n. 2143](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20026U2143.md), e al 30 giugno 1932 dal citato [art. 1 del R. decreto 6 maggio 1929, n. 832](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20029U0832.md), e' prorogato al 30 giugno 1935". 
  Ha inoltre disposto (con l'art. 3, comma 2) che la presente modifica si applica a decorrere dal giorno della sua pubblicazione nella Gazzetta Ufficiale.
 
 ---------------
 
 AGGIORNAMENTO (6)
 
-Il [Regio Decreto 27 giugno 1935, n. 1336](Modificazioni%20allordinamento%20degli%20Archivi%20notarili.%20035U1336.md) ha disposto (con l'articolo unico, comma 2) che "Il termine per la nomina a posti inferiori preveduto negli [articoli 11 R. decreto 31 dicembre 1923, n. 3138](Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md), [...], e' prorogato al 31 dicembre 1936".
+Il [Regio Decreto 27 giugno 1935, n. 1336](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allordinamento%20degli%20Archivi%20notarili.%20035U1336.md) ha disposto (con l'articolo unico, comma 2) che "Il termine per la nomina a posti inferiori preveduto negli [articoli 11 R. decreto 31 dicembre 1923, n. 3138](Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md), [...], e' prorogato al 31 dicembre 1936".
 
 ### Art. 12.
 

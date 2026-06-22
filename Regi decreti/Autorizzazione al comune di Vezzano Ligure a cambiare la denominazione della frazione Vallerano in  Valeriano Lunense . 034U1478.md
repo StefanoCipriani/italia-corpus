@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Visto il parere espresso dal Rettorato della provincia di La Spezia con [deliberazione 17 febbraio 1934, n. 1414](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1934-02-17;1414); 
  
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md); 
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md); 
  
  Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno; 
  

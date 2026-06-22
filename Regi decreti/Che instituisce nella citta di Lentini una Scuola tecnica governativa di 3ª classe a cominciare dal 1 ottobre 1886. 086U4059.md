@@ -44,4 +44,4 @@ UMBERTO I
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 6 luglio 1893, n. 415](Che%20sopprime%20la%20R.%20Scuola%20tecnica%20di%20Lentini.%20093U0415.md) ha disposto (con l'articolo unico, comma 1) che "A cominciare dal 1° ottobre 1893 la R. Scuola tecnica di Lentini e' soppressa".
+Il [Regio Decreto 6 luglio 1893, n. 415](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20sopprime%20la%20R.%20Scuola%20tecnica%20di%20Lentini.%20093U0415.md) ha disposto (con l'articolo unico, comma 1) che "A cominciare dal 1° ottobre 1893 la R. Scuola tecnica di Lentini e' soppressa".

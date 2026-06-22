@@ -20,7 +20,7 @@ Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?
 
 Veduto il [R. decreto 15 maggio 1933, n. 491](Approvazione%20dei%20programmi%20degli%20orari%20e%20del%20raggruppamenti%20di%20materie%20delle%20Scuole%20e%20degli%20Istituti%20distruzione%20tecnica.%20033U0491.md);
 
-Veduto il [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Veduto il [R. decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Veduto l'[art. 5 del R. decreto 20 giugno 1935, n. 1070](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-06-20;1070#art_5);
 

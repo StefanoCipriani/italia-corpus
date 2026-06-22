@@ -59,7 +59,7 @@ Alle spese per l'impianto dell'officina meccanica e del laboratorio di elettrote
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 6 marzo 1913, n. 305](Approvazione%20di%20contributo%20annuo%20da%20corrispondersi%20da%20un%20Comune%20a%20scuola%20per%20operai%20montatori%20meccanici%20elettricisti.%20013U0305.md) ha disposto (con l'art. 1, comma 1) che "[...] il contributo annuo da corrispondersi dal comune di Bibbiena alla R. scuola per operai montatori meccanici elettricisti di Bibbiena e' fissato, a decorrere dal 1° gennaio 1913, a L. 2600 e in conseguenza il detto Comune e' esonerato dall'obbligo di versare alla scuola la somma di L. 17.700 di cui all'art. 3 del R. decreto 2 ottobre 1910, n. DIX".
+Il [Regio Decreto 6 marzo 1913, n. 305](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20di%20contributo%20annuo%20da%20corrispondersi%20da%20un%20Comune%20a%20scuola%20per%20operai%20montatori%20meccanici%20elettricisti.%20013U0305.md) ha disposto (con l'art. 1, comma 1) che "[...] il contributo annuo da corrispondersi dal comune di Bibbiena alla R. scuola per operai montatori meccanici elettricisti di Bibbiena e' fissato, a decorrere dal 1° gennaio 1913, a L. 2600 e in conseguenza il detto Comune e' esonerato dall'obbligo di versare alla scuola la somma di L. 17.700 di cui all'art. 3 del R. decreto 2 ottobre 1910, n. DIX".
 
 ## Art. 4.
 

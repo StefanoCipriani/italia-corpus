@@ -50,4 +50,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 30 gennaio 1941, n. 78](Soppressione%20degli%20Uffici%20di%20conciliazione%20di%20Mossano%20e%20Villaga.%20041U0078.md) ha disposto (con l'articolo unico, comma 1) che "Gli Uffici di conciliazione degli ex comuni di Mossano e Villaga sono soppressi e il relativo territorio e' sottoposto alla giurisdizione dell'Ufficio di conciliazione del comune di Barbarano Vicentino."
+Il [Regio Decreto 30 gennaio 1941, n. 78](../Atti%20normativi%20abrogati%20%28in%20originale%29/Soppressione%20degli%20Uffici%20di%20conciliazione%20di%20Mossano%20e%20Villaga.%20041U0078.md) ha disposto (con l'articolo unico, comma 1) che "Gli Uffici di conciliazione degli ex comuni di Mossano e Villaga sono soppressi e il relativo territorio e' sottoposto alla giurisdizione dell'Ufficio di conciliazione del comune di Barbarano Vicentino."

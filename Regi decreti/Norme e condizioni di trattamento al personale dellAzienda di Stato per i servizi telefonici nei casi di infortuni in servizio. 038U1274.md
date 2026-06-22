@@ -55,7 +55,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 24 ottobre 1942, n. 1381](Determinazione%20degli%20uffici%20dove%20si%20svolgono%20servizi%20meramente%20esecutivi%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici%20agli%20effetti%20dellart.%201%20del%20R.%20decreto%2016%20giugno%201938-XVI%20n.%201274.%20042U1381.md) ha disposto (con l'art. 1, comma 1) che "Agli effetti del disposto dell'art. 1 del R. decreto 16 giugno 1938-XVI, R. 1274, si intendono uffici dove si svolgono servizi meramente esecutivi dell'Azienda di Stato per i servizi telefonici i seguenti: 
+Il [Regio Decreto 24 ottobre 1942, n. 1381](../Atti%20normativi%20abrogati%20%28in%20originale%29/Determinazione%20degli%20uffici%20dove%20si%20svolgono%20servizi%20meramente%20esecutivi%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici%20agli%20effetti%20dellart.%201%20del%20R.%20decreto%2016%20giugno%201938-XVI%20n.%201274.%20042U1381.md) ha disposto (con l'art. 1, comma 1) che "Agli effetti del disposto dell'art. 1 del R. decreto 16 giugno 1938-XVI, R. 1274, si intendono uffici dove si svolgono servizi meramente esecutivi dell'Azienda di Stato per i servizi telefonici i seguenti: 
  A) Nell'Amministrazione centrale: 
  1) Magazzino stampati ed arredi presso l'Ufficio economato; 
  2) Officina centrale; 
