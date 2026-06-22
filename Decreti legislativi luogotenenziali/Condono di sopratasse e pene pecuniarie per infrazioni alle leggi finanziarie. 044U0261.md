@@ -68,7 +68,7 @@ Sono condonate le sopratasse o le pene pecuniarie stabilite dalle seguenti leggi
  
  a) [R. decreto 24 marzo 1907, n. 237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20sulla%20conservazione%20degli%20antichi%20catasti%20dei%20terreni%20e%20di%20quello%20urbano.%20007U0237.md), relativo alla conservazione degli antichi catasti; 
  
- b) [R. decreto 8 ottobre 1931, n. 1572](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20nuovo%20catasto.%20031U1572.md), relativo al nuovo catasto terreni; 
+ b) [R. decreto 8 ottobre 1931, n. 1572](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20nuovo%20catasto.%20031U1572.md), relativo al nuovo catasto terreni; 
  
  c) [R. decreto 8 dicembre 1938, n. 2153](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20conservazione%20del%20nuovo%20Catasto%20dei%20terreni.%20038U2153.md), relativo alla conservazione del nuovo catasto terreni.
 
