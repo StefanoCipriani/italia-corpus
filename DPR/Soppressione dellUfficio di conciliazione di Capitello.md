@@ -15,7 +15,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Visto il [decreto legislativo luogotenenziale 24 gennaio 1946, n. 38](../Decreti%20legislativi%20luogotenenziali/Ricostituzione%20dei%20comuni%20di%20Santa%20Marina%20e%20Ispani%20Salerno.md), con il quale venne soppresso il comune di Capitello ed il relativo territorio passo' al ricostituito comune di Ispani;
  Vista la deliberazione 4 maggio 1947 della Giunta municipale di Ispani, con la quale si chiede che l'Ufficio di conciliazione con sede nella frazione Capitello sia soppresso e che il relativo territorio sia sottoposto alla giurisdizione dell'Ufficio di conciliazione del comune di Ispani;
  Sentito il Primo presidente della Corte di appello di Potenza;
- Visti gli [articoli 20 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_20), e 1 del regolamento approvato con regio decreto 26 dicembre 1802, n. 728;
+ Visti gli [articoli 20 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e 1 del regolamento approvato con regio decreto 26 dicembre 1802, n. 728;
  Sulla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e giustizia;
 
  Decreta:

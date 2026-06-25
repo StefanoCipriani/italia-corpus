@@ -31,7 +31,7 @@ Il numero delle corti di assise, quello delle corti di assise di appello, le lor
 
 ## Art. 3.
 
-Nulla e' innovato per quanto riguarda i magistrati ed i funzionari di cancelleria addetti al Ministero di grazia e giustizia, continuando ad applicarsi, rispettivamente, la tabella N allegata all'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e la tabella A, annessa al [regio decreto 8 agosto 1942, n. 1881](../Atti%20normativi%20abrogati%20%28in%20originale%29/Determinazione%20delle%20piante%20organiche%20del%20personale%20di%20cancellerie%20e%20segreterie%20giudiziarie%20addetto%20al%20Ministero%20ed%20agli%20uffici%20giudiziari%20del%20Regno.%20042U1881.md).
+Nulla e' innovato per quanto riguarda i magistrati ed i funzionari di cancelleria addetti al Ministero di grazia e giustizia, continuando ad applicarsi, rispettivamente, la tabella N allegata all'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e la tabella A, annessa al [regio decreto 8 agosto 1942, n. 1881](../Atti%20normativi%20abrogati%20%28in%20originale%29/Determinazione%20delle%20piante%20organiche%20del%20personale%20di%20cancellerie%20e%20segreterie%20giudiziarie%20addetto%20al%20Ministero%20ed%20agli%20uffici%20giudiziari%20del%20Regno.%20042U1881.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

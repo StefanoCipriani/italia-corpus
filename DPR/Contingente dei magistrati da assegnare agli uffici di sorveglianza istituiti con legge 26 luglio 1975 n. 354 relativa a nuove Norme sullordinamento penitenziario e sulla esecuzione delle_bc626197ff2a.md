@@ -16,7 +16,7 @@ Visto l'art. 68 della citata legge che istituisce gli uffici di sorveglianza pre
 
 Visto l'art. 86 della suindicata legge che prevede entro sei mesi dall'entrata in vigore della legge la determinazione, con decreti del Presidente della Repubblica, su proposta del Ministro per la grazia e giustizia, di concerto con il Ministro per il tesoro, dei contingenti dei magistrati e dell'altro personale di cui al precedente art. 68 da assegnare a ciascun ufficio di sorveglianza nei limiti delle attuali complessive dotazioni organiche;
 
-Visto l'art. 106 dell'ordinamento giudiziario approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12) che disciplina, nei casi di mancanza o di impedimento, la supplenza dei giudici istruttori e dei giudici di sorveglianza;
+Visto l'art. 106 dell'ordinamento giudiziario approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) che disciplina, nei casi di mancanza o di impedimento, la supplenza dei giudici istruttori e dei giudici di sorveglianza;
 
 Esaminate le esigenze degli uffici e tenuto conto dell'afflusso e della distribuzione del lavoro fra i vari uffici giudiziari che si occupano della materia;
 

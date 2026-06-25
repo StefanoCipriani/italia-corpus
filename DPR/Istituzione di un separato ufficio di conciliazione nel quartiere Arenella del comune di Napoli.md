@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la deliberazione del commissario straordinario pro-tempore del comune di Napoli in data 2 aprile 1962, n. 2510, assunta con i poteri del Consiglio e superiormente approvata, con la quale si chiede che sia istituito un distinto ufficio di conciliazione con sede nel quartiere "Arenella" dello stesso Comune e competenza sul territorio della relativa sezione municipale;
  Uditi i pareri favorevoli del presidente della Corte di appello di Napoli e del procuratore generale presso la stessa Corte;
- Visti gli articoli 20 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), [1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;1)° della [legge 16 giugno 1892, n. 261](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento, approvato con [regio decreto 26 dicembre 1892, n. 725](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-12-26;725);
+ Visti gli articoli 20 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), [1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;1)° della [legge 16 giugno 1892, n. 261](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento, approvato con [regio decreto 26 dicembre 1892, n. 725](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-12-26;725);
  Sulla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e giustizia;
 
  Decreta:

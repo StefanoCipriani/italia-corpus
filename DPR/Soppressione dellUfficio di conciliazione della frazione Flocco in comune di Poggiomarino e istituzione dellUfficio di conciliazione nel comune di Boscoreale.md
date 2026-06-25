@@ -16,7 +16,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Vista la deliberazione 20 marzo 1947 del Consiglio comunale di Poggiomarino con la quale si chiede che il distinto Ufficio di conciliazione con sede nella frazione Flocco sia soppresso ed il relativo territorio sia sottoposto alla giurisdizione dell'Ufficio di conciliazione del comune di Poggiomarino;
  Vista la deliberazione in data 13 giugno 1947 del commissario prefettizio del comune di Boscoreale con la quale si chiede sia istituito un distinto Ufficio di conciliazione con sede nella frazione Marchesa e con competenza sul territorio della frazione stessa e su quello delle borgate Trentuno, Cangiani, Marra, Pellegrini, Aquini, Colombo, Andreulli, Brancacci e Sardoncelli;
  Visti i pareri favorevoli del Primo presidente della Corte d'appello di Napoli e del Procuratore generale presso la Corte stessa;
- Visti gli articoli 20 dell'ordinamento giudiziario approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), ed 1 del regolamento approvato con [regio decreto 26 dicembre 1892, n. 728](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
+ Visti gli articoli 20 dell'ordinamento giudiziario approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), ed 1 del regolamento approvato con [regio decreto 26 dicembre 1892, n. 728](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
  Sulla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e giustizia;
 
  Decreta:

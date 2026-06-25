@@ -28,7 +28,7 @@ Il Tribunale di Paola comincera' a funzionare il 1 ottobre 1965.
 
 ## Art. 2.
 
-Dal 1 ottobre 1965, per effetto della istituzione del Tribunale di Paola, alle tabelle A, B e C, allegate al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), con le varianti successive, e alla tabella. N allegata al [decreto del Presidente della Repubblica 27 giugno 1957, n. 465](Determinazione%20del%20numero%20dei%20giudici%20popolari%20delle%20Corti%20di%20assise%20e%20delle%20Corti%20di%20assise%20di%20appello.md), sono apportate le modificazioni contenute nelle annesse tabelle A, B, C e D, vistate dal Ministro per la grazia e giustizia e da quello per il tesoro.
+Dal 1 ottobre 1965, per effetto della istituzione del Tribunale di Paola, alle tabelle A, B e C, allegate al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), con le varianti successive, e alla tabella. N allegata al [decreto del Presidente della Repubblica 27 giugno 1957, n. 465](Determinazione%20del%20numero%20dei%20giudici%20popolari%20delle%20Corti%20di%20assise%20e%20delle%20Corti%20di%20assise%20di%20appello.md), sono apportate le modificazioni contenute nelle annesse tabelle A, B, C e D, vistate dal Ministro per la grazia e giustizia e da quello per il tesoro.
 
 ## Art. 3.
 

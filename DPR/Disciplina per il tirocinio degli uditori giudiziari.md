@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'art. 129 dell'ordinamento giudiziario approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12);
+Visto l'art. 129 dell'ordinamento giudiziario approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md);
 
 Visto l'[art. 48 del decreto del Presidente della Repubblica 16 settembre 1958, n. 916](Disposizioni%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%2024%20marzo%201958%20n.%20195%20concernente%20la%20costituzione%20e%20il%20funzionamento%20del%20Consiglio%20Superiore%20della%20Magistratura%20e%20disposizioni%20transitorie.md);
 

@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la deliberazione del Consiglio comunale di Bari in data 1 dicembre 1949, con la quale si chiede che sia istituito un distinto ufficio di conciliazione nelle frazioni Santo Spirito e Palese-Macchie di quel Comune, con sede nella frazione Santo Spirito e con competenza sul territorio della frazione stessa e su quello della, vicina frazione di Palese-Macchie;
  Visti i pareri favorevoli del presidente della Corte di appello di Napoli e del procuratore generale presso la stessa Corte;
- Visto l'art. 20 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e 1 del regolamento approvato con [regio decreto 26 dicembre 1892, n. 728](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
+ Visto l'art. 20 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e 1 del regolamento approvato con [regio decreto 26 dicembre 1892, n. 728](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
  Sulla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e giustizia;
 
  Decreta:

@@ -16,7 +16,7 @@ Vista la [legge 5 giugno 1967, n. 416](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Visti gli articoli 2 e 4 di detta legge, in virtu' dei quali il Governo e' stato autorizzato a determinare l'organico del personale della sezione distaccata, rivedendo le piante organiche di altri uffici giudiziari, ed a stabilire la data d'inizio del funzionamento della sezione stessa, nonche' della corte di assise di appello;
 
-Visto l'articolo 59 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12);
+Visto l'articolo 59 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md);
 
 Visto il parere espresso dal Consiglio superiore della magistratura nella seduta del 6 ottobre 1967;
 
@@ -30,7 +30,7 @@ La sezione distaccata della corte di appello di Napoli con sede in Campobasso e 
 
 ## Art. 2.
 
-Dal 1 luglio 1968, per effetto della istituzione della sezione distaccata e della corte di assise di appello, di cui allo articolo precedente, alle tabelle A, B e C, allegate al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), con le varianti successive, e alla tabella N, allegata al [decreto del Presidente della Repubblica 27 giugno 1957, n. 465](Determinazione%20del%20numero%20dei%20giudici%20popolari%20delle%20Corti%20di%20assise%20e%20delle%20Corti%20di%20assise%20di%20appello.md), con le varianti successive, sono apportate le modificazioni contenute nelle tabelle A, B, C e D annesse al presente decreto, vistate dal Ministro proponente e dal Ministro per il tesoro.
+Dal 1 luglio 1968, per effetto della istituzione della sezione distaccata e della corte di assise di appello, di cui allo articolo precedente, alle tabelle A, B e C, allegate al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), con le varianti successive, e alla tabella N, allegata al [decreto del Presidente della Repubblica 27 giugno 1957, n. 465](Determinazione%20del%20numero%20dei%20giudici%20popolari%20delle%20Corti%20di%20assise%20e%20delle%20Corti%20di%20assise%20di%20appello.md), con le varianti successive, sono apportate le modificazioni contenute nelle tabelle A, B, C e D annesse al presente decreto, vistate dal Ministro proponente e dal Ministro per il tesoro.
 
 ## Art. 3.
 

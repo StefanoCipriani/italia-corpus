@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la deliberazione in data 8 settembre 1949 del commissario prefettizio del comune di Sant'Angelo in Grotte, con la quale si chiede che sia istituito un ufficio distinto di giudice conciliatore nella frazione Bertoni dell'anzidetto Comune, con competenza sul territorio della frazione stessa e su quello delle borgate Cagnacci, Carlucci, Mucciaroni, Pagliarelle e Pizzillitti;
  Visti i pareri favorevoli del Primo presidente della Corte di appello di Napoli e del Procuratore generale presso la stessa Corte;
- Visti gli articoli 20 dell'ordinamento giudiziario approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12) e [1 del regolamento](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1941-01-30;1) approvato con regio decreto 26 dicembre 3892, n. 728;
+ Visti gli articoli 20 dell'ordinamento giudiziario approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e [1 del regolamento](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1941-01-30;1) approvato con regio decreto 26 dicembre 3892, n. 728;
  Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;
 
  Decreta:

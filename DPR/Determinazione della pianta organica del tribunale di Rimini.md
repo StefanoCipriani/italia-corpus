@@ -26,7 +26,7 @@ Il tribunale di Rimini continuera' a funzionare il 15 gennaio 1963.
 
 ## Art. 2.
 
-Dal 15 gennaio 1963, per effetto della istituzione del tribunale di Rimini, alle tabelle A, B, C, allegate al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), con le varianti successive e alla tabella N, allegata al [decreto del Presidente della Repubblica 30 agosto 1951, n. 757](Revisione%20delle%20piante%20organiche%20degli%20uffici%20giudiziari%20e%20istituzione%20delle%20sedi%20di%20corti%20di%20assise.md), sono apportate le modificazioni contenute nelle annesse tabelle A, B, C, D, vistate dal Ministro per la grazia e giustizia e da quello per il tesoro.
+Dal 15 gennaio 1963, per effetto della istituzione del tribunale di Rimini, alle tabelle A, B, C, allegate al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), con le varianti successive e alla tabella N, allegata al [decreto del Presidente della Repubblica 30 agosto 1951, n. 757](Revisione%20delle%20piante%20organiche%20degli%20uffici%20giudiziari%20e%20istituzione%20delle%20sedi%20di%20corti%20di%20assise.md), sono apportate le modificazioni contenute nelle annesse tabelle A, B, C, D, vistate dal Ministro per la grazia e giustizia e da quello per il tesoro.
 
 ## Art. 3.
 
