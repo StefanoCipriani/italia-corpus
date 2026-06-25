@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'art. 227 dell'Ordinamento giudiziario appronto con [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12);
+Visto l'art. 227 dell'Ordinamento giudiziario appronto con [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md);
 
 Visto il [R. decreto-legge 20 gennaio 1944, n. 28](Richiamo%20in%20servizio%20di%20magistrati%20di%20grado%20V%20collocati%20a%20riposo%20negli%20ultimi%20due%20anni.%20044U0028.md);
 

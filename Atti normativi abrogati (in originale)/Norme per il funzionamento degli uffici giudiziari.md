@@ -23,7 +23,7 @@ Fino al 31 dicembre 1950 sono prorogati:
 
 ## Art. 2.
 
-Oltre i casi previsti negli articoli 115 e 116 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), fino al 31 dicembre 1950, possono essere destinati, con il loro consenso, ad esercitare le funzioni di consigliere di Corte di cassazione e di sostituto procuratore generale presso la stessa Corte, consiglieri di Corte d'appello e magistrati di grado parificato, in numero non superiore a dodici per la Corte di cassazione e a tre per la Procura generale, in corrispondenza di altrettante sedi ad essi riservate.
+Oltre i casi previsti negli articoli 115 e 116 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), fino al 31 dicembre 1950, possono essere destinati, con il loro consenso, ad esercitare le funzioni di consigliere di Corte di cassazione e di sostituto procuratore generale presso la stessa Corte, consiglieri di Corte d'appello e magistrati di grado parificato, in numero non superiore a dodici per la Corte di cassazione e a tre per la Procura generale, in corrispondenza di altrettante sedi ad essi riservate.
  I magistrati da destinare alle predette funzioni sono scelti, sentiti rispettivamente il primo presidente e il procuratore generale della Corte di cassazione, tra coloro che abbiano consentito l'attuale grado per concorso.
 
 ## Art. 3.

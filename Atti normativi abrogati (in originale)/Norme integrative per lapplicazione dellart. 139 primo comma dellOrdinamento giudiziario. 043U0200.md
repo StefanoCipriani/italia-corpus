@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto l'art. 277 dell'Ordinamento giudiziario, approvato con [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12);
+Visto l'art. 277 dell'Ordinamento giudiziario, approvato con [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md);
 
 Ritenuta la necessita' di dettare norme integrative per l'applicazione dell'art. 139, primo comma, dell'Ordinamento medesimo;
 

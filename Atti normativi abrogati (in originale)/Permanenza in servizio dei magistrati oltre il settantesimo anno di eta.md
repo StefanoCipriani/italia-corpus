@@ -57,12 +57,12 @@ La mancata manifestazione del consenso di cui all'[articolo 5- bis del regio dec
 
 3.
 
-Dopo il [quarto comma dell'articolo 10 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_10-com4), e' aggiunto il seguente: 
+Dopo il [quarto comma dell'articolo 10 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e' aggiunto il seguente: 
  "Le disposizioni contenute nei commi primo, secondo e quarto si applicano in quanto compatibili con quelle di cui all'articolo 194, secondo comma. Le disposizioni contenute nel terzo comma continuano ad applicarsi, fermo il disposto dell'[articolo 5- bis del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md).".
 
 4.
 
-Dopo il [primo comma dell'articolo 194 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_194-com1), e' aggiunto il seguente: 
+Dopo il [primo comma dell'articolo 194 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e' aggiunto il seguente: 
  "La destinazione del magistrato trasferito a domanda non ha effetto fino alla immissione in possesso del magistrato destinato in sostituzione e comunque per un periodo non superiore a sei mesi a decorrere dalla pubblicazione della vacanza.".
 
 ## Art. 4.

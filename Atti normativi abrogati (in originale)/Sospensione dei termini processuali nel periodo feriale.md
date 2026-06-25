@@ -21,12 +21,12 @@ Il corso dei termini processuali, scadenti tra il 1 agosto, e il 15 settembre, e
 
 ## Art. 2.
 
-In materia penale, il precedente articolo non si applica, salvo il disposto del seguente comma, alle cause indicate nell'articolo 91 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12).
+In materia penale, il precedente articolo non si applica, salvo il disposto del seguente comma, alle cause indicate nell'articolo 91 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md).
  Quando ricorra l'urgenza preveduta nel predetto articolo 91, essa e' dichiarata dal giudice con provvedimento non impugnabile che deve essere notificato alle parti ed ai loro difensori. In tal caso, qualora il termine processuale sia scaduto tra il 1 agosto e la data di notificazione del provvedimento, o scada entro i 10 giorni dalla notifica stessa, le parti sono ammesse a compiere l'atto entro 10 giorni dall'anzidetta notifica.
 
 ## Art. 3.
 
-In materia civile, l'articolo 1 non si applica alle cause ed ai procedimenti indicati nell'articolo 92 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12).
+In materia civile, l'articolo 1 non si applica alle cause ed ai procedimenti indicati nell'articolo 92 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md).
  Nel caso di urgenza, preveduto nello stesso articolo 92, si osservano le disposizioni del comma secondo dell'articolo 2.
 
 ## Art. 4.

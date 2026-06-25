@@ -22,7 +22,7 @@ Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%
 
 Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
-Visto il [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12);
+Visto il [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -30,7 +30,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 ## Art. 1.
 
-Il magistrato incaricato delle funzioni di capo della Polizia viene collocato fuori del ruolo organico della magistratura oltre il limite previsto dall'[art. 210 del R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_210).
+Il magistrato incaricato delle funzioni di capo della Polizia viene collocato fuori del ruolo organico della magistratura oltre il limite previsto dall'[art. 210 del R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md).
 
 ## Art. 2.
 

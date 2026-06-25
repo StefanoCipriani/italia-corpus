@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Visti i pareri favorevoli del primo presidente e del procuratore generale della Corte di appello di Torino; 
  
- Visti gli [articoli 20 del R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_20), e 1 del [R. decreto 26 dicembre 1892, n. 728](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md); 
+ Visti gli [articoli 20 del R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e 1 del [R. decreto 26 dicembre 1892, n. 728](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md); 
  
  Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia; 
  

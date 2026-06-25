@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sull'Ordinamento giudiziario;
+Visto il [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), sull'Ordinamento giudiziario;
 
 Visto il [R. decreto-legge 20 gennaio 1944, n. 27](Temporanea%20istituzione%20in%20Lucera%20di%20una%20Sezione%20distaccata%20di%20Corte%20dAppello.%20044U0027.md);
 

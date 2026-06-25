@@ -26,7 +26,7 @@ Il [secondo comma dell'art. 2 della legge 24 maggio 1951, n. 392](https://www.no
 
 ## Art. 3.
 
-In deroga al [secondo comma dell'art. 7 della legge 24 maggio 1951, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-05-24;392#art_7-com2), fino al 30 giugno 1953, per essere ammessi al concorso per uditori giudiziari, fermi gli altri requisiti previsti all'[art. 124 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_124), e' necessario aver conseguito la laurea in giurisprudenza almeno un anno prima del giorno nel quale scade il termine per la presentazione della domanda di partecipazione al concorso.
+In deroga al [secondo comma dell'art. 7 della legge 24 maggio 1951, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-05-24;392#art_7-com2), fino al 30 giugno 1953, per essere ammessi al concorso per uditori giudiziari, fermi gli altri requisiti previsti all'[art. 124 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e' necessario aver conseguito la laurea in giurisprudenza almeno un anno prima del giorno nel quale scade il termine per la presentazione della domanda di partecipazione al concorso.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sull'ordinamento giudiziario;
+Visto il [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), sull'ordinamento giudiziario;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la grazia e giustizia, di concerto con il Minist
 
 ## Art. 1.
 
-Per effetto della ricostituzione della sede di tribunale nei comuni di Chiavari, Mistretta, Sala Consilina e Vallo della Lucania, e della sede di pretura nei comuni di Ceglie Messapico e di Santa Margherita di Belice, alle tabelle A, B, C e D, allegate al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), con le varianti successive, non apportate le modificazioni contenute nelle annesse tabelle A, B, C e D, vistate dal Ministro proponente e da quello per il tesoro.
+Per effetto della ricostituzione della sede di tribunale nei comuni di Chiavari, Mistretta, Sala Consilina e Vallo della Lucania, e della sede di pretura nei comuni di Ceglie Messapico e di Santa Margherita di Belice, alle tabelle A, B, C e D, allegate al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), con le varianti successive, non apportate le modificazioni contenute nelle annesse tabelle A, B, C e D, vistate dal Ministro proponente e da quello per il tesoro.
  Gli uffici suddetti cominceranno a funzionare il 1° febbraio 1947.
 
 ## Art. 2.
@@ -33,7 +33,7 @@ Gli affari civili e penali in corso al 31 gennaio 1947 presso gli uffici giudizi
 
 ## Art. 3.
 
-Dal 1 febbraio 1947, le piante organiche del personale della Magistratura, dei funzionari di cancelleria e di segreteria, degli ufficiali giudiziari e degli uscieri giudiziari risultanti dalle tabelle H ed I, allegate al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12); A, B, C, D ed E, annesse al [regio decreto 8 agosto 1942, n. 1881](Determinazione%20delle%20piante%20organiche%20del%20personale%20di%20cancellerie%20e%20segreterie%20giudiziarie%20addetto%20al%20Ministero%20ed%20agli%20uffici%20giudiziari%20del%20Regno.%20042U1881.md), e G, annessa al [regio decreto-legge 28 novembre 1933, n. 1282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-28;1282), con le rispettive successive variazioni, sono modificate - per la parte relativa agli uffici cui si riferiscono - come dalle tabelle E, F, G, H, I, L, M, ed N, allegate al presente decreto e vistate dai Ministri per la grazia e giustizia e per il tesoro.
+Dal 1 febbraio 1947, le piante organiche del personale della Magistratura, dei funzionari di cancelleria e di segreteria, degli ufficiali giudiziari e degli uscieri giudiziari risultanti dalle tabelle H ed I, allegate al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md); A, B, C, D ed E, annesse al [regio decreto 8 agosto 1942, n. 1881](Determinazione%20delle%20piante%20organiche%20del%20personale%20di%20cancellerie%20e%20segreterie%20giudiziarie%20addetto%20al%20Ministero%20ed%20agli%20uffici%20giudiziari%20del%20Regno.%20042U1881.md), e G, annessa al [regio decreto-legge 28 novembre 1933, n. 1282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-28;1282), con le rispettive successive variazioni, sono modificate - per la parte relativa agli uffici cui si riferiscono - come dalle tabelle E, F, G, H, I, L, M, ed N, allegate al presente decreto e vistate dai Ministri per la grazia e giustizia e per il tesoro.
 
 ## Art. 4.
 

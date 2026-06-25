@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sull'ordinamento giudiziario;
+Visto il [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), sull'ordinamento giudiziario;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -23,7 +23,7 @@ Sulla proposta del Ministro per la grazia e giustizia, di concerto con il Minist
 ## Art. 1.
 
 A decorrere dal 1° luglio 1947, i mandamenti di Acerra, Cicciano e Nola, conservando inalterata la loro attuale circoscrizione territoriale, sono assegnati al Tribunale di Napoli.
- Conseguentemente, alle tabelle A, B e C allegate al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), con le variazioni successive, sono apportate le modificazioni contenute nelle annesse tabelle A, B e C, vistate dal Ministro proponente e da quello per le finanze ed il tesoro.
+ Conseguentemente, alle tabelle A, B e C allegate al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), con le variazioni successive, sono apportate le modificazioni contenute nelle annesse tabelle A, B e C, vistate dal Ministro proponente e da quello per le finanze ed il tesoro.
 
 ## Art. 2.
 

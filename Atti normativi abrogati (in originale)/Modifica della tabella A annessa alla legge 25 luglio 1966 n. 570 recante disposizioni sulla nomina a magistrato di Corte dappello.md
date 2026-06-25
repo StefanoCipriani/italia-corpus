@@ -20,7 +20,7 @@ La tabella A allegata alla [legge 25 luglio 1966, n. 570](Disposizioni%20sulla%2
 
 ## Art. 2.
 
-Il [secondo comma dell'articolo 210 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_210-com2), modificato dal [secondo comma dell'articolo 2 della legge 12 agosto 1962, n. 1311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-12;1311#art_2-com2), e' sostituito dal seguente:
+Il [secondo comma dell'articolo 210 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), modificato dal [secondo comma dell'articolo 2 della legge 12 agosto 1962, n. 1311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-12;1311#art_2-com2), e' sostituito dal seguente:
  "I magistrati, collocati fuori del ruolo organico a norma della presente disposizione, non possono, in ogni caso, superare il numero di cinque".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

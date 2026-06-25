@@ -26,7 +26,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Il Consiglio superiore della magistratura, sentito il Ministro di grazia e giustizia, individua annualmente le sedi non richieste tra quelle rimaste vacanti per difetto di aspiranti dopo due succes- sive pubblicazioni disposte a norma dell'[articolo 192 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_192).
+Il Consiglio superiore della magistratura, sentito il Ministro di grazia e giustizia, individua annualmente le sedi non richieste tra quelle rimaste vacanti per difetto di aspiranti dopo due succes- sive pubblicazioni disposte a norma dell'[articolo 192 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md).
 
 2.
 

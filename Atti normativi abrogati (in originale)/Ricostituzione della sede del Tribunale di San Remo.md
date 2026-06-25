@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sull'Ordinamento giudiziario;
+Visto il [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), sull'Ordinamento giudiziario;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -29,7 +29,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 ## Art. 1.
 
 A decorrere dal 1° aprile 1946 e' ricostituita in San Remo la sede del Tribunale, con la stessa circoscrizione territoriale chic aveva all'atto della sua unificazione con il Tribunale di Imperia. 
- In conseguenza, alle tabelle A, B e D, annesse al [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sono apportate le modificazioni contenute, rispettivamente, nelle tabelle A, B e C allegate al presente decreto, viste, d'ordine Nostro, dal Ministro proponente e da quello per il tesoro.
+ In conseguenza, alle tabelle A, B e D, annesse al [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), sono apportate le modificazioni contenute, rispettivamente, nelle tabelle A, B e C allegate al presente decreto, viste, d'ordine Nostro, dal Ministro proponente e da quello per il tesoro.
 
 ## Art. 2.
 
@@ -37,7 +37,7 @@ Gli affari civili e penali pendenti davanti al Tribunale di Imperia alla data ne
 
 ## Art. 3.
 
-Dalla stessa data di cui all'art. 1, le piante organiche del personale della Magistratura, dei funzionari di Cancelleria e di Segreteria, degli ufficiali giudiziari e degli uscieri giudiziari risultanti dalle tabelle H ed I, allegate al [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12); C, annessa al [Regio decreto 8 agosto 1942, n. 1881](Determinazione%20delle%20piante%20organiche%20del%20personale%20di%20cancellerie%20e%20segreterie%20giudiziarie%20addetto%20al%20Ministero%20ed%20agli%20uffici%20giudiziari%20del%20Regno.%20042U1881.md), e G, annessa al [R. decreto-legge 28 settembre 1933, n. 1282](Modificazioni%20alla%20circoscrizione%20giudiziaria%20e%20alle%20piante%20organiche%20del%20personale%20degli%20uffici%20giudiziari%20del%20Regno.%20033U1282.md) - per la parte relativa agli uffici cui si riferiscono - sono modificate come dalle tabelle D, E, F e G unite al presente decreto e vistate, d'ordine Nostro, dai Ministri per la grazia e giustizia e per il tesoro.
+Dalla stessa data di cui all'art. 1, le piante organiche del personale della Magistratura, dei funzionari di Cancelleria e di Segreteria, degli ufficiali giudiziari e degli uscieri giudiziari risultanti dalle tabelle H ed I, allegate al [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md); C, annessa al [Regio decreto 8 agosto 1942, n. 1881](Determinazione%20delle%20piante%20organiche%20del%20personale%20di%20cancellerie%20e%20segreterie%20giudiziarie%20addetto%20al%20Ministero%20ed%20agli%20uffici%20giudiziari%20del%20Regno.%20042U1881.md), e G, annessa al [R. decreto-legge 28 settembre 1933, n. 1282](Modificazioni%20alla%20circoscrizione%20giudiziaria%20e%20alle%20piante%20organiche%20del%20personale%20degli%20uffici%20giudiziari%20del%20Regno.%20033U1282.md) - per la parte relativa agli uffici cui si riferiscono - sono modificate come dalle tabelle D, E, F e G unite al presente decreto e vistate, d'ordine Nostro, dai Ministri per la grazia e giustizia e per il tesoro.
 
 ## Art. 4.
 

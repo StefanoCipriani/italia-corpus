@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-La facolta', concessa al Ministro per la grazia e giustizia nei modi di cui all'[articolo 127 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_127), e successive modificazioni, e estesa fino ad esaurimento della graduatoria degli idonei al concorso per esami a 200 posti di uditore giudiziario indetto con decreto ministeriale 30 novembre 1966.
+La facolta', concessa al Ministro per la grazia e giustizia nei modi di cui all'[articolo 127 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e successive modificazioni, e estesa fino ad esaurimento della graduatoria degli idonei al concorso per esami a 200 posti di uditore giudiziario indetto con decreto ministeriale 30 novembre 1966.
  Entro sei mesi dall'entrata in vigore della presente legge, si provvede alla nomina degli idonei, assegnando ad essi, secondo l'ordine della graduatoria, i posti vacanti o, in mancanza, quelli che si rendano disponibili nel predetto termine.
  All'onere derivante dall'applicazione della presente legge si provvede a carico delle normali dotazioni dei competenti capitoli dello stato di previsione della spesa del Ministero di grazia e giustizia.
 

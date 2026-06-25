@@ -14,7 +14,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
  Vista, la dichiarazione 28 marzo 1946 della Giunta comunale di Genova, con la quale si chiede che i cinque uffici di conciliazione di Genova Centro, restando immutata la giurisdizione territoriale attualmente attribuita agli uffici stessi, siano riuniti in un unico ufficio;
  Visti i pareri favorevoli del primo presidente e del procuratore generale della Corte di appello di Genova;
- Visti gli [articoli 20 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_20), e 1 del [regio decreto 26 dicembre 1892, n. 728](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
+ Visti gli [articoli 20 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e 1 del [regio decreto 26 dicembre 1892, n. 728](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
  Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;
 
  Decreta:

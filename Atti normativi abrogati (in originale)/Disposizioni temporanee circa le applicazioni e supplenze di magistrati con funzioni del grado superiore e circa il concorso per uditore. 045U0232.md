@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sull'Ordinamento giudiziario;
+Visto il [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), sull'Ordinamento giudiziario;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -28,7 +28,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 I magistrati, compresi in elenchi di promovibili a seguito di scrutinio o risultati idonei alla promozione a seguito di concorso, possono essere destinati, anche senza loro consenso, ad esercitare temporaneamente le funzioni del grado superiore nelle Corti di appello, nei Tribunali, nelle Procure generali presso le Corti di appello e nelle Procure presso i Tribunali, sia per ricoprirvi posti vacanti del grado superiore sia, indipendentemente dalla esistenza di tali vacanze, per provvedere alla sostituzione di magistrati comunque assenti o impediti. 
  
- Le dette applicazioni, che possono essere fatte anche oltre il limite numerico fissato nel 2° comma dell'art. 114 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sono disposte tenendo presenti, per quanto possibile, le quote stabilite per ciascuna categoria di promovibili e le altre norme sulla precedenza nelle promozioni. 
+ Le dette applicazioni, che possono essere fatte anche oltre il limite numerico fissato nel 2° comma dell'art. 114 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), sono disposte tenendo presenti, per quanto possibile, le quote stabilite per ciascuna categoria di promovibili e le altre norme sulla precedenza nelle promozioni. 
  
  I magistrati applicati conseguono la promozione al loro turno normale.
 
@@ -40,7 +40,7 @@ Qualora sorga la improvvisa ed urgente necessita' di sostituire magistrati manca
 
 ## Art. 3.
 
-E' data facolta' al Ministro per la grazia e giustizia di stabilire che le prove scritte del concorso per uditore previsto dall'art. 123 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), si svolgano anche in determinate sedi di Corte d'appello diverse dalla capitale, con l'osservanza delle modalita' che saranno fissate nel bando di concorso.
+E' data facolta' al Ministro per la grazia e giustizia di stabilire che le prove scritte del concorso per uditore previsto dall'art. 123 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), si svolgano anche in determinate sedi di Corte d'appello diverse dalla capitale, con l'osservanza delle modalita' che saranno fissate nel bando di concorso.
 
 ## Art. 4.
 

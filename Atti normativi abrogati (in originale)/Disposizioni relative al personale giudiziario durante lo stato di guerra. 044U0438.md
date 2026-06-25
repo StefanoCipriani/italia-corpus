@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sull'Ordinamento giudiziario;
+Visto il [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), sull'Ordinamento giudiziario;
 
 Visto il [R. decreto-legge 8 maggio 1924, n. 745](Ordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20024U0745.md), sull'Ordinamento del personale delle cancellerie e segreterie giudiziarie;
 
@@ -60,7 +60,7 @@ Ai posti occupati dal personale distaccato presso altre Amministrazioni od Enti 
  
  Per i magistrati tale applicazione puo' essere disposta anche con funzioni diverse, e dalle preture agli uffici collegiali e del pubblico ministero, o viceversa. 
  
- Per i magistrati aventi i requisiti richiesti dagli [articoli 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_114), [115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_115) e [116 del R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_116), l'applicazione di cui al comma precedente, puo' essere disposta anche con le funzioni del grado superiore, ed oltre i limiti numerici in tali articoli previsti. 
+ Per i magistrati aventi i requisiti richiesti dagli [articoli 114](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), [115](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e [116 del R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), l'applicazione di cui al comma precedente, puo' essere disposta anche con le funzioni del grado superiore, ed oltre i limiti numerici in tali articoli previsti. 
  
  L'applicazione di cui al secondo e terzo comma del presente articolo non comporta, comunque, maggiorazione del trattamento economico annesso al grado organicamente rivestito dai magistrati. 
  
@@ -74,7 +74,7 @@ Promozioni a giudice o a pretore con riserva di anzianita'.
  
  Qualora, in dipendenza delle circostanze di cui all'art. 1, non sia possibile ottenere tempestivamente per tutti i promovendi il parere dei competenti Consigli giudiziari, puo' procedersi alla promozione dei soli aggiunti per i quali sia pervenuto il parere. 
  
- Le promozioni di cui al precedente comma sono conferite con riserva di anzianita', fermo il disposto dell'art. 139 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), per quanto applicabile. 
+ Le promozioni di cui al precedente comma sono conferite con riserva di anzianita', fermo il disposto dell'art. 139 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), per quanto applicabile. 
  
  La riserva di anzianita' verra' sciolta quando si sara' potuto deliberare sulla promozione di tutti gli aggiunti provenienti da un medesimo esame.
 
@@ -82,7 +82,7 @@ Promozioni a giudice o a pretore con riserva di anzianita'.
 
 Promozione a giudice o pretore - Applicabilita' dell'articolo 156 capoverso dell'Ordinamento giudiziario. 
  
- Si applica il capoverso dell'[art. 156 R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_156), per la promozione al grado 8° degli aggiunti giudiziari che si trovano nelle condizioni previste in detto capoverso.
+ Si applica il capoverso dell'[art. 156 R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), per la promozione al grado 8° degli aggiunti giudiziari che si trovano nelle condizioni previste in detto capoverso.
 
 ## Art. 8.
 
@@ -100,7 +100,7 @@ Promozioni di magistrati ai gradi 5° e 4° con riserva di anzianita'.
 
 ## Art. 9. — Efficacia, ai fini dell'ammissione a concorsi o scrutini, del servizio prestato in determinati uffici durante l'attuale stato di guerra.
 
-Il servizio prestato dai magistrati, durante l'attuale stato di guerra e fino a sei mesi dopo la sua cessazione, presso uffici diversi da quelli giudiziari, e' parificato, ai fini dell'art. 200 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), ad effettivo ed ininterrotto servizio prestate presso uffici giudiziari. 
+Il servizio prestato dai magistrati, durante l'attuale stato di guerra e fino a sei mesi dopo la sua cessazione, presso uffici diversi da quelli giudiziari, e' parificato, ai fini dell'art. 200 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), ad effettivo ed ininterrotto servizio prestate presso uffici giudiziari. 
  
  La disposizione di cui al precedente comma si applica anche ai funzionari delle cancellerie e segreterie giudiziarie, ai fini di cui all'art. 8 comma ultimo, del [R. decreto 5 novembre 1931, n. 1444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-11-05;1444).
 

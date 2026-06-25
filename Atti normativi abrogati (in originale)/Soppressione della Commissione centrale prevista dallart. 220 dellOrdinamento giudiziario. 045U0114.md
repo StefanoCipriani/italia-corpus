@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sull'Ordinamento giudiziario;
+Visto il [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), sull'Ordinamento giudiziario;
 
 Visto il [R. decreto-legge 20 gennaio 1944, n. 29](Temporanea%20modifica%20agli%20articoli%20220%20e%20224%20dellordinamento%20giudiziario.%20044U0029.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 ## Art. 1.
 
-Oltre alle attribuzioni gia' ad esso spettanti, sono deferite al Consiglio superiore della magistratura anche quelle relative ai tramutamenti di ufficio, alle dispense dal servizio ed ai collocamenti di ufficio in aspettativa dei magistrati, gia' di competenza della Commissione centrale presso il Ministero di grazia e giustizia prevista dall'art. 220 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12). 
+Oltre alle attribuzioni gia' ad esso spettanti, sono deferite al Consiglio superiore della magistratura anche quelle relative ai tramutamenti di ufficio, alle dispense dal servizio ed ai collocamenti di ufficio in aspettativa dei magistrati, gia' di competenza della Commissione centrale presso il Ministero di grazia e giustizia prevista dall'art. 220 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md). 
  
  La suddetta Commissione centrale e' soppressa.
 

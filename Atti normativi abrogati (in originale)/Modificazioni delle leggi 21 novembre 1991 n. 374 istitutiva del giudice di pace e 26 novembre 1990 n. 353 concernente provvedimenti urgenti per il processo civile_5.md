@@ -188,7 +188,7 @@ In deroga a quanto previsto dall'[articolo 43 del decreto legislativo 3 febbraio
 
 1.
 
-L'elencazione dei comuni, sul cui territorio hanno giurisdizione il tribunale ordinario e la pretura di Nola, contenuta nell'[articolo 1, comma 2, della legge 11 febbraio 1992, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-11;125#art_1-com2), deve intendersi comprensiva del comune di Massa di Somma gia' frazione del comune di Cercola. Il Ministro di grazia e giustizia e' autorizzato ad apportare le conseguenti variazioni alle tabelle A e B annesse al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), come sostituite dalle tabelle A e B annesse alla [legge 1 febbraio 1989, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-01;30).
+L'elencazione dei comuni, sul cui territorio hanno giurisdizione il tribunale ordinario e la pretura di Nola, contenuta nell'[articolo 1, comma 2, della legge 11 febbraio 1992, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-11;125#art_1-com2), deve intendersi comprensiva del comune di Massa di Somma gia' frazione del comune di Cercola. Il Ministro di grazia e giustizia e' autorizzato ad apportare le conseguenti variazioni alle tabelle A e B annesse al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), come sostituite dalle tabelle A e B annesse alla [legge 1 febbraio 1989, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-01;30).
 
 2.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sull'ordinamento giudiziario;
+Visto il [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), sull'ordinamento giudiziario;
 
 Visto il [regio decreto-legge 10 maggio 1943, n. 360](Funzionamento%20della%20giustizia%20in%20localita%20minacciate%20da%20eventi%20bellici.%20043U0360.md);
 

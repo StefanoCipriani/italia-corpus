@@ -14,7 +14,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
  Vista la deliberazione 31 ottobre 1945 del commissario prefettizio del comune di Catania, con la quale si chiede che gli otto uffici di conciliazione ivi esistenti siano riuniti in unico ufficio con giurisdizione su tutto il territorio del Comune medesimo;
  Visti i pareri favorevoli del primo presidente e del procuratore generale della Corte di appello di Catania;
- Visti gli [articoli 20 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_20) e [1 del regio decreto 25 dicembre 1892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-12-25;1), [n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-12-25;728) Sulla proposta dei Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;
+ Visti gli [articoli 20 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e [1 del regio decreto 25 dicembre 1892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-12-25;1), [n. 728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-12-25;728) Sulla proposta dei Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;
 
  Decreta:
 

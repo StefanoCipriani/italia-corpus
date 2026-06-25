@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Nei casi previsti dagli articoli 220 e 224 dell'ordinamento giudiziario approvato con [R.D. 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e' sostitituita la deliberazione del Consiglio dei Ministri al parere della Commissione centrale costituita a norma dell'art. 220. 
+Nei casi previsti dagli articoli 220 e 224 dell'ordinamento giudiziario approvato con [R.D. 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e' sostitituita la deliberazione del Consiglio dei Ministri al parere della Commissione centrale costituita a norma dell'art. 220. 
  
  Tale modificazione avra' vigore sino al momento in cui sara' possibile provvedere al regolare funzionamento della predetta Commissione Centrale.
 

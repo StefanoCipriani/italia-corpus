@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12);
+Visto il [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md);
 
 Visto il [R. decreto-legge 10 maggio 1943, n. 360](Funzionamento%20della%20giustizia%20in%20localita%20minacciate%20da%20eventi%20bellici.%20043U0360.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la Gra
 
 ## Art. 1.
 
-Il Ministro per la Grazia e Giustizia anche prima del compimento del centottantesimo giorno dalla cessazione dello stato di guerra e' autorizzato a disporre con proprio decreto, d'intesa con i Ministri per l'Interno e per le Finanze, il ritorno nelle sedi stabilite dalla tabella annessa all'Ordinamento Giudiziario approvato con il [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), degli uffici giudiziari che sono stati spostati per effetto del [R. decreto-legge 10 maggio 1943, n. 360](Funzionamento%20della%20giustizia%20in%20localita%20minacciate%20da%20eventi%20bellici.%20043U0360.md);
+Il Ministro per la Grazia e Giustizia anche prima del compimento del centottantesimo giorno dalla cessazione dello stato di guerra e' autorizzato a disporre con proprio decreto, d'intesa con i Ministri per l'Interno e per le Finanze, il ritorno nelle sedi stabilite dalla tabella annessa all'Ordinamento Giudiziario approvato con il [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), degli uffici giudiziari che sono stati spostati per effetto del [R. decreto-legge 10 maggio 1943, n. 360](Funzionamento%20della%20giustizia%20in%20localita%20minacciate%20da%20eventi%20bellici.%20043U0360.md);
 
 ## Art. 2.
 

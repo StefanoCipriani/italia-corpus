@@ -18,7 +18,7 @@ Sulla proposta del Ministro Guardasigilli, Segretario di Stato per la grazia e g
 
 ## Articolo unico.
 
-Il numero delle Corti di assise, la sede e la circoscrizione di ciascuna di esse sono quelli risultanti dall'allegato D del [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e dalle successive modificazioni.
+Il numero delle Corti di assise, la sede e la circoscrizione di ciascuna di esse sono quelli risultanti dall'allegato D del [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e dalle successive modificazioni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

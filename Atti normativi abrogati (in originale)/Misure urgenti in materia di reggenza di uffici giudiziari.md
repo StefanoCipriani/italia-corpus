@@ -24,7 +24,7 @@ Emana il seguente decreto-legge:
 
 1.
 
-In deroga agli articoli 104, 108 e 109 dell'ordinamento giudiziario approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e successive modificazioni, in caso di mancanza del titolare, i magistrati di cui all'[articolo 5, comma 3, della legge 30 luglio 2007, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-07-30;111#art_5-com3), in servizio presso lo stesso ufficio, reggono il tribunale, la corte di appello, le sezioni di tribunale o quelle di corte di appello, ovvero la procura generale della Repubblica o la procura della Repubblica, per il periodo massimo di sei mesi, a decorrere dalla data di entrata in vigore del presente decreto.
+In deroga agli articoli 104, 108 e 109 dell'ordinamento giudiziario approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e successive modificazioni, in caso di mancanza del titolare, i magistrati di cui all'[articolo 5, comma 3, della legge 30 luglio 2007, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-07-30;111#art_5-com3), in servizio presso lo stesso ufficio, reggono il tribunale, la corte di appello, le sezioni di tribunale o quelle di corte di appello, ovvero la procura generale della Repubblica o la procura della Repubblica, per il periodo massimo di sei mesi, a decorrere dalla data di entrata in vigore del presente decreto.
 
 ## Art. 2. — Entrata in vigore
 

@@ -17,7 +17,7 @@ UMBERTO DI SAVOIA
  In virtu' dell'autorita' a Noi delegata;
  Vista' la deliberazione 30 gennaio 1945 della Giunta municipale di Maddaloni, con la quale si chiede che i due uffici di conciliazione ivi esistenti siano riuniti in unico ufficio con giurisdizione su tutto il territorio del Comune medesimo;
  Visti pareri favorevoli del Primo presidente e del Procuratore generale della Corte di appello di Napoli;
- Visti gli [articoli 20 del R. decreto 30 gennaio 1941, nn. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_20), e 1 del [R. decreto 26 dicembre 1892, n. 728](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
+ Visti gli [articoli 20 del R. decreto 30 gennaio 1941, nn. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e 1 del [R. decreto 26 dicembre 1892, n. 728](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
  Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
  Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;
  Abbiamo decretato e decretiamo:

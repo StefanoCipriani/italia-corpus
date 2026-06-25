@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sull'Ordinamento giudiziario;
+Visto il [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), sull'Ordinamento giudiziario;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -26,11 +26,11 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 ## Art. 1. — Temporanea abolizione della prova orale nel concorso per la Cassazione.
 
-Nei concorsi per la promozione a consigliere di Corte di cassazione e gradi parificati, sia in quelli che sono in via di espletamento, sia in quelli che saranno indetti a norma del presente decreto, e' temporaneamente soppressa la discussione orale prescritta dall'art. 183 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12).
+Nei concorsi per la promozione a consigliere di Corte di cassazione e gradi parificati, sia in quelli che sono in via di espletamento, sia in quelli che saranno indetti a norma del presente decreto, e' temporaneamente soppressa la discussione orale prescritta dall'art. 183 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md).
 
 ## Art. 2. — Attribuzione delle vacanze impreviste.
 
-Nelle promozioni in Corte d'appello e in Corte di cassazione, la eventuale maggiore disponibilita' di posti che si verifichi durante l'anno, e' attribuita, in deroga al disposto degli articoli 147, secondo comma, e 178, primo comma, dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), per cinque decimi ai magistrati compresi nella graduatoria del concorso e per cinque decimi a quelli promovibili a seguito di scrutinio. 
+Nelle promozioni in Corte d'appello e in Corte di cassazione, la eventuale maggiore disponibilita' di posti che si verifichi durante l'anno, e' attribuita, in deroga al disposto degli articoli 147, secondo comma, e 178, primo comma, dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), per cinque decimi ai magistrati compresi nella graduatoria del concorso e per cinque decimi a quelli promovibili a seguito di scrutinio. 
  
  Nelle promozioni in Corte d'appello, i cinque decimi, devoluti in virtu' del precedente comma ai magistrati promovibili per scrutinio, sono attribuiti per quattro decimi ai promovibili per merito distinto e un decimo ai promovibili per merito. 
  

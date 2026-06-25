@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sull'ordinamento giudiziario;
+Visto il [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), sull'ordinamento giudiziario;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per la grazia e giustizia, di concerto con il Minist
 
 Presso le Corti di appello di Roma e di Torino e' istituita una nuova sezione in funzione di Corte di assise con sede di normale convocazione, rispettivamente, in Roma ed in Aosta.
  In conseguenza la circoscrizione territoriale delle sezioni di Corte di appello in funzione di Corte di assise per i distretti di Roma e di Torino, e' determinata dall'annessa tabella, vistata dal Ministro proponente e da quello per le finanze e il tesoro.
- La predetta tabella - per la parte relativa ai distretti suindicati - sostituisce la tabella D, allegata al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), con le varianti successive.
+ La predetta tabella - per la parte relativa ai distretti suindicati - sostituisce la tabella D, allegata al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), con le varianti successive.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

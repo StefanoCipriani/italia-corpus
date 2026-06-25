@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sull'Ordinamento giudiziario;
+Visto il [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), sull'Ordinamento giudiziario;
 
 Visto il [decreto legislativo Luogotenenziale 3 maggio 1945, n. 232](Disposizioni%20temporanee%20circa%20le%20applicazioni%20e%20supplenze%20di%20magistrati%20con%20funzioni%20del%20grado%20superiore%20e%20circa%20il%20concorso%20per%20uditore.%20045U0232.md);
 

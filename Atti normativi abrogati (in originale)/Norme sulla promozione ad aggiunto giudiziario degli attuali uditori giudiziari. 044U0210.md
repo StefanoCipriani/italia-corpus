@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita', a Noi delegata;
 
-Visto l'ordinamento giudiziario approvato con [Regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12);
+Visto l'ordinamento giudiziario approvato con [Regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per la grazia e giustizia, d'intesa col Ministro per
 
 ## Art. 1.
 
-In deroga al disposto dell'art. 132 dell'ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e per la durata dell'attuale stato di guerra, gli uditori giudiziari che non abbiano sostenuto le prove di esame scritte ed orali, di cui all'art. 138 di detto Regio decreto, saranno promossi al grado di aggiunto giudiziario, con effetto dalla data del compimento del biennio dalla nomina, in base a dichiarazione di idoneita' emessa dal Consiglio giudiziario presso la Corte di appello. 
+In deroga al disposto dell'art. 132 dell'ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e per la durata dell'attuale stato di guerra, gli uditori giudiziari che non abbiano sostenuto le prove di esame scritte ed orali, di cui all'art. 138 di detto Regio decreto, saranno promossi al grado di aggiunto giudiziario, con effetto dalla data del compimento del biennio dalla nomina, in base a dichiarazione di idoneita' emessa dal Consiglio giudiziario presso la Corte di appello. 
  
  Restano ferme le disposizioni dell'art. 136 del citato decreto; ma nel computo dei quattro anni dalla nomina, agli effetti ivi considerati, non si tiene conto del tempo trascorso in servizio militare.
 
@@ -46,7 +46,7 @@ L'Uditore dichiarato non idoneo dal Consiglio giudiziario potra', entro il temin
 
 ## Art. 4.
 
-La dichiarazione di non idoneita' al grado superiore emessa a norma dell'articolo precedente e' produttiva di tutti gli effetti di cui all'art. 136 del citato [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12). 
+La dichiarazione di non idoneita' al grado superiore emessa a norma dell'articolo precedente e' produttiva di tutti gli effetti di cui all'art. 136 del citato [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md). 
  
  Gli uditori dichiarati idonei, anche se in servizio militare, sono promossi secondo l'ordine della loro iscrizione nella graduatoria degli esami di concorso ad uditore giudiziario.
 

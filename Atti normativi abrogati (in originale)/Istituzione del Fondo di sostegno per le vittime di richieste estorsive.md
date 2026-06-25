@@ -246,17 +246,17 @@ Quando si tratta di raccolte di oggetti senza apprezzabile valore, il prefetto, 
 
 1.
 
-Al [comma 1 dell'articolo 70 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_70-com1), come sostituito dall'[articolo 20 del decreto del Presidente della Repubblica 22 settembre 1988, n. 449](../DPR/Approvazione%20delle%20norme%20per%20ladeguamento%20dellordinamento%20giudiziario%20al%20nuovo%20processo%20penale%20ed%20a%20quello%20a%20carico%20degli%20imputati%20minorenni.md), e' aggiunto, in fine, il seguente periodo: 
+Al [comma 1 dell'articolo 70 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), come sostituito dall'[articolo 20 del decreto del Presidente della Repubblica 22 settembre 1988, n. 449](../DPR/Approvazione%20delle%20norme%20per%20ladeguamento%20dellordinamento%20giudiziario%20al%20nuovo%20processo%20penale%20ed%20a%20quello%20a%20carico%20degli%20imputati%20minorenni.md), e' aggiunto, in fine, il seguente periodo: 
  "Spettano al pubblico ministero presso la pretura le funzioni attribuite dalla legge al pubblico ministero nella materia civile trattata dal pretore. Restano ferme le disposizioni di cui al [regio decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md), per quanto concerne le attribuzioni del pretore nella materia dello stato civile.".
 
 2.
 
-Al [comma 1 dell'articolo 72 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_72-com1), come modificato dall'[articolo 1 del decreto legislativo 2 febbraio 1990, n. 15](../Decreti%20Legislativi/Modificazioni%20agli%20articoli%2071%20e%2072%20del%20regio%20decreto%2030%20gennaio%201941%20n.%2012%20come%20sostituiti%20rispettivamente%20dagli%20articoli%2021%20e%2022%20del%20decreto%20del%20Presidente%20della%20Repubblica%2022%20settembre_797cb8c4dcac.md), e' aggiunto, in fine, il seguente periodo: 
+Al [comma 1 dell'articolo 72 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), come modificato dall'[articolo 1 del decreto legislativo 2 febbraio 1990, n. 15](../Decreti%20Legislativi/Modificazioni%20agli%20articoli%2071%20e%2072%20del%20regio%20decreto%2030%20gennaio%201941%20n.%2012%20come%20sostituiti%20rispettivamente%20dagli%20articoli%2021%20e%2022%20del%20decreto%20del%20Presidente%20della%20Repubblica%2022%20settembre_797cb8c4dcac.md), e' aggiunto, in fine, il seguente periodo: 
  "Il procuratore della Repubblica presso la pretura puo' altresi' delegare nominativamente uditori giudiziari e vice procuratori onorari allo svolgimento delle funzioni nella materia civile.".
 
 3.
 
-All'[articolo 34 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_34), come sostituito dall'[articolo 6 del decreto del Presidente della Repubblica 22 settembre 1988, n. 449](../DPR/Approvazione%20delle%20norme%20per%20ladeguamento%20dellordinamento%20giudiziario%20al%20nuovo%20processo%20penale%20ed%20a%20quello%20a%20carico%20degli%20imputati%20minorenni.md), dopo il comma 2 e' aggiunto il seguente: 
+All'[articolo 34 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), come sostituito dall'[articolo 6 del decreto del Presidente della Repubblica 22 settembre 1988, n. 449](../DPR/Approvazione%20delle%20norme%20per%20ladeguamento%20dellordinamento%20giudiziario%20al%20nuovo%20processo%20penale%20ed%20a%20quello%20a%20carico%20degli%20imputati%20minorenni.md), dopo il comma 2 e' aggiunto il seguente: 
  "2- bis. Il pretore puo' delegare nominativamente vice pretori onorari allo svolgimento delle funzioni nella materia dello stato civile.".
 
 4.
